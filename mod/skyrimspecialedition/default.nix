@@ -144,6 +144,6 @@ in
 categories // {
   by-mod-id = extractModsById categories;
   nixutils = {
-    newsky_skyrim_mod_unpacker = pkgs.callPackage ./mod/skyrimspecialedition/nixutils/newsky_skyrim_mod_unpacker.nix {};
+    newsky_skyrim_mod_unpacker = pkgs.callPackage ./nixutils/newsky_skyrim_mod_unpacker.nix {};
   };
 }
