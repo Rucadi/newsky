@@ -1,4 +1,4 @@
-{ newsky_nexus_fetcher, pkgs }:
+{ newsky_nexus_fetcher, pkgs}@attrs:
 
 let
   # ------------------------------------------------------------
@@ -104,36 +104,46 @@ let
 
 
   # ------------------------------------------------------------
+  # Extract all mods by ID
+  # ------------------------------------------------------------
+
+  extractModsById = categories:
+    let
+      # Get all mod attribute sets from all categories
+      categoryValues = builtins.attrValues categories;
+      
+      # Collect all mods and filter for ID-based keys only
+      allModsByIdOnly = builtins.foldl' (acc: category:
+        let
+          modAttrs = builtins.attrNames category;
+          # Only keep attributes that are numeric IDs
+          idAttrs = builtins.filter 
+            (name: builtins.match "^[0-9]+$" name != null) 
+            modAttrs;
+          # Create attrset with only ID-based entries
+          idMods = builtins.listToAttrs 
+            (map (id: { name = id; value = category.${id}; }) idAttrs);
+        in
+          acc // idMods
+      ) {} categoryValues;
+    in
+      allModsByIdOnly;
+
+
+  # ------------------------------------------------------------
   # Entry point
   # ------------------------------------------------------------
 
   categoriesDir = ./categories;
 
-  parsedCategories =
-    mergeAll
-      (builtins.filter (x: x != null)
-        (map (parseCategory categoriesDir) (listDirs categoriesDir)));
-
-  # ------------------------------------------------------------
-  # Flatten all mods by numeric mod ID
-  # ------------------------------------------------------------
-
-  byModId =
-    mergeAll
-      (mapAttrs (_: mods: 
-        mergeAll
-          (mapAttrs (_: mod:
-            let
-              ids = builtins.filter (k: builtins.match "^[0-9]+$" k != null) (builtins.attrNames mod);
-            in
-              mergeAll (map (id: { "${id}" = mod.${id}; }) ids)
-          ) mods)
-      ) parsedCategories);
-
+  categories = mergeAll
+    (builtins.filter (x: x != null)
+      (map (parseCategory categoriesDir) (listDirs categoriesDir)));
+  
 in
-parsedCategories // {
+categories // {
+  by-mod-id = extractModsById categories;
   nixutils = {
-      newsky_skyrim_mod_unpacker = pkgs.callPackage ./mod/skyrimspecialedition/nixutils/newsky_skyrim_mod_unpacker.nix {};
+    newsky_skyrim_mod_unpacker = pkgs.callPackage ./mod/skyrimspecialedition/nixutils/newsky_skyrim_mod_unpacker.nix {};
   };
-  by-mod-id = byModId;
 }
