@@ -1,4 +1,4 @@
-{ newsky_nexus_fetcher, pkgs}@attrs:
+{ newsky_nexus_fetcher, pkgs }:
 
 let
   # ------------------------------------------------------------
@@ -109,13 +109,31 @@ let
 
   categoriesDir = ./categories;
 
-  
+  parsedCategories =
+    mergeAll
+      (builtins.filter (x: x != null)
+        (map (parseCategory categoriesDir) (listDirs categoriesDir)));
+
+  # ------------------------------------------------------------
+  # Flatten all mods by numeric mod ID
+  # ------------------------------------------------------------
+
+  byModId =
+    mergeAll
+      (mapAttrs (_: mods: 
+        mergeAll
+          (mapAttrs (_: mod:
+            let
+              ids = builtins.filter (k: builtins.match "^[0-9]+$" k != null) (builtins.attrNames mod);
+            in
+              mergeAll (map (id: { "${id}" = mod.${id}; }) ids)
+          ) mods)
+      ) parsedCategories);
+
 in
-(mergeAll
-  (builtins.filter (x: x != null)
-    (map (parseCategory categoriesDir) (listDirs categoriesDir))))
-    // {
-      nixutils = {
-          newsky_skyrim_mod_unpacker = pkgs.callPackage ./mod/skyrimspecialedition/nixutils/newsky_skyrim_mod_unpacker.nix {};
-      };
-    }
+parsedCategories // {
+  nixutils = {
+      newsky_skyrim_mod_unpacker = pkgs.callPackage ./mod/skyrimspecialedition/nixutils/newsky_skyrim_mod_unpacker.nix {};
+  };
+  by-mod-id = byModId;
+}
