@@ -1,0 +1,127 @@
+{
+  "Whiterun Street - Alternative 1": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "9.1",
+      "file_id": 118986,
+      "file_name": "Whiterun alternative street stone by Pfuscher 2.2-2347-2-2-1578423661.7z",
+      "mod_id": 2347,
+      "hash": "sha256-nhkAG7tOUQvfDnNNC9JWd1S9uI2tHLqCazEu5INZicQ="
+    }
+  },
+  "Whiterun Street - Alternative 2": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "9.1",
+      "file_id": 163043,
+      "file_name": "Whiterun street alternative 2-2347-5-0-1601326393.7z",
+      "mod_id": 2347,
+      "hash": "sha256-xP0TBZqGHu8Yb5I2pnSLYK80hlSh0Ro5c9up9oJU+o8="
+    }
+  },
+  "7 Mountain Textures - with FOMod installer": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "9.1",
+      "file_id": 173634,
+      "file_name": "7 new mountain textures for Majestic Mountains - FOMod-2347-1-1-1-1607358318.7z",
+      "mod_id": 2347,
+      "hash": "sha256-/YsveluPPkh7D+VExoUjmK3BNNT/z0rHbfIVVtJ8js0="
+    }
+  },
+  "Blended Roads Retexture": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "9.1",
+      "file_id": 174085,
+      "file_name": "Blended Roads Retexture BETA-2347-1-0-1607619995.7z",
+      "mod_id": 2347,
+      "hash": "sha256-/s0r7u3gJK/SrD+w4kaAxLzyjM7sqy1qrJ/aedgs0rA="
+    }
+  },
+  "Whiterun City Wall - Alternative 1": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "9.1",
+      "file_id": 185888,
+      "file_name": "Whiterun citywall alternative 1-2347-2-0-1613303625.7z",
+      "mod_id": 2347,
+      "hash": "sha256-dBDpi2Z1gefr2KolAdWNR59LPermDfWUE9tMhnLw/tY="
+    }
+  },
+  "Snow alternative 1": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "9.1",
+      "file_id": 214669,
+      "file_name": "Snow alternative 1-2347-8-4-5-1626338237.7z",
+      "mod_id": 2347,
+      "hash": "sha256-mUCT6+lud0H9onGv8GAlvoANCVrHErO0orMdjQ+EE0o="
+    }
+  },
+  "Parallax Meshes - Whiterun": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "10.0",
+      "file_id": 269051,
+      "file_name": "Whiterun Parallax meshes-2347-8-8-1646829131.7z",
+      "mod_id": 2347,
+      "hash": "sha256-VJNjx7C2fB2Idg42HxDedUs48hXqD+oHNyw8GsHSEjM="
+    },
+    "type": "primary"
+  },
+  "Whiterun Street - Alternative 3": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "9.1",
+      "file_id": 336107,
+      "file_name": "Whiterun Street - Alternative 3-2347-9-1-1669821321.7z",
+      "mod_id": 2347,
+      "hash": "sha256-sjGG5LyRS0zJ6bZNZu5laTJZ5LeoO8+63WScdBDcE64="
+    }
+  },
+  "Parallax Meshes - Riften Ground": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "10.0",
+      "file_id": 480425,
+      "file_name": "Parallax Meshes - Riften Ground-2347-1-0-1710413943.7z",
+      "mod_id": 2347,
+      "hash": "sha256-EMOWWz0bKOEP88S2qsHRB+E2DZPJFoCxPltHZDvsOp8="
+    },
+    "type": "primary"
+  },
+  "-Skyrim 202X 10.5.2 - Architecture PART 1": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "10.5.2",
+      "file_id": 651339,
+      "file_name": "-Skyrim 202X 10.5.2 - Architecture PART 1-2347-10-5-2-1753882692.rar",
+      "mod_id": 2347,
+      "hash": "sha256-LWBfCeqyuzsRuWseuwtaVldkMXlR07QITjXQVVlQdew="
+    },
+    "type": "primary"
+  },
+  "-Skyrim 202X 10.5.2 - Landscape PART 2": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "10.5.2",
+      "file_id": 651342,
+      "file_name": "-Skyrim 202X 10.5.2 - Landscape PART 2-2347-10-5-2-1753884060.rar",
+      "mod_id": 2347,
+      "hash": "sha256-YZD0NGCwQyKncrxeSlJ3yO7Sw1j4ODXi4/J6TX0bNmQ="
+    },
+    "type": "primary"
+  },
+  "-Skyrim 202X 10.5.2 - Other PART 3": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "10.5.2",
+      "file_id": 651363,
+      "file_name": "-Skyrim 202X 10.5.2 - Other PART 3-2347-10-5-2-1753887591.rar",
+      "mod_id": 2347,
+      "hash": "sha256-vmHbnYGHYcWcMuXxpiXwxDS+yHEf8X5ZxRBoa2vWCRI="
+    },
+    "type": "primary"
+  }
+}

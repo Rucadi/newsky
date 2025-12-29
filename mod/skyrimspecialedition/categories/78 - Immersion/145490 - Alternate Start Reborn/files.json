@@ -1,0 +1,113 @@
+{
+  "ASLAL Reborn - Southbound Prisoner Bodyslide": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0.1",
+      "file_id": 630772,
+      "file_name": "ASLAL Reborn - Southbound Bodyslide-145490-1-0-0-1748119200.7z",
+      "mod_id": 145490,
+      "hash": "sha256-0rQ3Sd076EsCR+yirUAvZBAKlhYdOcLrVpiOMlEdT6M="
+    }
+  },
+  "ASLAL Reborn - Vanilla Statue of Azura Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0.1",
+      "file_id": 636902,
+      "file_name": "ASLAL Reborn - Vanilla Statue of Azura Patch-145490-1-0-1-1749681093.7z",
+      "mod_id": 145490,
+      "hash": "sha256-CrZvhnUtqfsdXo6bukYma50nic16t1h133sAf2zjPAM="
+    }
+  },
+  "ASLAL Reborn - 2k Texture Upgrade": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0.1",
+      "file_id": 638705,
+      "file_name": "ASLAL Reborn - Texture Upgrad-145490-1-0-1-1750120748.7z",
+      "mod_id": 145490,
+      "hash": "sha256-5amWb+gxGGLryqVbNjBxg5/cEc2SqVLV6e3lMzbsJCo="
+    }
+  },
+  "ASLAL Reborn - LightPlacer Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0.1",
+      "file_id": 680084,
+      "file_name": "ASLAL Reborn - LightPlacer Patch-145490-1-0-1-1761355789.7z",
+      "mod_id": 145490,
+      "hash": "sha256-oH6cTUkuVeDWxZ4xJehr/gWlId6lVYF1TE3oHqN49E8="
+    }
+  },
+  "ASLAL Reborn - Book of Origins Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0.1",
+      "file_id": 700119,
+      "file_name": "ASLAL Reborn - Book of Origins Patch-145490-1-0-1-1766264162.7z",
+      "mod_id": 145490,
+      "hash": "sha256-U76QuLKD3hmJoo/IdRLKBpenkOu9enLrFguJvoYb7vE="
+    }
+  },
+  "Alternate Start Reborn": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0.2",
+      "file_id": 700214,
+      "file_name": "Alternate Start Reborn-145490-1-0-2-1766284876.7z",
+      "mod_id": 145490,
+      "hash": "sha256-wJSkwlu0/zr0vq6/EENmBOFFNlhdSSWAR2zuzXTy684="
+    },
+    "type": "primary"
+  },
+  "ASLAL Reborn - Lux Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0.2",
+      "file_id": 700217,
+      "file_name": "ASLAL Reborn - Lux Patch-145490-1-0-2-1766284938.7z",
+      "mod_id": 145490,
+      "hash": "sha256-NmpwXo5egECnuWHnyhFhi3mSaHDZZq4oW9H37NkqoTs="
+    }
+  },
+  "ASLAL Reborn - More Spells Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0.2",
+      "file_id": 700218,
+      "file_name": "ASLAL Reborn - More Spells Patch-145490-1-0-2-1766284971.7z",
+      "mod_id": 145490,
+      "hash": "sha256-//h0bkWXcSOfzvW4StRCOE4YiVe6IpQAe3TAjhnpSXI="
+    }
+  },
+  "ASLAL Reborn - Music Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0.2",
+      "file_id": 700219,
+      "file_name": "ASLAL Reborn - Music Patch-145490-1-0-2-1766284997.7z",
+      "mod_id": 145490,
+      "hash": "sha256-7ezy2bludGhnifSPXcOImBHg2opJHITCSPjhm+PHIOE="
+    }
+  },
+  "ASLAL Reborn - Race Menu Activator": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0.2",
+      "file_id": 700220,
+      "file_name": "ASLAL Reborn - Race Menu Activator-145490-1-0-2-1766285025.7z",
+      "mod_id": 145490,
+      "hash": "sha256-Rc9w/YGIpaIqMdLutaGYsECCA5Eo5TpNAlkjkjBVBCg="
+    }
+  },
+  "ASLAL Reborn - Southbound Prisoner": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0.2",
+      "file_id": 700222,
+      "file_name": "ASLAL Reborn - Southbound Prisoner-145490-1-0-2-1766285060.7z",
+      "mod_id": 145490,
+      "hash": "sha256-iMp1KgAbbGPFXCy2MMOxuOFvE5KjwNV6jJ63cZLT5o4="
+    }
+  }
+}

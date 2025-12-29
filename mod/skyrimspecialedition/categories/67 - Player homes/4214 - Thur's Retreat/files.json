@@ -1,0 +1,22 @@
+{
+    "Thur's Retreat - Loose": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "1.0",
+            "file_id": 7850,
+            "file_name": "Thur's Retreat - Loose-4214-1-0.7z",
+            "mod_id": 4214
+        },
+        "type": "primary"
+    },
+    "Thur's Retreat - BSA": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "1.0",
+            "file_id": 7868,
+            "file_name": "Thur's Retreat - BSA-4214-1-0.7z",
+            "mod_id": 4214
+        },
+        "type": "primary"
+    }
+}

@@ -1,0 +1,33 @@
+{
+  "Immersive Wenches -Become a Bard- Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "2.0.0",
+      "file_id": 623041,
+      "file_name": "Immersive Wenches -Become a Bard- Patch-595-2-0-0-1746226414.7z",
+      "mod_id": 595,
+      "hash": "sha256-5sDwMASAzftgXxRXQprA06msOrl/O+roeI7/TjxZ7uk="
+    }
+  },
+  "Immersive Wenches": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "2.0.2",
+      "file_id": 681015,
+      "file_name": "Immersive Wenches-595-2-0-2-1761580809.7z",
+      "mod_id": 595,
+      "hash": "sha256-RSX069JlNKo+IWbz9IRsU0dx+YRKJdJEXOHKqR3U3Nk="
+    },
+    "type": "primary"
+  },
+  "Immersive Wenches -Immersive Citizens AI Overhaul-": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "2.0.0",
+      "file_id": 690107,
+      "file_name": "Immersive Wenches -Immersive Citizens AI Overhaul--595-2-0-0-1763840336.7z",
+      "mod_id": 595,
+      "hash": "sha256-H9Ph9uZyPmjLWLwAifDwEEvQ5p7ggsG6WHYdbZ/jqYA="
+    }
+  }
+}

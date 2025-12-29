@@ -1,0 +1,53 @@
+{
+  "FNIS Spells SE 7.0": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "7.0",
+      "file_id": 4722,
+      "file_name": "FNIS Spells SE 7.0-3038-7-0.zip",
+      "mod_id": 3038,
+      "hash": "sha256-IKwJQIVRuuWtFsgWXhMAH0tigxTqNgxFfpW88Ol+mWQ="
+    }
+  },
+  "FNIS Behavior SE 7_6": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "7.6",
+      "file_id": 124617,
+      "file_name": "FNIS Behavior SE 7_6-3038-7-6-1582048023.7z",
+      "mod_id": 3038,
+      "hash": "sha256-Q0exTwfQsKJwB3YBNX/gxuynelh9B2aXt/W/Idt02BA="
+    },
+    "type": "primary"
+  },
+  "FNIS Behavior VR 7_6 XXL": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "7.6",
+      "file_id": 124620,
+      "file_name": "FNIS Behavior VR 7_6 XXL-3038-7-6-1582049179.7z",
+      "mod_id": 3038,
+      "hash": "sha256-uWHsywP4kbZBYgno492ojx3EGXlUSVql5SvvcSJNVSg="
+    }
+  },
+  "FNIS Creature Pack SE 7.6": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "7.6",
+      "file_id": 124621,
+      "file_name": "FNIS Creature Pack SE 7.6-3038-7-6-1582049490.7z",
+      "mod_id": 3038,
+      "hash": "sha256-wPuQ3X5D8LwLtrb9Bpq9uIYbXgOTdp/rIPxr4YA3TVw="
+    }
+  },
+  "FNIS Behavior SE 7_6 XXL": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "7.6",
+      "file_id": 124730,
+      "file_name": "FNIS Behavior SE 7_6 XXL-3038-7-6-1582110624.7z",
+      "mod_id": 3038,
+      "hash": "sha256-PJvR4CNxLny7KPssZA1Dcv43aDJN2kbKFfzeIvyrj7Q="
+    }
+  }
+}
