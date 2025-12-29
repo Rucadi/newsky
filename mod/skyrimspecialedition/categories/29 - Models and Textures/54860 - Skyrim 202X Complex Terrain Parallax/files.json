@@ -1,0 +1,23 @@
+{
+  "-Skyrim 2020 Terrain Parallax 8K4K": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 242434,
+      "file_name": "Skyrim 2020 Terrain Parallax-54860-1-0-1637236907.7z",
+      "mod_id": 54860,
+      "hash": "sha256-C24NKr0Rb+1eqiZFOuYI1cBixJQ4nBJAcjFjd7sejO0="
+    }
+  },
+  "Terrain Parallax 1.5 - 4K2K": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.5",
+      "file_id": 338096,
+      "file_name": "Terrain Parallax 1.5 - 4K2K-54860-1-5-1670317926.7z",
+      "mod_id": 54860,
+      "hash": "sha256-89HF2ndb1mAZUojWpF9P1OJZljPFbAGtfIJV9H4Rr2A="
+    },
+    "type": "primary"
+  }
+}

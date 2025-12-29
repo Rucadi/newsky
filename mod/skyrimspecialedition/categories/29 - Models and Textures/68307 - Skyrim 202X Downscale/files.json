@@ -1,0 +1,288 @@
+{
+  "Parallax Meshes - Riften Ground - 4K": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "10.0",
+      "file_id": 480899,
+      "file_name": "Parallax Meshes - Riften Ground - 4K-68307-10-0-1710533659.7z",
+      "mod_id": 68307,
+      "hash": "sha256-tZWLZ1a8q7W1OUK04lIR1JemHUFoIuazGaREylRZ50g="
+    },
+    "type": "primary"
+  },
+  "Parallax Meshes - Riften Ground - 2K": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "10.0",
+      "file_id": 480900,
+      "file_name": "Parallax Meshes - Riften Ground - 2K-68307-10-0-1710533669.7z",
+      "mod_id": 68307,
+      "hash": "sha256-t6npuPVQ81sVFvJFkLSS8+iRNHUR9yLsRt/wWJFO9ZQ="
+    },
+    "type": "primary"
+  },
+  "Parallax Meshes - Riften Ground - 1K": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "10.0",
+      "file_id": 480901,
+      "file_name": "Parallax Meshes - Riften Ground - 1K-68307-10-0-1710533708.7z",
+      "mod_id": 68307,
+      "hash": "sha256-BSYymKT7/OuTI3tih7LlwOryeSQxH0eMqNISYDvu0Mg="
+    },
+    "type": "primary"
+  },
+  "Parallax Meshes - Whiterun": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "10.0",
+      "file_id": 480906,
+      "file_name": "Parallax Meshes - Whiterun-68307-10-0-1710534876.7z",
+      "mod_id": 68307,
+      "hash": "sha256-VJNjx7C2fB2Idg42HxDedUs48hXqD+oHNyw8GsHSEjM="
+    },
+    "type": "primary"
+  },
+  "7 Mountain Textures - with FOMod installer - 4K": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "9.1",
+      "file_id": 481358,
+      "file_name": "7 Mountain Textures - with FOMod installer - 4K-68307-9-1-1710644534.rar",
+      "mod_id": 68307,
+      "hash": "sha256-oRuQpNzaGsLDYpv77cmNW2APYDoSwDctPbOJEVpaxJc="
+    }
+  },
+  "Blended Roads Retexture - 4K": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "9.1",
+      "file_id": 481359,
+      "file_name": "Blended Roads Retexture - 4K-68307-9-1-1710644687.rar",
+      "mod_id": 68307,
+      "hash": "sha256-fh4KBZ2gqQBrtZGp7m4xttzH3eZXlq8x+WLVM8PO+gA="
+    }
+  },
+  "Snow alternative 1 - 4K": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "9.1",
+      "file_id": 481360,
+      "file_name": "Snow alternative 1 - 4K-68307-9-1-1710645244.rar",
+      "mod_id": 68307,
+      "hash": "sha256-xX01dOMrFPX9KQUdI9cAJU76b7kWH/JhbXxKuX2v2Xw="
+    }
+  },
+  "Whiterun Street - Alternative 1 - 4K": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "9.1",
+      "file_id": 481361,
+      "file_name": "Whiterun Street - Alternative 1-68307-9-1-1710645379.rar",
+      "mod_id": 68307,
+      "hash": "sha256-Y/kWZeKOqkfsvN4My3MVNycYX9maGF4idnX4RE1HfC0="
+    }
+  },
+  "Whiterun City Wall - Alternative 1 - 4K": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "9.1",
+      "file_id": 481362,
+      "file_name": "Whiterun City Wall - Alternative 1-68307-9-1-1710645648.rar",
+      "mod_id": 68307,
+      "hash": "sha256-pnS6XpGHdp71m9kOnBTMYicL7OZkp5OXWJg9dqGQXag="
+    }
+  },
+  "Whiterun Street - Alternative 3 - 4K": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "9.1",
+      "file_id": 481363,
+      "file_name": "Whiterun Street - Alternative 3-68307-9-1-1710645825.rar",
+      "mod_id": 68307,
+      "hash": "sha256-nBZZ1zaq08omK1MV+85Efh7QsTYo5mg2gIb29eoRAn0="
+    }
+  },
+  "Whiterun Street - Alternative 2 - 4K": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "9.1",
+      "file_id": 481368,
+      "file_name": "Whiterun Street - Alternative 2-68307-9-1-1710646342.rar",
+      "mod_id": 68307,
+      "hash": "sha256-eDJR49IQZagbsaw+T9vu2vK1U7u4M7pjHArbBe5whqE="
+    }
+  },
+  "7 Mountain Textures - with FOMod installer - 2K": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "9.1",
+      "file_id": 481975,
+      "file_name": "7 Mountain Textures - with FOMod installer - 2K-68307-9-1-1710790953.rar",
+      "mod_id": 68307,
+      "hash": "sha256-smqA5OOWQfGNKFlhHZ0mOaDi2E1DeXVAOu/EkbQ8XVA="
+    }
+  },
+  "7 Mountain Textures - with FOMod installer - 1K": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "9.1",
+      "file_id": 481976,
+      "file_name": "7 Mountain Textures - with FOMod installer - 1K-68307-9-1-1710791066.rar",
+      "mod_id": 68307,
+      "hash": "sha256-hl6MTipxofqxgpyVvp8M0KOB2PDwWBnQOb+Ln2XnA3g="
+    }
+  },
+  "Blended Roads Retexture - 2K": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "9.1",
+      "file_id": 481978,
+      "file_name": "Blended Roads Retexture - 2K-68307-9-1-1710791125.rar",
+      "mod_id": 68307,
+      "hash": "sha256-j1Ufm4APQI2SvqoPjikMLoRuZznyO8LA6Ju70LnjW2E="
+    }
+  },
+  "Blended Roads Retexture - 1K": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "9.1",
+      "file_id": 481979,
+      "file_name": "Blended Roads Retexture - 1K-68307-9-1-1710791174.rar",
+      "mod_id": 68307,
+      "hash": "sha256-5Pai3L0yfPjOmpPb1baumrn7slimdO7CfD5Eakq85/U="
+    }
+  },
+  "Snow alternative 1 - 2K": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "9.1",
+      "file_id": 481981,
+      "file_name": "Snow alternative 1 - 2K-68307-9-1-1710791374.rar",
+      "mod_id": 68307,
+      "hash": "sha256-z6HqH+cyPP+JqEb4V74fS/gOqx0qN4pFz2bo0Wymzhg="
+    }
+  },
+  "Snow alternative 1 - 1K": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "9.1",
+      "file_id": 481982,
+      "file_name": "Snow alternative 1 - 1K-68307-9-1-1710791424.rar",
+      "mod_id": 68307,
+      "hash": "sha256-34S4zGdu7ooe4yKKSMM3JT+MtkY6Yzz3+P5qb/bPM8w="
+    }
+  },
+  "Whiterun Street - Alternative 1 - 2K": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "9.1",
+      "file_id": 481983,
+      "file_name": "Whiterun Street - Alternative 1 - 2K-68307-9-1-1710791489.rar",
+      "mod_id": 68307,
+      "hash": "sha256-mq9Iu9RcxuAPpoiSJGKGHzXMQxmh6RcsHAQg3fSUur4="
+    }
+  },
+  "Whiterun Street - Alternative 1 - 1K": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "9.1",
+      "file_id": 481984,
+      "file_name": "Whiterun Street - Alternative 1 - 1K-68307-9-1-1710791551.rar",
+      "mod_id": 68307,
+      "hash": "sha256-hZ8FfXoYXSAfOLoo1VngAqAnefgGoadyjT/Yb3M6I3E="
+    }
+  },
+  "Whiterun City Wall - Alternative 1 - 2K": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "9.1",
+      "file_id": 481985,
+      "file_name": "Whiterun City Wall - Alternative 1 - 2K-68307-9-1-1710791624.rar",
+      "mod_id": 68307,
+      "hash": "sha256-pOOZ7sTEEB2K05L8kZdN1PUyAu6s5q2PT4TVISkg+Iw="
+    }
+  },
+  "Whiterun City Wall - Alternative 1 - 1K": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "9.1",
+      "file_id": 481986,
+      "file_name": "Whiterun City Wall - Alternative 1 - 1K-68307-9-1-1710791656.rar",
+      "mod_id": 68307,
+      "hash": "sha256-CfKMjgXH6eZFdchd8ja6Tv+/OrBQGtFJUcU5E7XNo4I="
+    }
+  },
+  "Whiterun Street - Alternative 3 - 2K": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "9.1",
+      "file_id": 481987,
+      "file_name": "Whiterun Street - Alternative 3 - 2K-68307-9-1-1710791741.rar",
+      "mod_id": 68307,
+      "hash": "sha256-tI/iOg8VHEO762/yjTIiWZWKJ4GO4aVs4BJi6x0L55Q="
+    }
+  },
+  "Whiterun Street - Alternative 3 - 1K": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "9.1",
+      "file_id": 481988,
+      "file_name": "Whiterun Street - Alternative 3 - 1K-68307-9-1-1710791768.rar",
+      "mod_id": 68307,
+      "hash": "sha256-mH3cUEA3nKHdagUtl6dOOIJjT3MEnGi3jtDPbIJ0GKo="
+    }
+  },
+  "Whiterun Street - Alternative 2 - 2K": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "9.1",
+      "file_id": 481989,
+      "file_name": "Whiterun Street - Alternative 2 - 2K-68307-9-1-1710791795.rar",
+      "mod_id": 68307,
+      "hash": "sha256-e4TQNByhHsRIf6ejdkqwkAQlyDrxi7IlkV8mC5IXmq4="
+    }
+  },
+  "Whiterun Street - Alternative 2 - 1K": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "9.1",
+      "file_id": 481991,
+      "file_name": "Whiterun Street - Alternative 2 - 1K-68307-9-1-1710791842.rar",
+      "mod_id": 68307,
+      "hash": "sha256-1JcHKgKrlXPgMZYqLh7WzbYWvKwqxKCFir264miSSew="
+    }
+  },
+  "- Skyrim 202X - 1K": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "10.5.2",
+      "file_id": 652624,
+      "file_name": "- Skyrim 202X - 1K-68307-10-5-2-1754266899.rar",
+      "mod_id": 68307,
+      "hash": "sha256-BJSomtNND12yY9yCdhMFV+lQ4jiSNx2xUe4Dn8MYK/M="
+    },
+    "type": "primary"
+  },
+  "- Skyrim 202X - 2K": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "10.5.2",
+      "file_id": 652625,
+      "file_name": "- Skyrim 202X - 2K-68307-10-5-2-1754266901.rar",
+      "mod_id": 68307,
+      "hash": "sha256-SuJN2M9xj5XsogBbnN/hF4zSN7Dr85GSpGZQKUq0bww="
+    },
+    "type": "primary"
+  },
+  "- Skyrim 202X - 4K": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "10.5.2",
+      "file_id": 652626,
+      "file_name": "- Skyrim 202X - 4K-68307-10-5-2-1754266903.rar",
+      "mod_id": 68307
+    },
+    "type": "primary"
+  }
+}
