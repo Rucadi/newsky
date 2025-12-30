@@ -1,0 +1,89 @@
+{
+  "Wine Duchess - SE by Xtudo - Textures 4K": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1",
+      "file_id": 664450,
+      "file_name": "Wine Duchess - SE by Xtudo - Textures 4K-158904-1-1757533694.7z",
+      "mod_id": 158904,
+      "hash": "sha256-IfYkjr9rrazgXA0MdWVI8W0PVq7Qm75o5zLOZCB1e4A="
+    }
+  },
+  "Wine Duchess - SE by Xtudo - Textures 2K": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1",
+      "file_id": 664451,
+      "file_name": "Wine Duchess - SE by Xtudo - Textures 2K-158904-1-1757533721.7z",
+      "mod_id": 158904,
+      "hash": "sha256-DI5EGvkH49D/2NC/QWI7N+c0hwMfUcmj9DEsm/ZuMJw="
+    }
+  },
+  "Wine Duchess - SE by Xtudo - Textures 1K": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1",
+      "file_id": 664454,
+      "file_name": "Wine Duchess - SE by Xtudo - Textures 1K-158904-1-1757533747.7z",
+      "mod_id": 158904
+    }
+  },
+  "Wine Duchess - SE by Xtudo - CBBE-UNP-Vanilla ver": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.4",
+      "file_id": 665286,
+      "file_name": "Wine Duchess - SE by Xtudo - CBBE-UNP-Vanilla ver-158904-1-4-1757772058.7z",
+      "mod_id": 158904
+    }
+  },
+  "Wine Duchess - SE by Xtudo - My Version": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.6",
+      "file_id": 667618,
+      "file_name": "Wine Duchess - SE by Xtudo - My Version-158904-1-6-1758370450.7z",
+      "mod_id": 158904
+    },
+    "type": "primary"
+  },
+  "Wine Duchess - SE by Xtudo - My Version HS": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.6",
+      "file_id": 667619,
+      "file_name": "Wine Duchess - SE by Xtudo - My Version HS-158904-1-6-1758370475.7z",
+      "mod_id": 158904
+    },
+    "type": "primary"
+  },
+  "Wine Duchess - SE by Xtudo - My Version Non-HDT": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.6",
+      "file_id": 667620,
+      "file_name": "Wine Duchess - SE by Xtudo - My Version Non-HDT-158904-1-6-1758370504.7z",
+      "mod_id": 158904
+    },
+    "type": "primary"
+  },
+  "Wine Duchess - SE by Xtudo - My Version Non-HDT HS": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.6",
+      "file_id": 667621,
+      "file_name": "Wine Duchess - SE by Xtudo - My Version Non-HDT HS-158904-1-6-1758370569.7z",
+      "mod_id": 158904
+    },
+    "type": "primary"
+  },
+  "Wine Duchess - SE by Xtudo - Vampire Royal Armor": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.7",
+      "file_id": 668366,
+      "file_name": "Wine Duchess - SE by Xtudo - Vampire Royal Armor-158904-1-7-1758550343.7z",
+      "mod_id": 158904
+    }
+  }
+}

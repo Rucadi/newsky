@@ -1,0 +1,68 @@
+{
+  "HFs - Chests - Snowy patch by Xtudo - 1K": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1",
+      "file_id": 659070,
+      "file_name": "HFs - Chests - Snowy patch by Xtudo - 1K-157685-1-1-1756129294.7z",
+      "mod_id": 157685,
+      "hash": "sha256-J4dgUhuMUlc829ikJYXTjtBGwwHvwK3Jz2PXxUzssxA="
+    },
+    "type": "primary"
+  },
+  "HFs - Chests - Snowy patch by Xtudo - 2K": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1",
+      "file_id": 659071,
+      "file_name": "HFs - Chests - Snowy patch by Xtudo - 2K-157685-1-1-1756129309.7z",
+      "mod_id": 157685,
+      "hash": "sha256-vwRUBjRX23mgEm8iMltCSqzG8GHd6Jh2ycLeWGpENOI="
+    },
+    "type": "primary"
+  },
+  "HFs - Chests - Snowy patch by Xtudo - 4K": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1",
+      "file_id": 659072,
+      "file_name": "HFs - Chests - Snowy patch by Xtudo - 4K-157685-1-1-1756129325.7z",
+      "mod_id": 157685,
+      "hash": "sha256-h7RG/tsnG/JTq+JY9jrpncUC9A9e7/8uHVcrWqVW0jc="
+    },
+    "type": "primary"
+  },
+  "HFs - Chests - Snowy patch by Xtudo - LOTD 1K": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1",
+      "file_id": 659073,
+      "file_name": "HFs - Chests - Snowy patch by Xtudo - LOTD 1K-157685-1-1-1756129343.7z",
+      "mod_id": 157685,
+      "hash": "sha256-2QsxopRfLwC6W7COwQU/MXr1CgdJVaJTp6DVHHjnhl8="
+    },
+    "type": "primary"
+  },
+  "HFs - Chests - Snowy patch by Xtudo - LOTD 2K": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1",
+      "file_id": 659074,
+      "file_name": "HFs - Chests - Snowy patch by Xtudo - LOTD 2K-157685-1-1-1756129359.7z",
+      "mod_id": 157685,
+      "hash": "sha256-x/LTYxjN5Z6oezsVXZsFSN/rmlb+DJhNxjonQ0SwXw0="
+    },
+    "type": "primary"
+  },
+  "HFs - Chests - Snowy patch by Xtudo - LOTD 4K": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1",
+      "file_id": 659075,
+      "file_name": "HFs - Chests - Snowy patch by Xtudo - LOTD 4K-157685-1-1-1756129375.7z",
+      "mod_id": 157685,
+      "hash": "sha256-cGleHZXHXB+h1rBIjlQtZA4aqCaChYqOZMiFa8gmDaU="
+    },
+    "type": "primary"
+  }
+}

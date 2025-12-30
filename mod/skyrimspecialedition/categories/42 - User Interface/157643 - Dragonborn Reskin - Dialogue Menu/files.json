@@ -1,0 +1,24 @@
+{
+  "Dragonborn Reskin - Dialogue Menu - Style 1": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.2",
+      "file_id": 666056,
+      "file_name": "Dragonborn Reskin - Dialogue Menu-157643-1-2-1757948834.zip",
+      "mod_id": 157643,
+      "hash": "sha256-QUxpfL4teJSayGio07I0hD3wDAZQgfTVAuln3Cbzp/U="
+    },
+    "type": "primary"
+  },
+  "Dragonborn Reskin - Dialogue Menu - Style 2": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.2",
+      "file_id": 666057,
+      "file_name": "Dragonborn Reskin - Dialogue Menu vDark box-157643-1-2-1757948886.zip",
+      "mod_id": 157643,
+      "hash": "sha256-7BCx4DmM6PaNA/HrZ+QHXgBuzTqeEL4+I4n1ohepJs8="
+    },
+    "type": "primary"
+  }
+}

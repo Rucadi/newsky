@@ -1,0 +1,46 @@
+{
+  "Madness Guards - SE by Xtudo - Textures 4K": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1",
+      "file_id": 649536,
+      "file_name": "Madness Guards - SE by Xtudo - Textures 4K-155358-1-1753269652.7z",
+      "mod_id": 155358,
+      "hash": "sha256-hkniYAoBCzfXN5BlHjQeB2kBTn721nsNqJgqZTF2zeg="
+    },
+    "type": "primary"
+  },
+  "Madness Guards - SE by Xtudo - Textures 2K": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1",
+      "file_id": 649537,
+      "file_name": "Madness Guards - SE by Xtudo - Textures 2K-155358-1-1753269671.7z",
+      "mod_id": 155358,
+      "hash": "sha256-WqfGXrh63nlsIlZmAKIqhMrJu9toTbJelyPKBTb/5Pw="
+    },
+    "type": "primary"
+  },
+  "Madness Guards - SE by Xtudo - Textures 1K": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1",
+      "file_id": 649539,
+      "file_name": "Madness Guards - SE by Xtudo - Textures 1K-155358-1-1753269723.7z",
+      "mod_id": 155358,
+      "hash": "sha256-i0yPZqH4CQXyIlimk8TGWhkSgFz3/V4VAxyC6nnZKaM="
+    },
+    "type": "primary"
+  },
+  "Madness Guards - SE by Xtudo - Tweaked ESP": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1",
+      "file_id": 649540,
+      "file_name": "Madness Guards - SE by Xtudo - Tweaked ESP-155358-1-1753269740.7z",
+      "mod_id": 155358,
+      "hash": "sha256-IYWQAMaxKb/ayaVHm/XF0kRGN4wKRmSjaHd2/EFNC9U="
+    },
+    "type": "primary"
+  }
+}

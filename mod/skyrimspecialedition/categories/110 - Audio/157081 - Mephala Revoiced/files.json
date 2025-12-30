@@ -1,0 +1,63 @@
+{
+  "Mephala Revoiced - Vanilla - Option 1": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 656709,
+      "file_name": "Mephala Revoiced - Vanilla - Option 1-157081-1-0-1755476068.zip",
+      "mod_id": 157081,
+      "hash": "sha256-Wa/jF5jS4zU6zfheSaeV0Gmq43s3U3Fu6waNlloEkFw="
+    }
+  },
+  "Mephala Revoiced - Vanilla - Option 2": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 656712,
+      "file_name": "Mephala Revoiced - Vanilla - Option 2-157081-1-0-1755476289.zip",
+      "mod_id": 157081,
+      "hash": "sha256-fxgOhsWwQEeQvFQFslTb/iL1KzC68Ujp5Erwmn+3Wfo="
+    }
+  },
+  "Mephala Revoiced - Vanilla - Option 3": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 656713,
+      "file_name": "Mephala Revoiced - Vanilla - Option 3-157081-1-0-1755476336.zip",
+      "mod_id": 157081,
+      "hash": "sha256-GrmQAJSn/rvaziABVkjxHjdpaLOwaqFxiy7IgBOkgLI="
+    }
+  },
+  "Mephala Revoiced - Vanilla - Option 4": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 656714,
+      "file_name": "Mephala Revoiced - Vanilla - Option 4-157081-1-0-1755476372.zip",
+      "mod_id": 157081,
+      "hash": "sha256-KIogrlKxCalkYv8Y0WCTZdYfLDPu46SdVi5U8P2+L28="
+    }
+  },
+  "Mephala Revoiced": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1",
+      "file_id": 657982,
+      "file_name": "Mephala Revoiced-157081-1-1-1755830323.zip",
+      "mod_id": 157081,
+      "hash": "sha256-rb/SsOrcD96YYLNxKMtIF6ZhJXL8Iwn13bVhy9CNCkg="
+    },
+    "type": "primary"
+  },
+  "Mephala Revoiced - Vanilla - Option 5": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 657984,
+      "file_name": "Mephala Revoiced - Vanilla - Option 5-157081-1-0-1755830400.zip",
+      "mod_id": 157081,
+      "hash": "sha256-1Dha7dksIEy25AMXqFHxr0t01RamDquGgvOr+/fsGgI="
+    }
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "Fishtail Hair": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0.1",
+      "file_id": 649105,
+      "file_name": "Fishtail Hair-155092-1-0-1-1753126555.7z",
+      "mod_id": 155092,
+      "hash": "sha256-gptVgm2z1SZdWEKMbfDnazjhlVIJZTBsYLWVBVUsUXI="
+    },
+    "type": "primary"
+  },
+  "Fishtail Wig": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0.1",
+      "file_id": 649152,
+      "file_name": "Fishtail Wig-155092-1-0-1-1753141061.7z",
+      "mod_id": 155092,
+      "hash": "sha256-By3QYivStMy5yRp9V5Z4k3oUJ3OO0RKwOvHeMfw27+o="
+    }
+  }
+}

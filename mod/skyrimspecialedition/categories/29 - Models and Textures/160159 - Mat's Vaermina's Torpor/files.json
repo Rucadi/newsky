@@ -1,0 +1,22 @@
+{
+    "Mat's Vaermina's Torpor": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "1.0",
+            "file_id": 670026,
+            "file_name": "Mat's Vaermina's Torpor-160159-1-0-1759015390.rar",
+            "mod_id": 160159
+        },
+        "type": "primary"
+    },
+    "Mat's Vaermina's Torpor - Skypatcher Version": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "SkyP-1.0",
+            "file_id": 689231,
+            "file_name": "Mat's Vaermina's Torpor - Skypatcher Version-160159-1-0-1763602400.rar",
+            "mod_id": 160159
+        },
+        "type": "primary"
+    }
+}

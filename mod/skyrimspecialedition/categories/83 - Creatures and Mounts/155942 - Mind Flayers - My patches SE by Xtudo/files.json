@@ -1,0 +1,46 @@
+{
+  "Mind Flayers - SE by Xtudo - Textures 1K": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1",
+      "file_id": 651590,
+      "file_name": "Mind Flayers - SE by Xtudo - Textures 1K-155942-1-1753960806.7z",
+      "mod_id": 155942,
+      "hash": "sha256-cYDCwMb20igUPOtQ66oigsetebnsN9PefsYQqazGj2M="
+    },
+    "type": "primary"
+  },
+  "Mind Flayers - SE by Xtudo - Textures 2K": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1",
+      "file_id": 651591,
+      "file_name": "Mind Flayers - SE by Xtudo - Textures 2K-155942-1-1753960820.7z",
+      "mod_id": 155942,
+      "hash": "sha256-34ok2BcEhZRFvHGWsyvgLqUrdYVhtpwlvmy0gGJ+/Cg="
+    },
+    "type": "primary"
+  },
+  "Mind Flayers - SE by Xtudo - Textures 4K": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1",
+      "file_id": 651592,
+      "file_name": "Mind Flayers - SE by Xtudo - Textures 4K-155942-1-1753960833.7z",
+      "mod_id": 155942,
+      "hash": "sha256-bKHe6cTJ3AKJGGNloerfMe73ZLKhIG7dhgUL8y4t9HY="
+    },
+    "type": "primary"
+  },
+  "Mind Flayers - SE by Xtudo - Tweaks": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1",
+      "file_id": 651593,
+      "file_name": "Mind Flayers - SE by Xtudo - Tweaks-155942-1-1753960852.7z",
+      "mod_id": 155942,
+      "hash": "sha256-+6tU2c1MwjCFA3vKli+8Dl2lGhbh6Q7qSsXh6OwJgfY="
+    },
+    "type": "primary"
+  }
+}

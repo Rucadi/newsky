@@ -1,0 +1,50 @@
+{
+  "Wine Duchess 2k": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.22",
+      "file_id": 695421,
+      "file_name": "Wine Duchess 2k-158632-1-22-1765115321.7z",
+      "mod_id": 158632,
+      "hash": "sha256-KWeCH2Uv6Uj5Z6E2mYvJ7yZGcClry9+KW1QC/NVJi/w="
+    },
+    "type": "primary"
+  },
+  "Wine Duchess 4k": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.22",
+      "file_id": 695422,
+      "file_name": "Wine Duchess 4k-158632-1-22-1765115377.7z",
+      "mod_id": 158632
+    },
+    "type": "primary"
+  },
+  "Wine Duchess Heels Sound patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.22",
+      "file_id": 695423,
+      "file_name": "Wine Duchess Heels Sound patch-158632-1-22-1765115407.7z",
+      "mod_id": 158632
+    }
+  },
+  "Wine Duchess Serana SPID": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.22",
+      "file_id": 695424,
+      "file_name": "Wine Duchess Serana SPID-158632-1-22-1765115430.7z",
+      "mod_id": 158632
+    }
+  },
+  "Wine Duchess Valerica SPID": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.22",
+      "file_id": 695425,
+      "file_name": "Wine Duchess Valerica SPID-158632-1-22-1765115458.7z",
+      "mod_id": 158632
+    }
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "illithids robe (se-ae)": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 650905,
+      "file_name": "illithids robe (se-ae)-155744-1-0-1753719961.rar",
+      "mod_id": 155744,
+      "hash": "sha256-r22aTL/BvAEHpyFSdILEKidROFBVp/ON7Usr0P1T9bo="
+    },
+    "type": "primary"
+  },
+  "illithids robe spid": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1",
+      "file_id": 651057,
+      "file_name": "illithids robe (se-ae)-155744-1-1-1753778403.rar",
+      "mod_id": 155744,
+      "hash": "sha256-u9t9Q+LpRv07X2LP3+Rs5nlZTRTdWX8ww852nQ27Uzk="
+    }
+  }
+}

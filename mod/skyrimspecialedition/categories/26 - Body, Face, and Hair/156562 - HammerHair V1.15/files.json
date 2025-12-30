@@ -1,0 +1,23 @@
+{
+  "HammerHair1.15": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.15",
+      "file_id": 689150,
+      "file_name": "HammerHair1.15-156562-1-15-1763578871.rar",
+      "mod_id": 156562,
+      "hash": "sha256-oOOpm1WWiP1SsVILNZ4JRuP1CnKeIls0/2z2R2W5YRw="
+    },
+    "type": "primary"
+  },
+  "HammerWigs1.15": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.15",
+      "file_id": 689151,
+      "file_name": "HammerWigs1.15-156562-1-15-1763578923.rar",
+      "mod_id": 156562,
+      "hash": "sha256-IGzW/49p562g4CR7TrqoVI21mxFhyj87A/C2NJOeiqY="
+    }
+  }
+}

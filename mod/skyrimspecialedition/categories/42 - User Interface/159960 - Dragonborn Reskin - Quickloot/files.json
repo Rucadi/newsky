@@ -1,0 +1,23 @@
+{
+  "Dragonborn Reskin - Quickloot EE or RE": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 669053,
+      "file_name": "Dragonborn Reskin - Quickloot EE-159960-1-0-1758728898.zip",
+      "mod_id": 159960,
+      "hash": "sha256-iSJ8S61V3NdNvTRygA+D+DtH4INeSshHcYO9MTpLyVk="
+    },
+    "type": "primary"
+  },
+  "Dragonborn Reskin - Quickloot IE": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 669054,
+      "file_name": "Dragonborn Reskin - Quickloot IE-159960-1-0-1758728942.zip",
+      "mod_id": 159960
+    },
+    "type": "primary"
+  }
+}

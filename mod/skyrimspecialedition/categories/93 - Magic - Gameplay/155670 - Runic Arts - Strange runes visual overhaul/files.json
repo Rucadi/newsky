@@ -1,0 +1,23 @@
+{
+  "Runic Arts - Strange runes visual overhaul": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "0.1",
+      "file_id": 650673,
+      "file_name": "Runic Arts - Strange runes visual overhaul-155670-0-1-1753640894.zip",
+      "mod_id": 155670,
+      "hash": "sha256-3hlnt12sXAWbXm6vMFVkmac0jw7zyHi+1AZTWZgvIYc="
+    },
+    "type": "primary"
+  },
+  "Runic Arts - Larger rune meshes": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "0.1",
+      "file_id": 655200,
+      "file_name": "Runic Arts - Larger rune meshes-155670-0-1-1755076263.zip",
+      "mod_id": 155670,
+      "hash": "sha256-X7cvxxG6vE8emO5fVoMQX5DRHNks04IjliDKE5NJjcY="
+    }
+  }
+}

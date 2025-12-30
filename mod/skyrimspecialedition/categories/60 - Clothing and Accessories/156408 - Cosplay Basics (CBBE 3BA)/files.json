@@ -1,0 +1,75 @@
+{
+    "Cosplay Basics - (CBBE 3BA)": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "1.0",
+            "file_id": 653529,
+            "file_name": "Cosplay Basics - (CBBE 3BA)-156408-1-0-1754567531.zip",
+            "mod_id": 156408
+        },
+        "type": "primary"
+    },
+    "Cosplay Basics Patch - Binibini Skin": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "1.0",
+            "file_id": 653530,
+            "file_name": "Cosplay Basics Patch - Binibini Skin-156408-1-0-1754567694.zip",
+            "mod_id": 156408
+        }
+    },
+    "Cosplay Basics Patch - BnP Skin": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "1.0",
+            "file_id": 653531,
+            "file_name": "Cosplay Basics Patch - BnP Skin-156408-1-0-1754567747.zip",
+            "mod_id": 156408
+        }
+    },
+    "Cosplay Basics Patch - Demoniac Skin": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "1.0",
+            "file_id": 653532,
+            "file_name": "Cosplay Basics Patch - Demoniac Skin-156408-1-0-1754567805.zip",
+            "mod_id": 156408
+        }
+    },
+    "Cosplay Basics Patch - Diamond Skin": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "1.0",
+            "file_id": 653533,
+            "file_name": "Cosplay Basics Patch - Diamond Skin-156408-1-0-1754567845.zip",
+            "mod_id": 156408
+        }
+    },
+    "Cosplay Basics Patch - Fair Skin Complexion": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "1.0",
+            "file_id": 653534,
+            "file_name": "Cosplay Basics Patch - Fair Skin Complexion-156408-1-0-1754567882.zip",
+            "mod_id": 156408
+        }
+    },
+    "Cosplay Basics Patch - Zhizhen Skin": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "1.0",
+            "file_id": 653535,
+            "file_name": "Cosplay Basics Patch - Zhizhen Skin-156408-1-0-1754567929.zip",
+            "mod_id": 156408
+        }
+    },
+    "Cosplay Basics - ENB Complex Material": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "1.0",
+            "file_id": 653536,
+            "file_name": "Cosplay Basics - ENB Complex Material-156408-1-0-1754568125.zip",
+            "mod_id": 156408
+        }
+    }
+}

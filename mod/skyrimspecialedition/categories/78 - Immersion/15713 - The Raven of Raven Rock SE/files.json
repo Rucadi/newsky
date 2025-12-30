@@ -1,0 +1,23 @@
+{
+  "The Raven of Raven Rock SE": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 47710,
+      "file_name": "The Raven of Raven Rock SE-15713-1-0.7z",
+      "mod_id": 15713,
+      "hash": "sha256-3+lIpbv1xaTabXg0Zu1keyZnt0/2oMkCkSSN/53qSaQ="
+    },
+    "type": "primary"
+  },
+  "ESL version - The Raven of Raven Rock SE": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 48181,
+      "file_name": "ESL version - The Raven of Raven Rock SE-15713-1-0.7z",
+      "mod_id": 15713,
+      "hash": "sha256-SqKHHDcRaqSzhCAA39DHWSVpkmQak8ZvfClDZiP9bw0="
+    }
+  }
+}

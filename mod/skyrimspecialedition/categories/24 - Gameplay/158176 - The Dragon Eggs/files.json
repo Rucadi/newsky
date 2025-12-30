@@ -1,0 +1,24 @@
+{
+  "The Dragon Eggs 1080": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.2",
+      "file_id": 664946,
+      "file_name": "The Dragon Eggs 1080-158176-1-3-1757670353.rar",
+      "mod_id": 158176,
+      "hash": "sha256-+BqSdEI+dHX+zIN5ENLor6c/d0trOHNDaFqeCAl5VOM="
+    },
+    "type": "primary"
+  },
+  "The Dragon Eggs 2K (Recommended version)": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.2",
+      "file_id": 664947,
+      "file_name": "The Dragon Eggs 2K (Recommended version)-158176-1-3-1757670390.rar",
+      "mod_id": 158176,
+      "hash": "sha256-1B1kM3rzZoxAupTACGksl3C6RX0je3016H+T4j5fnpg="
+    },
+    "type": "primary"
+  }
+}

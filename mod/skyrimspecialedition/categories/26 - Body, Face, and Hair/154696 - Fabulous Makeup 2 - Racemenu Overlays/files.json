@@ -1,46 +1,46 @@
 {
-  "Fabulous Makeup 2 - HPH - 4K": {
-    "nexusmods": {
-      "game_name": "skyrimspecialedition",
-      "version": "1.0",
-      "file_id": 651154,
-      "file_name": "Fabulous Makeup 2 - HPH - 4K-154696-1-0-1753815534.zip",
-      "mod_id": 154696,
-      "hash": "sha256-bARuC6YnJSYsx5Y7KylCDuVkhbZPqKrHViTFXDfz0F0="
+    "Fabulous Makeup 2 - HPH - 4K": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "1.0",
+            "file_id": 651154,
+            "file_name": "Fabulous Makeup 2 - HPH - 4K-154696-1-0-1753815534.zip",
+            "mod_id": 154696,
+            "hash": "sha256-bARuC6YnJSYsx5Y7KylCDuVkhbZPqKrHViTFXDfz0F0="
+        },
+        "type": "primary"
     },
-    "type": "primary"
-  },
-  "Fabulous Makeup 2 - HPH - 2K": {
-    "nexusmods": {
-      "game_name": "skyrimspecialedition",
-      "version": "1.0",
-      "file_id": 651155,
-      "file_name": "Fabulous Makeup 2 - HPH - 2K-154696-1-0-1753815573.zip",
-      "mod_id": 154696,
-      "hash": "sha256-IaQBriF9XDIkQeN3fi6yyPuCyptziiGwd5gpIENvjvU="
+    "Fabulous Makeup 2 - HPH - 2K": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "1.0",
+            "file_id": 651155,
+            "file_name": "Fabulous Makeup 2 - HPH - 2K-154696-1-0-1753815573.zip",
+            "mod_id": 154696,
+            "hash": "sha256-IaQBriF9XDIkQeN3fi6yyPuCyptziiGwd5gpIENvjvU="
+        },
+        "type": "primary"
     },
-    "type": "primary"
-  },
-  "Fabulous Makeup 2 - UBE - 4K": {
-    "nexusmods": {
-      "game_name": "skyrimspecialedition",
-      "version": "1.0",
-      "file_id": 651156,
-      "file_name": "Fabulous Makeup 2 - UBE - 4K-154696-1-0-1753815670.zip",
-      "mod_id": 154696,
-      "hash": "sha256-2NaQ3WkObkvwa+YVZoregoDd+kD9wH77x5m9XIgfuCM="
+    "Fabulous Makeup 2 - UBE - 4K": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "1.0",
+            "file_id": 651156,
+            "file_name": "Fabulous Makeup 2 - UBE - 4K-154696-1-0-1753815670.zip",
+            "mod_id": 154696,
+            "hash": "sha256-2NaQ3WkObkvwa+YVZoregoDd+kD9wH77x5m9XIgfuCM="
+        },
+        "type": "primary"
     },
-    "type": "primary"
-  },
-  "Fabulous Makeup 2 - UBE - 2K": {
-    "nexusmods": {
-      "game_name": "skyrimspecialedition",
-      "version": "1.0",
-      "file_id": 651157,
-      "file_name": "Fabulous Makeup 2 - UBE - 2K-154696-1-0-1753815696.zip",
-      "mod_id": 154696,
-      "hash": "sha256-QI11DkQKqdI9118O6qaqfAUR94IT5J5B4ph5TKjZ3ho="
-    },
-    "type": "primary"
-  }
+    "Fabulous Makeup 2 - UBE - 2K": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "1.0",
+            "file_id": 651157,
+            "file_name": "Fabulous Makeup 2 - UBE - 2K-154696-1-0-1753815696.zip",
+            "mod_id": 154696,
+            "hash": "sha256-QI11DkQKqdI9118O6qaqfAUR94IT5J5B4ph5TKjZ3ho="
+        },
+        "type": "primary"
+    }
 }

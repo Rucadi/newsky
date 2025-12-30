@@ -1,0 +1,94 @@
+{
+  "Tawoba Imperial Bikini Crafting books BOS": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "BOS",
+      "file_id": 669898,
+      "file_name": "Tawoba Imperial Bikini Modesty BOS-160121-BOS-1758991112.rar",
+      "mod_id": 160121,
+      "hash": "sha256-LqMkJssMLDRyk+RLTgx11ZP27bvVVd5VTV0KGSA3+/I="
+    }
+  },
+  "Tawoba Imperial Bikini Crafting books CID": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "CID",
+      "file_id": 669902,
+      "file_name": "Tawoba Imperial Bikini Crafting books CID-160121-CID-1758991298.rar",
+      "mod_id": 160121
+    }
+  },
+  "Tawoba Imperial Bikini Modesty KID": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "2.0",
+      "file_id": 683295,
+      "file_name": "Tawoba Imperial Bikini Modesty KID-160121-2-0-1762169644.rar",
+      "mod_id": 160121
+    }
+  },
+  "Imperial Bikini armor 3BA HDT-SMP -prebuilt meshes": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "2.10",
+      "file_id": 697921,
+      "file_name": "Imperial Bikini armor 3BA HDT-SMP -prebuilt meshes-160121-2-10-1765719640.7z",
+      "mod_id": 160121
+    }
+  },
+  "Imperial Bikini armor 3BA HDT-SMP - Tawoba addon": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "2.10",
+      "file_id": 697922,
+      "file_name": "Imperial Bikini armor 3BA HDT-SMP - Tawoba addon-160121-2-10-1765719657.7z",
+      "mod_id": 160121
+    },
+    "type": "primary"
+  },
+  "Tawoba Imperial Bikini Baka KID ini": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "2.10",
+      "file_id": 697936,
+      "file_name": "Tawoba Imperial Bikini Baka KID ini-160121-2-10-1765721530.rar",
+      "mod_id": 160121
+    }
+  },
+  "Tawoba Imperial Bikini Helmet toggle 2 Support": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "2.10",
+      "file_id": 697938,
+      "file_name": "Tawoba Imperial Bikini Helmet toggle 2 Support-160121-2-10-1765721717.rar",
+      "mod_id": 160121
+    }
+  },
+  "Tawoba Imperial Bikini ORF KID ini": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "2.10",
+      "file_id": 697939,
+      "file_name": "Tawoba Imperial Bikini ORF KID ini-160121-2-10-1765721841.rar",
+      "mod_id": 160121
+    }
+  },
+  "TAWOBA_Impe_SoS_KID ini": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "2.10",
+      "file_id": 697941,
+      "file_name": "TAWOBA_Impe_SoS_KID ini-160121-2-10-1765721917.rar",
+      "mod_id": 160121
+    }
+  },
+  "Tawoba Imperial Bikini TNG ini": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "2.10",
+      "file_id": 697942,
+      "file_name": "Tawoba Imperial Bikini TNG ini-160121-2-10-1765722023.rar",
+      "mod_id": 160121
+    }
+  }
+}

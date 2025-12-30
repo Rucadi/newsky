@@ -1,0 +1,23 @@
+{
+  "See Through Portals and Oblivion Gates": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "0.1.1",
+      "file_id": 653463,
+      "file_name": "See Through Portals and Oblivion Gates-156264-0-1-1-1754532741.7z",
+      "mod_id": 156264,
+      "hash": "sha256-/23dmMl0YJ9QNoZafB1GJ57uXewSbaaOoe+l1MGWWiQ="
+    },
+    "type": "primary"
+  },
+  "Source Files": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "0.1.1",
+      "file_id": 653465,
+      "file_name": "Source Files-156264-0-1-1-1754532989.7z",
+      "mod_id": 156264,
+      "hash": "sha256-7EnfPT2e64/lkMctN0Dy2bvjRgxKa2A3dk1aaRSyA0w="
+    }
+  }
+}

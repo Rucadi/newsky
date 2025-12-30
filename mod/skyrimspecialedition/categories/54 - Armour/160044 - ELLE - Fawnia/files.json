@@ -1,0 +1,31 @@
+{
+  "Fawnia - 3BA": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1",
+      "file_id": 669508,
+      "file_name": "Fawnia - 3BA-160044-1-1758872462.rar",
+      "mod_id": 160044,
+      "hash": "sha256-JeAgFZ2nlWEK3Q0+ZWwnK4GlZHOtMZbP4hR2YvM0qEg="
+    },
+    "type": "primary"
+  },
+  "Fawnia - UBE": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1",
+      "file_id": 669509,
+      "file_name": "Fawnia - UBE-160044-1-1758872501.rar",
+      "mod_id": 160044
+    }
+  },
+  "Fawnia - Custom Staff": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1",
+      "file_id": 669510,
+      "file_name": "Fawnia - Custom Staff-160044-1-1758872706.rar",
+      "mod_id": 160044
+    }
+  }
+}

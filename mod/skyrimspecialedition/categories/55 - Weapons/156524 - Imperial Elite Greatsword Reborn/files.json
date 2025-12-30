@@ -1,0 +1,24 @@
+{
+  "Imperial Elite Greatsword 2048x8192 ESL": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "v1.0",
+      "file_id": 654008,
+      "file_name": "Imperial Elite Greatsword 2048x8192 ESL-156524-v1-0-1754718207.7z",
+      "mod_id": 156524,
+      "hash": "sha256-XpzlD0DFdCh9oz/fmtMICQ8HVgd8RFhK8mL9ox1DHKA="
+    },
+    "type": "primary"
+  },
+  "Imperial Elite Greatsword 1024x4096 ESL": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "v1.0",
+      "file_id": 654180,
+      "file_name": "Sentinel Zweihander 1024x4096 Textures-156524-v1-0-1754759112.7z",
+      "mod_id": 156524,
+      "hash": "sha256-paXxCBZsqGClOSKrv+J7hj7i8DtvaJDDhE6vYGGXtXg="
+    },
+    "type": "primary"
+  }
+}

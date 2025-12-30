@@ -1,0 +1,23 @@
+{
+  "Simply Balanced - 1.4.7": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.4.7",
+      "file_id": 514466,
+      "file_name": "Simply Balanced - 1.4.7-15541-1-4-7-1719230030.zip",
+      "mod_id": 15541,
+      "hash": "sha256-VQD8XGtuF9iaB/XmlGGWNNqlXMTHqHJE1UBGQqGq3Yg="
+    },
+    "type": "primary"
+  },
+  "Simply Balanced - 1.4.7 - Optional Enchantment Fix": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.4.7",
+      "file_id": 514467,
+      "file_name": "Simply Balanced - 1.4.7 - Optional Enchantment Fix-15541-1-4-7-1719230285.zip",
+      "mod_id": 15541,
+      "hash": "sha256-pESCelhmP0eeajMO4v8ot4oeGpEmvXEH6L2adGrKwqM="
+    }
+  }
+}

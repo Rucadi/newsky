@@ -1,0 +1,24 @@
+{
+  "HSF Weather Control": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1",
+      "file_id": 651645,
+      "file_name": "HSF Weather Control-155941-1-1-1753977260.7z",
+      "mod_id": 155941,
+      "hash": "sha256-AFjFqrux0cBA8qQyEvsv4Ekt4R+9/Ejtyz+scxJ/HOA="
+    },
+    "type": "primary"
+  },
+  "HSF Weather Control (Hotkey Version)": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0H",
+      "file_id": 652649,
+      "file_name": "HSF Weather Control (Hotkey Version)-155941-1-0H-1754273078.7z",
+      "mod_id": 155941,
+      "hash": "sha256-xGrKnX1TR6CSf54PIXQaDOvtXbKm/8lQfbtmW3X+bxY="
+    },
+    "type": "primary"
+  }
+}

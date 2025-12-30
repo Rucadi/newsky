@@ -1,0 +1,35 @@
+{
+  "Dawn of Skyrim Ginerva Marker": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1",
+      "file_id": 656837,
+      "file_name": "Dawn of Skyrim Ginerva Marker-157124-1-0-1755504187.zip",
+      "mod_id": 157124,
+      "hash": "sha256-G3KWNjqsy3UOSLnUzlrN1To+EJ4gZlzBh05PKYCWZrQ="
+    },
+    "type": "primary"
+  },
+  "Beirand Marker": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 656839,
+      "file_name": "Dawn of Skyrim Beirand Marker-157124-1-0-1755504246.zip",
+      "mod_id": 157124,
+      "hash": "sha256-RPwduKGidBc7K7NH9DS0wJ1gZjNmiukSk0BJbc4+Mjo="
+    },
+    "type": "primary"
+  },
+  "Dawn of Skyrim Ginerva and Beirand Markers": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1",
+      "file_id": 656840,
+      "file_name": "Dawn of Skyrim Ginerva and Beirand Markers-157124-1-0-1755504312.zip",
+      "mod_id": 157124,
+      "hash": "sha256-iAGnaIRRLSrfwLF7kDubaTFt7BC81vwU3K6k9N7Pxus="
+    },
+    "type": "primary"
+  }
+}

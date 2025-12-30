@@ -1,0 +1,44 @@
+{
+  "Ebony Valkyrie CBBE 3BA": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1",
+      "file_id": 669170,
+      "file_name": "Ebony Valkyrie CBBE 3BA-159141-1-1758760945.7z",
+      "mod_id": 159141,
+      "hash": "sha256-QZws3RgLbjh4Z60BglVgsfne8f0+MAQ+8GBnt6A4BAk="
+    },
+    "type": "primary"
+  },
+  "Ebony Valkyrie BHUNP": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1",
+      "file_id": 669171,
+      "file_name": "Ebony Valkyrie BHUNP-159141-1-1758761061.7z",
+      "mod_id": 159141,
+      "hash": "sha256-MG7fbRlEAhFDJNlvsCHv1xE5R9bqIrM0V2OFixqGxrA="
+    },
+    "type": "primary"
+  },
+  "Ebony Valkyrie HIMBO": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1",
+      "file_id": 669173,
+      "file_name": "Ebony Valkyrie HIMBO-159141-1-1758761175.7z",
+      "mod_id": 159141
+    },
+    "type": "primary"
+  },
+  "Ebony Valkyrie UBE": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1",
+      "file_id": 669174,
+      "file_name": "Ebony Valkyrie UBE-159141-1-1758761272.7z",
+      "mod_id": 159141
+    },
+    "type": "primary"
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "Steady On Steppin Bodyslides": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 652990,
+      "file_name": "Steady On Steppin Bodyslides-156243-1-0-1754374826.zip",
+      "mod_id": 156243,
+      "hash": "sha256-8hn5ETQi6nh3rEQRO8y35r/kS4ZbBeUUPDO7aJw6oPE="
+    },
+    "type": "primary"
+  },
+  "Steady On Steppin Bodyslides Push Up": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 652991,
+      "file_name": "Steady On Steppin Bodyslides Push Up-156243-1-0-1754374910.zip",
+      "mod_id": 156243,
+      "hash": "sha256-qf481keYVx1rbZ8kfJPYe4ybPRCPHehA8Uj2W74ivdQ="
+    },
+    "type": "primary"
+  }
+}

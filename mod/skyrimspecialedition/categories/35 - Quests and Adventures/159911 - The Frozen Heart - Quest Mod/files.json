@@ -1,0 +1,57 @@
+{
+    "4K Textures": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "0.4.2",
+            "file_id": 685995,
+            "file_name": "4K Textures-159911-0-4-1-1762760443.7z",
+            "mod_id": 159911
+        }
+    },
+    "HIMBO BodySlide Files": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "0.4.2",
+            "file_id": 687011,
+            "file_name": "HIMBO BodySlide Files-159911-0-4-2-1763038940.7z",
+            "mod_id": 159911
+        }
+    },
+    "UUNP BodySlide Files": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "0.4.2",
+            "file_id": 687012,
+            "file_name": "UUNP BodySlide Files-159911-0-4-2-1763039109.7z",
+            "mod_id": 159911
+        }
+    },
+    "CBBE 3BA BodySlide Files": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "0.4.2",
+            "file_id": 687013,
+            "file_name": "CBBE 3BA BodySlide Files-159911-0-4-2-1763039140.7z",
+            "mod_id": 159911
+        }
+    },
+    "BHUNP BodySlide Files": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "0.4.2",
+            "file_id": 687014,
+            "file_name": "BHUNP BodySlide Files-159911-0-4-2-1763039199.7z",
+            "mod_id": 159911
+        }
+    },
+    "The Frozen Heart - Main File": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "0.6.3",
+            "file_id": 703177,
+            "file_name": "The Frozen Heart - Main File-159911-0-6-3-1766999436.7z",
+            "mod_id": 159911
+        },
+        "type": "primary"
+    }
+}

@@ -1,0 +1,34 @@
+{
+  "ODF - TitKit ESL": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1.0",
+      "file_id": 652667,
+      "file_name": "ODF - TitKit ESL-156063-1-1-0-1754279790.7z",
+      "mod_id": 156063,
+      "hash": "sha256-oqAC7VItjOjSGMF4kC4/okyfegqHUYAwWVupD20xcso="
+    },
+    "type": "primary"
+  },
+  "ODF - TitKit ESP": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1.0",
+      "file_id": 652669,
+      "file_name": "ODF - TitKit ESP-156063-1-1-0-1754279900.7z",
+      "mod_id": 156063,
+      "hash": "sha256-oMJJYJBqaEOZlVoaUqj6g84wTyCgMX5XHJsErrNksXw="
+    },
+    "type": "primary"
+  },
+  "ODF - TitKit Bandit Add-on": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1.0",
+      "file_id": 652673,
+      "file_name": "ODF - TitKit Bandit Add-on-156063-1-1-0-1754280769.7z",
+      "mod_id": 156063,
+      "hash": "sha256-5hvnsDDIVCFDvymkA3Q8oipBvVCFiozOOiKyxnsr+5E="
+    }
+  }
+}

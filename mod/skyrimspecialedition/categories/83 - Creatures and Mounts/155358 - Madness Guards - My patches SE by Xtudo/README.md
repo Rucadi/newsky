@@ -1,0 +1,49 @@
+# Madness Guards - My patches SE by Xtudo
+- Author: Author Mihail - My patches by Xtudo
+- Game: skyrimspecialedition
+- Mod Page: https://www.nexusmods.com/skyrimspecialedition/mods/155358
+
+
+**![](https://staticdelivery.nexusmods.com/mods/1704/images/headers/155358_1753269548.jpg)﻿****MADNESS GUARDS**
+  
+**My patches by Xtudo**
+
+**Description**
+  
+
+  
+* **4K-2K-1K** reduced VRAM usage textures.
+Carried on Unofficial Skyrim Patch edits.
+  
+
+  
+**Requirements**
+  
+
+  
+* [Madness Guards- Mihail Monsters and Animals (SE's Creation Club- AE).](https://www.nexusmods.com/skyrimspecialedition/mods/155275)﻿﻿﻿﻿﻿
+
+**Credits**
+  
+
+  
+* **Mihail** for his awesome work.
+
+  
+**Especial thanks**
+  
+
+  
+* To **Mihail**and my lovely [Patreons](https://www.patreon.com/Xtudo)﻿ and supporters.
+
+  
+
+[![](https://i.imgur.com/huDtp6A.png)](https://ko-fi.com/xtudo)
+
+  
+
+**Do you like my mods or stories?
+  
+Please support me on [Patreon](https://www.patreon.com/Xtudo).**
+  
+[![](https://staticdelivery.nexusmods.com/mods/1704/images/51726/51726-1625164958-1101084130.jpeg)](https://www.patreon.com/Xtudo)

@@ -192,7 +192,8 @@
       "version": "1.0",
       "file_id": 647658,
       "file_name": "Pseudoloaddoors - Windhelm Docks-154875-1-0-1752649950.7z",
-      "mod_id": 154875
+      "mod_id": 154875,
+      "hash": "sha256-GjQwOkLAwYUe0BcmWHx6fG16dfTJZcbY1fhhf1fOuG8="
     },
     "type": "primary"
   },
@@ -202,7 +203,8 @@
       "version": "1.0",
       "file_id": 647659,
       "file_name": "Regional Merchants - Northern Roads-154875-1-0-1752650009.7z",
-      "mod_id": 154875
+      "mod_id": 154875,
+      "hash": "sha256-VaTWN8HW/U1CfG9JEzUePcVMpEnDtIKUXtfhmwGFH7w="
     },
     "type": "primary"
   },
@@ -212,7 +214,8 @@
       "version": "1.0",
       "file_id": 647661,
       "file_name": "City Trees - Regional Outfitters-154875-1-0-1752650091.7z",
-      "mod_id": 154875
+      "mod_id": 154875,
+      "hash": "sha256-76Kmi17hlyn+nCZkwVjIiBnbwvxlwKlX90b46BYmiFI="
     },
     "type": "primary"
   },
@@ -222,7 +225,8 @@
       "version": "1.0",
       "file_id": 647662,
       "file_name": "City Trees - Northern Roads-154875-1-0-1752650205.7z",
-      "mod_id": 154875
+      "mod_id": 154875,
+      "hash": "sha256-a2zzXpxKOtBX3t9Egu63X1/2BylsOfChSAZ/0MytCLs="
     },
     "type": "primary"
   },
@@ -232,7 +236,8 @@
       "version": "1.0",
       "file_id": 647665,
       "file_name": "Ryn's Farms - Witcher Horses-154875-1-0-1752650304.7z",
-      "mod_id": 154875
+      "mod_id": 154875,
+      "hash": "sha256-YNUwHe4NsRT/Ck5yaMThXq+ci342jDt3+xwiE4F4RWs="
     },
     "type": "primary"
   },
@@ -242,7 +247,8 @@
       "version": "1.0",
       "file_id": 647669,
       "file_name": "Seasonal Landscapes Solstheim - Quaint Raven Rock-154875-1-0-1752650395.7z",
-      "mod_id": 154875
+      "mod_id": 154875,
+      "hash": "sha256-vCQ9hDG4TpjXVRF4ZwSow5lp04qQWVZugVHghuqH/Gk="
     },
     "type": "primary"
   },
@@ -252,7 +258,8 @@
       "version": "1.0",
       "file_id": 647673,
       "file_name": "Simple Tolls - Northern Roads-154875-1-0-1752650440.7z",
-      "mod_id": 154875
+      "mod_id": 154875,
+      "hash": "sha256-qYttrygslOch9cSxBVrNhx1y6UkrCpeiPGB3hxWIF3E="
     },
     "type": "primary"
   },
@@ -262,7 +269,8 @@
       "version": "1.0",
       "file_id": 647676,
       "file_name": "Spaghetti's Cities AiO - DK's Nord Ships-154875-1-0-1752650509.7z",
-      "mod_id": 154875
+      "mod_id": 154875,
+      "hash": "sha256-1I+GDSd2x+3UCcXRrP1kpFc4P0OkpZ6IY3B04GJWzlM="
     },
     "type": "primary"
   },
@@ -272,7 +280,8 @@
       "version": "1.0",
       "file_id": 647677,
       "file_name": "Spaghetti's Towns AiO - DK's Nord Ships-154875-1-0-1752650534.7z",
-      "mod_id": 154875
+      "mod_id": 154875,
+      "hash": "sha256-XwISvoJ50g3dn4IkN7LUH6C8DxPe2CBPHUDccnNjN7U="
     },
     "type": "primary"
   },
@@ -282,7 +291,8 @@
       "version": "1.0",
       "file_id": 647678,
       "file_name": "TGC Winterhold - Quaint Graves-154875-1-0-1752650617.7z",
-      "mod_id": 154875
+      "mod_id": 154875,
+      "hash": "sha256-9cnPfleYxvGb9LLDjHpQPsVLEBjDaKj0sdxeS8tzQAo="
     },
     "type": "primary"
   },
@@ -292,7 +302,8 @@
       "version": "1.0",
       "file_id": 647679,
       "file_name": "Undaunted - Northern Roads-154875-1-0-1752650670.7z",
-      "mod_id": 154875
+      "mod_id": 154875,
+      "hash": "sha256-nEoEHONHQNIm+L9Keu3/6BwL6KkuCyzKaDP2EhPgQZY="
     },
     "type": "primary"
   },
@@ -302,7 +313,8 @@
       "version": "1.0",
       "file_id": 647680,
       "file_name": "Hunter's Dream - Northern Roads-154875-1-0-1752650721.7z",
-      "mod_id": 154875
+      "mod_id": 154875,
+      "hash": "sha256-m0k14lAqg4ZEs0wasJWQ4RlKZgg/XSTLrcTmF+SjjWI="
     },
     "type": "primary"
   },
@@ -312,7 +324,8 @@
       "version": "1.0",
       "file_id": 647682,
       "file_name": "Whiterun Has Walls Redone - Little Touches-154875-1-0-1752650786.zip",
-      "mod_id": 154875
+      "mod_id": 154875,
+      "hash": "sha256-X0LUlX1wzWwSyl73///1m8552gwBUMG7unhvk9i9Shw="
     },
     "type": "primary"
   },
@@ -322,7 +335,8 @@
       "version": "1.0",
       "file_id": 647683,
       "file_name": "Windhelm Braziers - Little Touches for Windhelm-154875-1-0-1752650828.7z",
-      "mod_id": 154875
+      "mod_id": 154875,
+      "hash": "sha256-xqE2SyH6tGzH/lBn4K/zOokN+hSZLPJhoOkPo5g10mA="
     },
     "type": "primary"
   },
@@ -332,7 +346,8 @@
       "version": "1.0",
       "file_id": 647684,
       "file_name": "UNDERWORLD (Windstad Manor) - WINDSTAD (Village)-154875-1-0-1752650907.7z",
-      "mod_id": 154875
+      "mod_id": 154875,
+      "hash": "sha256-TYF+QQgfcnyFS34ywyWVjkMSCPxSfwwH7bKCouYFTsQ="
     },
     "type": "primary"
   },
@@ -342,7 +357,8 @@
       "version": "1.0",
       "file_id": 647685,
       "file_name": "Wizkid Hunter's Camp - Shadows Over Illinalta-154875-1-0-1752650948.zip",
-      "mod_id": 154875
+      "mod_id": 154875,
+      "hash": "sha256-0DSbJHJJl3n9DhlY9oAr8U4PLfxRsWaaxixkUbb763E="
     },
     "type": "primary"
   },
@@ -352,7 +368,8 @@
       "version": "1.0",
       "file_id": 647815,
       "file_name": "Whiterun Nordic Runic Stone - Northern Roads-154875-1-0-1752696206.7z",
-      "mod_id": 154875
+      "mod_id": 154875,
+      "hash": "sha256-aVvBb89zwnJKUYO1W7Dw6FSjev2uTrKqi9NStGWJSCk="
     },
     "type": "primary"
   },
@@ -362,7 +379,8 @@
       "version": "1.0",
       "file_id": 648446,
       "file_name": "AncientLand2 - Ryn's Azura Shrine-154875-1-0-1752916666.zip",
-      "mod_id": 154875
+      "mod_id": 154875,
+      "hash": "sha256-o/JgNXJ5USuqybpqVwy0P1z8JrLwPMGgzbAcEkTwwWo="
     },
     "type": "primary"
   },
@@ -372,7 +390,8 @@
       "version": "1.0",
       "file_id": 648447,
       "file_name": "Daedcric Shrines AiO - Thay's Blue Palace Overhaul-154875-1-0-1752916767.7z",
-      "mod_id": 154875
+      "mod_id": 154875,
+      "hash": "sha256-lGcl/A8v7xUfGB64f4D/as1NQaBtAV4q3eMu2gDkoh4="
     },
     "type": "primary"
   },
@@ -382,7 +401,8 @@
       "version": "1.0",
       "file_id": 648448,
       "file_name": "NIghtgate Inn Revived - House Cats Behavior Tweaks-154875-1-0-1752916879.zip",
-      "mod_id": 154875
+      "mod_id": 154875,
+      "hash": "sha256-eMPABOWaA5U90sNOnrRvNJJ7wXy3uPSmMTlnLaPXbvk="
     },
     "type": "primary"
   },
@@ -392,7 +412,8 @@
       "version": "1.0",
       "file_id": 648449,
       "file_name": "DK's Nord Ships - Man the Cannons-154875-1-0-1752916965.zip",
-      "mod_id": 154875
+      "mod_id": 154875,
+      "hash": "sha256-N+4k01AbLEQmOA9JtVLVTePGam7rMPTeASqJ7xZ5kN8="
     },
     "type": "primary"
   },
@@ -402,7 +423,8 @@
       "version": "1.0",
       "file_id": 648450,
       "file_name": "Riverwood has Walls - Golden Chicken-154875-1-0-1752917020.zip",
-      "mod_id": 154875
+      "mod_id": 154875,
+      "hash": "sha256-fiN/0iQVh0szHToh21LyajE004ETueH3jTBVlgJUI8M="
     },
     "type": "primary"
   },
@@ -412,7 +434,8 @@
       "version": "1.0",
       "file_id": 648451,
       "file_name": "Riverwood has Walls - Regional Merchants-154875-1-0-1752917097.zip",
-      "mod_id": 154875
+      "mod_id": 154875,
+      "hash": "sha256-Cc6teXejkpZCTR0mIl5D1hOiPDyKj0CQ8I5pBZXduPA="
     },
     "type": "primary"
   },
@@ -422,7 +445,8 @@
       "version": "1.0",
       "file_id": 648452,
       "file_name": "Thay's Blue Palace - UNDERWORLD (Windstad Manor)-154875-1-0-1752917213.zip",
-      "mod_id": 154875
+      "mod_id": 154875,
+      "hash": "sha256-51Nmx40n6axsFC2Hn6gHnIpbikgzt+OvF0CuEjHGulc="
     },
     "type": "primary"
   },
@@ -432,7 +456,8 @@
       "version": "1.0",
       "file_id": 652855,
       "file_name": "Taking throne is a crime - Thrones Expanded BOS-154875-1-0-1754324891.zip",
-      "mod_id": 154875
+      "mod_id": 154875,
+      "hash": "sha256-ke2T453Ot3Uf79JWi6YaDIlUw93tuFFDXsXRmTku2U0="
     },
     "type": "primary"
   },
@@ -442,7 +467,8 @@
       "version": "1.0",
       "file_id": 652856,
       "file_name": "Thuldor's Ivarstead - A Cat's Life patch-154875-1-0-1754324941.zip",
-      "mod_id": 154875
+      "mod_id": 154875,
+      "hash": "sha256-IS0bS4huI0z0emnR/dOaKz3H0CUqvaDAUqcmjgPsgsE="
     },
     "type": "primary"
   },
@@ -452,7 +478,8 @@
       "version": "1.0",
       "file_id": 652857,
       "file_name": "Thuldor's Ivarstead - Sepolcri Expanded-154875-1-0-1754324993.zip",
-      "mod_id": 154875
+      "mod_id": 154875,
+      "hash": "sha256-aBAWw1gyqsejGLmXbDzGz4/LgW1+lbgPAVaa4uowqdI="
     },
     "type": "primary"
   },
@@ -462,7 +489,8 @@
       "version": "1.0",
       "file_id": 652858,
       "file_name": "Thuldor's Ivarstead - Skald's Mail-154875-1-0-1754325062.zip",
-      "mod_id": 154875
+      "mod_id": 154875,
+      "hash": "sha256-g0CsmyhQzRFm06UqFkSqCeCC/Ci0DdHBorpuX++wT9E="
     },
     "type": "primary"
   },
@@ -472,7 +500,8 @@
       "version": "1.0",
       "file_id": 652859,
       "file_name": "Trailblazers - Wares of Tamriel-154875-1-0-1754325116.rar",
-      "mod_id": 154875
+      "mod_id": 154875,
+      "hash": "sha256-5paUP99qG89LPgAp5z+jKNWC3ZNlcQOW0fNyVas/Zjc="
     },
     "type": "primary"
   }

@@ -1,0 +1,43 @@
+{
+  "Vayne Remastered - ESL Flagged": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 656380,
+      "file_name": "Vayne Remastered - ESL Flagged-157005-3-0-1755396357.zip",
+      "mod_id": 157005,
+      "hash": "sha256-ET0cjAbgivw4t+hTQbNT+LguBHQZifMYFYYTV4gxYyE="
+    },
+    "type": "primary"
+  },
+  "Outfit 1 - ZK Rogue Outfit - SkyPatcher": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 656381,
+      "file_name": "Outfit 1 - ZK Rogue Outfit - SkyPatcher-157005-1-0-1755396516.7z",
+      "mod_id": 157005,
+      "hash": "sha256-tDmj7fY+uOYpcgJ6lwK0e9GfW0S5CbiIY0Qju3TklOI="
+    }
+  },
+  "Outfit 2 - Dark Envoy - SkyPatcher": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 656382,
+      "file_name": "Outfit 2 - Dark Envoy - SkyPatcher-157005-1-0-1755396609.7z",
+      "mod_id": 157005,
+      "hash": "sha256-YE2oi+iXvJ/n57Xo7wzlYWrPGqNDP+460iHCH3Mkbws="
+    }
+  },
+  "Outfit 3 - Soul Hunter - SkyPatcher": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 656383,
+      "file_name": "Outfit 3 - Soul Hunter - SkyPatcher-157005-1-0-1755396693.7z",
+      "mod_id": 157005,
+      "hash": "sha256-5QJJVpW9S4TsboyOimQiITcZr+onBxQ9OQYCpBWtZMU="
+    }
+  }
+}

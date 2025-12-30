@@ -1,0 +1,24 @@
+{
+  "Deer Reworked - Ultimate 4K": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1",
+      "file_id": 653017,
+      "file_name": "Deer Reworked - Ultimate 4K-155433-1-1-1754384252.7z",
+      "mod_id": 155433,
+      "hash": "sha256-iswmnpzriHtc43S12QE28lTHDB8EGuqiB1LO6C5c1eA="
+    },
+    "type": "primary"
+  },
+  "Deer Reworked - Ultimate 2K": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1",
+      "file_id": 653018,
+      "file_name": "Deer Reworked - Ultimate 2K-155433-1-1-1754384277.7z",
+      "mod_id": 155433,
+      "hash": "sha256-OrLolJT+0cI7mAYEeGwTD8VNZtlsT++UgbtURW3cIX8="
+    },
+    "type": "primary"
+  }
+}

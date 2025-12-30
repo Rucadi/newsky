@@ -1,35 +1,35 @@
 {
-  "Skyking Whiterun 4k": {
-    "nexusmods": {
-      "game_name": "skyrimspecialedition",
-      "version": "1.0",
-      "file_id": 665417,
-      "file_name": "Skyking Whiterun 4k-159113-1-0-1757792467.7z",
-      "mod_id": 159113,
-      "hash": "sha256-BlA3kHVh+kwoYNNrVspG2Fusf8PxouCpHZ/oqJ100L4="
+    "Skyking Whiterun 4k": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "1.0",
+            "file_id": 665417,
+            "file_name": "Skyking Whiterun 4k-159113-1-0-1757792467.7z",
+            "mod_id": 159113,
+            "hash": "sha256-BlA3kHVh+kwoYNNrVspG2Fusf8PxouCpHZ/oqJ100L4="
+        },
+        "type": "primary"
     },
-    "type": "primary"
-  },
-  "Skyking Whiterun 1k": {
-    "nexusmods": {
-      "game_name": "skyrimspecialedition",
-      "version": "1.0",
-      "file_id": 665420,
-      "file_name": "Skyking Whiterun 1k-159113-1-0-1757792784.7z",
-      "mod_id": 159113,
-      "hash": "sha256-3kD4dhCkgzliR04vM8qTuX+YeDB6JWZAaclX6s/X+8U="
+    "Skyking Whiterun 1k": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "1.0",
+            "file_id": 665420,
+            "file_name": "Skyking Whiterun 1k-159113-1-0-1757792784.7z",
+            "mod_id": 159113,
+            "hash": "sha256-3kD4dhCkgzliR04vM8qTuX+YeDB6JWZAaclX6s/X+8U="
+        },
+        "type": "primary"
     },
-    "type": "primary"
-  },
-  "Skyking Whiterun 2k": {
-    "nexusmods": {
-      "game_name": "skyrimspecialedition",
-      "version": "1.0.1",
-      "file_id": 666063,
-      "file_name": "Skyking Whiterun 2k-159113-1-0-1-1757950927.7z",
-      "mod_id": 159113,
-      "hash": "sha256-5dOgVIMcq8n6DYbmNo2zqfnnjN5/ewM62LbbgEkZvj4="
-    },
-    "type": "primary"
-  }
+    "Skyking Whiterun 2k": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "1.0.1",
+            "file_id": 666063,
+            "file_name": "Skyking Whiterun 2k-159113-1-0-1-1757950927.7z",
+            "mod_id": 159113,
+            "hash": "sha256-5dOgVIMcq8n6DYbmNo2zqfnnjN5/ewM62LbbgEkZvj4="
+        },
+        "type": "primary"
+    }
 }

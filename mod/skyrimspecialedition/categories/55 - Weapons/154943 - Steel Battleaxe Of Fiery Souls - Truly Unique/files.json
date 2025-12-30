@@ -1,0 +1,24 @@
+{
+  "Steel Battleaxe Of Fiery Souls Truly Unique ESL 4K": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "v1.0",
+      "file_id": 647536,
+      "file_name": "Steel Battleaxe Of Fiery Souls Truly Unique ESL 4K-154943-v1-0-1752609527.7z",
+      "mod_id": 154943,
+      "hash": "sha256-6YYyP5XRjGY+aaEXyoZXFHNsjfLJ+HAEBHXRgm8TnJg="
+    },
+    "type": "primary"
+  },
+  "Steel Battleaxe Of Fiery Souls Truly Unique ESL 2K": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "v1.0",
+      "file_id": 647537,
+      "file_name": "Steel Battleaxe Of Fiery Souls Truly Unique ESL 2K-154943-v1-0-1752609565.7z",
+      "mod_id": 154943,
+      "hash": "sha256-XvQlmPjLVN4vY5g5y7WeGB0afwvEe2cfZR9n3funrtk="
+    },
+    "type": "primary"
+  }
+}

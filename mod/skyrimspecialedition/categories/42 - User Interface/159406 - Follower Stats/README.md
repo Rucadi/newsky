@@ -2,6 +2,8 @@
 - Author: shazdeh2
 - Game: skyrimspecialedition
 - Mod Page: https://www.nexusmods.com/skyrimspecialedition/mods/159406
+
+
 Inspired by Starfield. When you're in conversation with a potential follower or hirable mercenary, you will be able to see some stats about them. This includes their pool of Health, Magicka, and Stamina; plus their level. Also what skills they're good at.
   
   

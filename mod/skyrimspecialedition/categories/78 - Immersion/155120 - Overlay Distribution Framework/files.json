@@ -1,0 +1,63 @@
+{
+  "ODF - Mages Have Glowing Warpaints": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 649000,
+      "file_name": "ODF - Mages Have Glowing Warpaints-155120-1-0-1753098310.zip",
+      "mod_id": 155120,
+      "hash": "sha256-1OCUnYsNbwrLma/zxrPbH3aAZ/QWk/tAJhNsdnUtt3U="
+    }
+  },
+  "ODF - Scars And Wounds": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 649005,
+      "file_name": "ODF - Scars And Wounds-155120-1-0-1753098430.zip",
+      "mod_id": 155120,
+      "hash": "sha256-O/uAtGenbFv3XNdejEVA4CCANM3n9x6ofYxnAbNKcSs="
+    }
+  },
+  "ODF - Blacksmith Burnmarks": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 649006,
+      "file_name": "ODF - Blacksmith Burnmarks-155120-1-0-1753098518.zip",
+      "mod_id": 155120,
+      "hash": "sha256-ZMatxmKFP+GPMiZoV40ERiBlc+PdHKe/4eOUUOjIlcA="
+    }
+  },
+  "ODF - Enemy Warpaints": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 649007,
+      "file_name": "ODF - Enemy Warpaints-155120-1-0-1753098614.zip",
+      "mod_id": 155120,
+      "hash": "sha256-h5D0LlA1ru5RdnNiY+3mWq19OWbFkH1DP6afh7vL2TI="
+    }
+  },
+  "ODF - Pubic Hair": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.3",
+      "file_id": 650641,
+      "file_name": "ODF - Pubic Hair-155120-1-3-1753635972.zip",
+      "mod_id": 155120,
+      "hash": "sha256-pbRDmi19yyYBHdeg1/5GFwBT9HCooUshsx/9Eoktauw="
+    }
+  },
+  "Overlay Distribution Framework": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.6.1",
+      "file_id": 695237,
+      "file_name": "Overlay Distribution Framework-155120-1-6-1-1765071174.zip",
+      "mod_id": 155120,
+      "hash": "sha256-x9UpfeaPnkMIY4LOFZOetfnYidPDH/9dJRL7/FQFRns="
+    },
+    "type": "primary"
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "Wendigo - SE by Xtudo - Textures 1K": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1",
+      "file_id": 649001,
+      "file_name": "Wendigo - SE by Xtudo - Textures 1K-155241-1-1753098366.7z",
+      "mod_id": 155241,
+      "hash": "sha256-Waon6+LA+d7nduPkHlDlGZq3v5FHckhdXkDWFjz7KGk="
+    },
+    "type": "primary"
+  },
+  "Wendigo - SE by Xtudo - Textures 2K": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1",
+      "file_id": 649002,
+      "file_name": "Wendigo - SE by Xtudo - Textures 2K-155241-1-1753098379.7z",
+      "mod_id": 155241,
+      "hash": "sha256-0ED6zbMZ7pXcAbDQb0ifmUrcGYYa39ggKGW2xr7D/xs="
+    },
+    "type": "primary"
+  },
+  "Wendigo - SE by Xtudo - Textures 4K": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1",
+      "file_id": 649003,
+      "file_name": "Wendigo - SE by Xtudo - Textures 4K-155241-1-1753098393.7z",
+      "mod_id": 155241,
+      "hash": "sha256-dlvlgG2rgp2uliYHRsRQLL6M8eWL6MbRFDoe6WfKcSQ="
+    },
+    "type": "primary"
+  },
+  "Wendigo - SE by Xtudo - Tweaked ESP": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1",
+      "file_id": 649004,
+      "file_name": "Wendigo - SE by Xtudo - Tweaked ESP-155241-1-1753098411.7z",
+      "mod_id": 155241,
+      "hash": "sha256-/zNO35mXc3nbZOGC4ZErkKEaMCeRgFOuLqV4HwL04Qk="
+    },
+    "type": "primary"
+  }
+}

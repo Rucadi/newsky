@@ -1,0 +1,23 @@
+{
+  "Werewolf Replacer": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1",
+      "file_id": 652333,
+      "file_name": "Werewolf Replacer-156098-1-1754194191.rar",
+      "mod_id": 156098,
+      "hash": "sha256-u1ZEorWm7R8uRpXKEd5GMG+BiMb8q85RmhiFNCItLPo="
+    }
+  },
+  "Werewolf Behemoths (se-ae) 1.1": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1",
+      "file_id": 653108,
+      "file_name": "Werewolf Behemoths (se-ae) 1.1-156098-1-1-1754407739.rar",
+      "mod_id": 156098,
+      "hash": "sha256-gwfXStQEG1DBsfaCLD/UBLpmTwwFFrTORJHzOkcghwI="
+    },
+    "type": "primary"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "Miggyluv's Eyes - Vanilla Replacers": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.8.1",
+      "file_id": 658939,
+      "file_name": "Miggyluv's Eyes - Vanilla Replacers-155332-1-8-1-1756077893.zip",
+      "mod_id": 155332,
+      "hash": "sha256-u/EcF17GfJQM5JKRwd139JCuHJqebFrCnIbFTeOpPQo="
+    }
+  },
+  "Miggyluv's Eyes - All Races": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.8.2",
+      "file_id": 663019,
+      "file_name": "Miggyluv's Eyes - All Races-155332-1-8-2-1757193552.zip",
+      "mod_id": 155332,
+      "hash": "sha256-VfJ3S/vD4qVmqH0rdK5vCwNrZ8vGdvl+qZEaeZvtg/4="
+    },
+    "type": "primary"
+  }
+}

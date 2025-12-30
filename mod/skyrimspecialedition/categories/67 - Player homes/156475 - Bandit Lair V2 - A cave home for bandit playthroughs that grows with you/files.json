@@ -1,0 +1,23 @@
+{
+  "Bandit Lair V2 - No General Stores Version": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "2.0NGS",
+      "file_id": 653858,
+      "file_name": "Bandit Lair V2 - No General Stores Version-156475-2-0NGS-1754661791.7z",
+      "mod_id": 156475,
+      "hash": "sha256-lEKmwSc/7fyyX+1v8qpaUxw3zDUmX9duGQBqJgpkKBo="
+    }
+  },
+  "Bandit Lair V2.01": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "2.0",
+      "file_id": 668679,
+      "file_name": "Bandit Lair V2.01-156475-2-0-1758619795.7z",
+      "mod_id": 156475,
+      "hash": "sha256-j3Pbqlw4aVmUAUfcPBLidowrel1qKDtAiRPycDjUfqA="
+    },
+    "type": "primary"
+  }
+}

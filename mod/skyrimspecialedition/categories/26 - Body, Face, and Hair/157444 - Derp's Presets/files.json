@@ -1,0 +1,23 @@
+{
+  "The Presets": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1",
+      "file_id": 660066,
+      "file_name": "The Presets-157444-1-1756392860.zip",
+      "mod_id": 157444,
+      "hash": "sha256-WqPIqGUPZ2axh1iuLt3k+HYuGZoj7qHp6aTx81TBakg="
+    },
+    "type": "primary"
+  },
+  "Increase Overlay limit": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1",
+      "file_id": 687245,
+      "file_name": "Increase Overlay limit-157444-1-1763093453.zip",
+      "mod_id": 157444,
+      "hash": "sha256-9DOK2VPilF508xsVzyUcd9D8w1aKPW4szo5yO/0cJdg="
+    }
+  }
+}

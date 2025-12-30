@@ -1,0 +1,23 @@
+{
+  "Desaturated Textures": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 656460,
+      "file_name": "Desaturated Textures-156970-1-0-1755420218.rar",
+      "mod_id": 156970,
+      "hash": "sha256-kpaHX+T5LaSqtdmpnf9FmkKDqbdZF9DPIQIS8NBu+Is="
+    }
+  },
+  "Gleaming Glaciers v1-3": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.3",
+      "file_id": 673522,
+      "file_name": "Gleaming Glaciers v1-3-156970-1-3-1759905812.rar",
+      "mod_id": 156970,
+      "hash": "sha256-1biPbDWhy8Fwb6Ee8L/atennRFdUwOx1mae/3hefBes="
+    },
+    "type": "primary"
+  }
+}

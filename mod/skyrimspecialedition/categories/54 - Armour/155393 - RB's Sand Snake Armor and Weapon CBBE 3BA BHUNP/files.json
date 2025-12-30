@@ -1,0 +1,33 @@
+{
+  "RB's Sand Snake Armor CBBE 3BA": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 649721,
+      "file_name": "RB's Sand Snake Armor CBBE 3BA-155393-1-0-1753321333.rar",
+      "mod_id": 155393,
+      "hash": "sha256-beAAUKrcFd9b1070Js/XVZaxiyqNotlz7liXmRrXpUI="
+    },
+    "type": "primary"
+  },
+  "RB's Sand Snake Armor - BHUNP Bodyslide": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 649943,
+      "file_name": "RB's Sand Snake Armor - BHUNP Bodyslide-155393-1-0-1753409371.7z",
+      "mod_id": 155393,
+      "hash": "sha256-Q0d+DVyU29/WvMD4iY8GhXetrpcajDaEC5mz/W88aOc="
+    }
+  },
+  "SH's Optional Darker Textures": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 649944,
+      "file_name": "SH's Optional Darker Textures-155393-1-0-1753410045.rar",
+      "mod_id": 155393,
+      "hash": "sha256-AGJGDaiNKLoiMip092TceEdFbUqUEbxoExnkAHB1C2I="
+    }
+  }
+}

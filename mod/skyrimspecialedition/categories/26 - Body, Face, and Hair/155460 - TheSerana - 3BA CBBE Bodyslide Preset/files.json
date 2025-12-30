@@ -1,0 +1,24 @@
+{
+  "TheSerana - 3BA CBBE Bodyslide Preset": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 649932,
+      "file_name": "TheSerana - 3BA CBBE Bodyslide Preset-155460-1-0-1753402539.zip",
+      "mod_id": 155460,
+      "hash": "sha256-BR36fyaP+Nn0APIf7V1lKIzwHI3a5E7SG27YXOKc8Xo="
+    },
+    "type": "primary"
+  },
+  "TheSeranaBB - 3BA CBBE Bodyslide Preset": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 649933,
+      "file_name": "TheSeranaBB - 3BA CBBE Bodyslide Preset-155460-1-0-1753402573.zip",
+      "mod_id": 155460,
+      "hash": "sha256-RaY67dWJcE6QLlHWC1E78E95DL7lw2GQuXNJUoF1C5Y="
+    },
+    "type": "primary"
+  }
+}

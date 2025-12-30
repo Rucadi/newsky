@@ -1,0 +1,33 @@
+{
+  "Patch for JK's Tel Mithryn": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 661911,
+      "file_name": "Patch for JK's Tel Mithryn-157986-1-0-1756856759.7z",
+      "mod_id": 157986,
+      "hash": "sha256-oVqbOB8yXdSMHmdvn9TyfEb+iushEdWJxR/jVfr6u1o="
+    }
+  },
+  "Patch for Bloodmoon Solstheim Content Restoration": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0.0",
+      "file_id": 678340,
+      "file_name": "Bloodmoon Solstheim Content Restoration Patch-157986-1-0-0-1760936125.7z",
+      "mod_id": 157986,
+      "hash": "sha256-v1Ysqd5ONgkmImWWBnGptIf7Bh0RpsIIjEuXxKYMUDs="
+    }
+  },
+  "Underwater Solstheim": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0.2",
+      "file_id": 694132,
+      "file_name": "Underwater Solstheim-157986-1-0-2-1764801139.7z",
+      "mod_id": 157986,
+      "hash": "sha256-n3IRoUmkKgtQSK9ZDgqbFhkEXxm2DVJ6m1aiQUz2MdY="
+    },
+    "type": "primary"
+  }
+}

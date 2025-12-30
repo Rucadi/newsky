@@ -1,0 +1,43 @@
+{
+  "Cosplay Packs Sold by Radiant Raiments": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1",
+      "file_id": 665052,
+      "file_name": "Cosplay Packs Sold by Radiant Raiments-156827-1-1-1757708806.zip",
+      "mod_id": 156827,
+      "hash": "sha256-MWGdc8uBao0loCa4k2Qfp+aZjuujVHqX+h5jwtsWxw8="
+    },
+    "type": "primary"
+  },
+  "Cosplay Packs Half Price Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1",
+      "file_id": 665053,
+      "file_name": "Cosplay Packs Half Price Patch-156827-1-1-1757708860.zip",
+      "mod_id": 156827,
+      "hash": "sha256-q1eRBNHwme7MRrJNshICGCPYdnMCf4jjZk/BLH46iWE="
+    }
+  },
+  "Cosplay Pack Patcher": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1",
+      "file_id": 671906,
+      "file_name": "Cosplay Pack Patcher-156827-1-1-1759516840.zip",
+      "mod_id": 156827,
+      "hash": "sha256-GEpWJ79RVpAk6ze7wk31GvNGYmaPwWpJyJKMIIKKyDE="
+    }
+  },
+  "Cosplay Packs Addon Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 674677,
+      "file_name": "Cosplay Packs Addon Patch-156827-1-0-1760204828.zip",
+      "mod_id": 156827,
+      "hash": "sha256-Lp7kBl95qKmqZMZ79Dt4cWHlfuHRHMFq98jCs6kQxRE="
+    }
+  }
+}

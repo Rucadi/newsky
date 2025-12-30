@@ -1,0 +1,24 @@
+{
+  "shadowman_anurielSL": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1",
+      "file_id": 657090,
+      "file_name": "shadowman_anurielSL-157197-1-1755584061.rar",
+      "mod_id": 157197,
+      "hash": "sha256-Z6dTX2ka8baUFAk0MTJDOFYKHzQk1bzDxjhrvVAQTrA="
+    },
+    "type": "primary"
+  },
+  "shadowman_anurielFG": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1",
+      "file_id": 657093,
+      "file_name": "shadowman_anurielFG-157197-1-1755584125.rar",
+      "mod_id": 157197,
+      "hash": "sha256-0StamEg73BtvMkWI6Z/BtNC0vswD4atnopnLkAAlHpg="
+    },
+    "type": "primary"
+  }
+}

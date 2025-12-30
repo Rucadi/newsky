@@ -1,0 +1,35 @@
+{
+  "HDT-SMP Viper Armor Patch for 3BA": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 659095,
+      "file_name": "HDT-SMP Viper Armor Patch for 3BA-157712-1-0-1756131776.rar",
+      "mod_id": 157712,
+      "hash": "sha256-EmuWXrOAI/eGVETMBIWTNGVf5ffrhxpWkYUlL7E+RIw="
+    },
+    "type": "primary"
+  },
+  "HDT-SMP Viper Armor Patch for CBBE": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 659096,
+      "file_name": "HDT-SMP Viper Armor Patch for CBBE-157712-1-0-1756131829.rar",
+      "mod_id": 157712,
+      "hash": "sha256-1bOaHgjSlEc/xgHmeUZEgtaJRIbcRkBstzu2I8+PAA8="
+    },
+    "type": "primary"
+  },
+  "HDT-SMP Viper Armor Patch for Vanilla": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 679699,
+      "file_name": "HDT-SMP Viper Armor Patch for Vanilla-157712-1-0-1761270804.rar",
+      "mod_id": 157712,
+      "hash": "sha256-q8SF08+YjxeUTkdw/e8EYCha7y0L8x9sMqYTeCyW+DI="
+    },
+    "type": "primary"
+  }
+}

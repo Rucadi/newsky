@@ -1,0 +1,33 @@
+{
+  "Grave Hand Main File": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.00",
+      "file_id": 660831,
+      "file_name": "Grave Hand Main File-158113-1-00-1756579660.7z",
+      "mod_id": 158113,
+      "hash": "sha256-hZtPbaDMIZDfYQ2wP5xrFnI4MUjKDC0ZboRWDkIPJYU="
+    },
+    "type": "primary"
+  },
+  "Grave Hand - SPID": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.00",
+      "file_id": 660864,
+      "file_name": "Grave hand - SPID-158113-1-00-1756584331.7z",
+      "mod_id": 158113,
+      "hash": "sha256-+fyoqm+mCxonpA+eRgbYXJP390FY4eN+OUbW0AUzp3g="
+    }
+  },
+  "Grave Hand - Grave Digging Staff Crafting": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.00",
+      "file_id": 661071,
+      "file_name": "Grave Hand - Grave Digging Staff Crafting-158113-1-00-1756647273.7z",
+      "mod_id": 158113,
+      "hash": "sha256-ZM7Y0NlGrkCVShSRw9vEjFFG5/xhYQMMKW9Gl+qtZhk="
+    }
+  }
+}

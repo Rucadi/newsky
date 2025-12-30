@@ -1,0 +1,23 @@
+{
+  "GIST - Rustic Soul Gems patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1",
+      "file_id": 48846,
+      "file_name": "GIST - Rustic Soul Gems patch-15755-1-1.zip",
+      "mod_id": 15755,
+      "hash": "sha256-hgapgdhXtjFq/CztuJ/MpE3uaRIPZhMRAE76b7sGn4I="
+    }
+  },
+  "GIST Soul Trap": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.3",
+      "file_id": 52900,
+      "file_name": "GIST Soul Trap-15755-1-3.zip",
+      "mod_id": 15755,
+      "hash": "sha256-ACcH/nD1bDj8jyyFqGmEoKA+U6mvHtQPu9q8J14SI8E="
+    },
+    "type": "primary"
+  }
+}

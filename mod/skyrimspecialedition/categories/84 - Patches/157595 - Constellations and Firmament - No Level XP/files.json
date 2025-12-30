@@ -1,0 +1,44 @@
+{
+  "Firmament - No Level XP": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 658629,
+      "file_name": "Firmament - No Level XP-157595-1-0-1756009082.7z",
+      "mod_id": 157595,
+      "hash": "sha256-6y6zganOYR9GH7l8DMZ4pxSxWYs6HgwmuJOvfcwyygk="
+    },
+    "type": "primary"
+  },
+  "Constellations - No Level XP": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 658630,
+      "file_name": "Constellations - No Level XP-157595-1-0-1756009122.7z",
+      "mod_id": 157595,
+      "hash": "sha256-/rMuAXs/mSs+4JsIh3UgpVtFfiPrIDvXZJc8Xm+VAA0="
+    },
+    "type": "primary"
+  },
+  "Patch for Simple TK Dodge Integration": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 659540,
+      "file_name": "Patch for Simple TK Dodge Integration-157595-1-0-1756242718.7z",
+      "mod_id": 157595,
+      "hash": "sha256-OFIgh8/TRGWpeKWFxhHo5eQTmZp3QjGn/aDf9SO1mPI="
+    }
+  },
+  "Patch for Simple TK Dodge Integration Simonrim": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 659545,
+      "file_name": "Patch for Simple TK Dodge Integration Simonrim-157595-1-0-1756243332.7z",
+      "mod_id": 157595,
+      "hash": "sha256-+lBCNJjofPY5/8joCMHs6EvvXG6JxSduXvrz8vOLIJA="
+    }
+  }
+}

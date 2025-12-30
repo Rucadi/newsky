@@ -1,0 +1,44 @@
+{
+  "Cisterns of Skyrim - 8K Barrel Textures": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 678000,
+      "file_name": "Cisterns of Skyrim - 8K Barrel Textures-155703-1-0-1760887967.rar",
+      "mod_id": 155703,
+      "hash": "sha256-W6W97/8lt+hs1tWqtfD9lL+9ipl2YLyzkWy+CqvwWT0="
+    }
+  },
+  "Cisterns of Skyrim - Brewery Cask Replacer": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 688952,
+      "file_name": "Cisterns of Skyrim - Brewery Cask Replacer-155703-1-0-1763519203.rar",
+      "mod_id": 155703,
+      "hash": "sha256-NQ1jDOWz2WrmVkA/q/ndO0gTT3U/JJbBooWsJ8XMaAo="
+    }
+  },
+  "Cisterns of Skyrim": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.3.2",
+      "file_id": 691911,
+      "file_name": "Cisterns of Skyrim-155703-1-3-2-1764275597.rar",
+      "mod_id": 155703,
+      "hash": "sha256-KeHPOgQDGXFZhANfIUhSul3sxkWtPnTOU/MbYENIrXI="
+    },
+    "type": "primary"
+  },
+  "Cisterns of Skyrim - Immersion Edition": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.3.2",
+      "file_id": 691913,
+      "file_name": "Cisterns of Skyrim - Immersion Edition-155703-1-3-2-1764275764.rar",
+      "mod_id": 155703,
+      "hash": "sha256-zQHGZz1ucuOzLNvCsU1cHoZmvXbLdnbkRP2OMbq8tEY="
+    },
+    "type": "primary"
+  }
+}

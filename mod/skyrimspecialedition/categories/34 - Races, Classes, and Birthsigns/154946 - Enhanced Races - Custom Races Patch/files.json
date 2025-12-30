@@ -1,0 +1,100 @@
+{
+  "Lost Races Patch AIO": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1",
+      "file_id": 647538,
+      "file_name": "Lost Races Patch-154946-1-1752610015.7z",
+      "mod_id": 154946,
+      "hash": "sha256-Xin/+Hi1jumD7wLq10wkYTRVIdEyPpfD2xL3tx3SXnA="
+    }
+  },
+  "Chimer Race Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1",
+      "file_id": 647539,
+      "file_name": "Chimer Race Patch-154946-1-1752610074.7z",
+      "mod_id": 154946,
+      "hash": "sha256-Lso//u/T4vN4RJMhTw8Aqks3orcz9CQacJfCkUGq0Os="
+    },
+    "type": "primary"
+  },
+  "Half Khajiit Ohmes Raht Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1",
+      "file_id": 647540,
+      "file_name": "Half Khajiit Ohmes Raht Patch-154946-1-1752610151.7z",
+      "mod_id": 154946,
+      "hash": "sha256-dXUgeO9A8Mn0AfrZCaPViArZYh5LhKGb+uRS5HZnDwg="
+    },
+    "type": "primary"
+  },
+  "Half Dragon Race Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1",
+      "file_id": 647541,
+      "file_name": "Half Dragon Race Patch-154946-1-1752610208.7z",
+      "mod_id": 154946,
+      "hash": "sha256-P0qYDDqHu8KfZzVfEwkrGLSif40n+B3KymJxyOmwneE="
+    },
+    "type": "primary"
+  },
+  "Lost Races - Snow Elf": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1",
+      "file_id": 647710,
+      "file_name": "Lost Races - Snow Elf-154946-1-1752666116.7z",
+      "mod_id": 154946,
+      "hash": "sha256-twmIF4Xs4DpzHL6R5jp4WzVORxzKa/21Piwiyo8ocvk="
+    },
+    "type": "primary"
+  },
+  "Lost Races - Sea Elf": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1",
+      "file_id": 647712,
+      "file_name": "Lost Races - Sea Elf-154946-1-1752666159.7z",
+      "mod_id": 154946,
+      "hash": "sha256-IaFf6dP6GxYNlD6J8nq96xVBDVk+vod2qwbBQqEAIDE="
+    },
+    "type": "primary"
+  },
+  "Lost Races - Dwemer": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1",
+      "file_id": 647713,
+      "file_name": "Lost Races - Dwemer-154946-1-1752666213.7z",
+      "mod_id": 154946,
+      "hash": "sha256-S7V1Konp3FEy3DfTiJgfNQ2Y6wFFHHT9/UsZCK11KAs="
+    },
+    "type": "primary"
+  },
+  "Lost Races - Akaviri": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1",
+      "file_id": 647715,
+      "file_name": "Lost Races - Akaviri-154946-1-1752666335.7z",
+      "mod_id": 154946,
+      "hash": "sha256-FND42PNe5wAJodl3ElYamyIFX9FXj5KnWtIELlpteRk="
+    },
+    "type": "primary"
+  },
+  "Lost Races - Ayelid": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1",
+      "file_id": 647716,
+      "file_name": "Lost Races - Ayelid-154946-1-1752666390.7z",
+      "mod_id": 154946,
+      "hash": "sha256-n2Shkj8QMK8Pe9hnMctXYWI52wPlw0mGuHm+n8hFAJc="
+    },
+    "type": "primary"
+  }
+}
