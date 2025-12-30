@@ -1,0 +1,45 @@
+{
+  "HFs - Solitude Well - 1K": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.01",
+      "file_id": 612325,
+      "file_name": "HFs - Solitude Well - 1K-146418-1-01-1743461285.zip",
+      "mod_id": 146418,
+      "hash": "sha256-38SOx2bEjGunzsjmST2ub2vtIciIOfOpvJGC7Y1zCPc="
+    },
+    "type": "primary"
+  },
+  "HFs - Solitude Well - 2K": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.01",
+      "file_id": 612326,
+      "file_name": "HFs - Solitude Well - 2K-146418-1-01-1743461309.zip",
+      "mod_id": 146418,
+      "hash": "sha256-rkSec2agiclQbKkp9/A73F2h+IXjxo10vZPmFS/tinY="
+    },
+    "type": "primary"
+  },
+  "HFs - Solitude Well - 4K": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.01",
+      "file_id": 612327,
+      "file_name": "HFs - Solitude Well - 4K-146418-1-01-1743461341.zip",
+      "mod_id": 146418,
+      "hash": "sha256-+dseB9btCeSDE3QHTylcK46MRqsivZesiN8+5OBj1MU="
+    },
+    "type": "primary"
+  },
+  "HFs - Solitude Well - Ivy Addon": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1",
+      "file_id": 612417,
+      "file_name": "HFs - Solitude Well - Ivy Addon-146418-1-1-1743491804.zip",
+      "mod_id": 146418,
+      "hash": "sha256-RSGGBMhuQGTEItXxWmuX/gh2IDZb1OmOcDfIEqr9wyY="
+    }
+  }
+}

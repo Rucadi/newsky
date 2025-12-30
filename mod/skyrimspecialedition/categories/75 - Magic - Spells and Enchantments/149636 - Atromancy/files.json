@@ -1,0 +1,71 @@
+{
+  "Atromancy": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.8",
+      "file_id": 701428,
+      "file_name": "Atromancy-149636-1-8-1766528981.zip",
+      "mod_id": 149636,
+      "hash": "sha256-4PIQcyRHZHlwYHr7U4bDYchZQltI+LxKoOduSa5EWgY="
+    },
+    "type": "primary"
+  },
+  "Atromancy - Air Atronach Add-on": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.8",
+      "file_id": 701430,
+      "file_name": "Atromancy - Air Atronach Add-on-149636-1-8-1766529015.zip",
+      "mod_id": 149636,
+      "hash": "sha256-sPSs29B+E8H6PEdledtss8dR1xqqA6Eq7XLplM7eFVQ="
+    }
+  },
+  "Atromancy - Coral and Water Atronach Add-on": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.8",
+      "file_id": 701431,
+      "file_name": "Atromancy - Coral and Water Atronach Add-on-149636-1-8-1766529038.zip",
+      "mod_id": 149636,
+      "hash": "sha256-iflymcrnaj6W5cCo0Cd9H6qHWki+3rT9glPFJGjJZ0g="
+    }
+  },
+  "Atromancy - Earth-Stone-Clay-Mud Atronach Add-on": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.8",
+      "file_id": 701433,
+      "file_name": "Atromancy - Earth-Stone-Clay-Mud Atronach Add-on-149636-1-8-1766529063.zip",
+      "mod_id": 149636,
+      "hash": "sha256-Oxa5IobLxHkbXFsb+qe96eNMYX+6EgSJ3WZYmXzcvWg="
+    }
+  },
+  "Atromancy - Molten-Iron Atronach Add-on": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.8",
+      "file_id": 701434,
+      "file_name": "Atromancy - Molten-Iron Atronach Add-on-149636-1-8-1766529083.zip",
+      "mod_id": 149636,
+      "hash": "sha256-rO2zBAZzAOkQexvr7uH23LoYUQ6WuVS/swAzoOlfPS4="
+    }
+  },
+  "Atromancy - Shadow Atronach Add-on": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.8",
+      "file_id": 701435,
+      "file_name": "Atromancy - Shadow Atronach Add-on-149636-1-8-1766529098.zip",
+      "mod_id": 149636
+    }
+  },
+  "Atromancy - Sun Atronach Add-on": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.8",
+      "file_id": 701436,
+      "file_name": "Atromancy - Sun Atronach Add-on-149636-1-8-1766529114.zip",
+      "mod_id": 149636
+    }
+  }
+}

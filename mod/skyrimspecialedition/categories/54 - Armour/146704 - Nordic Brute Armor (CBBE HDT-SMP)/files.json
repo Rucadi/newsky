@@ -1,0 +1,34 @@
+{
+  "Bodyslide Files": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.00",
+      "file_id": 613589,
+      "file_name": "Bodyslide Files-146704-1-00-1743728762.zip",
+      "mod_id": 146704,
+      "hash": "sha256-z/bQcFVR9LdufY17gqnE+t4lUt04SAzVlGZGUGyZ+CQ="
+    }
+  },
+  "Nordic Brute Armor (Render Version)": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1",
+      "file_id": 613901,
+      "file_name": "Nordic Brute Armor 4K-146704-1-1-1743804536.zip",
+      "mod_id": 146704,
+      "hash": "sha256-Nsy5dFnCYcnjU3hiYmPQFwu738acemRz3vRsVVA+rNw="
+    },
+    "type": "primary"
+  },
+  "Render 2K": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1",
+      "file_id": 613903,
+      "file_name": "Render 2K-146704-1-1-1743804638.zip",
+      "mod_id": 146704,
+      "hash": "sha256-5HAasBT/Urlgf1+Zz/ZszMFywLFmT+322f4EOZii3dw="
+    },
+    "type": "primary"
+  }
+}

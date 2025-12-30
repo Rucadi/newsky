@@ -1,0 +1,78 @@
+{
+  "Log Pile FIX - NO bobbing Logs": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 616773,
+      "file_name": "Log Pile FIX - NO bobbing Logs-147305-1-0-1744543002.rar",
+      "mod_id": 147305,
+      "hash": "sha256-bQfwy2MTFjgJk3nMmfRjH0bPK7phz/cMeQNVQZfvVXw="
+    }
+  },
+  "a) Log Pile FIX - No Supports - HLT": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.3",
+      "file_id": 620584,
+      "file_name": "a) Log Pile FIX - No Supports - HLT-147305-1-3-1745464810.rar",
+      "mod_id": 147305,
+      "hash": "sha256-KMAIJtJhNjXXJ7Gz2QBhg+TkSGK3zEM27powMcYLFgI="
+    },
+    "type": "primary"
+  },
+  "b) Log Pile FIX - with supports - HLT": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.3",
+      "file_id": 620585,
+      "file_name": "b) Log Pile FIX - with supports - HLT-147305-1-3-1745464877.rar",
+      "mod_id": 147305,
+      "hash": "sha256-2l2idaz+mDzF7puKhyUdTfLGsJXdnroaMpL5XkSgb1E="
+    },
+    "type": "primary"
+  },
+  "c) Log Pile FIX - No Supports - Ulvenwald": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.3",
+      "file_id": 620588,
+      "file_name": "c) Log Pile FIX - No Supports - Ulvenwald-147305-1-3-1745465048.rar",
+      "mod_id": 147305,
+      "hash": "sha256-q8OPLreovkR0hsoAvu5FUGGGb2vv5Iy0gJKDE9VKFB0="
+    },
+    "type": "primary"
+  },
+  "d) Log Pile FIX - with supports - Ulvenwald": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.3",
+      "file_id": 620589,
+      "file_name": "d) Log Pile FIX - with supports - Ulvenwald-147305-1-3-1745465139.rar",
+      "mod_id": 147305,
+      "hash": "sha256-m3MO/JadCmU3F78xYJxqWxcKK60JHzBOD1bD7i6lqYE="
+    },
+    "type": "primary"
+  },
+  "e) Log Pile FIX - No Supports - Vanilla": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.3",
+      "file_id": 620591,
+      "file_name": "e) Log Pile FIX - No Supports - Vanilla-147305-1-3-1745465268.rar",
+      "mod_id": 147305,
+      "hash": "sha256-DDP+3us70Wd+pKaSyZYh6OtcahfNzHTXKox4oI242hI="
+    },
+    "type": "primary"
+  },
+  "f) Log Pile FIX - with supports - Vanilla": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.3",
+      "file_id": 620592,
+      "file_name": "f) Log Pile FIX - with supports - Vanilla-147305-1-3-1745465344.rar",
+      "mod_id": 147305,
+      "hash": "sha256-I8kJg92qznSBP6mE30PKZ9hRzzZBCMDw76eIGExAPBI="
+    },
+    "type": "primary"
+  }
+}

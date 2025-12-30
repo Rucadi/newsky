@@ -1,0 +1,23 @@
+{
+  "Dragonborn Reskin - STB Active Effects": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1",
+      "file_id": 625303,
+      "file_name": "Dragonborn Reskin - STB Active Effects-149364-1-1-1746807272.zip",
+      "mod_id": 149364,
+      "hash": "sha256-cfGQD1Z3p4Fxabma/CoYrBg6N4dIa3aXwISMRxYtPpc="
+    },
+    "type": "primary"
+  },
+  "Circular Time Bar": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1",
+      "file_id": 625313,
+      "file_name": "Circular Time Bar-149364-1-1-1746809815.zip",
+      "mod_id": 149364,
+      "hash": "sha256-8R94uD2/uUxxdfgOHEv04DFEKZQ35zWUjHMXxaZmOLY="
+    }
+  }
+}

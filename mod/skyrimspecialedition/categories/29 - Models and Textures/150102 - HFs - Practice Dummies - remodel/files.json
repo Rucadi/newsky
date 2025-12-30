@@ -1,0 +1,33 @@
+{
+  "HFs - Practice Dummies - remodel - 1K": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1",
+      "file_id": 627190,
+      "file_name": "HFs - Practice Dummies - remodel - 1K-150102-1-1747253332.zip",
+      "mod_id": 150102,
+      "hash": "sha256-zti0WRnJqo8tcRpmkxkjznQ92Gbs2ayGijwbJotFaCU="
+    },
+    "type": "primary"
+  },
+  "HFs - Practice Dummies - remodel - 2K": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1",
+      "file_id": 627191,
+      "file_name": "HFs - Practice Dummies - remodel - 2K-150102-1-1747253365.zip",
+      "mod_id": 150102
+    },
+    "type": "primary"
+  },
+  "HFs - Practice Dummies - remodel - 4K": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1",
+      "file_id": 627192,
+      "file_name": "HFs - Practice Dummies - remodel - 4K-150102-1-1747253419.zip",
+      "mod_id": 150102
+    },
+    "type": "primary"
+  }
+}

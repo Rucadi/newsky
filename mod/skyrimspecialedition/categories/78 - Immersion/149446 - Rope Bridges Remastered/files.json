@@ -1,46 +1,46 @@
 {
-  "Rope Bridges Remastered - SMIM - Some Ropes": {
-    "nexusmods": {
-      "game_name": "skyrimspecialedition",
-      "version": "1.3",
-      "file_id": 626910,
-      "file_name": "slightly Better Rope Bridges - SMIM - Some Ropes-149446-1-3-1747173809.rar",
-      "mod_id": 149446,
-      "hash": "sha256-RbbCOG89NtSSAFKRc/0efgevai5SetT0dJ5tvxpV82s="
+    "Rope Bridges Remastered - SMIM - Some Ropes": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "1.3",
+            "file_id": 626910,
+            "file_name": "slightly Better Rope Bridges - SMIM - Some Ropes-149446-1-3-1747173809.rar",
+            "mod_id": 149446,
+            "hash": "sha256-RbbCOG89NtSSAFKRc/0efgevai5SetT0dJ5tvxpV82s="
+        },
+        "type": "primary"
     },
-    "type": "primary"
-  },
-  "Rope Bridges Remastered - Better Ropes - Some": {
-    "nexusmods": {
-      "game_name": "skyrimspecialedition",
-      "version": "1.3",
-      "file_id": 626941,
-      "file_name": "slightly Better Rope Bridges-Better Ropes-Some-149446-1-3-1747182372.rar",
-      "mod_id": 149446,
-      "hash": "sha256-i2PiM1fKdonSSXQRZsm06xj9y0kuX6VRKBmT0z7l+QQ="
+    "Rope Bridges Remastered - Better Ropes - Some": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "1.3",
+            "file_id": 626941,
+            "file_name": "slightly Better Rope Bridges-Better Ropes-Some-149446-1-3-1747182372.rar",
+            "mod_id": 149446,
+            "hash": "sha256-i2PiM1fKdonSSXQRZsm06xj9y0kuX6VRKBmT0z7l+QQ="
+        },
+        "type": "primary"
     },
-    "type": "primary"
-  },
-  "Rope Bridges Remastered - SMIM - Full Ropes": {
-    "nexusmods": {
-      "game_name": "skyrimspecialedition",
-      "version": "1.4",
-      "file_id": 629441,
-      "file_name": "Rope Bridges Remastered - SMIM - Full Ropes-149446-1-4-1747806387.rar",
-      "mod_id": 149446,
-      "hash": "sha256-MczcdJ109HWU7NrL9Wf1ktgF+1Mb/4n3u9bIbE+WkgU="
+    "Rope Bridges Remastered - SMIM - Full Ropes": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "1.4",
+            "file_id": 629441,
+            "file_name": "Rope Bridges Remastered - SMIM - Full Ropes-149446-1-4-1747806387.rar",
+            "mod_id": 149446,
+            "hash": "sha256-MczcdJ109HWU7NrL9Wf1ktgF+1Mb/4n3u9bIbE+WkgU="
+        },
+        "type": "primary"
     },
-    "type": "primary"
-  },
-  "Rope Bridges Remastered - Better Ropes - Full": {
-    "nexusmods": {
-      "game_name": "skyrimspecialedition",
-      "version": "1.4",
-      "file_id": 644581,
-      "file_name": "Rope Bridges Remastered - Better Ropes - Full-149446-1-4-1751778129.rar",
-      "mod_id": 149446,
-      "hash": "sha256-ZKdb4Jaf3MRl/puZwWlLeGn/lX1+qMdNtHA5yCw/XFM="
-    },
-    "type": "primary"
-  }
+    "Rope Bridges Remastered - Better Ropes - Full": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "1.4",
+            "file_id": 644581,
+            "file_name": "Rope Bridges Remastered - Better Ropes - Full-149446-1-4-1751778129.rar",
+            "mod_id": 149446,
+            "hash": "sha256-ZKdb4Jaf3MRl/puZwWlLeGn/lX1+qMdNtHA5yCw/XFM="
+        },
+        "type": "primary"
+    }
 }

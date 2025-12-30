@@ -1,13 +1,13 @@
 {
-  "Alpha Blood Blending Bug (NG) - Latest Version": {
-    "nexusmods": {
-      "game_name": "skyrimspecialedition",
-      "version": "1.0.0",
-      "file_id": 623380,
-      "file_name": "Alpha Blood Blending Bug (NG) - Latest Version-149128-1-0-0-1746309313.zip",
-      "mod_id": 149128,
-      "hash": "sha256-A7E3iCn39wyh8u+FHqBYkWL9cywzmcVfsTajXfBTpCU="
-    },
-    "type": "primary"
-  }
+    "Alpha Blood Blending Bug (NG) - Latest Version": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "1.0.0",
+            "file_id": 623380,
+            "file_name": "Alpha Blood Blending Bug (NG) - Latest Version-149128-1-0-0-1746309313.zip",
+            "mod_id": 149128,
+            "hash": "sha256-A7E3iCn39wyh8u+FHqBYkWL9cywzmcVfsTajXfBTpCU="
+        },
+        "type": "primary"
+    }
 }

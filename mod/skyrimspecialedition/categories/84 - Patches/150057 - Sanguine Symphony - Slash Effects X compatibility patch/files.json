@@ -1,0 +1,61 @@
+{
+  "Sanguine Symphony - Separated Slash Effects X": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.02",
+      "file_id": 627780,
+      "file_name": "Sanguine Symphony - Separated Slash Effects X-150057-1-02-1747427864.zip",
+      "mod_id": 150057,
+      "hash": "sha256-vuku78zRwR6FHgo7BhI2sO6kx4ffnqQpBop6KVWqd7k="
+    },
+    "type": "primary"
+  },
+  "Sanguine Symphony - Visualized Critical Hits": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.02",
+      "file_id": 627781,
+      "file_name": "Sanguine Symphony - Visualized Critical Hits-150057-1-02-1747427948.zip",
+      "mod_id": 150057,
+      "hash": "sha256-S1+2mwR+GRg0RFBikGYM/j77HHdM0WA1qRTtgzvqZGo="
+    },
+    "type": "primary"
+  },
+  "SS - DI Slash Effects X - Vanilla Decal Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.02",
+      "file_id": 627917,
+      "file_name": "SS - DI Slash Effects X - Vanilla Decal Patch-150057-1-02-1747464110.zip",
+      "mod_id": 150057
+    }
+  },
+  "SS - DI Slash Effects X - Arrow Pierces Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.02",
+      "file_id": 627918,
+      "file_name": "SS - DI Slash Effects X - Arrow Pierces Patch-150057-1-02-1747464221.zip",
+      "mod_id": 150057
+    }
+  },
+  "CIF - HitSpark": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.02",
+      "file_id": 627921,
+      "file_name": "CIF - HitSpark-150057-1-02-1747464669.zip",
+      "mod_id": 150057
+    }
+  },
+  "Sanguine Symphony - Dynamic Impact Slash Effects X": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.03",
+      "file_id": 630891,
+      "file_name": "Sanguine Symphony - Dynamic Impact Slash Effects X-150057-1-03-1748153105.zip",
+      "mod_id": 150057
+    },
+    "type": "primary"
+  }
+}

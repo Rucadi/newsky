@@ -1,0 +1,70 @@
+{
+  "Miasma - Locked Chests Have Keys Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0.0",
+      "file_id": 627987,
+      "file_name": "Miasma - Locked Chests Have Keys Patch-149879-1-0-0-1747478822.7z",
+      "mod_id": 149879,
+      "hash": "sha256-/i6Dkyj4aSK7A1Thagz1uitwgGT6ljDwg/UStERSHFw="
+    }
+  },
+  "Miasma - USSEP": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0.0",
+      "file_id": 630014,
+      "file_name": "Miasma - USSEP-149879-1-0-0-1747942141.7z",
+      "mod_id": 149879,
+      "hash": "sha256-JsBRTi4QRmY97B7gSYTc7MxmLoCc+c46BjJ/EbsZm5I="
+    }
+  },
+  "Miasma - Restoration Spell Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0.0",
+      "file_id": 633004,
+      "file_name": "Miasma - Restoration Spell Patch-149879-1-0-0-1748641884.7z",
+      "mod_id": 149879,
+      "hash": "sha256-mqtlqJGjHtqzce4fwWfq5MJYk1v2B4E2NOINbSD25as="
+    }
+  },
+  "Miasma - Timing Is Everything Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0.0",
+      "file_id": 636152,
+      "file_name": "Miasma - Timing Is Everything Patch-149879-1-0-0-1749460475.7z",
+      "mod_id": 149879,
+      "hash": "sha256-z7ZAnPC2iYqtKbmiOQrn54sq1avfzLuyKHsWWYP8DjU="
+    }
+  },
+  "Miasma - Forceful Tongue Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0.0",
+      "file_id": 636153,
+      "file_name": "Miasma - Forceful Tongue Patch-149879-1-0-0-1749460540.7z",
+      "mod_id": 149879
+    }
+  },
+  "Miasma - Striding Silt Strider Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0.0",
+      "file_id": 671886,
+      "file_name": "Miasma - Striding Silt Strider Patch-149879-1-0-0-1759509422.7z",
+      "mod_id": 149879
+    }
+  },
+  "Miasma 1.1.5": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1.5",
+      "file_id": 701973,
+      "file_name": "Miasma 1.1.5-149879-1-1-5-1766668575.7z",
+      "mod_id": 149879
+    },
+    "type": "primary"
+  }
+}

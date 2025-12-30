@@ -1,0 +1,33 @@
+{
+  "Underwater Skyrim-RiversAndLakes-No Slaughterfish": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 612893,
+      "file_name": "Underwater Skyrim-RiversAndLakes-No Slaughterfish-146572-1-0-1743566653.7z",
+      "mod_id": 146572,
+      "hash": "sha256-7N+qvELm+Ws0U3Shs/2IZU92dQoaJ/7Psbi4J5Cb4Lw="
+    }
+  },
+  "Underwater Skyrim- Rivers and Lakes": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1.3",
+      "file_id": 627608,
+      "file_name": "Underwater Skyrim- Rivers and Lakes-146572-1-1-3-1747375656.7z",
+      "mod_id": 146572,
+      "hash": "sha256-vNT1D5NwPScX8k9fgA2GvAHNcc53Rpepbh0tYvrUqFk="
+    },
+    "type": "primary"
+  },
+  "Underwater Skyrim- Rivers and Lakes- Roe Beds": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1",
+      "file_id": 631318,
+      "file_name": "Underwater Skyrim- Rivers and Lakes- Roe Beds-146572-1-1-1748238492.7z",
+      "mod_id": 146572,
+      "hash": "sha256-tc47MRrxIAjAA5CkDkSK4oM/i+fr1F9DhdS/K1kONC4="
+    }
+  }
+}

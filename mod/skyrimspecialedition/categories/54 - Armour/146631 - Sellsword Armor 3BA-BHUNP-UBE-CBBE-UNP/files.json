@@ -1,0 +1,113 @@
+{
+  "Sellsword 4k 3BA": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 613367,
+      "file_name": "Sellsword 4k 3BA-146631-1-0-1743687645.zip",
+      "mod_id": 146631,
+      "hash": "sha256-+5ZPCuDX1+mLxC1xBzoxFhJq3ho44o6clhnx6PQH6lk="
+    },
+    "type": "primary"
+  },
+  "Sellsword 4k BHUNP": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 613370,
+      "file_name": "Sellsword 4k BHUNP-146631-1-0-1743687863.zip",
+      "mod_id": 146631,
+      "hash": "sha256-w+FXAsScfk3ab6jRIsY119GV2mSqSwIm3/q3Ly9BVZU="
+    },
+    "type": "primary"
+  },
+  "Sellsword 4k CBBE": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 613372,
+      "file_name": "Sellsword 4k CBBE-146631-1-0-1743688044.zip",
+      "mod_id": 146631,
+      "hash": "sha256-jDctTZnpxAfkNT1YS9ZMMLXZzAAyI7bYqxSFePVSDtA="
+    },
+    "type": "primary"
+  },
+  "Sellsword 4k UNP": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 613376,
+      "file_name": "Sellsword 4k UNP-146631-1-0-1743688358.zip",
+      "mod_id": 146631,
+      "hash": "sha256-a4VLpYQbtHLtSbM7MK+b/WUPKnZiDRc/LhsV07u2V+s="
+    },
+    "type": "primary"
+  },
+  "Sellsword 4k UBE": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 613378,
+      "file_name": "Sellsword 4k UBE-146631-1-0-1743688449.zip",
+      "mod_id": 146631,
+      "hash": "sha256-ZgbUtp7Grnv7G0nFb5PvJfSekcRUePGX/1d72xmShc8="
+    },
+    "type": "primary"
+  },
+  "Sellsword 2k Textures": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 613379,
+      "file_name": "Sellsword 2k Textures-146631-1-0-1743688566.zip",
+      "mod_id": 146631,
+      "hash": "sha256-H/gy99bIiuZQn8iOsue9odk2Pqq7A5ZueZZ+xtTxPg8="
+    }
+  },
+  "Shiny 3BA": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 613380,
+      "file_name": "Shiny 3BA-146631-1-0-1743688634.zip",
+      "mod_id": 146631,
+      "hash": "sha256-GhTOcg1XNOU7MNuXZmkQcV8ILQ/4vQJhbs7CEpEGW30="
+    }
+  },
+  "Shiny BHUNP": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 613382,
+      "file_name": "Shiny BHUNP-146631-1-0-1743688662.zip",
+      "mod_id": 146631
+    }
+  },
+  "Shiny CBBE": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 613383,
+      "file_name": "Shiny CBBE-146631-1-0-1743688688.zip",
+      "mod_id": 146631
+    }
+  },
+  "Shiny UBE": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 613384,
+      "file_name": "Shiny UBE-146631-1-0-1743688716.zip",
+      "mod_id": 146631
+    }
+  },
+  "Shiny UNP": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 613385,
+      "file_name": "Shiny UNP-146631-1-0-1743688793.zip",
+      "mod_id": 146631
+    }
+  }
+}

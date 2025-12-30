@@ -1,0 +1,60 @@
+{
+  "Armor of the Deep PBR 2k": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 635571,
+      "file_name": "Armor of the Deep PBR 2k-149729-1-0-1749298176.7z",
+      "mod_id": 149729,
+      "hash": "sha256-ZT3TRvl97crsfAG7ejc9pwi39kGyHUQbLmCRQdmsQtw="
+    }
+  },
+  "Armor of the Deep PBR 4k": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 635572,
+      "file_name": "Armor of the Deep PBR 4k-149729-1-0-1749298217.7z",
+      "mod_id": 149729,
+      "hash": "sha256-OOku70sino2DgqLlQEVjyyXGX5x7veOOw4HLJSa+D0Q="
+    }
+  },
+  "Armor of the Deep PBR 8k": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 635573,
+      "file_name": "Armor of the Deep PBR 8k-149729-1-0-1749298314.7z",
+      "mod_id": 149729,
+      "hash": "sha256-BShpU6MkVBvmSP8DSiJdGp1PAXvcU6DJHHXMrrVS1oY="
+    }
+  },
+  "Armor Of The Deep": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 640653,
+      "file_name": "Armor Of The Deep-149729-1-0-1750598234.7z",
+      "mod_id": 149729
+    },
+    "type": "primary"
+  },
+  "Armor Of The Deep 4k": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 640654,
+      "file_name": "Armor Of The Deep 4k-149729-1-0-1750598263.7z",
+      "mod_id": 149729
+    }
+  },
+  "Armor Of The Deep 8k": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 640655,
+      "file_name": "Armor Of The Deep 8k-149729-1-0-1750598327.7z",
+      "mod_id": 149729
+    }
+  }
+}

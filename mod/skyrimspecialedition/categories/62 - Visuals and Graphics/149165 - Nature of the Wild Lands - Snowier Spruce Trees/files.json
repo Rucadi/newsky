@@ -1,0 +1,33 @@
+{
+  "NOTWL - Snowier Spruce Trees": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "0.1",
+      "file_id": 623502,
+      "file_name": "NOTWL - Snowier Spruce Trees-149165-0-1-1746348934.7z",
+      "mod_id": 149165,
+      "hash": "sha256-ilDmd8Od41IwkjisGbi/xg1aShJ4OxbhrdYNOQspT+0="
+    },
+    "type": "primary"
+  },
+  "NOTWL - Snowier Spruce Trees - Animations Addon": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "0.1",
+      "file_id": 623503,
+      "file_name": "NOTWL - Snowier Spruce Trees - Animations Addon-149165-0-1-1746349022.7z",
+      "mod_id": 149165,
+      "hash": "sha256-Xnxlu5bWC1V1yvigNq/mkjZvhlkrC4zl3wc1Fiag0vE="
+    }
+  },
+  "NOTWL - VineMapleSnow to PineShrubSnow": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "0.1",
+      "file_id": 624629,
+      "file_name": "NOTWL - VineMapleSnow to PineShrubSnow-149165-0-1-1746623327.7z",
+      "mod_id": 149165,
+      "hash": "sha256-0X8vWbeaso1M8xEPPd9Cm/m325o8f+RRzECSjeOkC4I="
+    }
+  }
+}

@@ -1,0 +1,59 @@
+{
+  "Skull of Corruption Rework 1.0": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 628869,
+      "file_name": "Skull of Corruption Rework 1.0-150034-1-0-1747661793.7z",
+      "mod_id": 150034,
+      "hash": "sha256-Oxgz7onBFfQnh6xLt4ejU8AZk8sKNoR7RzvTpmvF9UI="
+    },
+    "type": "primary"
+  },
+  "Skull of Corruption Rework 1.0 CHS": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 628871,
+      "file_name": "Skull of Corruption Rework 1.0 CHS-150034-1-0-1747661863.7z",
+      "mod_id": 150034,
+      "hash": "sha256-tR8sbuZMSU3oZhkmHg90zKU0OrSIKSRFMcZ8J6HQmCQ="
+    }
+  },
+  "Skull of Corruption Rework Model Edit": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 628875,
+      "file_name": "Skull of Corruption Rework Model Edit-150034-1-0-1747662483.zip",
+      "mod_id": 150034
+    }
+  },
+  "Skull of Corruption Rework Model Edit Animation": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 628877,
+      "file_name": "Skull of Corruption Rework Model Edit Animation-150034-1-0-1747662592.zip",
+      "mod_id": 150034
+    }
+  },
+  "Skull of Corruption Dream Counter Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 628979,
+      "file_name": "Skull of Corruption Dream Counter Patch-150034-1-0-1747684417.zip",
+      "mod_id": 150034
+    }
+  },
+  "Skull of Corruption Dream Counter Pacth CHS": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 628980,
+      "file_name": "Skull of Corruption Dream Counter Pacth CHS-150034-1-0-1747684491.zip",
+      "mod_id": 150034
+    }
+  }
+}

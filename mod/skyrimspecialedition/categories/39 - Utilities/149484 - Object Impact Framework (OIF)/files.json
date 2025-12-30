@@ -1,0 +1,24 @@
+{
+  "Optional - Cut Food Config": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.2",
+      "file_id": 625412,
+      "file_name": "Optional - Cut Food Config-149484-1-2-1746823991.zip",
+      "mod_id": 149484,
+      "hash": "sha256-HcFNKqSbjVqYFsMtBgXzcKfZwa0nCw5JW5SPU1mT188="
+    },
+    "type": "primary"
+  },
+  "Object Impact Framework - OIF": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.6.8",
+      "file_id": 660064,
+      "file_name": "Object Impact Framework - OIF-149484-1-6-8-1756392215.zip",
+      "mod_id": 149484,
+      "hash": "sha256-kjviGNXMmPaSFknUM+CmYaJSytJB9ed5PEnxXiEYwAc="
+    },
+    "type": "primary"
+  }
+}

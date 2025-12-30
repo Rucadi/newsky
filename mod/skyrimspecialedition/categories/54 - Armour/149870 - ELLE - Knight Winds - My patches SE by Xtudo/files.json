@@ -1,0 +1,53 @@
+{
+  "Knight Winds - SE by Xtudo - Tweaks and Edits 4K": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1",
+      "file_id": 626372,
+      "file_name": "Knight Winds - SE by Xtudo - Tweaks and Edits 4K-149870-1-1747048942.7z",
+      "mod_id": 149870,
+      "hash": "sha256-wZV8riAl0kvFZn9DIVVzUiBFmbZir/Zl0qazvfZ3yPA="
+    },
+    "type": "primary"
+  },
+  "Knight Winds - SE by Xtudo - My Version 4K": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1",
+      "file_id": 626373,
+      "file_name": "Knight Winds - SE by Xtudo - My Version 4K-149870-1-1747049002.7z",
+      "mod_id": 149870,
+      "hash": "sha256-Qq4HrUpGZTiL1G4gZSYq/lNdHSPbii0RFUqfzgDa/b8="
+    },
+    "type": "primary"
+  },
+  "Knight Winds - SE by Xtudo - Textures 1K": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1",
+      "file_id": 626374,
+      "file_name": "Knight Winds - SE by Xtudo - Textures 1K-149870-1-1747049035.7z",
+      "mod_id": 149870,
+      "hash": "sha256-JWqT3nMYMjSZcEeacr/LvKpv+KbQ0DH2Tr6Px2sRyPA="
+    }
+  },
+  "Knight Winds - SE by Xtudo - Textures 2K": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1",
+      "file_id": 626375,
+      "file_name": "Knight Winds - SE by Xtudo - Textures 2K-149870-1-1747049051.7z",
+      "mod_id": 149870,
+      "hash": "sha256-h/aZ+3KSrVqnULIH7VOn8r69EBcju+GM/VlMWvYpxMM="
+    }
+  },
+  "Knight Winds - SE by Xtudo - Varinia Outfit": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1",
+      "file_id": 626407,
+      "file_name": "Knight Winds - SE by Xtudo - Varinia Outfit-149870-1-1-1747059721.7z",
+      "mod_id": 149870
+    }
+  }
+}

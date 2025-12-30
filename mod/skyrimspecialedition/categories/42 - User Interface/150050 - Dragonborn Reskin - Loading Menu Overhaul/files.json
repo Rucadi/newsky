@@ -1,0 +1,63 @@
+{
+  "No level up bar version": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 627157,
+      "file_name": "No level up bar version-150050-1-0-1747244658.zip",
+      "mod_id": 150050,
+      "hash": "sha256-CjXGJQVvU4/IQt3x6noPZjaBjwce4AIJWQhhhgT+zBc="
+    },
+    "type": "primary"
+  },
+  "No lore messages version": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 627209,
+      "file_name": "No lore messages version-150050-1-0-1747256273.zip",
+      "mod_id": 150050,
+      "hash": "sha256-LYjfZ+gXXCEeYxl2iOch4gqC3j0rQW0nWaszuXQgwpE="
+    },
+    "type": "primary"
+  },
+  "Dragonborn Reskin - Loading Menu Overhaul": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 627211,
+      "file_name": "Dragonborn Reskin - Loading Menu Overhaul-150050-1-0-1747257157.zip",
+      "mod_id": 150050
+    },
+    "type": "primary"
+  },
+  "Version with hidden buttons and centered lvl bar": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 628931,
+      "file_name": "Version with hidden buttons and centered lvl bar-150050-1-0-1747669275.zip",
+      "mod_id": 150050
+    },
+    "type": "primary"
+  },
+  "Version with hidden buttons and no lvl bar": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 628933,
+      "file_name": "Version with hidden buttons and no lvl bar-150050-1-0-1747669440.zip",
+      "mod_id": 150050
+    },
+    "type": "primary"
+  },
+  "New button art for SkyUI menus": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1",
+      "file_id": 629136,
+      "file_name": "New button art for SkyUI menus-150050-1-1-1747744659.zip",
+      "mod_id": 150050
+    }
+  }
+}

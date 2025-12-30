@@ -1,0 +1,87 @@
+{
+  "HFs - StrongBox Diversification - 2K": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1",
+      "file_id": 619450,
+      "file_name": "HFs - StrongBox Diversification - 2K-148254-1-1745165520.zip",
+      "mod_id": 148254,
+      "hash": "sha256-Kk2rUm4AAtuhj8tBFtYhjz5PEVaOuPCKO30IwBjJ8OE="
+    },
+    "type": "primary"
+  },
+  "HFs - StrongBox Diversification - 4K": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1",
+      "file_id": 619452,
+      "file_name": "HFs - StrongBox Diversification - 4K-148254-1-1745165575.zip",
+      "mod_id": 148254,
+      "hash": "sha256-WWzdqIxxnKnUSjW69Ly2wCtiUMIb+8ej9XSP6xJfukI="
+    },
+    "type": "primary"
+  },
+  "HFs - StrongBox Diversification - 1K": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1",
+      "file_id": 619515,
+      "file_name": "HFs - StrongBox Diversification - 1K-148254-1-1745179338.zip",
+      "mod_id": 148254,
+      "hash": "sha256-JgnB6Pk1WoPdFzQ7KVEUt1Zt/Ovp6V9i72IX/lCq/yg="
+    },
+    "type": "primary"
+  },
+  "HFs - StrongBox Diversification - patches": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.01",
+      "file_id": 619728,
+      "file_name": "HFs - StrongBox Diversification - patches-148254-1-01-1745235863.zip",
+      "mod_id": 148254,
+      "hash": "sha256-NWQmuwzgaLpMvGxZ2TBeA+RHacsVRDF4VoDz3x7KPU4="
+    }
+  },
+  "HFs - StrongBox Diverse Model Swapper - 1K": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1",
+      "file_id": 620945,
+      "file_name": "HFs - StrongBox Diverse Model Swapper - 1K-148254-1-1-1745566454.zip",
+      "mod_id": 148254,
+      "hash": "sha256-zRqPnqOcsBVsuiXRmTqFYUbE/N/kWlYxc2bppdGf5OY="
+    },
+    "type": "primary"
+  },
+  "HFs - StrongBox Diverse Model Swapper - 2K": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1",
+      "file_id": 620946,
+      "file_name": "HFs - StrongBox Diverse Model Swapper - 2K-148254-1-1-1745566485.zip",
+      "mod_id": 148254,
+      "hash": "sha256-oUZGdByCCE4/xnPQS8y0OtvBcVYil7HgqLw2fyJ957g="
+    },
+    "type": "primary"
+  },
+  "HFs - StrongBox Diverse Model Swapper - 4K": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1",
+      "file_id": 620948,
+      "file_name": "HFs - StrongBox Diverse Model Swapper - 4K-148254-1-1-1745566569.zip",
+      "mod_id": 148254,
+      "hash": "sha256-Ep3Vcxn9j8SRAHFXD4KU3XoucyGI/OP4UB+yZ1dmyeA="
+    },
+    "type": "primary"
+  },
+  "HFs - StrongBox Diversification - sound patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.2",
+      "file_id": 625043,
+      "file_name": "HFs - StrongBox Diversification - sound patch-148254-1-2-1746735767.zip",
+      "mod_id": 148254
+    }
+  }
+}

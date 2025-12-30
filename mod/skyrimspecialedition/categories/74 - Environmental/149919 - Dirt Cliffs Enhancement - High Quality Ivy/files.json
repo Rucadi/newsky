@@ -1,0 +1,42 @@
+{
+  "Dirt Cliffs Enhancement - Freaks Flora Fields": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.2.0",
+      "file_id": 647978,
+      "file_name": "Dirt Cliffs Enhancement - Freaks Flora Fields-149919-1-2-0-1752767812.7z",
+      "mod_id": 149919,
+      "hash": "sha256-lEfy6J9iSwm41/QXAPJROeJoxXpQJHH081gfk/fpCR8="
+    }
+  },
+  "Dirt Cliffs Enhancement - Seasons": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.2.0",
+      "file_id": 647979,
+      "file_name": "Dirt Cliffs Enhancement - Seasons-149919-1-2-0-1752767843.7z",
+      "mod_id": 149919,
+      "hash": "sha256-/OML/pBxnZSqns+faBUlwwTh5midSHgcslPYREiMtMo="
+    }
+  },
+  "Dirt Cliffs Enhancement - Wildlands Renewal": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.2.0",
+      "file_id": 647980,
+      "file_name": "Dirt Cliffs Enhancement - Wildlands Renewal-149919-1-2-0-1752768322.7z",
+      "mod_id": 149919,
+      "hash": "sha256-nTnrLvv81CiOTUhtbpHCYxDBVsAepoLWn+jHtL0Vqb0="
+    }
+  },
+  "Dirt Cliffs Enhancement - High Quality Ivy": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.2.0",
+      "file_id": 647981,
+      "file_name": "Dirt Cliffs Enhancement - High Quality Ivy-149919-1-2-0-1752768348.7z",
+      "mod_id": 149919
+    },
+    "type": "primary"
+  }
+}

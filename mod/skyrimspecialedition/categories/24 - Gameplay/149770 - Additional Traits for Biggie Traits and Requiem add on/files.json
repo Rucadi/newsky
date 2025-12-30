@@ -1,0 +1,34 @@
+{
+  "panting fix - health instead of stamina": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.3.5",
+      "file_id": 683015,
+      "file_name": "panting fix - health instead of stamina-149770-1-3-5-1762097405.7z",
+      "mod_id": 149770,
+      "hash": "sha256-2bRlrjeHYkDkMuiKpkvDcJjNdRD4LhXuv0Q1wQL4I0Q="
+    }
+  },
+  "Additional Traits - Requiem": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.3.6",
+      "file_id": 691279,
+      "file_name": "Additional Traits - Requiem-149770-1-3-6-1764114746.7z",
+      "mod_id": 149770,
+      "hash": "sha256-xEZoZt2+GTZwGseDwYrRg3qiUsoJu+Kwa2jn15hME88="
+    },
+    "type": "primary"
+  },
+  "Additional Traits for Biggie Traits": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.3.6",
+      "file_id": 691280,
+      "file_name": "Additional Traits for Biggie Traits-149770-1-3-6-1764114806.7z",
+      "mod_id": 149770,
+      "hash": "sha256-PGDsUHkub8rmWIV00Hyj2QtvzvZm6ttS4VW7XCqZjkk="
+    },
+    "type": "primary"
+  }
+}

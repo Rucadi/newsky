@@ -1,0 +1,43 @@
+{
+  "Daymarr Fortuna's Favor - Uncompressed Textures": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 624349,
+      "file_name": "Daymarr Fortuna's Favor - Uncompressed Textures-149329-1-0-1746546495.7z",
+      "mod_id": 149329,
+      "hash": "sha256-oI7j61RtQnLsrDJgscldTdPy+2f4no44qaCsfb/0CG8="
+    }
+  },
+  "Daymarr Fortuna's Favor - CBBE 3BA": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 624459,
+      "file_name": "Daymarr Fortuna's Favor - CBBE 3BA-149329-1-0-1746567615.7z",
+      "mod_id": 149329,
+      "hash": "sha256-v0KyadYeuAxDyrP0prBZfLPjxX7CqVAyGqqkikQ5rLE="
+    },
+    "type": "primary"
+  },
+  "Daymarr Fortuna's Favor - COCOBody CBBE SE": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 624462,
+      "file_name": "Daymarr Fortuna's Favor - COCOBody CBBE SE-149329-1-0-1746567711.7z",
+      "mod_id": 149329
+    },
+    "type": "primary"
+  },
+  "Daymarr Fortuna's Favor - COCOBody UUNP SE": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 624463,
+      "file_name": "Daymarr Fortuna's Favor - COCOBody UUNP SE-149329-1-0-1746567902.7z",
+      "mod_id": 149329
+    },
+    "type": "primary"
+  }
+}

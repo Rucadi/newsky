@@ -1,0 +1,44 @@
+{
+  "Diverse Woodchopping Blocks - Textures (Optional)": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1",
+      "file_id": 620991,
+      "file_name": "Diverse Woodchopping Blocks - Textures (Optional)-148317-1-1-1745580360.rar",
+      "mod_id": 148317,
+      "hash": "sha256-i4oLSmy63PJUtvUssM5Mxnhqv07+VNlSCvDJXu0zZmE="
+    },
+    "type": "primary"
+  },
+  "Diverse Woodchopping Blocks - Model Swapper": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.2",
+      "file_id": 621713,
+      "file_name": "Diverse Woodchopping Blocks - Model Swapper-148317-1-2-1745798733.rar",
+      "mod_id": 148317,
+      "hash": "sha256-x6CMbK2DOGFVgALfhYT15reLwuHT/uezpuDSE4j/ps8="
+    }
+  },
+  "Diverse Woodchopping Blocks - Persistent Swaps": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.2",
+      "file_id": 666981,
+      "file_name": "Diverse Woodchopping Blocks - Persistent Swaps-148317-1-2-1758197392.rar",
+      "mod_id": 148317,
+      "hash": "sha256-6VZdIJWzlzrvIJr20lALnonOnbc5o0/EBVkcuNOhBx8="
+    }
+  },
+  "Diverse Woodchopping Blocks - Base Object Swapper": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.3",
+      "file_id": 683974,
+      "file_name": "Diverse Woodchopping Blocks - Base Object Swapper-148317-1-3-1762319655.rar",
+      "mod_id": 148317,
+      "hash": "sha256-uFLLtm477dPjAjwMtObRVdMzpsQ2aZ7fYTFYxXftJyQ="
+    },
+    "type": "primary"
+  }
+}

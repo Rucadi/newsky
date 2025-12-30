@@ -1,0 +1,54 @@
+{
+  "Menace Dirty skin patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.00",
+      "file_id": 611363,
+      "file_name": "Menace Dirty skin-146178-1-00-1743271427.rar",
+      "mod_id": 146178,
+      "hash": "sha256-pyDlzCBDOqqkIjkr4yjiYxC8ncqUUQ+aAkGq6i6vQG4="
+    }
+  },
+  "Menace bodyslide preset": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.00",
+      "file_id": 611364,
+      "file_name": "Menace bodyslide preset-146178-1-00-1743271507.rar",
+      "mod_id": 146178,
+      "hash": "sha256-mu4CJnn51AIeuErQ+ruMdDuF3XdYlh/bqxiNMCHu1oo="
+    }
+  },
+  "Menace no vagina patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.00",
+      "file_id": 611365,
+      "file_name": "Menace no vagina patch-146178-1-00-1743271590.rar",
+      "mod_id": 146178,
+      "hash": "sha256-kSuE1QhbcxQ23pgkLmzKgqoZj0bDp3AjD8u/sTzPOeU="
+    }
+  },
+  "Menace the wildgirl(choose 1 main file)": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.02",
+      "file_id": 612904,
+      "file_name": "Menace the wildgirl-146178-1-02-1743567931.rar",
+      "mod_id": 146178,
+      "hash": "sha256-zQ4Y4OXG7EYttkzs7OYXXX1INhb+1CgxtP8j7GXbYB4="
+    },
+    "type": "primary"
+  },
+  "Menace obody compatibility(choose 1 main file)": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.00",
+      "file_id": 615917,
+      "file_name": "Menace obody compatibility(choose 1 main file)-146178-1-00-1744323071.7z",
+      "mod_id": 146178,
+      "hash": "sha256-dQUnejkjfnGw/QE6FQ3BcblHkpzn9kq1K5DiByyxuDA="
+    },
+    "type": "primary"
+  }
+}

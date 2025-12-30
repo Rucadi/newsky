@@ -1,0 +1,122 @@
+{
+  "Web Mother Add-on": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 617038,
+      "file_name": "Web Mother Add-on-146585-1-0-1744588809.zip",
+      "mod_id": 146585,
+      "hash": "sha256-isRi+wnhEXeB21RfEVLnDfwDzAFBNq7KKIfRVe4j7Jg="
+    }
+  },
+  "Venomancy - Mysticism Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1",
+      "file_id": 617744,
+      "file_name": "Venomancy - Mysticism Patch-146585-1-1-1744768576.zip",
+      "mod_id": 146585,
+      "hash": "sha256-lnnzuiZCnkHrUAS90n/qzB8U87W1iK2ch19q60+v0tM="
+    }
+  },
+  "Venomancy - Wildwaker Magic Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1",
+      "file_id": 617745,
+      "file_name": "Venomancy - Wildwaker Magic Patch-146585-1-1-1744768602.zip",
+      "mod_id": 146585,
+      "hash": "sha256-vI2Fogx3uDIxx8E+S/C+S/Dc0r5l5Qt6njuAy8js3vY="
+    }
+  },
+  "Venomancy - Abyssal Tides Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1",
+      "file_id": 617747,
+      "file_name": "Venomancy - Abyssal Tides Patch-146585-1-1-1744768706.zip",
+      "mod_id": 146585,
+      "hash": "sha256-MJnRs7XjA+vXjMDkBw1nCQOgdxuM7C+sFLI+2r1IdyA="
+    }
+  },
+  "Venomancy - Abyssal Wind Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.2.1a",
+      "file_id": 618417,
+      "file_name": "Venomancy - Abyssal Wind Patch-146585-1-2a-1744938969.zip",
+      "mod_id": 146585,
+      "hash": "sha256-+mreO8sYK5gnT5pspw/YfLQ1CMNwLRilWT805VkMA/Q="
+    }
+  },
+  "Venomancy - Natura Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.2.2a",
+      "file_id": 619243,
+      "file_name": "Venomancy - Natura Patch-146585-1-26a-1745123419.zip",
+      "mod_id": 146585,
+      "hash": "sha256-igayXkjQLrfGRkHIK6jaxE7dsDjsY4J5evSmM2IuZjE="
+    }
+  },
+  "Venomancy - Odin Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.3.1a",
+      "file_id": 622268,
+      "file_name": "Venomancy - Odin Patch-146585-1-3-1a-1745980142.zip",
+      "mod_id": 146585,
+      "hash": "sha256-L68HZvgPwaz86qrTJzenKRHPtWnFMlRds1hdwWDCkeg="
+    }
+  },
+  "Venomancy (Restoration) - Spellforge Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.3.1",
+      "file_id": 622270,
+      "file_name": "Venomancy (Restoration) - Spellforge Patch-146585-1-3-1-1745980266.zip",
+      "mod_id": 146585,
+      "hash": "sha256-dJ5xXt9eJQvcj29jFzjW9gNWDww842PvbcnRJaaCMbY="
+    }
+  },
+  "Venomancy (Destruction) - Spellforge Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.3.1a",
+      "file_id": 622271,
+      "file_name": "Venomancy (Destruction) - Spellforge Patch-146585-1-3-1a-1745980317.zip",
+      "mod_id": 146585,
+      "hash": "sha256-cQDieX+tvyrRwlNoj13BRH6Wq9Z1ilnSPn6K1FTvaoc="
+    }
+  },
+  "Venomancy - Destruction": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.5",
+      "file_id": 648550,
+      "file_name": "Venomancy - Destruction-146585-1-5-1752963236.zip",
+      "mod_id": 146585,
+      "hash": "sha256-zR1Ytw9T0XSZlVvDeNGeNws98/7JkmviAE6J6oI78o0="
+    },
+    "type": "primary"
+  },
+  "Venomancy - Restoration": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.5",
+      "file_id": 648553,
+      "file_name": "Venomancy - Restoration-146585-1-5-1752963723.zip",
+      "mod_id": 146585
+    },
+    "type": "primary"
+  },
+  "Venomancy - Lost Grimoire SSE Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.5",
+      "file_id": 648554,
+      "file_name": "Venomancy - Lost Grimoire SSE Patch-146585-1-5-1752963830.zip",
+      "mod_id": 146585
+    }
+  }
+}

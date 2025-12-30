@@ -1,0 +1,24 @@
+{
+  "Render 2K": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1",
+      "file_id": 626350,
+      "file_name": "Render 2K-149852-1-1-1747036573.zip",
+      "mod_id": 149852,
+      "hash": "sha256-G8SNpZl5X58zr37ByfhswkuRHrx9DqDTexMHvwVpCWo="
+    },
+    "type": "primary"
+  },
+  "Steel Vanguard Armor 4K": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1",
+      "file_id": 626351,
+      "file_name": "Steel Vanguard Armor 4K-149852-1-1-1747036734.zip",
+      "mod_id": 149852,
+      "hash": "sha256-fmNpo+HLHF4Sf8c5DGherZ41St7d+ParQvzqaC8DyGA="
+    },
+    "type": "primary"
+  }
+}

@@ -1,13 +1,13 @@
 {
-  "IDE WHITERUN": {
-    "nexusmods": {
-      "game_name": "skyrimspecialedition",
-      "version": "1",
-      "file_id": 625737,
-      "file_name": "IDE WHITERUN-149724-1-1746902603.zip",
-      "mod_id": 149724,
-      "hash": "sha256-5w6N5inRd/e+lIyqWot7/Z8xOMuremJqoXq8AS+C7nM="
-    },
-    "type": "primary"
-  }
+    "IDE WHITERUN": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "1",
+            "file_id": 625737,
+            "file_name": "IDE WHITERUN-149724-1-1746902603.zip",
+            "mod_id": 149724,
+            "hash": "sha256-5w6N5inRd/e+lIyqWot7/Z8xOMuremJqoXq8AS+C7nM="
+        },
+        "type": "primary"
+    }
 }

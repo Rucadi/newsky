@@ -1,13 +1,13 @@
 {
-  "Racemenu - Improved Character Light": {
-    "nexusmods": {
-      "game_name": "skyrimspecialedition",
-      "version": "1.00",
-      "file_id": 616423,
-      "file_name": "Racemenu - Improved Character Light-147410-1-00-1744469786.rar",
-      "mod_id": 147410,
-      "hash": "sha256-LevvSLmPS0bhHIr571o+5UvakLcC8EjqOiaouGZNPSY="
-    },
-    "type": "primary"
-  }
+    "Racemenu - Improved Character Light": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "1.00",
+            "file_id": 616423,
+            "file_name": "Racemenu - Improved Character Light-147410-1-00-1744469786.rar",
+            "mod_id": 147410,
+            "hash": "sha256-LevvSLmPS0bhHIr571o+5UvakLcC8EjqOiaouGZNPSY="
+        },
+        "type": "primary"
+    }
 }

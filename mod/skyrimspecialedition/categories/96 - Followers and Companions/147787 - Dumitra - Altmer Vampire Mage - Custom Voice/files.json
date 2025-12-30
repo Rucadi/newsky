@@ -1,0 +1,94 @@
+{
+  "Dumitra - Shas' Nails 3BA": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 619644,
+      "file_name": "Dumitra - Shas' Nails 3BA-147787-1-0-1745211903.rar",
+      "mod_id": 147787,
+      "hash": "sha256-43G68x2TXnX7nmU7iJQiA7A1qYYgA6edVPL9jr+pnvo="
+    }
+  },
+  "Dumitra - Shas' Nails BHUNP": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 619645,
+      "file_name": "Dumitra - Shas' Nails BHUNP-147787-1-0-1745211930.rar",
+      "mod_id": 147787,
+      "hash": "sha256-T86imgaSvChT/kSPxo6o1ogRFpmUdY9OXLFJLloAzLI="
+    }
+  },
+  "Dumitra - No Hood": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 619646,
+      "file_name": "Dumitra - No Hood-147787-1-0-1745211977.rar",
+      "mod_id": 147787,
+      "hash": "sha256-gW0ZfqmdDbXU1NFpTGPZOaxKPQeW80CW2WBG0lyrTAc="
+    }
+  },
+  "Dumitra - SMP Wig Addon": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 619649,
+      "file_name": "Dumitra - SMP Wig Addon-147787-1-0-1745212182.rar",
+      "mod_id": 147787,
+      "hash": "sha256-qlaB9raHFPlL1qmX7uSUTrhNQyHF4kDdy7IOlF5R1pY="
+    }
+  },
+  "Dumitra - Elven Brow Ridge": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 619977,
+      "file_name": "Dumitra - Elven Brow Ridge-147787-1-0-1745283181.rar",
+      "mod_id": 147787,
+      "hash": "sha256-MgroVbhjDkQyZR4bcmK6Auy2Xm36WnkCbOses6iawHs="
+    }
+  },
+  "Dumitra - Younger Hands Normal Map": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.01",
+      "file_id": 625998,
+      "file_name": "Dumitra - Younger Hands Normal Map-147787-1-01-1746962203.rar",
+      "mod_id": 147787,
+      "hash": "sha256-nswUXs8eRWVR9B9lmZeQFXVybMHL5K4etnfX9pR+I4w="
+    }
+  },
+  "Dumitra - Uncrompressed Audio Wav": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 630046,
+      "file_name": "Dumitra - Uncrompressed Audio Wav-147787-1-0-1747955394.rar",
+      "mod_id": 147787,
+      "hash": "sha256-VFO2cir0Nnj7IG8Yyl//c7Ywg1FamohUmrO5ErM4oe8="
+    }
+  },
+  "Dumitra - Vampire Mage CBBE 3BA": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.03",
+      "file_id": 667353,
+      "file_name": "Dumitra - Vampire Mage CBBE 3BA-147787-1-03-1758298756.rar",
+      "mod_id": 147787,
+      "hash": "sha256-NkE8vaSnUl2QJ/0O0aMmQ8CakgTkRwfDYPx4F+Z5OCk="
+    },
+    "type": "primary"
+  },
+  "Dumitra - Vampire Mage UNP BHUNP": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.03",
+      "file_id": 667354,
+      "file_name": "Dumitra - Vampire Mage UNP BHUNP-147787-1-03-1758298788.rar",
+      "mod_id": 147787,
+      "hash": "sha256-3EReUYXho/5Q9GN2hxxdElrxHczbDsWXETKA1Ai3EjU="
+    },
+    "type": "primary"
+  }
+}

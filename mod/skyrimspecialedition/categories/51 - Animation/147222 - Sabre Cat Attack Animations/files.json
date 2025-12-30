@@ -1,0 +1,24 @@
+{
+  "Sabre Cat Attack Animations": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1-0-1",
+      "file_id": 615898,
+      "file_name": "Sabre Cat Attack Animations-147222-1-0-1-1744316092.7z",
+      "mod_id": 147222,
+      "hash": "sha256-+IKs7HQ1QBMnhp7zGSWGnjTTcKTOvkf2TGLs8jBxDYE="
+    },
+    "type": "primary"
+  },
+  "Sabre Cat Attack Animations - Fast Version": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1-0-1",
+      "file_id": 616214,
+      "file_name": "Sabre Cat Attack Animations - Fast Version-147222-1-0-1-1744399702.7z",
+      "mod_id": 147222,
+      "hash": "sha256-bdbzIACs3cDlbSziUl1FSlgqPcytd73yibYPq7j18/A="
+    },
+    "type": "primary"
+  }
+}

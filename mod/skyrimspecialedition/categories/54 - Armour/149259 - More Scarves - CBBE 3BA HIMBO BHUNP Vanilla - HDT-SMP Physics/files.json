@@ -1,0 +1,23 @@
+{
+  "SkyPatcher Vendors Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.2.0",
+      "file_id": 648215,
+      "file_name": "SkyPatcher Vendors Patch-149259-1-2-0-1752857688.7z",
+      "mod_id": 149259,
+      "hash": "sha256-SVUBrMjlBbcqBtWuRFbDwcJIAmD5SEqWdC6rnODIFcs="
+    }
+  },
+  "More Scarves": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.3.0",
+      "file_id": 692946,
+      "file_name": "More Scarves-149259-1-3-0-1764515926.7z",
+      "mod_id": 149259,
+      "hash": "sha256-sydadbma4F/wWcpJ/6I4cziLevsKk1yGQuBnXp9HVAs="
+    },
+    "type": "primary"
+  }
+}

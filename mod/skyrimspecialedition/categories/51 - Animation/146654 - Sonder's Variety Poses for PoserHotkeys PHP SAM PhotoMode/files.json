@@ -1,0 +1,23 @@
+{
+  "Sonders Variety Poses": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.2",
+      "file_id": 691243,
+      "file_name": "Sonders Variety Poses-146654-1-2-1764108512.zip",
+      "mod_id": 146654,
+      "hash": "sha256-hwapmnaNH4/jHpD5w2N9PkcQXA5RqU9TLFJjzcQej84="
+    },
+    "type": "primary"
+  },
+  "Variety Photomode Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.2",
+      "file_id": 691324,
+      "file_name": "Variety Photomode Patch-146654-1-2-1764126111.zip",
+      "mod_id": 146654,
+      "hash": "sha256-PsdJqGh8tNFLp/Wf7WIlav9inZKFE00Z58kynYF5PO8="
+    }
+  }
+}
