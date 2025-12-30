@@ -1,0 +1,33 @@
+{
+  "HSRiften - Temple of Mara": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0.0",
+      "file_id": 476113,
+      "file_name": "HSRiften - Temple of Mara-112903-1-0-0-1709351878.7z",
+      "mod_id": 112903,
+      "hash": "sha256-v73PW2R7aZK3aY9aw4wkgVTPDhRwok8XW2vJiZ+rn2o="
+    },
+    "type": "primary"
+  },
+  "HSRiften - Temple of Mara - ELFX": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0.0",
+      "file_id": 476114,
+      "file_name": "HSRiften - Temple of Mara - ELFX-112903-1-0-0-1709351906.7z",
+      "mod_id": 112903,
+      "hash": "sha256-KUgcHI7pLSfBRyzYizR7BJ2xgbuRTf5xVHet/Jzhi7c="
+    }
+  },
+  "HSRiften - Temple of Mara - LUX": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0.0",
+      "file_id": 476115,
+      "file_name": "HSRiften - Temple of Mara - LUX-112903-1-0-0-1709351930.7z",
+      "mod_id": 112903,
+      "hash": "sha256-AMRrICqTIRwrxIZO3Yi1pVdvZVZYxlFjDL4OuMW5k4Q="
+    }
+  }
+}

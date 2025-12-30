@@ -1,0 +1,23 @@
+{
+  "TDB - Konahrik's Accoutrements Loot": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "0.2",
+      "file_id": 526680,
+      "file_name": "TDB - Konahrik's Accoutrements Loot-125166-0-2-1722354239.zip",
+      "mod_id": 125166,
+      "hash": "sha256-xHaTApIa/WnhN3yG9C1YnAdpxqFtTi7Da35DwgVu4yw="
+    }
+  },
+  "Dragonborns Bestiary - Dragon Priests": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "0.3",
+      "file_id": 526875,
+      "file_name": "Dragonborns Bestiary - Dragon Priests-125166-0-3-1722403953.zip",
+      "mod_id": 125166,
+      "hash": "sha256-BGE+Jqp8VAzRX2t5KOztcIrtFphOEhn/1sldNIHXnOY="
+    },
+    "type": "primary"
+  }
+}

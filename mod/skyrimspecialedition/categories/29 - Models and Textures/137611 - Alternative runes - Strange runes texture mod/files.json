@@ -1,0 +1,68 @@
+{
+  "Alternative runes 1k": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1",
+      "file_id": 578059,
+      "file_name": "Alternative runes 1k-137611-1-1-1735663630.zip",
+      "mod_id": 137611,
+      "hash": "sha256-6eLDF+dZRdr710zattca21tygGd4NNfplhmjeWueOx4="
+    },
+    "type": "primary"
+  },
+  "Alternative runes 2k": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1",
+      "file_id": 578061,
+      "file_name": "Alternative runes 2k-137611-1-1-1735663711.zip",
+      "mod_id": 137611,
+      "hash": "sha256-CfHh1nbPWuaWAalTbNf5K4Yh8iYqkHn+IQ6sbhfAWCk="
+    },
+    "type": "primary"
+  },
+  "Alternative runes 2k - VR": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 579343,
+      "file_name": "Alternative runes 2k - VR-137611-1-0-1736005743.zip",
+      "mod_id": 137611,
+      "hash": "sha256-JiIrcfImt64NEzsSbyS1O6Ghn7YepVYuAyJCqD9uAm4="
+    },
+    "type": "primary"
+  },
+  "Alternative runes 1k - VR": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 579344,
+      "file_name": "Alternative runes 1k - VR-137611-1-0-1736005834.zip",
+      "mod_id": 137611,
+      "hash": "sha256-t0hVlvCtJq9rkHxAK/U1SeRRhcdVc1GuXvAB5szX3VU="
+    },
+    "type": "primary"
+  },
+  "Alternative runes 1k - No ritual": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 650046,
+      "file_name": "Alternative runes 1k - No ritual-137611-1-0-1753444548.zip",
+      "mod_id": 137611,
+      "hash": "sha256-9fsIiFGyVA9A4XDG3fe0VaV4Sr1R0/QsRRXdZTeUrtc="
+    },
+    "type": "primary"
+  },
+  "Alternative runes 2k - No ritual": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 650049,
+      "file_name": "Alternative runes 2k - No ritual-137611-1-0-1753445091.zip",
+      "mod_id": 137611,
+      "hash": "sha256-JL9N/CMIvMYdQb5DTwa9Qyw5caW6X3iJiDojzfbCqFo="
+    },
+    "type": "primary"
+  }
+}

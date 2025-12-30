@@ -1,0 +1,35 @@
+{
+    "HDT-SMP Ysmir Armor Patch": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "1.0",
+            "file_id": 475100,
+            "file_name": "HDT-SMP Ysmir Armor Patch-112700-1-0-1709048860.rar",
+            "mod_id": 112700,
+            "hash": "sha256-dfYPsy1rJ1yT5Xqbt9a/X6nRS7NmdvrMBuWrzK+OQUc="
+        },
+        "type": "primary"
+    },
+    "HDT-SMP Ysmir Armor Patch (Fix)": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "1.0",
+            "file_id": 475101,
+            "file_name": "HDT-SMP Ysmir Armor Patch (Fix)-112700-1-0-1709049026.rar",
+            "mod_id": 112700,
+            "hash": "sha256-HzpGUfY7iAKfHaNtU6UkBs0xYWqWF1sAWXMp9ibuqtw="
+        },
+        "type": "primary"
+    },
+    "HDT-SMP Ysmir Armor Patch (for CBBE 3BA)": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "1.0",
+            "file_id": 475104,
+            "file_name": "HDT-SMP Ysmir Armor Patch (for CBBE 3BA)-112700-1-0-1709049166.rar",
+            "mod_id": 112700,
+            "hash": "sha256-u5xpbpP3pG6QI7cr/pnNCa6gVCavtREXLZABxG9odlM="
+        },
+        "type": "primary"
+    }
+}

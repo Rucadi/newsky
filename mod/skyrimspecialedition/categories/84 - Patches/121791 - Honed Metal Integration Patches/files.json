@@ -1,0 +1,23 @@
+{
+  "Honed Metal Bruma Integration": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.00",
+      "file_id": 511172,
+      "file_name": "Honed Metal Bruma Integration-121791-1-00-1718287587.rar",
+      "mod_id": 121791,
+      "hash": "sha256-ROsvrG1nWHZuvGfGB3W9ekCQ4KtzhvBDHhpyT4vZSZc="
+    }
+  },
+  "Honed Metal Integration Patches": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.01",
+      "file_id": 511334,
+      "file_name": "Honed Metal Integration Patches-121791-1-01-1718323066.rar",
+      "mod_id": 121791,
+      "hash": "sha256-wv4IzcGS77q1EszqgwIXoTFwqG8x2b1PxUS+UkInUh8="
+    },
+    "type": "primary"
+  }
+}

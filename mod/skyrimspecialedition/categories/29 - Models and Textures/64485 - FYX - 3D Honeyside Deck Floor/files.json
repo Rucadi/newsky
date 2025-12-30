@@ -1,0 +1,35 @@
+{
+  "FYX - 3D Honeyside Deck Floor": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0.3.2",
+      "file_id": 316981,
+      "file_name": "FYX - 3D Honeyside Deck Floor-64485-1-0-3-2-1663437781.7z",
+      "mod_id": 64485,
+      "hash": "sha256-tyOAyv9qbE+0gfmAwAs2ctS7xYFm5X8EXVjQbGt2f6o="
+    },
+    "type": "primary"
+  },
+  "FYX - 3D Honeyside Deck Floor - SMIM - Parallax": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0.3.2",
+      "file_id": 316982,
+      "file_name": "FYX - 3D Honeyside Deck Floor - SMIM - Parallax-64485-1-0-3-2-1663437822.7z",
+      "mod_id": 64485,
+      "hash": "sha256-HhyK878Hior4HSPV/aSC/98OIIuhHOKjWTze53sM82k="
+    },
+    "type": "primary"
+  },
+  "FYX - 3D Honeyside Deck Floor - SMIM": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0.3.2",
+      "file_id": 316983,
+      "file_name": "FYX - 3D Honeyside Deck Floor - SMIM-64485-1-0-3-2-1663437855.7z",
+      "mod_id": 64485,
+      "hash": "sha256-tl1AoFxIvQcqiFgJN9NLpkcVPPCfRRw4BTSyuOccGUE="
+    },
+    "type": "primary"
+  }
+}

@@ -1,0 +1,43 @@
+{
+    "HSWindhelm - Temple of Talos": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "1.0.0",
+            "file_id": 408793,
+            "file_name": "HSWindhelm - Temple of Talos-96227-1-0-0-1689845901.7z",
+            "mod_id": 96227,
+            "hash": "sha256-G2K5Fl928agOS95iiVd60MMMrKrU4TWL9CNPkKrSg+g="
+        },
+        "type": "primary"
+    },
+    "HSWindhelm - Temple of Talos - ELFX": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "1.0.0",
+            "file_id": 408794,
+            "file_name": "HSWindhelm - Temple of Talos - ELFX-96227-1-0-0-1689845928.7z",
+            "mod_id": 96227,
+            "hash": "sha256-8J72tPF4CvkuzL8wIM3MCrlbihHopjYrfuCxpBxFtMI="
+        }
+    },
+    "HSWindhelm - Temple of Talos - LUX": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "1.0.0",
+            "file_id": 408795,
+            "file_name": "HSWindhelm - Temple of Talos - LUX-96227-1-0-0-1689845958.7z",
+            "mod_id": 96227,
+            "hash": "sha256-VeCli7Mns6gqqJPLTqq8Y2mNTDv+gDQ5T8Xhy7vw+F4="
+        }
+    },
+    "HSWindhelm - Temple of Talos - USSEP": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "1.0.0",
+            "file_id": 408796,
+            "file_name": "HSWindhelm - Temple of Talos - USSEP-96227-1-0-0-1689845999.7z",
+            "mod_id": 96227,
+            "hash": "sha256-U/SrrLiSIWk4cePy6dHhTpa6s0Oh6mVqL3TYrDTVRN0="
+        }
+    }
+}

@@ -1,0 +1,63 @@
+{
+  "TDM Target Fix - Bristleback": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.3",
+      "file_id": 327791,
+      "file_name": "TDM Target Fix - Bristleback-77843-1-3-1667174214.rar",
+      "mod_id": 77843,
+      "hash": "sha256-Pd/anuYkJmTXAIH4/bvtRlrtSvmkjCl/6Z2lz/nnueU="
+    }
+  },
+  "TDM Target Fix - Mammoth (Rougeshot skeleton)": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 327792,
+      "file_name": "TDM Target Fix - Mammoth (Rougeshot skeleton)-77843-1-0-1667174329.rar",
+      "mod_id": 77843,
+      "hash": "sha256-nqk4DrW6halOHLV1hJDrkdVOde5zq4tPb9K+9IpeJDs="
+    }
+  },
+  "TDM Target Fix - Ice Wraith": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 327793,
+      "file_name": "TDM Target Fix - Ice Wraith-77843-1-0-1667174388.rar",
+      "mod_id": 77843,
+      "hash": "sha256-rcy2Zi5djLEnJFrWpnG0/qQV83cQWTotN0Yp2tYsrjc="
+    }
+  },
+  "TDM Target Fix - Mammoth": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1",
+      "file_id": 327795,
+      "file_name": "TDM Target Fix - Mammoth-77843-1-1-1667174588.rar",
+      "mod_id": 77843,
+      "hash": "sha256-Ier6cg44czSOzuq5dtIZss8AtxhmIWMXrIeIWeruaX8="
+    }
+  },
+  "TDM Target Fix - Troll": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 331285,
+      "file_name": "TDM Target Fix - Troll-77843-1-0-1668295924.rar",
+      "mod_id": 77843,
+      "hash": "sha256-fU2geG/hMoBbej2pPLTtbwu7su5jCJXuokjCaHoxxlc="
+    }
+  },
+  "True Directional Movement Lock-On Fixes": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1.1",
+      "file_id": 538720,
+      "file_name": "True Directional Movement Lock-On Fixes-77843-1-1-1-1725475525.rar",
+      "mod_id": 77843,
+      "hash": "sha256-mHc6rfJKiZYcb2UpREjOBdq5Godjoriwohff8Lgbd9Q="
+    },
+    "type": "primary"
+  }
+}

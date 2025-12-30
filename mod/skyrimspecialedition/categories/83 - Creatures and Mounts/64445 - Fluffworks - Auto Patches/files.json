@@ -1,0 +1,343 @@
+{
+  "Fluffworks - Grunt the Bear Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 480258,
+      "file_name": "Fluffworks - Grunt the Bear Patch-64445-1-0-1710368239.7z",
+      "mod_id": 64445,
+      "hash": "sha256-3CahxHfA1cuLgb+ei5XgflS0F1KATp3keoHsHFE4T6k="
+    }
+  },
+  "Fluffworks - Opossum Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 495699,
+      "file_name": "Fluffworks - Opossum Patch-64445-1-0-1714323669.7z",
+      "mod_id": 64445,
+      "hash": "sha256-/S6CpxQ6u7fn4M0bAb+cnK6CiJqyqZJVy8QiwTTQo60="
+    }
+  },
+  "Fluffworks - Moonlight Tales Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 555225,
+      "file_name": "Fluffworks - Moonlight Tales Patch-64445-1-0-1729809541.7z",
+      "mod_id": 64445,
+      "hash": "sha256-2GaamlWD83E2w2ndmzy3qgGnCq4YfpzP8bAnfCJ7f5g="
+    }
+  },
+  "Fluffworks - Unicorn Steed of Hircine Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "2.0",
+      "file_id": 576417,
+      "file_name": "Fluffworks - Unicorn Steed of Hircine Patch-64445-2-0-1735274527.7z",
+      "mod_id": 64445,
+      "hash": "sha256-eY5YtKG+8mNjcfkg7BEdmHn+VYIk3QSE3KWZw+Qq9WM="
+    }
+  },
+  "Fluffworks - A Cat's Life Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "2.0",
+      "file_id": 576428,
+      "file_name": "Fluffworks - A Cat's Life Patch-64445-2-0-1735276332.7z",
+      "mod_id": 64445,
+      "hash": "sha256-LdxwlS1OK8eqQWhpu0nLfxr6HjPNcX6g243+pRo0lSY="
+    }
+  },
+  "Fluffworks - CC Wild Horses Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "2.0",
+      "file_id": 579517,
+      "file_name": "Fluffworks - CC Wild Horses Patch-64445-2-0-1736055384.7z",
+      "mod_id": 64445,
+      "hash": "sha256-ITt4AZHwZ3hBCg6T1pxOvgfMAE2yiwhp7g48iYPACjY="
+    }
+  },
+  "Fluffworks - Convenient Carriages Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1",
+      "file_id": 579520,
+      "file_name": "Fluffworks - Convenient Carriages Patch-64445-1-1-1736055518.7z",
+      "mod_id": 64445,
+      "hash": "sha256-iaj+OkMVmv529LJ7OHugXzUrmDjgAUe+mi/i5YCr2v0="
+    }
+  },
+  "Fluffworks - Beavers and Raccoons of Skyrim Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "2.0",
+      "file_id": 579522,
+      "file_name": "Fluffworks - Beavers and Raccoons of Skyrim Patch-64445-2-0-1736055721.7z",
+      "mod_id": 64445,
+      "hash": "sha256-K06hM1+pDmsTu9oruLv4tItbOPHymaFkcqM+2T94HBE="
+    }
+  },
+  "Fluffworks - Animallica Deer Only Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 579524,
+      "file_name": "Fluffworks - Animallica Deer Only Patch-64445-1-0-1736055953.7z",
+      "mod_id": 64445,
+      "hash": "sha256-ueDj8hcvUy6i0AHD6+6ghB95xF/vgvCMeM+H10ihTgc="
+    }
+  },
+  "Fluffworks - Grahl the Ice Troll Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 579525,
+      "file_name": "Fluffworks - Grahl the Ice Troll Patch-64445-1-0-1736056100.7z",
+      "mod_id": 64445,
+      "hash": "sha256-RMGA/SOMqxwk2MHvAKroPvn5W8Rt4PcL1Tj6sCt324A="
+    }
+  },
+  "Fluffworks - Beyond Skyrim Bruma Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 579526,
+      "file_name": "Fluffworks - Beyond Skyrim Bruma Patch-64445-1-0-1736056241.7z",
+      "mod_id": 64445,
+      "hash": "sha256-ZMHxra2m1fl6404ke+b+6NDqV5l4fvc9pvKjdoTk27E="
+    }
+  },
+  "Fluffworks - Cow Calves Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "2.0",
+      "file_id": 579529,
+      "file_name": "Fluffworks - Cow Calves Patch-64445-2-0-1736057207.7z",
+      "mod_id": 64445,
+      "hash": "sha256-1K6RvQA4g5dYAkwycUeO2h8cg2M5IsXxN49L57pC2HU="
+    }
+  },
+  "Fluffworks - Dream's Unique Dogs Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "2.0",
+      "file_id": 579530,
+      "file_name": "Fluffworks - Dream's Unique Dogs Patch-64445-2-0-1736057309.7z",
+      "mod_id": 64445,
+      "hash": "sha256-4hiRMNX1TXgq1heTIZOndgff4We58EVFjTf1N646mKw="
+    }
+  },
+  "Fluffworks - Dynamic Animal Variants Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "2.0",
+      "file_id": 579534,
+      "file_name": "Fluffworks - Dynamic Animal Variants Patch-64445-2-0-1736057786.7z",
+      "mod_id": 64445,
+      "hash": "sha256-8nESiTgpohvFDG7ePIO86hPI7vuJmhiR1iav2sZABjc="
+    }
+  },
+  "Fluffworks - Immersive Caravan Mules Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.5",
+      "file_id": 579537,
+      "file_name": "Fluffworks - Immersive Caravan Mules Patch-64445-1-5-1736057912.7z",
+      "mod_id": 64445,
+      "hash": "sha256-05q79gjD+3iLqMAzGXw3o/oC4XytBtQl+fTwzzEr4To="
+    }
+  },
+  "Fluffworks - Rats for Skeevers Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "2.0",
+      "file_id": 579540,
+      "file_name": "Fluffworks - Rats for Skeevers Patch-64445-2-0-1736058314.7z",
+      "mod_id": 64445,
+      "hash": "sha256-g6vVc1zSQsvCKW74nyFvi/HZuFzCyLCZym2nXuTIM5U="
+    }
+  },
+  "Fluffworks - LotD Fafnir Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "2.0",
+      "file_id": 579541,
+      "file_name": "Fluffworks - LotD Fafnir Patch-64445-2-0-1736058431.7z",
+      "mod_id": 64445,
+      "hash": "sha256-Z4gtHrSZw9djCJ8Ne8PaCr4G9RvQWXhOvfKZkpehGls="
+    }
+  },
+  "Fluffworks - Moonlight Tales Mini Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "2.1",
+      "file_id": 638664,
+      "file_name": "Fluffworks - Moonlight Tales Mini Patch-64445-2-1-1750108404.7z",
+      "mod_id": 64445,
+      "hash": "sha256-xYtzXjfgM4c/kipXzXvputYShbJh5N6bsLg7SpYSyOw="
+    }
+  },
+  "Fluffworks - SkyTest Redux Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.2",
+      "file_id": 642017,
+      "file_name": "Fluffworks - SkyTest Redux Patch-64445-1-2-1750988487.7z",
+      "mod_id": 64445,
+      "hash": "sha256-eyinl0/mnuoCZvqZT52DqujXTYVhCGWdIKIxDoW2xt4="
+    }
+  },
+  "Fluffworks - A Horse's Life Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 642283,
+      "file_name": "Fluffworks - A Horse's Life Patch-64445-1-0-1751085104.7z",
+      "mod_id": 64445,
+      "hash": "sha256-4NQsnLYZLK30AMZLOWBzYfZIZHyuOEA2bajEMHjY6Rw="
+    }
+  },
+  "Fluffworks - CC Horse Armor Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 642284,
+      "file_name": "Fluffworks - CC Horse Armor Patch-64445-1-0-1751085163.7z",
+      "mod_id": 64445,
+      "hash": "sha256-wpEKYkKhjIhbaEnRa3vjepLB7GRxSzAx0ZQlP+1LPJE="
+    }
+  },
+  "Fluffworks - Skaven of Skyrim Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 646620,
+      "file_name": "Fluffworks - Skaven of Skyrim Patch-64445-1-0-1752379807.7z",
+      "mod_id": 64445,
+      "hash": "sha256-04YhPec5qf0miWOCmA5vaDqp+gZ6RoH2Qbp3TBUA8MQ="
+    }
+  },
+  "Fluffworks - Savage Skyrim Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "2.0",
+      "file_id": 654586,
+      "file_name": "Fluffworks - Savage Skyrim Patch-64445-2-0-1754862817.7z",
+      "mod_id": 64445,
+      "hash": "sha256-sowotKGTv60uu2a0clVucAHacUvYEV7V+2vhCkKWZK4="
+    }
+  },
+  "Fluffworks - Kharaz Gnel Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 692705,
+      "file_name": "Fluffworks - Kharaz Gnel Patch-64445-1-0-1764472742.7z",
+      "mod_id": 64445,
+      "hash": "sha256-7KCurq3fwBQpW53YQIjPzhY9gdmwy0p/LQtwIVmx6N0="
+    }
+  },
+  "Fluffworks - Dawn of Skyrim - Wolf Eye Fix Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1",
+      "file_id": 692734,
+      "file_name": "Fluffworks - Dawn of Skyrim - Wolf Eye Fix Patch-64445-1-1-1764478927.7z",
+      "mod_id": 64445,
+      "hash": "sha256-Xb7AMFt5Ho1GcsL1R0nz481uOSeBGBXunlETqDnY4Ug="
+    }
+  },
+  "Fluffworks - Stendarr's Rising Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 692940,
+      "file_name": "Fluffworks - Stendarr's Rising Patch-64445-1-0-1764515049.7z",
+      "mod_id": 64445,
+      "hash": "sha256-/LESmfphuywpL5aiMzHKOLzpZLBODihvhhBPaBfS790="
+    }
+  },
+  "Fluffworks - SkyTest Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "2.3",
+      "file_id": 692942,
+      "file_name": "Fluffworks - SkyTest Patch-64445-2-3-1764515321.7z",
+      "mod_id": 64445,
+      "hash": "sha256-5MHpBLBeMYelsCdkJcM9XM5o58Wtybfb3U/A+B34TC8="
+    }
+  },
+  "Fluffworks - Skyrim Immersive Creatures Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "2.3",
+      "file_id": 692944,
+      "file_name": "Fluffworks - Skyrim Immersive Creatures Patch-64445-2-3-1764515547.7z",
+      "mod_id": 64445,
+      "hash": "sha256-aFADjxpUdJo+aKY8g40UdzcEcqxEROi9XHsmI6sJjpk="
+    }
+  },
+  "Fluffworks - Garm the Husky Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "2.3",
+      "file_id": 692950,
+      "file_name": "Fluffworks - Garm the Husky Patch-64445-2-3-1764516432.7z",
+      "mod_id": 64445,
+      "hash": "sha256-pB5Ad94wTjb223tcUCtL9+qgk8JmstIqvMb9IBft2Io="
+    }
+  },
+  "Fluffworks - ESO Imports Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.2",
+      "file_id": 692952,
+      "file_name": "Fluffworks - ESO Imports Patch-64445-1-2-1764516575.7z",
+      "mod_id": 64445,
+      "hash": "sha256-952jw/vIRnnG67psDi5FkzLwAdNOC0PCpIWHXosdues="
+    }
+  },
+  "Fluffworks - Beyond Reach Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1",
+      "file_id": 692955,
+      "file_name": "Fluffworks - Beyond Reach Patch-64445-1-1-1764517242.7z",
+      "mod_id": 64445,
+      "hash": "sha256-e2VRLFmCSqI7/qHVlrEIj8Cvxz0hsc6fOijGa+nst0Q="
+    }
+  },
+  "Fluffworks - Animallica Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "2.3",
+      "file_id": 692959,
+      "file_name": "Fluffworks - Animallica Patch-64445-2-3-1764517757.7z",
+      "mod_id": 64445,
+      "hash": "sha256-UAxOL/pdN0ENvEeJgVeTfHS4I6TOzBoRjKkFR4Dxgfg="
+    }
+  },
+  "Fluffworks - Auto Patches": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "2.3",
+      "file_id": 693058,
+      "file_name": "Fluffworks - Auto Patches-64445-2-3-1764535453.7z",
+      "mod_id": 64445,
+      "hash": "sha256-6sU6L/RCWrYjh21bYDvCqsSyFP4NsH+Sl9R6o0aq4Jk="
+    },
+    "type": "primary"
+  },
+  "Fluffworks - True Wolves Mesh Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1",
+      "file_id": 694498,
+      "file_name": "Fluffworks - True Wolves Mesh Patch-64445-1-1-1764895312.7z",
+      "mod_id": 64445,
+      "hash": "sha256-8yVLUb9evHxZd3fIXXK8XSJyX5N8xP6z+kCD98RbLJg="
+    }
+  }
+}

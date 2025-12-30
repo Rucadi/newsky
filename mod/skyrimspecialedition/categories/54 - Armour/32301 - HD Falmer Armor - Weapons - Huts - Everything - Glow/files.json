@@ -1,0 +1,23 @@
+{
+  "HD Falmer and Chaurus with Glow - xTxVxTx": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "2.5",
+      "file_id": 123416,
+      "file_name": "HD Falmer and Chaurus with Glow - xTxVxTx-32301-2-5-1581279933.7z",
+      "mod_id": 32301,
+      "hash": "sha256-bTsZrW5/GBICZR/2d5h2Q/SMxkz6tKy4C60cizur2Gg="
+    },
+    "type": "primary"
+  },
+  "HD Falmer and Chaurus - No Glow - xTxVxTx": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "2.5",
+      "file_id": 123443,
+      "file_name": "HD Falmer and Chaurus - No Glow - xTxVxTx-32301-2-5-1581304374.7z",
+      "mod_id": 32301,
+      "hash": "sha256-8shMULWf39dzZM1IricjAbisnha7c6vzju/mH7/paSY="
+    }
+  }
+}

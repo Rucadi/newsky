@@ -1,0 +1,32 @@
+{
+  "BHKS - TNG - Official Patch Collection": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0.1",
+      "file_id": 698377,
+      "file_name": "BHKS - TNG - Official Patch Collection-142993-1-0-1-1765822524.zip",
+      "mod_id": 142993,
+      "hash": "sha256-4C53gf2Hqp0TuWMmiy2pO6aKQBghBQvxeWzOiXfsjbw="
+    }
+  },
+  "Become High King of Skyrim - TNG": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "2.0.3",
+      "file_id": 699342,
+      "file_name": "Become High King of Skyrim - TNG-142993-2-0-3-1766077856.zip",
+      "mod_id": 142993,
+      "hash": "sha256-ZdnNOdTIXFncDiR5lfmEepmmDEd1Hb0ShwSc5GWRZYI="
+    },
+    "type": "primary"
+  },
+  "BHKS - TNG - 3BA Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0.4",
+      "file_id": 699430,
+      "file_name": "BHKS - TNG - 3BA Patch-142993-1-0-4-1766099450.zip",
+      "mod_id": 142993
+    }
+  }
+}

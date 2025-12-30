@@ -1,0 +1,23 @@
+{
+    "Olenveld - Tweaks and Fixes": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "1.00",
+            "file_id": 698789,
+            "file_name": "Olenveld - Tweaks and Fixes-167273-1-00-1765933994.rar",
+            "mod_id": 167273,
+            "hash": "sha256-HgvNBTEEkhjDG3R/BkEIin+CO3GRfIFhgI/3lskTbtA="
+        },
+        "type": "primary"
+    },
+    "Olenveld - Fixes No Dialogue Change": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "1.00",
+            "file_id": 699116,
+            "file_name": "Olenveld - Fixes No Dialogue Change-167273-1-00-1766021669.rar",
+            "mod_id": 167273,
+            "hash": "sha256-b+MYJpArFfNHW9ZcDG072ZUwdZjWTLD7TnlyBFVHKSw="
+        }
+    }
+}

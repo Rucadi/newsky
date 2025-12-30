@@ -1,0 +1,23 @@
+{
+  "Requiem - Lockbashing Improved": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.00",
+      "file_id": 536165,
+      "file_name": "Requiem - Lockbashing Improved-127877-1-00-1724856576.rar",
+      "mod_id": 127877,
+      "hash": "sha256-jtiJdNOmIQE9/zkwPxBXBjKVHGtexKLD1kQPmt3o7OY="
+    },
+    "type": "primary"
+  },
+  "Requiem - Lockbashing Improved (Hard)": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.00",
+      "file_id": 605538,
+      "file_name": "Requiem - Lockbashing Improved (Hard)-127877-1-00-1741968206.rar",
+      "mod_id": 127877,
+      "hash": "sha256-+MIaNXMWEf47kr0W2LmI1Zr5hRSR+rfxH6ULy2oE2Vg="
+    }
+  }
+}

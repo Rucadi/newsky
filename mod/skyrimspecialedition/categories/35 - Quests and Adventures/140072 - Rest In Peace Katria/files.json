@@ -1,0 +1,23 @@
+{
+  "Rest In Peace Katria": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "3.0",
+      "file_id": 685418,
+      "file_name": "Rest In Peace Katria-140072-3-0-1762642936.zip",
+      "mod_id": 140072,
+      "hash": "sha256-FDLYwQjrFjx0ETDcc1Rty46e/XdJYQLtEdoOksHlgtI="
+    },
+    "type": "primary"
+  },
+  "Rest In Peace Katria Fix": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "3.0",
+      "file_id": 695195,
+      "file_name": "Rest In Peace Katria Fix-140072-3-0-1765060310.zip",
+      "mod_id": 140072,
+      "hash": "sha256-anUxVi9Pv3fXeOzWM7DW2I9xwAoRcqN3lOQ01Hyf+qc="
+    }
+  }
+}

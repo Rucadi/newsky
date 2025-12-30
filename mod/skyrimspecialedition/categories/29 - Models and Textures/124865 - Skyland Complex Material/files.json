@@ -1,0 +1,63 @@
+{
+  "CCOR Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0c",
+      "file_id": 533821,
+      "file_name": "CCOR Patch-124865-1-0c-1724245148.rar",
+      "mod_id": 124865,
+      "hash": "sha256-0Tel8/nsAbhrvwmjxkJf7nmX0+DaZgcnP+BCQZvejNc="
+    }
+  },
+  "Skyland - Better Dynamic Snow 3 Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0d",
+      "file_id": 540959,
+      "file_name": "Skyland - Better Dynamic Snow 3 Patch-124865-1-0d-1726036819.rar",
+      "mod_id": 124865,
+      "hash": "sha256-St9GcpWtBZyLmWI9zJgWmdMlTtFGx2ozTM59tvo9Xsg="
+    }
+  },
+  "Skyland - Better Dynamic Ash Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "2.0e",
+      "file_id": 551997,
+      "file_name": "Skyland - Better Dynamic Ash Patch-124865-2-0e-1728896967.rar",
+      "mod_id": 124865,
+      "hash": "sha256-BbWX2OuZPz/eahibX9idHEwUf6jbjtGHCgy6wk7sObw="
+    }
+  },
+  "Skyland Complex Material Meshes": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "3.3b",
+      "file_id": 583894,
+      "file_name": "Skyland Complex Material Meshes-124865-3-3b-1737004358.rar",
+      "mod_id": 124865,
+      "hash": "sha256-eqjT5To/c4CuMjzakupsxmWsJk3EiYrmTa8qWL/e8mg="
+    }
+  },
+  "Skyland Green Tundra Complex Material": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0.0",
+      "file_id": 602226,
+      "file_name": "Skyland Green Tundra Complex Material-124865-1-0-0-1741222949.7z",
+      "mod_id": 124865,
+      "hash": "sha256-6AupdyC0lhnhERPRzXkLSY+fSdFMPZooc2SoU+a/XK0="
+    }
+  },
+  "Skyland Complex Material": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0.1",
+      "file_id": 604307,
+      "file_name": "Skyland Complex Material-124865-1-0-1-1741667795.7z",
+      "mod_id": 124865,
+      "hash": "sha256-MYntyAiKrLanb3dJaCpdaegb1334ppwmODKxHl7PTBs="
+    },
+    "type": "primary"
+  }
+}

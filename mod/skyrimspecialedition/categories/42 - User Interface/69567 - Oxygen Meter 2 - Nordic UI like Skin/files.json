@@ -1,0 +1,33 @@
+{
+  "Oxygen Meter 2 Nordic like Skin": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.2.1",
+      "file_id": 502053,
+      "file_name": "Oxygen Meter 2 Nordic like Skin-69567-1-2-1-1715960760.7z",
+      "mod_id": 69567,
+      "hash": "sha256-sL5wWs5OqF8MxvJ8eqU1T08kvmM8LJDudL2sLGNOpFw="
+    },
+    "type": "primary"
+  },
+  "Oxygen Meter 2 Nordic like Skin White": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1",
+      "file_id": 293105,
+      "file_name": "Oxygen Meter 2 Nordic like Skin White-69567-1-1-1655907506.zip",
+      "mod_id": 69567,
+      "hash": "sha256-6HgMUkIYtdSYvLCcooyk7VZ8pq9FhcsCzahvvM1Odcc="
+    }
+  },
+  "Oxygen Meter 2 Nordic like Skin Blue": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1",
+      "file_id": 293106,
+      "file_name": "Oxygen Meter 2 Nordic like Skin Blue-69567-1-1-1655907575.zip",
+      "mod_id": 69567,
+      "hash": "sha256-WV8wLr69496X8evDXS0uYY2bnGteGxcDRx+uimqRwmA="
+    }
+  }
+}

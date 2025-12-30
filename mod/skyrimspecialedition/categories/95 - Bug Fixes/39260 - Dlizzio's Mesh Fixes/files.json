@@ -1,0 +1,53 @@
+{
+  "HD LODs Textures SE Mesh Fix": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 155637,
+      "file_name": "HD LODs Textures SE Mesh Fix-39260-1-0-1597452489.zip",
+      "mod_id": 39260,
+      "hash": "sha256-TwMv9VkUMDyUJTsoD4s45QlJ7jsxksB2/x/zlNS57Ag="
+    }
+  },
+  "Solitude Wall Clover Remover": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 158797,
+      "file_name": "Solitude Wall Clover Remover-39260-1-0-1599026476.zip",
+      "mod_id": 39260,
+      "hash": "sha256-q/ikxPONg6mnHHgn5pLw45nfJcNXyda5VYUIMjjpEHw="
+    }
+  },
+  "Noble Skyrim Material Fix": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 159927,
+      "file_name": "Noble Skyrim Material Fix-39260-1-3-1599690171.zip",
+      "mod_id": 39260,
+      "hash": "sha256-NIBuwwHoC/FjlqVrEX5LDnYzDnYJPg9/wbhyaSkv3rQ="
+    }
+  },
+  "Dlizzio's Mesh Fixes": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "2.3",
+      "file_id": 212983,
+      "file_name": "Dlizzio's Mesh Fixes-39260-2-3-1625555228.zip",
+      "mod_id": 39260,
+      "hash": "sha256-zbk2RlvrxcbB+h9nyEC/23MZvKeVfZ5gLxaMLtkh+oI="
+    },
+    "type": "primary"
+  },
+  "Parallax Mesh Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 213221,
+      "file_name": "Parallax Mesh Patch-39260-1-0-1625667965.zip",
+      "mod_id": 39260,
+      "hash": "sha256-H8p//Uf835ueNnRJAmdmi2kZ9HbWzUx+6alz2PIb/1s="
+    }
+  }
+}

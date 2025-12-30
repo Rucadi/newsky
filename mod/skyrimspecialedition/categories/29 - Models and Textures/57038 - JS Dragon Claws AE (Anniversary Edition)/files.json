@@ -1,0 +1,65 @@
+{
+  "JS Dragon Claws AE - Rayek's End SE Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 240271,
+      "file_name": "JS Dragon Claws AE - Rayek's End SE Patch-57038-1-0-1636517740.rar",
+      "mod_id": 57038,
+      "hash": "sha256-jlIjcLq2KCCjbHhturc9l+FWTTA/ULgdx+TxvAKAGeE="
+    }
+  },
+  "JS Dragon Claws AE - Elysium Estate Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 294078,
+      "file_name": "JS Dragon Claws AE - Elysium Estate Patch-57038-1-0-1656198137.rar",
+      "mod_id": 57038,
+      "hash": "sha256-zz+COJ2WZIp8VmpTtUusnkoZuhahhjZ/EzpDvS4Q0Hw="
+    }
+  },
+  "JS Dragon Claws AE - Riverwood Keep Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 294079,
+      "file_name": "JS Dragon Claws AE - Riverwood Keep Patch-57038-1-0-1656198199.rar",
+      "mod_id": 57038,
+      "hash": "sha256-haP1Clcq8Aoe+doQyeYfn8X9TTos9DzCtkrKtjCC7Ao="
+    }
+  },
+  "JS Dragon Claws AE - 2k Textures": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.32",
+      "file_id": 522290,
+      "file_name": "JS Dragon Claws AE - 2k Textures-57038-1-32-1721269172.7z",
+      "mod_id": 57038,
+      "hash": "sha256-2E8fW/rRoLyxZnRDJsJG01ZLs3QG+pTBs/E7FI+6o3k="
+    },
+    "type": "primary"
+  },
+  "JS Dragon Claws AE - 4k Textures": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.32",
+      "file_id": 522296,
+      "file_name": "JS Dragon Claws AE - 4k Textures-57038-1-32-1721270372.7z",
+      "mod_id": 57038,
+      "hash": "sha256-N9E1YGeTIs7tZp369ZaFGQQqTl420vmBmBOEAhs4no0="
+    },
+    "type": "primary"
+  },
+  "JS Dragon Claws AE - 1k Textures": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.32",
+      "file_id": 522298,
+      "file_name": "JS Dragon Claws AE - 1k Textures-57038-1-32-1721270522.7z",
+      "mod_id": 57038,
+      "hash": "sha256-TE/dBZJhkO0nCzdShC9gUvRHnTXYHZf7aHhaGKiGCPI="
+    },
+    "type": "primary"
+  }
+}

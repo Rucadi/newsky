@@ -1,0 +1,55 @@
+{
+  "Crude Glass Weapons - Leveled List Addon": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1.0",
+      "file_id": 526166,
+      "file_name": "Crude Glass Weapons - Leveled List Addon-125408-1-1-0-1722238236.zip",
+      "mod_id": 125408,
+      "hash": "sha256-jWgv2YyCDnagydI6LcOYE+wWiN5IxG5PSGViwpYCVLs="
+    }
+  },
+  "Crude Glass Weapons - Replacer Addon": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1.0",
+      "file_id": 526167,
+      "file_name": "Crude Glass Weapons - Replacer Addon-125408-1-1-0-1722238278.zip",
+      "mod_id": 125408,
+      "hash": "sha256-qvfsJrAtfKzQDh0g1l8OsXkzRjRYFkHNmMPp+sQh0QY="
+    }
+  },
+  "Crude Glass Weapons - 1K Textures": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1.2",
+      "file_id": 570042,
+      "file_name": "Crude Glass Weapons - 1K Textures-125408-1-1-2-1733601882.zip",
+      "mod_id": 125408,
+      "hash": "sha256-4H/AlQrTYWSIXq+Y2J14yfZPDYazQ9bth13/IS6tnhE="
+    },
+    "type": "primary"
+  },
+  "Crude Glass Weapons - 2K Textures": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1.2",
+      "file_id": 570044,
+      "file_name": "Crude Glass Weapons - 2K Textures-125408-1-1-2-1733602002.zip",
+      "mod_id": 125408,
+      "hash": "sha256-1XC6Xk5bi3rcAzk/X8TAbXzy5c1nSWSuwEkpPlZxWDI="
+    },
+    "type": "primary"
+  },
+  "Crude Glass Weapons - 4K Textures": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1.2",
+      "file_id": 570046,
+      "file_name": "Crude Glass Weapons - 4K Textures-125408-1-1-2-1733602153.zip",
+      "mod_id": 125408,
+      "hash": "sha256-Y5JlT2jqJKh7hmHD/W26cOY+TL36tA4yZ5l9/cjuSBg="
+    },
+    "type": "primary"
+  }
+}

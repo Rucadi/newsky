@@ -1,0 +1,43 @@
+{
+  "The Cause - Rare Curios - Ayleid Lich Crown Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0.0",
+      "file_id": 250476,
+      "file_name": "The Cause - Rare Curios - Ayleid Lich Crown Patch-60405-1-0-0-1639990471.7z",
+      "mod_id": 60405,
+      "hash": "sha256-rR77dze8tJYDOs4yINBkeKSAYKl1NTLqNpfKWn+LLMs="
+    }
+  },
+  "The Cause - Rare Curios Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0.0",
+      "file_id": 250477,
+      "file_name": "The Cause - Rare Curios Patch-60405-1-0-0-1639990500.7z",
+      "mod_id": 60405,
+      "hash": "sha256-F+NzdLk3cCzZzhqwBxpecqnJcEiEZDG1XLbM1KgeYe0="
+    },
+    "type": "primary"
+  },
+  "The Cause - Rare Curios - Halls of Rielle Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0.0",
+      "file_id": 250478,
+      "file_name": "The Cause - Rare Curios - Halls of Rielle Patch-60405-1-0-0-1639990543.7z",
+      "mod_id": 60405,
+      "hash": "sha256-FAHERXt7djP25Ts3sxXwQyh+MEwp2oc89PcsPianq6E="
+    }
+  },
+  "The Cause - Flawed Varla Stone Integration": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0.0",
+      "file_id": 250481,
+      "file_name": "The Cause - Flawed Varla Stone Integration-60405-1-0-0-1639990942.7z",
+      "mod_id": 60405,
+      "hash": "sha256-6uAwjzW08DymzDpTF7D0IeaUSs7FBmUDVL0Gk0yDzx4="
+    }
+  }
+}

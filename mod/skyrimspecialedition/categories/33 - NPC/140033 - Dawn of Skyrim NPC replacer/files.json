@@ -1,0 +1,24 @@
+{
+  "Dawn of Skyrim NPC replacer 1.4a": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1",
+      "file_id": 601429,
+      "file_name": "Dawn of Skyrim NPC replacer 1.4a-140033-1-1-1741024420.zip",
+      "mod_id": 140033,
+      "hash": "sha256-LnlhfKhJMaHckLxrLUaj215b+oN3oqzS+774EzFg5jE="
+    },
+    "type": "primary"
+  },
+  "Dawn of Skyrim NPC replacer 1.5": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1",
+      "file_id": 601430,
+      "file_name": "Dawn of Skyrim NPC replacer 1.5-140033-1-1-1741024466.zip",
+      "mod_id": 140033,
+      "hash": "sha256-IT+IMqd+aGXLExKPWQYaCIu9d13sO//N4Q1TI+CoeGA="
+    },
+    "type": "primary"
+  }
+}

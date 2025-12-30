@@ -1,0 +1,33 @@
+{
+  "Khajiit Speak - Serpent's Covenant": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 474838,
+      "file_name": "Khajiit Speak - Serpent's Covenant-111911-1-0-1708977690.7z",
+      "mod_id": 111911,
+      "hash": "sha256-WYFnuJaNZIeDcKGkD/3s/WyL+lSkfjb43iQivyqQ9eg="
+    }
+  },
+  "Khajiit Speak - Serpent's Covenant - ESL": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 474839,
+      "file_name": "Khajiit Speak - Serpent's Covenant - ESL-111911-1-0-1708977728.7z",
+      "mod_id": 111911,
+      "hash": "sha256-UjiPFdPinV9fKvBsNcy/fQtgaoJ8BowlzKyaCSwNZYg="
+    }
+  },
+  "The Serpent's Covenant - ESL - 1.0.4": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0.4",
+      "file_id": 649958,
+      "file_name": "The Serpent's Covenant - ESL - 1.0.4-111911-1-0-4-1753411538.zip",
+      "mod_id": 111911,
+      "hash": "sha256-T81A6bTtnjeXRVmhZZVLYSgCkZUoZk9WEudKe3N2hig="
+    },
+    "type": "primary"
+  }
+}

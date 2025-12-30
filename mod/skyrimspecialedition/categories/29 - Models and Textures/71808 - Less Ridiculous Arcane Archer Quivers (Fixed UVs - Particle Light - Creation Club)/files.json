@@ -1,0 +1,24 @@
+{
+  "Less Ridiculous Arcane Archer Quivers": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0.0",
+      "file_id": 300822,
+      "file_name": "Less Ridiculous Arcane Archer Quivers (1.0.0)-71808-1-0-0-1658400494.7z",
+      "mod_id": 71808,
+      "hash": "sha256-MomfL4NPxuNvZJJ6scxX1kcij9zbQiBfaovPvYDGVnY="
+    },
+    "type": "primary"
+  },
+  "Less Ridiculous Arcane Archer Quivers (CS or ENB)": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "2.0.0",
+      "file_id": 362083,
+      "file_name": "Less Ridiculous Arcane Archer Quivers (ENB Light)-71808-2-0-0-1677004738.zip",
+      "mod_id": 71808,
+      "hash": "sha256-eF7cMKBgoX6/ZQqtJYt+yKr2Lb53f9DAr7HQjtwARjw="
+    },
+    "type": "primary"
+  }
+}

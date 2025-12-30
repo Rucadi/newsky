@@ -1,0 +1,24 @@
+{
+  "Wintersun Description Fixes": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.00",
+      "file_id": 293982,
+      "file_name": "Wintersun Description Fixes-70254-1-00-1656176932.rar",
+      "mod_id": 70254,
+      "hash": "sha256-aIjyqM06Bj3dCXdYOkcfc6T6+yo27yuF15JvjL1HorI="
+    },
+    "type": "primary"
+  },
+  "Wintersun Description Fixes - Tribunal Integration": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.00",
+      "file_id": 293983,
+      "file_name": "Wintersun Description Fixes - Tribunal Integration-70254-1-00-1656176959.rar",
+      "mod_id": 70254,
+      "hash": "sha256-0SPGQz/m5j3Sy/rNbD6QAFa05GrOgxGv4I3CdDsOaXI="
+    },
+    "type": "primary"
+  }
+}

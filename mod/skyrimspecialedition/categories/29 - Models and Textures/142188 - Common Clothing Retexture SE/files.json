@@ -1,0 +1,33 @@
+{
+    "Common Clothing Retexture SE": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "1.0",
+            "file_id": 596363,
+            "file_name": "Common Clothing Retexture SE-142188-1-0-1739910119.7z",
+            "mod_id": 142188,
+            "hash": "sha256-+5+aIFgv2fvYpiQyi4wspfelrKbvUl6K+iw4ebNho4w="
+        },
+        "type": "primary"
+    },
+    "Common Clothing Retexture SE - Half Res": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "1.0",
+            "file_id": 596365,
+            "file_name": "Common Clothing Retexture SE - Half Res-142188-1-0-1739910412.7z",
+            "mod_id": 142188,
+            "hash": "sha256-G4JHOc7Ol8GlvHu40c93XuY8PZ2YAbcYKnkNoTKKpa4="
+        }
+    },
+    "Common Clothing Retexture SE - Low Res": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "1.0",
+            "file_id": 596368,
+            "file_name": "Common Clothing Retexture SE - Low Res-142188-1-0-1739910467.7z",
+            "mod_id": 142188,
+            "hash": "sha256-1erltvjcnLHbBZfPUYYwCtgJRthSX7I+IBftF3AFIjs="
+        }
+    }
+}

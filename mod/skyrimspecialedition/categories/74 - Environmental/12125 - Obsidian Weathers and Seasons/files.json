@@ -1,0 +1,23 @@
+{
+    "Patch - True Storms 1.05": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "TSPatch",
+            "file_id": 42504,
+            "file_name": "Patch - True Storms 1.02-12125-TS1-02.zip",
+            "mod_id": 12125,
+            "hash": "sha256-IFN/cvr+nP9RadnqsIFPUkXjbZmKhTWYuAv8w7WSI8U="
+        }
+    },
+    "Obsidian Weathers - 1.07a": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "1.07a",
+            "file_id": 202527,
+            "file_name": "Obsidian Weathers - 1.07a-12125-1-07a-1620568126.zip",
+            "mod_id": 12125,
+            "hash": "sha256-+m1uF2kvRD6W3bwLPpqR9OqdYaDom92BZ5y3u3PIhkc="
+        },
+        "type": "primary"
+    }
+}

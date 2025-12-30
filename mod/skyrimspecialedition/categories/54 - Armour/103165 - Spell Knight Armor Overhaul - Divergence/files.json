@@ -1,0 +1,44 @@
+{
+  "4K Texture BSA": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 436204,
+      "file_name": "4K Texture BSA-103165-1-0-1698002413.rar",
+      "mod_id": 103165,
+      "hash": "sha256-CDPj6Y+2/iwIAWtsPzScQtXZA2lBQxN+eCSgWQ6i3bE="
+    },
+    "type": "primary"
+  },
+  "2K Texture BSA": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 436206,
+      "file_name": "2K Texture BSA-103165-1-0-1698002597.rar",
+      "mod_id": 103165,
+      "hash": "sha256-yVKRTDHJKL0hzlu0YxQWRcQ0aC341bZy/DlnkCxIm5U="
+    }
+  },
+  "1K Texture BSA": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 436207,
+      "file_name": "1K Texture BSA-103165-1-0-1698002637.rar",
+      "mod_id": 103165,
+      "hash": "sha256-I90B7/eAX+sdgTT1zORUQ00+dEMOPkzGDa4gjo42hTE="
+    }
+  },
+  "Spell Knight Armor Overhaul - Divergence": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1",
+      "file_id": 437039,
+      "file_name": "Spell Knight Armor Overhaul - Divergence-103165-1-1-1698261832.rar",
+      "mod_id": 103165,
+      "hash": "sha256-Ft0brF4juqIO5e4iKDTMvJmwieJWajk6sh6JySL3AX4="
+    },
+    "type": "primary"
+  }
+}

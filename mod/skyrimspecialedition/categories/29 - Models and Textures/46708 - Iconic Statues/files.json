@@ -1,0 +1,35 @@
+{
+  "Iconic Statues 2K": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.2.3",
+      "file_id": 392775,
+      "file_name": "Iconic Statues 2K-46708-1-2-3-1685297504.7z",
+      "mod_id": 46708,
+      "hash": "sha256-EgSOfhad6qCfRnNC5WgtamYBdZ0hbSrn0f47nmA/SwM="
+    },
+    "type": "primary"
+  },
+  "Iconic Statues 4K": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.2.3",
+      "file_id": 392776,
+      "file_name": "Iconic Statues 4K-46708-1-2-3-1685297506.7z",
+      "mod_id": 46708,
+      "hash": "sha256-2UAxJfdS2fx5Gz+g9KeKTCb+7+P4Uh2/pOXMFWt3SN4="
+    },
+    "type": "primary"
+  },
+  "Iconic Statues 8K": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.2.3",
+      "file_id": 392777,
+      "file_name": "Iconic Statues 8K-46708-1-2-3-1685297507.7z",
+      "mod_id": 46708,
+      "hash": "sha256-3VcaLIx03E1D6pZ4gS8tjUt2CDWjJzu+ST1WECBFnDc="
+    },
+    "type": "primary"
+  }
+}

@@ -1,0 +1,104 @@
+{
+  "Royal Vanguard Armor 4k": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 505650,
+      "file_name": "Royal Vanguard Armor 4k-120373-1-0-1716840379.7z",
+      "mod_id": 120373,
+      "hash": "sha256-ksZRnRb4YazIxcJbZ/l/drFWJBpPwk47MY7HLT/9IIU="
+    }
+  },
+  "Royal Vanguard Armor 8k": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 505651,
+      "file_name": "Royal Vanguard Armor 8k-120373-1-0-1716840526.7z",
+      "mod_id": 120373,
+      "hash": "sha256-E732+dmZM/fyiXd4idrHDiohdAEYNirLkKRWFmLs4y8="
+    }
+  },
+  "Royal Vanguard Armor": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 506034,
+      "file_name": "Royal Vanguard Armor-120373-1-0-1716922388.7z",
+      "mod_id": 120373,
+      "hash": "sha256-B4DCcm//Osq/KS3jqXpE3OoeZEW/AjW1/QNMus0qz0M="
+    },
+    "type": "primary"
+  },
+  "Royal Vanguard Armor UBE": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1",
+      "file_id": 511217,
+      "file_name": "Royal Vanguard Armor UBE-120373-1-1-1718297192.7z",
+      "mod_id": 120373,
+      "hash": "sha256-fpMSpKNkHgY/62JE89h6n5CgNVZdzWcYxcFsR4408As="
+    },
+    "type": "primary"
+  },
+  "Royal Vanguard Armor 8k Complex Material": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 511218,
+      "file_name": "Royal Vanguard Armor 8k Complex Material-120373-1-0-1718297453.7z",
+      "mod_id": 120373,
+      "hash": "sha256-TTrXGtO64ntmJn/i3DTRViQHj6vCwJh8VTKA5eD/KlQ="
+    }
+  },
+  "Royal Vanguard Armor 4k Complex Material": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 511219,
+      "file_name": "Royal Vanguard Armor 4k Complex Material-120373-1-0-1718297505.7z",
+      "mod_id": 120373,
+      "hash": "sha256-wUtuR97l5UQtJp3u70ulfUrODUDBk4X67CTZmhTl6KI="
+    }
+  },
+  "Royal Vanguard Armor 2k COmplex Material": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 511220,
+      "file_name": "Royal Vanguard Armor 2k COmplex Material-120373-1-0-1718297540.7z",
+      "mod_id": 120373,
+      "hash": "sha256-pfUZ1HVsq80r/ePB7IFrwhGs1I8qxASOV209/wrxZsU="
+    }
+  },
+  "Royal Vanguard Armor 2k PBR": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1",
+      "file_id": 605951,
+      "file_name": "Royal Vanguard Armor 2k PBR-120373-1-1-1742052167.7z",
+      "mod_id": 120373,
+      "hash": "sha256-wmqJVWnbV0J9ap0DzAsZa9IsnHo0xaa2CP27Qkfet8I="
+    }
+  },
+  "Royal Vanguard Armor 4k PBR": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1",
+      "file_id": 605952,
+      "file_name": "Royal Vanguard Armor 4k PBR-120373-1-1-1742052211.7z",
+      "mod_id": 120373,
+      "hash": "sha256-ZgqhlU/bPSsLWC00csl6+O4bJlV645rcm+oUHCJYfEw="
+    }
+  },
+  "Royal Vanguard Armor 8k PBR": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1",
+      "file_id": 605954,
+      "file_name": "Royal Vanguard Armor 8k PBR-120373-1-1-1742052341.7z",
+      "mod_id": 120373,
+      "hash": "sha256-nrtC6cOf2eHu8uR9Z57/ZxvPuMoiXLPswEgfKMq2YQM="
+    }
+  }
+}

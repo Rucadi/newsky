@@ -1,0 +1,35 @@
+{
+  "Radiance - 1k Textures": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.02",
+      "file_id": 625782,
+      "file_name": "Radiance - 1k Textures-143286-1-02-1746906751.7z",
+      "mod_id": 143286,
+      "hash": "sha256-LxHxUkdgE4EoP2k6XushIbq/br3SREqlXdLEN6x4HaU="
+    },
+    "type": "primary"
+  },
+  "Radiance - 2k Textures": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.02",
+      "file_id": 625783,
+      "file_name": "Radiance - 2k Textures-143286-1-02-1746906790.7z",
+      "mod_id": 143286,
+      "hash": "sha256-dA64rsMgsG+f7W/YckETnPIXwItND2gprEYcKMcfopo="
+    },
+    "type": "primary"
+  },
+  "Radiance - 4k Textures": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.02",
+      "file_id": 625784,
+      "file_name": "Radiance - 4k Textures-143286-1-02-1746906908.7z",
+      "mod_id": 143286,
+      "hash": "sha256-ssjhl+ponFLbiKBBtU0CbdftnepNuu4qV1VaFhgg1kc="
+    },
+    "type": "primary"
+  }
+}

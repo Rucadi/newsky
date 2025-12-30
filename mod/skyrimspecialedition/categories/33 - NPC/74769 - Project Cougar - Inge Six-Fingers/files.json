@@ -1,0 +1,24 @@
+{
+  "Project Cougar - Inge Six-Fingers": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 313792,
+      "file_name": "Project Cougar - Inge Six-Fingers-74769-1-0-1662476663.7z",
+      "mod_id": 74769,
+      "hash": "sha256-6Z3RzYCzxwkoxfhzOZmxWpr90Gt8t7jv8b185H0RzKk="
+    },
+    "type": "primary"
+  },
+  "(Updated Version) Project Cougar - Inge Six-Fingers": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "2.0",
+      "file_id": 353527,
+      "file_name": "(Updated Version) Project Cougar - Inge Six-Fingers-74769-2-0-1674833744.7z",
+      "mod_id": 74769,
+      "hash": "sha256-rYg8M1WfJthOE/eCIOSpUcTP1bI3CotuLYYFUOR9oWY="
+    },
+    "type": "primary"
+  }
+}

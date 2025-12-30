@@ -1,0 +1,55 @@
+{
+    "TMD The Rift Leaves 1K": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "1.01",
+            "file_id": 470539,
+            "file_name": "TMD The Rift Leaves 1K-111461-1-01-1707859818.7z",
+            "mod_id": 111461,
+            "hash": "sha256-U92F/zoOPBxLB0/KB5a2PJX5imFrb6fQWkE/LrzxVpM="
+        },
+        "type": "primary"
+    },
+    "TMD The Rift Leaves 2K": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "1.01",
+            "file_id": 470540,
+            "file_name": "TMD The Rift Leaves 2K-111461-1-01-1707859846.7z",
+            "mod_id": 111461,
+            "hash": "sha256-S9dOMZ9wkcVWcP8ga1QjGVMP/EX5Wi15Z7nv2zwuTR4="
+        },
+        "type": "primary"
+    },
+    "TMD The Rift Leaves 4K": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "1.01",
+            "file_id": 470541,
+            "file_name": "TMD The Rift Leaves 4K-111461-1-01-1707859877.7z",
+            "mod_id": 111461,
+            "hash": "sha256-g6l3OmulnsQZ6Gk2F6uzUZR4pKK774zd6j+yYTWjylA="
+        },
+        "type": "primary"
+    },
+    "TMD The Rift Leaves - Seasons Patch": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "1.01",
+            "file_id": 471212,
+            "file_name": "TMD The Rift Leaves - Seasons Patch-111461-1-01-1708029379.7z",
+            "mod_id": 111461,
+            "hash": "sha256-GL2AK0rNARtw9mS6MIhc6Xx9aD2odNnlmjmP2CpUf0I="
+        }
+    },
+    "TMD The Rift Leaves - Darker Reflection": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "1.0",
+            "file_id": 472815,
+            "file_name": "TMD The Rift Leaves - Darker Reflection-111461-1-0-1708403941.7z",
+            "mod_id": 111461,
+            "hash": "sha256-qq9xRuvRXE/7D1K96C8p3ds+a8p13VYTBfN4HOmxyZs="
+        }
+    }
+}

@@ -1,0 +1,35 @@
+{
+  "Knight-Errant Armor Set (HDT SMP)-CBBE": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1",
+      "file_id": 556350,
+      "file_name": "Knight-Errant Armor Set (HDT SMP)-CBBE-131023-1-1-1730100100.rar",
+      "mod_id": 131023,
+      "hash": "sha256-sLVFttJmyxhQVwlYLNE2fJH1MPxFvHEtdssJVGojuPQ="
+    },
+    "type": "primary"
+  },
+  "Knight-Errant armor set (HDT SMP)-HIMBO": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1",
+      "file_id": 559945,
+      "file_name": "Knight-Errant armor set (HDT SMP)-HIMBO-131023-1-1-1731029758.rar",
+      "mod_id": 131023,
+      "hash": "sha256-OyTyIgcyTA6fi2JIjsReMIqsu1PpBzj5iot6ZEzcf/E="
+    },
+    "type": "primary"
+  },
+  "Knight - Errant Armor Set (HDT-SMP) - 3BA": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1",
+      "file_id": 639391,
+      "file_name": "Knight - Errant Armor Set (HDT-SMP) - 3BA-131023-1-1-1750312402.rar",
+      "mod_id": 131023,
+      "hash": "sha256-NhIwE4mod3iJ0mwhd/sCVNPqHnPE0qUGLDHZnrHSxek="
+    },
+    "type": "primary"
+  }
+}

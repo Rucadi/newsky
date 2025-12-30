@@ -1,0 +1,24 @@
+{
+  "Alternate Start": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 476192,
+      "file_name": "Alternate Start-112918-1-0-1709375179.7z",
+      "mod_id": 112918,
+      "hash": "sha256-JHHTexFuf7hodoOfGG16ex7HThrm6W/uwY42LG8w1MA="
+    },
+    "type": "primary"
+  },
+  "Close the Gate": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0.1",
+      "file_id": 476391,
+      "file_name": "Close the Gate-112918-1-01-1709419665.7z",
+      "mod_id": 112918,
+      "hash": "sha256-tg9T9sVGCcYYpdh63HwDcvaOwsaUTGA5v4sPaelT1A0="
+    },
+    "type": "primary"
+  }
+}

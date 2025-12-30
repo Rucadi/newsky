@@ -1,0 +1,64 @@
+{
+  "Muslce Map CBBE": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1",
+      "file_id": 386028,
+      "file_name": "Muslce Map CBBE-90848-1-1683558797.zip",
+      "mod_id": 90848,
+      "hash": "sha256-J2rJBcnAGCbvF9zLxz9mjuzv4EkwOcHywHSIh3weAxY="
+    }
+  },
+  "Mature Skin Complexion for UNP": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1",
+      "file_id": 386066,
+      "file_name": "Mature Skin Complexion for UNP-90848-1-1683568764.zip",
+      "mod_id": 90848,
+      "hash": "sha256-UWFMfbwNdbDrr0fpqj2PtN6b2GuyY3Cj90TtbRq9DEw="
+    },
+    "type": "primary"
+  },
+  "Muscle Map UNP": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1",
+      "file_id": 386096,
+      "file_name": "Muscle Map UNP-90848-1-1683575324.zip",
+      "mod_id": 90848,
+      "hash": "sha256-Lm+2DNDLVvUnNv9SAxq7gfvcgngC16VdIkxGWVH8BGI="
+    }
+  },
+  "Alternative Specular Map for CBBE - Goosebumps": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1",
+      "file_id": 386731,
+      "file_name": "Alternative Specular Map for CBBE - Goosebumps-90848-1-1683747025.zip",
+      "mod_id": 90848,
+      "hash": "sha256-pVhlDcsUcPz8Kz0j1QcJcYnEW4kpabhPzY+sbMnDMIk="
+    }
+  },
+  "Alternative Specular Map for UNP - Goosebumps": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1",
+      "file_id": 386738,
+      "file_name": "Alternative Specular Map for UNP - Goosebumps-90848-1-1683747651.zip",
+      "mod_id": 90848,
+      "hash": "sha256-IHj6FzAXl6zm4auu/3bt+eb6OLfIbXBQk42Gvrqv6jE="
+    }
+  },
+  "Mature Skin Complexion for CBBE": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.2",
+      "file_id": 388007,
+      "file_name": "Mature Skin Complexion for CBBE-90848-1-2-1684056989.zip",
+      "mod_id": 90848,
+      "hash": "sha256-YqQFxr4oz6qx6+ArgEWxLtf9PbElQHvwraslJcKGJrM="
+    },
+    "type": "primary"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "No Consequences Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 308610,
+      "file_name": "No Consequences Patch-70428-1-0-1660896569.zip",
+      "mod_id": 70428,
+      "hash": "sha256-IUAVzYsIrI+pf2+RVq37c/F5Fmmm6SAPUDBXGIbIcak="
+    }
+  },
+  "NPCs React To Necromancy": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.03",
+      "file_id": 594711,
+      "file_name": "NPCs React To Necromancy-70428-1-03-1739570458.zip",
+      "mod_id": 70428,
+      "hash": "sha256-bf9nA3h22zT89lwXtg4fEfBlJ2w+Qtz5JtaRWDlU4c8="
+    },
+    "type": "primary"
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "shadowman_gisliSL": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1",
+      "file_id": 486836,
+      "file_name": "shadowman_gisliSL-115700-1-1712074221.rar",
+      "mod_id": 115700,
+      "hash": "sha256-EDw1KuPv7ANzpELuYRZUSOGd1/vBpCRm6xXFO1xiogk="
+    },
+    "type": "primary"
+  },
+  "shadowman_gisliFG": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.01",
+      "file_id": 487354,
+      "file_name": "shadowman_gisliFG-115700-1-01-1712219686.rar",
+      "mod_id": 115700,
+      "hash": "sha256-56haCsaFKcWGxJy2maf6DY4IBu04H8FV48WXiZW+l94="
+    },
+    "type": "primary"
+  }
+}

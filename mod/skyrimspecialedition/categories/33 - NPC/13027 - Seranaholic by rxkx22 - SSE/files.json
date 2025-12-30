@@ -1,0 +1,141 @@
+{
+  "Valerica SSE": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.8.4",
+      "file_id": 170063,
+      "file_name": "Valerica SSE-13027-1-8-4-1605366915.7z",
+      "mod_id": 13027,
+      "hash": "sha256-UhTUfTGRJKeg5TVxLWG7P+emEWV2/rOp7P5jclScO3k="
+    }
+  },
+  "Without Fangs Option for 1.5 and 1.6": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1",
+      "file_id": 195725,
+      "file_name": "Without Fangs Option for 1.5 and 1.6-13027-1-1-1617470970.7z",
+      "mod_id": 13027,
+      "hash": "sha256-afuugCmBRdflRCiyyFpUOZvlX0uDVmUQNIYNUJ3i6fU="
+    }
+  },
+  "Seranaholic SSE 1.0": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0.5",
+      "file_id": 256659,
+      "file_name": "Seranaholic SSE 1.0-13027-1-0-5-1642185271.7z",
+      "mod_id": 13027,
+      "hash": "sha256-WmcDxRsaIcf3KpYHz/WRq1V84ggLruySirVgYLHFqGg="
+    },
+    "type": "primary"
+  },
+  "Seranaholic SSE 1.1": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1.2",
+      "file_id": 256660,
+      "file_name": "Seranaholic SSE 1.1-13027-1-1-2-1642185347.7z",
+      "mod_id": 13027,
+      "hash": "sha256-GN3La0QZRWJqhAZ+vq+rNdm0GCbwA8UTGuZRbadCz0Y="
+    },
+    "type": "primary"
+  },
+  "Seranaholic SSE 1.2": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.2.5",
+      "file_id": 256661,
+      "file_name": "Seranaholic SSE 1.2-13027-1-2-5-1642185420.7z",
+      "mod_id": 13027,
+      "hash": "sha256-tG0yBQ7ShLPW7mqyCtm6vKneWnonNFpohkiDqBK2IoY="
+    },
+    "type": "primary"
+  },
+  "Seranaholic SSE 1.4": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.4.9",
+      "file_id": 256663,
+      "file_name": "Seranaholic SSE 1.4-13027-1-4-9-1642185533.7z",
+      "mod_id": 13027,
+      "hash": "sha256-p5NaJXWPtNc7EzZyz2ENWtCEhv/DqXGjIQwZH/lfDMk="
+    },
+    "type": "primary"
+  },
+  "Seranaholic SSE 1.5": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.5.7",
+      "file_id": 256664,
+      "file_name": "Seranaholic SSE 1.5-13027-1-5-7-1642185581.7z",
+      "mod_id": 13027,
+      "hash": "sha256-x3ay85TvpcurdWeYDWb+XYiCxvAQURm7JGojC10ZRTo="
+    },
+    "type": "primary"
+  },
+  "Seranaholic SSE 1.6": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.6.6",
+      "file_id": 256665,
+      "file_name": "Seranaholic SSE 1.6-13027-1-6-6-1642185721.7z",
+      "mod_id": 13027,
+      "hash": "sha256-3hLZt4z+r3l+NJa0jFDoJTz4s7UI32jpzVGuN9jL5Uc="
+    },
+    "type": "primary"
+  },
+  "Seranaholic SSE 1.7": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.7.5",
+      "file_id": 256666,
+      "file_name": "Seranaholic SSE 1.7-13027-1-7-5-1642185785.7z",
+      "mod_id": 13027,
+      "hash": "sha256-pkjsgAUHnEYg5RLx2CL/zWiAUAkVvFKXPPBEN/E5sc0="
+    },
+    "type": "primary"
+  },
+  "Seranaholic SSE 1.8": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.8.5",
+      "file_id": 256667,
+      "file_name": "Seranaholic SSE 1.8-13027-1-8-5-1642185840.7z",
+      "mod_id": 13027,
+      "hash": "sha256-EbdfA73SYBmAaz+veakvB/HPWVYvz0PnWEYi1do7CbA="
+    },
+    "type": "primary"
+  },
+  "Seranaholic no USSEP Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 261381,
+      "file_name": "Seranaholic no USSEP Patch-13027-1-0-1643846988.7z",
+      "mod_id": 13027,
+      "hash": "sha256-lF7wh5j3G6V0fMzC4vsxFIstHS+RUr/4K6VUqHgdpsc="
+    }
+  },
+  "Without fangs option for Version 1.8": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 342295,
+      "file_name": "Without fangs option for Version 1.8-13027-1-0-1671575619.zip",
+      "mod_id": 13027,
+      "hash": "sha256-uGFh/2GYgGep1AngOrxqRImTitNkbUcRlZAfwhpwMvY="
+    }
+  },
+  "Seranaholic SSE 1.3": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.3.11",
+      "file_id": 469868,
+      "file_name": "Seranaholic SSE v1.3.11-13027-1-3-11-1707666269.7z",
+      "mod_id": 13027,
+      "hash": "sha256-FUwGmlQXqUA1Q2ldKeISLvX0k9mXJSOAFtRKFhV/pv4="
+    },
+    "type": "primary"
+  }
+}

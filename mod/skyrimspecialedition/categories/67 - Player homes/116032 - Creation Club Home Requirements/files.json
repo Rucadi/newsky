@@ -1,0 +1,23 @@
+{
+  "CCHR - All In One": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "2.01",
+      "file_id": 489599,
+      "file_name": "CCHR - All In One-116032-2-01-1712843812.zip",
+      "mod_id": 116032,
+      "hash": "sha256-RDXtgQxpXjlm5JNHFQKUrOcGJFYvYK9u+4jn26XTdUA="
+    },
+    "type": "primary"
+  },
+  "CCHR - CC Hendraheim TnE Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "2.00",
+      "file_id": 489602,
+      "file_name": "CCHR - CC Hendraheim TnE Patch-116032-2-00-1712844173.zip",
+      "mod_id": 116032,
+      "hash": "sha256-7z9AJKbNgb3jpannFqSQfXHG0IbIF/RZqtOMtQjM04g="
+    }
+  }
+}

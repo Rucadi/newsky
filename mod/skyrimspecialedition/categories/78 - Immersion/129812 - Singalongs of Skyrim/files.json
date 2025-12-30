@@ -1,0 +1,23 @@
+{
+  "Singalongs Whistling Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 544708,
+      "file_name": "Singalongs Whistling Patch-129812-1-0-1726957735.7z",
+      "mod_id": 129812,
+      "hash": "sha256-zEZYGoBmXLfrDXAcdN82sNh4oaAXMRRpn61TTj9yCNc="
+    }
+  },
+  "Singalongs of Skyrim": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.02",
+      "file_id": 583017,
+      "file_name": "Singalongs of Skyrim-129812-1-02-1736799986.7z",
+      "mod_id": 129812,
+      "hash": "sha256-AmK3QPb6AVDNefEXFxHNaUHsxGDviv/Eb2JuxHTvfyo="
+    },
+    "type": "primary"
+  }
+}

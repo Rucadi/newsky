@@ -1,0 +1,23 @@
+{
+  "ISC Cleaned .esp file": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "2.3.1",
+      "file_id": 339518,
+      "file_name": "ISC Cleaned .esp file-78446-2-0-1670731387.zip",
+      "mod_id": 78446,
+      "hash": "sha256-j6Rw490iT6MgY1s0r07hMKKJbcWrV1oLYpTEpJVPWoY="
+    }
+  },
+  "ISC-SRDified Main File": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "2.3.1",
+      "file_id": 437740,
+      "file_name": "ISC-SRDified Main File-78446-2-2-1-1698505409.zip",
+      "mod_id": 78446,
+      "hash": "sha256-76aRKTNgFaE7d8hWVda+Gn1MGoNlxpDuhQeTzGqvR9A="
+    },
+    "type": "primary"
+  }
+}

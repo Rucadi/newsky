@@ -126,11 +126,12 @@ def save_main_optional_files(files_data, folder_path, mod_id, game, mod_info):
 
     # Save markdown description
     mod_name = mod_info['name']
-    with open(os.path.join(folder_path, f"nexus_{game}_{mod_id}.md"), "w", encoding="utf-8") as f:
+    with open(os.path.join(folder_path, f"README.md"), "w", encoding="utf-8") as f:
         f.write(f"# {mod_name}\n")
         f.write(f"- Author: {mod_info.get('author', 'Unknown')}\n")
         f.write(f"- Game: {game}\n")
         f.write(f"- Mod Page: https://www.nexusmods.com/{game}/mods/{mod_id}\n")
+        f.write(f"\n\n")
         f.write(md(wysibb_to_html(mod_info.get("description", ""))))
 
     print(f"Saved {len(existing_files)} files to {output_file}")
@@ -152,8 +153,13 @@ def main():
     nexus = NexusModsAPI(api_key)
     mod_info = nexus.get_mod(args.game, args.mod_id)
     print("Mod Info:", json.dumps(mod_info, indent=4))
-
-    base_path = create_mod_folder("mod", args.game, mod_info["category_id"], args.mod_id, mod_info["name"])
+    base_path = create_mod_folder(
+        "mod",
+        args.game,
+        mod_info["category_id"],
+        args.mod_id,
+        mod_info.get("name") or f"{args.mod_id}_noname"
+    )
     files = nexus.list_mod_files(args.game, args.mod_id)
     save_main_optional_files(files, base_path, args.mod_id, args.game, mod_info)
 

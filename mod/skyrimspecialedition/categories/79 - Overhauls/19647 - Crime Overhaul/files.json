@@ -1,0 +1,43 @@
+{
+  "Crime Overhaul": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "2.06",
+      "file_id": 344404,
+      "file_name": "Crime Overhaul-19647-2-06-1672300960.7z",
+      "mod_id": 19647,
+      "hash": "sha256-yVYo+B1YEHRxhae1CPDkRDrSfGxszxRDusAMUMPTkd4="
+    },
+    "type": "primary"
+  },
+  "Contraband Confiscation Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "2.06",
+      "file_id": 344407,
+      "file_name": "Crime Overhaul - Contraband Confiscation Patch-19647-2-06-1672301572.7z",
+      "mod_id": 19647,
+      "hash": "sha256-GCeRD2fMcnH5wsk5cyj5Csdu+qdLB37s/823HqDUoKk="
+    }
+  },
+  "Cutting Room Floor Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "2.06",
+      "file_id": 344410,
+      "file_name": "Crime Overhaul - Cutting Room Floor Patch-19647-2-06-1672302998.7z",
+      "mod_id": 19647,
+      "hash": "sha256-a79eD9N94xEA0AJhxhz9ZHWyfGlS9YO2ZvA3dfia+bI="
+    }
+  },
+  "Contraband Confiscation and Cutting Room Floor Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "2.06",
+      "file_id": 344411,
+      "file_name": "Crime Overhaul - Contraband Confiscation - CRF Patch-19647-2-06-1672303092.7z",
+      "mod_id": 19647,
+      "hash": "sha256-Rzg5DGYwpT+UxRsv9vPaNpFk3OY/s42rGVsMEbTz3Wk="
+    }
+  }
+}

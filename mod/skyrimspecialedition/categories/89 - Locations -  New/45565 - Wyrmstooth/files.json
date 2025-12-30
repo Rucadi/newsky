@@ -1,0 +1,73 @@
+{
+    "Wyrmstooth Intro Video": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "1.0",
+            "file_id": 484803,
+            "file_name": "Wyrmstooth Intro Video-45565-1-0-1711596780.zip",
+            "mod_id": 45565,
+            "hash": "sha256-uh/4QjMgy1XRUhlIcZrVYigjGAY8IC/EUbGqoeB7Fp4="
+        }
+    },
+    "Wyrmstooth 4x Generative Upscaled Textures": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "1.0.0-gut",
+            "file_id": 616410,
+            "file_name": "Wyrmstooth 4x Generative Upscaled Textures-45565-1-0-0-1744467783.zip",
+            "mod_id": 45565,
+            "hash": "sha256-R7IPp698kAGndeVnFlzMQEq4KvNIY+BzDqpt9xRFV8I="
+        }
+    },
+    "Wyrmstooth 2x Generative Upscaled Textures": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "1.0.0-gut",
+            "file_id": 616582,
+            "file_name": "Wyrmstooth 2x Generative Upscaled Textures-45565-1-0-1744505808.zip",
+            "mod_id": 45565,
+            "hash": "sha256-8cHpVV+pJ3WO9jMyn8UOoBVsW2R7/UgOQ3haOP8g8lY="
+        }
+    },
+    "Wyrmstooth Hearthfire Compatibility Patch": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "1.0.0-hfp",
+            "file_id": 619249,
+            "file_name": "Wyrmstooth Hearthfire Compatibility Patch-45565-1-0-0-hfp-1745125988.zip",
+            "mod_id": 45565,
+            "hash": "sha256-88mA1RRZaf4xuyOfoHQIKfZDpNnFIFxhMsPGkyFbJ08="
+        }
+    },
+    "Wyrmstooth Achievement Injector Patch": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "1.0.1-aip",
+            "file_id": 632140,
+            "file_name": "Wyrmstooth Achievement Injector Patch-45565-1-0-1-aip-1748437001.zip",
+            "mod_id": 45565,
+            "hash": "sha256-M3Wg8YXouH1IObUoemR8jhCgD0d0+nJhkLpS97/h2ZE="
+        }
+    },
+    "Wyrmstooth": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "1.20.3",
+            "file_id": 670394,
+            "file_name": "Wyrmstooth-45565-1-20-3-1759129708.zip",
+            "mod_id": 45565,
+            "hash": "sha256-6ZYXXCtJqwfMhmR82oN/+JMPOeshL2Kv/nSfrYR+bE0="
+        },
+        "type": "primary"
+    },
+    "Wyrmstooth Dragonborn Compatibility Patch": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "1.0.1-dbp",
+            "file_id": 670699,
+            "file_name": "Wyrmstooth Dragonborn Compatibility Patch-45565-1-0-1-dbp-1759187945.zip",
+            "mod_id": 45565,
+            "hash": "sha256-lANCHJonV0ArwAWfqNubcU3fFrlg80rs8swE/oHqFm0="
+        }
+    }
+}

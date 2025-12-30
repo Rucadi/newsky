@@ -1,0 +1,113 @@
+{
+  "Melana_CM_HealPlayer": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0.0",
+      "file_id": 542498,
+      "file_name": "Melana_CM_HealPlayer-129215-1-0-0-1726414160.zip",
+      "mod_id": 129215,
+      "hash": "sha256-VOcNkdJoo0uRmOseRDs1A1Rn8ZVZA+p5qhuuyttyy28="
+    }
+  },
+  "Melana_CM_NoPrisonerTunic": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0.0",
+      "file_id": 542502,
+      "file_name": "Melana_CM_NoPrisonerTunic-129215-1-0-0-1726414495.zip",
+      "mod_id": 129215,
+      "hash": "sha256-sVcXQA176DbAbouNTmGyPaXVWTs8/83EdRA2tVYrNOY="
+    }
+  },
+  "Melana_CM_Evolve2xFaster": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0.0",
+      "file_id": 543693,
+      "file_name": "Melana_CM_Evolve2xFaster-129215-1-0-0-1726702698.zip",
+      "mod_id": 129215,
+      "hash": "sha256-p53XvgxUBzGqfxj4o5rgdqf5AWHBKxOeI9vMabB4lIU="
+    }
+  },
+  "Melana_CM_Evolve2xSlower": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0.0",
+      "file_id": 543694,
+      "file_name": "Melana_CM_Evolve2xSlower-129215-1-0-0-1726702871.zip",
+      "mod_id": 129215,
+      "hash": "sha256-PmYt2QvlxoaPj3ZxEx75Cx+MaKYVJvP8QZeksjk0ny0="
+    }
+  },
+  "Melana_CM_MelanaTheModel": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0.0",
+      "file_id": 548466,
+      "file_name": "Melana_CM_MelanaTheModel-129215-1-0-0-1727908992.zip",
+      "mod_id": 129215,
+      "hash": "sha256-3AykTf7e2yiZK6opvY/9FRe9qyabIBc7gHebrqYfFAQ="
+    }
+  },
+  "Melana_Patch_HelgenWhatHelgen": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1.0",
+      "file_id": 550272,
+      "file_name": "Melana_Patch_HelgenWhatHelgen-129215-1-1-0-1728410820.zip",
+      "mod_id": 129215,
+      "hash": "sha256-jXwBkaSnCQkZjluDdU9SvSv8BELb7ZPu+i2Wyn/nUMw="
+    }
+  },
+  "MelanaTheWarMaiden": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1.1",
+      "file_id": 561228,
+      "file_name": "MelanaTheWarMaiden-129215-1-1-1-1731340031.zip",
+      "mod_id": 129215,
+      "hash": "sha256-w5kgbe7rU9yEHykxIlWo0qBCfcTUHfEzJp0+9wnW/Ag="
+    },
+    "type": "primary"
+  },
+  "Melana_Patch_MelanaBalboa": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1.1",
+      "file_id": 561230,
+      "file_name": "Melana_Patch_MelanaBalboa-129215-1-1-1-1731340355.zip",
+      "mod_id": 129215,
+      "hash": "sha256-5gzY6UZmmUriKGlee98hHHxNJZI6zBFM0rDO1cgKSU8="
+    }
+  },
+  "Melana_Patch_MelanaBalboaTheBrave": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1.1",
+      "file_id": 561233,
+      "file_name": "Melana_Patch_MelanaBalboaTheBrave-129215-1-1-1-1731340531.zip",
+      "mod_id": 129215,
+      "hash": "sha256-nivDfLaaKyKbuabavc3tU5+HpxlWZFEBuI5mAw7G4Yg="
+    }
+  },
+  "Melana_Patch_MelanaTheBrave": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1.1",
+      "file_id": 561235,
+      "file_name": "Melana_Patch_MelanaTheBrave-129215-1-1-1-1731340744.zip",
+      "mod_id": 129215,
+      "hash": "sha256-jwC77Urzs/jIljd3N+Ai6EwYfUHC8tbeG4CFlXsk/L4="
+    }
+  },
+  "Melana_CM_MelanaTheVanilla": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1.1",
+      "file_id": 650981,
+      "file_name": "Melana_CM_MelanaTheVanilla-129215-1-1-1-1753740532.zip",
+      "mod_id": 129215,
+      "hash": "sha256-Htp2ARv9WFbpjtFOnWImx1I5IgWL3SzpgrrEasHe1LM="
+    }
+  }
+}

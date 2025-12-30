@@ -1,0 +1,34 @@
+{
+  "shadowman_astridSL": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.001",
+      "file_id": 462882,
+      "file_name": "shadowman_astridSL-109634-1-001-1705676937.rar",
+      "mod_id": 109634,
+      "hash": "sha256-UaT8kozfHg86MN6pdE9LqaECWrZhzDMw5ZNMI/oZpZ8="
+    },
+    "type": "primary"
+  },
+  "shadowman_astridFG": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1",
+      "file_id": 463551,
+      "file_name": "shadowman_astridFG-109634-1-1-1705856594.rar",
+      "mod_id": 109634,
+      "hash": "sha256-pvlLvAiiBIrlILFTgUBDN8hrrSEf0nlIoHir1mQrunY="
+    },
+    "type": "primary"
+  },
+  "astrid_gamepad_patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "A",
+      "file_id": 464106,
+      "file_name": "astrid_gamepad_patch-109634-A-1706013981.rar",
+      "mod_id": 109634,
+      "hash": "sha256-swNSSbeP7O1XBmgUf2efNDyrz6ZFX/JcAo+JimY7ye4="
+    }
+  }
+}

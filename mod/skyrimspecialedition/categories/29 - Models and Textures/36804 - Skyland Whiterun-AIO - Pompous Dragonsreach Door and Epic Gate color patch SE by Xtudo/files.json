@@ -1,0 +1,57 @@
+{
+  "Skyland Whiterun - Pompous Door 2K by Xtudo": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 143629,
+      "file_name": "Skyland Whiterun - Pompous Dragonsreach Door color patch SE-36804-1-0-1591181948.rar",
+      "mod_id": 36804,
+      "hash": "sha256-XW6JomHBR2iNtg2VLdOwwQvPBltWyUn/5akj4y/A2+I="
+    },
+    "type": "primary"
+  },
+  "Skyland Whiterun - Pompous Door 4K by Xtudo": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 172500,
+      "file_name": "Skyland Whiterun - Pompous Dragonsreach Door color patch SE 4K-36804-1-0-1606824025.rar",
+      "mod_id": 36804,
+      "hash": "sha256-LvoLjR9WVlavMu0OFh9BIfby9AKxX1/AS2RBS0oBOuM="
+    },
+    "type": "primary"
+  },
+  "Skyland Whiterun - Epic Gate 8K by Xtudo": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "2",
+      "file_id": 605639,
+      "file_name": "Skyland Whiterun - Epic Gate 8K by Xtudo-36804-2-1741985433.7z",
+      "mod_id": 36804,
+      "hash": "sha256-w4lwnF7XteLnevdRZhSfTFwPzbBuDFPYKSgrDGkAWlM="
+    },
+    "type": "primary"
+  },
+  "Skyland Whiterun - Epic Gate 4K by Xtudo": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "2",
+      "file_id": 605640,
+      "file_name": "Skyland Whiterun - Epic Gate 4K by Xtudo-36804-2-1741985491.7z",
+      "mod_id": 36804,
+      "hash": "sha256-vzH86SUuSo+eV7VJ4NsNIOQiXJnmDBWXbC8sV/Vc8Fo="
+    },
+    "type": "primary"
+  },
+  "Skyland Whiterun - Epic Gate 2K by Xtudo": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "2",
+      "file_id": 605641,
+      "file_name": "Skyland Whiterun - Epic Gate 2K by Xtudo-36804-2-1741985560.7z",
+      "mod_id": 36804,
+      "hash": "sha256-30Eo4yjwd3J5shqjAmkcRRvXn2LOO6LTkMakBx1ZTcc="
+    },
+    "type": "primary"
+  }
+}

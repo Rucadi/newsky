@@ -1,0 +1,33 @@
+{
+  "Jenassa's Perk": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0.0",
+      "file_id": 668403,
+      "file_name": "Jenassa's Perk-159406-1-0-0-1758556004.zip",
+      "mod_id": 159406,
+      "hash": "sha256-fwk48JlZrqsE2+KFPuFKxKJL1ifXJJcxmkWPBUORgxo="
+    }
+  },
+  "Follower Stats - Simply Order Summons": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0.0",
+      "file_id": 679631,
+      "file_name": "Follower Stats - Simply Order Summons-159406-1-0-0-1761255480.zip",
+      "mod_id": 159406,
+      "hash": "sha256-/sT5q4ZbA33AiG9Owe9m2SE/fVhevgdk95pwhhCYjTI="
+    }
+  },
+  "Follower Stats": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0.12",
+      "file_id": 700496,
+      "file_name": "Follower Stats-159406-1-0-12-1766336390.zip",
+      "mod_id": 159406,
+      "hash": "sha256-wtmfpKdNgFWdtfue55BqbrSTuWpOPc52mP5b7qiQffM="
+    },
+    "type": "primary"
+  }
+}

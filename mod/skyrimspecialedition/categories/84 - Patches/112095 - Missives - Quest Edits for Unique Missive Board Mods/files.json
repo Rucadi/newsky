@@ -1,0 +1,33 @@
+{
+    "Headhunter Missives Replacer ESP": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "1.1.2",
+            "file_id": 628161,
+            "file_name": "Headhunter Missives Replacer ESP-112095-1-1-1-1747507371.zip",
+            "mod_id": 112095,
+            "hash": "sha256-6UMo53VUOdjrFffrVKghaQRl+AzMKRSJOzDxFtHm5kw="
+        }
+    },
+    "Missives - Quest Edits for Unique Missive Boards": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "1.1.2",
+            "file_id": 664893,
+            "file_name": "Missives - Quest Edits for Unique Missive Boards-112095-1-1-2-1757646735.zip",
+            "mod_id": 112095,
+            "hash": "sha256-eR6WyPnLnlx/Dfz66i/S66CKbHlWdZ9KkCNM4XVLKFo="
+        },
+        "type": "primary"
+    },
+    "Missives are in Skyrim Patch": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "1.1.2",
+            "file_id": 664894,
+            "file_name": "Missives are in Skyrim Patch-112095-1-1-2-1757646767.zip",
+            "mod_id": 112095,
+            "hash": "sha256-bNwKELiw5RFqCxzJYwSVRAKlOXuAV2cVzmb+yC5R2B0="
+        }
+    }
+}

@@ -1,0 +1,35 @@
+{
+  "HFs- Bruma - Shields - 2K": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1",
+      "file_id": 543346,
+      "file_name": "HFs- Bruma - Shields - 2K-129517-1-1726609203.zip",
+      "mod_id": 129517,
+      "hash": "sha256-3/EUrw2ToWEM2h7XRfkGYBnNeeyhzn7Ra4z33qnpPg4="
+    },
+    "type": "primary"
+  },
+  "HFs- Bruma - Shields - 4K": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1",
+      "file_id": 543347,
+      "file_name": "HFs- Bruma - Shields - 4K-129517-1-1726609254.zip",
+      "mod_id": 129517,
+      "hash": "sha256-vY6lDmoMBp8rX5isUdtRGc/uJMbLNsvJ4eklR7UosOA="
+    },
+    "type": "primary"
+  },
+  "HFs- Bruma - Shields - 1K": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1",
+      "file_id": 548289,
+      "file_name": "HFs- Bruma - Shields - 1K-129517-1-1727853668.zip",
+      "mod_id": 129517,
+      "hash": "sha256-WiDAytx/xB09yVcTUwpEBxwudMnCMUrUAMVUhoHx6Ag="
+    },
+    "type": "primary"
+  }
+}

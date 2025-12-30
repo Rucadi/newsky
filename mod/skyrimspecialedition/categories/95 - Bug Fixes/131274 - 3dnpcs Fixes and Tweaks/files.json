@@ -1,0 +1,43 @@
+{
+  "Patch for gutmaw 3dnpc Legacy patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1",
+      "file_id": 611916,
+      "file_name": "Patch for gutmaw 3dnpc Legacy patch-131274-1-1-1743373490.rar",
+      "mod_id": 131274,
+      "hash": "sha256-C82coEnohIw8jRLGpmk4CfS8+gkWRMT7ibuH8WrzY5E="
+    }
+  },
+  "Interesting NPCs Visual Overhaul patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1",
+      "file_id": 675775,
+      "file_name": "Interesting NPCs Visual Overhaul patch-131274-1-1-1760414040.rar",
+      "mod_id": 131274,
+      "hash": "sha256-vLR8mdJuI9WM4ucITasS11AFgtyuVI1UUwmp16oh6KA="
+    }
+  },
+  "Project ja-Kha'jay- Interesting NPCs Addon patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1",
+      "file_id": 675776,
+      "file_name": "Project ja-Kha'jay- Interesting NPCs Addon patch-131274-1-1-1760414098.rar",
+      "mod_id": 131274,
+      "hash": "sha256-a1o1qcNymqDUxVBTrbfaDUWJVB3frQUgjLkljaW2Q9Y="
+    }
+  },
+  "3dnpcs Fixes and Tweaks": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "6.2",
+      "file_id": 691176,
+      "file_name": "3dnpcs Fixes and Tweaks-131274-6-2-1764098271.rar",
+      "mod_id": 131274,
+      "hash": "sha256-Fo+PuK5RikB0ZXCump9ZN5qGJRPnS5VWW9D0llPN/sY="
+    },
+    "type": "primary"
+  }
+}

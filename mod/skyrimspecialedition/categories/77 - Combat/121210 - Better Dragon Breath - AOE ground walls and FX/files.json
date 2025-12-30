@@ -1,0 +1,74 @@
+{
+  "Better Dragon Breath Diverse Dragons Patch ESL": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "3.5",
+      "file_id": 661831,
+      "file_name": "Better Dragon Breath Diverse Dragons Patch ESL-121210-3-5-1756836177.zip",
+      "mod_id": 121210,
+      "hash": "sha256-kzgwx4lm86LWacVfaG6yvw1HPSzbNXRjE7OVC9bclv4="
+    }
+  },
+  "Better Dragon Breath Dragon War Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "3.5",
+      "file_id": 661897,
+      "file_name": "Better Dragon Breath Dragon War Patch-121210-3-5-1756850341.zip",
+      "mod_id": 121210,
+      "hash": "sha256-EAfn/7tyAQyz6TKWpvXwOj+lQmw7MjC7iXUu6/L882c="
+    }
+  },
+  "Better Dragon Breath Deadly Dragons Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "3.5",
+      "file_id": 662898,
+      "file_name": "Better Dragon Breath Deadly Dragons Patch-121210-3-5-1757171887.zip",
+      "mod_id": 121210,
+      "hash": "sha256-sYPTRrzJLmlpUo5gEF/xQPja4yFDiZ0FDF1+/mTwuik="
+    }
+  },
+  "Better Dragon Breath - Dragons use Thu'um Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "4.0",
+      "file_id": 693687,
+      "file_name": "Better Dragon Breath - Dragons use Thu'um Patch-121210-4-0-1764689013.zip",
+      "mod_id": 121210,
+      "hash": "sha256-RFPsRjj20Va0DIixqs/Faant+JnUIIJhU5TG9BSGu4I="
+    }
+  },
+  "Better Dragon Breath ALL INCLUDED": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "4.01",
+      "file_id": 695338,
+      "file_name": "Better Dragon Breath ALL INCLUDED-121210-4-01-1765096832.zip",
+      "mod_id": 121210,
+      "hash": "sha256-utzkK3cNLKuf3Q82idyic9gqD2DCYy6BqpJV/TSJlnw="
+    },
+    "type": "primary"
+  },
+  "Better Dragon Breath No Graphic Changes": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "4.01",
+      "file_id": 695339,
+      "file_name": "Better Dragon Breath No Graphic Changes-121210-4-01-1765096894.zip",
+      "mod_id": 121210,
+      "hash": "sha256-rr/PQP5nIf49CtagvB0GyPJpE5Jfig3g0wVmcLe2dC0="
+    },
+    "type": "primary"
+  },
+  "Better Dragon Breath Graphics Only": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "4.01",
+      "file_id": 695340,
+      "file_name": "Better Dragon Breath Graphics Only-121210-4-01-1765096940.zip",
+      "mod_id": 121210,
+      "hash": "sha256-tugs2sSfuLamV9oU1UI5MS6/AYX7GjxjAjJdlt9NFBo="
+    }
+  }
+}

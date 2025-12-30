@@ -1,0 +1,23 @@
+{
+  "Gwynesha - Outfit Addon - Requires Main File": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "2.2FE",
+      "file_id": 453243,
+      "file_name": "Gwynesha - Outfit Addon - Requires Main File-105135-2-2FE-1702975960.zip",
+      "mod_id": 105135,
+      "hash": "sha256-dYXQCjc3G2vbvxhdy8mHxTYMspZDB/PE1uItrCrP1e4="
+    }
+  },
+  "Gwynesha - Healer Companion - Milfactory": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "2.5",
+      "file_id": 512525,
+      "file_name": "Gwynesha - Healer Companion - Milfactory-105135-2-5-1718640284.zip",
+      "mod_id": 105135,
+      "hash": "sha256-c90IbzpwcEdysFbwvhKUB4m7AODOrWL3YReQfRMgjh0="
+    },
+    "type": "primary"
+  }
+}

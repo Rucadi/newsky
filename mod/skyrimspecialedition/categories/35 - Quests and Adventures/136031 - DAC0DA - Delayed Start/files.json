@@ -1,0 +1,33 @@
+{
+  "DAc0da - Delayed Start": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1",
+      "file_id": 612782,
+      "file_name": "DAc0da - Delayed Start-136031-1-1-1743538308.zip",
+      "mod_id": 136031,
+      "hash": "sha256-RRaTTo55xiZHniWZyxjAJN2+rFGmeOsjjdpTNShrMRA="
+    },
+    "type": "primary"
+  },
+  "DAc0da Delayed - Option 5 - Tools of Kagrenac": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1",
+      "file_id": 612784,
+      "file_name": "DAc0da Delayed - Option 5 - Tools of Kagrenac-136031-1-1-1743538361.zip",
+      "mod_id": 136031,
+      "hash": "sha256-E0c50EsAsoDOfdWWlPtWFnXwT72vnxNd9+hbK32iUns="
+    }
+  },
+  "DAC0DA Delayed - Lvl 25 and Yngol's Barrow": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1",
+      "file_id": 662988,
+      "file_name": "DAC0DA - Delayed Start - Lvl 25 and Yngol's Barrow-136031-1-1-1757186923.zip",
+      "mod_id": 136031,
+      "hash": "sha256-08Kff5xXVzWnQXSnZ14iepfwRI9E1pMpc3AmDLKfqsg="
+    }
+  }
+}

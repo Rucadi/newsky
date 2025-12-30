@@ -1,0 +1,24 @@
+{
+  "SkyUI_SE.esp Plugin with Skyrim.esm Master": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "5.2",
+      "file_id": 279918,
+      "file_name": "SkyUI_SE.esp Plugin with Skyrim.esm Master-67166-5-2-1651052812.7z",
+      "mod_id": 67166,
+      "hash": "sha256-dh9lMEmY52jTtlNerR7UCzxZo7pKQUxmFULgQbMzkPY="
+    },
+    "type": "primary"
+  },
+  "SkyUI_SE.esp Plugin with Skyrim.esm Master ESPFE": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "5.2a",
+      "file_id": 280020,
+      "file_name": "SkyUI_SE.esp Plugin with Skyrim.esm Master ESPFE-67166-5-2a-1651085623.7z",
+      "mod_id": 67166,
+      "hash": "sha256-nOg6QDuR3AxWsqUrkXkc2fDqYaEdy1lVNBU9VHH6BzU="
+    },
+    "type": "primary"
+  }
+}

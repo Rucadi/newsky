@@ -1,0 +1,23 @@
+{
+  "Unique Uniques SE - Scoped Angi's Bow": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 5486,
+      "file_name": "Unique Uniques SE - Scoped Angi's Bow-3334-1-0.7z",
+      "mod_id": 3334,
+      "hash": "sha256-nEgakt1eJTpuhFBAtUrH/MxPCknOZCZ6X/SqKgVMT1Y="
+    }
+  },
+  "Unique Uniques SE": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1",
+      "file_id": 13287,
+      "file_name": "Unique Uniques SE-3334-1-1.7z",
+      "mod_id": 3334,
+      "hash": "sha256-mFUieNOtoLi4bBbl5s2y+4YjfMv/sY0nMBC2i5hkr0c="
+    },
+    "type": "primary"
+  }
+}

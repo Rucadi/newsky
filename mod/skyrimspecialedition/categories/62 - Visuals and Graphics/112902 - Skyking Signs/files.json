@@ -1,0 +1,103 @@
+{
+  "Skyking Signs LotD Sign": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 476065,
+      "file_name": "Skyking Signs LotD Sign-112902-1-0-1709338922.7z",
+      "mod_id": 112902,
+      "hash": "sha256-ZLVuFiVaZgFHoQICri9/MREDVZ81rg7cYhgi71I+SSE="
+    }
+  },
+  "Skyking Signs - Bruma Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 481004,
+      "file_name": "Skyking Signs - Bruma Patch-112902-1-0-1710561125.7z",
+      "mod_id": 112902,
+      "hash": "sha256-/0m1w3/dWLEREIgJPNIXXlk1ZALQs7Z98AppqChiisk="
+    }
+  },
+  "Skyking Signs - Books of Skyrim": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 483835,
+      "file_name": "Skyking Signs - Books of Skyrim-112902-1-0-1711311894.7z",
+      "mod_id": 112902,
+      "hash": "sha256-GjGuVd5pW83LC0AXAJX+Pw2GzL0VnLW0A9pB3Tgwszk="
+    }
+  },
+  "Skyking Signs - Redbags Falkreath": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.01",
+      "file_id": 484514,
+      "file_name": "Skyking Signs - Redbags Falkreath-112902-1-01-1711514532.7z",
+      "mod_id": 112902,
+      "hash": "sha256-huupdAhzEcdAldFN+GeLpCr68+2E6yzwHWbJl62l2XM="
+    }
+  },
+  "Skyking Signs - Saints and Seducers Extended Cut": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.3",
+      "file_id": 502566,
+      "file_name": "Skyking Signs - Saints and Seducers Extended Cut P-112902-1-3-1716072567.7z",
+      "mod_id": 112902,
+      "hash": "sha256-lmLc4gh4qJVSOxOpVxdbkwb7eRCAta220HXOTQ06nb8="
+    }
+  },
+  "Skyking Signs - Balthazars Books Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 513458,
+      "file_name": "Skyking Signs - Balthazars Books Patch-112902-1-0-1718904306.7z",
+      "mod_id": 112902,
+      "hash": "sha256-lqKn/BFMZUewqsRgIxs2oFfhn0p5QQvEXkvzPoiaHpA="
+    }
+  },
+  "Skyking Signs - No Snow Under The Roof Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1",
+      "file_id": 540137,
+      "file_name": "Skyking Signs - No Snow Under The Roof Patch-112902-1-1-1725818416.7z",
+      "mod_id": 112902,
+      "hash": "sha256-uibf5LbegiD1GLW6ljKHLKe3Nbf44rge1Qd80NChGWg="
+    }
+  },
+  "Skyking Signs - Interesting NPCs": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.01",
+      "file_id": 548771,
+      "file_name": "Skyking Signs - Interesting NPCs-112902-1-01-1727984478.7z",
+      "mod_id": 112902,
+      "hash": "sha256-kCp7jXRF4E0CIJEmBnjN+yfnzrx7r3iIVCY99CmGr4A="
+    }
+  },
+  "Skyking Signs - Winterhold Restored Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 571215,
+      "file_name": "Skyking Signs - Winterhold Restored Patch-112902-1-0-1733884124.7z",
+      "mod_id": 112902,
+      "hash": "sha256-TEY2OmZTrId+/OttEOJacGSaKj5MXA1m1KHQ0t/9s1M="
+    }
+  },
+  "Skyking Signs": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "2.1",
+      "file_id": 639271,
+      "file_name": "Skyking Signs-112902-2-1-1750270231.7z",
+      "mod_id": 112902,
+      "hash": "sha256-MhFe9VIvWwlbfENX1fm9S9EBVk8+Q88lcQhrZ/wRYJw="
+    },
+    "type": "primary"
+  }
+}

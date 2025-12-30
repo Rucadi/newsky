@@ -1,0 +1,103 @@
+{
+    "FDE Aela Patch - Eris EZPG": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "4.0",
+            "file_id": 597360,
+            "file_name": "FDE Aela Patch - Eris EZPG-114801-4-0-1740151640.zip",
+            "mod_id": 114801,
+            "hash": "sha256-8cULtRhvDTZQV4st5axZL/Wo3u8FlghA6DXe1ymRFIs="
+        }
+    },
+    "FDE Aela Patch - Auri": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "5.0",
+            "file_id": 609635,
+            "file_name": "FDE Aela Patch - Auri-114801-5-0-1742905176.zip",
+            "mod_id": 114801,
+            "hash": "sha256-OHZ7CWGPKxhDJbbhwiyWF7nfKbKsJv29/BX+laIjZ/Q="
+        }
+    },
+    "FDE Aela Patch - Eris": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "5.0",
+            "file_id": 609636,
+            "file_name": "FDE Aela Patch - Eris-114801-5-0-1742905205.zip",
+            "mod_id": 114801,
+            "hash": "sha256-yrhQDXM4RzvgeaL+kfYs8Jpqk9d8/79vJEIscTY5mgU="
+        }
+    },
+    "FDE Aela Patch - Inigo": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "5.0",
+            "file_id": 609637,
+            "file_name": "FDE Aela Patch - Inigo-114801-5-0-1742905228.zip",
+            "mod_id": 114801,
+            "hash": "sha256-ty8Sp4rszdHiUh6RW9hdpNWisAOQlTw8EQgYbVGhnDQ="
+        }
+    },
+    "FDE Aela Patch - Khajiit Will Follow": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "5.0",
+            "file_id": 609638,
+            "file_name": "FDE Aela Patch - Khajiit Will Follow-114801-5-0-1742905265.zip",
+            "mod_id": 114801,
+            "hash": "sha256-Kh5pbdE9jM87nS9lATAyRW3MqZFYoQII4qSpR1+nD4M="
+        }
+    },
+    "FDE Aela Patch - Lucien": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "5.0",
+            "file_id": 609639,
+            "file_name": "FDE Aela Patch - Lucien-114801-5-0-1742905289.zip",
+            "mod_id": 114801,
+            "hash": "sha256-ucH7rswzY/w8/txArq4PlmYT7Dq3AGL7P8HN4tHzxEc="
+        }
+    },
+    "FDE Aela Patch - Remiel": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "5.0",
+            "file_id": 609640,
+            "file_name": "FDE Aela Patch - Remiel-114801-5-0-1742905306.zip",
+            "mod_id": 114801,
+            "hash": "sha256-wz1wZ93JQx9UOuwK7GB63FJ5aAn5Z6kuTmjnMzKA5NM="
+        }
+    },
+    "FDE Aela Patch - Thogra": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "5.0",
+            "file_id": 609641,
+            "file_name": "FDE Aela Patch - Thogra-114801-5-0-1742905323.zip",
+            "mod_id": 114801,
+            "hash": "sha256-/PD+6EPhDv5YzKeddusdf+kydH6FjkdMlhPy5h8EqoE="
+        }
+    },
+    "FDE Aela Patch - Xelzaz": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "5.0",
+            "file_id": 609647,
+            "file_name": "FDE Aela Patch - Xelzaz-114801-5-0-1742906112.zip",
+            "mod_id": 114801,
+            "hash": "sha256-as9OvbHBZG1fR9xePjNThcpFZncLdDVaJfCWxH3clxc="
+        }
+    },
+    "FDE Aela": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "8.0",
+            "file_id": 697943,
+            "file_name": "FDE Aela-114801-8-0-1765722243.zip",
+            "mod_id": 114801,
+            "hash": "sha256-jsTjiqNQAcdpIn2D5xUsbzSlSojOA74/bU9XCJ7Tt/4="
+        },
+        "type": "primary"
+    }
+}

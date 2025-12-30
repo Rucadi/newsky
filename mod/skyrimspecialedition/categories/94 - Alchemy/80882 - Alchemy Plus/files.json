@@ -1,0 +1,24 @@
+{
+  "Alchemy Plus": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1.0",
+      "file_id": 451568,
+      "file_name": "Alchemy Plus-80882-1-1-0-1702491630.7z",
+      "mod_id": 80882,
+      "hash": "sha256-MprlDdO7JD0LcHuOpSzkppgQtgmwJ/NJXjJE0n/OWEc="
+    },
+    "type": "primary"
+  },
+  "Alchemy Plus VR": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.2.0",
+      "file_id": 452748,
+      "file_name": "Alchemy Plus VR-80882-1-2-0-1702842132.7z",
+      "mod_id": 80882,
+      "hash": "sha256-WqP7dmBdgoq0TywPzw8DQyC09q1zXITQu/3h3djLqOo="
+    },
+    "type": "primary"
+  }
+}

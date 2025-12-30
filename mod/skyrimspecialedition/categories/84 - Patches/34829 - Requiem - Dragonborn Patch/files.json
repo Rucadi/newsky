@@ -1,0 +1,23 @@
+{
+  "Requiem - Dragonborn Patch (LE)": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "4.LE",
+      "file_id": 193802,
+      "file_name": "Requiem - Dragonborn Patch (LE)-34829-4-LE-1616806055.7z",
+      "mod_id": 34829,
+      "hash": "sha256-jo8AoZmVJWxL0nq6+sM5KsRpSw4i4KNKeuU2M4c5WUM="
+    }
+  },
+  "Requiem - Dragonborn Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "5.0.1",
+      "file_id": 258075,
+      "file_name": "Requiem - Dragonborn Patch-34829-5-0-1-1642694144.7z",
+      "mod_id": 34829,
+      "hash": "sha256-5Xfyivc5GlSYXnKlVT0gDVatojxw6kmkAnHSt9InsAY="
+    },
+    "type": "primary"
+  }
+}

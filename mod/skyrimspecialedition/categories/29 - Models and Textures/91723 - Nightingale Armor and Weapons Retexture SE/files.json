@@ -1,0 +1,23 @@
+{
+  "Nightingale Armor and Weapons Retexture SE": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 390004,
+      "file_name": "Nightingale Armor and Weapons Retexture SE-91723-1-0-1684545900.rar",
+      "mod_id": 91723,
+      "hash": "sha256-mMD3FIVMHPQDqP+kEbhI9aIwnOluXe+BDCttMT9Of+g="
+    },
+    "type": "primary"
+  },
+  "Nightingale Armor and Weapons Retexture SE-HalfRes": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 390005,
+      "file_name": "Nightingale Armor and Weapons Retexture SE-HalfRes-91723-1-0-1684545978.rar",
+      "mod_id": 91723,
+      "hash": "sha256-qmKzZnOAUgcNI7DV4d5HmcKetln9kor0osnQpFtnABI="
+    }
+  }
+}

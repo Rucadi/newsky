@@ -1,0 +1,13 @@
+{
+  "Base Object Swapper": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "3.4.1",
+      "file_id": 647525,
+      "file_name": "Base Object Swapper-60805-3-4-1-1752606013.7z",
+      "mod_id": 60805,
+      "hash": "sha256-rh9oHJFSKlVF6wvWsrF0SRs01QWRyYo6ja1lOKeRup8="
+    },
+    "type": "primary"
+  }
+}

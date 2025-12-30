@@ -1,0 +1,43 @@
+{
+    "Lux Patch": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "1.0",
+            "file_id": 560813,
+            "file_name": "Lux Patch-133627-1-0-1731245842.7z",
+            "mod_id": 133627,
+            "hash": "sha256-MOE/3DoWNM7NfADoOtVh7U+AA9R/xOW4CiPNZtyveuQ="
+        }
+    },
+    "Lux Orbis Patch": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "1.0",
+            "file_id": 560826,
+            "file_name": "Lux Orbis Patch-133627-1-0-1731246619.7z",
+            "mod_id": 133627,
+            "hash": "sha256-ML7R7nzFhPsiH7ExJWTS9QyRnDHGNr/BmJLjmGY9vO0="
+        }
+    },
+    "Dragon Cult Patch": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "1.0",
+            "file_id": 563070,
+            "file_name": "Dragon Cult Patch-133627-1-0-1731799894.zip",
+            "mod_id": 133627,
+            "hash": "sha256-7r+KUQOcsok9oksNkL9DV6NbzbjlrS25PCaLs9AglLQ="
+        }
+    },
+    "Ysmir's Tear": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "3.0",
+            "file_id": 676492,
+            "file_name": "Ysmir's Tear-133627-3-0-1760592865.zip",
+            "mod_id": 133627,
+            "hash": "sha256-NKPbxTsYx1UvhNgenfE0eVCpChD/IauNrxFZRFW6brU="
+        },
+        "type": "primary"
+    }
+}

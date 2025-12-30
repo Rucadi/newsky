@@ -1,0 +1,23 @@
+{
+  "Leviathan Animations II - Sprint": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "2.4",
+      "file_id": 350466,
+      "file_name": "Leviathan Animations II - Sprint-82603-2-4-1673973245.7z",
+      "mod_id": 82603,
+      "hash": "sha256-GWN2yI/ltvrRTxlIcRYN1WmqM5wvH/lZbfjShuNZEp8="
+    },
+    "type": "primary"
+  },
+  "CATA Addon - Leviathan Animations II Sprint": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "2.4c",
+      "file_id": 400902,
+      "file_name": "CATA Addon - Leviathan Animations II Sprint-82603-2-4c-1687702352.7z",
+      "mod_id": 82603,
+      "hash": "sha256-WFelA0QS5rnl2l1Pa8W2Ul1jcm4WK73AYILQ8hx/xrs="
+    }
+  }
+}

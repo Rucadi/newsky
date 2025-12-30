@@ -1,0 +1,23 @@
+{
+  "OHorny": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1.2",
+      "file_id": 605378,
+      "file_name": "OHorny-137425-1-1-2-1741928437.7z",
+      "mod_id": 137425,
+      "hash": "sha256-uTDf0hhte/oW1XCmPdqXT+Ode4B3w9lGRto4VLvS9L4="
+    },
+    "type": "primary"
+  },
+  "OHorny Fix Patch - Fix for Furniture Usage Bugs": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0.1",
+      "file_id": 702783,
+      "file_name": "OHorny Fix Patch - Fix for Furniture Usage Bugs-137425-1-0-1-1766903092.7z",
+      "mod_id": 137425,
+      "hash": "sha256-ZqQD22jrEAfjaFd9K4rXQZ5MjvQfSTm9bRgcN+AJUCc="
+    }
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "Vanaheimr - Ice - 2k": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "3.0",
+      "file_id": 599527,
+      "file_name": "Vanaheimr - Ice - 2k-130482-3-0-1740616600.7z",
+      "mod_id": 130482,
+      "hash": "sha256-0JuGjnUK/TZUCr83nxFE2N3QkRCJmCxXvjFhy5S9MtA="
+    },
+    "type": "primary"
+  },
+  "Vanaheimr - Ice - 4k": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "3.0",
+      "file_id": 599528,
+      "file_name": "Vanaheimr - Ice - 4k-130482-3-0-1740616650.7z",
+      "mod_id": 130482,
+      "hash": "sha256-5dVRy1585Lx7hdnwfDUtVGHrIK7JjsKOl5yxr7Die5o="
+    },
+    "type": "primary"
+  }
+}

@@ -1,0 +1,66 @@
+{
+    "Dead Man's Dread - Properly Environment Mapped": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "1.0",
+            "file_id": 136731,
+            "file_name": "Dead Man's Dread Properly Environment Mapped-35298-1-0-1588049550.zip",
+            "mod_id": 35298,
+            "hash": "sha256-8GKkV8tDoakDCk4trZvCyYLO/gOpHDONT2yg1QfZ9CA="
+        },
+        "type": "primary"
+    },
+    "Dwarven Armored Mudcrab - Properly Environment Mapped": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "1.0",
+            "file_id": 147768,
+            "file_name": "Dwarven Armored Mudcrab - Properly Environment Mapped-35298-1-0-1593331103.7z",
+            "mod_id": 35298,
+            "hash": "sha256-pki3VeK5MEH+674HvgDbiPaHnGOuzheKBxSSYMbHZxU="
+        },
+        "type": "primary"
+    },
+    "Dwarven Mail - Texture Tweak": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "1.0",
+            "file_id": 244205,
+            "file_name": "Dwarven Mail - Texture Tweak-35298-1-0-1637816755.zip",
+            "mod_id": 35298,
+            "hash": "sha256-cTzDKzAcAK3kKNyfiy6TfSwEWw3qv9G2QEf3WwA457k="
+        }
+    },
+    "Orcish Plate Armor - Properly Environment Mapped": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "1.0",
+            "file_id": 258024,
+            "file_name": "Orcish Plate Armor-35298-1-0-1642665590.zip",
+            "mod_id": 35298,
+            "hash": "sha256-s1eASCII1ZNpo+u706Ee0/XFlhBfQcj55vax5sTJC4I="
+        },
+        "type": "primary"
+    },
+    "Orcish Plate Armor - Texture Tweak": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "1.0",
+            "file_id": 258035,
+            "file_name": "Orcish Plate Armor - Texture Tweak-35298-1-0-1642671870.zip",
+            "mod_id": 35298,
+            "hash": "sha256-9ltRpoICGbdP3gANE35R6JOqrDudBExy/dfJVPDlsew="
+        }
+    },
+    "Iron Plate Armor - Properly Environment Mapped": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "1.1",
+            "file_id": 278830,
+            "file_name": "Iron Plate Armor - Properly Environment Mapped-35298-1-1-1650599018.zip",
+            "mod_id": 35298,
+            "hash": "sha256-2a2RtIb4GQ+Dx5Y2kTFlpjMO24dE66Z6DdGDZYK+clY="
+        },
+        "type": "primary"
+    }
+}

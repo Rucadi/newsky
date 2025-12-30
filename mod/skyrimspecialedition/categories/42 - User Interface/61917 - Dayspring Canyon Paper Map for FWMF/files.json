@@ -1,0 +1,34 @@
+{
+  "Dayspring Canyon Global Markers Enabler for FWMF": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.01",
+      "file_id": 257014,
+      "file_name": "Dayspring Canyon Global Markers Enabler for FWMF-61917-1-01-1642279183.zip",
+      "mod_id": 61917,
+      "hash": "sha256-779AE/HZHmWjmiCAnPI+WUG5ob1GPtV/OuL8N3FomUI="
+    }
+  },
+  "Dayspring Canyon Paper Map for FWMF (legacy)": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.7",
+      "file_id": 346410,
+      "file_name": "Dayspring Canyon Paper Map for FWMF-61917-1-7-1672777083.zip",
+      "mod_id": 61917,
+      "hash": "sha256-AtVCKEUfM+E7yuPQn+Aac0uqbdYE5YytXHKRDYvKVWU="
+    },
+    "type": "primary"
+  },
+  "Dayspring Canyon Paper Map for FWMF": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.8.1",
+      "file_id": 559148,
+      "file_name": "Dayspring Canyon Paper Map for FWMF-61917-1-8-1-1730795594.zip",
+      "mod_id": 61917,
+      "hash": "sha256-Toxsh/stKC13DS0goMeLGtleS8BnokvzWwv9ODK7iFU="
+    },
+    "type": "primary"
+  }
+}

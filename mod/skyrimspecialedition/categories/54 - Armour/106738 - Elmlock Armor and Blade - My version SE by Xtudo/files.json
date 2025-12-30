@@ -1,0 +1,74 @@
+{
+  "Elmlock - My version SE by Xtudo - 1K Desaturated": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.2",
+      "file_id": 451433,
+      "file_name": "Elmlock - My version SE by Xtudo - 1K Desaturated-106738-1-2-1702471308.7z",
+      "mod_id": 106738,
+      "hash": "sha256-25bKvSO4acHKDylypeoRzFveIZ116SpfaDP2zgx5Id4="
+    }
+  },
+  "Elmlock - My version SE by Xtudo - 1K Textures": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.2",
+      "file_id": 451434,
+      "file_name": "Elmlock - My version SE by Xtudo - 1K Textures-106738-1-2-1702471326.7z",
+      "mod_id": 106738,
+      "hash": "sha256-02SpfI9aQikem5+OqWDqy6gimDYGZVSsRoAqWxWeYEY="
+    }
+  },
+  "Elmlock - My version SE by Xtudo - 2K Desaturated": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.2",
+      "file_id": 451435,
+      "file_name": "Elmlock - My version SE by Xtudo - 2K Desaturated-106738-1-2-1702471371.7z",
+      "mod_id": 106738,
+      "hash": "sha256-26KSYh6e8N8Szth5NwRUd4LAx3nA7tBU63kuK5hTJa8="
+    }
+  },
+  "Elmlock - My version SE by Xtudo - 2K Textures": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.2",
+      "file_id": 451436,
+      "file_name": "Elmlock - My version SE by Xtudo - 2K Textures-106738-1-2-1702471412.7z",
+      "mod_id": 106738,
+      "hash": "sha256-7RMmEpGqfj54U8sZ6nbyWrdvo+Keb7PDQIhetcC+xzc="
+    }
+  },
+  "Elmlock - My version SE by Xtudo - 4K Desaturated": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.2",
+      "file_id": 451437,
+      "file_name": "Elmlock - My version SE by Xtudo - 4K Desaturated-106738-1-2-1702471465.7z",
+      "mod_id": 106738,
+      "hash": "sha256-5hOAtnNwuyZ2EruSumSc+lfurxkwoXwhDAf1+s6SnZE="
+    }
+  },
+  "Elmlock - My version SE by Xtudo": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.3",
+      "file_id": 451522,
+      "file_name": "Elmlock - My version SE by Xtudo-106738-1-3-1702485244.7z",
+      "mod_id": 106738,
+      "hash": "sha256-NC+6BdJvxqHl7Z4MEmDIi3miBQ34uchQPNmHCLZ/WhY="
+    },
+    "type": "primary"
+  },
+  "Elmlock - My version SE by Xtudo - Ebony Perk": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.3",
+      "file_id": 451523,
+      "file_name": "Elmlock - My version SE by Xtudo - Ebony Perk-106738-1-3-1702485296.7z",
+      "mod_id": 106738,
+      "hash": "sha256-CddStcCFWlvjo7H29FC9L/Y+rse4fkDaW6x6I4nupt4="
+    },
+    "type": "primary"
+  }
+}

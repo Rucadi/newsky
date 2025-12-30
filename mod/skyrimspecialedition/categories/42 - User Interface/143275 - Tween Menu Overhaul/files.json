@@ -1,0 +1,64 @@
+{
+  "Custom Skills Menu Add-On": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 600699,
+      "file_name": "Custom Skills Menu Add-On-143275-1-0-1740873533.zip",
+      "mod_id": 143275,
+      "hash": "sha256-DTZ1yiOlMrG1Zayp3FCYZz2TZxKJ1NeoC9aA9pXAJcA="
+    }
+  },
+  "The Dragonborn's Bestiary Add-On": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 600701,
+      "file_name": "The Dragonborn's Bestiary Add-On-143275-1-0-1740873606.zip",
+      "mod_id": 143275,
+      "hash": "sha256-uGumDEA2c0pwla/mnhWD5BQES5dEVSNpFKXE0poE+kk="
+    }
+  },
+  "Achievement Injector Add-On": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 600702,
+      "file_name": "Achievement Injector Add-On-143275-1-0-1740873665.zip",
+      "mod_id": 143275,
+      "hash": "sha256-aK4apSAMe/6/2Bi6RXjyyUTYAo2IgzxNNcUfG+GAi/I="
+    }
+  },
+  "Wait Menu Add-On": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 600703,
+      "file_name": "Wait Menu Add-On-143275-1-0-1740873739.zip",
+      "mod_id": 143275,
+      "hash": "sha256-X5kaBjhwlESgM2Xrg9ca95tlxdqRECIBbHY/YBV9lDQ="
+    }
+  },
+  "A. Tween Menu Overhaul - Classic": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1",
+      "file_id": 630292,
+      "file_name": "A. Tween Menu Overhaul - Classic-143275-1-1-1748014644.zip",
+      "mod_id": 143275,
+      "hash": "sha256-hZOEXf78QIxrMIpTr2grgy6qc1idczPHDA7tAxr6Osk="
+    },
+    "type": "primary"
+  },
+  "B. Tween Menu Overhaul - Alternative": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1",
+      "file_id": 630294,
+      "file_name": "B. Tween Menu Overhaul - Alternative-143275-1-1-1748014676.zip",
+      "mod_id": 143275,
+      "hash": "sha256-exN3ca7Hrix38bX/pV86nXQk9ZGNK1mKG/RQH4sE3d0="
+    },
+    "type": "primary"
+  }
+}

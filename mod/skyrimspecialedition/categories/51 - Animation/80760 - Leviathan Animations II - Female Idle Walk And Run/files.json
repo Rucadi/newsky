@@ -1,0 +1,23 @@
+{
+  "Leviathan Animations II - Female Idle Walk And Run": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "2.3",
+      "file_id": 349811,
+      "file_name": "Leviathan Animations II - Female Idle Walk And Run-80760-2-3-1673806324.7z",
+      "mod_id": 80760,
+      "hash": "sha256-II+P+RHQy25N9J60LaA9TGLB9V/C7MU+F5wNgN7SLiE="
+    },
+    "type": "primary"
+  },
+  "CATA Addon - Leviathan II Female Idle Walk Run": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "2.3c",
+      "file_id": 400903,
+      "file_name": "CATA Addon - Leviathan II Female Idle Walk Run-80760-2-3c-1687702353.7z",
+      "mod_id": 80760,
+      "hash": "sha256-oWxbPPA6g3qK0Mjme8t5K3Sb+MW6wH1uBuETH77o8Gg="
+    }
+  }
+}

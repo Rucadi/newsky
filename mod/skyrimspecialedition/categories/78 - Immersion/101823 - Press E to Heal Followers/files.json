@@ -1,0 +1,33 @@
+{
+  "Press E To Heal Followers": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 433552,
+      "file_name": "Press E To Heal Followers-101823-1-0-1697198920.rar",
+      "mod_id": 101823,
+      "hash": "sha256-tpDExHH9bgAYezpOHnweZWreew8H/i994bG1FhvonM4="
+    },
+    "type": "primary"
+  },
+  "Patch for 'NPC Stuck in Bleedout Fix'": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 433553,
+      "file_name": "Patch for 'NPC Stuck in Bleedout Fix'-101823-1-0-1697199006.rar",
+      "mod_id": 101823,
+      "hash": "sha256-er7eQkFQkzfiBJPJRTQbO0Br+NB58Z2VHe393cgd0H4="
+    }
+  },
+  "Patch for CACO": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 443541,
+      "file_name": "Patch for CACO-101823-1-0-1700293773.zip",
+      "mod_id": 101823,
+      "hash": "sha256-UZMRHot9wM8ZACVFTIaBFF0RVtCDqHljWB9gkoCWumk="
+    }
+  }
+}

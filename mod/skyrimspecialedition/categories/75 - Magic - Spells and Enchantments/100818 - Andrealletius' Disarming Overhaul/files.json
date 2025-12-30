@@ -1,0 +1,103 @@
+{
+  "ADO - Adamant Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0a",
+      "file_id": 426713,
+      "file_name": "ADO - Adamant Patch-100818-1-0a-1694975464.7z",
+      "mod_id": 100818,
+      "hash": "sha256-Z5pS8q8x6kaSJYkcgbeKDQbdpRXWGlqVTe7RHjbkFIo="
+    }
+  },
+  "ADO - Stormcrown Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0a",
+      "file_id": 426715,
+      "file_name": "ADO - Stormcrown Patch-100818-1-0a-1694975536.7z",
+      "mod_id": 100818,
+      "hash": "sha256-vV0KH+WxlDgKL46VNbLbMNzX4UcejiITySos29Ov5KQ="
+    }
+  },
+  "ADO - KS Dragon Overhaul 2": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1",
+      "file_id": 426936,
+      "file_name": "ADO - KS Dragon Overhaul 2-100818-1-1-1695026903.7z",
+      "mod_id": 100818,
+      "hash": "sha256-no5GNptJH8r2V8Bz13U0UXDugwmRCdXwtsn4XkPUWcU="
+    }
+  },
+  "ADO - Ordinator Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1",
+      "file_id": 426937,
+      "file_name": "ADO - Ordinator Patch-100818-1-1-1695026928.7z",
+      "mod_id": 100818,
+      "hash": "sha256-6gfX10VFAiy9Wi6Ijbw9gjIaWGVHmulAcj32amznTbw="
+    }
+  },
+  "ADO - Requiem Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1a",
+      "file_id": 426984,
+      "file_name": "ADO - Requiem Patch-100818-1-1a-1695043677.7z",
+      "mod_id": 100818,
+      "hash": "sha256-vUvDIvogb/aZ7xv2b83M6/Advp5GpQU3P/GELEOLF6c="
+    }
+  },
+  "ADO - Thunderchild Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1a",
+      "file_id": 426985,
+      "file_name": "ADO - Thunderchild Patch-100818-1-1a-1695043703.7z",
+      "mod_id": 100818,
+      "hash": "sha256-0h2l+ld9bIiFO9n67mfujIxPNvM3VZXfMWyOqmzNsO8="
+    }
+  },
+  "Andrealphus Disarming Overhaul": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.2",
+      "file_id": 427304,
+      "file_name": "Andrealphus Disarming Overhaul-100818-1-2-1695137132.7z",
+      "mod_id": 100818,
+      "hash": "sha256-25OHNBmTN3BsYVHWj5558XiY70mOybTJriEQYJrxpTo="
+    },
+    "type": "primary"
+  },
+  "ADO - Legendary Shouts Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.2",
+      "file_id": 427305,
+      "file_name": "ADO - Legendary Shouts Patch-100818-1-2-1695137159.7z",
+      "mod_id": 100818,
+      "hash": "sha256-YM+o/8bt3kOTrV1n6jl+mW6dt5Tn352fOvzGw1FPElk="
+    }
+  },
+  "ADO - Vokrii Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.2a",
+      "file_id": 427584,
+      "file_name": "ADO - Vokrii Patch-100818-1-2a-1695214153.7z",
+      "mod_id": 100818,
+      "hash": "sha256-Y2pJ44rh5duXqvM9j2Nh7WASVSLoCjaABHAse7psN5Q="
+    }
+  },
+  "ADO - ForcefulTongue Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.2b",
+      "file_id": 429630,
+      "file_name": "ADO - ForcefulTongue Patch-100818-1-2b-1695914968.7z",
+      "mod_id": 100818,
+      "hash": "sha256-5z0ZfS+0HZcUsMdPIcV8jZIwRumxC5Xrq5jyhO84Hwc="
+    }
+  }
+}

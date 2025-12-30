@@ -1,0 +1,24 @@
+{
+  "Slayable Offspring VR": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.4",
+      "file_id": 191799,
+      "file_name": "Slayable Offsprings SKSE - VR-46826-1-4-1615894460.7z",
+      "mod_id": 46826,
+      "hash": "sha256-Ng7fxkIlsEp8qG7/iueTxwlPUF531+zCE8VbvWs5e3U="
+    },
+    "type": "primary"
+  },
+  "Slayable Offspring SKSE": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "2.1.0",
+      "file_id": 323494,
+      "file_name": "Slayable Offspring SKSE-46826-2-1-0-1665587436.7z",
+      "mod_id": 46826,
+      "hash": "sha256-QX+a2+F0uVOqS+fBjCNV6wtQM83AIzqAQi1q6JT+k1g="
+    },
+    "type": "primary"
+  }
+}

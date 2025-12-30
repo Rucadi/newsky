@@ -1,0 +1,23 @@
+{
+  "Myrwatch - House Fix - USCCCP Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0.0",
+      "file_id": 266257,
+      "file_name": "MYrwatch - House Fix - USCCCP Patch-64108-1-0-0-1645592154.7z",
+      "mod_id": 64108,
+      "hash": "sha256-2c/8yNWJME7OAAB5El05IoyjaMcCo0hXyXH2okUdWvo="
+    }
+  },
+  "Myrwatch - House Fix": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1.1",
+      "file_id": 302020,
+      "file_name": "Myrwatch - House Fix-64108-1-1-1-1658728465.7z",
+      "mod_id": 64108,
+      "hash": "sha256-mlsvztDCm9cvdHjAePTEsqFl0utDRS/gycwnqIN3zrw="
+    },
+    "type": "primary"
+  }
+}

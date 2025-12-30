@@ -1,0 +1,23 @@
+{
+  "Olivia 3BA (3BBB) Bodyslide Preset": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 576035,
+      "file_name": "Olivia 3BA Bodyslide Preset-137202-1-0-1735154896.zip",
+      "mod_id": 137202,
+      "hash": "sha256-HHrYDNdWfhE3vKMJenZjOiKQjxOCOX4eCP3SODMoFDc="
+    }
+  },
+  "Olivia Breton face preset": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.3",
+      "file_id": 576287,
+      "file_name": "Olivia Breton face preset-137202-1-3-1735241503.zip",
+      "mod_id": 137202,
+      "hash": "sha256-/29jZulnwgI7vUnJgR+uWc5YZ5FPalFRbeehGfvU3sQ="
+    },
+    "type": "primary"
+  }
+}

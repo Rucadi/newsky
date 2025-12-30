@@ -1,0 +1,34 @@
+{
+  "BFCO Elden Rim (CPR)": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 513595,
+      "file_name": "BFCO Elden Rim (CPR)-119950-1-0-1718966230.zip",
+      "mod_id": 119950,
+      "hash": "sha256-nJCtAeiZML7a/JD6m+H/O4VeVr/9vnscqTe8eMjHf/Y="
+    }
+  },
+  "BFCO Elden Rim (BFCO Annotations)": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1.1",
+      "file_id": 578586,
+      "file_name": "BFCO Elden Rim-119950-1-1-1-1735789557.7z",
+      "mod_id": 119950,
+      "hash": "sha256-dMcilA5rIwQy4gyNCwcuUpNpVJb1jZnYY6xpqk9Ddyg="
+    },
+    "type": "primary"
+  },
+  "BFCO elden rim (MCO Annotations)": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1.1",
+      "file_id": 578894,
+      "file_name": "BFCO elden rim (MCO Annotations)-119950-1-1-1-1735890932.7z",
+      "mod_id": 119950,
+      "hash": "sha256-j0QDqVI9HGfJ2enmQCQizWpyQiik+lSd7DYoPRp3QFY="
+    },
+    "type": "primary"
+  }
+}

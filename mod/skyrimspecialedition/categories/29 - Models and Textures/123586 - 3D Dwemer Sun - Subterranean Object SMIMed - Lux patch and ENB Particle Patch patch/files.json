@@ -1,0 +1,33 @@
+{
+  "Lux 3D PP Blackreach Sun": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 518436,
+      "file_name": "Lux 3D PP Blackreach Sun-123586-1-0-1720324351.7z",
+      "mod_id": 123586,
+      "hash": "sha256-C4fLJbNXde8R+oMsa4IUzOkHaSBO89XLL6/KXtOZlEY="
+    }
+  },
+  "3D PP Creation Club Suns": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1",
+      "file_id": 519816,
+      "file_name": "3D PP Creation Club Suns-123586-1-1-1720661801.7z",
+      "mod_id": 123586,
+      "hash": "sha256-m6SplCmJW0pjF97MdgKaIGU2npRqLmUlgKhslfIGUd0="
+    }
+  },
+  "3D Dwemer Sun Particle Patch - All in one": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.2",
+      "file_id": 519818,
+      "file_name": "3D Dwemer Sun Particle Patch - All in one-123586-1-2-1720662937.7z",
+      "mod_id": 123586,
+      "hash": "sha256-2stuqb0cHK57KcR3X4oS516VNl7x6jtO+5Rw3uKXgts="
+    },
+    "type": "primary"
+  }
+}

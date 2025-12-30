@@ -1,0 +1,67 @@
+{
+  "Nyr Asset Pack - BHUNP - Immersive n Adult": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "3.0",
+      "file_id": 666696,
+      "file_name": "Nyr Asset Pack - BHUNP - Immersive n Adult-81763-3-0-1758120494.7z",
+      "mod_id": 81763,
+      "hash": "sha256-OtnPZzjsN8XC4XkLshwkAAUAF1zkNNELXyA6vmjqS4Q="
+    }
+  },
+  "Nyr Follower Asset Pack - TBD": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "4.2",
+      "file_id": 697285,
+      "file_name": "Nyr Follower Asset Pack - TBD-81763-4-2-1765564216.7z",
+      "mod_id": 81763,
+      "hash": "sha256-qC5YamwResktvNDUMtkGqo22GylqfCmp2gEH5aCrbsk="
+    },
+    "type": "primary"
+  },
+  "Nyr Follower Asset Pack - BHUNP": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "4.2",
+      "file_id": 697286,
+      "file_name": "Nyr Follower Asset Pack - BHUNP-81763-4-2-1765564292.7z",
+      "mod_id": 81763,
+      "hash": "sha256-1KdlnmFjcxacLLbJHn8mhZe0QZwnOHMMXqMMmzaXyhk="
+    },
+    "type": "primary"
+  },
+  "Nyr Follower Asset Pack - RMD CBBE 3BA": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "4.2",
+      "file_id": 697288,
+      "file_name": "Nyr Follower Asset Pack - RMD CBBE 3BA-81763-4-2-1765564426.7z",
+      "mod_id": 81763,
+      "hash": "sha256-UIvfZNfo/B5TH0VglwlLpRSTCgfoy7OcolXZL+Tydmg="
+    },
+    "type": "primary"
+  },
+  "Nyr Follower Asset Pack - CBBE 3BA": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "4.2",
+      "file_id": 697290,
+      "file_name": "Nyr Follower Asset Pack - CBBE 3BA-81763-4-2-1765564487.7z",
+      "mod_id": 81763,
+      "hash": "sha256-ZlwmwcZor2i+pwsV2lq5heAgIFJ+Owep+WKht6qB/Ls="
+    },
+    "type": "primary"
+  },
+  "Nyr Follower Asset Pack - RMD BHUNP": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "4.2",
+      "file_id": 697301,
+      "file_name": "Nyr Follower Asset Pack - RMD BHUNP-81763-4-2-1765565897.7z",
+      "mod_id": 81763,
+      "hash": "sha256-ukxC/GP/KqvARsOAZIp9LtIkL5GqFb5sIbGmU3qyI6M="
+    },
+    "type": "primary"
+  }
+}

@@ -1,0 +1,24 @@
+{
+    "Requiem - Ryn's Karthspire": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "1.00",
+            "file_id": 349156,
+            "file_name": "Requiem - Ryn's Karthspire-82657-1-00-1673616596.rar",
+            "mod_id": 82657,
+            "hash": "sha256-+IB8ZROjZrNsUiBWWjcMAWZ8/KXftkHX+zhJEY2GZss="
+        },
+        "type": "primary"
+    },
+    "(CC) Spell Knight Armor - Ryn's Karthspire": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "1.01",
+            "file_id": 510907,
+            "file_name": "(CC) Spell Knight Armor - Ryn's Karthspire-82657-1-01-1718199913.rar",
+            "mod_id": 82657,
+            "hash": "sha256-KiXb7lOTstQ269Ogbhb4e+9k8PZduHKz9/qKWu8NVEg="
+        },
+        "type": "primary"
+    }
+}

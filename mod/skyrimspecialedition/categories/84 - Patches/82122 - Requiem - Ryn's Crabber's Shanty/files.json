@@ -1,0 +1,23 @@
+{
+    "Requiem Skytest - Ryn's Crabber's Shanty": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "1.00",
+            "file_id": 346894,
+            "file_name": "Requiem Skytest - Ryn's Crabber's Shanty-82122-1-00-1672922958.rar",
+            "mod_id": 82122,
+            "hash": "sha256-dn51JXvfMNFnvuPlQm1JUwaho0S8biRfXbfQGTqEOOc="
+        }
+    },
+    "Requiem - Ryn's Crabber's Shanty": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "1.01",
+            "file_id": 402153,
+            "file_name": "Requiem - Ryn's Crabber's Shanty-82122-1-01-1688037091.rar",
+            "mod_id": 82122,
+            "hash": "sha256-C1o8opjGCCu2ZNgRp7Umij0VYr7I/FEoUdZlhsce5jc="
+        },
+        "type": "primary"
+    }
+}

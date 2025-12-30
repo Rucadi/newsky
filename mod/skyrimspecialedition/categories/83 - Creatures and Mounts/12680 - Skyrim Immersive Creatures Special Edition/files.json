@@ -1,0 +1,33 @@
+{
+  "2b) 4K Texture Pack": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "v7.0.2",
+      "file_id": 227159,
+      "file_name": "2b) 4K Texture Pack-12680-v7-0-2-1631185062.7z",
+      "mod_id": 12680,
+      "hash": "sha256-1Ph4WY53jP5299N5b1s3qVTGVkMUc4JhcNgDrXW7e6c="
+    }
+  },
+  "2a) 2K Texture Pack": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "v7.0.2",
+      "file_id": 227165,
+      "file_name": "2a) 2K Texture Pack-12680-v7-0-2-1631187494.7z",
+      "mod_id": 12680,
+      "hash": "sha256-XC/4zXshml2cZbog2WBhcOcJ3OWhsjIYIAbTMWl8keo="
+    }
+  },
+  "1) Skyrim Immersive Creatures v7.0.2 (includes 1K Textures)": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "v7.0.2",
+      "file_id": 227169,
+      "file_name": "1) Skyrim Immersive Creatures v7.0.2 (includes 1K Textures)-12680-v7-0-2-1631188254.7z",
+      "mod_id": 12680,
+      "hash": "sha256-VuW2O2zfcjOXKbCHDm33GHnxjSsX70NBUsHQ0kvjJ3Y="
+    },
+    "type": "primary"
+  }
+}

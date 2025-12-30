@@ -1,0 +1,23 @@
+{
+  "ECD Every Cloud Different": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1b",
+      "file_id": 579679,
+      "file_name": "ECD Every Cloud Different-135728-1b-1736090248.rar",
+      "mod_id": 135728,
+      "hash": "sha256-vsyXt8Syo0WsMMeXPp2ha5d+3TSYia34ooXm0nCVVHc="
+    },
+    "type": "primary"
+  },
+  "Every Cloud Different From Dusk Till Dawn Patched": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1b",
+      "file_id": 579688,
+      "file_name": "Every Cloud Different From Dusk Till Dawn Patched-135728-1b-1736090851.rar",
+      "mod_id": 135728,
+      "hash": "sha256-wIhRMPFaylBCaQWQvTmexHVjiOLqBUtb3hmYTDErrGg="
+    }
+  }
+}

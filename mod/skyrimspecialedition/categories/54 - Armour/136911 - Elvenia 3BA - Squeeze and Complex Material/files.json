@@ -1,0 +1,55 @@
+{
+  "Elvenia Complex Squeeze": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 574619,
+      "file_name": "Elvenia Complex Squeeze-136911-1-0-1734796791.7z",
+      "mod_id": 136911,
+      "hash": "sha256-5rvt6HEm1GoWowR57W1TfMbWyN95DYwoGydSjkaVH5U="
+    },
+    "type": "primary"
+  },
+  "Elvenia Dynamic Squeeze": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 574620,
+      "file_name": "Elvenia Dynamic Squeeze-136911-1-0-1734796869.7z",
+      "mod_id": 136911,
+      "hash": "sha256-qWihKWrBWftowZHDKXH5ljBvIggEHsxfPlaqBjCMPAU="
+    },
+    "type": "primary"
+  },
+  "Elvenia Squeeze": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 574622,
+      "file_name": "Elvenia Squeeze-136911-1-0-1734796951.7z",
+      "mod_id": 136911,
+      "hash": "sha256-BYdRI4qU7tXrw4nxHXMym79nveMP9S/Nb1n/w0PBduc="
+    },
+    "type": "primary"
+  },
+  "Elvenia Regular and Dynamic Restored anim glow": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 574972,
+      "file_name": "Elvenia Regular and Dynamic Restored anim glow-136911-1-0-1734880196.rar",
+      "mod_id": 136911,
+      "hash": "sha256-J9ZklTKjbH42pR5cYIMY8sSXgMZr0tpvWSs2EL/xnJ8="
+    }
+  },
+  "Elvenia Complex Restored anim glow": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 574974,
+      "file_name": "Elvenia Complex Restored anim glow-136911-1-0-1734880389.rar",
+      "mod_id": 136911,
+      "hash": "sha256-Y9SJ2hDr3RZvdcJOYv+14Kd7wiCTRXkG7/6v+LKjEJs="
+    }
+  }
+}

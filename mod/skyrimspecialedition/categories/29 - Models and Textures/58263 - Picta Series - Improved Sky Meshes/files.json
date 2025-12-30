@@ -1,0 +1,23 @@
+{
+  "Picta Series - Improved Sky Meshes - Cathedral Version": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0.0",
+      "file_id": 240585,
+      "file_name": "Picta Series - Improved Sky Meshes - Cathedral Version-58263-1-0-0-1636653136.zip",
+      "mod_id": 58263,
+      "hash": "sha256-q2xQCy6UwlvtAeO799nyJlljMt+jviigL1tXivRzass="
+    }
+  },
+  "Picta Series - Improved Sky Meshes": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0.2",
+      "file_id": 240782,
+      "file_name": "Picta Series - Improved Sky Meshes-58263-1-0-2-1636718744.zip",
+      "mod_id": 58263,
+      "hash": "sha256-fg9G9jt9PdyigXsPYZAEIEjO/Ly+levvL49ckgBE8TI="
+    },
+    "type": "primary"
+  }
+}

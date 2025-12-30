@@ -1,0 +1,23 @@
+{
+  "Skyrim Sewers 4.14 Undeath Patch ESP": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "4.14",
+      "file_id": 79058,
+      "file_name": "Skyrim Sewers 4.14 Undeath Patch ESP-17456-4-14-1548026182.7z",
+      "mod_id": 17456,
+      "hash": "sha256-SaGfOqg1qspmhNMrUCBWkcPfswBDiLBPZJnILSuDr3c="
+    },
+    "type": "primary"
+  },
+  "Skyrim Sewers 4.14 Undeath Patch ESPFE": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "4.14",
+      "file_id": 79078,
+      "file_name": "Skyrim Sewers 4.14 Undeath Patch ESPFE-17456-4-14-1548033065.7z",
+      "mod_id": 17456,
+      "hash": "sha256-AOgGR5oJxf+73VdTT3r27X8SdZvbVYoSwopYxY3hFp8="
+    }
+  }
+}

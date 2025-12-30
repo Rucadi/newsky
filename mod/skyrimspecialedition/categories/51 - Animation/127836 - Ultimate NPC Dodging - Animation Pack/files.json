@@ -1,0 +1,24 @@
+{
+  "Ultimate NPC Dodging - 4 way Animation Pack": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 535992,
+      "file_name": "Ultimate NPC Dodging - Animation Pack-127836-1-0-1724799383.7z",
+      "mod_id": 127836,
+      "hash": "sha256-9ihJYIb5SyrJdWoyn+n95xDlUcMDKq9eNdXzt4t/PC4="
+    },
+    "type": "primary"
+  },
+  "Ultimate NPC Dodging - 8 way Animation Pack": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "2.0",
+      "file_id": 644570,
+      "file_name": "Ultimate NPC Dodging - 8 way Animation Pack-127836-2-0-1751776016.7z",
+      "mod_id": 127836,
+      "hash": "sha256-CsuOhc2uA6n9X7k40tXLG3GpctFuuRXhYhbIO4Q0mc4="
+    },
+    "type": "primary"
+  }
+}

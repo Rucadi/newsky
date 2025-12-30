@@ -1,0 +1,24 @@
+{
+  "Dwemer Cuts": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1",
+      "file_id": 552775,
+      "file_name": "Dwemer Cuts-131662-1-1729107070.7z",
+      "mod_id": 131662,
+      "hash": "sha256-9vW70Hr12LC9YOyy35rgZKN3xojJHFVLqiBap6g5W0k="
+    },
+    "type": "primary"
+  },
+  "Unisex Main File": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1",
+      "file_id": 670549,
+      "file_name": "Main File Update-131662-1-1-1759171232.zip",
+      "mod_id": 131662,
+      "hash": "sha256-srwyOAtSJaqG34jHhy5E1kDLMSwwSkuD+cWLqexYx1M="
+    },
+    "type": "primary"
+  }
+}

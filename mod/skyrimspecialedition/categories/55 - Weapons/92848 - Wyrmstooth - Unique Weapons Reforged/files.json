@@ -1,0 +1,23 @@
+{
+  "Wyrmstooth - Unique Weapons Reforged": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 395311,
+      "file_name": "Wyrmstooth - Unique Weapons Reforged-92848-1-0-1685977500.7z",
+      "mod_id": 92848,
+      "hash": "sha256-U8KxH15/i9H8ILuF/3UXk8AH4Op3oxtgv3ZIG/IOlv8="
+    },
+    "type": "primary"
+  },
+  "Legacy of the Dragonborn Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 404214,
+      "file_name": "Legacy of the Dragonborn Patch-92848-1-0-1688620447.7z",
+      "mod_id": 92848,
+      "hash": "sha256-E4bDdvJvu01RZ7eLuUkILcC/Te7UldEihElUNdpkaNI="
+    }
+  }
+}

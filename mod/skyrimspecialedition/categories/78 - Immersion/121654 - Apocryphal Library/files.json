@@ -1,0 +1,33 @@
+{
+  "Apocryphal Library - Levelled List integration": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.5",
+      "file_id": 693026,
+      "file_name": "Apocryphal Library - Levelled List integration-121654-1-5-1764531407.rar",
+      "mod_id": 121654,
+      "hash": "sha256-QseoE9MVmVuNHibP5OOr3HV6NhG6EZRHXfwCorS89nw="
+    }
+  },
+  "Apocryphal Library - Biblophile's Arcanaeum Addon": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.52",
+      "file_id": 693104,
+      "file_name": "Apocryphal Library - Biblophile's Arcanaeum Addon-121654-1-52-1764541209.rar",
+      "mod_id": 121654,
+      "hash": "sha256-IW7+H3tCRzHI7X+xn5TzHgYPMBzdSaeYnvX2GCmBLH0="
+    }
+  },
+  "Apocryphal Library": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.53",
+      "file_id": 694794,
+      "file_name": "Apocryphal Library-121654-1-53-1764974874.rar",
+      "mod_id": 121654,
+      "hash": "sha256-tr01HVKNIxaTXlxt7evdn7lESYBDiNUcnMvKaoaXvBI="
+    },
+    "type": "primary"
+  }
+}

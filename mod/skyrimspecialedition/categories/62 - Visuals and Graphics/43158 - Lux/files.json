@@ -1,0 +1,73 @@
+{
+    "Mechanicalpanda's Brighter Templates": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "1.0.1",
+            "file_id": 232292,
+            "file_name": "Mechanicalpanda's Brighter Templates-43158-1-0-1-1633253966.7z",
+            "mod_id": 43158,
+            "hash": "sha256-n/p8lcoZeugiQjLavlAkggiiwPTD4DGWhojm6u/PCdY="
+        }
+    },
+    "Tirashan personal weather ini": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "6.0.1",
+            "file_id": 366323,
+            "file_name": "Tirashan personal weather ini-43158-6-0-1-1678202884.rar",
+            "mod_id": 43158,
+            "hash": "sha256-UH69cJsHsMX9hho1tqLNXgjFvbvMZuPNSAzi+Ks4wcE="
+        }
+    },
+    "Cubemaps (lower resolution 256p)": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "6.1.1",
+            "file_id": 394527,
+            "file_name": "Cubemaps (lower resolution 256k)-43158-6-1-1-1685776204.rar",
+            "mod_id": 43158,
+            "hash": "sha256-bKolEm+dzsry/8EAgzqs8ika8gf51ez2rmdW4hO89wY="
+        }
+    },
+    "Custom vanilla fire effect meshes": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "6.4.1",
+            "file_id": 450460,
+            "file_name": "Custom vanilla fire effect meshes-43158-6-4-1-1702211536.rar",
+            "mod_id": 43158,
+            "hash": "sha256-KCRHbhCiOYLNEI4EbC9z1+iVz1poaZRjAu238fheZFI="
+        }
+    },
+    "Lux - Dwemer Templates Fog Removal": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "6.7.1",
+            "file_id": 500365,
+            "file_name": "Lux - Dwemer Templates Fog Removal-43158-6-7-1-1715510764.rar",
+            "mod_id": 43158,
+            "hash": "sha256-yaKlmektMYAwhk14xlsDN2ZxovWtpTGkxdVbiU8uLo0="
+        }
+    },
+    "Portal Strict optional plugin": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "6.9",
+            "file_id": 643156,
+            "file_name": "Portal Strict optional plugin-43158-6-9-1751352813.rar",
+            "mod_id": 43158,
+            "hash": "sha256-3ABLIyYAQHk6O1QbrZEQxcCWsD+40gEES12A23Ni+5w="
+        }
+    },
+    "Lux (main)": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "7.0",
+            "file_id": 649989,
+            "file_name": "Lux (main)-43158-7-0-1753427726.rar",
+            "mod_id": 43158,
+            "hash": "sha256-BRKET4ABDIq5o2fANcd4HnYoAwCTRaaHWebqugYQKvA="
+        },
+        "type": "primary"
+    }
+}

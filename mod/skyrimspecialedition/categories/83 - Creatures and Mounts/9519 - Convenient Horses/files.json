@@ -1,0 +1,33 @@
+{
+    "Convenient Horses Anniversary Edition Patch": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "7.1",
+            "file_id": 254231,
+            "file_name": "Convenient Horses Anniversary Edition Patch-9519-7-1-1641420567.zip",
+            "mod_id": 9519,
+            "hash": "sha256-LeerEUDmHOv5zjRFIy0Nu9jEwJUfcx6fb3nY3UxTg7U="
+        }
+    },
+    "Convenient Horses": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "7.1",
+            "file_id": 254743,
+            "file_name": "Convenient Horses-9519-7-1-1641573606.zip",
+            "mod_id": 9519,
+            "hash": "sha256-yboHUPTE/Pk79XPl5kQwphKrGqMEJLh41KwSbb/MjSI="
+        },
+        "type": "primary"
+    },
+    "Convenient Horses Special Edition Patch": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "7.1",
+            "file_id": 254744,
+            "file_name": "Convenient Horses Special Edition Patch-9519-7-1-1641573692.zip",
+            "mod_id": 9519,
+            "hash": "sha256-H/1lW7Z5VS8EW1ZYr3IOwYTAZV3rCfNIdYC+DhRxP5E="
+        }
+    }
+}

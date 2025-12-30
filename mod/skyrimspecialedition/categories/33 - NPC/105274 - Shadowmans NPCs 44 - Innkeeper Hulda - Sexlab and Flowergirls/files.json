@@ -1,0 +1,24 @@
+{
+  "shadowman_HuldaSL": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1",
+      "file_id": 444788,
+      "file_name": "shadowman_HuldaSL-105274-1-1700593734.rar",
+      "mod_id": 105274,
+      "hash": "sha256-SA8EE6XULuqOsTbrrLYt345i3Y/qLKpJXpfqus0rQEE="
+    },
+    "type": "primary"
+  },
+  "shadowman_HuldaFG": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1",
+      "file_id": 444789,
+      "file_name": "shadowman_HuldaFG-105274-1-1700593761.rar",
+      "mod_id": 105274,
+      "hash": "sha256-Jd7cxa7//znlhB17iftQENVNdkUKeHhW9s3wtM4kPzE="
+    },
+    "type": "primary"
+  }
+}

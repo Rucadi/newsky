@@ -1,0 +1,24 @@
+{
+  "Unique Weapon For Her To Use": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 480453,
+      "file_name": "Unique Weapon For Her To Use-113981-1-0-1710420465.rar",
+      "mod_id": 113981,
+      "hash": "sha256-nvB3xg9G+7C80Tv3GdXdAFQRZh4pSoq54FVpC99gzNc="
+    },
+    "type": "primary"
+  },
+  "Eydvina Buff (Boss)": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "2.0",
+      "file_id": 679583,
+      "file_name": "Eydvina Buff (Boss)-113981-2-0-1761243893.rar",
+      "mod_id": 113981,
+      "hash": "sha256-ny6jgeDL7CTIIBlMghCu7Js3NyyuS3Q+fOOepEzypzo="
+    },
+    "type": "primary"
+  }
+}

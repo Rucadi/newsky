@@ -1,0 +1,35 @@
+{
+  "Comfortable Dwemer Beds - 4k version": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 329439,
+      "file_name": "Comfortable Dwemer Beds-78256-1-0-1667711635.7z",
+      "mod_id": 78256,
+      "hash": "sha256-MJINu+YawnyuODWSCbeVceDU8fC+Mpt40vdL2/qLYo4="
+    },
+    "type": "primary"
+  },
+  "Comfortable Dwemer Beds - 2k version": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 330998,
+      "file_name": "Comfortable Dwemer Beds - 2k version-78256-1-0-1668222108.7z",
+      "mod_id": 78256,
+      "hash": "sha256-3Kz5VgRghfNkJM9oBvRtLXBxlCYM4O+FtjpvoVExgeI="
+    },
+    "type": "primary"
+  },
+  "BOS version - occupied places only": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 415153,
+      "file_name": "Comfortable Dwemer Beds - BOS version-78256-1-0-1691466851.7z",
+      "mod_id": 78256,
+      "hash": "sha256-PR1toLXeRs8q77DXgxA7OjsoWe/QThcPCnFQL+nOk68="
+    },
+    "type": "primary"
+  }
+}

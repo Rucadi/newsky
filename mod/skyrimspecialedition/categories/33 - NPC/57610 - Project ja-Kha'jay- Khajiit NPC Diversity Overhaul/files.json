@@ -1,0 +1,53 @@
+{
+  "Ohmes-Raht Male Retexture - Vanilla HP Feet": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "4.08",
+      "file_id": 503136,
+      "file_name": "Ohmes-Raht Male Retexture - Vanilla HP Feet-57610-4-08-1716218404.7z",
+      "mod_id": 57610,
+      "hash": "sha256-IN7OGMuRuer8B14SdeAxH/oD9EsLtoYxwLKN7Jz3kXU="
+    }
+  },
+  "Ohmes-Raht Male Retexture - SOS Himbo": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "4.08",
+      "file_id": 503137,
+      "file_name": "Ohmes-Raht Male Retexture - SOS Himbo-57610-4-08-1716218452.7z",
+      "mod_id": 57610,
+      "hash": "sha256-ZoUY+yy3JQBqG15+b2wd0ucu8S7NuJwbOrpD0TJUcJo="
+    }
+  },
+  "Ohmes-Raht Female Retexture - Vanilla": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "4.08",
+      "file_id": 503143,
+      "file_name": "Ohmes-Raht Female Retexture - Vanilla-57610-4-08-1716218986.7z",
+      "mod_id": 57610,
+      "hash": "sha256-ECnjqnz1DsCLRzHEyYWU37zrZcl3eH9tlV5R22PoSkA="
+    }
+  },
+  "Ohmes-Raht Female Retexture - CBBE": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "4.08",
+      "file_id": 503144,
+      "file_name": "Ohmes-Raht Female Retexture - CBBE-57610-4-08-1716219023.7z",
+      "mod_id": 57610,
+      "hash": "sha256-+V9Sb97wyK0YKsnvzamq6YUQvlTtIyYAzWbrCQE9hjA="
+    }
+  },
+  "Project ja-Kha'jay": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "4.08.1",
+      "file_id": 520523,
+      "file_name": "Project ja-Kha'jay-57610-4-08-1-1720830356.7z",
+      "mod_id": 57610,
+      "hash": "sha256-ujlJgT46qt3vesfix2Ig2mUIasTClgdLqkK64R/JHlg="
+    },
+    "type": "primary"
+  }
+}

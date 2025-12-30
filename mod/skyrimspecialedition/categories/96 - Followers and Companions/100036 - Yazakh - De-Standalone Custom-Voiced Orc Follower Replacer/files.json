@@ -1,0 +1,24 @@
+{
+  "Yazakh - De-Standalone Visual Replacer": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 423622,
+      "file_name": "Yazakh - De-Standalone Visual Replacer-100036-1-0-1693953604.rar",
+      "mod_id": 100036,
+      "hash": "sha256-cvuovThmY+/Q0pg+nW7ZTGHxWtkAVvMz9gGJ8d0mnm8="
+    },
+    "type": "primary"
+  },
+  "Borbga - De-Standalone Follower": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 423623,
+      "file_name": "Borbga - De-Standalone Follower-100036-1-0-1693953688.rar",
+      "mod_id": 100036,
+      "hash": "sha256-5JNx26x/NsqT0Pj0v/jujPWBnPN3hbhmV7uwtLgrsbk="
+    },
+    "type": "primary"
+  }
+}

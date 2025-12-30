@@ -1,0 +1,54 @@
+{
+    "FYX - 3D Shack Kit Walls": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "1.0.2",
+            "file_id": 280595,
+            "file_name": "FYX - 3D Shack Kit Walls-67123-1-0-2-1651343121.7z",
+            "mod_id": 67123,
+            "hash": "sha256-YWz3tzyFw8Qnverf9n4zL6mVhJ+RbUe/tsN91oUmymc="
+        },
+        "type": "primary"
+    },
+    "FYX - 3D Shack Kit Walls - Collision": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "1.0.2.2",
+            "file_id": 282469,
+            "file_name": "FYX - 3D Shack Kit Walls - Collision-67123-1-0-2-2-1652088026.7z",
+            "mod_id": 67123,
+            "hash": "sha256-mYjbUeU5o6VbQPoTw7lUYwv8UNyHNbIF4holt7Nhg3o="
+        },
+        "type": "primary"
+    },
+    "FYX - 3D Shack Kit Walls - BOS": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "1.0.2.2",
+            "file_id": 287199,
+            "file_name": "FYX - 3D Shack Kit Walls-67123-1-0-2-2-1653763671.zip",
+            "mod_id": 67123,
+            "hash": "sha256-kmb1NDMyEJNMi8GXW4olJaRu/n453WBtjAhNsw1dWu0="
+        }
+    },
+    "FYX - 3D Shack Kit Walls - LUX PATCH": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "1.0.2.2",
+            "file_id": 410168,
+            "file_name": "FYX - 3D Shack Kit Walls - LUX PATCH-67123-1-0-2-2-1690208998.7z",
+            "mod_id": 67123,
+            "hash": "sha256-H5PDKH0F6eaZGtxdps5AnZaB5epNPOuLNK4uFdvWA3E="
+        }
+    },
+    "FYX - 3D Shack Kit Walls - BOS - LUX PATCH": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "1.2.3",
+            "file_id": 418028,
+            "file_name": "FYX - 3D Shack Kit Walls - BOS - LUX PATCH-67123-1-2-3-1692304400.7z",
+            "mod_id": 67123,
+            "hash": "sha256-g3jT3pOOdrKS7iClNX8EoCmnK718fqP8yyEoCoR80y0="
+        }
+    }
+}

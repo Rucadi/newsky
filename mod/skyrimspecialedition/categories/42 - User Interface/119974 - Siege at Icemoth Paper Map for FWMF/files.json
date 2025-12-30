@@ -1,0 +1,24 @@
+{
+  "Siege at Icemoth Paper Map for FWMF (legacy)": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 503547,
+      "file_name": "Siege at Icemoth Paper Map for FWMF-119974-1-0-1716308248.zip",
+      "mod_id": 119974,
+      "hash": "sha256-1bsfZUD+kRiLmzfGabQKlPKfHLBbgpqS1+jhShU2tP8="
+    },
+    "type": "primary"
+  },
+  "Siege at Icemoth Paper Map for FWMF": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1.1",
+      "file_id": 559410,
+      "file_name": "Siege at Icemoth Paper Map for FWMF-119974-1-1-1-1730884500.zip",
+      "mod_id": 119974,
+      "hash": "sha256-vYGW4ik1WBMmvDiP8m9LcaA0Ps4SI8E9rFkLUvsNy+Q="
+    },
+    "type": "primary"
+  }
+}

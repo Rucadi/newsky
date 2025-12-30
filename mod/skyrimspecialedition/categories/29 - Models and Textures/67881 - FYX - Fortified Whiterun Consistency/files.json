@@ -1,0 +1,44 @@
+{
+  "FYX - Fortified Whiterun x Bells of Skyrim Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 322007,
+      "file_name": "FYX - Fortified Whiterun x Bells of Skyrim Patch-67881-1-0-1665051536.7z",
+      "mod_id": 67881,
+      "hash": "sha256-rjN+aHQh8h1FLGv0q5TC0JI40Eh8JKVy33ZbWTy7mL0="
+    }
+  },
+  "FYX - Fortified Whiterun x BoS x Lantern for Whiterun PATCH": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 323516,
+      "file_name": "FYX - Fortified Whiterun x BoS x Lantern for Whiterun PATCH-67881-1-0-1665593381.7z",
+      "mod_id": 67881,
+      "hash": "sha256-TGrGDiF0I/om8VlpbOObvaZsAFOr+GWkuYp3+4tMUe4="
+    }
+  },
+  "FYX - Fortified Whiterun Consistency": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0.8.3",
+      "file_id": 372216,
+      "file_name": "FYX - Fortified Whiterun Consistency-67881-1-0-8-3-1679834738.7z",
+      "mod_id": 67881,
+      "hash": "sha256-UmskCxr/rCE38gsRO+T//4bdN6lJBolwVUvV4phhtug="
+    },
+    "type": "primary"
+  },
+  "FYX - Fortified Whiterun Consistency - NO Jorrvaskr Watchtower Edit": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0.8.3",
+      "file_id": 372217,
+      "file_name": "FYX - Fortified Whiterun Consistency - NO Jorrvaskr Watchtower Edit-67881-1-0-8-3-1679834776.7z",
+      "mod_id": 67881,
+      "hash": "sha256-mhNm8pIqPlaCAWoMYaH3HPSsveNddJChutdQYfxq5t8="
+    },
+    "type": "primary"
+  }
+}

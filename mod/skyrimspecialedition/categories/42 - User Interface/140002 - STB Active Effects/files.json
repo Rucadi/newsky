@@ -1,0 +1,23 @@
+{
+  "STB Active Effects dev": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.2",
+      "file_id": 625752,
+      "file_name": "STB Active Effects dev-140002-1-2-1746903627.7z",
+      "mod_id": 140002,
+      "hash": "sha256-W/QEIJQZQSzHhKCZK6iJuNwt/92z0SqLHIWSI/nuFUU="
+    }
+  },
+  "STB Active Effects": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.2",
+      "file_id": 625754,
+      "file_name": "STB Active Effects-140002-1-2-1746904172.7z",
+      "mod_id": 140002,
+      "hash": "sha256-G8vGpNi6zP65OsghTcqNq1p/XXhq7m/+kvaplXg6RG4="
+    },
+    "type": "primary"
+  }
+}

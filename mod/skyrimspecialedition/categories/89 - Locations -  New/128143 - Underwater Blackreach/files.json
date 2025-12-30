@@ -1,0 +1,63 @@
+{
+  "Underwater Blackreach": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.2",
+      "file_id": 539831,
+      "file_name": "Underwater Blackreach-128143-1-2-1725747961.7z",
+      "mod_id": 128143,
+      "hash": "sha256-xQKh+xE/Vo7Ibg3B6DwhYGQDARVb+PUi2bo/9oT9zNk="
+    },
+    "type": "primary"
+  },
+  "Underwater Blackreach - Blackest Reaches Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.4",
+      "file_id": 539843,
+      "file_name": "Underwater Blackreach - Blackest Reaches Patch-128143-1-4-1725749555.7z",
+      "mod_id": 128143,
+      "hash": "sha256-pxKpC8kIgnXqogfATTlFHn4+KweKceN4+OArl2S7Fd4="
+    }
+  },
+  "Underwater Blackreach - Magical Blackreach Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1",
+      "file_id": 539860,
+      "file_name": "Underwater Blackreach - Magical Blackreach Patch-128143-1-1-1725753071.7z",
+      "mod_id": 128143,
+      "hash": "sha256-FhII38S/M8qbAFO466VJKP2UOGReCgq4g6uC2u1OlJM="
+    }
+  },
+  "Underwater Blackreach-JK Sinderion Field Lab Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 549790,
+      "file_name": "Underwater Blackreach-JK Sinderion Field Lab Patch-128143-1-0-1728260137.7z",
+      "mod_id": 128143,
+      "hash": "sha256-XggPf+B8b5Pl7hT/MswBYOmKCAjcWVHHm/T4qQ0LJws="
+    }
+  },
+  "Underwater Blackreach - Blackreach Overhaul Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1",
+      "file_id": 577127,
+      "file_name": "Underwater Blackreach - Blackreach Overhaul Patch-128143-1-1-1735442283.7z",
+      "mod_id": 128143,
+      "hash": "sha256-X9Tx5Tq6031U5+DhOcV1awwOs1ngjIylZ71gCXcr61Y="
+    }
+  },
+  "Underwater Blackreach - Blackreach Improved Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 638400,
+      "file_name": "Underwater Blackreach - Blackreach Improved Patch-128143-1-0-1750042795.7z",
+      "mod_id": 128143,
+      "hash": "sha256-7jYz0isXM1aFNZcfhyqIjGR7fVQLZ7KlLLUGDMWWJyM="
+    }
+  }
+}

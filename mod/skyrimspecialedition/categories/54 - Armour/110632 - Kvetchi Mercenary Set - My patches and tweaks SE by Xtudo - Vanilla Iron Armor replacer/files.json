@@ -1,0 +1,64 @@
+{
+  "Kvetchi Set - SE by Xtudo - 2K textures patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1",
+      "file_id": 466756,
+      "file_name": "Kvetchi Set - SE by Xtudo - 2K textures patch-110632-1-1706797591.7z",
+      "mod_id": 110632,
+      "hash": "sha256-Dg63Pg6A0bZji0LeZCruK9x71pfibrNuPzK1nCH/4UU="
+    }
+  },
+  "Kvetchi Set - SE by Xtudo - 1K textures patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1",
+      "file_id": 466757,
+      "file_name": "Kvetchi Set - SE by Xtudo - 1K textures patch-110632-1-1706797742.7z",
+      "mod_id": 110632,
+      "hash": "sha256-89IlXTQCCHjIvNigMiP/ir7s6Ljak/ld4tX8GmB5APM="
+    }
+  },
+  "Kvetchi Set - SE by Xtudo - Fixes": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.6",
+      "file_id": 573863,
+      "file_name": "Kvetchi Set - SE by Xtudo - Fixes-110632-1-6-1734609896.7z",
+      "mod_id": 110632,
+      "hash": "sha256-3oA9UY55+4j8HMCvOmeSoyntHC4uSTOSPgOpTbS80VU="
+    },
+    "type": "primary"
+  },
+  "Kvetchi Set - SE by Xtudo - Fixes - Non-HDT": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.6",
+      "file_id": 573864,
+      "file_name": "Kvetchi Set - SE by Xtudo - Fixes - Non-HDT-110632-1-6-1734609915.7z",
+      "mod_id": 110632,
+      "hash": "sha256-wFWSvmCptYBZlmhM8NNwBKUAuhqrU0Nx61y9HAYPsc0="
+    },
+    "type": "primary"
+  },
+  "Kvetchi Set - SE by Xtudo - Light Armor Addon": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.6",
+      "file_id": 573866,
+      "file_name": "Kvetchi Set - SE by Xtudo - Light Armor Addon-110632-1-6-1734609941.7z",
+      "mod_id": 110632,
+      "hash": "sha256-R175wySLNtYm6HzrSSBsXvPQDJE+JRhlfb5tzvignsU="
+    }
+  },
+  "Kvetchi Set - SE by Xtudo - Vanilla Iron Armor": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.7",
+      "file_id": 609228,
+      "file_name": "Kvetchi Set - SE by Xtudo - Vanilla Iron Armor-110632-1-7-1742822327.7z",
+      "mod_id": 110632,
+      "hash": "sha256-HWBI1YfRpiHb4u4iUBQRUy4Khlyd/YEgrN6qPf9P0hY="
+    }
+  }
+}

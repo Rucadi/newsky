@@ -1,0 +1,65 @@
+{
+    "Cubbi Follower": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "1.0",
+            "file_id": 600174,
+            "file_name": "Cubbi Follower-143163-1-0-1740778121.7z",
+            "mod_id": 143163,
+            "hash": "sha256-Xvxjt/zJMJqqb/NN2Tc32vn6aCXoxlA/ry2uwnD8T6k="
+        },
+        "type": "primary"
+    },
+    "Disable Serana Banter fix": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "1",
+            "file_id": 602300,
+            "file_name": "Disable Serana Banter fix-143163-1-1741241844.7z",
+            "mod_id": 143163,
+            "hash": "sha256-jL/tX/sqNQFwol4KWxQ09L0+v3t/J+CQS5AMEeHecvs="
+        }
+    },
+    "Cubbi Flowergirl Patch": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "1.1",
+            "file_id": 603450,
+            "file_name": "Cubbi Flowergirl Patch-143163-1-1-1741500147.7z",
+            "mod_id": 143163,
+            "hash": "sha256-lqnXr9greRkhAJbbH0fGWUSioe7PWd2A8LS7qLSt3Js="
+        }
+    },
+    "Custom Voice For Cubbi SL": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "1.4",
+            "file_id": 648268,
+            "file_name": "Custom Voice For Cubbi SL-143163-1-4-1752865790.zip",
+            "mod_id": 143163,
+            "hash": "sha256-FSo/S6s9CWeRKrsNg6+ueVyrstGXV8SA+EWIMWHhu7c="
+        },
+        "type": "primary"
+    },
+    "Custom Voice For Cubbi Ostim": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "1.4",
+            "file_id": 648376,
+            "file_name": "Custom Voice For Cubbi Ostim-143163-1-4-1752897900.zip",
+            "mod_id": 143163,
+            "hash": "sha256-+pA0WLxuMzdp7cnhBs+ScDpRGhh9s5Y5vPQS4Sd3naw="
+        },
+        "type": "primary"
+    },
+    "Cubbi Follower Body for Immersive Adult": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "1.0",
+            "file_id": 666690,
+            "file_name": "Cubbi Follower Body for Immersive Adult-143163-1-0-1758118871.7z",
+            "mod_id": 143163,
+            "hash": "sha256-4I6tttNeedF2nYIzPoWIAT8/UDIOIZcWaw+p+ouCzLU="
+        }
+    }
+}

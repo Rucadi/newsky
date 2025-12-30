@@ -1,0 +1,43 @@
+{
+  "NPC Comments and Banter Addon": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 593605,
+      "file_name": "NPC Comments and Banter Addon-141554-1-0-1739334971.7z",
+      "mod_id": 141554,
+      "hash": "sha256-w0GcOKYRa2ek2l1f2nfQuEPWlGUWG7ZeA7RbloI2BME="
+    }
+  },
+  "The Iceheart Sisters - Voiced Followers": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 593823,
+      "file_name": "The Iceheart Sisters - Voiced Followers-141554-1-0-1739381897.zip",
+      "mod_id": 141554,
+      "hash": "sha256-EceO/Hz9A59UnhWrsVkfH41kvIhFPb7ioRAAm31BXl0="
+    },
+    "type": "primary"
+  },
+  "The Iceheart Mill - Location. Quests. Player Home.": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.01",
+      "file_id": 626038,
+      "file_name": "The Iceheart Mill - Location. Quests. Player Home.-141554-1-01-1746966760.zip",
+      "mod_id": 141554,
+      "hash": "sha256-LVUf7RZN7DpBLmQ1r/zYU96Nljg9qxzVl44mRL0rQJY="
+    }
+  },
+  "The Iceheart Mill - Susannah Custom Voiced Addon": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.03",
+      "file_id": 638413,
+      "file_name": "The Iceheart Mill - Susannah Custom Voiced Addon-141554-1-03-1750047833.zip",
+      "mod_id": 141554,
+      "hash": "sha256-2dqHSwmExLai2kvobwJik53HCkwcCxrK5xnu37vxL6g="
+    }
+  }
+}

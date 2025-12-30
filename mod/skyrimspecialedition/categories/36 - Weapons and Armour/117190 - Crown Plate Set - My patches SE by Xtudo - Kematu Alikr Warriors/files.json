@@ -1,0 +1,74 @@
+{
+  "Crown Plate - SE by Xtudo - Fixes": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1",
+      "file_id": 492676,
+      "file_name": "Crown Plate - SE by Xtudo - Fixes-117190-1-1713564118.7z",
+      "mod_id": 117190,
+      "hash": "sha256-JB8HmCz28bIiOhQUXscqamtnaCJlXTHC7kMjjoZUfnQ="
+    },
+    "type": "primary"
+  },
+  "Crown Plate - SE by Xtudo - Fixes Non-HDT version": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1",
+      "file_id": 492677,
+      "file_name": "Crown Plate - SE by Xtudo - Fixes Non-HDT version-117190-1-1713564155.7z",
+      "mod_id": 117190,
+      "hash": "sha256-sUbQprmgTnYYNLgfSBf7xwuMRIszavCi+DHE+OU7IaA="
+    },
+    "type": "primary"
+  },
+  "Crown Plate - SE by Xtudo - 2K Textures": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1",
+      "file_id": 492678,
+      "file_name": "Crown Plate - SE by Xtudo - 2K Textures-117190-1-1713564193.7z",
+      "mod_id": 117190,
+      "hash": "sha256-yrJwUkBmbb+I6lxGpfmSvHyVOc683EIWmZKeMfrK0zI="
+    }
+  },
+  "Crown Plate - SE by Xtudo - 1K Textures": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1",
+      "file_id": 492679,
+      "file_name": "Crown Plate - SE by Xtudo - 1K Textures-117190-1-1713564207.7z",
+      "mod_id": 117190,
+      "hash": "sha256-0qljc2Z0GQufS325NGMeQ0G71fqgfslE7dV/SlaMl80="
+    }
+  },
+  "Crown Plate - SE by Xtudo - SPID Integration Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1",
+      "file_id": 492680,
+      "file_name": "Crown Plate - SE by Xtudo - SPID Integration Patch-117190-1-1713564273.7z",
+      "mod_id": 117190,
+      "hash": "sha256-i0CXBK8krGFAn9Dl6qdQx/ipcx9vULXSVHXmoW5NpkI="
+    }
+  },
+  "Crown Plate - SE by Xtudo - SPID Kematu patch - NH": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1",
+      "file_id": 516345,
+      "file_name": "Crown Plate - SE by Xtudo - SPID Kematu patch-117190-1-1-1719750814.7z",
+      "mod_id": 117190,
+      "hash": "sha256-4/8fM4VmXvoeYeMYM62zmAy7Q/HatGiL7ZlGC/k92TE="
+    }
+  },
+  "Crown Plate - SE by Xtudo - SPID Kematu patch - H": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1",
+      "file_id": 516629,
+      "file_name": "Crown Plate - SE by Xtudo - SPID Kematu patch - H-117190-1-1-1719833146.7z",
+      "mod_id": 117190,
+      "hash": "sha256-MFY5MhBrZWvw9x7aJdAYtbLwWtG/b7r5l3otd+yGFlE="
+    }
+  }
+}

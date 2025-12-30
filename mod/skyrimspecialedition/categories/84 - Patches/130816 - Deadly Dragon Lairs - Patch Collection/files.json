@@ -1,0 +1,134 @@
+{
+  "Deadly Dragon Lairs - Dragon Wars patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0.0",
+      "file_id": 548866,
+      "file_name": "Deadly Dragon Lairs - Dragon Wars patch-130816-1-0-0-1728011335.zip",
+      "mod_id": 130816,
+      "hash": "sha256-aEpy+Uizt25n5XKJF5E1a/07BUWb518RqldVzV6zWqI="
+    },
+    "type": "primary"
+  },
+  "Deadly Dragon Lairs - Defeat the Dragon Cult patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0.0",
+      "file_id": 548868,
+      "file_name": "Deadly Dragon Lairs - Defeat the Dragon Cult patch-130816-1-0-0-1728011370.zip",
+      "mod_id": 130816,
+      "hash": "sha256-TPCyQ4PtIZuJMiVvmWewpi+W3Aci6S5ykYYcTrpuBpM="
+    },
+    "type": "primary"
+  },
+  "Deadly Dragon Lairs - Run for your Lives patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0.0",
+      "file_id": 548873,
+      "file_name": "Deadly Dragon Lairs - Run for your Lives patch-130816-1-0-0-1728014170.zip",
+      "mod_id": 130816,
+      "hash": "sha256-+QPKwDNHEov/aEfmCON/9z0lvvt/Bs7WjgsjbAHErkA="
+    },
+    "type": "primary"
+  },
+  "Deadly Dragon Lairs - eFPS patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0.1",
+      "file_id": 548892,
+      "file_name": "Deadly Dragon Lairs - eFPS patch-130816-1-0-1-1728027948.zip",
+      "mod_id": 130816,
+      "hash": "sha256-4DCzveg2phIbacPb/hy9TpeAkBASGg71fDKPARiSZqs="
+    },
+    "type": "primary"
+  },
+  "Deadly Dragon Lairs - Lawbringer Guardsman Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1.1",
+      "file_id": 549064,
+      "file_name": "Deadly Dragon Lairs - Lawbringer Guardsman Patch-130816-1-1-1-1728082629.zip",
+      "mod_id": 130816,
+      "hash": "sha256-jV68D+dgjs3ilGeu+pSrRj1/qdgFHNw2dhtLvvRTN2U="
+    },
+    "type": "primary"
+  },
+  "Deadly Dragon Lair Locations - Better Dynamic Snow": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.2.1",
+      "file_id": 550078,
+      "file_name": "Deadly Dragon Lair Locations - Better Dynamic Snow-130816-1-2-1-1728343577.zip",
+      "mod_id": 130816,
+      "hash": "sha256-jcCACcovy+FBIQKJB7YAlYHS3NVQdu0tOe+L0a3YwhM="
+    },
+    "type": "primary"
+  },
+  "Deadly Dragon Lairs - Majestic Mountains Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.3.1",
+      "file_id": 551267,
+      "file_name": "Deadly Dragon Lairs - Majestic Mountains Patch-130816-1-3-1-1728700197.zip",
+      "mod_id": 130816,
+      "hash": "sha256-xHMQHQbPg0bPmCapdwAcQzUK9BulKYGMxxGc3QofsTg="
+    },
+    "type": "primary"
+  },
+  "Deadly Dragon Lairs - LOTD patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.3.2",
+      "file_id": 552514,
+      "file_name": "Deadly Dragon Lairs - LOTD patch-130816-1-2-2-1729043568.zip",
+      "mod_id": 130816,
+      "hash": "sha256-CHm7czR00ZHNhK918uFE4Pj3OuZt2smj18ybBvSmET0="
+    },
+    "type": "primary"
+  },
+  "Deadly Dragon Lairs - Cloaks of Skyrim patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.4.0",
+      "file_id": 577785,
+      "file_name": "Deadly Dragon Lairs - Cloaks of Skyrim patch-130816-1-4-0-1735596881.zip",
+      "mod_id": 130816,
+      "hash": "sha256-0biyk3UxQ5qdtjzCQMueH5BNkaCjuv0zDcQsHb0Safw="
+    },
+    "type": "primary"
+  },
+  "Deadly Dragon Lairs - Bowgasm patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.5.0",
+      "file_id": 592815,
+      "file_name": "Deadly Dragon Lairs - Bowgasm patch-130816-1-5-0-1739130417.zip",
+      "mod_id": 130816,
+      "hash": "sha256-Lfz7Vncc4yjjk9fuFSbUF6/NrE54u5FpW/AbPdM0+RU="
+    },
+    "type": "primary"
+  },
+  "Deadly Dragon Lairs - Cutting Room Floor patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.6.0",
+      "file_id": 595206,
+      "file_name": "Deadly Dragon Lairs - Cutting Room Floor patch-130816-1-6-1-1739657553.zip",
+      "mod_id": 130816,
+      "hash": "sha256-Ny2NedcTC/81pvsBcVdsH+5nw7La9XT/0/cF9WTBPgU="
+    },
+    "type": "primary"
+  },
+  "Deadly Dragon Lairs - Aloe and Agave patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.7.0",
+      "file_id": 615944,
+      "file_name": "Deadly Dragon Lairs - Aloe and Agave patch-130816-1-7-0-1744331178.zip",
+      "mod_id": 130816,
+      "hash": "sha256-kUnqtLnhqWNqkEzb8EQHn2I5NrLB/LUNe4wZIb/TXYo="
+    },
+    "type": "primary"
+  }
+}

@@ -1,0 +1,23 @@
+{
+    "LCHK Requiem Patch": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "1.01",
+            "file_id": 313630,
+            "file_name": "LCHK Requiem Patch-74565-1-01-1662412925.zip",
+            "mod_id": 74565,
+            "hash": "sha256-UgSM0wqAwJxCFMSR4a6nCEeBAmHXLSSgetYtC9TX920="
+        }
+    },
+    "Locked Chests Have Keys": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "1.02",
+            "file_id": 341515,
+            "file_name": "Locked Chests Have Keys-74565-1-02-1671359288.zip",
+            "mod_id": 74565,
+            "hash": "sha256-DT5Y5xCWbtfsEjrUdpVT5/FyopfJ5DYL8Y4/ovqFtOs="
+        },
+        "type": "primary"
+    }
+}

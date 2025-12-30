@@ -1,0 +1,57 @@
+{
+  "C) FYX - Black-Briar and Riftweald Manors - Restored wall moss - Parallax": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0.4",
+      "file_id": 341525,
+      "file_name": "C) FYX - Black-Briar and Riftweald Manors - Restored wall moss - Parallax-80515-1-0-4-1671360377.7z",
+      "mod_id": 80515,
+      "hash": "sha256-cYjrnwkcPJQXS+U+82s6zlLwUUDrIdCFZUeidZfzOEI="
+    },
+    "type": "primary"
+  },
+  "A) FYX - Black-Briar and Riftweald Manors": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0.4.1",
+      "file_id": 341567,
+      "file_name": "A) FYX - Black-Briar and Riftweald Manors-80515-1-0-4-1-1671369704.7z",
+      "mod_id": 80515,
+      "hash": "sha256-SJgPWNh2lpANnJdtKK5twPzAtqwIuPZUbk7odRJ/e/A="
+    },
+    "type": "primary"
+  },
+  "B) FYX - Black-Briar and Riftweald Manors - Restored wall moss - Vanilla": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0.4.1",
+      "file_id": 341568,
+      "file_name": "B) FYX - Black-Briar and Riftweald Manors - Restored wall moss - Vanilla-80515-1-0-4-1-1671369745.7z",
+      "mod_id": 80515,
+      "hash": "sha256-rVHNVKnzB7Qu9SWxupkIKnVrkYH3nGFwEYjhUVIQoXU="
+    },
+    "type": "primary"
+  },
+  "C) FYX - Black-Briar and Riftweald Manors - Restored wall moss": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0.4.1",
+      "file_id": 341569,
+      "file_name": "C) FYX - Black-Briar and Riftweald Manors - Restored wall moss-80515-1-0-4-1-1671369792.7z",
+      "mod_id": 80515,
+      "hash": "sha256-xwSuFXoysY5T3TQSnmI3aS4o2OcsTMlevvvODntBg1g="
+    },
+    "type": "primary"
+  },
+  "A) FYX - Black-Briar and Riftweald Manors - Parallax": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0.4.1",
+      "file_id": 344822,
+      "file_name": "A) FYX - Black-Briar and Riftweald Manors - Parallax-80515-1-0-4-1-1672381335.7z",
+      "mod_id": 80515,
+      "hash": "sha256-+LToLvvdwBqD809DK1eKSHWf6msLEE/EvS0MpOl7nW8="
+    },
+    "type": "primary"
+  }
+}

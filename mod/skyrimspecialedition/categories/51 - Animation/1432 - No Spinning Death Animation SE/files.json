@@ -1,0 +1,44 @@
+{
+  "No Spinning Death Animation": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.31",
+      "file_id": 9874,
+      "file_name": "No Spinning Death Animation-1432-1-31.zip",
+      "mod_id": 1432,
+      "hash": "sha256-6a1x0zYggrWadv5qZbz0uflzKlUWMleHMcK3xKD5oGY="
+    },
+    "type": "primary"
+  },
+  "No Spinning Death Animation MERGED": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.31",
+      "file_id": 9879,
+      "file_name": "No Spinning Death Animation MERGED-1432-1-31.zip",
+      "mod_id": 1432,
+      "hash": "sha256-jojHdKGhwZQJMi+ateZ26FaRtbspwMaL5zfnw8/3muY="
+    },
+    "type": "primary"
+  },
+  "No Riekling Death Pose": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.31",
+      "file_id": 9881,
+      "file_name": "No Riekling Death Pose-1432-1-31.zip",
+      "mod_id": 1432,
+      "hash": "sha256-7VOUFOcfJ5CqYdLUla5UIBoJVZbzLTpdp+Hj2948XsA="
+    }
+  },
+  "No Twitching Dragon Death Animation": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.31",
+      "file_id": 9884,
+      "file_name": "No Twitching Dragon Death Animation-1432-1-31.zip",
+      "mod_id": 1432,
+      "hash": "sha256-WFqxnNtbL+ijIPtbyeUKN57fvGI4EXMoxDF/CDyYVlg="
+    }
+  }
+}

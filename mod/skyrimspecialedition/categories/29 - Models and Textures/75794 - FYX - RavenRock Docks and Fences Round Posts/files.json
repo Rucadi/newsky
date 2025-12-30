@@ -1,0 +1,24 @@
+{
+  "FYX - RavenRock Docks and Fences Round Posts": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0.3",
+      "file_id": 318434,
+      "file_name": "FYX - RavenRock Docks and Fences Round Posts-75794-1-0-3-1663820397.7z",
+      "mod_id": 75794,
+      "hash": "sha256-MtlkJmae84HsurgLbF/ZeYk8D95nRz1wmlTTOSfBYMY="
+    },
+    "type": "primary"
+  },
+  "FYX - RavenRock Docks and Fences Round Posts - Parallax": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0.3",
+      "file_id": 318436,
+      "file_name": "FYX - RavenRock Docks and Fences Round Posts - Parallax-75794-1-0-3-1663820442.7z",
+      "mod_id": 75794,
+      "hash": "sha256-5nY7PY6/B74Y9+kK2rMjdfRzgwLeWMk0DbxGQ9hHP9I="
+    },
+    "type": "primary"
+  }
+}

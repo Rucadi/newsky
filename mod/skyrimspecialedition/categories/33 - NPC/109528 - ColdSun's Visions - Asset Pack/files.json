@@ -1,0 +1,114 @@
+{
+  "Bodyslide Presets - 3BA": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "3.0",
+      "file_id": 508670,
+      "file_name": "Bodyslide Presets - 3BA-109528-2-1-1717612990.zip",
+      "mod_id": 109528,
+      "hash": "sha256-eJX4B2uQpEFKDATr3g2DdwWhB2TZArtkF0RpHcR86jo="
+    }
+  },
+  "Visions - Body Hair Patch - 3BA-CBBE-TBD": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "3.0",
+      "file_id": 508751,
+      "file_name": "Visions - Body Hair Patch - 3BA-CBBE-TBD-109528-2-1-1717631115.zip",
+      "mod_id": 109528,
+      "hash": "sha256-UsqaUD56CcQfUEIpic2Z39O7QshCa3sG1tMhD11Zja4="
+    }
+  },
+  "Visions - Body Hair Patch - BHUNP-UNP": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "3.0",
+      "file_id": 508752,
+      "file_name": "Visions - Body Hair Patch - BHUNP-UNP-109528-2-1-1717631174.zip",
+      "mod_id": 109528,
+      "hash": "sha256-LJ7DmqVVntmiouV2c8geIl9UBnT4jFqwB3tdo4MMsUc="
+    }
+  },
+  "Visions - All Muscular Normal Maps - 3BA-CBBE-TBD": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "3.0",
+      "file_id": 516769,
+      "file_name": "Visions - All Muscular Normal Maps - 3BA-CBBE-TBD-109528-2-3-1719859096.zip",
+      "mod_id": 109528,
+      "hash": "sha256-o3O1y74rD7NVZYcC9W6UdwO1eJzE7I1vn97QAVq0wWI="
+    }
+  },
+  "Visions - All Muscular Normal Maps - BHUNP-UNP": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "3.0",
+      "file_id": 516772,
+      "file_name": "Visions - All Muscular Normal Maps - BHUNP-UNP-109528-2-3-1719859190.zip",
+      "mod_id": 109528,
+      "hash": "sha256-PZZvKBB+VxhSxA/DUQ2e65+ozfdQJ+V2lWNRnbv6zko="
+    }
+  },
+  "Visions - All Soft Normal Maps - 3BA-CBBE-TBD": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "3.0",
+      "file_id": 516773,
+      "file_name": "Visions - All Soft Normal Maps - 3BA-CBBE-TBD-109528-2-3-1719859245.zip",
+      "mod_id": 109528,
+      "hash": "sha256-gjr7wG812Os8ihaNB+tUB/H3bVRncfHXQZVQTkJKcEs="
+    }
+  },
+  "Visions - All Soft Normal Maps - BHUNP-UNP": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "3.0",
+      "file_id": 516774,
+      "file_name": "Visions - All Soft Normal Maps - BHUNP-UNP-109528-2-3-1719859308.zip",
+      "mod_id": 109528,
+      "hash": "sha256-ve0XEde0epyXFUCCeMp4a11ObWS+5VG1WiiohA5C/Pw="
+    }
+  },
+  "ColdSun's Visions - Assets - 3BA-CBBE-TBD": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "3.0",
+      "file_id": 613450,
+      "file_name": "ColdSun's Visions - Assets - 3BA-CBBE-TBD-109528-3-0-1743700827.zip",
+      "mod_id": 109528,
+      "hash": "sha256-ggydUtq12rAgFf5BoJjD5NrOvSrns6E4vnE1Lrb7rMo="
+    },
+    "type": "primary"
+  },
+  "ColdSun's Visions - Assets - BHUNP-UNP": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "3.0",
+      "file_id": 613451,
+      "file_name": "ColdSun's Visions - Assets - BHUNP-UNP-109528-3-0-1743700887.zip",
+      "mod_id": 109528,
+      "hash": "sha256-OXzyCMI4/WPJbfgrummfdAxfOfr/fW3wXy1kkGIxlks="
+    },
+    "type": "primary"
+  },
+  "Visions - Glossy Skin Patch - 3BA-CBBE-TBD": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "3.0",
+      "file_id": 613452,
+      "file_name": "Visions - Glossy Skin Patch - 3BA-CBBE-TBD-109528-3-0-1743701076.zip",
+      "mod_id": 109528,
+      "hash": "sha256-IqqBzhlsWxTv3KgoiBaWFxWmPHCAF8q15o6u/4S8e4M="
+    }
+  },
+  "Visions - Glossy Skin Patch - BHUNP-UNP": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "3.0",
+      "file_id": 613453,
+      "file_name": "Visions - Glossy Skin Patch - BHUNP-UNP-109528-3-0-1743701148.zip",
+      "mod_id": 109528,
+      "hash": "sha256-yjaPzWYKrN/bAU26732jwZZwhl4tzpWgpIthmMYjGJY="
+    }
+  }
+}

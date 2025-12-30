@@ -1,0 +1,23 @@
+{
+  "Tinraa - Bikini Maiden - CBBE 3BA": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 563365,
+      "file_name": "Tinraa - Bikini Maiden - CBBE 3BA-134218-1-0-1731873615.7z",
+      "mod_id": 134218,
+      "hash": "sha256-keb1chgJEEUUUb1wPPDApPDFICsqMaQqxTWJnqCwigk="
+    },
+    "type": "primary"
+  },
+  "Tinraa - Bikini Maiden - CBBE 3BA - for OBody": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0O",
+      "file_id": 563563,
+      "file_name": "Tinraa - Bikini Maiden - CBBE 3BA - for OBody-134218-1-0O-1731919007.7z",
+      "mod_id": 134218,
+      "hash": "sha256-ouBngnfBuO4WF069fZm7alxDHnpI2kgIl+W0LIZBVec="
+    }
+  }
+}

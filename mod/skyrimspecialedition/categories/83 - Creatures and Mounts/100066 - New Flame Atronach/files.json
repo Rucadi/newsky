@@ -1,0 +1,23 @@
+{
+  "2-4k. New Flame Atronach": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0.0",
+      "file_id": 423733,
+      "file_name": "2-4k. New Flame Atronach-100066-1-0-0-1694002550.zip",
+      "mod_id": 100066,
+      "hash": "sha256-vk5nUCbNSRqq9Jl/kIY6/V0MTw5rSmMA+ijkmgrrhiw="
+    },
+    "type": "primary"
+  },
+  "1-2k. New Flame Atronach": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0.0",
+      "file_id": 423734,
+      "file_name": "1-2k. New Flame Atronach-100066-1-0-0-1694002585.zip",
+      "mod_id": 100066,
+      "hash": "sha256-TaD/7DWDayjMjHG1U+9sRd/vHS85c2v6T5ZKW/oHoa8="
+    }
+  }
+}

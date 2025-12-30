@@ -1,0 +1,23 @@
+{
+  "Armor of Namira (Render Version)": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.00",
+      "file_id": 570127,
+      "file_name": "Armor of Namira (Render Version)-135848-1-00-1733615762.zip",
+      "mod_id": 135848,
+      "hash": "sha256-woev215/Pg/BLqXKW89QzF6VtRnL5llsNkGXATGvz5c="
+    },
+    "type": "primary"
+  },
+  "Render 2k": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.00",
+      "file_id": 570128,
+      "file_name": "Render 2k-135848-1-00-1733615869.zip",
+      "mod_id": 135848,
+      "hash": "sha256-Avsauw8Pl0Q3ii0kDYbxOm8xQvDMot+trNLPPyyCMfY="
+    }
+  }
+}

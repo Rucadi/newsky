@@ -1,0 +1,23 @@
+{
+  "Complex Material Meshes": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "2.3b",
+      "file_id": 583899,
+      "file_name": "Complex Material Meshes-126808-2-3b-1737004690.rar",
+      "mod_id": 126808,
+      "hash": "sha256-vUjj5+Vc2KkhYbPonOR8DRtpZs6eRfhqwmKtLxqGpUI="
+    }
+  },
+  "Skyland Bits and Bobs Complex Material": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "3.0",
+      "file_id": 594400,
+      "file_name": "Skyland Bits and Bobs Complex Material-126808-3-0-1739510267.rar",
+      "mod_id": 126808,
+      "hash": "sha256-Iu7RfD13mbqdm9oaGtXl7LP/vPOrhwPSbsDwWp70HKc="
+    },
+    "type": "primary"
+  }
+}

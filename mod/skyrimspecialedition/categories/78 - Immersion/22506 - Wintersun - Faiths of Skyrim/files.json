@@ -1,0 +1,23 @@
+{
+    "Wintersun - VR Patch": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "3.1.6",
+            "file_id": 163788,
+            "file_name": "Wintersun - VR Patch-22506-3-1-6-1601751685.zip",
+            "mod_id": 22506,
+            "hash": "sha256-Re/RCF/RT7UzPxsNIBeP60nfjKLVSDNHjW3IvQeAUlM="
+        }
+    },
+    "Wintersun 3.2.0": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "3.2.0",
+            "file_id": 209568,
+            "file_name": "Wintersun 3.2.0-22506-3-2-0-1623934121.zip",
+            "mod_id": 22506,
+            "hash": "sha256-jeh4NuQ0fiJPZD1lBTyKVs7Sug7A/rjpnE9DNQXVh7Y="
+        },
+        "type": "primary"
+    }
+}

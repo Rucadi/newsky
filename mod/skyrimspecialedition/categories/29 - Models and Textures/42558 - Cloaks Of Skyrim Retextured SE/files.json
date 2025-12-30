@@ -1,0 +1,46 @@
+{
+  "Cloaks Of Skyrim Retextured 4k": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 170807,
+      "file_name": "Cloaks Of Skyrim Retextured 4k-42558-1-0-1605820441.7z",
+      "mod_id": 42558,
+      "hash": "sha256-PbpapRzJGTOiOrdRrIQQVe+R300UrKQvdU/f4zyvvZU="
+    },
+    "type": "primary"
+  },
+  "Cloaks Of Skyrim Retextured 2k": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 170809,
+      "file_name": "Cloaks Of Skyrim Retextured 2k-42558-1-0-1605820625.7z",
+      "mod_id": 42558,
+      "hash": "sha256-UgD56l5KnWSwXfPnL8kMU9Hp547WUOSOTuV2KfydbKs="
+    },
+    "type": "primary"
+  },
+  "Cloaks Of Skyrim Retextured 1k": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 170810,
+      "file_name": "Cloaks Of Skyrim Retextured 1k-42558-1-0-1605820742.7z",
+      "mod_id": 42558,
+      "hash": "sha256-2VeCNs3U04DNUWcr7V2KlmfUDEYUp69j1jOahwRiRXU="
+    },
+    "type": "primary"
+  },
+  "Cloaks Of Skyrim Retextured 512": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 170811,
+      "file_name": "Cloaks Of Skyrim Retextured 512-42558-1-0-1605820782.7z",
+      "mod_id": 42558,
+      "hash": "sha256-t8q1BGyXxZNvOgd6iko2xYXxn9/+IdFTNHQEYn/sxIk="
+    },
+    "type": "primary"
+  }
+}

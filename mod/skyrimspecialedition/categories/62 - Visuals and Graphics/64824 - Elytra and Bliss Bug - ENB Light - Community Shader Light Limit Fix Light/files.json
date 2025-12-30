@@ -1,0 +1,24 @@
+{
+  "Elytra and Bliss Bug ENB Light - Non-Scrambled Bugs Version": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "0.4",
+      "file_id": 273400,
+      "file_name": "Elytra and Bliss Bug ENB Light - Non-Scrambled Bugs Version-64824-0-4-1648518442.7z",
+      "mod_id": 64824,
+      "hash": "sha256-iUMXgj1DQHLY9RWrhE67GQiey/l+7vRFQ+EU6gi8T3c="
+    },
+    "type": "primary"
+  },
+  "Elytra and Bliss Bug ENB Light - Scrambled Bugs Version": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "0.4",
+      "file_id": 273401,
+      "file_name": "Elytra and Bliss Bug ENB Light - Scrambled Bugs Version-64824-0-4-1648518498.7z",
+      "mod_id": 64824,
+      "hash": "sha256-0JviLk6vlcVJiScqvuA7Z+nQNglrs0Qzqa7ekoU8PcU="
+    },
+    "type": "primary"
+  }
+}

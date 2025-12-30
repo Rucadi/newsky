@@ -1,0 +1,23 @@
+{
+  "Export plugins xEdit script": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0.1",
+      "file_id": 645524,
+      "file_name": "Export plugins xEdit script-107676-1-0-1-1752053232.7z",
+      "mod_id": 107676,
+      "hash": "sha256-VxQK/2mZAeUo0b7tK+sFNMe73dxCN/1KGz3OeV7v320="
+    }
+  },
+  "Dynamic String Distributor": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.3.1",
+      "file_id": 697660,
+      "file_name": "Dynamic String Distributor-107676-1-3-1-1765658342.7z",
+      "mod_id": 107676,
+      "hash": "sha256-pjZH9p3f4ae9ry4J9kfCcy6lJ8u1JnwdDERW0Uda/nE="
+    },
+    "type": "primary"
+  }
+}

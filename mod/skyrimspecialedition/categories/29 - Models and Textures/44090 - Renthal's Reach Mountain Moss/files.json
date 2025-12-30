@@ -1,0 +1,34 @@
+{
+    "Renthal's Reach Mountain Moss": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "1.0",
+            "file_id": 178148,
+            "file_name": "Renthal's Reach Mountain Moss-44090-1-0-1610027766.7z",
+            "mod_id": 44090,
+            "hash": "sha256-K4cJ7mfPPzea+UIX/7sTnOfX3Qd2smut9EwfFhE49xI="
+        },
+        "type": "primary"
+    },
+    "Renthal's Reach Mountain Moss Desaturated": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "1.0",
+            "file_id": 178151,
+            "file_name": "Renthal's Reach Mountain Moss Desaturated-44090-1-0-1610032216.7z",
+            "mod_id": 44090,
+            "hash": "sha256-zup6o80lOG6lVucp1MigR2gLRuz1FJftBgv1Asy45GE="
+        },
+        "type": "primary"
+    },
+    "Reach moss no plant": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "1.0",
+            "file_id": 178440,
+            "file_name": "Reach moss no plant-44090-1-0-1610144673.7z",
+            "mod_id": 44090,
+            "hash": "sha256-cJMEdmqcdDb3eD4obkRaQzkQB9VFfEuqES53WslU/T0="
+        }
+    }
+}

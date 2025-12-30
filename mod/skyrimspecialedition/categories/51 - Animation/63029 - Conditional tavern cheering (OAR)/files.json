@@ -1,0 +1,23 @@
+{
+    "CTC patch for More Noemic Drink Animations SE for All_V2": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "1.0.1",
+            "file_id": 331442,
+            "file_name": "CTC patch for More Noemic Drink Animations SE for All_V2-63029-1-0-1-1668344001.zip",
+            "mod_id": 63029,
+            "hash": "sha256-lm6ZdIDBV3WIYhxHkTQt80UQ12L28UFaxCegBiaov/A="
+        }
+    },
+    "Conditional Tavern Cheering (OAR)": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "1.3.0",
+            "file_id": 463033,
+            "file_name": "Conditional Tavern Cheering (OAR)-63029-1-3-0-1705710145.zip",
+            "mod_id": 63029,
+            "hash": "sha256-EagmWdU+3tCRkTGBFXxI7F65qThYJTkUjp+JrgdLOfY="
+        },
+        "type": "primary"
+    }
+}

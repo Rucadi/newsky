@@ -1,0 +1,24 @@
+{
+  "Mephala's Curse CORE - Wintersun": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 555559,
+      "file_name": "Mephala's Curse CORE - Wintersun-132333-1-0-1729910698.7z",
+      "mod_id": 132333,
+      "hash": "sha256-/5N3aegjh4a+tE7JhLcX8jeTFMHEeVVZ9nUwvcqknmE="
+    },
+    "type": "primary"
+  },
+  "Mephala's Curse STRESS - Wintersun": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 555560,
+      "file_name": "Mephala's Curse STRESS - Wintersun-132333-1-0-1729910740.7z",
+      "mod_id": 132333,
+      "hash": "sha256-3U9+P/9TUG429HhANqhUgp4D/OGy2aNNeHaHV3Kh8xM="
+    },
+    "type": "primary"
+  }
+}

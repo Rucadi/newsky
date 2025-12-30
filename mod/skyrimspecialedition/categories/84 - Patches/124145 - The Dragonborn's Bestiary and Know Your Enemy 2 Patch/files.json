@@ -1,0 +1,24 @@
+{
+  "The Dragonborn's Bestiary and KYE2 Patch FULL": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "2.0.1",
+      "file_id": 528203,
+      "file_name": "The Dragonborn's Bestiary and KYE2 Patch FULL-124145-2-0-1-1722783398.7z",
+      "mod_id": 124145,
+      "hash": "sha256-FcKbv2AqeV46as+CNt3l6en4NjJF7LRRuIGtV27wYAU="
+    },
+    "type": "primary"
+  },
+  "The Dragonborn's Bestiary and KYE2 Patch - Lite": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "2.02",
+      "file_id": 677428,
+      "file_name": "The Dragonborn's Bestiary and KYE2 Patch - Lite-124145-2-02-1760808814.zip",
+      "mod_id": 124145,
+      "hash": "sha256-7M8Rgn8b8SqTG+vXbIqwdAr80AF1luwRHy2+3q5nlKw="
+    },
+    "type": "primary"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "Fully Harvest Hanging Carcasses and Coin Purses RU": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.10",
+      "file_id": 680947,
+      "file_name": "Fully Harvest Hanging Carcasses and Coin Purses RU-86751-1-10-1761562369.7z",
+      "mod_id": 86751,
+      "hash": "sha256-spWoqxeLr8zpHgyw2ojaSEc1KnqC/NRIRa0EXNVANXA="
+    }
+  },
+  "Fully Harvest Hanging Carcasses and Coin Purses": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.10",
+      "file_id": 680948,
+      "file_name": "Fully Harvest Hanging Carcasses and Coin Purses-86751-1-10-1761562403.7z",
+      "mod_id": 86751,
+      "hash": "sha256-88+7KAcysJmosWMg+rdELutyoSPmAGGnOjhLdLZrNXg="
+    },
+    "type": "primary"
+  }
+}

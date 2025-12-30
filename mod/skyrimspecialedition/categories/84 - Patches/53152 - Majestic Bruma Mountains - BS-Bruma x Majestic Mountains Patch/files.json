@@ -1,0 +1,24 @@
+{
+  "Majestic Mountains - Bruma Patch - Main File or Lightside": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "2.0",
+      "file_id": 304773,
+      "file_name": "Majestic Mountains - Bruma Patch-53152-2-0-1659705561.rar",
+      "mod_id": 53152,
+      "hash": "sha256-aXsJ33u8u605JWyEL6wQIi/+YSxuV/QaKs44K7TtXI4="
+    },
+    "type": "primary"
+  },
+  "Majestic Mountains - Bruma Patch - Main File or Darkside": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "2.0",
+      "file_id": 306309,
+      "file_name": "Majestic Mountains - Bruma Patch - Darkside-53152-2-0-1660136529.rar",
+      "mod_id": 53152,
+      "hash": "sha256-vJ+7tGh3lY2/O6SNSeTz+sF20WT6zbSDojxhXQLq+2I="
+    },
+    "type": "primary"
+  }
+}

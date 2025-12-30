@@ -1,0 +1,44 @@
+{
+  "WWE - HalfMoonCreek Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0.1",
+      "file_id": 533476,
+      "file_name": "WWE - HalfMoonCreek Patch-126073-1-0-1-1724160509.7z",
+      "mod_id": 126073,
+      "hash": "sha256-7ub1iCZPTz+DpuwFaWW0Ps/d5Y6ht+cpnzmk513vfEo="
+    }
+  },
+  "WAVY Waterfalls Effect": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.3.0",
+      "file_id": 534506,
+      "file_name": "WAVY Waterfalls Effect-126073-1-3-0-1724425048.7z",
+      "mod_id": 126073,
+      "hash": "sha256-Su37BZmGxlyPiURdG5lJI5AY4dDt/PHNc/8yJ7Jw1Zg="
+    },
+    "type": "primary"
+  },
+  "WAVY Waterfalls Effect - ESL": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.3.0",
+      "file_id": 534507,
+      "file_name": "WAVY Waterfalls Effect - ESL-126073-1-3-0-1724425078.7z",
+      "mod_id": 126073,
+      "hash": "sha256-yoY0iNAPyDvtolKkjsTKjimATyX2P6+kZr/tq8BkTUg="
+    },
+    "type": "primary"
+  },
+  "WAVY Waterfalls Effect - Alt Refractin  Ring": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0.1",
+      "file_id": 534508,
+      "file_name": "WAVY Waterfalls Effect - Alt Refractin  Ring-126073-1-0-1-1724425113.7z",
+      "mod_id": 126073,
+      "hash": "sha256-GITjb7FffV2VIDsDTC8AnFEV8fmttP0MW9S7PSuDDho="
+    }
+  }
+}

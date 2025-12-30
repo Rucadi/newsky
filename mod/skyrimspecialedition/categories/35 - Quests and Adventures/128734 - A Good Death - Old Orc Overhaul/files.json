@@ -1,0 +1,74 @@
+{
+  "Old Orc Overhaul - Children of the Pariah Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 540477,
+      "file_name": "Old Orc Overhaul - Children of the Pariah Patch-128734-1-0-1725904831.zip",
+      "mod_id": 128734,
+      "hash": "sha256-B2TN0zrcVG3xQu2LzmP4fRdcH9/+CBUulVBMubTo0qI="
+    }
+  },
+  "A Good Death - Default Face NPCs Fixed": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 540478,
+      "file_name": "A Good Death - Default Face NPCs Fixed-128734-1-0-1725904898.zip",
+      "mod_id": 128734,
+      "hash": "sha256-TLJa2b8nFPE5f98WHXYKlHfHaT0pqgMJm774kTpJ3xs="
+    }
+  },
+  "Old Orc Overhaul - Ultra Enemy": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 540479,
+      "file_name": "Old Orc Overhaul - Ultra Enemy-128734-1-0-1725905087.rar",
+      "mod_id": 128734,
+      "hash": "sha256-BbSgIeHoe+Ba34q8KbZ/uhhKaJlghyAEbgGwBVnUs0k="
+    }
+  },
+  "Old Orc Overhaul and Morrowloot Ultimate": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 606469,
+      "file_name": "Old Orc Overhaul and Morrowloot Ultimate-128734-1-0-1742163249.7z",
+      "mod_id": 128734,
+      "hash": "sha256-lEBX4DKb+NGgjE5DMxDehO/joKYwoaBwPk47z8PLHl0="
+    }
+  },
+  "Old Orc Overhaul and Follower Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0.1",
+      "file_id": 611110,
+      "file_name": "Old Orc Overhaul and Follower Patch-128734-1-0-1-1743204090.7z",
+      "mod_id": 128734,
+      "hash": "sha256-yOyoPm+5W3H7B3cNey/0XcrC2iuNDwTcWDN4XZoImmU="
+    }
+  },
+  "A Good Death - Old Orc Overhaul": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0.2",
+      "file_id": 649964,
+      "file_name": "A Good Death - Old Orc Overhaul-128734-1-0-2-1753411913.zip",
+      "mod_id": 128734,
+      "hash": "sha256-59ixQnYtrrt9O65Va0hC2885jiEw2QvcSD1uLLTMCzQ="
+    },
+    "type": "primary"
+  },
+  "A Good Death - ESL - Pig Iron Req": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0.2",
+      "file_id": 650082,
+      "file_name": "A Good Death - ESL - Pig Iron Req-128734-1-0-2-1753456600.zip",
+      "mod_id": 128734,
+      "hash": "sha256-10QdVQvNsP1FobxXzRm9KezLaCwvZGqt7bPlCl1MC4A="
+    },
+    "type": "primary"
+  }
+}

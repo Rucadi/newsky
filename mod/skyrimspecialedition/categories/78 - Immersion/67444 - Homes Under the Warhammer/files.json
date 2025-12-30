@@ -1,0 +1,68 @@
+{
+  "Bloodchill Manor": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0.0",
+      "file_id": 291439,
+      "file_name": "Bloodchill Manor-67444-1-0-0-1655328888.7z",
+      "mod_id": 67444,
+      "hash": "sha256-qSgy2lSTIemGtxNE4fBB5RfBzamuEMcmCEYnYC59BIs="
+    },
+    "type": "primary"
+  },
+  "Gallows Hall": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0.0",
+      "file_id": 291440,
+      "file_name": "Gallow Hall-67444-1-0-0-1655328908.7z",
+      "mod_id": 67444,
+      "hash": "sha256-77eNT6sjgx688ZPToPIBuDQTNKvJGuE26FaNXJvaKN4="
+    },
+    "type": "primary"
+  },
+  "Hendraheim": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0.0",
+      "file_id": 291441,
+      "file_name": "Hendraheim-67444-1-0-0-1655328946.7z",
+      "mod_id": 67444,
+      "hash": "sha256-9uMDLKANRyKMnWIE8wDjKy6xDmhX0BTUsO3PtTajl4Q="
+    },
+    "type": "primary"
+  },
+  "Myrwatch (Requires Fishing)": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0.0",
+      "file_id": 291442,
+      "file_name": "Myrwatch (Requires Fishing)-67444-1-0-0-1655328974.7z",
+      "mod_id": 67444,
+      "hash": "sha256-CPHGlTrJMZFflzVDXDY2DGsdjjklCYw8WGjE6A3iFJw="
+    },
+    "type": "primary"
+  },
+  "Shadowfoot Sanctum": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0.0",
+      "file_id": 291443,
+      "file_name": "Shadowfoot Sanctum-67444-1-0-0-1655328995.7z",
+      "mod_id": 67444,
+      "hash": "sha256-C/Mlb2zQvVamA2INXkBjTFzASw2V57JbcXX3MPNJ+aU="
+    },
+    "type": "primary"
+  },
+  "Tundra Homestead": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0.0",
+      "file_id": 291444,
+      "file_name": "Tundra Homestead-67444-1-0-0-1655329015.7z",
+      "mod_id": 67444,
+      "hash": "sha256-dqdTsvNa91iLrlb/3JI2S3DcS9tpUkgTTh+Kyr4Msm8="
+    },
+    "type": "primary"
+  }
+}

@@ -1,0 +1,33 @@
+{
+    "Patch for Apothecary's Ethereal Potions": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "1.10",
+            "file_id": 519935,
+            "file_name": "Patch for Apothecary's Ethereal Potions-91480-1-10-1720703170.zip",
+            "mod_id": 91480,
+            "hash": "sha256-67Gz0syHpGwSNKr5chjwqtWyKR9icScsteZPdcrvWSo="
+        }
+    },
+    "Bow of Shadows (CC) - Invisibility Patch": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "1.11",
+            "file_id": 535127,
+            "file_name": "Bow of Shadows (CC) - Invisibility Patch-91480-1-11-1724586673.zip",
+            "mod_id": 91480,
+            "hash": "sha256-Aq8va7wdQRuIn9Of8P3Pmk1m9UYpp1++DAyCPbKVkNY="
+        }
+    },
+    "NPCs React To Invisibility": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "1.11",
+            "file_id": 535128,
+            "file_name": "NPCs React To Invisibility-91480-1-11-1724586730.zip",
+            "mod_id": 91480,
+            "hash": "sha256-OSqVfrBg6AWXIKoj0UadcSOsIero4iiYaTq+WQiqV5U="
+        },
+        "type": "primary"
+    }
+}

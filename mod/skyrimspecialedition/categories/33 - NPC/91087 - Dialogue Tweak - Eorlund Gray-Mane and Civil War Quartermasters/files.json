@@ -1,0 +1,24 @@
+{
+  "Dialogue Tweak - Civil War Quartermasters": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 387039,
+      "file_name": "Dialogue Tweak - Civil War Quartermasters-91087-1-0-1683819684.7z",
+      "mod_id": 91087,
+      "hash": "sha256-8qowKYWo1uYuOkdH327fj6qCivfLFOKSfRWbF6dLvPQ="
+    },
+    "type": "primary"
+  },
+  "Dialogue Tweak - Eorlund Gray-Mane": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 387042,
+      "file_name": "Dialogue Tweak - Eorlund Gray-Mane-91087-1-0-1683819739.7z",
+      "mod_id": 91087,
+      "hash": "sha256-odnp8GnhzIp41SkQetynUiaK0A8TrmH0ov8jgCPXUeI="
+    },
+    "type": "primary"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "Dragon Priest Hood Variants": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0.1",
+      "file_id": 516687,
+      "file_name": "Dragon Priest Hood Variants-123043-1-0-1-1719846772.7z",
+      "mod_id": 123043,
+      "hash": "sha256-N8xpAxqj1tFbUCE1cD24iLBjjyGo4tw4RKlSpDH1G64="
+    },
+    "type": "primary"
+  },
+  "Dragon Priest Hood Variants - Half Res": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0.1",
+      "file_id": 516688,
+      "file_name": "Dragon Priest Hood Variants - Half Res-123043-1-0-1-1719846846.7z",
+      "mod_id": 123043,
+      "hash": "sha256-KnAC3uX+hnh5ZObStm/lV6xvHnoK+1JOS77kyej9tSQ="
+    }
+  }
+}

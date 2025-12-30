@@ -1,0 +1,24 @@
+{
+  "Delayed Missing in Action": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 283002,
+      "file_name": "Delayed Missing in Action-67893-1-0-1652306025.7z",
+      "mod_id": 67893,
+      "hash": "sha256-4btKDy5n4p6yhdCgLEpbEn+ZuX95eGG3mMkeOjQrc7g="
+    },
+    "type": "primary"
+  },
+  "Delayed Missing in Action - Level 20": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 283032,
+      "file_name": "Delayed Missing in Action - Level 20-67893-1-0-1652312681.7z",
+      "mod_id": 67893,
+      "hash": "sha256-ocPX0fqEJjri6b2/DGLwReQ2mPidB7k8j6Y6cyr16yM="
+    },
+    "type": "primary"
+  }
+}

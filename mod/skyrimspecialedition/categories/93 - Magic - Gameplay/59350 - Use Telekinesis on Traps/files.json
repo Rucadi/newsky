@@ -1,0 +1,24 @@
+{
+  "Use Telekinesis on Traps - spell edit version": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "0.2",
+      "file_id": 245998,
+      "file_name": "Use Telekinesis on Traps-59350-0-2-1638428021.7z",
+      "mod_id": 59350,
+      "hash": "sha256-cBrVmLDFYNtiR1WAa2OnhkANKtSKGoKjJ5+yyQ+Bjc8="
+    },
+    "type": "primary"
+  },
+  "Use Telekinesis on Traps - po3's Papyrus Extender Version": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "0.2.3",
+      "file_id": 246095,
+      "file_name": "Use Telekinesis on Traps - po3's Papyrus Extender Version-59350-0-2-3-1638465335.7z",
+      "mod_id": 59350,
+      "hash": "sha256-WY2mEEFMTdAXx/JinTUKlJf0TgJQDhXGiFNmTbJesNk="
+    },
+    "type": "primary"
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "FPCAO2- SIZE MATTERS SE FOMOD": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "2.0",
+      "file_id": 183712,
+      "file_name": "FPCAO2- SIZE MATTERS SE FOMOD-45177-1-0-1612355596.zip",
+      "mod_id": 45177,
+      "hash": "sha256-w6t9e6/VGR+ZEqREL3xG8bzK8TQOH8Bf0EPkv39ioEE="
+    },
+    "type": "primary"
+  },
+  "FPCAO2 - SIZE MATTERS SE ALL-IN-ONE 2.01": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "2.01",
+      "file_id": 184857,
+      "file_name": "FPCAO2 - SIZE MATTERS SE ALL-IN-ONE 2.01-45177-2-01-1612846122.zip",
+      "mod_id": 45177,
+      "hash": "sha256-JzkaTWkiSJ/a84d3giB5H7TGab0ki2tVUwG120ubWHU="
+    },
+    "type": "primary"
+  },
+  "FPCAO2 - Katana Only 2.01": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "2.01",
+      "file_id": 184858,
+      "file_name": "FPCAO2 - Katana Only 2.01-45177-2-01-1612846313.zip",
+      "mod_id": 45177,
+      "hash": "sha256-RkdhD/RPm3LAld4nXSO3DdHuWTWssRSltSnS1CN9U+w="
+    }
+  }
+}

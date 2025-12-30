@@ -1,0 +1,83 @@
+{
+  "NO_ Skyrim_Distant_Ships": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 547810,
+      "file_name": "NO_ Skyrim_Distant_Ships-130563-1-0-1727721768.7z",
+      "mod_id": 130563,
+      "hash": "sha256-shhECRLKUqHycGdVBy9LlHNXYsXDxC/8BF4G0OD9fdc="
+    }
+  },
+  "NO_ Skyrim_Lava": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 547811,
+      "file_name": "NO_ Skyrim_Lava-130563-1-0-1727721800.7z",
+      "mod_id": 130563,
+      "hash": "sha256-Jurov8RaSLyCIMd2A4DkoVMLCCOE8SyrbaN9TZtBil8="
+    }
+  },
+  "NO_ Solstheim_Distant_Ships": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 547813,
+      "file_name": "NO_ Solstheim_Distant_Ships-130563-1-0-1727721838.7z",
+      "mod_id": 130563,
+      "hash": "sha256-0nXgNwqduFQrnuEMTeBF0xuhxq4DKu6drOmJh1G4u28="
+    }
+  },
+  "NO_ Solstheim_Lava": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 547814,
+      "file_name": "NO_ Solstheim_Lava-130563-1-0-1727721881.7z",
+      "mod_id": 130563,
+      "hash": "sha256-2A4JpMsaBTzI7PUTpfGb7vwtigSwZZX4RAncVRG/Mrk="
+    }
+  },
+  "2K_Lava_Textures": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 547848,
+      "file_name": "2K_Lava_Textures-130563-1-0-1727731112.7z",
+      "mod_id": 130563,
+      "hash": "sha256-fNQsQAjwrbE7WV8qBKOIuDY5MK3SAMqfzlYHmndrREA="
+    }
+  },
+  "Subtleties of Skyrim": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1",
+      "file_id": 549146,
+      "file_name": "Subtleties of Skyrim-130563-1-1-1728105366.7z",
+      "mod_id": 130563,
+      "hash": "sha256-MShztWtzS3YvTQPIR2PS2Ya3hVlElBURwLQxWJ6V1tc="
+    },
+    "type": "primary"
+  },
+  "NO_ Vvardenfell_Mushroom": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 549148,
+      "file_name": "NO_ Vvardenfell_Mushroom-130563-1-0-1728105575.7z",
+      "mod_id": 130563,
+      "hash": "sha256-nbd/CCnTeSewkNXUqxhWJdRjgb+AgAw1xolQcWPQ6BY="
+    }
+  },
+  "WTT_Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1",
+      "file_id": 549310,
+      "file_name": "WTT_Patch-130563-1-1-1728145013.7z",
+      "mod_id": 130563,
+      "hash": "sha256-jnpq7x1SaLr4qWUH6/wzVriBjlaULfVB1rGqdEw8ga0="
+    }
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "4K Textures": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 536132,
+      "file_name": "4K Textures-127852-1-0-1724849277.zip",
+      "mod_id": 127852,
+      "hash": "sha256-tn9YM0GO5xN4mp1w8Da2y2xfNC+WO3nK5XPRZjtGYWQ="
+    }
+  },
+  "2K Textures": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 536140,
+      "file_name": "2K Textures-127852-1-0-1724850800.zip",
+      "mod_id": 127852,
+      "hash": "sha256-Hi26fFVk9l5YqebI/+DnI0O7odQCdLt2COv7A53ENxo="
+    }
+  },
+  "Armors of Dragon Champion 3BA": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 536150,
+      "file_name": "Armors of Dragon Champion 3BA-127852-1-0-1724853550.zip",
+      "mod_id": 127852,
+      "hash": "sha256-8Jcg9FXdgmO/QQqo8ywc/J+NoqioRnh8tJQ9A/c6cm8="
+    },
+    "type": "primary"
+  }
+}

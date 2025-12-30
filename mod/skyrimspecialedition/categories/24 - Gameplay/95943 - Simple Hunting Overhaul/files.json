@@ -1,0 +1,43 @@
+{
+    "SHO - Gourmet Patch": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "1.10",
+            "file_id": 495221,
+            "file_name": "SHO - Gourmet Patch-95943-1-10-1714208812.rar",
+            "mod_id": 95943,
+            "hash": "sha256-RcMW15tRDu/ZKYwCZykvnMGGbYYDWaZpBBj9OXLusgk="
+        }
+    },
+    "SHO - Beyond Skyrim Bruma Patch": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "1.13",
+            "file_id": 535062,
+            "file_name": "SHO - Beyond Skyrim Bruma Patch-95943-1-13-1724571884.zip",
+            "mod_id": 95943,
+            "hash": "sha256-sZI2YGoyOEZFFXnDU0N6hthNVdOU68X8PR70e9rnuTE="
+        }
+    },
+    "SHO - Mihail Ice Titans Patch": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "1.0",
+            "file_id": 666076,
+            "file_name": "SHO - Mihail Ice Titans Patch-95943-1-0-1757955408.rar",
+            "mod_id": 95943,
+            "hash": "sha256-8twV2stS+KC84mHt1aRF/1ulZliyROioUKi2YhIhyec="
+        }
+    },
+    "Simple Hunting Overhaul": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "1.16",
+            "file_id": 699215,
+            "file_name": "Simple Hunting Overhaul-95943-1-16-1766050937.7z",
+            "mod_id": 95943,
+            "hash": "sha256-+2qJ7Uh0iR76z3XFybHC0vmdpc7nhc0SA6MIZr6c5zI="
+        },
+        "type": "primary"
+    }
+}

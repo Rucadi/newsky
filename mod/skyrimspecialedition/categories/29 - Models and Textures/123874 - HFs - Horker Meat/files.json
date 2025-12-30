@@ -1,0 +1,35 @@
+{
+    "HFs - Horker Meat - 4K": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "1",
+            "file_id": 519459,
+            "file_name": "HFs - Horker Meat - 4K-123874-1-1720557117.zip",
+            "mod_id": 123874,
+            "hash": "sha256-SNZ9a6FsOEseGZiPBWGm0OfhIOwkw725PCCWl32EFGo="
+        },
+        "type": "primary"
+    },
+    "HFs - Horker Meat - 2K": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "1",
+            "file_id": 519461,
+            "file_name": "HFs - Horker Meat - 2K-123874-1-1720557143.zip",
+            "mod_id": 123874,
+            "hash": "sha256-75DRf4NnJw7ezoWJujJUn9m+1kwMRRbH1Ad+Ey5yngM="
+        },
+        "type": "primary"
+    },
+    "HFs - Horker Meat - 1K": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "1",
+            "file_id": 523697,
+            "file_name": "HFs - Horker Meat - 1K-123874-1-01-1721631195.zip",
+            "mod_id": 123874,
+            "hash": "sha256-F5D7Gros8o3bPFotM4aySZ9ipMhIo5AJIwriU9rDOQs="
+        },
+        "type": "primary"
+    }
+}

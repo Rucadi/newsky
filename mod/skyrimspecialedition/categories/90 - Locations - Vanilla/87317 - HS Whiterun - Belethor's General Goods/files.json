@@ -1,0 +1,43 @@
+{
+    "HSWhiterun - Belethor's General Goods - ELFX": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "1.0.0",
+            "file_id": 369808,
+            "file_name": "HSWhiterun - Belethor's General Goods - ELFX-87317-1-0-0-1679184276.7z",
+            "mod_id": 87317,
+            "hash": "sha256-ID7mX9+A5KJkHHPbeXx/THYGQWiGRNYfp1WCuviQ7tw="
+        }
+    },
+    "HSWhiterun - Belethor's General Goods - LUX": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "1.0.0",
+            "file_id": 369809,
+            "file_name": "HSWhiterun - Belethor's General Goods - LUX-87317-1-0-0-1679184302.7z",
+            "mod_id": 87317,
+            "hash": "sha256-iRMf1CQ/ehh1odV54MfOnX37NqSCemuiEbgsHFnRqjw="
+        }
+    },
+    "HSWhiterun - Belethor's General Goods": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "1.0.1",
+            "file_id": 372090,
+            "file_name": "HSWhiterun - Belethor's General Goods-87317-1-0-1-1679790081.7z",
+            "mod_id": 87317,
+            "hash": "sha256-o4vwJdVTxBywyQV4ddTEKFhvL/j70InM4F6H2FC8xgI="
+        },
+        "type": "primary"
+    },
+    "HSWhiterun - Belethor's General Goods - LOTD": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "1.0.0",
+            "file_id": 378306,
+            "file_name": "HSWhiterun - Belethor's General Goods - LOTD-87317-1-0-0-1681506071.7z",
+            "mod_id": 87317,
+            "hash": "sha256-JPwckBFuZHarQ53BCjTMz0ALW0CI76C/z6eudcaFAJ8="
+        }
+    }
+}

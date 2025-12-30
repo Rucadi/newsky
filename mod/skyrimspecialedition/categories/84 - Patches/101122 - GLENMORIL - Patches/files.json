@@ -1,0 +1,46 @@
+{
+  "GLENMORIL - High Poly Sweet Rolls - Texture Fixes": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0.0",
+      "file_id": 428009,
+      "file_name": "GLENMORIL - High Poly Sweet Rolls - Texture Fixes-101122-1-0-0-1695357578.7z",
+      "mod_id": 101122,
+      "hash": "sha256-IZriCiEvOVJ9n5QtfS1hwd0PWNvQ/kvIj+0u+OoT4s8="
+    },
+    "type": "primary"
+  },
+  "GLENMORIL -  Lalanoah Uses Default Textures": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0.0",
+      "file_id": 428010,
+      "file_name": "GLENMORIL -  Lalanoah Uses Default Textures-101122-1-0-0-1695357687.7z",
+      "mod_id": 101122,
+      "hash": "sha256-6U5BmEUEYrpAdm07Na3lDf+suNcwrW1qSWgb54knyq4="
+    },
+    "type": "primary"
+  },
+  "GLEN-MORIL - Supreme Weathers Integration": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1.0",
+      "file_id": 652927,
+      "file_name": "GLEN-MORIL - Supreme Weathers Integration-101122-1-1-0-1754345309.7z",
+      "mod_id": 101122,
+      "hash": "sha256-tsw3JkSqgvMIT5wpB91x54jPLm3oK+H9lXlr9CTwwCc="
+    },
+    "type": "primary"
+  },
+  "GLEN-MORIL - No Grass in Sanctuary of Namira": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1.0",
+      "file_id": 652929,
+      "file_name": "GLEN-MORIL - No Grass in Sanctuary of Namira-101122-1-1-0-1754345360.7z",
+      "mod_id": 101122,
+      "hash": "sha256-LpRweo+2rrV/Zwm0nJXyMBv54AeKiwnRqOnH7UYKCIs="
+    },
+    "type": "primary"
+  }
+}

@@ -1,0 +1,103 @@
+{
+  "DL The Reach AIO": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 558315,
+      "file_name": "DL The Reach AIO-132482-1-0-1730584221.7z",
+      "mod_id": 132482,
+      "hash": "sha256-AfLMsPV+Nbv0yoKV8ckA0RhzZoeoxKq8GRD+/XQ62g8="
+    },
+    "type": "primary"
+  },
+  "DL - Thistle Lavender and Nightshade in The Reach": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 597452,
+      "file_name": "DL - Thistle Lavender and Nightshade in The Reach-132482-1-0-1740171704.7z",
+      "mod_id": 132482,
+      "hash": "sha256-3dhAIs9krPxO0hlPPHlkPkQaJ+X04ANfumMDa0eiuJI="
+    }
+  },
+  "DL - Sword Ferns in The Reach (only)": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 597454,
+      "file_name": "DL - Sword Ferns in The Reach-132482-1-0-1740171787.7z",
+      "mod_id": 132482,
+      "hash": "sha256-ouqGyZgzvD6RnqXlkYMRmjHk5g3DqY8312saDPl9As8="
+    }
+  },
+  "DL - Desert Grass in The Reach (only)": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 597455,
+      "file_name": "DL - Desert Grass in The Reach-132482-1-0-1740171883.7z",
+      "mod_id": 132482,
+      "hash": "sha256-192AmqbaM7xw3XVVbTxWL88+0IUrwc9LrZXaG9YEAuY="
+    }
+  },
+  "DL - Indian Rice Grass in The Reach (only)": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 597457,
+      "file_name": "DL - Indian Rice Grass in The Reach-132482-1-0-1740171968.7z",
+      "mod_id": 132482,
+      "hash": "sha256-6tuwR7TIDVGO+r8Ue4WVb6xg/77/zGM0vJp1vzHX168="
+    }
+  },
+  "DL - Gem Geodes in The Reach (only)": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 597458,
+      "file_name": "DL - Gem Geodes in The Reach-132482-1-0-1740172044.7z",
+      "mod_id": 132482,
+      "hash": "sha256-r4KzrlLauPvtoMrvDyf1XkEmH/KAQRyWNYfu8hydnxo="
+    }
+  },
+  "DL - Rot Scale in The Reach (only)": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 597461,
+      "file_name": "DL - Rot Scale in The Reach-132482-1-0-1740172134.7z",
+      "mod_id": 132482,
+      "hash": "sha256-UyTxJuqWp7Q+JvZt3y5MUVVt53g0E5CJ8UXPHrolDg4="
+    }
+  },
+  "DL - Root Weeds in The Reach (only)": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 597462,
+      "file_name": "DL - Root Weeds in The Reach-132482-1-0-1740172200.7z",
+      "mod_id": 132482,
+      "hash": "sha256-cvZBJKUokMn43LKlIje156kqlAmayZST/V1bcVSdGMQ="
+    }
+  },
+  "DL Clifftrees to Bent Pines in The Reach (only)": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 598663,
+      "file_name": "DL Clifftrees to Bent Pines in The Reach-132482-1-0-1740422243.7z",
+      "mod_id": 132482,
+      "hash": "sha256-X9h8EmmxJXEoc2xXkT7+Jjdt1x39cImt8BS5wC8xWq8="
+    }
+  },
+  "DL Reach Trees to Bent Pines in The Reach (only)": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 598667,
+      "file_name": "DL Reach Trees to Bent Pines in The Reach (only)-132482-1-0-1740422708.7z",
+      "mod_id": 132482,
+      "hash": "sha256-3EbIvllvy+ppP786VgCwrn1EcU20Vu/To5y1AAuIgD8="
+    }
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "Regional Outfitters - East Empire CC": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 511060,
+      "file_name": "Regional Outfitters - East Empire CC-117238-1-0-1718244065.rar",
+      "mod_id": 117238,
+      "hash": "sha256-6YBzMOV2+vIJigDeM663UG++ftruKO3aFpoOJ9SZFdU="
+    }
+  },
+  "Regional Outfitters - JK College of Winterhold": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.01",
+      "file_id": 520120,
+      "file_name": "Regional Outfitters - JK College of Winterhold-117238-1-01-1720755130.rar",
+      "mod_id": 117238,
+      "hash": "sha256-S5xN3H/r32ZfsystodrCMh8JJPe0uIoWLACe0ZMz2SQ="
+    }
+  },
+  "Regional Outfitters": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.17",
+      "file_id": 649673,
+      "file_name": "Regional Outfitters-117238-1-17-1753305819.rar",
+      "mod_id": 117238,
+      "hash": "sha256-BOCxMuMMjKL6PA8plwOwr5yRPEBhflOI7TPbZ66vews="
+    },
+    "type": "primary"
+  }
+}

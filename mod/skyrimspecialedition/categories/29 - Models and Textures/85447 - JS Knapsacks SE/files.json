@@ -1,0 +1,55 @@
+{
+  "JS Knapsacks SE - 1k Textures": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.21",
+      "file_id": 541316,
+      "file_name": "JS Knapsacks SE - 1k Textures-85447-1-21-1726130906.7z",
+      "mod_id": 85447,
+      "hash": "sha256-HLXPc4Uc0uy8jbWlKwHEPdc/LXyS6+ILJMKIHoutsuk="
+    },
+    "type": "primary"
+  },
+  "JS Knapsacks SE - 2k Textures": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.21",
+      "file_id": 541317,
+      "file_name": "JS Knapsacks SE - 2k Textures-85447-1-21-1726130995.7z",
+      "mod_id": 85447,
+      "hash": "sha256-JJmLt2afMjlXB746aX3yImpTm65GZNYXYIoFLJpulg0="
+    },
+    "type": "primary"
+  },
+  "JS Knapsacks SE - 4k Textures": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.21",
+      "file_id": 541318,
+      "file_name": "JS Knapsacks SE - 4k Textures-85447-1-21-1726131130.7z",
+      "mod_id": 85447,
+      "hash": "sha256-SkFkhYF7nlArQAv4yOdiyJSfdny51jL535unNOhWPh8="
+    },
+    "type": "primary"
+  },
+  "JS Knapsacks SE - Knapsack Backpacks SE Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.01",
+      "file_id": 620990,
+      "file_name": "JS Knapsacks SE - Knapsack Backpacks SE Patch-85447-1-01-1745580359.7z",
+      "mod_id": 85447,
+      "hash": "sha256-mga48CUXEZcTSDe8xgU5RLTqJW31v02IpMx97Sraayk="
+    }
+  },
+  "JS Knapsacks SE - Journeyman Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.01",
+      "file_id": 652131,
+      "file_name": "JS Knapsacks SE - Journeyman Patch-85447-1-01-1754146213.zip",
+      "mod_id": 85447,
+      "hash": "sha256-t6Zk0064kwyGZZ9Kk7oB14uQAqOkGW+xM7mjiZ3sHMA="
+    }
+  }
+}

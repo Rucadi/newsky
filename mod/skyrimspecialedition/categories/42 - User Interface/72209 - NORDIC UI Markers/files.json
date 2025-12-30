@@ -1,0 +1,35 @@
+{
+  "NORDIC UI Markers (FOMOD INSTALLER)": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "4.0",
+      "file_id": 314568,
+      "file_name": "NORDIC UI Markers (FOMOD INSTALLER)-72209-4-0-1662722432.rar",
+      "mod_id": 72209,
+      "hash": "sha256-8abyctKtEI1e4qNkgWkYSPbD2UeNhyXDFxhFM6aOWrg="
+    },
+    "type": "primary"
+  },
+  "NORDIC UI Markers (QUESTION UNDISCOVER MARK)": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "4.0",
+      "file_id": 314580,
+      "file_name": "NORDIC UI Markers (QUESTION UNDISCOVER MARK)-72209-4-0-1662725128.rar",
+      "mod_id": 72209,
+      "hash": "sha256-YOfaM5rhIeP6irLE2pJMsdt3dBPnIzEaJt5iHtCYKH4="
+    },
+    "type": "primary"
+  },
+  "NORDIC UI Markers (RESTORE UNDISCOVER MARKERS)": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "4.0",
+      "file_id": 314581,
+      "file_name": "NORDIC UI Markers (RESTORE UNDISCOVER MARKERS)-72209-4-0-1662725244.rar",
+      "mod_id": 72209,
+      "hash": "sha256-7zsDuNJXK80B9EPm7VZqhTFgQjBXY8AtBufe3KcSwJE="
+    },
+    "type": "primary"
+  }
+}

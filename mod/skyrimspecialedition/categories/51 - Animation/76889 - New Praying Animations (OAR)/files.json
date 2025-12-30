@@ -1,0 +1,43 @@
+{
+    "idlepraycrouched_loop.hkx replacer for all": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "1.0.1",
+            "file_id": 324130,
+            "file_name": "idlepraycrouched_loop.hkx replacer for all-76889-1-0-0-1665804895.zip",
+            "mod_id": 76889,
+            "hash": "sha256-M5Z7sM0MYiwNnTcW5UY4L9P2nAbQAR3aePXzigTZfiI="
+        }
+    },
+    "idlepray.hkx replacer for all": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "1.0.1",
+            "file_id": 324131,
+            "file_name": "idlepray.hkx replacer for all-76889-1-0-0-1665805268.zip",
+            "mod_id": 76889,
+            "hash": "sha256-fvShok78k17+BXrdEAMfoPLoFp3eyDLmpxSq6GdLPic="
+        }
+    },
+    "idlepray.hkx replacer for females (OAR)": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "1.1.0",
+            "file_id": 450397,
+            "file_name": "idlepray.hkx replacer for females (OAR)-76889-1-1-0-1702200890.zip",
+            "mod_id": 76889,
+            "hash": "sha256-iPSLyVL/Z5PJn2xZXyZv+iJrZ/DoFDbg/z3cI+PEDsU="
+        },
+        "type": "primary"
+    },
+    "idlegreybeardmeditateidleb.hkx addition (OAR)": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "1.1.0",
+            "file_id": 450399,
+            "file_name": "idlegreybeardmeditateidlec.hkx F addition (OAR)-76889-1-1-0-1702201007.zip",
+            "mod_id": 76889,
+            "hash": "sha256-kNsA11z7iS+OXD0ST+Oo0mnbXK46itVwRGtuY96VX4Y="
+        }
+    }
+}

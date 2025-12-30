@@ -1,0 +1,23 @@
+{
+  "Skyrim Sewers 415": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "4.15",
+      "file_id": 81323,
+      "file_name": "Skyrim Sewers 415-9320-4-15-1549828167.rar",
+      "mod_id": 9320,
+      "hash": "sha256-Pj+OWqnOiDImD2DSZhY70SYYV1uDtCKOsjD3yMMGC/k="
+    },
+    "type": "primary"
+  },
+  "Skyrim Sewers Capital Whiterun Expansion compatible esp": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "4.15",
+      "file_id": 150045,
+      "file_name": "Skyrim Sewers Capital Whiterun Expansion compatible esp-9320-4-15-1594572830.zip",
+      "mod_id": 9320,
+      "hash": "sha256-MieZkP9yYEcL/PNgB37Rvy7t3Vk8fx8lLAijtIQOVAE="
+    }
+  }
+}

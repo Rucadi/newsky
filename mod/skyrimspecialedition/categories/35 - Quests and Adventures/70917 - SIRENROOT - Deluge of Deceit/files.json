@@ -1,0 +1,33 @@
+{
+    "SIRENROOT - HD Texture Pack": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "1.0",
+            "file_id": 385185,
+            "file_name": "SIRENROOT - HD Texture Pack-70917-1-0-1683358261.zip",
+            "mod_id": 70917,
+            "hash": "sha256-G3eRKi3nYC0OfRqmpPHjFW4swlADkj+3Nyt1eYbm0zY="
+        }
+    },
+    "SIRENROOT - Deluge of Deceit 1.21": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "1.21",
+            "file_id": 500339,
+            "file_name": "SIRENROOT - Deluge of Deceit 1.21-70917-1-21-1715501801.zip",
+            "mod_id": 70917,
+            "hash": "sha256-gij9UPz55ApH+yNBvGLGXbbEXv1bDbTlopNZ9GpPTBA="
+        },
+        "type": "primary"
+    },
+    "SIRENROOT - Achievement Injector Patch": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "1.21",
+            "file_id": 543315,
+            "file_name": "SIRENROOT - Achievement Injector Patch-70917-1-21-1726604107.zip",
+            "mod_id": 70917,
+            "hash": "sha256-D0NHRZAPJgBw4ttdey/7dr7mt0oS/eB2sJtzCPr3fZw="
+        }
+    }
+}

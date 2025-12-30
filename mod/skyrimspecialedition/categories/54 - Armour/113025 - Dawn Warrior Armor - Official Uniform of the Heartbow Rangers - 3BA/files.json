@@ -1,0 +1,33 @@
+{
+  "Dawn Warrior - Uniform of the Heartbow Rangers 3BA": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1",
+      "file_id": 477406,
+      "file_name": "Dawn Warrior - Uniform of the Heartbow Rangers 3BA-113025-1-1-1709691066.7z",
+      "mod_id": 113025,
+      "hash": "sha256-I5KRXRvqomChERqAFZy8UObFLXqIhP3h1Fs75rz/TBU="
+    },
+    "type": "primary"
+  },
+  "Dawn Warrior - Autumn Retexture by Groanth": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 477407,
+      "file_name": "Dawn Warrior - Autumn Retexture by Groanth-113025-1-0-1709691235.7z",
+      "mod_id": 113025,
+      "hash": "sha256-dayvu54CE/RY5nHgH8U3GdvderGhIK1wu/U4cSrp4Ug="
+    }
+  },
+  "Texures Only - Fix for Vortex BSA Issue": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1",
+      "file_id": 491158,
+      "file_name": "Texures Only - Fix for Vortex BSA Issue-113025-1-1-1713205665.zip",
+      "mod_id": 113025,
+      "hash": "sha256-hwlMHYZWSnlj0HkebuAREMjZZfRyvvuVuT8KywHbSyc="
+    }
+  }
+}

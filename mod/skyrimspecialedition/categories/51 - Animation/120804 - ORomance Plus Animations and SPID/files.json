@@ -1,0 +1,23 @@
+{
+  "ORomance Plus SPID": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 507120,
+      "file_name": "ORomance Plus SPID-120804-1-0-1717225291.7z",
+      "mod_id": 120804,
+      "hash": "sha256-gZTVU/eaoNrZs3wblc0a0PSd6FvTr1FBLpeBV75BBhs="
+    }
+  },
+  "ORomance Plus Animations": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.01",
+      "file_id": 632444,
+      "file_name": "ORomance Plus Animations-120804-1-01-1748503052.7z",
+      "mod_id": 120804,
+      "hash": "sha256-eFPx0VG5gsaYUpmoNAAmTzOQNPyOu3LcMqg3pfJ95XA="
+    },
+    "type": "primary"
+  }
+}

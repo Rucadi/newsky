@@ -1,0 +1,54 @@
+{
+  "2k Vale Deer and Mesh Fixes": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 259988,
+      "file_name": "2k Vale Deer and Mesh Fixes-62628-1-0-1643318548.rar",
+      "mod_id": 62628,
+      "hash": "sha256-WSLldcg9IcEEQb1NYOfn4xt5ThHFoiTCu7Jv7w3Z85Y="
+    }
+  },
+  "Carry Your Carcasses - Hunterborn": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "2.11",
+      "file_id": 260598,
+      "file_name": "Carry Your Carcasses-62628-2-11-1643590850.rar",
+      "mod_id": 62628,
+      "hash": "sha256-YZpW3nGxlPaSfkkEDD/Af9KzHHbNxIvm764gSwPUjZw="
+    },
+    "type": "primary"
+  },
+  "CYC - Fluffworks Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 261907,
+      "file_name": "CYC - Fluffyworks Patch-62628-1-0-1644069671.rar",
+      "mod_id": 62628,
+      "hash": "sha256-Nikv8j1pXe9HK6skAgKmVa4MHqMUdDyN3s6VSZwBXxY="
+    }
+  },
+  "CYC - Highly Recommended Female Elk on Horse mesh replacer": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 261911,
+      "file_name": "CYC - Highly Recommended Female Elk on Horse mesh replacer-62628-1-0-1644070436.rar",
+      "mod_id": 62628,
+      "hash": "sha256-Nvbipe1sRy3V90kO3aKcYl/NtH9UTUyKcbkcxWXon7o="
+    }
+  },
+  "Carry Your Carcasses - Simple Hunting Overhaul": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1",
+      "file_id": 414563,
+      "file_name": "Carry Your Carcasses - Simple Hunting Overhaul-62628-1-1-1691297994.rar",
+      "mod_id": 62628,
+      "hash": "sha256-lf/qZfH8wI3TmeYGa1PzzcLOiAfrzr0VI7KTaN/8rws="
+    },
+    "type": "primary"
+  }
+}

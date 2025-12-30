@@ -1,0 +1,44 @@
+{
+  "Hagraven.4k": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 18577,
+      "file_name": "Hagraven.4k-7679-1-0.7z",
+      "mod_id": 7679,
+      "hash": "sha256-J3FV/aot0WqihS9KI+dkxdGZnyZ5Y0Uoy4XrkDTpB1M="
+    },
+    "type": "primary"
+  },
+  "Hagraven.4k-2k": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 18579,
+      "file_name": "Hagraven.4k-2k-7679-1-0.7z",
+      "mod_id": 7679,
+      "hash": "sha256-Jb4qWhnGGzK1A9dBZePQ5J5dWeCocyXoXD/IjjORP5A="
+    },
+    "type": "primary"
+  },
+  "Hagraven.2k": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 18580,
+      "file_name": "Hagraven.2k-7679-1-0.7z",
+      "mod_id": 7679,
+      "hash": "sha256-9bYzejMGoc32zzjgE79UyNp81MHdHZ3QHSg9C1Zkn4s="
+    }
+  },
+  "Hagraven.1k": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 18581,
+      "file_name": "Hagraven.1k-7679-1-0.7z",
+      "mod_id": 7679,
+      "hash": "sha256-JeKYjA6QmBHHYU2bAixOM+lS+EhEHrDSCWq0N5TK6V4="
+    }
+  }
+}

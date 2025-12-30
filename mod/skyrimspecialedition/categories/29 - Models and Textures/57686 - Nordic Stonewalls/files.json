@@ -1,0 +1,63 @@
+{
+  "Nordic Farmhouse Walls 4K": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.10",
+      "file_id": 479449,
+      "file_name": "Nordic Farmhouse Walls-57686-1-10-1710172071.zip",
+      "mod_id": 57686,
+      "hash": "sha256-hbr6P4xvh4BLP6XP8yhKSU+qnwe17rKEgj+vXgjOohE="
+    }
+  },
+  "Nordic Farmhouse Walls 2K": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.10",
+      "file_id": 482414,
+      "file_name": "Nordic Farmhouse Walls 2K-57686-1-10-1710913420.zip",
+      "mod_id": 57686,
+      "hash": "sha256-qBpUq/4U1t9Uuq3G322MI+YNtSbjmpzAPYZZXSCt6Rw="
+    }
+  },
+  "Nordic Farmhouse Stonefloor 4K": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 489645,
+      "file_name": "Nordic Farmhouse Stonefloor-57686-1-0-1712852993.zip",
+      "mod_id": 57686,
+      "hash": "sha256-a4Y2PCQwcon1aGf33wPV6BQXebLe4HEO5BWCnJ+PB5c="
+    }
+  },
+  "Nordic Farmhouse Stonefloor 2K": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 551102,
+      "file_name": "Nordic Farmhouse Stonefloor 2K-57686-1-0-1728658872.zip",
+      "mod_id": 57686,
+      "hash": "sha256-8Carx2JJAhRUszg+GxNVIBifh143fI4q92BDIpQDxKg="
+    }
+  },
+  "Nordic Stonewalls - Patch - JKs Skyrim": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 655574,
+      "file_name": "Nordic Stonewalls - Patch - JKs Skyrim-57686-1-0-1755194072.zip",
+      "mod_id": 57686,
+      "hash": "sha256-C5/+373h2/bo934lUSyfSUGvPQx81oA95RwYNraEDus="
+    }
+  },
+  "Nordic Stonewalls": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "3.11",
+      "file_id": 687362,
+      "file_name": "Nordic Stonewalls-57686-3-11-1763126585.zip",
+      "mod_id": 57686,
+      "hash": "sha256-h74nQEeq2wodS3v0gIm+UQAUUllbFaP75w/nmeg/5fY="
+    },
+    "type": "primary"
+  }
+}

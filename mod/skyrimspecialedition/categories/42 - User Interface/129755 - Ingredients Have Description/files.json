@@ -1,0 +1,43 @@
+{
+  "Ingredients Have Description": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.6",
+      "file_id": 611651,
+      "file_name": "Ingredients Have Description-129755-1-6-1743336898.7z",
+      "mod_id": 129755,
+      "hash": "sha256-zRLvW9iwOVFdIlwWSNkHe97E3rmx7UhRxMIGitW5M9s="
+    },
+    "type": "primary"
+  },
+  "swf source": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1",
+      "file_id": 611653,
+      "file_name": "swf source-129755-1-1743337118.7z",
+      "mod_id": 129755,
+      "hash": "sha256-Oc8pyiog1HBmG5ZDQ3v7hKvbJs3frU1gKQtOahmPiWA="
+    }
+  },
+  "Ingredients Have Description Fast": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.6",
+      "file_id": 611673,
+      "file_name": "Ingredients Have Description-129755-1-6-1743340923.7z",
+      "mod_id": 129755,
+      "hash": "sha256-8fXYZpl41SWZY0+OXUmUZxnZffVu9WijW1/KYmRNPaA="
+    }
+  },
+  "Ingredients Have Description Long": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.6",
+      "file_id": 611674,
+      "file_name": "Ingredients Have Description Long-129755-1-6-1743340983.7z",
+      "mod_id": 129755,
+      "hash": "sha256-6L+d5TxbRx1GXHCW4ejtpNubYmlRBVsKLLS+3mYENjU="
+    }
+  }
+}

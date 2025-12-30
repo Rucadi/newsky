@@ -1,0 +1,43 @@
+{
+  "Simplicity of Snow - Epic Windhelm Expansion Fix": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "0.7.1",
+      "file_id": 306189,
+      "file_name": "Simplicity of Snow - Epic Windhelm Expansion Fix-56235-0-7-1-1660099320.7z",
+      "mod_id": 56235,
+      "hash": "sha256-7WdFn88uKaVuGI0XUo8u8FhEoGaBDvyjvf12u1mMsu4="
+    }
+  },
+  "Simplicity of Snow - Northpoint patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "0.18.2",
+      "file_id": 458684,
+      "file_name": "Simplicity of Snow-56235-0-18-2-1704596688.7z",
+      "mod_id": 56235,
+      "hash": "sha256-HDmGOJ6ZieM1ymBrEHcqkcWibAM5fUDVfu6+6KiWxzY="
+    }
+  },
+  "Simplicity of Snow": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "0.26",
+      "file_id": 683158,
+      "file_name": "Simplicity of Snow-56235-0-26-1762128101.7z",
+      "mod_id": 56235,
+      "hash": "sha256-lcpre0Skc3Jy8+klgDRi/S1+MbOK0UySqpeWPYVaNBc="
+    },
+    "type": "primary"
+  },
+  "Simplicity of Snow - Parallax Meshes": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "0.26",
+      "file_id": 683159,
+      "file_name": "Simplicity of Snow - Parallax Meshes-56235-0-26-1762128263.7z",
+      "mod_id": 56235,
+      "hash": "sha256-ntC5dooc58A1o4icc5YPLNm6hQBJh+ZE1Xg6wJPYIOg="
+    }
+  }
+}

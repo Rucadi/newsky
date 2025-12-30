@@ -1,0 +1,23 @@
+{
+  "Dragons Use Thu'um Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 571098,
+      "file_name": "Dragons Use Thu'um Patch-119118-1-0-1733858537.7z",
+      "mod_id": 119118,
+      "hash": "sha256-G9F9CCilp1AmGLC3PgwqH28w4pBvcKZWiPvI2TXcek0="
+    }
+  },
+  "Dragon Sound Overhaul": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "2.1",
+      "file_id": 572040,
+      "file_name": "Dragon Sound Overhaul-119118-2-1-1734111120.rar",
+      "mod_id": 119118,
+      "hash": "sha256-YJ2YuUUhEhKVX5Z2EPZ70nr/fjVJmSrwFlFNJEmXHxg="
+    },
+    "type": "primary"
+  }
+}

@@ -1,0 +1,133 @@
+{
+    "JK's Skyrim - Towns": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "1.06",
+            "file_id": 150076,
+            "file_name": "JK's Skyrim - Towns-9005-1-06-1594585071.7z",
+            "mod_id": 9005,
+            "hash": "sha256-rGc6mmiZyWqxqtzhCwOK/RmKtnWynPhlHMuQ9acB0Cg="
+        }
+    },
+    "Patch for Morthal Overhaul II": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "1",
+            "file_id": 156037,
+            "file_name": "Patch for Morthal Overhaul II-9005-1-1597625892.7z",
+            "mod_id": 9005,
+            "hash": "sha256-a+lcaWdddzJEA1S+S6HtJA0qkn5gP6CmDjAEyJyU5pQ="
+        }
+    },
+    "Patches for Holds The City Overhaul": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "0.1.0hld",
+            "file_id": 237278,
+            "file_name": "patches for Holds The City Overhaul-9005-0-1-0hld-1635298776.7z",
+            "mod_id": 9005,
+            "hash": "sha256-eHoxE2CL1O9mlG1uE/cHzHTx+cnIygY+hZ8oWX0TuY8="
+        }
+    },
+    "Patches for Expanded Towns and Cities": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "0.0.7.0",
+            "file_id": 267883,
+            "file_name": "Patches for Expanded Towns and Cities-9005-0-0-7-0-1646339383.7z",
+            "mod_id": 9005,
+            "hash": "sha256-1ogGRhuSer9XA51oWKfqPcxPlIv0jspzUwCtkpM9Pyo="
+        }
+    },
+    "z Vanilla Military Camps": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "1",
+            "file_id": 446742,
+            "file_name": "z Vanilla Military Camps-9005-1-1701139089.7z",
+            "mod_id": 9005,
+            "hash": "sha256-U4/FX6OCC8ggXk8R6FX4lBmF6IX2k5++V4q8vPgo2hU="
+        }
+    },
+    "zNo Riverbededge Grass Coast or the Rift": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "1.RB",
+            "file_id": 446743,
+            "file_name": "zNo Riverbededge Grass Coast or the Rift-9005-1-RB-1701139283.7z",
+            "mod_id": 9005,
+            "hash": "sha256-sRJum5dPnf63+ElZLIAaqyh3m0e5HUGs8KYzFvveQnc="
+        }
+    },
+    "Patch for Moon and Star": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "1",
+            "file_id": 446744,
+            "file_name": "Patch for Moon and Star-9005-1-1701139395.7z",
+            "mod_id": 9005,
+            "hash": "sha256-bbyUbkwuZ5drFOD2Gu2ZM06yUXk6TOIAwVPHGgj0tJo="
+        }
+    },
+    "Immersive Citizens Patch": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "1.01",
+            "file_id": 446745,
+            "file_name": "Immersive Citizens Patch-9005-1-01-1701139495.7z",
+            "mod_id": 9005,
+            "hash": "sha256-emVv3b/GvxRB4ei2N/6Gklzl2al4tV+cqJKbhBoOqqA="
+        }
+    },
+    "Patch for Helgen Reborn": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "1",
+            "file_id": 446746,
+            "file_name": "Patch for Helgen Reborn-9005-1-1701139569.7z",
+            "mod_id": 9005,
+            "hash": "sha256-lrjSsmhWBkmdDa5HDPX6KQm0H9ElZVxzdkF1nxaPQgY="
+        }
+    },
+    "Generic Grass Limiter": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "0.02",
+            "file_id": 555189,
+            "file_name": "Generic Grass Limiter-9005-0-02-1729799372.7z",
+            "mod_id": 9005,
+            "hash": "sha256-JoGwx7k1txyM1DgpRuNjtPd40k96KOB8mJIYntZwah4="
+        }
+    },
+    "Patches for The Great Cities and Towns": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "0.2.01e",
+            "file_id": 579389,
+            "file_name": "Patches for The Great Cities and Towns-9005-0-2-01e-1736020621.7z",
+            "mod_id": 9005,
+            "hash": "sha256-vPuKvnBnWwTVMK+Yc+usoGD6N+4V9JTqpDPXpz+GW/s="
+        }
+    },
+    "Landscape Fixes For Grass Mods": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "5.8",
+            "file_id": 632401,
+            "file_name": "Landscape Fixes For Grass Mods-9005-5-8-1748486785.zip",
+            "mod_id": 9005,
+            "hash": "sha256-c5/Z0ORAk/DnmoKWJXswsw9ltoF67jhAfiWOF7IOHBg="
+        },
+        "type": "primary"
+    },
+    "Patches for Arthmoor's Town add-ons": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "1.0.11",
+            "file_id": 646587,
+            "file_name": "Patches for Arthmoor's Town add-ons-9005-1-0-11-1752371870.zip",
+            "mod_id": 9005,
+            "hash": "sha256-2hZriKLSoXB3/5O28nor9lPx8nDRgsqcAv+FWqIOzeQ="
+        }
+    }
+}

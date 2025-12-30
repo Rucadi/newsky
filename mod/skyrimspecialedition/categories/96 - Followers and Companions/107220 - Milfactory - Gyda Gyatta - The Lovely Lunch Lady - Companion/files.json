@@ -1,0 +1,33 @@
+{
+  "Milfactory - Gyda Gyatta - Christmas Outfit Addon": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.2FE",
+      "file_id": 453250,
+      "file_name": "Milfactory - Gyda Gyatta - Christmas Outfit Addon-107220-1-2FE-1702976346.zip",
+      "mod_id": 107220,
+      "hash": "sha256-XElGbpOXNr21jXyc2LMNrXoNBLe92yemdMCnhDDngp0="
+    }
+  },
+  "Milfactory - Gyda Gyatta - Standard Outfit Addon": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.2FE",
+      "file_id": 453251,
+      "file_name": "Milfactory - Gyda Gyatta - Standard Outfit Addon-107220-1-2FE-1702976375.zip",
+      "mod_id": 107220,
+      "hash": "sha256-wLMB/S8td19ipFMzqoGf5/zl3N8hNNJhrO0q3Pq2fWE="
+    }
+  },
+  "Milfactory - Gyda Gyatta - Companion": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.3",
+      "file_id": 655362,
+      "file_name": "Milfactory - Gyda Gyatta - Companion-107220-1-3-1755131224.zip",
+      "mod_id": 107220,
+      "hash": "sha256-ShZY2RoknEb8EaKb814ioTsGUkoNm8rN0n6CPLA9CiQ="
+    },
+    "type": "primary"
+  }
+}

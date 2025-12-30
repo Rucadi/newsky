@@ -1,0 +1,23 @@
+{
+    "Fishing Integration Patch (ESL Flagged) 1.0.1": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "1.0.1",
+            "file_id": 596059,
+            "file_name": "Fishing Integration Patch (ESL Flagged) 1.0.1-109541-1-0-1-1739833204.zip",
+            "mod_id": 109541,
+            "hash": "sha256-/88bMQVE9tGoTbDp/Fk5wUOW4gINzs0O92nyEVTzLcA="
+        }
+    },
+    "Siege at Icemoth v1.4.1 (ESM)": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "1.4.1",
+            "file_id": 701480,
+            "file_name": "Siege at Icemoth v1.4.1 (ESM)-109541-1-4-1-1766539314.zip",
+            "mod_id": 109541,
+            "hash": "sha256-ZUjl7d4rSianfwKI0HLFKT+6Qh7LOFUu966z2+nBBzo="
+        },
+        "type": "primary"
+    }
+}

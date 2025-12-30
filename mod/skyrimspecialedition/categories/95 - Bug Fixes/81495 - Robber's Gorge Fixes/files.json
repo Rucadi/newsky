@@ -1,0 +1,23 @@
+{
+    "Robber's Gorge Fixes (Russian)": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "2.2",
+            "file_id": 674703,
+            "file_name": "Robber's Gorge Fixes (Russian)-81495-2-2-1760208039.7z",
+            "mod_id": 81495,
+            "hash": "sha256-Lp0DH7s11zcDjRuDhZ0Swy2lTEvunbpGdEMuwS/hg/c="
+        }
+    },
+    "Robber's Gorge Fixes": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "2.2",
+            "file_id": 674705,
+            "file_name": "Robber's Gorge Fixes-81495-2-2-1760208065.7z",
+            "mod_id": 81495,
+            "hash": "sha256-YTLW3pB4RaA4pCc+oB+674Epnpfaa3K04a1ST6ZwwLA="
+        },
+        "type": "primary"
+    }
+}

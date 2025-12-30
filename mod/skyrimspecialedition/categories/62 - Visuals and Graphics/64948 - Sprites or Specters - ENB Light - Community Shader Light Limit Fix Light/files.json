@@ -1,0 +1,24 @@
+{
+  "Sprites or Specters - ENB Light - Non-Scrambled Bugs Version": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "0.3",
+      "file_id": 273364,
+      "file_name": "Sprites or Specters - ENB Light-64948-0-3-1648509816.7z",
+      "mod_id": 64948,
+      "hash": "sha256-g+CB5q+HbukcRxgXwX5adbZDHrwstnEOhzpXKn3GjYw="
+    },
+    "type": "primary"
+  },
+  "Sprites or Specters - ENB Light - Scrambled Bugs Version": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "0.3",
+      "file_id": 273365,
+      "file_name": "Sprites or Specters - ENB Light - Scrambled Bugs Version-64948-0-3-1648509852.7z",
+      "mod_id": 64948,
+      "hash": "sha256-YCLJ6bGkhUq694s8hb1kLQEgzpJkFUjJtbKFG/JYx0Q="
+    },
+    "type": "primary"
+  }
+}

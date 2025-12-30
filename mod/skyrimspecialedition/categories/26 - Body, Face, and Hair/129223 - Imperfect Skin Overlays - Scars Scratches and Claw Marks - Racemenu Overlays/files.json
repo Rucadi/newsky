@@ -1,0 +1,24 @@
+{
+  "Imperfect Skin Overlays - Scars - Main": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0.0",
+      "file_id": 624032,
+      "file_name": "Imperfect Skin Overlays - Scars - Main-129223-1-0-0-1746468654.7z",
+      "mod_id": 129223,
+      "hash": "sha256-Qp6k1eygwX6f+tBJ8XENjpjqMyWzQVJ648IYL0bJLP4="
+    },
+    "type": "primary"
+  },
+  "Imperfect Skin Overlays - Scars - UBE": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0.0",
+      "file_id": 624036,
+      "file_name": "Imperfect Skin Overlays - Scars - UBE-129223-1-0-0-1746469358.7z",
+      "mod_id": 129223,
+      "hash": "sha256-+02KIGzyElaRD+GWlln4p25YlNYQLA3osZMgdDO3GsA="
+    },
+    "type": "primary"
+  }
+}

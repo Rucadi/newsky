@@ -1,0 +1,23 @@
+{
+  "JK's Warmaiden's Harvestable Statics Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.2.0",
+      "file_id": 207594,
+      "file_name": "JK's Warmaiden's Harvestable Statics Patch-33685-1-2-0-1622951217.7z",
+      "mod_id": 33685,
+      "hash": "sha256-cBNOUVHp2DCp/BzjqnueYipbgeQCeTA8ziRSPewdz6E="
+    }
+  },
+  "JK's Warmaiden's": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.3.0",
+      "file_id": 386090,
+      "file_name": "JK's Warmaiden's-33685-1-3-0-1683573536.rar",
+      "mod_id": 33685,
+      "hash": "sha256-ONb8WPJ7ZK7WQZSjrT540M+9RsseuraCnDrulKXs6qE="
+    },
+    "type": "primary"
+  }
+}

@@ -1,0 +1,112 @@
+{
+    "VIGILANT - Nerfed Jewelry Magic Effects": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "1.1-NERF",
+            "file_id": 434360,
+            "file_name": "VIGILANT - Nerfed Jewelry Magic Effects-102544-1-1-1697405281.zip",
+            "mod_id": 102544,
+            "hash": "sha256-uioGLdbtHYlseHogsQFI/oZcrZ0Ppu1wIvjwb5ljjg8="
+        },
+        "type": "primary"
+    },
+    "VIGILANT - Smaller Dragon knight Tower Shield  50": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "1.0",
+            "file_id": 434467,
+            "file_name": "VIGILANT - Smaller Dragon knight Tower Shield  50-102544-1-0-1697447806.zip",
+            "mod_id": 102544,
+            "hash": "sha256-uUE/R5TmwmOFJtEK43VK7o7Vub3EqojW9kMuEhBHv/o="
+        },
+        "type": "primary"
+    },
+    "VIGILANT - Smaller Dragon knight Tower Shield 25": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "1.0",
+            "file_id": 434468,
+            "file_name": "VIGILANT - Smaller Dragon knight Tower Shield 25-102544-1-0-1697447871.zip",
+            "mod_id": 102544,
+            "hash": "sha256-+tB/0vF7IVdwaEH97ycP/3xrBmKRtFK7Ft68cipX/Vk="
+        },
+        "type": "primary"
+    },
+    "VIGILANT - Misc Items Descriptions": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "1.4-DESC",
+            "file_id": 473961,
+            "file_name": "VIGILANT - Misc Items Descriptions-102544-1-4-DESC-1708759861.zip",
+            "mod_id": 102544,
+            "hash": "sha256-bAUYzUtiIwwpsrGLcSP3fisQSl38aKm1TnOVxz1VOc8="
+        },
+        "type": "primary"
+    },
+    "VIGILANT - The Dragonborn's Bestiary Addon": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "1.1-BESTIARY",
+            "file_id": 526097,
+            "file_name": "VIGILANT - The Dragonborn's Bestiary Addon-102544-1-1-BESTIARY-1722219404.7z",
+            "mod_id": 102544,
+            "hash": "sha256-hrYTswxkYRVnT3WjCzDYOLJ3Mn+ny8oq1PdJ5Ia3pbA="
+        },
+        "type": "primary"
+    },
+    "VIGILANT - No Thalmor Weapons": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "1.2-NOTHALMOR",
+            "file_id": 662736,
+            "file_name": "VIGILANT - No Thalmor Weapons-102544-1-2-NOTHALMOR-1757120461.zip",
+            "mod_id": 102544,
+            "hash": "sha256-fQbYjvkPPqTd+zfHlcqMx5+FLih39BmNRU3CUcBSe7o="
+        },
+        "type": "primary"
+    },
+    "VIGILANT - No Early Daedric Weapons ADF Version": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "1.1-NEDWADF",
+            "file_id": 662737,
+            "file_name": "VIGILANT - No Early Daedric Weapons ADF Version-102544-1-1-NEDWADF-1757120568.7z",
+            "mod_id": 102544,
+            "hash": "sha256-ksLWFaZA+53r0SuLVvTkmI8T0xBDo18xqyuKxsXJiOU="
+        },
+        "type": "primary"
+    },
+    "VIGILANT - No Early Daedric Weapons": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "1.2-EARLYDAED",
+            "file_id": 662739,
+            "file_name": "VIGILANT - No Early Daedric Weapons-102544-1-2-EARLYDAED-1757120636.zip",
+            "mod_id": 102544,
+            "hash": "sha256-8yNPb7I1jgnjvdIbQU2KWnUahrwSFpSdJQ54ehGrKms="
+        },
+        "type": "primary"
+    },
+    "VIGILANT - No Multi Hit Swings": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "1.1-Nomultihit",
+            "file_id": 685599,
+            "file_name": "VIGILANT - No Multi Hit Swings-102544-1-1-Nomultihit-1762674150.7z",
+            "mod_id": 102544,
+            "hash": "sha256-txCWMr9oJ6Jeamr12MLoIpHP7+D9BkFlB+kXFwp5xdw="
+        },
+        "type": "primary"
+    },
+    "VIGILANT - Vigil Enforcer Distribution SPID": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "1.1-VigilantSpid",
+            "file_id": 685600,
+            "file_name": "VIGILANT - Vigil Enforcer Distribution SPID-102544-1-1-Vigilantarmorspiddistribution-1762674226.7z",
+            "mod_id": 102544,
+            "hash": "sha256-pXAx26LxhEPjEITd/yTTce+96ePJDuJfLClNiM+TGqo="
+        },
+        "type": "primary"
+    }
+}

@@ -1,0 +1,23 @@
+{
+  "LLFP_SFO_patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0.0",
+      "file_id": 611367,
+      "file_name": "LLFP_SFO_patch-145240-1-0-0-1743271940.zip",
+      "mod_id": 145240,
+      "hash": "sha256-68GodhwmOfW7XLfs45RRAaBd+fD/tr2/i6xGgFkAtCQ="
+    }
+  },
+  "LLFP": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "2.2.0",
+      "file_id": 694363,
+      "file_name": "LLFP-145240-2-2-0-1764859745.zip",
+      "mod_id": 145240,
+      "hash": "sha256-+/hZiJuIBbopGa86GFj58ZjHCGo6oxy66kb7QF5ls1M="
+    },
+    "type": "primary"
+  }
+}

@@ -1,0 +1,33 @@
+{
+    "HSWhiterun - Severio Pelagia's House": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "1.0.0",
+            "file_id": 399924,
+            "file_name": "HSWhiterun - Severio Pelagia's House-94003-1-0-0-1687461613.7z",
+            "mod_id": 94003,
+            "hash": "sha256-SGnhCQN40fIEidBjwOJ+G66yv8ZilVIBaoecDAMGkTs="
+        },
+        "type": "primary"
+    },
+    "HSWhiterun - Severio Pelagia's House - ELFX": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "1.0.0",
+            "file_id": 399925,
+            "file_name": "HSWhiterun - Severio Pelagia's House - ELFX-94003-1-0-0-1687461648.7z",
+            "mod_id": 94003,
+            "hash": "sha256-6qXfeSU/1uTkJCpAqsIQu+jn/Zco/v4mpI2gcl5aHpU="
+        }
+    },
+    "HSWhiterun - Severio Pelagia's House - LUX": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "1.0.0",
+            "file_id": 399926,
+            "file_name": "HSWhiterun - Severio Pelagia's House - LUX-94003-1-0-0-1687461681.7z",
+            "mod_id": 94003,
+            "hash": "sha256-X4lhT0p4tXwJ56w7cpqndklMEYjIXGwy8Ql/Xf2mTX0="
+        }
+    }
+}

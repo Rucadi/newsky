@@ -1,0 +1,24 @@
+{
+  "GOAT HD 2.0": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "2.0",
+      "file_id": 444628,
+      "file_name": "GOAT HD 2.0-22802-2-0-1700556770.7z",
+      "mod_id": 22802,
+      "hash": "sha256-rdhq3gfHj59YtKpAStHaI0yS2sK0PL/qf2lKWfHpZUo="
+    },
+    "type": "primary"
+  },
+  "Patch for Fluffworks": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "2.0",
+      "file_id": 444629,
+      "file_name": "Patch for Fluffworks-22802-2-0-1700556963.7z",
+      "mod_id": 22802,
+      "hash": "sha256-6ODwRWXevn/lbDrR4QisLKrylJNOyvkEw27fwDdUAf4="
+    },
+    "type": "primary"
+  }
+}

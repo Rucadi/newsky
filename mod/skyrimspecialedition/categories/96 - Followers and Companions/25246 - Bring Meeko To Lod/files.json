@@ -1,0 +1,33 @@
+{
+  "Bring Meeko to Lod LE - How Hard Is This Persuasion Check Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 89239,
+      "file_name": "Bring Meeko to Lod LE - How Hard Is This Persuasion Check Patch-25246-1-0-1555935985.7z",
+      "mod_id": 25246,
+      "hash": "sha256-bmVVLXn7jyFA9avq5ksoTIo3muLhqIR3iqnK5HRSM4c="
+    }
+  },
+  "Bring Meeko to Lod - Missing Follower Dialog Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0a",
+      "file_id": 423809,
+      "file_name": "Bring Meeko to Lod - Missing Follower Dialogue Pat-25246-1-0a-1694022334.7z",
+      "mod_id": 25246,
+      "hash": "sha256-hx6sae3qJlb9ULueQgS5Swxec4dG+kUhpCHjha/kkGQ="
+    }
+  },
+  "Bring Meeko to Lod": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.2",
+      "file_id": 653520,
+      "file_name": "Bring Meeko to Lod-25246-1-2-1754561497.7z",
+      "mod_id": 25246,
+      "hash": "sha256-e0DPj1Jmqu4svw1Q7iPzHXf+DXdQI+T6pIlmbWyBCEk="
+    },
+    "type": "primary"
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "HDT-SMP Vanilla Ebony Armor Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 356044,
+      "file_name": "HDT-SMP Vanilla Ebony Armor Patch-84159-1-0-1675471020.rar",
+      "mod_id": 84159,
+      "hash": "sha256-ExK4pG7cfc+ImkHEDhh76T8uXAqj58zkH2IJ0SaTKsg="
+    },
+    "type": "primary"
+  },
+  "HDT-SMP Vanilla Ebony Mail Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 356045,
+      "file_name": "HDT-SMP Vanilla Ebony Mail Patch-84159-1-0-1675471040.rar",
+      "mod_id": 84159,
+      "hash": "sha256-TIACNHI0SLBdiAHZSh+KA9sXEctVNfY57uZx76/KS0M="
+    },
+    "type": "primary"
+  }
+}

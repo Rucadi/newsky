@@ -1,0 +1,24 @@
+{
+  "Arcs WispMother Redux 4k": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1",
+      "file_id": 469504,
+      "file_name": "Arcs WispMother Redux-111330-1-1707564762.rar",
+      "mod_id": 111330,
+      "hash": "sha256-oFx8ub5kgx+h46afkxDCmfjGu4VZkpLHEOw5hxme6vU="
+    },
+    "type": "primary"
+  },
+  "Arcs WispMother Redux 2k": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1",
+      "file_id": 471500,
+      "file_name": "Arcs WispMother Redux 2k-111330-1-1708108635.rar",
+      "mod_id": 111330,
+      "hash": "sha256-0RrMI8F4QhwFjk6TxAyIhpwllRweNPgtNtYu05/npHk="
+    },
+    "type": "primary"
+  }
+}

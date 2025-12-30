@@ -1,0 +1,23 @@
+{
+  "HSWhiterun - The Drunken Huntsman": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0.0",
+      "file_id": 314483,
+      "file_name": "HSWhiterun - The Drunken Huntsman-74909-1-0-0-1662695021.7z",
+      "mod_id": 74909,
+      "hash": "sha256-SjeiDXAGWzJJO8EGkm4VAq5TdiXLthZkysfOICoF5Gk="
+    },
+    "type": "primary"
+  },
+  "HSWhiterun - The Drunken Huntsman - LUX": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0.0",
+      "file_id": 344249,
+      "file_name": "HSWhiterun - The Drunken Huntsman - LUX-74909-1-0-0-1672251793.7z",
+      "mod_id": 74909,
+      "hash": "sha256-9Vn5oC0oz3dCDS9KdS8UJBnUlpIywW1jbNNh973wZW0="
+    }
+  }
+}

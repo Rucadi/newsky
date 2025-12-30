@@ -1,0 +1,23 @@
+{
+  "Relationship Rank Change Notifications": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1.1",
+      "file_id": 134992,
+      "file_name": "Relationship Rank Change Notifications-34670-1-1-1-1587248163.zip",
+      "mod_id": 34670,
+      "hash": "sha256-1sCBTDXvIj+j0XfK5VugJ9SCJtI/WeNBr3UCzHrBR6A="
+    },
+    "type": "primary"
+  },
+  "Relationship Rank Notification in Dialogue": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "3.1.0d",
+      "file_id": 282572,
+      "file_name": "Relationship Rank Notification in Dialogue-34670-3-1-0d-1652128602.zip",
+      "mod_id": 34670,
+      "hash": "sha256-pBcZLpocMTWPxQle5c8jqubPveV+3e0Uj+u8AagZd40="
+    }
+  }
+}

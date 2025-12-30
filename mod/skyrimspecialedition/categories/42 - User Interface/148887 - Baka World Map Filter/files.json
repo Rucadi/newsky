@@ -1,0 +1,34 @@
+{
+  "Baka World Map Filter (AE)": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 622273,
+      "file_name": "Baka World Map Filter (AE)-148887-1-0-1745980597.7z",
+      "mod_id": 148887,
+      "hash": "sha256-Wh0lMnx3V2LgGt4hthbeZXOeIFon55toQm/UGbeKJLo="
+    },
+    "type": "primary"
+  },
+  "Example Config": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 622275,
+      "file_name": "Example Config-148887-1-0-1745980642.7z",
+      "mod_id": 148887,
+      "hash": "sha256-DKQXOSBxgmSG0bS5GWlJ5hHAZlY7Bh4sYjjC/Qojhvo="
+    }
+  },
+  "Baka World Map Filter (SE)": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 622276,
+      "file_name": "Baka World Map Filter (SE)-148887-1-0-1745980786.7z",
+      "mod_id": 148887,
+      "hash": "sha256-oIABeyp4HltgZAKzhEGKR0QzktklYe2hANZfoa2TOqw="
+    },
+    "type": "primary"
+  }
+}

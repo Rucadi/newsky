@@ -1,0 +1,35 @@
+{
+  "COCO Witchiness - CBBE 3BA": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 431983,
+      "file_name": "COCO Witchiness - CBBE 3BA-101871-1-0-1696696403.7z",
+      "mod_id": 101871,
+      "hash": "sha256-7gPDRF6eeQll+6D6/JseFBtm/xDQK9BW/Awnm8J6YoY="
+    },
+    "type": "primary"
+  },
+  "COCO Witchiness - COCOBody UUNP SE": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 431986,
+      "file_name": "COCO Witchiness - COCOBody UUNP SE-101871-1-0-1696696682.7z",
+      "mod_id": 101871,
+      "hash": "sha256-KEc1lhyWSxb5wzHRbJKE090SD+DV8lWqifkOu3LJgwE="
+    },
+    "type": "primary"
+  },
+  "COCO Witchiness - COCOBody CBBE SE": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 432176,
+      "file_name": "COCO Witchiness - COCOBody CBBE SE-101871-1-0-1696747247.7z",
+      "mod_id": 101871,
+      "hash": "sha256-BPGS/V+naa5AcLrmlUesCxKhgy787M9hkjC+Cg/D3ck="
+    },
+    "type": "primary"
+  }
+}

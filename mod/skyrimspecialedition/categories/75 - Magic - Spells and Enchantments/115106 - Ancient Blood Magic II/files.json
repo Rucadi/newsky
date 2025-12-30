@@ -1,0 +1,23 @@
+{
+  "Ancient Blood Magic II - Vanilla Lighting Herald": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "ANY",
+      "file_id": 687722,
+      "file_name": "Ancient Blood Magic II - Vanilla Lighting Herald-115106-ANY-1763220242.zip",
+      "mod_id": 115106,
+      "hash": "sha256-NW6TyDAihlIGzZs4QVzo4F3A+6g8DsLRt0s8IqAjbSs="
+    }
+  },
+  "Ancient Blood Magic II": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.6",
+      "file_id": 688226,
+      "file_name": "Ancient Blood Magic II-115106-1-6-1763317329.zip",
+      "mod_id": 115106,
+      "hash": "sha256-WfEeHIZvTg1hKv1bALHWTSTotfiihgfHJzDREEqRxMI="
+    },
+    "type": "primary"
+  }
+}

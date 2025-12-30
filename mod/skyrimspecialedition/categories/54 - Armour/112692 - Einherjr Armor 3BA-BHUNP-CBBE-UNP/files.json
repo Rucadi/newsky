@@ -1,0 +1,56 @@
+{
+    "Einherjr 3BA 4k": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "2.2",
+            "file_id": 614338,
+            "file_name": "Einherjr 3BA 4k-112692-2-2-1743891822.zip",
+            "mod_id": 112692,
+            "hash": "sha256-/uqv916qsmfF9I5ag2+0pQAiY5C6PXft/sUmrYj05lI="
+        },
+        "type": "primary"
+    },
+    "Einherjr BHUNP 4k": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "2.2",
+            "file_id": 614339,
+            "file_name": "Einherjr BHUNP 4k-112692-2-2-1743891937.zip",
+            "mod_id": 112692,
+            "hash": "sha256-XCofl7DDFFA42mD8eaPzhGzdnQLv4KOUnr36ED59jSA="
+        },
+        "type": "primary"
+    },
+    "Einherjr CBBE 4k": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "2.2",
+            "file_id": 614341,
+            "file_name": "Einherjr CBBE 4k-112692-2-2-1743892075.zip",
+            "mod_id": 112692,
+            "hash": "sha256-NOA/ZRvIvaYup7YbxAKqQkcpRzSvgbjBOjNkV0xJvuw="
+        },
+        "type": "primary"
+    },
+    "Einherjr UNP 4k": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "2.2",
+            "file_id": 614342,
+            "file_name": "Einherjr UNP 4k-112692-2-2-1743892181.zip",
+            "mod_id": 112692,
+            "hash": "sha256-DF1m6T4sQUyb4BybA+6xE6AHEcVRU75rR4JNxKs3LkA="
+        },
+        "type": "primary"
+    },
+    "Einherjr 2K Textures": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "2.2",
+            "file_id": 614343,
+            "file_name": "Einherjr 2K Textures-112692-2-2-1743892249.zip",
+            "mod_id": 112692,
+            "hash": "sha256-1O4kTQujE0Tl28X4IXcUTz85zDXZeskE+bfXhzz0WPE="
+        }
+    }
+}

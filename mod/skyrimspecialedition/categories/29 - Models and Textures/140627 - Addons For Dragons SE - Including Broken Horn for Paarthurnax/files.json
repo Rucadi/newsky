@@ -1,0 +1,35 @@
+{
+  "Broken Horn for Paarthurnax": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 589968,
+      "file_name": "Broken Horn for Paarthurnax-140627-1-0-1738443341.7z",
+      "mod_id": 140627,
+      "hash": "sha256-wBtRdWiDLWr1z52cX+rv226Zhp6ftktR52H0mf6oz3I="
+    },
+    "type": "primary"
+  },
+  "Serpentine Dragon Replacer Full Rez": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 589971,
+      "file_name": "Serpentine Dragon Replacer Full Rez-140627-1-0-1738443750.7z",
+      "mod_id": 140627,
+      "hash": "sha256-4jIBMEe2HCFnxYpmKyoeO0wza3B9vDlo2jzUwdo/dxc="
+    },
+    "type": "primary"
+  },
+  "Serpentine Dragon Replacer Half Rez": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 589973,
+      "file_name": "Serpentine Dragon Replacer Half Rez-140627-1-0-1738443884.7z",
+      "mod_id": 140627,
+      "hash": "sha256-NjzT5us5MQutnwseRGgwkJMuVsHXvWz46X07oDXMQI0="
+    },
+    "type": "primary"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "More Dialogue Overhaul": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.5.1",
+      "file_id": 496774,
+      "file_name": "More Dialogue Overhaul-28905-1-5-1-1714580727.7z",
+      "mod_id": 28905,
+      "hash": "sha256-/EiEidCkYV8dJR5x4Zs2APJTRRWa8zzjJ/rQ4DDW+90="
+    },
+    "type": "primary"
+  },
+  "More Dialogue Options - Katja The Thief Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.5.1",
+      "file_id": 703023,
+      "file_name": "More Dialogue Options - Katja The Thief Patch-28905-1-5-1-1766957761.7z",
+      "mod_id": 28905,
+      "hash": "sha256-TEwrw2IKA7XD/rg3W3g+0HHC7J18invvMZ8xMnMNhgY="
+    }
+  }
+}

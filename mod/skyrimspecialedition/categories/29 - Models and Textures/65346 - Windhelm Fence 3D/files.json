@@ -1,0 +1,23 @@
+{
+  "Windhelm Fence 3D - Fomod Installer": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "0.3.4.1",
+      "file_id": 352426,
+      "file_name": "Windhelm Fence 3D - Fomod Installer-65346-0-3-4-1674516295.7z",
+      "mod_id": 65346,
+      "hash": "sha256-a5uA0VPnEJM6G9vQoLFIauKSjcFXPepbDorgTi6PBUo="
+    },
+    "type": "primary"
+  },
+  "Windhelm Fence 3D - 8K Textures": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "0.3.4.1",
+      "file_id": 352520,
+      "file_name": "Windhelm Fence 3D - 8K Textures-65346-0-3-4-1-1674555264.7z",
+      "mod_id": 65346,
+      "hash": "sha256-8UwBukBhc7NueOlY+2C/kZFFeW3R2XiVYfz0LLZ0x9Q="
+    }
+  }
+}

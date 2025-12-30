@@ -1,0 +1,23 @@
+{
+  "Riften Architectural Details": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "2.0",
+      "file_id": 344346,
+      "file_name": "Riften Architectural Details-70854-2-0-1672275501.zip",
+      "mod_id": 70854,
+      "hash": "sha256-Ca7BGXkmnWRzdiNbHo4G5KgUIeTsny1M8UpJgkqZUww="
+    },
+    "type": "primary"
+  },
+  "Simplicity of Seasons support": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "2.0",
+      "file_id": 451538,
+      "file_name": "Simplicity of Seasons support-70854-2-0-1702487435.7z",
+      "mod_id": 70854,
+      "hash": "sha256-dE2jJLCfk2XK8z9zTA+gZXcRutC6cDvu5Enk+C7+74A="
+    }
+  }
+}

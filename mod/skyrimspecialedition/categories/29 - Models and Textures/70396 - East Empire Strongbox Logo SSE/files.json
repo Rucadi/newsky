@@ -1,0 +1,34 @@
+{
+  "East Empire Strongbox Logo - Rustic Retexture by Gamwich (2k)": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "2.1",
+      "file_id": 294681,
+      "file_name": "East Empire Strongbox Logo - Rustic Retexture by Gamwich (2k)-70396-2-1-1656426644.7z",
+      "mod_id": 70396,
+      "hash": "sha256-ubih+v/SFUAY5kD1PYkz67twz4MXshIPaNdMAN1FTsA="
+    },
+    "type": "primary"
+  },
+  "East Empire Strongbox Logo - Rustic Retexture by Gamwich (1k)": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "2.1",
+      "file_id": 294682,
+      "file_name": "East Empire Strongbox Logo - Rustic Retexture by Gamwich (1k)-70396-2-1-1656426722.7z",
+      "mod_id": 70396,
+      "hash": "sha256-F5AQMEEEU+hvYmQgMQM3Bnm6E+S/goc0wbq/iEH8X5w="
+    },
+    "type": "primary"
+  },
+  "East Empire Strongbox Logo - Original Texture by UlithiumDragon": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "2.1",
+      "file_id": 294683,
+      "file_name": "East Empire Strongbox Logo - Original Texture by UlithiumDragon-70396-2-1-1656426824.7z",
+      "mod_id": 70396,
+      "hash": "sha256-oVaB4OC5kn+AWJm/oy6tSj7mwgKIGQiOFZMBo7xwvaU="
+    }
+  }
+}

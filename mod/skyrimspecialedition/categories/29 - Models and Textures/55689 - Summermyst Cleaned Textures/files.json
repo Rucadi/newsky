@@ -1,0 +1,23 @@
+{
+  "Summermyst Cleaned Textures": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1",
+      "file_id": 228823,
+      "file_name": "Summermyst Cleaned Textures-55689-1-1631832044.rar",
+      "mod_id": 55689,
+      "hash": "sha256-pYhfRP267e/jJENFOUwLEPqDpo4lSY9mU+WYQQAMgOs="
+    },
+    "type": "primary"
+  },
+  "Summermyst Cleaned Textures BSA": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1",
+      "file_id": 228828,
+      "file_name": "Summermyst Cleaned Textures BSA-55689-1-1631832122.rar",
+      "mod_id": 55689,
+      "hash": "sha256-nO7pr9wrIB9KTN1VUsLIlxn6t3fBAEhtmwYCCU8ZKlA="
+    }
+  }
+}

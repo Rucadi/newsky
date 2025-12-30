@@ -1,0 +1,23 @@
+{
+  "Behavior Data Injector": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "v0.13",
+      "file_id": 328879,
+      "file_name": "Behavior Data Injector-78146-v0-13-1667564855.7z",
+      "mod_id": 78146,
+      "hash": "sha256-8nHN/4KXU90ftS9yfVyhdYM6u1sugcdZkWNMOmoeXrU="
+    },
+    "type": "primary"
+  },
+  "Payload Interpreter - Nemesis Less Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "v1.0",
+      "file_id": 328880,
+      "file_name": "Payload Interpreter - Nemesis Less Patch-78146-v1-0-1667564948.7z",
+      "mod_id": 78146,
+      "hash": "sha256-jX0PgVDKPgqeB4uKL8NBBI5Ee4GfmxxA+F1uDkbT/uM="
+    }
+  }
+}

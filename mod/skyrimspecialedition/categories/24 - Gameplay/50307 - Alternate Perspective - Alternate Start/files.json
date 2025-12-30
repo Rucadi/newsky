@@ -1,0 +1,54 @@
+{
+    "No Start Room Markers": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "2.4",
+            "file_id": 237598,
+            "file_name": "No Start Room Markers-50307-V2-4-1635455756.zip",
+            "mod_id": 50307,
+            "hash": "sha256-kHt8nY/tm5JwoJmC7KMwdfplHfvJC9jw4znivU55DGU="
+        }
+    },
+    "Anniversary Edition - Bone Wolf Patch": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "2.6",
+            "file_id": 252976,
+            "file_name": "AE - Bone Wolf Patch-50307-V2-6-1640992174.zip",
+            "mod_id": 50307,
+            "hash": "sha256-ZlhzuudBw2lSdb+QEmgxtySwh6ENqo71zf8Twdpo+HA="
+        },
+        "type": "primary"
+    },
+    "Classic Start": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "3.0",
+            "file_id": 306378,
+            "file_name": "Classic Start-50307-3-0-1660153051.zip",
+            "mod_id": 50307,
+            "hash": "sha256-e8kM0UyZAtLWczciGX0/E0thUYNwZgTuvgOVPnKgRnc="
+        }
+    },
+    "Alternate Perspective": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "4.1.0",
+            "file_id": 696437,
+            "file_name": "Alternate Perspective-50307-4-1-0-1765368778.zip",
+            "mod_id": 50307,
+            "hash": "sha256-Nchwi3w+2tec+yVzZ+DTXUR8IKz8E66QvZYC+klbIEQ="
+        },
+        "type": "primary"
+    },
+    "Messenger Spawn": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "4.1.0",
+            "file_id": 696439,
+            "file_name": "Messenger Spawn-50307-4-1-0-1765368891.zip",
+            "mod_id": 50307,
+            "hash": "sha256-iEr4jzUBjCLCS5AKw+67g9GkhP9QP6VzhW9ejgm13NY="
+        }
+    }
+}

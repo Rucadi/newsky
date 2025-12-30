@@ -1,0 +1,68 @@
+{
+  "LSAR_for_VR_Main_Package_for_NMMorMO_ver506": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "5.06vr",
+      "file_id": 86022,
+      "file_name": "LSAR_for_VR_Main_Package_for_NMMorMO_ver506-15326-5-06vr-1553413012.7z",
+      "mod_id": 15326,
+      "hash": "sha256-3EhZ+xJKWtteCY0v79cEiH8QhLR8L+HdNPLHJKU7ci8="
+    },
+    "type": "primary"
+  },
+  "LSAR_AE_for_build2.2.3_ver1.6.640": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "AE2.2.3-ver1.6.640",
+      "file_id": 323072,
+      "file_name": "LSAR_AE_for_build2.2.3_ver1.6.640-15326-AE2-2-3-ver1-6-640-1665414531.7z",
+      "mod_id": 15326,
+      "hash": "sha256-9fy164GcI1Q+it9Iab65JNBCOLhYEPrfXHWeninFXZc="
+    },
+    "type": "primary"
+  },
+  "LSAR_AEgog_for_build2.2.2_ver1.6.659": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "AEgog2.2.2-ver1.6.659",
+      "file_id": 323074,
+      "file_name": "LSAR_AEgog_for_build2.2.2_ver1.6.659-15326-AEgog2-2-2-ver1-6-659-1665414656.7z",
+      "mod_id": 15326,
+      "hash": "sha256-lfNoi1qP/wIMX2nXriFhetVV6D/ib4CTfcU/Z2RUVm4="
+    },
+    "type": "primary"
+  },
+  "LSAR_AEgog_for_build2.2.3_ver1.6.659": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "AEgog2.2.3-ver1.6.659",
+      "file_id": 323075,
+      "file_name": "LSAR_AEgog_for_build2.2.3_ver1.6.659-15326-AEgog2-2-3-ver1-6-659-1665414756.7z",
+      "mod_id": 15326,
+      "hash": "sha256-7ySSrqPgAI+97Dycr5El3xtMbLf2YBusSlotW29jQUQ="
+    },
+    "type": "primary"
+  },
+  "LSAR_SE_for_build2.0.20_ver1.5.97": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "SE2.0.20-ver1.5.97",
+      "file_id": 323076,
+      "file_name": "LSAR_SE_for_build2.0.20_ver1.5.97-15326-SE2-0-20-ver1-5-97-1665414822.7z",
+      "mod_id": 15326,
+      "hash": "sha256-4bBwrOCuCVL78aonpTfq6jMtOLmiu+AUdnqs548Bzs4="
+    },
+    "type": "primary"
+  },
+  "LSARNG_for_AE_for_build2.2.5_ver1.6.1130": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "2.2.5",
+      "file_id": 452643,
+      "file_name": "LSARNG_for_AE_for_build2.2.5_ver1.6.1130-15326-2-2-5-1702813288.7z",
+      "mod_id": 15326,
+      "hash": "sha256-1GTUkMw6P00CnnH7nrOxArZUnJU8k89XJvJd9D8jA98="
+    },
+    "type": "primary"
+  }
+}

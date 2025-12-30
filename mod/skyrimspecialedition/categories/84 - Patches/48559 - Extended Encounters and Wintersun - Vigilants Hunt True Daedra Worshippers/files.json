@@ -1,0 +1,23 @@
+{
+  "Extended Encounters-Wintersun": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 198199,
+      "file_name": "Extended Encounters-Wintersun-48559-1-0-1618436341.zip",
+      "mod_id": 48559,
+      "hash": "sha256-fHNEMER2F0zMgoCs3htoaBlgFzFOh8ittLKCqtuCubI="
+    },
+    "type": "primary"
+  },
+  "Extended Encounters-Wintersun including original conditions": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 198200,
+      "file_name": "Extended Encounters-Wintersun including original conditions-48559-1-0-1618436416.zip",
+      "mod_id": 48559,
+      "hash": "sha256-Wx8qS3h8/x99S3YizP9fBGXSLrO4U9CQY2b40S1hgoE="
+    }
+  }
+}

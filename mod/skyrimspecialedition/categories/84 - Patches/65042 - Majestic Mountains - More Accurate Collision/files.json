@@ -1,0 +1,33 @@
+{
+    "Majestic Mountains - More Accurate Collision - AME Patch": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "4.0",
+            "file_id": 321631,
+            "file_name": "Majestic Mountains - More Accurate Collision - AME Patch-65042-4-0-1664904519.7z",
+            "mod_id": 65042,
+            "hash": "sha256-vdGHnHPok6FxluR/UHgeTsB+VtKjxRH+oYBEADqqC08="
+        }
+    },
+    "Majestic Mountains - More Accurate Collision": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "4.1",
+            "file_id": 327278,
+            "file_name": "Majestic Mountains - More Accurate Collision-65042-4-1-1667019886.7z",
+            "mod_id": 65042,
+            "hash": "sha256-6+2uotwLhePZAg6GIfufcvZDIwNMWDq5f79kYYpXfXI="
+        },
+        "type": "primary"
+    },
+    "MM Complex Material - More Accurate Collision": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "1.0",
+            "file_id": 434699,
+            "file_name": "MM Complex Material - More Accurate Collision-65042-1-0-1697514902.7z",
+            "mod_id": 65042,
+            "hash": "sha256-WOjAWG3BQg4/Cd93sKg5YySUhSLaju+obO5nRxXwjsc="
+        }
+    }
+}

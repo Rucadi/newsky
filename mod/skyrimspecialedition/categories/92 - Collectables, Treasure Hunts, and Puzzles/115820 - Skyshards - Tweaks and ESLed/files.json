@@ -1,0 +1,53 @@
+{
+  "Skyshards Tweaks - ESL Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 487491,
+      "file_name": "Skyshards Tweaks - ESL Patch-115820-1-0-1712253719.zip",
+      "mod_id": 115820,
+      "hash": "sha256-/Gry6YDyMaEEWVWgQ4ahlosxJfIdy4ueftEckue/8rU="
+    },
+    "type": "primary"
+  },
+  "Skyshards Tweaks - Lite mode": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1",
+      "file_id": 675625,
+      "file_name": "Skyshards Tweaks - Lite mode-115820-1-1-1760385973.zip",
+      "mod_id": 115820,
+      "hash": "sha256-4sOV9m+0wZJpCFnRs1qRR03qjA+TRIg4Kfz1a294Cds="
+    }
+  },
+  "Skyshards Tweaks - Lite mode - 1p1s": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1",
+      "file_id": 675627,
+      "file_name": "Skyshards Tweaks - Lite mode - 1p1s-115820-1-1-1760386022.zip",
+      "mod_id": 115820,
+      "hash": "sha256-yiZIO+BJD0WouLU2o5ZZD1KB94NjnZ2awsvkB2w8guE="
+    }
+  },
+  "Skyshards Tweaks - Lite mode - 1p1s - No Beacons": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1",
+      "file_id": 675628,
+      "file_name": "Skyshards Tweaks - Lite mode - 1p1s - No Beacons-115820-1-1-1760386069.zip",
+      "mod_id": 115820,
+      "hash": "sha256-UT//4cpL3rj60cZLsF7DwnbgjMb+mbJr6GNrA6GdIoU="
+    }
+  },
+  "Skyshards Tweaks - Lite mode - No Beacons": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1",
+      "file_id": 675629,
+      "file_name": "Skyshards Tweaks - Lite mode - No Beacons-115820-1-1-1760386097.zip",
+      "mod_id": 115820,
+      "hash": "sha256-RUfgLHDNFuNZ4qm30H2/UgWRKX6R9aQ5WCsvjs2hOlo="
+    }
+  }
+}

@@ -1,0 +1,73 @@
+{
+  "Crimson Corner - Solitude Bordello - Lux Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0.0",
+      "file_id": 454548,
+      "file_name": "Crimson Corner - Solitude Bordello - Lux Patch-107636-1-0-0-1703363853.rar",
+      "mod_id": 107636,
+      "hash": "sha256-AqQ/kx4cNHBW8mHa3SWgvZzSnPS/WcEVEHId1QKW5w8="
+    }
+  },
+  "Crimson Corner - Solitude Bordello - OStim Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0.0",
+      "file_id": 454549,
+      "file_name": "Crimson Corner - Solitude Bordello - OStim Patch-107636-1-0-0-1703363886.rar",
+      "mod_id": 107636,
+      "hash": "sha256-7TXo3J/zLvlO8bXf0OJaj05yvXrvMVI1ANIMbzacXbc="
+    }
+  },
+  "Solitude Bordello - Outlaws Refuge patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0.0",
+      "file_id": 458076,
+      "file_name": "Solitude Bordello - Outlaws Refuge patch-107636-1-0-0-1704452688.rar",
+      "mod_id": 107636,
+      "hash": "sha256-l3n9SaN1pB8YIEOV7ya5uSCYmaytcZkXI+mrgV7eA4U="
+    }
+  },
+  "Crimson Corner - Solitude Bordello": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.2.2",
+      "file_id": 463547,
+      "file_name": "Crimson Corner - Solitude Bordello-107636-1-2-2-1705855820.rar",
+      "mod_id": 107636,
+      "hash": "sha256-0gH1YeXEejoRiq5bS9jxvOA3lYwIxmF1wfN/eaUqYcA="
+    },
+    "type": "primary"
+  },
+  "Solitude Bordello - JK's Skyrim": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0.0",
+      "file_id": 481496,
+      "file_name": "Solitude Bordello - JK's Skyrim-107636-1-0-0-1710682478.rar",
+      "mod_id": 107636,
+      "hash": "sha256-JSrcIgZ25yl2zTWUMTCanWqeZtgCjurMGxe9rqQy07U="
+    }
+  },
+  "Solitude Bordello - Dawn of Skyrim": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0.0",
+      "file_id": 481497,
+      "file_name": "Solitude Bordello - Dawn of Skyrim-107636-1-0-0-1710682510.rar",
+      "mod_id": 107636,
+      "hash": "sha256-SOncxDmA161DNV6votwJCBwzDs+1LesGVUTVmDrioqg="
+    }
+  },
+  "Solitude Bordello - JK's Dawn of Skyrim": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0.0",
+      "file_id": 481498,
+      "file_name": "Solitude Bordello - JK's Dawn of Skyrim-107636-1-0-0-1710682542.rar",
+      "mod_id": 107636,
+      "hash": "sha256-opUw2cnblCdlEBbzacdosg3W97ha4ewf4av5TBWARc4="
+    }
+  }
+}

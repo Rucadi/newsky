@@ -1,0 +1,23 @@
+{
+  "Sleeping Expanded for Interesting NPCs": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 323604,
+      "file_name": "Sleeping Expanded for Interesting NPCs-76753-1-0-1665622790.zip",
+      "mod_id": 76753,
+      "hash": "sha256-x+iy0GVWzttK7Czatuzj96akvP1CbVZsAuX5AuM+W9Y="
+    },
+    "type": "primary"
+  },
+  "Sleeping Expanded for Interesting NPCs Translation FOMOD": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 323987,
+      "file_name": "Sleeping Expanded for Interesting NPCs Translation FOMOD-76753-1-0-1665759455.zip",
+      "mod_id": 76753,
+      "hash": "sha256-JCN43www0jxOnn2vme8EqZ0Eesm/I8z5Vxo+AA+X/U0="
+    }
+  }
+}

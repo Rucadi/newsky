@@ -1,0 +1,23 @@
+{
+  "NR - Riverwood Docks - Windmill Apothecary": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 592982,
+      "file_name": "NR - Riverwood Docks - Windmill Apothecary-138863-1-0-1739173455.zip",
+      "mod_id": 138863,
+      "hash": "sha256-Wj/4WeLu7QRjAzx9YqImC6tqiAR30gxbpfCtxZDU9IE="
+    }
+  },
+  "Ivy - Cozy Corner Patch Hub": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.5.6",
+      "file_id": 624565,
+      "file_name": "Ivy - Cozy Corner Patch Hub-138863-1-5-6-1746603478.zip",
+      "mod_id": 138863,
+      "hash": "sha256-QRjPmoyum4MJlTZ/mQVQ2+AWHIgkULyeb9FLV0u8AQs="
+    },
+    "type": "primary"
+  }
+}

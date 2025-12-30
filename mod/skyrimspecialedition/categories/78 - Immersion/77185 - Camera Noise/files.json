@@ -1,0 +1,23 @@
+{
+  "Camera Noise - Add On": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0.0",
+      "file_id": 558904,
+      "file_name": "Camera Noise - Add On-77185-1-0-0-1730733479.rar",
+      "mod_id": 77185,
+      "hash": "sha256-C2hZOD+8x/yrMvnSXjqmAjz63gZUR2K2/XiqdvMC+L8="
+    }
+  },
+  "Camera Noise": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.2.4",
+      "file_id": 558981,
+      "file_name": "Camera Noise-77185-1-2-4-1730750133.rar",
+      "mod_id": 77185,
+      "hash": "sha256-CDXT8Z+ZEXKedHVI4ob1PzAfm1DMq9WKlZKfzq11HJ4="
+    },
+    "type": "primary"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "Producers of Skyrim (Russian)": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.17",
+      "file_id": 674555,
+      "file_name": "Producers of Skyrim (Russian)-61123-1-17-1760186187.7z",
+      "mod_id": 61123,
+      "hash": "sha256-1Z7A8yiRbf/42U46g8B81XAQry6tz7KBZaXv2Ibr9uM="
+    }
+  },
+  "Producers of Skyrim": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.17",
+      "file_id": 674556,
+      "file_name": "Producers of Skyrim-61123-1-17-1760186248.7z",
+      "mod_id": 61123,
+      "hash": "sha256-V1G/b5yjqpiKcwfjb4k6TsOQuWNoNZUB54KJudJJxCU="
+    },
+    "type": "primary"
+  }
+}

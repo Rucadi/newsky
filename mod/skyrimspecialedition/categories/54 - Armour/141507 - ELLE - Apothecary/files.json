@@ -1,0 +1,23 @@
+{
+  "Apothecary - 3BA": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1",
+      "file_id": 593689,
+      "file_name": "Apothecary - 3BA-141507-1-1739362537.rar",
+      "mod_id": 141507,
+      "hash": "sha256-hTmm/Siout/RFdjivt6Ms6rAIq+r6N+qZG637uujNk8="
+    },
+    "type": "primary"
+  },
+  "Apothecary - UBE Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1",
+      "file_id": 593691,
+      "file_name": "Apothecary - UBE Patch-141507-1-1739362683.rar",
+      "mod_id": 141507,
+      "hash": "sha256-+hEq4JiD9Lrx4HIOUiduPLb2mzq3be2jgHHXPLL2ybo="
+    }
+  }
+}

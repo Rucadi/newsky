@@ -1,0 +1,23 @@
+{
+  "Motionless Rocks Killing People Fix": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.2",
+      "file_id": 369325,
+      "file_name": "Motionless Rocks Killing People Fix-87111-1-2-1679041192.7z",
+      "mod_id": 87111,
+      "hash": "sha256-YhQWUFME5+mdWw70hiJDe1usMSzHcprI6l5oKhDeqRo="
+    },
+    "type": "primary"
+  },
+  "Motionless Rocks Killing People Fix - For Player Too": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.2",
+      "file_id": 371704,
+      "file_name": "Motionless Rocks Killing People Fix - Player Version-87111-1-2-1679681215.7z",
+      "mod_id": 87111,
+      "hash": "sha256-DZ/mMjDHQ3TPSj+2RDdJYOzBs9NLwXJN+Ophegnkzkk="
+    }
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "Leviathan Animations II - Male Idle Walk And Run": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "2.3",
+      "file_id": 349809,
+      "file_name": "Leviathan Animations II - Male Idle Walk And Run-81463-2-3-1673806226.7z",
+      "mod_id": 81463,
+      "hash": "sha256-AuDbbctsPo/qT0sbTmxKJpcrC+7N73rA0c5AVi/W8TY="
+    },
+    "type": "primary"
+  },
+  "CATA Addon - Leviathan II Male Idle Walk Run": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "2.3c",
+      "file_id": 400904,
+      "file_name": "CATA Addon - Leviathan II Male Idle Walk Run-81463-2-3c-1687702355.7z",
+      "mod_id": 81463,
+      "hash": "sha256-cmouzOJXlIywFHED1Ilmwf+OhCPRsS8TyBslYKTiOx4="
+    }
+  }
+}

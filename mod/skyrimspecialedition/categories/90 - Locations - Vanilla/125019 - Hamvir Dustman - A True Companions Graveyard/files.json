@@ -1,0 +1,33 @@
+{
+    "Bent Pines Patch": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "2.0",
+            "file_id": 597143,
+            "file_name": "Bent Pines Patch-125019-2-0-1740106537.zip",
+            "mod_id": 125019,
+            "hash": "sha256-42JfNfoGSUPfzE8EvPN4Ae4ZLc4GzfLepYHw/+NEVfw="
+        }
+    },
+    "Northern Roads Patch": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "2.0",
+            "file_id": 597144,
+            "file_name": "Northern Roads Patch-125019-2-0-1740106577.zip",
+            "mod_id": 125019,
+            "hash": "sha256-3LKmuyinFqB00bjwNy6mN32h1MRpWN3Cpk1RLW3jshY="
+        }
+    },
+    "Hamvir Dustman": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "4.0",
+            "file_id": 670091,
+            "file_name": "Hamvir Dustman-125019-4-0-1759035224.zip",
+            "mod_id": 125019,
+            "hash": "sha256-5dph2a7+oQyictGWFPNMIjWRCVamm2fD+bl2fG7BrXs="
+        },
+        "type": "primary"
+    }
+}

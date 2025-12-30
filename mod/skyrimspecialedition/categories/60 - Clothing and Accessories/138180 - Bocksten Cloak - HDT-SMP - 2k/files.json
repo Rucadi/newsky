@@ -1,0 +1,33 @@
+{
+  "3BA Conversion": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 580004,
+      "file_name": "3BA Conversion-138180-1-0-1736173950.7z",
+      "mod_id": 138180,
+      "hash": "sha256-S8zcGwM60IMILFcFJWL+d+H+boOPZXgs2XKfUWM20J4="
+    }
+  },
+  "BHUNP Conversion": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1",
+      "file_id": 580005,
+      "file_name": "BHUNP Conversion-138180-1-1736173984.7z",
+      "mod_id": 138180,
+      "hash": "sha256-74sQD1ka6ib8KIZ4wXmord8fyo0aOb2cUfyxQnceRxo="
+    }
+  },
+  "Bocksten Cloak": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1",
+      "file_id": 612148,
+      "file_name": "Bocksten Cloak-138180-1-1-1743436422.7z",
+      "mod_id": 138180,
+      "hash": "sha256-2edWlOSCkgYPPfrrH/CnVSRYC6NRQyHwrrpOUCYDdwg="
+    },
+    "type": "primary"
+  }
+}

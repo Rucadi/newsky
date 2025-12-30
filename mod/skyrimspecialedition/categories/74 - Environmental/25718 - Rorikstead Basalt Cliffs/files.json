@@ -1,0 +1,24 @@
+{
+  "Rorikstead Basalt Cliffs": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.2",
+      "file_id": 246128,
+      "file_name": "Rorikstead Basalt Cliffs-25718-1-2-1638472168.7z",
+      "mod_id": 25718,
+      "hash": "sha256-q0QJb4MzLuYsCl0EioV8LO6nZRZCDv5E+F+LP8BVj20="
+    },
+    "type": "primary"
+  },
+  "Rorikstead Basalt Cliffs - No Farm Version": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.2",
+      "file_id": 246871,
+      "file_name": "Rorikstead Basalt Cliffs - No Farm Version-25718-1-2-1638734345.7z",
+      "mod_id": 25718,
+      "hash": "sha256-qEbjT01ou+9G+P/Yw4krRoJI2P4fQI2thTIwYz6Zb+g="
+    },
+    "type": "primary"
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "Kabu's Cathedral 3D Nightshade Redone - Gold": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.4",
+      "file_id": 433624,
+      "file_name": "Kabu's Cathedral 3D Nightshade Redone - Gold-102273-1-4-1697216154.rar",
+      "mod_id": 102273,
+      "hash": "sha256-amvfk4O4WlQ57zYux6LR1Qb+xyC69ldNjEFRnEEAPx0="
+    },
+    "type": "primary"
+  },
+  "Kabu's Cathedral 3D Nightshade Redone - Silver": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.4",
+      "file_id": 433625,
+      "file_name": "Kabu's Cathedral 3D Nightshade Redone - Silver-102273-1-4-1697216176.rar",
+      "mod_id": 102273,
+      "hash": "sha256-dcGBavebVw13eXFaeQxBk1iMYu5VNJH6uQ4+xnKOXc8="
+    },
+    "type": "primary"
+  },
+  "Silver - Snowy Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 434081,
+      "file_name": "Silver - Snowy Patch-102273-1-0-1697338267.rar",
+      "mod_id": 102273,
+      "hash": "sha256-zPJpZUM8L/U0p6KGiG00TBTvf0MIBj+H5hOk50oFoP4="
+    }
+  },
+  "Gold - Snowy Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 434082,
+      "file_name": "Gold - Snowy Patch-102273-1-0-1697338299.rar",
+      "mod_id": 102273,
+      "hash": "sha256-fMShpJ9QaVd0r/KCcyMLYLIU94ctez+qtOK40fpIYQ4="
+    }
+  },
+  "BOS Swap File for Snowy Nightshade": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 610636,
+      "file_name": "BOS Swap File for Snowy Nightshade-102273-1-0-1743126108.7z",
+      "mod_id": 102273,
+      "hash": "sha256-ywBEJv7d2miFjR/K8Ofov6Z0Q33Dlw5TbCkLMQ+YwfQ="
+    }
+  }
+}

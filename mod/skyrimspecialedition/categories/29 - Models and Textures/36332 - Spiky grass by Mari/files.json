@@ -1,0 +1,24 @@
+{
+  "Dark spiky grass": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 141563,
+      "file_name": "Dark spiky grass-36332-1-0-1590222909.7z",
+      "mod_id": 36332,
+      "hash": "sha256-+eE1q9FK1bwWNBhfon8WKOkDofa3SbZVqIoeTOzt5ZY="
+    },
+    "type": "primary"
+  },
+  "Bright spiky grass": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 141564,
+      "file_name": "Bright spiky grass-36332-1-0-1590222971.7z",
+      "mod_id": 36332,
+      "hash": "sha256-/FmzzO9UpbVCyM2c5g+2wp3Tz62q1S0ev6iZbivtTWY="
+    },
+    "type": "primary"
+  }
+}

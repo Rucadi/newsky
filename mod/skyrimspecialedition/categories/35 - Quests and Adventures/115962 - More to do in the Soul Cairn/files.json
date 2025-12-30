@@ -1,0 +1,24 @@
+{
+  "More to do in the Soul Cairn - ESP Version": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1.1",
+      "file_id": 700041,
+      "file_name": "More to do in the Soul Cairn - ESP Version-115962-1-1-1-1766251516.zip",
+      "mod_id": 115962,
+      "hash": "sha256-/LnXTFXd6CmQPywpPwSbcNssfNnfTUJpPsA/q845+jE="
+    },
+    "type": "primary"
+  },
+  "More to do in the Soul Cairn - ESPFE Version": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1.1",
+      "file_id": 700042,
+      "file_name": "More to do in the Soul Cairn - ESPFE Version-115962-1-1-1-1766251550.zip",
+      "mod_id": 115962,
+      "hash": "sha256-5vB1NAI/RhFPNwUWbGtfh/ED67j9UzYLIUS0FmPdWL8="
+    },
+    "type": "primary"
+  }
+}

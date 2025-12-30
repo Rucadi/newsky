@@ -1,0 +1,24 @@
+{
+  "PAN_Lucien v1 SE": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 78296,
+      "file_name": "Pandorable's Lucien SE-22598-1-0-1547460773.rar",
+      "mod_id": 22598,
+      "hash": "sha256-EDNT6XHf7s5LBTPQIWGMi27PUc1HXEx4ZNj2RaRXLtw="
+    },
+    "type": "primary"
+  },
+  "PAN_Lucien v2 SE": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "2.0",
+      "file_id": 518067,
+      "file_name": "PAN_Lucien v2 SE-22598-2-0-1720222383.rar",
+      "mod_id": 22598,
+      "hash": "sha256-DKTynluvf7Y78rYuHopehvnEeTntyo1k30KXrmigsR4="
+    },
+    "type": "primary"
+  }
+}

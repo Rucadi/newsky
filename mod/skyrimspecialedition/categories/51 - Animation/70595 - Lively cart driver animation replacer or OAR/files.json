@@ -1,0 +1,24 @@
+{
+  "Lively cart driver animation replacer - SE or AE": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0.0",
+      "file_id": 295532,
+      "file_name": "Lively cart driver animation replacer - SE or AE-70595-1-0-0-1656732360.zip",
+      "mod_id": 70595,
+      "hash": "sha256-xoU711liKHU9hEAqKJTBduY64lDNrARhz4lSTpUtWao="
+    },
+    "type": "primary"
+  },
+  "Lively Cart Driver Animations (OAR)": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "2.0.1",
+      "file_id": 536307,
+      "file_name": "Lively Cart Driver Animations (OAR)-70595-2-0-1-1724892510.zip",
+      "mod_id": 70595,
+      "hash": "sha256-Ros9KeTMUkqs99c2O1Kr9sUaRnKISRX3VWq9yADkd08="
+    },
+    "type": "primary"
+  }
+}

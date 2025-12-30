@@ -1,0 +1,23 @@
+{
+  "Rock Traps Trigger Fixes": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.6",
+      "file_id": 512888,
+      "file_name": "Rock Traps Trigger Fixes-81587-1-6-1718730113.7z",
+      "mod_id": 81587,
+      "hash": "sha256-yaL++BWz/kT3fhL6s/897l/b3tzyJAhcfiwV/V6xMw8="
+    },
+    "type": "primary"
+  },
+  "Rock Traps Trigger Fixes (Russian)": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.6",
+      "file_id": 512889,
+      "file_name": "Rock Traps Trigger Fixes (Russian)-81587-1-6-1718730134.7z",
+      "mod_id": 81587,
+      "hash": "sha256-1lHFcfMoybC+v3mP4Qg5b4ypfTdlHSJSwQYCKypd7Gk="
+    }
+  }
+}

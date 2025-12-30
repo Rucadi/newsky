@@ -1,0 +1,33 @@
+{
+  "Hasara (Milfactory) - E2A - 3BA or BHUNP": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 540253,
+      "file_name": "Hasara (Milfactory) - E2A - 3BA or BHUNP-128743-1-0-1725837032.rar",
+      "mod_id": 128743,
+      "hash": "sha256-L3UON3ePmtTJ0JU4P4zYacjv+nUkHLVl43HRbjacVno="
+    },
+    "type": "primary"
+  },
+  "The Great Town of Ivarstead Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 540534,
+      "file_name": "The Great Town of Ivarstead Patch-128743-1-0-1725916950.rar",
+      "mod_id": 128743,
+      "hash": "sha256-eBEGspdsWB4V6XSXpIJ0hWMxYA0qnu+/ZvzaUtJcxNg="
+    }
+  },
+  "Thuldor's Ivarstead Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 540535,
+      "file_name": "Thuldor's Ivarstead Patch-128743-1-0-1725916992.rar",
+      "mod_id": 128743,
+      "hash": "sha256-yZJQuuTu1G5sqt4a/gT5Q0GA+bMHr2tv3G+LdkSLEPk="
+    }
+  }
+}

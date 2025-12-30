@@ -1,0 +1,24 @@
+{
+  "Torch Bash Ignites Traps ESL": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0.1",
+      "file_id": 398990,
+      "file_name": "Torch Bash Ignites Traps ESL-80807-1-0-1-1687110352.7z",
+      "mod_id": 80807,
+      "hash": "sha256-wacWhvSTOnLmiZqyX9yiNiSsdFmTgjE4GOpsnAIRT2Q="
+    },
+    "type": "primary"
+  },
+  "Torch Bash Ignites Traps ESPFE": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0.1",
+      "file_id": 398991,
+      "file_name": "Torch Bash Ignites Traps ESPFE-80807-1-0-1-1687110401.7z",
+      "mod_id": 80807,
+      "hash": "sha256-VOuleJVoXgGjggC5AiuaiTJ2wnPggRXyahdMRiQiVbE="
+    },
+    "type": "primary"
+  }
+}

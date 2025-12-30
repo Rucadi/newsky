@@ -1,0 +1,43 @@
+{
+  "RUSTIC RELIEFS": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 133951,
+      "file_name": "RUSTIC RELIEFS-34684-1-0-1586750725.7z",
+      "mod_id": 34684,
+      "hash": "sha256-2pSAHeFERztbmOZOnJTQ4kPu/hBB64glNoplHxYGCvA="
+    },
+    "type": "primary"
+  },
+  "Kings Monuments - German Translation": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 134064,
+      "file_name": "Kings Monuments - German Translation-34684-1-0-1586799623.7z",
+      "mod_id": 34684,
+      "hash": "sha256-1t36hN3f6pQ9XViOjMMBOoKhJDTSifWtuewvUh0Z5Gg="
+    }
+  },
+  "RUSTIC RELIEFS - RUSSIAN": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 349958,
+      "file_name": "RUSTIC RELIEFS - RUSSIAN-34684-1-0-1673838908.7z",
+      "mod_id": 34684,
+      "hash": "sha256-kn2pdxcjtNHpJRUd4mla+YVYvDPpg/JdnaMMwmrj/xE="
+    }
+  },
+  "RUSTIC RELIEFS - Parallax": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.5",
+      "file_id": 397131,
+      "file_name": "RUSTIC RELIEFS - Parallax-34684-1-5-1686538253.7z",
+      "mod_id": 34684,
+      "hash": "sha256-fzNtEOqBxri2KNpskw+L05pOMgwj53ruOoG2EuvIsk8="
+    }
+  }
+}

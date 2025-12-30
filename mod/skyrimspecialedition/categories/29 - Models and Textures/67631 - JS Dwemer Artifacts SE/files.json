@@ -1,0 +1,74 @@
+{
+  "JS Dwemer Artifacts SE - 2k Textures": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1",
+      "file_id": 282589,
+      "file_name": "JS Dwemer Artifacts SE - 2k Textures-67631-1-1-1652140631.7z",
+      "mod_id": 67631,
+      "hash": "sha256-r3JM9ywNS19dzKRxMMvQgNsUjUax7Fjj41ygsKz/Kyk="
+    },
+    "type": "primary"
+  },
+  "JS Dwemer Artifacts SE - 4k Textures": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1",
+      "file_id": 282590,
+      "file_name": "JS Dwemer Artifacts SE - 4k Textures-67631-1-1-1652140762.7z",
+      "mod_id": 67631,
+      "hash": "sha256-XY/waaGiqcOSkeyxlV2co0eO0fQ/QRW7SWxw6QS4Wx0="
+    },
+    "type": "primary"
+  },
+  "JS Dwemer Artifacts SE - GDPR Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 482915,
+      "file_name": "JS Dwemer Artifacts SE - GDPR Patch-67631-1-0-1711053958.7z",
+      "mod_id": 67631,
+      "hash": "sha256-CEXiV54btOSoGLRDa+SHQokB8RXuk2w2vnT676Vvd1U="
+    }
+  },
+  "JS Dwemer Artifacts SE - IDG GDPR Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 482917,
+      "file_name": "JS Dwemer Artifacts SE - IDG GDPR Patch-67631-1-0-1711054047.7z",
+      "mod_id": 67631,
+      "hash": "sha256-vhmmJkg63VJZ8EQ3Pi9Aez7YblYRN1D2Ey65Y2TLBvA="
+    }
+  },
+  "JS Dwemer Artifacts SE - IDG GDPR RDP Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 482918,
+      "file_name": "JS Dwemer Artifacts SE - IDG GDPR RDP Patch-67631-1-0-1711054099.7z",
+      "mod_id": 67631,
+      "hash": "sha256-GloTP4Dnb8xsSqkmCqRif0AOv6vKSCnMKYPNoyUwnW8="
+    }
+  },
+  "JS Dwemer Artifacts SE - IDG Glow GDPR Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 482930,
+      "file_name": "JS Dwemer Artifacts SE - IDG Glow GDPR Patch-67631-1-0-1711054990.7z",
+      "mod_id": 67631,
+      "hash": "sha256-DvnOHxCGuB9u/zwpGFgUAeJK3NjX67ACvB69PPeUNvQ="
+    }
+  },
+  "JS Dwemer Artifacts SE - RDP IDG Glow GDPR Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 482932,
+      "file_name": "JS Dwemer Artifacts SE - RDP IDG Glow GDPR Patch-67631-1-0-1711055063.7z",
+      "mod_id": 67631,
+      "hash": "sha256-luGdyvwA0BnIlyYiTkaRPyGBrJzHAMsGVcH/YZjmBPo="
+    }
+  }
+}

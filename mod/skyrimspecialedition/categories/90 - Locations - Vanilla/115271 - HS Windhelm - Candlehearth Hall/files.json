@@ -1,0 +1,73 @@
+{
+  "HSWindhelm - Candlehearth Hall - ELFX": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0.0",
+      "file_id": 485017,
+      "file_name": "HSWindhelm - Candlehearth Hall - ELFX-115271-1-0-0-1711655674.7z",
+      "mod_id": 115271,
+      "hash": "sha256-pdTWR3tAZLQ+Xpq54DwDWT2ldND/CWlEEEMY787qImc="
+    }
+  },
+  "HSWindhelm - Candlehearth Hall - IC": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0.0",
+      "file_id": 485018,
+      "file_name": "HSWindhelm - Candlehearth Hall - IC-115271-1-0-0-1711655709.7z",
+      "mod_id": 115271,
+      "hash": "sha256-ZPU2KbkZfGxwuw7zZle9qLkgl5NSbsE8LFmIbcsG6dU="
+    }
+  },
+  "HSWindhelm - Candlehearth Hall - LOTD": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0.0",
+      "file_id": 485019,
+      "file_name": "HSWindhelm - Candlehearth Hall - LOTD-115271-1-0-0-1711655734.7z",
+      "mod_id": 115271,
+      "hash": "sha256-cNCw0ib2TC7IPdVbCrb5hCZhCc0F+xeiJp8xGlFM2MQ="
+    }
+  },
+  "HSWindhelm - Candlehearth Hall - LUX": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0.0",
+      "file_id": 485020,
+      "file_name": "HSWindhelm - Candlehearth Hall - LUX-115271-1-0-0-1711655764.7z",
+      "mod_id": 115271,
+      "hash": "sha256-6n0ENl82Dh/oNp9G/2O7Zv+/DM92tyknlPSl1Swt118="
+    }
+  },
+  "HSWindhelm - Candlehearth Hall": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0.0",
+      "file_id": 485037,
+      "file_name": "HSWindhelm - Candlehearth Hall-115271-1-0-0-1711657979.7z",
+      "mod_id": 115271,
+      "hash": "sha256-Jqc1aZOk4uQZLWgi3li3/TgePSXTE+wHB9gnWG3rA2k="
+    },
+    "type": "primary"
+  },
+  "HSWindhelm - Candlehearth Hall - BOSS": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0.0",
+      "file_id": 485173,
+      "file_name": "HSWindhelm - Candlehearth Hall - BOSS-115271-1-0-0-1711683674.7z",
+      "mod_id": 115271,
+      "hash": "sha256-NaAd3Cb/FiUyiNuj93G3vfqwsQOWXsOupiCcdXflQZo="
+    }
+  },
+  "HSWindhelm - Candlehearth Hall - VIGL": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0.0",
+      "file_id": 485748,
+      "file_name": "HSWindhelm - Candlehearth Hall - VIGL-115271-1-0-0-1711820844.7z",
+      "mod_id": 115271,
+      "hash": "sha256-29KgtQorXYkTtC3JRkfZEDSAwALEguBbcpWC825EMZg="
+    }
+  }
+}

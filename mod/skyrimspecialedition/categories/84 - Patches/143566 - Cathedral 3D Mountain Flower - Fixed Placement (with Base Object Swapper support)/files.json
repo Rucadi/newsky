@@ -1,0 +1,34 @@
+{
+  "Cathedral 3D Mountain Flower - Fixed Placement": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 601870,
+      "file_name": "Cathedral 3D Mountain Flower - Fixed Placement-143566-1-0-1741130290.zip",
+      "mod_id": 143566,
+      "hash": "sha256-kZ8l1IXEkN7udIw1i7IQ/LLcUTo+KZbBYpWRc2qZxMw="
+    },
+    "type": "primary"
+  },
+  "Fixed Mesh Lighting Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 601872,
+      "file_name": "Fixed Mesh Lighting Patch-143566-1-0-1741130342.zip",
+      "mod_id": 143566,
+      "hash": "sha256-FbAVYuGGmyqaV30HhBr6GpeaKPgJfpEB41HtVZEhLD8="
+    }
+  },
+  "Cathedral 3D Mountain Flower - Fixed Placement BOS": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 601996,
+      "file_name": "Cathedral 3D Mountain Flower - Fixed Placement BOS-143566-1-0-1741173080.zip",
+      "mod_id": 143566,
+      "hash": "sha256-JTil/TgAgQpkQQfROBxzMh9CFE09CXLTSMQqRHgwywQ="
+    },
+    "type": "primary"
+  }
+}

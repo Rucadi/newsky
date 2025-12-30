@@ -1,0 +1,33 @@
+{
+  "Weapon Sheathed Firstperson Dodge Animations": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "V1.0",
+      "file_id": 238826,
+      "file_name": "Weapon Sheathed Firstperson Dodge Animations-56956-V1-0-1635957823.zip",
+      "mod_id": 56956,
+      "hash": "sha256-A93K/aw8eLHvqIGK6A35OPRE5bzHon4SEoHy1GbA2IU="
+    }
+  },
+  "TK dodge firstperson 8 ways dodge": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "0",
+      "file_id": 400582,
+      "file_name": "TK dodge firstperson 8 ways dodge-56956-0-1687622547.zip",
+      "mod_id": 56956,
+      "hash": "sha256-i1g9iEovnfx/hyqssnhoKdHqECaP4noc6fy29fzLkcw="
+    }
+  },
+  "TK Dodge RE-v0.55-rc3": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "v0.55-rc3",
+      "file_id": 402680,
+      "file_name": "TK Dodge RE-v0.55-rc3-56956-v0-55-rc3-1688194322.zip",
+      "mod_id": 56956,
+      "hash": "sha256-SAnou84BGGRo3GN2Dgs0fLk+Y2xBokEEcCi+EkUoHm8="
+    },
+    "type": "primary"
+  }
+}

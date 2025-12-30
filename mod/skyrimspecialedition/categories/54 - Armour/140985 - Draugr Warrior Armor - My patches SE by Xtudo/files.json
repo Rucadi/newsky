@@ -1,0 +1,53 @@
+{
+  "Draugr Warrior - SE by Xtudo - MY VERSION 4K": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1",
+      "file_id": 591443,
+      "file_name": "Draugr Warrior - SE by Xtudo - MY VERSION 4K-140985-1-1738786441.7z",
+      "mod_id": 140985,
+      "hash": "sha256-r0zIa/XHbp8DeSN0pahX4iRMTplblGeISVwU3Eu63kw="
+    },
+    "type": "primary"
+  },
+  "Draugr Warrior - SE by Xtudo - Textures 2K": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1",
+      "file_id": 591445,
+      "file_name": "Draugr Warrior - SE by Xtudo - Textures 2K-140985-1-1738786474.7z",
+      "mod_id": 140985,
+      "hash": "sha256-ab5dVadl/yiVpdv0FicNR0ApW02m/8FzlhDGsbR1sXM="
+    }
+  },
+  "Draugr Warrior - SE by Xtudo - Textures 1K": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1",
+      "file_id": 591446,
+      "file_name": "Draugr Warrior - SE by Xtudo - Textures 1K-140985-1-1738786497.7z",
+      "mod_id": 140985,
+      "hash": "sha256-RCm+mLPZq4f2XjvBFZ1gEUMLhko51lNyDSn/yQ0B9wA="
+    }
+  },
+  "Draugr Warrior - SE by Xtudo - Non-HDT patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1",
+      "file_id": 591447,
+      "file_name": "Draugr Warrior - SE by Xtudo - Non-HDT patch-140985-1-1738786522.7z",
+      "mod_id": 140985,
+      "hash": "sha256-twXdSIt7ACNbZt/3MowrP4KDnEbV6UVC6hlj2D9+70A="
+    }
+  },
+  "Draugr Warrior - SE by Xtudo - No Glowing Eyes": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1",
+      "file_id": 697172,
+      "file_name": "Draugr Warrior - SE by Xtudo - No Glowing Eyes-140985-1-1-1765543536.7z",
+      "mod_id": 140985,
+      "hash": "sha256-syhj/owZGzLn/hy/kCEtoSTl6SJ6fQ4SKy5MnfyyKfw="
+    }
+  }
+}

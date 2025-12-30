@@ -1,0 +1,33 @@
+{
+  "UUNP BodySlide presets I used": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 462795,
+      "file_name": "UUNP BodySlide presets I used-109618-1-0-1705647764.7z",
+      "mod_id": 109618,
+      "hash": "sha256-ph0xxCOxzP26wsj9nRfM8HLb0lMQib1u5WfGROSPUBE="
+    }
+  },
+  "Hott Nocturnal RaceMenu presets": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 462796,
+      "file_name": "Hott Nocturnal RaceMenu presets-109618-1-0-1705647816.7z",
+      "mod_id": 109618,
+      "hash": "sha256-Jhm/Ky0pDoONc0nI74wyWFGhyvAo1EKJ83ZLgWkfk78="
+    }
+  },
+  "Hott Nocturnal 1.1 SSE": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1",
+      "file_id": 463210,
+      "file_name": "Hott Nocturnal 1.1 SSE-109618-1-1-1705770090.7z",
+      "mod_id": 109618,
+      "hash": "sha256-UXBDFkvCUImcv+8x38hb6nw3XAb+ZWWsPG6xRloac2c="
+    },
+    "type": "primary"
+  }
+}

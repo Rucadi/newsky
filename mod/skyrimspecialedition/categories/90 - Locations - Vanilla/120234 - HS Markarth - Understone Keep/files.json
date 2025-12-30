@@ -1,0 +1,43 @@
+{
+  "HSMarkarth - Understone Keep": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0.0",
+      "file_id": 504797,
+      "file_name": "HSMarkarth - Understone Keep-120234-1-0-0-1716652900.7z",
+      "mod_id": 120234,
+      "hash": "sha256-Xc3VbHJPrbqAU5H3wjz5FZGOaIaUHDc2ueWg/QRTBEE="
+    },
+    "type": "primary"
+  },
+  "HSMarkarth - Understone Keep - ELFX": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0.0",
+      "file_id": 504798,
+      "file_name": "HSMarkarth - Understone Keep - ELFX-120234-1-0-0-1716652927.7z",
+      "mod_id": 120234,
+      "hash": "sha256-Q0x181vQL9BwODTY6a2lz33vNYYAR9w6rXU8Q1ONhmk="
+    }
+  },
+  "HSMarkarth - Understone Keep - USSEP": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0.0",
+      "file_id": 504799,
+      "file_name": "HSMarkarth - Understone Keep - USSEP-120234-1-0-0-1716652959.7z",
+      "mod_id": 120234,
+      "hash": "sha256-Z2eD0QtHciN7SXjjNtAPuM247RhP5jfDanpfHVBtETc="
+    }
+  },
+  "HSMarkarth - Understone Keep - LUX": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0.0",
+      "file_id": 504800,
+      "file_name": "HSMarkarth - Understone Keep - LUX-120234-1-0-0-1716652990.7z",
+      "mod_id": 120234,
+      "hash": "sha256-O2ygT/2SQ7e1Hg6QjlAStuYKDYUhByTj5zTE+z0mmbc="
+    }
+  }
+}

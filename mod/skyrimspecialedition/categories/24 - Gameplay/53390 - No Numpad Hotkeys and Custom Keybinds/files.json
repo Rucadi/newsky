@@ -1,0 +1,54 @@
+{
+  "NoNumpadHotkeys after v1.6.1130.0 (only AE)": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1",
+      "file_id": 461992,
+      "file_name": "NoNumpadHotkeys SkyrimAE v1.6.1130-53390-1-1-1705432127.7z",
+      "mod_id": 53390,
+      "hash": "sha256-AfCKF0OO0BTj8G7MbtkntcApus2sTg1nk3glMbOHAu0="
+    },
+    "type": "primary"
+  },
+  "NoNumpadHotkeys before v1.6.1130.0 (mostly SE)": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.2",
+      "file_id": 495751,
+      "file_name": "NoNumpadHotkeysSE-53390-1-2-1714333781.zip",
+      "mod_id": 53390,
+      "hash": "sha256-Idq7gi2wqKVY/W0iH4PmT9GnxiBe0XMhY4e4D6vNh+M="
+    },
+    "type": "primary"
+  },
+  "Mouse Bindings": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 495763,
+      "file_name": "Mouse Bindings-53390-1-0-1714335451.zip",
+      "mod_id": 53390,
+      "hash": "sha256-Mz+UQoffXKbhtgPhE08az9YjHB5vEeDapWUMXjTuHcw="
+    }
+  },
+  "GamepadBindings": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 495764,
+      "file_name": "GamepadBindings-53390-1-0-1714335641.zip",
+      "mod_id": 53390,
+      "hash": "sha256-kdc/mQUU+hmuGVVFlLCRnO0LjGcjZsavXuhkFBocCP4="
+    }
+  },
+  "KeyboardLanguageLayout": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 495768,
+      "file_name": "KeyboardLanguageLayout-53390-1-0-1714335949.zip",
+      "mod_id": 53390,
+      "hash": "sha256-NA1KkFkpPqgG6hwyAa9kLFgXZ6/JGgAPtHvLDHTRtjo="
+    }
+  }
+}

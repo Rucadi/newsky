@@ -1,0 +1,46 @@
+{
+  "TRX SOS Male Addon SMP": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 488491,
+      "file_name": "TRX SOS Male Addon SMP-116144-1-0-1712527664.7z",
+      "mod_id": 116144,
+      "hash": "sha256-T0yvgRJh5zeShTkdPZ9epiaOYHqqWQKbXphwzx3OYls="
+    },
+    "type": "primary"
+  },
+  "TRX SOS Futanari Addon SMP": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1",
+      "file_id": 490490,
+      "file_name": "TRX SOS Futanari Addon SMP-116144-1-1-1713064781.7z",
+      "mod_id": 116144,
+      "hash": "sha256-X4na+jeSaFJBZ0xrLedbDBKzxqu1rgsdgkllnyQWgu0="
+    },
+    "type": "primary"
+  },
+  "TRX TNG Futa Addon SMP": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.2",
+      "file_id": 508131,
+      "file_name": "TRX TNG Futa Addon SMP-116144-1-2-1717467746.7z",
+      "mod_id": 116144,
+      "hash": "sha256-NF8xQv8FjmJRTxRgqXBCysTSH/ljlyMSVSqmKmgb5D0="
+    },
+    "type": "primary"
+  },
+  "TRX TNG Male Addon SMP": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.2",
+      "file_id": 508134,
+      "file_name": "TRX TNG Male Addon SMP-116144-1-2-1717467973.7z",
+      "mod_id": 116144,
+      "hash": "sha256-NIM8V/qX9a+2T36Ft903xj9yzMK4bbgxS1VGEuXrUbI="
+    },
+    "type": "primary"
+  }
+}

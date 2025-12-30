@@ -1,0 +1,35 @@
+{
+  "Hidden Hideouts of Skyrim - Merged": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 5202,
+      "file_name": "Hidden Hideouts of Skyrim - Merged-2625-1-0se.7z",
+      "mod_id": 2625,
+      "hash": "sha256-fsRMNPQagio/T5sMQTNoO+Hyxhg2jdKtVFLXeYcxJo8="
+    },
+    "type": "primary"
+  },
+  "Hidden Hideouts of Skyrim - Merged NavMeshed": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 5203,
+      "file_name": "Hidden Hideouts of Skyrim - Merged NavMeshed-2625-1-0se.7z",
+      "mod_id": 2625,
+      "hash": "sha256-yPc9uwZo9/rACUAJ3ChZiFLXgVg/cUfy97ENLk+0IgY="
+    },
+    "type": "primary"
+  },
+  "Hidden Hideouts of Skyrim - Modular": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 34254,
+      "file_name": "Hidden Hideouts of Skyrim - Modular-2625-1-0.7z",
+      "mod_id": 2625,
+      "hash": "sha256-Pc4Qy62UST3LhFQYBALrGrtXinKgsB/2aZuivAAPtCc="
+    },
+    "type": "primary"
+  }
+}

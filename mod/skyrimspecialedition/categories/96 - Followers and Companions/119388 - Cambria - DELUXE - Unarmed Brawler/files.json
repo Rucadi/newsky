@@ -1,0 +1,33 @@
+{
+  "Cambria RaceMenu and UUNP Bodyslide presets": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 500815,
+      "file_name": "Cambria RaceMenu and UUNP Bodyslide presets-119388-1-0-1715643409.7z",
+      "mod_id": 119388,
+      "hash": "sha256-Jrv4u1tK5aHOEQgDTPjDi3MskeV3PgvgpIRbYFBPqAg="
+    }
+  },
+  "Cambria CBBE BodySlide Preset": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 501175,
+      "file_name": "Cambria CBBE BodySlide Preset-119388-1-0-1715733976.7z",
+      "mod_id": 119388,
+      "hash": "sha256-J9wged4FmYPrzWmgsamoo9m8/q/TKW7hYPF1MIODHXw="
+    }
+  },
+  "Brawler Cambria 3.2 SSE": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "3.2",
+      "file_id": 502302,
+      "file_name": "Brawler Cambria 3.2 SSE-119388-3-2-1716017080.7z",
+      "mod_id": 119388,
+      "hash": "sha256-nR82NITKsTjdpmLUtgHojQG32Zg+SprowInCq5uz3i4="
+    },
+    "type": "primary"
+  }
+}

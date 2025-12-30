@@ -1,0 +1,93 @@
+{
+  "Black Textures": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 37985,
+      "file_name": "Scarlet Dawn - Black v1-0.7z-13058-1-0.7z",
+      "mod_id": 13058,
+      "hash": "sha256-QNjq050AsyHMXEF4n+e8dGR9zkQXUM4kryZj4WOxs9g="
+    }
+  },
+  "Blue Textures": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 37986,
+      "file_name": "Scarlet Dawn - Blue v1-0.7z-13058-1-0.7z",
+      "mod_id": 13058,
+      "hash": "sha256-yhfxYlDFRjypQnZRfFN67hrKSjpSOjlV58rYeh0aX1E="
+    }
+  },
+  "Bright Blue Textures": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 37987,
+      "file_name": "Scarlet Dawn - Bright Blue v1-0.7z-13058-1-0.7z",
+      "mod_id": 13058,
+      "hash": "sha256-mJpFPQ6txStggEbRQb6N10Vy1eJp+SlOMOzR/L3pUPU="
+    }
+  },
+  "Dark Green Textures": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 37988,
+      "file_name": "Scarlet Dawn - Dark Green v1-0.7z-13058-1-0.7z",
+      "mod_id": 13058,
+      "hash": "sha256-2cg/BbzETgZiBCu92j5sB42smgQwZrL2ohTvAMyxOes="
+    }
+  },
+  "Mythic Dawn Textures": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 37989,
+      "file_name": "Scarlet Dawn - Mythic Dawn v1-0.7z-13058-1-0.7z",
+      "mod_id": 13058,
+      "hash": "sha256-QNa0mJfEa7v7zW2Q0Lfp/AsR6bupOMBD5pJhMMEHS9o="
+    }
+  },
+  "Orange Textures": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 37990,
+      "file_name": "Scarlet Dawn - Orange v1-0.7z-13058-1-0.7z",
+      "mod_id": 13058,
+      "hash": "sha256-JUNPgGlKxnwdEQ9X4KOZBLsDEEuaT11YyRv118TzGXM="
+    }
+  },
+  "White Textures 1": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 37991,
+      "file_name": "Scarlet Dawn - White 1 v1-0.7z-13058-1-0.7z",
+      "mod_id": 13058,
+      "hash": "sha256-RwmlQtv7A9vo8gXe6aPaUeWgZtVFz4Lv/NoOQB8iibA="
+    }
+  },
+  "White Textures 2": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 37992,
+      "file_name": "Scarlet Dawn - White 2 v1-0.7z-13058-1-0.7z",
+      "mod_id": 13058,
+      "hash": "sha256-toI3lO4cfWu7Biae3LZNjEDdgnraCV5474/wI2UoD7k="
+    }
+  },
+  "Scarlet Dawn Armor - CBBE SSE": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1",
+      "file_id": 39333,
+      "file_name": "Scarlet Dawn Armor - CBBE SSE-13058-1-1.7z",
+      "mod_id": 13058,
+      "hash": "sha256-CN0Ih31PN7yB+qEpkNfAEFuNXciY+MjD9pdT/gZlrhQ="
+    },
+    "type": "primary"
+  }
+}

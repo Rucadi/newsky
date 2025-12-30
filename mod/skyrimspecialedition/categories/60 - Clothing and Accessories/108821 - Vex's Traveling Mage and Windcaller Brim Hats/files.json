@@ -1,0 +1,34 @@
+{
+  "Vex's Wizard Brim Hats - Physics Version": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "3.5",
+      "file_id": 600276,
+      "file_name": "Vex's Wizard Brim Hats - Physics Version-108821-3-5-1740799301.zip",
+      "mod_id": 108821,
+      "hash": "sha256-ciorWi7xXsh9Cf2rsRJPWcVaiTEH6NMJ4EjjdhJUIjY="
+    },
+    "type": "primary"
+  },
+  "Vex's Wizard Brim Hats - Simple Version": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "3.5",
+      "file_id": 600277,
+      "file_name": "Vex's Wizard Brim Hats - Simple Version-108821-3-5-1740799360.zip",
+      "mod_id": 108821,
+      "hash": "sha256-+aThKjHx8Vr9JeAsjfCN9wjMMqOS5U9gRRKru0+uFps="
+    },
+    "type": "primary"
+  },
+  "SPID College NPC Traveling Mage Robes": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 655749,
+      "file_name": "SPID College NPC Traveling Mage Robes-108821-1-0-1755233423.zip",
+      "mod_id": 108821,
+      "hash": "sha256-aFNrDsmJEEe+6nkPrZ/7b2H/+pFwJ6RY/GVdPV1vziA="
+    }
+  }
+}

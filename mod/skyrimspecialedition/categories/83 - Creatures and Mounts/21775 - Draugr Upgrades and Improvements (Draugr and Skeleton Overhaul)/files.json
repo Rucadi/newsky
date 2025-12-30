@@ -1,0 +1,43 @@
+{
+    "Cannibal Draugr Compatibility Patch SSE v1.5": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "1.5",
+            "file_id": 99581,
+            "file_name": "Cannibal Draugr Compatibility Patch SSE v1.5-21775-1-5-1563365022.7z",
+            "mod_id": 21775,
+            "hash": "sha256-+tTu46HOYoALaD2HHTgOhEe2eM98Mg0oadtTWuQynRY="
+        }
+    },
+    "Draugnarok Addon": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "All",
+            "file_id": 138081,
+            "file_name": "Draugnarok Compatibility Patch SSE v2.0-21775-2-0-1588621725.7z",
+            "mod_id": 21775,
+            "hash": "sha256-IobVxmZWw3/jjyse29mFzHc4cl5fiOcI6cVtuZmuZw8="
+        }
+    },
+    "Subtle Mage FX": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "All",
+            "file_id": 197284,
+            "file_name": "Subtle Mage FX-21775-All-1618064221.7z",
+            "mod_id": 21775,
+            "hash": "sha256-IH30ysC4NazW312dI/QdNfmfA8ZL8CWQ7I+TsXcJHl4="
+        }
+    },
+    "D.U.I. SE v2.4": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "2.4",
+            "file_id": 216947,
+            "file_name": "D.U.I. SE v2.4-21775-2-4-1627325308.7z",
+            "mod_id": 21775,
+            "hash": "sha256-Avt39IGmyI2uJR6yy15Q75hqXApqUNwOKOXryIFUTMI="
+        },
+        "type": "primary"
+    }
+}

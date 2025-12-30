@@ -1,0 +1,24 @@
+{
+  "Immersive College NPCs - No Saarthal": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.00",
+      "file_id": 320217,
+      "file_name": "Immersive College NPCs - No Saarthal-76270-1-00-1664456624.rar",
+      "mod_id": 76270,
+      "hash": "sha256-9PrJDHJhm90pS89ZRZs2UGkH8Tl/dVlcVzi7KQXzKfE="
+    },
+    "type": "primary"
+  },
+  "Immersive College NPCs - No Saarthal - LITE Version": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.00",
+      "file_id": 320218,
+      "file_name": "Immersive College NPCs - No Saarthal - LITE Version-76270-1-00-1664456652.rar",
+      "mod_id": 76270,
+      "hash": "sha256-vzq1hp9KVc/Q8NKy4cQ0c0G1ok1fwnjerNhtGGQFFsU="
+    },
+    "type": "primary"
+  }
+}

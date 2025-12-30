@@ -1,0 +1,23 @@
+{
+  "Traveler's Backpack HDT-SMP ACCAR 1.1.1": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1.1",
+      "file_id": 472008,
+      "file_name": "Traveler's Backpack HDT-SMP ACCAR 1.1.1-111906-1-1-1-1708216941.7z",
+      "mod_id": 111906,
+      "hash": "sha256-oBRKQ0+2vrOj2b6+P69tPrtHvdqrvlEmiOn2lnsHr7U="
+    },
+    "type": "primary"
+  },
+  "Optional No Debuffs HDT-SMP Traveler's Backpack": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1.1",
+      "file_id": 472197,
+      "file_name": "Optional No Debuffs HDT-SMP Traveler's Backpack-111906-1-1-1-1708269307.7z",
+      "mod_id": 111906,
+      "hash": "sha256-JHWfF0Tf4cVBxjn9LSbFGK/XkQu+rhBvyftoMJ5drws="
+    }
+  }
+}

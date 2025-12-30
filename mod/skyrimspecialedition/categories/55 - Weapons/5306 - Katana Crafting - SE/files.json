@@ -1,0 +1,44 @@
+{
+  "Katana Crafting SE - ER Katana - Samurai - Dai Kat": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "3.18.2",
+      "file_id": 662490,
+      "file_name": "Katana Crafting SE - ER Katana - Samurai - Dai Kat-5306-3-18-1a-1757023020.7z",
+      "mod_id": 5306,
+      "hash": "sha256-EnjosfDXl26PBttiqD1auu7s6cJ0ZOiSZSkAjI3i9tw="
+    }
+  },
+  "KatanaCrafting - Animated Armory Skypatcher": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "3.18.2",
+      "file_id": 662644,
+      "file_name": "KatanaCrafting - Animated Armory Skypatcher-5306-3-18-1-1757086571.7z",
+      "mod_id": 5306,
+      "hash": "sha256-35e+PoEEl/77xqUyrSM8bqU6SLAvETztglxhiV7ZOfg="
+    }
+  },
+  "Katana Crafting SE": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "3.18.3",
+      "file_id": 671602,
+      "file_name": "Katana Crafting SE-5306-3-18-3-1759435819.7z",
+      "mod_id": 5306,
+      "hash": "sha256-R0tA3nmdrl/ttXwYMpQwoZchf0FKFb8Pgw3KrdcZFik="
+    },
+    "type": "primary"
+  },
+  "Katana Crafting SE - NoCC": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "3.18.3",
+      "file_id": 671603,
+      "file_name": "Katana Crafting SE - NoCC-5306-3-18-3-1759435920.7z",
+      "mod_id": 5306,
+      "hash": "sha256-OoGV/sKFvwFliXkFpYy+iVUxUiLZnXR/TSIErIT1gGk="
+    },
+    "type": "primary"
+  }
+}

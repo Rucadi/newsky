@@ -1,0 +1,23 @@
+{
+  "HD Reworked Horses": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 103005,
+      "file_name": "SkyrimSE HD Reworked Horses-28249-1-0-1565810425.7z",
+      "mod_id": 28249,
+      "hash": "sha256-ibtJm1nWUp4WFzDNFdnNYdTc5p0h7LSe2bAKbtM/BtE="
+    },
+    "type": "primary"
+  },
+  "HD Reworked Horses 2K-1K": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 103108,
+      "file_name": "SkyrimSE HD Reworked Horses 2K-1K-28249-1-0-1565895834.7z",
+      "mod_id": 28249,
+      "hash": "sha256-hiwv9qWi+oZWLSMY/9uxJ7v6IwMyC/U7SBAawHTPttI="
+    }
+  }
+}

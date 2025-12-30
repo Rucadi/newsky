@@ -1,0 +1,13 @@
+{
+  "Main file": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1",
+      "file_id": 1057,
+      "file_name": "No Intro for SE-1088-1.zip",
+      "mod_id": 1088,
+      "hash": "sha256-SBKi4fuf5HjZnTDA7jjW1Zc330OmitpGbwNAF9C3ixQ="
+    },
+    "type": "primary"
+  }
+}

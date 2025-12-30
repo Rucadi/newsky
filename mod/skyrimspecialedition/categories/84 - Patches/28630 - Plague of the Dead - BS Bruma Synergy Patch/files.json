@@ -1,0 +1,33 @@
+{
+  "Plague of the Dead - BS Bruma Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "2.0.0",
+      "file_id": 249972,
+      "file_name": "Plague of the Dead - BS Bruma Patch-28630-2-0-0-1639794918.7z",
+      "mod_id": 28630,
+      "hash": "sha256-ma4tbNxQYdBglSmYuHH6H0PjzPexvIr+dRLOoOvo0zQ="
+    },
+    "type": "primary"
+  },
+  "Restore Plague of the Dead Sounds": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "2.0.0",
+      "file_id": 249974,
+      "file_name": "Plague of the Dead - Restore CC Sounds-28630-2-0-0-1639795026.7z",
+      "mod_id": 28630,
+      "hash": "sha256-0hZ+MfBJjmgk/Qe1mTip8iPfsg5RfdGakfoRAIotq2s="
+    }
+  },
+  "Zombies Wield Weapons": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "2.0.0",
+      "file_id": 249975,
+      "file_name": "Plague of the Dead - Zombies Wield Weapons-28630-2-0-0-1639795152.7z",
+      "mod_id": 28630,
+      "hash": "sha256-/fouErR+wnoJG8RAvCizmPtvDrEZ90qvwrqrgSz9E80="
+    }
+  }
+}

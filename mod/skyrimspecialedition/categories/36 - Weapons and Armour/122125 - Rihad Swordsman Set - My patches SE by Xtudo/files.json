@@ -1,0 +1,84 @@
+{
+  "Rihad Swordsman - SE by Xtudo - Fixes": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1",
+      "file_id": 512617,
+      "file_name": "Rihad Swordsman - SE by Xtudo - Fixes-122125-1-1718657172.7z",
+      "mod_id": 122125,
+      "hash": "sha256-8yxJeEJTWm0AJ2f5K65AqV+AoTdwnGu2c8HvNUzz2LE="
+    },
+    "type": "primary"
+  },
+  "Rihad Swordsman - SE by Xtudo - CBBE feet patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1",
+      "file_id": 512618,
+      "file_name": "Rihad Swordsman - SE by Xtudo - CBBE feet patch-122125-1-1718657194.7z",
+      "mod_id": 122125,
+      "hash": "sha256-2U2i/FsA7Q0k3qjRo8mLXX+dx06TwTYgnfir3Ncu7rY="
+    }
+  },
+  "Rihad Swordsman - SE by Xtudo - HIMBO feet patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1",
+      "file_id": 512619,
+      "file_name": "Rihad Swordsman - SE by Xtudo - HIMBO feet patch-122125-1-1718657217.7z",
+      "mod_id": 122125,
+      "hash": "sha256-gteD9ozelZYHiy+WqEUW+KqTt89cwziGqAZJ9Vte7Ks="
+    }
+  },
+  "Rihad Swordsman - SE by Xtudo - UNP feet patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1",
+      "file_id": 512620,
+      "file_name": "Rihad Swordsman - SE by Xtudo - UNP feet patch-122125-1-1718657244.7z",
+      "mod_id": 122125,
+      "hash": "sha256-i9tUtO0qGZjzkE/apAiCxmpFBYIzWEgFtG5Sllj1/Ak="
+    }
+  },
+  "Rihad Swordsman - SE by Xtudo - Textures 2K": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1",
+      "file_id": 512621,
+      "file_name": "Rihad Swordsman - SE by Xtudo - Textures 2K-122125-1-1718657282.7z",
+      "mod_id": 122125,
+      "hash": "sha256-cDiuktAqtZsIt5el4w1uUYo/UZrEXmdvAYtgBwEvJyM="
+    }
+  },
+  "Rihad Swordsman - SE by Xtudo - Textures 1K": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1",
+      "file_id": 512622,
+      "file_name": "Rihad Swordsman - SE by Xtudo - Textures 1K-122125-1-1718657301.7z",
+      "mod_id": 122125,
+      "hash": "sha256-I/cJKEXwu5nk398upcZP4kldrs2V0DF3fOKljqnZdrk="
+    }
+  },
+  "Rihad Swordsman - SE by Xtudo - SPID Integration": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1",
+      "file_id": 512819,
+      "file_name": "Rihad Swordsman - SE by Xtudo - SPID Integration-122125-1-1-1718714279.7z",
+      "mod_id": 122125,
+      "hash": "sha256-a0pY7uhtD5IBX5aYXbXc8y4eGBKTs4PVVx+74y54so8="
+    }
+  },
+  "Rihad Swordsman - SE by Xtudo - Fixes Non-HDT": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.2",
+      "file_id": 513262,
+      "file_name": "Rihad Swordsman - SE by Xtudo - Fixes Non-HDT-122125-1-2-1718840201.7z",
+      "mod_id": 122125,
+      "hash": "sha256-Mqge1Lo7Bzjr/kJB9VW+eGsA1oZFeBzPBDYwKCZcY28="
+    },
+    "type": "primary"
+  }
+}

@@ -1,0 +1,63 @@
+{
+  "Star Guardian": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1",
+      "file_id": 531779,
+      "file_name": "Star Guardian-125628-1-1-1723739419.7z",
+      "mod_id": 125628,
+      "hash": "sha256-LkbmKjXmq8d4CELIPPWmRVh1CJYCPGSh7jFTVlnbyQQ="
+    },
+    "type": "primary"
+  },
+  "Star Guardian 2k Complex Material": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1",
+      "file_id": 531780,
+      "file_name": "Star Guardian 2k Complex Material-125628-1-1-1723739442.7z",
+      "mod_id": 125628,
+      "hash": "sha256-CtbP9ln6yZ7HnUtxeS8VGAk1pnvpYEBhLCaN7DpgYi8="
+    }
+  },
+  "Star Guardian 4k": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1",
+      "file_id": 531782,
+      "file_name": "Star Guardian 4k-125628-1-1-1723739569.7z",
+      "mod_id": 125628,
+      "hash": "sha256-LTV/o3SxDEuImSifmyAL48IfPMnshZ9lcnCrx0nurEg="
+    }
+  },
+  "Star Guardian 4k Complex Material": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1",
+      "file_id": 531783,
+      "file_name": "Star Guardian 4k Complex Material-125628-1-1-1723739609.7z",
+      "mod_id": 125628,
+      "hash": "sha256-qAFrCVCLbUcO2qaa1iZpKeUPaiPVT7TCZGx9M8Rr0jg="
+    }
+  },
+  "Star Guardian 8k": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1",
+      "file_id": 531785,
+      "file_name": "Star Guardian 8k-125628-1-1-1723739742.7z",
+      "mod_id": 125628,
+      "hash": "sha256-Jd0d5pYDo6UT2aUgAR6ZRL+DMafXhS+s0362iNKwPtw="
+    }
+  },
+  "Star Guardian 8k Complex Material": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1",
+      "file_id": 531787,
+      "file_name": "Star Guardian 8k Complex Material-125628-1-1-1723739895.7z",
+      "mod_id": 125628,
+      "hash": "sha256-E/M0nhO/ZqEsmnaDxB6usSaqnsE5az4kd/Wi79PHjZ8="
+    }
+  }
+}

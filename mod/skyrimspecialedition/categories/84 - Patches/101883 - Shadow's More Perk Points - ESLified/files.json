@@ -1,0 +1,35 @@
+{
+  "20 percent More Perk Points (ESL)": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1",
+      "file_id": 431285,
+      "file_name": "20 percent More Perk Points (ESL)-101883-1-1696497799.zip",
+      "mod_id": 101883,
+      "hash": "sha256-54Q3hsAEeuqXkPaEG54YBofZ0fYSTV0pEu1cPV24jlM="
+    },
+    "type": "primary"
+  },
+  "50 percent More Perk Points (ESL)": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1",
+      "file_id": 431287,
+      "file_name": "50 percent More Perk Points (ESL)-101883-1-1696497862.zip",
+      "mod_id": 101883,
+      "hash": "sha256-/VtfJIQDLfxl5Kwl4zrFISK/tGpblJO6634c8Xj/gxg="
+    },
+    "type": "primary"
+  },
+  "Perk Points at Skill Levels 50-75-100 (ESL)": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1",
+      "file_id": 431389,
+      "file_name": "Perk Points at Skill Levels 50-75-100 (ESL)-101883-1-1696530024.zip",
+      "mod_id": 101883,
+      "hash": "sha256-z81TRzZFWK1hPi6/x8IpdMbPdfUPT3GTkR9Ka1T24Fo="
+    },
+    "type": "primary"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "All Keys Descriptions Ru": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 452183,
+      "file_name": "All Keys Descriptions Ru-107094-1-0-1702677652.zip",
+      "mod_id": 107094,
+      "hash": "sha256-NjBnvjpPNPe6IsvYw5urGgPkO5J/okgsEUWYPPPKa24="
+    }
+  },
+  "All Keys Descriptions v2.1 En": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "2.1",
+      "file_id": 452486,
+      "file_name": "All Keys Descriptions v2.1 En-107094-2-1-1702754244.zip",
+      "mod_id": 107094,
+      "hash": "sha256-4h9W652Skpx4rBCtkdMLDmLO16bXCI3KJol2kmMzdDw="
+    },
+    "type": "primary"
+  },
+  "All Keys - Tweaks by ChildofDragons": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1",
+      "file_id": 532476,
+      "file_name": "All Keys - Tweaks by ChildofDragons-107094-1-1-1723937892.zip",
+      "mod_id": 107094,
+      "hash": "sha256-XQcTVI9FiM2K9YMB7+rIofoPbsZzsrMo2BApB5WOYD8="
+    }
+  }
+}

@@ -1,33 +1,33 @@
 {
-  "RaceMenu VR 0.4.14": {
-    "nexusmods": {
-      "game_name": "skyrimspecialedition",
-      "version": "0.4.14",
-      "file_id": 154909,
-      "file_name": "RaceMenu VR 0.4.14-19080-0-4-14-1597081369.7z",
-      "mod_id": 19080,
-      "hash": "sha256-UM7J5mPdPeVEPP+kiYmHmZ4b6CmUacWXePwrBgaWtlc="
-    }
-  },
-  "RaceMenu Anniversary Edition v0-4-19-14 GOG": {
-    "nexusmods": {
-      "game_name": "skyrimspecialedition",
-      "version": "0.4.19.14",
-      "file_id": 346031,
-      "file_name": "RaceMenu Anniversary Edition v0-4-19-14 GOG-19080-0-4-19-14-1672694973.7z",
-      "mod_id": 19080,
-      "hash": "sha256-LY+qeikA3eU6muNgkj099Fj96KeelAINMZ4hgxaUVRI="
-    }
-  },
-  "RaceMenu Anniversary Edition v0-4-19-16": {
-    "nexusmods": {
-      "game_name": "skyrimspecialedition",
-      "version": "0.4.19.16",
-      "file_id": 465102,
-      "file_name": "RaceMenu Anniversary Edition v0-4-19-16-19080-0-4-19-16-1706297897.7z",
-      "mod_id": 19080,
-      "hash": "sha256-b3JrlleoWlt5NSyY0hB9iRGUd3FwCJNUbQJUAgCTfn8="
+    "RaceMenu VR 0.4.14": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "0.4.14",
+            "file_id": 154909,
+            "file_name": "RaceMenu VR 0.4.14-19080-0-4-14-1597081369.7z",
+            "mod_id": 19080,
+            "hash": "sha256-UM7J5mPdPeVEPP+kiYmHmZ4b6CmUacWXePwrBgaWtlc="
+        }
     },
-    "type": "primary"
-  }
+    "RaceMenu Anniversary Edition v0-4-19-14 GOG": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "0.4.19.14",
+            "file_id": 346031,
+            "file_name": "RaceMenu Anniversary Edition v0-4-19-14 GOG-19080-0-4-19-14-1672694973.7z",
+            "mod_id": 19080,
+            "hash": "sha256-LY+qeikA3eU6muNgkj099Fj96KeelAINMZ4hgxaUVRI="
+        }
+    },
+    "RaceMenu Anniversary Edition v0-4-19-16": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "0.4.19.16",
+            "file_id": 465102,
+            "file_name": "RaceMenu Anniversary Edition v0-4-19-16-19080-0-4-19-16-1706297897.7z",
+            "mod_id": 19080,
+            "hash": "sha256-b3JrlleoWlt5NSyY0hB9iRGUd3FwCJNUbQJUAgCTfn8="
+        },
+        "type": "primary"
+    }
 }

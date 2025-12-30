@@ -1,0 +1,23 @@
+{
+  "Pandora TK dodge patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "0.1",
+      "file_id": 604798,
+      "file_name": "Pandora TK dodge patch-140026-0-1-1741794174.7z",
+      "mod_id": 140026,
+      "hash": "sha256-HD5g66szYCybfrTUmguKnQ20YY/5tgvRBeRRZiRjd7I="
+    }
+  },
+  "JellyFishFP DAGGER": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.2b",
+      "file_id": 696136,
+      "file_name": "JellyFishFP DAGGER-140026-1-2b-1765297993.7z",
+      "mod_id": 140026,
+      "hash": "sha256-mgG93ev2cU8QizVjUUN5iifA2glZ4Lq6AibKQXT1KKQ="
+    },
+    "type": "primary"
+  }
+}

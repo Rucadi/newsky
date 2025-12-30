@@ -1,0 +1,34 @@
+{
+  "More Sensible Quartermasters": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1",
+      "file_id": 342933,
+      "file_name": "More Sensible Quartermasters-73887-1-1-1671776134.7z",
+      "mod_id": 73887,
+      "hash": "sha256-ODyVU7C1iRx7f6nTsftLm2N1lXCNk4rICInP8G0j7p0="
+    },
+    "type": "primary"
+  },
+  "More Sensible Quartermasters Lite": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1",
+      "file_id": 342934,
+      "file_name": "More Sensible Quartermasters Lite-73887-1-1-1671776153.7z",
+      "mod_id": 73887,
+      "hash": "sha256-3svtkO0HGLTfgpeAWv4edbYXqTvTIH8yGI4YWR+nU3Y="
+    },
+    "type": "primary"
+  },
+  "More Sensible Quartermasters (Russian)": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1",
+      "file_id": 478963,
+      "file_name": "More Sensible Quartermasters (Russian)-73887-1-1-1710067713.7z",
+      "mod_id": 73887,
+      "hash": "sha256-6ju6rzMsCfa0OCeExIXWebNXmN/+TKWmsS8uZZdV9MQ="
+    }
+  }
+}

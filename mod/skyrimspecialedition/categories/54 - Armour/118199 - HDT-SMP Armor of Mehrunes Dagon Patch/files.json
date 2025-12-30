@@ -1,0 +1,44 @@
+{
+  "HDT-SMP Armor of Dagon Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 496323,
+      "file_name": "HDT-SMP Armor of Dagon Patch-118199-1-0-1714476946.rar",
+      "mod_id": 118199,
+      "hash": "sha256-usH9+r4uvM77IOnvUws4D2cuglJdaFtlacUnWL0+Q3A="
+    },
+    "type": "primary"
+  },
+  "HDT-SMP Armor of Dagon Patch for CBBE 3BA": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 496324,
+      "file_name": "HDT-SMP Armor of Dagon Patch for CBBE 3BA-118199-1-0-1714477014.rar",
+      "mod_id": 118199,
+      "hash": "sha256-RwW3Pl8kC26Obimu7DESJnPNFW2AwFoD/m8LA8qJF/k="
+    },
+    "type": "primary"
+  },
+  "A stronger version of the male body": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 496345,
+      "file_name": "A stronger version of the male body-118199-1-0-1714480625.rar",
+      "mod_id": 118199,
+      "hash": "sha256-ICHHhpRpBbV3cBX2/leBWIr24HPOeZr7drN7YKtZmeg="
+    }
+  },
+  "Heavy Armor Footstep Sound": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 496702,
+      "file_name": "Heavy Armor Footstep Sound-118199-1-0-1714562557.rar",
+      "mod_id": 118199,
+      "hash": "sha256-UMn88e4ARhNQvgSmFcZKfZiyVAUef6D7u02htKv7CHk="
+    }
+  }
+}

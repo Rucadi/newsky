@@ -1,0 +1,33 @@
+{
+  "Glass Armors and Weapons Retexture SE": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "2.2.0",
+      "file_id": 602822,
+      "file_name": "Glass Armors and Weapons Retexture SE-87580-2-2-0-1741381025.7z",
+      "mod_id": 87580,
+      "hash": "sha256-bcp1GEqJ9nPh+q2dqs1drCvPwHE8brjo3i0cXGeUUm4="
+    },
+    "type": "primary"
+  },
+  "Glass Armors and Weapons Retexture SE - Half res": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "2.2.0",
+      "file_id": 602823,
+      "file_name": "Glass Armors and Weapons Retexture SE - Half res-87580-2-2-0-1741381157.7z",
+      "mod_id": 87580,
+      "hash": "sha256-GY0kN5xuLCQ9rqpTrusRWfNYGD9HzSNhOVWtQKquKik="
+    }
+  },
+  "Glass Armors and Weapons Retexture SE - Low res": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "2.2.0",
+      "file_id": 602824,
+      "file_name": "Glass Armors and Weapons Retexture SE - Low res-87580-2-2-0-1741381208.7z",
+      "mod_id": 87580,
+      "hash": "sha256-TshIesCaY6bW5WTEV1BfhIEG0qm5ZeanqSqXFdaVx2A="
+    }
+  }
+}

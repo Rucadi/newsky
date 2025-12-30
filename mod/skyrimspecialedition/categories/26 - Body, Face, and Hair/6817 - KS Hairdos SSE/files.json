@@ -1,0 +1,35 @@
+{
+  "KS Hairdos SSE - Male": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.91M",
+      "file_id": 267847,
+      "file_name": "KS Hairdos SSE - Male-6817-1-91M-1646325999.7z",
+      "mod_id": 6817,
+      "hash": "sha256-2FSJsPMJacXKxq1YcsG53DdmDQm7TH4Xn+9n4PufoRA="
+    },
+    "type": "primary"
+  },
+  "KS Hairdos SSE": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.10",
+      "file_id": 628148,
+      "file_name": "KS Hairdos SSE-6817-1-10-1747506054.7z",
+      "mod_id": 6817,
+      "hash": "sha256-jnFtuLL372imialnkjVrmOT6ALbq75Yp8f4XefZa7yU="
+    },
+    "type": "primary"
+  },
+  "KS Hairdos SSE - Female": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.10F",
+      "file_id": 628151,
+      "file_name": "KS Hairdos SSE - Female-6817-1-10F-1747506511.7z",
+      "mod_id": 6817,
+      "hash": "sha256-39jMyjF1UFTRtVl7n7tA6CTbCkbcXAjKchit/T9xIQQ="
+    },
+    "type": "primary"
+  }
+}

@@ -1,0 +1,55 @@
+{
+  "Scrambled Bugs - Special Edition (1.5.97.0 and earlier)": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "17",
+      "file_id": 269169,
+      "file_name": "Scrambled Bugs (Special Edition)-43532-17-1646905605.7z",
+      "mod_id": 43532,
+      "hash": "sha256-JrH6cwXiGvaLV46i9htnVkSqiYwCJQSHMWq0OIds1xk="
+    },
+    "type": "primary"
+  },
+  "Scrambled Bugs - Anniversary Edition (1.6.318.0 to 1.6.353.0)": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "18",
+      "file_id": 273045,
+      "file_name": "Scrambled Bugs (Anniversary Edition)-43532-18-1648397511.7z",
+      "mod_id": 43532,
+      "hash": "sha256-Go8rDS0l9ik/r2JYtaRYoZopSICTDCMkzMLos8pOYWM="
+    },
+    "type": "primary"
+  },
+  "Scrambled Bugs - Anniversary Edition (1.6.629.0 and later)": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "21",
+      "file_id": 368378,
+      "file_name": "Scrambled Bugs - Anniversary Edition (1.6.629.0 and later)-43532-21-1678779028.7z",
+      "mod_id": 43532,
+      "hash": "sha256-hBKXS4NCbhCSWGVSfn1HZOp52w6Io2ZuecEI+tnYjr0="
+    },
+    "type": "primary"
+  },
+  "Script Effect Archetype Crash Fix": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1",
+      "file_id": 368379,
+      "file_name": "Script Effect Archetype Crash Fix-43532-1-1678779345.7z",
+      "mod_id": 43532,
+      "hash": "sha256-I/G2VlLrUWhC2Xj+8Yb6Yce2PT+Kk+STN+Lz+jXgeo4="
+    }
+  },
+  "Vendor Respawn Fix": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1",
+      "file_id": 368380,
+      "file_name": "Vendor Respawn Fix-43532-1-1678779507.7z",
+      "mod_id": 43532,
+      "hash": "sha256-5m5h/Ra0Y0rXvQkohGwosA+SlUMvBe2Fxxps/sQlHcg="
+    }
+  }
+}

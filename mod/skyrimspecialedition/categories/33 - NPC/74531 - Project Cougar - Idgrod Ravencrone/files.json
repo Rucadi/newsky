@@ -1,0 +1,34 @@
+{
+  "Project Cougar - Idgrod Ravencrone": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 312536,
+      "file_name": "Project Cougar - Idgrod Ravencrone-74531-1-0-1662131073.7z",
+      "mod_id": 74531,
+      "hash": "sha256-Ew2l191gE38iOsoKYPMft82v6UP7fRJlvesr2Q2IPlE="
+    },
+    "type": "primary"
+  },
+  "Project Cougar - Idgrod the Younger": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 312537,
+      "file_name": "Project Cougar - Idgrod the Younger-74531-1-0-1662131142.7z",
+      "mod_id": 74531,
+      "hash": "sha256-aUhxYTm/wQ3nwPAiGnhTJ0NuP+oUqfc/ht4T1Cn1rpc="
+    }
+  },
+  "(Updated Version) Project Cougar - Idgrod Ravencrone": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "2.0",
+      "file_id": 353516,
+      "file_name": "(Updated Version) Project Cougar - Idgrod Ravencrone-74531-2-0-1674831938.7z",
+      "mod_id": 74531,
+      "hash": "sha256-WUI5SJcz93JB8VfDzwM5ferR3ff/tcntfoGqDOWC3JA="
+    },
+    "type": "primary"
+  }
+}

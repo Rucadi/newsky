@@ -1,0 +1,43 @@
+{
+    "TWDQE - Wintersun patch": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "1.0.1",
+            "file_id": 548919,
+            "file_name": "TWDQE - Wintersun patch-130774-1-0-1-1728039504.7z",
+            "mod_id": 130774,
+            "hash": "sha256-VLiYStlGZcP/WUnR4TPP4Zikww4zEvBUP16DJP2uB88="
+        },
+        "type": "primary"
+    },
+    "Mephala's Curse (TWDQE non-Hardcore) patch": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "1.0",
+            "file_id": 549084,
+            "file_name": "Mephala's Curse - TWDQE - WSN-130774-1-0-1728088322.7z",
+            "mod_id": 130774,
+            "hash": "sha256-KoXFM1X7oBnAlkDLf8guwlgnsLL3tP6/WDCQtFU6pSw="
+        }
+    },
+    "Mephala's Curse - Wintersun Add-on patch": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "1.0",
+            "file_id": 555710,
+            "file_name": "TWDQE - WSN - MC - WSN-130774-1-0-1729954729.7z",
+            "mod_id": 130774,
+            "hash": "sha256-Rj3PROfKeBI5FdjfcMg1GiLfallpF7M95llGNwyMZz8="
+        }
+    },
+    "Mephala's Curse (TWDQE-Hardcore) patch": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "1.0.1",
+            "file_id": 555731,
+            "file_name": "Mephala's Curse (TWDQE-Hardcore) patch-130774-1-0-1-1729958187.7z",
+            "mod_id": 130774,
+            "hash": "sha256-QAWLkWDas3jrAsysQkQzIpF/DLfY4vKnfn0PglCABxk="
+        }
+    }
+}

@@ -1,0 +1,23 @@
+{
+  "Horse Pose Improvements": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "v1.0.0",
+      "file_id": 478624,
+      "file_name": "Horse Pose Improvements-113535-v1-0-0-1709991975.zip",
+      "mod_id": 113535,
+      "hash": "sha256-7hb1R4JDKiQj1O3nDVNo+3aOs1KNEdSRUUEsCcX0RME="
+    }
+  },
+  "Horse Riding Improvements": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "v1.0.1",
+      "file_id": 478639,
+      "file_name": "Horse Riding Improvements-113535-v1-0-1-1709994468.zip",
+      "mod_id": 113535,
+      "hash": "sha256-V9z6ADj37/jfpSCDUfDwUpaQvfHpKAx7Afig4qbtblc="
+    },
+    "type": "primary"
+  }
+}

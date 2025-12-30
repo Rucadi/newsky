@@ -1,0 +1,33 @@
+{
+  "HSPlayerHomes - Proudspire Manor - LUX": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0.1",
+      "file_id": 370520,
+      "file_name": "HSPlayerHomes - Proudspire Manor - LUX-72313-1-0-1-1679363554.7z",
+      "mod_id": 72313,
+      "hash": "sha256-7s5epgr4L5fmeTt97WMOrps50JMbY6LpnRqr8Za7Tf0="
+    }
+  },
+  "HSPlayerHomes - Proudspire Manor": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "2.0.1",
+      "file_id": 401777,
+      "file_name": "HSPlayerHomes - Proudspire Manor-72313-2-0-1-1687928267.7z",
+      "mod_id": 72313,
+      "hash": "sha256-JakZSUkX7e3w4U8nirCt4RHCtN6d1l5gmpPZ4qT6flg="
+    },
+    "type": "primary"
+  },
+  "HSPlayerHomes - Proudspire Manor - USSEP": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0.1",
+      "file_id": 405353,
+      "file_name": "HSPlayerHomes - Proudspire Manor - USSEP-72313-1-0-1-1688869750.7z",
+      "mod_id": 72313,
+      "hash": "sha256-9C2PXEkAeonThto91Mgd7oseyGE6Vwi/8jT7MB6zRtU="
+    }
+  }
+}

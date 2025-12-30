@@ -1,0 +1,53 @@
+{
+    "Apocalypse - Cheat Chests": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "9.45.0",
+            "file_id": 2253,
+            "file_name": "Apocalypse - Cheat Chests-1090-.zip",
+            "mod_id": 1090,
+            "hash": "sha256-6qFHI+ujhZN4iTmATLAtXTUx6dHgiDIIQbZb9Z78zU0="
+        }
+    },
+    "Apocalypse - Waterstride Spell Addon (Ported by Velgath)": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "9.45.0",
+            "file_id": 72243,
+            "file_name": "Apocalypse - Waterstride Spell Addon (Ported by Velgath)-1090-9-45-1542136751.zip",
+            "mod_id": 1090,
+            "hash": "sha256-fUeu2F+FcrgK07YU9cSobiFOTA/4fbMJYc39/77Jjzg="
+        }
+    },
+    "Apocalypse - Ordinator Compatibility Patch": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "10.0.1",
+            "file_id": 624682,
+            "file_name": "Apocalypse - Ordinator Compatibility Patch-1090-10-0-1-1746634636.zip",
+            "mod_id": 1090,
+            "hash": "sha256-4ejsGWNg8xFmMd18iYB3IQNJ+teweNjr9GuiUnHaI7g="
+        }
+    },
+    "Apocalypse - Vokrii Compatibility Patch": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "10.0.2",
+            "file_id": 624685,
+            "file_name": "Apocalypse - Vokrii Compatibility Patch-1090-10-0-2-1746635576.zip",
+            "mod_id": 1090,
+            "hash": "sha256-cHgP755pPd9bdZoWbSVNbmXLgjaVXpQ2Jh/bUzum4AE="
+        }
+    },
+    "Apocalypse 10.2.2": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "10.2.2",
+            "file_id": 668292,
+            "file_name": "Apocalypse 10.2.2-1090-10-2-2-1758532942.zip",
+            "mod_id": 1090,
+            "hash": "sha256-RMZ8fKq4rdZ/OIYJHpzTCBpm0xOnSn06+0SI3M8WuyI="
+        },
+        "type": "primary"
+    }
+}

@@ -1,0 +1,23 @@
+{
+  "Simple Portable Cooking - No animated camera": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.4",
+      "file_id": 439920,
+      "file_name": "Simple Portable Cooking - No animated camera-101233-1-4-1699152256.7z",
+      "mod_id": 101233,
+      "hash": "sha256-00aiwcNhVkmXTUV1WCKHHQuZL05yXPfGyx9TEbn/rLY="
+    }
+  },
+  "Simple Portable Cooking": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.4.4",
+      "file_id": 485835,
+      "file_name": "Simple Portable Cooking-101233-1-4-4-1711839396.zip",
+      "mod_id": 101233,
+      "hash": "sha256-tr5HrIyB3Co+4aQhm3GVU0T6SnYhNeNQXYd/JdCSlFE="
+    },
+    "type": "primary"
+  }
+}

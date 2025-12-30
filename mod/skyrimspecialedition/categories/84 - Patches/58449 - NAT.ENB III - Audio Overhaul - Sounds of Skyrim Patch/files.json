@@ -1,0 +1,35 @@
+{
+  "NAT - AoS Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1",
+      "file_id": 380836,
+      "file_name": "NAT - AoS Patch-58449-1-1-1682175019.zip",
+      "mod_id": 58449,
+      "hash": "sha256-OXvSQ+C+hqJiONNRBVbQnNKDJd+de/d7xaT/gpsnu1Y="
+    },
+    "type": "primary"
+  },
+  "NAT - SoS - AoS Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1",
+      "file_id": 380837,
+      "file_name": "NAT - SoS - AoS Patch-58449-1-1-1682175044.zip",
+      "mod_id": 58449,
+      "hash": "sha256-yFI32SpmH0JAjHPDhcD0l8qZ2Cm3xUBWkL2GaI8m8tE="
+    },
+    "type": "primary"
+  },
+  "NAT - SoS Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1",
+      "file_id": 380838,
+      "file_name": "NAT - SoS Patch-58449-1-1-1682175061.zip",
+      "mod_id": 58449,
+      "hash": "sha256-I00Rnbo9SUchjwH71Jx7RZaLFhs9BdNv8mrbXtV5rTw="
+    },
+    "type": "primary"
+  }
+}

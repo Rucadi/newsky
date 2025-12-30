@@ -1,0 +1,35 @@
+{
+  "Ancient Coastal Mudcrabs -1k": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1",
+      "file_id": 651791,
+      "file_name": "Ancient Coastal Mudcrabs -1k-129333-1-1-1754017989.zip",
+      "mod_id": 129333,
+      "hash": "sha256-N9QNNvWeOuBKap80+FLIp/7uNOyvy8DTJkLUJswO0j8="
+    },
+    "type": "primary"
+  },
+  "Ancient Coastal Mudcrabs -2k": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1",
+      "file_id": 651792,
+      "file_name": "Ancient Coastal Mudcrabs -2k-129333-1-1-1754018026.zip",
+      "mod_id": 129333,
+      "hash": "sha256-imWnGXT2Vq4ez17GNBou9IUbcHJLZ7ICbJ6CoVl90d8="
+    },
+    "type": "primary"
+  },
+  "Ancient Coastal Mudcrabs -4k": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1",
+      "file_id": 651793,
+      "file_name": "Ancient Coastal Mudcrabs -4k-129333-1-1-1754018060.zip",
+      "mod_id": 129333,
+      "hash": "sha256-V6pgL4VXaXrOXShyFQo71ATqIfyBlRLZjn7wJ2+MnUE="
+    },
+    "type": "primary"
+  }
+}

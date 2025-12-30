@@ -1,0 +1,33 @@
+{
+  "Dark Brotherhood Armors Retexture SE": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1.0",
+      "file_id": 601045,
+      "file_name": "Dark Brotherhood Armors Retexture SE-93890-1-1-0-1740935388.7z",
+      "mod_id": 93890,
+      "hash": "sha256-X4GkAlaSQ/SXmTQ7lKQxHySH9P+73htRX+DOYO+yduI="
+    },
+    "type": "primary"
+  },
+  "Dark Brotherhood Armors Retexture SE - Half Res": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1.0",
+      "file_id": 601046,
+      "file_name": "Dark Brotherhood Armors Retexture SE - Half Res-93890-1-1-0-1740935422.7z",
+      "mod_id": 93890,
+      "hash": "sha256-VxLQbIH7tUU0GVkG9hHNL/JjHInsWobClC6rcoKSE80="
+    }
+  },
+  "Dark Brotherhood Armors Retexture SE - Low Res": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1.0",
+      "file_id": 601047,
+      "file_name": "Dark Brotherhood Armors Retexture SE - Low Res-93890-1-1-0-1740935449.7z",
+      "mod_id": 93890,
+      "hash": "sha256-bx9wighLR9SQYhrp4hakL/p9aGpO1irUVwv7+rH9/y8="
+    }
+  }
+}

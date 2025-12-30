@@ -1,0 +1,33 @@
+{
+    "FDE Mjoll Auri patch": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "1",
+            "file_id": 488099,
+            "file_name": "FDE Mjoll Auri patch-116025-1-1712425603.zip",
+            "mod_id": 116025,
+            "hash": "sha256-VQw6Ltc0+sGWp2QtNoZUio06U/omiyp2Qma7bP/eobc="
+        }
+    },
+    "Remiel patch": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "1",
+            "file_id": 502770,
+            "file_name": "Remiel patch-116025-1-1716126566.zip",
+            "mod_id": 116025,
+            "hash": "sha256-YtmgpJp1wNj64XexQRXjvWx8Ie563wmy+9jKEDv638o="
+        }
+    },
+    "FDE Mjoll": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "1.5",
+            "file_id": 667829,
+            "file_name": "FDE Mjoll-116025-1-5-1758420300.zip",
+            "mod_id": 116025,
+            "hash": "sha256-Ye7n9AARKriTnMGCTW8yY443hDpLX1vDusurYo1Stu8="
+        },
+        "type": "primary"
+    }
+}

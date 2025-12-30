@@ -1,0 +1,35 @@
+{
+  "Informed Mail Delivery": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "2.0",
+      "file_id": 696154,
+      "file_name": "Informed Mail Delivery-66339-2-0-1765303895.7z",
+      "mod_id": 66339,
+      "hash": "sha256-4+2uNX+x5Vo7Z2Uv//yUOcOGoPbgJauJPwnnQBY8Ey8="
+    },
+    "type": "primary"
+  },
+  "Informed Mail Delivery - Vanilla Style": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "2.0",
+      "file_id": 696155,
+      "file_name": "Informed Mail Delivery - Vanilla Style-66339-2-0-1765304022.7z",
+      "mod_id": 66339,
+      "hash": "sha256-r6v3pRAcg5R744dO0txOOYISyuM3d5zTM+3NWdQG57c="
+    },
+    "type": "primary"
+  },
+  "Informed Mail Delivery - Your Own Thoughts": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "2.0",
+      "file_id": 696156,
+      "file_name": "Informed Mail Delivery - Your Own Thoughts-66339-2-0-1765304084.7z",
+      "mod_id": 66339,
+      "hash": "sha256-K608O7DEsQgOOq3vwvkauIfHt/g1ZMyI2Wfa1JrYY9Q="
+    },
+    "type": "primary"
+  }
+}

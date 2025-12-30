@@ -1,0 +1,23 @@
+{
+  "OVirginity Reflowered JSON Configuration File": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "3.0.0",
+      "file_id": 328782,
+      "file_name": "OVirginity Reflowered JSON Configuration File-77929-2-0-1667533582.zip",
+      "mod_id": 77929,
+      "hash": "sha256-5ALFrrslfCk8JtGDMBblF/cdFBRovvuHrjAIfs3rYnI="
+    }
+  },
+  "OVirginity Reflowered": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "3.0.0",
+      "file_id": 408389,
+      "file_name": "OVirginity Reflowered-77929-3-0-0-1689725123.zip",
+      "mod_id": 77929,
+      "hash": "sha256-nf8nnD0FQoYUKUuXYgkEP7uxhDgWUc076wHd8gbqaLQ="
+    },
+    "type": "primary"
+  }
+}

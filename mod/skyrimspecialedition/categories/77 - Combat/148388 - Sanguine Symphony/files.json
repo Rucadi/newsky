@@ -1,0 +1,33 @@
+{
+    "Sanguine Symphony - Latest Version": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "1.1.0",
+            "file_id": 634471,
+            "file_name": "Sanguine Symphony - Latest Version-148388-1-1-0-1749035163.zip",
+            "mod_id": 148388,
+            "hash": "sha256-aX7V/ZzYKHCdNL9cmFxw+6DWZKn05tSgTE7/0pP6Z2A="
+        },
+        "type": "primary"
+    },
+    "Sanguine Symphony - Ultra-HD Textures": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "Tex-UHD-03",
+            "file_id": 634474,
+            "file_name": "Sanguine Symphony - Ultra-HD Textures-148388-Tex-UHD-03-1749035391.zip",
+            "mod_id": 148388,
+            "hash": "sha256-n5PS97g+n6F2Z2x/uCmwaxFSceWY/hZpOlbeEdprwGE="
+        }
+    },
+    "Sanguine Symphony - SD Textures": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "Tex-SD-03",
+            "file_id": 634476,
+            "file_name": "Sanguine Symphony - SD Textures-148388-Tex-SD-03-1749035593.zip",
+            "mod_id": 148388,
+            "hash": "sha256-FSYQOGaD9qw+rZNd5Qsg813ShFpRJ3fXLv+N25g7SfA="
+        }
+    }
+}

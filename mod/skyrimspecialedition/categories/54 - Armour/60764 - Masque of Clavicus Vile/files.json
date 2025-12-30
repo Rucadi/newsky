@@ -1,0 +1,44 @@
+{
+  "Masque of Clavicus Vile - 4k": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.01",
+      "file_id": 251784,
+      "file_name": "Masque of Clavicus Vile - 4k-60764-1-01-1640490129.zip",
+      "mod_id": 60764,
+      "hash": "sha256-hgMIcsQciJ7gfNY0FIkPQuI66jsqZ+TTL7OiXGbJRtI="
+    },
+    "type": "primary"
+  },
+  "Masque of Clavicus Vile - 2k": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.01",
+      "file_id": 251785,
+      "file_name": "Masque of Clavicus Vile - 2k-60764-1-01-1640490173.zip",
+      "mod_id": 60764,
+      "hash": "sha256-4/9DsjQTabZckZJNFWzG6CbZU46qcqx1X/lqaTCmA44="
+    }
+  },
+  "Masque of Trickery - 4K": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.01",
+      "file_id": 252274,
+      "file_name": "Masque of Trickery - 4K-60764-1-01-1640715428.zip",
+      "mod_id": 60764,
+      "hash": "sha256-7EoPWvLWeyMBW1uW4y9SVwK8ZGNLV4Kx7caLq0oBJ4w="
+    },
+    "type": "primary"
+  },
+  "Masque of Trickery - 2K": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.01",
+      "file_id": 252275,
+      "file_name": "Masque of Trickery - 2K-60764-1-01-1640715458.zip",
+      "mod_id": 60764,
+      "hash": "sha256-JMHQajfBtOZyzjrz6Yx47T10iphZKLXTgP1pt3wzRNY="
+    }
+  }
+}

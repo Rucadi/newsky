@@ -1,0 +1,53 @@
+{
+  "High-resolution skin textures for UNP": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1.2",
+      "file_id": 30460,
+      "file_name": "High-resolution skin textures for UNP-11247-1-1-2.7z",
+      "mod_id": 11247,
+      "hash": "sha256-l+igf49i1z1oFJS9e0R7DCkKOzD4bBqW3+STIR7W1GU="
+    }
+  },
+  "Bijin Wives SE 1.1.2": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1.2",
+      "file_id": 30461,
+      "file_name": "Bijin Wives SE 1.1.2-11247-1-1-2.7z",
+      "mod_id": 11247,
+      "hash": "sha256-/W/7fmx/OXPmZX3x2midLtAlG3X7AD4DyoiPd+vQpao="
+    },
+    "type": "primary"
+  },
+  "High-resolution skin textures for CBBE": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1.2",
+      "file_id": 30462,
+      "file_name": "High-resolution skin textures for CBBE-11247-1-1-2.7z",
+      "mod_id": 11247,
+      "hash": "sha256-W+9ihu9qnBWNKmjFmE4BLmwzFwdnRXPKApb6RViH7lQ="
+    }
+  },
+  "Bijin AIO SE": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "AIOSE",
+      "file_id": 30600,
+      "file_name": "Bijin AIO SE-11247-AIOSE.7z",
+      "mod_id": 11247,
+      "hash": "sha256-Twzjcko16bYz+z4HLkbp1UstI1CVV9vF0EoKOsaNJsc="
+    }
+  },
+  "Bijin AIO SE for USSEP": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "AIOSE",
+      "file_id": 30602,
+      "file_name": "Bijin AIO SE for USSEP-11247-AIOSE.7z",
+      "mod_id": 11247,
+      "hash": "sha256-r6X2FTXYNbP9yqND+0HWVrMjEQhajPxD45S9Ni2zfU4="
+    }
+  }
+}

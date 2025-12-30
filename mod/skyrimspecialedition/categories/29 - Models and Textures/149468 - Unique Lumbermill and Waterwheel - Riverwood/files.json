@@ -1,0 +1,24 @@
+{
+  "Unique Lumbermill and Waterwheel - Riverwood": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1",
+      "file_id": 625496,
+      "file_name": "Unique Lumbermill and Waterwheel - Riverwood-149468-1-1-1746856974.rar",
+      "mod_id": 149468,
+      "hash": "sha256-VFLuWqVZxV9OJKCzftA+aYa8emVnfwAFquKZgJC+qWk="
+    },
+    "type": "primary"
+  },
+  "Unique Lumbermill and Waterwheel - Riverwood - P": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1",
+      "file_id": 672512,
+      "file_name": "Unique Lumbermill and Waterwheel - Riverwood - P-149468-1-1-1759661026.rar",
+      "mod_id": 149468,
+      "hash": "sha256-gdumSKi+fnGEBqbuDV8NQ5XpEqekya61x3/DsJsBFWo="
+    },
+    "type": "primary"
+  }
+}

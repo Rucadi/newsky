@@ -1,0 +1,83 @@
+{
+    "Missives - Falskaar Patch": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "2.04b",
+            "file_id": 220857,
+            "file_name": "Missives - Falskaar Patch-26788-2-04b-1628861927.7z",
+            "mod_id": 26788,
+            "hash": "sha256-4ybhv0NkNERMBCSGRQuFQWagSNGqPPNTyNrPeJ7svOg="
+        }
+    },
+    "Missives - Midwood Isle Patch": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "2.04a",
+            "file_id": 261088,
+            "file_name": "Missives - Midwood Isle-26788-2-04a-1643762429.7z",
+            "mod_id": 26788,
+            "hash": "sha256-PLWf/fBBwJFTzUa7mF2UBD8qBzPvRi+0L4y6RHcsiFs="
+        }
+    },
+    "Missives - Wyrmstooth Patch": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "2.05",
+            "file_id": 323061,
+            "file_name": "Missives - Wyrmstooth Patch-26788-2-05-1665413641.7z",
+            "mod_id": 26788,
+            "hash": "sha256-J3NxB2LKsWEuQF+CiK+XI7pf69LTUBsLauQSbFAT0KU="
+        }
+    },
+    "Missives - Beyond Reach Patch": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "2.06b",
+            "file_id": 348881,
+            "file_name": "Missives - Beyond Reach-26788-2-06b-1673535116.7z",
+            "mod_id": 26788,
+            "hash": "sha256-ZnI1inWDB0rBcAGq9iVvkGiUS7q4+frurs6LIrvFUsQ="
+        }
+    },
+    "Missives - Northpoint Patch": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "2.07",
+            "file_id": 476690,
+            "file_name": "Missives - Northpoint Patch-26788-2-07-1709497847.7z",
+            "mod_id": 26788,
+            "hash": "sha256-rT6c3oRKJ7cgLW7pbu6PVGb1WiH+Ln9X1GKpBCbWuK8="
+        }
+    },
+    "Missives - Bruma Patch": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "2.10",
+            "file_id": 620503,
+            "file_name": "Missives - Bruma Patch-26788-2-10-1745444411.7z",
+            "mod_id": 26788,
+            "hash": "sha256-FDo//k49KCgQElWNkvgNrvXN4nnPsecgAQDI9iYJG3w="
+        }
+    },
+    "Missives - Gray Cowl Patch": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "2.11",
+            "file_id": 642518,
+            "file_name": "Missives - Gray Cowl Patch-26788-2-11-1751149970.7z",
+            "mod_id": 26788,
+            "hash": "sha256-axeNl5dwjE1YAFKkssx4D5k18KMDteak+ufbw+FbUw4="
+        }
+    },
+    "Missives - Solstheim Patch": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "2.11.1",
+            "file_id": 658568,
+            "file_name": "Missives - Solstheim Patch-26788-2-11-1-1755989736.7z",
+            "mod_id": 26788,
+            "hash": "sha256-QFewCxQpW4anyvWK1MPuqHlEjT+QSYwNKGghXEuW9a0="
+        },
+        "type": "primary"
+    }
+}

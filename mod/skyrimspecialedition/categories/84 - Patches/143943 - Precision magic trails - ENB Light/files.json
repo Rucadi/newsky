@@ -1,0 +1,23 @@
+{
+  "Precision magic trails - ENB Light": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 603139,
+      "file_name": "Precision magic trails - ENB Light-143943-1-0-1741444876.rar",
+      "mod_id": 143943,
+      "hash": "sha256-hpprfnKAYkxLCtFAH+G8bV58aRgQn8XyiazzxhPL0mY="
+    },
+    "type": "primary"
+  },
+  "Precision magic trails - ENB Light - Smokeless": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.01",
+      "file_id": 604819,
+      "file_name": "Precision magic trails - ENB Light - Smokeless-143943-1-01-1741795671.rar",
+      "mod_id": 143943,
+      "hash": "sha256-T5GzU6PcCwS3sLt2l6SvfS/vfw2CEF7+ZoqPUtSWj+I="
+    }
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "Giant Crab Shells (se-ae) 4k textures": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1",
+      "file_id": 522656,
+      "file_name": "Giant Crab Shells (se-ae) 4k textures-124681-1-1721370601.rar",
+      "mod_id": 124681,
+      "hash": "sha256-W6Pj4PnimcubQDaltD1601XbjBK5+WQzmPuoeVNF4rs="
+    },
+    "type": "primary"
+  },
+  "Giant Crab Shells (se-ae) 2k textures": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1",
+      "file_id": 522657,
+      "file_name": "Giant Crab Shells (se-ae) 2k textures-124681-1-1721370631.rar",
+      "mod_id": 124681,
+      "hash": "sha256-uYG8bLkeLITgTo6YRh/yiAgQW7CCwN8LCICfLZrRtx4="
+    }
+  }
+}

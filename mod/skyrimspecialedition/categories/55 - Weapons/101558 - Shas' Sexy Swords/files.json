@@ -1,0 +1,44 @@
+{
+  "Shas' Sexy Swords 2k": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.2",
+      "file_id": 449757,
+      "file_name": "Shas' Sexy Swords 2k-101558-1-2-1702030465.7z",
+      "mod_id": 101558,
+      "hash": "sha256-txrTCyqeoSUS8CPModRxW0rxKahMTFnQMSz/kl93W2Y="
+    },
+    "type": "primary"
+  },
+  "Shas' Sexy Swords 4k": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.2",
+      "file_id": 449758,
+      "file_name": "Shas' Sexy Swords 4k-101558-1-2-1702030505.7z",
+      "mod_id": 101558,
+      "hash": "sha256-R7tKIBX+/f39o1M01j9rLatUhMzIqp6rY+HSW6AKobE="
+    },
+    "type": "primary"
+  },
+  "Shas' Sexy Swords (Alt Textures) 2k": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.2",
+      "file_id": 449759,
+      "file_name": "Shas' Sexy Swords (Alt Textures) 2k-101558-1-2-1702030562.7z",
+      "mod_id": 101558,
+      "hash": "sha256-WW/yCLPuPeApCta+wag+O74bxm1wdN5ho07pQqT8uvc="
+    }
+  },
+  "Shas' Sexy Swords (Alt Textures) 4k": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.2",
+      "file_id": 449760,
+      "file_name": "Shas' Sexy Swords (Alt Textures) 4k-101558-1-2-1702030610.7z",
+      "mod_id": 101558,
+      "hash": "sha256-dvidSP6MaBOb+Ce/Q8omU5g0H8a7x68yuQ7jfpgK23Q="
+    }
+  }
+}

@@ -1,0 +1,63 @@
+{
+  "Immersive College of Winterhold Compatibility Patch SSE": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.4",
+      "file_id": 115448,
+      "file_name": "Immersive College of Winterhold Compatibility Patch SSE-14168-1-4-1575710618.7z",
+      "mod_id": 14168,
+      "hash": "sha256-C8WmU3o+BMWNmOPy1hR8/MIwVnhE8bf6wFiA8EuQOH8="
+    }
+  },
+  "Immersive College of Winterhold Compatibility Patch SSE (Light Plugin)": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.4",
+      "file_id": 115449,
+      "file_name": "Immersive College of Winterhold Compatibility Patch SSE (Light Plugin)-14168-1-4-1575710673.7z",
+      "mod_id": 14168,
+      "hash": "sha256-PVMKeADnRkpchyOktJ2JToCO0WsdmR44vEAYdD9k5GI="
+    }
+  },
+  "Aetherium Armor and Weapons Compilation Compatibility Patch SSE (Light Plugin)": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 118507,
+      "file_name": "Aetherium Armor and Weapons Compilation Compatibility Patch SSE-14168-1-0-1578111400.7z",
+      "mod_id": 14168,
+      "hash": "sha256-IidmvprsFHC6p32RUmVHWkCnXd7K16jDEgmPVeWAKKg="
+    }
+  },
+  "EVG Animated Traversal Add-On": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 299552,
+      "file_name": "EVG Animated Traversal Add-On-14168-1-0-1658003081.7z",
+      "mod_id": 14168,
+      "hash": "sha256-JnsOohoMDoYnZZQU3zuvigWuIkr2a9XHkc9WF0YWd6g="
+    }
+  },
+  "Shalidor's Mirror Compatibility Patch SSE": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1",
+      "file_id": 452966,
+      "file_name": "Shalidor's Mirror Compatibility Patch SSE-14168-1-1-1702909391.7z",
+      "mod_id": 14168,
+      "hash": "sha256-TRcCoCLEGKL0ulz8s1L0oMuxmjVEIS819arq0CX34/k="
+    }
+  },
+  "The Tools of Kagrenac V1.62 SSE": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.62",
+      "file_id": 457683,
+      "file_name": "The Tools of Kagrenac V1.62 SSE-14168-1-62-1704362404.7z",
+      "mod_id": 14168,
+      "hash": "sha256-iwlurpUOTAOXUSYaUxiI/YNTQ1/He5gLiAbw141vkwY="
+    },
+    "type": "primary"
+  }
+}

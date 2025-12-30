@@ -1,0 +1,23 @@
+{
+  "Tundra Stronghold 1.1": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1",
+      "file_id": 590857,
+      "file_name": "Tundra Stronghold 1.1-140371-1-1-1738639608.zip",
+      "mod_id": 140371,
+      "hash": "sha256-mha5Pjhqfn9QyUiohGjEljtju1u0rMasSEK2X1t+Y18="
+    },
+    "type": "primary"
+  },
+  "Tundra Stronghold No Enb": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1",
+      "file_id": 590860,
+      "file_name": "Tundra Stronghold No Enb-140371-1-1-1738640175.zip",
+      "mod_id": 140371,
+      "hash": "sha256-d9oaL8P7gOKY8d3eatBCXOydwJBaqYNdmnXwlzTRuGE="
+    }
+  }
+}

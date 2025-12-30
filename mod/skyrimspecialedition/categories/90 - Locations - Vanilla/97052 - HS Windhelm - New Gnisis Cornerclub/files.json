@@ -1,0 +1,53 @@
+{
+  "HSWindhelm - New Gnisis Cornerclub": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0.0",
+      "file_id": 411871,
+      "file_name": "HSWindhelm - New Gnisis Cornerclub-97052-1-0-0-1690649711.7z",
+      "mod_id": 97052,
+      "hash": "sha256-3aKtLiF5XDj8cDONRYbtkM/bZ8+vBb1DA4uMFxR4atk="
+    },
+    "type": "primary"
+  },
+  "HSWindhelm - New Gnisis Cornerclub - ELFX": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0.0",
+      "file_id": 411874,
+      "file_name": "HSWindhelm - New Gnisis Cornerclub - ELFX-97052-1-0-0-1690649744.7z",
+      "mod_id": 97052,
+      "hash": "sha256-FZe8R6o+tvumFUO7gGEsLL4V6bbdIncHilnozZepUug="
+    }
+  },
+  "HSWindhelm - New Gnisis Cornerclub - IC": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0.0",
+      "file_id": 411875,
+      "file_name": "HSWindhelm - New Gnisis Cornerclub - IC-97052-1-0-0-1690649777.7z",
+      "mod_id": 97052,
+      "hash": "sha256-GwHHG6OoIcMsnk60fCEgF1eapS1A/qDHo6ClHPE/sbQ="
+    }
+  },
+  "HSWindhelm - New Gnisis Cornerclub - LUX": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0.0",
+      "file_id": 411876,
+      "file_name": "HSWindhelm - New Gnisis Cornerclub - LUX-97052-1-0-0-1690649801.7z",
+      "mod_id": 97052,
+      "hash": "sha256-sPfE8OcbiBD9uV0ZI1I3sU4RLoWkD8Ur1mjgpY/xSP8="
+    }
+  },
+  "HSWindhelm - New Gnisis Cornerclub - LOTD": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0.0",
+      "file_id": 441408,
+      "file_name": "HSWindhelm - New Gnisis Cornerclub - LOTD-97052-1-0-0-1699616705.7z",
+      "mod_id": 97052,
+      "hash": "sha256-lu/gHECSP29htlHJYfMcLsKR+vHNgm6DbNY4ym9LWCU="
+    }
+  }
+}

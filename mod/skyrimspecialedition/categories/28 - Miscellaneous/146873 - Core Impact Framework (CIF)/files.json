@@ -1,0 +1,23 @@
+{
+  "Core Impact Framework - Examples": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "ex-1",
+      "file_id": 617551,
+      "file_name": "Core Impact Framework - Examples-146873-ex-1-1744719823.zip",
+      "mod_id": 146873,
+      "hash": "sha256-7lyRhF/GSPNLd3rvzt/mVgua63HMzuy+IzUPTxgTxEY="
+    }
+  },
+  "Core Impact Framework - Latest Version": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.2.5",
+      "file_id": 669014,
+      "file_name": "Core Impact Framework - Latest Version-146873-1-2-5-1758720471.zip",
+      "mod_id": 146873,
+      "hash": "sha256-YC2lTkmRba6TGlPx4FfX69ek3rnTbXhJTNYWBUO54Nk="
+    },
+    "type": "primary"
+  }
+}

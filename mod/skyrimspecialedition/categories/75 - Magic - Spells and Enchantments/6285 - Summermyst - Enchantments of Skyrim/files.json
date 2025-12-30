@@ -1,0 +1,23 @@
+{
+    "Summermyst - Balance Changes Revert Patch": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "4.0.2",
+            "file_id": 501762,
+            "file_name": "Summermyst - Balance Changes Revert Patch-6285-4-0-1-1715882334.zip",
+            "mod_id": 6285,
+            "hash": "sha256-1w9SG2AmABHWvLNK5kehWc50g8sHOJqTpV+aXctGLD8="
+        }
+    },
+    "Summermyst 4.0.7": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "4.0.7",
+            "file_id": 611308,
+            "file_name": "Summermyst 4.0.7-6285-4-0-7-1743260550.zip",
+            "mod_id": 6285,
+            "hash": "sha256-/ApwEl79S+pTQlWT13ZHJklCYT3cSoIrNnIjOjSzleI="
+        },
+        "type": "primary"
+    }
+}

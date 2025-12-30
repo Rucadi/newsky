@@ -1,0 +1,45 @@
+{
+  "Diverse Firewood  Dynamic Things Alternative Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 427291,
+      "file_name": "Diverse Firewood  Dynamic Things Alternative Patch-100870-1-0-1695132730.rar",
+      "mod_id": 100870,
+      "hash": "sha256-C1pQrdAfT1SV1mdZw38GrCh1Q3Tk+S5dAor6fHTg63w="
+    }
+  },
+  "Really Lootable Diverse Firewood (BOS and DTA)": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.2",
+      "file_id": 470627,
+      "file_name": "Really Lootable Diverse Firewood (BOS and DTA)-100870-1-2-1707871820.rar",
+      "mod_id": 100870,
+      "hash": "sha256-Vagqoi8D9Cj1FAXVlG9j24audIEEr7cE4TnjnNh+hH0="
+    },
+    "type": "primary"
+  },
+  "Diverse Firewood": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.2",
+      "file_id": 694789,
+      "file_name": "Diverse Firewood-100870-1-2-1764973041.rar",
+      "mod_id": 100870,
+      "hash": "sha256-pomBVDyv+UCwy9bLT+MYBBxA1ORfQnVVb6v0I/4U5uA="
+    },
+    "type": "primary"
+  },
+  "Really Lootable Diverse Firewood (BOS)": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.3",
+      "file_id": 694932,
+      "file_name": "Really Lootable Diverse Firewood (BOS)-100870-1-3-1765017730.rar",
+      "mod_id": 100870,
+      "hash": "sha256-GJmD1IIYuTCJtK37zu/g/ZfVFzm1f+/w6n9BFxGD3cE="
+    },
+    "type": "primary"
+  }
+}

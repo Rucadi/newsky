@@ -1,0 +1,53 @@
+{
+  "EFA Morphs": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.2",
+      "file_id": 474962,
+      "file_name": "EFA Morphs-112338-1-2-1709004713.zip",
+      "mod_id": 112338,
+      "hash": "sha256-tApfsD7xN4wJQqNI7dDt542Nh6MM6Z8Ta1svpEydgiM="
+    }
+  },
+  "EFM Morphs": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.2",
+      "file_id": 474965,
+      "file_name": "EFM Morphs-112338-1-2-1709004749.zip",
+      "mod_id": 112338,
+      "hash": "sha256-fJvsgKolSeQprCNK+3AVHr5QApwWQT1LfMNHnUsmBs4="
+    }
+  },
+  "Satisfactory Conversions": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.5",
+      "file_id": 482940,
+      "file_name": "Satisfactory Conversions-112338-1-5-1711055496.zip",
+      "mod_id": 112338,
+      "hash": "sha256-RWOtcNpGT1U/z/+0SWf/UCj204gIwObme2ZxKfvJMw0="
+    },
+    "type": "primary"
+  },
+  "Lunar Lattice Tweaks Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.5",
+      "file_id": 502508,
+      "file_name": "Lunar Lattice Tweaks Patch-112338-1-5-1716066131.zip",
+      "mod_id": 112338,
+      "hash": "sha256-gbVaS5Z0gyNPMTG1bkdynpMrSkIUVseQwJcsWR61Vtc="
+    }
+  },
+  "HeadpartWhitelist Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 514145,
+      "file_name": "HeadpartWhitelist Patch-112338-1-0-1719136356.zip",
+      "mod_id": 112338,
+      "hash": "sha256-yxi97G6DgrDr4a+tvNO5JzC/sZYOHuAjdiTbqyInUoM="
+    }
+  }
+}

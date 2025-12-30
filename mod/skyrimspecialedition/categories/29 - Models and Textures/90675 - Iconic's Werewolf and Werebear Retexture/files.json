@@ -1,0 +1,24 @@
+{
+  "Werebeasts 2K": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 426864,
+      "file_name": "Werebeasts 2K-90675-1-0-1694996127.7z",
+      "mod_id": 90675,
+      "hash": "sha256-V5OU7RqwF1pCPbTqKByDkp3Br9jx5Ik3r99yGgN/ehY="
+    },
+    "type": "primary"
+  },
+  "Werebeasts 4K": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 426865,
+      "file_name": "Werebeasts 4K-90675-1-0-1694996290.7z",
+      "mod_id": 90675,
+      "hash": "sha256-VlU51mpRSyl55d9gP2qZ/ofKxzJNqFwhWLjAiJrl/sU="
+    },
+    "type": "primary"
+  }
+}

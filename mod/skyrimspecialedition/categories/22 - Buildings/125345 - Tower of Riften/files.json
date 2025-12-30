@@ -1,0 +1,33 @@
+{
+  "Tower of RIften": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 525551,
+      "file_name": "Tower of RIften-125345-1-0-1722082429.rar",
+      "mod_id": 125345,
+      "hash": "sha256-yT9m4lfAZ9UVCa2oIWuCmeRujmJUI/uhtjwDhElAwco="
+    },
+    "type": "primary"
+  },
+  "Dawn of Skyrim Patch Regular Version": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 525561,
+      "file_name": "Dawn of Skyrim Patch-125345-1-0-1722083952.rar",
+      "mod_id": 125345,
+      "hash": "sha256-Qp7/9Nucsq0A4WBSixU7nC7OmES4UcgTEvGm3bD6ZjM="
+    }
+  },
+  "Dawn of Skyrim Patch Tall Tower Version": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 525617,
+      "file_name": "Dawn of Skyrim Patch Tall Tower Version-125345-1-0-1722095156.rar",
+      "mod_id": 125345,
+      "hash": "sha256-VZyqqLeI0nmUcVbFnVboFxzm0f2Je4TZdyvXciDcuVw="
+    }
+  }
+}

@@ -1,0 +1,34 @@
+{
+    "Sheogorath Shrine 4k": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "1.0",
+            "file_id": 272453,
+            "file_name": "Sheogorath Shrine 4k-65489-1-0-1648227348.zip",
+            "mod_id": 65489,
+            "hash": "sha256-CPXeAgHIROBnPqggzw49nM9Dh02OihnjvgyRCnOyQnw="
+        },
+        "type": "primary"
+    },
+    "Sheogorath Shrine 2k": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "1.0",
+            "file_id": 272454,
+            "file_name": "Sheogorath Shrine 2k-65489-1-0-1648227381.zip",
+            "mod_id": 65489,
+            "hash": "sha256-Z0lE60grFdV5R+8WilfeqobL9bf4hRab/qPKuJ13n+s="
+        },
+        "type": "primary"
+    },
+    "Sheogorath Shrine -  Wintershun patch": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "1.0",
+            "file_id": 272455,
+            "file_name": "Sheogorath Shrine -  Wintershun patch-65489-1-0-1648227434.zip",
+            "mod_id": 65489,
+            "hash": "sha256-UMjOdcxfs1Ra8CAw4o7Xit4uA/ZlSL/895FvjzWsD8s="
+        }
+    }
+}

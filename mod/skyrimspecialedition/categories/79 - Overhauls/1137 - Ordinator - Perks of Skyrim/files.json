@@ -1,0 +1,53 @@
+{
+    "20 percent More Perk Points": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "",
+            "file_id": 1830,
+            "file_name": "20 percent More Perk Points-1137-.zip",
+            "mod_id": 1137,
+            "hash": "sha256-9vQ87bGdPM5migT3XjQRA6bcEDTB75DDhTbHFjsV6Z0="
+        }
+    },
+    "50 percent More Perk Points": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "",
+            "file_id": 1832,
+            "file_name": "50 percent More Perk Points-1137-.zip",
+            "mod_id": 1137,
+            "hash": "sha256-U4pBSrABzgrw3EDVuNoHUXbYWYM1u7jtR/ku8r05axo="
+        }
+    },
+    "Thief Skills Rebalance for Ordinator": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "",
+            "file_id": 7571,
+            "file_name": "Thief Skills Rebalance for Ordinator-1137-.zip",
+            "mod_id": 1137,
+            "hash": "sha256-ermW7XQTTJURMAhwLOY6WgX4QWED083RjmsRvPcRRm8="
+        }
+    },
+    "Perk Points at Skill Level 50-75-100": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "",
+            "file_id": 28752,
+            "file_name": "Perk Points at Skill Level 50-75-100-1137-.zip",
+            "mod_id": 1137,
+            "hash": "sha256-Wc6lS2SC9x+JrBTa8qWq/AUApppfz2s+5fJJhbhZ8lI="
+        }
+    },
+    "Ordinator 9.35.0": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "9.35.0",
+            "file_id": 675234,
+            "file_name": "Ordinator 9.35.0-1137-9-35-0-1760289511.zip",
+            "mod_id": 1137,
+            "hash": "sha256-slMUg56fUuGiwg2ultIktPTPBzRazuCotV3RHWh8PJk="
+        },
+        "type": "primary"
+    }
+}

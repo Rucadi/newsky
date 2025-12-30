@@ -1,0 +1,44 @@
+{
+  "Butterflies Unchained (ESL Version) - Complete Alchemy and Cooking Overhaul Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.01",
+      "file_id": 110403,
+      "file_name": "Butterflies Unchained (ESL Version) - Complete Alchemy and Cooking Overhaul Patch-29538-1-11-1571103840.7z",
+      "mod_id": 29538,
+      "hash": "sha256-PmStT8LahOn8yQ+OiJRec1pRO0YXq5Y4Ouf+m9R74eM="
+    }
+  },
+  "Butterflies Unchained - Complete Alchemy and Cooking Overhaul Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.01",
+      "file_id": 110404,
+      "file_name": "Butterflies Unchained - Complete Alchemy and Cooking Overhaul Patch-29538-1-01-1571103906.7z",
+      "mod_id": 29538,
+      "hash": "sha256-om5RCUzazT+U1qxJwKOK6cQSUD09j1KORfOV4Ma6u7c="
+    }
+  },
+  "Butterflies Unchained": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1",
+      "file_id": 110530,
+      "file_name": "Butterflies Unchained-29538-1-1-1571191294.7z",
+      "mod_id": 29538,
+      "hash": "sha256-dzl6Su+D/ongQVkivQg//nVkFM21BtEPnHaw7c3LaHk="
+    },
+    "type": "primary"
+  },
+  "Butterflies Unchained (ESL Version)": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1",
+      "file_id": 110531,
+      "file_name": "Butterflies Unchained (ESL Version)-29538-1-1-1571191335.7z",
+      "mod_id": 29538,
+      "hash": "sha256-j4zxJjUp0ac4vS0WJwbkiswqXyYIM+yVWX4sjF0/v+g="
+    },
+    "type": "primary"
+  }
+}

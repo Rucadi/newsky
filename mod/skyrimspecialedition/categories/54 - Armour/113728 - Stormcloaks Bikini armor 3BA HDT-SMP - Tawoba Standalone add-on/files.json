@@ -1,0 +1,103 @@
+{
+  "Stormcloaks Bikini armor 3BA HDT-SMP -Tawoba addon": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "2.00",
+      "file_id": 699992,
+      "file_name": "Stormcloaks Bikini armor 3BA HDT-SMP -Tawoba addon-113728-2-00-1766245095.7z",
+      "mod_id": 113728,
+      "hash": "sha256-zHsfHJuGQg5dXXB2us5lBNCw4XxpUKOFOy1tV6j/OcU="
+    },
+    "type": "primary"
+  },
+  "TAWOBA_guards_addon_CID": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "2.00",
+      "file_id": 700012,
+      "file_name": "TAWOBA_guards_addon_CID-113728-2-00-1766247654.rar",
+      "mod_id": 113728,
+      "hash": "sha256-RiC50iFiPcbW+JJjJu0w09qYeB/j7nVypizNcGvEq5A="
+    }
+  },
+  "TIWOBAStormbook_SWAP": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "2.00",
+      "file_id": 700014,
+      "file_name": "TIWOBAStormbook_SWAP-113728-2-00-1766247708.rar",
+      "mod_id": 113728,
+      "hash": "sha256-2/GHL3bMBFtZyWOHeNcbmQQoc6qynwF3tm8dg3SuoZM="
+    }
+  },
+  "StormBikini_BAKA_KID": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "2.00",
+      "file_id": 700015,
+      "file_name": "StormBikini_BAKA_KID-113728-2-00-1766248114.rar",
+      "mod_id": 113728,
+      "hash": "sha256-CLVMDSJMgM9/T3CXTkaUZWJMF7wPe15nl61rC7/K74w="
+    }
+  },
+  "helmettoggle2Stormcloakbikini": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "2.00",
+      "file_id": 700016,
+      "file_name": "helmettoggle2Stormcloakbikini-113728-2-00-1766248190.rar",
+      "mod_id": 113728,
+      "hash": "sha256-pylMWF6+Z7qAXPcIi6Zila0XFpRu/s0L3H81Ib0sknU="
+    }
+  },
+  "IER_Tawoba_StormC_KID": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "2.00",
+      "file_id": 700017,
+      "file_name": "IER_Tawoba_StormC_KID-113728-2-00-1766248247.rar",
+      "mod_id": 113728,
+      "hash": "sha256-qbEhYu6DoUqeREnVrBo9aKrgyjNrkRye0LAi8uYNIf4="
+    }
+  },
+  "StormcloakBikini_Modesty_KID": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "2.00",
+      "file_id": 700018,
+      "file_name": "StormcloakBikini_Modesty_KID-113728-2-00-1766248301.rar",
+      "mod_id": 113728,
+      "hash": "sha256-nBCrRN4Gg7U4w8w5YGWcQ4HUK4ptyxW6EgV/3C1zFpk="
+    }
+  },
+  "StormcloakBikini_ORF_KID": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "2.00",
+      "file_id": 700019,
+      "file_name": "StormcloakBikini_ORF_KID-113728-2-00-1766248368.rar",
+      "mod_id": 113728,
+      "hash": "sha256-iU8pl4HfRCH40VCrBP6QfgWPgmNL1BPt0ZfoPmVV0Nw="
+    }
+  },
+  "TIWOBA_SoS_Storm_KID": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "2.00",
+      "file_id": 700020,
+      "file_name": "TIWOBA_SoS_Storm_KID-113728-2-00-1766248425.rar",
+      "mod_id": 113728,
+      "hash": "sha256-vK+ChwKUfvGH4nEi8RSe2zoogSWuZA0wMMQ1YKKYGa4="
+    }
+  },
+  "StormcloakBikini armor 3BA HDT-SMP-prebuilt meshes": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "2.00",
+      "file_id": 700022,
+      "file_name": "StormcloakBikini armor 3BA HDT-SMP-prebuilt meshes-113728-2-00-1766248975.rar",
+      "mod_id": 113728,
+      "hash": "sha256-oOuUNIRu7BaCIxlCd5/VuLVy9AZ6adQJFlZWuwbW5Uc="
+    }
+  }
+}

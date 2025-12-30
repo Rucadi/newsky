@@ -1,0 +1,34 @@
+{
+    "Shrine of Hermaeus Mora 4k": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "1.0",
+            "file_id": 281687,
+            "file_name": "Shine of Hermaeus Mora 4k-67590-1-0-1651768269.zip",
+            "mod_id": 67590,
+            "hash": "sha256-Mxj/R5XhsO1GBhC1L0GVb+X5wZ3HMpU9gboquCIo3xo="
+        },
+        "type": "primary"
+    },
+    "Shrine of Hermaeus Mora 2k": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "1.0",
+            "file_id": 281690,
+            "file_name": "Shine of Hermaeus Mora 2k-67590-1-0-1651768296.zip",
+            "mod_id": 67590,
+            "hash": "sha256-3WFy0q6AtyhhqqbzYpPitl/geXAgcC6xfrDtxZB3XrM="
+        },
+        "type": "primary"
+    },
+    "Patch for Wintersun": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "1.0",
+            "file_id": 281824,
+            "file_name": "Patch for Wintersun-67590-1-0-1651829952.zip",
+            "mod_id": 67590,
+            "hash": "sha256-P0nzLwO/ySvfh6lq8/1Ov7RIH9uJtqM+xmZx2StzWZA="
+        }
+    }
+}

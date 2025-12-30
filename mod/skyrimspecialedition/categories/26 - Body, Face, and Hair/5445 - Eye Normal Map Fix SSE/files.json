@@ -1,0 +1,44 @@
+{
+    "Eye Normal Map Fix SSE": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "1SE",
+            "file_id": 11958,
+            "file_name": "Eye Normal Map Fix SSE-5445-1SE.zip",
+            "mod_id": 5445,
+            "hash": "sha256-N72tAiOBrj1W8Fj2QO22aKuo/yTFv/AHj5jKO8vTGsE="
+        },
+        "type": "primary"
+    },
+    "Eye Normal Map Fix SSE BC7": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "1",
+            "file_id": 13269,
+            "file_name": "Eye Normal Map Fix SSE BC7 Compression-5445-1.zip",
+            "mod_id": 5445,
+            "hash": "sha256-pcOsp06ROXOV4Ho/hNC/h208aH0pqFQAZNuMWlO4+No="
+        }
+    },
+    "Eye Normal Map True Eyes": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "2.0",
+            "file_id": 16084,
+            "file_name": "Eye Normal Map True Eyes-5445-2-0.zip",
+            "mod_id": 5445,
+            "hash": "sha256-+E9YAMQFvvIASlGmlhJkXisNpHUnO39ZN/GlDqjQLcQ="
+        },
+        "type": "primary"
+    },
+    "Eye Normal Map True Eyes BC7": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "2.0",
+            "file_id": 16085,
+            "file_name": "Eye Normal Map True Eyes BC7-5445-2-0.zip",
+            "mod_id": 5445,
+            "hash": "sha256-v4mE5jwowLsI+9c3aPgptNEEvEvhyIiTDQ/sWKOOI6c="
+        }
+    }
+}

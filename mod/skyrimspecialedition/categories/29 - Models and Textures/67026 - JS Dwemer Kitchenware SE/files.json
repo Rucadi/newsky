@@ -1,0 +1,44 @@
+{
+  "JS Dwemer Kitchenware SE - 2k Textures": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 279343,
+      "file_name": "JS Dwemer Kitchenware SE - 2k Textures-67026-1-0-1650800588.7z",
+      "mod_id": 67026,
+      "hash": "sha256-rA3PEYyXeDS32jKIMl4Cbc1oIWNL9UPWXgZz65QQEao="
+    },
+    "type": "primary"
+  },
+  "JS Dwemer Kitchenware SE - 4k Textures": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 279344,
+      "file_name": "JS Dwemer Kitchenware SE - 4k Textures-67026-1-0-1650800836.7z",
+      "mod_id": 67026,
+      "hash": "sha256-rVoFE/yQLtakOC6yibPqaBKCtg3YRiXgnV4A5+lNc4M="
+    },
+    "type": "primary"
+  },
+  "JS Dwemer Kitchenware SE - GDPR Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 494874,
+      "file_name": "JS Dwemer Kitchenware SE - GDPR Patch-67026-1-0-1714105471.7z",
+      "mod_id": 67026,
+      "hash": "sha256-5IYnI5+w+twyOaCreO5XhIyq2bHPUNbu+J6EJK/+nh0="
+    }
+  },
+  "JS Dwemer Kitchenware SE - Dynamic Stacked Objects": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.01",
+      "file_id": 626402,
+      "file_name": "JS Dwemer Kitchenware SE - Dynamic Stacked Objects-67026-1-01-1747058794.7z",
+      "mod_id": 67026,
+      "hash": "sha256-lcVmq2d1Y9kn4SR8ai3Q97KycYgk8olvkR7PrLoJuEc="
+    }
+  }
+}

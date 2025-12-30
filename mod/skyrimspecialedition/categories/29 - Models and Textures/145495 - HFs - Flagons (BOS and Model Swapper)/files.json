@@ -1,0 +1,73 @@
+{
+  "HFs - Flagons (BOS) - 1K": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1",
+      "file_id": 608630,
+      "file_name": "HFs - Flagons (BOS) - 1K-145495-1-1742692117.zip",
+      "mod_id": 145495,
+      "hash": "sha256-kYd0YtnyTJ7tHq9FlR6JsCss2b4j+OGE4TTe6qvmYhQ="
+    },
+    "type": "primary"
+  },
+  "HFs - Flagons (BOS) - 2K": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1",
+      "file_id": 608631,
+      "file_name": "HFs - Flagons (BOS) - 2K-145495-1-1742692155.zip",
+      "mod_id": 145495,
+      "hash": "sha256-VDTTngHeSVLmiUOAABl3yr1u9dBeflQsb0p/zBGhOnA="
+    },
+    "type": "primary"
+  },
+  "HFs - Flagons (BOS) - 4K": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1",
+      "file_id": 608632,
+      "file_name": "HFs - Flagons (BOS) - 4K-145495-1-1742692232.zip",
+      "mod_id": 145495
+    },
+    "type": "primary"
+  },
+  "HFs - Flagons (Model Swapper) - 1K": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.2",
+      "file_id": 610093,
+      "file_name": "HFs - Flagons (Model Swapper) - 1K-145495-1-1-1743010331.zip",
+      "mod_id": 145495
+    },
+    "type": "primary"
+  },
+  "HFs - Flagons (Model Swapper) - 2K": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.2",
+      "file_id": 610095,
+      "file_name": "HFs - Flagons (Model Swapper) - 2K-145495-1-1-1743010360.zip",
+      "mod_id": 145495
+    },
+    "type": "primary"
+  },
+  "HFs - Flagons (Model Swapper) - 4K": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.2",
+      "file_id": 610096,
+      "file_name": "HFs - Flagons (Model Swapper) - 4K-145495-1-1-1743010410.zip",
+      "mod_id": 145495
+    },
+    "type": "primary"
+  },
+  "HFs Flagons - JKs and Lupus - Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.2.1",
+      "file_id": 612623,
+      "file_name": "HFs Flagons - JKs and Lupus - Patch-145495-1-2-1-1743515310.zip",
+      "mod_id": 145495
+    }
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "Piercings of the Divines - CBBE 3BA": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 427999,
+      "file_name": "Piercings of the Divines - CBBE 3BA.7z-101112-1-0-1695352338.7z",
+      "mod_id": 101112,
+      "hash": "sha256-jbEcYWBR3kkOS88bs3ly0Eh26OYqrRJbeE3IBUC0gwA="
+    },
+    "type": "primary"
+  },
+  "Piercings of the Divines - CBBE 3BA - Slot 60": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1",
+      "file_id": 480278,
+      "file_name": "Piercings of the Divines - CBBE 3BA - Slot 60-101112-1-1-1710370413.7z",
+      "mod_id": 101112,
+      "hash": "sha256-OTp4KPZR4VmrzPHf8FOD1/5AoVg/Hy6aU5SZ5IBpF58="
+    }
+  }
+}

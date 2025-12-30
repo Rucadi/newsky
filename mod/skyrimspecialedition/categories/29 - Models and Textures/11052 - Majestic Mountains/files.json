@@ -1,0 +1,55 @@
+{
+    "Lod Pack for DynDoLod (all versions)": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "4.0",
+            "file_id": 320290,
+            "file_name": "Lod Pack for DynDoLod (all versions)-11052-4-0-1664470611.7z",
+            "mod_id": 11052,
+            "hash": "sha256-3vH9IYL17jrtKZLkALIAWMDsA1C1jf2MEyjlgMW2TOY="
+        }
+    },
+    "DynDoLod V 3.0 Lod pack (all versions)": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "4.01",
+            "file_id": 322680,
+            "file_name": "DynDoLod V 3.0 Lod pack (all versions)-11052-4-01-1665301976.7z",
+            "mod_id": 11052,
+            "hash": "sha256-wVjW1EV8U3qAnl5U/H+AJBRBAshnDNuT29ZESAe/wkA="
+        }
+    },
+    "1. Majestic Mountains Main File": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "4.02",
+            "file_id": 324452,
+            "file_name": "1. Majestic Mountains Main File-11052-4-02-1665910537.7z",
+            "mod_id": 11052,
+            "hash": "sha256-zK9jTffN0a5ac8HIl+Wqxo0qzuAlgUZ5baj/mxVB+RU="
+        },
+        "type": "primary"
+    },
+    "2. Majestic Mountains Darkside": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "4.02",
+            "file_id": 324453,
+            "file_name": "2. Majestic Mountains Darkside-11052-4-02-1665911124.7z",
+            "mod_id": 11052,
+            "hash": "sha256-yCYyUTRD+eZy6LwB+MKo45whuy/DvZ5nodMo2x00cS4="
+        },
+        "type": "primary"
+    },
+    "3. Majestic Mountains Lightside": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "4.02",
+            "file_id": 324462,
+            "file_name": "3. Majestic Mountains Lightside-11052-4-02-1665914516.7z",
+            "mod_id": 11052,
+            "hash": "sha256-TAzRftUYV0G2rE0sblqK3sZcBMIalnuzrL7xuTHc1jg="
+        },
+        "type": "primary"
+    }
+}

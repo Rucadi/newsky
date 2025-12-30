@@ -1,0 +1,34 @@
+{
+  "Izela Clovermist - Normal": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 425353,
+      "file_name": "Izela Clovermist - Normal-100498-1-0-1694569519.rar",
+      "mod_id": 100498,
+      "hash": "sha256-hJQtgkOS6ObT7YYjbZkQOzEFOhGidbw+fSRI4GGQcIc="
+    },
+    "type": "primary"
+  },
+  "Izela Clovermist - Dovahkiin and Friends Must Die": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 425354,
+      "file_name": "Izela Clovermist - Dovahkiin and Friends Must Die-100498-1-0-1694569567.rar",
+      "mod_id": 100498,
+      "hash": "sha256-4TAAdtsGQn2BlBDP/J4JZj81v4J7HAFgt9uH6+4ErYQ="
+    },
+    "type": "primary"
+  },
+  "Abyss No Distribution": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 425355,
+      "file_name": "Abyss No Distribution-100498-1-0-1694569958.rar",
+      "mod_id": 100498,
+      "hash": "sha256-63Esg6BuYawYc9do8TYrj+fjaTxKL9GEMrqlwGjQWGc="
+    }
+  }
+}

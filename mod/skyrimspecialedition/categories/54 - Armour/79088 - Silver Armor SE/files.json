@@ -1,0 +1,23 @@
+{
+  "1SilverArmorSE": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1",
+      "file_id": 333162,
+      "file_name": "1SilverArmorSE-79088-1-1668940618.7z",
+      "mod_id": 79088,
+      "hash": "sha256-XxXjHOiCWhv0ElX3WU6lPxD4Lz8HfeV1slV6r+y/HyU="
+    },
+    "type": "primary"
+  },
+  "Half Sized Textures": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1",
+      "file_id": 333167,
+      "file_name": "Half Sized Textures-79088-1-1668942470.7z",
+      "mod_id": 79088,
+      "hash": "sha256-MmLTVYII6uJ3XJAqgcdxRfl8XQfa8lS/wQaW8ghiEug="
+    }
+  }
+}

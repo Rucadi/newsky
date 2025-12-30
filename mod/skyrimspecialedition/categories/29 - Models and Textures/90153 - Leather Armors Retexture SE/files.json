@@ -1,0 +1,33 @@
+{
+  "Leather Armors Retexture SE": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "2.0.0",
+      "file_id": 641869,
+      "file_name": "Leather Armors Retexture SE-90153-2-0-0-1750948938.7z",
+      "mod_id": 90153,
+      "hash": "sha256-cod7JUj7kA5Y1DHwIvCHko3YW+x3xX/Jw0CrTUdTGxI="
+    },
+    "type": "primary"
+  },
+  "Leather Armors Retexture SE - Half Res": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "2.0.0",
+      "file_id": 641870,
+      "file_name": "Leather Armors Retexture SE - Half Res-90153-2-0-0-1750949062.7z",
+      "mod_id": 90153,
+      "hash": "sha256-RIXtIfHcyHR5+tYj4pd6OMvssGvZi0C5qUg+OrGuGFc="
+    }
+  },
+  "Leather Armors Retexture SE - Low Res": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "2.0.0",
+      "file_id": 641871,
+      "file_name": "Leather Armors Retexture SE - Low Res-90153-2-0-0-1750949097.7z",
+      "mod_id": 90153,
+      "hash": "sha256-EJnre9gMI4XbXQhHwpdgJ48RVXdAHT+BNIeXzAsZZxY="
+    }
+  }
+}

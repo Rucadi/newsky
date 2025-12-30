@@ -1,0 +1,23 @@
+{
+    "Example Terrain Plugin for Mod Authors": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "1.0.0",
+            "file_id": 600096,
+            "file_name": "Example Terrain Plugin for Mod Authors-143149-1-0-0-1740765244.zip",
+            "mod_id": 143149,
+            "hash": "sha256-Er7i82u2TtO9IyxeMaQZVzRH1SlFWwAFvvQmStkFFBM="
+        }
+    },
+    "Terrain Helper": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "1.0.0",
+            "file_id": 650852,
+            "file_name": "Terrain Helper-143149-1-0-0-1753692098.zip",
+            "mod_id": 143149,
+            "hash": "sha256-U+x80uUY6byw76ilKhDVGRcxy81j3So8XThqwX9XQUs="
+        },
+        "type": "primary"
+    }
+}

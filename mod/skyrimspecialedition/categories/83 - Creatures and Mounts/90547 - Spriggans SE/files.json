@@ -1,0 +1,33 @@
+{
+  "Double Sized Textures": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1",
+      "file_id": 384113,
+      "file_name": "Double Sized Textures-90547-1-1683047119.7z",
+      "mod_id": 90547,
+      "hash": "sha256-4l2GxobyRbNhxc2OwMIqWNnffNQC46hSIR6+m1XWw0A="
+    }
+  },
+  "Standalone version by juzu1234": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "2",
+      "file_id": 384488,
+      "file_name": "Standalone version by juzu1234-90547-2-1683171044.7z",
+      "mod_id": 90547,
+      "hash": "sha256-89GK8yWa+DtPKqfiF90GYV9KARbVkAOXYeYJY/MHBg8="
+    }
+  },
+  "1SpriggansSE": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "3",
+      "file_id": 507165,
+      "file_name": "1SpriggansSE-90547-3-1717235202.7z",
+      "mod_id": 90547,
+      "hash": "sha256-oHG3cKjUFe4G3wJI2CEgpQ81DDaOeSb+p79iCpS31q8="
+    },
+    "type": "primary"
+  }
+}

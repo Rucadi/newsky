@@ -1,0 +1,33 @@
+{
+  "True Meeko SE": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.2",
+      "file_id": 36212,
+      "file_name": "True Meeko SE-12193-1-2.rar",
+      "mod_id": 12193,
+      "hash": "sha256-X+26lNEjY4ihnBgE81lVI8pIJWd6knJoXsrxYiS3IAE="
+    },
+    "type": "primary"
+  },
+  "True Meeko - 1K": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.2",
+      "file_id": 36213,
+      "file_name": "True Meeko - 1K-12193-1-2.rar",
+      "mod_id": 12193,
+      "hash": "sha256-C8HU0ZS7k8Gbd91smDBnfGrbzLXeVXIkxPNK2yTQcuA="
+    }
+  },
+  "True Meeko Plugin - ESL": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.2",
+      "file_id": 256205,
+      "file_name": "True Meeko Plugin - ESL-12193-1-2-1642018502.rar",
+      "mod_id": 12193,
+      "hash": "sha256-qg1t2hdwbnJ4VBj/rLb2diCU80m1njB6qimrBCZZOm8="
+    }
+  }
+}

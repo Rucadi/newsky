@@ -1,0 +1,43 @@
+{
+  "Bandit Camp Exterior Refinement by Socalista": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "any",
+      "file_id": 522373,
+      "file_name": "Bandit Camp Exterior Refinement by Socalista-120007-any-1721293549.rar",
+      "mod_id": 120007,
+      "hash": "sha256-bIi6ZuSw9uaiB1gBGvytfF1Jb8n9a5J5wi9xm+rTcpg="
+    }
+  },
+  "Banters with Yazakh": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "yaz1.1",
+      "file_id": 554156,
+      "file_name": "Banters with Yazakh-120007-yaz1-1-1729487401.7z",
+      "mod_id": 120007,
+      "hash": "sha256-XyEXVCBXMPRsyOVlTcyqWFN4VB9VL34wPRLSlvbgQHw="
+    }
+  },
+  "Banters with Flint": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "fli1.0",
+      "file_id": 682676,
+      "file_name": "Banters with Flint-120007-fli1-0-1762018967.7z",
+      "mod_id": 120007,
+      "hash": "sha256-CMmenKHyvv23jnCJ7CnhjcJk3iWlwSyqXiCndowD7C4="
+    }
+  },
+  "Thogra gra-Mugur Revoiced": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "2.5.3",
+      "file_id": 683043,
+      "file_name": "Thogra gra-Mugur Revoiced-120007-2-5-3-1762100361.7z",
+      "mod_id": 120007,
+      "hash": "sha256-kvif6ItLNItuXIg7f578XVYZUPfKtHBVdLDduiMPaXE="
+    },
+    "type": "primary"
+  }
+}

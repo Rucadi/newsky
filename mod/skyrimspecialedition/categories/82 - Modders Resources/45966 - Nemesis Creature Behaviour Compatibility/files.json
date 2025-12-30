@@ -1,0 +1,23 @@
+{
+    "For Modders Nemesis Creature files for Extraction": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "1.31",
+            "file_id": 306058,
+            "file_name": "For Modders Nemesis Creature files for Extraction-45966-1-31-1660055985.7z",
+            "mod_id": 45966,
+            "hash": "sha256-h8Bqp16hlGvykcCzF5dj7xb+QoqTd9+RH45vlJU+dbg="
+        }
+    },
+    "Nemesis Creature Behaivour Compatiblity - Main": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "1.4",
+            "file_id": 371953,
+            "file_name": "Nemesis Creature Behaivour Compatiblity-45966-1-4-1679764715.7z",
+            "mod_id": 45966,
+            "hash": "sha256-8QO7sRtze8aJQHycj+Y63YcWJSnqPlyQ6p2BC5YHXdU="
+        },
+        "type": "primary"
+    }
+}

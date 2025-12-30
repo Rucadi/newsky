@@ -1,0 +1,21 @@
+{
+    "Black Book Quest Tweaks": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "1.0.0",
+            "file_id": 609401,
+            "file_name": "Black Book Quest Tweaks-145689-1-0-0-1742851470.zip",
+            "mod_id": 145689
+        },
+        "type": "primary"
+    },
+    "Black Book Quest Tweaks for Stormcrown": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "1.0.0",
+            "file_id": 609402,
+            "file_name": "Black Book Quest Tweaks for Stormcrown-145689-1-0-0-1742851506.zip",
+            "mod_id": 145689
+        }
+    }
+}

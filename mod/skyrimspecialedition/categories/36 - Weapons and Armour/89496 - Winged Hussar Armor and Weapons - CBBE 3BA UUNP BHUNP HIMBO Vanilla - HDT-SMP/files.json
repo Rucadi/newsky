@@ -1,0 +1,103 @@
+{
+  "Textures Addon 2K": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0.0-rc.2",
+      "file_id": 381540,
+      "file_name": "Textures Addon 2K-89496-1-0-0-rc-2-1682335819.7z",
+      "mod_id": 89496,
+      "hash": "sha256-pL2Wiai/ZgI93xdjFOPvL92epgkIpOnf//SDhfgZajA="
+    }
+  },
+  "Textures Addon 4K": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0.0-rc.2",
+      "file_id": 381542,
+      "file_name": "Textures Addon 4K-89496-1-0-0-rc-2-1682335951.7z",
+      "mod_id": 89496,
+      "hash": "sha256-dwL9kuISwCOF3iX9kxusFlwzkAgEJdOhp1Pzqkt9uGw="
+    }
+  },
+  "Optional Files - HIMBO BodySlides": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0.0-rc.2",
+      "file_id": 381543,
+      "file_name": "Optional File - HIMBO BodySlides-89496-1-0-0-rc-2-1682336029.7z",
+      "mod_id": 89496,
+      "hash": "sha256-tlQIBQewx9kvZokj0FgO17aj+GPo5E3Mz9VZ8+A21WQ="
+    }
+  },
+  "Optional Files - HIMBO BodySlides for the Cape (HDT-SMP)": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0.0-rc.2",
+      "file_id": 381544,
+      "file_name": "Optional Files - HIMBO BodySlides for the Cape (HDT-SMP)-89496-1-0-0-rc-2-1682336160.7z",
+      "mod_id": 89496,
+      "hash": "sha256-tik2aDwLXel66Cn9fCaeSu5be2R2AMv5h+EagYhBnDc="
+    }
+  },
+  "Optional Files - CBBE 3BA BodySlides": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0.0-rc.2",
+      "file_id": 381545,
+      "file_name": "Optional Files - CBBE 3BA BodySlides-89496-1-0-0-rc-2-1682336222.7z",
+      "mod_id": 89496,
+      "hash": "sha256-VFzkF8FrREZo6dwayDoaRjO8j8HoElSuhbMnXLMIRc4="
+    }
+  },
+  "Optional Files - CBBE 3BA BodySlides for the Cape (HDT-SMP)": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0.0-rc.2",
+      "file_id": 381546,
+      "file_name": "Optional Files - CBBE 3BA BodySlides for the Cape (HDT-SMP)-89496-1-0-0-rc-2-1682336303.7z",
+      "mod_id": 89496,
+      "hash": "sha256-p7Rrkw77faJL4RDGDtCtxbdr5+973j/Ta7nxHwMidLo="
+    }
+  },
+  "Optional Files - BHUNP BodySlides": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0.0-rc.2",
+      "file_id": 381547,
+      "file_name": "Optional Files - BHUNP BodySlides-89496-1-0-0-rc-2-1682336394.7z",
+      "mod_id": 89496,
+      "hash": "sha256-QwQlo1LZ5Xb4LCK48NPMShAej3GJ9saBEf7PPIbPDKw="
+    }
+  },
+  "Optional Files - BHUNP BodySlides for the Cape (HDT-SMP)": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0.0-rc.2",
+      "file_id": 381548,
+      "file_name": "Optional Files - BHUNP BodySlides for the Cape (HDT-SMP)-89496-1-0-0-rc-2-1682336492.7z",
+      "mod_id": 89496,
+      "hash": "sha256-fkzAdbmRD8MQtXkCk1saGuEPzjgs0JTVyi2O5AVGVvo="
+    }
+  },
+  "Winged Hussar Armor and Weapons - Main File (FOMOD Installer)": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1",
+      "file_id": 383573,
+      "file_name": "Winged Hussar Armor and Weapons - Main File (FOMOD Installer)-89496-1-1-1682921430.7z",
+      "mod_id": 89496,
+      "hash": "sha256-ML5nu2L8yI0K8EOUlFVOiCcAm11ZaLDqrDt2nlNrCok="
+    },
+    "type": "primary"
+  },
+  "Winged Hussar Armor and Weapons - Main File (Lite)": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1",
+      "file_id": 383574,
+      "file_name": "Winged Hussar Armor and Weapons - Main File (Lite)-89496-1-1-1682921432.7z",
+      "mod_id": 89496,
+      "hash": "sha256-qPo3RSLooOcJgFzvGa9Z8xKvero2LB0igT03uBtViXU="
+    }
+  }
+}

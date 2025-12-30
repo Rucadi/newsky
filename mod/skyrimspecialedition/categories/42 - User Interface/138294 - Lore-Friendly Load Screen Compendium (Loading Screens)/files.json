@@ -1,0 +1,79 @@
+{
+    "0 Lore-Friendly Load Screen Compendium (16-9) (4K)": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "2.1",
+            "file_id": 625085,
+            "file_name": "Lore-Friendly Load Screen Compendium (16-9) (4K)-138294-2-1-1746748331.zip",
+            "mod_id": 138294,
+            "hash": "sha256-ce7sOLn4UFsxyeByoyuGfs7cw1xXQAkRIWyle4ov27s="
+        },
+        "type": "primary"
+    },
+    "Lore-Friendly Load Screen Compendium (16-10) (4K)": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "2.1",
+            "file_id": 625090,
+            "file_name": "Lore-Friendly Load Screen Compendium (16-10) (4K)-138294-2-1-1746749371.zip",
+            "mod_id": 138294,
+            "hash": "sha256-7Ha5DdEp3cWJoegS029Sib38WZWXwp/JzNcqNy9NiXw="
+        },
+        "type": "primary"
+    },
+    "Lore-Friendly Load Screen Compendium (21-9) (4K)": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "2.1",
+            "file_id": 625091,
+            "file_name": "Lore-Friendly Load Screen Compendium (21-9) (4K)-138294-2-1-1746749847.zip",
+            "mod_id": 138294,
+            "hash": "sha256-GI1MCIGJlC8/vpvIIc6fhqzto7liuncbBLwew4Oer6Y="
+        },
+        "type": "primary"
+    },
+    "0 Lore-Friendly Load Screen Compendium (16-9) (2K)": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "2.1",
+            "file_id": 625267,
+            "file_name": "0 Lore-Friendly Load Screen Compendium (16-9) (2K)-138294-2-1-1746799043.zip",
+            "mod_id": 138294,
+            "hash": "sha256-2oUxUgQhAPy9xC80YLC5O0DEcmEZGqUdhYo/ShR0FEo="
+        },
+        "type": "primary"
+    },
+    "Lore-Friendly Load Screen Compendium (16-10) (2K)": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "2.1",
+            "file_id": 625268,
+            "file_name": "Lore-Friendly Load Screen Compendium (16-10) (2K)-138294-2-1-1746799256.zip",
+            "mod_id": 138294,
+            "hash": "sha256-Xv5W3cZJzVoXSFa7ulMJuJN/X8VXdDCFTU2gzu0BY0A="
+        },
+        "type": "primary"
+    },
+    "Lore-Friendly Load Screen Compendium (21-9) (2K)": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "2.1",
+            "file_id": 625270,
+            "file_name": "Lore-Friendly Load Screen Compendium (21-9) (2K)-138294-2-1-1746799717.zip",
+            "mod_id": 138294,
+            "hash": "sha256-hOQpYvjJh0JVZCia5thndQVWz+mMSaHW0rDygQozbvw="
+        },
+        "type": "primary"
+    },
+    "Lore-Friendly Load Screen Compendium (Minimal)": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "2.1",
+            "file_id": 625306,
+            "file_name": "Lore-Friendly Load Screen Compendium (Minimal)(2K)-138294-2-1-1746807708.zip",
+            "mod_id": 138294,
+            "hash": "sha256-JlC4oisCnzF9UWkXHdEdhtaBHr1mL8ZoN6VCigN/5GU="
+        },
+        "type": "primary"
+    }
+}

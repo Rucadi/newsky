@@ -1,0 +1,54 @@
+{
+    "Vanilla hair remake SMP - NPCs": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "1.0.1",
+            "file_id": 500742,
+            "file_name": "Vanilla hair remake SMP - NPCs-63979-1-0-1-1715625839.7z",
+            "mod_id": 63979,
+            "hash": "sha256-9wjkEWxxg61xVFoZEVwer0wEnZ7eo6sfQ/jbNHInQ7s="
+        }
+    },
+    "Vanilla hair remake": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "1.0.2",
+            "file_id": 501460,
+            "file_name": "Vanilla hair remake-63979-1-0-2-1715806292.7z",
+            "mod_id": 63979,
+            "hash": "sha256-/Qal7WDLiRsO9RuGPcKUM+AdB44Bzb4j0E0Moz0LNNI="
+        },
+        "type": "primary"
+    },
+    "Vanilla hair remake - NPCs": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "1.0.2",
+            "file_id": 501461,
+            "file_name": "Vanilla hair remake - NPCs-63979-1-0-2-1715806346.7z",
+            "mod_id": 63979,
+            "hash": "sha256-gMcDP7rphrYf8zFY5dHGVDH38SZlRj6fYjx9nRX46Ig="
+        }
+    },
+    "Vanilla hair remake SMP": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "1.0.3",
+            "file_id": 510409,
+            "file_name": "Vanilla hair remake SMP-63979-1-0-3-1718064273.7z",
+            "mod_id": 63979,
+            "hash": "sha256-uuyYbemqp/Nf8tvDcoROi5xKYJySnREV8pP8rO4UNy4="
+        },
+        "type": "primary"
+    },
+    "Vanilla hair remake SMP - Wigs": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "1.0.3",
+            "file_id": 510410,
+            "file_name": "Vanilla hair remake SMP - Wigs-63979-1-0-3-1718064323.7z",
+            "mod_id": 63979,
+            "hash": "sha256-CETBSIzZgualNjzrlyWDtWYfzgzEFHLqJULagrMpRxk="
+        }
+    }
+}

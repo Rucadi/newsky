@@ -1,0 +1,23 @@
+{
+  "HPVD - Alduin The World Eater - Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 433131,
+      "file_name": "HPVD - Alduin The World Eater - Patch-101093-1-0-1697043852.7z",
+      "mod_id": 101093,
+      "hash": "sha256-9uktnUn9YJXNT1atVMpIdC2uD4A2sOjpRh3rix5HbZI="
+    }
+  },
+  "Higher Poly Vanilla Dragons": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.3.2",
+      "file_id": 545004,
+      "file_name": "Higher Poly Vanilla Dragons-101093-1-3-2-1727017987.rar",
+      "mod_id": 101093,
+      "hash": "sha256-XQAf6Gs2ExCs1l5S6GIXXCfqTfP2mzT7R49hjPvzJFE="
+    },
+    "type": "primary"
+  }
+}

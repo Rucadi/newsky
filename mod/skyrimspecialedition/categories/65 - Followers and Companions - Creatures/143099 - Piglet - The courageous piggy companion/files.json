@@ -1,0 +1,44 @@
+{
+  "Piglet the piggy - Fluffy": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 600265,
+      "file_name": "Piglet the piggy - Fluffy-143099-1-0-1740793574.zip",
+      "mod_id": 143099,
+      "hash": "sha256-2c/LcxIBodTJ90beXqxP4jqL3+1D5Gj2h1AI7up8dsM="
+    }
+  },
+  "Piglet the piggy - CC": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.2",
+      "file_id": 605404,
+      "file_name": "Piglet the piggy - CC-143099-1-2-1741932759.7z",
+      "mod_id": 143099,
+      "hash": "sha256-Ezfv0rEnrNGMDW9ZZ+LnDa+HpbD9VLbm+qVPywlaCdw="
+    },
+    "type": "primary"
+  },
+  "Piglet the piggy - No CC": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.2",
+      "file_id": 605410,
+      "file_name": "Piglet the piggy - No CC-143099-1-2-1741934081.7z",
+      "mod_id": 143099,
+      "hash": "sha256-KsAqOimSP854WCwb8c09mXLA1zxUHV4DQHPMNs5RZwg="
+    },
+    "type": "primary"
+  },
+  "Skyrim Party Sheet Portrait": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 700065,
+      "file_name": "Skyrim Party Sheet Portrait-143099-1-0-1766256825.7z",
+      "mod_id": 143099,
+      "hash": "sha256-EPq5l+ci07jxBbYMguQaAyGqC7NlEgLmzMWivsSDWqM="
+    }
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "Part 1 - SkyPatcher Config Files": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 483762,
+      "file_name": "Part 1 - SkyPatcher Config Files-113677-1-0-1711299497.rar",
+      "mod_id": 113677,
+      "hash": "sha256-qG7U67tG8KhVlBW8FtjxYPVcXdeKa22WJs7b8dQwiwM="
+    },
+    "type": "primary"
+  },
+  "Part 2 - ESP Replacer - Removes Duplicate Changes": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 483778,
+      "file_name": "Part 2 - ESP Replacer - Removes Duplicate Changes-113677-1-0-1711301566.rar",
+      "mod_id": 113677,
+      "hash": "sha256-l/ZDfLT7ZDakm4QObqNQMn4EkK9oKpZHXegPtZ4yzP8="
+    },
+    "type": "primary"
+  }
+}

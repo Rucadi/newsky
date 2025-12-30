@@ -1,0 +1,23 @@
+{
+  "Stalhrim Armors and Weapons Retexture SE": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1",
+      "file_id": 408876,
+      "file_name": "Stalhrim Armors and Weapons Retexture SE-96204-1-1-1689866222.rar",
+      "mod_id": 96204,
+      "hash": "sha256-pQbEsuS0SlZnEPW7OeFgJ2ltoEvUnIkR2680hbjIu/g="
+    },
+    "type": "primary"
+  },
+  "Stalhrim Armors and Weapons Retexture SE - HalfRes": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1",
+      "file_id": 408878,
+      "file_name": "Stalhrim Armors and Weapons Retexture SE - HalfRes-96204-1-1-1689866329.rar",
+      "mod_id": 96204,
+      "hash": "sha256-+2+0pEn8a1/1Xm2r/p2/fL6EkOco6tUOJSBmGXjzcz0="
+    }
+  }
+}

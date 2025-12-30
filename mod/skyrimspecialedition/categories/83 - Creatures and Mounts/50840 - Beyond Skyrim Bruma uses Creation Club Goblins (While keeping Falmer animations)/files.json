@@ -1,0 +1,23 @@
+{
+  "2K Textures": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.2",
+      "file_id": 207765,
+      "file_name": "2K Textures-50840-1-2-1623004488.rar",
+      "mod_id": 50840,
+      "hash": "sha256-DJru65uIEVg+vddh+Vye3kKgVL4aNyDGUMdzH9nGkIA="
+    }
+  },
+  "Main File": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.2",
+      "file_id": 207903,
+      "file_name": "Main File-50840-1-2-1623052905.rar",
+      "mod_id": 50840,
+      "hash": "sha256-Szf0XuCNw3JfbtxhYcDny+XueN7d5uZ7uaEEmSV1drA="
+    },
+    "type": "primary"
+  }
+}

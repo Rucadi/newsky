@@ -1,0 +1,23 @@
+{
+  "Peryite Shrine 4k": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 259998,
+      "file_name": "Peryite Shrine 4k-62666-1-0-1643323064.zip",
+      "mod_id": 62666,
+      "hash": "sha256-NM8RTnvqvZ/MR9TXs8nlk9UxmSmD+caTjF0FJuyJJTo="
+    },
+    "type": "primary"
+  },
+  "Peryite Shrine 2k": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 259999,
+      "file_name": "Peryite Shrine 2k-62666-1-0-1643324110.zip",
+      "mod_id": 62666,
+      "hash": "sha256-0pgv3tG1/bVn94AOFi/4HrcRIQ/PEnCaB5VdJ7EN9FU="
+    }
+  }
+}

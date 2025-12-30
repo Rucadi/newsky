@@ -1,0 +1,123 @@
+{
+  "Immersive Dawnguard Dayspring Pass Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "2.0",
+      "file_id": 418301,
+      "file_name": "Immersive Dawnguard Dayspring Pass Patch-34950-2-0-1692385322.rar",
+      "mod_id": 34950,
+      "hash": "sha256-mWWDCnIKi532VWEBt7WpvtBvuZw9Cnm1LZSxx7gYY5M="
+    }
+  },
+  "Holds Complete Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 419585,
+      "file_name": "Holds Complete Patch-34950-1-0-1692720583.rar",
+      "mod_id": 34950,
+      "hash": "sha256-XKNJF2LO2ixb4osd3JAuDPDQ+xgi7C0AfbgfrftejX0="
+    }
+  },
+  "Point The Way Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.2",
+      "file_id": 419594,
+      "file_name": "Point The Way Patch-34950-1-2-1692721929.rar",
+      "mod_id": 34950,
+      "hash": "sha256-/V+SmCQwq7PEvpJc+oZtlhQ+sj/QGXLg1+9bJa0ldAM="
+    }
+  },
+  "SMIM Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 419595,
+      "file_name": "SMIM Patch-34950-1-0-1692722520.rar",
+      "mod_id": 34950,
+      "hash": "sha256-PA/iUwl5WFUWDjPw7YF4uO98XLSQ86hRMOlxRoNTM88="
+    }
+  },
+  "Daedric Shrines AIO Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 419599,
+      "file_name": "Daedric Shrines AIO Patch-34950-1-0-1692724769.rar",
+      "mod_id": 34950,
+      "hash": "sha256-WsDRoqJMhvdT6W7xXVn+iQueFa43VILjXH+5EZKbxgk="
+    }
+  },
+  "Holds Roads Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 420388,
+      "file_name": "Holds Roads Patch-34950-1-0-1692975700.rar",
+      "mod_id": 34950,
+      "hash": "sha256-lE6EzqFA0ZknK8CntwGvL/GToP5a21UKpm7a1YWAiPA="
+    }
+  },
+  "LOTD Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 421932,
+      "file_name": "LOTD Patch-34950-1-0-1693364807.rar",
+      "mod_id": 34950,
+      "hash": "sha256-HY/Ly7zWEC/hpAQowh73AoQ0mk+aMXrF2e6g8YTQi4k="
+    }
+  },
+  "Unique Border Gates - Fixes": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "2.0",
+      "file_id": 430669,
+      "file_name": "Unique Border Gates - Fixes-34950-2-0-1696269962.rar",
+      "mod_id": 34950,
+      "hash": "sha256-/m/C6PSEa0sBTA1U+A2tfowyYydUwpqImk+zOjUAETc="
+    },
+    "type": "primary"
+  },
+  "JANQUEL Immersion Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 460367,
+      "file_name": "JANQUEL Immersion Patch-34950-1-0-1705006540.rar",
+      "mod_id": 34950,
+      "hash": "sha256-hcNKJe8C73ZLXELsToDtn0vxKBTfUE1cmhgEOmu2NXA="
+    }
+  },
+  "EVG Animated Traversal Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 460380,
+      "file_name": "EVG Animated Traversal Patch-34950-1-0-1705008968.rar",
+      "mod_id": 34950,
+      "hash": "sha256-HkqOcF85DYjfkkLu0HEmuyJAmqw7HGY5+i0cDq/IBAw="
+    }
+  },
+  "Xelzaz Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 590082,
+      "file_name": "Xelzaz Patch-34950-1-0-1738471583.rar",
+      "mod_id": 34950,
+      "hash": "sha256-26kWwsri18sl5qFigJeu+R0jZ6iillq2XmU+Qkyi9rY="
+    }
+  },
+  "CC Goblins Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1",
+      "file_id": 590084,
+      "file_name": "CC Goblins Patch-34950-1-1-1738471749.rar",
+      "mod_id": 34950,
+      "hash": "sha256-MsvXQ6CsULngGlaGSK+uAQY9XkKZ0vs8czlNQtQ7D4E="
+    }
+  }
+}

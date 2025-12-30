@@ -1,0 +1,24 @@
+{
+  "CC's HD Dwemer Automatons - Remastered - 4K - 1.0": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 122186,
+      "file_name": "CC's HD Dwemer Automatons - Remastered - 4K - 1.0-32267-1-0-1580586448.7z",
+      "mod_id": 32267,
+      "hash": "sha256-mvVCyc9i2REwvikXTPsvSanqpqLJFoDRmJ6PlUBHbSg="
+    },
+    "type": "primary"
+  },
+  "CC's HD Dwemer Automatons - Remastered - 2K - 1.0": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 122187,
+      "file_name": "CC's HD Dwemer Automatons - Remastered - 2K - 1.0-32267-1-0-1580586479.7z",
+      "mod_id": 32267,
+      "hash": "sha256-RLlfcKLRB2pSFSed/H7JVvAUPofYRhROAcNQWC5RmmI="
+    },
+    "type": "primary"
+  }
+}

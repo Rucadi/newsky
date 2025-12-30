@@ -1,0 +1,46 @@
+{
+  "Random Prayer Animation": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 284809,
+      "file_name": "Random Prayer Animation-68289-1-0-1652919645.zip",
+      "mod_id": 68289,
+      "hash": "sha256-wii8yIVA5GEaibIlfCc14ANKwfykd0s2gfeZZ1irDZI="
+    },
+    "type": "primary"
+  },
+  "Random Prayer Animation - player only": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 284810,
+      "file_name": "Random Prayer Animation - player only-68289-1-0-1652919663.zip",
+      "mod_id": 68289,
+      "hash": "sha256-9vZwrPolV34G8cXp72SUiWZGt2pxNvIJv6m7Z4Jx7pk="
+    },
+    "type": "primary"
+  },
+  "Random Prayer Animation option": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1",
+      "file_id": 285024,
+      "file_name": "Random Prayer Animation option-68289-1-1-1653004810.zip",
+      "mod_id": 68289,
+      "hash": "sha256-noIjAZyAyYfTthEnC0LbhhGqLx9yV+ryoJ/sapH0DK0="
+    },
+    "type": "primary"
+  },
+  "Random Prayer Animation option - player only": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1",
+      "file_id": 285025,
+      "file_name": "Random Prayer Animation option - player only-68289-1-1-1653004844.zip",
+      "mod_id": 68289,
+      "hash": "sha256-NVldPhEhtJcJgX9gv+F7Qh497zjiop8GZaTF7EbvUcs="
+    },
+    "type": "primary"
+  }
+}

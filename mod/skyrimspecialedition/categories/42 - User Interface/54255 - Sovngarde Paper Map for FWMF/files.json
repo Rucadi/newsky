@@ -1,0 +1,24 @@
+{
+  "Sovngarde Paper Map for FWMF (legacy)": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.72",
+      "file_id": 355256,
+      "file_name": "Sovngarde Paper Map for FWMF-54255-1-72-1675262228.zip",
+      "mod_id": 54255,
+      "hash": "sha256-3pBCNsC+kv5RQ9zHDDC1JHs3gzK4iP8CcOV6tgsf/44="
+    },
+    "type": "primary"
+  },
+  "Sovngarde Paper Map for FWMF": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.8.1",
+      "file_id": 559143,
+      "file_name": "Sovngarde Paper Map for FWMF-54255-1-8-1-1730795069.zip",
+      "mod_id": 54255,
+      "hash": "sha256-xO5XOXheBwFSK5MZ/kHQPQRxyhhyG8vI4v7nBWQp/tg="
+    },
+    "type": "primary"
+  }
+}

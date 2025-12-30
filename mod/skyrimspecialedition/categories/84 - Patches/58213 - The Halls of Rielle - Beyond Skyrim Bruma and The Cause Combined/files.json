@@ -1,0 +1,23 @@
+{
+  "The Halls of Rielle - Alternate Skyrim Location": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.3.2",
+      "file_id": 297783,
+      "file_name": "The Halls of Rielle - Alternate Skyrim Location-58213-1-3-2-1657455034.7z",
+      "mod_id": 58213,
+      "hash": "sha256-dy9t6tyyDIw7R0bED/1nUICH7nmODGEmpIUX3XYftgo="
+    }
+  },
+  "The Halls of Rielle": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.3.3",
+      "file_id": 303315,
+      "file_name": "The Halls of Rielle-58213-1-3-3-1659183792.7z",
+      "mod_id": 58213,
+      "hash": "sha256-GQjhr9sJxeCiNsDqayIO9tMdnQFO0mZvx5TC21+XT7c="
+    },
+    "type": "primary"
+  }
+}

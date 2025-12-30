@@ -1,0 +1,24 @@
+{
+  "Blackthorn - Renamed": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 605145,
+      "file_name": "Blackthorn - Renamed-144576-1-0-1741879868.zip",
+      "mod_id": 144576,
+      "hash": "sha256-MxDkQkDhBHVd/T0XjqreETTH3WwtKA8BjGcHs2svVsE="
+    },
+    "type": "primary"
+  },
+  "Blackthorn - Rebalanced": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 605146,
+      "file_name": "Blackthorn - Rebalanced-144576-1-0-1741879919.zip",
+      "mod_id": 144576,
+      "hash": "sha256-Uh9hQMZgiaJYbKZXisVE8vqNrMqaILW2FIkFiCGG0UI="
+    },
+    "type": "primary"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "Dragon Leveled List Fixes": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 511596,
+      "file_name": "Dragon Leveled List Fixes-121872-1-0-1718403803.7z",
+      "mod_id": 121872,
+      "hash": "sha256-LH9vP8rAvA8I1V5rQVgOOkBzhbLl3hkeqU6G76qBrHM="
+    },
+    "type": "primary"
+  },
+  "Higher Poly Vanilla Dragons Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1",
+      "file_id": 513665,
+      "file_name": "Higher Poly Vanilla Dragons Patch-121872-1-1-1718983632.7z",
+      "mod_id": 121872,
+      "hash": "sha256-kOXhD0NbbnvhDPvWN44PvycYROxgj/FDJoQMyFlfdA4="
+    }
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "Compatibility patches": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1",
+      "file_id": 165603,
+      "file_name": "Compatibility patches-41312-1-1602745957.7z",
+      "mod_id": 41312,
+      "hash": "sha256-mu8PgbRD4nDTvSXVUfDkCYxMFt31y0cWBQx/k9CqMzs="
+    }
+  },
+  "Cathedral - 3D Mountain Flowers": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "2.0",
+      "file_id": 284821,
+      "file_name": "Cathedral - 3D Mountain Flowers-41312-2-0-1652927174.7z",
+      "mod_id": 41312,
+      "hash": "sha256-D4xpgQC3cPwacNwbHv7X2CGzVeNLBxxkCG8gArFd0YE="
+    },
+    "type": "primary"
+  }
+}

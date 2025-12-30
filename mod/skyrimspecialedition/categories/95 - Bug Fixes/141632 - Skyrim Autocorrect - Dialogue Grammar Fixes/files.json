@@ -1,0 +1,24 @@
+{
+  "Skyrim Autocorrect - Dialogue Grammar Fixes": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0.5",
+      "file_id": 690806,
+      "file_name": "Skyrim Autocorrect - Dialogue Grammar Fixes-141632-1-0-5-1764001779.zip",
+      "mod_id": 141632,
+      "hash": "sha256-RuzPCXHfRxVoluxqTBfUd1QleQs3tNpIaXzl9jOJNr0="
+    },
+    "type": "primary"
+  },
+  "Skyrim Autocorrect - Standalone Aesthetics Addon": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0.5",
+      "file_id": 690807,
+      "file_name": "Skyrim Autocorrect - Standalone Aesthetics Addon-141632-1-0-5-1764001871.zip",
+      "mod_id": 141632,
+      "hash": "sha256-P+6s4V67GtWVDkFw/MO01zHS7UNrJ3fm3OQQOSxna3U="
+    },
+    "type": "primary"
+  }
+}

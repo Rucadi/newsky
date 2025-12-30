@@ -1,0 +1,23 @@
+{
+  "ENB Shader Preset": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1",
+      "file_id": 283932,
+      "file_name": "ENB Shader Preset-67996-1-1-1652613460.zip",
+      "mod_id": 67996,
+      "hash": "sha256-PcuwShEetS74IFuL81GhCHO8t+yFgpF8fQq84WomR9k="
+    }
+  },
+  "Target Focus": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.2.1",
+      "file_id": 604741,
+      "file_name": "Target Focus-67996-1-2-1-1741783439.7z",
+      "mod_id": 67996,
+      "hash": "sha256-h4IvSSs9OmS1ZES/RdvW2TIn65tmHI4Ank0zhb5I8Rg="
+    },
+    "type": "primary"
+  }
+}

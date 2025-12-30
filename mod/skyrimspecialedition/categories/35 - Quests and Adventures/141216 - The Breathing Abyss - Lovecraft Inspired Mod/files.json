@@ -1,0 +1,23 @@
+{
+  "The Breathing Abyss - Old Version": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1",
+      "file_id": 592466,
+      "file_name": "The Breathing Abyss - Old Version-141216-1-1-1739055540.7z",
+      "mod_id": 141216,
+      "hash": "sha256-wnC2gIxYj7j0L8YrGFwKVTeFrKiwQc00FwHPIzLz1j8="
+    }
+  },
+  "The Breathing Abyss - ESL - 1.0.8": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0.8",
+      "file_id": 645113,
+      "file_name": "The Breathing Abyss - ESL - 1.0.8-141216-1-0-8-1751924046.rar",
+      "mod_id": 141216,
+      "hash": "sha256-WmNl13VLXDnn+3I02SJJNTRrlywAY3PmhC0Kq9QuJyA="
+    },
+    "type": "primary"
+  }
+}

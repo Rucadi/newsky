@@ -1,0 +1,43 @@
+{
+  "Whiterun Sewer Meshes": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 563849,
+      "file_name": "Whiterun Sewer Meshes-134092-1-0-1731987576.zip",
+      "mod_id": 134092,
+      "hash": "sha256-3TF5TfAbOcfuADV1rXR+7t//S2cYIukTKE6Fkj+K6Uo="
+    }
+  },
+  "Ancient Nordic Bronze": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 606608,
+      "file_name": "Ancient Nordic Bronze-134092-1-0-1742209610.zip",
+      "mod_id": 134092,
+      "hash": "sha256-+v5Srcyb1KXFr51uD86pWsDTvRNx2h1bK5AWoSPzHSs="
+    }
+  },
+  "Glacial Nordic Ruins": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "2.0",
+      "file_id": 674336,
+      "file_name": "Glacial Nordic Ruins-134092-2-0-1760126659.zip",
+      "mod_id": 134092,
+      "hash": "sha256-ngWFlbHwFrgSQEiBGWLp/Ae6r1JYg5AoaVF3GLGtLGc="
+    }
+  },
+  "FuzzBeed's Resources": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "9.0",
+      "file_id": 684531,
+      "file_name": "FuzzBeed's Resources-134092-9-0-1762477331.zip",
+      "mod_id": 134092,
+      "hash": "sha256-ZO2HM/VhoU+OAMU7uRXD8SnlARiMR0y7WGsd/LH+yCk="
+    },
+    "type": "primary"
+  }
+}

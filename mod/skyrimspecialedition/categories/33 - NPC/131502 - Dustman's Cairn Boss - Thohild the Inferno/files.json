@@ -1,0 +1,24 @@
+{
+  "Dustman's Cairn Boss - Non-Requiem": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 552075,
+      "file_name": "Dustman's Cairn Boss - Non-Requiem-131502-1-0-1728917102.7z",
+      "mod_id": 131502,
+      "hash": "sha256-ZZbEwmN6XnkTONExKmwq+Mue+e78yVr+AdLLChNfhyw="
+    },
+    "type": "primary"
+  },
+  "Dustman's Cairn Boss - Requiem": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 552076,
+      "file_name": "Dustman's Cairn Boss - Requiem-131502-1-0-1728917134.7z",
+      "mod_id": 131502,
+      "hash": "sha256-9aN1Qees0TZQHBPJ5QHky0awz3gtmRVrgDRohxqEeZc="
+    },
+    "type": "primary"
+  }
+}

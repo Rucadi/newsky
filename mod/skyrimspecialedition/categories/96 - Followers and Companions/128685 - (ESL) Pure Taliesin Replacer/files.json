@@ -1,0 +1,33 @@
+{
+  "Pure Taliesin Replacer": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.01",
+      "file_id": 540591,
+      "file_name": "Pure Taliesin Replacer-128685-1-01-1725933768.rar",
+      "mod_id": 128685,
+      "hash": "sha256-RNPygMaFeZPnmeJyzP6xrJvjJBilPfAalQjj6UjUKC0="
+    },
+    "type": "primary"
+  },
+  "Taliesin Blonde hair patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.01",
+      "file_id": 540593,
+      "file_name": "Taliesin Blonde hair patch-128685-1-01-1725933895.rar",
+      "mod_id": 128685,
+      "hash": "sha256-e4JVADv5nd3V1rkD4gib3Um35/bNnWgpb5bxpgnKwU8="
+    }
+  },
+  "Taliesin Silver hair patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.01",
+      "file_id": 540594,
+      "file_name": "Taliesin Silver hair patch-128685-1-01-1725933932.rar",
+      "mod_id": 128685,
+      "hash": "sha256-6FY9a1y1gAfL91tZ971Fkv1xBE1m+bIH3mhGaFBGXhA="
+    }
+  }
+}

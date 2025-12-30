@@ -1,0 +1,24 @@
+{
+  "Defeat the Dragon Cult - Elder Knowledge Start": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0.2",
+      "file_id": 676292,
+      "file_name": "Defeat the Dragon Cult - Elder Knowledge Start-145496-1-0-2-1760555059.zip",
+      "mod_id": 145496,
+      "hash": "sha256-ltapn2f+6Mfz3ulFfTta049fqma+U1O/t+2rwU7G340="
+    },
+    "type": "primary"
+  },
+  "Defeat the Dragon Cult - Throat of the World Start": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0.2",
+      "file_id": 676293,
+      "file_name": "Defeat the Dragon Cult - Throat of the World Start-145496-1-0-2-1760555093.zip",
+      "mod_id": 145496,
+      "hash": "sha256-/g93ggVzuKb8klQD391Je1FNikbA31VvJdl9nmpnxiQ="
+    },
+    "type": "primary"
+  }
+}

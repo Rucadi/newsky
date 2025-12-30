@@ -1,0 +1,24 @@
+{
+  "1) The Dragonborn's Bestiary - Sun Spells Addon": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0.0",
+      "file_id": 519456,
+      "file_name": "The Dragonborn's Bestiary - Sun Spells Addon-123871-1-0-0-1720556316.zip",
+      "mod_id": 123871,
+      "hash": "sha256-fLEU04EGigjBgeokW+aTDF2BoEUxOc14vCcAIIJlCT8="
+    },
+    "type": "primary"
+  },
+  "2) TDBB - Sun Spells Addon (Based on Vanilla)": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0.0",
+      "file_id": 534536,
+      "file_name": "2) TDBB - Sun Spells Addon (Based on Vanilla)-123871-1-0-0-1724430760.zip",
+      "mod_id": 123871,
+      "hash": "sha256-RsqlMjGAtYA4lSPzG7T0qwuzsAoXOGMwuKTLuq4j9IQ="
+    },
+    "type": "primary"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "Tonal Arsenal - Katana Optional KID file": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "0.2",
+      "file_id": 540671,
+      "file_name": "Tonal Arsenal - Katana Optional KID file-128762-0-2-1725972014.zip",
+      "mod_id": 128762,
+      "hash": "sha256-ECO3m8IfyIxvYuBdH2W2bi+HjtHPTpjr5Q9hTYYBKYM="
+    }
+  },
+  "Tonal Arsenal": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "0.51",
+      "file_id": 566840,
+      "file_name": "Tonal Arsenal-128762-0-51-1732774428.zip",
+      "mod_id": 128762,
+      "hash": "sha256-7agb8FoIUBTCJZLH3D+S4s35FaIGeURSxTXxqC6VoTs="
+    },
+    "type": "primary"
+  }
+}

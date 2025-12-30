@@ -1,0 +1,24 @@
+{
+  "Project Cougar - Tilma": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 308285,
+      "file_name": "Project Cougar - Tilma-73547-1-0-1660765304.7z",
+      "mod_id": 73547,
+      "hash": "sha256-lUycxIMq/llm4jlBPzBAXEy/wJMuKA5XOVO7iS/IMdY="
+    },
+    "type": "primary"
+  },
+  "(Updated Version) Project Cougar - Tilma": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "2.0",
+      "file_id": 353502,
+      "file_name": "(Updated Version) Project Cougar - Tilma-73547-2-0-1674825266.7z",
+      "mod_id": 73547,
+      "hash": "sha256-W/6+NE7EQWoGNNVccDhrRwTNbNT6kcZdilAFBXYpTFA="
+    },
+    "type": "primary"
+  }
+}

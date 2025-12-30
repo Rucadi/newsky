@@ -1,0 +1,24 @@
+{
+  "Citizens of Tamriel Visual Overhaul (regular version)": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 180665,
+      "file_name": "Citizens of Tamriel Visual Overhaul-44563-1-0-1611137412.7z",
+      "mod_id": 44563,
+      "hash": "sha256-+zUSnIvgdVHRWPMhQ9ZkrMoZA2lOOP148VvS3kglpoA="
+    },
+    "type": "primary"
+  },
+  "Citizens of Tamriel Visual Overhaul (ezPG version)": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.4",
+      "file_id": 367596,
+      "file_name": "Citizens of Tamriel Visual Overhaul (ezPG version)-44563-1-4-1678571136.7z",
+      "mod_id": 44563,
+      "hash": "sha256-RVNasdI2sBrzdXuccUh9c0+YFcw4cjg9mExBapPumaw="
+    },
+    "type": "primary"
+  }
+}

@@ -1,0 +1,23 @@
+{
+    "HAG - Occult Cradle Stone Tower": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "1.0",
+            "file_id": 620835,
+            "file_name": "HAG - Occult Cradle Stone Tower-148542-1-0-1745530235.7z",
+            "mod_id": 148542,
+            "hash": "sha256-SKuO6qbw1ftOYjIPMohRWb9kUzNNZKs+gx9bHb6w7OE="
+        },
+        "type": "primary"
+    },
+    "Lux Orbis - HAG - Cradle Stone Tower Patch": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "1.1a",
+            "file_id": 620954,
+            "file_name": "Lux Orbis - HAG - Cradle Stone Tower Patch-148542-1-1a-1745567900.7z",
+            "mod_id": 148542,
+            "hash": "sha256-vX2Te7cdnJZSD17LJVojA0bdkRTdhvRliVOr1RgdAJs="
+        }
+    }
+}

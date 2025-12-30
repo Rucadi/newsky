@@ -1,0 +1,46 @@
+{
+  "HD Falmer Armor - Heavy Armory Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 278831,
+      "file_name": "HD Falmer Armor - Heavy Armory Patch-66916-1-0-1650600815.7z",
+      "mod_id": 66916,
+      "hash": "sha256-+szLAFKfY4vxpt/YfnRYsS3kJYDgvtanzCv1DfB7+74="
+    },
+    "type": "primary"
+  },
+  "HD Falmer Armor - Immersive Weapons Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 278832,
+      "file_name": "HD Falmer Armor - Immersive Weapons Patch-66916-1-0-1650600856.7z",
+      "mod_id": 66916,
+      "hash": "sha256-XQ7A4or23zz5ZJPA8Z8q0ZOaOW0w7AAu/vY93+flTCI="
+    },
+    "type": "primary"
+  },
+  "HD Falmer Armor - Skyrim Immersive Creatures Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 278833,
+      "file_name": "HD Falmer Armor - Skyrim Immersive Creatures Patch-66916-1-0-1650600916.7z",
+      "mod_id": 66916,
+      "hash": "sha256-vHN7QSvyvwCzApSZLmmeRZg2EbXz8Qpmqqq9zRybd+k="
+    },
+    "type": "primary"
+  },
+  "HD Falmer Armor - Leanwolf's Better Shaped Weapons Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 278841,
+      "file_name": "HD Falmer Armor - Leanwolf's Better Shaped Weapons Patch-66916-1-0-1650604332.7z",
+      "mod_id": 66916,
+      "hash": "sha256-CHO3UP+2671IbX0iSKLyx4dhSnKMx/r7Kl5bvkPUcpo="
+    },
+    "type": "primary"
+  }
+}

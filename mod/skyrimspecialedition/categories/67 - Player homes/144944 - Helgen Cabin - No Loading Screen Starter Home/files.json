@@ -1,0 +1,23 @@
+{
+  "Helgen Cabin - Fabled Forests Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "2.0",
+      "file_id": 611380,
+      "file_name": "Helgen Cabin - Fabled Forests Patch-144944-2-0-1743274258.7z",
+      "mod_id": 144944,
+      "hash": "sha256-OLYC3lC/5kmg/T9qeXQcNC0DfNuEBP7JA+5PyNjMzPw="
+    }
+  },
+  "Helgen Cabin": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "2.2",
+      "file_id": 619970,
+      "file_name": "Helgen Cabin-144944-2-2-1745279411.7z",
+      "mod_id": 144944,
+      "hash": "sha256-yQ74GiQBj3hpy/v3ztfxk+kh68HG3iFj56gCNrYqMag="
+    },
+    "type": "primary"
+  }
+}

@@ -1,0 +1,74 @@
+{
+    "CotG - Immersive COW or Ult COW Patch": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "1.0",
+            "file_id": 638337,
+            "file_name": "CotG - Immersive COW or Ult COW Patch-122164-1-0-1750027690.7z",
+            "mod_id": 122164,
+            "hash": "sha256-8dl8Wu9DiyhxUanekTIeJnwax0Bwii0BNiAwpv0V2A0="
+        }
+    },
+    "CotG - 1k Textures": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "1.01",
+            "file_id": 638713,
+            "file_name": "CotG - 1k Textures-122164-1-01-1750121689.7z",
+            "mod_id": 122164,
+            "hash": "sha256-1W2Xds+GbAYka5PkkQ9DwKT6LriyG00qPaTKjUpLeLM="
+        }
+    },
+    "CotG - AI Overhaul": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "1.01",
+            "file_id": 638714,
+            "file_name": "CotG - AI Overhaul-122164-1-01-1750121715.7z",
+            "mod_id": 122164,
+            "hash": "sha256-KWOgmWk73Dyz2N9BaZTKimk0wYO41GtJkiimki18Ilk="
+        }
+    },
+    "CotG - USSEP": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "1.01",
+            "file_id": 638716,
+            "file_name": "CotG - USSEP-122164-1-01-1750121770.7z",
+            "mod_id": 122164,
+            "hash": "sha256-uN5fcsbe878JVTXOp543ObY/QwcrbnEzlX55Tv5VBdg="
+        }
+    },
+    "CotG - Faendal's Warpaint": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "1.05",
+            "file_id": 680839,
+            "file_name": "CotG - Faendal's Warpaint-122164-1-05-1761531023.7z",
+            "mod_id": 122164,
+            "hash": "sha256-evQvhf7Ffj0K8fQB6KTHuwrr+svMQU7aX/ApUlj8/d8="
+        }
+    },
+    "Children of the Green": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "1.10.1",
+            "file_id": 681651,
+            "file_name": "Children of the Green-122164-1-11-1761758763.7z",
+            "mod_id": 122164,
+            "hash": "sha256-RXEsAQBstYgDlpBK+aBZYgfHKobUtcs+IBX5tpRgYis="
+        },
+        "type": "primary"
+    },
+    "SkyPatcher - Children of the Green": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "1.10.1",
+            "file_id": 681652,
+            "file_name": "SkyPatcher - Children of the Green-122164-1-10-1-1761758811.7z",
+            "mod_id": 122164,
+            "hash": "sha256-fo0u+sqquboXmqc2piabn2XGULH5t9DY7b2ywzLD3IA="
+        },
+        "type": "primary"
+    }
+}

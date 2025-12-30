@@ -1,0 +1,134 @@
+{
+  "Arcs Wispmother": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 520204,
+      "file_name": "Arcs Wispmother-124060-1-0-1720777561.rar",
+      "mod_id": 124060,
+      "hash": "sha256-m16LXaVqe7J+NKRBP8nt49Fr5vcG+l8OmdDxo1L1WTI="
+    },
+    "type": "primary"
+  },
+  "Shiny Horkers": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 520205,
+      "file_name": "Shiny Horkers-124060-1-0-1720777581.rar",
+      "mod_id": 124060,
+      "hash": "sha256-b5deWP9LOA0DLRuuNXIqDzERXdu+qUTVuD0nreXzgXg="
+    },
+    "type": "primary"
+  },
+  "Wolves of Skyrim": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 520292,
+      "file_name": "Wolves of Skyrim-124060-1-0-1720787614.rar",
+      "mod_id": 124060,
+      "hash": "sha256-lBBLzEjqVZkUlYbEYqjGG9WqyM2UcEdvvx2nij//9fI="
+    },
+    "type": "primary"
+  },
+  "Labrador": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 520293,
+      "file_name": "Labrador-124060-1-0-1720787639.rar",
+      "mod_id": 124060,
+      "hash": "sha256-I+YYCciHrpyqNla58hu2Fhfafn9+TWBw4FmorOvAh3A="
+    },
+    "type": "primary"
+  },
+  "Spider Colossi": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 521483,
+      "file_name": "Spider Colossi-124060-1-0-1721054268.rar",
+      "mod_id": 124060,
+      "hash": "sha256-M/NmjKNW0CJFS9BUx9wmRrUXdK3n6ELZZK6CYXahNFw="
+    },
+    "type": "primary"
+  },
+  "Vanilla Familiar and Flaming Familiar": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 521851,
+      "file_name": "Vanilla Familiar and Flaming Familiar-124060-1-0-1721150206.rar",
+      "mod_id": 124060,
+      "hash": "sha256-mEdOSCtt0EYxzJJ3CdMhXfRSan/t/4Lb9Rge8qFrmm8="
+    },
+    "type": "primary"
+  },
+  "Dareni's Addons": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.03",
+      "file_id": 522126,
+      "file_name": "Dareni's Addons-124060-1-03-1721218361.rar",
+      "mod_id": 124060,
+      "hash": "sha256-8QLjTYyd6oscGnERZapWt3Kz7Aoo5xmgAkpzJejlfSA="
+    },
+    "type": "primary"
+  },
+  "Dongo Giants": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.04",
+      "file_id": 524392,
+      "file_name": "Dongo Giants-124060-1-04-1721821570.rar",
+      "mod_id": 124060,
+      "hash": "sha256-hLHyXQoesk4IcamBWj/KJbif2g/ErJ1tpiCCCO9Qb9c="
+    },
+    "type": "primary"
+  },
+  "Bogmort": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.05",
+      "file_id": 524403,
+      "file_name": "Bogmort-124060-1-05-1721825875.rar",
+      "mod_id": 124060,
+      "hash": "sha256-XtzEMcrGYkjVOSjuN2gZZajVhoTdQbljGvl/X1mCGnA="
+    },
+    "type": "primary"
+  },
+  "Skinwalker21 Addons": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.06",
+      "file_id": 524911,
+      "file_name": "Skinwalker21 Addons-124060-1-06-1721936697.rar",
+      "mod_id": 124060,
+      "hash": "sha256-qfRA6hc2EJsFr7El1PzougKAZVGAj5T85oK3xwuxHCg="
+    },
+    "type": "primary"
+  },
+  "Golem Colossi": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.07",
+      "file_id": 544097,
+      "file_name": "Golem Colossi-124060-1-07-1726827696.rar",
+      "mod_id": 124060,
+      "hash": "sha256-6DxexN5lSb4TSV+YeUE3vxqqVCSl4DMxNW6DoVOluRw="
+    },
+    "type": "primary"
+  },
+  "PSBoss Addons": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.08",
+      "file_id": 564835,
+      "file_name": "PSBoss Addons-124060-1-08-1732268476.rar",
+      "mod_id": 124060,
+      "hash": "sha256-GwA4XKWXS1E7vgmLeqavblV9oprbLVMTU6oy4KaIoaM="
+    },
+    "type": "primary"
+  }
+}

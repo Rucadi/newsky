@@ -1,0 +1,35 @@
+{
+  "Modpocalypse NPCs (v1) Wyrmstooth": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.01",
+      "file_id": 239070,
+      "file_name": "Modpocalypse NPCs (v1) Wyrmstooth-57897-1-01-1636071249.7z",
+      "mod_id": 57897,
+      "hash": "sha256-Uci0tSTiAL0hsx2X5SY6uvq2azFtbNXByQJqp8gzlf0="
+    },
+    "type": "primary"
+  },
+  "Modpocalypse NPCs (v2) Wyrmstooth": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.01",
+      "file_id": 239071,
+      "file_name": "Modpocalypse NPCs (v2) Wyrmstooth-57897-1-01-1636071307.7z",
+      "mod_id": 57897,
+      "hash": "sha256-zuaY9sBFcoeodtFwFBVo/m2C7sFOv6YXQAHEDRx7G6k="
+    },
+    "type": "primary"
+  },
+  "Modpocalypse NPCs (v3) Wyrmstooth": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.01",
+      "file_id": 239073,
+      "file_name": "Modpocalypse NPCs (v3) Wyrmstooth-57897-1-01-1636071342.7z",
+      "mod_id": 57897,
+      "hash": "sha256-310jMMxrySBhmeHMocGn+jDubOE7sTg+751H/6NnPeY="
+    },
+    "type": "primary"
+  }
+}

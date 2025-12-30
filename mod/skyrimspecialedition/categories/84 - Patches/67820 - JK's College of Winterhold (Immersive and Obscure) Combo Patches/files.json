@@ -1,0 +1,773 @@
+{
+  "JKs College of Winterhold - ICOW - COTN Dawnstar Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 282719,
+      "file_name": "JKs College of Winterhold - ICOW - COTN Dawnstar Patch-67820-1-0-1652203077.7z",
+      "mod_id": 67820,
+      "hash": "sha256-xqZcUaKjg7zIJD1umtQfn8/9/GiTF/Dw665yt6EJRPE="
+    }
+  },
+  "JKs College of Winterhold - ICOW - COTN Falkreath Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 282720,
+      "file_name": "JKs College of Winterhold - ICOW - COTN Falkreath Patch-67820-1-0-1652203090.7z",
+      "mod_id": 67820,
+      "hash": "sha256-sQYW8byDXwfCUyv9QzSNb3QVY9bK+e6vQ+AiNsX6uLo="
+    }
+  },
+  "JKs College of Winterhold - ICOW - COTN Morthal Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 282721,
+      "file_name": "JKs College of Winterhold - ICOW - COTN Morthal Patch-67820-1-0-1652203105.7z",
+      "mod_id": 67820,
+      "hash": "sha256-8HoM2L8td5kadcL9yVlzvP6gUQFvDhZ8y+h2fJ2SAfw="
+    }
+  },
+  "JKs College of Winterhold - ICOW - COTN Winterhold Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 282722,
+      "file_name": "JKs College of Winterhold - ICOW - COTN Winterhold Patch-67820-1-0-1652203122.7z",
+      "mod_id": 67820,
+      "hash": "sha256-jdC43K3J6jl6jFD1CXT0rIRgDz2KpFVAq+ht/1QH9o8="
+    }
+  },
+  "JKs College of Winterhold - ICOW - Quaint Raven Rock Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 282723,
+      "file_name": "JKs College of Winterhold - ICOW - Quaint Raven Rock Patch-67820-1-0-1652203137.7z",
+      "mod_id": 67820,
+      "hash": "sha256-lSHzdTaEWHOrCzqI+GL/4mDjgoTgNHvlug+3ge5jWIc="
+    }
+  },
+  "JKs College of Winterhold - ICOW - JKs Blue Palace Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 282724,
+      "file_name": "JKs College of Winterhold - ICOW - JKs Blue Palace Patch-67820-1-0-1652203160.7z",
+      "mod_id": 67820,
+      "hash": "sha256-ZhK+ulpvac4jLGUm//oVZ0EhsD8vD30pmhbBi2Y8bHw="
+    }
+  },
+  "JKs College of Winterhold - ICOW - Cathedral 3D Mountain Flowers Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 282725,
+      "file_name": "JKs College of Winterhold - ICOW - Cathedral 3D Mountain Flowers Patch-67820-1-0-1652203182.7z",
+      "mod_id": 67820,
+      "hash": "sha256-wB1BSUFP4LV2abftIccu/BQdE6QuDKlBTkisY0HmrAA="
+    }
+  },
+  "JKs College of Winterhold - ICOW - 3DNPC Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 282726,
+      "file_name": "JKs College of Winterhold - ICOW - 3DNPC Patch-67820-1-0-1652203195.7z",
+      "mod_id": 67820,
+      "hash": "sha256-wKXX4DSN2qIUZk1dNZMl+dNSCIv2Fmnnv35Ibxqs988="
+    }
+  },
+  "JKs College of Winterhold - ICOW - Amorous Adventures Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 282727,
+      "file_name": "JKs College of Winterhold - ICOW - Amorous Adventures Patch-67820-1-0-1652203211.7z",
+      "mod_id": 67820,
+      "hash": "sha256-ldqFBobzSPQT3s8M0dtBkmZW9aiUv4CugV2CgWPWERA="
+    }
+  },
+  "JKs College of Winterhold - ICOW - Amorous Adventures - SFCO Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 282728,
+      "file_name": "JKs College of Winterhold - ICOW - Amorous Adventures - SFCO Patch-67820-1-0-1652203229.7z",
+      "mod_id": 67820,
+      "hash": "sha256-mbHtogrHzX7Dbq45Z97J8qDu4vVQCu8W008wyqPlkCk="
+    }
+  },
+  "JKs College of Winterhold - ICOW - Amorous Adventures Plus Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 282729,
+      "file_name": "JKs College of Winterhold - ICOW - Amorous Adventures Plus Patch-67820-1-0-1652203243.7z",
+      "mod_id": 67820,
+      "hash": "sha256-RYd10CPWm4nUAEo8b9UaqO+DTehz6nOWLZfvTeUa1xM="
+    }
+  },
+  "JKs College of Winterhold - ICOW - WACCF Armor and Clothing Extension Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 282730,
+      "file_name": "JKs College of Winterhold - ICOW - WACCF Armor and Clothing Extension Patch-67820-1-0-1652203259.7z",
+      "mod_id": 67820,
+      "hash": "sha256-22gu0JQzomJm3u6bpYkA/BkPLeDCUchMoOmnN0+GmiA="
+    }
+  },
+  "JKs College of Winterhold - ICOW - Additional Hearthfire Dolls Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 282731,
+      "file_name": "JKs College of Winterhold - ICOW - Additional Hearthfire Dolls Patch-67820-1-0-1652203275.7z",
+      "mod_id": 67820,
+      "hash": "sha256-Qh2kMBvxvyG/CHx4zz/eQ17nBz0So34hSqlhGyq14Lc="
+    }
+  },
+  "JKs College of Winterhold - ICOW - AI Overhaul Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 282732,
+      "file_name": "JKs College of Winterhold - ICOW - AI Overhaul Patch-67820-1-0-1652203293.7z",
+      "mod_id": 67820,
+      "hash": "sha256-bMgIGlG3SGlQo5p9/LYao91uL4OP3bWvF3hPCKaZePc="
+    }
+  },
+  "JKs College of Winterhold - ICOW - AI Overhaul - Special Edition Followers Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 282733,
+      "file_name": "JKs College of Winterhold - ICOW - AI Overhaul - Special Edition Followers Patch-67820-1-0-1652203317.7z",
+      "mod_id": 67820,
+      "hash": "sha256-RjYHbP8pzZGHHxThnbPhjBi3DXR9BJkhTmNJKbfHS5U="
+    }
+  },
+  "JKs College of Winterhold - ICOW - Amulets Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 282734,
+      "file_name": "JKs College of Winterhold - ICOW - Amulets Patch-67820-1-0-1652203330.7z",
+      "mod_id": 67820,
+      "hash": "sha256-JK9dupVlMBApVp16QUCprCTUnq2Ej6fCq85lV3ReISI="
+    }
+  },
+  "JKs College of Winterhold - ICOW - Animated Armory Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 282735,
+      "file_name": "JKs College of Winterhold - ICOW - Animated Armory Patch-67820-1-0-1652203348.7z",
+      "mod_id": 67820,
+      "hash": "sha256-pZ+JIQuYMtlrvP+c+IaG7pALDYJ2ucBbUxL/E+j8ybo="
+    }
+  },
+  "JKs College of Winterhold - ICOW - Artifacts of Skyrim Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 282736,
+      "file_name": "Artifacts of Skyrim Patch-67820-1-0-1652203362.7z",
+      "mod_id": 67820,
+      "hash": "sha256-zYpiN2//fu/k/mEobyqbEyrDpSG7qxLZfyRpTLPX2WQ="
+    }
+  },
+  "JKs College of Winterhold - ICOW - BGCollectables Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 282737,
+      "file_name": "JKs College of Winterhold - ICOW - BGCollectables Patch-67820-1-0-1652203377.7z",
+      "mod_id": 67820,
+      "hash": "sha256-V/pr4KRURUywcfJGSjfk4xferCaV2TcKBhQRG1cgFRA="
+    }
+  },
+  "JKs College of Winterhold - ICOW - Cassandra Frost Witch Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 282738,
+      "file_name": "JKs College of Winterhold - ICOW - Cassandra Frost Witch Patch-67820-1-0-1652203394.7z",
+      "mod_id": 67820,
+      "hash": "sha256-SjLCBehGNHPr3ncetvNmSsMDQvEVskPCVnWNKvuclOM="
+    }
+  },
+  "JKs College of Winterhold - ICOW - CC - Goldbrand Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 282739,
+      "file_name": "JKs College of Winterhold - ICOW - CC - Goldbrand Patch-67820-1-0-1652203411.7z",
+      "mod_id": 67820,
+      "hash": "sha256-KOrjPshGQaMk2r8EBIb9pPtwwXGUlJTuwtU2BV5U1QQ="
+    }
+  },
+  "JKs College of Winterhold - ICOW - CC - Gray Cowl Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 282740,
+      "file_name": "JKs College of Winterhold - ICOW - CC - Gray Cowl Patch-67820-1-0-1652203426.7z",
+      "mod_id": 67820,
+      "hash": "sha256-Ifx9bP6NG9yt+HuQ68M0EQg7uKm0MGMNYazr1ePuMeo="
+    }
+  },
+  "JKs College of Winterhold - ICOW - CC - Wild Horses Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 282741,
+      "file_name": "JKs College of Winterhold - ICOW - CC - Wild Horses Patch-67820-1-0-1652203440.7z",
+      "mod_id": 67820,
+      "hash": "sha256-xZhCQPQMXmw0hwFpatxEzQ/qg6pYa5UzbHVX02neVC8="
+    }
+  },
+  "JKs College of Winterhold - ICOW - Cheesemod Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 282742,
+      "file_name": "JKs College of Winterhold - ICOW - Cheesemod Patch-67820-1-0-1652203453.7z",
+      "mod_id": 67820,
+      "hash": "sha256-3hcqU2jdTkkHWQL2I3NKPylKxyoeLFHp9BkFlEG3d4Y="
+    }
+  },
+  "JKs College of Winterhold - ICOW - CLLF - Mysticism Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 282743,
+      "file_name": "JKs College of Winterhold - ICOW - CLLF - Mysticism Patch-67820-1-0-1652203473.7z",
+      "mod_id": 67820,
+      "hash": "sha256-xbFZrtZBZHUTy0ZIKheR5ro/ZBxpXTPYetGFW5z4uW0="
+    }
+  },
+  "JKs College of Winterhold - ICOW - CLLF - TC - Mysticism Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 282744,
+      "file_name": "JKs College of Winterhold - ICOW - CLLF - TC - Mysticism Patch-67820-1-0-1652203491.7z",
+      "mod_id": 67820,
+      "hash": "sha256-3mimU/fMtcMB97TwmobtNRWMnh0myrhvzPRWz3FcpAg="
+    }
+  },
+  "JKs College of Winterhold - ICOW - CLLF - TC Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 282745,
+      "file_name": "JKs College of Winterhold - ICOW - CLLF - TC Patch-67820-1-0-1652203508.7z",
+      "mod_id": 67820,
+      "hash": "sha256-nNRPNn5mtyECbJ2RSesUdMKYPu8uHYWoNMWj23H7msY="
+    }
+  },
+  "JKs College of Winterhold - ICOW - Container and Levelled Lists Fixes Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 282746,
+      "file_name": "JKs College of Winterhold - ICOW - Container and Levelled Lists Fixes Patch-67820-1-0-1652203527.7z",
+      "mod_id": 67820,
+      "hash": "sha256-+8Mx0Mho1w2v0Zexvoh1ajIgRzMmhHRRLDWTWM9rjgg="
+    }
+  },
+  "JKs College of Winterhold - ICOW - Cloaks Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 282747,
+      "file_name": "JKs College of Winterhold - ICOW - Cloaks Patch-67820-1-0-1652203541.7z",
+      "mod_id": 67820,
+      "hash": "sha256-kNP9ZAwdx5Xh8DVl5O0V3VetoRg9XHSjTQkN1ZYTCWE="
+    }
+  },
+  "JKs College of Winterhold - ICOW - Improved College Entry Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 282748,
+      "file_name": "JKs College of Winterhold - ICOW - Improved College Entry Patch-67820-1-0-1652203557.7z",
+      "mod_id": 67820,
+      "hash": "sha256-a5KLzECp6MlSZlWq/GAJ4Wi8gNszYN7TkN31I+T9V2E="
+    }
+  },
+  "JKs College of Winterhold - ICOW - CRF - SFCO Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 282750,
+      "file_name": "JKs College of Winterhold - ICOW - CRF - SFCO Patch-67820-1-0-1652203570.7z",
+      "mod_id": 67820,
+      "hash": "sha256-SoucEkULz53/pW2Z53CVl7GWbDoBM022+bIF2wRC6lQ="
+    }
+  },
+  "JKs College of Winterhold - ICOW - CRF Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 282751,
+      "file_name": "JKs College of Winterhold - ICOW - CRF Patch-67820-1-0-1652203583.7z",
+      "mod_id": 67820,
+      "hash": "sha256-btVK5dkBrjOtG1Sg5dobtQpBLzseWUPPqwnPD7jpBao="
+    }
+  },
+  "JKs College of Winterhold - ICOW - Your Choices Matter - DB Alternate Ending Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 282752,
+      "file_name": "JKs College of Winterhold - ICOW - Your Choices Matter - DB Alternate Ending Patch-67820-1-0-1652203601.7z",
+      "mod_id": 67820,
+      "hash": "sha256-r6JrJ6pu0QyWVBw8lpsiDI4PoUO7uoVlH6ZxEoOZ0EY="
+    }
+  },
+  "JKs College of Winterhold - ICOW - Merta Black Rose Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 282753,
+      "file_name": "JKs College of Winterhold - ICOW - Merta Black Rose Patch-67820-1-0-1652203617.7z",
+      "mod_id": 67820,
+      "hash": "sha256-uoEqgwnlvr8p3iYPDixs926In8N30JnptKdh1CTEu5M="
+    }
+  },
+  "JKs College of Winterhold - ICOW - ELFX Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 282754,
+      "file_name": "JKs College of Winterhold - ICOW - ELFX Patch-67820-1-0-1652203633.7z",
+      "mod_id": 67820,
+      "hash": "sha256-0STqjuTGygkwktlHzSwFZQslpEtPyyPEqaYoZ8rtB28="
+    }
+  },
+  "JKs College of Winterhold - ICOW - Enhanced Landscapes Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 282755,
+      "file_name": "JKs College of Winterhold - ICOW - Enhanced Landscapes Patch-67820-1-0-1652203649.7z",
+      "mod_id": 67820,
+      "hash": "sha256-e0pbpG4AH6Iz+niAe/m1y4C7f7cuQynH3iVEnWsegS8="
+    }
+  },
+  "JKs College of Winterhold - ICOW - ESO Imports - WACCF Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 282756,
+      "file_name": "JKs College of Winterhold - ICOW - ESO Imports - WACCF Patch-67820-1-0-1652203777.7z",
+      "mod_id": 67820,
+      "hash": "sha256-bxcB3gN6X0/aJ3SX8WHAFRYbvzfRbJScLKYxfsIHqHU="
+    }
+  },
+  "JKs College of Winterhold - ICOW - ESO Imports Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 282757,
+      "file_name": "JKs College of Winterhold - ICOW - ESO Imports Patch-67820-1-0-1652203794.7z",
+      "mod_id": 67820,
+      "hash": "sha256-wODYHYIfHEo1vKNW/Y3dJ7yqazYtQ8ZPJKFG7/VjfBk="
+    }
+  },
+  "JKs College of Winterhold - ICOW - MCWT - Governable Gatekeeper Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 282760,
+      "file_name": "JKs College of Winterhold - ICOW - MCWT - Governable Gatekeeper Patch-67820-1-0-1652204097.7z",
+      "mod_id": 67820,
+      "hash": "sha256-NPmatDAL30ZRIlN7cLxS85N81RU9Qju+NM8/5rLHWL0="
+    }
+  },
+  "JKs College of Winterhold - ICOW - Immersive College NPCs Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 282761,
+      "file_name": "JKs College of Winterhold - ICOW - Immersive College NPCs Patch-67820-1-0-1652204113.7z",
+      "mod_id": 67820,
+      "hash": "sha256-MPFb14Vyw5skubREpr/PPgLsJb1V9UNh5knBGkieTNo="
+    }
+  },
+  "JKs College of Winterhold - ICOW - Indoril Armor Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 282762,
+      "file_name": "JKs College of Winterhold - ICOW - Indoril Armor Patch-67820-1-0-1652204130.7z",
+      "mod_id": 67820,
+      "hash": "sha256-8kHRvb7HK5IcERVs5DPsBHezsVxaVjsWHL96WS53NTY="
+    }
+  },
+  "JKs College of Winterhold - ICOW - Indoril Female Armor Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 282763,
+      "file_name": "JKs College of Winterhold - ICOW - Indoril Female Armor Patch-67820-1-0-1652204146.7z",
+      "mod_id": 67820,
+      "hash": "sha256-QIWb0Vj13GzTYgT0Mq+IcgOEsDfQ3rX/IhRbHxju2pY="
+    }
+  },
+  "JKs College of Winterhold - ICOW - JKs Skyrim Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 282764,
+      "file_name": "JKs College of Winterhold - ICOW - JKs Skyrim Patch-67820-1-0-1652204159.7z",
+      "mod_id": 67820,
+      "hash": "sha256-hr8PfCaRhX86cfp1bEXOeZseQeB61Q+/f895i53hf9o="
+    }
+  },
+  "JKs College of Winterhold - ICOW - Khajiit Will Follow Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 282765,
+      "file_name": "JKs College of Winterhold - ICOW - Khajiit Will Follow Patch-67820-1-0-1652204178.7z",
+      "mod_id": 67820,
+      "hash": "sha256-gQI3eW0FSj8LPMwmhTXhxboAh4S/6BKceDzptsf1AQI="
+    }
+  },
+  "JKs College of Winterhold - ICOW - Konahrik Accoutrements Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 282766,
+      "file_name": "JKs College of Winterhold - ICOW - Konahrik Accoutrements Patch-67820-1-0-1652204196.7z",
+      "mod_id": 67820,
+      "hash": "sha256-iZPuvglGhRcTmW3UliaI8j3A54d2JENe5zBD76SdALw="
+    }
+  },
+  "JKs College of Winterhold - ICOW - Leviathan Axe Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 282767,
+      "file_name": "JKs College of Winterhold - ICOW - Leviathan Axe Patch-67820-1-0-1652204219.7z",
+      "mod_id": 67820,
+      "hash": "sha256-5ay82Xe5+jW5QTwg6Lw6JvIH7bdqtcBv4pzzRg9zmnk="
+    }
+  },
+  "JKs College of Winterhold - ICOW - Lanterns of Skyrim II Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 282768,
+      "file_name": "JKs College of Winterhold - ICOW - Lanterns of Skyrim II Patch-67820-1-0-1652204295.7z",
+      "mod_id": 67820,
+      "hash": "sha256-SyQ1lUyDOIiEAkzHw0YcotxrQzOZT48hjni73rSCQW0="
+    }
+  },
+  "JKs College of Winterhold - ICOW - LOTD - Oblivion Artifacts Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 282769,
+      "file_name": "JKs College of Winterhold - ICOW - LOTD - Oblivion Artifacts Patch-67820-1-0-1652204313.7z",
+      "mod_id": 67820,
+      "hash": "sha256-dfOWEp5siKDD4hHyTUnUemDRRm+tYc5GZ6xB64wqn2c="
+    }
+  },
+  "JKs College of Winterhold - ICOW - LOTD - Tamrielic Culture Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 282770,
+      "file_name": "JKs College of Winterhold - ICOW - LOTD - Tamrielic Culture Patch-67820-1-0-1652204330.7z",
+      "mod_id": 67820,
+      "hash": "sha256-dJJN+C9AfLdJa1+3Td93VQuJjD+Mgk6DUGTXiAa8l5M="
+    }
+  },
+  "JKs College of Winterhold - ICOW - LOTD Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 282772,
+      "file_name": "JKs College of Winterhold - ICOW - LOTD Patch-67820-1-0-1652204345.7z",
+      "mod_id": 67820,
+      "hash": "sha256-byz0tOPWvO/aSFJ5u2M64Em9y0N3QiVOW4kNhdxUR9g="
+    }
+  },
+  "JKs College of Winterhold - ICOW - Marshlands Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 282773,
+      "file_name": "JKs College of Winterhold - ICOW - Marshlands Patch-67820-1-0-1652204361.7z",
+      "mod_id": 67820,
+      "hash": "sha256-JC2uiVYaX0MUAT2ANWhd7maQbse2c3XJz7M06qT3XP8="
+    }
+  },
+  "JKs College of Winterhold - ICOW - Morrowloot Miscellania Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 282774,
+      "file_name": "JKs College of Winterhold - ICOW - Morrowloot Miscellania Patch-67820-1-0-1652204377.7z",
+      "mod_id": 67820,
+      "hash": "sha256-NhyCkgS/1uHIdq36QpW49uoiy2u3H1iG8YLGwRgCUIk="
+    }
+  },
+  "JKs College of Winterhold - ICOW - MLU Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 282775,
+      "file_name": "JKs College of Winterhold - ICOW - MLU Patch-67820-1-0-1652204395.7z",
+      "mod_id": 67820,
+      "hash": "sha256-DWscbW5W/xp1NF8rHPtnPGVlG7MtJRlUg0gafiPJviM="
+    }
+  },
+  "JKs College of Winterhold - ICOW - Mrissi - SFCO Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 282776,
+      "file_name": "JKs College of Winterhold - ICOW - Mrissi - SFCO Patch-67820-1-0-1652204411.7z",
+      "mod_id": 67820,
+      "hash": "sha256-1bEltTLu2m6L78tuH01nBdxFJUmGQG8mcufsl3gGcEA="
+    }
+  },
+  "JKs College of Winterhold - ICOW - Mrissi Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 282777,
+      "file_name": "JKs College of Winterhold - ICOW - Mrissi Patch-67820-1-0-1652204425.7z",
+      "mod_id": 67820,
+      "hash": "sha256-pCqnX9W6uLFGen72lS3UgkViEvp5j2o55yIqWxpHxRQ="
+    }
+  },
+  "JKs College of Winterhold - ICOW - Mystic Condenser Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 282778,
+      "file_name": "JKs College of Winterhold - ICOW - Mystic Condenser Patch-67820-1-0-1652204441.7z",
+      "mod_id": 67820,
+      "hash": "sha256-wsV4qzBz9vu/cXfDCWjjo4oeI5ppY92C5Qj6PBWgyRs="
+    }
+  },
+  "JKs College of Winterhold - ICOW - Mysticism Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 282779,
+      "file_name": "JKs College of Winterhold - ICOW - Mysticism Patch-67820-1-0-1652204454.7z",
+      "mod_id": 67820,
+      "hash": "sha256-lXtCjSas6c1BGj0ULWhgXknovfqnkYpt028xN4TNpBA="
+    }
+  },
+  "JKs College of Winterhold - ICOW - Not So Fast Mages Guild Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 282780,
+      "file_name": "JKs College of Winterhold - ICOW - Not So Fast Mages Guild Patch-67820-1-0-1652204470.7z",
+      "mod_id": 67820,
+      "hash": "sha256-syc1P0ogbchAs5YVAjlEu+MAtBiMwdBHGt5dt4YD8YY="
+    }
+  },
+  "JKs College of Winterhold - ICOW - Radiance Locations Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 282781,
+      "file_name": "JKs College of Winterhold - ICOW - Radiance Locations Patch-67820-1-0-1652204486.7z",
+      "mod_id": 67820,
+      "hash": "sha256-BOR3XxqMb3ikOgW20Sb1OKEy/N5yb3l/yC8dZfAiibk="
+    }
+  },
+  "JKs College of Winterhold - ICOW - Royal Armory Tweaks - SFCO Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 282782,
+      "file_name": "JKs College of Winterhold - ICOW - Royal Armory Tweaks - SFCO Patch-67820-1-0-1652204506.7z",
+      "mod_id": 67820,
+      "hash": "sha256-OLSw2aRTr2+QT7kJRUl/zciqhai0MUxsqZ1P/+1JNTQ="
+    }
+  },
+  "JKs College of Winterhold - ICOW - Royal Armory Tweaks Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 282783,
+      "file_name": "JKs College of Winterhold - ICOW - Royal Armory Tweaks Patch-67820-1-0-1652204522.7z",
+      "mod_id": 67820,
+      "hash": "sha256-qJSbdBprfgkDJUjnIkUR/EP95TMdIBpn1HxaS3O7w9Y="
+    }
+  },
+  "JKs College of Winterhold - ICOW - Special Edition Followers Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 282784,
+      "file_name": "JKs College of Winterhold - ICOW - Special Edition Followers Patch-67820-1-0-1652204541.7z",
+      "mod_id": 67820,
+      "hash": "sha256-afFDEzI4EADw0jd7YBMZEuHE2a3HqGuDtzX6sxOcflo="
+    }
+  },
+  "JKs College of Winterhold - ICOW - Sepolcri Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 282785,
+      "file_name": "JKs College of Winterhold - ICOW - Sepolcri Patch-67820-1-0-1652204556.7z",
+      "mod_id": 67820,
+      "hash": "sha256-5aFvf+ZLKhexizjX+d7Y9fbSUt0hJ3qLh6aMTT02sdY="
+    }
+  },
+  "JKs College of Winterhold - ICOW - Snazzy Furniture and Clutter Overhaul Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 282786,
+      "file_name": "JKs College of Winterhold - ICOW - Snazzy Furniture and Clutter Overhaul Patch-67820-1-0-1652204575.7z",
+      "mod_id": 67820,
+      "hash": "sha256-71Pi13KCnui/7XmkjgNqE8lyXQQzg810ylQNfEiQ/W0="
+    }
+  },
+  "JKs College of Winterhold - ICOW - Skyrim Immersive Creatures Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 282787,
+      "file_name": "JKs College of Winterhold - ICOW - Skyrim Immersive Creatures Patch-67820-1-0-1652204593.7z",
+      "mod_id": 67820,
+      "hash": "sha256-CayPksB7QdqW/tFQqjc/ZlQ0jStcKbbzpyLAeFR3BcI="
+    }
+  },
+  "JKs College of Winterhold - ICOW - Skyrim Project Optimization Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 282788,
+      "file_name": "JKs College of Winterhold - ICOW - Skyrim Project Optimization Patch-67820-1-0-1652204609.7z",
+      "mod_id": 67820,
+      "hash": "sha256-Cw3W5qylVk706AWUZHRFAepgLwdCoSq6HI5KsJB8pFI="
+    }
+  },
+  "JKs College of Winterhold - ICOW - SRCEO - MLU Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 282789,
+      "file_name": "JKs College of Winterhold - ICOW - SRCEO - MLU Patch-67820-1-0-1652204628.7z",
+      "mod_id": 67820,
+      "hash": "sha256-P+zhCWY1QYECCGfQvd/Kdc/myzRm5BrUS35vkZ71Q5U="
+    }
+  },
+  "JKs College of Winterhold - ICOW - SRCEO Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 282790,
+      "file_name": "JKs College of Winterhold - ICOW - SRCEO Patch-67820-1-0-1652204641.7z",
+      "mod_id": 67820,
+      "hash": "sha256-30ogQ3r66dvAwyhi6VzITZGHR8BiwiLmjWmBJKrxIXE="
+    }
+  },
+  "JKs College of Winterhold - ICOW - Skyrims Unique Treasures Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 282791,
+      "file_name": "JKs College of Winterhold - ICOW - Skyrims Unique Treasures Patch-67820-1-0-1652204658.7z",
+      "mod_id": 67820,
+      "hash": "sha256-zZbzjRcEfj3mz4+3xDOqb4d7gDTSJLsub1mr+0hpdO4="
+    }
+  },
+  "JKs College of Winterhold - ICOW - Tamrielic Culture Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 282792,
+      "file_name": "JKs College of Winterhold - ICOW - Tamrielic Culture Patch-67820-1-0-1652204675.7z",
+      "mod_id": 67820,
+      "hash": "sha256-psbMknie5bcCm/LhvPnOwbwzBjm2xnfzgtk8owuvb2c="
+    }
+  },
+  "JKs College of Winterhold - ICOW - Tamrielic Culture - Mysticism Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 282793,
+      "file_name": "JKs College of Winterhold - ICOW - Tamrielic Culture - Mysticism Patch-67820-1-0-1652204692.7z",
+      "mod_id": 67820,
+      "hash": "sha256-nUXGlip8vOaRWI7lyTDkDHi7BdaevF4YsiEiUUvrhKw="
+    }
+  },
+  "JKs College of Winterhold - ICOW - Tools of Kagrenac - SFCO Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 282794,
+      "file_name": "JKs College of Winterhold - ICOW - Tools of Kagrenac - SFCO Patch-67820-1-0-1652204712.7z",
+      "mod_id": 67820,
+      "hash": "sha256-WvfF/GKKp64am5stQ9Q+sbWcdgp1ogRqb6N4ZtQk328="
+    }
+  },
+  "JKs College of Winterhold - ICOW - Tools of Kagrenac Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 282795,
+      "file_name": "JKs College of Winterhold - ICOW - Tools of Kagrenac Patch-67820-1-0-1652204726.7z",
+      "mod_id": 67820,
+      "hash": "sha256-3ghyZYnOsKRxzRIjt14ZEl6Dp6wEFlcQLM/xzziO/h4="
+    }
+  },
+  "JKs College of Winterhold - ICOW - Weapons Armor Clothing and Clutter Fixes Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 282796,
+      "file_name": "JKs College of Winterhold - ICOW - Weapons Armor Clothing and Clutter Fixes Patch-67820-1-0-1652204746.7z",
+      "mod_id": 67820,
+      "hash": "sha256-dt99nCY4ynap2VE1S7BbHXcY4/shCQd3VZY55Jls2uI="
+    }
+  },
+  "JKs College of Winterhold - ICOW - Palaces and Castles Enhanced Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 282797,
+      "file_name": "JKs College of Winterhold - ICOW - Palaces and Castles Enhanced Patch-67820-1-0-1652204762.7z",
+      "mod_id": 67820,
+      "hash": "sha256-q70GcvVSm8qKf17iPi0k+PjUG201YeV2172s8Hp8HIU="
+    }
+  },
+  "JKs College of Winterhold - ICOW Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.5",
+      "file_id": 393810,
+      "file_name": "JKs College of Winterhold - ICOW Patch-67820-1-5-1685576019.7z",
+      "mod_id": 67820,
+      "hash": "sha256-G3fTUM2IOOdVbkCIZyfPLOEsXL5ibQ8hWzOvMDiewFk="
+    }
+  },
+  "JK's College of Winterhold (Immersive and Obscure)": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "2.10.2",
+      "file_id": 680926,
+      "file_name": "JK's College of Winterhold (Immersive and Obscure)-67820-2-10-2-1761555846.rar",
+      "mod_id": 67820,
+      "hash": "sha256-dXPoWu4fnXtDInxcQmagqXMdW+qJ+QdUpWIL6ohlQnI="
+    },
+    "type": "primary"
+  }
+}

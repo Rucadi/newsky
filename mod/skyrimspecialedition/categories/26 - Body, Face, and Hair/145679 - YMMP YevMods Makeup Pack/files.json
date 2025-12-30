@@ -1,0 +1,39 @@
+{
+    "YMMP 2k": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "final",
+            "file_id": 609331,
+            "file_name": "YMMP 2k-145679-final-1742842349.7z",
+            "mod_id": 145679
+        },
+        "type": "primary"
+    },
+    "YMMP 4k": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "final",
+            "file_id": 609334,
+            "file_name": "YMMP 4k-145679-final-1742842398.7z",
+            "mod_id": 145679
+        }
+    },
+    "2k ALT - base": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "old",
+            "file_id": 609446,
+            "file_name": "2k ALT - base-145679-old-1742860140.7z",
+            "mod_id": 145679
+        }
+    },
+    "2k ALT - SE fix": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "old",
+            "file_id": 609447,
+            "file_name": "2k ALT - SE fix-145679-old-1742860177.7z",
+            "mod_id": 145679
+        }
+    }
+}

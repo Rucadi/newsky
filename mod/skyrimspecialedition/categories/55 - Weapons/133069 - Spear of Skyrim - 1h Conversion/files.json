@@ -1,0 +1,23 @@
+{
+  "IED - Spear on the back config": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.2",
+      "file_id": 558688,
+      "file_name": "IED - Spear on the back config-133069-1-2-1730669801.zip",
+      "mod_id": 133069,
+      "hash": "sha256-Xmlpn3nA1MHjEYUHb5L2eERm6BVFjK4UaGGDpVlVAv4="
+    }
+  },
+  "Spears of Skyrim - 1h Conversion": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.3",
+      "file_id": 635616,
+      "file_name": "Spears of Skyrim - 1h Conversion-133069-1-3-1749312534.7z",
+      "mod_id": 133069,
+      "hash": "sha256-vto4BJDmwNrIe/NyIPe45ZBZLZosG6XnHqG969trsT4="
+    },
+    "type": "primary"
+  }
+}

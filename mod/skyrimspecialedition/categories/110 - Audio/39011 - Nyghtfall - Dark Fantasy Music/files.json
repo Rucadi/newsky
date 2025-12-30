@@ -1,0 +1,75 @@
+{
+  "Main Menu Theme Opt1 (Epic - Fast Tempo)": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1",
+      "file_id": 316039,
+      "file_name": "Main Menu Theme Opt1 (Epic - Fast Tempo)-39011-1-1663164623.zip",
+      "mod_id": 39011,
+      "hash": "sha256-6MT8kSuwHdBrlks0RVB0nLpCKVgoo5yTmvBZX3EwSPY="
+    }
+  },
+  "Main Menu Theme Opt2 (Dark - Eerie - Slow Tempo)": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1",
+      "file_id": 316044,
+      "file_name": "Main Menu Theme Opt2 (Dark - Eerie - Slow Tempo)-39011-1-1663165482.zip",
+      "mod_id": 39011,
+      "hash": "sha256-C8CEPM0HxDyAEwT/lzhd7JejUGKfM7eDMuLN6iiXAWc="
+    }
+  },
+  "Main Menu Theme Opt3 (Ominous - Mysterious - Slow Tempo)": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1",
+      "file_id": 316045,
+      "file_name": "Main Menu Theme Opt3 (Ominous - Mysterious - Slow Tempo)-39011-1-1663165521.zip",
+      "mod_id": 39011,
+      "hash": "sha256-kV+3v9brYHq6ppHBvaot3L/x3IapgE77+t2H0fdZp5U="
+    }
+  },
+  "With Vanilla Music - Nyghtfall": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "2.0.1",
+      "file_id": 335928,
+      "file_name": "With Vanilla Music - Nyghtfall-39011-2-0-1-1669747498.zip",
+      "mod_id": 39011,
+      "hash": "sha256-FmibdfWLftRiWllIsKgiqP4XFqnmSPgjt1uhllj9bnw="
+    },
+    "type": "primary"
+  },
+  "Combat Music Only - Nyghtfall": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "2.0.1",
+      "file_id": 389448,
+      "file_name": "Combat Music Only - Nyghtfall-39011-2-0-2-1684430326.zip",
+      "mod_id": 39011,
+      "hash": "sha256-7mVm3lvNSTUsq9aiAfzABY/CJnevBJuyU5MRh3Pd02Q="
+    },
+    "type": "primary"
+  },
+  "Replacer - Nyghtfall": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "2.1",
+      "file_id": 453620,
+      "file_name": "Replacer - Nyghtfall-39011-2-1-1703094507.zip",
+      "mod_id": 39011,
+      "hash": "sha256-f9XLdT3xW0ZnB2IP01o0r7Z9gk2z2HvlG7145KzoRbw="
+    },
+    "type": "primary"
+  },
+  "ESPFE (Replacer)": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "2.1",
+      "file_id": 453874,
+      "file_name": "ESPFE (Replacer)-39011-2-1-1703173555.zip",
+      "mod_id": 39011,
+      "hash": "sha256-Cqsmz8GJoO50VnRVunoAZu3mBIoJfIdXgaksKHHopr0="
+    }
+  }
+}

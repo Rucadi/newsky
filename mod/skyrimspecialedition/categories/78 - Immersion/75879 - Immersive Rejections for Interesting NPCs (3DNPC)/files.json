@@ -1,0 +1,23 @@
+{
+  "Immersive Rejections For Interesting NPCs": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 318411,
+      "file_name": "Immersive Rejections For Interesting NPCs-75879-1-0-1663809046.zip",
+      "mod_id": 75879,
+      "hash": "sha256-tsWHZTv3wWYtBX+D+el821rA+p6GdJvYm1wu4awlv/M="
+    },
+    "type": "primary"
+  },
+  "Immersive Rejections For Interesting NPCs Translation Fomod": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 318453,
+      "file_name": "Immersive Rejections For Interesting NPCs Translation Fomod-75879-1-0-1663830110.zip",
+      "mod_id": 75879,
+      "hash": "sha256-SzAooMhv0SDsSXGgKkU5SJn/toJ4rpb3iTee/M9xDbY="
+    }
+  }
+}

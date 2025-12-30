@@ -1,0 +1,33 @@
+{
+  "Noble Sheets Use Your Own Textures": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "2.0",
+      "file_id": 339593,
+      "file_name": "Noble Sheets Use Your Own Textures-75481-2-0-1670754201.zip",
+      "mod_id": 75481,
+      "hash": "sha256-MqPuPm9/nKNBSPXKHJJ2ezE8u/QAHqr1CaJy/7taS2Y="
+    }
+  },
+  "Use Those Blankets Campfire Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "2.0",
+      "file_id": 339596,
+      "file_name": "Use Those Blankets Campfire Patch-75481-2-0-1670754421.zip",
+      "mod_id": 75481,
+      "hash": "sha256-E8jQ0ttIa41gep3RsK4+MWe1iRI9egA1QmFiGxwPyy8="
+    }
+  },
+  "Use Those Blankets": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "2.11",
+      "file_id": 417054,
+      "file_name": "Use Those Blankets-75481-2-11-1692034218.rar",
+      "mod_id": 75481,
+      "hash": "sha256-FYBAbvShTK+0DTKj/NYHZlwYcLdRu+9T+XM6uhbPOPs="
+    },
+    "type": "primary"
+  }
+}

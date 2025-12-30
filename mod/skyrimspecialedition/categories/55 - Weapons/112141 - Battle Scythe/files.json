@@ -1,0 +1,33 @@
+{
+  "Battle Scythe Unique SPID": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "2.0.0",
+      "file_id": 532340,
+      "file_name": "Battle Scythe Unique SPID-112141-2-0-0-1723902129.zip",
+      "mod_id": 112141,
+      "hash": "sha256-Nm/tM1n453FGvdS8g6rmg1L+w8p5O0RMvrodXRymEwA="
+    }
+  },
+  "BattleScythe": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "2.0.5",
+      "file_id": 545974,
+      "file_name": "BattleScythe-112141-2-0-5-1727269861.zip",
+      "mod_id": 112141,
+      "hash": "sha256-Mg2gYuAakRtMPTdWFbs9rsxfvtmXJS1ebwz88EB9EmU="
+    },
+    "type": "primary"
+  },
+  "BattleScythe KOR": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "2.0.5",
+      "file_id": 545976,
+      "file_name": "BattleScythe KOR-112141-2-0-5-1727269949.zip",
+      "mod_id": 112141,
+      "hash": "sha256-DOSjqtL3ZGveuLEGlA0bXvO7jyEFchIhWMuPFAUslHo="
+    }
+  }
+}

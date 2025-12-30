@@ -1,0 +1,24 @@
+{
+    "Skaal Village Barrier Smoothener(Banding fix)": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "0.1",
+            "file_id": 693367,
+            "file_name": "Skaal Village Barrier Smoothener-165974-0-1-1764610029.zip",
+            "mod_id": 165974,
+            "hash": "sha256-qVe9CRn4U6EvNR9X4kiIcva5fccNiqsY6HWtcTwEjI4="
+        },
+        "type": "primary"
+    },
+    "Skaal Village Barrier Remover(Mesh replacer)": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "0.1",
+            "file_id": 693368,
+            "file_name": "Skaal Village Barrier Remover-165974-0-1-1764610078.zip",
+            "mod_id": 165974,
+            "hash": "sha256-z0vJOS9IYfEUuwkOnv0Tj1EIjKiMUBJtSHJOOY5mltg="
+        },
+        "type": "primary"
+    }
+}

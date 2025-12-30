@@ -1,0 +1,24 @@
+{
+  "Bond of Matrimony": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 462646,
+      "file_name": "Bond of Matrimony-109576-1-0-1705602701.zip",
+      "mod_id": 109576,
+      "hash": "sha256-VjBFWRfbZ8bFllbs2yNNjcnAU6PcMetTL8hPjsCEILc="
+    },
+    "type": "primary"
+  },
+  "Bond of Matrimony Left Hand": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 508616,
+      "file_name": "Bond of Matrimony Left Hand-109576-1-0-1717597709.zip",
+      "mod_id": 109576,
+      "hash": "sha256-wEo/5jKElazwFHY4QZeCATb+kJEbZK01vQJXWcRuZU4="
+    },
+    "type": "primary"
+  }
+}

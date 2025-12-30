@@ -1,0 +1,66 @@
+{
+  "FYX - (A) The first Rampart and Watchtower of Solitude": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0.1",
+      "file_id": 368430,
+      "file_name": "FYX - (A) The first Rampart and Watchtower of Solitude-86964-1-0-1-1678802999.7z",
+      "mod_id": 86964,
+      "hash": "sha256-2aHZpk6FCG+aHbPgbYQ3Q2Wm530OPOBGCBXAl11DefQ="
+    },
+    "type": "primary"
+  },
+  "FYX - (A) The first Rampart and Watchtower of Solitude - Parallax": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0.1",
+      "file_id": 368431,
+      "file_name": "FYX - (A) The first Rampart and Watchtower of Solitude - Parallax-86964-1-0-1-1678803030.7z",
+      "mod_id": 86964,
+      "hash": "sha256-TB4A8gky4EYW5AEiJ+OCLxF/W0KBexdAFY4Jmo0pzDU="
+    },
+    "type": "primary"
+  },
+  "FYX - (B) The first Rampart and Watchtower of Solitude - Rampart access": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0.1",
+      "file_id": 368432,
+      "file_name": "FYX - (B) The first Rampart and Watchtower of Solitude - Rampart access-86964-1-0-1-1678803077.7z",
+      "mod_id": 86964,
+      "hash": "sha256-TW5cPaXbZ8ttuIU09Smh8tDIb4SUm1DpJ+V80ApX9cI="
+    },
+    "type": "primary"
+  },
+  "FYX - (B) The first Rampart and Watchtower of Solitude - Rampart access - Parallax": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0.1",
+      "file_id": 368433,
+      "file_name": "FYX - (B) The first Rampart and Watchtower of Solitude - Rampart access - Parallax-86964-1-0-1-1678803103.7z",
+      "mod_id": 86964,
+      "hash": "sha256-XuBl38xrrzWbRhV4t0lkY9ktMsh+EiMSi9PWml8s0cI="
+    },
+    "type": "primary"
+  },
+  "FYX - The first Rampart and Watchtower of Solitude - eFPS PATCH": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0.1",
+      "file_id": 368450,
+      "file_name": "FYX - The first Rampart and Watchtower of Solitude - eFPS PATCH-86964-1-0-1-1678808913.7z",
+      "mod_id": 86964,
+      "hash": "sha256-yYe08pJlFUUPft308IWCHM59BuWQ9VKSjX7LCcY6r80="
+    }
+  },
+  "FYX - The first Rampart and Watchtower of Solitude - Vanilla PATCH": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0.1",
+      "file_id": 368451,
+      "file_name": "FYX - The first Rampart and Watchtower of Solitude - Vanilla PATCH-86964-1-0-1-1678808941.7z",
+      "mod_id": 86964,
+      "hash": "sha256-HxUM4h8ybSWz1CNNPby/dk7ZZpybP7ND6LP0bgizYfE="
+    }
+  }
+}

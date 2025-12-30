@@ -1,0 +1,33 @@
+{
+  "Abyssal Tides Magic I4 Icons": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 686935,
+      "file_name": "Abyssal Tides Magic I4 Icons-164345-1-0-1763007346.zip",
+      "mod_id": 164345,
+      "hash": "sha256-Uu2/Mj2T4aEbTPpgJGcAWgGqBDfdRcJV7kBHUwOd9Rw="
+    },
+    "type": "primary"
+  },
+  "Abyssal Tides Magic I4 Icons - Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 689203,
+      "file_name": "Abyssal Tides Magic I4 Icons - Patch-164345-1-0-1763594941.zip",
+      "mod_id": 164345,
+      "hash": "sha256-vb+0cdwKpOv2LILjxNj2NYVlvykREK7d2TEkhXC2CO8="
+    }
+  },
+  "Abyssal Tides Magic - Wheeler Icons patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 692052,
+      "file_name": "Abyssal Tides Magic - Wheeler Icons patch-164345-1-0-1764309232.zip",
+      "mod_id": 164345,
+      "hash": "sha256-D00U/uwnPcv6BXIWFYGGxquvmYDVqynqMvcPGop5K7c="
+    }
+  }
+}

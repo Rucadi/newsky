@@ -1,0 +1,90 @@
+{
+  "Konahrik's Accoutrements Lux Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 301025,
+      "file_name": "Konahrik's Accoutrements Lux Patch-71841-1-0-1658456525.7z",
+      "mod_id": 71841,
+      "hash": "sha256-kEXSYLuECeWvzebI9nFFitweNTpaJYKrxezVuTTFLMA="
+    },
+    "type": "primary"
+  },
+  "Qaxe's Questorium Lux Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 301894,
+      "file_name": "Qaxe's Questorium Lux Patch-71841-1-0-1658693316.7z",
+      "mod_id": 71841,
+      "hash": "sha256-WcNkdr3Uj+veMdzzR5UmPs+EuRykGxDra5HoJz5tyjk="
+    },
+    "type": "primary"
+  },
+  "Wheels of Lull Lux Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1",
+      "file_id": 451895,
+      "file_name": "Wheels of Lull Lux Patch-71841-1-1-1702579205.7z",
+      "mod_id": 71841,
+      "hash": "sha256-j3vS8fV0Bj6zGqsmVH0S4GRhLczZVKZhoKsus4LZth8="
+    },
+    "type": "primary"
+  },
+  "Wyvern Parish Lux Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1",
+      "file_id": 480851,
+      "file_name": "Wyvern Parish Lux Patch-71841-1-1-1710526623.7z",
+      "mod_id": 71841,
+      "hash": "sha256-iiRfffgglX1gtLaxF71D23EBTA1xB5qOMF15dxfq7m0="
+    },
+    "type": "primary"
+  },
+  "Shadetree Lodge Lux Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1",
+      "file_id": 480874,
+      "file_name": "Shadetree Lodge Lux Patch-71841-1-1-1710530033.7z",
+      "mod_id": 71841,
+      "hash": "sha256-+z1FqLci/Id/gnOpQUV4NVf0RVQ+JPfMA2wHjUAYm2U="
+    },
+    "type": "primary"
+  },
+  "Forgotten Dungeons Lux Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 580808,
+      "file_name": "Forgotten Dungeons Lux Patch-71841-1-0-1736348356.7z",
+      "mod_id": 71841,
+      "hash": "sha256-QzISDzAZh00yK0yUwG1Fe79UNZzR8qAyhQLS5wUQ+0s="
+    },
+    "type": "primary"
+  },
+  "Heart of Ice - Astrid Lux Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 581140,
+      "file_name": "Heart of Ice - Astrid Lux Patch-71841-1-0-1736422615.7z",
+      "mod_id": 71841,
+      "hash": "sha256-+LFYINyzCXBS3XdPzEqnmAYSC5UwBDUl/6k5vPA/Pn8="
+    },
+    "type": "primary"
+  },
+  "Olenveld - Lux Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 594815,
+      "file_name": "Olenveld - Lux Patch-71841-1-0-1739590931.7z",
+      "mod_id": 71841,
+      "hash": "sha256-sDLh0S8Je9soaxG769CINPtAhBs7JKnKeVOCZz+gU/o="
+    },
+    "type": "primary"
+  }
+}

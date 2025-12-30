@@ -1,0 +1,35 @@
+{
+  "Dwemer Half Moon Glasses": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 589672,
+      "file_name": "Dwemer Half Moon Glasses - Skypatcher SPID-140570-1-0-1738384061.7z",
+      "mod_id": 140570,
+      "hash": "sha256-m34d/b3jkTioqzWQXbzCgnuQ/QFnKXkTGFjCgWMgbpY="
+    },
+    "type": "primary"
+  },
+  "Dwemer Half and Full Moon Glasses": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 590279,
+      "file_name": "Dwemer Half and Full Moon Glasses-140570-1-0-1738510870.7z",
+      "mod_id": 140570,
+      "hash": "sha256-rf95vRcm4mq1JV8SUtUHUCjEpnm/kuKZxI2TCPeV3CE="
+    },
+    "type": "primary"
+  },
+  "Dwemer Full Moon Glasses": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 590788,
+      "file_name": "Dwemer Full Moon Glasses-140570-1-0-1738629827.7z",
+      "mod_id": 140570,
+      "hash": "sha256-sYOd3bIHVdsErJFAO04ssQ9kdKs/2ibJl9/XSvFQBFM="
+    },
+    "type": "primary"
+  }
+}

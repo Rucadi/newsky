@@ -1,0 +1,23 @@
+{
+  "Eyepatch and Eyewear Collection": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1",
+      "file_id": 607715,
+      "file_name": "Eyepatch and Eyewear Collection-145242-1-1742493846.rar",
+      "mod_id": 145242,
+      "hash": "sha256-IO3S4H+ukkUXR2wEzOAeuwBWvY1fWYOQ80D9+hcD0iA="
+    },
+    "type": "primary"
+  },
+  "Eyepatch and Eyewear - SPID Distribution": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1",
+      "file_id": 607717,
+      "file_name": "Eyepatch and Eyewear - Distribution-145242-1-1742494043.rar",
+      "mod_id": 145242,
+      "hash": "sha256-LLFBHNQINX6yQoGT3RRTGxfqvYLUbRDidyDrmPCHX6Y="
+    }
+  }
+}

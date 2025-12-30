@@ -1,0 +1,23 @@
+{
+  "2K Render": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1.1",
+      "file_id": 545470,
+      "file_name": "2K Render-129243-1-1-1-1727121825.zip",
+      "mod_id": 129243,
+      "hash": "sha256-SBH2UaDWJPHZ/KXtA15q7aC+c8wfYRiXDbcv0V4QLvw="
+    }
+  },
+  "Armor of Peryite (Render Version)": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.2",
+      "file_id": 549423,
+      "file_name": "Armor of Peryite (Render Version)-129243-1-2-1728171263.zip",
+      "mod_id": 129243,
+      "hash": "sha256-E/mIoAXi3WOLJWwjwjAZh1fhjzLPd1qfTt2YFD1opTg="
+    },
+    "type": "primary"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "Orc Hero Swords SE ESL": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "v1.0",
+      "file_id": 485157,
+      "file_name": "Orc Hero Swords SE ESL-115301-v1-0-1711677046.7z",
+      "mod_id": 115301,
+      "hash": "sha256-vI80qtr9En2pCQEU6e0Uc7hsZUkjP0NYuqh1oJGnn1s="
+    },
+    "type": "primary"
+  },
+  "Orc Hero Swords SE ESP": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "v1.0",
+      "file_id": 485158,
+      "file_name": "Orc Hero Swords SE ESP-115301-v1-0-1711677094.7z",
+      "mod_id": 115301,
+      "hash": "sha256-NnKnbXYlNHt2wWvkilyIBLweLmz6pOwc187oJM00gs4="
+    }
+  }
+}

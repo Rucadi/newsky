@@ -1,0 +1,56 @@
+{
+  "To Your Face VR": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0f",
+      "file_id": 87194,
+      "file_name": "To Your Face VR-24720-1-0f-1554169090.zip",
+      "mod_id": 24720,
+      "hash": "sha256-wNxuAQ0Og6XBUoOXC9jFd5/syxcgfRpiX0tXXi4cwVs="
+    },
+    "type": "primary"
+  },
+  "To Your Face Source": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0f",
+      "file_id": 87195,
+      "file_name": "To Your Face Source-24720-1-0f-1554169220.zip",
+      "mod_id": 24720,
+      "hash": "sha256-RvWsU48iAqnQn53074dvtyqiOSIJFcXMIQ279gJIp8M="
+    }
+  },
+  "To Your Face SE": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0h",
+      "file_id": 114688,
+      "file_name": "To Your Face SE-24720-1-0h-1575072852.zip",
+      "mod_id": 24720,
+      "hash": "sha256-bfLlciXZcGeIxyrmVAQ6+nsZrmlyYyBMbR0BWsSG95A="
+    },
+    "type": "primary"
+  },
+  "To Your Face AE": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0u",
+      "file_id": 464059,
+      "file_name": "To Your Face AE-24720-1-0u-1705996371.zip",
+      "mod_id": 24720,
+      "hash": "sha256-GOLVc9JJCgmWSmLB9RPgenuDp1E+/qi5Uae90fFqi+g="
+    },
+    "type": "primary"
+  },
+  "To Your Face AE GOG": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0tg",
+      "file_id": 476610,
+      "file_name": "To Your Face AE GOG-24720-1-0tg-1709479525.zip",
+      "mod_id": 24720,
+      "hash": "sha256-flbKvPnqey21soqk92CNht+kGOvGHxxYIvDuy5COfsg="
+    },
+    "type": "primary"
+  }
+}

@@ -1,0 +1,63 @@
+{
+    "Relationship Dialogue Overhaul - RDO Final": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "Final",
+            "file_id": 1171,
+            "file_name": "Relationship Dialogue Overhaul - RDO Final-1187-Final.7z",
+            "mod_id": 1187,
+            "hash": "sha256-mZiNiYwTVuNzQaRO2V6O0LFbzvz3Ym95fVvQS5OI1fI="
+        },
+        "type": "primary"
+    },
+    "RDO - CRF and USSEP Patches Final": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "Final",
+            "file_id": 1180,
+            "file_name": "RDO Patches Final-1187-Final.zip",
+            "mod_id": 1187,
+            "hash": "sha256-Le8K69StOveZGcHyzxyKQ4lwLr/sXCdDZ3d3rM8z89g="
+        }
+    },
+    "RDO - AFT SE Patch Final": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "Final",
+            "file_id": 14027,
+            "file_name": "RDO - AFT Patch Final-1187-Final.7z",
+            "mod_id": 1187,
+            "hash": "sha256-sZXLtH75YBU4ddawl/OOdTnL6m9sUp/r3lWGAAaWsXc="
+        }
+    },
+    "RDO - EFF v3.5.5 Patch Final": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "Final",
+            "file_id": 14028,
+            "file_name": "RDO - EFF v3.5.5 Patch Final-1187-Final.7z",
+            "mod_id": 1187,
+            "hash": "sha256-22vosmOKxglGdeVOm7O9mH5xv50tN0b0MRrAT3Z7pJ0="
+        }
+    },
+    "RDO - EFF v4.0.3 Patch Final": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "Final",
+            "file_id": 17430,
+            "file_name": "RDO - EFF Patch v4.0.3-1187-Final.7z",
+            "mod_id": 1187,
+            "hash": "sha256-iugN0J3c+SHAvvEAR1QRBQWbiwHUmLXkhxIVupTOrWk="
+        }
+    },
+    "RDO - iAFT SE Patch Final": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "1.0",
+            "file_id": 44031,
+            "file_name": "RDO - iAFT SE Patch Final-1187-1-0.7z",
+            "mod_id": 1187,
+            "hash": "sha256-HPRdVHisOQNMuPkyeiUYN/PrwVmNEFtlp+G1twO8Eso="
+        }
+    }
+}

@@ -1,0 +1,23 @@
+{
+  "Real 3D Walls alternative normal map": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 82511,
+      "file_name": "Real 3D Walls alternative normal map-23611-1-0-1550767383.7z",
+      "mod_id": 23611,
+      "hash": "sha256-tvACttFJemS+6xmO6X621mlPXN+iAnMR9/89gkrNqDk="
+    }
+  },
+  "Real 3D Walls": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.5",
+      "file_id": 83153,
+      "file_name": "Real 3D Walls-23611-1-5-1551295937.7z",
+      "mod_id": 23611,
+      "hash": "sha256-7JZpErgr/ggpFI8mvJ5VrSs28+GyyfpqjD21wk8ql2k="
+    },
+    "type": "primary"
+  }
+}

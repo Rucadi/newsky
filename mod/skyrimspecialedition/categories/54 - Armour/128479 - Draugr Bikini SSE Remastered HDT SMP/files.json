@@ -1,0 +1,23 @@
+{
+  "More bright env_maps_draugr_armor": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "xx",
+      "file_id": 539122,
+      "file_name": "More bright env_maps_draugr_armor-128479-xx-1725568739.rar",
+      "mod_id": 128479,
+      "hash": "sha256-gGbnGSo/p3c/cXR7wKbY4jliiCPiNCRSmMkOznN9e0s="
+    }
+  },
+  "Draugr Bikini SSE Remastered": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1",
+      "file_id": 555676,
+      "file_name": "Draugr Bikini SSE Remastered-128479-1-1-1729949364.rar",
+      "mod_id": 128479,
+      "hash": "sha256-Ym5AyQOvfnhX3pVVeOcBJnTyIPwq2yqSRJ2bZr82Gxg="
+    },
+    "type": "primary"
+  }
+}

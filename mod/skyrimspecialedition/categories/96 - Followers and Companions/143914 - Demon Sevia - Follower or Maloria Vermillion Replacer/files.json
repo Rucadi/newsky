@@ -1,0 +1,33 @@
+{
+  "Sevia Bodyslide Preset": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 603926,
+      "file_name": "Sevia Bodyslide Preset-143914-1-0-1741599178.7z",
+      "mod_id": 143914,
+      "hash": "sha256-7HxjVhQ486KCEarr2608ZGNTYuEl7vAwdu6nUFiIA9s="
+    }
+  },
+  "Demon Sevia - D7": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.2",
+      "file_id": 609026,
+      "file_name": "Demon Sevia - D7-143914-1-2-1742772356.7z",
+      "mod_id": 143914,
+      "hash": "sha256-QVShgi6sj3lXAqc22qNiNkOOcFEqkPMrG7N0vJPiRYE="
+    },
+    "type": "primary"
+  },
+  "Demon Sevia - RSV Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 634377,
+      "file_name": "Demon Sevia - RSV Patch-143914-1-0-1749007549.zip",
+      "mod_id": 143914,
+      "hash": "sha256-xtSUGMNRDtB1aZOpvCXRNbs9dNOPostuUeklDZ2Z/Uk="
+    }
+  }
+}

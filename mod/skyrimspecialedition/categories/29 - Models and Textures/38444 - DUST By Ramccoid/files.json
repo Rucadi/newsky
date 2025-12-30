@@ -1,0 +1,46 @@
+{
+  "DUST v6 x1024": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "6.1",
+      "file_id": 215335,
+      "file_name": "DUST v6 x1024-38444-6-1-1626629404.7z",
+      "mod_id": 38444,
+      "hash": "sha256-iEoO66jUMBOdNsJi1d/U3fftB/q8i06cEbfAibT68vA="
+    },
+    "type": "primary"
+  },
+  "DUST v6 x2048": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "6.1",
+      "file_id": 215336,
+      "file_name": "DUST v6 x2048-38444-6-1-1626629469.7z",
+      "mod_id": 38444,
+      "hash": "sha256-J+ef3jXe+EMh0Cq+QhOX9NMVoa8N4RuDmCIRWxEU0x4="
+    },
+    "type": "primary"
+  },
+  "DUST v6 x256": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "6.1",
+      "file_id": 215337,
+      "file_name": "DUST v6 x256-38444-6-1-1626629569.7z",
+      "mod_id": 38444,
+      "hash": "sha256-7Cp7SEmsuZH2izcAFeRoWLMHNCKSifezVxJoBO6Mna4="
+    },
+    "type": "primary"
+  },
+  "DUST V6 x512": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "6.1",
+      "file_id": 215338,
+      "file_name": "DUST V6 x512-38444-6-1-1626629616.7z",
+      "mod_id": 38444,
+      "hash": "sha256-9rdhfYu/w1rQoNQzEM3hmbzG7VGlekUHYbXIp4DSvX4="
+    },
+    "type": "primary"
+  }
+}

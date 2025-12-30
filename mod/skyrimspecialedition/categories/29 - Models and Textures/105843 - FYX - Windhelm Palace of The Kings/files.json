@@ -1,0 +1,86 @@
+{
+  "FYX - Palace of The Kings": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0.2",
+      "file_id": 449001,
+      "file_name": "FYX - Palace of The Kings-105843-1-0-2-1701785138.7z",
+      "mod_id": 105843,
+      "hash": "sha256-gFQ1ae32Q7LA4uYToERPLSpRdJCE8V8Rpo71asvsFzo="
+    },
+    "type": "primary"
+  },
+  "FYX - Palace of The Kings - LightMods": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0.2",
+      "file_id": 449002,
+      "file_name": "FYX - Palace of The Kings - LightMods-105843-1-0-2-1701785176.7z",
+      "mod_id": 105843,
+      "hash": "sha256-4UXj/22Vq8uTLvahpP1DUcWhzWLDgvVtzRCewmjG8y4="
+    },
+    "type": "primary"
+  },
+  "FYX - Palace of The Kings - Parallax": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0.2",
+      "file_id": 449004,
+      "file_name": "FYX - Palace of The Kings - Parallax-105843-1-0-2-1701785205.7z",
+      "mod_id": 105843,
+      "hash": "sha256-YNz8t4XZD3oVDa/FHs016CDes/Fatc7zWLghny5mgnY="
+    },
+    "type": "primary"
+  },
+  "FYX - Palace of The Kings - Parallax - LightMods": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0.2",
+      "file_id": 449005,
+      "file_name": "FYX - Palace of The Kings - Parallax - LightMods-105843-1-0-2-1701785234.7z",
+      "mod_id": 105843,
+      "hash": "sha256-/wX7DJE2V+WiLbZZRKg7GcUC52Y3Bqbsvt8JMSUDK4E="
+    },
+    "type": "primary"
+  },
+  "FYX - P o t Kings - BDS2 Parallax Fix - LightMods": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0.2",
+      "file_id": 449006,
+      "file_name": "FYX - P o t Kings - BDS2 Parallax Fix - LightMods-105843-1-0-2-1701785269.7z",
+      "mod_id": 105843,
+      "hash": "sha256-0CmHO9vUymlMGDVOmyYCoeSy6RP8TmbmHLtizDUO7pw="
+    }
+  },
+  "FYX - P o t Kings - SoS Parallax Fix - LightMods": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0.2",
+      "file_id": 449008,
+      "file_name": "FYX - P o t Kings - SoS Parallax Fix - LightMods-105843-1-0-2-1701785311.7z",
+      "mod_id": 105843,
+      "hash": "sha256-W+rq7HpZoxOuiHAEk4zkR/Z0DIDFNvSSbJKeh15Tlfc="
+    }
+  },
+  "FYX - Palace of the Kings - BDS2 Parallax Fix": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0.2",
+      "file_id": 449009,
+      "file_name": "FYX - Palace of the Kings - BDS2 Parallax Fix-105843-1-0-2-1701785340.7z",
+      "mod_id": 105843,
+      "hash": "sha256-JTSyWl1XVO74aydbtrWNCWr1cHsRatK2hj8d7KFEkXQ="
+    }
+  },
+  "FYX - Palace of the Kings - SoS Parallax Fix": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0.2",
+      "file_id": 449010,
+      "file_name": "FYX - Palace of the Kings - SoS Parallax Fix-105843-1-0-2-1701785368.7z",
+      "mod_id": 105843,
+      "hash": "sha256-hKfUKsnm1JwcaI2U7i51YCReCAT7awAzxxtl3umtQVI="
+    }
+  }
+}

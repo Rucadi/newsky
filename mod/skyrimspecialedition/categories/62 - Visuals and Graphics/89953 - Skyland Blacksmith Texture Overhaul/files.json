@@ -1,0 +1,33 @@
+{
+  "Skyland Blacksmith - Embers HD Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 382439,
+      "file_name": "Skyland Blacksmith - Embers HD Patch-89953-1-0-1682613705.7z",
+      "mod_id": 89953,
+      "hash": "sha256-37p4/dw8nRz3xWFbg7xANqcv8GDWvhABYgK1xYWMNlg="
+    }
+  },
+  "Skyland Blacksmith - Embers XD Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 382440,
+      "file_name": "Skyland Blacksmith - Embers XD Patch-89953-1-0-1682613735.7z",
+      "mod_id": 89953,
+      "hash": "sha256-ej6ZSMgWQO358dEjzyjYQuNh2u5wTiOFG5Q3lA+W1u8="
+    }
+  },
+  "Skyland Blacksmith Texture Overhaul": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.2",
+      "file_id": 433369,
+      "file_name": "Skyland Blacksmith Texture Overhaul-89953-1-2-1697136029.7z",
+      "mod_id": 89953,
+      "hash": "sha256-mXgkI3+edF592GYKvR1/DOtFMS4Pj+I3wdaelPepnA0="
+    },
+    "type": "primary"
+  }
+}

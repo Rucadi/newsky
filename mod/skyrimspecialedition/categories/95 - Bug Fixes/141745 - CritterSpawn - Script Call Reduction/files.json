@@ -1,0 +1,23 @@
+{
+  "CritterSpawn Call Reduction - CritterFish": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 664458,
+      "file_name": "CritterSpawn Call Reduction - CritterFish-141745-1-0-1757533857.zip",
+      "mod_id": 141745,
+      "hash": "sha256-C8whAg7c6+BVW8nSJ2ZHgRtTuAEFiPQDAaBRuddexDU="
+    }
+  },
+  "CritterSpawn - Script Call Reduction": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "2.0",
+      "file_id": 678547,
+      "file_name": "CritterSpawn - Script Call Reduction-141745-2-0-1760993327.zip",
+      "mod_id": 141745,
+      "hash": "sha256-7QRp9wvFxurBw/JsV2K1wX+BHHaF7sa2P2MRIEWMpws="
+    },
+    "type": "primary"
+  }
+}

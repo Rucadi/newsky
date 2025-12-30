@@ -1,0 +1,23 @@
+{
+  "Mesmer Magic Spell Pack - 1.6.1": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.6.1",
+      "file_id": 606809,
+      "file_name": "Mesmer Magic Spell Pack - 1.6.1-122766-1-6-1-1742241542.zip",
+      "mod_id": 122766,
+      "hash": "sha256-odifGmJGOQ/rribTKJhgXIrnx7zI5zgHs7J+1o2bMto="
+    },
+    "type": "primary"
+  },
+  "(OPTIONAL) Requiem - Magic Redone Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.6.1",
+      "file_id": 606810,
+      "file_name": "(OPTIONAL) Mesmer Magic - Magic Redone Patch-122766-1-6-1-1742241591.zip",
+      "mod_id": 122766,
+      "hash": "sha256-/v8GsPOEtUQtXx68tVm3bhdqDRno7WV21CxYaWDowKo="
+    }
+  }
+}

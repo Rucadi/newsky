@@ -1,0 +1,43 @@
+{
+  "City Entrances Overhaul - Markarth": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1",
+      "file_id": 91146,
+      "file_name": "City Entrances Overhaul - Markarth-19538-1-1-1557195696.7z",
+      "mod_id": 19538,
+      "hash": "sha256-4SL1EjxDV0PeTVIkUzz4Nd4tsdn7AXchxRUIWxpx8mw="
+    },
+    "type": "primary"
+  },
+  "Carriage and Ferry Travel Overhaul Patch ESL": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1",
+      "file_id": 91147,
+      "file_name": "Carriage and Ferry Travel Overhaul Patch ESL-19538-1-1-1557196014.7z",
+      "mod_id": 19538,
+      "hash": "sha256-sJQoYVA4fb6BIR8qyJPmT+bDQ5X9dQvFmJ+naJemjJ4="
+    }
+  },
+  "Carriage and Ferry Travel Overhaul Patch ESP": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1",
+      "file_id": 91148,
+      "file_name": "Carriage and Ferry Travel Overhaul Patch ESP-19538-1-1-1557196045.7z",
+      "mod_id": 19538,
+      "hash": "sha256-UFTYjLsgCIrV/9dz/BeWtQ67QUm31zw97Ow/NFjHeM8="
+    }
+  },
+  "Enhanced Landscapes Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1",
+      "file_id": 91151,
+      "file_name": "Enhanced Landscapes Patch-19538-1-1-1557196117.7z",
+      "mod_id": 19538,
+      "hash": "sha256-B3PrUnWd2db8SIDPSaqyTtWWRFuY1l+58gMkd0zYvYg="
+    }
+  }
+}

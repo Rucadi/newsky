@@ -1,0 +1,46 @@
+{
+  "Kanjs - Black Book 8k": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1",
+      "file_id": 435158,
+      "file_name": "Kanjs - Black Book 8k-102904-1-1697704250.zip",
+      "mod_id": 102904,
+      "hash": "sha256-uuT5Xq+EfgXlE7//6ZBm/tWdenEjhno6rL7lc1zyK8k="
+    },
+    "type": "primary"
+  },
+  "Kanjs - Black Book 4k": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1",
+      "file_id": 435160,
+      "file_name": "Kanjs - Black Book 4k-102904-1-1697704288.zip",
+      "mod_id": 102904,
+      "hash": "sha256-xlsLG7U86D1kGQ0x32/kII9C+vYbH71Oa6wMHDtawRY="
+    },
+    "type": "primary"
+  },
+  "Kanjs - Black Book 2k": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1",
+      "file_id": 435161,
+      "file_name": "Kanjs - Black Book 2k-102904-1-1697704346.zip",
+      "mod_id": 102904,
+      "hash": "sha256-TSuTIZTd5ROyk3z/JZPWwMMxeRTr+66rOG36ylUeRlw="
+    },
+    "type": "primary"
+  },
+  "Kanjs - Black Book 1k": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1",
+      "file_id": 435162,
+      "file_name": "Kanjs - Black Book 1k-102904-1-1697704365.zip",
+      "mod_id": 102904,
+      "hash": "sha256-RqOpsDKbNRk5DID+vzdYSQcXmAW81emxA3kFK2UTasc="
+    },
+    "type": "primary"
+  }
+}

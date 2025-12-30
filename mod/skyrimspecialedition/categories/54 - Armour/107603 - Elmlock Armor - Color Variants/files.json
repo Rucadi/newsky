@@ -1,0 +1,24 @@
+{
+  "Elmlock Armor - Color Variants - 2K": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 454626,
+      "file_name": "Elmlock Armor - Color Variants - 2K-107603-1-0-1703386784.7z",
+      "mod_id": 107603,
+      "hash": "sha256-HRK4rssFkY3GSBgf4r/a/QhfipkcneW4HyGFcKsghfY="
+    },
+    "type": "primary"
+  },
+  "Elmlock Armor - Color Variants - 4K": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 454627,
+      "file_name": "Elmlock Armor - Color Variants - 4K-107603-1-0-1703387191.7z",
+      "mod_id": 107603,
+      "hash": "sha256-ZcfVkkfUHpY4qFR+UFqBTo7xmBeNm+DsTPoFLS5OJos="
+    },
+    "type": "primary"
+  }
+}

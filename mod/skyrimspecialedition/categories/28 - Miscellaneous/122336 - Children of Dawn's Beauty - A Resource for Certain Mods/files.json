@@ -1,0 +1,133 @@
+{
+  "CoDB - CBBE Textures - 1k": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.07",
+      "file_id": 678056,
+      "file_name": "CoDB - CBBE Textures - 1k-122336-1-07-1760896171.7z",
+      "mod_id": 122336,
+      "hash": "sha256-kvjG8kT9rh8hGiwW0RlxQ6FY5uG7uVG++ByKQCpPq7M="
+    }
+  },
+  "CoDB - CBBE Textures - 2k": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.07",
+      "file_id": 678058,
+      "file_name": "CoDB - CBBE Textures - 2k-122336-1-07-1760896192.7z",
+      "mod_id": 122336,
+      "hash": "sha256-iWR3poO8tyVLqbHJ0YyBPOAM2ExAy336pyFHrS7hnbk="
+    }
+  },
+  "CoDB - CBBE Textures - 4k-2k": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.07",
+      "file_id": 678059,
+      "file_name": "CoDB - CBBE Textures - 4k-2k-122336-1-07-1760896211.7z",
+      "mod_id": 122336,
+      "hash": "sha256-fSowH3kLQ/hnn05wwrSreBNsrfifwpYlyRFmEOvW9eI="
+    }
+  },
+  "CoDB - Himbo SOS Textures - 1k": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.07",
+      "file_id": 678060,
+      "file_name": "CoDB - Himbo SOS Textures - 1k-122336-1-07-1760896231.7z",
+      "mod_id": 122336,
+      "hash": "sha256-Exd3/2iXOdb/kP4PLPWxjW/q5jPjt3xY3x2lvzD43jo="
+    }
+  },
+  "CoDB - Himbo SOS Textures - 2k": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.07",
+      "file_id": 678061,
+      "file_name": "CoDB - Himbo SOS Textures - 2k-122336-1-07-1760896248.7z",
+      "mod_id": 122336,
+      "hash": "sha256-9VpZgzXf7UN2NDIQS1vNqKQhkLrtjuWrolpYulIryPc="
+    }
+  },
+  "CoDB - Himbo SOS Textures - 4k-2k": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.07",
+      "file_id": 678063,
+      "file_name": "CoDB - Himbo SOS Textures - 4k-2k-122336-1-07-1760896268.7z",
+      "mod_id": 122336,
+      "hash": "sha256-WdgZVjz8lEUY6+yBdZ24hQ8Mz8mVsWIX3JWCD4eVe/k="
+    }
+  },
+  "CoDB - UNP Textures - 1k": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.07",
+      "file_id": 678064,
+      "file_name": "CoDB - UNP Textures - 1k-122336-1-07-1760896284.7z",
+      "mod_id": 122336,
+      "hash": "sha256-UC4lo5M70hkVqncdBBm4Qblx3E1k0fuhQjU2rqWDB5o="
+    }
+  },
+  "CoDB - UNP Textures - 2k": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.07",
+      "file_id": 678065,
+      "file_name": "CoDB - UNP Textures - 2k-122336-1-07-1760896303.7z",
+      "mod_id": 122336,
+      "hash": "sha256-2aSomvOqdXwY2cHS+HXhh3Znc63VEDiCnqxh7AxykzA="
+    }
+  },
+  "CoDB - UNP Textures - 4k-2k": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.07",
+      "file_id": 678068,
+      "file_name": "CoDB - UNP Textures - 4k-2k-122336-1-07-1760896321.7z",
+      "mod_id": 122336,
+      "hash": "sha256-Xg/rR/1ccIVdFoiVha8kLT2fug5exCS8ihDPjotukUo="
+    }
+  },
+  "Children of Dawn's Beauty - Resource Mod": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.07.2",
+      "file_id": 685282,
+      "file_name": "Children of Dawn's Beauty - Resource Mod-122336-1-07-2-1762617643.7z",
+      "mod_id": 122336,
+      "hash": "sha256-iy7HaNLrRRj9FseBnLIeIrrPT0qnDoW5Ql/p8ZW/ABQ="
+    },
+    "type": "primary"
+  },
+  "CoDB - Vanilla Textures - 1k": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.07.2",
+      "file_id": 685284,
+      "file_name": "CoDB - Vanilla Textures - 1k-122336-1-07-2-1762617942.7z",
+      "mod_id": 122336,
+      "hash": "sha256-//54rkI5IKK79v7c4fuo4J8uvNmrAUGke3KO9H/0Q2o="
+    }
+  },
+  "CoDB - Vanilla Textures - 4k-2k": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.07.2",
+      "file_id": 685285,
+      "file_name": "CoDB - Vanilla Textures - 4k-2k-122336-1-07-2-1762618003.7z",
+      "mod_id": 122336,
+      "hash": "sha256-8uN6L45ryNXf/3pomP6Rzm6us94nnvu/bWE5LzCZUig="
+    }
+  },
+  "CoDB Resources - Unpacked BSAs": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.07.2",
+      "file_id": 695871,
+      "file_name": "CoDB Resources - Unpacked BSAs-122336-1-07-2-1765227479.7z",
+      "mod_id": 122336,
+      "hash": "sha256-5SgMJdpabfUsCV57lFmzWQKzXdHC8p0o7waxjwPYG9I="
+    }
+  }
+}

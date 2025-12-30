@@ -1,0 +1,23 @@
+{
+  "Clockwork Cleaned": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1",
+      "file_id": 228765,
+      "file_name": "Clockwork Cleaned-55677-1-1631814247.rar",
+      "mod_id": 55677,
+      "hash": "sha256-mMdATjJXvrJMuJ+kOGv5A/ZH4T8253VZ2fTR4XCxx8k="
+    },
+    "type": "primary"
+  },
+  "Clockwork BSA": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1",
+      "file_id": 228773,
+      "file_name": "Clockwork BSA-55677-1-1631815313.rar",
+      "mod_id": 55677,
+      "hash": "sha256-5lT42ANviJlTrJPif2EORo/tnY7yEZd8rRH/RrLHSLc="
+    }
+  }
+}

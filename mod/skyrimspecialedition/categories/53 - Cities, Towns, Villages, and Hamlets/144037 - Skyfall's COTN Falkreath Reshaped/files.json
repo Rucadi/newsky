@@ -1,0 +1,46 @@
+{
+  "Option 1 - normal meshes - COTN Falkreath Reshaped": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 603444,
+      "file_name": "Option 1 - normal meshes - COTN Falkreath Reshaped-144037-1-0-1741499150.7z",
+      "mod_id": 144037,
+      "hash": "sha256-tKwezdso8oWXpPKudOqIwFV1OQu9+ySwcrRGZTzN9UE="
+    },
+    "type": "primary"
+  },
+  "Option 2 - CPM meshes - COTN Falkreath Reshaped": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 603445,
+      "file_name": "Option 2 - CPM meshes - COTN Falkreath Reshaped-144037-1-0-1741499213.7z",
+      "mod_id": 144037,
+      "hash": "sha256-WKqOCw3V5OheWt7XyYzHdm5e0Rf0bEEeJxz72rPN0k4="
+    },
+    "type": "primary"
+  },
+  "Option 3 - parallax - COTN Falkreath Reshaped": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 603446,
+      "file_name": "Option 3 - Parallax - COTN Falkreath Reshaped-144037-1-0-1741499301.7z",
+      "mod_id": 144037,
+      "hash": "sha256-CNO5fsUOJ8xIaIBMm6xLZgtgf7tBL4SsxaHC3UcXtI0="
+    },
+    "type": "primary"
+  },
+  "Option 4 - Gonzeh84's Texture Consistency version": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.01",
+      "file_id": 607250,
+      "file_name": "Option 4 - Gonzeh84's Texture Consistency version-144037-1-01-1742347059.7z",
+      "mod_id": 144037,
+      "hash": "sha256-Z81UGjfHzrsh8IMSrrXowJYRyfxVMBIQCw+4izWP5dM="
+    },
+    "type": "primary"
+  }
+}

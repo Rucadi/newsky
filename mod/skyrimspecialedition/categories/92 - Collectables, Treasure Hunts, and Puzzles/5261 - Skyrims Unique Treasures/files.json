@@ -1,0 +1,33 @@
+{
+  "Skyrims Unique Treasures SE": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "4.7",
+      "file_id": 454562,
+      "file_name": "Skyrims Unique Treasures SE-5261-4-7-1703367806.7z",
+      "mod_id": 5261,
+      "hash": "sha256-RZI/vIjCvqGhSty/kExmHiKRcpy3BYsIxLiEli8/vNc="
+    },
+    "type": "primary"
+  },
+  "SUT_LOS2_Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "4.7",
+      "file_id": 454564,
+      "file_name": "SUT_LOS2_Patch-5261-4-7-1703367983.rar",
+      "mod_id": 5261,
+      "hash": "sha256-iZV2cxqU5/kF6rvt2eY1uewW4bSKhStthfwVWd+p35A="
+    }
+  },
+  "SUT_OrcishScaled_Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "4.7",
+      "file_id": 454566,
+      "file_name": "SUT_OrcishScaled_Patch-5261-4-7-1703368104.rar",
+      "mod_id": 5261,
+      "hash": "sha256-JwNNfpn4vCbiUQ2pEMYIzIBpH8FtT8eMx2DzXU0rO1E="
+    }
+  }
+}

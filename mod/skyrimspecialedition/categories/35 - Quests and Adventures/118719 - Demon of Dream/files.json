@@ -1,0 +1,23 @@
+{
+  "Demon of Dream": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1",
+      "file_id": 500482,
+      "file_name": "Demon of Dream-118719-1-1-1715540562.zip",
+      "mod_id": 118719,
+      "hash": "sha256-9BdMzrNFgmxxX/MySyBFRGuAcwSSEvlAhA4CbAJZGKs="
+    },
+    "type": "primary"
+  },
+  "Lux Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 555760,
+      "file_name": "Lux Patch-118719-1-0-1729962618.zip",
+      "mod_id": 118719,
+      "hash": "sha256-6LcXp7SCIxq1Fh7vp8LO11Hj8Dm+0aMKStx6HhTCkD0="
+    }
+  }
+}

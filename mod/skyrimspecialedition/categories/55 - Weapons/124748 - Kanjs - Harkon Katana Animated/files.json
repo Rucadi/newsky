@@ -1,0 +1,35 @@
+{
+  "Kanjs - Harkon Katana Animated SE 2k": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1",
+      "file_id": 522970,
+      "file_name": "Kanjs - Harkon Katana Animated SE 2k-124748-1-1721458085.zip",
+      "mod_id": 124748,
+      "hash": "sha256-O3BXtnFXHqMJpcRqnG6WQN5SGVaQWOmwrH0WqjERHC4="
+    },
+    "type": "primary"
+  },
+  "Kanjs - Harkon Katana Animated SE 1k": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1",
+      "file_id": 522971,
+      "file_name": "Kanjs - Harkon Katana Animated SE 1k-124748-1-1721458112.zip",
+      "mod_id": 124748,
+      "hash": "sha256-W6/cHWYjXMuTd62GMC8ChXttRySHWT/ZC3kSBZEp/tY="
+    },
+    "type": "primary"
+  },
+  "Kanjs - Harkon Katana Animated SE 4k": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1",
+      "file_id": 523163,
+      "file_name": "Kanjs - Harkon Katana Animated SE 4k-124748-1-1721500844.zip",
+      "mod_id": 124748,
+      "hash": "sha256-rY17B4GB9L3mnmvGThm5YqUgTTsGBoljOGTmdbAN//M="
+    },
+    "type": "primary"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "CleverCharff's Bruma 4K": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 165089,
+      "file_name": "CleverCharff's Bruma 4K-41316-1-0-1602448175.7z",
+      "mod_id": 41316,
+      "hash": "sha256-8ByDjop/3GV2gC4EZ5T5wCU5aD5pKMIMZMuGiJHW7s4="
+    },
+    "type": "primary"
+  },
+  "CleverCharff's Bruma 2K": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 165100,
+      "file_name": "CleverCharff's Bruma 2K-41316-1-0-1602452390.7z",
+      "mod_id": 41316,
+      "hash": "sha256-oPlZ9vXOsUBTOKGOfKw11Qqoy64blkJTXHj/KEaAedg="
+    },
+    "type": "primary"
+  },
+  "CleverCharff's Bruma 1K": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 165259,
+      "file_name": "CleverCharff's Bruma 1K-41316-1-0-1602545283.7z",
+      "mod_id": 41316,
+      "hash": "sha256-LFcFls/UCcPQxg2lG7Ys9Ots0qWC04M0WKn66427ddg="
+    },
+    "type": "primary"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "HDT-SMP Falconer Armor Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 356609,
+      "file_name": "HDT-SMP Falconer Armor Patch-84275-1-0-1675595736.rar",
+      "mod_id": 84275,
+      "hash": "sha256-wmNqGTwLB88vs8bZAfnammmMO1WmYcuPjm9WHH4+/3Q="
+    },
+    "type": "primary"
+  },
+  "HDT-SMP Falconer Armor Weightslide Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.01",
+      "file_id": 370987,
+      "file_name": "HDT-SMP Falconer Armor Weightslide Patch-84275-1-01-1679482512.rar",
+      "mod_id": 84275,
+      "hash": "sha256-Bf4nQT+/Ahbobku9TTKXZRZfurLMsMw/G5JctgTrtr4="
+    }
+  }
+}

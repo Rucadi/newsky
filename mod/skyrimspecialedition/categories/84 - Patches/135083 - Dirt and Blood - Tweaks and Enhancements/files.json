@@ -1,0 +1,33 @@
+{
+  "Dirt and Blood - Tweaks and Enhancements": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.00",
+      "file_id": 567012,
+      "file_name": "Dirt and Blood - Tweaks and Enhancements-135083-1-00-1732812276.rar",
+      "mod_id": 135083,
+      "hash": "sha256-d3pjR04tZ5M5gNwBI0SmfEMxp2JE53ONNcUTO1XAWK4="
+    },
+    "type": "primary"
+  },
+  "Dirt and Blood - No Soap FX": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.00",
+      "file_id": 567013,
+      "file_name": "Dirt and Blood - No Soap FX-135083-1-00-1732812309.rar",
+      "mod_id": 135083,
+      "hash": "sha256-TMKDj60urppiiJBpsWD/Ou2yWS6lQI+Ji6Nn0+AB7Ak="
+    }
+  },
+  "Dirt and Blood - Tweaks and Enhancements No Dialog": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.00",
+      "file_id": 653322,
+      "file_name": "Dirt and Blood - Tweaks and Enhancements No Dialog-135083-1-00-1754488638.rar",
+      "mod_id": 135083,
+      "hash": "sha256-x736K5IAb5rsSbBNjhNP+ijwo9+OehX0jMnijYlX3uE="
+    }
+  }
+}

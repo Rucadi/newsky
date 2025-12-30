@@ -1,0 +1,43 @@
+{
+  "Frankly-HD Dawnguard Armor and Weapons - DSR meshes": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.X",
+      "file_id": 64662,
+      "file_name": "Frankly-HD Dawnguard Armor and Weapons - DSR meshes-19663-1-X.7z",
+      "mod_id": 19663,
+      "hash": "sha256-7b3g/Ah0cAjpSDN8tzLaEU6tKe3/I8TJYfUu/He92NA="
+    }
+  },
+  "Frankly HD Dawnguard Armor CBBE SE": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.2",
+      "file_id": 66111,
+      "file_name": "Frankly HD Dawnguard Armor CBBE SE-19663-1-2.7z",
+      "mod_id": 19663,
+      "hash": "sha256-BnIWxgnrukRfEe94lbz1BqauXozkBtTfuCijk/ENWo8="
+    }
+  },
+  "FranklyHD Dawnguard Armor and Weapons": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.3",
+      "file_id": 70809,
+      "file_name": "FranklyHD Dawnguard Armor and Weapons-19663-1-3-1540912350.7z",
+      "mod_id": 19663,
+      "hash": "sha256-fhNXQX052jhLdTw0qeVV3g/LMCeHYWRmmrK7CBZDmzg="
+    },
+    "type": "primary"
+  },
+  "Frankly HD Dawnguard Armor - BHUNP Conversion": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.3",
+      "file_id": 181175,
+      "file_name": "Frankly HD Dawnguard Armor - BHUNP Conversion-19663-1-3-1611368303.zip",
+      "mod_id": 19663,
+      "hash": "sha256-wau/3yuxZMtaN2whQygyKd8/66eh0qn62FgUfbcoVQM="
+    }
+  }
+}

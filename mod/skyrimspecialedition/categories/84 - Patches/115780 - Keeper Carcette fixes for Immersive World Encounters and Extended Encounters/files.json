@@ -1,0 +1,46 @@
+{
+  "IWE - Carcette Fixes - 75 Skill Cap": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 487201,
+      "file_name": "IWE - Keeper Carcette is a Trainer - 75 Skill Cap-115780-1-0-1712172861.7z",
+      "mod_id": 115780,
+      "hash": "sha256-f9kQ+Hs0kVlOhaikTnh9OsaPFcQxrmQhW6z4jiNEBGU="
+    },
+    "type": "primary"
+  },
+  "IWE - Carcette fixes - 90 Skill Cap": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 487202,
+      "file_name": "IWE - Keeper Carcette is a Trainer - 90 Skill Cap-115780-1-0-1712172933.7z",
+      "mod_id": 115780,
+      "hash": "sha256-7cQPQ3vueFDPLTF7iKH7noKMwRTWrlzc2C42XYNg9Dw="
+    },
+    "type": "primary"
+  },
+  "Extended Encounters - Carcette Fixes ESL Version": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.6.9",
+      "file_id": 688582,
+      "file_name": "Extended Encounters - Carcette Fixes ESL Version-115780-1-6-9-1763405051.7z",
+      "mod_id": 115780,
+      "hash": "sha256-EpVuHRF+J5jqhMOE/79u0Zt26lwAzGWbdphOcsn3UoE="
+    },
+    "type": "primary"
+  },
+  "Extended Encounters - Carcette Fixes ESP version": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.6.9",
+      "file_id": 688583,
+      "file_name": "EE - Carcette fixes ESP version-115780-1-6-9-1763405094.7z",
+      "mod_id": 115780,
+      "hash": "sha256-T3a0Lx6fp1MxYL45+eH1767ANoJWDmlFHK0SqqooD3s="
+    },
+    "type": "primary"
+  }
+}

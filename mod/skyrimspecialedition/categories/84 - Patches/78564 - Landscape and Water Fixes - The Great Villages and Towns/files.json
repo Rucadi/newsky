@@ -1,0 +1,24 @@
+{
+  "Landscape and Water Fixes - Great Town of Shor's Stone": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.00",
+      "file_id": 330784,
+      "file_name": "Landscape and Water Fixes - Great Town of Shor's Stone-78564-1-00-1668166279.rar",
+      "mod_id": 78564,
+      "hash": "sha256-rFtzU9jBMXw9DHwLwwd9aaiZnUlUN6NNxibN/S64E4s="
+    },
+    "type": "primary"
+  },
+  "Landscape and Water Fixes - Great Town of Karthwasten": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.00",
+      "file_id": 330785,
+      "file_name": "Landscape and Water Fixes - Great Village of Karthwasten-78564-1-00-1668166373.rar",
+      "mod_id": 78564,
+      "hash": "sha256-9lZcpv0r5/ZNj28JmG5rZ+cslsXekuWud+nHun12ODQ="
+    },
+    "type": "primary"
+  }
+}

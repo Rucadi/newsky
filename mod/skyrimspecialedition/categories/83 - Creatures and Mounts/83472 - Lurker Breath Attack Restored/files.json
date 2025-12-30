@@ -1,0 +1,24 @@
+{
+  "Lurker Breath Attack Restored": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.00",
+      "file_id": 352916,
+      "file_name": "Lurker Breath Attack Restored-83472-1-00-1674651782.rar",
+      "mod_id": 83472,
+      "hash": "sha256-X522aCyQ4tcrqEvfSFBlPgLXDQRWE2GahfyA2xuvSkU="
+    },
+    "type": "primary"
+  },
+  "Requiem - Lurker Breath Attack Fix": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.00",
+      "file_id": 352917,
+      "file_name": "Requiem - Lurker Breath Attack Fix-83472-1-00-1674651822.rar",
+      "mod_id": 83472,
+      "hash": "sha256-6K0yw4ReZO/emkfX4DOGX15afrLi+zBX5Qx4utvXbMA="
+    },
+    "type": "primary"
+  }
+}

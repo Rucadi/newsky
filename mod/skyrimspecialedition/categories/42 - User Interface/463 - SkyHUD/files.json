@@ -1,0 +1,33 @@
+{
+  "SkyHUD v090B - Lite Installer": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "0.90B",
+      "file_id": 61304,
+      "file_name": "SkyHUD v090B - Lite Installer-463-0-90B.zip",
+      "mod_id": 463,
+      "hash": "sha256-0MsiaMBiaCxz4zpUsdzKFTTTjf+3UfRdpIoSvj20beM="
+    }
+  },
+  "SkyHUD v090B v4": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "0.90B",
+      "file_id": 61422,
+      "file_name": "SkyHUD v090B v4-463-0-90B.zip",
+      "mod_id": 463,
+      "hash": "sha256-eFdtL87AkKITwVm2VPAAq7gIkBrWp+5kvhV6WXC23Rg="
+    },
+    "type": "primary"
+  },
+  "Immersive HUD Patch v2": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "0.90B",
+      "file_id": 61423,
+      "file_name": "Immersive HUD Patch v2-463-0-90B.zip",
+      "mod_id": 463,
+      "hash": "sha256-rulN1FmicjrlMJfJymtmwutUYzlS1zC3JKA02Lk0wfk="
+    }
+  }
+}

@@ -1,0 +1,64 @@
+{
+    "Unofficial Material Fix - Rens HD Shrines patch": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "Patch-Rens-HD-Shrines-1.1.0",
+            "file_id": 80328,
+            "file_name": "Unofficial Material Fix - Rens HD Shrines patch-21027-Patch-Rens-HD-Shrines-1-1-0-1549031143.7z",
+            "mod_id": 21027,
+            "hash": "sha256-7buV8vfOFZNSWqs99fqlWi0UlSYUPn/1yeftZY1Kb/0="
+        }
+    },
+    "Unofficial Material Fix - Stunning Statues of Skyrim patch": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "pSSos-1.1.0",
+            "file_id": 86830,
+            "file_name": "Unofficial Material Fix - Stunning Statues of Skyrim patch-21027-pSSos-1-1-0-1553928195.7z",
+            "mod_id": 21027,
+            "hash": "sha256-x1p4JbMQCj47wlFUQ286PfiKsQGsVdrd4y4CWKMPe3s="
+        }
+    },
+    "Unofficial Material Fix - Stone Solitude Castle Floor": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "sscf-1.0.0",
+            "file_id": 88318,
+            "file_name": "Unofficial Material Fix - Stone Solitude Castle Floor-21027-sscf-1-0-0-1555166909.7z",
+            "mod_id": 21027,
+            "hash": "sha256-Qx0DB3WvJMqM4xR/voOQlqXrngTK0Z4vmuN+LtrR/Hw="
+        }
+    },
+    "Unofficial Material Fix  - No SMIM": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "1.17.1-NSMIM",
+            "file_id": 275882,
+            "file_name": "Unofficial Material Fix  - No SMIM-21027-1-17-1-NSMIM-1649507846.7z",
+            "mod_id": 21027,
+            "hash": "sha256-8M47xoG93bv7BRVUD+eJr0zUd7s9/pbIk9GlB6nsW7Q="
+        },
+        "type": "primary"
+    },
+    "Unofficial Material Fix": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "1.18.0",
+            "file_id": 610851,
+            "file_name": "Unofficial Material Fix-21027-1-18-0-1743165030.7z",
+            "mod_id": 21027,
+            "hash": "sha256-Et3OqJenuvpIphZGLIhcAbD1IA1s1nqwpruhjhnrePc="
+        },
+        "type": "primary"
+    },
+    "Unofficial Material Fix - GDPR Patch": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "gdpr-1.0.0",
+            "file_id": 610854,
+            "file_name": "Unofficial Material Fix - GDPR Patch-21027-gdpr-1-0-0-1743165649.7z",
+            "mod_id": 21027,
+            "hash": "sha256-GMBUB6AF+RpiJLoNW6NgYwF+Dq6vjyaZd0I5qyKAsv8="
+        }
+    }
+}

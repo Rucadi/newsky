@@ -1,0 +1,35 @@
+{
+  "Lordsworn's Greatsword 1k": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.2",
+      "file_id": 446616,
+      "file_name": "Lordsworn's Greatsword 1k-105501-1-2-1701093578.7z",
+      "mod_id": 105501,
+      "hash": "sha256-zfdqcX8ysEhYOd9Ik4sxUqOfQHj8Ww6pldRPW70UuMU="
+    },
+    "type": "primary"
+  },
+  "Lordsworn's Greatsword 2k": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.2",
+      "file_id": 446617,
+      "file_name": "Lordsworn's Greatsword 2k-105501-1-2-1701093612.7z",
+      "mod_id": 105501,
+      "hash": "sha256-Vt9sfaK70ciCcmJZ5o6W+1fj2er1sjh8bruBQc549eA="
+    },
+    "type": "primary"
+  },
+  "Lordsworn's Greatsword 4k": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.2",
+      "file_id": 446618,
+      "file_name": "Lordsworn's Greatsword 4k-105501-1-2-1701093656.7z",
+      "mod_id": 105501,
+      "hash": "sha256-N3CiIIZf++IKw2kAY/0GcmB2kx4ZPfacUaVB05fAZjY="
+    },
+    "type": "primary"
+  }
+}

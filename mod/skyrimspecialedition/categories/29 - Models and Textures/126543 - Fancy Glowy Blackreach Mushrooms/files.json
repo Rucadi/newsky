@@ -1,0 +1,33 @@
+{
+  "Fancy Glowy Frogs": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0.0d",
+      "file_id": 530588,
+      "file_name": "Fancy Glowy Frogs-126543-1-0-0d-1723400373.zip",
+      "mod_id": 126543,
+      "hash": "sha256-EQJJ/oYQewtIyCF/ChSIZ9ok5rQ6+NKe0jrsiG1eEW0="
+    }
+  },
+  "Fancy Glowy Shroom Beetles": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "2.0.0b",
+      "file_id": 545969,
+      "file_name": "Fancy Glowy Shroom Beetles-126543-2-0-0c-1727266907.zip",
+      "mod_id": 126543,
+      "hash": "sha256-uXZTOD0bTxU5FeTR80sPB3b2+Ig/0zI2K68YFXMzJi8="
+    }
+  },
+  "Fancy Glowy Blackreach Mushrooms": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "2.0.0a",
+      "file_id": 546014,
+      "file_name": "Fancy Glowy Blackreach Mushrooms-126543-2-0-0-1727279298.zip",
+      "mod_id": 126543,
+      "hash": "sha256-J2dSMS3xpH/1zFHTYhRwahTLjAR0+B3sIFrP1OHYnD0="
+    },
+    "type": "primary"
+  }
+}

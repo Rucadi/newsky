@@ -1,0 +1,34 @@
+{
+  "Alternate Conversation Camera Tweaks": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.00",
+      "file_id": 262669,
+      "file_name": "Alternate Conversation Camera Tweaks-63277-1-00-1644315216.rar",
+      "mod_id": 63277,
+      "hash": "sha256-TmgjF7SRkVeG1VCIRTpA14FsKCucVCsJh5188AJVw5o="
+    },
+    "type": "primary"
+  },
+  "Alternate Conversation Camera Tweaks (Normal Version)": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.00",
+      "file_id": 262899,
+      "file_name": "Alternate Conversation Camera Tweaks (Normal Version)-63277-1-00-1644408348.rar",
+      "mod_id": 63277,
+      "hash": "sha256-vzHdVx1m1I+fRrgFyTwX666w6+iSw046PDr5k7Hvimo="
+    },
+    "type": "primary"
+  },
+  "Alternate Conversation Camera Tweaks (Normal Version) - First Person Only": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.00",
+      "file_id": 336064,
+      "file_name": "Alternate Conversation Camera Tweaks (Normal Version) - First Person Only-63277-1-00-1669807174.rar",
+      "mod_id": 63277,
+      "hash": "sha256-Z9R5vnmaPy26LV40s3rJhuX59ekWkAtrj432a0dwI4U="
+    }
+  }
+}

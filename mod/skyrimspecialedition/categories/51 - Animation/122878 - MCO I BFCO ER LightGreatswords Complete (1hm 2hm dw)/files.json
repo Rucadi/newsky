@@ -1,0 +1,23 @@
+{
+  "MCO LightGreatswords Complete": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1",
+      "file_id": 515765,
+      "file_name": "LightGreatswords Complete-122878-1-1-1719576269.7z",
+      "mod_id": 122878,
+      "hash": "sha256-traSqnLWGK+pg4Pb3aB072p+SRkqo1M3RR98wAVeXU8="
+    },
+    "type": "primary"
+  },
+  "BFCO LightGreatswordsComplete": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1",
+      "file_id": 517011,
+      "file_name": "BFCO LightGreatswordsComplete-122878-1-1-1719926701.rar",
+      "mod_id": 122878,
+      "hash": "sha256-XRghAkYgXszm0bldM6eqyx5GQpn3HQvVWglaYhdWQRw="
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "DisableBethesdaPlatform": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.",
+      "file_id": 480823,
+      "file_name": "DisableBethesdaPlatform-114113-1--1710522253.zip",
+      "mod_id": 114113,
+      "hash": "sha256-rlbYZKN7kG04zm59jKhX3rhSV702X9iVxxYYXxBWtc0="
+    },
+    "type": "primary"
+  }
+}

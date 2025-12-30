@@ -1,0 +1,33 @@
+{
+    "HSWhiterun - Ysolda's House": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "1.0.0",
+            "file_id": 378273,
+            "file_name": "HSWhiterun - Ysolda's House-89227-1-0-0-1681499886.7z",
+            "mod_id": 89227,
+            "hash": "sha256-BcMxA9mxXkq02wFfF5g3WxZG8LLepBDvhyHUUqqlvuA="
+        },
+        "type": "primary"
+    },
+    "HSWhiterun - Ysolda's House - ELFX": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "1.0.0",
+            "file_id": 378274,
+            "file_name": "HSWhiterun - Ysolda's House - ELFX-89227-1-0-0-1681499921.7z",
+            "mod_id": 89227,
+            "hash": "sha256-KDLHwtvqWJ/R3PLAn/VXPCfQ2+yKZfCLSKrrdQ0r1fc="
+        }
+    },
+    "HSWhiterun - Ysolda's House - LUX": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "1.0.0",
+            "file_id": 378275,
+            "file_name": "HSWhiterun - Ysolda's House - LUX-89227-1-0-0-1681499958.7z",
+            "mod_id": 89227,
+            "hash": "sha256-1GzjZTf0jbPuwwc5CdpeZblPcOtW4JN+HwJl1ma2eWk="
+        }
+    }
+}

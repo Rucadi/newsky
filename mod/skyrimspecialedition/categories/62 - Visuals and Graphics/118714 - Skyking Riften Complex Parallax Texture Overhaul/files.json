@@ -1,0 +1,65 @@
+{
+  "Skyking Riften 2k": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1",
+      "file_id": 546210,
+      "file_name": "Skyking Riften 2k-118714-1-1-1727315800.7z",
+      "mod_id": 118714,
+      "hash": "sha256-TtqhtjmCjIiR4SKI8TTCiojVIuwY0Q7umI5PT6eUwFM="
+    },
+    "type": "primary"
+  },
+  "Skyking Riften 4k": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1",
+      "file_id": 546215,
+      "file_name": "Skyking Riften 4k-118714-1-1-1727316474.7z",
+      "mod_id": 118714,
+      "hash": "sha256-EvEd03+Wp2SCbqQEcFmZd0xw0wzM2yMdqyuHF6KIys8="
+    },
+    "type": "primary"
+  },
+  "Skyking Riften 1k": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1",
+      "file_id": 546409,
+      "file_name": "Skyking Riften 1k-118714-1-1-1727360534.7z",
+      "mod_id": 118714,
+      "hash": "sha256-srSPpB3rdiJ+u5aWPhb/TstH5epTfs+nrLnc0b6P/EY="
+    },
+    "type": "primary"
+  },
+  "Skyking Riften Complex Parallax 1k": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.2",
+      "file_id": 641414,
+      "file_name": "Skyking Riften Complex Parallax 1k-118714-1-2-1750817304.7z",
+      "mod_id": 118714,
+      "hash": "sha256-bv8Hkc7mfYVPMMiq9pjaebfYXq6rN2Z+R7BGFwgt240="
+    }
+  },
+  "Skyking Riften Complex Parallax 2k": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.2",
+      "file_id": 641415,
+      "file_name": "Skyking Riften Complex Parallax 2k-118714-1-2-1750817388.7z",
+      "mod_id": 118714,
+      "hash": "sha256-uknM5MH6iE3Yz/TDabAm18146M8UiH0lu6JZyCbJRNM="
+    }
+  },
+  "Skyking Riften Complex Parallax 4k": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.2",
+      "file_id": 641416,
+      "file_name": "Skyking Riften Complex Parallax 4k-118714-1-2-1750817589.7z",
+      "mod_id": 118714,
+      "hash": "sha256-CuquxatELg61S3Kv2+fXzqfdNx1SR3ENPAthNnt/1m8="
+    }
+  }
+}

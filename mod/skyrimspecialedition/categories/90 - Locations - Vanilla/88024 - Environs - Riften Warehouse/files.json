@@ -1,0 +1,23 @@
+{
+  "Environs - Riften Warehouse": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "2.01",
+      "file_id": 473705,
+      "file_name": "Environs - Riften Warehouse-88024-2-01-1708681769.zip",
+      "mod_id": 88024,
+      "hash": "sha256-GcC9VXGe3UczQcGjcD63Rz0aStVZjVo/YKRGvChCdyA="
+    },
+    "type": "primary"
+  },
+  "Environs - Riften Warehouse - Patch Collection": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.02",
+      "file_id": 478165,
+      "file_name": "Environs - Riften Warehouse - Patch Collection-88024-1-02-1709875634.7z",
+      "mod_id": 88024,
+      "hash": "sha256-e3kBHa/B+nrasvk1pJOO1G5/z/DxndBMuDqWgfaupbg="
+    }
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "Windstad Pool and Hot Bath EX for Skyrim Special Edition": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "2.6",
+      "file_id": 48492,
+      "file_name": "Windstad Pool and Hot Bath EX for Skyrim Special Edition-11770-2-6.7z",
+      "mod_id": 11770,
+      "hash": "sha256-BJ7sA7oHHKaQl+RCQKUHpstOYx1NBU8MhUGz7avj6Rs="
+    },
+    "type": "primary"
+  },
+  "Windstad Pool and Hot Bath EX for Skyrim Special Edition - No NPC Autostrip (Beta)": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "2.6",
+      "file_id": 216271,
+      "file_name": "Windstad Pool and Hot Bath EX for Skyrim Special Edition - No NPC Autostrip (Beta)-11770-2-6-1627075644.7z",
+      "mod_id": 11770,
+      "hash": "sha256-UqUVrOXyFIAf10cRCp4yt+rniGCa6rX3v7yRMzxEzL4="
+    },
+    "type": "primary"
+  },
+  "Windstad Pool and Hot Bath EX - Glass Fix": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 464231,
+      "file_name": "Windstad Pool and Hot Bath EX - Glass Fix-11770-1-0-1706043507.7z",
+      "mod_id": 11770,
+      "hash": "sha256-jVDAnO/1gLzKD2EVPsQlA1GN/MSycrK1QaJUBnEyp8I="
+    }
+  }
+}

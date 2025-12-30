@@ -1,0 +1,35 @@
+{
+    "HFs - Aretino Family Heirloom - remodel - 1K": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "1",
+            "file_id": 590336,
+            "file_name": "HFs - Aretino Family Heirloom - remodel - 1K-140723-1-1738523272.zip",
+            "mod_id": 140723,
+            "hash": "sha256-oP4oDBRVAO/HlZ+zNUuFfSI/QxL+Z6nNIKinpsSilOs="
+        },
+        "type": "primary"
+    },
+    "HFs - Aretino Family Heirloom - remodel - 2K": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "1",
+            "file_id": 590337,
+            "file_name": "HFs - Aretino Family Heirloom - remodel - 2K-140723-1-1738523290.zip",
+            "mod_id": 140723,
+            "hash": "sha256-RaHdSzhmRztAj6VCf4gRlaP8hG3sra68MhM/MZ9fJ1Q="
+        },
+        "type": "primary"
+    },
+    "HFs - Aretino Family Heirloom - remodel - 4K": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "1",
+            "file_id": 590338,
+            "file_name": "HFs - Aretino Family Heirloom - remodel - 4K-140723-1-1738523312.zip",
+            "mod_id": 140723,
+            "hash": "sha256-g/uXMoSyrmkiegHIU+kf2dNLB0yVNouUyvTENiFoXSo="
+        },
+        "type": "primary"
+    }
+}

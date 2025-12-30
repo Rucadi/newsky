@@ -1,0 +1,33 @@
+{
+  "Guards and Stormcloaks Armors Retexture SE": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1",
+      "file_id": 604167,
+      "file_name": "Guards and Stormcloaks Armors Retexture SE-98115-1-1-1741642602.7z",
+      "mod_id": 98115,
+      "hash": "sha256-SRhTnKZtl36JBISZDHJ4vywqqe6X8Q3rDPPKidTQGk4="
+    },
+    "type": "primary"
+  },
+  "Guards and Stormcloaks Armors Retexture SE-HalfRes": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1",
+      "file_id": 604168,
+      "file_name": "Guards and Stormcloaks Armors Retexture SE-HalfRes-98115-1-1-1741642667.7z",
+      "mod_id": 98115,
+      "hash": "sha256-9hQDFlaJOQdk0bmODgbD9+bc+EVzhIFPDJfvwme/PrI="
+    }
+  },
+  "Guards and Stormcloaks Armors Retexture SE-Low Res": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1",
+      "file_id": 604169,
+      "file_name": "Guards and Stormcloaks Armors Retexture SE-Low Res-98115-1-1-1741642692.7z",
+      "mod_id": 98115,
+      "hash": "sha256-raBOzaLMGZvy2uuoG8qpBBPz/7gwifMbCfju1YRGNSQ="
+    }
+  }
+}

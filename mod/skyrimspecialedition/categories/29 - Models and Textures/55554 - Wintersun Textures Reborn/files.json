@@ -1,0 +1,63 @@
+{
+  "Wintersun Cleaned": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "3",
+      "file_id": 239874,
+      "file_name": "Wintersun Cleaned-55554-3-1636388937.rar",
+      "mod_id": 55554,
+      "hash": "sha256-tTqWTL90xT9Zz3LfxZVPGmwf1HupLFgLijVMXJOs+b0="
+    },
+    "type": "primary"
+  },
+  "Wintersun 2k": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1",
+      "file_id": 239877,
+      "file_name": "Wintersun 2k-55554-1-1636389734.rar",
+      "mod_id": 55554,
+      "hash": "sha256-olsofJjnqd8u7dcmqsCwKBTfUJrNcC0Nh0TmXGXxkN4="
+    }
+  },
+  "Wintersun 4k": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1",
+      "file_id": 239878,
+      "file_name": "Wintersun 4k-55554-1-1636390267.rar",
+      "mod_id": 55554,
+      "hash": "sha256-dfXhPsFeU00DsgKXnp7PjXltlNAqpqw8SJWY1L9hj0E="
+    }
+  },
+  "Wintersun 4k bsa": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1",
+      "file_id": 239880,
+      "file_name": "Wintersun 4k bsa-55554-1-1636390957.rar",
+      "mod_id": 55554,
+      "hash": "sha256-wNxxU2CK9tjmDTX2DaF+llS3WfWIrAdXKLRLhoQf0Pg="
+    }
+  },
+  "Wintersun 2k BSA": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1",
+      "file_id": 239883,
+      "file_name": "Wintersun 2k BSA-55554-1-1636391228.rar",
+      "mod_id": 55554,
+      "hash": "sha256-jJR1Pm3Th6F8o4LZonwgSwEuNda0R8kConOQyZiwQcE="
+    }
+  },
+  "Wintersun Clean BSA": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1",
+      "file_id": 239886,
+      "file_name": "Wintersun Clean BSA-55554-1-1636391445.rar",
+      "mod_id": 55554,
+      "hash": "sha256-VC9LAMZ8YWIGa+sFW5zWBUDxNZC63PQ5eg2fbUoLaUI="
+    }
+  }
+}

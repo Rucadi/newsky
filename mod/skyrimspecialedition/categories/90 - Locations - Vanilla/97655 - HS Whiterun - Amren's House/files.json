@@ -1,0 +1,33 @@
+{
+    "HSWhiterun - Amren's House - ELFX": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "1.0.0",
+            "file_id": 414366,
+            "file_name": "HSWhiterun - Amren's House - ELFX-97655-1-0-0-1691245788.7z",
+            "mod_id": 97655,
+            "hash": "sha256-OHkjizZSCzk3bAkTlEbgQ33HEX7EoPspfFVnsTpFYYk="
+        }
+    },
+    "HSWhiterun - Amren's House - LUX": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "1.0.0",
+            "file_id": 414367,
+            "file_name": "HSWhiterun - Amren's House - LUX-97655-1-0-0-1691245824.7z",
+            "mod_id": 97655,
+            "hash": "sha256-7h9s3rEtq6q1EPcW155nKPMqciUnIIulXqfpRzn4zYI="
+        }
+    },
+    "HSWhiterun - Amren's House": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "1.0.1",
+            "file_id": 665512,
+            "file_name": "HSWhiterun - Amren's House-97655-1-0-1-1757817164.7z",
+            "mod_id": 97655,
+            "hash": "sha256-MbdjZaLjCHTFecygBrFed/RLdX8gm7doSqWxjHPEMPw="
+        },
+        "type": "primary"
+    }
+}

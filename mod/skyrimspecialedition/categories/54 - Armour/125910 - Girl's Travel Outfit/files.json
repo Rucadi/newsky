@@ -1,0 +1,74 @@
+{
+  "Girl's Travel Outfit Clothing Conversion": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0.2",
+      "file_id": 536134,
+      "file_name": "Girl's Travel Outfit Clothing Conversion-125910-1-0-2-1724849519.zip",
+      "mod_id": 125910,
+      "hash": "sha256-z6UvT51Ood6KVvps2i68SiXJD/ARTCHlq3CLhac7yQs="
+    }
+  },
+  "Girl's Travel Outfit RaceMenu High Heels Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0.1",
+      "file_id": 536136,
+      "file_name": "Girl's Travel Outfit RaceMenu High Heels Patch-125910-1-0-1-1724849646.zip",
+      "mod_id": 125910,
+      "hash": "sha256-Rhr6zRJYaOaLodw4Sn1Bil4ssa7lOHniTHNGeuhV8Qw="
+    }
+  },
+  "Girl's Travel Outfit 3BA": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1.2",
+      "file_id": 546896,
+      "file_name": "Girl's Travel Outfit 3BA-125910-1-1-2-1727489806.zip",
+      "mod_id": 125910,
+      "hash": "sha256-N6wdB0W5ByuAX1G/Opa36OiYkuVjD5wybeSET+i1kRU="
+    },
+    "type": "primary"
+  },
+  "Girl's Travel Outfit CBBE": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1.2",
+      "file_id": 546898,
+      "file_name": "Girl's Travel Outfit CBBE-125910-1-1-2-1727489948.zip",
+      "mod_id": 125910,
+      "hash": "sha256-pNWIKXCrGZhAKg2bVhGqeovRFlTlzw2e8KVxYH8JMro="
+    },
+    "type": "primary"
+  },
+  "Girl's Travel Outfit HDT-SMP Cloth Physics Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0.1",
+      "file_id": 546901,
+      "file_name": "Girl's Travel Outfit HDT-SMP Cloth Physics Patch-125910-1-0-1-1727490364.zip",
+      "mod_id": 125910,
+      "hash": "sha256-kUQNPUoK63x/89KbQGsEYNVllaW/jVW+p3W2P7KDlv0="
+    }
+  },
+  "Girl's Travel Outfit CBBE 3BA BodySlide Files": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0.2",
+      "file_id": 549113,
+      "file_name": "Girl's Travel Outfit CBBE 3BA BodySlide Files-125910-1-0-2-1728096595.zip",
+      "mod_id": 125910,
+      "hash": "sha256-dryTBHPoQRT+y114zdTHtyKFoyEhtE+UrU449EXNWS4="
+    }
+  },
+  "Girl's Travel Outfit Recolors": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0.2",
+      "file_id": 553549,
+      "file_name": "Girl's Travel Outfit Recolors-125910-1-0-2-1729331506.zip",
+      "mod_id": 125910,
+      "hash": "sha256-xONgwLJ7Py7MXlIbYxnDAlRDcV16rScHZa5ny+QDOOw="
+    }
+  }
+}

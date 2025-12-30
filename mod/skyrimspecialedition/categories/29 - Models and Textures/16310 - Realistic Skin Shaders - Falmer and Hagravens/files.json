@@ -1,0 +1,23 @@
+{
+  "Reduced SSS Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "v1.0",
+      "file_id": 54948,
+      "file_name": "Reduced SSS Patch-16310-v1-0.7z",
+      "mod_id": 16310,
+      "hash": "sha256-Vs8ziury8rW17IxaFEPNTnrUzbi/ZRgMdLaknPqizAQ="
+    }
+  },
+  "Realistic Skin Shaders- Falmer and Hagraven": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.05",
+      "file_id": 222330,
+      "file_name": "Realistic Skin Shaders- Falmer and Hagraven-16310-1-05-1629413744.7z",
+      "mod_id": 16310,
+      "hash": "sha256-DU1RP59zVb9/zpP+Bslh7Dqi98t78xIIHCs4Zz7xY2I="
+    },
+    "type": "primary"
+  }
+}

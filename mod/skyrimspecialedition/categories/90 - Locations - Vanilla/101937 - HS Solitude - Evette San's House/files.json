@@ -1,0 +1,33 @@
+{
+  "HSSolitude - Evette San's House": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0.0",
+      "file_id": 431504,
+      "file_name": "HSSolitude - Evette San's House-101937-1-0-0-1696562605.7z",
+      "mod_id": 101937,
+      "hash": "sha256-gRZhBRsWz4lUZnJrF/8mSg7BqWK6o1R4jLnScizDElQ="
+    },
+    "type": "primary"
+  },
+  "HSSolitude - Evette San's House - ELFX": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0.0",
+      "file_id": 431505,
+      "file_name": "HSSolitude - Evette San's House - ELFX-101937-1-0-0-1696562631.7z",
+      "mod_id": 101937,
+      "hash": "sha256-VjVS1STh3PzDq/Ba0Bb1coLw9iUtzpWDcukHMjotb30="
+    }
+  },
+  "HSSolitude - Evette San's House - LUX": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0.0",
+      "file_id": 431506,
+      "file_name": "HSSolitude - Evette San's House - LUX-101937-1-0-0-1696562663.7z",
+      "mod_id": 101937,
+      "hash": "sha256-kQFg6sjo52xw/9tc2EziGHemyne4K02yBsyJluhK2vc="
+    }
+  }
+}

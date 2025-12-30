@@ -1,0 +1,35 @@
+{
+    "FYX - Sparks of fire reacts to the wind": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "1.0",
+            "file_id": 432194,
+            "file_name": "FYX - Sparks of fire reacts to the wind-102099-1-0-1696753532.7z",
+            "mod_id": 102099,
+            "hash": "sha256-XgcsfkOICS5Vk7rE4HH/Qa5AGkzuzi3aubuZKkkL7b4="
+        },
+        "type": "primary"
+    },
+    "FYX - Sparks of fire reacts to the wind - Embers": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "1.0",
+            "file_id": 432195,
+            "file_name": "FYX - Sparks of fire reacts to the wind - Embers-102099-1-0-1696753603.7z",
+            "mod_id": 102099,
+            "hash": "sha256-O09pnROSzSvsmI6HVNIWISmAOX6qkCguWLOs4yGyKQ4="
+        },
+        "type": "primary"
+    },
+    "FYX - XD SOFRTTW - Embers - Less Sparks": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "1.0",
+            "file_id": 432645,
+            "file_name": "FYX - Sparks fire reacts wind - Embers Less Sparks-102099-1-0-1696857892.7z",
+            "mod_id": 102099,
+            "hash": "sha256-M4YFkuTqmn6gEdwdjo3gj+SkacuRApW6eH8d0cGoBzc="
+        },
+        "type": "primary"
+    }
+}

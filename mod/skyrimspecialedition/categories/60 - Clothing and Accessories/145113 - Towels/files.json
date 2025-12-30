@@ -1,0 +1,24 @@
+{
+  "Towels": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1",
+      "file_id": 610972,
+      "file_name": "Towels-145113-1-1743184990.7z",
+      "mod_id": 145113,
+      "hash": "sha256-Bh3sg7Q2INYo60IHBEYK+e3WbNXkhsyI+O1S26puOaU="
+    },
+    "type": "primary"
+  },
+  "Towels UBE": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1",
+      "file_id": 610973,
+      "file_name": "Towels UBE-145113-1-1743185015.7z",
+      "mod_id": 145113,
+      "hash": "sha256-hitJHjjV0mBxc8ampET551szCcGVOfJr41baXjdWL24="
+    },
+    "type": "primary"
+  }
+}

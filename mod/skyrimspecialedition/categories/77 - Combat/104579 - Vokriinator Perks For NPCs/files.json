@@ -1,0 +1,23 @@
+{
+  "Vokriinator perks for NPCs": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "2.1",
+      "file_id": 594489,
+      "file_name": "Vokriinator perks for NPCs-104579-2-1-1739534798.zip",
+      "mod_id": 104579,
+      "hash": "sha256-wlhz5qQaqt4NlTGLorcp2K9Xn4/z5dLgD3J9oboy2Dw="
+    },
+    "type": "primary"
+  },
+  "No directional perks": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "2.1",
+      "file_id": 594490,
+      "file_name": "No directional perks-104579-2-1-1739534923.zip",
+      "mod_id": 104579,
+      "hash": "sha256-orKFLgdNXihbQdWlsOFKdJ5wOYLZiv9ZcbVFC7gOWQQ="
+    }
+  }
+}

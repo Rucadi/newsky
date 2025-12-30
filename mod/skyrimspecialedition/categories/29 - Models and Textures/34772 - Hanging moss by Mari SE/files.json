@@ -1,0 +1,44 @@
+{
+  "Hanging moss by Mari SE- 1k": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 134438,
+      "file_name": "Hanging moss by Mari SE- 1k-34772-1-0-1586953945.7z",
+      "mod_id": 34772,
+      "hash": "sha256-ApXaPXXmsySp1SCWjVtmgM8+OukGS6tEunZtEzqmBL0="
+    },
+    "type": "primary"
+  },
+  "Hanging moss by Mari SE- 2k": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 134439,
+      "file_name": "Hanging moss by Mari SE- 2k-34772-1-0-1586953968.7z",
+      "mod_id": 34772,
+      "hash": "sha256-sXbzsv30OtWW+tl5osvG9dXqyRnQXQDQaed748YJVM0="
+    },
+    "type": "primary"
+  },
+  "Hanging moss by Mari SE- Dragonborn1k": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 134440,
+      "file_name": "Hanging moss by Mari SE- Dragonborn1k-34772-1-0-1586953994.7z",
+      "mod_id": 34772,
+      "hash": "sha256-+lES8hP3zuQOjD+lwH3oayli7zVpcAUkwfZB6nd6zvo="
+    }
+  },
+  "Hanging moss by Mari SE- Dragonborn2k": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 134441,
+      "file_name": "Hanging moss by Mari SE- Dragonborn2k-34772-1-0-1586954028.7z",
+      "mod_id": 34772,
+      "hash": "sha256-R7Un5plBW/2Lg370iJD7akaBnlXo9a01MgXJ1v/G7jo="
+    }
+  }
+}

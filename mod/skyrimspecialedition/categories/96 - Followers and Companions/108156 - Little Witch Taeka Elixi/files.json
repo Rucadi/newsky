@@ -1,0 +1,123 @@
+{
+  "Winterhold ClefJ's - Taeka": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "CLEFJW.1",
+      "file_id": 510611,
+      "file_name": "Taeka - ClefJ's Winterhold Patch-108156-CLEFJW-1-1718113815.zip",
+      "mod_id": 108156,
+      "hash": "sha256-jGL47IGOtRt8T8T/feRB0C2U+x7tw/PU85PVW6Et5kg="
+    }
+  },
+  "Taeka - Armor Physics": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 511777,
+      "file_name": "Taeka - Armor Physics-108156-1-0-1718463342.zip",
+      "mod_id": 108156,
+      "hash": "sha256-fGoWYhhmYu5PRnQzlGpGCq/RsaceyXPLxsmossCpoyg="
+    }
+  },
+  "Taeka Banter - Kaidan": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1",
+      "file_id": 511787,
+      "file_name": "Taeka - Kaidan Banter Patch-108156-1-1-1718465274.7z",
+      "mod_id": 108156,
+      "hash": "sha256-W5sk4YQBijeol/s+TDv54Eoq0wfTMPt9rJms7LqKXTA="
+    }
+  },
+  "Taeka Banter - Sofia": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1",
+      "file_id": 511788,
+      "file_name": "Taeka - Sofia Banter Patch-108156-1-1-1718465395.7z",
+      "mod_id": 108156,
+      "hash": "sha256-4wL8Wdonct0Yoapiebdcpcc/UR9v94g8dvIBSK1dzvE="
+    }
+  },
+  "Taeka Banter - Daegon": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1",
+      "file_id": 511789,
+      "file_name": "Taeka - Daegon Banter Patch-108156-1-1-1718465500.7z",
+      "mod_id": 108156,
+      "hash": "sha256-5vRpZ4u1ifhmFQd0XeIXpbFCg+kpmuwtfC0pHkzPJVg="
+    }
+  },
+  "Winterhold the Great City - Taeka": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "TGCOW.1",
+      "file_id": 513789,
+      "file_name": "Winterhold the Great City - Taeka-108156-TGCOW-1-1719024235.zip",
+      "mod_id": 108156,
+      "hash": "sha256-fdS/kq71S8sjk2hY70PzgxPtCkw5Tv+iFOmU0G4+sYw="
+    }
+  },
+  "Taeka Banter - Inigo": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 515187,
+      "file_name": "Taeka Banter - Inigo-108156-1-0-1719435051.zip",
+      "mod_id": 108156,
+      "hash": "sha256-duAzXN5AS2DTLznEZbQYIdrz9S/skdbdGF2LK09LJIc="
+    }
+  },
+  "Taeka Banter - Lucien": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 518937,
+      "file_name": "Taeka Banter - Lucien-108156-1-0-1720435523.7z",
+      "mod_id": 108156,
+      "hash": "sha256-gj1jC377Y//sbDOrsxYXXPFSPJ5lYJqqu2PkGJxfXgE="
+    }
+  },
+  "Taeka Reactions - Dogs of the Jarls": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 519252,
+      "file_name": "Taeka Reactions - Dogs of the Jarls-108156-1-0-1720510620.7z",
+      "mod_id": 108156,
+      "hash": "sha256-mn2+6orG2KliIeALWAgeMTr9wyk1PAJ7y2LBNtxPbb0="
+    }
+  },
+  "Taeka Reactions - Witchy Wings Pack": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1",
+      "file_id": 519287,
+      "file_name": "Taeka Reactions - Witchy Wings Pack-108156-1-1-1720519470.7z",
+      "mod_id": 108156,
+      "hash": "sha256-q1mCdP8Dj+Nfc+bE0b9ivIKWHv5Yl/Oi4h1BkpwOcHc="
+    }
+  },
+  "Winterhold Cities of the North - Taeka": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "COTNW.2",
+      "file_id": 522099,
+      "file_name": "Winterhold Cities of the North - Taeka-108156-COTNW-2-1721210411.zip",
+      "mod_id": 108156,
+      "hash": "sha256-sY3JCLuU821MNwdCMjSzJvRYXYaGSfEWvtnD3936Is0="
+    }
+  },
+  "Taeka Elixi": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.2.1",
+      "file_id": 557670,
+      "file_name": "Taeka Elixi-108156-1-2-1-1730428485.7z",
+      "mod_id": 108156,
+      "hash": "sha256-oAHMDaDxVtmdaARxA6tHeiW4NP1tXWce1e7OIJHeA3w="
+    },
+    "type": "primary"
+  }
+}

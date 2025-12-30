@@ -1,0 +1,23 @@
+{
+  "Dragon Mound Dirt FIX": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "2.0",
+      "file_id": 289058,
+      "file_name": "Dragon Mound Dirt FIX-69119-2-0-1654472822.rar",
+      "mod_id": 69119,
+      "hash": "sha256-nJ22uV3M/sPEDky1CYa5H1lnE/fhEU2EvANASkRxqZg="
+    },
+    "type": "primary"
+  },
+  "WoW Dragon Mounds CTD Fix - PATCH": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "2.0",
+      "file_id": 289059,
+      "file_name": "WoW Dragon Mounds CTD Fix - PATCH-69119-2-0-1654472866.rar",
+      "mod_id": 69119,
+      "hash": "sha256-1fS7Yorv6VN9FNnE/3pkeSmauCfn4nwFmKlM0jBvWBE="
+    }
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "Herald of Death (SE-AE)- 4k textures": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1",
+      "file_id": 521294,
+      "file_name": "Herald of Death (SE-AE)- 4k textures-124353-1-1721007245.rar",
+      "mod_id": 124353,
+      "hash": "sha256-104k+9G1Kua/lJfbXoSqrB4L9OtCsI6xvCiL+rxpd7c="
+    },
+    "type": "primary"
+  },
+  "Herald of Death (SE-AE)- 2k textures": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1",
+      "file_id": 521297,
+      "file_name": "Herald of Death (SE-AE)- 2k textures-124353-1-1721007386.rar",
+      "mod_id": 124353,
+      "hash": "sha256-BX3S3l+jj/FdZR9tb+jVZvJvcPq2hdQzR5BiGthbwKM="
+    }
+  }
+}

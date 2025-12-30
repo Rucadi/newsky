@@ -1,0 +1,24 @@
+{
+  "Snowy Carts for Snowy Regions": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.4",
+      "file_id": 475039,
+      "file_name": "Snowy Carts for Snowy Regions-111575-1-4-1709034065.7z",
+      "mod_id": 111575,
+      "hash": "sha256-T/TRjQ/D4hSgJ8aYI7jW3GItPQ/fWiBW+lm61k7lf6k="
+    },
+    "type": "primary"
+  },
+  "Snowy Carts for Snowy Regions - BDS DE Version": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.4",
+      "file_id": 491243,
+      "file_name": "Snowy Carts for Snowy Regions - BDS DE Version-111575-1-4-1713219604.7z",
+      "mod_id": 111575,
+      "hash": "sha256-qOd3nso8gLG4waY1zfWeZQxwbarmEeZdxd+monZeaIQ="
+    },
+    "type": "primary"
+  }
+}

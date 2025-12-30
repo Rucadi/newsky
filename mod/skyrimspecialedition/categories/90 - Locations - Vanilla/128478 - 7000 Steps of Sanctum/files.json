@@ -1,0 +1,24 @@
+{
+  "7000 Steps of Sanctum - ESL": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 539195,
+      "file_name": "7000 Steps of Sanctum - ESL-128478-1-0-1725589846.zip",
+      "mod_id": 128478,
+      "hash": "sha256-e60N5oOG2SKRD11BBPCD5lx0+JtfYPbR3lyqJaav47w="
+    },
+    "type": "primary"
+  },
+  "7000 Steps of Sanctum - ESP": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 539196,
+      "file_name": "7000 Steps of Sanctum - ESP-128478-1-0-1725589862.zip",
+      "mod_id": 128478,
+      "hash": "sha256-4Ivzwy8ktV+R3Mjazh/svloTrZsT8I0jQkFoO1IaQ/k="
+    },
+    "type": "primary"
+  }
+}

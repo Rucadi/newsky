@@ -1,0 +1,43 @@
+{
+    "Inner Sanctum - Snow Elf Ruins Overhaul": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "1.0",
+            "file_id": 518249,
+            "file_name": "Inner Sanctum - Snow Elf Ruins Overhaul-122088-1-0-1720282886.rar",
+            "mod_id": 122088,
+            "hash": "sha256-4kbl+heCyKQqVGiYpqJf3NHzi91n9p/S9kY4h+5hWo4="
+        },
+        "type": "primary"
+    },
+    "Inner Sanctum - Throne Replacer": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "Add-on",
+            "file_id": 518251,
+            "file_name": "Inner Sanctum - Throne Replacer-122088-Add-on-1720283155.rar",
+            "mod_id": 122088,
+            "hash": "sha256-BR7V6/5oroIazJdkI5kyh3apZ40/G2e9g95OwMVZyQY="
+        }
+    },
+    "Inner Sanctum - Lock Variations": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "Add-on",
+            "file_id": 518255,
+            "file_name": "Inner Sanctum - Lock Variations-122088-Add-on-1720283475.rar",
+            "mod_id": 122088,
+            "hash": "sha256-qHgcYuoNVfV6tW2qauLwjnyAru6lp2pyNkjOjELXvOA="
+        }
+    },
+    "Inner Sanctum - Praedy's Chantry of Auriel Patch": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "Patch",
+            "file_id": 519365,
+            "file_name": "Inner Sanctum - Praedy's Chantry of Auriel Patch-122088-Patch-1720536992.rar",
+            "mod_id": 122088,
+            "hash": "sha256-pgxfPXonQygGs3rEWH7wRVloebgH7+3sLl6nz+guAY8="
+        }
+    }
+}

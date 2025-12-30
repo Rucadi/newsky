@@ -1,0 +1,23 @@
+{
+  "Unslaad - Achievement Injector Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.01",
+      "file_id": 548381,
+      "file_name": "Unslaad - Achievement Injector Patch-11789-1-01-1727891737.7z",
+      "mod_id": 11789,
+      "hash": "sha256-SYECDdNHiXNECx7t1nDEvnAU9kphtP2xWTWfjVvJmNA="
+    }
+  },
+  "Unslaad SE v304": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "3.0.4",
+      "file_id": 629037,
+      "file_name": "Unslaad SE v304-11789-3-0-4-1747698583.rar",
+      "mod_id": 11789,
+      "hash": "sha256-Q6dDzcru2y0+H8E3npD18CyWNkj069QHqOcnFCkXg/w="
+    },
+    "type": "primary"
+  }
+}

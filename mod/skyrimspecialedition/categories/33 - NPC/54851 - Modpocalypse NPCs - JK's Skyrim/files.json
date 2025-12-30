@@ -1,0 +1,35 @@
+{
+  "Modpocalypse NPCs (v1) JK's Skyrim": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 225085,
+      "file_name": "Modpocalypse NPCs (v1) JK's Skyrim-54851-1-0-1630371623.7z",
+      "mod_id": 54851,
+      "hash": "sha256-BVc5DRKqHOv33RhJ1GJ/m/g1kY/JwRqgN9fgIPBdh08="
+    },
+    "type": "primary"
+  },
+  "Modpocalypse NPCs (v2) JK's Skyrim": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 225086,
+      "file_name": "Modpocalypse NPCs (v2) JK's Skyrim-54851-1-0-1630371652.7z",
+      "mod_id": 54851,
+      "hash": "sha256-1i+wdEJB7R5mrFE0G0osjul4xTfFRhptss8+11DCb88="
+    },
+    "type": "primary"
+  },
+  "Modpocalypse NPCs (v3) JK's Skyrim": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 225087,
+      "file_name": "Modpocalypse NPCs (v3) JK's Skyrim-54851-1-0-1630371681.7z",
+      "mod_id": 54851,
+      "hash": "sha256-am8wcNLpRe7PHXYSek3pQZxYLSWgC+VrShuloHoC7uU="
+    },
+    "type": "primary"
+  }
+}

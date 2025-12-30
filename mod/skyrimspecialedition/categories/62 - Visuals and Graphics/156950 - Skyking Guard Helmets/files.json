@@ -1,0 +1,23 @@
+{
+  "Skyking Guard Helmets - Lollygaggin' Color Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 656314,
+      "file_name": "Skyking Guard Helmets - Lollygaggin' Color Patch-156950-1-0-1755377769.7z",
+      "mod_id": 156950,
+      "hash": "sha256-6f9mK1gupxuS7eDpBJLNIgXqFH4DyVypbPs2gnP5QWI="
+    }
+  },
+  "Skyking Guard Helmets": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1",
+      "file_id": 657958,
+      "file_name": "Skyking Guard Helmets-156950-1-1-1755825592.7z",
+      "mod_id": 156950,
+      "hash": "sha256-cgFvqMZe3a0epBCRcN0Beot+vEI3srgDMcwbar6SKA0="
+    },
+    "type": "primary"
+  }
+}

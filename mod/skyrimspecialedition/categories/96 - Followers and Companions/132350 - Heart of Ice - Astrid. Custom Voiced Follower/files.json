@@ -1,0 +1,53 @@
+{
+    "Heart of Ice - Inigo patch": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "ini1.0",
+            "file_id": 558226,
+            "file_name": "Inigo patch-132350-1-0-2-1730559623.rar",
+            "mod_id": 132350,
+            "hash": "sha256-9iOGiq8IPld7Z1iWVGKGkCxi5xRhcDAarr6F95EBthU="
+        }
+    },
+    "Heart of Ice - JK's Solitude Outskirts patch": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "jso1.0",
+            "file_id": 569257,
+            "file_name": "Heart of Ice - JK's Solitude Outskirts patch-132350-1-0-1733424416.rar",
+            "mod_id": 132350,
+            "hash": "sha256-1wdR5ARc5FmFOfrUEbGjfyZN4f+zhvl6wFf3UQkTB28="
+        }
+    },
+    "Heart of Ice - Granite Hill Village patch": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "ghv1.0",
+            "file_id": 569306,
+            "file_name": "Heart of Ice - Granite Hill Village patch-132350-1-0-1733434078.rar",
+            "mod_id": 132350,
+            "hash": "sha256-ozB6C9fMH1QctjC3FcedP2E77xHI4y3QsfIQRxFftcQ="
+        }
+    },
+    "SM_AstridQuestAliasScript.OnMagicEffectApply fix": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "MGEFfix-1.0",
+            "file_id": 643264,
+            "file_name": "SM_AstridQuestAliasScript.OnMagicEffectApply fix-132350-MGEFfix-1-0-1751382423.rar",
+            "mod_id": 132350,
+            "hash": "sha256-UVzXh3R5uZ3l1XH2S5sGg9wrEOV/q9Le+/4xm/FJzMg="
+        }
+    },
+    "Heart of Ice": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "1.5.0.3",
+            "file_id": 698873,
+            "file_name": "Heart of Ice-132350-1-5-0-3-1765971886.rar",
+            "mod_id": 132350,
+            "hash": "sha256-3UQJsKeumkdRd3bpDM0K3ZdzE6u4XXiQl81sDLiCxUA="
+        },
+        "type": "primary"
+    }
+}

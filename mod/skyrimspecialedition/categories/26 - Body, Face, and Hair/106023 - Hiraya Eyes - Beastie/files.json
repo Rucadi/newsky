@@ -1,0 +1,56 @@
+{
+  "Hiraya Eyes - Beastie - 4k": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0.0",
+      "file_id": 448046,
+      "file_name": "Hiraya Eyes - Beastie - 4k-106023-1-0-0-1701503135.7z",
+      "mod_id": 106023,
+      "hash": "sha256-9v/95KTiaqDYr1k7erd3QQqmh/OIaHadK+I5IEaDwrI="
+    },
+    "type": "primary"
+  },
+  "Hiraya Eyes - Beastie - 2k": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0.0",
+      "file_id": 448047,
+      "file_name": "Hiraya Eyes - Beastie - 2k-106023-1-0-0-1701503347.7z",
+      "mod_id": 106023,
+      "hash": "sha256-e5ImSoJwpbj/9dWgF65vfx+9RRlKD/UhMLG1LaABdLY="
+    },
+    "type": "primary"
+  },
+  "Hiraya Eyes - Beastie - 1k": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0.0",
+      "file_id": 448048,
+      "file_name": "Hiraya Eyes - Beastie - 1k-106023-1-0-0-1701503371.7z",
+      "mod_id": 106023,
+      "hash": "sha256-KoKulolQbgKntrY/xk7kiP/4xjJN0P3eDdeAv/UPQLE="
+    },
+    "type": "primary"
+  },
+  "Hiraya Eyes - Beastie - 512p": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0.0",
+      "file_id": 448049,
+      "file_name": "Hiraya Eyes - Beastie - 512p-106023-1-0-0-1701503436.7z",
+      "mod_id": 106023,
+      "hash": "sha256-TdY7MeCVNMB6B4NjWgWyG64B0O2XFitRAaa+jyS7hUE="
+    },
+    "type": "primary"
+  },
+  "Hiraya Eyes - Beastie - Male": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0.0",
+      "file_id": 448050,
+      "file_name": "Hiraya Eyes - Beastie - Male-106023-1-0-0-1701503550.7z",
+      "mod_id": 106023,
+      "hash": "sha256-d7XDX1+qJ7KksOLFjuybi5hmmkO+BuYcvmJRK0ysv5g="
+    }
+  }
+}

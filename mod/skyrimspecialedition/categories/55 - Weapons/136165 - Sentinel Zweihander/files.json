@@ -1,0 +1,24 @@
+{
+  "Sentinel Zweihander 1024x4096 Textures": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "v1.0",
+      "file_id": 571471,
+      "file_name": "Sentinel Zweihander 1024x4096 Textures-136165-v1-0-1733958100.7z",
+      "mod_id": 136165,
+      "hash": "sha256-12t+8kZh/W5XRgeHlONLVWRxRZ3xWHnYkjbIylxlK+8="
+    },
+    "type": "primary"
+  },
+  "Sentinel Zweihander 2048x8192 Textures": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "v1.0",
+      "file_id": 571473,
+      "file_name": "Sentinel Zweihander 2048x8192 Textures-136165-v1-0-1733958736.7z",
+      "mod_id": 136165,
+      "hash": "sha256-ktOE94vn2Utdn6Be405NlCLoiVYt0UK0z81lCqlCnGc="
+    },
+    "type": "primary"
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "Ulfsvar ESL 1024x4096": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "v1.0",
+      "file_id": 608896,
+      "file_name": "Ulfsvar ESL 1024x4096-145559-v1-0-1742752503.zip",
+      "mod_id": 145559,
+      "hash": "sha256-SK6H3pNy8kokA+5BpKkz04QNYsSOqd8wjHR/5Q3URP8="
+    },
+    "type": "primary"
+  },
+  "Ulfsvar ESL 2048 x 8192": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "v1.0",
+      "file_id": 608900,
+      "file_name": "Ulfsvar ESL 2048 x 8192-145559-v1-0-1742752601.zip",
+      "mod_id": 145559,
+      "hash": "sha256-I7uUGblyw9iCGDP+2JGPiB3PLsWfYDz1YiOZehD6qOA="
+    },
+    "type": "primary"
+  }
+}

@@ -1,0 +1,43 @@
+{
+    "Jump Slide Fix": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "1.0",
+            "file_id": 557740,
+            "file_name": "Jump Slide Fix-132841-1-0-1730448424.zip",
+            "mod_id": 132841,
+            "hash": "sha256-tH50aiFRMQeeCMkjnGVCmslajTWG8XGb/ON8IP2FalY="
+        },
+        "type": "primary"
+    },
+    "Jump Slide Fix (For Horses)": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "1.0",
+            "file_id": 557789,
+            "file_name": "Jump Slide Fix (For Horses)-132841-1-0-1730461767.zip",
+            "mod_id": 132841,
+            "hash": "sha256-BBQ2Lc/z5N09yy/pxODetHGK9E2/Ml+w4sZSgismA1s="
+        }
+    },
+    "Jump Slide Fix (First Person)": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "1.0",
+            "file_id": 558672,
+            "file_name": "Jump Slide Fix (First Person)-132841-1-0-1730664102.zip",
+            "mod_id": 132841,
+            "hash": "sha256-RdQDzPTbwPeO1tvXVqbv4/CFggeAaBjOVFfKIpdl7fc="
+        }
+    },
+    "Jump Slide Fix (Consistency)": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "1.0",
+            "file_id": 563115,
+            "file_name": "Jump Slide Fix (Consistency)-132841-1-0-1731814847.zip",
+            "mod_id": 132841,
+            "hash": "sha256-tVmPutLxVTfkvESjwmoEqx1M04fbZuXkQlO51aTVVEw="
+        }
+    }
+}

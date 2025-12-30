@@ -1,0 +1,135 @@
+# Extended Encounters
+- Author: Jonx0r
+- Game: skyrimspecialedition
+- Mod Page: https://www.nexusmods.com/skyrimspecialedition/mods/44810
+
+
+Features
+  
+
+  
+* **Over 300 New Random Encounters**: You'll see mercenaries out in the world doing their job, adventurers traveling into dungeons, guards clearing bandit camps, and much more. New visitors may sometimes show up at settlements, towns, and cities from time to time. NPCs may also deviate from their regular routine to visit different locations on their own.
+**Faction Raids**: Factions can raid specific locations. You may see bandit raids and civil war skirmishes on forts and camps held by an opposing faction. You can also turn on bandit raids on settlements, towns, and cities in the MCM though these are disabled by default.
+  
+* **Immersive Danger**: Sleeping and waiting in or fast traveling to a dangerous location such as a bandit camp or vampire lair may also lead to an encounter with denizens that call those places home.
+**Lightweight and Compatible**: This mod is lightweight, automatically cleans up generated NPCs, and makes zero edits. It can be used alongside other similar mods such as Immersive World Encounters, Immersive Patrols, Radiance, and so on.
+  
+
+  
+An MCM is included that allows you to toggle all features added by this mod.
+  
+  
+See the [Readme File](https://pastebin.com/TxMnz4Qi) for a full list of encounters.
+  
+  
+![](https://staticdelivery.nexusmods.com/mods/1704/images/44810/44810-1611568414-1889098196.jpeg)
+  
+  
+Requirements
+  
+For the MCM you will need [SKSE](https://skse.silverlock.org/)﻿ and [SkyUI](https://www.nexusmods.com/skyrimspecialedition/mods/12604). For Situation Encounters you will need [SKSE](https://skse.silverlock.org/). The rest of the mod will still function fine if you do not want to install them.
+  
+  
+  
+Manual Installation
+  
+
+  
+1. Download the mod from the [Files](https://www.nexusmods.com/skyrimspecialedition/mods/44810?tab=files) section.
+Unzip the contents of the zip file to your Skyrim Special Edition Data folder: C:\Program Files (x86)\Steam\steamapps\common\Skyrim Special Edition\Data.
+  
+ 
+  
+2. Confirm you have the following files in your Skyrim Special Edition Data folder:
+     
+     
+   Extended Encounters.esp
+     
+   Extended Encounters.bsa
+     
+   Extended Encounters - Textures.bsa
+Open %userprofile%\AppData\Local\Skyrim Special Edition\plugins.txt and add **\*Extended Encounters.esp** after your master files.
+  
+ 
+  
+3. Save the file.
+Launch Skyrim Special Edition.
+  
+
+  
+  
+F.A.Q.
+  
+Q. What patch level is required?
+  
+A. None.
+  
+  
+Q. Do I need Dawnguard, Hearthfire or Dragonborn or additional plugins like SKSE?
+  
+A. SKSE and SkyUI will be required if you want to change any settings via the MCM, but this mod will function perfectly fine without them and all settings can be changed with console commands as documented in the [Readme File](https://pastebin.com/TxMnz4Qi). Situation Encounters such as Sleep, Wait and Fast Travel encounters will also require SKSE. If SKSE is not installed they will simply not occur.
+  
+  
+Q. Is this ESL flagged?
+  
+A. An ESL version is available.
+  
+  
+Q. What version of the Creation Kit was this made with?
+  
+A. 1.6.438.0. It's compatible with both Special Edition and Anniversary Edition.
+  
+  
+Q. Is this safe to add/remove mid-game?
+  
+A. Yes, though you should probably use a save cleaner to remove left-over script files if you remove this mid-game.
+  
+  
+Q. Is this mod stable? How compatible is it?
+  
+A. None of the events included in this mod should cause your game to crash. This mod is as lightweight as I can make it and the impact on performance is negligible. It makes zero changes to any vanilla references so the likelihood of mod incompatibility should be low.
+  
+  
+Q. The Silver Hand and/or the Vigilants of Stendarr are coming after me!
+  
+A. The Silver Hand will only come after you if you're a werewolf. The Vigilants of Stendarr will come after you if you're a werewolf, vampire or daedra worshipper. The Silver Hand will stop pursuing you if you've cured yourself of lycanthropy. The Vigilants of Stendarr will stop pursuing you if you've cured yourself of lycanthropy or vampirism, as long as you don't have the favor of a daedric prince. Additionally, you can turn these events off in the MCM under Extended Encounters > World Encounters > Factions Hunt Player.
+  
+  
+Q. This mod seems to put a lot of vanilla followers out in the wild. Won't they get killed?
+  
+A. Followers and other unique NPCs included in the random events will be marked as Essential for the duration of the random event. When they return to their normal location their status will be set back to what it was before the random event happened. You don't need to worry about them returning safely; they're scripted to return in the same way as base game random encounters.
+  
+  
+Q. Won't locations get clogged up by randomly generated NPCs?
+  
+A. No. Random NPCs generated by events will be marked for deletion once the encounter ends. Typically this occurs when the cell containing the trigger that generated an encounter is unloaded, or when the player travels to a different location. A specific location can only host one random event at a time to avoid a degradation of performance caused by NPC crowding.
+  
+  
+Q. Will this mod affect my current follower?
+  
+A. No. Current, dead, or disabled followers won't be picked for random encounters.
+  
+  
+Q. How do I disable a specific encounter?
+  
+A. You can use the following console command to disable an encounter:
+  
+  
+
+```
+set EE_WX###Chance to #
+```
+
+  
+  
+Refer to the [Readme File](https://pastebin.com/TxMnz4Qi) for a full list of encounter IDs.
+  
+  
+  
+Thanks
+  
+If you like this mod, feel free to check out the other mods I've made:
+  
+  
+
+[![](https://i.imgur.com/FwJd4q2.jpeg)](https://next.nexusmods.com/profile/Jonx0r/mods)﻿

@@ -1,0 +1,33 @@
+{
+    "1AAASE": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "1",
+            "file_id": 426226,
+            "file_name": "1AAASE-100724-1-1694866126.7z",
+            "mod_id": 100724,
+            "hash": "sha256-dxiuEyRWWjDnQyWdtKrV0r8naK/79z6Eh2oddC6FzZ0="
+        },
+        "type": "primary"
+    },
+    "Lower resolution textures": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "1",
+            "file_id": 426227,
+            "file_name": "Lower resolution textures-100724-1-1694866220.7z",
+            "mod_id": 100724,
+            "hash": "sha256-lr3JW8YERgqYTGxnuYaa2n+q1X1hBYFkr+CBlFamYlQ="
+        }
+    },
+    "HiRes Textures": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "1",
+            "file_id": 426228,
+            "file_name": "HiRes Textures-100724-1-1694866244.7z",
+            "mod_id": 100724,
+            "hash": "sha256-GV3S33gHLC+qjfMAA+FsQ+2Y15gIbhnBdgp/e8Pg5Gs="
+        }
+    }
+}

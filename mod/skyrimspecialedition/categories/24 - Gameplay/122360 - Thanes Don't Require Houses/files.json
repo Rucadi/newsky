@@ -1,0 +1,64 @@
+{
+  "Thanes Don't Require Houses": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0.0",
+      "file_id": 513491,
+      "file_name": "Thanes Don't Require Houses-122360-1-0-0-1718922744.zip",
+      "mod_id": 122360,
+      "hash": "sha256-Y8NJ3uWTfImhUHIpi1z6T/9T3jJEMVzNMri6ezpj1q0="
+    },
+    "type": "primary"
+  },
+  "Relationship Dialogue Overhaul Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0.0",
+      "file_id": 513498,
+      "file_name": "Relationship Dialogue Overhaul Patch-122360-1-0-0-1718922943.zip",
+      "mod_id": 122360,
+      "hash": "sha256-Us/YfBNhZvz7KIG0PGRBvyR+S5hEzF7Pm98VAGJfUgk="
+    }
+  },
+  "Thane of Whiterun Requires Favors Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0.0",
+      "file_id": 513499,
+      "file_name": "Thane of Whiterun Requires Favors Patch-122360-1-0-0-1718922983.zip",
+      "mod_id": 122360,
+      "hash": "sha256-mwTk5gj7j7cYVHf1yJtSaaT6hW4qVF8godfBVzIlR2c="
+    }
+  },
+  "Whiterun without Main Quest Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0.0",
+      "file_id": 513501,
+      "file_name": "Whiterun without Main Quest Patch-122360-1-0-0-1718923037.zip",
+      "mod_id": 122360,
+      "hash": "sha256-lV3jB4xyBRbICyhg7/dlQCD2huv9QqX6WVyO57b1lAQ="
+    }
+  },
+  "Thanes Don't Require Houses - SPID Version": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0.0-SPID",
+      "file_id": 513912,
+      "file_name": "Thanes Don't Require Houses - SPID Version-122360-1-0-0-SPID-1719067981.zip",
+      "mod_id": 122360,
+      "hash": "sha256-iWRUOrrXuFSbIydcyzdKuCCYl7GrF2xX/kNA9C/oUbw="
+    },
+    "type": "primary"
+  },
+  "Exiled Jarls Don't Require Favors Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0.0",
+      "file_id": 540531,
+      "file_name": "Exiled Jarls Don't Require Favors Patch-122360-1-0-0-1725916155.zip",
+      "mod_id": 122360,
+      "hash": "sha256-0Jk1CFta1KANh8gzy/+ACfqE5IeuM69emlaw67X5LtA="
+    }
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "a) Shores of Skyrim Part One": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.4",
+      "file_id": 602217,
+      "file_name": "a) Shores of Skyrim Part One-140081-1-4-1741220980.rar",
+      "mod_id": 140081,
+      "hash": "sha256-LlPJwHBerj9Oz9eIBULZl5vrQHyCFlIemIBR7xtVMt8="
+    },
+    "type": "primary"
+  },
+  "b) Shores of Skyrim Part Two CC Attribution Files": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.4",
+      "file_id": 602219,
+      "file_name": "b) Shores of Skyrim Part Two CC Attribution Files-140081-1-4-1741221118.rar",
+      "mod_id": 140081,
+      "hash": "sha256-RDB/kmWFvCT/p6XvWwm2PkUO3Kh90lXEjg6lmFbuaTQ="
+    },
+    "type": "primary"
+  }
+}

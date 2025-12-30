@@ -1,0 +1,45 @@
+{
+  "Optional 2K Textures": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1",
+      "file_id": 529755,
+      "file_name": "Optional 2K Textures-126362-1-1723191775.rar",
+      "mod_id": 126362,
+      "hash": "sha256-PWbGPx1vbzg1MsfRHXU75gjfCiYcbcnTJgLf29j1qss="
+    }
+  },
+  "Chaosrunner BHUNPV4": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1",
+      "file_id": 530042,
+      "file_name": "Chaosrunner BHUNPV4-126362-1-1723255444.rar",
+      "mod_id": 126362,
+      "hash": "sha256-tI/eyG/jX+IRSEpXnhEbWI3Ihx1xEcZF2c/xgHCcmxM="
+    },
+    "type": "primary"
+  },
+  "Chaosrunner  3BA": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1",
+      "file_id": 530048,
+      "file_name": "Chaosrunner  3BA-126362-1-1723256332.rar",
+      "mod_id": 126362,
+      "hash": "sha256-4I22UInCqsAigocSH9LctxLIqCktDp7mV4kIQ9Cyocw="
+    },
+    "type": "primary"
+  },
+  "Chaosrunner UBE - REQUIRES 3BA": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1",
+      "file_id": 530709,
+      "file_name": "Chaosrunner UBE - REQUIRES 3BA-126362-1-1-1723427211.rar",
+      "mod_id": 126362,
+      "hash": "sha256-U4mVnhCTiSgIDRjZOQdtj6XAJ+SAsCTM+Etz2MuXfP8="
+    },
+    "type": "primary"
+  }
+}

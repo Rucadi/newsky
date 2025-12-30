@@ -1,0 +1,33 @@
+{
+  "Animated Armoury - Precision Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 520711,
+      "file_name": "Animated Armoury - Precision Patch-124195-1-0-1720878615.7z",
+      "mod_id": 124195,
+      "hash": "sha256-ub9l0WFvAxEX49/Jd6pv0jJTNpYqlz+gZfx12QsNbzI="
+    },
+    "type": "primary"
+  },
+  "Whips Patch 01 - Longer Whips": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 520944,
+      "file_name": "Whips Patch 01 - Longer Whips-124195-1-0-1720926732.7z",
+      "mod_id": 124195,
+      "hash": "sha256-hD/8TRaoXWQ7HLWS8+hHr05yOx0gFJEAzI4mvvV7n6w="
+    }
+  },
+  "Whips Patch 02 - Twice As Long": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 520945,
+      "file_name": "Whips Patch 02 - Twice As Long-124195-1-0-1720926866.7z",
+      "mod_id": 124195,
+      "hash": "sha256-bhBS71tITr0OtxOucu9RGHmjSJn/bC5OTT+sZCdM/KU="
+    }
+  }
+}

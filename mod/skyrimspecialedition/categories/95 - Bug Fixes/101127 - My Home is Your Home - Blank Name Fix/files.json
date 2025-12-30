@@ -1,0 +1,24 @@
+{
+  "My Home is Your Home version": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 428024,
+      "file_name": "My Home is Your Home version-101127-1-0-1695371314.zip",
+      "mod_id": 101127,
+      "hash": "sha256-f/fjlYDhpy7I2HckQm39MC1Sshi+oj6CxeUOxbaqW+s="
+    },
+    "type": "primary"
+  },
+  "MHIYHM 2plus Version": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 428025,
+      "file_name": "MHIYHM 2plus Version-101127-1-0-1695371535.zip",
+      "mod_id": 101127,
+      "hash": "sha256-yxIFeQJVg8pwufENeRNy9e1JyNN/G12H+IFL5dWPIMs="
+    },
+    "type": "primary"
+  }
+}

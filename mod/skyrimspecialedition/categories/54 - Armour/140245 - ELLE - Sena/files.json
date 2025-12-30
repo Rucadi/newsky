@@ -1,0 +1,33 @@
+{
+  "Sena - 3BA": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1",
+      "file_id": 588360,
+      "file_name": "Sena - 3BA-140245-1-1738065481.rar",
+      "mod_id": 140245,
+      "hash": "sha256-W62m+MmhoAn8R3j8JHkHbEhTJnc2NFw5wC7Uvjdegbo="
+    },
+    "type": "primary"
+  },
+  "CM Alternate Texture Replacer": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1",
+      "file_id": 588367,
+      "file_name": "CM Alternate Texture Replacer-140245-1-1738067186.rar",
+      "mod_id": 140245,
+      "hash": "sha256-KvfpocrHtai3ZAzkpA0D1LybBKO8scgXpxTK51/vTIY="
+    }
+  },
+  "Sena - UBE": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1",
+      "file_id": 588380,
+      "file_name": "Sena - UBE-140245-1-1-1738072001.rar",
+      "mod_id": 140245,
+      "hash": "sha256-z6SPXqd05UxJEC31T+O/ZIms/8VQhwheYcg8r7DCDyg="
+    }
+  }
+}

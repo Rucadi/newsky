@@ -1,0 +1,33 @@
+{
+  "HSRiverwood - Hod and Gerdur's House - LUX": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0.0",
+      "file_id": 312911,
+      "file_name": "HSRiverwood - Hod and Gerdur's House - LUX-74491-1-0-0-1662235736.7z",
+      "mod_id": 74491,
+      "hash": "sha256-7r5Jf2Nx5vIhrSeKilngb0/KYmEpKXEHxiALwkHTUFU="
+    }
+  },
+  "HSRiverwood - Hod and Gerdur's House": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0.1",
+      "file_id": 331868,
+      "file_name": "HSRiverwood - Hod and Gerdur's House-74491-1-0-1-1668454485.7z",
+      "mod_id": 74491,
+      "hash": "sha256-b2DNiBA570ULoc/ZnpxSBvFUFZ6nqjCD1pDGx1hqbmY="
+    },
+    "type": "primary"
+  },
+  "HSRiverwood - Hod and Gerdur's House - IC": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0.0",
+      "file_id": 331869,
+      "file_name": "HSRiverwood - Hod and Gerdur's House - IC-74491-1-0-0-1668454560.7z",
+      "mod_id": 74491,
+      "hash": "sha256-fkftaCHvyTiU9RHm3CElba0X2gqWNEVGIks99A/1xUE="
+    }
+  }
+}

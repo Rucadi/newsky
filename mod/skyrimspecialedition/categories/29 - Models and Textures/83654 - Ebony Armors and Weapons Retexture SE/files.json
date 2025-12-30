@@ -1,0 +1,33 @@
+{
+  "Ebony Armors and Weapons Retexture SE": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "2.0.2",
+      "file_id": 575682,
+      "file_name": "Ebony Armors and Weapons Retexture SE-83654-2-0-2-1735050525.7z",
+      "mod_id": 83654,
+      "hash": "sha256-UgtEYd6O2J3mNTKbhpo72gM64NniLAHNusHM+WfaVTg="
+    },
+    "type": "primary"
+  },
+  "Ebony Armors and Weapons Retexture SE - Half Res": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "2.0.2",
+      "file_id": 575684,
+      "file_name": "Ebony Armors and Weapons Retexture SE - Half Res-83654-2-0-2-1735051273.7z",
+      "mod_id": 83654,
+      "hash": "sha256-am7fUiNwkMEOZUiNm3N4yH0ILot3OiDOcbTEA3pOxs4="
+    }
+  },
+  "Ebony Armors and Weapons Retexture SE - Low Res": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "2.0.2",
+      "file_id": 575685,
+      "file_name": "Ebony Armors and Weapons Retexture SE - Low Res-83654-2-0-2-1735051369.7z",
+      "mod_id": 83654,
+      "hash": "sha256-LBgk+iPyzZzEyL7M95cZYoGWfP1n0tgbEn0/lOz8MMU="
+    }
+  }
+}

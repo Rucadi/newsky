@@ -1,0 +1,53 @@
+{
+    "Taste of Death - Quest Addon Patches": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "1.0",
+            "file_id": 554379,
+            "file_name": "Taste of Death - Quest Addon Patches-131994-1-0-1729545306.zip",
+            "mod_id": 131994,
+            "hash": "sha256-S83SDFTY8A/rV5ClPlxYouJ2xJ5g3jzhlt3j9bqzfgM="
+        }
+    },
+    "Cannibal Draugr Patch": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "1.0",
+            "file_id": 554381,
+            "file_name": "Cannibal Draugr Patch-131994-1-0-1729545395.zip",
+            "mod_id": 131994,
+            "hash": "sha256-TD/0YHN3pztAmGzMYlS8UIUAJ00mRvcuWx3TB9hCLEE="
+        }
+    },
+    "Lux Patch": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "1.0",
+            "file_id": 554382,
+            "file_name": "Lux Patch-131994-1-0-1729545431.zip",
+            "mod_id": 131994,
+            "hash": "sha256-QdDn6XztKYePptqHZvo2eaIZAI7ez4o1WssUPz1l8GI="
+        }
+    },
+    "Namira's Maw Patch": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "1.0",
+            "file_id": 558102,
+            "file_name": "Namira's Maw Patch-131994-1-0-1730526759.zip",
+            "mod_id": 131994,
+            "hash": "sha256-uRM8kR6vE+OGtHTc32HdzdCV6mGkYe4HCs6kV5q3+Bo="
+        }
+    },
+    "Reclusive Reachcliff Cave": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "2.0",
+            "file_id": 675345,
+            "file_name": "Reclusive Reachcliff Cave-131994-2-0-1760309229.zip",
+            "mod_id": 131994,
+            "hash": "sha256-SQYVxH7SP1HSovbwQVkcaRc3SEtQ9CESeTxbVXRHohE="
+        },
+        "type": "primary"
+    }
+}

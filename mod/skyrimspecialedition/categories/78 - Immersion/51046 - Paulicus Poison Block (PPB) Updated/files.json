@@ -1,0 +1,23 @@
+{
+  "Paulicus Poison Block (PPB) Updated - FOMOD": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "2.23",
+      "file_id": 558300,
+      "file_name": "Paulicus Poison Block (PPB) Updated - FOMOD-51046-2-23-1730579873.7z",
+      "mod_id": 51046,
+      "hash": "sha256-W5fNE/3GM2eLftepnqHXnVluIR9l2Ysi9I9kA6A/1/c="
+    },
+    "type": "primary"
+  },
+  "PPB Patch Collection": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "2.23",
+      "file_id": 558418,
+      "file_name": "PPB Patch COllection-51046-2-23-1730610152.7z",
+      "mod_id": 51046,
+      "hash": "sha256-8Ux65ZCKQglbZYe4lvCRmANp+9VgZuyEJ7tUQElAtZQ="
+    }
+  }
+}

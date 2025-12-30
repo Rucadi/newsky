@@ -1,0 +1,64 @@
+{
+  "Ancient Nord Armors and Weapons Retexture SE": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "2.0.0",
+      "file_id": 694042,
+      "file_name": "Ancient Nord Armors and Weapons Retexture SE-91136-2-0-0-1764771260.7z",
+      "mod_id": 91136,
+      "hash": "sha256-OFuwmr8mRbjhdrhTURjp0aQVWHCXt12bm9mCPmb3QWY="
+    },
+    "type": "primary"
+  },
+  "Ancient Nord Retexture No Consistency Patches": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "2.0.0",
+      "file_id": 694047,
+      "file_name": "Ancient Nord Retexture No Consistency Patches-91136-2-0-0-1764771452.7z",
+      "mod_id": 91136,
+      "hash": "sha256-S1CBFZU0q4UZreXJDLBG5KcuE0o8CI78xw306iDxvQU="
+    },
+    "type": "primary"
+  },
+  "Ancient Nord Armors and Weapons Retexture SE-Half": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "2.0.0",
+      "file_id": 694049,
+      "file_name": "Ancient Nord Armors and Weapons Retexture SE-Half-91136-2-0-0-1764771861.7z",
+      "mod_id": 91136,
+      "hash": "sha256-gkSvjKm1mNxKGMR5MHoR0Jj0FNwGhSfrea1D6d8mXyo="
+    }
+  },
+  "Ancient Nord Retexture No Consistency Patches-Half": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "2.0.0",
+      "file_id": 694050,
+      "file_name": "Ancient Nord Retexture No Consistency Patches-Half-91136-2-0-0-1764771997.7z",
+      "mod_id": 91136,
+      "hash": "sha256-EIhd5IxqOrjEBaY6ntd5lhVUDLpcfHp0Y5GaF6tDI3Y="
+    }
+  },
+  "Ancient Nord Armors and Weapons Retexture SE-Low": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "2.0.0",
+      "file_id": 694052,
+      "file_name": "Ancient Nord Armors and Weapons Retexture SE-Low-91136-2-0-0-1764772124.7z",
+      "mod_id": 91136,
+      "hash": "sha256-IuoIzLJkzD1D8KFYDH1xOwL5EYYZi9PgP8xhMnein4M="
+    }
+  },
+  "Ancient Nord Retexture No Consistency Patches-Low": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "2.0.0",
+      "file_id": 694053,
+      "file_name": "Ancient Nord Retexture No Consistency Patches-Low-91136-2-0-0-1764772164.7z",
+      "mod_id": 91136,
+      "hash": "sha256-fBxoUHvDg0k9neUUwuhE/J/73HM+HmbTCY5gZ+pwuls="
+    }
+  }
+}

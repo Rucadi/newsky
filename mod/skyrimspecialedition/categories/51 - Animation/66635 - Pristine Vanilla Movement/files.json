@@ -1,0 +1,23 @@
+{
+  "Pristine Vanilla Movement": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1",
+      "file_id": 279306,
+      "file_name": "Pristine Vanilla Movement-66635-1-1-1650775951.zip",
+      "mod_id": 66635,
+      "hash": "sha256-z9Pkb5rW6xXe3OMdBPzKnMU19izYszstax5XDJD+M2I="
+    },
+    "type": "primary"
+  },
+  "Sprint - No Camera Shake": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1",
+      "file_id": 279656,
+      "file_name": "Sprint - No Camera Shake-66635-1-1-1650932804.zip",
+      "mod_id": 66635,
+      "hash": "sha256-kEqwSVIcMR1Fm6hRHBpYU5dhCvN3fweMuPzXMKW2eXs="
+    }
+  }
+}

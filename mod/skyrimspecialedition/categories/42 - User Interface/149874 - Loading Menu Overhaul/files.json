@@ -1,0 +1,53 @@
+{
+  "Loading Menu Overhaul": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 626377,
+      "file_name": "Loading Menu Overhaul-149874-1-0-1747050169.zip",
+      "mod_id": 149874,
+      "hash": "sha256-LzfyHf4kP4/Ai0dOStLTJseutlCTObUUVPIu/UrjYDU="
+    },
+    "type": "primary"
+  },
+  "Oblivion-like Loading Menu SE - Paper": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 627160,
+      "file_name": "Oblivion-like Loading Menu SE Patch - Paper-149874-1-0-1747245195.zip",
+      "mod_id": 149874,
+      "hash": "sha256-6JU851GfOcUuGCAC6qU2Evot+dqGs1JLeA8dGrNnyeU="
+    }
+  },
+  "Oblivion-like Loading Menu SE - Stone": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 627161,
+      "file_name": "Oblivion-like Loading Menu SE - Stone-149874-1-0-1747245226.zip",
+      "mod_id": 149874,
+      "hash": "sha256-uCY4yGjT32DK+nl2cyJ+zdH1QJGvP+isbG2k4pERyKs="
+    }
+  },
+  "Oblivion-like Loading Menu SE - Paper - 21x9": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 627163,
+      "file_name": "Oblivion-like Loading Menu SE - Paper - 21x9-149874-1-0-1747245266.zip",
+      "mod_id": 149874,
+      "hash": "sha256-Bb6vzkvqYvQ3W2C68gfkVXYUSoFZ0eoKHoJjSeuEDIY="
+    }
+  },
+  "Oblivion-like Loading Menu SE - Stone - 21x9": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 627164,
+      "file_name": "Oblivion-like Loading Menu SE - Stone - 21x9-149874-1-0-1747245299.zip",
+      "mod_id": 149874,
+      "hash": "sha256-8udW8+JaZ2AiCoolu8Fk+tzkHiUajrpHwOE3xM1HCdc="
+    }
+  }
+}

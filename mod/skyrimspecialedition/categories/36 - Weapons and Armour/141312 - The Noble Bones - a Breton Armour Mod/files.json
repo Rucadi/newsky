@@ -1,0 +1,23 @@
+{
+  "The Noble Bones - Breton Quest and Armour": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 592727,
+      "file_name": "The Noble Bones - Breton Quest and Armour-141312-1-0-1739116825.zip",
+      "mod_id": 141312,
+      "hash": "sha256-AW/ldoPu7r0E3r4pwutKIsgjt2z23/QoOTAvZk600dk="
+    },
+    "type": "primary"
+  },
+  "Lux Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1",
+      "file_id": 592729,
+      "file_name": "Lux Patch-141312-1-1739116865.zip",
+      "mod_id": 141312,
+      "hash": "sha256-TYDmV3Og9U9REtTKXrB0wSNsZPvd6tcms0PE7zmoRhk="
+    }
+  }
+}

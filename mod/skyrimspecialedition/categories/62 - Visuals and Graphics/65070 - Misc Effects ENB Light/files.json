@@ -1,0 +1,83 @@
+{
+  "Misc Effects ENB Light - One-handed Warhammers": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0BoundOptionals",
+      "file_id": 270664,
+      "file_name": "Misc Effects ENB Light - One-handed Warhammers-65070-1-0BoundOptionals-1647485776.7z",
+      "mod_id": 65070,
+      "hash": "sha256-PH7X7gbA5fqeYD7qIgpoD9zCgNLJmLNaalNS/bukHgc="
+    }
+  },
+  "Misc Effects ENB Light - Believable Weapons": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.2.1BoundOptionals",
+      "file_id": 270746,
+      "file_name": "Misc Effects ENB Light - Believable Weapons-65070-1-2-1BoundOptionals-1647541704.7z",
+      "mod_id": 65070,
+      "hash": "sha256-ZAm52EPZ7tU8fh/Twqtq3fl0G7GHXRZBJa22zDcvBZI="
+    }
+  },
+  "Misc Effects ENB Light - Leanwolf's Better-Shaped Weapons": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.2.1BoundOptionals",
+      "file_id": 270747,
+      "file_name": "Misc Effects ENB Light - Leanwolf's Better-Shaped Weapons-65070-1-2-1-1647541757.7z",
+      "mod_id": 65070,
+      "hash": "sha256-zJtIFhZWgRyWLXCf6C/TCPQu3qj1AXcbGfAgTmVf7wI="
+    }
+  },
+  "Misc Effects ENB Light - ElSopa Quivers Redone": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.3BoundOptionals",
+      "file_id": 274744,
+      "file_name": "Misc Effects ENB Light - ElSopa Quivers Redone-65070-1-3BoundOptionals-1649080609.7z",
+      "mod_id": 65070,
+      "hash": "sha256-CYEkxA/Ot/kaS58ZalLSkDpAF/Wn2N5rs/EuMCbEXkY="
+    }
+  },
+  "Misc Effects ENB Light - Obscure's College of Winterhold": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0ocw",
+      "file_id": 276038,
+      "file_name": "Misc Effects ENB Light - Obscure's College of Winterhold-65070-1-0ocw-1649551935.7z",
+      "mod_id": 65070,
+      "hash": "sha256-5pLHqGpWfSS7Wx7SA/nbvr+qDVsefqTg2iSVucYo5jc="
+    }
+  },
+  "Misc Effects ENB Light - Odin Skyrim Magic Overhaul": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0-Odin",
+      "file_id": 281572,
+      "file_name": "Misc Effects ENB Light - Odin Skyrim Magic Overhaul-65070-1-0-Odin-1651701408.7z",
+      "mod_id": 65070,
+      "hash": "sha256-5+eh5xPeiiwSEutKOfRQQmfbPWdO0AJZ9KIB64MX3C8="
+    }
+  },
+  "Misc Effects ENB Light - Bound Shield with FX Redux": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.4BoundOptionals",
+      "file_id": 302266,
+      "file_name": "Misc Effects ENB Light - Bound Shield with FX Redux-65070-1-4BoundOptionals-1658800137.7z",
+      "mod_id": 65070,
+      "hash": "sha256-Vef+RMTaWR299VpfGSVMfF2Cvt7hACOFLbAmUIBoCeg="
+    }
+  },
+  "Misc Effects ENB Light": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.6",
+      "file_id": 418811,
+      "file_name": "Misc Effects ENB Light-65070-1-6-1692496330.7z",
+      "mod_id": 65070,
+      "hash": "sha256-8ocNnU0iPHN3Z4mc/cEfUPsIaDurWLTXtHs3F2PMsqM="
+    },
+    "type": "primary"
+  }
+}

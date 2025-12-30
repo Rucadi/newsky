@@ -1,0 +1,24 @@
+{
+  "Solstheim Caravan - ESP version": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 244328,
+      "file_name": "Solstheim Caravan - ESP version-46590-1-0-1637864115.7z",
+      "mod_id": 46590,
+      "hash": "sha256-Km1E0aJ64TNoYBSon/uS1imQrVSqkY9KgeI37QR+lEo="
+    },
+    "type": "primary"
+  },
+  "Solstheim Caravan - ESP-FE (ESL flagged) version": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 244333,
+      "file_name": "Solstheim Caravan - ESL flagged version-46590-1-0-1637864465.7z",
+      "mod_id": 46590,
+      "hash": "sha256-avPw9ERp5As+klrEhO/2EzU2D0RW2JnIVf+I8yHNskM="
+    },
+    "type": "primary"
+  }
+}

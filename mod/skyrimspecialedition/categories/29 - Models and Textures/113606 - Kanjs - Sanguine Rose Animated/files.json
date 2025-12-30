@@ -1,0 +1,35 @@
+{
+  "Kanjs - Sanguine Rose Animated SE 4K": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "2",
+      "file_id": 605027,
+      "file_name": "Kanjs - Sanguine Rose Animated SE 4K-113606-2-1741844178.zip",
+      "mod_id": 113606,
+      "hash": "sha256-PcdQT4e9j1oBFxz+JC8JFk5+WtwVlgUL4Whk3dY8J8U="
+    },
+    "type": "primary"
+  },
+  "Kanjs - Sanguine Rose Animated SE 2K": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "2",
+      "file_id": 605028,
+      "file_name": "Kanjs - Sanguine Rose Animated SE 2K-113606-2-1741844322.zip",
+      "mod_id": 113606,
+      "hash": "sha256-Cj9Tkk7P0MQF9tLhyppdxtwkIqFDfxT2L2t2dgNW1qg="
+    },
+    "type": "primary"
+  },
+  "Kanjs - Sanguine Rose Animated SE 1K": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "2",
+      "file_id": 605029,
+      "file_name": "Kanjs - Sanguine Rose Animated SE 1K-113606-2-1741844374.zip",
+      "mod_id": 113606,
+      "hash": "sha256-lyyILApnKEn3id5C1hi3lr9LQ2iEpzbDLW6hkbDSMKo="
+    },
+    "type": "primary"
+  }
+}

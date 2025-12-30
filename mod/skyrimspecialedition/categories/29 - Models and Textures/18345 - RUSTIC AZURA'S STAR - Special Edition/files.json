@@ -1,0 +1,24 @@
+{
+  "RUSTIC AZURA'S STAR - SSE - 4K": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 58943,
+      "file_name": "RUSTIC AZURA'S STAR - SSE - 4K-18345-1-0.7z",
+      "mod_id": 18345,
+      "hash": "sha256-7Ogmke+xoWroIV1CIJLa/qfiYDiDm5SN4FIvp8RP7Nc="
+    },
+    "type": "primary"
+  },
+  "RUSTIC AZURA'S STAR - SSE - 2K": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 58944,
+      "file_name": "RUSTIC AZURA'S STAR - SSE - 2K-18345-1-0.7z",
+      "mod_id": 18345,
+      "hash": "sha256-PBK1lMctu7PT0SPqgd7veCHGiN8GEC4uJCOHmHXDs6Q="
+    },
+    "type": "primary"
+  }
+}

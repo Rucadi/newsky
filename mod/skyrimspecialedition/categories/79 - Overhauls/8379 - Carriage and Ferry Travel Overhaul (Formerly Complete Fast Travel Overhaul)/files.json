@@ -1,0 +1,93 @@
+{
+  "Carriage and Ferry Travel Overhaul": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "2.0",
+      "file_id": 23767,
+      "file_name": "Carriage and Ferry Travel Overhaul-8379-2-0.7z",
+      "mod_id": 8379,
+      "hash": "sha256-I2PwQsCinJHbDjVigXwCNXnCb571ZWtpWBdNIUeBR8Y="
+    },
+    "type": "primary"
+  },
+  "CFTO - Covered Carriages add-on": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "2.0",
+      "file_id": 23768,
+      "file_name": "CFTO - Covered Carriages add-on-8379-2-0.7z",
+      "mod_id": 8379,
+      "hash": "sha256-qrm9kGyyVsO1Q94cvv6dRRHjAt1QAOaGmkNyMKcqluc="
+    }
+  },
+  "CFTO - Lanterns add-on": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "2.0",
+      "file_id": 23769,
+      "file_name": "CFTO - Lanterns add-on-8379-2-0.7z",
+      "mod_id": 8379,
+      "hash": "sha256-rURDeGpwj+c8VnGvKybALAbMoLFAWAipRpwfj5lcWDY="
+    }
+  },
+  "CFTO - Hearthfire Extended patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "2.0",
+      "file_id": 23771,
+      "file_name": "CFTO - Hearthfire Extended patch-8379-2-0.7z",
+      "mod_id": 8379,
+      "hash": "sha256-Np+5xbmum26/KCoXJ41C4XHH9b9EJEoE0dGjUL1MA/A="
+    }
+  },
+  "CFTO - Dawnstar by Arthmoor Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "2.0",
+      "file_id": 40699,
+      "file_name": "CFTO - Dawnstar by Arthmoor Patch-8379-2-0.7z",
+      "mod_id": 8379,
+      "hash": "sha256-6jJ2g3ySSMRMls0FSUlX/5XLk4WV2UsaRBeuiW3HZzo="
+    }
+  },
+  "CFTO - Immersive Citizens AI Overhaul Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "2.0",
+      "file_id": 72690,
+      "file_name": "CFTO - Immersive Citizens AI Overhaul Patch-8379-2-0-1542535682.7z",
+      "mod_id": 8379,
+      "hash": "sha256-p0yhfD+EG+GKv/rreJhiw3Y9sPHzX/Uz2SUdcQQ98b4="
+    }
+  },
+  "CFTO - iNeed patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "2.0",
+      "file_id": 116561,
+      "file_name": "CFTO - iNeed patch-8379-2-0-1576627662.7z",
+      "mod_id": 8379,
+      "hash": "sha256-XmyP2Uronzp6EKB+SqmKo6rd6PFAQcolYikWtE5epsQ="
+    }
+  },
+  "CFTO - JK's Skyrim Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "2.0",
+      "file_id": 124248,
+      "file_name": "CFTO - JK's Skyrim Patch-8379-2-0-1581851405.7z",
+      "mod_id": 8379,
+      "hash": "sha256-uStsHLZySSkRaT4Yi3oDkOlzmuUhjsLxuax9HNuNnUM="
+    }
+  },
+  "CFTO - Pride of Skyrim Carriage Drivers Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "2.0b",
+      "file_id": 170325,
+      "file_name": "CFTO - Pride of Skyrim Carriage Drivers Patch-8379-2-0b-1605525254.7z",
+      "mod_id": 8379,
+      "hash": "sha256-pZ8ZzbTBj5qVDOihN8jUrmkHPlrE8zKeGS3XUg70CL0="
+    }
+  }
+}

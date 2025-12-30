@@ -1,0 +1,43 @@
+{
+  "HSMarkarth - Arnleif and Sons": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0.0",
+      "file_id": 452440,
+      "file_name": "HSMarkarth - Arnleif and Sons-107148-1-0-0-1702747594.7z",
+      "mod_id": 107148,
+      "hash": "sha256-H8NKVGzvd4Ci8kGR8PUf5Eo9lwuVxg9OeOrGP6RHXXI="
+    },
+    "type": "primary"
+  },
+  "HSMarkarth - Arnleif and Sons - ELFX": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0.0",
+      "file_id": 452441,
+      "file_name": "HSMarkarth - Arnleif and Sons - ELFX-107148-1-0-0-1702747626.7z",
+      "mod_id": 107148,
+      "hash": "sha256-ZuUfvGaVsPixosj9SJQ6EFcGlqexSCANESrMAumJ9Hs="
+    }
+  },
+  "HSMarkarth - Arnleif and Sons - LOTD": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0.0",
+      "file_id": 452443,
+      "file_name": "HSMarkarth - Arnleif and Sons - LOTD-107148-1-0-0-1702747669.7z",
+      "mod_id": 107148,
+      "hash": "sha256-suwRUZNjCNJcyZ3uxBDgZ7O0778w3IA8Z7TuGL8r99o="
+    }
+  },
+  "HSMarkarth - Arnleif and Sons - LUX": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0.0",
+      "file_id": 452444,
+      "file_name": "HSMarkarth - Arnleif and Sons - LUX-107148-1-0-0-1702747708.7z",
+      "mod_id": 107148,
+      "hash": "sha256-aoOTo9ILtVx3WyBv0uQDBp+5fw1wPVC5m+utC3RAxp0="
+    }
+  }
+}

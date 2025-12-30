@@ -1,0 +1,54 @@
+{
+  "NAT-ENB GRIM PATCH": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "3.1.1B",
+      "file_id": 390283,
+      "file_name": "NAT-ENB GRIM PATCH-27141-3-1-1B-1684617112.zip",
+      "mod_id": 27141,
+      "hash": "sha256-VmSl9aKUa2S/9wfUaRDZ6iuMl7jFsXlP43VVrzZ/m0w="
+    }
+  },
+  "NAT-ENB SUMMER PATCH": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "3.1.1B",
+      "file_id": 390284,
+      "file_name": "NAT-ENB SUMMER PATCH-27141-3-1-1B-1684617186.zip",
+      "mod_id": 27141,
+      "hash": "sha256-HYXs8mphW3jqnQ+5bw0bkgg8CoNp9KWwoa9uhQYRsa0="
+    }
+  },
+  "NAT.ENB - ENB PRESET v3.1.1C": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "3.1.1C",
+      "file_id": 392142,
+      "file_name": "NAT.ENB - ENB PRESET v3.1.1C-27141-3-1-1C-1685129135.zip",
+      "mod_id": 27141,
+      "hash": "sha256-7r1sg5Mgf9sIg6ZXsQ5xU+3Mwz/8NBq+TxwBxDiKU2o="
+    },
+    "type": "primary"
+  },
+  "NAT-ENB No Shout FX": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "3.1.1C",
+      "file_id": 394539,
+      "file_name": "NAT-ENB No Shout FX-27141-3-1-1C-1685779663.zip",
+      "mod_id": 27141,
+      "hash": "sha256-h25EU+ha7X+diomYpE2cSVj2LDRkEAb6RPRD2LKzrHk="
+    }
+  },
+  "NAT.ENB - ESP WEATHER PLUGIN v3.1.1C - Fixed": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "3.1.1C-F",
+      "file_id": 394915,
+      "file_name": "NAT.ENB - ESP WEATHER PLUGIN v3.1.1C - Fixed-27141-3-1-1C-F-1685872331.zip",
+      "mod_id": 27141,
+      "hash": "sha256-DqmnBQZzaNacUe9OMjf9/gqTvYOdlUiSnfazo649mgo="
+    },
+    "type": "primary"
+  }
+}

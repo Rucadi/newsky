@@ -1,0 +1,24 @@
+{
+  "Vigilant's Molag Bal Dragon Retexture SE -4K": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 346652,
+      "file_name": "Vigilant's Molag Bal Dragon Retexture SE -4K-82040-1-0-1672842831.rar",
+      "mod_id": 82040,
+      "hash": "sha256-BCk9K2dFlx48NFAGGDOjGlPOr8RuPZfkMgg/E++p7pk="
+    },
+    "type": "primary"
+  },
+  "Vigilant's Molag Bal Dragon Retexture SE -2K": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 346653,
+      "file_name": "Vigilant's Molag Bal Dragon Retexture SE -2K-82040-1-0-1672842856.rar",
+      "mod_id": 82040,
+      "hash": "sha256-bfQ06qd0IEuPEqG/ZZ5k9xfLnoruHXjx3TyKZGI13mA="
+    },
+    "type": "primary"
+  }
+}

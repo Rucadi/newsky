@@ -1,0 +1,34 @@
+{
+  "Sanguine - 4k": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.01",
+      "file_id": 267913,
+      "file_name": "Sanguine - 4k-64471-1-01-1646346298.zip",
+      "mod_id": 64471,
+      "hash": "sha256-SATgMppvmpPs/D3V5i3oPWpjKnJsvz1s4qDuuziep3Q="
+    },
+    "type": "primary"
+  },
+  "Sanguine - 2k": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.01",
+      "file_id": 267914,
+      "file_name": "Sanguine - 2k-64471-1-01-1646346388.zip",
+      "mod_id": 64471,
+      "hash": "sha256-gXmXjRvz6xn9QwqG4vz1H6+ACqBouJNjyj6Vta/dzw4="
+    },
+    "type": "primary"
+  },
+  "Wintersun patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.01",
+      "file_id": 267915,
+      "file_name": "Wintersun patch-64471-1-01-1646346492.zip",
+      "mod_id": 64471,
+      "hash": "sha256-cXU02mAQKtmPyKA+g/Rh3JHqM5C6u+HRUHXetn56x8k="
+    }
+  }
+}

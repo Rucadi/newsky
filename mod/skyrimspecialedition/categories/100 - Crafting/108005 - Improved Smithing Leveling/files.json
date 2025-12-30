@@ -1,0 +1,53 @@
+{
+  "Improved Smithing Leveling - Campfire": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.00",
+      "file_id": 456124,
+      "file_name": "Improved Smithing Leveling - Campfire-108005-1-00-1703870522.rar",
+      "mod_id": 108005,
+      "hash": "sha256-qjBMTgVdZn4YVc0xW2+4DLqrmP9rJcy9n25MV6uNC/c="
+    }
+  },
+  "Improved Smithing Leveling - Stendarr Rising": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.00",
+      "file_id": 456125,
+      "file_name": "Improved Smithing Leveling - Stendarr Rising-108005-1-00-1703870567.rar",
+      "mod_id": 108005,
+      "hash": "sha256-ukeZHeOELirDMaoOnBSGog0XReDC2y25P4QO+L0MxLM="
+    }
+  },
+  "Improved Smithing Leveling - Clockwork": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.00",
+      "file_id": 456126,
+      "file_name": "Improved Smithing Leveling - Clockwork-108005-1-00-1703870587.rar",
+      "mod_id": 108005,
+      "hash": "sha256-faFGVpoLfoW4c9PrCzltzytdpQgD4/5e+8PcOc+HjSM="
+    }
+  },
+  "Improved Smithing Leveling - AE DLC (CC)": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.00",
+      "file_id": 456129,
+      "file_name": "Improved Smithing Leveling - AE DLC (CC)-108005-1-00-1703870727.rar",
+      "mod_id": 108005,
+      "hash": "sha256-9JMBK5I4TQZkrskkzXvJQ/vNJFtUeUkJmtxu+grHNPg="
+    }
+  },
+  "Improved Smithing Leveling": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.01",
+      "file_id": 456377,
+      "file_name": "Improved Smithing Leveling-108005-1-01-1703938008.rar",
+      "mod_id": 108005,
+      "hash": "sha256-9Y7d8huCufLIIhByK8GnI6AqcLDK1+Kt3KAAXkuTOGc="
+    },
+    "type": "primary"
+  }
+}

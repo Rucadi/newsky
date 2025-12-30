@@ -1,0 +1,53 @@
+{
+  "Triumvirate Cleaned": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1",
+      "file_id": 228149,
+      "file_name": "Triumvirate Cleaned-55520-1-1631550066.rar",
+      "mod_id": 55520,
+      "hash": "sha256-1zMhO4jjBiBVaIX8kPDZm+ZOuXPvH25Xpgx7A/nH7Ro="
+    },
+    "type": "primary"
+  },
+  "Triumvirate  4x": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1",
+      "file_id": 228154,
+      "file_name": "Triumvirate  4x-55520-1-1631551825.rar",
+      "mod_id": 55520,
+      "hash": "sha256-8M42I6zACqpb21w7ZIgHiu7K3DpFs0i6dgjCW/65S0g="
+    }
+  },
+  "Triumvirate  2x": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1",
+      "file_id": 228158,
+      "file_name": "Triumvirate  2x-55520-1-1631552656.rar",
+      "mod_id": 55520,
+      "hash": "sha256-8K76xD3A0bknoCFEbtqWhNHMqLOQci167a7gYhi5zp8="
+    }
+  },
+  "Triumvirate  2k": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1",
+      "file_id": 228159,
+      "file_name": "Triumvirate  2k-55520-1-1631553262.rar",
+      "mod_id": 55520,
+      "hash": "sha256-k56VU+qHjUVZPcxjeIAeibr3Tv+w+jyetfZBq+MMMHY="
+    }
+  },
+  "Triumvirate Cleaned BSA": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "2",
+      "file_id": 228677,
+      "file_name": "Triumvirate Cleaned BSA-55520-2-1631763966.rar",
+      "mod_id": 55520,
+      "hash": "sha256-W0WEhBjmyE0Wr+cd3ggFh4JeCTiu7gFxS4TPRq/IT7U="
+    }
+  }
+}

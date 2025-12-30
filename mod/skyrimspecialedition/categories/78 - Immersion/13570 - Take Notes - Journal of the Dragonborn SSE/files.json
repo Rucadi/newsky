@@ -1,0 +1,24 @@
+{
+    "Take Notes - Journal of the Dragonborn SSE (alpha)": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "1.0a",
+            "file_id": 39125,
+            "file_name": "Take Notes - Journal of the Dragonborn SSE (alpha)-13570-1-0a.7z",
+            "mod_id": 13570,
+            "hash": "sha256-fM8MtpdohCf071TNtItSPu2PbrsOPLtA7X9VpOFLkE4="
+        },
+        "type": "primary"
+    },
+    "Take Notes - AE Version (Beta)": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "b1.6",
+            "file_id": 282991,
+            "file_name": "Take Notes - AE Version (Beta)-13570-b1-6-1652299321.7z",
+            "mod_id": 13570,
+            "hash": "sha256-Y7j6o8t84D59+MKzJDKNk5siwpQlFWD3wOjHFLonfHI="
+        },
+        "type": "primary"
+    }
+}

@@ -1,0 +1,53 @@
+{
+  "HSRiften - The Bee and Barb - ELFX": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0.0",
+      "file_id": 479597,
+      "file_name": "HSRiften - The Bee and Barb - ELFX-113786-1-0-0-1710205730.7z",
+      "mod_id": 113786,
+      "hash": "sha256-2H/C2fbUvmQVTQaFRUFTDXqsVi0ljDk1fb9rnv8d2vc="
+    }
+  },
+  "HSRiften - The Bee and Barb - LOTD": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0.0",
+      "file_id": 479598,
+      "file_name": "HSRiften - The Bee and Barb - LOTD-113786-1-0-0-1710205786.7z",
+      "mod_id": 113786,
+      "hash": "sha256-wYdgnGb61TMKp/NeawMFTk9AatCypNG9DLdxITVqH8Q="
+    }
+  },
+  "HSRiften - The Bee and Barb - LUX": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0.0",
+      "file_id": 479599,
+      "file_name": "HSRiften - The Bee and Barb - LUX-113786-1-0-0-1710205968.7z",
+      "mod_id": 113786,
+      "hash": "sha256-j2hOUpNiLCCXFsdn69OacK/pPaIVRdTXIqB4t3xQkbQ="
+    }
+  },
+  "HSRiften - The Bee and Barb": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0.0",
+      "file_id": 479762,
+      "file_name": "HSRiften - The Bee and Barb-113786-1-0-0-1710262412.7z",
+      "mod_id": 113786,
+      "hash": "sha256-toeJ/avMilvHItZbfNBXHPCkmS7RoJxXXiMPBsxhlDE="
+    },
+    "type": "primary"
+  },
+  "HSRiften - The Bee and Barb - BOSS": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0.0",
+      "file_id": 485042,
+      "file_name": "HSRiften - The Bee and Barb - BOSS-113786-1-0-0-1711659130.7z",
+      "mod_id": 113786,
+      "hash": "sha256-Nsa0+9jMWrdR/NfpAkyBOsRfitDDJjeV/d0mH8ySyHI="
+    }
+  }
+}

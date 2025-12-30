@@ -1,0 +1,43 @@
+{
+    "HSPlayerHomes - Honeyside - SFCO": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "1.0.0",
+            "file_id": 297173,
+            "file_name": "HSPlayerHomes - Honeyside - SFCO-70968-1-0-0-1657298577.7z",
+            "mod_id": 70968,
+            "hash": "sha256-Zaz6Q8qSzUWLSF4QmxyyLnMMSrrFL2oif+NdpE2ZYWg="
+        }
+    },
+    "HSPlayerHomes - Honeyside - LUX": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "1.0.0",
+            "file_id": 297331,
+            "file_name": "HSPlayerHomes - Honeyside - LUX-70968-1-0-0-1657330649.7z",
+            "mod_id": 70968,
+            "hash": "sha256-2NJ02mhpY3KMtduv4crOdMSnGTddhrLr57hkUKvhQMQ="
+        }
+    },
+    "HSPlayerHomes - Honeyside - ELFX": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "1.0.1",
+            "file_id": 364910,
+            "file_name": "HSPlayerHomes - Honeyside - ELFX-70968-1-0-1-1677782322.7z",
+            "mod_id": 70968,
+            "hash": "sha256-6npzhu4ftQHmKWfLPeAXBU9z3pKFhwq5QA1TdOoK8O4="
+        }
+    },
+    "HSPlayerHomes - Honeyside": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "2.0.3",
+            "file_id": 401779,
+            "file_name": "HSPlayerHomes - Honeyside-70968-2-0-3-1687928732.7z",
+            "mod_id": 70968,
+            "hash": "sha256-f7BcDjXPJDd/N3BeZJZj+umeRZEDKtY8GS1BEE+FFvs="
+        },
+        "type": "primary"
+    }
+}

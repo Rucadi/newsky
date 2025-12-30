@@ -1,0 +1,24 @@
+{
+  "Glasses for Remiel - Black Circular": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1",
+      "file_id": 500183,
+      "file_name": "Glasses for Remiel - Black Circular-119218-1-1715449731.zip",
+      "mod_id": 119218,
+      "hash": "sha256-44Nd37h3OWht7JDNl5pj9J0D2YB8M37cDAFMaPZPfhk="
+    },
+    "type": "primary"
+  },
+  "Glasses for Remiel - Metal Circular": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1",
+      "file_id": 500184,
+      "file_name": "Glasses for Remiel - Metal Circular-119218-1-1715449761.zip",
+      "mod_id": 119218,
+      "hash": "sha256-5n/3nEDBperN+qGx50NMay2gMmv34JOPINj6P6rkNQo="
+    },
+    "type": "primary"
+  }
+}

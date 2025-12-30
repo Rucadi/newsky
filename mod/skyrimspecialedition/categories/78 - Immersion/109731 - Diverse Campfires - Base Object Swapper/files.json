@@ -1,0 +1,67 @@
+{
+    "Diverse Campfires - FYX Campfire Reacts to Wind": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "1.1",
+            "file_id": 463749,
+            "file_name": "Diverse Campfires - FYX Campfire Reacts to Wind-109731-1-1-1705921567.rar",
+            "mod_id": 109731,
+            "hash": "sha256-r3duFumwGxc2KD/5kF4LbjL1pC/fyD+PMJoakqWAytQ="
+        },
+        "type": "primary"
+    },
+    "Diverse Campfires - Base Object Swapper": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "1.1",
+            "file_id": 463750,
+            "file_name": "Diverse Campfires - Base Object Swapper-109731-1-1-1705921881.rar",
+            "mod_id": 109731,
+            "hash": "sha256-xj0wphVnAT0GjQynZFDZRB1WeKGkx7UobNGygiTnz3Y="
+        },
+        "type": "primary"
+    },
+    "Diverse Campfires - Inferno edition": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "1.1",
+            "file_id": 464087,
+            "file_name": "Diverse Campfires - Inferno edition-109731-1-1-1706006862.rar",
+            "mod_id": 109731,
+            "hash": "sha256-hcVsdNiuBTSUESuOUCr/n0QacAuHuoL3rLrcspHTO+4="
+        },
+        "type": "primary"
+    },
+    "Diverse Campfires - Inferno and FYX  edition": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "1.1",
+            "file_id": 464396,
+            "file_name": "Diverse Campfires - Inferno and FYX  edition-109731-1-1-1706091462.rar",
+            "mod_id": 109731,
+            "hash": "sha256-Ecev0cRxW0MOEZgmGcSF+8Ke1NRDfIbBLmotcUxX+FI="
+        },
+        "type": "primary"
+    },
+    "Diverse Campfires - FLM patch": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "1.2",
+            "file_id": 466968,
+            "file_name": "Diverse Campfires - FLM patch-109731-1-2-1706873974.rar",
+            "mod_id": 109731,
+            "hash": "sha256-RQOvUNjUTXBCx8A7EKb5ppGXLwaa9wQRBtnO/moIsJE="
+        }
+    },
+    "Diverse Campfires- SWAP file update- All campfires": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "1.3",
+            "file_id": 639045,
+            "file_name": "Diverse Campfires- SWAP file update- All campfires-109731-1-3-1750197337.rar",
+            "mod_id": 109731,
+            "hash": "sha256-JrtOiBsNJBm82pNnPiUjpMzt2fbhyhY0TjyCqQnAdTs="
+        },
+        "type": "primary"
+    }
+}

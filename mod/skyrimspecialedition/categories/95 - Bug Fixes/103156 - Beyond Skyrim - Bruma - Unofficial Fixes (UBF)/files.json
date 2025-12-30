@@ -1,0 +1,93 @@
+{
+  "BSHeartland - Ayleid Loot": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.5",
+      "file_id": 457858,
+      "file_name": "BSHeartland - Ayleid Loot-103156-1-5-1704395769.7z",
+      "mod_id": 103156,
+      "hash": "sha256-9wDY+B7FCbmblR+ckTdWKIKq798iLzY/+eo2uR4ENdY="
+    }
+  },
+  "BSHeartland - CC The Contest Spider Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.5a",
+      "file_id": 457941,
+      "file_name": "BSHeartland - CC The Contest Spider Patch-103156-1-5a-1704413666.7z",
+      "mod_id": 103156,
+      "hash": "sha256-iuGxHjb5HiaSPpPf3Yd2dRKK6iay7S5D5yrSiWLp+Jc="
+    }
+  },
+  "BSHeartland - Unofficial Subjective Tweaks": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.5.1",
+      "file_id": 460814,
+      "file_name": "BSHeartland - Unofficial Subjective Tweaks-103156-1-5-1-1705104294.7z",
+      "mod_id": 103156,
+      "hash": "sha256-NtqVBn0JN0P9qkfuli8QculnJshR71CYo9BzTxOl6Zo="
+    }
+  },
+  "UBF - Animated Doors": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.7",
+      "file_id": 657779,
+      "file_name": "UBF - Animated Doors-103156-1-7-1755779486.7z",
+      "mod_id": 103156,
+      "hash": "sha256-WOyyT3SGHHOezyutqD7ENyrXzy9qZUwPoOUTpzXJV/c="
+    }
+  },
+  "UBF - Dialogue Gold Edits": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.7",
+      "file_id": 657780,
+      "file_name": "UBF - Dialogue Gold Edits-103156-1-7-1755779533.7z",
+      "mod_id": 103156,
+      "hash": "sha256-ednrW1rRoy6OPiZo7H0m9175oKuns0hsGvnEj6H/9NY="
+    }
+  },
+  "UBF - Navmesh Patch - LOTD": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.7",
+      "file_id": 657781,
+      "file_name": "UBF - Navmesh Patch - LOTD-103156-1-7-1755779573.7z",
+      "mod_id": 103156,
+      "hash": "sha256-V0FuetD079wWBdaSOAAHH/sh3SLOZ40wEL8fa/EFr4g="
+    }
+  },
+  "UBF - Navmesh Patch - UBGF": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.7",
+      "file_id": 657782,
+      "file_name": "UBF - Navmesh Patch - UBGF-103156-1-7-1755779635.7z",
+      "mod_id": 103156,
+      "hash": "sha256-fooAVOKXM529a7sZ6ZM/8S+yqv2kDgMjaHo9L2jdcQg="
+    }
+  },
+  "UBF - Navmesh Patch - LOTD and UBGF": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.7",
+      "file_id": 657783,
+      "file_name": "UBF - Navmesh Patch - LOTD and UBGF-103156-1-7-1755779763.7z",
+      "mod_id": 103156,
+      "hash": "sha256-f7Bn3SSJKfUpmstM6ejXGiOggUmMobiWtIsro92dyBA="
+    }
+  },
+  "Beyond Skyrim - Bruma - Unofficial Fixes": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.7.3",
+      "file_id": 670670,
+      "file_name": "Beyond Skyrim - Bruma - Unofficial Fixes-103156-1-7-3-1759183553.7z",
+      "mod_id": 103156,
+      "hash": "sha256-uT/5aGq2jaGPXAG8axriGiW+OPRJY/iOKHwopAcsrjw="
+    },
+    "type": "primary"
+  }
+}

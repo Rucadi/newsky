@@ -1,0 +1,101 @@
+{
+  "Vanaheimr - Mountains - MM - 2k": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "5.0",
+      "file_id": 580900,
+      "file_name": "Vanaheimr - Mountains - MM - 2k-115471-5-0-1736357648.7z",
+      "mod_id": 115471,
+      "hash": "sha256-lentwa3pWp2YtcBEUXWz8DsyQuS0iPlvFkrXylhm1bQ="
+    },
+    "type": "primary"
+  },
+  "Vanaheimr - Mountains - MM - 4k": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "5.0",
+      "file_id": 580901,
+      "file_name": "Vanaheimr - Mountains - MM - 4k-115471-5-0-1736357735.7z",
+      "mod_id": 115471,
+      "hash": "sha256-D7W5hRY/B7TK8qzQHNwEnLASMJjyYvT/TpLM8c14IyA="
+    },
+    "type": "primary"
+  },
+  "Vanaheimr - Mountains  - MM - 8k": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "5.0",
+      "file_id": 580902,
+      "file_name": "Vanaheimr - Mountains  - MM - 8k-115471-5-0-1736357821.7z",
+      "mod_id": 115471,
+      "hash": "sha256-YwMAqJdPChfYJs0Xh8U9i6j6PVdNgGCyi3vdpIAFsUc="
+    },
+    "type": "primary"
+  },
+  "Vanaheimr - Mountains - PBR - 8k": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "5.0",
+      "file_id": 584853,
+      "file_name": "Vanaheimr - Mountains - PBR - 8k-115471-5-0-1737229397.7z",
+      "mod_id": 115471,
+      "hash": "sha256-BYB0XS3B0NjQZti+Kil1npxEcIyfrqw4Ac/lrcbrUg4="
+    },
+    "type": "primary"
+  },
+  "Vanaheimr - Mountains - PBR - 4k": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "5.0",
+      "file_id": 584854,
+      "file_name": "Vanaheimr - Mountains - PBR - 4k-115471-5-0-1737229445.7z",
+      "mod_id": 115471,
+      "hash": "sha256-cQVPSzJhhMX3YQ4YkSvVwesVVz3SJcONV/MtOeE8U0g="
+    },
+    "type": "primary"
+  },
+  "Vanaheimr - Mountains - PBR - 2k": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "5.0",
+      "file_id": 584855,
+      "file_name": "Vanaheimr - Mountains - PBR - 2k-115471-5-0-1737229481.7z",
+      "mod_id": 115471,
+      "hash": "sha256-UIb/JctfTCuSARLMyBsYYIv1/hk2b0fonAjwy1izx+Y="
+    },
+    "type": "primary"
+  },
+  "Vanaheimr - Mountains - Vanilla ERM - 8k": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "5.0",
+      "file_id": 585237,
+      "file_name": "Vanaheimr - Mountains - Vanilla ERM - 8k-115471-5-0-1737319275.7z",
+      "mod_id": 115471,
+      "hash": "sha256-OjRUD0QUIaOwPr86k7WGDYRwIcmZz9mAYEI47eIyBdo="
+    },
+    "type": "primary"
+  },
+  "Vanaheimr - Mountains - Vanilla ERM - 4k": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "5.0",
+      "file_id": 585239,
+      "file_name": "Vanaheimr - Mountains - Vanilla ERM - 4k-115471-5-0-1737319402.7z",
+      "mod_id": 115471,
+      "hash": "sha256-ZO6SXrYXK0gFFIaN+TNOsMCxJeiARbylDGW+dEoEsBM="
+    },
+    "type": "primary"
+  },
+  "Vanaheimr - Mountains - Vanilla ERM - 2k": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "5.0",
+      "file_id": 585240,
+      "file_name": "Vanaheimr - Mountains - Vanilla ERM - 2k-115471-5-0-1737319447.7z",
+      "mod_id": 115471,
+      "hash": "sha256-T5xEUUmTOqgQulhwyo/OsBrV0eNY8wEgRLiqynw58lE="
+    },
+    "type": "primary"
+  }
+}

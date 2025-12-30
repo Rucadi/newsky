@@ -1,0 +1,54 @@
+{
+  "Daedric Individuals - Followers 3BA": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.4",
+      "file_id": 575582,
+      "file_name": "Daedric Individuals - Followers 3BA-130167-1-3-1735020164.7z",
+      "mod_id": 130167,
+      "hash": "sha256-VP99ji3aw7YospPEGWm0C8aHu9/ZZsQiXuGiQGFtbjU="
+    },
+    "type": "primary"
+  },
+  "Daedric Individuals - Default": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.4",
+      "file_id": 575583,
+      "file_name": "Daedric Individuals - Default-130167-1-4-1735020270.7z",
+      "mod_id": 130167,
+      "hash": "sha256-gFq+33h36eOJfTQM9GJ0OyER4TTn7mEn7ESyl4E2v70="
+    },
+    "type": "primary"
+  },
+  "Rannis Outfit - MAGECORE": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 575584,
+      "file_name": "Rannis Outfit - MAGECORE-130167-1-0-1735020598.7z",
+      "mod_id": 130167,
+      "hash": "sha256-iUTOHdJjcBa/D3+rRrS4EvR7GuOh0EisuUvArz9C3IU="
+    }
+  },
+  "Alvira Outfit - ELLE Elven Assasin": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 575585,
+      "file_name": "Alvira Outfit - ELLE Elven Assasin-130167-1-0-1735020730.7z",
+      "mod_id": 130167,
+      "hash": "sha256-sM74m6tCqvT+2o7y+LPq5Ff+9lz6kB4CfjCQFI2Wcc4="
+    }
+  },
+  "Glyseria Outfit - Dracania Armor": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1",
+      "file_id": 575771,
+      "file_name": "Glyseria Outfit - Dracania Armor-130167-1-1-1735074673.7z",
+      "mod_id": 130167,
+      "hash": "sha256-Kk5d1BfUjNaCkH3ZVJlRnxctw/xn2W8o1H7URjbOCww="
+    }
+  }
+}

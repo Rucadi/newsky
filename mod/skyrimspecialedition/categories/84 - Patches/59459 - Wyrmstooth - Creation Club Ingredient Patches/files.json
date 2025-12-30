@@ -1,0 +1,34 @@
+{
+  "Wyrmstooth - Rare Curios Ingredients Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0.0",
+      "file_id": 246259,
+      "file_name": "Wyrmstooth - Rare Curios Patch-59459-1-0-0-1638528941.7z",
+      "mod_id": 59459,
+      "hash": "sha256-MlIrN/MRg9jH1B2rOPpdYqIu+zwZvaS6EOYrHhyrnnw="
+    },
+    "type": "primary"
+  },
+  "Wyrmstooth - The Cause Ingredients Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0.0",
+      "file_id": 246260,
+      "file_name": "Wyrmstooth - The Cause Patch-59459-1-0-0-1638528975.7z",
+      "mod_id": 59459,
+      "hash": "sha256-MTUzhYxWRQUmg5O7ZB5CGlBt+WvcMYFlQUUBYM/zeNs="
+    },
+    "type": "primary"
+  },
+  "Wyrmstooth Uses The Cause Style Oblivion Gate": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0.0",
+      "file_id": 289584,
+      "file_name": "Wyrmstooth Uses The Cause Style Oblivion Gate-59459-1-0-0-1654642334.zip",
+      "mod_id": 59459,
+      "hash": "sha256-XNg1blr/NC+OVZubnxabM2h/XerfNIZbkKDxB6+eB14="
+    }
+  }
+}

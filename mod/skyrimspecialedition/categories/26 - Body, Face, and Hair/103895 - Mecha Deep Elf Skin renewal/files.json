@@ -1,0 +1,56 @@
+{
+  "Mecha Deep elf CBBE SOS full 4k": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "2.0",
+      "file_id": 440451,
+      "file_name": "Mecha Deep elf CBBE SOS full 4k-103895-2-0-1699278939.7z",
+      "mod_id": 103895,
+      "hash": "sha256-pyrr7g60G//+LYHZkDSrEWtUQN+q3kMoUQ60m9PFGtY="
+    },
+    "type": "primary"
+  },
+  "Mecha Deep elf CBBE SOS full 2k": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "2.0",
+      "file_id": 440452,
+      "file_name": "Mecha Deep elf CBBE SOS full 2k-103895-2-0-1699279109.7z",
+      "mod_id": 103895,
+      "hash": "sha256-q09fAB9JOt4O6nlcUq7g4qefGmaNFfpnRcTVIdOT00U="
+    },
+    "type": "primary"
+  },
+  "Mecha Deep elf UNP SOS full 4k": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "2.0",
+      "file_id": 440455,
+      "file_name": "Mecha Deep elf UNP SOS full 4k-103895-2-0-1699279399.7z",
+      "mod_id": 103895,
+      "hash": "sha256-hn749roYvtOExlo1ZJVebOAZbSDN2X4HWvuK+0CE36M="
+    },
+    "type": "primary"
+  },
+  "Mecha Deep elf UNP SOS full 2k": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "2.0",
+      "file_id": 440458,
+      "file_name": "Mecha Deep elf UNP SOS full 2k-103895-2-0-1699279756.7z",
+      "mod_id": 103895,
+      "hash": "sha256-3wijNU/HUWdTp/VHTs3enLfCL/RL78uHLc2c5OW0Hs8="
+    },
+    "type": "primary"
+  },
+  "Mecha Deep elf SOS texture patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "2.0",
+      "file_id": 440460,
+      "file_name": "Mecha Deep elf SOS texture patch-103895-2-0-1699279851.7z",
+      "mod_id": 103895,
+      "hash": "sha256-Yy7+zdAcC8tmuJO/iDIDc1qtUaH1A8d29eBDcU9SvDA="
+    }
+  }
+}

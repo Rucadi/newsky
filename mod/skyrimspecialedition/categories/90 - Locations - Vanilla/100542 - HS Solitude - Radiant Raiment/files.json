@@ -1,0 +1,33 @@
+{
+  "HSSolitude - Radiant Raiment - ELFX": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0.0",
+      "file_id": 425528,
+      "file_name": "HSSolitude - Radiant Raiment - ELFX-100542-1-0-0-1694625451.7z",
+      "mod_id": 100542,
+      "hash": "sha256-C6N1JtgcjHSxdHPFHbsAEjpwnT+jBEbkA6wiWd1kUNg="
+    }
+  },
+  "HSSolitude - Radiant Raiment - LUX": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0.0",
+      "file_id": 425530,
+      "file_name": "HSSolitude - Radiant Raiment - LUX-100542-1-0-0-1694625481.7z",
+      "mod_id": 100542,
+      "hash": "sha256-a2eJSC2a3S8Wu60WgoiNeQaM/UoGg19FRBhgpDhzRIk="
+    }
+  },
+  "HSSolitude - Radiant Raiment": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0.0",
+      "file_id": 425578,
+      "file_name": "HSSolitude - Radiant Raiment-100542-1-0-0-1694634750.7z",
+      "mod_id": 100542,
+      "hash": "sha256-xyEE1SazgWWhNleblQD0orstop0PKLedaQmLBNFOUMY="
+    },
+    "type": "primary"
+  }
+}

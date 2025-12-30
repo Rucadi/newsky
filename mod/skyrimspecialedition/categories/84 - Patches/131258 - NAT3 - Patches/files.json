@@ -1,0 +1,34 @@
+{
+  "Summerset Isle - NAT3 - Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": ".9",
+      "file_id": 550805,
+      "file_name": "Summerset Isle - NAT3 - Patch-131258--9-1728580427.7z",
+      "mod_id": 131258,
+      "hash": "sha256-ez32PsPfmF9JuNlQRujbosJkPyTgbyjnMRan0QYr73M="
+    },
+    "type": "primary"
+  },
+  "Summerset - Sovngard Weather - Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": ".9",
+      "file_id": 550831,
+      "file_name": "Sovngard Weather - Summerset - Patch-131258--9-1728585876.7z",
+      "mod_id": 131258,
+      "hash": "sha256-GQ2BU6GcMQOlmDnmTMTTyeaFMu9SlAK6th6rHa3TO48="
+    }
+  },
+  "Skyrim Extended Cut - NAT3 - Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": ".9",
+      "file_id": 551901,
+      "file_name": "Skyrim Extended Cut - NAT3 - Patch-131258--9-1728857550.7z",
+      "mod_id": 131258,
+      "hash": "sha256-P0SqAh5XgonKheWtBNooiUeg/p8sisr4ZGBlfEzIXDM="
+    },
+    "type": "primary"
+  }
+}

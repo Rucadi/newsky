@@ -1,0 +1,23 @@
+{
+  "Rise in the East - Fix Typo": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 513734,
+      "file_name": "Rise in the East - Fix Typo-122371-1-0-1719004166.7z",
+      "mod_id": 122371,
+      "hash": "sha256-c/Sa2f4ChxZ1MT6811SgabxDLOkqCmLyaI6BdNc29b8="
+    }
+  },
+  "Rise in the East - Immersive Start": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1",
+      "file_id": 514298,
+      "file_name": "Rise in the East - Immersive Start-122371-1-1-1719176157.7z",
+      "mod_id": 122371,
+      "hash": "sha256-nytPREmPJLEdJ0UeMJfYMKPaXkzB4Pw8xfUXZWCnO5o="
+    },
+    "type": "primary"
+  }
+}

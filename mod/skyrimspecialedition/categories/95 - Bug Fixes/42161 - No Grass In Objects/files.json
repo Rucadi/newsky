@@ -1,0 +1,33 @@
+{
+  "Grass Generation MO2 Plugin v3.2": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "3.2",
+      "file_id": 621738,
+      "file_name": "Grass Generation MO2 Plugin Beta v3.2-42161-3-2-1745806703.zip",
+      "mod_id": 42161,
+      "hash": "sha256-pCi5ReWyhvt62jaIn54l4XgutBcB0760qBJemFRkZXg="
+    }
+  },
+  "Config INI - GrassControl.ini": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.5.9",
+      "file_id": 672975,
+      "file_name": "Config INI - GrassControl.ini-42161-1-5-9-1759775034.rar",
+      "mod_id": 42161,
+      "hash": "sha256-VNsk0UGnlWcq34lTU51BYD/UERF6cSwvlHzao+H59uM="
+    }
+  },
+  "NGIO - NG (1.5.11)": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.5.11",
+      "file_id": 699415,
+      "file_name": "NGIO - NG (1.5.11)-42161-1-5-11-1766097161.7z",
+      "mod_id": 42161,
+      "hash": "sha256-S2HG6HyZW3sP6OocwJQqcR0Ufx/HTMeTAkQOTMZ5iGY="
+    },
+    "type": "primary"
+  }
+}

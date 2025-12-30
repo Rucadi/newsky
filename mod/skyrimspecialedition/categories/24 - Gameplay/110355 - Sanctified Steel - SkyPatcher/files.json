@@ -1,0 +1,34 @@
+{
+  "Sanctified Steel": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0.1",
+      "file_id": 465698,
+      "file_name": "Sanctified Steel-110355-1-0-0-1706455203.zip",
+      "mod_id": 110355,
+      "hash": "sha256-zStg6ia2Tq+7jP5+Stu57Xq+iYAPmMtd3bxOrR80sAk="
+    },
+    "type": "primary"
+  },
+  "Immersive Weapons - Silver Perk Disabler": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0.0",
+      "file_id": 465707,
+      "file_name": "Immersive Weapons - Silver Perk Disabler-110355-1-0-0-1706456094.zip",
+      "mod_id": 110355,
+      "hash": "sha256-lSakDLRir2F5MyeNfoorZueEcbZR65dQJkwTIqb1Ucs="
+    }
+  },
+  "Sanctified Steel - Keyword Tagger Only": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0.1",
+      "file_id": 467376,
+      "file_name": "Sanctified Steel - Keyword Tagger Only-110355-1-0-1-1706971598.zip",
+      "mod_id": 110355,
+      "hash": "sha256-dT7tGffDSBa2gMb/L3Ngf92nU1kvWnEP7dGY+GALx94="
+    },
+    "type": "primary"
+  }
+}

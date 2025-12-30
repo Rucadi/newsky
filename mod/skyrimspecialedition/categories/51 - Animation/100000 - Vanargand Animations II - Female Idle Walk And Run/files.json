@@ -1,0 +1,23 @@
+{
+  "Vanargand Animations II - Female Idle Walk and Run": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1",
+      "file_id": 423560,
+      "file_name": "Vanargand Animations II - Female Idle Walk and Run-100000-1-1-1693937227.7z",
+      "mod_id": 100000,
+      "hash": "sha256-g8DmE9k+yp/GwK2LLRiFGrPg9q35RR9zV1cVv04lwaM="
+    },
+    "type": "primary"
+  },
+  "CATA Addon - Vanargand II Female Idle Walk Run": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1",
+      "file_id": 423561,
+      "file_name": "CATA Addon - Vanargand II Female Idle Walk Run-100000-1-1-1693937298.7z",
+      "mod_id": 100000,
+      "hash": "sha256-4LzO2+Vw3XtzXysX4ZY2UAoZ4nM4aYKl97FHPtM0YE4="
+    }
+  }
+}

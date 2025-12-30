@@ -1,0 +1,35 @@
+{
+  "Falls of Ivarstead": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "2",
+      "file_id": 520445,
+      "file_name": "Falls of Ivarstead-119604-2-1720817516.zip",
+      "mod_id": 119604,
+      "hash": "sha256-bZ/UcHTMMFimIZx33uVnKSvz6qXmEdOLWMgcSo8cjzQ="
+    },
+    "type": "primary"
+  },
+  "Falls of Ivarstead (ESP FE)": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "2",
+      "file_id": 520446,
+      "file_name": "Falls of Ivarstead (ESP FE)-119604-2-1720817613.zip",
+      "mod_id": 119604,
+      "hash": "sha256-R3bdw6aCeSMWsiRdwFGWfCrHoVOXhSqJaFuob71YpdU="
+    },
+    "type": "primary"
+  },
+  "Falls of Ivarstead - seam fixed": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "2",
+      "file_id": 541958,
+      "file_name": "Falls of Ivarstead - seam fixed-119604-2-1726306834.zip",
+      "mod_id": 119604,
+      "hash": "sha256-JGknhBwBYtQdvZxOR5f/VLJpeTZbKfiUpYLRGWEdTd4="
+    },
+    "type": "primary"
+  }
+}

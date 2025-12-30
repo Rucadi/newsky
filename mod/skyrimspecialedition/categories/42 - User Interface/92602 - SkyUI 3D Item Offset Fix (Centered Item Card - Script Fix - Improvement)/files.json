@@ -1,0 +1,24 @@
+{
+  "SkyUI 3D Item Offset Fix - MCM Helper": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1.0",
+      "file_id": 394786,
+      "file_name": "SkyUI 3D Item Offset Fix - MCM Helper-92602-1-1-0-1685838384.zip",
+      "mod_id": 92602,
+      "hash": "sha256-8n3zRQkXw/I349m3J8KL5L6+LK40UzTpJ8IpjPcRnwI="
+    },
+    "type": "primary"
+  },
+  "SkyUI 3D Item Offset Fix - Vanilla": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1.0",
+      "file_id": 394788,
+      "file_name": "SkyUI 3D Item Offset Fix - Vanilla-92602-1-1-0-1685838814.zip",
+      "mod_id": 92602,
+      "hash": "sha256-C0N2GYgXF9Ru6WNtgRd2cEwYhOaVddvG0o9dEgzf9EU="
+    },
+    "type": "primary"
+  }
+}

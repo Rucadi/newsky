@@ -1,0 +1,90 @@
+{
+  "BBA": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 529004,
+      "file_name": "BBA-126198-1-0-1722988077.zip",
+      "mod_id": 126198,
+      "hash": "sha256-EpWQvsKNJGyrUMzgptSM0DLlvW3HowWwQ6Y/Lvw7X6w="
+    },
+    "type": "primary"
+  },
+  "VanWaifuGuard": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 541274,
+      "file_name": "VanWaifuGuard-126198-1-0-1726114415.zip",
+      "mod_id": 126198,
+      "hash": "sha256-2YxlT2yYPzxzFhQMVYw+ByFjf35scjnZgv4pu8j7CBI="
+    },
+    "type": "primary"
+  },
+  "Ciccio Amore": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 543397,
+      "file_name": "Ciccio Amore-126198-1-0-1726622368.zip",
+      "mod_id": 126198,
+      "hash": "sha256-LGkJxK4KHhXE4tJRNkXFiBqIQWE2VN6HwbOQPp6DB3g="
+    },
+    "type": "primary"
+  },
+  "MilfToUs": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 569090,
+      "file_name": "MilfToUs-126198-1-0-1733377429.zip",
+      "mod_id": 126198,
+      "hash": "sha256-pR/Km37UBB0F2XPjOvDn/H5P+CBq6YOQqXjtG+oUKFA="
+    },
+    "type": "primary"
+  },
+  "Starmilf": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 571248,
+      "file_name": "Starmilf-126198-1-0-1733892930.zip",
+      "mod_id": 126198,
+      "hash": "sha256-auO1Ig1QQZTBmlBT5WJvv6+R5jAh0EZelohd5zZiN5Q="
+    },
+    "type": "primary"
+  },
+  "HagLover": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 631837,
+      "file_name": "HagLover-126198-1-0-1748353729.zip",
+      "mod_id": 126198,
+      "hash": "sha256-dGDQlTrYn5n1TwwQ+LrtHYdjRTMrxxkqGtlsVHK7fsI="
+    },
+    "type": "primary"
+  },
+  "LoveSick": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 650226,
+      "file_name": "LoveSick-126198-1-0-1753501746.zip",
+      "mod_id": 126198,
+      "hash": "sha256-sL/d+Mbo1YIjW4zuQ/Q9SxVZ936Ll0uZfFUXQnpqeTc="
+    },
+    "type": "primary"
+  },
+  "CowBred": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 678673,
+      "file_name": "CowBred-126198-1-0-1761023287.zip",
+      "mod_id": 126198,
+      "hash": "sha256-/TKedTaMeryDhswWpTzOv4IwAahmmSmuEsOoQA6PrEs="
+    },
+    "type": "primary"
+  }
+}

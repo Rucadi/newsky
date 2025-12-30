@@ -1,0 +1,33 @@
+{
+  "Vanilla Replacer LITE": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 445733,
+      "file_name": "Vanilla Replacer LITE-105519-1-0-1700873006.rar",
+      "mod_id": 105519,
+      "hash": "sha256-j14jZnjEh5i/yn8bjnfrM6bsDsv1yvH6eLmXBIQACWM="
+    }
+  },
+  "Diverse Dragon Priests": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1",
+      "file_id": 446482,
+      "file_name": "Diverse Dragon Priests-105519-1-1-1701041906.rar",
+      "mod_id": 105519,
+      "hash": "sha256-B1TLHuIgg3wIjxgNblrK3XaFXIK9Bao2xsSiCqJXfZ0="
+    },
+    "type": "primary"
+  },
+  "Vanilla Replacer FULL": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1",
+      "file_id": 446483,
+      "file_name": "Vanilla Replacer FULL-105519-1-1-1701041998.rar",
+      "mod_id": 105519,
+      "hash": "sha256-zO2ECDXiK6ZriXyF1JdqYKCXw+0E8Hav/AUOXZrPizQ="
+    }
+  }
+}

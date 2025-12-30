@@ -1,0 +1,44 @@
+{
+    "moreHUD SE - AE": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "5.2.2.0",
+            "file_id": 336376,
+            "file_name": "moreHUD SE - AE-12688-5-2-2-0-1669904355.7z",
+            "mod_id": 12688,
+            "hash": "sha256-cNbcMULAVUI4htfy3lpbtcey1Z2GmgnD2UlNHr7xfOY="
+        },
+        "type": "primary"
+    },
+    "moreHUD SE Light Master - AE": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "5.2.2.0",
+            "file_id": 336379,
+            "file_name": "moreHUD SE Light Master - AE-12688-5-2-2-0-1669904929.7z",
+            "mod_id": 12688,
+            "hash": "sha256-HYG+UYteno8dDCzVKaTCg7aP2KoN6YTuRVnDe5ukEgo="
+        },
+        "type": "primary"
+    },
+    "moreHUD SE - Pre AE": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "4.1.2.0",
+            "file_id": 336380,
+            "file_name": "moreHUD SE - Pre AE-12688-4-1-2-0-1669905077.7z",
+            "mod_id": 12688,
+            "hash": "sha256-VnQi3BTodyXxqIT67EZQ5bm4xzRSYa8++YdFhrU8EH0="
+        }
+    },
+    "moreHUD SE Light Master- Pre AE": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "4.1.2.0",
+            "file_id": 336381,
+            "file_name": "moreHUD SE Light Master- Pre AE-12688-4-1-2-0-1669905150.7z",
+            "mod_id": 12688,
+            "hash": "sha256-8SB3IseNPSP8vRWUWXOk51qoKJQSfvpAyt+ZVfaFBZ0="
+        }
+    }
+}

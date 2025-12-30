@@ -1,0 +1,23 @@
+{
+  "Open Faced Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.2",
+      "file_id": 590394,
+      "file_name": "Open Faced Patch-136041-1-2-1738540722.rar",
+      "mod_id": 136041,
+      "hash": "sha256-+MuzhjEBNGRmeD/dnm1qa13hSDswL7F06qas3AOEDKE="
+    }
+  },
+  "Thalmor Ceykynd Armors": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.3",
+      "file_id": 667430,
+      "file_name": "Thalmor Ceykynd Armors-136041-1-3-1758319981.rar",
+      "mod_id": 136041,
+      "hash": "sha256-/+QEAtfqlI/FDlrNlkfBCjE7a3Wd1sSsfyjy4ZjTTf4="
+    },
+    "type": "primary"
+  }
+}

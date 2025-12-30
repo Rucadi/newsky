@@ -1,0 +1,44 @@
+{
+  "Particle Lights For ENB SE - Bugs in a Jar": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1a",
+      "file_id": 175866,
+      "file_name": "Particle Lights For ENB SE - Bugs in a Jar-43609-1-0-1608747084.7z",
+      "mod_id": 43609,
+      "hash": "sha256-EdkuO6XoEAxW/gSPTK+f8+C8U10Luu1HWZCAv3vQmW0="
+    },
+    "type": "primary"
+  },
+  "Particle Lights For ENB SE - Bugs in a Jar - Vanilla Values": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1b",
+      "file_id": 175982,
+      "file_name": "Particle Lights For ENB SE - Bugs in a Jar - Vanilla Values-43609-1-0-1608802080.7z",
+      "mod_id": 43609,
+      "hash": "sha256-V5DrDn36ET7TJpyr9b/NY2GeIs0mNGLCraYmwtkcXRk="
+    },
+    "type": "primary"
+  },
+  "Particle Lights For ENB SE - Bugs in a Jar - No Dirt": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1a",
+      "file_id": 175983,
+      "file_name": "Particle Lights For ENB SE - Bugs in a Jar - No Dirt-43609-1-0a-1608802178.7z",
+      "mod_id": 43609,
+      "hash": "sha256-mbp2swgFx5pTBKCZOWmhKx7gD4v8iF4Cx7rAntR0e8o="
+    }
+  },
+  "Particle Lights For ENB SE - Bugs in a Jar - Vanilla Values - No Dirt": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1b",
+      "file_id": 175985,
+      "file_name": "Particle Lights For ENB SE - Bugs in a Jar - Vanilla Values - No Dirt-43609-1-1b-1608802292.7z",
+      "mod_id": 43609,
+      "hash": "sha256-5kJTeTOijKVoHhdNeMVxfi8ACNnTmkDYZ50bTZSLL6g="
+    }
+  }
+}

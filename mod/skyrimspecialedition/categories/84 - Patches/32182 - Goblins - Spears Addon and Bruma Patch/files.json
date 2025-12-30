@@ -1,0 +1,44 @@
+{
+  "Goblins - Spears Addon": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "2.0.0",
+      "file_id": 249820,
+      "file_name": "Goblins - Spears Addon-32182-2-0-0-1639744512.7z",
+      "mod_id": 32182,
+      "hash": "sha256-gcLTul0SwhSYkYJakH1MAyGNrhnt76yLzqsWf/+P25w="
+    },
+    "type": "primary"
+  },
+  "Spears Addon - Animated Armoury Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "2.0.0",
+      "file_id": 249821,
+      "file_name": "Spears Addon - Animated Armoury Patch-32182-2-0-0-1639744725.7z",
+      "mod_id": 32182,
+      "hash": "sha256-+ImWFF0Cy+vtcX5xwfp0RgtDJYz73XID+ZCsqI/f6EY="
+    }
+  },
+  "Goblins - BS Bruma Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "2.2.0",
+      "file_id": 249826,
+      "file_name": "Goblins - BS Bruma Patch-32182-2-2-0-1639748667.7z",
+      "mod_id": 32182,
+      "hash": "sha256-i5JX4IGp6yJ/qdoScpByb9anlol89Te/w46uOw9Uas4="
+    },
+    "type": "primary"
+  },
+  "Matching Goblin Weaponry": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0.0",
+      "file_id": 337358,
+      "file_name": "Matching Goblin Weaponry-32182-1-0-0-1670127986.zip",
+      "mod_id": 32182,
+      "hash": "sha256-RUKEWqtGMP0n4Vydb/EkgcYGFfyI2uTGHp5j0Rn7NB8="
+    }
+  }
+}

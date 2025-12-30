@@ -1,0 +1,46 @@
+{
+  "Kanjs - Spellbreaker Animated SE animation only": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "2",
+      "file_id": 434326,
+      "file_name": "Kanjs - Spellbreaker Animated SE animation only-96621-2-1697399053.zip",
+      "mod_id": 96621,
+      "hash": "sha256-3bPVqcgfnTlm4jSzcXP2UWzw7lumiUOEogCPxX8X4U8="
+    },
+    "type": "primary"
+  },
+  "Kanjs - Spellbreaker Animated SE 8k": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "2",
+      "file_id": 434331,
+      "file_name": "Kanjs - Spellbreaker Animated SE 8k-96621-2-1697399739.zip",
+      "mod_id": 96621,
+      "hash": "sha256-kmyGJqJL533ZVC2SviBNWxMVq32Gj9/7dnor7fKe3rU="
+    },
+    "type": "primary"
+  },
+  "Kanjs - Spellbreaker Animated SE 4k": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "2",
+      "file_id": 434333,
+      "file_name": "Kanjs - Spellbreaker Animated SE 4k-96621-2-1697399766.zip",
+      "mod_id": 96621,
+      "hash": "sha256-iKVPRYVI34YPql1apmpJcx4sxSiLy57s0/FClai95Uk="
+    },
+    "type": "primary"
+  },
+  "Kanjs - Spellbreaker Animated SE 2k": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "2",
+      "file_id": 434334,
+      "file_name": "Kanjs - Spellbreaker Animated SE 2k-96621-2-1697399785.zip",
+      "mod_id": 96621,
+      "hash": "sha256-VBuPjG7KNlqFFT6Gj1H3RtfpNXre3zroOc3HmLYmVns="
+    },
+    "type": "primary"
+  }
+}

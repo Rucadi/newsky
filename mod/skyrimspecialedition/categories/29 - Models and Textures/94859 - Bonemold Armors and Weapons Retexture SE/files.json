@@ -1,0 +1,23 @@
+{
+  "Bonemold Armors and Weapons Retexture SE": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 403122,
+      "file_name": "Bonemold Armors and Weapons Retexture SE-94859-1-0-1688311557.rar",
+      "mod_id": 94859,
+      "hash": "sha256-J9ghcfuumGXBwctC3QfVZqZjLB4BR4UheSJ60zOoTI0="
+    },
+    "type": "primary"
+  },
+  "Bonemold Armors and Weapons Retexture SE- Half Res": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 403123,
+      "file_name": "Bonemold Armors and Weapons Retexture SE- Half Res-94859-1-0-1688311624.rar",
+      "mod_id": 94859,
+      "hash": "sha256-0hE3DPFKujh8BOykm80LlwEKIcIhS5Btq65M+yf3Ci8="
+    }
+  }
+}

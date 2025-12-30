@@ -1,0 +1,35 @@
+{
+    "PapyrusUtil SE - Scripting Utility Functions": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "3.9",
+            "file_id": 122686,
+            "file_name": "PapyrusUtil SE - Scripting Utility Functions-13048-3-9-1580810594.zip",
+            "mod_id": 13048,
+            "hash": "sha256-Xg51uCpy4arFdP2J0fvpnPt9bX+mKbsU5iRtBXyE/sY="
+        },
+        "type": "primary"
+    },
+    "PapyrusUtil AE SE - Scripting Utility Functions": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "4.6",
+            "file_id": 462773,
+            "file_name": "PapyrusUtil AE SE - Scripting Utility Functions-13048-4-6-1705639805.zip",
+            "mod_id": 13048,
+            "hash": "sha256-RBs72vghWsdqV6KSqa0sPiFZfqtAukqjn4EJhJTvHj0="
+        },
+        "type": "primary"
+    },
+    "PapyrusUtil GOG - Scripting Utility Functions": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "4.6",
+            "file_id": 474875,
+            "file_name": "PapyrusUtil GOG - Scripting Utility Functions-13048-4-6-1708985698.zip",
+            "mod_id": 13048,
+            "hash": "sha256-Lh/6nLNeW7SHEBkWOBbIygGn+lWKIRMl7oT24RboHWo="
+        },
+        "type": "primary"
+    }
+}

@@ -1,0 +1,93 @@
+{
+  "Lavatera Armor 2k Complex Material": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 553533,
+      "file_name": "Lavatera Armor 2k Complex Material-131645-1-0-1729328378.7z",
+      "mod_id": 131645,
+      "hash": "sha256-FON9vaqli+wFieAa1PKaIOHVME9MI+cjHEDktaJtyy0="
+    }
+  },
+  "Lavatera Armor 4k Complex Material": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 553534,
+      "file_name": "Lavatera Armor 4k Complex Material-131645-1-0-1729328447.7z",
+      "mod_id": 131645,
+      "hash": "sha256-ucgnkpx9DSFLyF4WRHDgJE8f8ijmfOIjc0mOyHZML08="
+    }
+  },
+  "Lavatera Armor 4k": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 553535,
+      "file_name": "Lavatera Armor 4k-131645-1-0-1729328501.7z",
+      "mod_id": 131645,
+      "hash": "sha256-YdGM4sJtt4OPuenPCP9anYCgrsLTHPus2pvY+dEhaVg="
+    }
+  },
+  "Lavatera Armor 8k Complex Material": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 553537,
+      "file_name": "Lavatera Armor 8k Complex Material-131645-1-0-1729328662.7z",
+      "mod_id": 131645,
+      "hash": "sha256-HuKGOurnpwQ3+78TgCxdN9qGYmXr4XMDow03iZD8ZjI="
+    }
+  },
+  "Lavatera Armor 8k": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 553538,
+      "file_name": "Lavatera Armor 8k-131645-1-0-1729328832.7z",
+      "mod_id": 131645,
+      "hash": "sha256-TCok/WiWN5MdXLWGXD3Gn1gk0JR9eCxitwr6UyJDOmM="
+    }
+  },
+  "Lavatera Armor 2k PBR": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1",
+      "file_id": 605636,
+      "file_name": "Lavatera Armor 2k PBR-131645-1-1-1741985346.7z",
+      "mod_id": 131645,
+      "hash": "sha256-mOkWk9ApdAyXhnfXbJNt5iGTAaHhTUzT+9xKG6Cj04s="
+    }
+  },
+  "Lavatera Armor 4k PBR": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1",
+      "file_id": 605637,
+      "file_name": "Lavatera Armor 4k PBR-131645-1-1-1741985404.7z",
+      "mod_id": 131645,
+      "hash": "sha256-wkzTcbWvZNexC4fZqdqicL1wyZHOWdBa4U0+DYlJg3E="
+    }
+  },
+  "Lavatera Armor 8k PBR": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1",
+      "file_id": 605642,
+      "file_name": "Lavatera Armor 8k PBR-131645-1-1-1741985598.7z",
+      "mod_id": 131645,
+      "hash": "sha256-HhIYykk3Y7cnaLlnk8IpM5ZDRjC52gNT7ow3FWoAuiY="
+    }
+  },
+  "Lavatera Armor": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.2",
+      "file_id": 623166,
+      "file_name": "Lavatera Armor-131645-1-2-1746257470.7z",
+      "mod_id": 131645,
+      "hash": "sha256-Q/NyA5lI3BgPPoG51DMAVastqqsAE/oQlWxMaA7CqR0="
+    },
+    "type": "primary"
+  }
+}

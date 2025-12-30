@@ -1,0 +1,24 @@
+{
+  "Koralina's Aesthetics - Hair Collection": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.5",
+      "file_id": 486164,
+      "file_name": "Koralina's Aesthetics - Hair Collection-114769-1-5-1711917963.7z",
+      "mod_id": 114769,
+      "hash": "sha256-3B6tpamO3RPCsfqPPIbB5/jFamp1XWHknr+KnQ5dWbA="
+    },
+    "type": "primary"
+  },
+  "Koralina's Aesthetics - Wig Collection": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 486165,
+      "file_name": "Koralina's Aesthetics - Wig Collection-114769-1-0-1711918002.7z",
+      "mod_id": 114769,
+      "hash": "sha256-z3pGagiUvgEq+1ezw3Bn5C3/9G2YkrjHcZ6IGVk+OvY="
+    },
+    "type": "primary"
+  }
+}

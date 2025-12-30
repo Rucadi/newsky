@@ -1,0 +1,112 @@
+{
+  "Dragonborn Reskin - Bestiary (Default Vanilla)": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 547105,
+      "file_name": "Dragonborn Reskin - Bestiary (Vanilla)-130289-1-0-1727541254.zip",
+      "mod_id": 130289,
+      "hash": "sha256-hhCInI0UlCOHw7D5sqtfZOXo2uOgr40os0UcG+zOxQ4="
+    },
+    "type": "primary"
+  },
+  "Dragonborn Reskin - Know Your Enemy 2 Lite Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 548956,
+      "file_name": "Bestiary Reskin - Know Your Enemy 2 Lite Patch-130289-1-0-1728050582.zip",
+      "mod_id": 130289,
+      "hash": "sha256-27uwylJ2sAfbiVD0mA86U/2Y3Abp2uTDs8elPT1MOqk="
+    },
+    "type": "primary"
+  },
+  "Dragonborn Reskin - Bestiary (Nordic UI)": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 550266,
+      "file_name": "Dragonborn Reskin - Bestiary (Nordic UI)-130289-1-0-1728410115.zip",
+      "mod_id": 130289,
+      "hash": "sha256-BI2X0n9S9+C7neEjxG2Uo5thBZNJ8XBHzjBF4F8Xxg0="
+    },
+    "type": "primary"
+  },
+  "Dragonborn Reskin - Bestiary (for Edge UI) v2": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 554282,
+      "file_name": "Dragonborn Reskin - Bestiary (for Edge UI v2)-130289-1-0-1729522861.zip",
+      "mod_id": 130289,
+      "hash": "sha256-wrvpftr2BpGmK8J9wBbOOXoEhRdpvSobsD6D+5TjDm4="
+    },
+    "type": "primary"
+  },
+  "Dragonborn Reskin - Bestiary (for Edge UI) v1": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 554416,
+      "file_name": "Dragonborn Reskin - Bestiary (for Edge UI)-130289-1-0-1729553137.zip",
+      "mod_id": 130289,
+      "hash": "sha256-KeZgUWo0bQzdlyibQVnR3migtzIqxJjp7mcKZ69ND3M="
+    },
+    "type": "primary"
+  },
+  "Dragonborn Reskin - Bestiary (Untarnished UI)": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 554545,
+      "file_name": "Dragonborn Reskin - Bestiary (Untarnished UI)-130289-1-0-1729595722.zip",
+      "mod_id": 130289,
+      "hash": "sha256-n6bSZzDJTfyJwqftITbFYZ+RZOuW2awYP9mlsRR0tXY="
+    },
+    "type": "primary"
+  },
+  "Dragonborn Reskin - Bestiary (Default Dragonborn)": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1",
+      "file_id": 647051,
+      "file_name": "Dragonborn Reskin - Bestiary (Default Dragonborn)-130289-1-1-1752497615.zip",
+      "mod_id": 130289,
+      "hash": "sha256-Bftu2wmxyHHz4ijPFsGJS/iG2Mr2u1YuCfooZGhteNI="
+    },
+    "type": "primary"
+  },
+  "Widescreen version 21x9": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1",
+      "file_id": 647053,
+      "file_name": "Widescreen version 21x9-130289-1-1-1752498073.zip",
+      "mod_id": 130289,
+      "hash": "sha256-wtVYjruey5psIPvmkQc9cz+epsDfD3XrB76E/de4BDs="
+    },
+    "type": "primary"
+  },
+  "Dragonborn Reskin - Know Your Enemy 2 Lite Patch 2": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1",
+      "file_id": 647058,
+      "file_name": "Dragonborn Reskin - Know Your Enemy 2 Lite Patch 2-130289-1-1-1752499027.zip",
+      "mod_id": 130289,
+      "hash": "sha256-J2vurAzKq0mE3PTy1XhP5/z8HoPj4497f3SmDaS6roo="
+    },
+    "type": "primary"
+  },
+  "Widescreen version 21x9 plus KYE 2 patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1",
+      "file_id": 647075,
+      "file_name": "Widescreen version 21x9 plus KYE 2 patch-130289-1-1-1752501597.zip",
+      "mod_id": 130289,
+      "hash": "sha256-W3oZJNS3Vh0CKZjSH+p/gUCnoBfE9pNBsJaLt9PEm6I="
+    },
+    "type": "primary"
+  }
+}

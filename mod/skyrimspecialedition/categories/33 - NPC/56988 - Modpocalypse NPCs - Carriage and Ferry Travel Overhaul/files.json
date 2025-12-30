@@ -1,0 +1,35 @@
+{
+  "Modpocalypse NPCs (v1) Carriage and Ferry Travel Overhaul": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 234471,
+      "file_name": "Modpocalypse NPCs (v1) Carriage and Ferry Travel Overhaul-56988-1-0-1634086691.7z",
+      "mod_id": 56988,
+      "hash": "sha256-OhVV7yrk3Tin96zsTvdz7uo45E7e0nWrHyCPZGsjbNo="
+    },
+    "type": "primary"
+  },
+  "Modpocalypse NPCs (v2) Carriage and Ferry Travel Overhaul": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 234472,
+      "file_name": "Modpocalypse NPCs (v2) Carriage and Ferry Travel Overhaul-56988-1-0-1634086714.7z",
+      "mod_id": 56988,
+      "hash": "sha256-Jd9CBE/3Mor4I+9trv/qiKFPan4Y+ZT34MUmD5l1ZrU="
+    },
+    "type": "primary"
+  },
+  "Modpocalypse NPCs (v3) Carriage and Ferry Travel Overhaul": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 234473,
+      "file_name": "Modpocalypse NPCs (v3) Carriage and Ferry Travel Overhaul-56988-1-0-1634086750.7z",
+      "mod_id": 56988,
+      "hash": "sha256-OpKnIHzfhmqINOsdG2FOa36dcKGV9TmfWCv0+cpNBGk="
+    },
+    "type": "primary"
+  }
+}

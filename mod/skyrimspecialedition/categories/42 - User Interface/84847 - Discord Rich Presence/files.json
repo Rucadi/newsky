@@ -1,0 +1,13 @@
+{
+  "Discord Rich Presence": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.2.0",
+      "file_id": 360981,
+      "file_name": "Discord Rich Presence-84847-1-2-0-1676737655.zip",
+      "mod_id": 84847,
+      "hash": "sha256-xBP+l2iDGkqSD5ukEg0JTLQg6zXhQ4Aou1rnHZOgAek="
+    },
+    "type": "primary"
+  }
+}

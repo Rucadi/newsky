@@ -1,0 +1,35 @@
+{
+  "Kanjs - Stalhrim Deposit N_Pickaxe Animated se 4k": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1",
+      "file_id": 608064,
+      "file_name": "Kanjs - Stalhrim Deposit N_Pickaxe Animated se 4k-145377-1-1742576105.zip",
+      "mod_id": 145377,
+      "hash": "sha256-vHJI/5x8pU8wsEVYWVXO8c4WK8EYzsLKqoIrggsoUmQ="
+    },
+    "type": "primary"
+  },
+  "Kanjs - Stalhrim Deposit N_Pickaxe Animated se 2k": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1",
+      "file_id": 608067,
+      "file_name": "Kanjs - Stalhrim Deposit N_Pickaxe Animated se 2k-145377-1-1742576238.zip",
+      "mod_id": 145377,
+      "hash": "sha256-9rGIVxFdTCYx1zx2GO2UzeRix6ozBHjvBGLyI3lpEWM="
+    },
+    "type": "primary"
+  },
+  "Kanjs - Stalhrim Deposit N_Pickaxe Animated se 1k": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1",
+      "file_id": 608068,
+      "file_name": "Kanjs - Stalhrim Deposit N_Pickaxe Animated se 1k-145377-1-1742576285.zip",
+      "mod_id": 145377,
+      "hash": "sha256-9MJiyufzu89djlFONC/uywHa7cogfRr148UIo2KdOY4="
+    },
+    "type": "primary"
+  }
+}

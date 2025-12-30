@@ -1,0 +1,24 @@
+{
+  "Malik Voice Fix (1.0.0)": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "RELZ",
+      "file_id": 286615,
+      "file_name": "Malik Voice Fix (1.0.0)-68650-RELZ-1653559505.7z",
+      "mod_id": 68650,
+      "hash": "sha256-dB5peNeXnEBOOs7SZCEFkRa8kl0OyMsWT4fwC7pgqns="
+    },
+    "type": "primary"
+  },
+  "Anya Appearance Edit (1.0.0)": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "RELZ",
+      "file_id": 286616,
+      "file_name": "Anya Appearance Edit (1.0.0)-68650-RELZ-1653559598.7z",
+      "mod_id": 68650,
+      "hash": "sha256-Nkh8Qx1o+aDRYvsFNbshK3TMhz+WADT+IGvUHXkx7EY="
+    },
+    "type": "primary"
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "Time Date String Fix": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0.0",
+      "file_id": 599671,
+      "file_name": "Time Date String Fix-143035-1-0-0-1740660476.7z",
+      "mod_id": 143035,
+      "hash": "sha256-2zN/YgjpLqMjtr/AgMSs3pPwNBUDLuFMk3b5NqgMqs8="
+    },
+    "type": "primary"
+  },
+  "Menu Path Logger": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0.0",
+      "file_id": 599674,
+      "file_name": "Menu Path Logger-143035-1-0-0-1740660512.7z",
+      "mod_id": 143035,
+      "hash": "sha256-fd1LmaE4y/uli0lIJjI+3kOrLLaFUBxqXH4UCX8QQAs="
+    },
+    "type": "primary"
+  },
+  "Dead Key Fix": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0.0",
+      "file_id": 599676,
+      "file_name": "Dead Key Fix-143035-1-0-0-1740660531.7z",
+      "mod_id": 143035,
+      "hash": "sha256-YMMYZU9YDj7+pgxlSSU8huyc4nDx666xoQeY4Jx23W4="
+    },
+    "type": "primary"
+  },
+  "Automatic Patcher": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0.1",
+      "file_id": 681864,
+      "file_name": "Automatic Patcher-143035-1-0-1-1761819117.7z",
+      "mod_id": 143035,
+      "hash": "sha256-MZmBh8NAhX+sH1Bu705W9q+1H4ADHX+XfPCyDaa5JlI="
+    },
+    "type": "primary"
+  }
+}

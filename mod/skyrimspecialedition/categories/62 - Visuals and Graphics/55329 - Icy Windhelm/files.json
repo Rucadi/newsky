@@ -1,0 +1,53 @@
+{
+    "Icy Windhelm - Better Dynamic Snow 2.11 patch": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "1.0",
+            "file_id": 330700,
+            "file_name": "Icy Windhelm - Better Dynamic Snow 2.11 patch-55329-1-0-1668127491.7z",
+            "mod_id": 55329,
+            "hash": "sha256-cHK8QBtTwCkeSmVWww4rDPZCTAYONadHzYkO98VBTqM="
+        }
+    },
+    "Icy Windhelm -  Windhelm Entrance Overhaul patch": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "1.0",
+            "file_id": 331225,
+            "file_name": "Icy Windhelm -  Windhelm Entrance Overhaul patch-55329-1-0-1668286791.7z",
+            "mod_id": 55329,
+            "hash": "sha256-CmYj08ZvII0XsPMxIXBjX3wo6441dYdopj8wQhwIsr8="
+        }
+    },
+    "Icy Windhelm - JK Skyrim patch": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "1.1",
+            "file_id": 363552,
+            "file_name": "Icy Windhelm - JK Skyrim patch-55329-1-1-1677419697.7z",
+            "mod_id": 55329,
+            "hash": "sha256-u8FqkQ+28pXssGFAUvGhSlXCXgJ/KyKuZ0yRLRkPO/o="
+        }
+    },
+    "Icy Windhelm": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "2.4",
+            "file_id": 437391,
+            "file_name": "Icy Windhelm-55329-2-4-1698381828.7z",
+            "mod_id": 55329,
+            "hash": "sha256-4uUUteBTTxaJxzVbhHbJuWensfeDDCbn1VBbd4kLot0="
+        },
+        "type": "primary"
+    },
+    "Icy Windhelm - Capital Windhelm Expansion patch": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "1.6",
+            "file_id": 456408,
+            "file_name": "Icy Windhelm - Capital Windhelm Expansion patch-55329-1-6-1703949336.7z",
+            "mod_id": 55329,
+            "hash": "sha256-uZyGWp20oEmqgg+6luhbcyC4NmZjCgc/8BR2jaGl0Ig="
+        }
+    }
+}

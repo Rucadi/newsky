@@ -1,0 +1,23 @@
+{
+  "Lost Paladin Boss Fight": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 578752,
+      "file_name": "Lost Paladin Boss Fight-137945-1-0-1735839916.rar",
+      "mod_id": 137945,
+      "hash": "sha256-lsRzzM7eTlTeGgYSPWsasz2mpzkje4oj06PD+kLDGNg="
+    },
+    "type": "primary"
+  },
+  "Dragonborn Crusader Armor - Simdrew1993 SPID": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 578753,
+      "file_name": "Dragonborn Crusader Armor - Simdrew1993 SPID-137945-1-0-1735840035.rar",
+      "mod_id": 137945,
+      "hash": "sha256-WHMc43t5PPI6h4DUh0HTQFzvprVFc15JOJKPEHH9h1A="
+    }
+  }
+}

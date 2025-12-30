@@ -1,0 +1,23 @@
+{
+  "Vanilla HUD - 60 FPS": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 608049,
+      "file_name": "Vanilla HUD - 60 FPS-145046-1-0-1742573315.zip",
+      "mod_id": 145046,
+      "hash": "sha256-FYfLJNkIRD3XLDVGCYwTS/I1dA1jXUD8uguv+F4bY0s="
+    }
+  },
+  "Sneak Vignette": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1.1",
+      "file_id": 689083,
+      "file_name": "Sneak Vignette-145046-1-1-1-1763561130.zip",
+      "mod_id": 145046,
+      "hash": "sha256-XgYrUYWn3O1Q79zewn2e9l/830iO439N9dmnyt4Chuc="
+    },
+    "type": "primary"
+  }
+}

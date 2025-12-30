@@ -1,0 +1,23 @@
+{
+  "generic priests diversity": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1",
+      "file_id": 698731,
+      "file_name": "generic priests diversity-126170-1-1765918062.rar",
+      "mod_id": 126170,
+      "hash": "sha256-KyH1Sf50e1MO3KTIXl5jsNhN6s54K1cYXWV/2/CU8bo="
+    },
+    "type": "primary"
+  },
+  "DP diversity - Dragon Priest Curalmil patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1",
+      "file_id": 528864,
+      "file_name": "DP diversity - Dragon Priest Curalmil patch-126170-1-1722953464.rar",
+      "mod_id": 126170,
+      "hash": "sha256-CdjMe7456L+s45LS75NPBoMpJtnCJZ+0tbeR5AIPLsQ="
+    }
+  }
+}

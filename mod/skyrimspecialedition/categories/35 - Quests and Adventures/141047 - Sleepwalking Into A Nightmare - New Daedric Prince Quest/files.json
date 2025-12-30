@@ -1,0 +1,24 @@
+{
+    "Sleepwalking Into A Nightmare": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "1.0.9",
+            "file_id": 593557,
+            "file_name": "Sleepwalking Into A Nightmare-141047-1-0-9-1739317985.7z",
+            "mod_id": 141047,
+            "hash": "sha256-LhQ98ftjIv50iC6/QW7GayM1QEZ6L95Y6ZbRYCJ6kh8="
+        },
+        "type": "primary"
+    },
+    "Sleepwalking Into A Nightmare - ESM": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "1.0.9",
+            "file_id": 593558,
+            "file_name": "Sleepwalking Into A Nightmare - ESM-141047-1-0-9-1739318597.7z",
+            "mod_id": 141047,
+            "hash": "sha256-Py/i3/VZyWQZwxBpEJ1m9LaK2NX+TG4RYdcwiAaQbRM="
+        },
+        "type": "primary"
+    }
+}

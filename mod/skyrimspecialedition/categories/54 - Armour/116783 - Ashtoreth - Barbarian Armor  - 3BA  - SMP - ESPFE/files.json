@@ -1,0 +1,23 @@
+{
+  "Ashtoreth - Barbarian Armor - 3BA": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 490901,
+      "file_name": "Ashtoreth - Barbarian Armor - 3BA-116783-1-0-1713151106.zip",
+      "mod_id": 116783,
+      "hash": "sha256-4GN4LNVU12fsfWJnlsAM4xJ1Sa3gIrRsFPZyxjZa5rc="
+    },
+    "type": "primary"
+  },
+  "Textures Only - Fix for Vortex BSA Issue": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 491157,
+      "file_name": "Textures Only - Fix for Vortex BSA Issue-116783-1-0-1713205312.zip",
+      "mod_id": 116783,
+      "hash": "sha256-QzNUj3NpFpkM5z0y5nhjPjbUCMgg7ECBccsZslhcUnU="
+    }
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "HFs - BS Bruma Food - 4K": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1",
+      "file_id": 537905,
+      "file_name": "HFs - BS Bruma Food - 4K-128230-1-1725270717.zip",
+      "mod_id": 128230,
+      "hash": "sha256-A/DCBPGz+9blZ1BOEwSPZpEK7J0bhNI6MDqsgRvGuT0="
+    },
+    "type": "primary"
+  },
+  "HFs - BS Bruma Food - 2K": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1",
+      "file_id": 537906,
+      "file_name": "HFs - BS Bruma Food - 2K-128230-1-1725270741.zip",
+      "mod_id": 128230,
+      "hash": "sha256-xwtIpMMG45Vv0dkzY3EHK6lyJsJAq9KdHRep+OxvcKg="
+    },
+    "type": "primary"
+  },
+  "HFs - BS Bruma Food - 1K": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1",
+      "file_id": 543097,
+      "file_name": "HFs - BS Bruma Food - 1K-128230-1-1726552088.zip",
+      "mod_id": 128230,
+      "hash": "sha256-xpK9WjD7QHq+DLVwHfbe5xRK4ah1asvIWpOCkYSCCCo="
+    },
+    "type": "primary"
+  }
+}

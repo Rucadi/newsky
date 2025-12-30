@@ -1,0 +1,66 @@
+{
+  "FB - Witch Slayer 2k 3BA": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 452075,
+      "file_name": "FB - Witch Slayer 2k 3BA-106921-1-0-1702652516.zip",
+      "mod_id": 106921,
+      "hash": "sha256-PzmXCi3En1JJi1XvMR9j8pxFyr47W11QROz+yEVJJ/I="
+    },
+    "type": "primary"
+  },
+  "FB - Witch Slayer 2k BHUNP": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 452077,
+      "file_name": "FB - Witch Slayer 2k BHUNP-106921-1-0-1702652622.zip",
+      "mod_id": 106921,
+      "hash": "sha256-RfI1qRJlLzlLFSpDAK5SqtSw/v+5Q9cFm0Tt3OGRNUw="
+    },
+    "type": "primary"
+  },
+  "FB - Witch Slayer 4k 3BA": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 452079,
+      "file_name": "FB - Witch Slayer 4k 3BA-106921-1-0-1702652686.zip",
+      "mod_id": 106921,
+      "hash": "sha256-MbQSQ8588BIOydhxk1OErQg+pAVx8Kw63rcMI6TEj5g="
+    },
+    "type": "primary"
+  },
+  "FB - Witch Slayer 4k BHUNP": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 452080,
+      "file_name": "FB - Witch Slayer 4k BHUNP-106921-1-0-1702652753.zip",
+      "mod_id": 106921,
+      "hash": "sha256-z9QYXFfZ+ok4/zrqSh7fndmUpZ3A3ztAUTcsaElLvWM="
+    },
+    "type": "primary"
+  },
+  "FB - Witchbane Sword 2k": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 452081,
+      "file_name": "FB - Witchbane Sword 2k-106921-1-0-1702652859.zip",
+      "mod_id": 106921,
+      "hash": "sha256-zk2c9n8Fuly6tKccyr1txyYrxpyUVe20BK9J8cOk0yY="
+    }
+  },
+  "FB - Witchbane Sword 4k": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 452082,
+      "file_name": "FB - Witchbane Sword 4k-106921-1-0-1702653007.zip",
+      "mod_id": 106921,
+      "hash": "sha256-PMf3IHIrirxLchMtli/1sAVYOj9aivlrbOSYLxc1HdI="
+    }
+  }
+}

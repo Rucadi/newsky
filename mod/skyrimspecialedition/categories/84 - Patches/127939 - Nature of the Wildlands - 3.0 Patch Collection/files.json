@@ -1,0 +1,585 @@
+{
+    "Nature of the Wildlands - Fortified Morthal": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "1.0",
+            "file_id": 536490,
+            "file_name": "Nature of the Wildlands - Fortified Morthal-127939-1-0-1724951678.rar",
+            "mod_id": 127939,
+            "hash": "sha256-+054og7RCdO1VkrocHlxOWl3Ea7o2KEY4C/gNhh75Aw="
+        },
+        "type": "primary"
+    },
+    "Nature of the Wildlands - Bears Cave Mill": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "1.0",
+            "file_id": 536497,
+            "file_name": "Nature of the Wildlands - Bears Cave Mill-127939-1-0-1724953203.rar",
+            "mod_id": 127939,
+            "hash": "sha256-G0d5ALPXWd/3H06JQftrq/D7kr8evOZ6082EYmcA9kI="
+        },
+        "type": "primary"
+    },
+    "Parallax TXST Fixes - NoTWL": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "1.0",
+            "file_id": 536499,
+            "file_name": "Parallax TXST Fixes - NoTWL-127939-1-0-1724953462.rar",
+            "mod_id": 127939,
+            "hash": "sha256-XdL54rDXqNpphDOFhr4WUmDZKQRzd7iEKtlr//QeM5A="
+        },
+        "type": "primary"
+    },
+    "Nature of the Wildlands - JK's Whiterun Outskirts": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "1.0",
+            "file_id": 536505,
+            "file_name": "Nature of the Wildlands - JK's Whiterun Outskirts-127939-1-0-1724954893.rar",
+            "mod_id": 127939,
+            "hash": "sha256-Pet2kpivHOxQO9tprt+53OKWmstgHYyYcUkNgOm9NVc="
+        },
+        "type": "primary"
+    },
+    "Nature of the Wildlands - ETaC Darkwater": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "1.0",
+            "file_id": 536514,
+            "file_name": "Nature of the Wildlands - ETaC Darkwater-127939-1-0-1724957644.rar",
+            "mod_id": 127939,
+            "hash": "sha256-eRngop6QZBTU2UZnX4/8/a8HvJYVANvGI8PAH287ZXo="
+        },
+        "type": "primary"
+    },
+    "Nature of the Wildlands - Granite Hill": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "1.0",
+            "file_id": 536527,
+            "file_name": "Nature of the Wildlands - Granite Hill-127939-1-0-1724959061.rar",
+            "mod_id": 127939,
+            "hash": "sha256-MvWbEU/JxdEtRtZQqClZZwKAS20f1AclNYB3J5Xbs9U="
+        },
+        "type": "primary"
+    },
+    "Nature of the Wildlands - Redbag's Falkreath": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "1.0",
+            "file_id": 536558,
+            "file_name": "Nature of the Wildlands - Redbag's Falkreath-127939-1-0-1724962216.rar",
+            "mod_id": 127939,
+            "hash": "sha256-dHHV03azKnITa1HTLpaxTrAX3CrayGItFQXUK6Enwe8="
+        },
+        "type": "primary"
+    },
+    "Nature of the Wildlands - Vandfald Cottage": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "1.0",
+            "file_id": 536563,
+            "file_name": "Nature of the Wildlands - Vandfald Cottage-127939-1-0-1724963922.rar",
+            "mod_id": 127939,
+            "hash": "sha256-l6+QyConrHyH7lXBrhxC4r4qFXbkR9fFfaaF9zb8Sgg="
+        },
+        "type": "primary"
+    },
+    "Nature of the Wildlands - Ryn's Dragon Mounds AIO": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "1.0",
+            "file_id": 536584,
+            "file_name": "Nature of the Wildlands - Ryn's Dragon Mounds AIO-127939-1-0-1724968269.rar",
+            "mod_id": 127939,
+            "hash": "sha256-CSFpg4DE3StRK/soyFtPBeJ3afZUpK9sRj7G7cOhKhc="
+        },
+        "type": "primary"
+    },
+    "Nature of the Wildlands - Ryn's White River Watch": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "1.0",
+            "file_id": 536586,
+            "file_name": "Nature of the Wildlands - Ryn's White River Watch-127939-1-0-1724968893.rar",
+            "mod_id": 127939,
+            "hash": "sha256-wOdrrIs64ji03VLU8jIOlT6/4H24+g1RDP83iNuHm8g="
+        },
+        "type": "primary"
+    },
+    "Nature of the Wildlands - Ryn's Ustengrav": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "1.0",
+            "file_id": 536589,
+            "file_name": "Nature of the Wildlands - Ryn's Ustengrav-127939-1-0-1724970032.rar",
+            "mod_id": 127939,
+            "hash": "sha256-hGQ7bxBIbRI+6g/AYmFHAgjxS2ZPBxXwH0t58DTvPLA="
+        },
+        "type": "primary"
+    },
+    "Nature of the Wildlands - COTN Morthal": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "1.0",
+            "file_id": 536602,
+            "file_name": "Nature of the Wildlands - COTN Morthal-127939-1-0-1724974795.rar",
+            "mod_id": 127939,
+            "hash": "sha256-TQ7WA15PI2HfHSvydujIveaKjpQoeNmQ/ILPjY65BZQ="
+        },
+        "type": "primary"
+    },
+    "Nature of the Wildlands - COTN Falkreath": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "1.0",
+            "file_id": 536612,
+            "file_name": "Nature of the Wildlands - COTN Falkreath-127939-1-0-1724976590.rar",
+            "mod_id": 127939,
+            "hash": "sha256-bBf2TSSI637KwwFWTYiAcGp79N0rRfQXM0JAxUMBmMs="
+        },
+        "type": "primary"
+    },
+    "Nature of the Wildlands - Aurora Village": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "1.0",
+            "file_id": 536818,
+            "file_name": "Nature of the Wildlands - Aurora Village-127939-1-0-1725027805.rar",
+            "mod_id": 127939,
+            "hash": "sha256-Rw8KF8/GiwiAcZhOuqz1wxWnyNIcQRMIWJmziInQZNo="
+        },
+        "type": "primary"
+    },
+    "Nature of the Wildlands - Schlitzohr's Oakwood": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "1.01OW",
+            "file_id": 536845,
+            "file_name": "Nature of the Wildlands - Oakwood-127939-1-01OW-1725035023.rar",
+            "mod_id": 127939,
+            "hash": "sha256-9ekNlgNoF1jju8pixnx8jukoBXX9zdCh/V0bes3sGeI="
+        },
+        "type": "primary"
+    },
+    "Nature of the Wildlands - Ryn's Bleakwind Basin": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "1.01BW",
+            "file_id": 536847,
+            "file_name": "Nature of the Wildlands - Ryn's Bleakwind Basin-127939-1-01BW-1725035228.rar",
+            "mod_id": 127939,
+            "hash": "sha256-+ar49uo1Ffj8iGvBT2L5zaRGD4RYMLvQpc5nLLaMZqI="
+        },
+        "type": "primary"
+    },
+    "Nature of the Wildlands - Fortified ETaC Morthal": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "1.01EFM",
+            "file_id": 536980,
+            "file_name": "Nature of the Wildlands - Fortified ETaC Morthal-127939-1-01EFM-1725061264.rar",
+            "mod_id": 127939,
+            "hash": "sha256-wDk08IwNoctdG4RDOir6JTNfydB4qouDEd3bGFCvvEo="
+        },
+        "type": "primary"
+    },
+    "Nature of the Wildlands - Milandriel": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "1.0",
+            "file_id": 537179,
+            "file_name": "Nature of the Wildlands - Milandriel-127939-1-0-1725112574.rar",
+            "mod_id": 127939,
+            "hash": "sha256-hWFdyqJFndkzzdCppWb40BfbamSGyADbPIJbFdu9iCg="
+        },
+        "type": "primary"
+    },
+    "Nature of the Wildlands - Unique Border Gates Fix": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "1.0",
+            "file_id": 537263,
+            "file_name": "Nature of the Wildlands - Unique Border Gates Fix-127939-1-0-1725125152.rar",
+            "mod_id": 127939,
+            "hash": "sha256-RjNkivJmYj3dSSKcYTIi7i/oNBI6APwW/ZDiqldTdNg="
+        },
+        "type": "primary"
+    },
+    "Nature of the Wildlands - Cracked Tusk Keep": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "1.0",
+            "file_id": 537375,
+            "file_name": "Nature of the Wildlands - Cracked Tusk Keep-127939-1-0-1725146483.rar",
+            "mod_id": 127939,
+            "hash": "sha256-k5yVdUZgPlsrf6ucadmyRUq17Bal0lZ7sxFwZMjTWmc="
+        },
+        "type": "primary"
+    },
+    "Nature of the Wildlands - ETaC Riverwood": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "1.0",
+            "file_id": 537384,
+            "file_name": "- Expanded Towns and Cities - Riverwood-127939-1-0-1725148367.rar",
+            "mod_id": 127939,
+            "hash": "sha256-pgIYhwbGYnDbLE83XiYO2gaWBj0rfD5HmuCp9XQ8qVo="
+        },
+        "type": "primary"
+    },
+    "Nature of the Wildlands - Snazzy Windhelm Shatter": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "1.0",
+            "file_id": 537585,
+            "file_name": "Nature of the Wildlands - Snazzy Windhelm Shatter-127939-1-0-1725197559.rar",
+            "mod_id": 127939,
+            "hash": "sha256-K93KwDfRByTvp1jt6t15Kqs5+U1WZkZoAwam9HueHWo="
+        },
+        "type": "primary"
+    },
+    "Nature of the Wildlands - Ryn's Anise Cabin": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "1.0",
+            "file_id": 537601,
+            "file_name": "Nature of the Wildlands - Ryn's Anise Cabin-127939-1-0-1725199180.rar",
+            "mod_id": 127939,
+            "hash": "sha256-ywxDCi/JN5mDzQC4NQHzXjVcOffUyAM3zv81WXMekGs="
+        },
+        "type": "primary"
+    },
+    "Nature of the Wildlands - Ryn's Lunds Hut": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "1.0",
+            "file_id": 537604,
+            "file_name": "Nature of the Wildlands - Ryn's Lunds Hut-127939-1-0-1725200035.rar",
+            "mod_id": 127939,
+            "hash": "sha256-fpp5BKW7tHHoq4HzKuJi6CcmHJBctmyHfx9TUkIGW6I="
+        },
+        "type": "primary"
+    },
+    "Nature of the Wildlands - Ryn's Standing Stones": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "1.0",
+            "file_id": 537633,
+            "file_name": "Nature of the Wildlands - Ryn's Standing Stones-127939-1-0-1725203672.rar",
+            "mod_id": 127939,
+            "hash": "sha256-hKtlgRj1d8AvwQWWKuF4Dbp/k/XAVZ0uuovcMRF95HU="
+        },
+        "type": "primary"
+    },
+    "Nature of the Wildlands - Cathedral Tundra Shrub": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "1.0",
+            "file_id": 537803,
+            "file_name": "Nature of the Wildlands - Cathedral Tundra Shrub-127939-1-0-1725240800.rar",
+            "mod_id": 127939,
+            "hash": "sha256-WTVdh1LoGBNgFK1pixRfdg+nHaVRE9FD4oEuAwZ/jwM="
+        },
+        "type": "primary"
+    },
+    "Nature of the Wildlands - Revert Gildergreen": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "1.0",
+            "file_id": 537918,
+            "file_name": "Nature of the Wildlands - Revert Gildergreen-127939-1-0-1725279223.rar",
+            "mod_id": 127939,
+            "hash": "sha256-zV+QLOmAsYZyt74kzFZz01OiUCU6/G/U8xQzcXRD9J8="
+        },
+        "type": "primary"
+    },
+    "Nature of the Wildlands - Hunters Cabin": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "1.0",
+            "file_id": 538310,
+            "file_name": "Nature of the Wildlands - Hunters Cabin-127939-1-0-1725376151.rar",
+            "mod_id": 127939,
+            "hash": "sha256-dWvdYTJNVTrHcCv/nKsH1/zXUknYpzK6/2BFJ+FWe1o="
+        },
+        "type": "primary"
+    },
+    "Nature of the Wildlands - Mirele Bismath Reborn": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "1.0",
+            "file_id": 538902,
+            "file_name": "Nature of the Wildlands - Mirele Bismath Reborn-127939-1-0-1725535400.rar",
+            "mod_id": 127939,
+            "hash": "sha256-8D+ggHfS63zPjGkAsRMMqoA95BBg2rIoQfXaFOsVC5U="
+        },
+        "type": "primary"
+    },
+    "Nature of the Wildlands - Cracked Tusk Keep Lite": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "1.0",
+            "file_id": 538903,
+            "file_name": "Nature of the Wildlands - Cracked Tusk Keep Lite-127939-1-0-1725535977.rar",
+            "mod_id": 127939,
+            "hash": "sha256-HdlSrO6O6jDcIejzDUb+Rt3OfzoxcOn9r9fgZNjfIT8="
+        },
+        "type": "primary"
+    },
+    "Nature of the Wildlands - Hot Springs Camp": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "1.0",
+            "file_id": 538919,
+            "file_name": "Nature of the Wildlands - Hot Springs Camp-127939-1-0-1725542029.rar",
+            "mod_id": 127939,
+            "hash": "sha256-j2QpviDI1J3cJ8CvKtIQBSKbeb4eE6vUxj3c5nxI+fo="
+        },
+        "type": "primary"
+    },
+    "Nature of the Wildlands - LC Build Your Noble": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "1.0",
+            "file_id": 539146,
+            "file_name": "Nature of the Wildlands - LC Build Your Noble-127939-1-0-1725572723.rar",
+            "mod_id": 127939,
+            "hash": "sha256-282IeyMQQ45LsTd7ZBwxu/m2+Vd1PQKpJgihd5S0BEo="
+        },
+        "type": "primary"
+    },
+    "Nature of the Wildlands - Ivy Windmill Patch": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "1.0",
+            "file_id": 539422,
+            "file_name": "Nature of the Wildlands - Ivy Windmill Patch-127939-1-0-1725656140.rar",
+            "mod_id": 127939,
+            "hash": "sha256-n7gWqYQ7l2M7TPFKCQ8iVcgiQ9m7Y0aZmiND1EOHNzw="
+        },
+        "type": "primary"
+    },
+    "Nature of the Wildlands - Lakeview Avant Gardens": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "1.0",
+            "file_id": 540358,
+            "file_name": "Nature of the Wildlands - Lakeview Avant Gardens-127939-1-0-1725874507.rar",
+            "mod_id": 127939,
+            "hash": "sha256-AsD4WA/otTWKF++lhS5TKx8IX5tUVT30K/XghbxVeC4="
+        },
+        "type": "primary"
+    },
+    "Nature of the Wildlands - JK's College Winterhold": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "1.01JKC",
+            "file_id": 540373,
+            "file_name": "Nature of the Wildlands - JK's College Winterhold-127939-1-01JKC-1725880613.rar",
+            "mod_id": 127939,
+            "hash": "sha256-U5I/kdZBSijqLwEZjUlfCC7j4AF4lJexQO78j62/st4="
+        },
+        "type": "primary"
+    },
+    "Nature of the Wildlands - Song of the Green": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "1.01SO",
+            "file_id": 562880,
+            "file_name": "Nature of the Wildlands - Song of the Green-127939-1-01SO-1731758242.rar",
+            "mod_id": 127939,
+            "hash": "sha256-GZ5o/7ECQknDoPjKYKMyUeRIEb9n0qeoEee2+19GxGk="
+        },
+        "type": "primary"
+    },
+    "Nature of the Wildands - Unique Riverwood": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "1.02UR",
+            "file_id": 601673,
+            "file_name": "Nature of the Wildands - Unique Riverwood-127939-1-02UR-1741087916.rar",
+            "mod_id": 127939,
+            "hash": "sha256-HG1w5Jq5lFt2DXdjdY8kcEA/zkWrYIrWcC+n2qJVVp8="
+        },
+        "type": "primary"
+    },
+    "Nature of the Wildlands - Pilgrim": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "1.0",
+            "file_id": 606767,
+            "file_name": "Nature of the Wildlands - Pilgrim-127939-1-0-1742238014.rar",
+            "mod_id": 127939,
+            "hash": "sha256-+5wgGC7qk151dVAEp0h8yy18s24bUHzHJY3IWPNRDiI="
+        },
+        "type": "primary"
+    },
+    "Nature of the Wildlands - JK's Winking Skeever": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "1.0",
+            "file_id": 607006,
+            "file_name": "Nature of the Wildlands - JK's Winking Skeever-127939-1-0-1742290708.rar",
+            "mod_id": 127939,
+            "hash": "sha256-gXXVfLtcqE5i3CFqh2Eq9I0AslcNhUssU8DDY5hQyuY="
+        },
+        "type": "primary"
+    },
+    "Nature of the Wildlands - Windhelm Edits": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "1.0",
+            "file_id": 608273,
+            "file_name": "Nature of the Wildlands - Windhelm Edits-127939-1-0-1742615892.rar",
+            "mod_id": 127939,
+            "hash": "sha256-bv9z99nkS3EZETMtpVKUCWgzOdqtXyG1DN7ACef+5/o="
+        },
+        "type": "primary"
+    },
+    "Nature of the Wildlands - ClefJ ETaC": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "1.0",
+            "file_id": 608785,
+            "file_name": "Nature of the Wildlands - ClefJ ETaC-127939-1-0-1742727443.rar",
+            "mod_id": 127939,
+            "hash": "sha256-YqNy6yXSAobNW5vh71jLef8cJM04Wqdr8SxVt3Zx/8Q="
+        },
+        "type": "primary"
+    },
+    "Nature of the Wildlands - Stormcrown": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "1.0",
+            "file_id": 608792,
+            "file_name": "Nature of the Wildlands - Stormcrown-127939-1-0-1742728756.rar",
+            "mod_id": 127939,
+            "hash": "sha256-k/j1zaLe/DijaNEw4nQBtLYf9KPXIvxqNgZz+3nG690="
+        },
+        "type": "primary"
+    },
+    "Nature of the Wildlands - Ryn's Whiterun Limits": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "1.0",
+            "file_id": 608839,
+            "file_name": "Nature of the Wildlands - Ryn's Whiterun Limits-127939-1-0-1742744520.rar",
+            "mod_id": 127939,
+            "hash": "sha256-KmVAYsBBwSNrBSF2NAYfejLyX4X5Dg9ALA1gMv5kd5Y="
+        },
+        "type": "primary"
+    },
+    "Nature of the Wildlands - Helgen Cabin": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "1.0",
+            "file_id": 609226,
+            "file_name": "Nature of the Wildlands - Helgen Cabin-127939-1-0-1742822117.rar",
+            "mod_id": 127939,
+            "hash": "sha256-ULaliP5jbR7VvMJ7WAJU2kyX7Hhr2AT+j/Vkw/hmQRE="
+        },
+        "type": "primary"
+    },
+    "Nature of the Wildlands - Sunderstone Snozz": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "1.0",
+            "file_id": 610040,
+            "file_name": "Nature of the Wildlands - Sunderstone-127939-1-0-1742998564.rar",
+            "mod_id": 127939,
+            "hash": "sha256-QwJKIssQQFxzsISzors/4mS5hUcUxepizwJ/2WwkX60="
+        },
+        "type": "primary"
+    },
+    "Nature of the Wildlands - Bannermist Snozz": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "1.0",
+            "file_id": 610308,
+            "file_name": "Nature of the Wildlands - Bannermist Snozz-127939-1-0-1743056839.rar",
+            "mod_id": 127939,
+            "hash": "sha256-ZYJlDeW4mWV6fLcGlr17dWGFD5ZpPlMNEnwCFEtx2cI="
+        },
+        "type": "primary"
+    },
+    "Nature of the Wildlands - Watchmans Valtheim": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "1.0",
+            "file_id": 611768,
+            "file_name": "Nature of the Wildlands - Watchmans Valtheim-127939-1-0-1743351795.rar",
+            "mod_id": 127939,
+            "hash": "sha256-fLim3QsDu5I94P8kqYa+9aUKr4CneL5UiIS2ddhEXs4="
+        },
+        "type": "primary"
+    },
+    "Nature of the Wildlands - Arthmoors Oakwood": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "1.01AO",
+            "file_id": 617131,
+            "file_name": "Nature of the Wildlands - Arthmoors Oakwood-127939-1-01AO-1744617437.rar",
+            "mod_id": 127939,
+            "hash": "sha256-ezaHYcl9jkc7lLD4nvR/1LchJEz2pBEEKvN7ven04pE="
+        },
+        "type": "primary"
+    },
+    "Nature of the Wildlands - Ryn's Lost Valley": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "1.0",
+            "file_id": 617908,
+            "file_name": "Nature of the Wildlands - Ryn's Lost Valley-127939-1-0-1744820751.rar",
+            "mod_id": 127939,
+            "hash": "sha256-3dy2e2aB2XSxNGT5Et6O57m8ZQ8zyS2wDlFxnMpMvfs="
+        },
+        "type": "primary"
+    },
+    "Nature of the Wildlands - Dushnikh Yal Strongholds": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "1.0",
+            "file_id": 619321,
+            "file_name": "Nature of the Wildlands - Dushnikh Yal Strongholds-127939-1-0-1745138068.rar",
+            "mod_id": 127939,
+            "hash": "sha256-HzOnUb4kCOV7MGuPiViRkPZeYmbw0oNU6hrY8ePCoT0="
+        },
+        "type": "primary"
+    },
+    "Nature of the Wildlands - Orange Aspens": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "1.0",
+            "file_id": 624219,
+            "file_name": "Nature of the Wildlands - Orange Aspens-127939-1-0-1746516429.rar",
+            "mod_id": 127939,
+            "hash": "sha256-rjrI9E97vpcu2ej+JtAuQvmp0oecvs2OWbSjVmasCU0="
+        },
+        "type": "primary"
+    },
+    "Nature of the Wildlands - COTN Dawnstar - ETaC C": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "1.0",
+            "file_id": 643738,
+            "file_name": "Nature of the Wildlands - COTN Dawnstar - ETaC C-127939-1-0-1751535270.rar",
+            "mod_id": 127939,
+            "hash": "sha256-uVYQLrGGuZux7vqxx/dt9P/0o3vU+w9WAdlTGkQpOhs="
+        },
+        "type": "primary"
+    },
+    "Nature of the Wildlands - Half Moon Creek": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "1.04HM",
+            "file_id": 683271,
+            "file_name": "Nature of the Wildlands - Half Moon Creek-127939-1-04HM-1762164509.rar",
+            "mod_id": 127939,
+            "hash": "sha256-hncDklS7H0nXC0pJfD/Xre1pogSg2Oyxo+PoGHBqGNA="
+        },
+        "type": "primary"
+    }
+}

@@ -1,0 +1,33 @@
+{
+  "Obi's Hood and Steel Armor Main File CBBE": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 572539,
+      "file_name": "Obi's Hood and Steel Armor Main File CBBE 3BA-136388-1-0-1734245549.zip",
+      "mod_id": 136388,
+      "hash": "sha256-hy51EEx0q6iaqQpT3csZEAVJ60Gp8juzIi1MXmE1OKA="
+    },
+    "type": "primary"
+  },
+  "Obi's Hood and Steel Armor 4K - UBE patch Pieselka": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1",
+      "file_id": 572731,
+      "file_name": "Obi's Hood and Steel Armor 4K - UBE patch Pieselka-136388-1-1-1734287985.zip",
+      "mod_id": 136388,
+      "hash": "sha256-HmMAERbld9btpBDwvmdzzCivdUASxx3IZKrkZaCcvUs="
+    }
+  },
+  "Obi's Hood and Steel Armor 3BA bodyslide files": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 573046,
+      "file_name": "Obi's Hood and Steel Armor 3BA bodyslide files-136388-1-0-1734370019.zip",
+      "mod_id": 136388,
+      "hash": "sha256-9kxGpdrzRBqWRmlvnKrpPv8ASOBtog5m/f7lSolYDQI="
+    }
+  }
+}

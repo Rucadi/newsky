@@ -1,0 +1,23 @@
+{
+  "Thrones Expanded - Base Object Swapper": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.2",
+      "file_id": 586268,
+      "file_name": "Thrones Expanded - Base Object Swapper-139544-1-2-1737570509.zip",
+      "mod_id": 139544,
+      "hash": "sha256-oqW8BWfx1Zadr7g3W2ccv/9iPs9M9o598O2HbEPbq+A="
+    }
+  },
+  "Thrones Expanded": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.2.1",
+      "file_id": 587744,
+      "file_name": "Thrones Expanded-139544-1-2-1-1737914033.zip",
+      "mod_id": 139544,
+      "hash": "sha256-hjFpNUg2jEnh9m4sDPahIa9LqJumcXjk9eaP6wTqBX4="
+    },
+    "type": "primary"
+  }
+}

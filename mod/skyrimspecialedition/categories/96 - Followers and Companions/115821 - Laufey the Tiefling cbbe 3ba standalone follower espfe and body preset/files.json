@@ -1,0 +1,53 @@
+{
+  "Laufey sharper nails": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 487648,
+      "file_name": "Laufey sharper nails-115821-1-0-1712302869.rar",
+      "mod_id": 115821,
+      "hash": "sha256-Iwo3h0XrahQHQtjVhsNUDkQ5bzWJFB4N5OjajC/IuFg="
+    }
+  },
+  "Laufey no vagina patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 487649,
+      "file_name": "Laufey no vagina patch-115821-1-0-1712302983.rar",
+      "mod_id": 115821,
+      "hash": "sha256-EjL3wXxD4vY5LOPA6oD315djyHokhYQBvwckG2b6aD4="
+    }
+  },
+  "Laufey body preset": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 487650,
+      "file_name": "Laufey body preset-115821-1-0-1712303352.rar",
+      "mod_id": 115821,
+      "hash": "sha256-Yw6I8mqhH1ZLzCenMxMVmS8ExdQwkshlRvZ9Ic6lW7U="
+    }
+  },
+  "Laufey the Tiefling": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1",
+      "file_id": 487749,
+      "file_name": "Laufey the Tiefling-115821-1-1-1712336782.rar",
+      "mod_id": 115821,
+      "hash": "sha256-Hog5iJMUvCEwcMItjhOjmwssWYHi2iO9keaEp4uVudE="
+    },
+    "type": "primary"
+  },
+  "Laufey bodyslide files": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 487847,
+      "file_name": "Laufey bodyslide files-115821-1-0-1712359080.rar",
+      "mod_id": 115821,
+      "hash": "sha256-eDAdVj2lpJGtrFzFxUj/4YjdX5SIoOy4hgaDnE+lcdA="
+    }
+  }
+}

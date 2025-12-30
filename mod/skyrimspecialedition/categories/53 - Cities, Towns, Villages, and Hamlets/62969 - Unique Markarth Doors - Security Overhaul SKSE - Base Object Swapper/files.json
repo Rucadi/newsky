@@ -1,0 +1,23 @@
+{
+  "Unique Markarth Doors - open cities": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "0.4.1",
+      "file_id": 466673,
+      "file_name": "Unique Markarth Doors - open cities-62969-0-4-1-1706765806.7z",
+      "mod_id": 62969,
+      "hash": "sha256-WGEGEm5bmzzO51y2Thw/SaTMibH78zWYCBiJux59gcM="
+    }
+  },
+  "Unique Markarth Doors": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "0.5",
+      "file_id": 577906,
+      "file_name": "Unique Markarth Doors-62969-0-5-1735627324.7z",
+      "mod_id": 62969,
+      "hash": "sha256-JELHvGHoRac10NQF7REXGeWiv4/eACEdjwFq3ORgJh8="
+    },
+    "type": "primary"
+  }
+}

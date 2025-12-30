@@ -1,0 +1,23 @@
+{
+  "Windhelm Gate Fixes 1.3 (ESP-FE)": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.3",
+      "file_id": 550855,
+      "file_name": "Windhelm Gate Fixes 1.3 (ESP-FE)-25621-1-3-1728591167.rar",
+      "mod_id": 25621,
+      "hash": "sha256-vMDYu2eTIKLGh7FXl5hdFWaeFhYUZ2kv4dazgZZARmU="
+    },
+    "type": "primary"
+  },
+  "Windhelm Gate Fixes 1.3 (ESP)": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.3",
+      "file_id": 550856,
+      "file_name": "Windhelm Gate Fixes 1.3 (ESP)-25621-1-3-1728591244.rar",
+      "mod_id": 25621,
+      "hash": "sha256-JvcDSfsaOqfOoA3NIuLMVRMenv9uJ9naLNQpAGFdihQ="
+    }
+  }
+}

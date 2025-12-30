@@ -1,0 +1,23 @@
+{
+  "FleshFX Video": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 99643,
+      "file_name": "FleshFX Video-27456-1-0-1563417899.7z",
+      "mod_id": 27456,
+      "hash": "sha256-lwIGRIfiqe8/NKsb862NivKaZ6Srac3puf1aIgvUABc="
+    }
+  },
+  "FleshFX": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1",
+      "file_id": 99709,
+      "file_name": "FleshFX-27456-1-1-1563474180.7z",
+      "mod_id": 27456,
+      "hash": "sha256-dz8zHt00lApIj92ov6V1cMGVYD5GK9GlVv5SrqfZv5E="
+    },
+    "type": "primary"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "No Treasure from Animals": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.00",
+      "file_id": 262672,
+      "file_name": "No Treasure from Animals-63280-1-00-1644317901.rar",
+      "mod_id": 63280,
+      "hash": "sha256-Oc6/x+rGj0Z0cNdLogZ0/eILalwjXT2e1J4xdbSU4Rc="
+    },
+    "type": "primary"
+  },
+  "Rare Treasure for Animals": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.00",
+      "file_id": 262707,
+      "file_name": "Rare Treasure for Animals-63280-1-00-1644334514.rar",
+      "mod_id": 63280,
+      "hash": "sha256-0NZRYzD9VeFOtlPTVS6yfJ0p2oIT6X2Wr32qj+Q26FI="
+    }
+  }
+}

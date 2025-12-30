@@ -1,0 +1,33 @@
+{
+    "KS Hairdos 1.7 - .esp replacer": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "1.0",
+            "file_id": 182494,
+            "file_name": "KS Hairdos 1.7 - .esp replacer-44975-1-0-1611880529.zip",
+            "mod_id": 44975,
+            "hash": "sha256-LwaGfGktQY4KE+FUPAjtkVV1JAaMsF4IcCjC3JwSE0A="
+        }
+    },
+    "KS Hairdos 1.7 - blank hairline texture": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "1.0",
+            "file_id": 182495,
+            "file_name": "KS Hairdos 1.7 - blank hairline texture-44975-1-0-1611880639.zip",
+            "mod_id": 44975,
+            "hash": "sha256-zcRbzj3D59kuO3onmvY78XjdWhTGmP3Awpg2NjuTG20="
+        }
+    },
+    "KS Hairdos 1.7 - Salt and Wind": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "1.1",
+            "file_id": 183040,
+            "file_name": "KS Hairdos 1.7 - Salt and Wind-44975-1-1-1612082685.zip",
+            "mod_id": 44975,
+            "hash": "sha256-AtrHHknyQcmdOfUp2Eudc+PvebDQHhOTZBBBoodz/rE="
+        },
+        "type": "primary"
+    }
+}

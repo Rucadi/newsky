@@ -1,0 +1,35 @@
+{
+  "Modpocalypse NPCs (v1) Moon and Star": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 240232,
+      "file_name": "Modpocalypse NPCs (v1) Moon and Star-58196-1-0-1636505308.7z",
+      "mod_id": 58196,
+      "hash": "sha256-f5LufkKaTmuSJ5WqBU3kaHnvb+sACKJky3xM+BF9NFw="
+    },
+    "type": "primary"
+  },
+  "Modpocalypse NPCs (v2) Moon and Star": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 240233,
+      "file_name": "Modpocalypse NPCs (v2) Moon and Star-58196-1-0-1636505330.7z",
+      "mod_id": 58196,
+      "hash": "sha256-fqcblT1HZSac8pLzB6o5B+OKchVf80uPAGGKDrVMXog="
+    },
+    "type": "primary"
+  },
+  "Modpocalypse NPCs (v3) Moon and Star": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 240234,
+      "file_name": "Modpocalypse NPCs (v3) Moon and Star-58196-1-0-1636505364.7z",
+      "mod_id": 58196,
+      "hash": "sha256-EgsNH9GEgMkbNwQ32nqfbLS114P3O/8Gxr5eMgRl1TM="
+    },
+    "type": "primary"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "Rallys Manhole of Solitude": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1",
+      "file_id": 196230,
+      "file_name": "Rallys Manhole of Solitude-28804-1-1-1617648492.7z",
+      "mod_id": 28804,
+      "hash": "sha256-SahyF338HEk5T9VKvSs4TjO6AMxC7G3FtPcEQyonzeI="
+    },
+    "type": "primary"
+  },
+  "Rally's - Skyland Manhole Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1",
+      "file_id": 344610,
+      "file_name": "Rally's - Skyland Manhole Patch-28804-1-1-1672339552.7z",
+      "mod_id": 28804,
+      "hash": "sha256-gNxANBf2+ZDPO32Yuot3D1jnAVSaYhAestTLYEFS5pA="
+    }
+  }
+}

@@ -1,0 +1,68 @@
+{
+  "A) FYX - 3D Coal in the Shovel": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0.1",
+      "file_id": 321262,
+      "file_name": "FYX - 3D Coal in the Shovel-76422-1-0-1-1664788303.7z",
+      "mod_id": 76422,
+      "hash": "sha256-e/9jVGSzs6zocY8cwXszFnRRfbvcUsWyIDr1ZosNuRA="
+    },
+    "type": "primary"
+  },
+  "A) FYX - 3D Coal in the Shovel - New Texture 1K": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0.1",
+      "file_id": 321263,
+      "file_name": "FYX - 3D Coal in the Shovel - New Texture 1K-76422-1-0-1-1664788345.7z",
+      "mod_id": 76422,
+      "hash": "sha256-j/WGmSkKx8H7DylQfJbdbp/H683VeUSY4yK/Gh9gX8U="
+    },
+    "type": "primary"
+  },
+  "A) FYX - 3D Coal in the Shovel - New Texture 2K": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0.1",
+      "file_id": 321265,
+      "file_name": "FYX - 3D Coal in the Shovel - New Texture 2K-76422-1-0-1-1664788435.7z",
+      "mod_id": 76422,
+      "hash": "sha256-rYfJAnFYBELfSHp/JLcW2dO0L0B2caiZBUdNJo+mgks="
+    },
+    "type": "primary"
+  },
+  "B) FYX - 3D Coal in the ElSopa Shovel": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0.1",
+      "file_id": 321335,
+      "file_name": "FYX - 3D Coal in the ElSopa Shovel-76422-1-0-1-1664814194.7z",
+      "mod_id": 76422,
+      "hash": "sha256-cliMufU6BtRMM2Qppc72mPOcwm+I8OVMi82qOUAIvBI="
+    },
+    "type": "primary"
+  },
+  "B) FYX - 3D Coal in the ElSopa Shovel - New Texture 1K": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0.1",
+      "file_id": 321336,
+      "file_name": "FYX - 3D Coal in the ElSopa Shovel - New Texture 1K-76422-1-0-1-1664814283.7z",
+      "mod_id": 76422,
+      "hash": "sha256-8nD2q7kl8o+OlGw0fYGFt0PtJGEHXHqBvwdK4jJZiBw="
+    },
+    "type": "primary"
+  },
+  "B) FYX - 3D Coal in the ElSopa Shovel - New Texture 2K": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0.1",
+      "file_id": 321337,
+      "file_name": "FYX - 3D Coal in the ElSopa Shovel - New Texture 2K-76422-1-0-1-1664814457.7z",
+      "mod_id": 76422,
+      "hash": "sha256-tWYBhMdpghUsvPA6Tdv0Q5gxZznfOUcPPRuCiKtiE18="
+    },
+    "type": "primary"
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "MM Double-Sided": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "5.0.0",
+      "file_id": 342057,
+      "file_name": "MM Double-Sided-81018-4-02-1671505360.7z",
+      "mod_id": 81018,
+      "hash": "sha256-wrN2/fxwFzPruQmJoBfYzW/sSEywFCi+Y9ZVydAc35U="
+    },
+    "type": "primary"
+  },
+  "MMCM Double-Sided (parallax)": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "5.0.0",
+      "file_id": 538160,
+      "file_name": "MMCM Double-Sided (parallax)-81018-1-31-1725330481.7z",
+      "mod_id": 81018,
+      "hash": "sha256-WQCf2WDgDRuA1t8j5abwgPmIhJWnwPJvHkMQ68fvQAU="
+    },
+    "type": "primary"
+  }
+}

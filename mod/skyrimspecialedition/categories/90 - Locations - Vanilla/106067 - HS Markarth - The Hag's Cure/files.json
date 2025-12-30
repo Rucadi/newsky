@@ -1,0 +1,33 @@
+{
+  "HSMarkarth - The Hag's Cure": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0.0",
+      "file_id": 448212,
+      "file_name": "HSMarkarth - The Hag's Cure-106067-1-0-0-1701544142.7z",
+      "mod_id": 106067,
+      "hash": "sha256-Og0MIYWrj9PvgNm9NyiP2Nle4P1IGoHLe+Ttrgt9IPQ="
+    },
+    "type": "primary"
+  },
+  "HSMarkarth - The Hag's Cure - ELFX": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0.0",
+      "file_id": 448213,
+      "file_name": "HSMarkarth - The Hag's Cure - ELFX-106067-1-0-0-1701544171.7z",
+      "mod_id": 106067,
+      "hash": "sha256-bGBmCfzUlvTrhZEr8RB44sSHEh4NCstZHmgtUXE48AE="
+    }
+  },
+  "HSMarkarth - The Hag's Cure - LUX": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0.0",
+      "file_id": 448214,
+      "file_name": "HSMarkarth - The Hag's Cure - LUX-106067-1-0-0-1701544197.7z",
+      "mod_id": 106067,
+      "hash": "sha256-nnVl/VPp3tMT9RGzfQ48ntDP2RmopjhWrcSdai7M0BI="
+    }
+  }
+}

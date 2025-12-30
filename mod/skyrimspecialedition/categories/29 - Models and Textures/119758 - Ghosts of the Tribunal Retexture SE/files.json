@@ -1,0 +1,33 @@
+{
+    "Ghosts of the Tribunal Retexture SE": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "1.0",
+            "file_id": 502510,
+            "file_name": "Ghosts of the Tribunal Retexture SE-119758-1-0-1716066180.7z",
+            "mod_id": 119758,
+            "hash": "sha256-fnacDP1dcR+Tq/4irfgkDQ7xpA9s4sChLp73FAz2v6k="
+        },
+        "type": "primary"
+    },
+    "Ghosts of the Tribunal Retexture SE - Half Res": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "1.0",
+            "file_id": 502511,
+            "file_name": "Ghosts of the Tribunal Retexture SE - Half Res-119758-1-0-1716066460.7z",
+            "mod_id": 119758,
+            "hash": "sha256-VdKECLzW8+wHN3bY9MVfY2m+fH1pUzZ5fEUnFrsOGx0="
+        }
+    },
+    "Ghosts of the Tribunal Retexture SE - Low Res": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "1.0",
+            "file_id": 502514,
+            "file_name": "Ghosts of the Tribunal Retexture SE - Low Res-119758-1-0-1716066971.7z",
+            "mod_id": 119758,
+            "hash": "sha256-5Bwu/0gVG0jdKysSHmCRgDVP3HT5S/31eV3Lp9KlMy4="
+        }
+    }
+}

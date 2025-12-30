@@ -1,0 +1,35 @@
+{
+  "Witchy Wilderness with no Complex Grass textures": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1",
+      "file_id": 641173,
+      "file_name": "Witchy Wilderness with no Complex Grass textures-134287-1-1-1750732258.7z",
+      "mod_id": 134287,
+      "hash": "sha256-ot6QrgNrLCBaje5JW12rkHNpNcFKJlO5EFQ0kR4He2o="
+    },
+    "type": "primary"
+  },
+  "Witchy Wilderness": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.12",
+      "file_id": 648767,
+      "file_name": "Witchy Wilderness-134287-1-12-1753032052.7z",
+      "mod_id": 134287,
+      "hash": "sha256-bnmDXgxQS56fhfHovc/fY6y78CEfyWWq/OHVyBfVE5k="
+    },
+    "type": "primary"
+  },
+  "Witchy Wilderness Seasons BETA": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "0.82",
+      "file_id": 651774,
+      "file_name": "Witchy Wilderness Seasons BETA-134287-0-82-1754013499.7z",
+      "mod_id": 134287,
+      "hash": "sha256-nim91uZxBSj9vJfq2eg4tDzBt4wqttgLTvB1l6Abh/E="
+    },
+    "type": "primary"
+  }
+}

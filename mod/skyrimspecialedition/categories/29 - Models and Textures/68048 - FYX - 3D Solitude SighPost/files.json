@@ -1,0 +1,35 @@
+{
+  "FYX - 3D Solitude SighPost - DockRopes": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0.5",
+      "file_id": 372287,
+      "file_name": "FYX - 3D Solitude SighPost - DockRopes-68048-1-0-5-1679847566.7z",
+      "mod_id": 68048,
+      "hash": "sha256-VAtIWzkkEqMsVk3+0uq9eXhocYaaReVvA6Gu+Ns/b44="
+    },
+    "type": "primary"
+  },
+  "FYX - 3D Solitude SighPost - FarmRopes": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0.5",
+      "file_id": 372288,
+      "file_name": "FYX - 3D Solitude SighPost - FarmRopes-68048-1-0-5-1679847594.7z",
+      "mod_id": 68048,
+      "hash": "sha256-DOsmeghoT68mvE8QE2WiG8axVZ6ET/jnelZcpJQma/c="
+    },
+    "type": "primary"
+  },
+  "FYX - 3D Solitude SighPost - RiftenRopes": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0.5",
+      "file_id": 372289,
+      "file_name": "FYX - 3D Solitude SighPost - RiftenRopes-68048-1-0-5-1679847626.7z",
+      "mod_id": 68048,
+      "hash": "sha256-TitSHPb0cOP2mFxKz/JZHGTL4eCT45ExIyB45OKFXbs="
+    },
+    "type": "primary"
+  }
+}

@@ -1,0 +1,33 @@
+{
+    "Spell Knight Armors Retexture SE": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "1.2.0",
+            "file_id": 669351,
+            "file_name": "Spell Knight Armors Retexture SE-111518-1-2-0-1758821294.7z",
+            "mod_id": 111518,
+            "hash": "sha256-2QQqGmgHtCPwAyu7dHxHp+bPHFto0p1mbwzr7+8z2x8="
+        },
+        "type": "primary"
+    },
+    "Spell Knight Armors Retexture SE - Half Res": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "1.2.0",
+            "file_id": 669352,
+            "file_name": "Spell Knight Armors Retexture SE - Half Res-111518-1-2-0-1758821314.7z",
+            "mod_id": 111518,
+            "hash": "sha256-bYa5SxnihHt8u84m6fRYLZldq2FVLPL0YNOTZ1/ecBU="
+        }
+    },
+    "Spell Knight Armors Retexture SE - Low Res": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "1.2.0",
+            "file_id": 669353,
+            "file_name": "Spell Knight Armors Retexture SE - Low Res-111518-1-2-0-1758821340.7z",
+            "mod_id": 111518,
+            "hash": "sha256-2ATMC7khwEJDNfT7kIJwXVI6hbF78ouLHy8xaFqhwVY="
+        }
+    }
+}

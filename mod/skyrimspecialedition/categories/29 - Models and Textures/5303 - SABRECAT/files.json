@@ -1,0 +1,44 @@
+{
+  "Sabrecat.4k": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 11596,
+      "file_name": "Sabrecat.4k-5303-1-0.7z",
+      "mod_id": 5303,
+      "hash": "sha256-6NObnzE98W7FMsEYgEgi3I6Hve4dd+rvCDZgLDpjB1U="
+    },
+    "type": "primary"
+  },
+  "Sabrecat.4k-2k": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 11597,
+      "file_name": "Sabrecat.4k-2k-5303-1-0.7z",
+      "mod_id": 5303,
+      "hash": "sha256-jbGXCKNFJj3zIJCzz75oDN/d1DiTlCGKRuiAhpYVocI="
+    },
+    "type": "primary"
+  },
+  "Sabrecat.2k": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 11599,
+      "file_name": "Sabrecat.2k-5303-1-0.7z",
+      "mod_id": 5303,
+      "hash": "sha256-bFh5JKawZVp/7PEINYKB2AqUXVsSP1oPnRjZFqwIZa4="
+    }
+  },
+  "Sabrecat.1k": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 11601,
+      "file_name": "Sabrecat.1k-5303-1-0.7z",
+      "mod_id": 5303,
+      "hash": "sha256-GgohpdgKw2p6QWuDjZnxvwrpdW7XbcZiJcsJhq2M8S4="
+    }
+  }
+}

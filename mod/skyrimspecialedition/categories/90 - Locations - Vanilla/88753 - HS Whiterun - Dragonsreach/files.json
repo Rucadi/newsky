@@ -1,0 +1,83 @@
+{
+    "HSWhiterun - Dragonsreach": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "1.0.0",
+            "file_id": 376218,
+            "file_name": "HSWhiterun - Dragonsreach-88753-1-0-0-1680916377.7z",
+            "mod_id": 88753,
+            "hash": "sha256-NSBjP1dm+42qYUAROdYaNOx7Ls8TcsjUeziAtlpMamE="
+        },
+        "type": "primary"
+    },
+    "HSWhiterun - Dragonsreach - ELFX": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "1.0.0",
+            "file_id": 376219,
+            "file_name": "HSWhiterun - Dragonsreach - ELXF-88753-1-0-0-1680916421.7z",
+            "mod_id": 88753,
+            "hash": "sha256-OF+jNfYUWOyi6VrxRb0ABb0Ppse9+ymXcJUEJwry38I="
+        }
+    },
+    "HSWhiterun - Dragonsreach - LUX": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "1.0.0",
+            "file_id": 376220,
+            "file_name": "HSWhiterun - Dragonsreach - LUX-88753-1-0-0-1680916461.7z",
+            "mod_id": 88753,
+            "hash": "sha256-D34M+6PJTn3QNfEPu104+kmAT5uGr0gQqx4nFhWhjSg="
+        }
+    },
+    "HSWhiterun - Dragonsreach - IC": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "1.0.0",
+            "file_id": 376221,
+            "file_name": "HSWhiterun - Dragonsreach - IC-88753-1-0-0-1680916496.7z",
+            "mod_id": 88753,
+            "hash": "sha256-1O/gLk/uXG9DRYcCx3DFOt/HaynBJ5koZh0+R+W8Hdg="
+        }
+    },
+    "HSWhiterun - Dragonsreach - VAE": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "1.0.0",
+            "file_id": 378253,
+            "file_name": "HSWhiterun - Dragonsreach - VAE-88753-1-0-0-1681497261.7z",
+            "mod_id": 88753,
+            "hash": "sha256-SuV4rgb9ppYATmLNr410qwt2m3FLeCE0KF47zTz0D5Y="
+        }
+    },
+    "HSWhiterun - Dragonsreach - PAA": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "1.0.0",
+            "file_id": 378265,
+            "file_name": "HSWhiterun - Dragonsreach - PAA-88753-1-0-0-1681498269.7z",
+            "mod_id": 88753,
+            "hash": "sha256-guKFMNTA55llpxwx7Vm9g9wJ6cgMPJiVmaje0NyLjNc="
+        }
+    },
+    "HSWhiterun - Dragonsreach - LOTD": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "1.0.0",
+            "file_id": 378304,
+            "file_name": "HSWhiterun - Dragonsreach - LOTD-88753-1-0-0-1681505805.7z",
+            "mod_id": 88753,
+            "hash": "sha256-mCAfGLt1BaFeLTvvjdfs03DkQCfw+V7K60+MVXidnz0="
+        }
+    },
+    "HSWhiterun - Dragonsreach - EXD": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "1.0.0",
+            "file_id": 397191,
+            "file_name": "HSWhiterun - Dragonsreach - EXD-88753-1-0-0-1686564675.7z",
+            "mod_id": 88753,
+            "hash": "sha256-gUw36VQTqa0JraFZ3l0SEk4qO+uijoZnvSmh0o+9J+I="
+        }
+    }
+}

@@ -1,0 +1,35 @@
+{
+  "Relentless - 1k Textures": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1",
+      "file_id": 484128,
+      "file_name": "Relentless - 1k Textures-114022-1-1-1711391503.zip",
+      "mod_id": 114022,
+      "hash": "sha256-MvaRfHiNrk7wKSHGE/YZ3iqDTxbztKyZzPbjXww5k34="
+    },
+    "type": "primary"
+  },
+  "Relentless - 2k Textures": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1",
+      "file_id": 484129,
+      "file_name": "Relentless - 2k Textures-114022-1-1-1711391540.zip",
+      "mod_id": 114022,
+      "hash": "sha256-77Ld1K534RdsNMyGpssbWyHwsaPHOZTT7ivAXxESAT8="
+    },
+    "type": "primary"
+  },
+  "Relentless - 4k Textures": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1",
+      "file_id": 484130,
+      "file_name": "Relentless - 4k Textures-114022-1-1-1711391595.zip",
+      "mod_id": 114022,
+      "hash": "sha256-1rugPvrXZHC525088f4TGFlXM81x6BX2f+KjXExNtOU="
+    },
+    "type": "primary"
+  }
+}

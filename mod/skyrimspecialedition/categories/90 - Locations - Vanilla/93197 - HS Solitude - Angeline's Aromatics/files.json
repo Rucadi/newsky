@@ -1,0 +1,33 @@
+{
+    "HSSolitude - Angeline's Aromatics": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "1.0.0",
+            "file_id": 396477,
+            "file_name": "HSSolitude - Angeline's Aromatics-93197-1-0-0-1686377004.7z",
+            "mod_id": 93197,
+            "hash": "sha256-CbhVA5VRV5ZpR8EjkoJBAqKPXCusuor3V8piF7JNaTA="
+        },
+        "type": "primary"
+    },
+    "HSSolitude - Angeline's Aromatics - ELFX": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "1.0.0",
+            "file_id": 396478,
+            "file_name": "HSSolitude - Angeline's Aromatics - ELFX-93197-1-0-0-1686377032.7z",
+            "mod_id": 93197,
+            "hash": "sha256-2zFHdS0xRiM0f+2QCoOzKiKDiDuoWORXPWkwofs3GSs="
+        }
+    },
+    "HSSolitude - Angeline's Aromatics - LUX": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "1.0.0",
+            "file_id": 396479,
+            "file_name": "HSSolitude - Angeline's Aromatics - LUX-93197-1-0-0-1686377068.7z",
+            "mod_id": 93197,
+            "hash": "sha256-8HX4BcucH70HadP73LZSIokY3EKrsa+w8CMHxIz6bVg="
+        }
+    }
+}

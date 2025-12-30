@@ -1,0 +1,33 @@
+{
+  "Sea Turtles (SE-AE)- 4k textures": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1",
+      "file_id": 512708,
+      "file_name": "Sea Turtles (SE-AE)- 4k textures-122141-1-1718682499.rar",
+      "mod_id": 122141,
+      "hash": "sha256-8n3Ek2irOYIb4plUF/HwUCB+5i6Vw97QGCuw17VVI/s="
+    },
+    "type": "primary"
+  },
+  "Sea Turtles (SE-AE)- 1k textures": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1",
+      "file_id": 512712,
+      "file_name": "Sea Turtles (SE-AE)- 1k textures-122141-1-1718682569.rar",
+      "mod_id": 122141,
+      "hash": "sha256-+sDT3iluw271Z1eycOPBjdSGr08oX+WU6X+vv/FfHIY="
+    }
+  },
+  "Sea Turtles (SE-AE)- 2k textures": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1",
+      "file_id": 512714,
+      "file_name": "Sea Turtles (SE-AE)- 2k textures-122141-1-1718682660.rar",
+      "mod_id": 122141,
+      "hash": "sha256-r6bROHyuLQ3qmyEdhUcfZja4ckXdWwLS8OgTWR8mM4U="
+    }
+  }
+}

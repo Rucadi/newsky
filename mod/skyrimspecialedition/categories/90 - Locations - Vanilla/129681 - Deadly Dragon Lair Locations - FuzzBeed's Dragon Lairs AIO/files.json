@@ -1,0 +1,33 @@
+{
+  "Lux Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 548828,
+      "file_name": "Lux Patch-129681-1-0-1727998020.zip",
+      "mod_id": 129681,
+      "hash": "sha256-2BqnvttHuurOZQfVQQ+9EdnrrmJCbo78cWrbuZTNs7U="
+    }
+  },
+  "Lux Orbis Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 548857,
+      "file_name": "Lux Orbis Patch-129681-1-0-1728008028.zip",
+      "mod_id": 129681,
+      "hash": "sha256-0H5F0qaqJAKdM9VSkYUM6vt+E0Fk/UZSa19mDCcnJ18="
+    }
+  },
+  "Deadly Dragon Lair Locations": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "3.0",
+      "file_id": 675771,
+      "file_name": "Deadly Dragon Lair Locations-129681-3-0-1760412716.zip",
+      "mod_id": 129681,
+      "hash": "sha256-lLoj0Qf3KAOdTzrxfvJqqE4sQTtAVv2HQK7J6wZ467g="
+    },
+    "type": "primary"
+  }
+}

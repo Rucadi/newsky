@@ -1,0 +1,24 @@
+{
+  "BS Bruma Paper Map by Mirhayasu for FWMF (legacy)": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.72",
+      "file_id": 355641,
+      "file_name": "BS Bruma Paper Map by Mirhayasu for FWMF-64037-1-72-1675380997.zip",
+      "mod_id": 64037,
+      "hash": "sha256-It4G9t6VS5FCd+F7DYrQ/g7sp8zY0LM40tCc9gpGvq4="
+    },
+    "type": "primary"
+  },
+  "BS Bruma Paper Map by Mirhayasu for FWMF": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.8.1",
+      "file_id": 559406,
+      "file_name": "BS Bruma Paper Map by Mirhayasu for FWMF-64037-1-8-1-1730883444.zip",
+      "mod_id": 64037,
+      "hash": "sha256-UIf90yGNCk6B8/BKXwaOehwFbEQJw8z1X6O5RCOv9VI="
+    },
+    "type": "primary"
+  }
+}

@@ -1,0 +1,43 @@
+{
+    "HSSolitude - Bits and Pieces - ELFX": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "1.0.0",
+            "file_id": 399483,
+            "file_name": "HSSolitude - Bits and Pieces - ELFX-93877-1-0-0-1687295549.7z",
+            "mod_id": 93877,
+            "hash": "sha256-UT3H/iiHDW3rUI7vxwjPvD5h2mgkgvn1n4ZHGfJy8vA="
+        }
+    },
+    "HSSolitude - Bits and Pieces - LUX": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "1.0.0",
+            "file_id": 399484,
+            "file_name": "HSSolitude - Bits and Pieces - LUX-93877-1-0-0-1687295592.7z",
+            "mod_id": 93877,
+            "hash": "sha256-9s9C5kfJ27HuymGxaNtaIH5UcmYmJbXbAdrjt1BItjk="
+        }
+    },
+    "HSSolitude - Bits and Pieces": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "1.0.1",
+            "file_id": 401771,
+            "file_name": "HSSolitude - Bits and Pieces-93877-1-0-1-1687926038.7z",
+            "mod_id": 93877,
+            "hash": "sha256-ShY9hxTvV4HyduaBTsW0c6bT3h4JER6xKjqRr19WWqA="
+        },
+        "type": "primary"
+    },
+    "HSSolitude - Bits and Pieces - LOTD": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "1.0.0",
+            "file_id": 405804,
+            "file_name": "HSSolitude - Bits and Pieces - LOTD-93877-1-0-0-1688969836.7z",
+            "mod_id": 93877,
+            "hash": "sha256-SH8nefLvuDA1R1XrVIp2K6KcE1zDRgTu2vkGrcsryT4="
+        }
+    }
+}

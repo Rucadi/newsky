@@ -1,0 +1,33 @@
+{
+  "Usable Vanilla Lanterns - CC Fishing": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.00",
+      "file_id": 330790,
+      "file_name": "Usable Vanilla Lanterns - CC Fishing-78565-1-00-1668167543.rar",
+      "mod_id": 78565,
+      "hash": "sha256-eXZZraoE6zFoSKgqfS3e/RmLfFnVP6BSsvtuWKqZg6k="
+    }
+  },
+  "Usable Vanilla Lanterns - Unlit Version": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.00",
+      "file_id": 330909,
+      "file_name": "Usable Vanilla Lanterns - Unlit Version-78565-1-00-1668194632.rar",
+      "mod_id": 78565,
+      "hash": "sha256-2HVMHuxI0P2AEf3MXeEZCq0/TpUAOa6HcdIGnLiVD8w="
+    }
+  },
+  "Usable Vanilla Lanterns": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.01",
+      "file_id": 332409,
+      "file_name": "Usable Vanilla Lanterns-78565-1-01-1668635459.rar",
+      "mod_id": 78565,
+      "hash": "sha256-3rj2RQBjkLpBQe2i6A/hed51H2FZ1c6IgiiFAAjTD0I="
+    },
+    "type": "primary"
+  }
+}

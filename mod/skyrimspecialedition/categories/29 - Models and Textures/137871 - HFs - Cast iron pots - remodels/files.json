@@ -1,0 +1,68 @@
+{
+  "HFs - Cast iron pots - 1K": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1",
+      "file_id": 578501,
+      "file_name": "HFs - Cast iron pots - 1K-137871-1-1735772242.zip",
+      "mod_id": 137871,
+      "hash": "sha256-sDl4qAIsXhRRx2Sh+A6V3QwXvX2kd1ANnaI9dNldqWY="
+    },
+    "type": "primary"
+  },
+  "HFs - Cast iron pots - 2K": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1",
+      "file_id": 578503,
+      "file_name": "HFs - Cast iron pots - 2K-137871-1-1735772272.zip",
+      "mod_id": 137871,
+      "hash": "sha256-ufGS7IcwoBilb5CH+958RrSfpK4xCmmzEqPAhBOzpe0="
+    },
+    "type": "primary"
+  },
+  "HFs - Cast iron pots - 4K": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1",
+      "file_id": 578504,
+      "file_name": "HFs - Cast iron pots - 4K-137871-1-1735772308.zip",
+      "mod_id": 137871,
+      "hash": "sha256-Y+6Vl0u/aTBggyMB1DBFOEh5LBAW//Pa8z0hG2qG1ew="
+    },
+    "type": "primary"
+  },
+  "HFs - Cast iron pots v2 - 1K": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1",
+      "file_id": 598681,
+      "file_name": "HFs - Cast iron pots v2 - 1K-137871-1-1-1740429334.zip",
+      "mod_id": 137871,
+      "hash": "sha256-hZxA6EmONnkudwo3XA49sAWWjzBUkADUyH29QUKYQGU="
+    },
+    "type": "primary"
+  },
+  "HFs - Cast iron pots v2 - 2K": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1",
+      "file_id": 598682,
+      "file_name": "HFs - Cast iron pots v2 - 2K-137871-1-1-1740429354.zip",
+      "mod_id": 137871,
+      "hash": "sha256-o20EwbwxmhlDT9grwmQwV5J1D5kgvhIOgTpry2vHTdw="
+    },
+    "type": "primary"
+  },
+  "HFs - Cast iron pots v2 - 4K": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1",
+      "file_id": 598683,
+      "file_name": "HFs - Cast iron pots v2 - 4K-137871-1-1-1740429406.zip",
+      "mod_id": 137871,
+      "hash": "sha256-ZIRwnI0xnwyxWqWhFTF7+0YXt5ciSkYbIsiMsXmsiDg="
+    },
+    "type": "primary"
+  }
+}

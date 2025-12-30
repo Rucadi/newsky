@@ -1,0 +1,23 @@
+{
+  "Into the Abyss - Anniversary Edition": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.4",
+      "file_id": 596069,
+      "file_name": "Into the Abyss - Anniversary Edition-127721-1-4-1739833853.zip",
+      "mod_id": 127721,
+      "hash": "sha256-N8Mj2OPwO/5oAG4v/WqArSNto8e0dQx4+3DxeRoUFYA="
+    },
+    "type": "primary"
+  },
+  "Abyss - The Lost Levels Anniversary Edition Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.15",
+      "file_id": 596081,
+      "file_name": "Abyss - The Lost Levels Anniversary Edition Patch-127721-1-15-1739834943.zip",
+      "mod_id": 127721,
+      "hash": "sha256-4IFw+D4KpgiQnIJlzR5p8AmXIk1S3W0DxhiO/ccCDZc="
+    }
+  }
+}

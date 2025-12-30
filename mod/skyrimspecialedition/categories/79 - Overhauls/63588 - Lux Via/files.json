@@ -1,0 +1,66 @@
+{
+    "Better Dynamic Snow 2 patch": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "1.2",
+            "file_id": 265337,
+            "file_name": "Better Dynamic Snow 2 patch-63588-1-2-1645278267.rar",
+            "mod_id": 63588,
+            "hash": "sha256-aKWiyHcL7sIVWx5OB2uhxvktL63HpfwgUeh2Uy8grLk="
+        }
+    },
+    "Resource Pack - Via Riften's Lanterns only": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "1.4",
+            "file_id": 265388,
+            "file_name": "Resource Pack - Via Riften's Lanterns only-63588-1-2-1645292331.rar",
+            "mod_id": 63588,
+            "hash": "sha256-bcGCCsBRlRgIhc4QZ7mIt0A2BldK3yTdrDbzevaE1PQ="
+        },
+        "type": "primary"
+    },
+    "Wyrmstooth Addon": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "1.5",
+            "file_id": 303302,
+            "file_name": "Wyrmstooth Addon-63588-1-5-1659176640.rar",
+            "mod_id": 63588,
+            "hash": "sha256-6Lptc5NIhg2RvhwoDJxCbdX7Mz2LbWJqK1B0XRQle/0="
+        }
+    },
+    "Lux Via (main)": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "2.2",
+            "file_id": 490662,
+            "file_name": "Lux Via (main)-63588-2-2-1713094342.rar",
+            "mod_id": 63588,
+            "hash": "sha256-Y0hthQ0w1QxdwdSQxkHTQsrobvM61q01jRXwIf86K6U="
+        },
+        "type": "primary"
+    },
+    "Optional Lux Resource Pack (ENB light)": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "2.2",
+            "file_id": 490664,
+            "file_name": "Optional Lux Resource Pack (ENB light)-63588-2-2-1713094414.rar",
+            "mod_id": 63588,
+            "hash": "sha256-CxT9ZMWBsaQi4DCGaE/VlgwJy+OkE4x/lCsFajdEcvU="
+        },
+        "type": "primary"
+    },
+    "Optional Lux Resource pack (No ENB light)": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "2.2",
+            "file_id": 490668,
+            "file_name": "Optional Lux Resource pack (No ENB light)-63588-2-2-1713094515.rar",
+            "mod_id": 63588,
+            "hash": "sha256-7/1o2eJmFLMEDNpV66yx2JiQXM/uptgu0zO/ynSq2SI="
+        },
+        "type": "primary"
+    }
+}

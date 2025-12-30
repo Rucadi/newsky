@@ -1,0 +1,33 @@
+{
+  "tawoba_alt_bone_textures": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.6a",
+      "file_id": 472951,
+      "file_name": "tawoba_alt_bone_textures-111200-1-6a-1708448910.rar",
+      "mod_id": 111200,
+      "hash": "sha256-DfHYRUY0LPmfnRY9T0z8fcJ+6QMUKspPXZIbVOU4dGs="
+    }
+  },
+  "More bright env_maps": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "x",
+      "file_id": 490633,
+      "file_name": "More bright env_maps-111200-x-1713091401.rar",
+      "mod_id": 111200,
+      "hash": "sha256-BOHgW4a+9ZCDc4CUa6LSXeAqtWqUaMjpXqDcv8hWGeE="
+    }
+  },
+  "Tawoba 6.1 unofficial tweaks fixes and smp": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "3.2",
+      "file_id": 673916,
+      "file_name": "Tawoba 6.1 unofficial tweaks fixes and smp-111200-3-2-1760012938.7z",
+      "mod_id": 111200,
+      "hash": "sha256-+dJDFTJHJHxE9tWrTEBdyJo4ri5ulrVMw5kY7x9Hp94="
+    },
+    "type": "primary"
+  }
+}

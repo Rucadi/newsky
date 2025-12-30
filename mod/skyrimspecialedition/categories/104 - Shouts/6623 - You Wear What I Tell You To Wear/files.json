@@ -1,0 +1,23 @@
+{
+  "You Wear What I Tell You To Wear - Disarmor Ally": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1",
+      "file_id": 16561,
+      "file_name": "You Wear What I Tell You To Wear-6623-1-1.zip",
+      "mod_id": 6623,
+      "hash": "sha256-kvB/X4AQXSrtJ7tqN5UCYBDPHEBdLXFuBenq12PmUjQ="
+    },
+    "type": "primary"
+  },
+  "You Wear What I Tell You To Wear - Reclothe Ally": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1",
+      "file_id": 16563,
+      "file_name": "You Wear What I Tell You To Wear - Reclothe-6623-1-1.zip",
+      "mod_id": 6623,
+      "hash": "sha256-Z6UDzdUqd2KdEru1cJVuvTfdmdjVLg+vd8UNGIsn03g="
+    }
+  }
+}

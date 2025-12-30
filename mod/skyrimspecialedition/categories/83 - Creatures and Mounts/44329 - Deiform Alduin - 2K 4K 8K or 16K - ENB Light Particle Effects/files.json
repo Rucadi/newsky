@@ -1,0 +1,84 @@
+{
+  "Deiform Alduin Particle Lights - Stronger": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1",
+      "file_id": 179500,
+      "file_name": "Deiform Alduin Particle Lights - Stronger-44329-1-1-1610655109.7z",
+      "mod_id": 44329,
+      "hash": "sha256-koo6wEB4BF8JNpH+2pnXFxZ8cc9wY8O2ahuR62ZuAgw="
+    }
+  },
+  "Deiform Alduin Particle Lights": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1",
+      "file_id": 179501,
+      "file_name": "Deiform Alduin Particle Lights-44329-1-1-1610655111.7z",
+      "mod_id": 44329,
+      "hash": "sha256-YEYsq7rmDgmoOQguCZu1DJXoB5u0xxA7XAyko5uk9QE="
+    }
+  },
+  "Deiform Alduin Eye textures 2K": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.2",
+      "file_id": 253639,
+      "file_name": "Deiform Aludin Eye textures 2K-44329-1-2-1641218296.7z",
+      "mod_id": 44329,
+      "hash": "sha256-M3/vi7vJ+SXbl2ZELoJ+9IJ0cinWZAsSKaD77m9cJLY="
+    },
+    "type": "primary"
+  },
+  "Deiform Alduin 8K": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.2",
+      "file_id": 253640,
+      "file_name": "Deiform Aludin 8K-44329-1-2-1641218324.7z",
+      "mod_id": 44329,
+      "hash": "sha256-dq1hxJVRg6Fx+F2cLq5JrYgaRGtUcW1rmXuInPlPX2A="
+    },
+    "type": "primary"
+  },
+  "Deiform Alduin Eye textures 1K": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.2",
+      "file_id": 253641,
+      "file_name": "Deiform Alduin Eye textures 1K-44329-1-2-1641218820.7z",
+      "mod_id": 44329,
+      "hash": "sha256-hHmCEcty47CxKk/m6/fCsD3Apy+tlhYNHNDrmgNofn0="
+    }
+  },
+  "Deiform Potato": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.2",
+      "file_id": 253650,
+      "file_name": "Deiform Potato-44329-1-2-1641222912.7z",
+      "mod_id": 44329,
+      "hash": "sha256-6L/tJ6p9r5ykixUClbh6k0HmntErSWzqRT3CLWjrbfo="
+    }
+  },
+  "Deiform Alduin 16K": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.2",
+      "file_id": 253658,
+      "file_name": "Deiform Alduin 16K-44329-1-2-1641227592.7z",
+      "mod_id": 44329,
+      "hash": "sha256-9eBOXl8MODk7TLeWyHvCtLXtCFMOSxuvnO0uwozGQbQ="
+    }
+  },
+  "Deiform Alduin 4K": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.2",
+      "file_id": 253837,
+      "file_name": "Deiform Alduin 4K-44329-1-2-1641295234.7z",
+      "mod_id": 44329,
+      "hash": "sha256-kQ9AU3L5xZKCYegzfjfEy1lLYxubmJRdZTLfsVnfCWw="
+    }
+  }
+}

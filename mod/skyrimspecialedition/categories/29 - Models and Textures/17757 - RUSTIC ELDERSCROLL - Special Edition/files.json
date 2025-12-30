@@ -1,0 +1,55 @@
+{
+  "RUSTIC ELDERSCROLL - Special Edition - 4K": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 56374,
+      "file_name": "RUSTIC ELDERSCROLL - Special Edition - 4K-17757-1-0.7z",
+      "mod_id": 17757,
+      "hash": "sha256-eNjYuwH/WEkWABVNnPZ6CdSAdumIc6Ijd+Sa/cXGzIM="
+    },
+    "type": "primary"
+  },
+  "RUSTIC ELDERSCROLL - Special Edition - 4K-2K": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 56375,
+      "file_name": "RUSTIC ELDERSCROLL - Special Edition - 4K-2K-17757-1-0.7z",
+      "mod_id": 17757,
+      "hash": "sha256-vx7szJojyqdG9+nbtf/KN/wICqsQt8TII9TeM1x9VYQ="
+    },
+    "type": "primary"
+  },
+  "RUSTIC ELDERSCROLL - Special Edition - 2K": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 56377,
+      "file_name": "RUSTIC ELDERSCROLL - Special Edition - 2K-17757-1-0.7z",
+      "mod_id": 17757,
+      "hash": "sha256-qqJ+6i6RM5vcaHoDiAltYFqcx8tHT5ogchWl/MItHck="
+    },
+    "type": "primary"
+  },
+  "ELDERSCROLL SSE - FX - 2K": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 56379,
+      "file_name": "ELDERSCROLL SSE - FX - 2K-17757-1-0.7z",
+      "mod_id": 17757,
+      "hash": "sha256-NKuVrr30r1nGhSApqGvai2t6tnyeHOJOA/oISEsDVno="
+    }
+  },
+  "ELDERSCROLL SSE - FX - 1K": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 56381,
+      "file_name": "ELDERSCROLL SSE - FX - 1K-17757-1-0.7z",
+      "mod_id": 17757,
+      "hash": "sha256-KHo7tEOy6QZ6SktkUAJqoLqGu2lCnN9lqTMA9ogJlw4="
+    }
+  }
+}

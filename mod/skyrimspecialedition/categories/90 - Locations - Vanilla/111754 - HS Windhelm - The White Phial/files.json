@@ -1,0 +1,53 @@
+{
+  "HSWindhelm - The White Phial": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0.0",
+      "file_id": 471279,
+      "file_name": "HSWindhelm - The White Phial-111754-1-0-0-1708043405.7z",
+      "mod_id": 111754,
+      "hash": "sha256-HTElqkiUbeqZ/uhINh9qeZcE87HBUNPmAkdDRdxghwk="
+    },
+    "type": "primary"
+  },
+  "HSWindhelm - The White Phial - ELFX": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0.0",
+      "file_id": 471280,
+      "file_name": "HSWindhelm - The White Phial - ELFX-111754-1-0-0-1708043429.7z",
+      "mod_id": 111754,
+      "hash": "sha256-X3X+FJmSZILBCaaqE778fKwv4QbtwOBE0iPacNWOiuc="
+    }
+  },
+  "HSWindhelm - The White Phial - IC": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0.0",
+      "file_id": 471281,
+      "file_name": "HSWindhelm - The White Phial - IC-111754-1-0-0-1708043460.7z",
+      "mod_id": 111754,
+      "hash": "sha256-sCvcslUkmX2T+2mz6VMRp0ViW9K8yQegu5mrRJo802M="
+    }
+  },
+  "HSWindhelm - The White Phial - USSEP": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0.0",
+      "file_id": 471282,
+      "file_name": "HSWindhelm - The White Phial - USSEP-111754-1-0-0-1708043497.7z",
+      "mod_id": 111754,
+      "hash": "sha256-tCMci3NqCpNSm1+cpyiH7YH4mNIzGI5w11t3Pim+qbE="
+    }
+  },
+  "HSWindhelm - The White Phial - LUX": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0.0",
+      "file_id": 471283,
+      "file_name": "HSWindhelm - The White Phial - LUX-111754-1-0-0-1708043539.7z",
+      "mod_id": 111754,
+      "hash": "sha256-fx8SW0n41S0e0vaeYYJEGif7wknBe40KnXBYrgxCc5w="
+    }
+  }
+}

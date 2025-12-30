@@ -1,0 +1,24 @@
+{
+  "Project Cougar - Olava the Feeble": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 307601,
+      "file_name": "Project Cougar - Olava the Feeble-73389-1-0-1660521848.7z",
+      "mod_id": 73389,
+      "hash": "sha256-EArx3kHE2grzSdi5K+dnchoH6gTlmwM/wsmjTglj7YE="
+    },
+    "type": "primary"
+  },
+  "(Updated Version) Project Cougar - Olava the Feeble": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "2.0.1",
+      "file_id": 369664,
+      "file_name": "(Updated Version) Project Cougar - Olava the Feeble-73389-2-0-1-1679157777.7z",
+      "mod_id": 73389,
+      "hash": "sha256-QX9+naDha/AX/x4KN9pR5E/ET623lCp3lJOq5J1b/Ds="
+    },
+    "type": "primary"
+  }
+}

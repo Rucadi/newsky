@@ -1,0 +1,43 @@
+{
+  "Tattoos Scars  Marks  ect Textures for Replacers": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1",
+      "file_id": 424887,
+      "file_name": "Tattoos Scars  Marks  ect Textures for Replacers-100373-1-1694412656.zip",
+      "mod_id": 100373,
+      "hash": "sha256-XNlshWeV95cMvu0ss4OQzQDX6ZfzqIE+/+ZHYyWbZj8="
+    }
+  },
+  "Statue of Mara by Mandragorasprouts Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1",
+      "file_id": 425036,
+      "file_name": "Statue of Mara by Mandragorasprouts Patch-100373-1-1694460760.zip",
+      "mod_id": 100373,
+      "hash": "sha256-yM3Vj1V/OdtmUzTM6ByB027i+8WHGCMDv5ZPGQ5Bmrg="
+    }
+  },
+  "The Knight of the Void": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1.2",
+      "file_id": 431526,
+      "file_name": "The Knight of the Void-100373-1-1-2-1696569001.zip",
+      "mod_id": 100373,
+      "hash": "sha256-KqoyzAp027O5g0VTnkQoAlXjGWVNCujeTRxCwm2h57Y="
+    },
+    "type": "primary"
+  },
+  "Knight of the Void Shattered Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1",
+      "file_id": 436555,
+      "file_name": "Knight of the Void Shattered Patch-100373-1-1698103350.zip",
+      "mod_id": 100373,
+      "hash": "sha256-ZO4zEDbvLqk7hnSuYIfOA5OMBvFX/ALglq12UOCyuiE="
+    }
+  }
+}

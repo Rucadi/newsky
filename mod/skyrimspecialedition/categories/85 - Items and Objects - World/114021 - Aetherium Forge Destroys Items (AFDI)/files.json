@@ -1,0 +1,83 @@
+{
+  "AFDI - ElSopa - Skeleton Key Redone Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.2.1",
+      "file_id": 484605,
+      "file_name": "AFDI - ElSopa - Skeleton Key Redone Patch-114021-1-2-1-1711545414.7z",
+      "mod_id": 114021,
+      "hash": "sha256-aeUt5eAsm5us52UZPn86eSMY75iyAmO/7gCXGWOIF6U="
+    }
+  },
+  "AFDI - TG Alternative Endings Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.5",
+      "file_id": 508622,
+      "file_name": "AFDI - TG Alternative Endings Patch-114021-1-5-1717599291.7z",
+      "mod_id": 114021,
+      "hash": "sha256-cf5osHr5BjXYZj5EJI0H0JRZeNQCWjRVcyFatz5IiQg="
+    }
+  },
+  "AFDI - JS Lockpicking UI SE - Non-Gold Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.5",
+      "file_id": 508625,
+      "file_name": "AFDI - JS Lockpicking UI SE - Non-Gold Patch-114021-1-5-1717600043.7z",
+      "mod_id": 114021,
+      "hash": "sha256-vw5UBsPHPdJRWrbum/AfjhmIfyJG5jtLNUE76IkBhRw="
+    }
+  },
+  "AFDI - JS Lockpicking UI SE - Gold Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.5",
+      "file_id": 508626,
+      "file_name": "AFDI - JS Lockpicking UI SE - Gold Patch-114021-1-5-1717600075.7z",
+      "mod_id": 114021,
+      "hash": "sha256-6WLUIBWdRD1kJG5lIu5188PHmp8DlGmnBe0YaWGFZx4="
+    }
+  },
+  "AFDI - CC Saints and Seducers Creatures Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "2.0",
+      "file_id": 696496,
+      "file_name": "AFDI - CC Saints and Seducers Creatures Patch-114021-2-0-1765384080.7z",
+      "mod_id": 114021,
+      "hash": "sha256-1FdsME4Dfhp5G2PC7vm7jwTTKAPuRZmZ6WbgE35t+lo="
+    }
+  },
+  "AFDI - Creature Textures Medium (2K)": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "2.0.1",
+      "file_id": 697321,
+      "file_name": "AFDI - Creature Textures Medium (2K)-114021-2-0-1-1765572072.7z",
+      "mod_id": 114021,
+      "hash": "sha256-ESSsZWbEdY1TnjTUdtYLZjh+3pbMuo+iFJ3pwoVPHJ4="
+    }
+  },
+  "AFDI - Creature Textures High (4K)": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "2.0.1",
+      "file_id": 697324,
+      "file_name": "AFDI - Creature Textures High (4K)-114021-2-0-1-1765572332.7z",
+      "mod_id": 114021,
+      "hash": "sha256-V1MoYygQeT1mZsekwQA+wepBjP/mhiaBe9ZxcQtF3QA="
+    }
+  },
+  "AFDI - Aetherium Forge Destroys Items": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "2.0.3",
+      "file_id": 703222,
+      "file_name": "AFDI - Aetherium Forge Destroys Items-114021-2-0-3-1767013649.7z",
+      "mod_id": 114021,
+      "hash": "sha256-UdjpOHtX4e3uQdO5dMFD/yiZtd4dSykWtBoeY7f5iTI="
+    },
+    "type": "primary"
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "shadowman_aniseSLVanilla": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "2",
+      "file_id": 598665,
+      "file_name": "shadowman_aniseSLVanilla-107379-2-1740422640.rar",
+      "mod_id": 107379,
+      "hash": "sha256-o4DQ+bb/lMvGCqdrN7yGBwRaMBDOLD7ecPkL3LAeqZg="
+    },
+    "type": "primary"
+  },
+  "shadowman_aniseFGVanilla": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "2",
+      "file_id": 598666,
+      "file_name": "shadowman_aniseFGVanilla-107379-2-1740422680.rar",
+      "mod_id": 107379,
+      "hash": "sha256-Qqp/yHjiDaucOlDf3rye6SyX9N+tUQgimEmloK2Pv9M="
+    },
+    "type": "primary"
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "Requiem - Mihail Black Ooze": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.00",
+      "file_id": 379158,
+      "file_name": "Requiem - Mihail Black Ooze-89443-1-00-1681747040.rar",
+      "mod_id": 89443,
+      "hash": "sha256-JCJp6Z30yYM6Zou96eq1VqfQ37yKUFwxFffbsu/AZYA="
+    },
+    "type": "primary"
+  },
+  "Requiem - Mihail Voriplasm": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.00",
+      "file_id": 379159,
+      "file_name": "Requiem - Mihail Voriplasm-89443-1-00-1681747061.rar",
+      "mod_id": 89443,
+      "hash": "sha256-5lO1ppDW+ymHayM/ch5+pP+CbBr4LobyeY2YlUeVAsY="
+    },
+    "type": "primary"
+  }
+}

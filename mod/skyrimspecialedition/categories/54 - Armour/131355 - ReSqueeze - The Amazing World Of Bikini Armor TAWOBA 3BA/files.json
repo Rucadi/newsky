@@ -1,0 +1,23 @@
+{
+  "Aphrodite's Daughters 3 SQUEEZE BodySlide Preset": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0.0",
+      "file_id": 551294,
+      "file_name": "Aphrodite's Daughters 3 SQUEEZE BodySlide Preset-131355-1-0-0-1728711732.zip",
+      "mod_id": 131355,
+      "hash": "sha256-gKHu96bueq6bHqyqxHIMkpFvm5gxB5BQJw6ZK/pPLHo="
+    }
+  },
+  "ReSqueeze - The Amazing World Of Bikini Armor": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "2.0.1",
+      "file_id": 559860,
+      "file_name": "ReSqueeze - The Amazing World Of Bikini Armor-131355-2-0-1-1731007421.zip",
+      "mod_id": 131355,
+      "hash": "sha256-AzfpJC5O8MhIw9FHXyK1YK7bwFK/+fj+AKPDLnfGKzw="
+    },
+    "type": "primary"
+  }
+}

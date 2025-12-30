@@ -1,0 +1,24 @@
+{
+  "Shrine of Mehrunes Dagon 4k": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 323105,
+      "file_name": "Shrine of Mehrunes Dagon 4k-76898-1-0-1665424315.zip",
+      "mod_id": 76898,
+      "hash": "sha256-CnshP7HI0A8l+XV8iVW7i7yIGpNb445Tho/a5MfBQ2s="
+    },
+    "type": "primary"
+  },
+  "Shrine of Mehrunes Dagon 2k": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 323106,
+      "file_name": "Shrine of Mehrunes Dagon 2k-76898-1-0-1665424342.zip",
+      "mod_id": 76898,
+      "hash": "sha256-AuhI3FIQJqw9jxeA7z4q6DiMok3EKeM/TqY4nKpY8oQ="
+    },
+    "type": "primary"
+  }
+}

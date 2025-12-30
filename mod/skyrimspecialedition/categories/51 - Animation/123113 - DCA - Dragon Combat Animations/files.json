@@ -1,0 +1,33 @@
+{
+  "DCA v1.0": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 516677,
+      "file_name": "DAC v1.0-123113-1-0-1719844728.7z",
+      "mod_id": 123113,
+      "hash": "sha256-dGm0fwD0sJYbyZjQ4J8wBLX4JrsN1dObY+qy52f/wRU="
+    },
+    "type": "primary"
+  },
+  "DCA - random precent attacks for Distar dragons": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 516970,
+      "file_name": "DCA - random precent attacks for Distar dragons-123113-1-0-1719917368.7z",
+      "mod_id": 123113,
+      "hash": "sha256-thL0hDpS1MStoC8dhxyDIBDaO0kF1cTk3ms87Y5Aazw="
+    }
+  },
+  "DCA - Dragon skeleton with smaller bumper": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 521293,
+      "file_name": "DAC - Dragon skeleton with smaller bumper-123113-1-0-1721007118.7z",
+      "mod_id": 123113,
+      "hash": "sha256-nLKxouyh3D05iwpfb6iNUrZJYjPap1iwl+92vSwTadg="
+    }
+  }
+}

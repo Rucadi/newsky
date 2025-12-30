@@ -1,0 +1,43 @@
+{
+    "VIGILANT SE HiRes Pack Landscape 4K": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "1.6.0.a",
+            "file_id": 179292,
+            "file_name": "VIGILANT - HiRes Pack 4K Landscape-11849-1-6-0-a-1610551128.7z",
+            "mod_id": 11849,
+            "hash": "sha256-4OyZJoNsB+7LFpjP/puaPfAHexgfV/NOSzv6/bhug2Q="
+        }
+    },
+    "Vigilant - Achievement Injector Patch": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "1.01",
+            "file_id": 548380,
+            "file_name": "Vigilant - Achievement Injector Patch-11849-1-01-1727891611.7z",
+            "mod_id": 11849,
+            "hash": "sha256-ndEirlVyYDiLkgKfRWzQBUL6duiTTa0lfCcpTSmsVe4="
+        }
+    },
+    "VIGILANT SE HiRes Pack 180": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "1.8.0",
+            "file_id": 655345,
+            "file_name": "VIGILANT SE HiRes Pack 180-11849-1-8-0-1755126181.rar",
+            "mod_id": 11849,
+            "hash": "sha256-p/7lCh0TCGH1vc3jFtqBGOUq81uS6kWvpLqxHxEaSr4="
+        }
+    },
+    "VIGILANT SE v180": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "1.8.0",
+            "file_id": 657351,
+            "file_name": "VIGILANT SE v180-11849-1-8-0-1755647206.rar",
+            "mod_id": 11849,
+            "hash": "sha256-zMuLuh2DE2h5M96QNNxwZ8Rf260u7gImeZ4kXNVUpso="
+        },
+        "type": "primary"
+    }
+}

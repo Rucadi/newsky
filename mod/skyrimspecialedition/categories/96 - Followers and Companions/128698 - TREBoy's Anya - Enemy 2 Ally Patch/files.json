@@ -1,0 +1,35 @@
+{
+  "Anya (TREBoy) - E2A - Assets": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 540030,
+      "file_name": "Anya (TREBoy) - E2A - Assets-128698-1-0-1725803181.rar",
+      "mod_id": 128698,
+      "hash": "sha256-0rBT0Bo2JRyB632F6zAG14aKTmEPqibMI+GH3zO9njE="
+    },
+    "type": "primary"
+  },
+  "Anya (TREBoy) - E2A - De-Standalone": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 540031,
+      "file_name": "Anya (TREBoy) - E2A - De-Standalone-128698-1-0-1725803212.rar",
+      "mod_id": 128698,
+      "hash": "sha256-VlAIYK2fY1ylCm4N92L5EnuFLXfydUlRAjbR35y02i0="
+    },
+    "type": "primary"
+  },
+  "Anya (TREBoy) - E2A - Original": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 540032,
+      "file_name": "Anya (TREBoy) - E2A - Original-128698-1-0-1725803240.rar",
+      "mod_id": 128698,
+      "hash": "sha256-TUU7tN7WlcXwEBPEwjlzfY9LZzHQ+ZLukcTy1iYgyig="
+    },
+    "type": "primary"
+  }
+}

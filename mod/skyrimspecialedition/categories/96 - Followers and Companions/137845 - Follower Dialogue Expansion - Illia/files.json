@@ -1,0 +1,23 @@
+{
+    "FDE Illia": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "2.0",
+            "file_id": 578397,
+            "file_name": "FDE Illia-137845-2-0-1735752441.zip",
+            "mod_id": 137845,
+            "hash": "sha256-Gt/dUT5Dw5iFWn3xRA4XY5G6b698N0bnLnHBkKJrDuU="
+        },
+        "type": "primary"
+    },
+    "FDE Illia Inigo patch": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "1",
+            "file_id": 578594,
+            "file_name": "FDE Illia Inigo patch-137845-1-1735791925.zip",
+            "mod_id": 137845,
+            "hash": "sha256-llltgapaIxpmc9+5nf8sm5mUbx5XXMVcKghMxrW2nnc="
+        }
+    }
+}

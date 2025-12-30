@@ -1,0 +1,33 @@
+{
+  "Volendrung 4k": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 584717,
+      "file_name": "Volendrung 4k-139410-1-0-1737197475.7z",
+      "mod_id": 139410,
+      "hash": "sha256-jOv7ppvep3HIIqpKmIY9x+ol1BCfPyczLlgqtzuIFgk="
+    }
+  },
+  "Volendrung Rework 1.03": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.03",
+      "file_id": 651802,
+      "file_name": "Volendrung Rework 1.03-139410-1-03-1754023838.zip",
+      "mod_id": 139410,
+      "hash": "sha256-eoo+NKpjSwcaV/g4ezHRLmR1/W7yt6f+yyfKZdNdzG4="
+    },
+    "type": "primary"
+  },
+  "Volendrung Rework 1.03 CHS": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.03",
+      "file_id": 651803,
+      "file_name": "Volendrung Rework 1.03 CHS-139410-1-03-1754023889.zip",
+      "mod_id": 139410,
+      "hash": "sha256-6MKQin/qxYx0YGt/t0Knizvkp9kPjBoavqRUXmcjUAU="
+    }
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "ColdSun's Visions - Karla Raven - Follower": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 484719,
+      "file_name": "ColdSun's Visions - Karla Raven - Follower-115187-1-0-1711578335.zip",
+      "mod_id": 115187,
+      "hash": "sha256-5uW+PiS/N7LQODMYd5ZH1d1wQz6ETUOxa/aOWBy56bU="
+    },
+    "type": "primary"
+  },
+  "Exnem Amazon Outfit - Black Texture": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 484720,
+      "file_name": "Exnem Amazon Outfit - Black Texture-115187-1-0-1711578598.zip",
+      "mod_id": 115187,
+      "hash": "sha256-gFmdLRs8oVO5uvDJcssZW2/99AiIwW+/PzEPxdSzmgs="
+    }
+  },
+  "ColdSun's Visions - Karla Raven - Follower - ESPFE": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 484946,
+      "file_name": "ColdSun's Visions - Karla Raven - Follower - ESPFE-115187-1-0-1711642388.zip",
+      "mod_id": 115187,
+      "hash": "sha256-MBu/v/22O510WvDUWUssnZJydNO8fxzDPqI60HNnGIM="
+    },
+    "type": "primary"
+  }
+}

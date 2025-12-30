@@ -1,0 +1,23 @@
+{
+  "Cathedral - 3D Stonecrop - Uncompressed": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.2",
+      "file_id": 469403,
+      "file_name": "Cathedral - 3D Stonecrop - Uncompressed-110726-1-2-1707522264.zip",
+      "mod_id": 110726,
+      "hash": "sha256-fsZbBZhHtMk5IsS6X9bQnZWIskkLzANzAjrZ8748+T4="
+    }
+  },
+  "Cathedral - 3D Stone": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.2",
+      "file_id": 469404,
+      "file_name": "Cathedral - 3D Stone-110726-1-2-1707522429.zip",
+      "mod_id": 110726,
+      "hash": "sha256-QBnzN17NKnADME/xIGGuaw8KNNj47CZrOPlYnQJ41hk="
+    },
+    "type": "primary"
+  }
+}

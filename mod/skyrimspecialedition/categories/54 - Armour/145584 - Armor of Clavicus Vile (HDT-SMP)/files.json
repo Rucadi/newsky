@@ -1,0 +1,23 @@
+{
+  "Armor of Clavicus Vile (Render Version)": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.00",
+      "file_id": 609011,
+      "file_name": "Armor of Clavicus Vile (Render Version)-145584-1-00-1742770637.zip",
+      "mod_id": 145584,
+      "hash": "sha256-pZ7R2ShgxysfmDWmMA1NVcHqybuSyxR4JI+wSogO9T8="
+    },
+    "type": "primary"
+  },
+  "Render 2K": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.00",
+      "file_id": 609014,
+      "file_name": "Render 2K-145584-1-00-1742770919.zip",
+      "mod_id": 145584
+    },
+    "type": "primary"
+  }
+}

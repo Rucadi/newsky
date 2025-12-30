@@ -1,0 +1,45 @@
+{
+  "RUSTIC CLUTTER COLLECTION - Special Edition - 2K": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 12967,
+      "file_name": "RUSTIC CLUTTER COLLECTION - Special Edition - 2K-5795-1-0.7z",
+      "mod_id": 5795,
+      "hash": "sha256-DaTFTCJtIIaMGMA8dauvJ8MKp6jyj1uSTvyU0XORGHQ="
+    },
+    "type": "primary"
+  },
+  "RUSTIC CLUTTER COLLECTION - Special Edition - 2K-1K": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 12969,
+      "file_name": "RUSTIC CLUTTER COLLECTION - Special Edition - 2K-1K-5795-1-0.7z",
+      "mod_id": 5795,
+      "hash": "sha256-CNVY4hBbEtQIbGYzdNqJWUth1YFgckYhceDG4KPfQfo="
+    },
+    "type": "primary"
+  },
+  "RUSTIC CLUTTER COLLECTION - Special Edition - 1K": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 12971,
+      "file_name": "RUSTIC CLUTTER COLLECTION - Special Edition - 1K-5795-1-0.7z",
+      "mod_id": 5795,
+      "hash": "sha256-uzhpMGHTn9R2d3xOk7IAfWFo0a1EgmV1AT8fWdq0gyw="
+    },
+    "type": "primary"
+  },
+  "Mead Labels - Russian": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 351557,
+      "file_name": "Mead Labels - Russian-5795-1-0-1674274398.7z",
+      "mod_id": 5795,
+      "hash": "sha256-8hB0ASkJ6pTYeW48K/h+XJ+nLxcXD8dz0SZIcoZLvtE="
+    }
+  }
+}

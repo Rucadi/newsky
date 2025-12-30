@@ -1,0 +1,44 @@
+{
+  "Slordar's Body Freckles 4k": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 261552,
+      "file_name": "Slordar's Body Freckles 4k-62508-1-0-1643917973.zip",
+      "mod_id": 62508,
+      "hash": "sha256-cXN4ohkAUMZbx+WosvWknTCuVZ5sT/s4yEcJsAFasHU="
+    }
+  },
+  "Slordar's Body Freckles 2k": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 261553,
+      "file_name": "Slordar's Body Freckles 2k-62508-1-0-1643918004.zip",
+      "mod_id": 62508,
+      "hash": "sha256-ifC1V2AW8n6NWIPF+o1D69GCdVcVBoUro+lZx8buKqE="
+    }
+  },
+  "Koralina's Freckles and Moles 2k ESL": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1",
+      "file_id": 262465,
+      "file_name": "Koralina's Freckles and Moles 2k ESL-62508-1-1-1644249524.zip",
+      "mod_id": 62508,
+      "hash": "sha256-0gTMJOboBHdSmX28O6jg9HvUdx+/nyM9iIZ6l3QGl3c="
+    },
+    "type": "primary"
+  },
+  "Koralina's Freckles and Moles 4k ESL": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1",
+      "file_id": 262466,
+      "file_name": "Koralina's Freckles and Moles 4k ESL-62508-1-1-1644249570.zip",
+      "mod_id": 62508,
+      "hash": "sha256-bH/HHP4JN7P597Ekd9494Iwu2nSSMipGNEdKg3YvoEk="
+    },
+    "type": "primary"
+  }
+}

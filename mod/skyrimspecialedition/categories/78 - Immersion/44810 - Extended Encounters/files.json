@@ -1,0 +1,24 @@
+{
+    "Extended Encounters": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "1.6.9",
+            "file_id": 605802,
+            "file_name": "Extended Encounters-44810-1-6-9-1742025566.zip",
+            "mod_id": 44810,
+            "hash": "sha256-QN43vFeHSJLEsbSzZ+To3aLvrRDAwMoEWxIDIuOfU/o="
+        },
+        "type": "primary"
+    },
+    "Extended Encounters ESL": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "1.6.9",
+            "file_id": 605803,
+            "file_name": "Extended Encounters ESL-44810-1-6-9-1742025616.zip",
+            "mod_id": 44810,
+            "hash": "sha256-YyoiEbbdz8/onRa7PxKzqyaQyJopE/LWtQBMNfXt5oU="
+        },
+        "type": "primary"
+    }
+}

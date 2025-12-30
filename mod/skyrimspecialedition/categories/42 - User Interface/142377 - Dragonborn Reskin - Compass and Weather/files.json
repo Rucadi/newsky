@@ -1,0 +1,88 @@
+{
+  "Dragonborn Reskin - Compass (Dear Diary Dark Mode)": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 599314,
+      "file_name": "Dragonborn Reskin - Compass (Dear Diary Dark Mode)-142377-1-0-1740579923.zip",
+      "mod_id": 142377,
+      "hash": "sha256-H7hG5y0+AoI58bogTlNb9k+zGGrFiZAdzGFUYsetU0I="
+    },
+    "type": "primary"
+  },
+  "Sunhelm Survival and Needs patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 602737,
+      "file_name": "Sunhelm Survival and Needs patch-142377-1-0-1741362091.zip",
+      "mod_id": 142377,
+      "hash": "sha256-uVbPJAZPD4qUp9cZp2QYfltwRY0wC/wOtCwB/BjR3yA="
+    }
+  },
+  "Nordic UI hudmenu.swf replacer": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 648214,
+      "file_name": "Nordic UI hudmenu.swf replacer-142377-1-0-1752857624.zip",
+      "mod_id": 142377,
+      "hash": "sha256-MNGiYeMCIeyH2znulAarvZpmFo6RdQBIANcbbTHmEfo="
+    }
+  },
+  "Dragonborn Reskin - Compass (Untarnished)": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1",
+      "file_id": 649079,
+      "file_name": "Dragonborn Reskin - Compass (Untarnished)-142377-1-1-1753120882.zip",
+      "mod_id": 142377,
+      "hash": "sha256-my/B6/hgoq4O4i6iWG5Wdp0RMKeOnGhxIqGjFh+XLrY="
+    },
+    "type": "primary"
+  },
+  "Dragonborn Reskin - Compass (Vanilla)": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1",
+      "file_id": 649083,
+      "file_name": "Dragonborn Reskin - Compass (Vanilla)-142377-1-1-1753121252.zip",
+      "mod_id": 142377,
+      "hash": "sha256-1YAQ27lJgiSD/WrLMgXRbQP5bMgwA36K05rJ8dDy9uQ="
+    },
+    "type": "primary"
+  },
+  "Dragonborn Reskin - Compass (Nordic)": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1",
+      "file_id": 649084,
+      "file_name": "Dragonborn Reskin - Compass (Nordic)-142377-1-1-1753121720.zip",
+      "mod_id": 142377,
+      "hash": "sha256-tH1W4N347VArdvZQbYlpplK76x4SxMiIEcYnng+Cz1w="
+    },
+    "type": "primary"
+  },
+  "Dragonborn Reskin - Compass (EdgeUI)": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1",
+      "file_id": 649086,
+      "file_name": "Dragonborn Reskin - Compass (EdgeUI)-142377-1-1-1753122539.zip",
+      "mod_id": 142377,
+      "hash": "sha256-u/SBUOWJiwCqu4o51HFX2D5WzZ1ttX2IAmLNcd1gpJA="
+    },
+    "type": "primary"
+  },
+  "Dragonborn Reskin - Compass ( Dragonborn UI )": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.12",
+      "file_id": 657816,
+      "file_name": "Dragonborn Reskin - Compass (Dragonborn UI)-142377-1-12-1755789024.zip",
+      "mod_id": 142377,
+      "hash": "sha256-8na+vAYjqc73YyJZWfr4QHOpxztVAPrSFgy9XddWJbE="
+    },
+    "type": "primary"
+  }
+}

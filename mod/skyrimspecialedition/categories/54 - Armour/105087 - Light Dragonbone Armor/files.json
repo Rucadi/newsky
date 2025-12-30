@@ -1,0 +1,33 @@
+{
+  "Light Dragonbone Armor": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 443951,
+      "file_name": "Light Dragonbone Armor-105087-1-0-1700401254.7z",
+      "mod_id": 105087,
+      "hash": "sha256-49l0SQxll5CxdS0S2llhyrCb+ScL3+CPYZ835IbXPSc="
+    },
+    "type": "primary"
+  },
+  "Heavy Armor version": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1",
+      "file_id": 444023,
+      "file_name": "Heavy Armor version-105087-1-1-1700413326.7z",
+      "mod_id": 105087,
+      "hash": "sha256-vSG2ipY0nrQqU0BPyLknJBXs7EviHEYyaKENHDnMiaA="
+    }
+  },
+  "SPID Distribution": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 444306,
+      "file_name": "SPID Distribution-105087-1-0-1700492427.7z",
+      "mod_id": 105087,
+      "hash": "sha256-YtDobGFNMcaPn/5K/vIQeLH0W84Us7kbBPAUpa00G8U="
+    }
+  }
+}

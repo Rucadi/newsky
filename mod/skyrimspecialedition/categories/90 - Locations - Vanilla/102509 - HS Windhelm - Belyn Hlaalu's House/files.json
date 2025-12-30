@@ -1,0 +1,33 @@
+{
+  "HSWindhelm - Belyn Hlaalu's House": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0.0",
+      "file_id": 433673,
+      "file_name": "HSWindhelm - Belyn Hlaalu's House-102509-1-0-0-1697229597.7z",
+      "mod_id": 102509,
+      "hash": "sha256-pagWHwDrKxSgFN2v9EMJak0A7WgD/IZlceJZl/lg4R8="
+    },
+    "type": "primary"
+  },
+  "HSWindhelm - Belyn Hlaalu's House - ELFX": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0.0",
+      "file_id": 433674,
+      "file_name": "HSWindhelm - Belyn Hlaalu's House - ELFX-102509-1-0-0-1697229627.7z",
+      "mod_id": 102509,
+      "hash": "sha256-PZuDpFp1bPK77CGCyY26K53+Pe5uIopW/kLVY4IYlYQ="
+    }
+  },
+  "HSWindhelm - Belyn Hlaalu's House - LUX": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0.0",
+      "file_id": 433675,
+      "file_name": "HSWindhelm - Belyn Hlaalu's House - LUX-102509-1-0-0-1697229661.7z",
+      "mod_id": 102509,
+      "hash": "sha256-GRf2N9KVYSTuBKppS4uURLOp/BtTLRjSwKr8FuryVK4="
+    }
+  }
+}

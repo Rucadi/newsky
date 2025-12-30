@@ -1,0 +1,33 @@
+{
+    "HSPlayerHomes - SeverinManor - ELFX": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "1.0.0",
+            "file_id": 292066,
+            "file_name": "HSPlayerHomes - SeverinManor - ELFX-69855-1-0-0-1655562969.7z",
+            "mod_id": 69855,
+            "hash": "sha256-8aDgejqxzmKIt1vRPhVEH6GAviwy6BJoQAT3acV4Wm8="
+        }
+    },
+    "HSPlayerHomes - SeverinManor - LUX": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "1.0.0",
+            "file_id": 297330,
+            "file_name": "HSPlayerHomes - SeverinManor - LUX-69855-1-0-0-1657330069.7z",
+            "mod_id": 69855,
+            "hash": "sha256-BC0N9RrRAQUVuREUjcQzWhrbp+DYzaEu9ltGIgbdvyM="
+        }
+    },
+    "HSPlayerHomes - Severin Manor": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "2.0.0",
+            "file_id": 337311,
+            "file_name": "HSPlayerHomes - Severin Manor-69855-2-0-0-1670116268.7z",
+            "mod_id": 69855,
+            "hash": "sha256-5m4SbG065FH+nwG6aoa8VHkzk7uWqg/WGYNKfzkIRtI="
+        },
+        "type": "primary"
+    }
+}

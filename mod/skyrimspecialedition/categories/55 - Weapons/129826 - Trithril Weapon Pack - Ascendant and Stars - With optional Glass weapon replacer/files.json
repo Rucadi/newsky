@@ -1,0 +1,44 @@
+{
+  "Trithril Weapon Pack - Ascendants and Stars": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 544769,
+      "file_name": "Trithril Weapon Pack - Ascendants and Stars-129826-1-0-1726971981.zip",
+      "mod_id": 129826,
+      "hash": "sha256-jsq8chcr0+RAKMlflL2pUqrcCjtiHZVO81/Ia8nJhow="
+    },
+    "type": "primary"
+  },
+  "Optional 2k Textures": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 544772,
+      "file_name": "Optional 2k Textures-129826-1-0-1726972254.zip",
+      "mod_id": 129826,
+      "hash": "sha256-dyfvQ7CPVSvnpCKtwFcDKXb6oKhs8X69qlSJwJHXUvM="
+    }
+  },
+  "Alternate Version -  Glass Weapon Replacer": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 545148,
+      "file_name": "Alternate Version -  Glass Weapon Replacer-129826-1-0-1727047896.zip",
+      "mod_id": 129826,
+      "hash": "sha256-7ZiBVcMIPcfLA0iapec48L2X71sMujziAyHuLWlZe5Q="
+    },
+    "type": "primary"
+  },
+  "Trithril Glass Weapon replacer - AA addon": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 545247,
+      "file_name": "Trithril Glass Weapon replacer - AA addon-129826-1-0-1727077393.zip",
+      "mod_id": 129826,
+      "hash": "sha256-4kJDgpyA4uXLEm79YWHglPTjq0EjK0LdrHObWSJpiEU="
+    }
+  }
+}

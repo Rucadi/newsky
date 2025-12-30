@@ -1,0 +1,44 @@
+{
+  "Skeleton.and.Human.Bones.4k": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.2",
+      "file_id": 54628,
+      "file_name": "Skeleton.and.Human.Bones.4k-17282-1-2.7z",
+      "mod_id": 17282,
+      "hash": "sha256-LRG2SNJ16sFk0kmIY2WaoYciA/jhac7KnwBh5Sb67AI="
+    },
+    "type": "primary"
+  },
+  "Skeleton.and.Human.Bones.4k-2k": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.2",
+      "file_id": 54629,
+      "file_name": "Skeleton.and.Human.Bones.4k-2k-17282-1-2.7z",
+      "mod_id": 17282,
+      "hash": "sha256-VQ/fXngfHlKgXObFMiqIU7nuYVy1L2yXgebXJQ58YO4="
+    },
+    "type": "primary"
+  },
+  "Skeleton.and.Human.Bones.2k": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.2",
+      "file_id": 54630,
+      "file_name": "Skeleton.and.Human.Bones.2k-17282-1-2.7z",
+      "mod_id": 17282,
+      "hash": "sha256-KVSrC85NRdTCA0/VVkUlZ4BRxZ2sCy6iyZIXW8yCtDQ="
+    }
+  },
+  "Skeleton.and.Human.Bones.1k": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.2",
+      "file_id": 54632,
+      "file_name": "Skeleton.and.Human.Bones.1k-17282-1-2.7z",
+      "mod_id": 17282,
+      "hash": "sha256-ucAf4NkoI4O27mJFLVE5Cs7+mMZ4unnfL9mJpnqcL90="
+    }
+  }
+}

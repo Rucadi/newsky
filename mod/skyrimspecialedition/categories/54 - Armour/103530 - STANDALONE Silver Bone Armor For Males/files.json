@@ -1,0 +1,24 @@
+{
+  "Silver Bone Armor": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1",
+      "file_id": 437759,
+      "file_name": "Silver Bone Armor-103530-1-1698509307.rar",
+      "mod_id": 103530,
+      "hash": "sha256-4LW6bBFunuCJeD1HgGNa1jouEvLWwce/DCsiBkEuLt0="
+    },
+    "type": "primary"
+  },
+  "Silver Bone Armor (Hard ESP)": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1",
+      "file_id": 437760,
+      "file_name": "Silver Bone Armor (Hard ESP)-103530-1-1698509380.rar",
+      "mod_id": 103530,
+      "hash": "sha256-kyYFH1iSpg/so/q6zXNvHvZlRZenFXTiSDd/ctwxm+w="
+    },
+    "type": "primary"
+  }
+}

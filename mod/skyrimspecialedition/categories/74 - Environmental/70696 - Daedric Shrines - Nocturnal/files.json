@@ -1,0 +1,24 @@
+{
+  "Shrine of Nocturnal  4k": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 296023,
+      "file_name": "Shrine of Nocturnal  4k-70696-1-0-1656893852.zip",
+      "mod_id": 70696,
+      "hash": "sha256-oFV4BcQYbOR5lh1AZHgXlks3KpFOJ6Lpzyo8HygEfvo="
+    },
+    "type": "primary"
+  },
+  "Shrine of Nocturnal 2k": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 296024,
+      "file_name": "Shrine of Nocturnal 2k-70696-1-0-1656893876.zip",
+      "mod_id": 70696,
+      "hash": "sha256-ynHqQQ2UTbyAztWpwKVxHwSrbuXWpybkNZYD6el9ZGk="
+    },
+    "type": "primary"
+  }
+}

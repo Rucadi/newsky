@@ -1,4 +1,4 @@
-{ newsky_nexus_fetcher, pkgs}@attrs:
+{ newsky_nexus_fetcher, pkgs }@attrs:
 
 let
   # ------------------------------------------------------------
@@ -23,7 +23,6 @@ let
 
   mergeAll = xs:
     builtins.foldl' (a: b: a // b) {} xs;
-
 
   # ------------------------------------------------------------
   # Nexus file handling
@@ -60,12 +59,11 @@ let
         };
     };
 
-
   # ------------------------------------------------------------
-  # Mod parsing
+  # Mod parsing (enriched with mod_name, mod_id, category_id)
   # ------------------------------------------------------------
 
-  parseMod = categoryPath: modDir:
+  parseMod = categoryId: categoryName: categoryPath: modDir:
     let
       m = parseIdName modDir;
     in
@@ -76,11 +74,17 @@ let
               (builtins.readFile "${categoryPath}/${modDir}/files.json");
 
           parsed = filesOfMod files;
-        in {
-          "${m.name}" = parsed;
-          "${m.id}"   = parsed;
-        };
 
+          enriched = parsed // {
+            mod_name     = m.name;
+            mod_id       = m.id;
+            category_id  = categoryId;
+            category_name = categoryName;
+          };
+        in {
+          "${m.name}" = enriched;
+          "${m.id}"   = enriched;
+        };
 
   # ------------------------------------------------------------
   # Category parsing
@@ -96,12 +100,11 @@ let
           mods =
             mergeAll
               (builtins.filter (x: x != null)
-                (map (parseMod path) (listDirs path)));
+                (map (modDir: parseMod c.id c.name path modDir) (listDirs path)));
         in {
           "${c.name}" = mods;
           "${c.id}"   = mods;
         };
-
 
   # ------------------------------------------------------------
   # Extract all mods by ID
@@ -129,7 +132,6 @@ let
     in
       allModsByIdOnly;
 
-
   # ------------------------------------------------------------
   # Entry point
   # ------------------------------------------------------------
@@ -139,7 +141,7 @@ let
   categories = mergeAll
     (builtins.filter (x: x != null)
       (map (parseCategory categoriesDir) (listDirs categoriesDir)));
-  
+
 in
 categories // {
   by-mod-id = extractModsById categories;

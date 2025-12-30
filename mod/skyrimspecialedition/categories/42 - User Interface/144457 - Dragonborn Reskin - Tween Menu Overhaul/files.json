@@ -1,0 +1,75 @@
+{
+  "Swiftly Order Squad icon config file": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 605173,
+      "file_name": "Swiftly Order Squad config file-144457-1-0-1741883292.zip",
+      "mod_id": 144457,
+      "hash": "sha256-tehPEZVAElTDuaqgBR+iC2kD5nokx6eqMTL4UBaiSpo="
+    }
+  },
+  "Photo Mode icon config file": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 617308,
+      "file_name": "Photo Mode icon config file-144457-1-0-1744661281.zip",
+      "mod_id": 144457,
+      "hash": "sha256-HPuxYabHLNXBRWZA2VhJ1DHdLya+gnw3jeqdbSJQiZ8="
+    }
+  },
+  "Dialogue History icon config file": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 647944,
+      "file_name": "Dialogue History icon config file-144457-1-0-1752757471.zip",
+      "mod_id": 144457,
+      "hash": "sha256-2J2BhgJjz9esjrZUTWewfvHEPyHzAI3FkMffekPNc5Y="
+    }
+  },
+  "Dragonborn Reskin - Tween Menu Overhaul - Classic": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1",
+      "file_id": 661433,
+      "file_name": "Dragonborn Reskin - Tween Menu Overhaul - Classic-144457-1-1-1756737855.zip",
+      "mod_id": 144457,
+      "hash": "sha256-iMiZldwS6zj7xCfxwiqzvEPtYzcsOsue/5RvjN4KG00="
+    },
+    "type": "primary"
+  },
+  "Dragonborn Reskin - Tween Menu Overhaul - Alt": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "2.5",
+      "file_id": 661838,
+      "file_name": "Dragonborn Reskin - Tween Menu Overhaul - Alt-144457-2-5-1756837761.zip",
+      "mod_id": 144457,
+      "hash": "sha256-y4TfpQStnvYAACa/1yTFb/xEVa46bT7jYw14jVJpCE0="
+    },
+    "type": "primary"
+  },
+  "TMO Alternate - No level up bar": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "2.5",
+      "file_id": 661841,
+      "file_name": "TMO Alternate - No level up bar-144457-2-5-1756838434.zip",
+      "mod_id": 144457,
+      "hash": "sha256-8OzLGRLa5kCcOvvethEyZg7k3lNxndSwLSfuIZq5rNQ="
+    },
+    "type": "primary"
+  },
+  "A Horse's Life icon config file": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 664444,
+      "file_name": "A Horse's Life config file-144457-1-0-1757532249.zip",
+      "mod_id": 144457,
+      "hash": "sha256-Rr7VS7vMRYz6SWu19vaJbV0pQj+igY4nEyQSr/n0UCM="
+    }
+  }
+}

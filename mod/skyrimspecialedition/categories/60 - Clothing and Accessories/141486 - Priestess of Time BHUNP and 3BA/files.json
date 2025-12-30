@@ -1,0 +1,34 @@
+{
+  "Priestess of Time BHUNP": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 593263,
+      "file_name": "Priestess of Time BHUNP-141486-1-0-1739252368.7z",
+      "mod_id": 141486,
+      "hash": "sha256-/WQlg2TcHRVv9CpMDd4pNzjPbRHBQbxGiYpiVrcgVSU="
+    },
+    "type": "primary"
+  },
+  "Priestess of Time 3BA": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 593264,
+      "file_name": "Priestess of Time 3BA-141486-1-0-1739252589.7z",
+      "mod_id": 141486,
+      "hash": "sha256-uMn3yiABjZslYBQG7GP+lUvQ3pdaTaF3iHp+g57GG/g="
+    },
+    "type": "primary"
+  },
+  "Priestess of Time Heel Sound": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 593265,
+      "file_name": "Priestess of Time Heel Sound-141486-1-0-1739252639.7z",
+      "mod_id": 141486,
+      "hash": "sha256-f8iyVumXRjJ41IU6KgW9BhgsWht416v5micnlP1jGOc="
+    }
+  }
+}

@@ -1,49 +1,54 @@
 {
-    "Realistic AI Detection 3 - Lite": {
-        "nexusmods": {
-            "game_name": "skyrimspecialedition",
-            "version": "3.1",
-            "file_id": 279346,
-            "file_name": "Realistic AI Detection 3 - Lite-2345-3-1-1650801693.zip",
-            "mod_id": 2345
-        },
-        "type": "primary"
+  "Realistic AI Detection 3 - Lite": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "3.1",
+      "file_id": 279346,
+      "file_name": "Realistic AI Detection 3 - Lite-2345-3-1-1650801693.zip",
+      "mod_id": 2345,
+      "hash": "sha256-tIcrluKAfezvro2xA4kX/u3DhK2byh4HZef3SoVp8SY="
     },
-    "Realistic AI Detection 3 - Medium Interior Medium Exterior": {
-        "nexusmods": {
-            "game_name": "skyrimspecialedition",
-            "version": "3.1",
-            "file_id": 279347,
-            "file_name": "Realistic AI Detection 3 - Medium Interior Medium Exterior-2345-3-1-1650801751.zip",
-            "mod_id": 2345
-        },
-        "type": "primary"
+    "type": "primary"
+  },
+  "Realistic AI Detection 3 - Medium Interior Medium Exterior": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "3.1",
+      "file_id": 279347,
+      "file_name": "Realistic AI Detection 3 - Medium Interior Medium Exterior-2345-3-1-1650801751.zip",
+      "mod_id": 2345,
+      "hash": "sha256-NL37S6WcMUKkkNuVDiH2vb3r4SOYdQANStTM0by4CQ0="
     },
-    "Realistic AI Detection 3 - High Interior High Exterior": {
-        "nexusmods": {
-            "game_name": "skyrimspecialedition",
-            "version": "3.1",
-            "file_id": 279348,
-            "file_name": "Realistic AI Detection 3 - High Interior High Exterior-2345-3-1-1650801808.zip",
-            "mod_id": 2345
-        }
-    },
-    "Realistic AI Detection 3 - High Interior Medium Exterior": {
-        "nexusmods": {
-            "game_name": "skyrimspecialedition",
-            "version": "3.1",
-            "file_id": 279349,
-            "file_name": "Realistic AI Detection 3 - High Interior Medium Exterior-2345-3-1-1650801866.zip",
-            "mod_id": 2345
-        }
-    },
-    "Realistic AI Detection 3 - Medium Interior High Exterior": {
-        "nexusmods": {
-            "game_name": "skyrimspecialedition",
-            "version": "3.1",
-            "file_id": 279350,
-            "file_name": "Realistic AI Detection 3 - Medium Interior High Exterior-2345-3-1-1650801911.zip",
-            "mod_id": 2345
-        }
+    "type": "primary"
+  },
+  "Realistic AI Detection 3 - High Interior High Exterior": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "3.1",
+      "file_id": 279348,
+      "file_name": "Realistic AI Detection 3 - High Interior High Exterior-2345-3-1-1650801808.zip",
+      "mod_id": 2345,
+      "hash": "sha256-yPxxbXN2BbHLSlGexCB8XLHJb7Bg6v5q7Jl9pLUDkN0="
     }
+  },
+  "Realistic AI Detection 3 - High Interior Medium Exterior": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "3.1",
+      "file_id": 279349,
+      "file_name": "Realistic AI Detection 3 - High Interior Medium Exterior-2345-3-1-1650801866.zip",
+      "mod_id": 2345,
+      "hash": "sha256-H6u8SXFQVzbfieP1X/M/sh0DMi6v2vvnMCv+pSwGy5I="
+    }
+  },
+  "Realistic AI Detection 3 - Medium Interior High Exterior": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "3.1",
+      "file_id": 279350,
+      "file_name": "Realistic AI Detection 3 - Medium Interior High Exterior-2345-3-1-1650801911.zip",
+      "mod_id": 2345,
+      "hash": "sha256-NPjUrwWMCpxrPtFx78qpfjUwLt4pbQod5RAl3jnc+2I="
+    }
+  }
 }

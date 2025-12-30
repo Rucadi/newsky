@@ -1,0 +1,45 @@
+{
+    "SkyPatcher - Starter Setup": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "6.2.0",
+            "file_id": 677477,
+            "file_name": "SkyPatcher - Starter Setup-106659-6-2-0-1760817177.zip",
+            "mod_id": 106659,
+            "hash": "sha256-DYKedkvCBcPfF8MgLUJ4XonCQffOt1OCKdPnwiKDngk="
+        }
+    },
+    "SkyPatcher - AE": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "6.2.2",
+            "file_id": 692590,
+            "file_name": "SkyPatcher - AE-106659-6-2-2-1764445709.zip",
+            "mod_id": 106659,
+            "hash": "sha256-eoWJzhKC9fzB9/9mG+airIbRkIfiflX8s8TgdvCOYJs="
+        },
+        "type": "primary"
+    },
+    "SkyPatcher - SE": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "6.2.2",
+            "file_id": 692591,
+            "file_name": "SkyPatcher - SE-106659-6-2-2-1764445755.zip",
+            "mod_id": 106659,
+            "hash": "sha256-/gFG32cAP8rZCRFySFEBod6THMOkS8IXorIGUEO2xio="
+        },
+        "type": "primary"
+    },
+    "SkyPatcher - VR": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "6.2.2",
+            "file_id": 692592,
+            "file_name": "SkyPatcher - VR-106659-6-2-2-1764445803.zip",
+            "mod_id": 106659,
+            "hash": "sha256-l4WytEnJezpvlysWgTQYOAYlToIX+516VwMFD2csdIw="
+        },
+        "type": "primary"
+    }
+}

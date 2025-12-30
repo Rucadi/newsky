@@ -1,0 +1,92 @@
+{
+  "Iron Rose Armor": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 602759,
+      "file_name": "Iron Rose Armor-143045-1-0-1741366253.7z",
+      "mod_id": 143045,
+      "hash": "sha256-U30gigOf/NGms4vTxwWbL/d3bIKehflzsmOeSHaMsbw="
+    },
+    "type": "primary"
+  },
+  "Iron Rose Armor 4k Complex Material": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 602760,
+      "file_name": "Iron Rose Armor 4k Complex Material-143045-1-0-1741366295.7z",
+      "mod_id": 143045,
+      "hash": "sha256-0JD0BvWjPRQqp3hYxnPuNOrWrL+qTrDxdg5nG6LFJuQ="
+    }
+  },
+  "Iron Rose Armor 8k Complex Material": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 602761,
+      "file_name": "Iron Rose Armor 8k Complex Material-143045-1-0-1741366422.7z",
+      "mod_id": 143045,
+      "hash": "sha256-WMhp3sioyKotM+k5xo7HCNAD1sj+yB7JkRe24DcjyOk="
+    }
+  },
+  "Iron Rose Armor 8k": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 602762,
+      "file_name": "Iron Rose Armor 8k-143045-1-0-1741366536.7z",
+      "mod_id": 143045,
+      "hash": "sha256-rigjxMDH8xoPX5OONHQyAfSLCDuNqJ0eq8npFKsJzac="
+    }
+  },
+  "Iron Rose Armor 2k": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 604137,
+      "file_name": "Iron Rose Armor 2k-143045-1-0-1741637531.7z",
+      "mod_id": 143045,
+      "hash": "sha256-0Z5ZwGLYbKoMchNaek+5LEbNEexcZIk7g8MfQ6icVfg="
+    }
+  },
+  "Iron Rose Armor 2k Complex Material": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 604138,
+      "file_name": "Iron Rose Armor 2k Complex Material-143045-1-0-1741637554.7z",
+      "mod_id": 143045,
+      "hash": "sha256-M9hRM/4vBrDAcCqv71rKRaqvBiojJ+zi8X9rLonGPcU="
+    }
+  },
+  "Iron Rose Armor 2k PBR": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 605626,
+      "file_name": "Iron Rose Armor 2k PBR-143045-1-0-1741984062.7z",
+      "mod_id": 143045,
+      "hash": "sha256-m6EJjNk2OkrzHBtiGvmzxxwc6o9QN4fq0WzQO1LuJJQ="
+    }
+  },
+  "Iron Rose Armor 4k PBR": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 605627,
+      "file_name": "Iron Rose Armor 4k PBR-143045-1-0-1741984107.7z",
+      "mod_id": 143045,
+      "hash": "sha256-PARs+DGsYMdHHt3JPp1kPEkHZL6297o0dKxkSOnfOT0="
+    }
+  },
+  "Iron Rose Armor 8k PBR": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 605629,
+      "file_name": "Iron Rose Armor 8k PBR-143045-1-0-1741984263.7z",
+      "mod_id": 143045
+    }
+  }
+}

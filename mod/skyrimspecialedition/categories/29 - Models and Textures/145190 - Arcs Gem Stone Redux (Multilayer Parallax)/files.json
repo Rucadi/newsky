@@ -1,0 +1,35 @@
+{
+  "Arcs Gem Stone Redux 4k": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1",
+      "file_id": 607408,
+      "file_name": "Arcs Gem Stone Redux 4k-145190-1-1742396503.rar",
+      "mod_id": 145190,
+      "hash": "sha256-kaUzxf36l8BA8G9DZ+FRULJSiqWM/MsVDH0FWfpyPxA="
+    },
+    "type": "primary"
+  },
+  "Arcs Gem Stone Redux 2k": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1",
+      "file_id": 607409,
+      "file_name": "Arcs Gem Stone Redux 2k-145190-1-1742396554.rar",
+      "mod_id": 145190,
+      "hash": "sha256-gN/sj8DlbbSzxnnpM8Ql9DivWuGTkQ2MIwSvnnCKCvs="
+    },
+    "type": "primary"
+  },
+  "Arcs Gem Stone Redux 1k": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1",
+      "file_id": 607475,
+      "file_name": "Arcs Gem Stone Redux 1k-145190-1-1742413209.rar",
+      "mod_id": 145190,
+      "hash": "sha256-AB9+i/qL+NodFX1QlJ8uxBXDcVq07ZV3F2dO+19PP+4="
+    },
+    "type": "primary"
+  }
+}

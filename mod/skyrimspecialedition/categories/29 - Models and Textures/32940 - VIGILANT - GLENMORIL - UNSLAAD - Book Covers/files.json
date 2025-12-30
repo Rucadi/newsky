@@ -1,0 +1,45 @@
+{
+  "Vigilant - Book Covers": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.5",
+      "file_id": 328428,
+      "file_name": "Vigilant - Book Covers-32940-1-5-1667407761.zip",
+      "mod_id": 32940,
+      "hash": "sha256-ohKZMhQPv18VqIFYvnE/JjHz9qWaMiSy7mbDyvBhfYE="
+    },
+    "type": "primary"
+  },
+  "Glenmoril - Book Covers": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.4GL",
+      "file_id": 638647,
+      "file_name": "Glenmoril - Book Covers-32940-1-4GL-1750103944.zip",
+      "mod_id": 32940,
+      "hash": "sha256-Lt0+L4Kl+UIXb5lSD1pNoT+/KXBa1mQLOHvvFS67H4o="
+    },
+    "type": "primary"
+  },
+  "Vigilant Mazoga Book - Alternative Texture": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.5",
+      "file_id": 639475,
+      "file_name": "Mazoga - Alternative Texture-32940-1-5-1750338412.zip",
+      "mod_id": 32940,
+      "hash": "sha256-zBr6sX15zNy/rfda9phKsow8tmsL3DWioFyFh/NsKMQ="
+    }
+  },
+  "Unslaad - Book Covers": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0UN",
+      "file_id": 639483,
+      "file_name": "Unslaad - Book Covers-32940-1-0-1750339588.zip",
+      "mod_id": 32940,
+      "hash": "sha256-FuyV0cainE3CZTFbgyuN9iHI5NHRAcTkPrpiKvHK0EU="
+    },
+    "type": "primary"
+  }
+}

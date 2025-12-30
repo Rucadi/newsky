@@ -1,0 +1,63 @@
+{
+  "Rover Armor 2k Complex Material": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 535184,
+      "file_name": "Rover Armor 2k Complex Material-126983-1-0-1724598458.7z",
+      "mod_id": 126983,
+      "hash": "sha256-BTdVJqRMZqRBdI+hC+O7RycZv+PoNdYYLE/p1KFcKY0="
+    }
+  },
+  "Rover Armor 4k": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 535185,
+      "file_name": "Rover Armor 4k-126983-1-0-1724598540.7z",
+      "mod_id": 126983,
+      "hash": "sha256-axJDfiQJYYT9SMZd6mi4vWlSbTz4qdUCK8cZ/72zZ8M="
+    }
+  },
+  "Rover Armor 4k Complex Material": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 535186,
+      "file_name": "Rover Armor 4k Complex Material-126983-1-0-1724598664.7z",
+      "mod_id": 126983,
+      "hash": "sha256-1z+8VDIK0sG+TSZ2unfVKA1Ks/QimnQrkvpjh+r14Gw="
+    }
+  },
+  "Rover Armor 8k": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 535191,
+      "file_name": "Rover Armor 8k-126983-1-0-1724598979.7z",
+      "mod_id": 126983,
+      "hash": "sha256-FjLLqTPXpq/9AJALO5SJGsnsyQ5VwahoO/f2QK8oHAQ="
+    }
+  },
+  "Rover Armor 8k Complex Material": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 535198,
+      "file_name": "Rover Armor 8k Complex Material-126983-1-0-1724599313.7z",
+      "mod_id": 126983,
+      "hash": "sha256-aH7ph6+Q+QezD5AZ0Nir7KOnXUBbLYqvR+w4A4GBeUI="
+    }
+  },
+  "Rover Armor": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1",
+      "file_id": 538319,
+      "file_name": "Rover Armor-126983-1-1-1725377263.7z",
+      "mod_id": 126983,
+      "hash": "sha256-dlnEvWBmkQdWY+75towpL28tgx/TC+sS8yHYv4iw8+M="
+    },
+    "type": "primary"
+  }
+}

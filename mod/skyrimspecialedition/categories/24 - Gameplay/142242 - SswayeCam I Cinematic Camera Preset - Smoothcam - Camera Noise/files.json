@@ -1,0 +1,34 @@
+{
+  "SswayeCam I Camera Noise": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 596505,
+      "file_name": "SswayeCam I Camera Noise-142242-1-0-1739947123.rar",
+      "mod_id": 142242,
+      "hash": "sha256-mVgKGHVPQnrY2iCar7s3h5Rx5XfEtr2Jh7rlDE68BHw="
+    }
+  },
+  "SswayeCam I Cinematic Camera Preset - Smoothcam": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "Cinematic",
+      "file_id": 596511,
+      "file_name": "SswayeCam I Cinematic Camera Preset - Smoothcam-142242-1-1-1739953074.rar",
+      "mod_id": 142242,
+      "hash": "sha256-I0q+LVpfE4XD4yBZHiKWGMNTtqgEPFm1UXRoK4A4HLc="
+    },
+    "type": "primary"
+  },
+  "SswayeCam I Gameplay Camera Preset - Smoothcam": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "Gameplay",
+      "file_id": 597622,
+      "file_name": "SswayeCam I Gameplay Camera Preset - Smoothcam-142242-Gameplay-1740213168.rar",
+      "mod_id": 142242,
+      "hash": "sha256-8wHTDld8e3j6OieZtp+Inqhg9lhSVrAWTXTkYJcZek4="
+    },
+    "type": "primary"
+  }
+}

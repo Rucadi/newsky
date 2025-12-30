@@ -1,0 +1,23 @@
+{
+  "Towers of Solitude": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 530252,
+      "file_name": "Towers of Solitude-126475-1-0-1723302257.rar",
+      "mod_id": 126475,
+      "hash": "sha256-yytjZTrb7DScAAL1toHsGJpzbR0zxq/H30D88nR7ix4="
+    },
+    "type": "primary"
+  },
+  "Cleaned Plugins": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 530425,
+      "file_name": "Cleaned Plugins-126475-1-0-1723361666.rar",
+      "mod_id": 126475,
+      "hash": "sha256-0aR1K3UhQ+JpzAunNmPJrtEH0/U65uL1leWnO2/adI4="
+    }
+  }
+}

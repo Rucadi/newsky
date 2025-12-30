@@ -1,0 +1,95 @@
+{
+  "JS Vanilla Circlets SE - Requiem Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 554958,
+      "file_name": "JS Vanilla Circlets SE - Requiem Patch-131813-1-0-1729727547.zip",
+      "mod_id": 131813,
+      "hash": "sha256-ZrSGHcjhFP81NTvAZ+KqWJbbCDARGTtF6m97A28b+qg="
+    }
+  },
+  "JS Vanilla Circlets SE - Reliquary of Myth Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1",
+      "file_id": 607550,
+      "file_name": "JS Vanilla Circlets SE - Reliquary of Myth Patch-131813-1-1-1742444179.rar",
+      "mod_id": 131813,
+      "hash": "sha256-HXDvlICREPf6vVaSBsQWFF/G4KqSK00egdzcuc0sCRQ="
+    }
+  },
+  "JS Vanilla Circlets SE - 4k Textures": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.16",
+      "file_id": 658006,
+      "file_name": "JS Vanilla Circlets SE - 4k Textures-131813-1-16-1755835808.7z",
+      "mod_id": 131813,
+      "hash": "sha256-heCaIp5kWofsnwYkUMBZRDpNkDkj2tf6eMt/tzHVf7U="
+    },
+    "type": "primary"
+  },
+  "JS Vanilla Circlets SE - 2k Textures": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.16",
+      "file_id": 658008,
+      "file_name": "JS Vanilla Circlets SE - 2k Textures-131813-1-16-1755835872.7z",
+      "mod_id": 131813,
+      "hash": "sha256-+83ys1sMt74tFB+iljrWO13xK6m8oA3HPopAmsIfl74="
+    },
+    "type": "primary"
+  },
+  "JS Vanilla Circlets SE - 1k Textures": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.16",
+      "file_id": 658009,
+      "file_name": "JS Vanilla Circlets SE - 1k Textures-131813-1-16-1755835944.7z",
+      "mod_id": 131813,
+      "hash": "sha256-dx07W1R7E+kYEWcVU49uzzSXjNAIMDiimEhzTSDxo8I="
+    },
+    "type": "primary"
+  },
+  "JS Vanilla Circlets SE - USSEP Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.11",
+      "file_id": 658305,
+      "file_name": "JS Vanilla Circlets SE - USSEP Patch-131813-1-11-1755924320.7z",
+      "mod_id": 131813,
+      "hash": "sha256-WJXPonHxm+w6k4lMW4gy/DdvnXxqfI0nAllIV5F9IVU="
+    }
+  },
+  "JS Vanilla Circlets SE - Artificer Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.01",
+      "file_id": 658308,
+      "file_name": "JS Vanilla Circlets SE - Artificer Patch-131813-1-01-1755924934.7z",
+      "mod_id": 131813,
+      "hash": "sha256-xs24igwzM+eC7NyXb38ZpsMReT6zFGKcSPmh/4K2k0Q="
+    }
+  },
+  "JS Vanilla Circlets SE - Awesome Artifacts Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 667339,
+      "file_name": "JS Vanilla Circlets SE - Awesome Artifacts Patch-131813-1-0-1758294820.7z",
+      "mod_id": 131813,
+      "hash": "sha256-GYNPXCPPaTPu8Gpi6iQ8/ghZ8NQNJhTlhNRyDjSnyYM="
+    }
+  },
+  "JS Vanilla Circlets SE - UBE Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.01",
+      "file_id": 687501,
+      "file_name": "JS Vanilla Circlets SE - UBE Patch-131813-1-01-1763161872.7z",
+      "mod_id": 131813,
+      "hash": "sha256-ZeCDIQ9Yf0ovOuAVo747EVs7F8N8lKdrphg5FmelrbY="
+    }
+  }
+}

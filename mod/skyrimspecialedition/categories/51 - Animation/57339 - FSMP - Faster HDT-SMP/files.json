@@ -1,0 +1,33 @@
+{
+    "XML SSE": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "1.0",
+            "file_id": 253863,
+            "file_name": "XML SSE-57339-1-0-1641305962.7z",
+            "mod_id": 57339,
+            "hash": "sha256-MWnf/QEmIpolIf6ckUNn7BpX62BEytvI6oXVpPKV7wE="
+        }
+    },
+    "XML VR": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "1.0",
+            "file_id": 253864,
+            "file_name": "XML VR-57339-1-0-1641306151.7z",
+            "mod_id": 57339,
+            "hash": "sha256-QSDZDmzoirrglDqOJtaoMmo5zZPKowiN9rDC1YXHUsI="
+        }
+    },
+    "Faster HDT-SMP": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "2.5.1",
+            "file_id": 550156,
+            "file_name": "Faster HDT-SMP-57339-2-5-1-1728377043.7z",
+            "mod_id": 57339,
+            "hash": "sha256-RM2deQ826Wme97LThvOqVDqYK8UwttfvmMKT+bWV+FY="
+        },
+        "type": "primary"
+    }
+}

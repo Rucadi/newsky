@@ -1,0 +1,35 @@
+{
+  "Animunculi - Dwarven Sphere SFX Redesigned -": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1",
+      "file_id": 370802,
+      "file_name": "Animunculi - Dwarven Sphere SFX Redesigned --87528-1-1-1679431870.7z",
+      "mod_id": 87528,
+      "hash": "sha256-P/RYK4mysw7h1qXNucStgkkcVoWVBqVDtJOKn0yb/Ho="
+    },
+    "type": "primary"
+  },
+  "Animunculi - Dwarven Sphere SFX Redesigned (Aggressive Version) -": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1",
+      "file_id": 370809,
+      "file_name": "Animunculi - Dwarven Sphere SFX Redesigned (Aggressive Version) --87528-1-1-1679432314.7z",
+      "mod_id": 87528,
+      "hash": "sha256-fTDR7EvvpgSxKHJ9okCweFaUqAdkmtn6IuZrz+FW8TI="
+    },
+    "type": "primary"
+  },
+  "Animunculi - Dwarven Sphere SFX Redesigned - LV": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.2",
+      "file_id": 653406,
+      "file_name": "Animunculi - Dwarven Sphere SFX Redesigned - LV-87528-1-2-1754512578.7z",
+      "mod_id": 87528,
+      "hash": "sha256-V43dMNiyr/bRcHSWnSGlmYxkVG/DxijQZSRuC+irM/U="
+    },
+    "type": "primary"
+  }
+}

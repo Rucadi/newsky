@@ -1,0 +1,23 @@
+{
+  "Clavicus Vile - 4K textures": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.03",
+      "file_id": 251781,
+      "file_name": "Clavicus Vile - 4K textures-60097-1-02-1640487289.zip",
+      "mod_id": 60097,
+      "hash": "sha256-ugn+N8WVFDxVJTL1M71uetpNwlAV4vDR0sClUa2tPFg="
+    },
+    "type": "primary"
+  },
+  "Clavicus Vile - 2K textures": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.03",
+      "file_id": 251782,
+      "file_name": "Clavicus Vile - 2K textures-60097-1-02-1640487683.zip",
+      "mod_id": 60097,
+      "hash": "sha256-hxQ5B+225LhnIFZKcCbTYoz1l5VnzcdpUXSLoLdVZDg="
+    }
+  }
+}

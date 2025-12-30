@@ -1,0 +1,23 @@
+{
+    "Sunder and Wraithguard - Vault Fix": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "1.0",
+            "file_id": 244533,
+            "file_name": "Sunder and Wraithguard - Vault Fix-59083-1-0-1637936330.7z",
+            "mod_id": 59083,
+            "hash": "sha256-B2LQFtbkcOdxRAsDEtYWjlhtNfEPOfoeuq2Q6x24qQw="
+        },
+        "type": "primary"
+    },
+    "USCCCP Patch": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "1.0",
+            "file_id": 367548,
+            "file_name": "USCCCP Patch-59083-1-0-1678561884.7z",
+            "mod_id": 59083,
+            "hash": "sha256-lA2E7I7DIl+u9D2XEAiHVPWJtZjRRTBllv21m5Qwsd8="
+        }
+    }
+}

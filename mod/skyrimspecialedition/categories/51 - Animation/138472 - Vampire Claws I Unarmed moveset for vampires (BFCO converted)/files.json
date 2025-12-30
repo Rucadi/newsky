@@ -1,0 +1,24 @@
+{
+  "Vampire Claws - Unarmed moveset (BFCO converted)": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "0.1",
+      "file_id": 580758,
+      "file_name": "Vampire Claws - Unarmed moveset (BFCO converted)-138472-0-1-1736345250.zip",
+      "mod_id": 138472,
+      "hash": "sha256-331BZS40dcZGsxCTMoDn4hpiLrA6yWrHA/zBkCCzMpI="
+    },
+    "type": "primary"
+  },
+  "Vampire Claws I 0.8 speed (faster animations)": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "0.1.1",
+      "file_id": 628435,
+      "file_name": "Vampire Claws I 0.8 speed (faster animations)-138472-0-1-1-1747565526.zip",
+      "mod_id": 138472,
+      "hash": "sha256-tC3hi6b2gUhM0GuCpb1dUudJTwaIYS7wPD1V1yt7rY8="
+    },
+    "type": "primary"
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "Duncan's Paper Maps for FWMF (legacy)": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.7.3",
+      "file_id": 355286,
+      "file_name": "Duncan's Paper Maps for FWMF FOMOD (BETA)-55025-1-73-1675269700.zip",
+      "mod_id": 55025,
+      "hash": "sha256-91D3iIpbkj+15+o3mo28jq8LT/6WPcibhdoHYUjMNqM="
+    },
+    "type": "primary"
+  },
+  "Duncan's Paper Maps for FWMF": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.8.2",
+      "file_id": 560779,
+      "file_name": "Duncan's Paper Maps for FWMF-55025-1-8-2-1731238774.zip",
+      "mod_id": 55025,
+      "hash": "sha256-mzbkT+tuY/tG/K+ydbwqNCVQVBnCSJpmJRnz6cr3lWc="
+    },
+    "type": "primary"
+  }
+}

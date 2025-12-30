@@ -1,0 +1,57 @@
+{
+  "Dragonborn Reskin - Modern Wait Menu 1.25": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.25",
+      "file_id": 653573,
+      "file_name": "Dragonborn Reskin - Modern Wait Menu 1.25-132726-1-25-1754576189.zip",
+      "mod_id": 132726,
+      "hash": "sha256-w0lBgu1iusb6Ss+rZeSKcFqa4MPxTfxIlR1VrSbuv9I="
+    },
+    "type": "primary"
+  },
+  "Widescreen version 21x9": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.25",
+      "file_id": 653577,
+      "file_name": "Widescreen version 21x9-132726-1-25-1754577108.zip",
+      "mod_id": 132726,
+      "hash": "sha256-N1cR4nC+lp9VTX1vGp3UZ8Yy3oPQ40cb8dHQKybsQXU="
+    },
+    "type": "primary"
+  },
+  "Widescreen version 32x9": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.25",
+      "file_id": 653580,
+      "file_name": "Widescreen version 32x9-132726-1-25-1754578281.zip",
+      "mod_id": 132726,
+      "hash": "sha256-t0KiuaOZsGbjwbzXU5wbnBT2xL7oiha3gBVvUN9a2rI="
+    },
+    "type": "primary"
+  },
+  "Dragonborn Reskin - Modern Wait Menu Smaller": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.25",
+      "file_id": 653593,
+      "file_name": "Dragonborn Reskin - Modern Wait Menu Smaller-132726-1-25-1754580348.zip",
+      "mod_id": 132726,
+      "hash": "sha256-UWD1IXWHCx4M1cnBrsZlyf2n6PEI4CAEjB8pZrP+USU="
+    },
+    "type": "primary"
+  },
+  "Widescreen version 21x9 - Smaller": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.25",
+      "file_id": 653597,
+      "file_name": "Widescreen version 21x9 - Smaller-132726-1-25-1754581069.zip",
+      "mod_id": 132726,
+      "hash": "sha256-IApnlkrF/b4f/ZgDoouo/aY6MKGAr7N6bZalRcX4VxU="
+    },
+    "type": "primary"
+  }
+}

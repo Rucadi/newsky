@@ -1,0 +1,53 @@
+{
+  "Gryphonknight Regalia - Dynamic ENB cubemap": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1",
+      "file_id": 453660,
+      "file_name": "Dynamic ENB cubemap-107437-1-1703104074.zip",
+      "mod_id": 107437,
+      "hash": "sha256-lPuEFX9v13wgqWiQrtexF6OQFXG9sr7XQ1jmUVgEx2k="
+    }
+  },
+  "Gryphonknight Regalia - 2k textures": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.2.0",
+      "file_id": 455344,
+      "file_name": "Gryphonknight Regalia - 2k textures-107437-1-2-0-1703626997.7z",
+      "mod_id": 107437,
+      "hash": "sha256-KLQf8HkIwtPrhjZSI6jV3T3ptEd6g0KXWAi9dZ3HS1M="
+    }
+  },
+  "Gryphonknight Regalia - 8k textures": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.2.0",
+      "file_id": 455345,
+      "file_name": "Gryphonknight Regalia - 8k textures-107437-1-2-0-1703627046.7z",
+      "mod_id": 107437,
+      "hash": "sha256-rH5E+tG4dBp6lgcFCZ5j9yqWQXS40IsAV4VElE2mCww="
+    }
+  },
+  "Gryphonknight Regalia - Breton Noble Armor": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.3",
+      "file_id": 536252,
+      "file_name": "Gryphonknight Regalia - Breton Noble Armor-107437-1-3-1724880605.zip",
+      "mod_id": 107437,
+      "hash": "sha256-SfVadk4ps3PlPbDFfyOXvq7fPCAFvmKSHFSo3ZuGDn8="
+    },
+    "type": "primary"
+  },
+  "Gryphonknight Regalia - SMP patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.3",
+      "file_id": 536253,
+      "file_name": "Gryphonknight Regalia - SMP patch-107437-1-3-1724880660.zip",
+      "mod_id": 107437,
+      "hash": "sha256-nyYMQmSFnGQPNNX1dp7m+zc6wF79v8ndvOFfF7BKZj4="
+    }
+  }
+}

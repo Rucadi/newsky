@@ -1,0 +1,23 @@
+{
+  "Main file 3BA": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 444277,
+      "file_name": "Main file 3BA-105109-1-0-1700484204.zip",
+      "mod_id": 105109,
+      "hash": "sha256-4YK3sCpNQNXdgrrQgaYC0THj5McdgIui+IBGPjK81gw="
+    },
+    "type": "primary"
+  },
+  "Obi's Tattoos SlaveTats patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 581545,
+      "file_name": "Obi's Tattoos SlaveTats patch-105109-1-0-1736521657.7z",
+      "mod_id": 105109,
+      "hash": "sha256-ZU1zf3WBp+YBii1vkdqCLUkZ9vfWu9Ip69wgrhmfzBI="
+    }
+  }
+}

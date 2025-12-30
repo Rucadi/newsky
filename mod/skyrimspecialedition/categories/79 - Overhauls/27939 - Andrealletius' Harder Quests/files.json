@@ -1,0 +1,154 @@
+{
+  "Andrealphus' Harder Quests - Mara Quests": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 101828,
+      "file_name": "ANDR Tweaks 02 - Harder Mara Quests-27939-1-0-1564922178.7z",
+      "mod_id": 27939,
+      "hash": "sha256-46MYk0e7+mmDB+4VV9TIYSvFnX/nkAX2xLx/ebOSbR4="
+    },
+    "type": "primary"
+  },
+  "Andrealphus' Harder Quests - Nirnroot Quest": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 101829,
+      "file_name": "ANDR Tweaks 03 - Harder Nirnroot Quest-27939-1-0-1564922234.7z",
+      "mod_id": 27939,
+      "hash": "sha256-rDFzoMMi2iE8MiiC7BGgD9I89zBV9Lq7jZmlL20Xwtw="
+    },
+    "type": "primary"
+  },
+  "Andrealphus' Harder Quests - No Easy Bloodkin": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 101832,
+      "file_name": "ANDR Tweaks 06 - No Easy Bloodkin-27939-1-0-1564922413.7z",
+      "mod_id": 27939,
+      "hash": "sha256-zabwbSKjAX0MEA7UC/Znyhyu4Q3vGzJNxR07pmU1InU="
+    },
+    "type": "primary"
+  },
+  "Andrealphus' Harder Quests - Harder Thaneships - NSFMQ Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 101845,
+      "file_name": "ANDR Tweaks 05 - Harder Thaneships - NSFMQ Patch-27939-1-0-1564923170.7z",
+      "mod_id": 27939,
+      "hash": "sha256-YTbsMPOVNZawWCWkJrJegAl0MzX5ZJqP2iB3lMq1NlU="
+    }
+  },
+  "Andrealphus' Harder Quests - Alik'r Prisoner - Higher Fine": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 240667,
+      "file_name": "Andrealphus' Harder Quests - Alik'r Prisoner - Higher Fine-27939-1-0-1636675126.7z",
+      "mod_id": 27939,
+      "hash": "sha256-zNJEXe1FWOMhHfneDsvqkoRmyZurpwvK1jDWrF0Ij/E="
+    },
+    "type": "primary"
+  },
+  "Harder Thaneships": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.2",
+      "file_id": 249484,
+      "file_name": "Harder Thaneships-27939-1-2-1639619863.7z",
+      "mod_id": 27939,
+      "hash": "sha256-HKBZb5YHd7nmvg6whPX/KXTp6tIaYCmTMrcIhdU2HBs="
+    },
+    "type": "primary"
+  },
+  "Harder Thaneships - Globals Only": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 256705,
+      "file_name": "Harder Thaneships - Globals Only-27939-1-0-1642196676.7z",
+      "mod_id": 27939,
+      "hash": "sha256-T9NOs4DQAbgLxO1r1P7fdd3E3+gyeEY0CPl9QtMHogY="
+    },
+    "type": "primary"
+  },
+  "Harder Nirnroot Quest - The Choice Is Yours Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.2a",
+      "file_id": 360472,
+      "file_name": "Harder Nirnroot Quest - The Choice Is Yours Patch-27939-1-0a-1676593444.7z",
+      "mod_id": 27939,
+      "hash": "sha256-7JjkCaTLOtZw97syUKXmrI4YZMIphudf3oNX46Vzkxw="
+    }
+  },
+  "Andrealphus' Harder Quests - Solstheim Quests": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.2.5",
+      "file_id": 535624,
+      "file_name": "Andrealphus' Harder Quests - Solstheim Quests-27939-1-2-5-1724693582.7z",
+      "mod_id": 27939,
+      "hash": "sha256-v+V6bDtfjMDoLhdUxbu4eUiEcPL1VwSKV+gw3wh9iXo="
+    },
+    "type": "primary"
+  },
+  "Weighted Quest Items": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.2.6",
+      "file_id": 538452,
+      "file_name": "Weighted Quest Items-27939-1-2-6-1725403423.7z",
+      "mod_id": 27939,
+      "hash": "sha256-DPRIEM1rwDh9JUb+naaDGTTOVDMlzDoFwoztM2jom/0="
+    },
+    "type": "primary"
+  },
+  "Stronger High Hrothgar Frost Troll": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.2.6",
+      "file_id": 538454,
+      "file_name": "Stronger High Hrothgar Frost Troll-27939-1-2-6-1725404630.7z",
+      "mod_id": 27939,
+      "hash": "sha256-c5XFu27e6n0cPcLEL5WcwWv4id25Z/usoCqF8KuTR0A="
+    },
+    "type": "primary"
+  },
+  "Harder Quests - Azura's Star": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.2.7",
+      "file_id": 542191,
+      "file_name": "Harder Quests - Azura's Star-27939-1-2-6-1726347952.7z",
+      "mod_id": 27939,
+      "hash": "sha256-NoBwzIgkub4idYBalyUZ3gza5VvUghnbPFdGUX4WntM="
+    },
+    "type": "primary"
+  },
+  "Harder Quests - The Forgemaster's Fingers": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.2.7",
+      "file_id": 542196,
+      "file_name": "Harder Quests - The Forgemaster's Fingers-27939-1-2-7-1726348053.7z",
+      "mod_id": 27939,
+      "hash": "sha256-1HH/MIvJ8PCTR3wF44djyt2Zfp8dP4IINasEAorlzPE="
+    },
+    "type": "primary"
+  },
+  "Malborn Container Limiter": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.2.9",
+      "file_id": 551519,
+      "file_name": "Malborn Container Limiter-27939-1-2-9-1728766916.7z",
+      "mod_id": 27939,
+      "hash": "sha256-MDuZ0nxgc2/J0fM+RCCL4PoXHRvxoHNx6ppMeHWhzVU="
+    },
+    "type": "primary"
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "Donate More Gold To Maramal Addon (1.0.0)": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0.0",
+      "file_id": 292332,
+      "file_name": "Donate More Gold To Maramal Addon (1.0.0)-69907-1-0-0-1655656800.7z",
+      "mod_id": 69907,
+      "hash": "sha256-fC46d/mkUskhI4jr78QoSxoAA8hKexBvfzvAe+h5JiM="
+    },
+    "type": "primary"
+  },
+  "Donate More Gold To Maramal (1.0.0)": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0.0",
+      "file_id": 292344,
+      "file_name": "Donate More Gold To Maramal (1.0.0)-69907-1-0-0-1655658834.7z",
+      "mod_id": 69907,
+      "hash": "sha256-QcNqjG5HnGulXsnP4QFLIe+0EmkFbNTnClREXuaubbg="
+    },
+    "type": "primary"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "Realistic Room Rental Enhanced - FOMOD": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.8.9.001",
+      "file_id": 98025,
+      "file_name": "Realistic Room Rental Enhanced - FOMOD-24859-1-8-9-001-1562153244.rar",
+      "mod_id": 24859,
+      "hash": "sha256-q+QTo7xrZVkC19evxM9w8fPGmX5GJCnTF5h6e5N8mjA="
+    },
+    "type": "primary"
+  },
+  "RealisticRoomRental-Enhanced - Non CRF - Beta": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.8.6beta",
+      "file_id": 134631,
+      "file_name": "RealisticRoomRental-Enhanced - Non CRF - Beta-24859-1-8-6beta-1587050644.rar",
+      "mod_id": 24859,
+      "hash": "sha256-C6atVLsfrbJvkc60CoVe8G6B/1wgTQ7dts4ErpWquE4="
+    }
+  }
+}

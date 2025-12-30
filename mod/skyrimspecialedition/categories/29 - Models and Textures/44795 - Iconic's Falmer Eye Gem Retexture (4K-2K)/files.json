@@ -1,0 +1,24 @@
+{
+  "Falmer Eye Gem 4K": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0.1",
+      "file_id": 497847,
+      "file_name": "Falmer Eye Gem 4K-44795-1-0-1-1714852933.7z",
+      "mod_id": 44795,
+      "hash": "sha256-Fmd3QzYhnX/SL57wEwb39ND/kTY/97r3PLOWduAmods="
+    },
+    "type": "primary"
+  },
+  "Falmer Eye Gem 2K": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0.1",
+      "file_id": 497848,
+      "file_name": "Falmer Eye Gem 2K-44795-1-0-1-1714852964.7z",
+      "mod_id": 44795,
+      "hash": "sha256-c9uwG9df7Wn9+zMvj0KniDu27zWEjxKF18gnyRiq4Ls="
+    },
+    "type": "primary"
+  }
+}

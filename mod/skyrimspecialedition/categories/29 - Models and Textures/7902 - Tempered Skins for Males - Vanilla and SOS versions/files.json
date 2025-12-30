@@ -1,0 +1,46 @@
+{
+  "Tempered Skins for Males - Dressed Version": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "2.05",
+      "file_id": 162982,
+      "file_name": "Tempered Skins for Males - Dressed Version-7902-2-05-1601297180.7z",
+      "mod_id": 7902,
+      "hash": "sha256-YWDXd+uIaEp+fglxpmreMdiXqdeYnvofzERv/KDvh38="
+    },
+    "type": "primary"
+  },
+  "Tempered Skins for Males - Nude Version": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "2.05",
+      "file_id": 162983,
+      "file_name": "Tempered Skins for Males - Nude Version-7902-2-05-1601297325.7z",
+      "mod_id": 7902,
+      "hash": "sha256-4VDBmQ6qbCHHQ4q//d7xDymlWg+mEnAtTnca980iamM="
+    },
+    "type": "primary"
+  },
+  "Tempered Skins for Males - SOS Light Version - part 1 of 2": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "2.05",
+      "file_id": 162986,
+      "file_name": "Tempered Skins for Males - SOS Light Version - part 1 of 2-7902-2-05-1601297612.7z",
+      "mod_id": 7902,
+      "hash": "sha256-nq/64+6ZpE8iD9RWr7vCSATLEfnoPVigWg46y76EXEw="
+    },
+    "type": "primary"
+  },
+  "Tempered Skins for Males - SOS Full version": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "2.06",
+      "file_id": 163103,
+      "file_name": "Tempered Skins for Males - SOS Full version-7902-2-06-1601375163.7z",
+      "mod_id": 7902,
+      "hash": "sha256-8slH55RYNhh9nji9TE23s34OgtZ98br2sGsrFjnTvMA="
+    },
+    "type": "primary"
+  }
+}

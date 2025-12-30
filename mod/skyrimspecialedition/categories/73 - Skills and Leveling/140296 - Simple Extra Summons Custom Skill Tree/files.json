@@ -1,0 +1,33 @@
+{
+  "Simple Extra Summons Custom Skill Tree": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1",
+      "file_id": 592811,
+      "file_name": "Simple Extra Summons Custom Skill Tree-140296-1-1-1739129935.rar",
+      "mod_id": 140296,
+      "hash": "sha256-j9VHNYSRezadyb22z89TtcXg1eho8SkYOXB/CtsnzUM="
+    },
+    "type": "primary"
+  },
+  "Simple Extra Summons Custom Skill Tree Less OP": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1",
+      "file_id": 592812,
+      "file_name": "Simple Extra Summons Custom Skill Tree Less OP-140296-1-1-1739130037.rar",
+      "mod_id": 140296,
+      "hash": "sha256-0N3iM1VMVZ92xA/JlyVlka411wVkLBX3SambG3ru5Zo="
+    }
+  },
+  "Simple Extra Summons Custom Skill Tree 1.6.1170": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 593427,
+      "file_name": "Simple Extra Summons Custom Skill Tree 1.6.1170-140296-1-0-1739296131.rar",
+      "mod_id": 140296,
+      "hash": "sha256-NoCk662Z/+PRWdI3rF67SpJ5QsQhou2dfsxXHfgspHY="
+    }
+  }
+}

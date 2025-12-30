@@ -1,0 +1,73 @@
+{
+  "Favor Quests Seperated - USSEP Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 309785,
+      "file_name": "Favor Quests Seperated - USSEP Patch-73903-1-0-1661267935.7z",
+      "mod_id": 73903,
+      "hash": "sha256-gFh4AE5pA18GeGDEI6COm05+BHPHrfrq823NxZ4qEVU="
+    }
+  },
+  "Favor Quests Seperated - Radiant Requirements Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "2.1",
+      "file_id": 313282,
+      "file_name": "Favor Quests Seperated - Radiant Requirements Patch-73903-2-1-1662318212.7z",
+      "mod_id": 73903,
+      "hash": "sha256-u3LpXaztF05dLlm88W5t1ThCrbGN5Q9/lG9MjSiQmko="
+    }
+  },
+  "Favor Quests Separated - The Choice Is Yours Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "2.8",
+      "file_id": 365861,
+      "file_name": "Favor Quests Separated - The Choice Is Yours Patch-73903-2-8-1678052343.7z",
+      "mod_id": 73903,
+      "hash": "sha256-SWv6/Q9tW2t5CZdzZEe+1cSfwSIBnLVrjjxKvEo1X4o="
+    }
+  },
+  "Favor Quests Seperated - USSEP and OCW Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "2.10",
+      "file_id": 511353,
+      "file_name": "Favor Quests Seperated - USSEP and OCW Patch-73903-2-10-1718328923.7z",
+      "mod_id": 73903,
+      "hash": "sha256-v6mO0sCuBRxIF2F2af97AxpFIr9AaBV4SF32yEClzhs="
+    }
+  },
+  "ANDR_FQS - Bounty Preview": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "2.11",
+      "file_id": 542657,
+      "file_name": "ANDR_FQS - Bounty Preview-73903-2-11-1726434355.zip",
+      "mod_id": 73903,
+      "hash": "sha256-PzUEr1g4UuLzymolfWPsWcVzBszmPXQwqo5gEHyq40g="
+    }
+  },
+  "FQS - Favor Quests Separated": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "2.11.1",
+      "file_id": 584837,
+      "file_name": "FQS - Favor Quests Separated-73903-2-11-1-1737226343.7z",
+      "mod_id": 73903,
+      "hash": "sha256-q4oSv7urq3mczPtdwOJQ6tiZG7OEYTsRpFr3F76T3F8="
+    },
+    "type": "primary"
+  },
+  "FQS - Favor Quests Separated - Bounty Quests": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "2.11.1",
+      "file_id": 584838,
+      "file_name": "FQS - Favor Quests Separated - Bounty Quests-73903-2-11-1-1737226379.7z",
+      "mod_id": 73903,
+      "hash": "sha256-I7x/VjIWhm2ulQiklE4jWYO7V9Oj9pxRACHuUxfjfrs="
+    }
+  }
+}

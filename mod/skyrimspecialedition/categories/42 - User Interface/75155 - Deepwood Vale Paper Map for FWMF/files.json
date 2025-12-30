@@ -1,0 +1,24 @@
+{
+  "Deepwood Vale Paper Map for FWMF (legacy)": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.71",
+      "file_id": 355335,
+      "file_name": "Deepwood Vale Paper Map for FWMF-75155-1-71-1675275884.zip",
+      "mod_id": 75155,
+      "hash": "sha256-rgEIoqx/9QAdvUnM4+9oiOtnNpUuxRL2s/j4TrXjXH0="
+    },
+    "type": "primary"
+  },
+  "Deepwood Vale Paper Map for FWMF": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.8.1",
+      "file_id": 559150,
+      "file_name": "Deepwood Vale Paper Map for FWMF-75155-1-8-1-1730795728.zip",
+      "mod_id": 75155,
+      "hash": "sha256-LAPw7Xa4ca+Bs+iPlR5FmzW2zkz0nvpdf7DOgIW5pyI="
+    },
+    "type": "primary"
+  }
+}

@@ -1,0 +1,84 @@
+{
+  "Riverfolk - SE by Xtudo - Textures 2K": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1",
+      "file_id": 572325,
+      "file_name": "Riverfolk - SE by Xtudo - Textures 2K-136348-1-1734187043.7z",
+      "mod_id": 136348,
+      "hash": "sha256-hlFj1tMWlHiAFnFUJZIa+GLVeDOwIaSQmZ1yRTrvUQ8="
+    }
+  },
+  "Riverfolk - SE by Xtudo - Textures 1K": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1",
+      "file_id": 572326,
+      "file_name": "Riverfolk - SE by Xtudo - Textures 1K-136348-1-1734187060.7z",
+      "mod_id": 136348,
+      "hash": "sha256-SN+OXZfYMoc0HhFSQzJlZBKq8CLtvI1ngCkmVSpqksM="
+    }
+  },
+  "Riverfolk - SE by Xtudo - FIXES": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1",
+      "file_id": 572328,
+      "file_name": "Riverfolk - SE by Xtudo - FIXES-136348-1-1734187241.7z",
+      "mod_id": 136348,
+      "hash": "sha256-PM6qjvwXcihXU8hnAXXxDCTIKhb+mlPAP5A/sXkIOY0="
+    },
+    "type": "primary"
+  },
+  "Riverfolk - SE by Xtudo - Derkeethus SPID patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1",
+      "file_id": 572390,
+      "file_name": "Riverfolk - SE by Xtudo - Derkeethus SPID patch-136348-1-1734202975.7z",
+      "mod_id": 136348,
+      "hash": "sha256-OHgrokmXE22wAlBPchvJ1l++qYAMyvokv3jt1NGMyNg="
+    }
+  },
+  "Riverfolk - SE by Xtudo - Faendal SPID patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1",
+      "file_id": 573282,
+      "file_name": "Riverfolk - SE by Xtudo - Faendal SPID patch-136348-1-1-1734437121.7z",
+      "mod_id": 136348,
+      "hash": "sha256-RjUetPzyQ7tT2yuwVM8fSPTjawiEDhEH8dzMum1QasM="
+    }
+  },
+  "Riverfolk - SE by Xtudo - Scouts-Many SPID patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1",
+      "file_id": 573284,
+      "file_name": "Riverfolk - SE by Xtudo - Scouts-Many SPID patch-136348-1-1-1734437160.7z",
+      "mod_id": 136348,
+      "hash": "sha256-AHJmQrdKniQ+1A7EY21vWHlY98aqgeM5mpbfM+i7N10="
+    }
+  },
+  "Riverfolk - SE by Xtudo - FIXES Non-HDT": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.2",
+      "file_id": 573683,
+      "file_name": "Riverfolk - SE by Xtudo - FIXES Non-HDT-136348-1-2-1734552427.7z",
+      "mod_id": 136348,
+      "hash": "sha256-xYhVnD4wGc4rrVrd/BkaZPfY3f4NtD7Vx8ZfCu5zNz4="
+    },
+    "type": "primary"
+  },
+  "Riverfolk - SE by Xtudo - Addvar SPID patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.3",
+      "file_id": 703356,
+      "file_name": "Riverfolk - SE by Xtudo - Addvar SPID patch-136348-1-3-1767037530.7z",
+      "mod_id": 136348,
+      "hash": "sha256-PuQnJLr19fi5KfNoPFdvOrYQW1CIsgYfKMhNj3GHf+Q="
+    }
+  }
+}

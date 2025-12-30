@@ -1,0 +1,23 @@
+{
+  "HDT-SMP Dremora Markynaz Armor Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 337255,
+      "file_name": "HDT-SMP Dremora Markynaz Armor Patch-79949-1-0-1670107600.rar",
+      "mod_id": 79949,
+      "hash": "sha256-fP301DEXqjamRySubt776cc8r2r6T7ecg/in2P20uFk="
+    },
+    "type": "primary"
+  },
+  "HDT-SMP Dremora Markynaz Armor Bodyslide Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.01",
+      "file_id": 373073,
+      "file_name": "HDT-SMP Dremora Markynaz Armor Bodyslide Patch-79949-1-01-1680095062.rar",
+      "mod_id": 79949,
+      "hash": "sha256-/o8DGWEhdkDoJNHwYBNSp3oMl2WgG0M39ZmXNAKxw3U="
+    }
+  }
+}

@@ -1,0 +1,44 @@
+{
+    "Thundering Shouts": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "1.1",
+            "file_id": 207647,
+            "file_name": "Thundering Shouts-14352-1-1-1622971951.rar",
+            "mod_id": 14352,
+            "hash": "sha256-FI+jwHsV5Ninco3774GK5jX6tdmHUyHfhFqnmd5wLqo="
+        },
+        "type": "primary"
+    },
+    "Thundering Shouts Loose files (normal pitch)": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "1.0",
+            "file_id": 207656,
+            "file_name": "Thundering Shouts Loose files (normal pitch)-14352-1-0-1622973625.rar",
+            "mod_id": 14352,
+            "hash": "sha256-UMXalozYna9xdE6QFsXZK9N28wQyJ5UEdty6zpCp4/s="
+        }
+    },
+    "Thundering Shouts (Normal pitch)": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "1.1",
+            "file_id": 207662,
+            "file_name": "Thundering Shouts (Normal pitch)-14352-1-1-1622974054.rar",
+            "mod_id": 14352,
+            "hash": "sha256-oHykJoaqkPzsPIMZTRwhsaCqTjkZyK0pqZ6A2SILgtk="
+        },
+        "type": "primary"
+    },
+    "Thundering Shouts Loose files (main file version)": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "1.1",
+            "file_id": 213224,
+            "file_name": "Thundering Shouts Loose files (main file version)-14352-1-1-1625668646.rar",
+            "mod_id": 14352,
+            "hash": "sha256-0WKpsFN9QQobfQ1QMOM3OgHaXZyULtI1VWxrKYcwbwc="
+        }
+    }
+}

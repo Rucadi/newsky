@@ -1,0 +1,323 @@
+{
+  "Lucien - Moonpath to Elsweyr Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0.0",
+      "file_id": 67131,
+      "file_name": "Lucien - Moonpath to Elsweyr Patch-20035-1-0-0.rar",
+      "mod_id": 20035,
+      "hash": "sha256-+niJwyBsSdczbJIQRw5ksTGNlEqv9BvxquNxjq6QoTw="
+    }
+  },
+  "Lucien - Moon and Star Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0.0",
+      "file_id": 67132,
+      "file_name": "Lucien - Moon and Star Patch-20035-1-0-0.rar",
+      "mod_id": 20035,
+      "hash": "sha256-1kYt/2JTpazu8mB+aRtmIGgCl3UBwmJpfLD+I6K5Xnc="
+    }
+  },
+  "Lucien - Shiva's Vanilla Clothing Replacer Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.3.0",
+      "file_id": 83925,
+      "file_name": "Lucien - Shiva's Vanilla Clothing Replacer Patch-20035-1-3-0-1551792925.rar",
+      "mod_id": 20035,
+      "hash": "sha256-rdM81ggDepsxDs/AsoNyDJi2fQd6e8FlhTZHCgCbEaE="
+    }
+  },
+  "Lucien - Insects Begone Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.4.0",
+      "file_id": 98558,
+      "file_name": "Lucien - Insects Begone Patch-20035-1-4-0-1562577447.rar",
+      "mod_id": 20035,
+      "hash": "sha256-cL/Lr1LxjG7mwI8ylB5airPAtFX+NiPflNODMyIuEOQ="
+    }
+  },
+  "Lucien - Creation Club - Arcane Archer Pack Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.4.3a",
+      "file_id": 116303,
+      "file_name": "Lucien - Arcane Archer Pack Patch-20035-1-4-3a-1576451094.rar",
+      "mod_id": 20035,
+      "hash": "sha256-0lNUPUr1hp5IPTpDEH9k/CiUPYJ8Jkm62zM6u7zp3jg="
+    }
+  },
+  "Lucien - Creation Club - Umbra Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.4.3a",
+      "file_id": 116385,
+      "file_name": "Lucien - Umbra Patch-20035-1-4-3a-1576508175.rar",
+      "mod_id": 20035,
+      "hash": "sha256-AWuMaijvfYfCkpDpx7EtHYn07rcGsebb6cGNWbWmLKM="
+    }
+  },
+  "Lucien - Creation Club - Saturalia Holiday Pack Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.4.3b",
+      "file_id": 117273,
+      "file_name": "Lucien - Saturalia Holiday Pack Patch-20035-1-4-3b-1577192512.rar",
+      "mod_id": 20035,
+      "hash": "sha256-j7FZkF5IGIXY5jOqLNKHhuVRkpnZBPTuDHzHUalCsSo="
+    }
+  },
+  "Lucien - Creation Club - Shadowrend Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.4.3",
+      "file_id": 119422,
+      "file_name": "Lucien - Shadowrend Patch-20035-1-4-3-1578752012.rar",
+      "mod_id": 20035,
+      "hash": "sha256-X+h5TxPvHwWHjdz7E+NSHoOnIZgf1zhb72TrWRxr7TY="
+    }
+  },
+  "Lucien - Creation Club - Plague of the Dead Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.5.0b",
+      "file_id": 141472,
+      "file_name": "Lucien - Plague of the Dead Patch-20035-1-5-0b-1590185580.rar",
+      "mod_id": 20035,
+      "hash": "sha256-fw4CSc5wALGzTKNcGoUzIeQKBXWxuZck/ti4kNGSgXY="
+    }
+  },
+  "Lucien - Creation Club - Staff of Sheogorath Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.5.0b",
+      "file_id": 143969,
+      "file_name": "Lucien - Staff of Sheogorath Patch-20035-1-5-0b-1591365302.rar",
+      "mod_id": 20035,
+      "hash": "sha256-CbyfqdreAbOEaBsKAnCLTvH1FOI1Tqvwu4zQ2zOZH4o="
+    }
+  },
+  "Lucien - Creation Club - Adventurer's Backpack Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.5.0c",
+      "file_id": 145630,
+      "file_name": "Lucien - Creation Club - Adventurer's Backpack Patch-20035-1-5-0b-1592135167.rar",
+      "mod_id": 20035,
+      "hash": "sha256-KBawUUIO9DY9In8Z1AA1uldjiGQKxQqiXGSDWZ8LEgE="
+    }
+  },
+  "Lucien - Creation Club - Camping Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.5.0c",
+      "file_id": 148134,
+      "file_name": "Lucien - Creation Club - Camping Patch-20035-1-5-0c-1593524648.rar",
+      "mod_id": 20035,
+      "hash": "sha256-6dgMi+8blx59vIHezp02DOsv1+Ly9Bfn62HHQ9+OBtU="
+    }
+  },
+  "Lucien - Creation Club - Tundra Homestead Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.5.0c",
+      "file_id": 152836,
+      "file_name": "Lucien - Creation Club - Tundra Homestead Patch-20035-1-5-0c-1596103584.rar",
+      "mod_id": 20035,
+      "hash": "sha256-qPGfuTSXRZUVN+et6mmj5quyMXc+Fts99/3r9XvimLM="
+    }
+  },
+  "Lucien - Creation Club - Saints and Seducers Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.6.2",
+      "file_id": 194463,
+      "file_name": "Lucien - Saints and Seducers Patch-20035-1-6-2-1617047097.rar",
+      "mod_id": 20035,
+      "hash": "sha256-Ua2+99yPOvMb8r/rGHjiESB67ZQEsOxbe6lNaSR0k3s="
+    }
+  },
+  "Lucien - Creation Club - Rare Curios Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.6.2",
+      "file_id": 225891,
+      "file_name": "Lucien -  Creation Club - Rare Curios Patch-20035-1-6-2-1630693949.rar",
+      "mod_id": 20035,
+      "hash": "sha256-kLwLx7cI7MB06lNPnP2iOX1FZz6CXqK5jZHVWaChnFE="
+    }
+  },
+  "Lucien - Creation Club - Myrwatch Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.6.2",
+      "file_id": 230007,
+      "file_name": "Lucien -  Creation Club - Myrwatch Patch-20035-1-6-2-1632335174.rar",
+      "mod_id": 20035,
+      "hash": "sha256-Qr0+ebRg3K/VOtdHCznNy7OF6EpKHVgDdr1SEwhm3PY="
+    }
+  },
+  "Lucien - Creation Club - Goblins Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.6.2",
+      "file_id": 230009,
+      "file_name": "Lucien - Creation Club - Goblins Patch-20035-1-6-2-1632335342.rar",
+      "mod_id": 20035,
+      "hash": "sha256-6GZvUgW7G95bBEgkTsLnftl6M0YIATnYQthMx30zQYc="
+    }
+  },
+  "Lucien - Creation Club - Expanded Crossbow Pack Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.6.2",
+      "file_id": 230013,
+      "file_name": "Lucien - Creation Club - Expanded Crossbow Pack Patch-20035-1-6-2-1632335463.rar",
+      "mod_id": 20035,
+      "hash": "sha256-e2shOuaJ9xDdQIXyOQZM1kd4vgaoUoqlFizshy5cNtg="
+    }
+  },
+  "Lucien - Creation Club - Bone Wolf Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.6.2",
+      "file_id": 230124,
+      "file_name": "Lucien - Creation Club - Bone Wolf Patch-20035-1-6-2-1632397605.rar",
+      "mod_id": 20035,
+      "hash": "sha256-+uSuZDWZQtlaqSzRED2CH8Zw1isvexcXjVKRUU6b8Qk="
+    }
+  },
+  "Lucien - Creation Club - Alternative Armors - Dwarven Mail Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.6.2",
+      "file_id": 231199,
+      "file_name": "Lucien - Creation Club - Alternative Armors - Dwarven Mail Patch-20035-1-6-2-1632823741.rar",
+      "mod_id": 20035,
+      "hash": "sha256-AsSgkErO77P3UpfplC71mwntGrSt5qUY61U0b9ccNw8="
+    }
+  },
+  "Lucien - Creation Club - Lord's Mail Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.6.2",
+      "file_id": 231200,
+      "file_name": "Lucien - Creation Club - Lord's Mail Patch-20035-1-6-2-1632823842.rar",
+      "mod_id": 20035,
+      "hash": "sha256-fhHLzcZ9HNU6XPZLeF9C5zFc9auKitwlOwWS3WPRrAg="
+    }
+  },
+  "Lucien": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.6.3",
+      "file_id": 240595,
+      "file_name": "Lucien-20035-1-6-3-1636656096.rar",
+      "mod_id": 20035,
+      "hash": "sha256-4lkpuGSbdofIBbcaQlivQE1a5Z1WabdZVgnZSZzT6gI="
+    },
+    "type": "primary"
+  },
+  "Lucien - Creation Club - Forgotten Seasons Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.6.3",
+      "file_id": 240811,
+      "file_name": "Lucien - Creation Club - Forgotten Seasons Patch-20035-1-6-3-1636731399.rar",
+      "mod_id": 20035,
+      "hash": "sha256-DQWibONQnY3j1uTLyQFUlaw/DIafTDEwPHla+dGE7Vs="
+    }
+  },
+  "Lucien - Anniversary Edition - All-In-One Creation Club Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.6.3a",
+      "file_id": 293450,
+      "file_name": "Lucien - Anniversary Edition - All-In-One Creation Club Patch-20035-1-6-3a-1656001522.rar",
+      "mod_id": 20035,
+      "hash": "sha256-KrhYU2YBpaVdITyvFQYImZOdQBBSQd8cuwuP9KDbNkY="
+    }
+  },
+  "Lucien - Creation Club - Stendarr's Hammer Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.6.3a",
+      "file_id": 293452,
+      "file_name": "Lucien - Creation Club - Stendarr's Hammer Patch-20035-1-6-3a-1656001596.rar",
+      "mod_id": 20035,
+      "hash": "sha256-V6YzWJwd55KSEjCAeQayo1GymT0Lzcik5r3bGGcLVms="
+    }
+  },
+  "Lucien - Creation Club - Ruin's Edge Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.6.3a",
+      "file_id": 293453,
+      "file_name": "Lucien - Creation Club - Ruin's Edge Patch-20035-1-6-3a-1656001680.rar",
+      "mod_id": 20035,
+      "hash": "sha256-JhB/MzLccRiOBRI8y/5MNB8bvS7x94Gf5szvg/wqArc="
+    }
+  },
+  "Lucien - Creation Club - Bow of Shadows Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.6.3a",
+      "file_id": 293454,
+      "file_name": "Lucien - Creation Club - Bow of Shadows Patch-20035-1-6-3a-1656001845.rar",
+      "mod_id": 20035,
+      "hash": "sha256-+mZmeEpKUHu61VkOFO9thPw245HYOVXlV03wwwuiWs8="
+    }
+  },
+  "Lucien - Creation Club - Headman's Cleaver Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.6.3a",
+      "file_id": 293456,
+      "file_name": "Lucien - Creation Club - Headman's Cleaver Patch-20035-1-6-3a-1656002531.rar",
+      "mod_id": 20035,
+      "hash": "sha256-v9Ui/7l4A2UyVsEmf/NNRkyd6lm0AMjrXk2yt1QhaCw="
+    }
+  },
+  "Lucien - Creation Club - Alternative Armors - Elven Hunter Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.6.3a",
+      "file_id": 293460,
+      "file_name": "Lucien - Creation Club - Alternative Armors - Elven Hunter Patch-20035-1-6-3a-1656003081.rar",
+      "mod_id": 20035,
+      "hash": "sha256-O5m+5u8Lg4NWC+NhHgp1+kmt13VbpkvGCdg2YfYNY94="
+    }
+  },
+  "Lucien - Creation Club - Alternative Armors - Silver Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.6.3a",
+      "file_id": 293463,
+      "file_name": "Lucien - Creation Club - Alternative Armors - Silver Patch-20035-1-6-3a-1656003273.rar",
+      "mod_id": 20035,
+      "hash": "sha256-Ez0MlTliMmivazf0A0KzF9GRuZoG6oWplkiyYgUciEA="
+    }
+  },
+  "Lucien - Beyond Skyrim - Bruma Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.6.3a",
+      "file_id": 338770,
+      "file_name": "Lucien - Beyond Skyrim - Bruma Patch-20035-1-6-3-1670519503.rar",
+      "mod_id": 20035,
+      "hash": "sha256-45Q2XTfwJ98XJ/Z2I0Y0ThpAzEH7Ko6NP+fM1GycJ0k="
+    }
+  },
+  "Lucien - Beyond Skyrim Morrowind - Bonemold Weapon Pack Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.6.3c",
+      "file_id": 346967,
+      "file_name": "Lucien - Beyond Skyrim Morrowind - Bonemold Weapon Pack Patch-20035-1-6-3c-1672940962.rar",
+      "mod_id": 20035,
+      "hash": "sha256-3/CQinUR+1CoEVnziRGiKCyOsB4Ib2FyyZPBcDbGdAs="
+    }
+  }
+}

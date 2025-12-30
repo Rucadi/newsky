@@ -1,0 +1,33 @@
+{
+  "2H katana attack animations": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 60414,
+      "file_name": "2H katana attack animations-18709-1-0.7z",
+      "mod_id": 18709,
+      "hash": "sha256-mSd6xWtbpuN/3chSv3HlraWnUzZjnpwk00jGHpng2Jg="
+    },
+    "type": "primary"
+  },
+  "block bash animations": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 60415,
+      "file_name": "block bash animations-18709-1-0.7z",
+      "mod_id": 18709,
+      "hash": "sha256-euipWJKkyV02lO4Kx92kG8P7TaAwnLJwo4L+xNjWpUU="
+    }
+  },
+  "kick power bash": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 60416,
+      "file_name": "kick power bash-18709-1-0.7z",
+      "mod_id": 18709,
+      "hash": "sha256-lAwGVbaw/ggaBbT4MoAQlQzVkGLYmUKZWJFL7QaDdnc="
+    }
+  }
+}

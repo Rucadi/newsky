@@ -1,0 +1,46 @@
+{
+  "dpillari sleeping tree 2k Enb light": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1",
+      "file_id": 334993,
+      "file_name": "dpillari sleeping tree 2k Enb light-79482-1-1669495900.rar",
+      "mod_id": 79482,
+      "hash": "sha256-R7dob5y1q2IE/a7cpPAf4MP9OoL1fpbnBWmpLZmAJeU="
+    },
+    "type": "primary"
+  },
+  "dpillari sleeping tree 1k Enb light": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1",
+      "file_id": 334994,
+      "file_name": "dpillari sleeping tree 1k Enb light-79482-1-1669495933.rar",
+      "mod_id": 79482,
+      "hash": "sha256-Xa35qLseRmhasrUqNtpzQJUcDO0zHUcsHJ851TAqknc="
+    },
+    "type": "primary"
+  },
+  "dpillari sleeping tree non enb light mesh": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1",
+      "file_id": 334996,
+      "file_name": "dpillari sleeping tree non enb light mesh-79482-1-1669495958.rar",
+      "mod_id": 79482,
+      "hash": "sha256-IxVyV3YTiC0nSRBmQIAoI2+2IEiEuRYUYe3Puna/kSo="
+    },
+    "type": "primary"
+  },
+  "dpillari sleeping tree 4k Enb light": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1",
+      "file_id": 334997,
+      "file_name": "dpillari sleeping tree 4k Enb light-79482-1-1669495979.rar",
+      "mod_id": 79482,
+      "hash": "sha256-Uc0aKMC8xyOgzBGV2eSB9/qTGcAJzSMoOEMmas/1YxI="
+    },
+    "type": "primary"
+  }
+}

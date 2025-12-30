@@ -1,0 +1,88 @@
+{
+  "Nordic UI - Clean Start Menu - Bordered Logo": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "2.0",
+      "file_id": 628668,
+      "file_name": "Nordic UI - Clean Start Menu - Bordered Logo-150450-1-0-1747601379.zip",
+      "mod_id": 150450,
+      "hash": "sha256-U8/mPQdWYlnrdYOZHSWM3ABtrg720rqlGdM7q9HWKt4="
+    }
+  },
+  "1 Main Menu Compendium - Single Replacer (16-9)": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "2.0",
+      "file_id": 629891,
+      "file_name": "1 Main Menu Compendium - Single Replacer (16-9)-150450-2-0-1747924169.zip",
+      "mod_id": 150450,
+      "hash": "sha256-fqVx5s+Jgsljwh1oRtgcry92ixGd0/LDzUZuN3kq7Ig="
+    },
+    "type": "primary"
+  },
+  "2 Main Menu Compendium - Single Replacer (16-10)": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "2.0",
+      "file_id": 629892,
+      "file_name": "2 Main Menu Compendium - Single Replacer (16-10)-150450-2-0-1747924235.zip",
+      "mod_id": 150450,
+      "hash": "sha256-SYu+h8eQbmAQJ3+kc160IYLXBgAu/4FRTiYKBovi9Z8="
+    },
+    "type": "primary"
+  },
+  "3 Main Menu Compendium - Single Replacer (21-9)": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "2.0",
+      "file_id": 629893,
+      "file_name": "3 Main Menu Compendium - Single Replacer (21-9)-150450-2-0-1747924293.zip",
+      "mod_id": 150450,
+      "hash": "sha256-4aTNlXoV1daS9WLERfUmlaPL8yxFqBfhGMPIPvKMQ8U="
+    },
+    "type": "primary"
+  },
+  "4 Main Menu Compendium - Randomizer (16-9)": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "2.0",
+      "file_id": 629895,
+      "file_name": "4 Main Menu Compendium - Randomizer (16-9)-150450-2-0-1747924452.zip",
+      "mod_id": 150450,
+      "hash": "sha256-BarGi+J0fMNvZkueXY6EVu+IR7x5t9B78RcjXM31IpA="
+    },
+    "type": "primary"
+  },
+  "5 Main Menu Compendium - Randomizer (16-10)": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "2.0",
+      "file_id": 629897,
+      "file_name": "5 Main Menu Compendium - Randomizer (16-10)-150450-2-0-1747924526.zip",
+      "mod_id": 150450,
+      "hash": "sha256-eJmU+rOTgH/ra99OTdX6gG+UgI53GJ6ElQD5/eshT9w="
+    },
+    "type": "primary"
+  },
+  "6 Main Menu Compendium - Randomizer (21-9)": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "2.0",
+      "file_id": 629899,
+      "file_name": "6 Main Menu Compendium - Randomizer (21-9)-150450-2-0-1747924593.zip",
+      "mod_id": 150450,
+      "hash": "sha256-3IWce//jCazlOmBJ+doRuBEibklMCilri6qsHGIXJxM="
+    },
+    "type": "primary"
+  },
+  "Nordic UI - Start Menu Updated - Bordered Logo": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "2.0",
+      "file_id": 631639,
+      "file_name": "Nordic UI - Start Menu Updated - Bordered Logo-150450-2-0-1748299483.zip",
+      "mod_id": 150450,
+      "hash": "sha256-2BaJvJvqbhDk3dzWI3jsm2PXEFzd/m+F4dKSXCCd0NI="
+    }
+  }
+}

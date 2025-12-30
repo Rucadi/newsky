@@ -1,0 +1,33 @@
+{
+  "Slightly Higher Hand Idles - Vanilla Load After": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1",
+      "file_id": 356360,
+      "file_name": "Slightly Higher Hand Idles-84160-1-1675538505.zip",
+      "mod_id": 84160,
+      "hash": "sha256-p9gZerTjNmzSOyW7nIc7kX1o6qevViscWlo9Gfpqa4I="
+    }
+  },
+  "Improved Table Transitions - Vanilla Replacer": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.3",
+      "file_id": 444429,
+      "file_name": "Improved Table Transitions-84160-1-3-1700511877.zip",
+      "mod_id": 84160,
+      "hash": "sha256-H/KEKbDXI7wqqZMwmsKBLxJXR+MtBRfohwC/x6sNl0s="
+    }
+  },
+  "Improved Table Sit Transition OAR": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.5",
+      "file_id": 668847,
+      "file_name": "Improved Table Sit Transition OAR-84160-1-5-1758670040.zip",
+      "mod_id": 84160,
+      "hash": "sha256-gwWMxIv13RGK+hk+NtxOm6oEi67hZkFTrgdqzHSi7xk="
+    },
+    "type": "primary"
+  }
+}

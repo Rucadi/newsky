@@ -1,0 +1,24 @@
+{
+  "High Poly Gleamblossoms - vanilla glow": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1",
+      "file_id": 160018,
+      "file_name": "High Poly Gleamblossoms - vanilla glow-40278-1-1-1599743321.7z",
+      "mod_id": 40278,
+      "hash": "sha256-E18+r+k++Ul9Qzfxzekqv9pYTymEOZSGXr+4lKqsFD8="
+    },
+    "type": "primary"
+  },
+  "High Poly Gleamblossoms - ENB Light": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.2",
+      "file_id": 214944,
+      "file_name": "High Poly Gleamblossoms - ENB Light-40278-1-2-1626461597.7z",
+      "mod_id": 40278,
+      "hash": "sha256-qWvfDGgLB1YA/S+J3TlbTjcnLY/LPHswzZpSinsVPf0="
+    },
+    "type": "primary"
+  }
+}

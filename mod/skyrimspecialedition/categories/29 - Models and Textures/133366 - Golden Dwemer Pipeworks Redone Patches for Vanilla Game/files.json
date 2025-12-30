@@ -1,0 +1,43 @@
+{
+  "HDT-SMP Vanilla Armors - GDPR": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 605053,
+      "file_name": "HDT-SMP Vanilla Armors - GDPR-133366-1-0-1741856336.7z",
+      "mod_id": 133366,
+      "hash": "sha256-vxnodGx7dsGiYPqtJ2rvIIII2ceNehChDftOQ9u5HO4="
+    }
+  },
+  "HDT-SMP Vanilla Armors - GlowMapped - GDPR": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 612108,
+      "file_name": "HDT-SMP Vanilla Armors - GlowMapped - GDPR-133366-1-0-1743427955.7z",
+      "mod_id": 133366,
+      "hash": "sha256-yOiQ/seGYiE5901QTrbNLllmXnI7gDfVeG917BGwSD8="
+    }
+  },
+  "Ancient Falmer - Xavbio Sleeves GDPR": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 669059,
+      "file_name": "Ancient Falmer - Xavbio Sleeves GDPR-133366-1-0-1758733073.7z",
+      "mod_id": 133366,
+      "hash": "sha256-rSshYRXy1FF1Md5+BqGtHtbDzBq7DOSZp7fObnnsdhU="
+    }
+  },
+  "Vanilla Dwemer meshes - GDPR": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "2.18",
+      "file_id": 686660,
+      "file_name": "Vanilla Dwemer meshes - GDPR-133366-2-18-1762932577.7z",
+      "mod_id": 133366,
+      "hash": "sha256-UpemaKdhDA/Jzh3tGu/3Q7HpoDcwv4OoCr01UAfVmKw="
+    },
+    "type": "primary"
+  }
+}

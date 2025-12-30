@@ -1,0 +1,24 @@
+{
+  "MA- Overlay Edition": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "0.1",
+      "file_id": 551273,
+      "file_name": "MA- Overlay Edition-131353-0-1-1728701158.rar",
+      "mod_id": 131353,
+      "hash": "sha256-6mrHv1mQPbEXT7p/tdMN47cBRdt5GR1P/oohhKE2Yts="
+    },
+    "type": "primary"
+  },
+  "MA- Standard Edition": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "0.1",
+      "file_id": 551275,
+      "file_name": "MA- Standard Edition-131353-0-1-1728701193.rar",
+      "mod_id": 131353,
+      "hash": "sha256-G7KBOxL9O0bBSSMMWuqUezvAFS7JlrptKwynPxUGRu8="
+    },
+    "type": "primary"
+  }
+}

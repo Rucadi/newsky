@@ -1,0 +1,53 @@
+{
+    "Inigo Banter patch - sfts fix": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "0.1",
+            "file_id": 160694,
+            "file_name": "Inigo Banter patch - sfts and Talwin fix-11278-0-1-1600098079.zip",
+            "mod_id": 11278,
+            "hash": "sha256-158Ijz3kZ9bp9oP4hwLYbeyzZgWLROzUuMMVZjgOsfw="
+        }
+    },
+    "Kaidan Banter Patch": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "0.2",
+            "file_id": 384945,
+            "file_name": "Kaidan Banter Patch-11278-0-2-1683300371.7z",
+            "mod_id": 11278,
+            "hash": "sha256-p6hWHigm/cJ7ztUnUU3Ap3CWMFM458D3nzIK3sJKWW0="
+        }
+    },
+    "3DNPC banter patch": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "0.3",
+            "file_id": 568437,
+            "file_name": "3DNPC banter patch-11278-0-3-1733184250.7z",
+            "mod_id": 11278,
+            "hash": "sha256-KnEv42a3o1YYWDDiIWRmMFZZhEoiyjlcJPE6quFUu1I="
+        }
+    },
+    "Song Of The Green (Auri Follower) 2.2": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "2.2",
+            "file_id": 616495,
+            "file_name": "Song Of The Green (Auri Follower) 2.2-11278-2-2-1744488935.7z",
+            "mod_id": 11278,
+            "hash": "sha256-gK7vmzeRosW0mpdmGMVyIZcWsaNfRYvjN/oQpKAEZdg="
+        },
+        "type": "primary"
+    },
+    "VIGILANT commentary patch": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "0.2",
+            "file_id": 618643,
+            "file_name": "VIGILANT commentary patch-11278-0-2-1744987895.7z",
+            "mod_id": 11278,
+            "hash": "sha256-F0r5yYe14yfQykJqVHHRvk5lHuzQoIe9qc9tfChbdb4="
+        }
+    }
+}

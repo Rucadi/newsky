@@ -1,0 +1,24 @@
+{
+  "Only skinny offset fix": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 580407,
+      "file_name": "True Offset fix (new)-138362-1-0-1736269049.7z",
+      "mod_id": 138362,
+      "hash": "sha256-CctlaHygpEFWoYJL/eUIFBNbFLRdtynuawAvMcrsNHE="
+    },
+    "type": "primary"
+  },
+  "Skinny AND muscular offset fix": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 580431,
+      "file_name": "Skinny AND muscular offset fix-138362-1-0-1736273844.7z",
+      "mod_id": 138362,
+      "hash": "sha256-BNh0f3iAFoe94Y9CT9OPcEkx9/aUNAQfPPMb88HdEVo="
+    },
+    "type": "primary"
+  }
+}

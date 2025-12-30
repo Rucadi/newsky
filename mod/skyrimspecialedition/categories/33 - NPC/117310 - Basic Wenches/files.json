@@ -1,0 +1,23 @@
+{
+  "Basic Wenches RaceMenu Presets": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 493106,
+      "file_name": "Basic Wenches RaceMenu Presets-117310-1-0-1713664190.7z",
+      "mod_id": 117310,
+      "hash": "sha256-edswmX5SbG1m3nRPxgQtcNl4ciacuTWTtfMtBAqkYfg="
+    }
+  },
+  "Basic Wenches 1.1 SSE": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1",
+      "file_id": 493884,
+      "file_name": "Basic Wenches 1.1 SSE-117310-1-1-1713850790.7z",
+      "mod_id": 117310,
+      "hash": "sha256-P+T751uloIUNY3yBDEFoniYUPFGbu0vnOyRUfWUBAkE="
+    },
+    "type": "primary"
+  }
+}

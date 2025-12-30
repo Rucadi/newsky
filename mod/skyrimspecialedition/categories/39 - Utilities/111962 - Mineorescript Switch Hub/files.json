@@ -1,0 +1,24 @@
+{
+  "Mineorescript Switch Hub BSA": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "4.52",
+      "file_id": 513467,
+      "file_name": "Mineorescript Switch Hub BSA-111962-4-52-1718911151.7z",
+      "mod_id": 111962,
+      "hash": "sha256-e/f8fTmqpBBOJv1WtILoJK6Z+850CFxh90mx4qr7o8M="
+    },
+    "type": "primary"
+  },
+  "Mineorescript Switch Hub Loose": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "4.52",
+      "file_id": 513468,
+      "file_name": "Mineorescript Switch Hub Loose-111962-4-52-1718911241.7z",
+      "mod_id": 111962,
+      "hash": "sha256-JookLfLSORwSUNx3nObs9GiOtWg5sbTgVTSFPOP1/dI="
+    },
+    "type": "primary"
+  }
+}

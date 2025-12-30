@@ -1,0 +1,46 @@
+{
+  "Dragonborn Reskin - Swiftly Order Squad": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1",
+      "file_id": 546144,
+      "file_name": "Dragonborn Reskin - Swiftly Order Squad-129729-1-1-1727299655.zip",
+      "mod_id": 129729,
+      "hash": "sha256-6LQ50rMX/kRh3CxYTsriijmkoDIewwy3spxcQ3emsQE="
+    },
+    "type": "primary"
+  },
+  "Nordic UI style": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1",
+      "file_id": 546374,
+      "file_name": "Nordic UI style-129729-1-1-1727354244.zip",
+      "mod_id": 129729,
+      "hash": "sha256-nOK+AC3jGW/3yoI1PabWTWfPLOs3nqQ/0gZgJT+M8sM="
+    },
+    "type": "primary"
+  },
+  "Edge UI Color Variation": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1",
+      "file_id": 555488,
+      "file_name": "Edge UI Color Variation-129729-1-1-1729888023.zip",
+      "mod_id": 129729,
+      "hash": "sha256-jqx9Qh/IL5wYWDOA5XZsLF0MZbbdnIEbX1Ldt/thv9A="
+    },
+    "type": "primary"
+  },
+  "Dragonborn Reskin - Swiftly Order Squad (Colored)": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1",
+      "file_id": 610436,
+      "file_name": "Dragonborn Reskin - Swiftly Order Squad (Colored)-129729-1-1-1743087610.zip",
+      "mod_id": 129729,
+      "hash": "sha256-+b+f1cV8O9irSdSWQAya3bBYNEixqC/owcynkXyXmIE="
+    },
+    "type": "primary"
+  }
+}

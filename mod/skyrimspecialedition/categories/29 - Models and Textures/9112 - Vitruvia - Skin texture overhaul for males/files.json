@@ -1,0 +1,34 @@
+{
+  "Vitruvia - Skin texture overhaul for males": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.07",
+      "file_id": 24562,
+      "file_name": "Vitruvia - Skin texture overhaul for males-9112-1-07.7z",
+      "mod_id": 9112,
+      "hash": "sha256-XwagAzPT8A1c7RLxyH1XrdXwfYdwaQzdu3SgamfKCZE="
+    },
+    "type": "primary"
+  },
+  "Vitruvia - Skin texture overhaul for males for SOS Light": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.07",
+      "file_id": 24563,
+      "file_name": "Vitruvia - Skin texture overhaul for males for SOS Light-9112-1-07.7z",
+      "mod_id": 9112,
+      "hash": "sha256-TfrvYcdNa12PYaVU5B7M3N9wQIbjQFhoq2X3RY9S9hM="
+    },
+    "type": "primary"
+  },
+  "Fix for broken forsworn boot meshes by dariuskzoot": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "0.0",
+      "file_id": 108808,
+      "file_name": "Fix for broken forsworn boot meshes by dariuskzoot-9112-0-0-1569786806.7z",
+      "mod_id": 9112,
+      "hash": "sha256-gzfJ5Ysay+FqEisdP7TZduBV0eYl4+FyfVEcb0tScZM="
+    }
+  }
+}

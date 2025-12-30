@@ -1,0 +1,33 @@
+{
+    "The Eloquent Reader - True Scholar SE Edition - Less XP (Main File needed)": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "1.1",
+            "file_id": 50889,
+            "file_name": "The Eloquent Reader - True Scholar SE Edition - Less XP-16338-1-0.7z",
+            "mod_id": 16338,
+            "hash": "sha256-P/me+LUnZSNl4vG5dXX3wQDV2yd7YJ/Uc9TXw8MZXBs="
+        }
+    },
+    "The Eloquent Reader - True Scholar SE Edition - Medium XP (Main File needed)": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "1.1",
+            "file_id": 51337,
+            "file_name": "The Eloquent Reader - True Scholar SE Edition - Medium XP (Main File needed)-16338-1-0.7z",
+            "mod_id": 16338,
+            "hash": "sha256-2/ziEELQEQ8aBuzk2iDY0Ff8nCYmyduiB4nrof7teqk="
+        }
+    },
+    "The Eloquent Reader - True Scholar SE Edition": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "1.1",
+            "file_id": 113536,
+            "file_name": "The Eloquent Reader - True Scholar SE Edition-16338-1-1-1573929801.7z",
+            "mod_id": 16338,
+            "hash": "sha256-1KyylcXdtZMmjgg+MhmFlL1xC7KZajOjG7D0/sxdFPQ="
+        },
+        "type": "primary"
+    }
+}

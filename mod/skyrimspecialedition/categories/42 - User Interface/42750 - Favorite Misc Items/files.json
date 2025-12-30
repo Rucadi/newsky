@@ -1,0 +1,24 @@
+{
+  "Favorite Misc Items VR": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "3.5",
+      "file_id": 190639,
+      "file_name": "Favorite Misc Items VR-42750-3-5-1615393957.7z",
+      "mod_id": 42750,
+      "hash": "sha256-HeP2klPM5kwIUQk185XeWmKsAZgCO8+UdbYzFylRl1w="
+    },
+    "type": "primary"
+  },
+  "Favorite Misc Items": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "3.7.1",
+      "file_id": 322497,
+      "file_name": "Favorite Misc Items-42750-3-7-1-1665247156.7z",
+      "mod_id": 42750,
+      "hash": "sha256-S2kSPKVpPJLopDd8hkyR7EIFerP4Xg6FXZx09OI1FKc="
+    },
+    "type": "primary"
+  }
+}

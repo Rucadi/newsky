@@ -1,0 +1,35 @@
+{
+  "Improved Idle Laydown Animations - OAR": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1",
+      "file_id": 432735,
+      "file_name": "Improved Idle Laydown Animations - OAR-99691-1-1-1696882770.zip",
+      "mod_id": 99691,
+      "hash": "sha256-3h0OnWdcjipvndSjm+9Q6sik6wegM9WrwKxEyWt8D1s="
+    },
+    "type": "primary"
+  },
+  "Improved Idle Laydown Animations - DAR": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1",
+      "file_id": 432736,
+      "file_name": "Improved Idle Laydown Animations - DAR-99691-1-1-1696882803.zip",
+      "mod_id": 99691,
+      "hash": "sha256-df3PMdp4L7SQHqjPQ2c4hXGAV9d2VZ972vBulC1m7Ao="
+    },
+    "type": "primary"
+  },
+  "Improved Idle Laydown Animations - Replacer": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1",
+      "file_id": 432737,
+      "file_name": "Improved Idle Laydown Animations - Replacer-99691-1-1-1696882825.zip",
+      "mod_id": 99691,
+      "hash": "sha256-VULCntEikhQSnvSa9nrQ214ptmCb8/RsNLlh+O6xLm8="
+    },
+    "type": "primary"
+  }
+}

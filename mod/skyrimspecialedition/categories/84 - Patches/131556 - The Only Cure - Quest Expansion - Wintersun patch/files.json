@@ -1,0 +1,33 @@
+{
+    "TOCQE - Wintersun patch": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "1.0.1",
+            "file_id": 559141,
+            "file_name": "TOCQE - Wintersun patch-131556-1-0-1-1730795029.7z",
+            "mod_id": 131556,
+            "hash": "sha256-LibIAM51IAdt5uS14cis6ypdR7VGax2a8sFTjpNs87I="
+        },
+        "type": "primary"
+    },
+    "TOCQE - Wintersun patch - Russian translation": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "1.0.1",
+            "file_id": 559142,
+            "file_name": "TOCQE - Wintersun patch - Russian translation-131556-1-0-1-1730795058.7z",
+            "mod_id": 131556,
+            "hash": "sha256-BQ85u2MClHNznUmCRUMuJptpgcNTcMwALKzDc6QU7Qw="
+        }
+    },
+    "TOCQE - Wintersun - Daedric Shrines Xtudo patch": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "1.0",
+            "file_id": 638549,
+            "file_name": "TOCQE - Wintersun - Daedric Shrines Xtudo patch-131556-1-0-1750087252.7z",
+            "mod_id": 131556,
+            "hash": "sha256-aBSQVflS9rcQ5bsd+qAl45K9zPkl4rvj+i7dX+wV9Gk="
+        }
+    }
+}

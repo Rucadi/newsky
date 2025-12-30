@@ -1,0 +1,24 @@
+{
+  "Catacomb Leather 2k": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 442447,
+      "file_name": "Catacomb Leather 2k-104694-1-0-1699926142.zip",
+      "mod_id": 104694,
+      "hash": "sha256-lds8TU5CGNqf/CLiJzW77yyiDK2Zy1aSiiHEfrut5JM="
+    },
+    "type": "primary"
+  },
+  "Catacomb Leather 4k": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 442448,
+      "file_name": "Catacomb Leather 4k-104694-1-0-1699926187.zip",
+      "mod_id": 104694,
+      "hash": "sha256-G/XgfONkES6HyJin6ymCJKCGw1e28GLWu9i6eKdrjyk="
+    },
+    "type": "primary"
+  }
+}

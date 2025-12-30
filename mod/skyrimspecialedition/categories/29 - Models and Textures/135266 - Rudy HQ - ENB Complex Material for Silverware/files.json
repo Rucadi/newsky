@@ -1,0 +1,44 @@
+{
+  "Rudy HQ - ENB Complex Material Silverware STaC": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.3",
+      "file_id": 569063,
+      "file_name": "Rudy HQ - ENB Complex Material Silverware STaC-135266-1-3-1733362813.zip",
+      "mod_id": 135266,
+      "hash": "sha256-sq3Hv+r8RXudW/sj00abFjHbmSaLDVpVPmNDIZ1tnuA="
+    },
+    "type": "primary"
+  },
+  "Rudy HQ - ENB Complex Material Silverware": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.3",
+      "file_id": 569064,
+      "file_name": "Rudy HQ - ENB Complex Material Silverware-135266-1-3-1733362936.zip",
+      "mod_id": 135266,
+      "hash": "sha256-SLx9aPmcSQYSbyx9qD+RRub7zKWGG8CxTGgHQ46J5z8="
+    },
+    "type": "primary"
+  },
+  "Rudy HQ - ENB Complex Material Silverware to Gold": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.3",
+      "file_id": 569065,
+      "file_name": "Rudy HQ - ENB Complex Material Silverware to Gold-135266-1-3-1733363067.zip",
+      "mod_id": 135266,
+      "hash": "sha256-g1psO+RSfCSLBbHi/VTBYdeMMDbIUfSULdNixMpkKMk="
+    }
+  },
+  "Rudy HQ-ENB Complex Material Silverware Gold STaC": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.3",
+      "file_id": 569067,
+      "file_name": "Rudy HQ-ENB Complex Material Silverware Gold STaC-135266-1-3-1733363191.zip",
+      "mod_id": 135266,
+      "hash": "sha256-3dG2dXgFcXcZzdA2Mhx9LVyCv0hi3L5ysJT9zQtjam8="
+    }
+  }
+}

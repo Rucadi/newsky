@@ -1,0 +1,33 @@
+{
+  "TK Dodge SE - TDM custom compatible patch 2.0": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "2.0",
+      "file_id": 218988,
+      "file_name": "TK Dodge SE - TDM custom compatible patch 2.0-53239-2-0-1628168592.7z",
+      "mod_id": 53239,
+      "hash": "sha256-APJxXmIgLyEmFW5ysoqXxa8Q3tTD9HA3pVyCf7wgclo="
+    },
+    "type": "primary"
+  },
+  "ESkyrim Dodge Animation User": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "2.0",
+      "file_id": 218990,
+      "file_name": "Skyrim Dodge Animation User-53239-2-0-1628168744.7z",
+      "mod_id": 53239,
+      "hash": "sha256-AXxImtFIcsSlxBPM25EatxUsqn/W4ru/pLvVtMfKNfY="
+    }
+  },
+  "Smooth Slip Dodge Animation": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 264582,
+      "file_name": "Smooth Slip Dodge Animation-53239-1-0-1645007234.zip",
+      "mod_id": 53239,
+      "hash": "sha256-274hfFyGOszRO9IPERKaPeo4ixaKwBh7yk+JNr+wksc="
+    }
+  }
+}

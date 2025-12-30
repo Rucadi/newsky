@@ -1,0 +1,33 @@
+{
+  "Immersive Dawnguard Dayspring Pass (IDDP)": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0.3",
+      "file_id": 52487,
+      "file_name": "Immersive Dawnguard Dayspring Pass (IDDP)-4126-1-0-3.7z",
+      "mod_id": 4126,
+      "hash": "sha256-UAdZKZuucKSyABzLCBKE7oCI4T7XsaOcBgIga/A7jGc="
+    },
+    "type": "primary"
+  },
+  "IDDP - ELFX Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0.3",
+      "file_id": 52488,
+      "file_name": "IDDP - ELFX Patch-4126-1-0-3.7z",
+      "mod_id": 4126,
+      "hash": "sha256-csxfXZyzQZLrR6p5+fL9GXpdiha5/1y9617aSD5J2VI="
+    }
+  },
+  "IDDP - Beyond Skyrim - Bruma Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0.3",
+      "file_id": 61940,
+      "file_name": "IDDP - Beyond Skyrim - Bruma Patch-4126-1-0-3.7z",
+      "mod_id": 4126,
+      "hash": "sha256-dSgC7YBQk0rjf7ceYRVFgrmtkeNhnm7RxTy57fdf4rw="
+    }
+  }
+}

@@ -1,0 +1,56 @@
+{
+  "Build with Gold (USSEP)": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1",
+      "file_id": 245193,
+      "file_name": "Build with Gold (USSEP)-41586-1-1-1638128615.7z",
+      "mod_id": 41586,
+      "hash": "sha256-N1uKToQllsOyfbayYOLXLh35/STQz6a1t8hsLY+L+ZU="
+    },
+    "type": "primary"
+  },
+  "Build with Gold (vanilla)": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1",
+      "file_id": 245194,
+      "file_name": "Build with Gold (vanilla)-41586-1-1-1638128688.7z",
+      "mod_id": 41586,
+      "hash": "sha256-BKEtYpkLVqw/DDkb6Zx5Q5W+h4BwJglbt+Uq3lJmZ+M="
+    },
+    "type": "primary"
+  },
+  "Build with Gold Double Price (USSEP)": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1",
+      "file_id": 245195,
+      "file_name": "Build with Gold Double Price (USSEP)-41586-1-1-1638128827.7z",
+      "mod_id": 41586,
+      "hash": "sha256-0Gm2lcm1FJLMUBeg89Lssk9E192aFqr/t46Fe1E23FA="
+    },
+    "type": "primary"
+  },
+  "Build with Gold Double Price (vanilla)": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1",
+      "file_id": 245196,
+      "file_name": "Build with Gold Double Price (vanilla)-41586-1-1-1638128908.7z",
+      "mod_id": 41586,
+      "hash": "sha256-cJtH7ezdZxYuRSl/+IIovewWBL7P/9dJnHi0WrMtotE="
+    },
+    "type": "primary"
+  },
+  "Build your farm with gold": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "Farm1.0",
+      "file_id": 268041,
+      "file_name": "Build your farm with gold-41586-Farm1-0-1646403657.7z",
+      "mod_id": 41586,
+      "hash": "sha256-brbxawG/is4Grsybq0U9EvKDchrqZ08jUxBtqNPB5F8="
+    }
+  }
+}

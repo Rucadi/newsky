@@ -1,0 +1,64 @@
+{
+  "shadowman_olfinaroastedSL": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1",
+      "file_id": 448541,
+      "file_name": "shadowman_olfinaroastedSL-106146-1-1701626717.rar",
+      "mod_id": 106146,
+      "hash": "sha256-RsE0hlaafg2oqbojqdSpWA1kxuIObES1cCCXaSCaDYs="
+    },
+    "type": "primary"
+  },
+  "shadowman_olfinaroastedFG": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1",
+      "file_id": 448542,
+      "file_name": "shadowman_olfinaroastedFG-106146-1-1701626742.rar",
+      "mod_id": 106146,
+      "hash": "sha256-o0yoRQtW45/5EqTxxfTd+CRZsV5t5NpsWSold7/nkMI="
+    },
+    "type": "primary"
+  },
+  "shadowman_olfinaroastedpatch_sparejonSL": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "S",
+      "file_id": 449304,
+      "file_name": "shadowman_olfinaroastedpatch_sparejonSL-106146-S-1701876598.rar",
+      "mod_id": 106146,
+      "hash": "sha256-6jS6Ob9xMI61sQAP5LtLwsliWlfe5UUeNdpcDgq1yq4="
+    }
+  },
+  "shadowman_olfinaroastedpatch_sparejonFG": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "F",
+      "file_id": 449305,
+      "file_name": "shadowman_olfinaroastedpatch_sparejonFG-106146-F-1701876648.rar",
+      "mod_id": 106146,
+      "hash": "sha256-aMfWRC14brae+4SgizshIROU4jCF+SzOcl7AadaEcgc="
+    }
+  },
+  "Nocooldown_shadowman_olfinaroasted": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "N",
+      "file_id": 493337,
+      "file_name": "Nocooldown_shadowman_olfinaroasted-106146-N-1713716474.rar",
+      "mod_id": 106146,
+      "hash": "sha256-w4VKUK0Tul18AmhTj6wfRtTcYPEplcDw6kjZNRLc7rA="
+    }
+  },
+  "Nocooldown_shadowman_olfinaroastedFG": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "Nfg",
+      "file_id": 517415,
+      "file_name": "Nocooldown_shadowman_olfinaroastedFG-106146-Nfg-1720040496.rar",
+      "mod_id": 106146,
+      "hash": "sha256-G8vDaDhDeBf8YoIg/OOTHuFoOK48OlxtFQ8zwqIK3zE="
+    }
+  }
+}

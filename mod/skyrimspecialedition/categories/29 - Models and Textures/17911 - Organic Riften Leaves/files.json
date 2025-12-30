@@ -1,0 +1,35 @@
+{
+  "Organic Riften Leaves 4k": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0.2",
+      "file_id": 142739,
+      "file_name": "Organic Riften Leaves 4k-17911-1-0-2-1590773230.7z",
+      "mod_id": 17911,
+      "hash": "sha256-sXvm4ZYn3gUWchwyCsusNbOh6v5Ck4g1nEG6knDpFRU="
+    },
+    "type": "primary"
+  },
+  "Organic Riften Leaves 2k": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0.2",
+      "file_id": 142740,
+      "file_name": "Organic Riften Leaves 2k-17911-1-0-2-1590773310.7z",
+      "mod_id": 17911,
+      "hash": "sha256-TuSxx0nsBfvEOqtLumDdClwmIlgHFqYUXXIOPxn30dQ="
+    },
+    "type": "primary"
+  },
+  "Organic Riften Leaves 1k": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0.2",
+      "file_id": 142741,
+      "file_name": "Organic Riften Leaves 1k-17911-1-0-2-1590773439.7z",
+      "mod_id": 17911,
+      "hash": "sha256-Lvljs5oam0fy4+J9DAbPSuv7xJIiZuLVAvctm1giVSw="
+    },
+    "type": "primary"
+  }
+}

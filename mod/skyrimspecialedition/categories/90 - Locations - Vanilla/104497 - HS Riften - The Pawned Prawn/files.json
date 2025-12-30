@@ -1,0 +1,43 @@
+{
+  "HSRiften - The Pawned Prawn": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0.0",
+      "file_id": 441639,
+      "file_name": "HSRiften - The Pawned Prawn-104497-1-0-0-1699686790.7z",
+      "mod_id": 104497,
+      "hash": "sha256-NhfxMd11hVnEDjbPvVvMqhuH3SRCn7GoF7saEFEQAuk="
+    },
+    "type": "primary"
+  },
+  "HSRiften - The Pawned Prawn - ELFX": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0.0",
+      "file_id": 441640,
+      "file_name": "HSRiften - The Pawned Prawn - ELFX-104497-1-0-0-1699686828.7z",
+      "mod_id": 104497,
+      "hash": "sha256-dyRQ3spJMHBsjhDsgbo9nPYsMxd7tI/YSbeqWd6lb1c="
+    }
+  },
+  "HSRiften - The Pawned Prawn - LOTD": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0.0",
+      "file_id": 441641,
+      "file_name": "HSRiften - The Pawned Prawn - LOTD-104497-1-0-0-1699686860.7z",
+      "mod_id": 104497,
+      "hash": "sha256-WYyl5Li4BO6StCS1Os7XQq04UpaUhi6GGH+lalZwb7w="
+    }
+  },
+  "HSRiften - The Pawned Prawn - LUX": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0.0",
+      "file_id": 441642,
+      "file_name": "HSRiften - The Pawned Prawn - LUX-104497-1-0-0-1699686888.7z",
+      "mod_id": 104497,
+      "hash": "sha256-56DGJDCB48SGfPE/z9va4fDpKMP+S5z5LbGk2djkGCw="
+    }
+  }
+}

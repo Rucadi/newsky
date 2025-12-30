@@ -1,0 +1,33 @@
+{
+  "DressUpLoversSE": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.06",
+      "file_id": 107607,
+      "file_name": "DressUpLoversSE-28736-1-06-1569042695.7z",
+      "mod_id": 28736,
+      "hash": "sha256-8Zuw+t9MTbI5zMD6x+ryUD/NPqGdJTiS7Nj2Ix7+1pM="
+    },
+    "type": "primary"
+  },
+  "Outfit Preset - Prince And The Pauper": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.00",
+      "file_id": 108830,
+      "file_name": "DressUpLovers_Preset_PrinceAndThePauper-28736-1-00-1569799103.zip",
+      "mod_id": 28736,
+      "hash": "sha256-PM8PUYTfbaDj27epCvKpVZpCS9nVFxq/7RSSaqiO6OU="
+    }
+  },
+  "Lag fix patch for 1.06": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.06",
+      "file_id": 120307,
+      "file_name": "Lag fix patch for 1.06-28736-1-06-1579357260.zip",
+      "mod_id": 28736,
+      "hash": "sha256-HXu5zgCTweroH5oxhqXuvezEW3WErE8BiAGJAlNqueo="
+    }
+  }
+}

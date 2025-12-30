@@ -1,0 +1,93 @@
+{
+    "9. WOKW - Spaghetti's Towns - AIO Patch - ESL": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "1.02",
+            "file_id": 681827,
+            "file_name": "2. WOKW - Spaghetti's Towns - AIO Patch - ESL-162376-1-0-1761812117.7z",
+            "mod_id": 162376,
+            "hash": "sha256-p80FOSowQJnCS+qYzs40Yduhj51anP2IALzSEaT9n58="
+        }
+    },
+    "5. WOKW - Northern Roads Patch - ESL": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "1.02",
+            "file_id": 681829,
+            "file_name": "3. WOKW - Northern Roads Patch-162376-1-0-1761812253.7z",
+            "mod_id": 162376,
+            "hash": "sha256-PaP9kGM7BAOCedKT1O14uAqG+YBVdLo6cVtu9DC6Jdo="
+        }
+    },
+    "8. WOKW - Snazzy - Karthwasten Hall Patch - ESL": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "1.02",
+            "file_id": 681830,
+            "file_name": "4. WOKW - Snazzy Interiors - Karthwasten Hall-162376-1-0-1761812466.7z",
+            "mod_id": 162376,
+            "hash": "sha256-0mcAHqHHHTdRnL8haGIMnijY+KTywyqA3J4AUGx4oOQ="
+        }
+    },
+    "3. WOKW - Diverse Windmill Sails Patch - ESL": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "1.02",
+            "file_id": 682365,
+            "file_name": "2. WOKW - Diverse Windmill Sails Patch-162376-1-01-1761942887.7z",
+            "mod_id": 162376,
+            "hash": "sha256-AKZi9VT0fW9hXbe0LLVq01SFaavDHke7N1tnjb54Src="
+        }
+    },
+    "6. WOKW - Regional Merchants Patch - ESL": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "1.02",
+            "file_id": 682383,
+            "file_name": "4. WOKW - Regional Merchants Patch - ESL-162376-1-01-1761948167.7z",
+            "mod_id": 162376,
+            "hash": "sha256-1o/DA1vOrlUINWE40F+NnDAVlurpbRz9rtnGrNTHEuw="
+        }
+    },
+    "1. The Walls of Karthwasten - ESL": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "1.02",
+            "file_id": 682646,
+            "file_name": "1. The Walls of Karthwasten - ESL-162376-1-02-1762011176.7z",
+            "mod_id": 162376,
+            "hash": "sha256-9pBKmqE7NnlCnPJe3bEfA/DlMxQxTTk+N/pEecgX6VE="
+        },
+        "type": "primary"
+    },
+    "4. WOKW - Great Town of Karthwasten Patch - ESL": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "1.02",
+            "file_id": 688303,
+            "file_name": "4. WOKW - Great Town of Karthwasten Patch - ESL-162376-1-02-1763333776.7z",
+            "mod_id": 162376,
+            "hash": "sha256-4XMchVFLMSsDHwrF+HeUc7ZhXNxZedNO7eEm8BuaWmM="
+        }
+    },
+    "7. WOKW - Seasons of Skyrim Patch - ESL": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "1.02",
+            "file_id": 688305,
+            "file_name": "7. WOKW - Seasons of Skyrim Patch - ESL-162376-1-02-1763333862.7z",
+            "mod_id": 162376,
+            "hash": "sha256-LZZmYyRau0hZZjTE+Mp4buCZdRAfRe88Z7ispppQ6kw="
+        }
+    },
+    "2. WOKW - ClefJ's Karthwasten Patch - ESL": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "1.02",
+            "file_id": 688307,
+            "file_name": "WOKW - ClefJ's Karthwasten Patch - ESL-162376-1-02-1763334387.7z",
+            "mod_id": 162376,
+            "hash": "sha256-JcGwQwdRRqh1bBSGoPM90kKli/2GuNCTgMjQa7a7ZXA="
+        }
+    }
+}

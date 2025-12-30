@@ -1,0 +1,33 @@
+{
+    "HSRiverwood - Sven and Hilde's House": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "1.0.0",
+            "file_id": 364678,
+            "file_name": "HSRiverwood - Sven and Hilde's House-86094-1-0-0-1677718792.7z",
+            "mod_id": 86094,
+            "hash": "sha256-qa+ELL5t2VF4ovksVu612tDXHguBkE1/IV9IFbuOP4o="
+        },
+        "type": "primary"
+    },
+    "HSRiverwood - Sven and Hilde's House - ELFX": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "1.0.0",
+            "file_id": 364679,
+            "file_name": "HSRiverwood - Sven and Hilde's House - ELFX-86094-1-0-0-1677718819.7z",
+            "mod_id": 86094,
+            "hash": "sha256-GrVYi0LuZlgp8zCFllbfeEj7477T46HOUUn/6OVQ5CU="
+        }
+    },
+    "HSRiverwood - Sven and Hilde's House - LUX": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "1.0.0",
+            "file_id": 364680,
+            "file_name": "HSRiverwood - Sven and Hilde's House - LUX-86094-1-0-0-1677718848.7z",
+            "mod_id": 86094,
+            "hash": "sha256-QqVbII++I+Cx5LJu11PvoL+cWE1nzZddph3gIxVw2IQ="
+        }
+    }
+}

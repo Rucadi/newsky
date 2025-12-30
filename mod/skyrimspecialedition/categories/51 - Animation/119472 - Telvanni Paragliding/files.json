@@ -1,0 +1,23 @@
+{
+  "Telvanni Paragliding": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "0.5",
+      "file_id": 501560,
+      "file_name": "Telvanni Paragliding-119472-0-5-1715827448.rar",
+      "mod_id": 119472,
+      "hash": "sha256-UVhLH5rWBxWUuB2KlBProAtBUCRl1S6SRfACaljXeaE="
+    },
+    "type": "primary"
+  },
+  "Telvanni Paragliding - SPO": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "ParaglidingOne",
+      "file_id": 568969,
+      "file_name": "Telvanni Paragliding - SPO-119472-ParaglidingOne-1733336897.7z",
+      "mod_id": 119472,
+      "hash": "sha256-8qoNhXTM+hKalvSojLSCsgNpPUZt1qcmUAeev6wP2XE="
+    }
+  }
+}

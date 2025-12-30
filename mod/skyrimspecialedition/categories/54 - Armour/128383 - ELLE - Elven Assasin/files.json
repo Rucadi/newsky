@@ -1,0 +1,34 @@
+{
+  "Elven Assasin 3BA": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1",
+      "file_id": 538632,
+      "file_name": "Elven Assasin 3BA-128383-1-1725454944.rar",
+      "mod_id": 128383,
+      "hash": "sha256-EEAxiHFl7vHq9XzvVu82a1TTrQTX8CyhG5DpXOauVLY="
+    },
+    "type": "primary"
+  },
+  "Elven Assasin BHUNP": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1",
+      "file_id": 538634,
+      "file_name": "Elven Assasin BHUNP-128383-1-1725455098.rar",
+      "mod_id": 128383,
+      "hash": "sha256-DrNz+yBTDFNDNCuVfWHcqA/Igc758mbDMhYColJg0k8="
+    },
+    "type": "primary"
+  },
+  "Elven Assasin - UBE Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1",
+      "file_id": 538636,
+      "file_name": "Elven Assasin UBE-128383-1-1725455195.rar",
+      "mod_id": 128383,
+      "hash": "sha256-tEafihM+pShm216P2nmzvbRBXCqb3nNIlnXLNmluqQ0="
+    }
+  }
+}

@@ -1,0 +1,53 @@
+{
+    "BCS - Apothecary Patch": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "1.3",
+            "file_id": 247718,
+            "file_name": "BSC - Apothecary Patch-59669-1-3-1639055640.7z",
+            "mod_id": 59669,
+            "hash": "sha256-uJuNULN/5fEL6IBlC35pVoCTllJfguYwdJgpZsjiLgI="
+        }
+    },
+    "BCS - CRF Patch": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "1.3",
+            "file_id": 247720,
+            "file_name": "BCS - CRF Patch-59669-1-3-1639055836.7z",
+            "mod_id": 59669,
+            "hash": "sha256-lXXyauqewMw/db66QIRIRbo3amc1rsLK371jBSLdwr8="
+        }
+    },
+    "BCS - No Skill Book Stars": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "1.4",
+            "file_id": 248594,
+            "file_name": "BCS - No Skill Book Stars-59669-1-2-1639334719.zip",
+            "mod_id": 59669,
+            "hash": "sha256-mIOEXluQslvfbt4c3NarUzMy2VLicK8N1koCD0IGHNk="
+        }
+    },
+    "BCS - Additional Naming Tweaks": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "1.6",
+            "file_id": 292843,
+            "file_name": "BSC - Additional Naming Tweaks-59669-1-6-1655812618.7z",
+            "mod_id": 59669,
+            "hash": "sha256-pAdx+jKytFW0CiZ/xtX00p0OviQlWLYj97Oc3HZ+MCA="
+        }
+    },
+    "BCS - Vanilla-Like Tweaks (USSEP)": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "1.7",
+            "file_id": 423305,
+            "file_name": "BCS - Vanilla-Like Tweaks (USSEP)-59669-1-7-1693856421.7z",
+            "mod_id": 59669,
+            "hash": "sha256-Q6f7719470iC1zOb2QxFdHm7/YkjsMr6RgJlCWrIfDI="
+        },
+        "type": "primary"
+    }
+}

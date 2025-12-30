@@ -1,0 +1,157 @@
+{
+  "RUSTIC SOULGEMS - Special Edition - 2K Sorted": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 12941,
+      "file_name": "RUSTIC SOULGEMS - Special Edition - 2K Sorted-5785-1-0.7z",
+      "mod_id": 5785,
+      "hash": "sha256-tYk/cpo472jyI/Ze5gw09Rbwz/HoQufVgVINZejdZH0="
+    },
+    "type": "primary"
+  },
+  "RUSTIC SOULGEMS - Special Edition - 1K Unsorted": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 12943,
+      "file_name": "RUSTIC SOULGEMS - Special Edition - 1K Unsorted-5785-1-0.7z",
+      "mod_id": 5785,
+      "hash": "sha256-aC7uZo2mY3Z8i6rPMTYxVDIxOtC7LIqNl+m3elnU+Z4="
+    },
+    "type": "primary"
+  },
+  "RUSTIC SOULGEMS - Special Edition - 1K Sorted": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 12944,
+      "file_name": "RUSTIC SOULGEMS - Special Edition - 1K Sorted-5785-1-0.7z",
+      "mod_id": 5785,
+      "hash": "sha256-yAUTQVAOAVxG4E3EJjiXpcBa5LfW2JTwEDFw939p6PU="
+    },
+    "type": "primary"
+  },
+  "RUSTIC SOULGEMS - Special Edition - 2K Unsorted": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 12945,
+      "file_name": "RUSTIC SOULGEMS - Special Edition - 2K Unsorted-5785-1-0.7z",
+      "mod_id": 5785,
+      "hash": "sha256-L+YA1/VT9mmibw/oyMYQBUNIpIX032JDA1TnTIX5Ut0="
+    },
+    "type": "primary"
+  },
+  "RUSTIC SOULGEMS SE - Sorted Espanol": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 13034,
+      "file_name": "RUSTIC SOULGEMS - SE- Sorted Espanol-5785-1-0.7z",
+      "mod_id": 5785,
+      "hash": "sha256-cjyDwSJCR5il4K9DOjJX4+X/cLIVKBfdRlA9RooXmoo="
+    }
+  },
+  "RUSTIC SOULGEMS SE - Unsorted Espanol": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 13036,
+      "file_name": "RUSTIC SOULGEMS - SE - Unsorted Espanol-5785-1-0.7z",
+      "mod_id": 5785,
+      "hash": "sha256-5zEPE7QKpmTv9mRM5QVVpo7G7GIPg3ZLTZB8/RTyNFc="
+    }
+  },
+  "RUSTIC SOULGEMS SE - Sorted - FRA": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 13803,
+      "file_name": "RUSTIC SOULGEMS SE - Sorted - FRA-5785-1-0.7z",
+      "mod_id": 5785,
+      "hash": "sha256-NeXpNvQP7S5MQfyxVfBhvfvtsEk2dGB92zcrNPpycJs="
+    }
+  },
+  "RUSTIC SOULGEMS SE - Unsorted - FRA": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 13805,
+      "file_name": "RUSTIC SOULGEMS SE - Unsorted - FRA-5785-1-0.7z",
+      "mod_id": 5785,
+      "hash": "sha256-iw8h58UWap36CocWiy+ue9GdnCtvNQZKkTkbFBq2M1M="
+    }
+  },
+  "RUSTIC SOULGEMS SE - Sorted - DEUTSCH": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 13835,
+      "file_name": "RUSTIC SOULGEMS SE - Sorted - DEUTSCH-5785-1-0.rar",
+      "mod_id": 5785,
+      "hash": "sha256-Y/KILKh5fWH0x4tmokHh0yNpRBa6dSbwvlhoyr4si6w="
+    }
+  },
+  "RUSTIC SOULGEMS SE - Unsorted - DEUTSCH": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 13836,
+      "file_name": "RUSTIC SOULGEMS SE - Unsorted - DEUTSCH-5785-1-0.rar",
+      "mod_id": 5785,
+      "hash": "sha256-jHCTfVGaICm5SzRNw4Mu3y9/H82mzxwSbkIbmoZdNdQ="
+    }
+  },
+  "RUSTIC SOULGEMS SE - Sorted - RUS": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 13943,
+      "file_name": "RUSTIC SOULGEMS SE - Sorted - RUS-5785-1-0.7z",
+      "mod_id": 5785,
+      "hash": "sha256-JeCyrOQNom4Rh+3KXVtCk6kWRv3BkZIUC9ljAyJ4tHU="
+    }
+  },
+  "RUSTIC SOULGEMS SE - Unsorted - RUS": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 13944,
+      "file_name": "RUSTIC SOULGEMS SE - Unsorted - RUS-5785-1-0.7z",
+      "mod_id": 5785,
+      "hash": "sha256-lclD/3MpcsSKMlGwwqmTp5aR4OXI5UjqGV+SuyvFvmY="
+    }
+  },
+  "RUSTIC SOULGEMS SE - Sorted - CHT": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 62476,
+      "file_name": "RUSTIC SOULGEMS SE - Sorted - CHT-5785-1-0.7z",
+      "mod_id": 5785,
+      "hash": "sha256-gaDWCboVgh1newfydTbaebgx9uwqFB+7re28tqsFZHU="
+    }
+  },
+  "RUSTIC SOULGEMS SE - Unsorted - CHT": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 62477,
+      "file_name": "RUSTIC SOULGEMS SE - Unsorted - CHT-5785-1-0.7z",
+      "mod_id": 5785,
+      "hash": "sha256-W5IL60ifZkREI+dK+K6C8AGzCm97TMihYqy2vadLQmM="
+    }
+  },
+  "RUSTIC SOULGEMS - Special Edition - FOMOD - English Only": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 84678,
+      "file_name": "RUSTIC SOULGEMS SE - FOMOD - English Only-5785-1-0-1552411870.rar",
+      "mod_id": 5785,
+      "hash": "sha256-K68s62k7v/wtJKok6+kHAVxaF5zMP2WdVaIvHkNxU3g="
+    },
+    "type": "primary"
+  }
+}

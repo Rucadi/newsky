@@ -1,0 +1,33 @@
+{
+  "I4 Weapon Icons Overhaul - KIT Wheeler Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "2.3",
+      "file_id": 502828,
+      "file_name": "I4 Weapon Icons Overhaul - KIT Wheeler Patch-106432-2-3-1716140281.zip",
+      "mod_id": 106432,
+      "hash": "sha256-TGsrhSN7TzqKY0+WMabP+n7aoBWTA5PUszYSnp4cT+A="
+    }
+  },
+  "I4 Weapon Icons Overhaul - Icon Color Var. Patches": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "2.4",
+      "file_id": 532964,
+      "file_name": "I4 Weapon Icons Overhaul - Icon Color Var. Patches-106432-2-4-1724036538.zip",
+      "mod_id": 106432,
+      "hash": "sha256-fify2gJixQhlKU1JLgG8WjbW/don/+cNKd/3cCFHQqM="
+    }
+  },
+  "I4 Weapon Icons Overhaul": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "2.41",
+      "file_id": 533080,
+      "file_name": "I4 Weapon Icons Overhaul-106432-2-41-1724073558.zip",
+      "mod_id": 106432,
+      "hash": "sha256-bGyY0Pe4SKosKNr9LjrBivby88bbSELnVfNdss3TBUA="
+    },
+    "type": "primary"
+  }
+}

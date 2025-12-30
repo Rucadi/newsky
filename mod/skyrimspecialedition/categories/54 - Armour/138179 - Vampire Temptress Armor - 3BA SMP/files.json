@@ -1,0 +1,43 @@
+{
+  "Vampire Temptress Armor - Dynamic ENB cubemap": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 587274,
+      "file_name": "Vampire Temptress Armor - Dynamic ENB cubemap-138179-1-0-1737820564.zip",
+      "mod_id": 138179,
+      "hash": "sha256-y/MNMo6RegwY7CHlObWN/qPTo4jRiKTaUGkwlbxVRCk="
+    }
+  },
+  "Vampire Temptress Armor - 3BA SMP": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1.1",
+      "file_id": 587612,
+      "file_name": "Vampire Temptress Armor - 3BA SMP-138179-1-1-1-1737891101.zip",
+      "mod_id": 138179,
+      "hash": "sha256-wnFWLt9n3a2TslpVS6bgAWL10DpVTWL3Qnjm8TiRuuU="
+    },
+    "type": "primary"
+  },
+  "Vampire Temptress Armor - No blood pauldrons": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 606974,
+      "file_name": "Vampire Temptress Armor - No blood pauldrons - 4k-138179-1-0-1742282277.zip",
+      "mod_id": 138179,
+      "hash": "sha256-8/y+8GZ1yo3w/lSyRWeLW+Jf61c8dIFgPd7hYucknag="
+    }
+  },
+  "Vampire Temptress Armor - 3BA SMP - PBR": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 621098,
+      "file_name": "Vampire Temptress Armor - 3BA SMP - PBR-138179-1-0-1745605690.zip",
+      "mod_id": 138179,
+      "hash": "sha256-L16WbGFm+oYvIoNksvt1OhdpWrVApGvX24CXhIlgoCo="
+    }
+  }
+}

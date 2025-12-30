@@ -1,0 +1,63 @@
+{
+  "Red Wave Corsairs - Seasonal Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 479339,
+      "file_name": "Red Wave Corsairs - Seasonal Patch-112214-1-0-1710152481.7z",
+      "mod_id": 112214,
+      "hash": "sha256-YgDBCvwzKUa0ad7SkjSWP8a3k0b1o0m+sUFIw6sSkrk="
+    }
+  },
+  "Riften Docks Overhaul Seasonal Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1",
+      "file_id": 480631,
+      "file_name": "Riften Docks Overhaul Seasonal Patch-112214-1-1-1710456217.7z",
+      "mod_id": 112214,
+      "hash": "sha256-iWnPIdliZBF1rphPJw3pJfNXqMqczjQzQNTeNrWqJQs="
+    }
+  },
+  "Unique Red Wave - Seasonal Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 563609,
+      "file_name": "Unique Red Wave - Seasonal Patch-112214-1-0-1731931730.7z",
+      "mod_id": 112214,
+      "hash": "sha256-IhlPRVqI+1WuDq/hx9CTcJ1dM3QCTs+huCvDnA2ARnc="
+    }
+  },
+  "Snowy Ships for Snowy Regions - Seasonal Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.2",
+      "file_id": 594423,
+      "file_name": "Snowy Ships for Snowy Regions - Seasonal Patch-112214-1-2-1739515735.7z",
+      "mod_id": 112214,
+      "hash": "sha256-StsLjSIDj7dsHNPZDgVmuQgjgTDcnho/Llqm7OPyZ0I="
+    },
+    "type": "primary"
+  },
+  "Winterhold docks- Seasonal Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 600853,
+      "file_name": "Winterhold docks- Seasonal Patch-112214-1-0-1740903656.7z",
+      "mod_id": 112214,
+      "hash": "sha256-2Y71eALvfSHLqvsTnjnMZvzVjiwy9lTVc23cyy+PllE="
+    }
+  },
+  "BS - Wares of Tamriel SE - Seasonal Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 600903,
+      "file_name": "BS - Wares of Tamriel SE - Seasonal Patch-112214-1-0-1740912882.7z",
+      "mod_id": 112214,
+      "hash": "sha256-OZ4gV57ob6s3xtoFvlxxHzHODhpr8M0EIEUeRwiVSo0="
+    }
+  }
+}

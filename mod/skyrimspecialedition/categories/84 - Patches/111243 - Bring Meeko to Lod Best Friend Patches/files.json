@@ -1,0 +1,79 @@
+{
+  "Best Friend patch - Vanilla Falkreath": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 470049,
+      "file_name": "Bring Meeko to Lod Best Friend patch - Vanilla-111243-1-0-1707718595.zip",
+      "mod_id": 111243,
+      "hash": "sha256-e3Q/NF+mzJAeQUM46HsaiJpQj+HKiV9/zYx6P1HGVZU="
+    },
+    "type": "primary"
+  },
+  "Best Friend patch - RedBag's Falkreath": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 470050,
+      "file_name": "Bring Meeko to Lod Best Friend patch - RedBag's-111243-1-0-1707718756.zip",
+      "mod_id": 111243,
+      "hash": "sha256-KFoBZt7LriIOmaxjIg5BRqrPu6Hm/iWDjyw8qqurJ88="
+    },
+    "type": "primary"
+  },
+  "Best Friend patch - Cities of the North Falkreath": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 470051,
+      "file_name": "Best Friend patch - Cities of the North Falkreath-111243-1-0-1707718929.zip",
+      "mod_id": 111243,
+      "hash": "sha256-0GilvaUUkI4yAUrcbAZNsyzBZTM9S7vIRKWRuQRLCY0="
+    },
+    "type": "primary"
+  },
+  "Best Friend patch - JK's Skyrim": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 470346,
+      "file_name": "Best Friend patch - JK's Skyrim-111243-1-0-1707803537.zip",
+      "mod_id": 111243,
+      "hash": "sha256-ACEV7vHIJhzRitxN0Has1vyR4Y10DD903pBZkMdhiVo="
+    },
+    "type": "primary"
+  },
+  "Best Friend patch - Alternate Vanilla Falkreath": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 470578,
+      "file_name": "Best Friend patch - Alternate Vanilla Falkreath-111243-1-0-1707864769.zip",
+      "mod_id": 111243,
+      "hash": "sha256-XjHDQMSKJ5Br/Nva03hxoWUarpKLvF8mdyB+PS4I4p4="
+    },
+    "type": "primary"
+  },
+  "ADL Best Friend Patch - Redbag's Falkreath": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 482071,
+      "file_name": "ADL Best Friend Patch - Redbag's Falkreath-111243-1-0-1710817212.zip",
+      "mod_id": 111243,
+      "hash": "sha256-15n/BSCYpUKvkswfrWg8l2bKVauZDkXm41DkfmyHnI8="
+    },
+    "type": "primary"
+  },
+  "Best Friends Patch - Alt Vanilla - CLUTTER ONLY": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 670040,
+      "file_name": "Best Friends Patch - Alt Vanilla - CLUTTER ONLY-111243-1-0-1759017703.zip",
+      "mod_id": 111243,
+      "hash": "sha256-nxYnmqmEru1TXJ8YwE/rrO58ORxcvsOmD1BomPEFfd4="
+    },
+    "type": "primary"
+  }
+}

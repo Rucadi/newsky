@@ -1,0 +1,68 @@
+{
+  "SMP Armor scanning bugfix for SkyrimVR": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1",
+      "file_id": 621887,
+      "file_name": "SMP Armor scanning bugfix for SkyrimVR-119010-1-1745854985.7z",
+      "mod_id": 119010,
+      "hash": "sha256-KWc4iAYhy68EV9V4AVG0o9ma8BcoHVdgLLKuBSC0aLw="
+    },
+    "type": "primary"
+  },
+  "SMP Armor scanning bugfix For SE 1.5.97": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1",
+      "file_id": 622703,
+      "file_name": "SMP Armor scanning bugfix For SE 1.5.97.-119010-1-1-1746123999.7z",
+      "mod_id": 119010,
+      "hash": "sha256-zL4vaE2Mx+XvP7crYVhZQj6WLInw1xKGrvQLvjjHb7Q="
+    },
+    "type": "primary"
+  },
+  "SMP Armor scanning bugfix for AE 1.6.1170": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1",
+      "file_id": 622708,
+      "file_name": "SMP Armor scanning bugfix for AE 1.6.1170-119010-1-1-1746125338.7z",
+      "mod_id": 119010,
+      "hash": "sha256-Jb1+5PseCoJ6a+EGEHrpP0qFEZLgwH/FBaP++JFUn7E="
+    },
+    "type": "primary"
+  },
+  "SMP Armor scanning bugfix for AE 1.6.640": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1",
+      "file_id": 622780,
+      "file_name": "SMP Armor scanning bugfix for AE 1.6.640-119010-1-1-1746148297.7z",
+      "mod_id": 119010,
+      "hash": "sha256-/s1yZOEKQelF+1G/DbwCjZCQs8M5LNXhRef2xEqnra4="
+    },
+    "type": "primary"
+  },
+  "SMP Armor scanning bugfix for AE 1.6.1179 (GOG)": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1",
+      "file_id": 623086,
+      "file_name": "SMP Armor scanning bugfix for AE 1.6.1179 (GOG)-119010-1-1746238513.7z",
+      "mod_id": 119010,
+      "hash": "sha256-WTPFgTaoOxT1o4UL4Cs2G172r1x9cdTJUkZhZmWofhA="
+    },
+    "type": "primary"
+  },
+  "SMP Armor scanning bugfix for AE 1.6.353": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1",
+      "file_id": 637065,
+      "file_name": "SMP Armor scanning bugfix for AE 1.6.353-119010-1-1749739196.7z",
+      "mod_id": 119010,
+      "hash": "sha256-RWvq0pu++Fs3B7brLKDmpLxiayuEjZmIgJPzTmEsfLg="
+    },
+    "type": "primary"
+  }
+}

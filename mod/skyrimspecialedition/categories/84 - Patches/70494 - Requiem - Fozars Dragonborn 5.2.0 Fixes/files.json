@@ -1,0 +1,23 @@
+{
+    "Trad CC Collection Requiem Patch - Dragonborn Fixes": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "1.01",
+            "file_id": 295372,
+            "file_name": "Trad CC Collection Requiem Patch - Dragonborn Fixes-70494-1-01-1656676649.rar",
+            "mod_id": 70494,
+            "hash": "sha256-O9luqjtqhvaRpQCSPwu+3h0BoncbCO8MF1suy3s6TDY="
+        }
+    },
+    "Requiem - Fozars Dragonborn 5.2.0 Fixes": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "1.03",
+            "file_id": 357785,
+            "file_name": "Requiem - Fozars Dragonborn 5.2.0 Fixes-70494-1-03-1675879873.rar",
+            "mod_id": 70494,
+            "hash": "sha256-k4bChquS2jSGwW5Od5BN79P/bGQf/Zuv5qAGp9PrF5g="
+        },
+        "type": "primary"
+    }
+}

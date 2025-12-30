@@ -1,0 +1,64 @@
+{
+  "Naz's E2A Collection - CBBE": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 487254,
+      "file_name": "Naz's E2A Collection - CBBE-115799-1-0-1712185146.rar",
+      "mod_id": 115799,
+      "hash": "sha256-ZPtzwNZPxMkizpV2HMNPoPgCRgub8k8pPwbIFf9oCis="
+    },
+    "type": "primary"
+  },
+  "Naz's E2A Collection - UNP": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 487255,
+      "file_name": "Naz's E2A Collection - UNP-115799-2-0-1712185223.rar",
+      "mod_id": 115799,
+      "hash": "sha256-pa/Ly9utV46JtK6qPIY4K6fhIhV4fiA66wlPebN+eNQ="
+    },
+    "type": "primary"
+  },
+  "Smooth Armpit Patch - UNP": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 546769,
+      "file_name": "UNP Smooth Armpit Patch-115799-1-0-1727455251.rar",
+      "mod_id": 115799,
+      "hash": "sha256-7SM6anJeyKKfD1LgPTSxE1OsnAtlX1yQ+7jJZ693DwA="
+    }
+  },
+  "Smooth Armpit Patch - CBBE": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 546770,
+      "file_name": "Smooth Armpit Patch - CBBE-115799-1-0-1727455384.rar",
+      "mod_id": 115799,
+      "hash": "sha256-oNuXDGacdTqqeJZ33J8dEZi/8jwSOLV9Dj54+DJZn9U="
+    }
+  },
+  "Naz's Asset Collection Bodyslides - 3BA": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.2",
+      "file_id": 569620,
+      "file_name": "Naz's Asset Collection Bodyslides - 3BA-115799-1-2-1733510661.rar",
+      "mod_id": 115799,
+      "hash": "sha256-bVwZmdRwGiH3Z6NvxRCni4rDUq0f/R9931/hi5woW8M="
+    }
+  },
+  "Naz's Asset Collection Bodyslides - BHUNP": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.2",
+      "file_id": 569622,
+      "file_name": "Naz's Asset Collection Bodyslides - BHUNP-115799-1-2-1733510757.rar",
+      "mod_id": 115799,
+      "hash": "sha256-6RVsqIylKsC7uBInC7b2oqAYwepcNJxSORZdox3iuzM="
+    }
+  }
+}

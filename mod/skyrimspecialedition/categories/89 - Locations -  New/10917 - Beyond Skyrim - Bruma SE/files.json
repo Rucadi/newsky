@@ -1,0 +1,35 @@
+{
+  "Beyond Skyrim - DLC Integration Patch 1.6.3": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.6.3",
+      "file_id": 375845,
+      "file_name": "Beyond Skyrim - DLC Integration Patch 1.6.2-10917-1-6-2-1680825633.7z",
+      "mod_id": 10917,
+      "hash": "sha256-UCdKhhPeXek99vxBXGDUzztJPVMMhyGsS9f7OeGet7w="
+    },
+    "type": "primary"
+  },
+  "Beyond Skyrim - Assets 1.6.3": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.6.3",
+      "file_id": 378830,
+      "file_name": "Beyond Skyrim - Assets 1.6.3-10917-1-6-3-1681654070.7z",
+      "mod_id": 10917,
+      "hash": "sha256-EzGpEgohCh/8eYW1h/9hZ+iK47JguOx6tqEnVFFXSAc="
+    },
+    "type": "primary"
+  },
+  "Beyond Skyrim - Bruma 1.6.3": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.6.3",
+      "file_id": 378831,
+      "file_name": "Beyond Skyrim - Bruma 1.6.3-10917-1-6-3-1681654072.7z",
+      "mod_id": 10917,
+      "hash": "sha256-hvOdg+lJbbSxpeaY8G4oYDxosE26aRpAuuC4ywcoj1w="
+    },
+    "type": "primary"
+  }
+}

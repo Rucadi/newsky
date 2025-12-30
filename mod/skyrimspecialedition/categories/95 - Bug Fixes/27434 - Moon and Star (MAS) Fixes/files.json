@@ -1,0 +1,24 @@
+{
+  "Moon and Star (MAS) Books Fix": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1",
+      "file_id": 99577,
+      "file_name": "Moon and Star (MAS) Books Fix-27434-1-1-1563363675.7z",
+      "mod_id": 27434,
+      "hash": "sha256-WgVgGoLMrbJKFTMKu4iMZyvGrgGrMmey0OCSi15rc7M="
+    },
+    "type": "primary"
+  },
+  "Moon and Star (MAS) Landscapes Fixes": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1",
+      "file_id": 99586,
+      "file_name": "Moon and Star (MAS) Landscapes Fixes-27434-1-2-1563376372.7z",
+      "mod_id": 27434,
+      "hash": "sha256-HuzJs/xSfrkB8nvHVHwTk7Uhas9vPxcNjTOqbhkLeoU="
+    },
+    "type": "primary"
+  }
+}

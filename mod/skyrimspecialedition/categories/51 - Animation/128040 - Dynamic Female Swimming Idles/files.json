@@ -1,0 +1,24 @@
+{
+  "Dynamic Female Swimming Idles": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 537378,
+      "file_name": "Dynamic Female Swimming Idles-128040-1-0-1725146942.zip",
+      "mod_id": 128040,
+      "hash": "sha256-2l0GpBX1l0KvbeJo7MP8TKe5lo9Nclzxqq8tYBmci/0="
+    },
+    "type": "primary"
+  },
+  "zDynamic Female Swimming Idles - DAR Legacy": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 540206,
+      "file_name": "zDynamic Female Swimming Idles - DAR Legacy-128040-1-0-1725828019.rar",
+      "mod_id": 128040,
+      "hash": "sha256-55RrWnZKOiASiXqsVKUZ7ZbSri2zVFmQfjHLXYt64Qo="
+    },
+    "type": "primary"
+  }
+}

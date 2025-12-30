@@ -1,0 +1,13 @@
+{
+    "Nix Hound Looting Fix (AE DLC)": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "1.00",
+            "file_id": 699467,
+            "file_name": "Nix Hound Looting Fix (AE DLC)-167406-1-00-1766108311.rar",
+            "mod_id": 167406,
+            "hash": "sha256-aL/D9E13z8ZxqvlXRvOR0wtFTD9SO4LIwf9K+zcD6qE="
+        },
+        "type": "primary"
+    }
+}

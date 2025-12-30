@@ -1,0 +1,24 @@
+{
+  "Skyland AIO": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "4.32",
+      "file_id": 443514,
+      "file_name": "Skyland AIO-34179-4-32-1700281282.7z",
+      "mod_id": 34179,
+      "hash": "sha256-KAg1+0TtxUaEBIkZXLOx7wa5NFWexiwkR3a+wPzHQ4U="
+    },
+    "type": "primary"
+  },
+  "Skyland AIO 1k": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "4.32",
+      "file_id": 443516,
+      "file_name": "Skyland AIO 1k-34179-4-32-1700282181.7z",
+      "mod_id": 34179,
+      "hash": "sha256-SQ8C7DRIf6nP/XbpzPtposF61SB6JBbMaxqtAn0V1zQ="
+    },
+    "type": "primary"
+  }
+}

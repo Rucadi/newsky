@@ -1,0 +1,23 @@
+{
+  "BHUNP Files": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 431157,
+      "file_name": "BHUNP Files-101787-1-0-1696441687.zip",
+      "mod_id": 101787,
+      "hash": "sha256-ZwlbaCPX7yy/DmpKXJ3GlBOXI65o3M3LT+ga7R23IJ4="
+    }
+  },
+  "Nightshade Mistress Outfit 2k 3BA Main.zip": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 431392,
+      "file_name": "Nightshade Mistress Outfit 2k 3BA Main.zip-101787-1-0-1696530264.zip",
+      "mod_id": 101787,
+      "hash": "sha256-bakGfxHXYxgPxmTb/mmFfCM/QE5l0iD22DkwuxL33pM="
+    },
+    "type": "primary"
+  }
+}

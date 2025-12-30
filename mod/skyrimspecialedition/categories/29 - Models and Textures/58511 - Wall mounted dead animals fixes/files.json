@@ -1,0 +1,23 @@
+{
+  "Wall mounted dead animals fixes": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 241749,
+      "file_name": "Wall mounted dead animals fixes-58511-1-0-1636998454.rar",
+      "mod_id": 58511,
+      "hash": "sha256-Z9U63CWEfjp2DmBOiiSgCZp/BMZZgUzpENhGnymxwdE="
+    },
+    "type": "primary"
+  },
+  "Wall mounted dead animals - Bears of the North": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1",
+      "file_id": 242446,
+      "file_name": "Wall mounted dead animals - Bears of the North-58511-1-1-1637240115.rar",
+      "mod_id": 58511,
+      "hash": "sha256-Q4X7It9idWkx0nFVJDxyhzLXkg6SqPz7RvlFJNNcDt4="
+    }
+  }
+}

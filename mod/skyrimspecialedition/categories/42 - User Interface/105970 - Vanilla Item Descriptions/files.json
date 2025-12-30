@@ -1,0 +1,23 @@
+{
+  "Vanilla Item Descriptions": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1",
+      "file_id": 448903,
+      "file_name": "Vanilla Item Descriptions-105970-1-1-1701739804.zip",
+      "mod_id": 105970,
+      "hash": "sha256-gud1KiIkTTxJN34V0JG8Qhza34O0592g+k0U/cEvGuU="
+    },
+    "type": "primary"
+  },
+  "Vanilla Item Descriptions - Uniques Only Version": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1-UO",
+      "file_id": 448904,
+      "file_name": "Vanilla Item Descriptions - Uniques Only Version-105970-1-1-UO-1701739858.zip",
+      "mod_id": 105970,
+      "hash": "sha256-0iGXb5NjsB6J2ipHtQEM4h0rNWA9FB3m7yo6XumyWrY="
+    }
+  }
+}

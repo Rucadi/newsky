@@ -1,0 +1,93 @@
+{
+  "Senecio Armor 2k Complex Material": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 563292,
+      "file_name": "Senecio Armor 2k Complex Material-133720-1-0-1731860635.7z",
+      "mod_id": 133720,
+      "hash": "sha256-ZK0HVzk1nFqBpQlHKOTBAq15vv2zZC/zhVIKVY5Nzgo="
+    }
+  },
+  "Senecio Armor 4k Complex Material": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 563293,
+      "file_name": "Senecio Armor 4k Complex Material-133720-1-0-1731860676.7z",
+      "mod_id": 133720,
+      "hash": "sha256-ebPjOiKiwaVkcgmDqHvgt4n0BJ/6FRjFe8RkoLecFjI="
+    }
+  },
+  "Senecio Armor 4k": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 563296,
+      "file_name": "Senecio Armor 4k-133720-1-0-1731860724.7z",
+      "mod_id": 133720,
+      "hash": "sha256-3smukUJ+f/2Fz5l8ol5LZ+pZ8Z4E2X90mJHDKxWoPvk="
+    }
+  },
+  "Senecio Armor 8k Complex Material": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 563297,
+      "file_name": "Senecio Armor 8k Complex Material-133720-1-0-1731860865.7z",
+      "mod_id": 133720,
+      "hash": "sha256-sn4IArprVtCbpAZgpnakEM+7B3ddZY47huCigPpJFBA="
+    }
+  },
+  "Senecio Armor 8k": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 563300,
+      "file_name": "Senecio Armor 8k-133720-1-0-1731861028.7z",
+      "mod_id": 133720,
+      "hash": "sha256-k5vRvlUtprVGuGJ/6KAhlR2JWXjrOkx0ccu6aoz1+9k="
+    }
+  },
+  "Senecio Armor": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.2",
+      "file_id": 564330,
+      "file_name": "Senecio Armor-133720-1-2-1732131400.7z",
+      "mod_id": 133720,
+      "hash": "sha256-IPodGd3fNvMViR9iIm8v5Gn9U/9YOaRUXJjmCzD1vPE="
+    },
+    "type": "primary"
+  },
+  "Senecio Armor 2k PBR": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.2",
+      "file_id": 606028,
+      "file_name": "Senecio Armor 2k PBR-133720-1-2-1742063646.7z",
+      "mod_id": 133720,
+      "hash": "sha256-qFVFO5z1KhAJibQAnMoO058kbjqB1C/AKAlTjlJergQ="
+    }
+  },
+  "Senecio Armor 4k PBR": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.2",
+      "file_id": 606030,
+      "file_name": "Senecio Armor 4k PBR-133720-1-2-1742063713.7z",
+      "mod_id": 133720,
+      "hash": "sha256-YqNXkr7IJ53GLkqb61gOtM5S/cnq1nz/wX2ywlVmB5g="
+    }
+  },
+  "Senecio Armor 8k PBR": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.2",
+      "file_id": 606032,
+      "file_name": "Senecio Armor 8k PBR-133720-1-2-1742063880.7z",
+      "mod_id": 133720,
+      "hash": "sha256-ug8FfKmImG8UzwGvwvNJHaXbFPurnlDOIEkHTUxwA0E="
+    }
+  }
+}

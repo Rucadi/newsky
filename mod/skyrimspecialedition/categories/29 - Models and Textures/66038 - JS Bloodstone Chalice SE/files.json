@@ -1,0 +1,24 @@
+{
+  "JS Bloodstone Chalice SE - 2k Textures": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.02",
+      "file_id": 282594,
+      "file_name": "JS Bloodstone Chalice SE - 2k Textures-66038-1-02-1652143096.7z",
+      "mod_id": 66038,
+      "hash": "sha256-PVoCoKL25SUU1NCN0DlrMFg8YSuv6NRCH+1oryk1dss="
+    },
+    "type": "primary"
+  },
+  "JS Bloodstone Chalice SE - 4k Textures": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.02",
+      "file_id": 282595,
+      "file_name": "JS Bloodstone Chalice SE - 4k Textures-66038-1-02-1652143144.7z",
+      "mod_id": 66038,
+      "hash": "sha256-NQ70G03YDaMDgBLJYJaUjihST4TlggGtwIyvgOwRWVY="
+    },
+    "type": "primary"
+  }
+}

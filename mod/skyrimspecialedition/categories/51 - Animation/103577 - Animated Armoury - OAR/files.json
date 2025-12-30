@@ -1,0 +1,23 @@
+{
+  "Animated Armoury - OAR - Animation only": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1",
+      "file_id": 437977,
+      "file_name": "Animated Armoury - OAR-103577-1-1698558285.zip",
+      "mod_id": 103577,
+      "hash": "sha256-GO616SwK1u9Ccp4/ZtZ99wnPbtft5/S44GlqHKS6BLY="
+    },
+    "type": "primary"
+  },
+  "Animated Armoury - Extra Drawing Animations": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1",
+      "file_id": 437978,
+      "file_name": "Animated Armoury - Extra Drawing Animations-103577-1-1698558419.zip",
+      "mod_id": 103577,
+      "hash": "sha256-2E/Gz3by2eE5pj8z/oChL+IVMZt/VjjFGQqKzVYRfjM="
+    }
+  }
+}

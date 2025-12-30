@@ -1,0 +1,24 @@
+{
+  "TheFemale II - Bodyslide Preset": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1",
+      "file_id": 548906,
+      "file_name": "TheFemale II - Bodyslide Preset-130827-1-1728035944.zip",
+      "mod_id": 130827,
+      "hash": "sha256-f6Q15/MJWfhZzf9GoksT24/zuLOsDMCFxxjlC6CPFy0="
+    },
+    "type": "primary"
+  },
+  "TheFemale II - Bodyslide Preset - Thick version": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1",
+      "file_id": 548914,
+      "file_name": "TheFemale II - Bodyslide Preset - Thick version-130827-1-1728038823.zip",
+      "mod_id": 130827,
+      "hash": "sha256-uigUNBBHPnwDy3jn9igWh4TYvmzskgUC7QoxjkjRAtY="
+    },
+    "type": "primary"
+  }
+}

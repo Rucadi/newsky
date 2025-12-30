@@ -1,0 +1,54 @@
+{
+  "2k Textures": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1",
+      "file_id": 468219,
+      "file_name": "2k Textures-110922-1-1707195969.rar",
+      "mod_id": 110922,
+      "hash": "sha256-3hTCLyH+iAHDPIwMpzwa8jAA879EfUEexxndiX8J66w="
+    }
+  },
+  "1k Textures": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1",
+      "file_id": 468220,
+      "file_name": "1k Textures-110922-1-1707196032.rar",
+      "mod_id": 110922,
+      "hash": "sha256-DnAD6JxeNKxdfaBjmFtnZf94cQMUoMGXCDOm1Ns8wjw="
+    }
+  },
+  "Light Armor Version": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1",
+      "file_id": 468223,
+      "file_name": "Light Armor Version-110922-1-1707196281.rar",
+      "mod_id": 110922,
+      "hash": "sha256-u5K640ROSRmBaXDJMLb+sjvgD1sp5VBJ+su7g2fQELQ="
+    }
+  },
+  "Nord Steelheart Armor (No SPID)": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1",
+      "file_id": 468224,
+      "file_name": "Nord Steelheart Armor (No SPID)-110922-1-1707196475.rar",
+      "mod_id": 110922,
+      "hash": "sha256-3x4bGKBW64dJldv6R99/Uh1v9R5MCEcPXpJkgXHscCY="
+    },
+    "type": "primary"
+  },
+  "Nord Steelheart Armor": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1",
+      "file_id": 468225,
+      "file_name": "Nord Steelheart Armor-110922-1-1707196512.rar",
+      "mod_id": 110922,
+      "hash": "sha256-jewH8WBaUmVMfjCkKzrQz8LN2OHoI0SIIKMdVqBMsio="
+    },
+    "type": "primary"
+  }
+}

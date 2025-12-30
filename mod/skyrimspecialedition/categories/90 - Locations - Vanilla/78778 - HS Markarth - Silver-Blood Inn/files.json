@@ -1,0 +1,23 @@
+{
+  "HSMarkarth - Silver-Blood Inn": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0.0",
+      "file_id": 331851,
+      "file_name": "HSMarkarth - Silver-Blood Inn-78778-1-0-0-1668448245.7z",
+      "mod_id": 78778,
+      "hash": "sha256-TQmFFO+/Yk0d5o++AmrUxO24rOUolqLl3H1Qpw34eTU="
+    },
+    "type": "primary"
+  },
+  "HSMarkarth - Silver-Blood Inn - LUX": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0.0",
+      "file_id": 340206,
+      "file_name": "HSMarkarth - Silver-Blood Inn - LUX-78778-1-0-0-1670915958.7z",
+      "mod_id": 78778,
+      "hash": "sha256-eCo2ODmbGhWYhJUCL2QKt8c4c71zg21sS0PsVTfEQU0="
+    }
+  }
+}

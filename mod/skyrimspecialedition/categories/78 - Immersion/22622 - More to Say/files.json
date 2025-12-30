@@ -1,0 +1,33 @@
+{
+  "Sissel's Book Quest": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "9.0",
+      "file_id": 358926,
+      "file_name": "Sissel's Book Quest-22622-9-0-1676168420.7z",
+      "mod_id": 22622,
+      "hash": "sha256-aDUj8ow4HADdak7RNqdNseIQVfG98bYNsqbQYC57ixw="
+    }
+  },
+  "More to Say": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "9.0.2",
+      "file_id": 359558,
+      "file_name": "More to Say-22622-9-0-2-1676332853.7z",
+      "mod_id": 22622,
+      "hash": "sha256-lDASL8aDKv1fxWZ5iHkVpomzIY1jGGWauBSk1VfwzL8="
+    },
+    "type": "primary"
+  },
+  "More to Say (merged version)": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "9.0.2",
+      "file_id": 359560,
+      "file_name": "More to Say (merged version)-22622-9-0-2-1676333058.7z",
+      "mod_id": 22622,
+      "hash": "sha256-qFvH9a3oCcTCH9BMpcmBHdXXr/FWgBWU/gk2IK3MrW8="
+    }
+  }
+}

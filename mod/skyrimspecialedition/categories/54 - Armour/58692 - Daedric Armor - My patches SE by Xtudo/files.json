@@ -1,0 +1,137 @@
+{
+  "Daedric Blades - Standalone version SE": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "DB-SV-v1.1",
+      "file_id": 242548,
+      "file_name": "Daedric Blades - Standalone version SE-58692-DB-SV-v1-1-1637278839.7z",
+      "mod_id": 58692,
+      "hash": "sha256-On4nKeE7cdq29/FimUyN+BclPAOMZhJgxrmF5s7go/I="
+    },
+    "type": "primary"
+  },
+  "Daedric Armor - 2K textures": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.4",
+      "file_id": 249988,
+      "file_name": "Daedric Armor - 2K textures-58692-1-4-1639797926.7z",
+      "mod_id": 58692,
+      "hash": "sha256-RAtboBov7ujoVULybn0vxLhfWzm2400IfgL1e9RKHpQ="
+    }
+  },
+  "Daedric Armor - Gray hair": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.4",
+      "file_id": 249989,
+      "file_name": "Daedric Armor - Gray hair-58692-1-4-1639798062.7z",
+      "mod_id": 58692,
+      "hash": "sha256-i2ZwiNm8UGXkUK/6w+QhnyBHf0c6IH7aGDDBcgAPpLQ="
+    }
+  },
+  "Daedric Armor - Less saturated fabrics": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.6",
+      "file_id": 262436,
+      "file_name": "Daedric Armor - Less saturated fabrics-58692-1-6-1644237968.7z",
+      "mod_id": 58692,
+      "hash": "sha256-JcNO03iy9m33xmUYZ1XpnS8iGIP/R05fB4nYq/e/1Oo="
+    }
+  },
+  "Daedric Armor - Immersive Armors patch by Xtudo SE": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "2.1",
+      "file_id": 360175,
+      "file_name": "Daedric Armor - Immersive Armors patch by Xtudo SE-58692-2-1-1676509920.7z",
+      "mod_id": 58692,
+      "hash": "sha256-J4JrGScSu0iPeTWzJLLqkHaUNBQ+OH42rLFkG/dQUa4="
+    },
+    "type": "primary"
+  },
+  "Daedric Armor - Replacer - Original version by Xtudo SE": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "2.1",
+      "file_id": 360176,
+      "file_name": "Daedric Armor - Replacer - Original version by Xtudo SE-58692-2-1-1676509949.7z",
+      "mod_id": 58692,
+      "hash": "sha256-qyWX295Qup51RSszDv1q86AFlnZL7sAmbRbIbb9Rnwk="
+    },
+    "type": "primary"
+  },
+  "Daedric Armor - Skyrim Immersive Creatures patch by Xtudo SE": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "2.1",
+      "file_id": 360177,
+      "file_name": "Daedric Armor - Skyrim Immersive Creatures patch by Xtudo SE-58692-2-1-1676509974.7z",
+      "mod_id": 58692,
+      "hash": "sha256-ZpHx9bZVVPqUG/jxvAqKZcSov5A8lNIcrwUBdnafeS4="
+    },
+    "type": "primary"
+  },
+  "Daedric Armor - Standalone version by Xtudo SE": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "2.1",
+      "file_id": 360178,
+      "file_name": "Daedric Armor - Standalone version by Xtudo SE-58692-2-1-1676510003.7z",
+      "mod_id": 58692,
+      "hash": "sha256-vhQSP+mTrqXOJBOrQOqb4Si545Nkf5aGP9Qkj9MvU84="
+    },
+    "type": "primary"
+  },
+  "Daedric Armor - No red glow patch by Xtudo": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "2.1",
+      "file_id": 360179,
+      "file_name": "Daedric Armor - No red glow patch by Xtudo-58692-2-1-1676510043.7z",
+      "mod_id": 58692,
+      "hash": "sha256-tzeTbGYlCXi1GE+iezuKF8CzfBDcvn6fqbMFgfJsG/k="
+    }
+  },
+  "Daedric Armor - Open face - Replacer by Xtudo SE": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "2.1",
+      "file_id": 360180,
+      "file_name": "Daedric Armor - Open face - Replacer by Xtudo SE-58692-2-1-1676510082.7z",
+      "mod_id": 58692,
+      "hash": "sha256-ZTTuHdXfHvmw1Nnt3Cx/vOG2eE/CS53FbfFIMtI+PEQ="
+    }
+  },
+  "Daedric Armor - Open face - Skyrim Immersive Creatures patch by Xtudo SE": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "2.1",
+      "file_id": 360181,
+      "file_name": "Daedric Armor - Open face - Skyrim Immersive Creatures patch by Xtudo SE-58692-2-1-1676510111.7z",
+      "mod_id": 58692,
+      "hash": "sha256-yQJB/6xDVSYzrpTI+EGXaeCT0gnt2IafxnZfrUh2pjE="
+    }
+  },
+  "Daedric Armor - Open face - Standalone version by Xtudo SE": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "2.1",
+      "file_id": 360183,
+      "file_name": "Daedric Armor - Open face - Standalone version by Xtudo SE-58692-2-1-1676510152.7z",
+      "mod_id": 58692,
+      "hash": "sha256-X6BxZPZb/0/vZbAiUefDvfw4ziGbomgpk1D9S7qSMJw="
+    }
+  },
+  "Daedric Armor - CC Daedric Mail replacer by Xtudo": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "2.2",
+      "file_id": 466241,
+      "file_name": "Daedric Armor - CC Daedric Mail replacer by Xtudo-58692-2-2-1706618054.7z",
+      "mod_id": 58692,
+      "hash": "sha256-6Qseg0EQG/7CG/k/7OVTfkTHGEAwbhbkbsOiCsGhYmk="
+    }
+  }
+}

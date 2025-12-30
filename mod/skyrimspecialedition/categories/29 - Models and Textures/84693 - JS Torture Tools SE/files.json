@@ -1,0 +1,35 @@
+{
+  "JS Torture Tools SE - 4k Textures": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 358729,
+      "file_name": "JS Torture Tools SE-84693-1-0-1676130567.7z",
+      "mod_id": 84693,
+      "hash": "sha256-BzjDV4iS/W492poe4gStbFqXwYaqSAeoBNpKoCEpHrQ="
+    },
+    "type": "primary"
+  },
+  "JS Torture Tools SE - 2k Textures": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 358730,
+      "file_name": "JS Torture Tools SE-84693-1-0-1676130604.7z",
+      "mod_id": 84693,
+      "hash": "sha256-Njl7NvASkvde3/qEjpYtI/fRo4FPbrrTtwnxj6cZUWs="
+    },
+    "type": "primary"
+  },
+  "JS Torture Tools SE - 1k Textures": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 358731,
+      "file_name": "JS Torture Tools SE - 1k Textures-84693-1-0-1676130668.7z",
+      "mod_id": 84693,
+      "hash": "sha256-qVlW977WxH1Wzjpd6nlVb0mIMKiaikf93taTpVyb7P4="
+    },
+    "type": "primary"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "Cathedral - 3D Pine Shrubs - Uncompressed": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.2",
+      "file_id": 405899,
+      "file_name": "Cathedral - 3D Pine Shrubs - Uncompressed-94791-1-2-1688995945.zip",
+      "mod_id": 94791,
+      "hash": "sha256-47DEQpj8HBSa+/TImW+5JCeuQeRkm5NMpJWZG3hSuFU="
+    }
+  },
+  "Cathedral - 3D Pine Shrubs": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.2",
+      "file_id": 405900,
+      "file_name": "Cathedral - 3D Pine Shrubs-94791-1-2-1688996056.zip",
+      "mod_id": 94791,
+      "hash": "sha256-2sVlLLUOiJ97JZncL/RpzKCB0BvaLah3OBUh4TnYIDc="
+    },
+    "type": "primary"
+  }
+}

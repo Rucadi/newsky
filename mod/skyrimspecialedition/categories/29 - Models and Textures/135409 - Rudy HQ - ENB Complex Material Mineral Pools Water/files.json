@@ -1,0 +1,24 @@
+{
+  "Rudy HQ - ENB CM Mineral Pools Water Blue": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1",
+      "file_id": 568627,
+      "file_name": "Rudy HQ - ENB CM Mineral Pools Water Blue-135409-1-1-1733244018.zip",
+      "mod_id": 135409,
+      "hash": "sha256-YVXH5zh+eDoZmx/4I0sRCZXDCbMP3ez85aC51ws7Fyo="
+    },
+    "type": "primary"
+  },
+  "Rudy HQ - ENB CM Mineral Pools Water Teal": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1",
+      "file_id": 568628,
+      "file_name": "Rudy HQ - ENB CM Mineral Pools Water Teal-135409-1-1-1733244076.zip",
+      "mod_id": 135409,
+      "hash": "sha256-RY074e+r3x5fh/DVt30gmIsrW3ox5AKR+Z8WHgryn34="
+    },
+    "type": "primary"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "Snazzy Items for Interesting NPCs (3DNPC)": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.20",
+      "file_id": 543313,
+      "file_name": "Snazzy Items for Interesting NPCs (3DNPC)-58811-1-20-1726604011.7z",
+      "mod_id": 58811,
+      "hash": "sha256-BzG0x7bG6gRWt33zA6YrkEwBD8C1BbxWT6LAq6RDL4E="
+    },
+    "type": "primary"
+  },
+  "3DNPC - Cathedral Flowers Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 543314,
+      "file_name": "3DNPC - Cathedral Flowers Patch-58811-1-0-1726604086.7z",
+      "mod_id": 58811,
+      "hash": "sha256-QLNsC03KZHlHjx3MWmMGWGAZA8YuXPPHjspMRSvBRh4="
+    }
+  }
+}

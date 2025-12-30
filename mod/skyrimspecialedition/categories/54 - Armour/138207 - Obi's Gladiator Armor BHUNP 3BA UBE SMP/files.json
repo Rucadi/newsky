@@ -1,0 +1,23 @@
+{
+  "Obi's Gladiator Armor Main File": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 579930,
+      "file_name": "Obi's Gladiator Armor Main File-138207-1-0-1736159606.zip",
+      "mod_id": 138207,
+      "hash": "sha256-gWtoVfDJqgsOOnBKnNDADm4TJNwelOLDheUtveQSxXo="
+    },
+    "type": "primary"
+  },
+  "Brighter metals 4k": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 579991,
+      "file_name": "Brighter metals 4k-138207-1-0-1736170436.zip",
+      "mod_id": 138207,
+      "hash": "sha256-rpeVDQcYP4V3zOhTZvbWW0ihOSdBlKASwRFaWL0cNAg="
+    }
+  }
+}

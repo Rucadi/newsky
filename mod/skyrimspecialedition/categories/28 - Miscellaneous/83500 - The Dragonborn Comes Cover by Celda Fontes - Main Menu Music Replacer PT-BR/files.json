@@ -1,0 +1,24 @@
+{
+  "The Dragonborn Comes Cover by Celda Fontes": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0.0",
+      "file_id": 353070,
+      "file_name": "The Dragonborn Comes Cover by Celda Fontes-83500-1-0-0-1674690902.zip",
+      "mod_id": 83500,
+      "hash": "sha256-E8NqpgcE7D/uSzbTfbcFNdkrF/FRDkX4OASwnrdEp9o="
+    },
+    "type": "primary"
+  },
+  "The Dragonborn Comes Cover by Celda Fontes - EXTENDED": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0.0EXTENDED",
+      "file_id": 353071,
+      "file_name": "The Dragonborn Comes Cover by Celda Fontes - EXTENDED-83500-1-0-0EXTENDED-1674690946.zip",
+      "mod_id": 83500,
+      "hash": "sha256-lpg/LzRrKM4SOs55TY0ZgIn4eKNY4cPO5kx3QKDl9Ng="
+    },
+    "type": "primary"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "Real Rabbits HD - Fluffy": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.3",
+      "file_id": 210896,
+      "file_name": "Real Rabbits HD - Fluffy-29223-1-3-1624518359.rar",
+      "mod_id": 29223,
+      "hash": "sha256-Q+cBAft/sEstwvEDnTxtRCRqDiT+QElE0banIhT8uAU="
+    },
+    "type": "primary"
+  },
+  "Real Rabbits HD - Standard (no fur shell)": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.3",
+      "file_id": 210897,
+      "file_name": "Real Rabbits HD - Standard (no fur shell)-29223-1-3-1624518508.rar",
+      "mod_id": 29223,
+      "hash": "sha256-7CFZOwu54wNfeo2+vA+f5F1S7KQs9495C420dDsHvKU="
+    }
+  }
+}

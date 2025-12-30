@@ -1,0 +1,46 @@
+{
+  "Start Me Up - 6 Perk Points - Adjustable": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1",
+      "file_id": 491840,
+      "file_name": "Start Me Up - 6 Perk Points - Adjustable-114728-1-1-1713370738.zip",
+      "mod_id": 114728,
+      "hash": "sha256-gol3cIAp3LVCgAWFFdjHrVThXClp//sB88lCbAIWD/U="
+    },
+    "type": "primary"
+  },
+  "Start Me Up - 3 Perk Points - Adjustable": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1.0",
+      "file_id": 491853,
+      "file_name": "Start Me Up - 3 Perk Points - Adjustable-114728-1-1-0-1713371293.zip",
+      "mod_id": 114728,
+      "hash": "sha256-j31U2WlrhUg11Tgcpha0kBzs1X3pPT2y1tEnUxW3CTo="
+    },
+    "type": "primary"
+  },
+  "Start Me Up - 5 Perk Points - Adjustable": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1.0",
+      "file_id": 491854,
+      "file_name": "Start Me Up - 5 Perk Points - Adjustable-114728-1-1-0-1713371461.zip",
+      "mod_id": 114728,
+      "hash": "sha256-wTUdv1YjGmVWTFMMcpNgtIjy3gVqcOtMHqPhpXu69/s="
+    },
+    "type": "primary"
+  },
+  "Start Me Up - 12 Perk Points - Adjustable": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1.0",
+      "file_id": 491855,
+      "file_name": "Start Me Up - 12 Perk Points - Adjustable-114728-1-1-0-1713371598.zip",
+      "mod_id": 114728,
+      "hash": "sha256-VFLBbteB+88+pd/43g1IOKtbarnghMnhz4OdThG35jg="
+    },
+    "type": "primary"
+  }
+}

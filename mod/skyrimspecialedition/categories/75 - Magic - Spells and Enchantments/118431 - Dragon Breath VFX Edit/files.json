@@ -1,0 +1,23 @@
+{
+    "KittyVFX - Dragon Breath - Ultimate Dragons": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "ANY",
+            "file_id": 497860,
+            "file_name": "KittyVFX - Dragon Breath - Ultimate Dragon-118431-ANY-1714856653.zip",
+            "mod_id": 118431,
+            "hash": "sha256-29UCgKsTSpj3c7UIn+M1S8TIsf8XXPBni53/FIxKsrM="
+        }
+    },
+    "KittyVFX - Dragon Breath": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "1.32",
+            "file_id": 498825,
+            "file_name": "KittyVFX - Dragon Breath-118431-1-32-1715102250.zip",
+            "mod_id": 118431,
+            "hash": "sha256-ZEDJRmEBJtHB41xO+eS2nFLOIQFGZH2AD0z72Vh67go="
+        },
+        "type": "primary"
+    }
+}

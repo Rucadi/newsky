@@ -1,0 +1,23 @@
+{
+  "Project ja-Kha'jay - RDO Addon": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "2.03",
+      "file_id": 455827,
+      "file_name": "Project ja-Kha'jay - RDO Addon-67000-2-03-1703785108.7z",
+      "mod_id": 67000,
+      "hash": "sha256-dDaQDUdZrCRH0Jv0NXOvxBMxh6G9jfytBXaF0gqRo1Q="
+    },
+    "type": "primary"
+  },
+  "PJKJ - RDO No Eyeglow Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "2.03",
+      "file_id": 455828,
+      "file_name": "PJKJ - RDO No Eyeglow Patch-67000-2-03-1703785133.7z",
+      "mod_id": 67000,
+      "hash": "sha256-+8vSMnJpICI9nrRkZiz/0tz1d/2pWID62x+9aGqfXr4="
+    }
+  }
+}

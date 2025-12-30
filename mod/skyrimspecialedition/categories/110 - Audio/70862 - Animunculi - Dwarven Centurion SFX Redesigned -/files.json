@@ -1,0 +1,35 @@
+{
+  "Animunculi - Dwarven Centurion SFX Redesigned - (Aggressive)": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0.1",
+      "file_id": 296722,
+      "file_name": "Animunculi - Dwarven Centurion SFX Redesigned - (Aggressive)-70862-1-0-1-1657136639.7z",
+      "mod_id": 70862,
+      "hash": "sha256-CH7GRFAyKbICrM+TbIxylRA3/JQXgIo+0msf+kTFxp8="
+    },
+    "type": "primary"
+  },
+  "Animunculi - Dwarven Centurion SFX Redesigned - (Normal)": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0.1",
+      "file_id": 296723,
+      "file_name": "Animunculi - Dwarven Centurion SFX Redesigned - (Normal)-70862-1-0-1-1657137474.7z",
+      "mod_id": 70862,
+      "hash": "sha256-eD7zsfl/PW1h5O3vEYECxSvs6r7su/Sk5qwonX+RnMA="
+    },
+    "type": "primary"
+  },
+  "Animunculi - Dwarven Centurion SFX Redesigned - LV": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0.2LV",
+      "file_id": 653404,
+      "file_name": "Animunculi - Dwarven Centurion SFX Redesigned - LV-70862-1-0-2LV-1754512050.7z",
+      "mod_id": 70862,
+      "hash": "sha256-NBrsp4Fsm+0qf6qzygZ4NW/eNj5Qdj62eQWmIyRvNNA="
+    },
+    "type": "primary"
+  }
+}

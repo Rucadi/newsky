@@ -1,0 +1,35 @@
+{
+  "WICO Special Edition - VNL 0.9f": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "0.9f",
+      "file_id": 5188,
+      "file_name": "WICO Special Edition - VNL 0.9f-2136-0-9f.7z",
+      "mod_id": 2136,
+      "hash": "sha256-R0rKbbrkTfk7px9ihxLPprcUnkRbrzlXAa763lHb/l0="
+    },
+    "type": "primary"
+  },
+  "WICO Special Edition - UNP 0.9f": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "0.9f",
+      "file_id": 5189,
+      "file_name": "WICO Special Edition - UNP 0.9f-2136-0-9f.7z",
+      "mod_id": 2136,
+      "hash": "sha256-ogNuxrKSX0i9KqM+Y+G7Eu+tm64Ikls6Eee99iCUbR8="
+    },
+    "type": "primary"
+  },
+  "WICO Special Edition - Nude 0.9f": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "0.9f",
+      "file_id": 5191,
+      "file_name": "WICO Special Edition - Nude 0.9f-2136-0-9f.7z",
+      "mod_id": 2136,
+      "hash": "sha256-Yamy/KWx9OiMDAP/xou5Tsmc2/VsH6kq+Wbf4J/KMnU="
+    },
+    "type": "primary"
+  }
+}

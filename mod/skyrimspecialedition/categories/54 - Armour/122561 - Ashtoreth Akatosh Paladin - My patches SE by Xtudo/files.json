@@ -1,0 +1,55 @@
+{
+  "Akatosh Paladin - SE by Xtudo - Non-HDT 3BA": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1",
+      "file_id": 514335,
+      "file_name": "Akatosh Paladin - SE by Xtudo - Non-HDT 3BA-122561-1-1719182390.7z",
+      "mod_id": 122561,
+      "hash": "sha256-fW7Gd4ba05BNRZ6iaK03SWbbWs/ZvoIU8Xi7/8nWUB0="
+    }
+  },
+  "Akatosh Paladin - SE by Xtudo - Non-HDT CBBE-UNP": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1",
+      "file_id": 514336,
+      "file_name": "Akatosh Paladin - SE by Xtudo - Non-HDT CBBE-UNP-122561-1-1719182410.7z",
+      "mod_id": 122561,
+      "hash": "sha256-3vjCsUeuK93XvZg+4ymySroEg8RR0IP9QxlOT7iJHiQ="
+    }
+  },
+  "Akatosh Paladin - SE by Xtudo - 1K": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1",
+      "file_id": 584493,
+      "file_name": "Akatosh Paladin - SE by Xtudo - 1K-122561-1-1-1737146126.7z",
+      "mod_id": 122561,
+      "hash": "sha256-CxQ3z12sUuFrkCJnuJeQXO4i0/Kk9RcoAJ/OwsGYMzs="
+    },
+    "type": "primary"
+  },
+  "Akatosh Paladin - SE by Xtudo - 2K": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1",
+      "file_id": 584494,
+      "file_name": "Akatosh Paladin - SE by Xtudo - 2K-122561-1-1-1737146149.7z",
+      "mod_id": 122561,
+      "hash": "sha256-e0Jwe/uAskvAO58EDZyURT/OtfXnunxtJg1GTQmj+0Q="
+    },
+    "type": "primary"
+  },
+  "Akatosh Paladin - SE by Xtudo - 4K": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1",
+      "file_id": 584495,
+      "file_name": "Akatosh Paladin - SE by Xtudo - 4K-122561-1-1-1737146166.7z",
+      "mod_id": 122561,
+      "hash": "sha256-9TG3BpRSBCT1hLtqJzJN1703QRhA5T0m/Dkmq4oGBCk="
+    },
+    "type": "primary"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "Dragonborn Ingredients": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 237014,
+      "file_name": "Dragonborn Ingredients-57493-1-0-1635187009.7z",
+      "mod_id": 57493,
+      "hash": "sha256-TcqOEENNevPs/iAdAHzGR3hLu490qIzNY+7UT7DW158="
+    },
+    "type": "primary"
+  },
+  "2K Version": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 237015,
+      "file_name": "2K Version-57493-1-0-1635187116.7z",
+      "mod_id": 57493,
+      "hash": "sha256-/5IMHtHs4t+BEu1XbERv0O8sdoP1KlB5wXUxp2EzDUs="
+    }
+  }
+}

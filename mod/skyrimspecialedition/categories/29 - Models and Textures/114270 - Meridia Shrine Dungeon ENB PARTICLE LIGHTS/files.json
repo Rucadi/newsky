@@ -1,0 +1,53 @@
+{
+  "Meridia Shrine Dungeon ENB PARTICLE LIGHTS": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1",
+      "file_id": 481357,
+      "file_name": "Meridia Shrine Dungeon ENB PARTICLE LIGHTS-114270-1-1710643457.zip",
+      "mod_id": 114270,
+      "hash": "sha256-dd7r/wWWpERkCaNHCjAryx8OSBAxIuq7KBzz0r37nx4="
+    },
+    "type": "primary"
+  },
+  "Meridia's Luxon Beacon ENB PATCH -main": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1",
+      "file_id": 482340,
+      "file_name": "Meridia's Luxon Beacon ENB PATCH -main-114270-1-1710893628.zip",
+      "mod_id": 114270,
+      "hash": "sha256-DhWq0iLVptTVcIv1y2WRIOu9B/dy51voNJgjfzRSNLM="
+    }
+  },
+  "Meridia's Luxon Beacon ENB PATCH - No Handles": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1",
+      "file_id": 482341,
+      "file_name": "Meridia's Luxon Beacon ENB PATCH - No Handles-114270-1-1710893731.zip",
+      "mod_id": 114270,
+      "hash": "sha256-x/qMw872ZLu7novyZWyf/pXMKzpjng0Dx1/a5kZX1mo="
+    }
+  },
+  "Meridia's Luxon Beacon ENB PATCH - No Frame": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1",
+      "file_id": 482342,
+      "file_name": "Meridia's Luxon Beacon ENB PATCH - No Frame-114270-1-1710893789.zip",
+      "mod_id": 114270,
+      "hash": "sha256-hXcbMdqGzwwetDxNsTtXt6+ol9JQwk50VmxY0F5poXQ="
+    }
+  },
+  "Meridia's Luxon Beacon ENB PATCH - Alt Hand Pose": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1",
+      "file_id": 482343,
+      "file_name": "Meridia's Luxon Beacon ENB PATCH - Alt Hand Pose-114270-1-1710893860.zip",
+      "mod_id": 114270,
+      "hash": "sha256-CCmCNzjlXkmGGyae9I/X6WPcOA3q2ASwvlN3GgIv4rc="
+    }
+  }
+}

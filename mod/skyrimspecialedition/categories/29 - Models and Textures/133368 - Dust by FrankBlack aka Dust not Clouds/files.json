@@ -1,0 +1,23 @@
+{
+  "Dust by FrankBlack": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 559712,
+      "file_name": "slightly Better Dust-133368-1-0-1730974133.rar",
+      "mod_id": 133368,
+      "hash": "sha256-o3/7vvIbelLqlrBFMmYJ1mOhGkc+cyfDtZtc+xUL8ew="
+    },
+    "type": "primary"
+  },
+  "Dimmer Dust by FrankBlack": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 567101,
+      "file_name": "slightly Better Dimmer Dust-133368-1-0-1732834132.rar",
+      "mod_id": 133368,
+      "hash": "sha256-/yEUbj4aIDv689j4WVLAzH9+HDmbSDN4O33k8N/w8W0="
+    }
+  }
+}

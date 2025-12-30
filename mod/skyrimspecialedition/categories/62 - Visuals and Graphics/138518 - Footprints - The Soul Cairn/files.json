@@ -1,0 +1,34 @@
+{
+  "Footprints - The Soul Cairn": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1",
+      "file_id": 581367,
+      "file_name": "Footprints - The Soul Cairn-138518-1-1-1736469824.7z",
+      "mod_id": 138518,
+      "hash": "sha256-UqdPlm5caNPlce6lXJXho5njRhjZbokcsaEk/IvwAmU="
+    },
+    "type": "primary"
+  },
+  "Footprints - The Soul Cairn - No Grass": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1",
+      "file_id": 581368,
+      "file_name": "Footprints - The Soul Cairn - No Grass-138518-1-1-1736469852.7z",
+      "mod_id": 138518,
+      "hash": "sha256-GVhDg0+f1Uhy5Evd4yySQEkGZrwwjYCw+/FYTkchLSE="
+    },
+    "type": "primary"
+  },
+  "Footprints - SPID - No Ghosts and Souls": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 585051,
+      "file_name": "Footprints - SPID - No Ghosts and Souls-138518-1-0-1737280802.7z",
+      "mod_id": 138518,
+      "hash": "sha256-eFUwjVPGYJ3bPJnqML0gzd3xznZjlut1JO2G5iwlxiQ="
+    }
+  }
+}

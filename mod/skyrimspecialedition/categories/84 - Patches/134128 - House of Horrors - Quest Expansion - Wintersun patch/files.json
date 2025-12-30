@@ -1,0 +1,33 @@
+{
+    "HOHQE - Wintersun patch": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "1.0.0",
+            "file_id": 563048,
+            "file_name": "HOHQE - Wintersun patch-134128-1-0-0-1731791738.7z",
+            "mod_id": 134128,
+            "hash": "sha256-+Zm4DzJPeqJq/lFci6tKaGnoUcUDTS+SqU4w9LfRJZg="
+        },
+        "type": "primary"
+    },
+    "The Choice is Yours patch": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "1.0",
+            "file_id": 565579,
+            "file_name": "The Choice is Yours patch-134128-1-0-1732459141.7z",
+            "mod_id": 134128,
+            "hash": "sha256-GBzpw5DyhOdhcdvbZVoWDztNbYr6uia7eNFsU3RiJng="
+        }
+    },
+    "HOHQE Expanded minimal patch": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "1.0-MIN",
+            "file_id": 697369,
+            "file_name": "HOHQE Expanded minimal patch-134128-1-0-1765580893.7z",
+            "mod_id": 134128,
+            "hash": "sha256-ZVQ7GJTb/IzMU27u4Py5jkGnuQVBem4WA1WZtxGDKrU="
+        }
+    }
+}

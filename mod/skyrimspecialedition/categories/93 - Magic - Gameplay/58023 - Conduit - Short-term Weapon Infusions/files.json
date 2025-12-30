@@ -1,0 +1,33 @@
+{
+  "Conduit - XPMSE Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 261296,
+      "file_name": "Conduit - XPMSE Patch-58023-1-0-1643822861.7z",
+      "mod_id": 58023,
+      "hash": "sha256-6VARHTf67bBZAGDjnWhS1rYA6tGqB/BEB2aif8qeFQQ="
+    }
+  },
+  "Conduit - Enderal Balance Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "EA1-for-2.5-and-up",
+      "file_id": 307553,
+      "file_name": "Conduit - Enderal Adaption Patch-58023-2-5-EA1-1660507012.7z",
+      "mod_id": 58023,
+      "hash": "sha256-sp1vlABTdGv5HMfvhLC1ZyEiNo4lsXMgvD2ARFHFlL8="
+    }
+  },
+  "Conduit": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "2.7",
+      "file_id": 317904,
+      "file_name": "Conduit-58023-2-7-1663677468.7z",
+      "mod_id": 58023,
+      "hash": "sha256-9DLGZ4+EA4XbqTW1C4hbEetkDwjRaooK77NV+el6lrs="
+    },
+    "type": "primary"
+  }
+}

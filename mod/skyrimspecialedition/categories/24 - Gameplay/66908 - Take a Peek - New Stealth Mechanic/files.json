@@ -1,0 +1,23 @@
+{
+  "Simply Knock Mini Patch for Take A Peek": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.21",
+      "file_id": 421436,
+      "file_name": "Simply Knock Mini Patch for Take A Peek-66908-1-21-1693211283.rar",
+      "mod_id": 66908,
+      "hash": "sha256-URJvHtUJZ/0K96A58ZboI69vTEu2C3/CNqamjE9ysTw="
+    }
+  },
+  "Take a Peek": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.30",
+      "file_id": 598835,
+      "file_name": "Take a Peek-66908-1-30-1740474475.rar",
+      "mod_id": 66908,
+      "hash": "sha256-6FR/0S8qpUsep2pHw8gfKkdVSdKDAu8PmSauXPcJmB4="
+    },
+    "type": "primary"
+  }
+}

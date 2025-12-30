@@ -1,0 +1,103 @@
+{
+  "A Patch for Skyrim Landscape and Water Fixes and Cathedral Mountain Flowers": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1",
+      "file_id": 204968,
+      "file_name": "A Patch for Skyrim Landscape and Water Fixes and Cathedral Mountain Flowers-50265-1-1621698467.7z",
+      "mod_id": 50265,
+      "hash": "sha256-y+jg1O4zRBs7hRDagnm0bltZCNgDpKWQ43RzxyfcbmA="
+    },
+    "type": "primary"
+  },
+  "A Patch for CRF and Cathedral Mountain Flowers": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1",
+      "file_id": 204969,
+      "file_name": "A Patch for CRF and Cathedral Mountain Flowers-50265-1-1621698584.7z",
+      "mod_id": 50265,
+      "hash": "sha256-4xBKwa+N4aVSML60HK6i9grPQOcI3oaPaDo95r3y0BA="
+    }
+  },
+  "A Patch for Lanterns of Skyrim II and Cathedral Mountain Flowers": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1",
+      "file_id": 204970,
+      "file_name": "A Patch for Lanterns of Skyrim II and Cathedral Mountain Flowers-50265-1-1621698750.7z",
+      "mod_id": 50265,
+      "hash": "sha256-WPrWs+rtjUoPlEB8s6seGrLyf0gvE1LfTJfMizIYrsM="
+    }
+  },
+  "A Patch for Winterhold Restored and Cathedral Mountain Flowers": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1",
+      "file_id": 204972,
+      "file_name": "A Patch for Winterhold Restored and Cathedral Mountain Flowers-50265-1-1621698859.7z",
+      "mod_id": 50265,
+      "hash": "sha256-p1y++ptwLJk/4B903GItfSCwtNd6bmaC3G4RFmKnQE0="
+    }
+  },
+  "A Patch for Helgen Reborn and Cathedral Mountain Flowers": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1",
+      "file_id": 204974,
+      "file_name": "A Patch for Helgen Reborn and Cathedral Mountain Flowers-50265-1-1621698948.7z",
+      "mod_id": 50265,
+      "hash": "sha256-2J4i62ND4L3QpVsiDSS9sPHSX4/JzgP3katqlNvoMd8="
+    }
+  },
+  "A Patch for JK's Skyrim and Cathedral Mountain Flowers": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1",
+      "file_id": 204976,
+      "file_name": "A Patch for JK's Skyrim and Cathedral Mountain Flowers-50265-1-1621699032.7z",
+      "mod_id": 50265,
+      "hash": "sha256-lfXTK5Ab/mvgYMr6BloucGd8D40Dc2BSoPNRbn8Ha/w="
+    }
+  },
+  "A Patch for Unique Border Gates and Cathedral Mountain Flowers": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1",
+      "file_id": 204977,
+      "file_name": "A Patch for Unique Border Gates and Cathedral Mountain Flowers-50265-1-1621699161.7z",
+      "mod_id": 50265,
+      "hash": "sha256-uGzhsLTe/TAmPLZvRogYcp5i+HPj27Wai2gWwSeSkqo="
+    }
+  },
+  "A Patch for Skyrim Bridges and Cathedral Mountain Flowers": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1",
+      "file_id": 204978,
+      "file_name": "A Patch for Skyrim Bridges and Cathedral Mountain Flowers-50265-1-1621699248.7z",
+      "mod_id": 50265,
+      "hash": "sha256-wjM2C3WR13ogXC7p4Q1XdG+f0qfwRDXQbV889V0KIpM="
+    }
+  },
+  "A Patch for Skyrim Realistic Conquering All in One and Cathedral Mountain Flowers": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1",
+      "file_id": 204979,
+      "file_name": "A Patch for Skyrim Realistic Conquering All in One and Cathedral Mountain Flowers-50265-1-1621699367.7z",
+      "mod_id": 50265,
+      "hash": "sha256-xFCUlMxFlvYzNYUf8+wmKr4nx1mlbgtd+J4uLvE7wcE="
+    }
+  },
+  "A Patch for Skyrim Reborn Hjaalmarch Hold and Cathedral Mountain Flowers": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1",
+      "file_id": 204980,
+      "file_name": "A Patch for Skyrim Reborn Hjaalmarch Hold and Cathedral Mountain Flowers-50265-1-1621699469.7z",
+      "mod_id": 50265,
+      "hash": "sha256-ec6p9Vuxr2kSaF+iVo1DHV1wc6jd4Sh9gsEChPParOc="
+    }
+  }
+}

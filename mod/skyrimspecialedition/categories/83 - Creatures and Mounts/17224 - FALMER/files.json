@@ -1,0 +1,44 @@
+{
+  "Falmer.4k": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1",
+      "file_id": 54498,
+      "file_name": "Falmer.4k-17224-1-1.7z",
+      "mod_id": 17224,
+      "hash": "sha256-Om0U/cZuw5X8TYblBrjpQMzCdISFs98bPnjh7en7W7w="
+    },
+    "type": "primary"
+  },
+  "Falmer.4k-2k": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1",
+      "file_id": 54504,
+      "file_name": "Falmer.4k-2k-17224-1-1.7z",
+      "mod_id": 17224,
+      "hash": "sha256-4qpX2C7CcGaRf8hUETgsIopp+suzN0qPjUisTnEsuKQ="
+    },
+    "type": "primary"
+  },
+  "Falmer.2k": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1",
+      "file_id": 54507,
+      "file_name": "Falmer.2k-17224-1-1.7z",
+      "mod_id": 17224,
+      "hash": "sha256-a24UB5ShlMWhkJu7XiuLxmQj/9P80x5WXFnRadRFTKs="
+    }
+  },
+  "Falmer.1k": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1",
+      "file_id": 54509,
+      "file_name": "Falmer.1k-17224-1-1.7z",
+      "mod_id": 17224,
+      "hash": "sha256-2IPJPbIxMeFXe6o02x6xasHSHjk88tJYKgqN2WCzMe4="
+    }
+  }
+}

@@ -1,0 +1,63 @@
+{
+  "Aetherial Artifacts Rework Lite 1.0": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 539577,
+      "file_name": "Aetherial Artifacts Rework Lite 1.0-128374-1-0-1725701642.7z",
+      "mod_id": 128374,
+      "hash": "sha256-FDu6vcubl3Kil7KoEOd5fM+gonEcqqGy5Ej5E3ocgek="
+    }
+  },
+  "Aetherial Artifacts Rework Lite 1.0 CHS": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 591614,
+      "file_name": "Aetherial Artifacts Rework Lite 1.0 CHS-128374-1-0-1738827062.7z",
+      "mod_id": 128374,
+      "hash": "sha256-S+nltDGf0YqFbCd0aenX88DMgJreBJ+YjqizChRo2Aw="
+    }
+  },
+  "Aetherial Artifacts Rework 1.23 CHS": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.23",
+      "file_id": 662838,
+      "file_name": "Aetherial Artifacts Rework 1.23 CHS-128374-1-23-1757154848.zip",
+      "mod_id": 128374,
+      "hash": "sha256-81y49q7cG3tmRMU0k+wrIRuE5zMFqEG6DSok0HEGuzU="
+    }
+  },
+  "Aetherial Artifacts Rework 1.23.1": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.23.1",
+      "file_id": 683585,
+      "file_name": "Aetherial Artifacts Rework 1.23.1-128374-1-23-1-1762224777.zip",
+      "mod_id": 128374,
+      "hash": "sha256-kkcvNvgDBccoV9+jS0kXPdGdz8Lz9MPW7Cb2fJ2n/UI="
+    },
+    "type": "primary"
+  },
+  "AetherialArtifactsRework Saeri Crown Patch 1.0": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 683586,
+      "file_name": "AetherialArtifactsRework Saeri Crown Patch 1.0-128374-1-0-1762225343.zip",
+      "mod_id": 128374,
+      "hash": "sha256-3/DreRmEDINbmiXG4ftH4170v3QLhVmZXbCvQwr4tsY="
+    }
+  },
+  "Saerileth's Aetherial Crown Patch 1.0 CHS": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 683587,
+      "file_name": "Saerileth's Aetherial Crown Patch 1.0 CHS-128374-1-0-1762225404.zip",
+      "mod_id": 128374,
+      "hash": "sha256-a/jQ2OzSz84MMKnBzOl8mLo9wudoYRHRzn+e1nnRi+A="
+    }
+  }
+}

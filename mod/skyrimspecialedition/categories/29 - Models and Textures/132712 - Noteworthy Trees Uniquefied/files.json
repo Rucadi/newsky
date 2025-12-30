@@ -1,0 +1,24 @@
+{
+  "Dwemer Tree": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 557105,
+      "file_name": "Dwemer Tree-132712-1-0-1730282893.7z",
+      "mod_id": 132712,
+      "hash": "sha256-uPG1MQtT3f+TqRmKEBLzg1y1zjSAT6bG2hkVFtWHtl0="
+    },
+    "type": "primary"
+  },
+  "Mage College Tree": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 557106,
+      "file_name": "Mage College Tree-132712-1-0-1730283155.7z",
+      "mod_id": 132712,
+      "hash": "sha256-oVRO/q2EL7hZ4bUJvst/BnrRLKFlPhwa7gmUPDVSzKs="
+    },
+    "type": "primary"
+  }
+}

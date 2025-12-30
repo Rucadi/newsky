@@ -1,0 +1,33 @@
+{
+  "Dread Father Armor": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1",
+      "file_id": 479502,
+      "file_name": "Dread Father Armor-100890-1-1-1710187222.zip",
+      "mod_id": 100890,
+      "hash": "sha256-+RyUQOlir9dgS+uOVjxspjNsRIqQkuLwAxtlcSOG+94="
+    },
+    "type": "primary"
+  },
+  "1K": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1",
+      "file_id": 479504,
+      "file_name": "1K-100890-1-1-1710187324.zip",
+      "mod_id": 100890,
+      "hash": "sha256-61KEaA1hJzinAYFEGNXZRvv2vgxOZr0+MTPAFIa7LMU="
+    }
+  },
+  "2K": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1",
+      "file_id": 479507,
+      "file_name": "2K-100890-1-1-1710187529.zip",
+      "mod_id": 100890,
+      "hash": "sha256-fds/8Al1N993ixEMGrZLofQ0YoM+IgO73Zx7joQXlEc="
+    }
+  }
+}

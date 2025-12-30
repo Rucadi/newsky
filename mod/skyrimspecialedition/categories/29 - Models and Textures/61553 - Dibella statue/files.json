@@ -1,0 +1,23 @@
+{
+  "Dibella 4k": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.04",
+      "file_id": 255403,
+      "file_name": "Dibella 4k-61553-1-04-1641745289.zip",
+      "mod_id": 61553,
+      "hash": "sha256-QH5UIyoSyJdOtph2jPOkRZ1D+rSriC0sn4jz42XxwMo="
+    },
+    "type": "primary"
+  },
+  "Dibella 2k": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.04",
+      "file_id": 255404,
+      "file_name": "Dibella 2k-61553-1-04-1641745436.zip",
+      "mod_id": 61553,
+      "hash": "sha256-slfCUmBIcqwpNtdg5dxdr3srVJJNL/ZyX23GZTrbipc="
+    }
+  }
+}

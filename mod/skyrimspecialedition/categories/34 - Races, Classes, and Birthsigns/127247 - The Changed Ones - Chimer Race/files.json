@@ -1,0 +1,43 @@
+{
+  "The Changed Ones - Chimer Race": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0-alpha",
+      "file_id": 533595,
+      "file_name": "The Changed Ones - Chimer Race-127247-1-0-alpha-1724183029.zip",
+      "mod_id": 127247,
+      "hash": "sha256-IOXso3Sx8nRv7sERCrsK2srdS4+sDBm3r8EIu3QaiZU="
+    },
+    "type": "primary"
+  },
+  "Sacrosanct Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0-alpha",
+      "file_id": 533596,
+      "file_name": "Sacrosanct Patch-127247-1-0-alpha-1724183165.zip",
+      "mod_id": 127247,
+      "hash": "sha256-6axWBjUAr/6B9g0MRE3xH3SSoG55uXKgCLOSCgZcX/8="
+    }
+  },
+  "Sacrilege Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0-alpha",
+      "file_id": 533597,
+      "file_name": "Sacrilege Patch-127247-1-0-alpha-1724183233.zip",
+      "mod_id": 127247,
+      "hash": "sha256-prEvWfDptbKPe+5Q2pl4m1r4o6ahCcLBo0Yk3jYTQ8w="
+    }
+  },
+  "High Poly Head Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0-alpha",
+      "file_id": 533598,
+      "file_name": "High Poly Head Patch-127247-1-0-alpha-1724183316.zip",
+      "mod_id": 127247,
+      "hash": "sha256-tSjVTMGKQIa33k5CY9YkkJBXfx8RlKF92fkTb8eOqDU="
+    }
+  }
+}

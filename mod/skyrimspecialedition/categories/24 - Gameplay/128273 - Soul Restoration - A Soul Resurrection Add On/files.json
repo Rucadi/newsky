@@ -1,0 +1,23 @@
+{
+  "Soul Restoration - A Soul Resurrection Addon": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.00",
+      "file_id": 539865,
+      "file_name": "Soul Restoration - A Soul Resurrection Addon-128273-1-00-1725754592.7z",
+      "mod_id": 128273,
+      "hash": "sha256-wsfh6uVJSGLh90SxVkD1noGyTTlUjxaDvSrHLCrVk8U="
+    },
+    "type": "primary"
+  },
+  "Soul Restoration No AnimationMovementLock Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.00",
+      "file_id": 653663,
+      "file_name": "Soul Restoration No AnimationMovementLock Patch-128273-1-00-1754600344.7z",
+      "mod_id": 128273,
+      "hash": "sha256-8BImr974H8tAEJZEZx9akP7sapU082pj6TkzmWJVGd0="
+    }
+  }
+}

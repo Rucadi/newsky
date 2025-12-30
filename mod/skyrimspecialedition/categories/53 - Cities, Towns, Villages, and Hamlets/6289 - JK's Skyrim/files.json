@@ -1,0 +1,23 @@
+{
+    "JK's Skyrim all in one": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "1.7",
+            "file_id": 189705,
+            "file_name": "JK's Skyrim all in one-6289-1-7-1614998676.zip",
+            "mod_id": 6289,
+            "hash": "sha256-b3C2YiR3m0yG/lpisGIRI4JqpPUYLnpSDQdtHuQrjvA="
+        },
+        "type": "primary"
+    },
+    "JK's Skyrim No Lights Patch.": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "1.2.0",
+            "file_id": 465665,
+            "file_name": "JK's Skyrim No Lights Patch.-6289-1-2-0-1706450239.rar",
+            "mod_id": 6289,
+            "hash": "sha256-jBwB+MPRr7J35PiaM7A1/rhjkU1PWsL1oxF5UXkn84A="
+        }
+    }
+}

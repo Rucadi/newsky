@@ -1,0 +1,23 @@
+{
+  "From Dusk till Dawn": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1a",
+      "file_id": 541110,
+      "file_name": "From Dusk till Dawn-127059-1a-1726072837.rar",
+      "mod_id": 127059,
+      "hash": "sha256-8j1/ZYh2mDlpzsUaSCVZJHPikE7qXZbXjAeyZ+I3Mj0="
+    },
+    "type": "primary"
+  },
+  "NAT.CS - From Dusk Till Dawn": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1a",
+      "file_id": 607984,
+      "file_name": "NAT.CS - From Dusk Till Dawn-127059-1a-1742559853.rar",
+      "mod_id": 127059,
+      "hash": "sha256-qgcJvAvHdzoUU1TUWgcGyxmKUsFPElZ9LY7kjnCTht4="
+    }
+  }
+}

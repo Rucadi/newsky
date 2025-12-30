@@ -1,0 +1,33 @@
+{
+  "CritterSpawn Congestion Fix": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.54",
+      "file_id": 484532,
+      "file_name": "CritterSpawn Congestion Fix 1.54-67276-1-54-1711522837.7z",
+      "mod_id": 67276,
+      "hash": "sha256-FubGt2eIadO6GVSD13KMglQHjJaZSqHM4JodMseB0vg="
+    },
+    "type": "primary"
+  },
+  "CritterSpawn Congestion Fix - No Respawns": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.54",
+      "file_id": 484533,
+      "file_name": "CritterSpawn Congestion Fix - No Respawns-67276-1-54-1711522925.7z",
+      "mod_id": 67276,
+      "hash": "sha256-hNYa204DqHxr1NGCN8w+YXj1oBvOHuPq9bCN6ULJU9E="
+    }
+  },
+  "CritterSpawn Congestion Fix - Old Respawns": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.54",
+      "file_id": 484534,
+      "file_name": "CritterSpawn Congestion Fix - Old Respawns-67276-1-54-1711522973.7z",
+      "mod_id": 67276,
+      "hash": "sha256-I9mxW7jHTLc2XIr5fjjCOl5kkOZTUjedOSeADemkjPM="
+    }
+  }
+}

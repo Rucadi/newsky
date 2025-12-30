@@ -1,0 +1,23 @@
+{
+    "Patch - Bloody Draugr": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "1.0.1",
+            "file_id": 551818,
+            "file_name": "Patch - Bloody Draugr-126328-1-0-1-1728837140.zip",
+            "mod_id": 126328,
+            "hash": "sha256-QC50+sbm6ernyqDrpr9Awqo5Ow8+wJ6/8+NsUcxHutk="
+        }
+    },
+    "Official Creature Asset Pack - Latest Version": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "1.0.2",
+            "file_id": 556808,
+            "file_name": "Official Creature Asset Pack - Latest Version-126328-1-0-2-1730217026.zip",
+            "mod_id": 126328,
+            "hash": "sha256-D76Dc2O2PfKr1Vue4pmFJlzTJY/x2B3dlAWC0uwbaG4="
+        },
+        "type": "primary"
+    }
+}

@@ -1,0 +1,35 @@
+{
+  "Cathedral - 3D Rocks - Smaller": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "0.1",
+      "file_id": 557930,
+      "file_name": "Cathedral - 3D Rocks - Smaller-132873-0-1-1730486984.7z",
+      "mod_id": 132873,
+      "hash": "sha256-MSp6QiVbqENk6+fBPe8gwsWCWDRHJVKV/UwCajfgjMI="
+    },
+    "type": "primary"
+  },
+  "Cathedral - 3D Rocks - Smaller - Parallax": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "0.1",
+      "file_id": 557931,
+      "file_name": "Cathedral - 3D Rocks - Smaller - Parallax-132873-0-1-1730487021.7z",
+      "mod_id": 132873,
+      "hash": "sha256-qPVPvU8Ve6DNA5DoZwV3OFbM6yJzJ/aJrAPwkrdgByA="
+    },
+    "type": "primary"
+  },
+  "Cathedral - 3D Rocks - Smaller - Complex Material": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "0.1",
+      "file_id": 557933,
+      "file_name": "Cathedral - 3D Rocks - Smaller - Complex Material-132873-0-1-1730487122.7z",
+      "mod_id": 132873,
+      "hash": "sha256-gscHangJ9T+1ptV+MaiqyoPltER+Zfmm/SorOPcEK4Q="
+    },
+    "type": "primary"
+  }
+}

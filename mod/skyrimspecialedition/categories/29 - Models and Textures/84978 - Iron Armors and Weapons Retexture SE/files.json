@@ -1,0 +1,44 @@
+{
+  "Iron Armors and Weapons Retexture SE": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "2.1.0",
+      "file_id": 603327,
+      "file_name": "Iron Armors and Weapons Retexture SE-84978-2-1-0-1741476856.7z",
+      "mod_id": 84978,
+      "hash": "sha256-3DuNcJMlDI/IxwIssU+fQH9CS6ciRu7327euUNsk9Og="
+    },
+    "type": "primary"
+  },
+  "Iron Bodyslide Patches": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "2.1.0",
+      "file_id": 603328,
+      "file_name": "Iron Bodyslide Patches-84978-2-1-0-1741476958.7z",
+      "mod_id": 84978,
+      "hash": "sha256-SiYM2lp+8Ffc8U6RXprAkC5tzWbftpXWVnhvY4jkTkU="
+    },
+    "type": "primary"
+  },
+  "Iron Armors and Weapons Retexture SE - Half res": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "2.1.0",
+      "file_id": 603329,
+      "file_name": "Iron Armors and Weapons Retexture SE - Half res-84978-2-1-0-1741477231.7z",
+      "mod_id": 84978,
+      "hash": "sha256-G0mUzCk2AaFLYbe86ImQSVflwnLDe7ez8JUSYgGoiMw="
+    }
+  },
+  "Iron Armors and Weapons Retexture SE - low res": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "2.1.0",
+      "file_id": 603330,
+      "file_name": "Iron Armors and Weapons Retexture SE - low res-84978-2-1-0-1741477289.7z",
+      "mod_id": 84978,
+      "hash": "sha256-KiA1x+wiJVOtK44SGWac5VjjHW2gyuWIW+oP0UKgA68="
+    }
+  }
+}

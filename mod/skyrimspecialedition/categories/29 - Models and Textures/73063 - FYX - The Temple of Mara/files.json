@@ -1,0 +1,90 @@
+{
+  "FYX - A - Temple of Mara": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0.3",
+      "file_id": 307391,
+      "file_name": "FYX - The Temple of Mara-73063-1-0-3-1660468560.7z",
+      "mod_id": 73063,
+      "hash": "sha256-p3GQUf3YjGKArdo7nRA+MK0JCU9qOTgFV66WN45G9fY="
+    },
+    "type": "primary"
+  },
+  "FYX - A - Temple of Mara - Parallax": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0.3",
+      "file_id": 307392,
+      "file_name": "FYX - The Temple of Mara - Parallax-73063-1-0-3-1660468592.7z",
+      "mod_id": 73063,
+      "hash": "sha256-cxT3d3fWlHMNm+wnmw9RMxoJh+pCaMfzmRgtTxvOXtQ="
+    },
+    "type": "primary"
+  },
+  "FYX - A - Temple of Mara - Windows ENB Light": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0.3",
+      "file_id": 307785,
+      "file_name": "FYX - The Temple of Mara - ENB Light Windows-73063-1-0-3b-1660584110.7z",
+      "mod_id": 73063,
+      "hash": "sha256-+zDM6cuK8Q7+WDZVu1lX33SYHXEHpEcCLeXR5te95OY="
+    },
+    "type": "primary"
+  },
+  "FYX - A - Temple of Mara - W ENB Light - Parallax": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0.3",
+      "file_id": 307786,
+      "file_name": "FYX - The Temple of Mara - ENB Light Windows - Parallax-73063-1-0-3b-1660584174.7z",
+      "mod_id": 73063,
+      "hash": "sha256-Icvq2aF5rMjFb0llvKXo5hT7oIc9KwJC1AJqr7tQX4A="
+    },
+    "type": "primary"
+  },
+  "FYX - Temple of Mara - NO Ornament": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0.3",
+      "file_id": 435122,
+      "file_name": "FYX - Temple of Mara NO Ornament-73063-1-0-3-1697693017.7z",
+      "mod_id": 73063,
+      "hash": "sha256-JzwhvZuiGPV382S4KuUQcGh4YwDg9z2uNQiLzYe5vl8="
+    },
+    "type": "primary"
+  },
+  "FYX - Temple of Mara - Parallax NO Ornament": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0.3",
+      "file_id": 435123,
+      "file_name": "FYX - Temple of Mara - Parallax NO Ornament-73063-1-0-3-1697693062.7z",
+      "mod_id": 73063,
+      "hash": "sha256-n3OdwTeT69Qt9CJIt6S3HGb13iV3MLZ7BOezI6OYDC0="
+    },
+    "type": "primary"
+  },
+  "FYX - Temple of Mara - W ENB Light NO Ornament": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0.3",
+      "file_id": 435124,
+      "file_name": "FYX - Temple of Mara - W ENB Light NO Ornament-73063-1-0-3-1697693127.7z",
+      "mod_id": 73063,
+      "hash": "sha256-TE54KXrC43NhQbUS0oCbboBSueZAzCM22GETFHFdea0="
+    },
+    "type": "primary"
+  },
+  "FYX - Temple of Mara - W ENB Light Parallax NO Orn": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0.3",
+      "file_id": 435125,
+      "file_name": "FYX - Temple of Mara - W ENB Light Parallax NO Orn-73063-1-0-3-1697693222.7z",
+      "mod_id": 73063,
+      "hash": "sha256-V/phBqbSGB60XbN7R5XS0oUyoAtbWn5nBOKTHT7mZMM="
+    },
+    "type": "primary"
+  }
+}

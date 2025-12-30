@@ -1,0 +1,63 @@
+{
+    "ULP AIO - Sheogorath Statue Addon": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "Add-on",
+            "file_id": 490337,
+            "file_name": "ULP AIO - Sheogorath Statue Addon-113660-Add-on-1713024644.rar",
+            "mod_id": 113660,
+            "hash": "sha256-tk6M16IhTiCuJBnKGuz60TE2A9kBZ89Cr/FB6CFNSuU="
+        }
+    },
+    "ULP AIO - Descriptions Addon": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "Add-on",
+            "file_id": 490338,
+            "file_name": "ULP AIO - Descriptions Addon-113660-Add-on-1713024834.rar",
+            "mod_id": 113660,
+            "hash": "sha256-G5BVOYeVHUZzVkmZZxizaab0ze7sMPRMbTIewLdLdUM="
+        }
+    },
+    "ULP AIO - Argonian Skull Addon": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "Add-on",
+            "file_id": 490340,
+            "file_name": "ULP AIO - Argonian Skull Addon-113660-Add-on-1713025096.rar",
+            "mod_id": 113660,
+            "hash": "sha256-TkRsJhNlv5U9VsSQrFqWjGpebnMzUhLPuj7SZ2dfe6w="
+        }
+    },
+    "ULP AIO - Hircine Statue Addon": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "Add-on",
+            "file_id": 490345,
+            "file_name": "ULP AIO - Hircine Statue Addon-113660-Add-on-1713025694.rar",
+            "mod_id": 113660,
+            "hash": "sha256-wHljkKih2wBmE88TgxZSFDBmoANzOnqcor5HL8mlpvw="
+        }
+    },
+    "ULP AIO - Argonian Skull Addon Standalone": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "Add-on",
+            "file_id": 500465,
+            "file_name": "ULP AIO - Argonian Skull Addon Standalone-113660-Add-on-1715533896.rar",
+            "mod_id": 113660,
+            "hash": "sha256-Mv4/ITFHKJ/7CbFrHyJLZlJbu6z0Q3ZkuNodsZgI/lY="
+        }
+    },
+    "Unmarked Locations Pack - All In One": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "1.3a",
+            "file_id": 664039,
+            "file_name": "Unmarked Locations Pack - All In One-113660-1-3a-1757428590.rar",
+            "mod_id": 113660,
+            "hash": "sha256-WunoU48leNNSaQAwa+JXwtTxVkAWLFOlljs/xbkIrf0="
+        },
+        "type": "primary"
+    }
+}

@@ -1,0 +1,23 @@
+{
+  "CC Bow of Shadows Lingering Invisibility Fix": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0.0",
+      "file_id": 249383,
+      "file_name": "CC Bow of Shadows Lingering Invisibility Fix-60111-1-0-0-1639591322.7z",
+      "mod_id": 60111,
+      "hash": "sha256-h71mYn6rBFCM7TEgwmCOeJsoewifSiLfRRz7Zyqp6J4="
+    },
+    "type": "primary"
+  },
+  "Distribute Bow of Shadows Perk to Everyone": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0.0",
+      "file_id": 249646,
+      "file_name": "Distribute Bow of Shadows Perk to Everyone-60111-1-0-0-1639682061.7z",
+      "mod_id": 60111,
+      "hash": "sha256-/v8ya/1qqD0/JjMbSRr/jawxj+3iPmE9wfMcTIL/ivE="
+    }
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "add your custom dodge counter attack animation": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 431036,
+      "file_name": "add your custom dodge counter attack animation her-101812-1-0-1696388212.zip",
+      "mod_id": 101812,
+      "hash": "sha256-ID3fmCV0ne6ZgJka0Wq1k+l5QztG6UX8wAXYPLCYRbU="
+    }
+  },
+  "Elden Counter compatibility": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 431037,
+      "file_name": "Elden Counter compatibility-101812-1-0-1696388270.zip",
+      "mod_id": 101812,
+      "hash": "sha256-DawShaxOrvm2SbXJMr/FTre1y9B2u14YoynSIueiHxk="
+    }
+  },
+  "Timed Dodge": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1",
+      "file_id": 431419,
+      "file_name": "Timed Dodge-101812-1-1-1696539000.zip",
+      "mod_id": 101812,
+      "hash": "sha256-iS1XBY23KtiFOFj9ctbKIc3OTD2IyabzyLeIFD6xt7k="
+    },
+    "type": "primary"
+  }
+}

@@ -1,0 +1,23 @@
+{
+    "Nature of the Wild Lands - Regions Addon": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "1.0",
+            "file_id": 560782,
+            "file_name": "Nature of the Wild Lands - Regions Addon-133619-1-0-1731239160.zip",
+            "mod_id": 133619,
+            "hash": "sha256-mgTzOnBG7UmCl7YJP73D23FF2XiTewmKceWfYnJYjgk="
+        }
+    },
+    "Nature of the Wild Lands 3.0 - 3D hybrid LOD": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "1.2.2",
+            "file_id": 677319,
+            "file_name": "Nature of the Wild Lands 3.0 - 3D hybrid LOD-133619-1-2-2-1760790285.7z",
+            "mod_id": 133619,
+            "hash": "sha256-4ME3bxcbWc6dfrc8N81C7nlLvgQ+Tkx7Iha5BNGG5kU="
+        },
+        "type": "primary"
+    }
+}

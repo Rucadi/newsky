@@ -1,0 +1,64 @@
+{
+  "Biggie Traits - Alternate Start patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0.4",
+      "file_id": 601535,
+      "file_name": "Biggie Traits - Alternate Start patch-136384-1-0-4-1741048307.zip",
+      "mod_id": 136384,
+      "hash": "sha256-oVpI1zthjz58tR6PkK28+O5/D8fYKkwLQFqXC2gtPvI="
+    }
+  },
+  "Homeowner - First Person Interactions Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0.0",
+      "file_id": 602527,
+      "file_name": "Homeowner - First Person Interactions Patch-136384-1-0-0-1741308788.zip",
+      "mod_id": 136384,
+      "hash": "sha256-vXalrUXEwFgEYToczX/X5eL2gkdo6+mAhADq19GTX1o="
+    }
+  },
+  "Biggie Traits - Autopop": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0.1",
+      "file_id": 619072,
+      "file_name": "Biggie Traits - Autopop-136384-1-0-1-1745082844.zip",
+      "mod_id": 136384,
+      "hash": "sha256-85j2dYWNXPe6sgEYqPJcDYNpv2epsRMWOzy3zTco8HQ="
+    }
+  },
+  "Biggie Traits - Immersive Interactions": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0.1",
+      "file_id": 635801,
+      "file_name": "Biggie Traits - Immersive Interactions-136384-1-0-1-1749364737.zip",
+      "mod_id": 136384,
+      "hash": "sha256-j+4oot0wZdWSGZx7n1wyIv8MynmMmmX7IBzHy5rn1jo="
+    }
+  },
+  "Biggie Traits - Requiem": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0.14",
+      "file_id": 680580,
+      "file_name": "Biggie Traits - Requiem-136384-1-0-14-1761478088.zip",
+      "mod_id": 136384,
+      "hash": "sha256-g5PU1Rjy58ANRywZQmxrwmP0bU/pfv0fjTT4AdoFheI="
+    },
+    "type": "primary"
+  },
+  "Biggie Traits": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0.33",
+      "file_id": 689500,
+      "file_name": "Biggie Traits-136384-1-0-33-1763684630.zip",
+      "mod_id": 136384,
+      "hash": "sha256-gW/2Ds+uAV95UREoApzZvNilTIrzs404KLN3H0kQe0E="
+    },
+    "type": "primary"
+  }
+}

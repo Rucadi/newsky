@@ -1,0 +1,24 @@
+{
+  "Enemies Can't Block While Exhausted": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.00",
+      "file_id": 371039,
+      "file_name": "Enemies Can't Block While Exhausted-87568-1-00-1679492397.rar",
+      "mod_id": 87568,
+      "hash": "sha256-rGjbEs1n5k+hUHYupsZHooVJ9GC78WqJ7MnUhmpecs8="
+    },
+    "type": "primary"
+  },
+  "Enemies can't block while exhausted - Dual Wield Parrying": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.00",
+      "file_id": 371040,
+      "file_name": "Enemies can't block while exhausted - Dual Wield Parrying-87568-1-00-1679492501.rar",
+      "mod_id": 87568,
+      "hash": "sha256-QDOwFBUVbSG1cC0vgBGGnevqsSsdcitWsJs1OEfNxZU="
+    },
+    "type": "primary"
+  }
+}

@@ -1,0 +1,53 @@
+{
+  "Eve's Sunfire Armor 3BA Bodyslide Files": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 589465,
+      "file_name": "Eve's Sunfire Armor 3BA Bodyslide Files-140366-1-0-1738335060.zip",
+      "mod_id": 140366,
+      "hash": "sha256-h8d/GzSUaBaaUIFnk/+kcYqnRXbPAYnHhQlxzpp6pjQ="
+    }
+  },
+  "Eve's Sunfire Armor Main File": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 589870,
+      "file_name": "Eve's Sunfire Armor Main File-140366-1-0-1738428193.zip",
+      "mod_id": 140366,
+      "hash": "sha256-XN5OP2PQ9+HVvJQ1fAGADGnHP+Gm7yIc/glAHRb4vdI="
+    },
+    "type": "primary"
+  },
+  "Eve's Sunfire Armor BHUNP Bodyslide Files": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1",
+      "file_id": 591330,
+      "file_name": "Eve's Sunfire Armor BHUNP Bodyslide Files-140366-1-1-1738770168.zip",
+      "mod_id": 140366,
+      "hash": "sha256-eAHFUMiXCNuS/zUSSTdYhsJdSSzNVLr3iKzNhkcl/dY="
+    }
+  },
+  "Eve's Sunfire Armor UBE Bodyslide Files": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1",
+      "file_id": 591333,
+      "file_name": "Eve's Sunfire Armor UBE Bodyslide Files-140366-1-1-1738770593.rar",
+      "mod_id": 140366,
+      "hash": "sha256-HpupQUNKBNDPU3s18jo5ZYJpcnZSynyKylSvXBJcUvE="
+    }
+  },
+  "Whispers in the Night plugin": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 645215,
+      "file_name": "Whispers in the Night plugin-140366-1-0-1751950991.rar",
+      "mod_id": 140366,
+      "hash": "sha256-8mjwS0bnhooI2Br6Jem9HP9V3WiQYFl6ZStcTWQFIsg="
+    }
+  }
+}

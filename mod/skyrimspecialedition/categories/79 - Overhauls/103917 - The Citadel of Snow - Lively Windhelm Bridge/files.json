@@ -1,0 +1,23 @@
+{
+  "Lively Windhelm Bridge - Immersive Citizens patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 439924,
+      "file_name": "Lively Windhelm Bridge - Immersive Citizens patch-103917-1-0-1699153292.7z",
+      "mod_id": 103917,
+      "hash": "sha256-Wmy+vaB9rqzgxwtnbXArU0GiW50Xee9c/aL3/BRyiOw="
+    }
+  },
+  "The Citadel of Snow - Lively Windhelm Bridge": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.7",
+      "file_id": 511678,
+      "file_name": "The Citadel of Snow - Lively Windhelm Bridge-103917-1-7-1718438206.7z",
+      "mod_id": 103917,
+      "hash": "sha256-OUvC1AkSAkvGd5OOCvW7J/+PWzaFHb6vSY9nGfF1bXE="
+    },
+    "type": "primary"
+  }
+}

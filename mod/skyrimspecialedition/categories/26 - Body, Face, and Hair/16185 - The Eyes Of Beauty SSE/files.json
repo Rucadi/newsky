@@ -1,0 +1,24 @@
+{
+    "The Eyes of Beauty SSE - Elves Edition": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "1.2",
+            "file_id": 156982,
+            "file_name": "The Eyes of Beauty SE - Elves Edition-16185-1-2-1598069185.7z",
+            "mod_id": 16185,
+            "hash": "sha256-kuAbSV9RAyV611WBHUjtPBq37lrlRKGsf+n0uTZ4zKA="
+        },
+        "type": "primary"
+    },
+    "The Eyes of Beauty SSE": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "1.2.1",
+            "file_id": 157401,
+            "file_name": "The Eyes of Beauty SSE-16185-1-2-1-1598238698.7z",
+            "mod_id": 16185,
+            "hash": "sha256-Gav5WrluXOiu4WM6XH3Vb0Phl0BIASKP+9I4Uujt00w="
+        },
+        "type": "primary"
+    }
+}

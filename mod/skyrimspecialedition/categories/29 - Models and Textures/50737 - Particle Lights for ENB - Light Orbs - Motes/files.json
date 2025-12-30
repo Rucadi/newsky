@@ -1,0 +1,23 @@
+{
+  "Particle Lights for ENB - Light Orbs - Motes": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1",
+      "file_id": 273180,
+      "file_name": "Particle Lights for ENB - Light Orbs - Motes-50737-1-1-1648441400.rar",
+      "mod_id": 50737,
+      "hash": "sha256-uuUACWECW2heeJy8GB4IyWd7CGGuz3mBrbM0Z9YI01o="
+    },
+    "type": "primary"
+  },
+  "Friendly Wisp Orbs - PATCH": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1",
+      "file_id": 288173,
+      "file_name": "Friendly Wisp Orbs - PATCH-50737-1-1-1654123216.rar",
+      "mod_id": 50737,
+      "hash": "sha256-zgzy866yCTa8VdOktsPLZZhPn8uJ87LOvcGMpxag8RY="
+    }
+  }
+}

@@ -1,0 +1,73 @@
+{
+  "Sa'chil Follower - Patch FOMOD": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "2.0.2",
+      "file_id": 456119,
+      "file_name": "Sa'chil Follower - Patch FOMOD-106893-2-0-2-1703869962.7z",
+      "mod_id": 106893,
+      "hash": "sha256-JZJBxuNtITwEtHV5v4wR8AENY31c+J7+tjgH1MknFh4="
+    },
+    "type": "primary"
+  },
+  "Sa'chil Follower - The Great Village of Kynesgrove": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1",
+      "file_id": 456228,
+      "file_name": "Sa'chil Follower - The Great Village of Kynesgrove-106893-1-1-1703898226.7z",
+      "mod_id": 106893,
+      "hash": "sha256-VlZjbHfLeBnE8QtelW90fyZD3TwyW9fSVwtVRUXC018="
+    }
+  },
+  "Sa'chil Follower - Feline Animations KISS Style": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.4",
+      "file_id": 456786,
+      "file_name": "Sa'chil Follower - Feline Animations KISS Style-106893-1-4-1704049785.7z",
+      "mod_id": 106893,
+      "hash": "sha256-4LKO+AengeEB6OnKvyqJUZNvthg4kHRUWszyAAKLR8U="
+    }
+  },
+  "Sa'chil Follower - Feline Movement Animations": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.4",
+      "file_id": 456787,
+      "file_name": "Sa'chil Follower - Feline Movement Animations-106893-1-4-1704049927.7z",
+      "mod_id": 106893,
+      "hash": "sha256-BkR3Qx1BBLTmXgUYXOiU3L1ZLcZ/u15JbiO24ohuW08="
+    }
+  },
+  "Sa'chil Follower - Civil War Fix": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0.0",
+      "file_id": 458991,
+      "file_name": "Sa'chil Follower - Civil War Fix-106893-1-0-0-1704665607.7z",
+      "mod_id": 106893,
+      "hash": "sha256-dOmBmUgje/iPM/lNlO1q/ix6rNr7p1A50jpYhAbFv4Y="
+    }
+  },
+  "Sa'chil Follower - Interesting NPCs": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0.0",
+      "file_id": 484196,
+      "file_name": "Sa'chil Follower - Interesting NPCs-106893-1-0-0-1711408809.7z",
+      "mod_id": 106893,
+      "hash": "sha256-H0KXzAZQQ/3L4qq+Zt0m6B2fDFz6RZNHSeB76oRZS40="
+    }
+  },
+  "Sa'chil Follower - Legacy of the Dragonborn": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "6.0",
+      "file_id": 514477,
+      "file_name": "Sa'chil Follower - Legacy of the Dragonborn-106893-6-0-1719233528.7z",
+      "mod_id": 106893,
+      "hash": "sha256-KybUdMas1PYu6Fc+PYkV3mSaCqcelTlWZWrCZXJ9IHo="
+    }
+  }
+}

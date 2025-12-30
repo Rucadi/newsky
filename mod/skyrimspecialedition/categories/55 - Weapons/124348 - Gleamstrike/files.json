@@ -1,0 +1,24 @@
+{
+  "Gleamstrike SE - ESL": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "v1.0",
+      "file_id": 521257,
+      "file_name": "Gleamstrike SE - ESL-124348-v1-0-1720998943.7z",
+      "mod_id": 124348,
+      "hash": "sha256-SlXZGAzn73I6PxVS5epg43uug84h3IW1JForCqHAt5w="
+    },
+    "type": "primary"
+  },
+  "Gleamstrike SE - ESL - AA Version": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "v1.0",
+      "file_id": 521258,
+      "file_name": "Gleamstrike SE - ESL - AA Version-124348-v1-0-1720999835.7z",
+      "mod_id": 124348,
+      "hash": "sha256-peOJw3mqFUMTnk6DPqkXRWQv7c1CW6HiBuVVDwItJ2c="
+    },
+    "type": "primary"
+  }
+}

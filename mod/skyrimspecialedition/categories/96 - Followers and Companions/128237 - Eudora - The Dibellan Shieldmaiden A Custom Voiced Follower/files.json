@@ -1,0 +1,33 @@
+{
+  "Eudora Armor": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.3",
+      "file_id": 663566,
+      "file_name": "Eudora Armor-128237-1-3-1757304884.zip",
+      "mod_id": 128237,
+      "hash": "sha256-u2cNX48fC0sAMg8+KSjaZxUOAK5FK2oC0ztXFaYXoQ8="
+    }
+  },
+  "Naughty Voice Eudora": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.21",
+      "file_id": 663798,
+      "file_name": "Naughty Voice Eudora-128237-1-21-1757367051.7z",
+      "mod_id": 128237,
+      "hash": "sha256-FRhbDIVk+zm75EdkPcwKqtIxh3cackrZsUE5V7a80fE="
+    }
+  },
+  "Eudora Follower": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.14",
+      "file_id": 683458,
+      "file_name": "Eudora Follower-128237-1-14-1762202223.7z",
+      "mod_id": 128237,
+      "hash": "sha256-uxkb35VbXBkYYX7IQy0EYRnBrY9sWN1YH8LLsEw6KTQ="
+    },
+    "type": "primary"
+  }
+}

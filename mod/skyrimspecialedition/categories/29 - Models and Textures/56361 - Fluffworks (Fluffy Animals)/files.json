@@ -1,0 +1,24 @@
+{
+  "Fluffworks Medium": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1f",
+      "file_id": 267648,
+      "file_name": "Fluffworks Medium-56361-1-1f-1646241315.7z",
+      "mod_id": 56361,
+      "hash": "sha256-nM5e2lDAzIdOciA/zN8QbeBEtj0lGmVu5Z3tlkyxO1E="
+    },
+    "type": "primary"
+  },
+  "Fluffworks Quality": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1f",
+      "file_id": 267650,
+      "file_name": "Fluffworks Quality-56361-1-1f-1646241621.7z",
+      "mod_id": 56361,
+      "hash": "sha256-1E2iyr255v+1HGcVYpLH1Ym0I5kZT3SM5RE2XoW5NXU="
+    },
+    "type": "primary"
+  }
+}

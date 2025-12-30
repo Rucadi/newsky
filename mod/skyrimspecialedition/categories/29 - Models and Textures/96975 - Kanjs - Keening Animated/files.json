@@ -1,0 +1,45 @@
+{
+  "Kanjs - Keening Animated SE 4k": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "2",
+      "file_id": 438943,
+      "file_name": "Kanjs - Keening Animated SE 4k-96975-2-1698873467.zip",
+      "mod_id": 96975,
+      "hash": "sha256-uYmFHhn8KlPXITLikM8LlcqksG7a7fGrW8YxrtmLwRQ="
+    },
+    "type": "primary"
+  },
+  "Kanjs - Keening Animated SE 2k": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "2",
+      "file_id": 438944,
+      "file_name": "Kanjs - Keening Animated SE 2k-96975-2-1698873486.zip",
+      "mod_id": 96975,
+      "hash": "sha256-2L7Oew3TA+MRGr7TooCxlQsGaG7MrlJe9E6bIcKYFCQ="
+    },
+    "type": "primary"
+  },
+  "Kanjs - Keening Animated SE 1k": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "2",
+      "file_id": 438945,
+      "file_name": "Kanjs - Keening Animated SE 1k-96975-2-1698873521.zip",
+      "mod_id": 96975,
+      "hash": "sha256-TQGqOVh5xS7YwhPLlJ3exsaMO3ixfZp953zhrsvTgRM="
+    },
+    "type": "primary"
+  },
+  "Kanjs - Keening Animated Meshes only": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "2",
+      "file_id": 438946,
+      "file_name": "Kanjs - Keening Animated Meshes only-96975-2-1698873572.zip",
+      "mod_id": 96975,
+      "hash": "sha256-9jlPaS5LXr5+g8AN+yStS7quFsy8LltFhi5izz1Wvqg="
+    }
+  }
+}

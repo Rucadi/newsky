@@ -1,0 +1,23 @@
+{
+  "Simplicity of Snow - Cities of The North": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "0.1",
+      "file_id": 241931,
+      "file_name": "Simplicity of Snow - Cities of The North-58559-0-1-1637068034.7z",
+      "mod_id": 58559,
+      "hash": "sha256-+dFf0WQc85YqcEuDVWJypjs4x36icG/j0rwRbHJanFQ="
+    },
+    "type": "primary"
+  },
+  "Simplicity of Snow - Cities of the North - Dawnstar - Vanilla Textures Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "0.1.2",
+      "file_id": 267009,
+      "file_name": "Simplicity of Snow - Cities of the North - Dawnstar - Vanilla Textures Patch-58559-0-1-2-1645928874.7z",
+      "mod_id": 58559,
+      "hash": "sha256-HmJH6pDHara6FHncg2SYobaRtc9UeEixgbD8VkImJ6g="
+    }
+  }
+}

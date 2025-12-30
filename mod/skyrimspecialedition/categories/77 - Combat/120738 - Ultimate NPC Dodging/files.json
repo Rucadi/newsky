@@ -1,0 +1,65 @@
+{
+  "Ultimate NPC Dodging - Class Animation Variety": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 508099,
+      "file_name": "Ultimate NPC Dodging - Class Animation Variety-120738-1-7-1717457361.7z",
+      "mod_id": 120738,
+      "hash": "sha256-c3eCC8Xi/nZPSqAPURKFhu0P6TqlN+sa+ZfdU6JLkr8="
+    }
+  },
+  "Ultimate NPC dodging": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "2.3.0",
+      "file_id": 560772,
+      "file_name": "Ultimate NPC dodging-120738-2-3-0-1731233866.7z",
+      "mod_id": 120738,
+      "hash": "sha256-EjbKvDV5L481FGfHN5HKwZaX8zDkqThPIQNrt2T940Y="
+    },
+    "type": "primary"
+  },
+  "Ultimate NPC dodging (Clean Install)": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "2.4.3",
+      "file_id": 633774,
+      "file_name": "Ultimate NPC dodging (Clean Install)-120738-2-4-3-1748828255.7z",
+      "mod_id": 120738,
+      "hash": "sha256-x6VWXUZLxNgMLoJx9iABad3kZRUZ5pnbsTuJrqc6qu0="
+    },
+    "type": "primary"
+  },
+  "UND 8-way Dodging": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "2.4.7",
+      "file_id": 644578,
+      "file_name": "UND 8-way Dodging-120738-2-4-7-1751777305.7z",
+      "mod_id": 120738,
+      "hash": "sha256-EC7QaGo+J0NLtYU3v6BXwvBamUJVJ3ZbDYIFd+OZrWE="
+    }
+  },
+  "Ultimate NPC Dodging - Class Anim Variety 8-way": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "2.4.8",
+      "file_id": 644582,
+      "file_name": "Ultimate NPC Dodging - Class Anim Variety 8-way-120738-2-4-8-1751778219.7z",
+      "mod_id": 120738,
+      "hash": "sha256-4a1JcWaNihPIt5pjq9bnM62nk2vTzaTY4aRfOfkH4nM="
+    }
+  },
+  "Ultimate NPC dodging (8-way Dodging)": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "2.4.8",
+      "file_id": 674160,
+      "file_name": "Ultimate NPC dodging (8-way Dodging)-120738-2-4-8-1760079194.7z",
+      "mod_id": 120738,
+      "hash": "sha256-ijqdlTFJWY3fsEVAXpgpkK5FvjQ5bXsVzG5L8ZIZE24="
+    },
+    "type": "primary"
+  }
+}

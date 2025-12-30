@@ -1,0 +1,115 @@
+{
+  "Trad_CC_ArmorBonus_Requiem_Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1",
+      "file_id": 287137,
+      "file_name": "Trad_CC_ArmorBonus_Requiem_Patch-64829-1-1-1653753410.7z",
+      "mod_id": 64829,
+      "hash": "sha256-enBOikv1d3i/3YgVJfmJf3PO3QBWfiDZdEouUqbaHSU="
+    }
+  },
+  "Trad_AE_FishingStandalone_Requiem_Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.2",
+      "file_id": 312728,
+      "file_name": "Trad_AE_FishingStandalone_Requiem_Patch-64829-1-2-1662197278.7z",
+      "mod_id": 64829,
+      "hash": "sha256-Ps6EOgzH+TCVbtpDYnZSxjmQpVJ7kD56CeIohOZ8kdw="
+    }
+  },
+  "Trad_AE_FishingStandalone_Requiem_Patch_Loose": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.2",
+      "file_id": 312729,
+      "file_name": "Trad_AE_FishingStandalone_Requiem_Patch_Loose-64829-1-2-1662197313.7z",
+      "mod_id": 64829,
+      "hash": "sha256-xXAzZncD40raqirvNEWVscs5E1NmUlteNqkg3aGN5Mg="
+    }
+  },
+  "Trad_AE_NecroGrimoireStandalone_Requiem_Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 327386,
+      "file_name": "Trad_AE_NecroGrimoireStandalone_Requiem_Patch-64829-1-0-1667060503.7z",
+      "mod_id": 64829,
+      "hash": "sha256-1holtFli3UzvBWe220ulm3sU6zWfxv68X+WMenHiku0="
+    }
+  },
+  "Trad_AE_NecroGrimoireStandalone_Requiem_Patch_Loose": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 327388,
+      "file_name": "Trad_AE_NecroGrimoireStandalone_Requiem_Patch_Loose-64829-1-0-1667060636.7z",
+      "mod_id": 64829,
+      "hash": "sha256-TvLu7w/Kezh4Pn9FeExLvr7sCyjLQRVL5Y+QMrgpdbk="
+    }
+  },
+  "Trad_AE_CC_SaintsExtendedCut_Artifacts_Requiem_Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 338150,
+      "file_name": "Trad_AE_CC_SaintsExtendedCut_Artifacts_Requiem_Patch-64829-1-0-1670338291.7z",
+      "mod_id": 64829,
+      "hash": "sha256-mJ8DTsHG3XY0oDswaXiwZ+iO6L/OJSxnzJw9DZCdJd4="
+    }
+  },
+  "Trad_CC Quests Re-Enabled FOMOD - Requiem Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 348627,
+      "file_name": "Trad - CC Quests Re-Enabled FOMOD - Requiem Patch-64829-1-0-1673453006.7z",
+      "mod_id": 64829,
+      "hash": "sha256-CeXMRVW83MAYRvkXz7ziTlXcm+SNQ1n8MNI27UaEmgc="
+    },
+    "type": "primary"
+  },
+  "Trad_AE_CC_Collection_Requiem_Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "2.3.2",
+      "file_id": 390225,
+      "file_name": "Trad_AE_CC_Collection_Requiem_Patch-64829-2-3-2-1684606852.7z",
+      "mod_id": 64829,
+      "hash": "sha256-xomRczwF5tcbVArOKaVFQXeHJ0Up7dc/tk40xHdOITo="
+    },
+    "type": "primary"
+  },
+  "Trad_AE_CC_Collection_Requiem_Patch_Loose": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "2.3.2",
+      "file_id": 390227,
+      "file_name": "Trad_AE_CC_Collection_Requiem_Patch_Loose-64829-2-3-2-1684607088.7z",
+      "mod_id": 64829,
+      "hash": "sha256-yTYVf7dv7rzESaGfejCL9bjhIQueLSQTxU7ee1XhtGM="
+    },
+    "type": "primary"
+  },
+  "Trad_AE_Addon Patches": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.2",
+      "file_id": 450432,
+      "file_name": "Trad_AE_Addon Patches-64829-1-2-1702207436.7z",
+      "mod_id": 64829,
+      "hash": "sha256-NVm+KxECECIOerlaG6jfOids7qCl4mnGL348tKTbCEQ="
+    }
+  },
+  "Trad_AE_Myrwatch_Requiem_Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 452053,
+      "file_name": "Trad_AE_Myrwatch_Requiem_Patch-64829-1-0-1702645711.7z",
+      "mod_id": 64829,
+      "hash": "sha256-jTeJi8+gbMmnQ6yMa5H+rHxE5cJIRDe9zoyPlB9us2Y="
+    }
+  }
+}

@@ -1,0 +1,53 @@
+{
+  "Realistic Conversations - Only short sentences": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "2.1",
+      "file_id": 2363,
+      "file_name": "Realistic Voice-1717-1-4.7z",
+      "mod_id": 1717,
+      "hash": "sha256-PQAmnvr7d9ynRebxGjtG4o1yohNVWibOSDE3HhDRwy0="
+    }
+  },
+  "Realistic Conversations": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "2.1",
+      "file_id": 10244,
+      "file_name": "Realistic Conversations with natural social behaviors-1717-2-0.7z",
+      "mod_id": 1717,
+      "hash": "sha256-amWqi3REPeYwGid84JUp/P/mIB80Wo9ojtLNgV3cBMg="
+    },
+    "type": "primary"
+  },
+  "Realistic Conversations - No greetings compatible": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "2.1",
+      "file_id": 10246,
+      "file_name": "Realistic Conversations with natural social behaviors - No greetings compatible-1717-2-0.7z",
+      "mod_id": 1717,
+      "hash": "sha256-mAIv+ims2gxzjgimugGid0pxmd4yT5SFgJsVZTcXLXs="
+    }
+  },
+  "Realistic Conversations - longer pause between sentences": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "2.1",
+      "file_id": 10350,
+      "file_name": "Realistic Voice with natural social behaviors - longer pause between sentences-1717-2-1.7z",
+      "mod_id": 1717,
+      "hash": "sha256-/nnu3oKd+DTFb4gXT92FpPtObtkkitqipwwP+7TBaRw="
+    }
+  },
+  "Realistic Conversations - No greetings compatible - longer pause between sentences": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "2.1",
+      "file_id": 10351,
+      "file_name": "Realistic Conversations with natural social behaviors - No greetings compatible - longer pause between sentences-1717-2-1.7z",
+      "mod_id": 1717,
+      "hash": "sha256-f8DJ5gcCkOxTjK1LcOFQbmu8E7et6hsLx/GGRB3LQFw="
+    }
+  }
+}

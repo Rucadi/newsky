@@ -1,0 +1,83 @@
+{
+  "Vigilant Immersion Tweaks - All In One": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.00",
+      "file_id": 552719,
+      "file_name": "Vigilant Immersion Tweaks - All In One-131649-1-00-1729094301.rar",
+      "mod_id": 131649,
+      "hash": "sha256-k+EP3mJXreoiQtnQfOLkjRojY99Ny9zFIg0fBhSBZcA="
+    },
+    "type": "primary"
+  },
+  "Vigilant Immersion Tweaks - Anvil of Zenithar": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.00",
+      "file_id": 552721,
+      "file_name": "Vigilant Immersion Tweaks - Anvil of Zenithar-131649-1-00-1729094708.rar",
+      "mod_id": 131649,
+      "hash": "sha256-kU9UZ5yh3SNR3tyH/7Ma3b3K+OV71zjRHe30Xh0xS7E="
+    }
+  },
+  "Vigilant Immersion Tweaks - No Shared Chests": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.00",
+      "file_id": 552723,
+      "file_name": "Vigilant Immersion Tweaks - No Shared Chests-131649-1-00-1729094735.rar",
+      "mod_id": 131649,
+      "hash": "sha256-1vPgKtB6Y7DRiLySB5dpcrrPyRyqH6Ef3yiqqFs5HJU="
+    }
+  },
+  "Vigilant Immersion Tweaks - Altar of Nocturnal": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.00",
+      "file_id": 552725,
+      "file_name": "Vigilant Immersion Tweaks - Altar of Nocturnal-131649-1-00-1729094814.rar",
+      "mod_id": 131649,
+      "hash": "sha256-ZgBXqpSqMI0mBQ5E0zBpSDWNBRA2a4UWBP2gszMy+Ek="
+    }
+  },
+  "Vigilant Immersion Tweaks - No Debug Room": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.00",
+      "file_id": 552726,
+      "file_name": "Vigilant Immersion Tweaks - No Debug Room-131649-1-00-1729094843.rar",
+      "mod_id": 131649,
+      "hash": "sha256-g4W0wpigF57p+IsDMvVyJ37wCv727+BrjdN03quCZRY="
+    }
+  },
+  "Vigilant Immersion Tweaks - No Skip": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.00",
+      "file_id": 552727,
+      "file_name": "Vigilant Immersion Tweaks - No Skip-131649-1-00-1729094868.rar",
+      "mod_id": 131649,
+      "hash": "sha256-pmD+ItfZVvmDjONuO3XbbIgwlSNOujsbvVuect9evVU="
+    }
+  },
+  "Vigilant Immersion Tweaks - Bandit Removal": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.00",
+      "file_id": 552728,
+      "file_name": "Vigilant Immersion Tweaks - Bandit Removal-131649-1-00-1729094900.rar",
+      "mod_id": 131649,
+      "hash": "sha256-ybaeW0auAcER8ajWYvqzBEbK9F09OSOa09F16nECY0w="
+    }
+  },
+  "Vigilant Immersion Tweaks - Harder Stat Purchase": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.00",
+      "file_id": 552729,
+      "file_name": "Vigilant Immersion Tweaks - Harder Stat Purchase-131649-1-00-1729094936.rar",
+      "mod_id": 131649,
+      "hash": "sha256-nPOcSEVmyBi3SDledYgwtBzFNYI+TV4ulZj6GQrNQKE="
+    }
+  }
+}

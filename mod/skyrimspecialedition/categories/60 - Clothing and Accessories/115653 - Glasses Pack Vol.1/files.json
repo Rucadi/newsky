@@ -1,0 +1,23 @@
+{
+  "Glasses Pack - ENB Version": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1",
+      "file_id": 486678,
+      "file_name": "Glasses Pack - ENB Version-115653-1-0-1712022382.zip",
+      "mod_id": 115653,
+      "hash": "sha256-PtTcH7MIT7iNEhLOfggiiQ2TeZDT9mF2V1VM3DAXtvo="
+    }
+  },
+  "Glasses Pack vol.1": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1",
+      "file_id": 488120,
+      "file_name": "Glasses Pack vol.1-115653-1-1-1712430935.zip",
+      "mod_id": 115653,
+      "hash": "sha256-PYr6WPevEjoBWKTGjv5cpO74bwesrOg4aXB9S6V8k/M="
+    },
+    "type": "primary"
+  }
+}

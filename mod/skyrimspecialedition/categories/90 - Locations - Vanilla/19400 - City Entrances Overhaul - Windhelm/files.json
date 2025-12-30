@@ -1,0 +1,33 @@
+{
+  "Realistic Lighting Overhaul Patch ESL": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.3",
+      "file_id": 125453,
+      "file_name": "Realistic Lighting Overhaul Patch ESL-19400-1-3-1582451553.zip",
+      "mod_id": 19400,
+      "hash": "sha256-oFtNnSirn1+OWMygOu/MQbsdEBswM+KYQb8BeSQqAT4="
+    }
+  },
+  "Immersive Citizens Patch ESL": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.3.1",
+      "file_id": 192320,
+      "file_name": "Immersive Citizens Patch ESL-19400-1-4-1616167320.7z",
+      "mod_id": 19400,
+      "hash": "sha256-BxaDISpwwcfMg1W01Sd++kMjf09m6Vm9jti4ifjKImw="
+    }
+  },
+  "City Entrances Overhaul - WIndhelm": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.3.1",
+      "file_id": 192322,
+      "file_name": "City Entrances Overhaul - WIndhelm-19400-1-3-1-1616167712.7z",
+      "mod_id": 19400,
+      "hash": "sha256-FPp/lwHyjn0zmVkV4/XAdx2/hDOi4aiqdti97eyHp5s="
+    },
+    "type": "primary"
+  }
+}

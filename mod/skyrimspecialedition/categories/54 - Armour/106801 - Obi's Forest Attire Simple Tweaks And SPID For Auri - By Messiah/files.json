@@ -1,0 +1,45 @@
+{
+  "Obi's Forest Attire High Heels Patch - By Messiah": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 451173,
+      "file_name": "Obi's Forest Attire High Heels Patch - By Messiah-106801-1-0-1702391244.7z",
+      "mod_id": 106801,
+      "hash": "sha256-gDxu1608sK+w6V2Spt6vXcgDeRms+FuOLx+j9qw0jEg="
+    },
+    "type": "primary"
+  },
+  "Obi's Forest Attire Tweaks - Cloths Edition": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 451174,
+      "file_name": "Obi's Forest Attire Tweaks - Cloths Edition - By M-106801-1-0-1702391280.7z",
+      "mod_id": 106801,
+      "hash": "sha256-DlHiyOvVnZ2ZBTayVry2PMikM9rTOGK0QObyXBwYLlU="
+    },
+    "type": "primary"
+  },
+  "Obi's Forest Attire Tweaks - Light Edition": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 451176,
+      "file_name": "Obi's Forest Attire Tweaks - Light Edition - By Me-106801-1-0-1702391299.7z",
+      "mod_id": 106801,
+      "hash": "sha256-cFgJ4hTzp0L2XWwVtA1cm92bNOMulNZ92EkYSCPX79Q="
+    },
+    "type": "primary"
+  },
+  "Obi's Forest Attire - Light and High Heel Edition": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 451203,
+      "file_name": "Obi's Forest Attire - Light and High Heel Edition-106801-1-0-1702395090.7z",
+      "mod_id": 106801,
+      "hash": "sha256-fXo/sk7ghwZtKXb59Gz4icXT1NptArvj5Ayi1D6vbCU="
+    }
+  }
+}

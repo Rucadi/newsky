@@ -1,0 +1,23 @@
+{
+  "BD's Armor update - Squeeze": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1",
+      "file_id": 501754,
+      "file_name": "BD's Armor update - Squeeze-119600-1-1715880010.rar",
+      "mod_id": 119600,
+      "hash": "sha256-XxML58wy6ZIVpCb+qy2gmlstAElfC4DG5f1mt6kS+Cs="
+    }
+  },
+  "BD's Armor - Squeeze": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "2",
+      "file_id": 503100,
+      "file_name": "BD's Armor - Squeeze-119600-2-1716210432.rar",
+      "mod_id": 119600,
+      "hash": "sha256-e6J70LiyaFHB1QHt7WC0v/gtKEXtG32FafNyq8TOB7I="
+    },
+    "type": "primary"
+  }
+}

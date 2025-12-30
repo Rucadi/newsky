@@ -1,0 +1,35 @@
+{
+  "Open College - Immersive College of Winterhold": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.03",
+      "file_id": 637371,
+      "file_name": "Open College - Immersive College of Winterhold-79759-1-03-1749821748.rar",
+      "mod_id": 79759,
+      "hash": "sha256-CEPZqCfMDQsgLKx4EfeZshl0daV7/8g9MS+tbgs+eyM="
+    },
+    "type": "primary"
+  },
+  "Open College - JK's College": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.03",
+      "file_id": 637372,
+      "file_name": "Open College - JK's College-79759-1-03-1749821770.rar",
+      "mod_id": 79759,
+      "hash": "sha256-hg1poR1Gs8Hbf8MoJl4O6yNYUGA+TEgKu8DWeHEeL0A="
+    },
+    "type": "primary"
+  },
+  "Open College - JKs College - ICOW (Combo)": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.00",
+      "file_id": 637373,
+      "file_name": "Open College - JKs College - ICOW (Combo)-79759-1-00-1749821804.rar",
+      "mod_id": 79759,
+      "hash": "sha256-m4q4uhLPVs8CCyT0bZjLCMExm/BDLw823uo5Ig/YO3s="
+    },
+    "type": "primary"
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "EE - No Executions or Torso Thievery ESL Edition": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.6.9",
+      "file_id": 688580,
+      "file_name": "EE - No Executions or Torso Thievery ESL Edition-115793-1-6-9-1763403123.7z",
+      "mod_id": 115793,
+      "hash": "sha256-42nH2JxUI2Z7DSZeTHkZNOfZZ1S76sVSPu4ly8iKlME="
+    },
+    "type": "primary"
+  },
+  "EE - No Executions or Torso Thievery ESP Edition": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.6.9",
+      "file_id": 688581,
+      "file_name": "EE - No Executions or Torso Thievery ESP Edition-115793-1-6-9-1763403155.7z",
+      "mod_id": 115793,
+      "hash": "sha256-QqQbh4BzK8MCYQUfvelJHV2tdoO/l/wJlzf0KFj3nS8="
+    },
+    "type": "primary"
+  }
+}

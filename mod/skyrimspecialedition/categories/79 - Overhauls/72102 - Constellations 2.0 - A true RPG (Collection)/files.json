@@ -1,0 +1,252 @@
+{
+    "Constellations - Disable Survival Mode": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "R28",
+            "file_id": 334470,
+            "file_name": "Constellations - Disable Survival Mode-72102-R28-1669372939.rar",
+            "mod_id": 72102,
+            "hash": "sha256-QdfRC9AVEIkqgtwfepstrKbUE7ZhPQg/SgpfnP6jx3o="
+        }
+    },
+    "Constellations - Widescreen 21x9": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "R35",
+            "file_id": 352879,
+            "file_name": "Constellations - Widescreen 21_9-72102-R35-1674644946.rar",
+            "mod_id": 72102,
+            "hash": "sha256-UtU5Z6V/qltq6uNTmcCl7oZSBO1h6YBuSONKmJm3TLk="
+        }
+    },
+    "Compass Restoration - Quest Marker": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "R54",
+            "file_id": 411154,
+            "file_name": "Compass Restoration - Quest Marker-72102-R54-1690468976.rar",
+            "mod_id": 72102,
+            "hash": "sha256-BAYn92Ps0E/acAHKST6g4RHrq9Botht5gjIkEeB+RFc="
+        }
+    },
+    "Compass Restoration - Quest and Location Marker": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "R54",
+            "file_id": 411159,
+            "file_name": "Compass Restoration - Quest and Location Marker-72102-R54-1690469081.rar",
+            "mod_id": 72102,
+            "hash": "sha256-F0aRLFO1PCHirQaY89wBY0Xga1Uh/IVopn3Nsxg9eaI="
+        }
+    },
+    "Compass Restoration - Full Restoration": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "R54",
+            "file_id": 411160,
+            "file_name": "Compass Restoration - Full Restoration-72102-R54-1690469103.rar",
+            "mod_id": 72102,
+            "hash": "sha256-eytjr7OuIbpHBP+wIRNj+yx886BjKb8UQAPoEmC8yP0="
+        }
+    },
+    "Constellations - Higher Level Start": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "R83",
+            "file_id": 511009,
+            "file_name": "Constellations - Higher Level Start-72102-R83-1718228079.rar",
+            "mod_id": 72102,
+            "hash": "sha256-8DdVLkY7V9H8XMtUbZSgKFNQXYNBCPZcR1OlYn1llPA="
+        }
+    },
+    "Constellations - Nemesis Output": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "R87",
+            "file_id": 535903,
+            "file_name": "Constellations - Nemesis Output-72102-R87-1724775609.rar",
+            "mod_id": 72102,
+            "hash": "sha256-PBReg/P5ZqxHsI8cQNg6mPa0CXZTbegxIKLT0ajBZCY="
+        },
+        "type": "primary"
+    },
+    "Constellations - Hardcore Compass": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "R90",
+            "file_id": 552689,
+            "file_name": "Constellations - Hardcore Compass-72102-R90-1729087353.rar",
+            "mod_id": 72102,
+            "hash": "sha256-A/bYjvBz+iSN0yi/67xEEZru2ChmZoX1a4J1Mu1WkMY="
+        }
+    },
+    "Constellations - Gamepad Support": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "R95",
+            "file_id": 615265,
+            "file_name": "Constellations - Gamepad Support-72102-R95-1744136135.rar",
+            "mod_id": 72102,
+            "hash": "sha256-kcCS/jiHZ1WN5US9lEHo5iWozDnX76fHF9K9oxmsUuA="
+        }
+    },
+    "Constellations - Story Mode": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "R95",
+            "file_id": 615268,
+            "file_name": "Constellations - Story Mode-72102-R95-1744136242.rar",
+            "mod_id": 72102,
+            "hash": "sha256-8ymhzNhdbfakQ9QCN3DU9WXr5Utpz/QARlJ2tEU4uv4="
+        }
+    },
+    "Constellations - Hardcore HUD": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "R95",
+            "file_id": 615269,
+            "file_name": "Constellations - Hardcore HUD-72102-R95-1744136368.rar",
+            "mod_id": 72102,
+            "hash": "sha256-owM9SrNb/BEmMaQ6ZfURa3qTMTpWA/HzfOcdwfXS9LA="
+        }
+    },
+    "Constellations - DynDOLOD_Output": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "R103",
+            "file_id": 699129,
+            "file_name": "Constellations - DynDOLOD_Output-72102-R103-1766027746.rar",
+            "mod_id": 72102,
+            "hash": "sha256-cENkI/VdaR8eyXOg7VSU/qBaxcyaZWYSB0fIDG3fYL0="
+        },
+        "type": "primary"
+    },
+    "Constellations - TexGen_Output": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "R103",
+            "file_id": 699132,
+            "file_name": "Constellations - TexGen_Output-72102-R103-1766027867.rar",
+            "mod_id": 72102,
+            "hash": "sha256-XyMGg+0qeYqzQPjU6at5M1yOc5Kw3U4X+FGE0rqSW5Q="
+        },
+        "type": "primary"
+    },
+    "Constellations - xLODGen_Output": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "R103",
+            "file_id": 699134,
+            "file_name": "Constellations - xLODGen_Output-72102-R103-1766028603.rar",
+            "mod_id": 72102,
+            "hash": "sha256-xBKCLG/mPqkuQpJEr5djaQHMmstr1kyxf3DgCmAq2J4="
+        },
+        "type": "primary"
+    },
+    "Constellations - Vramr Vanilla Output": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "R103",
+            "file_id": 699140,
+            "file_name": "Constellations - Vramr Vanilla Output-72102-R103-1766030508.rar",
+            "mod_id": 72102,
+            "hash": "sha256-enVHpUJAN2WXPnx92Ky+TJ1EzODKEmNlYADFYKo+DaM="
+        }
+    },
+    "Constellations - ENB Preset": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "R103",
+            "file_id": 699143,
+            "file_name": "Constellations - ENB Preset-72102-R103-1766030697.rar",
+            "mod_id": 72102,
+            "hash": "sha256-A87vIlvXa7EwAQhs46SUUGSBQUXjMkL9jazk2EvgtOY="
+        },
+        "type": "primary"
+    },
+    "Constellations - PGPatcher_Output": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "R103",
+            "file_id": 699147,
+            "file_name": "Constellations - PGPatcher_Output-72102-R103-1766031010.rar",
+            "mod_id": 72102,
+            "hash": "sha256-/4TLguhQml/mPV3dZeeW/xghACOisFoA4hbEFNvcPPE="
+        },
+        "type": "primary"
+    },
+    "Constellations - Hardcore Survival": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "R103",
+            "file_id": 699152,
+            "file_name": "Constellations - Hardcore Survival-72102-R103-1766031278.rar",
+            "mod_id": 72102,
+            "hash": "sha256-KtzqAovTS/spB+Ju7iMOJ6lOL4WzhOBF/3/duJXwwWw="
+        }
+    },
+    "Constellations - Vramr Quality Output": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "R103",
+            "file_id": 699167,
+            "file_name": "Constellations - Vramr Quality Output-72102-R103-1766035898.rar",
+            "mod_id": 72102,
+            "hash": "sha256-qefMZYnizMt8/7eFmdx6PvnPRGukbj8tXRt8t8AkvN0="
+        },
+        "type": "primary"
+    },
+    "Constellations - ini Tweaks": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "R103",
+            "file_id": 699346,
+            "file_name": "Constellations - ini Tweaks-72102-R103-1766078908.rar",
+            "mod_id": 72102,
+            "hash": "sha256-9aj3nS8y8jBHAqWW5zw4jJdnH23tqWpykTnZ4YSn95A="
+        },
+        "type": "primary"
+    },
+    "Constellations - Performance ENB Preset": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "R106",
+            "file_id": 700519,
+            "file_name": "Constellations - Performance ENB Preset-72102-R106-1766339579.rar",
+            "mod_id": 72102,
+            "hash": "sha256-wQCyJyQFf+77co2zUlG26N0Wf7OZK/y784NuObTQLkM="
+        }
+    },
+    "Constellations - Patches": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "R106",
+            "file_id": 700566,
+            "file_name": "Constellations - Patches-72102-R106-1766345851.rar",
+            "mod_id": 72102,
+            "hash": "sha256-xvGrNDmcIc5qBsjJvhXEKy70FeSbwCpRLov9CVppkQ0="
+        },
+        "type": "primary"
+    },
+    "Constellations - Unbound Classes": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "R106",
+            "file_id": 700567,
+            "file_name": "Constellations - Unbound Classes-72102-R106-1766345869.rar",
+            "mod_id": 72102,
+            "hash": "sha256-axp92irqBpr8CNqabC99HUHPrFexuTV4xq7uo2AYUOU="
+        },
+        "type": "primary"
+    },
+    "Constellations - Hard Mode": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "R107",
+            "file_id": 700582,
+            "file_name": "Constellations - Hard Mode-72102-R107-1766348014.rar",
+            "mod_id": 72102,
+            "hash": "sha256-imXcOcqI8IRml6KkFa6VQm5RObnxa2f0fErzodm7N/I="
+        }
+    }
+}

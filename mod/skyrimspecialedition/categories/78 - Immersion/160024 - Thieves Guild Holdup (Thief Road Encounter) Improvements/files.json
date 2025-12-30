@@ -1,0 +1,23 @@
+{
+    "Thieves Guild Holdup Improvements (Russian)": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "1.3",
+            "file_id": 703174,
+            "file_name": "Thieves Guild Holdup Improvements (Russian)-160024-1-3-1766997116.7z",
+            "mod_id": 160024,
+            "hash": "sha256-m9pQt7W6c8/eLwG2gp70KkcwFu813K/iM57tpDPn2xI="
+        }
+    },
+    "Thieves Guild Holdup Improvements": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "1.3",
+            "file_id": 703175,
+            "file_name": "Thieves Guild Holdup Improvements-160024-1-3-1766997131.7z",
+            "mod_id": 160024,
+            "hash": "sha256-yeK11L1pXJ2ZNlORuft5Z4esxYydo888699FoLReTI4="
+        },
+        "type": "primary"
+    }
+}

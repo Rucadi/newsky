@@ -1,0 +1,46 @@
+{
+  "Knight's Rest - Navmesh Tweaks": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 575275,
+      "file_name": "Knight's Rest - Navmesh Tweaks-137070-1-0-1734944438.rar",
+      "mod_id": 137070,
+      "hash": "sha256-7cqcqzXrjPefgMV8+RwWbDnrKaLz1E0Jir5qETyah7g="
+    },
+    "type": "primary"
+  },
+  "Knight's Rest - Lux": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 580882,
+      "file_name": "Knight's Rest - Lux-137070-1-0-1736355860.rar",
+      "mod_id": 137070,
+      "hash": "sha256-lnyMHHYImqHGZ0NA437Q7DExYHTcKW5FPtZqyh5UAoc="
+    },
+    "type": "primary"
+  },
+  "Knight's Rest - Lux Orbis": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 580895,
+      "file_name": "Knight's Rest - Lux Orbis-137070-1-0-1736357102.rar",
+      "mod_id": 137070,
+      "hash": "sha256-OHjF+O2lI+eu4pBy0bgLMdw689QcbdgibRiGLuTPW7k="
+    },
+    "type": "primary"
+  },
+  "Knight's Rest - Lux Via": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.01",
+      "file_id": 631419,
+      "file_name": "Knight's Rest - Lux Via-137070-1-01-1748262184.rar",
+      "mod_id": 137070,
+      "hash": "sha256-zdaKobkh/s2mzcZmM42SQ3yo98g9XrZbyzyyqEjmhvI="
+    },
+    "type": "primary"
+  }
+}

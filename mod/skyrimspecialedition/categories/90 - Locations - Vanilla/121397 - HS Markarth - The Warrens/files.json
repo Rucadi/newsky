@@ -1,0 +1,43 @@
+{
+    "HSMarkarth - The Warrens": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "1.0.0",
+            "file_id": 509624,
+            "file_name": "HSMarkarth - The Warrens-121397-1-0-0-1717857972.7z",
+            "mod_id": 121397,
+            "hash": "sha256-FOgpI4Hbio/9P2w3HBAGkF+u1J3ZUW/9cQ5iwhCIMkc="
+        },
+        "type": "primary"
+    },
+    "HSMarkarth - The Warrens - AE": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "1.0.0",
+            "file_id": 509625,
+            "file_name": "HSMarkarth - The Warrens - AE-121397-1-0-0-1717858041.7z",
+            "mod_id": 121397,
+            "hash": "sha256-cfw751AqqRVRo8+4G/OdAk3sTfBiG6ism6cRekndaaQ="
+        }
+    },
+    "HSMarkarth - The Warrens - ELFX": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "1.0.0",
+            "file_id": 509626,
+            "file_name": "HSMarkarth - The Warrens - ELFX-121397-1-0-0-1717858070.7z",
+            "mod_id": 121397,
+            "hash": "sha256-DKJVuURkXdYPZZky/yFckQnn7aK1uG3W0QMVs1fh09Q="
+        }
+    },
+    "HSMarkarth - The Warrens - LUX": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "1.0.0",
+            "file_id": 509627,
+            "file_name": "HSMarkarth - The Warrens - LUX-121397-1-0-0-1717858103.7z",
+            "mod_id": 121397,
+            "hash": "sha256-ecAq8nCoemhrgePkpNO+RIBuVCtwPpbroZ4ZpECuduM="
+        }
+    }
+}

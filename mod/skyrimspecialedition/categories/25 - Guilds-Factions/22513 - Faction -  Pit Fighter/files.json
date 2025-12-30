@@ -1,0 +1,23 @@
+{
+  "Faction - Pit Fighter": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 85695,
+      "file_name": "Faction - Pit Fighter-22513-1-0-1553170280.7z",
+      "mod_id": 22513,
+      "hash": "sha256-TwbTWG2gZ7oWamZVvea8ERusfSO7tzJGimeHbdE8Wzk="
+    },
+    "type": "primary"
+  },
+  "Faction - Pit Figher Travels Add-on": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0T",
+      "file_id": 85697,
+      "file_name": "Faction - Pit Figher Travels Add-on-22513-1-0T-1553170351.7z",
+      "mod_id": 22513,
+      "hash": "sha256-a0YvFBS4esEzcYzO0UeVqqMGFch0a8uP6cR6s5Tk24I="
+    }
+  }
+}

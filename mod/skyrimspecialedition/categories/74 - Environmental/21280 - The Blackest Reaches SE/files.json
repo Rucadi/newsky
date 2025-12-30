@@ -1,0 +1,43 @@
+{
+  "Blackreach Railroad Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 211431,
+      "file_name": "Blackreach Railroad Patch-21280-1-0-1624813716.zip",
+      "mod_id": 21280,
+      "hash": "sha256-Au2jVFzKJL4fGM7XscINbsvmsLGC/DgovPaXInFy5G0="
+    }
+  },
+  "The Blackest Reaches": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1",
+      "file_id": 219081,
+      "file_name": "The Blackest Reaches-21280-1-1-1628193216.zip",
+      "mod_id": 21280,
+      "hash": "sha256-K+55cq0BKMXMGdX7JU0i51qn7C4pJ28idg/EOnfoZLo="
+    },
+    "type": "primary"
+  },
+  "The Blackest Reaches ESL": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1",
+      "file_id": 219082,
+      "file_name": "The Blackest Reaches ESL-21280-1-1-1628193262.zip",
+      "mod_id": 21280,
+      "hash": "sha256-gE6OSPoe7L+UGgJ5MMRzPfxtcAn98mdmBlJyMPj9Gpo="
+    }
+  },
+  "CACO Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1",
+      "file_id": 219815,
+      "file_name": "CACO Patch-21280-1-1-1628464684.zip",
+      "mod_id": 21280,
+      "hash": "sha256-K6PxaHeQ2ESMk8sSHIXFN5S0BnUkOcKYSiDDJiEnzYo="
+    }
+  }
+}

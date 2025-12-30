@@ -1,0 +1,23 @@
+{
+  "Pod Music Replacer": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "2.2.2",
+      "file_id": 399014,
+      "file_name": "Pod Music Replacer-63787-2-0-1687114780.zip",
+      "mod_id": 63787,
+      "hash": "sha256-BGd7w/NgCF/t0Mjeda6rBUqsGTQkuvyQvPBYHagj+v4="
+    }
+  },
+  "Auri - Remastered Audio": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "2.2.2",
+      "file_id": 697809,
+      "file_name": "Auri - Remastered Audio-63787-2-2-2-1765692003.7z",
+      "mod_id": 63787,
+      "hash": "sha256-pqLwobMp947pkY+aHB/I3SLVbYWm6BN7Bn+/zYjApfQ="
+    },
+    "type": "primary"
+  }
+}

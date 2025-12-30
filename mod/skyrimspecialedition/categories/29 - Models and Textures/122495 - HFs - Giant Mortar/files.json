@@ -1,0 +1,35 @@
+{
+  "Halffaces - Giant Mortar - 2K": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1",
+      "file_id": 514061,
+      "file_name": "Halffaces - Giant Mortar - 2K-122495-1-1719102412.zip",
+      "mod_id": 122495,
+      "hash": "sha256-C1IpCOlgisrzb5QiWIBVoorBQ0Sa/vaYA3DWYH0H3sk="
+    },
+    "type": "primary"
+  },
+  "Halffaces - Giant Mortar - 4K": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1",
+      "file_id": 514062,
+      "file_name": "Halffaces - Giant Mortar - 4K-122495-1-1719102435.zip",
+      "mod_id": 122495,
+      "hash": "sha256-139HP2LFkCX+OyVt+bTDtmWIMM1WYzXJuEKNG6r7Pb8="
+    },
+    "type": "primary"
+  },
+  "Halffaces - Giant Mortar - 1K": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1",
+      "file_id": 514445,
+      "file_name": "Halffaces - Giant Mortar - 1K-122495-1-01-1719221275.zip",
+      "mod_id": 122495,
+      "hash": "sha256-mv2YdUH8VyFXio3PHCnkUtk7550IudSj+Pir0oFskBk="
+    },
+    "type": "primary"
+  }
+}

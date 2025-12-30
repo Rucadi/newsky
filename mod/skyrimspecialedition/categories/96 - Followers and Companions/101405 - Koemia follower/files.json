@@ -1,0 +1,23 @@
+{
+  "Alternate non-AVX2 DLL": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "AltDLL",
+      "file_id": 438309,
+      "file_name": "Alternate non-AVX2 DLL-101405-AltDLL-1698666833.7z",
+      "mod_id": 101405,
+      "hash": "sha256-we+RD1C2cMVkmfTD5xdCtAWo1DfM0Qby+oQXWgKt0VU="
+    }
+  },
+  "Koemia": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": ".5.1",
+      "file_id": 560464,
+      "file_name": "Koemia-101405--5-1-1731154881.7z",
+      "mod_id": 101405,
+      "hash": "sha256-7KXtjsnphYfMKgKa1xFFJOHLy8WEdI2Su3eB7486Jsc="
+    },
+    "type": "primary"
+  }
+}

@@ -1,0 +1,65 @@
+{
+    "FaceGen - Default Face NPCs Fixed": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "4.0",
+            "file_id": 504704,
+            "file_name": "FaceGen - Default Face NPCs Fixed-40658-4-0-1716634629.7z",
+            "mod_id": 40658,
+            "hash": "sha256-DcQGDM4H6FHLTFSX+WqPyT4xjFQq+/Vc7KgV1EDRWDg="
+        }
+    },
+    "Nordic Faces - Textures and Body Meshes": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "5.0",
+            "file_id": 509230,
+            "file_name": "Nordic Faces - Textures and Body Meshes-40658-5-0-1717748221.7z",
+            "mod_id": 40658,
+            "hash": "sha256-3z4v3ZApHtJk3vqQIHUHcwxPeH/jZhSFuEVhbeRODOk="
+        },
+        "type": "primary"
+    },
+    "Nordic Faces - FaceGen - BSA": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "5.0",
+            "file_id": 509231,
+            "file_name": "Nordic Faces - FaceGen - BSA-40658-5-0-1717748563.7z",
+            "mod_id": 40658,
+            "hash": "sha256-v+fkgPUkvilgUsuPdkcJT55fO5txFmNTnIibX2ABBxQ="
+        },
+        "type": "primary"
+    },
+    "Nordic Faces - FaceGen - Loose Files": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "5.0",
+            "file_id": 509239,
+            "file_name": "Nordic Faces - FaceGen - Loose Files-40658-5-0-1717749276.7z",
+            "mod_id": 40658,
+            "hash": "sha256-1Ulyd8ZDtsBtfUskwB7kiB0Hub1NNeCNbuC/ZsE9O2s="
+        },
+        "type": "primary"
+    },
+    "Nordic Faces - FaceGen - Non-SMP": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "5.0",
+            "file_id": 509267,
+            "file_name": "Nordic Faces - FaceGen - Non-SMP-40658-5-0-1717757993.7z",
+            "mod_id": 40658,
+            "hash": "sha256-S5uS6BB2wTndNZzKDqzm0GtnLkgHaWcPA6EUqhPY46U="
+        }
+    },
+    "Nordic Faces - Eye Cubemap": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "5.0",
+            "file_id": 509778,
+            "file_name": "Nordic Faces - Eye Cubemap-40658-5-0-1717897531.7z",
+            "mod_id": 40658,
+            "hash": "sha256-G3xaUEON9FNwIkpFi5Bxn13hiFhXbEoWbENZp00WT/g="
+        }
+    }
+}

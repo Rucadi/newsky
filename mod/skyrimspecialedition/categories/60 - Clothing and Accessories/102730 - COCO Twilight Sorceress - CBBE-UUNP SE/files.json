@@ -1,0 +1,35 @@
+{
+  "COCO Twilight Sorceress - CBBE 3BA": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 435577,
+      "file_name": "COCO Twilight Sorceress - CBBE 3BA-102730-1-0-1697846040.7z",
+      "mod_id": 102730,
+      "hash": "sha256-D5IIixVP2/18TzSyjGY9XrcvQ8OkTmxfj7ucAxDtF+k="
+    },
+    "type": "primary"
+  },
+  "COCO Twilight Sorceress - COCOBody CBBE SE": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 435579,
+      "file_name": "COCO Twilight Sorceress - COCOBody CBBE SE-102730-1-0-1697846126.7z",
+      "mod_id": 102730,
+      "hash": "sha256-OvkOf3lhJaL6m80oVp337UqMPVrterYKG5dQQx35aHo="
+    },
+    "type": "primary"
+  },
+  "COCO Twilight Sorceress - COCOBody UUNP SE": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 435580,
+      "file_name": "COCO Twilight Sorceress - COCOBody UUNP SE-102730-1-0-1697846176.7z",
+      "mod_id": 102730,
+      "hash": "sha256-WKrFZ0Tck+AwFcTajwAKQVlTsGQ6yhbKdPIostr1gxk="
+    },
+    "type": "primary"
+  }
+}

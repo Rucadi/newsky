@@ -1,0 +1,23 @@
+{
+    "Werewolf Power Attack Fix": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "2.0",
+            "file_id": 653324,
+            "file_name": "Werewolf Power Attack Fix-121275-2-0-1754490444.zip",
+            "mod_id": 121275,
+            "hash": "sha256-WcYOzxZMViQTKEi19toRo+umj58+jFbvve1ciVg1wUw="
+        },
+        "type": "primary"
+    },
+    "Werewolf Power Attack Fix - Violens Patch": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "2.0",
+            "file_id": 653325,
+            "file_name": "Werewolf Power Attack Fix - Violens Patch-121275-2-0-1754490477.zip",
+            "mod_id": 121275,
+            "hash": "sha256-5y2U97JrU7ThmClAE/O3bQB8HtjruU9vmBvoKONBfvk="
+        }
+    }
+}

@@ -1,0 +1,24 @@
+{
+  "Spriggans 2K": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1",
+      "file_id": 376527,
+      "file_name": "Spriggans 2K-88290-1-1-1681008939.7z",
+      "mod_id": 88290,
+      "hash": "sha256-no2aotZ2U7nrlaMSD5+kRzTWGp4kGqAEZar3nQC+rms="
+    },
+    "type": "primary"
+  },
+  "Spriggans 4K": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1",
+      "file_id": 376528,
+      "file_name": "Spriggans 4K-88290-1-1-1681008940.7z",
+      "mod_id": 88290,
+      "hash": "sha256-7ppV6PTZJTsMFvowp230DDgrthV9CPWs8T/pxPGYjy8="
+    },
+    "type": "primary"
+  }
+}

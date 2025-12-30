@@ -1,0 +1,35 @@
+{
+    "SMP Wind 640": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "2.3.0-640",
+            "file_id": 465060,
+            "file_name": "SMP Wind 640-76776-2-3-0-640-1706288985.7z",
+            "mod_id": 76776,
+            "hash": "sha256-vO3mXhfD3Iu76gZ5CD+yNmDhkc2lYWI2/VbzNKoGOiA="
+        },
+        "type": "primary"
+    },
+    "SMP Wind 1130": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "2.3.0-1130",
+            "file_id": 465061,
+            "file_name": "SMP Wind 1130-76776-2-3-0-1130-1706289027.7z",
+            "mod_id": 76776,
+            "hash": "sha256-1NJVWKiJ1M7hIrkx2oiuB5DkWXlkxNvwVn34dIiwOZ8="
+        },
+        "type": "primary"
+    },
+    "SMP Wind 1170": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "2.3.0-1170",
+            "file_id": 465062,
+            "file_name": "SMP Wind 1170-76776-2-3-0-1170-1706289067.7z",
+            "mod_id": 76776,
+            "hash": "sha256-6hJDqJD32fxfXt4K696+s3NN8eSHNljwEg97ihm1qfI="
+        },
+        "type": "primary"
+    }
+}

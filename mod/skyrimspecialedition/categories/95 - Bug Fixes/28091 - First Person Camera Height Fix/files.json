@@ -1,0 +1,23 @@
+{
+  "First Person Camera Height Fix": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.2.2",
+      "file_id": 103768,
+      "file_name": "First Person Camera Height Fix-28091-1-2-2-1566328918.7z",
+      "mod_id": 28091,
+      "hash": "sha256-UbZ4IMDYoZ/sg+iUAONhJ2yJ89Twc3D61WyPqK9E/4U="
+    },
+    "type": "primary"
+  },
+  "First Person Camera Height Fix - RaceMenu High Heels": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.2.2",
+      "file_id": 103769,
+      "file_name": "First Person Camera Height Fix - RaceMenu High Heels-28091-1-2-2-1566328986.7z",
+      "mod_id": 28091,
+      "hash": "sha256-1oenfcZtZy1VBxoRJTwpZdfba8q7m1NY2IWEI9udJ4c="
+    }
+  }
+}

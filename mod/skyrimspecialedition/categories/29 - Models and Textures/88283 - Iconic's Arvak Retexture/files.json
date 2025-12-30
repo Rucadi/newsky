@@ -1,0 +1,24 @@
+{
+  "Arvak 2K": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1",
+      "file_id": 376449,
+      "file_name": "Arvak 2K-88283-1-1-1680986883.7z",
+      "mod_id": 88283,
+      "hash": "sha256-nlcjytBfBm58vIRcGqNeg0D/ovEBx7hvZNqhnd37Xso="
+    },
+    "type": "primary"
+  },
+  "Arvak 4K": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1",
+      "file_id": 376450,
+      "file_name": "Arvak 4K-88283-1-1-1680986885.7z",
+      "mod_id": 88283,
+      "hash": "sha256-9YuJ56NGXcfSpXXiN1ji5mHNACvjaN+SxLDOK1JiEYE="
+    },
+    "type": "primary"
+  }
+}

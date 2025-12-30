@@ -1,0 +1,53 @@
+{
+    "HSWhiterun - The Bannered Mare": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "2.0.0",
+            "file_id": 468617,
+            "file_name": "HSWhiterun - The Bannered Mare-90657-2-0-0-1707316532.7z",
+            "mod_id": 90657,
+            "hash": "sha256-Eu1B+BIiJI+PYOxrN+MODe1F1sYqHY5pR6ocK0lgwFA="
+        },
+        "type": "primary"
+    },
+    "HSWhiterun - The Bannered Mare - ELFX": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "2.0.0",
+            "file_id": 468618,
+            "file_name": "HSWhiterun - The Bannered Mare - ELFX-90657-2-0-0-1707316560.7z",
+            "mod_id": 90657,
+            "hash": "sha256-o3XuobN44PagEzZEFpnPF9b6jpQrV8e5DsQLXfpmwr8="
+        }
+    },
+    "HSWhiterun - The Bannered Mare - IC": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "2.0.0",
+            "file_id": 468619,
+            "file_name": "HSWhiterun - The Bannered Mare - IC-90657-2-0-0-1707316591.7z",
+            "mod_id": 90657,
+            "hash": "sha256-t/pWWwwXx2KqtZjynOzoUH601O5Wm2a1avN2ALtORsU="
+        }
+    },
+    "HSWhiterun - The Bannered Mare - LUX": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "2.0.0",
+            "file_id": 468620,
+            "file_name": "HSWhiterun - The Bannered Mare - LUX-90657-2-0-0-1707316622.7z",
+            "mod_id": 90657,
+            "hash": "sha256-qHur5KaOE2p9GE7Or8XEkFP6fY2B20tNEKqSGJ1EHGk="
+        }
+    },
+    "HSWhiterun - The Bannered Mare - LOTD": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "2.0.0",
+            "file_id": 468623,
+            "file_name": "HSWhiterun - The Bannered Mare - LOTD-90657-2-0-0-1707316677.7z",
+            "mod_id": 90657,
+            "hash": "sha256-Dg7vwXu7gh6PwcWQTK5UV18frqm7444luymyqLuy79Y="
+        }
+    }
+}

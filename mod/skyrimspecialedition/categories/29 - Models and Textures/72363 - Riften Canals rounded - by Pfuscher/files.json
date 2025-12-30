@@ -1,0 +1,24 @@
+{
+  "- Riften canals - Rounded by Pfuscher": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 303298,
+      "file_name": "Riften canals - Rounded by Pfuscher-72363-1-0-1659171605.7z",
+      "mod_id": 72363,
+      "hash": "sha256-JZzeR7SyCYBSY6OPuDB/ypcGZhGqC2j3AhwVuXDUSfo="
+    },
+    "type": "primary"
+  },
+  "Lux Orbis patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 303549,
+      "file_name": "Lux Orbis patch-72363-1-0-1659262660.7z",
+      "mod_id": 72363,
+      "hash": "sha256-5ZB+CJqO5E/PRdKNH9g59aRMKBKKyE1S26PnVMjeTWY="
+    },
+    "type": "primary"
+  }
+}

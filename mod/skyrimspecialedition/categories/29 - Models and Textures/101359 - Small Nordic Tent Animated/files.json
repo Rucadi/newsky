@@ -1,0 +1,33 @@
+{
+  "Small Nordic Tent Replacer - Animated": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0.1",
+      "file_id": 429139,
+      "file_name": "Small Nordic Tent Replacer - Animated-101359-1-0-1-1695735937.7z",
+      "mod_id": 101359,
+      "hash": "sha256-KSXIfoWoznJGtcPXTahES0g0iyuTNZTZym4pXJxsKec="
+    },
+    "type": "primary"
+  },
+  "Tent -No Collision - Rally's Mesh": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 430889,
+      "file_name": "Tent -No Collision-101359-1-0-1696348129.7z",
+      "mod_id": 101359,
+      "hash": "sha256-0/CmW1LJUSc8rzF9yK3LEOE/EkxmT/45dcljTfcYLXY="
+    }
+  },
+  "Tent -No Collision - JPSteel2's Mesh": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 431607,
+      "file_name": "Tent -No Collision - JPSteel2's Mesh-101359-1-0-1696601012.7z",
+      "mod_id": 101359,
+      "hash": "sha256-hiJZBMTPzBlMn1MXq4IWRoWWLWhHizzkSIR1CQZ5HvI="
+    }
+  }
+}

@@ -1,0 +1,65 @@
+{
+  "Embers XD - Legacy Compatibility Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 409403,
+      "file_name": "Embers XD - Legacy Compatibility Patch-37085-1-0-1690017284.zip",
+      "mod_id": 37085,
+      "hash": "sha256-pwibXVzZwYNW84qhsPdPvOpm/aCdMbPBJRV3iVm1i+E="
+    }
+  },
+  "Embers XD - Glow Maps for ENB": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.02",
+      "file_id": 571390,
+      "file_name": "Embers XD - Glow Maps for ENB-37085-1-02-1733936919.zip",
+      "mod_id": 37085,
+      "hash": "sha256-mGEBAm6fWJlwkkj1fteilxwsKRyGJ185V+mp8PGP0GE="
+    }
+  },
+  "Embers XD": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "3.1.9",
+      "file_id": 689663,
+      "file_name": "Embers XD-37085-3-1-9-1763737106.zip",
+      "mod_id": 37085,
+      "hash": "sha256-nf3r6n0l/TUtAxY0M2c/H+eF4WFM4ZSSXyI2/7wwCr0="
+    },
+    "type": "primary"
+  },
+  "Embers XD 2K": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "3.1.9",
+      "file_id": 689666,
+      "file_name": "Embers XD 2K-37085-3-1-9-1763737256.zip",
+      "mod_id": 37085,
+      "hash": "sha256-IG4LxfQOw0vknZrqBKAJNkuHE3woaCmwmOWwockU41Y="
+    },
+    "type": "primary"
+  },
+  "Embers XD 1K": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "3.1.9",
+      "file_id": 689667,
+      "file_name": "Embers XD 1K-37085-3-1-9-1763737313.zip",
+      "mod_id": 37085,
+      "hash": "sha256-Vn0GHbNfi6488Mel2lIqMd0XnsAt5/qwQweD36ycOAI="
+    },
+    "type": "primary"
+  },
+  "Embers XD - Patch - Gourmet": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 691807,
+      "file_name": "Embers XD - Patch - Gourmet-37085-1-0-1764260238.zip",
+      "mod_id": 37085,
+      "hash": "sha256-B/oFsNyljpO7s+0fjH80KY4R/9VuVxFQ2moAAC82bFU="
+    }
+  }
+}

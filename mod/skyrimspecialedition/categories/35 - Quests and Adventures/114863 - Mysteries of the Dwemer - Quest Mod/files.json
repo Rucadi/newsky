@@ -1,0 +1,24 @@
+{
+  "Mysteries of the Dwemer - ESL - 1.0.3": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0.3",
+      "file_id": 619798,
+      "file_name": "Mysteries of the Dwemer - ESL - 1.0.3-114863-1-0-3-1745245714.7z",
+      "mod_id": 114863,
+      "hash": "sha256-yt02MkAtphfyL4eVSocT/lnd4xMXZcnFvhXY3kIGDHs="
+    },
+    "type": "primary"
+  },
+  "Mysteries of the Dwemer - ESL - Non - FSMP - 1.0.3": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0.3",
+      "file_id": 619801,
+      "file_name": "Mysteries of the Dwemer - ESL - Non - FSMP - 1.0.3-114863-1-0-3-1745245848.7z",
+      "mod_id": 114863,
+      "hash": "sha256-J4riE8OnzDcXsp9fUw4vSbsK7PS4KkAUrOgoy80yFbw="
+    },
+    "type": "primary"
+  }
+}

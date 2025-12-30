@@ -1,0 +1,33 @@
+{
+    "HSWhiterun - Carlotta Valentia's House": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "1.0.0",
+            "file_id": 394504,
+            "file_name": "HSWhiterun - Carlotta Valentia's House-92734-1-0-0-1685768677.7z",
+            "mod_id": 92734,
+            "hash": "sha256-q/wRaZTEsbi9COPGfjRB5DyTxitQZMB9Vkf6s2HHQkI="
+        },
+        "type": "primary"
+    },
+    "HSWhiterun - Carlotta Valentia's House - ELFX": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "1.0.0",
+            "file_id": 394505,
+            "file_name": "HSWhiterun - Carlotta Valentia's House - ELFX-92734-1-0-0-1685768698.7z",
+            "mod_id": 92734,
+            "hash": "sha256-kvXUTRhSqzcR4sz8IL+s50Qbs5/ME1Cdhf8wKAyYECQ="
+        }
+    },
+    "HSWhiterun - Carlotta Valentia's House - LUX": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "1.0.0",
+            "file_id": 394506,
+            "file_name": "HSWhiterun - Carlotta Valentia's House - LUX-92734-1-0-0-1685768720.7z",
+            "mod_id": 92734,
+            "hash": "sha256-KQWfTFXfpbrSeK4JHGhQ5EkeLDH+wAyu/yIwYbj5bGA="
+        }
+    }
+}

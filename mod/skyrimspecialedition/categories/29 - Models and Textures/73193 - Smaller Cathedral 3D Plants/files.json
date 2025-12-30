@@ -1,0 +1,74 @@
+{
+  "Smaller Cathedral 3D Plants _ Subtypes Of Snowberries _ Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 328433,
+      "file_name": "Smaller Cathedral 3D Plants _ Subtypes Of Snowberries _ Patch-73193-1-0-1667410393.rar",
+      "mod_id": 73193,
+      "hash": "sha256-ZS/9vK/McTqOlkZxvL2IHUbUhSCTZgMago20IHDsm6M="
+    }
+  },
+  "Plump Cathedral 3D Tundra Cotton and Deathbell _ Smaller Cathedral 3D Plants _ Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 333706,
+      "file_name": "Plump Cathedral 3D Tundra Cotton and Deathbell _ Smaller Cathedral 3D Plants _ Patch-73193-1-0-1669117057.rar",
+      "mod_id": 73193,
+      "hash": "sha256-hU6lnt9f6lYKOPC612NYV3HanNwSMzwK4w3KRDlCqQU="
+    }
+  },
+  "Smaller Cathedral 3D Deathbell ENB Light Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 348300,
+      "file_name": "Smaller Cathedral 3D Deathbell ENB Light Patch-73193-1-0-1673355033.rar",
+      "mod_id": 73193,
+      "hash": "sha256-x/moLvZl9sZBuppRnBlRmC2Qt4getHA+NrFC05gc4eE="
+    }
+  },
+  "Smaller Cathedral 3D Deathbell ENB Light Patch _ With Glowmap": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 348301,
+      "file_name": "Smaller Cathedral 3D Deathbell ENB Light Patch _ With Glowmap-73193-1-0-1673355179.rar",
+      "mod_id": 73193,
+      "hash": "sha256-POuiYlYxWD26qxcaFNIbxF4SfzYPg1a2I04WWwt/quw="
+    }
+  },
+  "Smaller Cathedral 3D Deathbell ENB Light Patch _ With Glowmap _ Less intensive": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 348304,
+      "file_name": "Smaller Cathedral 3D Deathbell ENB Light Patch _ With Glowmap _ Less intensive-73193-1-0-1673355286.rar",
+      "mod_id": 73193,
+      "hash": "sha256-qhMYllaU25+xgOwlscslecyF2eEDC5Cn9oG5XSWVfi0="
+    }
+  },
+  "Smaller Cathedral 3D Plants - Mesh Replacer": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.8",
+      "file_id": 473309,
+      "file_name": "Smaller Cathedral 3D Plants - Mesh Replacer-73193-1-8-1708546113.rar",
+      "mod_id": 73193,
+      "hash": "sha256-/0DPMKxKMHez1n8NqKaXV1jtLW8J0utTAXrqHO2tqRc="
+    },
+    "type": "primary"
+  },
+  "Smaller Cathedral 3D Plants - Base Object Swapper": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.8.1",
+      "file_id": 484641,
+      "file_name": "Smaller Cathedral 3D Plants - Base Object Swapper-73193-1-8-1-1711555821.rar",
+      "mod_id": 73193,
+      "hash": "sha256-jkZNmaMpZxEOD6+sKGxhUSLGWMqe90zitEppQrIdMqo="
+    },
+    "type": "primary"
+  }
+}

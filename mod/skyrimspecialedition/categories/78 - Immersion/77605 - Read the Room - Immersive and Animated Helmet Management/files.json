@@ -1,0 +1,23 @@
+{
+  "Headhunter Bounty by Mura (Read the Room Edit)": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 326708,
+      "file_name": "Headhunter Bounty by Mura (Read the Room Edit)-77605-1-0-1666799696.rar",
+      "mod_id": 77605,
+      "hash": "sha256-a4JD5gL6lMJ7XftxSMLtA7StSYubBSQYyCLqCcvshj4="
+    }
+  },
+  "Read the Room": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "2.2.1",
+      "file_id": 345938,
+      "file_name": "Read the Room-77605-2-2-1-1672677771.rar",
+      "mod_id": 77605,
+      "hash": "sha256-959TuXv9eOQFaxS4gdh8BnvQiBdtdjMMmmqAZTcFLiU="
+    },
+    "type": "primary"
+  }
+}

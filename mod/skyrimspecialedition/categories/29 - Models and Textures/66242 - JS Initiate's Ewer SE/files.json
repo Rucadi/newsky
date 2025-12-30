@@ -1,0 +1,34 @@
+{
+  "JS Initiate's Ewer SE - 2k Textures": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1",
+      "file_id": 303364,
+      "file_name": "JS Initiate's Ewer SE - 2k Textures-66242-1-1-1659200844.7z",
+      "mod_id": 66242,
+      "hash": "sha256-1mk0WS2HSyMF8K9w9YrEEHprMZJ5/Tn02JKAEODokP8="
+    },
+    "type": "primary"
+  },
+  "JS Initiate's Ewer SE - 4k Textures": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1",
+      "file_id": 303367,
+      "file_name": "JS Initiate's Ewer SE - 4k Textures-66242-1-1-1659200876.7z",
+      "mod_id": 66242,
+      "hash": "sha256-GnnwrbIH/ZAmYISMPqYuxBJioIU+ViYPhJuZGkPJTeE="
+    },
+    "type": "primary"
+  },
+  "JS Initiate's Ewer SE - Chantry of Auriel Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 433914,
+      "file_name": "JS Initiate's Ewer SE - Chantry of Auriel Patch-66242-1-0-1697304644.7z",
+      "mod_id": 66242,
+      "hash": "sha256-l9c9DVD758KVlHEhcouFyD3SZwtRu/7qBQ5wwO7ESyQ="
+    }
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "Seasonal Landscapes - Performance Grass Textures (2K)": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 323325,
+      "file_name": "Seasonal Landscapes - Performance Grass Textures (2K)-66903-1-0-1665506006.7z",
+      "mod_id": 66903,
+      "hash": "sha256-1QnnQ7vkTJTOWywa8h4ljl6dpRvcZpLDfZEjQoZhjWE="
+    }
+  },
+  "Seasonal Landscapes - Performance Grass Textures (1K)": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 323326,
+      "file_name": "Seasonal Landscapes - Performance Grass Textures (1K)-66903-1-0-1665506051.7z",
+      "mod_id": 66903,
+      "hash": "sha256-gorKtyDWeUI1goIN0fHH6QjKvfJbcnn/GZZM+iyNVNU="
+    }
+  },
+  "Seasonal Landscapes": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.18",
+      "file_id": 377983,
+      "file_name": "Seasonal Landscapes-66903-1-18-1681416208.7z",
+      "mod_id": 66903,
+      "hash": "sha256-z+vdzYiaAp1ppj4WO+Qv9JrOHgSV8hc1fb6Pbl4q2Ok="
+    },
+    "type": "primary"
+  }
+}

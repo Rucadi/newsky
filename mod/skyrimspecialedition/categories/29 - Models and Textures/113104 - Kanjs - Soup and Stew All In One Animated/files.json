@@ -1,0 +1,35 @@
+{
+    "Kanjs - AIO Soup and Stew SE 4K": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "1",
+            "file_id": 477064,
+            "file_name": "Kanjs - AIO Soup and Stew SE 4K-113104-1-1709593543.zip",
+            "mod_id": 113104,
+            "hash": "sha256-CXDrxK/VD3SW/yqWXJA21Gxtl2aWAtmAjkQh4y/dbrE="
+        },
+        "type": "primary"
+    },
+    "Kanjs - AIO Soup and Stew se 2k": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "1",
+            "file_id": 477065,
+            "file_name": "Kanjs - AIO Soup and Stew se 2k-113104-1-1709593568.zip",
+            "mod_id": 113104,
+            "hash": "sha256-JY0D5laDA6ds+dI+r30A0RKGSmvjrNcEDR7FM4Imc24="
+        },
+        "type": "primary"
+    },
+    "Kanjs - AIO Soup and Stew se 1k": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "1",
+            "file_id": 477066,
+            "file_name": "Kanjs - AIO Soup and Stew se 1k-113104-1-1709593579.zip",
+            "mod_id": 113104,
+            "hash": "sha256-TeICW3Ghb2E519fgS8DXlmDDYRxfmMVygpQWAoDxxUM="
+        },
+        "type": "primary"
+    }
+}

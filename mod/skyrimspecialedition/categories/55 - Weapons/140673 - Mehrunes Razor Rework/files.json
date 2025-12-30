@@ -1,0 +1,23 @@
+{
+  "MehrunesRazor Rework 1.01": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.01",
+      "file_id": 606348,
+      "file_name": "MehrunesRazor Rework 1.01-140673-1-01-1742134542.zip",
+      "mod_id": 140673,
+      "hash": "sha256-K6sfsmos080nclYic67HnLefwDP69myrKaoKw57RYiI="
+    },
+    "type": "primary"
+  },
+  "MehrunesRazorRework 1.01 CHS": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.01",
+      "file_id": 606350,
+      "file_name": "MehrunesRazorRework 1.01 CHS-140673-1-01-1742134615.zip",
+      "mod_id": 140673,
+      "hash": "sha256-lMi6jyCPpTZ+RqQqrVCeuB5E9tWGMkGEKrkOsFmySPI="
+    }
+  }
+}

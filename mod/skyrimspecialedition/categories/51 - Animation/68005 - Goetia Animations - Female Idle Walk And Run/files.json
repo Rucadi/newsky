@@ -1,0 +1,23 @@
+{
+  "Goetia Animations - Female Idle Walk And Run": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.2",
+      "file_id": 295055,
+      "file_name": "Goetia Animations - Female Idle Walk And Run-68005-1-2-1656538843.7z",
+      "mod_id": 68005,
+      "hash": "sha256-NlqlqLBORmvAsUmF4He2bUdtYHGMBKKeHfrIq6Ipfi8="
+    },
+    "type": "primary"
+  },
+  "CATA Addon - Goetia female idle Walk Run": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.2c",
+      "file_id": 400900,
+      "file_name": "CATA Addon - Goetia female idle Walk Run-68005-1-2c-1687702348.7z",
+      "mod_id": 68005,
+      "hash": "sha256-3wOg33Ec1eGAdPsRIrzQMlcV0aDPmh/KSnmuCtt91tM="
+    }
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "VRAMr Single Mod Optimiser": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "v1.14",
+      "file_id": 486802,
+      "file_name": "VRAMr Single Mod Optimiser-90557-v1-14-1712065478.zip",
+      "mod_id": 90557,
+      "hash": "sha256-A1yL5JX9jL6hhNz0wJRPLKkEq7FlXKgz3F/o1rV38QQ="
+    }
+  },
+  "Vortex Setup Guide": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "v1.0",
+      "file_id": 622928,
+      "file_name": "Vortex Setup Guide-90557-v1-0-1746200412.zip",
+      "mod_id": 90557,
+      "hash": "sha256-5jc2xnsqKL3ST/iAllgCCILiYaxVBZwFSR4Y1suZ6IQ="
+    }
+  },
+  "VRAMr": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "v15.0723",
+      "file_id": 649526,
+      "file_name": "VRAMr-90557-v15-0723-1753265364.zip",
+      "mod_id": 90557,
+      "hash": "sha256-KeUlbAJliMGZTqvU6OwxNwpFaqoXD6fDVbKDwG957IE="
+    },
+    "type": "primary"
+  }
+}

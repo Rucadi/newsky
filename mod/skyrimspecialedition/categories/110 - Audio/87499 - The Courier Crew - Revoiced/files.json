@@ -1,0 +1,23 @@
+{
+  "The Courier Crew - Revoiced": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 370598,
+      "file_name": "The Courier Crew - Revoiced-87499-1-0-1679380047.7z",
+      "mod_id": 87499,
+      "hash": "sha256-1FDN8ImB3awAYZaenPXlMGKYYwHUstmvLzO0WkJfJu4="
+    },
+    "type": "primary"
+  },
+  "The Courier Crew and Courier Delivers to NPCs - Revoiced": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 370611,
+      "file_name": "The Courier Crew and Courier Delivers to NPCs - Revoiced-87499-1-0-1679386103.7z",
+      "mod_id": 87499,
+      "hash": "sha256-Vw2L94KGWmK1hk/YEdGv1bIh6NYLoNkHbm03Ri+rPqk="
+    }
+  }
+}

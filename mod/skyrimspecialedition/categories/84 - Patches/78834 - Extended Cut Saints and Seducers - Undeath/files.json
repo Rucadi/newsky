@@ -1,0 +1,24 @@
+{
+  "Extended Cut Saints and Seducers - Undeath": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.00",
+      "file_id": 332066,
+      "file_name": "Extended Cut Saints and Seducers - Undeath-78834-1-00-1668524568.rar",
+      "mod_id": 78834,
+      "hash": "sha256-KnCWh7r0y8zint0rUAmx7RRWdkcdIRAwU4YPrviqA/g="
+    },
+    "type": "primary"
+  },
+  "Extended Cut Saints and Seducers - Undeath - Bruma": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.01",
+      "file_id": 384555,
+      "file_name": "Extended Cut Saints and Seducers - Undeath - Bruma-78834-1-01-1683196931.rar",
+      "mod_id": 78834,
+      "hash": "sha256-mWCGbCjpiJcLBN5vQslNlbrWZ6qVcJI5d+A5r5bpbrk="
+    },
+    "type": "primary"
+  }
+}

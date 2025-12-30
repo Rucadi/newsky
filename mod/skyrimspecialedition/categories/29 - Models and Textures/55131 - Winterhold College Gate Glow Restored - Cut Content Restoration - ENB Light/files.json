@@ -1,0 +1,24 @@
+{
+  "EVE - Winterhold College Gate Glow Restored - Cut Content Restoration": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 226286,
+      "file_name": "EVE - Winterhold Gate Glow Restored - Cut Content Restoration-55131-1-0-1630844272.7z",
+      "mod_id": 55131,
+      "hash": "sha256-Snqm+VCip0R3fy+KGila53ZBnupS7YavN2iqvU/6mRo="
+    },
+    "type": "primary"
+  },
+  "ENB Light version by simmice": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0.1",
+      "file_id": 555304,
+      "file_name": "ENB Light version by simmice-55131-1-00-1729830458.7z",
+      "mod_id": 55131,
+      "hash": "sha256-7q7Q08xIDqU3kjp3F1I+QsIlVdUqE2czgAyskcQyD1s="
+    },
+    "type": "primary"
+  }
+}

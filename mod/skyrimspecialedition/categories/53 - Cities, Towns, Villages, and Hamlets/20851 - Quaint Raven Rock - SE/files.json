@@ -1,0 +1,23 @@
+{
+  "Patch - Clockwork - ESL": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.2",
+      "file_id": 70808,
+      "file_name": "Patch - Clockwork - ESL-20851-1-2-1540912252.7z",
+      "mod_id": 20851,
+      "hash": "sha256-6IgWNcCQ8nJUcohsyTfs+m8GDKIsd1c4jscU+AleE3c="
+    }
+  },
+  "Quaint Raven Rock": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.7.1",
+      "file_id": 174328,
+      "file_name": "Quaint Raven Rock-20851-1-7-1-1607843475.7z",
+      "mod_id": 20851,
+      "hash": "sha256-SNhfklTFZKEDAMf+xzbATwoUwuhGksObAloWO6fX9Bk="
+    },
+    "type": "primary"
+  }
+}

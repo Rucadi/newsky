@@ -1,0 +1,43 @@
+{
+  "HSRiften - Elgrim's Elixirs": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0.0",
+      "file_id": 439677,
+      "file_name": "HSRiften - Elgrim's Elixirs-104001-1-0-0-1699084441.7z",
+      "mod_id": 104001,
+      "hash": "sha256-v9pamVji7CAjfHQNZ0Q7R/Ugq35oFF2e8JsWEPpPHRY="
+    },
+    "type": "primary"
+  },
+  "HSRiften - Elgrim's Elixirs - ELFX": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0.0",
+      "file_id": 439678,
+      "file_name": "HSRiften - Elgrim's Elixirs - ELFX-104001-1-0-0-1699084467.7z",
+      "mod_id": 104001,
+      "hash": "sha256-/zm4+uTd1/Sa6fM54KM3eGaHsNw3NC6knPxqW9FSBFI="
+    }
+  },
+  "HSRiften - Elgrim's Elixirs - LUX": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0.0",
+      "file_id": 439679,
+      "file_name": "HSRiften - Elgrim's Elixirs - LUX-104001-1-0-0-1699084509.7z",
+      "mod_id": 104001,
+      "hash": "sha256-ddnoKmOFry3Qr72RkXna8oGMEfVfKc3aoqbdHU20oj8="
+    }
+  },
+  "HSRiften - Elgrim's Elixirs - LOTD": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0.0",
+      "file_id": 441653,
+      "file_name": "HSRiften - Elgrim's Elixirs - LOTD-104001-1-0-0-1699689607.7z",
+      "mod_id": 104001,
+      "hash": "sha256-lK6xRT4WuT2ju2YqLLbi1oULtUceeiIOGppE6DK/CBo="
+    }
+  }
+}

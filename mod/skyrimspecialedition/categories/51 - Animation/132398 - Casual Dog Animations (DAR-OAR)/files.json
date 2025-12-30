@@ -1,0 +1,23 @@
+{
+  "Playful Dog Animations DAR-OAR": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0.0",
+      "file_id": 555860,
+      "file_name": "Playful Dog Animations SE-132398-1-0-0-1729982604.zip",
+      "mod_id": 132398,
+      "hash": "sha256-E/3cVVl3VZ8m63fECAR0cM//QJPuXph1dR9uCNHDFY4="
+    }
+  },
+  "Casual Dog Animations DAR-OAR": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0.02",
+      "file_id": 555931,
+      "file_name": "Casual Dog Animations DAR-OAR-132398-1-0-02-1729996212.zip",
+      "mod_id": 132398,
+      "hash": "sha256-yBEpCbyiW/xT8Q2z2rU7eX2WfykQtvcKjzRxx6hJt/c="
+    },
+    "type": "primary"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "Modpocalypse NPCs (v1) Beyond Skyrim Wares of Tamriel": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 233575,
+      "file_name": "Modpocalypse NPCs (v1) Beyond Skyrim Wares of Tamriel-56798-1-0-1633741680.7z",
+      "mod_id": 56798,
+      "hash": "sha256-+mb7+X9TjkHWnu4uRnh14OWvwOHtTY7VzDJBZ5HH3Do="
+    },
+    "type": "primary"
+  },
+  "Modpocalypse NPCs (v2) Beyond Skyrim Wares of Tamriel": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 233576,
+      "file_name": "Modpocalypse NPCs (v2) Beyond Skyrim Wares of Tamriel-56798-1-0-1633741694.7z",
+      "mod_id": 56798,
+      "hash": "sha256-7afoBxC46mOdlroRIgPn/rflCxsJn6Lq08yzdqmuMm0="
+    },
+    "type": "primary"
+  },
+  "Modpocalypse NPCs (v3) Beyond Skyrim Wares of Tamriel": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 233577,
+      "file_name": "Modpocalypse NPCs (v3) Beyond Skyrim Wares of Tamriel-56798-1-0-1633741708.7z",
+      "mod_id": 56798,
+      "hash": "sha256-JU41NgnJW9ItXJOSYTpuHE6sF2mY6r6krQ9FsbKQNv4="
+    },
+    "type": "primary"
+  }
+}

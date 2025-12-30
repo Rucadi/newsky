@@ -1,0 +1,23 @@
+{
+  "Fluffspansion - Optional ESPs": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 557356,
+      "file_name": "Fluffspansion - Optional ESPs-88138-1-0-1730339011.7z",
+      "mod_id": 88138,
+      "hash": "sha256-EhhuGTTl7pmaeXHCn83KLLvf/I2emc7nCy6/wik54R4="
+    }
+  },
+  "Fluffworks - Tweaks and Expansion": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "4.4",
+      "file_id": 688681,
+      "file_name": "Fluffworks - Tweaks and Expansion-88138-4-4-1763438953.7z",
+      "mod_id": 88138,
+      "hash": "sha256-EWOkzWk6RZlNgdcDAsvJ8gv5N2AnuGU+a9L5tnTsnxk="
+    },
+    "type": "primary"
+  }
+}

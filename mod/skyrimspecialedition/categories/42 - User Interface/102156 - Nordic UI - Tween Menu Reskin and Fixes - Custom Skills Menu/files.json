@@ -1,0 +1,34 @@
+{
+  "Custom Skills Menu - Abilities Translation": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "2.1",
+      "file_id": 601464,
+      "file_name": "Custom Skills Menu - Abilities Translation-102156-2-0-1741030792.7z",
+      "mod_id": 102156,
+      "hash": "sha256-kQlubSe9XFXBbaTz4WLiOyNkGDiq1KqHdsykl98Uevc="
+    }
+  },
+  "Nordic UI - Tween Menu Reskin and Fixes - Original": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "2.1.1",
+      "file_id": 681319,
+      "file_name": "Nordic UI - Tween Menu Reskin and Fixes - Original-102156-2-1-1-1761664245.zip",
+      "mod_id": 102156,
+      "hash": "sha256-3R11TDM2vLxn4yxuBdeB8KgG+6RiZjtJvaj2nOn/GZw="
+    },
+    "type": "primary"
+  },
+  "Nordic UI - Tween Menu Reskin and Fixes - Redesign": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "2.1.1",
+      "file_id": 681320,
+      "file_name": "Nordic UI - Tween Menu Reskin and Fixes - Redesign-102156-2-2-1-1761664270.zip",
+      "mod_id": 102156,
+      "hash": "sha256-V8yINN0q0g2DzuMSfYJA9H4OX6uc1J8FOKclS90vC8Y="
+    },
+    "type": "primary"
+  }
+}

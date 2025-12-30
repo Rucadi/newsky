@@ -1,0 +1,23 @@
+{
+    "Minor Arcana - Heart of the Reach": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "1.00",
+            "file_id": 323278,
+            "file_name": "Minor Arcana - Heart of the Reach-76940-1-00-1665491037.rar",
+            "mod_id": 76940,
+            "hash": "sha256-1HDsxzZeDN/hEUrfP7Jg8TUZ7RuwgOo4NIHbR0ZTOZQ="
+        }
+    },
+    "Requiem - Heart of the Reach": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "1.03",
+            "file_id": 352883,
+            "file_name": "Requiem - Heart of the Reach-76940-1-03-1674645566.rar",
+            "mod_id": 76940,
+            "hash": "sha256-biqVGXQbZm+jcyOhmSHV42jF2TnjRjanVIAzr9sl018="
+        },
+        "type": "primary"
+    }
+}

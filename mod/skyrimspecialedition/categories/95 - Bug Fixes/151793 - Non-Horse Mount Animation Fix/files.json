@@ -1,0 +1,33 @@
+{
+  "Only mounting animation fix": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "0.4",
+      "file_id": 635081,
+      "file_name": "Non-Horse Mount Animation Fix-151793-0-3-1749176721.7z",
+      "mod_id": 151793,
+      "hash": "sha256-CLFjeOFz1unKiTsQej5eH0msM+pEouOkj2Pj7On6N9U="
+    }
+  },
+  "Non-Horse Mount Animation Fix": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "0.4",
+      "file_id": 635232,
+      "file_name": "Non-Horse Mount Animation Fix-151793-0-4-1749214659.7z",
+      "mod_id": 151793,
+      "hash": "sha256-emA8m6QN3bxrOM77iu5PWgPyBIqcfpi1pWJ+DF2IqzU="
+    },
+    "type": "primary"
+  },
+  "Only swimming animation fix": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "0.4",
+      "file_id": 635236,
+      "file_name": "Only swimming animation fix-151793-0-4-1749215384.7z",
+      "mod_id": 151793,
+      "hash": "sha256-89pVbo1zqPalNr/HbpZn4vgftK8i/UbNDGsi3KsApX0="
+    }
+  }
+}

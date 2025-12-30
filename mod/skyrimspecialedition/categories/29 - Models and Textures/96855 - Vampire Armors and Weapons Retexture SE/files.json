@@ -1,0 +1,23 @@
+{
+  "Vampire Armors and Weapons Retexture SE": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 411265,
+      "file_name": "Vampire Armors and Weapons Retexture SE-96855-1-0-1690493003.rar",
+      "mod_id": 96855,
+      "hash": "sha256-gqCdXmlKX+vKmsPEW+qDZyVVBZvzQCbLhTI4SDkzxys="
+    },
+    "type": "primary"
+  },
+  "Vampire Armors and Weapons Retexture SE - Half Res": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 411266,
+      "file_name": "Vampire Armors and Weapons Retexture SE - Half Res-96855-1-0-1690493055.rar",
+      "mod_id": 96855,
+      "hash": "sha256-HGPsguggHqnOEzxS6e0BctCAVVGTy+7dPEqyX5B7vyg="
+    }
+  }
+}

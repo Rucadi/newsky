@@ -1,0 +1,35 @@
+{
+  "HFs - Bruma basic dinnerware - 1K": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1",
+      "file_id": 583328,
+      "file_name": "HFs - Bruma basic dinnerware - 1K-139089-1-1736881646.zip",
+      "mod_id": 139089,
+      "hash": "sha256-9QyhYCfEGtgD6VrRMiHv7l2CJOakMlVHRIZ8fSci4LE="
+    },
+    "type": "primary"
+  },
+  "HFs - Bruma basic dinnerware - 4K.zip": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1",
+      "file_id": 583332,
+      "file_name": "HFs - Bruma basic dinnerware - 4K.zip-139089-1-1736881832.zip",
+      "mod_id": 139089,
+      "hash": "sha256-JzRB0GEyOEcGZp7Icdu33tCBehx+j3rsvGAeNUdQ0Fo="
+    },
+    "type": "primary"
+  },
+  "HFs - Bruma basic dinnerware - 2K": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1",
+      "file_id": 583339,
+      "file_name": "HFs - Bruma basic dinnerware - 2K-139089-1-1736883093.zip",
+      "mod_id": 139089,
+      "hash": "sha256-WZLDbGhK1QwUniPg2iF2uHsLvdrt/uRdB5Tlu9f7F9A="
+    },
+    "type": "primary"
+  }
+}

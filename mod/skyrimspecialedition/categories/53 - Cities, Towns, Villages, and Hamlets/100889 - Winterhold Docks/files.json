@@ -1,0 +1,33 @@
+{
+  "Winterhold Docks - Lux Orbis Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1",
+      "file_id": 428795,
+      "file_name": "Winterhold Docks - Lux Patch-100889-1-1-1695583554.rar",
+      "mod_id": 100889,
+      "hash": "sha256-qgrL7e0JTsGN1VaNEtEYCuPuXykUom4Op5nsWZIzt6I="
+    }
+  },
+  "Winterhold Docks - CFTO Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.2",
+      "file_id": 689124,
+      "file_name": "Winterhold Docks - CFTO Patch-100889-1-2-1763574561.rar",
+      "mod_id": 100889,
+      "hash": "sha256-MX3Feyt3jKvtIZPXIOOB+uP4TXBTikN6Qjr5IwEgL1w="
+    }
+  },
+  "Winterhold Docks": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.2.1",
+      "file_id": 689314,
+      "file_name": "Winterhold Docks-100889-1-2-1-1763627909.zip",
+      "mod_id": 100889,
+      "hash": "sha256-D4n+MZpaizRvyejD4fS9pMPDyFvLSieQw73+Y3WyR18="
+    },
+    "type": "primary"
+  }
+}

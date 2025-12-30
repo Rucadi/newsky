@@ -1,0 +1,24 @@
+{
+  "Survival Mode Improved - SKSE (1.5-1.6.640)": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.5.2",
+      "file_id": 472446,
+      "file_name": "Survival Mode Improved - SKSE (1.5-1.6.640)-78244-1-5-2-1708327803.7z",
+      "mod_id": 78244,
+      "hash": "sha256-S+LG5bltIZWpS6KePS2waXTXGTJEkDK4FVx73rIxMZs="
+    },
+    "type": "primary"
+  },
+  "Survival Mode Improved - SKSE (1.6.1170)": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.5.2",
+      "file_id": 472447,
+      "file_name": "Survival Mode Improved - SKSE (1.6.1170)-78244-1-5-2-1708327867.7z",
+      "mod_id": 78244,
+      "hash": "sha256-AScq2JSoFBjAhdMK4PbVoNFMvyVMeJr5txGNo+Sy6ac="
+    },
+    "type": "primary"
+  }
+}

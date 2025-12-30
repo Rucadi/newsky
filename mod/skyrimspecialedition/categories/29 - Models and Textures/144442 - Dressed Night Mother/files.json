@@ -1,0 +1,93 @@
+{
+  "2-4K. Dressed Night Mother. ver1": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0.0",
+      "file_id": 604690,
+      "file_name": "2-4K. Dressed Night Mother. ver1-144442-1-0-0-1741773025.zip",
+      "mod_id": 144442,
+      "hash": "sha256-FEKx//uVuGSZgWH909HAiTGXp1voYGj4p2xS8s+te+o="
+    },
+    "type": "primary"
+  },
+  "2-4K. Dressed Night Mother. ver2": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0.0",
+      "file_id": 604691,
+      "file_name": "2-4K. Dressed Night Mother. ver2-144442-1-0-0-1741773069.zip",
+      "mod_id": 144442,
+      "hash": "sha256-QwVnFNlLe5ZedD34zTUYJfm66w40xVbxKo7B92dKthM="
+    },
+    "type": "primary"
+  },
+  "2-4K. Dressed Night Mother. ver3": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0.0",
+      "file_id": 604693,
+      "file_name": "2-4K. Dressed Night Mother. ver3-144442-1-0-0-1741773120.zip",
+      "mod_id": 144442,
+      "hash": "sha256-1MctvfEUGAXpQFHvylQXl7quiMyn2b56Wnta0CEKO+E="
+    },
+    "type": "primary"
+  },
+  "1-2K. Dressed Night Mother. ver1": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0.0",
+      "file_id": 604694,
+      "file_name": "1-2K. Dressed Night Mother. ver1-144442-1-0-0-1741773201.zip",
+      "mod_id": 144442,
+      "hash": "sha256-TacosIat6xddcOM/CvxoWzYTPK9bWm1OjSmakEh1kWs="
+    }
+  },
+  "1-2K. Dressed Night Mother. ver2": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0.0",
+      "file_id": 604695,
+      "file_name": "1-2K. Dressed Night Mother. ver2-144442-1-0-0-1741773233.zip",
+      "mod_id": 144442,
+      "hash": "sha256-BX0nldEpv1+v2KRmD6G7GOb1jUQI7bE3Tp/B8phlgOA="
+    }
+  },
+  "1-2K. Dressed Night Mother. ver3": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0.0",
+      "file_id": 604696,
+      "file_name": "1-2K. Dressed Night Mother. ver3-144442-1-0-0-1741773262.zip",
+      "mod_id": 144442
+    }
+  },
+  "Optional. Night Mother Dress v2-White": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0.0",
+      "file_id": 604697,
+      "file_name": "Optional. Night Mother Dress v2-White-144442-1-0-0-1741773343.zip",
+      "mod_id": 144442
+    }
+  },
+  "Optional. Night Mother Lights ESL": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0.0",
+      "file_id": 604698,
+      "file_name": "Optional. Night Mother Lights ESL-144442-1-0-0-1741773429.zip",
+      "mod_id": 144442
+    },
+    "type": "primary"
+  },
+  "Optional. Improved Coffin": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0.0",
+      "file_id": 606267,
+      "file_name": "Optional. Improved Coffin-144442-1-0-0-1742124823.zip",
+      "mod_id": 144442
+    },
+    "type": "primary"
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "More Pocket Money (BAIN)": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 117977,
+      "file_name": "More Pocket Money (BAIN)-31375-1-0-1577715557.7z",
+      "mod_id": 31375,
+      "hash": "sha256-0J75LOrsVgxRlQYSEhOOtVGmIse4nzd6pR+3qQcJo6M="
+    },
+    "type": "primary"
+  },
+  "More Pocket Money (Less Edition)": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 117978,
+      "file_name": "More Pocket Money (Less Edition)-31375-1-0-1577715659.7z",
+      "mod_id": 31375,
+      "hash": "sha256-zpTwywdoPUoiPhH5Sotmu4G67gUFL7lKzfb9pRLzx6Y="
+    },
+    "type": "primary"
+  },
+  "More Pocket Money (More Edition)": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 117979,
+      "file_name": "More Pocket Money (More Edition)-31375-1-0-1577715807.7z",
+      "mod_id": 31375,
+      "hash": "sha256-cnhS2rLAlFXCrP2TemzQYvHl45IY4mODkb+WasAeoA8="
+    },
+    "type": "primary"
+  },
+  "More Pocket Money (Standard Edition)": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 117980,
+      "file_name": "More Pocket Money (Standard Edition)-31375-1-0-1577715852.7z",
+      "mod_id": 31375,
+      "hash": "sha256-jwsPecWJELK3VmMJIjyL+QWsOvDJi260Ph84MxbcxUw="
+    },
+    "type": "primary"
+  }
+}

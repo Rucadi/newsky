@@ -1,0 +1,35 @@
+{
+  "Embers XD Medieval Torch Edit": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.12",
+      "file_id": 564166,
+      "file_name": "Embers XD Medieval Torch Edit-134219-1-12-1732092976.zip",
+      "mod_id": 134219,
+      "hash": "sha256-9f/vnRD5K5DhKVz7vpzEcilOLIJQHG/QiKeS/PqLGaw="
+    },
+    "type": "primary"
+  },
+  "Embers XD Torch Edit": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.21",
+      "file_id": 695335,
+      "file_name": "Embers XD Torch Edit-134219-1-21-1765096660.zip",
+      "mod_id": 134219,
+      "hash": "sha256-y7UowxjQcXWrh0T/foCEJ157pNuYmF0gRbRCxBV9tr0="
+    },
+    "type": "primary"
+  },
+  "Vanilla Torch Edit": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.21",
+      "file_id": 695337,
+      "file_name": "Vanilla Torch Edit-134219-1-21-1765096798.zip",
+      "mod_id": 134219,
+      "hash": "sha256-4TwVDlkayMWE4oT58PKMX6cJdYg7RbXLdle3ZQ8keLM="
+    },
+    "type": "primary"
+  }
+}

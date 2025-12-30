@@ -1,0 +1,84 @@
+{
+  "Adventurer Armor - My Version SE by Xtudo - 4K": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1",
+      "file_id": 461609,
+      "file_name": "Adventurer Armor - My Version SE by Xtudo - 4K-109333-1-1705327456.7z",
+      "mod_id": 109333,
+      "hash": "sha256-OC/xn41X+YVAQcXXxWnibqb/0Gx0SK2QtoVU+j0NUQc="
+    },
+    "type": "primary"
+  },
+  "Adventurer Armor - My Version SE by Xtudo - 2K": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1",
+      "file_id": 461610,
+      "file_name": "Adventurer Armor - My Version SE by Xtudo - 2K-109333-1-1705327478.7z",
+      "mod_id": 109333,
+      "hash": "sha256-K+IR9Cla7j2le10gD4iT111UuTSlIzYkc9umUihhIGs="
+    },
+    "type": "primary"
+  },
+  "Adventurer Armor - SE by Xtudo - Bkpks No Shoes 4K": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1",
+      "file_id": 461720,
+      "file_name": "Adventurer Armor - SE by Xtudo - Bkpks No Shoes 4K-109333-1-1-1705355279.7z",
+      "mod_id": 109333,
+      "hash": "sha256-ei5VNNdC8zZYlZpopbMA2MKND0glf96+eXqt8UZSus0="
+    }
+  },
+  "Adventurer Armor - SE by Xtudo - Bkpks No Shoes 2K": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1",
+      "file_id": 461721,
+      "file_name": "Adventurer Armor - SE by Xtudo - Bkpks No Shoes 2K-109333-1-1-1705355328.7z",
+      "mod_id": 109333,
+      "hash": "sha256-knY8TTVRFJeSYybWd61rIwwSougrql5QRPAeC0fZnaQ="
+    }
+  },
+  "Adventurer Armor - SE by Xtudo - Only pouches 4K": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1",
+      "file_id": 461723,
+      "file_name": "Adventurer Armor - SE by Xtudo - Only pouches 4K-109333-1-1-1705355530.7z",
+      "mod_id": 109333,
+      "hash": "sha256-6mbLhTd9TphEequcrqVVbgsXomWYcInKsoj6t6i52HY="
+    }
+  },
+  "Adventurer Armor - SE by Xtudo - Only pouches 2K": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1",
+      "file_id": 461724,
+      "file_name": "Adventurer Armor - SE by Xtudo - Only pouches 2K-109333-1-1-1705355581.7z",
+      "mod_id": 109333,
+      "hash": "sha256-SFaBPb3/lA+xi+qdWoZDfh8TAzjEu/72PthQUyhIjqY="
+    }
+  },
+  "Adventurer Armor - SE by Xtudo - Non-HDT patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.3",
+      "file_id": 471080,
+      "file_name": "Adventurer Armor - SE by Xtudo - Non-HDT patch-109333-1-3-1708002057.7z",
+      "mod_id": 109333,
+      "hash": "sha256-ATdZul63K7U0tEmewdWbTk/xjSY7I+vgpUW/3m5zmn0="
+    }
+  },
+  "Adventurer Armor - SE by Xtudo - DLH patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.4",
+      "file_id": 677108,
+      "file_name": "Adventurer Armor - SE by Xtudo - DLH patch-109333-1-4-1760729434.7z",
+      "mod_id": 109333,
+      "hash": "sha256-x7H/JBhS8onzCcK855MCfdb9gMT6gu9UAlVUkf1exKU="
+    }
+  }
+}

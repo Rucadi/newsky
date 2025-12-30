@@ -1,0 +1,33 @@
+{
+    "HSWhiterun - Olava the Feeble's House": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "1.0.0",
+            "file_id": 387795,
+            "file_name": "HSWhiterun - Olava the Feeble's House-91279-1-0-0-1684006197.7z",
+            "mod_id": 91279,
+            "hash": "sha256-0+vHj0XL8Is4Ti7KYjmuYjKi+9wDMJAqOBAaPoElazY="
+        },
+        "type": "primary"
+    },
+    "HSWhiterun - Olava the Feeble's House - ELFX": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "1.0.0",
+            "file_id": 387797,
+            "file_name": "HSWhiterun - Olava the Feeble's House - ELFX-91279-1-0-0-1684006248.7z",
+            "mod_id": 91279,
+            "hash": "sha256-i7kCS/ZjzUxYpfWS2Q9PqZ1seYu7zeds/3kpWeMDv2A="
+        }
+    },
+    "HSWhiterun - Olava the Feeble's House - LUX": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "1.0.0",
+            "file_id": 387798,
+            "file_name": "HSWhiterun - Olava the Feeble's House - LUX-91279-1-0-0-1684006284.7z",
+            "mod_id": 91279,
+            "hash": "sha256-MU7ITpE6LC/fiHlIPRPfTtXbBphY+gouSkOK/5PahMA="
+        }
+    }
+}

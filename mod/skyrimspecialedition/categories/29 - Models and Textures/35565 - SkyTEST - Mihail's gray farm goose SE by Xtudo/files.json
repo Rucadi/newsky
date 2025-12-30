@@ -1,0 +1,33 @@
+{
+  "SkyTEST's geese lower idle sound": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 138131,
+      "file_name": "SkyTEST's gooses lower idle sound-35565-1-0-1588637004.rar",
+      "mod_id": 35565,
+      "hash": "sha256-w8km5ixw2bXx4p7kf9hCAhlFIBEXJfPxobiDplPk65g="
+    }
+  },
+  "SkyTEST's geese with the Mihial idle sound": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 138150,
+      "file_name": "SkyTEST's gooses with the Mihial idle sound-35565-1-0-1588641494.rar",
+      "mod_id": 35565,
+      "hash": "sha256-+HAjZuPrNLnHeeoQa2GwJ5KmdvsFKdz8D9w4HcDOtOc="
+    }
+  },
+  "SkyTEST's goose replaced with the Mihail's gray farm version.": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1",
+      "file_id": 138394,
+      "file_name": "SkyTEST's gooses replaced with the Mihail's gray farm version.-35565-1-1-1588761036.rar",
+      "mod_id": 35565,
+      "hash": "sha256-cA4HNZCsk/vRDr6OZR91gF34VLiAGVkOMNdyZml8kGc="
+    },
+    "type": "primary"
+  }
+}

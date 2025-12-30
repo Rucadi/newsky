@@ -1,0 +1,23 @@
+{
+  "GhenaraFollower": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1",
+      "file_id": 558323,
+      "file_name": "GhenaraFollower-132989-1-1730585202.rar",
+      "mod_id": 132989,
+      "hash": "sha256-NVfkfuuy+mJM/17g9dZTkcAOG4Oc953rCgvoGbusDCw="
+    },
+    "type": "primary"
+  },
+  "GhenaraPreset": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1",
+      "file_id": 558325,
+      "file_name": "GhenaraPreset-132989-1-1730585246.rar",
+      "mod_id": 132989,
+      "hash": "sha256-oepzPcWOnc7L99LwrxY+oL8yzbnC6QZOf6awRHnebE0="
+    }
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "Simple Resist Magic Custom Skill Tree (Alteration)": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 596131,
+      "file_name": "Simple Resist Magic Custom Skill Tree-142135-1-0-1739844987.rar",
+      "mod_id": 142135,
+      "hash": "sha256-qdixqDfwdlawDQfVvwQ899VgksCSRV/ZUYjqHhQsbE4="
+    }
+  },
+  "Simple Resist Magic Custom Skill Tree": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "2.0",
+      "file_id": 596634,
+      "file_name": "Simple Resist Magic Custom Skill Tree-142135-2-0-1739985350.rar",
+      "mod_id": 142135,
+      "hash": "sha256-906GSzdlRQYUERa3pAn4DxTjTeRByRSU5VtYgFV6WME="
+    },
+    "type": "primary"
+  },
+  "Simple Resist Magic 1.6.1170": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 618203,
+      "file_name": "Simple Resist Magic 1.6.1170-142135-1-0-1744896292.rar",
+      "mod_id": 142135,
+      "hash": "sha256-iS02Lf6a7d3dTU6MEKXigYhTHT/PAxoBFN5NiWJ3+QE="
+    }
+  }
+}

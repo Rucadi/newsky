@@ -1,0 +1,53 @@
+{
+  "Mystic Elemental Cloaks": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1b",
+      "file_id": 553994,
+      "file_name": "Mystic Elemental Cloaks-131877-1b-1729436446.rar",
+      "mod_id": 131877,
+      "hash": "sha256-aw/mWa8FkgPQixSvwjJp8T6r+UyyJ4bP4/qWi2pVqmI="
+    },
+    "type": "primary"
+  },
+  "SingleMysticWindCloak": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1a",
+      "file_id": 554001,
+      "file_name": "SingleMysticWindCloak-131877-1a-1729437406.rar",
+      "mod_id": 131877,
+      "hash": "sha256-UGagUxqhPSy/kXhu5eDt+odfB2/y6CpMnelTN/YkH/Y="
+    }
+  },
+  "Single Mystic Shock Cloak": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1a",
+      "file_id": 554003,
+      "file_name": "Single Mystic Shock Cloak-131877-1a-1729437733.rar",
+      "mod_id": 131877,
+      "hash": "sha256-tdZ+TS/J+32e2WswRAr98Vaf3Cp88AK2WRh41pg++Y4="
+    }
+  },
+  "Single Mystic Ice Cloak": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1a",
+      "file_id": 554006,
+      "file_name": "Single Mystic Ice Cloak-131877-1a-1729438206.rar",
+      "mod_id": 131877,
+      "hash": "sha256-bmnYLd49MWbJUXv1RBvouv50TFnPALZq3NpPSBjDCEk="
+    }
+  },
+  "Single Mystic Fire Cloak": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1a",
+      "file_id": 554007,
+      "file_name": "Single Mystic Fire Cloak-131877-1a-1729438266.rar",
+      "mod_id": 131877,
+      "hash": "sha256-GiSdmViudSZQonQ0IGHXf8YM0qYc+dUKKst5fnnl/ys="
+    }
+  }
+}

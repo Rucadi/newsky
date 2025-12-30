@@ -1,0 +1,33 @@
+{
+  "1NamelessSaberSE": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1",
+      "file_id": 449068,
+      "file_name": "1NamelessSaberSE-106262-1-1701804822.7z",
+      "mod_id": 106262,
+      "hash": "sha256-lUMYsDmCAxx50R1ylP6y5nUVD+clEGcJ4xg072/55Og="
+    },
+    "type": "primary"
+  },
+  "Lower resolution textures": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1",
+      "file_id": 449069,
+      "file_name": "Lower resolution textures-106262-1-1701805227.7z",
+      "mod_id": 106262,
+      "hash": "sha256-cNHBFyh10vyNDJZod/6EifBeajE7msK6Q1bGSeUU97k="
+    }
+  },
+  "Potato Sized Textures": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1",
+      "file_id": 449070,
+      "file_name": "Potato Sized Textures-106262-1-1701805250.7z",
+      "mod_id": 106262,
+      "hash": "sha256-fjWVi21rBrl5bLNqNNXY3IKxLuCOUDvOGV0QQVML6vc="
+    }
+  }
+}

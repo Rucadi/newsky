@@ -1,0 +1,113 @@
+{
+  "Ruins Clutter Improved patch parallax patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1",
+      "file_id": 288135,
+      "file_name": "Ruins Clutter Improved patch parallax patch-68843-1-1-1654109226.7z",
+      "mod_id": 68843,
+      "hash": "sha256-kPgWwnB+FUKCNCTVdlUqrQIOP5YAl8bG5EMu9MzK/fk="
+    }
+  },
+  "Obscure's College of Winterhold patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 288574,
+      "file_name": "Obscure's College of Winterhold patch-68843-1-0-1654279367.7z",
+      "mod_id": 68843,
+      "hash": "sha256-zCw4KtG3fXat6PPZdQ7Z59yb/thtFORPUfTydVaBy2w="
+    }
+  },
+  "Snazzy Furniture and Clutter Overhaul (SFCO) patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 288832,
+      "file_name": "Snazzy Furniture and Clutter Overhaul (SFCO) patch-68843-1-0-1654385281.rar",
+      "mod_id": 68843,
+      "hash": "sha256-LS76O2ccFi+sYJLoIOnxNZkH47RCLDstr6R3U896NTw="
+    }
+  },
+  "A - Vanilla and SMIM files": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.3",
+      "file_id": 289074,
+      "file_name": "A - Vanilla and SMIM files-68843-1-3-1654480827.7z",
+      "mod_id": 68843,
+      "hash": "sha256-IVnHmIzd6LZJu8WxF4R6YgOwHXShPy/MfRrqW1C+qGk="
+    }
+  },
+  "Lux - Lux Via - Lux Orbis patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.3",
+      "file_id": 289077,
+      "file_name": "Lux - Lux Via - Lux Orbis patch-68843-1-3-1654481169.7z",
+      "mod_id": 68843,
+      "hash": "sha256-jCS+dHGRiGjZPIMA5jedBzZem7H/35IAFIdIGThz92I="
+    }
+  },
+  "SD's Horn Candles patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.3",
+      "file_id": 289084,
+      "file_name": "SD's Horn Candles patch-68843-1-3-1654482822.7z",
+      "mod_id": 68843,
+      "hash": "sha256-u6lGlhxVhm+6nQulj+KEb7KddDA/r8TwSHmQcxKzTrg="
+    }
+  },
+  "JS Shrines of the Divines patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.3",
+      "file_id": 290191,
+      "file_name": "JS Shrines of the Divines patch-68843-1-3-1654878237.7z",
+      "mod_id": 68843,
+      "hash": "sha256-KJN8ozS05hyghun35uvZF2OSYuKFbJ1EE0G+tBFl9zA="
+    }
+  },
+  "Rudy's HQ - Miscellaneous patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.4",
+      "file_id": 290382,
+      "file_name": "Rudy's HQ - Miscellaneous patch-68843-1-3-2-1654944347.7z",
+      "mod_id": 68843,
+      "hash": "sha256-l2gdVfvRzDFLgiUmr0HLNNah1BVH13lH3Rm4+C2EOsQ="
+    }
+  },
+  "Medieval Candlehorns and Sconces patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.4",
+      "file_id": 290385,
+      "file_name": "Medieval Candlehorns and Sconces patch-68843-1-4-1654945472.7z",
+      "mod_id": 68843,
+      "hash": "sha256-7FaYNBeCtwjk9pWfqucZ2Rnl6u/DFMhWRJyNLRJDAbk="
+    }
+  },
+  "Ruins Clutter Improved patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.4",
+      "file_id": 290387,
+      "file_name": "Ruins Clutter Improved patch-68843-1-4-1654946040.7z",
+      "mod_id": 68843,
+      "hash": "sha256-yALQLdJLYSzbaCLaRqMwqG/ti1MCvlnpaaeVaw7cEuQ="
+    }
+  },
+  "Optimized ENB lights meshes - Resources": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.5",
+      "file_id": 290500,
+      "file_name": "Optimized ENB lights meshes - Resources-68843-1-5-1654977041.7z",
+      "mod_id": 68843,
+      "hash": "sha256-g23FqcPCCCCHKB70eRIH52b4zdCLv4IBopA0AofoJyU="
+    },
+    "type": "primary"
+  }
+}

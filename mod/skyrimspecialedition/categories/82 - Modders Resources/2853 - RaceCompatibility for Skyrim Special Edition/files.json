@@ -1,0 +1,83 @@
+{
+    "Untranslated plugins": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "Any",
+            "file_id": 24840,
+            "file_name": "Untranslated plugins-2853-Any.7z",
+            "mod_id": 2853,
+            "hash": "sha256-uq6wSeQw+8f4maIgXkFUHNMcNcuUmCUZgCcQnBhe3Zo="
+        }
+    },
+    "Main file as zip": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "2.0.7",
+            "file_id": 54431,
+            "file_name": "Main file as zip-2853-2-0-7.zip",
+            "mod_id": 2853,
+            "hash": "sha256-cAt1WUImYnMgyIq1WwQvf5Q7W0ii7har/E5n7CWVLgI="
+        }
+    },
+    "lowercase strings": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "experiment",
+            "file_id": 154588,
+            "file_name": "lowercase strings-2853-experiment-1596972309.7z",
+            "mod_id": 2853,
+            "hash": "sha256-/C4quLuQz/fBnn8J3pNVaD5MyRtiwagSZiJ9iIP+F5c="
+        }
+    },
+    "BETA - Scion compatibility patch - graciously provided by MischiefBrew0": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "2.13",
+            "file_id": 258881,
+            "file_name": "BETA - Scion compatibility patch - graciously provided by MischiefBrew0-2853-2-13-1642945220.7z",
+            "mod_id": 2853,
+            "hash": "sha256-0mwlkpzige7MpdfJ8pjSo163hD2wDY+IBptbfMk5i1w="
+        }
+    },
+    "RaceCompatibilty All-In-One Scripted Installer": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "2.16",
+            "file_id": 381971,
+            "file_name": "RaceCompatibilty All-In-One Scripted Installer-2853-2-16-1682448886.zip",
+            "mod_id": 2853,
+            "hash": "sha256-6puS9byydttIYmCUx1i2XAypCGo7VNyEgEm+KDOHjzw="
+        },
+        "type": "primary"
+    },
+    "RC_SacroSanct_Patch_By_GroundAura_For_5_17_And_6_0": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "GA1",
+            "file_id": 432269,
+            "file_name": "RC_SacroSanct_Patch_By_GroundAura_For_5_17_And_6_0-2853-GA1-1696774329.7z",
+            "mod_id": 2853,
+            "hash": "sha256-MCx9Iw5j5C0lo1Ee8anaFOHW0EeCMtadVUAjmS45Zf0="
+        }
+    },
+    "RC_SacroSanct_Plus_MolagsWill_Patch_By_GroundAura": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "GA2",
+            "file_id": 432273,
+            "file_name": "RC_SacroSanct_Plus_MolagsWill_Patch_By_GroundAura-2853-GA2-1696774416.7z",
+            "mod_id": 2853,
+            "hash": "sha256-Z2/RSJsIa6wKsWJvdXGMdh5+kezcKIY4Vr04vfau7gI="
+        }
+    },
+    "Scion beta patch update by Thalyaa": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "Scion-2.2.0",
+            "file_id": 477629,
+            "file_name": "Scion beta patch update by Thalyaa-2853-Scion-2-2-0-1709747774.zip",
+            "mod_id": 2853,
+            "hash": "sha256-0nxoeUwv9j5O55HjaL1KYtQ84Q6mmXoCY1rpv4Iw784="
+        }
+    }
+}

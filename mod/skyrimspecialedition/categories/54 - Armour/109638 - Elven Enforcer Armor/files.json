@@ -1,0 +1,54 @@
+{
+  "Dark Gold Recolor 2K": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 462979,
+      "file_name": "Dark Gold Recolor 2K-109638-1-0-1705700158.7z",
+      "mod_id": 109638,
+      "hash": "sha256-fYA57jwPMABCarEseS4W2X2LmkxMgdY6jeiVKykxMGc="
+    }
+  },
+  "Dark Gold Recolor 1K": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 462980,
+      "file_name": "Dark Gold Recolor 1K-109638-1-0-1705700280.7z",
+      "mod_id": 109638,
+      "hash": "sha256-lC7c49rpWmFmsh0/7W6XC60IFQe+zEXl5QmqSrTU+so="
+    }
+  },
+  "3BA Bodyslide": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.3",
+      "file_id": 464072,
+      "file_name": "3BA Bodyslide-109638-1-3-1706001966.7z",
+      "mod_id": 109638,
+      "hash": "sha256-0Fk1R5a1lzM3ISccBZTlvP/qMxDc3wx34YitvAjMOkg="
+    }
+  },
+  "Elven Enforcer Armor 1K": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.31",
+      "file_id": 467951,
+      "file_name": "Elven Enforcer Armor 1K-109638-1-31-1707129129.7z",
+      "mod_id": 109638,
+      "hash": "sha256-Mp/Q7HPzO9mY8tDxT+vVycZxZlPUh778Y1L3aOoTQFk="
+    },
+    "type": "primary"
+  },
+  "Elven Enforcer Armor 2K": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.31",
+      "file_id": 467953,
+      "file_name": "Elven Enforcer Armor 2K-109638-1-31-1707129357.7z",
+      "mod_id": 109638,
+      "hash": "sha256-Z5180DCa8Vk2UKDN+spiifwXe7673NfYQJP/UWmF87M="
+    },
+    "type": "primary"
+  }
+}

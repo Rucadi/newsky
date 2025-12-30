@@ -1,0 +1,1362 @@
+{
+    "Draugrs - SE by Xtudo - Animated Clutter": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "1",
+            "file_id": 517166,
+            "file_name": "Draugrs - SE by Xtudo - Animated Clutter-123225-1-1719964576.7z",
+            "mod_id": 123225,
+            "hash": "sha256-GZd8ABAM0IQpUt7+hyE2FCey8XBU7FORHi4Z6XERP3U="
+        },
+        "type": "primary"
+    },
+    "Draugrs - SE by Xtudo - Hulking Draugr - 1K": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "1.1",
+            "file_id": 517221,
+            "file_name": "Draugrs - SE by Xtudo - Hulking Draugr - 1K-123225-1-1-1719977432.7z",
+            "mod_id": 123225,
+            "hash": "sha256-tfwlUwc+ijDg7gebrhZNAsu3ddQieXAsbRdItCDS4kc="
+        },
+        "type": "primary"
+    },
+    "Draugrs - SE by Xtudo - Hulking Draugr - 2K": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "1.1",
+            "file_id": 517222,
+            "file_name": "Draugrs - SE by Xtudo - Hulking Draugr - 2K-123225-1-1-1719977449.7z",
+            "mod_id": 123225,
+            "hash": "sha256-qBUNISQFRLyuFf1QLyVePGuuRdDJWOrtLTfsEfN1XA4="
+        },
+        "type": "primary"
+    },
+    "Draugrs - SE by Xtudo - Hulking Draugr - 4K": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "1.1",
+            "file_id": 517223,
+            "file_name": "Draugrs - SE by Xtudo - Hulking Draugr - 4K-123225-1-1-1719977471.7z",
+            "mod_id": 123225,
+            "hash": "sha256-h/RRUycdkLqMlpsE3DZN0fjSXv13vq19HfA8621F8QU="
+        },
+        "type": "primary"
+    },
+    "Draugrs - SE by Xtudo - Cannibal Draugr - 1K": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "1.4",
+            "file_id": 517756,
+            "file_name": "Draugrs - SE by Xtudo - Cannibal Draugr - 1K-123225-1-4-1720129775.7z",
+            "mod_id": 123225,
+            "hash": "sha256-6CKocV2Mom2VceDqIVmTFfabxoW4M2gDBgaJLtAdfiw="
+        },
+        "type": "primary"
+    },
+    "Draugrs - SE by Xtudo - Cannibal Draugr - 2K": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "1.4",
+            "file_id": 517757,
+            "file_name": "Draugrs - SE by Xtudo - Cannibal Draugr - 2K-123225-1-4-1720129791.7z",
+            "mod_id": 123225,
+            "hash": "sha256-wSGpObJENbmLlXCZ3QpJdbQdY51Vo4yXHxmIWgBJChc="
+        },
+        "type": "primary"
+    },
+    "Draugrs - SE by Xtudo - The Dragon Cult - 1K": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "1.4",
+            "file_id": 517759,
+            "file_name": "Draugrs - SE by Xtudo - The Dragon Cult - 1K-123225-1-4-1720129838.7z",
+            "mod_id": 123225,
+            "hash": "sha256-Q3o1eg3dDo9AwCmKHsWZuCgqz6b1bznqBtKAk80SZ+k="
+        },
+        "type": "primary"
+    },
+    "Draugrs - SE by Xtudo - The Dragon Cult - 2K": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "1.4",
+            "file_id": 517760,
+            "file_name": "Draugrs - SE by Xtudo - The Dragon Cult - 2K-123225-1-4-1720129859.7z",
+            "mod_id": 123225,
+            "hash": "sha256-6IoC5L7nLrSUCrYfkawYSKhExMbq+DcbmWI/ehqzPV4="
+        },
+        "type": "primary"
+    },
+    "Draugrs - SE by Xtudo - The Dragon Cult - 4K": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "1.4",
+            "file_id": 517761,
+            "file_name": "Draugrs - SE by Xtudo - The Dragon Cult - 4K-123225-1-4-1720129880.7z",
+            "mod_id": 123225,
+            "hash": "sha256-K2elc4liyNCz6t+deL5dW2cQkswYPm7fjYyaWpbeX4A="
+        },
+        "type": "primary"
+    },
+    "Draugrs - SE by Xtudo - Cannibal Draugr - 4K": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "1.4",
+            "file_id": 517765,
+            "file_name": "Draugrs - SE by Xtudo - Cannibal Draugr - 4K-123225-1-4-1720129962.7z",
+            "mod_id": 123225,
+            "hash": "sha256-UII+f3BPpuw5SnXvvEkFSij4HANGg20JFhtIFNWGOVE="
+        },
+        "type": "primary"
+    },
+    "Draugrs - SE by Xtudo - Glowing Eyes": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "1.5",
+            "file_id": 517921,
+            "file_name": "Draugrs - SE by Xtudo - Glowing Eyes-123225-1-5-1720188504.7z",
+            "mod_id": 123225,
+            "hash": "sha256-SHFGdniA+uw1cVgumdJBGZ5pofh29PLJfArPh1DkGcI="
+        },
+        "type": "primary"
+    },
+    "Draugrs - SE by Xtudo - Males Only": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "1.5",
+            "file_id": 518184,
+            "file_name": "Draugrs - SE by Xtudo - Males Only-123225-1-5-1720267515.7z",
+            "mod_id": 123225,
+            "hash": "sha256-jqujz5dklFlzdHxx4eVnAtvgDDM+BX7a2P/1I84aHVU="
+        },
+        "type": "primary"
+    },
+    "Draugrs - SE by Xtudo - Armored Draugr Corpses 4K": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "1.7",
+            "file_id": 518729,
+            "file_name": "Draugrs - SE by Xtudo - Armored Draugr Corpses 4K-123225-1-7-1720383832.7z",
+            "mod_id": 123225,
+            "hash": "sha256-ti9YkklesGftpv6W0T9bmCSSJljJBRwISIoDFRc7g0E="
+        },
+        "type": "primary"
+    },
+    "Draugrs - SE by Xtudo - Armored Draugr Corpses 2K": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "1.7",
+            "file_id": 518730,
+            "file_name": "Draugrs - SE by Xtudo - Armored Draugr Corpses 2K-123225-1-7-1720383849.7z",
+            "mod_id": 123225,
+            "hash": "sha256-m/EXYJ+3RHwiPfD2F5ke8pnuF1ufMM14HMJJK9flqA4="
+        },
+        "type": "primary"
+    },
+    "Draugrs - SE by Xtudo - Armored Draugr Corpses 1K": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "1.7",
+            "file_id": 518731,
+            "file_name": "Draugrs - SE by Xtudo - Armored Draugr Corpses 1K-123225-1-7-1720383868.7z",
+            "mod_id": 123225,
+            "hash": "sha256-E59eklgtBwVjQGc6I76BCsigf8WbCQqPxjUjA+IvGUk="
+        },
+        "type": "primary"
+    },
+    "Draugrs - SE by Xtudo - Mihail Patrols Cavalry GE": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "1.8",
+            "file_id": 519099,
+            "file_name": "Draugrs - SE by Xtudo - Mihail Patrols Cavalry GE-123225-1-8-1720466347.7z",
+            "mod_id": 123225,
+            "hash": "sha256-lwqgt71ajT6uaZXAgdSkymtXz775z+4DgREYMe4ghtw="
+        },
+        "type": "primary"
+    },
+    "Draugrs - SE by Xtudo - Mihail Horse Mount GE": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "1.8",
+            "file_id": 519123,
+            "file_name": "Draugrs - SE by Xtudo - Mihail Hourse Mount GE-123225-1-8-1720472792.7z",
+            "mod_id": 123225,
+            "hash": "sha256-9iLJ0jt6YDOOfLimJCoVN2/sB584zTaUysxdpLyBj50="
+        },
+        "type": "primary"
+    },
+    "Draugrs - SE by Xtudo - Mihail Horse Mount 1K": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "1.8",
+            "file_id": 519139,
+            "file_name": "Draugrs - SE by Xtudo - Mihail Hourse Mount 1K-123225-1-8-1720476024.7z",
+            "mod_id": 123225,
+            "hash": "sha256-YK621chUCBrWH4eT7vfC1V6XSKOYi7LG28ecFBvX3UU="
+        },
+        "type": "primary"
+    },
+    "Draugrs - SE by Xtudo - Mihail Horse Mount 2K": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "1.8",
+            "file_id": 519140,
+            "file_name": "Draugrs - SE by Xtudo - Mihail Hourse Mount 2K-123225-1-8-1720476042.7z",
+            "mod_id": 123225,
+            "hash": "sha256-hqUmN+qHg+0UIlch//DQrWpjPzzkAkv6345Tdy6fC/8="
+        },
+        "type": "primary"
+    },
+    "Draugrs - SE by Xtudo - Mihail Horse Mount 4K": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "1.8",
+            "file_id": 519141,
+            "file_name": "Draugrs - SE by Xtudo - Mihail Hourse Mount 4K-123225-1-8-1720476061.7z",
+            "mod_id": 123225,
+            "hash": "sha256-WUv7nkk3k+XnWKFDMJjxRT3I0Q81UmffgndJ/+Aa+B0="
+        },
+        "type": "primary"
+    },
+    "Draugrs - SE by Xtudo - Haugbui": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "1.9",
+            "file_id": 519349,
+            "file_name": "Draugrs - SE by Xtudo - Haugbui-123225-1-9-1720534470.7z",
+            "mod_id": 123225,
+            "hash": "sha256-2mboo/kaGNpEP1j7nT1QQFvQiqeHsv+P2q1JloO5UiI="
+        },
+        "type": "primary"
+    },
+    "Draugrs - SE by Xtudo - Haugbui - Cannibal version": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "1.9",
+            "file_id": 519350,
+            "file_name": "Draugrs - SE by Xtudo - Haugbui - Cannibal version-123225-1-9-1720534647.7z",
+            "mod_id": 123225,
+            "hash": "sha256-OduU5+JE3SxEHiVb4Ath+Ql+tCvX39wzv5Ioikxpexk="
+        },
+        "type": "primary"
+    },
+    "Draugrs - SE by Xtudo - Haugbui - Glowing Eyes": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "1.9",
+            "file_id": 519351,
+            "file_name": "Draugrs - SE by Xtudo - Haugbui - Glowing Eyes-123225-1-9-1720534676.7z",
+            "mod_id": 123225,
+            "hash": "sha256-5GVlaNow3Kf29LA4v86le497bCY7FTpwHWz8LyAjT0o="
+        },
+        "type": "primary"
+    },
+    "Draugrs - SE by Xtudo - Beyond Reach - 1K": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "2.1",
+            "file_id": 519447,
+            "file_name": "Draugrs - SE by Xtudo - Beyond Reach - 1K-123225-2-1-1720555251.7z",
+            "mod_id": 123225,
+            "hash": "sha256-H9d93XrCTntRRVI2wEYmun52ncfa66ktKIaDDqopiKg="
+        },
+        "type": "primary"
+    },
+    "Draugrs - SE by Xtudo - Beyond Reach - 2K": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "2.1",
+            "file_id": 519448,
+            "file_name": "Draugrs - SE by Xtudo - Beyond Reach - 2K-123225-2-1-1720555271.7z",
+            "mod_id": 123225,
+            "hash": "sha256-XsRaZP6YQtsd6XE4yCNVew1WHYkhaP2mKqTHnQdm0bU="
+        },
+        "type": "primary"
+    },
+    "Draugrs - SE by Xtudo - Beyond Reach - 4K": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "2.1",
+            "file_id": 519449,
+            "file_name": "Draugrs - SE by Xtudo - Beyond Reach - 4K-123225-2-1-1720555294.7z",
+            "mod_id": 123225,
+            "hash": "sha256-L/TQ4P5Uz2LlEesW/dJfELC6X36T+jEwo24Zz6kpRpo="
+        },
+        "type": "primary"
+    },
+    "Draugrs - SE by Xtudo - Mihail Patrols Cavalry 1K": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "2.2",
+            "file_id": 519531,
+            "file_name": "Draugrs - SE by Xtudo - Mihail Patrols Cavalry 1K-123225-2-2-1720576811.7z",
+            "mod_id": 123225,
+            "hash": "sha256-/g6ypVKbc4Mj/RSc8xaw+7ryAaIc72D6UlQkcV3Vpwk="
+        },
+        "type": "primary"
+    },
+    "Draugrs - SE by Xtudo - Mihail Patrols Cavalry 2K": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "2.2",
+            "file_id": 519532,
+            "file_name": "Draugrs - SE by Xtudo - Mihail Patrols Cavalry 2K-123225-2-2-1720576853.7z",
+            "mod_id": 123225,
+            "hash": "sha256-y/17EjuLUJNTfyCiOnknGGlDiuyov+WCr3uMoTrKqEo="
+        },
+        "type": "primary"
+    },
+    "Draugrs - SE by Xtudo - Mihail Patrols Cavalry 4K": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "2.2",
+            "file_id": 519533,
+            "file_name": "Draugrs - SE by Xtudo - Mihail Patrols Cavalry 4K-123225-2-2-1720576878.7z",
+            "mod_id": 123225,
+            "hash": "sha256-ayKpwfwLaL3RDjFFJC23RSxNMHCLNK/x6ufoOvf+pEo="
+        },
+        "type": "primary"
+    },
+    "Draugrs - SE by Xtudo - Mihail Infant Draugr": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "2.3",
+            "file_id": 520018,
+            "file_name": "Draugrs - SE by Xtudo - Mihail Infant Draugr-123225-2-3-1720723329.7z",
+            "mod_id": 123225,
+            "hash": "sha256-ub+EHuzOsGruWfaPJGfBRhbvLzeG47ZBYiXcwbkoKeg="
+        },
+        "type": "primary"
+    },
+    "Draugrs - SE by Xtudo - The Dragonborn's Bestiary": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "2.4",
+            "file_id": 520270,
+            "file_name": "Draugrs - SE by Xtudo - The Dragonborn's Bestiary-123225-2-4-1720786330.7z",
+            "mod_id": 123225,
+            "hash": "sha256-dRC4IPJF0sGfc3PNHwUNsKcTuuH8CAOTkalBU/ZBHMU="
+        },
+        "type": "primary"
+    },
+    "Draugrs - SE by Xtudo - Mihail Draugundrs - 1K": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "2.4",
+            "file_id": 520294,
+            "file_name": "Draugrs - SE by Xtudo - Mihail Draugundrs - 1K-123225-2-4-1720788627.7z",
+            "mod_id": 123225,
+            "hash": "sha256-DYn+HLRQHJby9QGDoRCFWazCc36fHZH7cgbWRjXfPLg="
+        },
+        "type": "primary"
+    },
+    "Draugrs - SE by Xtudo - Mihail Draugundrs - 2K": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "2.4",
+            "file_id": 520295,
+            "file_name": "Draugrs - SE by Xtudo - Mihail Draugundrs - 2K-123225-2-4-1720788643.7z",
+            "mod_id": 123225,
+            "hash": "sha256-D61Ya4rZbMAyFvqlMSvsOWqEPv0l8nS3+NNCGUycKv8="
+        },
+        "type": "primary"
+    },
+    "Draugrs - SE by Xtudo - Mihail Draugundrs - 4K": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "2.4",
+            "file_id": 520296,
+            "file_name": "Draugrs - SE by Xtudo - Mihail Draugundrs - 4K-123225-2-4-1720788658.7z",
+            "mod_id": 123225,
+            "hash": "sha256-zZepSAh936JdWmMoavl3z9iO80qzqdfbBDjvR8cUFcU="
+        },
+        "type": "primary"
+    },
+    "Draugrs - SE by Xtudo - Mihail Draugundrs - GE": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "2.4",
+            "file_id": 520297,
+            "file_name": "Draugrs - SE by Xtudo - Mihail Draugundrs - GE-123225-2-4-1720788690.7z",
+            "mod_id": 123225,
+            "hash": "sha256-FXnDx9vmWiTr8ZQq0d3fnkHXR9EE9ynmBkN9zYnmlCI="
+        },
+        "type": "primary"
+    },
+    "Draugrs - SE by Xtudo - Honored Dead - 4K": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "2.5",
+            "file_id": 520694,
+            "file_name": "Draugrs - SE by Xtudo - Honored Dead - 4K-123225-2-5-1720877237.7z",
+            "mod_id": 123225,
+            "hash": "sha256-MZVxE/QOHt0PtSUTMrJBhNIZrbvJenfBrNXLSuNb1CU="
+        },
+        "type": "primary"
+    },
+    "Draugrs - SE by Xtudo - Honored Dead - 2K": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "2.5",
+            "file_id": 520695,
+            "file_name": "Draugrs - SE by Xtudo - Honored Dead - 2K-123225-2-5-1720877253.7z",
+            "mod_id": 123225,
+            "hash": "sha256-ZoN0AF7iopXIf4E/p9w41JZ6ZPKhjwSjDzUq+2X0D6k="
+        },
+        "type": "primary"
+    },
+    "Draugrs - SE by Xtudo - Honored Dead - 1K": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "2.5",
+            "file_id": 520697,
+            "file_name": "Draugrs - SE by Xtudo - Honored Dead - 1K-123225-2-5-1720877269.7z",
+            "mod_id": 123225,
+            "hash": "sha256-nekKF3dQeR3H4rAatwORhU8EY+SH2en2nEcxUGd+pOA="
+        },
+        "type": "primary"
+    },
+    "Draugrs - SE by Xtudo - Honored Dead Cannibal - 2K": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "2.5",
+            "file_id": 520699,
+            "file_name": "Draugrs - SE by Xtudo - Honored Dead Cannibal - 2K-123225-2-5-1720877316.7z",
+            "mod_id": 123225,
+            "hash": "sha256-p/0/zijYh4ONbeLoDFlbTEr0rozMu9I6lJIiLltnrFU="
+        },
+        "type": "primary"
+    },
+    "Draugrs - SE by Xtudo - Honored Dead Cannibal - 1K": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "2.5",
+            "file_id": 520700,
+            "file_name": "Draugrs - SE by Xtudo - Honored Dead Cannibal - 1K-123225-2-5-1720877335.7z",
+            "mod_id": 123225,
+            "hash": "sha256-SEAOKmjXVnkB51dmVtlRVbUaiSukxERhMU4dyDPOG20="
+        },
+        "type": "primary"
+    },
+    "Draugrs - SE by Xtudo - Honored Dead Cannibal - 4K": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "2.5",
+            "file_id": 521218,
+            "file_name": "Draugrs - SE by Xtudo - Honored Dead Cannibal - 4K-123225-2-5-1720988154.7z",
+            "mod_id": 123225,
+            "hash": "sha256-xNi2Qft1g2oXoS2l6klSuOvaxuANsCKTu8VgmJTxQjI="
+        },
+        "type": "primary"
+    },
+    "Draugrs - SE by Xtudo - Mihail Spooky Scary - 1K": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "2.6",
+            "file_id": 521464,
+            "file_name": "Draugrs - SE by Xtudo - Mihail Spooky Scary - 1K-123225-2-6-1721052952.7z",
+            "mod_id": 123225,
+            "hash": "sha256-AoypnEKXfqBPth9ir2gQNba+/xOHPsXQssgzGF6eG0Q="
+        },
+        "type": "primary"
+    },
+    "Draugrs - SE by Xtudo - Mihail Spooky Scary - 2K": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "2.6",
+            "file_id": 521465,
+            "file_name": "Draugrs - SE by Xtudo - Mihail Spooky Scary - 2K-123225-2-6-1721052968.7z",
+            "mod_id": 123225,
+            "hash": "sha256-MkK1FQBHJtNaJbMWIic4L/Mn8sr7UUbi91wCdJkwOrM="
+        },
+        "type": "primary"
+    },
+    "Draugrs - SE by Xtudo - Mihail Spooky Scary - 4K": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "2.6",
+            "file_id": 521466,
+            "file_name": "Draugrs - SE by Xtudo - Mihail Spooky Scary - 4K-123225-2-6-1721052989.7z",
+            "mod_id": 123225,
+            "hash": "sha256-0f6Lz4p8qdjZibTzedTlSdEN5DlW65q1sw4DSMCegNI="
+        },
+        "type": "primary"
+    },
+    "Draugrs - SE by Xtudo - Mihail Spooky Scary - GE": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "2.6",
+            "file_id": 521467,
+            "file_name": "Draugrs - SE by Xtudo - Mihail Spooky Scary - GE-123225-2-6-1721053017.7z",
+            "mod_id": 123225,
+            "hash": "sha256-u9Qz0WmmVcsw0FnMEy0rHDA8q89Za3hDxzaurJNEyVQ="
+        },
+        "type": "primary"
+    },
+    "Draugrs - SE by Xtudo - Monster Mod - 1K": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "2.6",
+            "file_id": 521468,
+            "file_name": "Draugrs - SE by Xtudo - Monster Mod - 1K-123225-2-6-1721053051.7z",
+            "mod_id": 123225,
+            "hash": "sha256-/OAivqfcLakCDZTImK1UCOOWGbQEsrguCX+214kFKHM="
+        },
+        "type": "primary"
+    },
+    "Draugrs - SE by Xtudo - Monster Mod - 2K": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "2.6",
+            "file_id": 521469,
+            "file_name": "Draugrs - SE by Xtudo - Monster Mod - 2K-123225-2-6-1721053069.7z",
+            "mod_id": 123225,
+            "hash": "sha256-o7eFxEe395s7LZ3W3yz2nhsUElzMvjroX9fXueuaqpg="
+        },
+        "type": "primary"
+    },
+    "Draugrs - SE by Xtudo - Monster Mod - 4K": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "2.6",
+            "file_id": 521470,
+            "file_name": "Draugrs - SE by Xtudo - Monster Mod - 4K-123225-2-6-1721053087.7z",
+            "mod_id": 123225,
+            "hash": "sha256-RMrX7HgH6UZTUDZ96oRY8BNCWLKubP+htRClkfSo0+c="
+        },
+        "type": "primary"
+    },
+    "Draugrs - SE by Xtudo - Playable Draugr - MCO": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "2.7",
+            "file_id": 522158,
+            "file_name": "Draugrs - SE by Xtudo - Playable Draugr - MCO-123225-2-7-1721225906.7z",
+            "mod_id": 123225,
+            "hash": "sha256-w9x+VG31jnI4k9J6RRVTUL7y2vDhsyxkH03qixfZ0Jg="
+        },
+        "type": "primary"
+    },
+    "Draugrs - SE by Xtudo - Vanilla Complex Parallax": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "2.8",
+            "file_id": 523820,
+            "file_name": "Draugrs - SE by Xtudo - Vanilla Complex Parallax-123225-2-8-1721654163.7z",
+            "mod_id": 123225,
+            "hash": "sha256-kGWWyyg1rRlcX9aLc6Xb0hDh3d/Y+UtaUoDT5MsfATE="
+        },
+        "type": "primary"
+    },
+    "Draugrs - SE by Xtudo - Vanilla Complex P Animated": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "2.8",
+            "file_id": 523822,
+            "file_name": "Draugrs - SE by Xtudo - Vanilla Complex P Animated-123225-2-8-1721654197.7z",
+            "mod_id": 123225,
+            "hash": "sha256-G4QoMqjtMx4T/tb8zg+xs0dyztRsFLsqCMPnA/iFhZ0="
+        },
+        "type": "primary"
+    },
+    "Draugrs - SE by Xtudo - Dead and Daedric": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "3.0",
+            "file_id": 524438,
+            "file_name": "Draugrs - SE by Xtudo - Dead and Daedric-123225-3-0-1721831789.7z",
+            "mod_id": 123225,
+            "hash": "sha256-i6RG8yyJ7af5p5udrejizS/3UJmb0AWNYKDvs1YsGB0="
+        },
+        "type": "primary"
+    },
+    "Draugrs - SE by Xtudo - Dead and Daedric GE": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "3.0",
+            "file_id": 524440,
+            "file_name": "Draugrs - SE by Xtudo - Dead and Daedric GE-123225-3-0-1721831811.7z",
+            "mod_id": 123225,
+            "hash": "sha256-toma3fYvvod9PzMckGXCd2hzohYLt2s3isAT6QNuWZ8="
+        },
+        "type": "primary"
+    },
+    "Draugrs - SE by Xtudo - Undead FX": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "3.1",
+            "file_id": 525178,
+            "file_name": "Draugrs - SE by Xtudo - Undead FX-123225-3-1-1722002951.7z",
+            "mod_id": 123225,
+            "hash": "sha256-2rt2iVnOOrufhzsDa98JJKEizhyVH9rKBGXZXfXZ4dQ="
+        },
+        "type": "primary"
+    },
+    "Draugrs - SE by Xtudo - Mihail Undead Snow Elf 1K": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "3.4",
+            "file_id": 526605,
+            "file_name": "Draugrs - SE by Xtudo - Mihail Undead Snow Elf 1K-123225-3-4-1722338717.7z",
+            "mod_id": 123225,
+            "hash": "sha256-D60bqZ8BlIyGTY0K5bKsbYPY0Pfkhrzz72Becv1RUtg="
+        },
+        "type": "primary"
+    },
+    "Draugrs - SE by Xtudo - Mihail Undead Snow Elf 2K": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "3.4",
+            "file_id": 526606,
+            "file_name": "Draugrs - SE by Xtudo - Mihail Undead Snow Elf 2K-123225-3-4-1722338773.7z",
+            "mod_id": 123225,
+            "hash": "sha256-kva1msDTAQRu+da81+eR62p0i4B7VBXKArvLjmxjUGE="
+        },
+        "type": "primary"
+    },
+    "Draugrs - SE by Xtudo - Mihail Undead Snow Elf 4K": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "3.4",
+            "file_id": 526607,
+            "file_name": "Draugrs - SE by Xtudo - Mihail Undead Snow Elf 4K-123225-3-4-1722338807.7z",
+            "mod_id": 123225,
+            "hash": "sha256-rvyytp0kSkIuU69qTPEITO2rnFpr9dlOPVAu+eBHwWg="
+        },
+        "type": "primary"
+    },
+    "Draugrs - SE by Xtudo - Frozen Electrocuted Cmb 4K": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "3.6",
+            "file_id": 527412,
+            "file_name": "Draugrs - SE by Xtudo - Frozen Electrocuted Cmb 4K-123225-3-6-1722552983.7z",
+            "mod_id": 123225,
+            "hash": "sha256-Oc00zk0NbIKrR5jATuvt5ePwiZnu4/vwF/5DnCUXhJ4="
+        },
+        "type": "primary"
+    },
+    "Draugrs - SE by Xtudo - Frozen Electrocuted Cmb 1K": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "3.6",
+            "file_id": 527415,
+            "file_name": "Draugrs - SE by Xtudo - Frozen Electrocuted Cmb 1K-123225-3-6-1722553078.7z",
+            "mod_id": 123225,
+            "hash": "sha256-9rv5l/fvQdw+lyT0YpaVRpP6f7xUfufFgPkQNrje0xk="
+        },
+        "type": "primary"
+    },
+    "Draugrs - SE by Xtudo - Frozen Electrocuted Cmb 2K": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "3.6",
+            "file_id": 527418,
+            "file_name": "Draugrs - SE by Xtudo - Frozen Electrocuted Cmb 2K-123225-3-6-1722553135.7z",
+            "mod_id": 123225,
+            "hash": "sha256-8Aqo920NgaRog6ehSQUpSqNBdUY+Tq3mBd9txehLYUM="
+        },
+        "type": "primary"
+    },
+    "Draugrs - SE by Xtudo - Ancient Vampire parts - 1K": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "3.7",
+            "file_id": 527638,
+            "file_name": "Draugrs - SE by Xtudo - Ancient Vampire parts - 1K-123225-3-7-1722630521.7z",
+            "mod_id": 123225,
+            "hash": "sha256-xHqolgKwJAZMQpcYmRaZgOM1we+jpgPgEO9oazj6gic="
+        },
+        "type": "primary"
+    },
+    "Draugrs - SE by Xtudo - Ancient Vampire parts - 2K": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "3.7",
+            "file_id": 527639,
+            "file_name": "Draugrs - SE by Xtudo - Ancient Vampire parts - 1K-123225-3-7-1722630536.7z",
+            "mod_id": 123225,
+            "hash": "sha256-pfTArYs533rlLn02wsiqWi49HE1cZhdPDHeqjRzSQC0="
+        },
+        "type": "primary"
+    },
+    "Draugrs - SE by Xtudo - Ancient Vampire parts - 4K": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "3.7",
+            "file_id": 527640,
+            "file_name": "Draugrs - SE by Xtudo - Ancient Vampire parts - 4K-123225-3-7-1722630550.7z",
+            "mod_id": 123225,
+            "hash": "sha256-VF3tuwdTzcMBPKQacTUYSgEGIzlGPE679T9co4/nnAk="
+        },
+        "type": "primary"
+    },
+    "Draugrs - SE by Xtudo - SIC - 1K": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "3.8",
+            "file_id": 529139,
+            "file_name": "Draugrs - SE by Xtudo - SIC - 1K-123225-3-8-1723038752.7z",
+            "mod_id": 123225,
+            "hash": "sha256-11RKSlakBmgZ/HhWN7exIj113Rj2ZFlMgx0OiDssxVw="
+        },
+        "type": "primary"
+    },
+    "Draugrs - SE by Xtudo - SIC - 2K": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "3.8",
+            "file_id": 529140,
+            "file_name": "Draugrs - SE by Xtudo - SIC - 2K-123225-3-8-1723038776.7z",
+            "mod_id": 123225,
+            "hash": "sha256-WB49ikOc0kUKqV6IHDg8I8pTYW4i2a/CvvARh8RErus="
+        },
+        "type": "primary"
+    },
+    "Draugrs - SE by Xtudo - SIC - 4K": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "3.8",
+            "file_id": 529141,
+            "file_name": "Draugrs - SE by Xtudo - SIC - 4K-123225-3-8-1723038805.7z",
+            "mod_id": 123225,
+            "hash": "sha256-Vm4vEUmNjPM1Z6zFJc4rLdoYk/PybiZZkl1rF8oVlYs="
+        },
+        "type": "primary"
+    },
+    "Draugrs - SE by Xtudo - BS Bruma - 1K": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "4.0",
+            "file_id": 531328,
+            "file_name": "Draugrs - SE by Xtudo - BS Bruma - 1K-123225-4-0-1723589748.7z",
+            "mod_id": 123225,
+            "hash": "sha256-1ptLxb1jxSB6M3dor1gdP80HMHa1ftIfltpqEy18CoQ="
+        },
+        "type": "primary"
+    },
+    "Draugrs - SE by Xtudo - BS Bruma - 2K": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "4.0",
+            "file_id": 531329,
+            "file_name": "Draugrs - SE by Xtudo - BS Bruma - 2K-123225-4-0-1723589779.7z",
+            "mod_id": 123225,
+            "hash": "sha256-1NOVM437rXLLjkr9hry3SVL8YkiqKwLKRfnohut0Nyo="
+        },
+        "type": "primary"
+    },
+    "Draugrs - SE by Xtudo - BS Bruma - 4K": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "4.0",
+            "file_id": 531330,
+            "file_name": "Draugrs - SE by Xtudo - BS Bruma - 4K-123225-4-0-1723589857.7z",
+            "mod_id": 123225,
+            "hash": "sha256-RAJsjW6vZM9ksZDh3j+yVnW+bsQByPN0QmUbQVt4jz0="
+        },
+        "type": "primary"
+    },
+    "Draugrs - SE by Xtudo - BS Bruma - GE patch": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "4.0",
+            "file_id": 531331,
+            "file_name": "Draugrs - SE by Xtudo - BS Bruma - GE patch-123225-4-0-1723589907.7z",
+            "mod_id": 123225,
+            "hash": "sha256-Dtl2wBCGZtJhRJLqGZ4X+0MB8xOztDlnV4qZ8fIzB+w="
+        },
+        "type": "primary"
+    },
+    "Draugrs - SE by Xtudo - Ghosts of Akavir": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "4.4",
+            "file_id": 537303,
+            "file_name": "Draugrs - SE by Xtudo - Ghosts of Akavir-123225-4-4-1725133301.7z",
+            "mod_id": 123225,
+            "hash": "sha256-csNgBc8cgb0NVZancvk9lx4tgSNI74cxOEm7n5JzQsE="
+        },
+        "type": "primary"
+    },
+    "Draugrs - SE by Xtudo - Undeath Remastered": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "4.6",
+            "file_id": 551060,
+            "file_name": "Draugrs - SE by Xtudo - Undeath Remastered-123225-4-6-1728650025.7z",
+            "mod_id": 123225,
+            "hash": "sha256-sQiUN02Kog735/kmTvu4t7ec26l0g/+LouwIyf1IKrA="
+        }
+    },
+    "Draugrs - SE by Xtudo - Tools of Kagrenac 4K": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "4.6",
+            "file_id": 551062,
+            "file_name": "Draugrs - SE by Xtudo - Tools of Kagrenac 4K-123225-4-6-1728650117.7z",
+            "mod_id": 123225,
+            "hash": "sha256-6q2x4nHQzK17DHr0aY71SUYw55FfXxAvauotq7q3eu4="
+        },
+        "type": "primary"
+    },
+    "Draugrs - SE by Xtudo - Tools of Kagrenac 2K": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "4.6",
+            "file_id": 551064,
+            "file_name": "Draugrs - SE by Xtudo - Tools of Kagrenac 2K-123225-4-6-1728650139.7z",
+            "mod_id": 123225,
+            "hash": "sha256-eKAnJQtmyUe1Zb0HT+5/OVZ82bir9w/g+tDI+Sh95H8="
+        },
+        "type": "primary"
+    },
+    "Draugrs - SE by Xtudo - Tools of Kagrenac 1K": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "4.6",
+            "file_id": 551065,
+            "file_name": "Draugrs - SE by Xtudo - Tools of Kagrenac 1K-123225-4-6-1728650158.7z",
+            "mod_id": 123225,
+            "hash": "sha256-h17qUHWNJoZVrFU61+D6sRo9SsNI+gpEPe2qsl3pExQ="
+        },
+        "type": "primary"
+    },
+    "Draugrs - SE by Xtudo - The Cause - 1K": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "4.7",
+            "file_id": 551167,
+            "file_name": "Draugrs - SE by Xtudo - The Cause - 1K-123225-4-7-1728674543.7z",
+            "mod_id": 123225,
+            "hash": "sha256-8sMuQeEBGXNtH+g4MZmX2uGXanhxCMsRN8/BVtY1VOk="
+        }
+    },
+    "Draugrs - SE by Xtudo - The Cause - 2K": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "4.7",
+            "file_id": 551168,
+            "file_name": "Draugrs - SE by Xtudo - The Cause - 2K-123225-4-7-1728674570.7z",
+            "mod_id": 123225,
+            "hash": "sha256-FAH8gnN5KNJ9nm4CdjXnOkWvdvO5TC2VXXU8jtDZDo4="
+        }
+    },
+    "Draugrs - SE by Xtudo - The Cause - 4K": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "4.7",
+            "file_id": 551169,
+            "file_name": "Draugrs - SE by Xtudo - The Cause - 4K-123225-4-7-1728674608.7z",
+            "mod_id": 123225,
+            "hash": "sha256-x6eBT7v/Awl3jLWqajLy3NVShSAW9ZxpQ2X5pleSnt0="
+        }
+    },
+    "Draugrs - SE by Xtudo - The Cause - Disint - 1K": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "4.7",
+            "file_id": 551171,
+            "file_name": "Draugrs - SE by Xtudo - The Cause - Desint - 1K-123225-4-7-1728674692.7z",
+            "mod_id": 123225,
+            "hash": "sha256-w27j/pmu5DCb5h2r0hcksr2xfBL7JkxQTINaH63YPgM="
+        }
+    },
+    "Draugrs - SE by Xtudo - The Cause - Disint - 2K": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "4.7",
+            "file_id": 551172,
+            "file_name": "Draugrs - SE by Xtudo - The Cause - Desint - 2K-123225-4-7-1728674718.7z",
+            "mod_id": 123225,
+            "hash": "sha256-NL72MFigqhb+g/LNS5l16INc5qRjgh7WlGvqJvZf6i4="
+        }
+    },
+    "Draugrs - SE by Xtudo - The Cause - Disint - 4K": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "4.7",
+            "file_id": 551178,
+            "file_name": "Draugrs - SE by Xtudo - The Cause - Disint - 4K-123225-4-7-1728675070.7z",
+            "mod_id": 123225,
+            "hash": "sha256-+26d/QymnxxSkIlpFpCxWN/rkmxtdS9YGNM4KpVclhM="
+        }
+    },
+    "Draugrs - SE by Xtudo - SIC - Dwemer Glowyfication": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "4.9",
+            "file_id": 552681,
+            "file_name": "Draugrs - SE by Xtudo - SIC - Dwemer Glowyfication-123225-4-9-1729086989.7z",
+            "mod_id": 123225,
+            "hash": "sha256-ZdiMc6UK0K8aJObB1bXVAan+0yxZOoyYIlXyOYU9A1w="
+        },
+        "type": "primary"
+    },
+    "Draugrs - SE by Xtudo - Gravewind - 4K": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "4.9",
+            "file_id": 552682,
+            "file_name": "Draugrs - SE by Xtudo - Gravewind - 4K-123225-4-9-1729087035.7z",
+            "mod_id": 123225,
+            "hash": "sha256-w/TfACQG5Zv4PMYVghosAQzfBLnUEwHrbLnwcxX8PtI="
+        },
+        "type": "primary"
+    },
+    "Draugrs - SE by Xtudo - Gravewind - 2K": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "4.9",
+            "file_id": 552683,
+            "file_name": "Draugrs - SE by Xtudo - Gravewind - 2K-123225-4-9-1729087075.7z",
+            "mod_id": 123225,
+            "hash": "sha256-gfUxoaUL3ryNUzXIKGq8t9pYs0g1WEUdgsOquUXVF+o="
+        },
+        "type": "primary"
+    },
+    "Draugrs - SE by Xtudo - Undeath The Ascension": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "5.2",
+            "file_id": 597544,
+            "file_name": "Draugrs - SE by Xtudo - Undeath The Ascension-123225-5-2-1740189191.7z",
+            "mod_id": 123225,
+            "hash": "sha256-FmZzMO7xQsS3JvHZVx+5V4RdA65ATuvFVSB4YeslwkI="
+        }
+    },
+    "Draugrs - SE by Xtudo - Undeath Classical Lichdom": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "5.3",
+            "file_id": 597728,
+            "file_name": "Draugrs - SE by Xtudo - Undeath Classical Lichdom-123225-5-3-1740234239.7z",
+            "mod_id": 123225,
+            "hash": "sha256-o4z+gtN9IyROhNq+1hYPaPy+WuMiW36vVJ6W+6pz5l4="
+        }
+    },
+    "Draugrs - SE by Xtudo - CC Necromantic Grimoire": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "5.3",
+            "file_id": 597729,
+            "file_name": "Draugrs - SE by Xtudo - CC Necromantic Grimoire-123225-5-3-1740234455.7z",
+            "mod_id": 123225,
+            "hash": "sha256-J4hKvNkuMsDZat0e1X6QGMvntQsEVKPyRivDl7CiG9o="
+        }
+    },
+    "Draugrs - SE by Xtudo - Diverse Dragon Priests 1K": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "5.4",
+            "file_id": 598903,
+            "file_name": "Draugrs - SE by Xtudo - Diverse Dragon Priests 1K-123225-5-4-1740488302.7z",
+            "mod_id": 123225,
+            "hash": "sha256-PhxCCcvUQlVdy3a6BC04K4VmdG+d5UcOucGYU1A7dHM="
+        }
+    },
+    "Draugrs - SE by Xtudo - Diverse Dragon Priests 4K": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "5.4",
+            "file_id": 598904,
+            "file_name": "Draugrs - SE by Xtudo - Diverse Dragon Priests 4K-123225-5-4-1740488330.7z",
+            "mod_id": 123225,
+            "hash": "sha256-yrmT/62uqkwFMlP/KLMETYM64bYDwHW6RMKPHbJ1HZg="
+        }
+    },
+    "Draugrs - SE by Xtudo - Diverse Dragon Priests 2K": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "5.4",
+            "file_id": 598905,
+            "file_name": "Draugrs - SE by Xtudo - Diverse Dragon Priests 2K-123225-5-4-1740488355.7z",
+            "mod_id": 123225,
+            "hash": "sha256-r0cN/U5SJcfMzomZUvSSYoYzjOujI85sLDxcOYV2okc="
+        }
+    },
+    "Draugrs - SE by Xtudo - Dragon Priest Vanilla": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "5.4",
+            "file_id": 598906,
+            "file_name": "Draugrs - SE by Xtudo - Dragon Priest Vanilla-123225-5-4-1740488392.7z",
+            "mod_id": 123225,
+            "hash": "sha256-ZYHNkz5cEws0dz3XCYaBCl5aVmHydyvP3/9TDaJCjXU="
+        }
+    },
+    "Draugrs - SE by Xtudo - Dragon Priest Vanilla GE": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "5.4",
+            "file_id": 598908,
+            "file_name": "Draugrs - SE by Xtudo - Dragon Priest Vanilla GE-123225-5-4-1740488639.7z",
+            "mod_id": 123225,
+            "hash": "sha256-xAWby9VErQEpWFGDmzuuzij9lxfmF0k9OuRa/BSpdcs="
+        }
+    },
+    "Draugrs - SE by Xtudo - Dragon Priest VComp": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "5.4",
+            "file_id": 598909,
+            "file_name": "Draugrs - SE by Xtudo - Dragon Priest VComp-123225-5-4-1740488678.7z",
+            "mod_id": 123225,
+            "hash": "sha256-kwlh/+KXHEXuEddbJox2t8FWFpHonVlHpLvBM9qo0Hg="
+        }
+    },
+    "Draugrs - SE by Xtudo - Dragon Priest VComp GE": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "5.4",
+            "file_id": 598910,
+            "file_name": "Draugrs - SE by Xtudo - Dragon Priest VComp GE-123225-5-4-1740488702.7z",
+            "mod_id": 123225,
+            "hash": "sha256-fI8RxmSn6zePwdBox8uhZu9ZAJbGs88hMDxNW6dAtRk="
+        }
+    },
+    "Draugrs - SE by Xtudo - Xavbio Dragon Priests": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "5.4",
+            "file_id": 598912,
+            "file_name": "Draugrs - SE by Xtudo - Xavbio Dragon Priests-123225-5-4-1740488740.7z",
+            "mod_id": 123225,
+            "hash": "sha256-9oPXNh05LtsifRFXTpnB/72hwEU1Esy1TKTxpP2Ja30="
+        }
+    },
+    "Draugrs - SE by Xtudo - Xavbio Dragon Priests VCom": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "5.4",
+            "file_id": 598913,
+            "file_name": "Draugrs - SE by Xtudo - Xavbio Dragon Priests VCom-123225-5-4-1740488762.7z",
+            "mod_id": 123225,
+            "hash": "sha256-+/zkOQlE2G3PJLx+Yb+tZ1aKsg3ozyz+1pEdjugFC1M="
+        }
+    },
+    "Draugrs - SE by Xtudo - LOTD Comp - 1K": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "5.4",
+            "file_id": 598914,
+            "file_name": "Draugrs - SE by Xtudo - LOTD Comp - 1K-123225-5-4-1740488799.7z",
+            "mod_id": 123225,
+            "hash": "sha256-TxNNjH0/OrjQ5zy03gXiKavKilvgXbcWmOIR7U7zIuc="
+        },
+        "type": "primary"
+    },
+    "Draugrs - SE by Xtudo - LOTD Comp - 2K": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "5.4",
+            "file_id": 598916,
+            "file_name": "Draugrs - SE by Xtudo - LOTD Comp - 2K-123225-5-4-1740488822.7z",
+            "mod_id": 123225,
+            "hash": "sha256-Le5xC3KbOhJ3ocoWJu7zH3nQsmsG36HoIBEoQGCMy8g="
+        },
+        "type": "primary"
+    },
+    "Draugrs - SE by Xtudo - LOTD Comp - 4K": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "5.4",
+            "file_id": 598917,
+            "file_name": "Draugrs - SE by Xtudo - LOTD Comp - 4K-123225-5-4-1740488859.7z",
+            "mod_id": 123225,
+            "hash": "sha256-bH7GggMDeZwzkKZ47b05M3bi6mrh58PJxMGEGHPbYR4="
+        },
+        "type": "primary"
+    },
+    "Draugrs - SE by Xtudo - LOTD Disint - 1K": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "5.4",
+            "file_id": 598918,
+            "file_name": "Draugrs - SE by Xtudo - LOTD Disint - 1K-123225-5-4-1740488880.7z",
+            "mod_id": 123225,
+            "hash": "sha256-otJWOQsI4+iQLuTsq5UxndQwphEH5nmELGF3i0sSfnU="
+        },
+        "type": "primary"
+    },
+    "Draugrs - SE by Xtudo - LOTD Disint - 2K": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "5.4",
+            "file_id": 598919,
+            "file_name": "Draugrs - SE by Xtudo - LOTD Disint - 2K-123225-5-4-1740488909.7z",
+            "mod_id": 123225,
+            "hash": "sha256-9XYupXmXiF5TZxAS2jE9JVBnuNLe0W6brH5KDnwvsB8="
+        },
+        "type": "primary"
+    },
+    "Draugrs - SE by Xtudo - LOTD Disint - 4K": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "5.4",
+            "file_id": 598920,
+            "file_name": "Draugrs - SE by Xtudo - LOTD Disint - 4K-123225-5-4-1740488936.7z",
+            "mod_id": 123225,
+            "hash": "sha256-7HF438/cqWKHL0TaBjy1K4TF3uw2bIz6exvuCKh6/CI="
+        },
+        "type": "primary"
+    },
+    "Draugrs - SE by Xtudo - The Cause - Red and Gold": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "5.5",
+            "file_id": 599411,
+            "file_name": "Draugrs - SE by Xtudo - The Cause - Red and Gold-123225-5-5-1740596727.7z",
+            "mod_id": 123225,
+            "hash": "sha256-XaC/8d1bta+nnWrXiLlspDbVfn/TpWyboEOhauV4cF8="
+        }
+    },
+    "Draugrs - SE by Xtudo - Ancient Falmer Ruins 4K": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "5.6",
+            "file_id": 615789,
+            "file_name": "Draugrs - SE by Xtudo - Ancient Falmer Ruins 4K-123225-5-6-1744292314.7z",
+            "mod_id": 123225,
+            "hash": "sha256-qTGe6+GjOuYJbAy/MowyYIvfjyyTWPNDix4g6di0nj4="
+        },
+        "type": "primary"
+    },
+    "Draugrs - SE by Xtudo - Ancient Falmer Ruins 2K": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "5.6",
+            "file_id": 615790,
+            "file_name": "Draugrs - SE by Xtudo - Ancient Falmer Ruins 2K-123225-5-6-1744292389.7z",
+            "mod_id": 123225,
+            "hash": "sha256-XE7wx5AviQhlixBjbN2jUfudFVY+1KL0g4nOb4rRDTs="
+        },
+        "type": "primary"
+    },
+    "Draugrs - SE by Xtudo - Ancient Falmer Ruins 1K": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "5.6",
+            "file_id": 615791,
+            "file_name": "Draugrs - SE by Xtudo - Ancient Falmer Ruins 1K-123225-5-6-1744292409.7z",
+            "mod_id": 123225,
+            "hash": "sha256-hhVJqXfgoYZ/xR23gkSkosz87WAhcuYfBouQHVmr6Wo="
+        },
+        "type": "primary"
+    },
+    "Draugrs - SE by Xtudo - Olenveld 2K": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "5.7",
+            "file_id": 617567,
+            "file_name": "Draugrs - SE by Xtudo - Olenveld 2K-123225-5-7-1744725285.7z",
+            "mod_id": 123225,
+            "hash": "sha256-b4pCYyS4rXjBNgwSe51jHAU+EeatEUNwXR8d193o/1k="
+        },
+        "type": "primary"
+    },
+    "Draugrs - SE by Xtudo - Olenveld 4K": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "5.7",
+            "file_id": 617568,
+            "file_name": "Draugrs - SE by Xtudo - Olenveld 4K-123225-5-7-1744725333.7z",
+            "mod_id": 123225,
+            "hash": "sha256-emWuFjYOptps0ZpmZdVgWOOdLjNAPazqHjGOVf7y0g4="
+        },
+        "type": "primary"
+    },
+    "Draugrs - SE by Xtudo - LeanWolfs Better-Shaped": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "5.8",
+            "file_id": 622639,
+            "file_name": "Draugrs - SE by Xtudo - LeanWolfs Better-Shaped-123225-5-8-1746104343.7z",
+            "mod_id": 123225,
+            "hash": "sha256-ivzB55UnANNo21kASsEGrocqo/mtRcCctywvya2x5uo="
+        },
+        "type": "primary"
+    },
+    "Draugrs - SE by Xtudo - ICOW": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "5.9",
+            "file_id": 625614,
+            "file_name": "Draugrs - SE by Xtudo - ICOW-123225-5-9-1746887471.7z",
+            "mod_id": 123225,
+            "hash": "sha256-zPW0p/nzBd95nTtWCx5UbQQqFt+UgyFBz8UxltE7vho="
+        },
+        "type": "primary"
+    },
+    "Draugrs - SE by Xtudo - D.E.A.D.": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "6.0",
+            "file_id": 634177,
+            "file_name": "Draugrs - SE by Xtudo - D.E.A.D.-123225-6-0-1748959954.7z",
+            "mod_id": 123225,
+            "hash": "sha256-fiVp3760MZQTYeRpKpfX76XxJe0KZQgPLcFNMDPQo3w="
+        },
+        "type": "primary"
+    },
+    "Draugrs - SE by Xtudo - Mihail Infant Draugr GE": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "6.1",
+            "file_id": 646357,
+            "file_name": "Draugrs - SE by Xtudo - Mihail Infant Draugr GE-123225-6-1-1752325069.7z",
+            "mod_id": 123225,
+            "hash": "sha256-huKMTKmp1W8gkOYeBfeYhlkYCmFe1NfZTBK5JA7EaPY="
+        },
+        "type": "primary"
+    },
+    "Draugrs - SE by Xtudo - Herebane Sorenshield": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "6.2",
+            "file_id": 653184,
+            "file_name": "Draugrs - SE by Xtudo - Herebane Sorenshield-123225-6-2-1754436531.7z",
+            "mod_id": 123225,
+            "hash": "sha256-XVwTKmCMOwrja91/dxYifhCCcohNe5SA7E2/RM3ToWI="
+        },
+        "type": "primary"
+    },
+    "Draugrs - SE by Xtudo - Soul Cairn Boss": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "6.3",
+            "file_id": 658408,
+            "file_name": "Draugrs - SE by Xtudo - Soul Cairn Boss-123225-6-3-1755959400.7z",
+            "mod_id": 123225,
+            "hash": "sha256-NU4I0ZbFKkZVaEtlCoFnbbc4Mob2uzvbatn2635YwEQ="
+        },
+        "type": "primary"
+    },
+    "Draugrs - SE by Xtudo - The Cause Xavbio - 1K": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "6.4",
+            "file_id": 670889,
+            "file_name": "Draugrs - SE by Xtudo - The Cause Xavbio - 1K-123225-6-4-1759259760.7z",
+            "mod_id": 123225,
+            "hash": "sha256-E/djpLvwzC2GKKebz+kBIXV8CmmX/OfsjFNbBJPC56A="
+        }
+    },
+    "Draugrs - SE by Xtudo - The Cause Xavbio - 4K": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "6.4",
+            "file_id": 670891,
+            "file_name": "Draugrs - SE by Xtudo - The Cause Xavbio - 4K-123225-6-4-1759259828.7z",
+            "mod_id": 123225,
+            "hash": "sha256-sYt8SZP/UNk7hwfHXHqPAXqB0b+X+dSULVe4d9JyOuI="
+        }
+    },
+    "Draugrs - SE by Xtudo - The Cause Xavbio - 2K": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "6.4",
+            "file_id": 670892,
+            "file_name": "Draugrs - SE by Xtudo - The Cause Xavbio - 2K-123225-6-4-1759259864.7z",
+            "mod_id": 123225,
+            "hash": "sha256-pOV/w6IP7qzELts2jwfjLtPAoaAgO4CaaeWPrIp8YtA="
+        }
+    },
+    "Draugrs - SE by Xtudo - The Cause Xavbio Dis - 4K": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "6.4",
+            "file_id": 670893,
+            "file_name": "Draugrs - SE by Xtudo - The Cause Xavbio Dis - 4K-123225-6-4-1759259940.7z",
+            "mod_id": 123225,
+            "hash": "sha256-FhQrc7OzLLivOpk8nLdlyY56xcrY/RBK3tAOgMFlW8U="
+        }
+    },
+    "Draugrs - SE by Xtudo - The Cause Xavbio Dis - 2K": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "6.4",
+            "file_id": 670894,
+            "file_name": "Draugrs - SE by Xtudo - The Cause Xavbio Dis - 2K-123225-6-4-1759259972.7z",
+            "mod_id": 123225,
+            "hash": "sha256-hf984iYCo0xu4vWIuOUyzTolsZymqIeQx2sfX2PX4KM="
+        }
+    },
+    "Draugrs - SE by Xtudo - The Cause Xavbio Dis - 1K": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "6.4",
+            "file_id": 670895,
+            "file_name": "Draugrs - SE by Xtudo - The Cause Xavbio Dis - 1K-123225-6-4-1759260020.7z",
+            "mod_id": 123225,
+            "hash": "sha256-E/djpLvwzC2GKKebz+kBIXV8CmmX/OfsjFNbBJPC56A="
+        }
+    },
+    "Draugrs - SE by Xtudo - Modder's Resource Pack": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "6.5",
+            "file_id": 671114,
+            "file_name": "Draugrs - SE by Xtudo - Modder's Resource Pack-123225-6-5-1759326522.7z",
+            "mod_id": 123225,
+            "hash": "sha256-8mrUTttWv1KrCYzpTF7GSQdjbsX39ihADOgBqnordrQ="
+        },
+        "type": "primary"
+    },
+    "Draugrs - SE by Xtudo - Believable Weapons": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "6.6",
+            "file_id": 672870,
+            "file_name": "Draugrs - SE by Xtudo - Believable Weapons-123225-6-6-1759752621.7z",
+            "mod_id": 123225,
+            "hash": "sha256-0PdgIO8MvA/bTy+Z8y+3pUw55zkhVX6zdxEV45na9OM="
+        },
+        "type": "primary"
+    },
+    "Draugrs - SE by Xtudo - King-Priest": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "6.8",
+            "file_id": 684366,
+            "file_name": "Draugrs - SE by Xtudo - King-Priest-123225-6-8-1762438811.7z",
+            "mod_id": 123225,
+            "hash": "sha256-57WdboWkEhLWEOJosL5Wg2i1EMgtfyOWK5dxCLKGvBw="
+        },
+        "type": "primary"
+    },
+    "Draugrs - SE by Xtudo - Skyrim Boss Overhaul": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "6.9",
+            "file_id": 684691,
+            "file_name": "Draugrs - SE by Xtudo - Skyrim Boss Overhaul-123225-6-9-1762525101.7z",
+            "mod_id": 123225,
+            "hash": "sha256-M86Ui1EBdthyG8OlKXmT9K++CH33Y5def8b4TYUMVsY="
+        },
+        "type": "primary"
+    },
+    "Draugrs - SE by Xtudo - Stalhrim Refrozen": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "7.0",
+            "file_id": 699904,
+            "file_name": "Draugrs - SE by Xtudo - Stalhrim Refrozen-123225-7-0-1766227517.7z",
+            "mod_id": 123225,
+            "hash": "sha256-o1nytjIQ7OevpVuHLlPie5LuIQgWRc1Xx12SFdTNXR4="
+        },
+        "type": "primary"
+    },
+    "Draugrs - SE by Xtudo - Ayleids Equip Armor": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "7.1",
+            "file_id": 702236,
+            "file_name": "Draugrs - SE by Xtudo - Ayleids Equip Armor-123225-7-1-1766754646.7z",
+            "mod_id": 123225,
+            "hash": "sha256-qdGN+gxwmCD67o4mPwNtje1Ve4PAG3Lkr3oxbCYmL5w="
+        },
+        "type": "primary"
+    }
+}

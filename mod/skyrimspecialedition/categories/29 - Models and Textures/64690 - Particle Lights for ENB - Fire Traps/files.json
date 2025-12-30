@@ -1,0 +1,23 @@
+{
+  "Particle Lights for ENB - Fire Traps - FULL": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1",
+      "file_id": 273213,
+      "file_name": "Particle Lights for ENB - Fire Traps - FULL-64690-1-1-1648444703.rar",
+      "mod_id": 64690,
+      "hash": "sha256-gcl74/ZYBAFwiiL4/LEHNup+GLGhEsLhSL+3crNDGUc="
+    },
+    "type": "primary"
+  },
+  "Particle Lights for ENB - Fire Traps - NORDIC ONLY": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1",
+      "file_id": 273214,
+      "file_name": "Particle Lights for ENB - Fire Traps - NORDIC ONLY-64690-1-1-1648444769.rar",
+      "mod_id": 64690,
+      "hash": "sha256-3649qefffe90wOSELCq07ooMo8jzMBBBIWdA/aa6t6A="
+    }
+  }
+}

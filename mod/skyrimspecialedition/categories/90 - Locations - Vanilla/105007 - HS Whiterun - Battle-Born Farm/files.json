@@ -1,0 +1,43 @@
+{
+  "HSWhiterun - Battle-Born Farm - ELFX": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0.0",
+      "file_id": 443619,
+      "file_name": "HSWhiterun - Battle-Born Farm - ELFX-105007-1-0-0-1700319112.7z",
+      "mod_id": 105007,
+      "hash": "sha256-hEgepXjRKjvqji6yH4YwRRls0NqRFCjO+G781hTDCuY="
+    }
+  },
+  "HSWhiterun - Battle-Born Farm": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0.2",
+      "file_id": 447155,
+      "file_name": "HSWhiterun - Battle-Born Farm-105007-1-0-2-1701275253.7z",
+      "mod_id": 105007,
+      "hash": "sha256-/bxXGe+csKUDuI98R7nHXwQbot3lapjOqfUHOGIX3vg="
+    },
+    "type": "primary"
+  },
+  "HSWhiterun - Battle-Born Farm - LUX": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0.1",
+      "file_id": 452251,
+      "file_name": "HSWhiterun - Battle-Born Farm - LUX-105007-1-0-1-1702694766.7z",
+      "mod_id": 105007,
+      "hash": "sha256-jJd93r8VjSeYMD0aTZdT3smNEaE2Ctkh5hL0UgoB3OQ="
+    }
+  },
+  "HSWhiterun - Battle-Born Farm - LUX VIA": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0.0",
+      "file_id": 452252,
+      "file_name": "HSWhiterun - Battle-Born Farm - LUX VIA-105007-1-0-0-1702694812.7z",
+      "mod_id": 105007,
+      "hash": "sha256-aW8hewesbxamWqg+Nm5OfKP7wOYxcaVJpzQJvAf3aPw="
+    }
+  }
+}

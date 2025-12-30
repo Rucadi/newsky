@@ -1,0 +1,24 @@
+{
+    "Skyrim 10th Anniversary Menu": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "1.0.0",
+            "file_id": 365128,
+            "file_name": "Skyrim 10th Anniversary Menu-86184-1-0-0-1677861824.zip",
+            "mod_id": 86184,
+            "hash": "sha256-bpE4HHZdPvC33CjsR5uUgDuzECUkBWhke+uIUI2CV14="
+        },
+        "type": "primary"
+    },
+    "Skyrim 10th Anniversary Menu - Widescreen": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "1.0.0",
+            "file_id": 365130,
+            "file_name": "Skyrim 10th Anniversary Menu - Widescreen-86184-1-0-0-1677862207.zip",
+            "mod_id": 86184,
+            "hash": "sha256-BurQFrTe6YMlGf0usZSLLWCFY5ReBxXGnrp+bE/jEqc="
+        },
+        "type": "primary"
+    }
+}

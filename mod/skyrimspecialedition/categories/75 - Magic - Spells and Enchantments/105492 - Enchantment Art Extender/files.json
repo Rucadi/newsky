@@ -1,0 +1,23 @@
+{
+  "Vibrant Weapons - EAE (Updated Configuration)": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "2.0.2",
+      "file_id": 572824,
+      "file_name": "Vibrant Weapons - EAE (Updated Configuration)-105492-2-0-2-1734303412.7z",
+      "mod_id": 105492,
+      "hash": "sha256-wiK0VfmeZyztIp4h0vi6r3X++JsVA/7bEec+pStdDgs="
+    }
+  },
+  "Enchantment Art Extender": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "2.0.4",
+      "file_id": 573324,
+      "file_name": "Enchantment Art Extender-105492-2-0-4-1734444623.7z",
+      "mod_id": 105492,
+      "hash": "sha256-jLDryFzoX6yjc3bNG7j8VrSNZwCjK6AfklBMJ2Ba05k="
+    },
+    "type": "primary"
+  }
+}

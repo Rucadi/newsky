@@ -1,0 +1,62 @@
+{
+  "Skyking Potent Potables CS Light Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.2",
+      "file_id": 608949,
+      "file_name": "Skyking Potent Potables CS Light Patch-145295-1-2-1742760127.7z",
+      "mod_id": 145295,
+      "hash": "sha256-aoP8Los70ZdBwshdyJW3wgW92fzqETLvQ4J01E4LShw="
+    }
+  },
+  "Skyking Potent Potables UAPNG Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.3",
+      "file_id": 612182,
+      "file_name": "Skyking Potent Potables UAPNG Patch-145295-1-3-1743440878.7z",
+      "mod_id": 145295,
+      "hash": "sha256-7U5HkvA0d9HV8CCDkO0jqvLifT5YSEFBvjqtRLsQxRU="
+    }
+  },
+  "Skyking Potent Potables - Potions and Poisons 1k": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.4",
+      "file_id": 667356,
+      "file_name": "Skyking Potent Potables - Potions and Poisons 1k-145295-1-4-1758299168.7z",
+      "mod_id": 145295,
+      "hash": "sha256-lv3ni6M3yjoR55vyb+wyBpZtaAgEf7EPn0ctuLPOjzA="
+    },
+    "type": "primary"
+  },
+  "Skyking Potent Potables - Potions and Poisons 2k": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.4",
+      "file_id": 667357,
+      "file_name": "Skyking Potent Potables - Potions and Poisons 2k-145295-1-4-1758299273.7z",
+      "mod_id": 145295
+    },
+    "type": "primary"
+  },
+  "Skyking Potent Potables - Potions and Poisons 4k": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.4",
+      "file_id": 667358,
+      "file_name": "Skyking Potent Potables - Potions and Poisons 4k-145295-1-4-1758299544.7z",
+      "mod_id": 145295
+    },
+    "type": "primary"
+  },
+  "Skyking Potent Potables - No ENB Glow": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.4",
+      "file_id": 667359,
+      "file_name": "Skyking Potent Potables - No ENB Glow-145295-1-4-1758299582.7z",
+      "mod_id": 145295
+    }
+  }
+}

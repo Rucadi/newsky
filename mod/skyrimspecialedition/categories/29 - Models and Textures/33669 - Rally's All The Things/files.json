@@ -1,0 +1,24 @@
+{
+  "Rally's All The Things - Rally's Cut": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.6",
+      "file_id": 426251,
+      "file_name": "Rally's All The Things - Rally's Cut-33669-1-6-1694871044.7z",
+      "mod_id": 33669,
+      "hash": "sha256-UQ5hNICNgb5T+h1hf4hGZ/5gfQKhsioecJEPuVkqFAA="
+    },
+    "type": "primary"
+  },
+  "Rally's All The Things - FOMOD": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.6",
+      "file_id": 426381,
+      "file_name": "Rally's All The Things - FOMOD-33669-1-6-1694898094.7z",
+      "mod_id": 33669,
+      "hash": "sha256-BWl/Q9fQE2sEovMVotDIYJ9bF1K/0J75yjD/FZC+avg="
+    },
+    "type": "primary"
+  }
+}

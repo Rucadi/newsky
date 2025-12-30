@@ -1,0 +1,90 @@
+{
+  "ElSopa 4K Campfire": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 86442,
+      "file_name": "ElSopa 4K Campfire-24511-1-0-1553662039.7z",
+      "mod_id": 24511,
+      "hash": "sha256-3J+oOh56FuYvF8uh8A9ebGdh9BApT1nWsMotBCGl/Sw="
+    },
+    "type": "primary"
+  },
+  "ElSopa 2K Campfire": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 86443,
+      "file_name": "ElSopa 2K Campfire-24511-1-0-1553662178.7z",
+      "mod_id": 24511,
+      "hash": "sha256-9VPT48NE8fX9CPWO3l8n5GxNgZzszmVFIbDNFadIi8E="
+    },
+    "type": "primary"
+  },
+  "ElSopa 1K Campfire": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 86444,
+      "file_name": "ElSopa 1K Campfire-24511-1-0-1553662240.7z",
+      "mod_id": 24511,
+      "hash": "sha256-USpqlYgXg1057meyQflL55r+PlWkpz2+iKrv5GXZ3JM="
+    },
+    "type": "primary"
+  },
+  "ElSopa 512 Campfire": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 86445,
+      "file_name": "ElSopa 512 Campfire-24511-1-0-1553662287.7z",
+      "mod_id": 24511,
+      "hash": "sha256-VHSaXhTcRprKxFeTAN3Z6X2vfqDnkf+8oeApojyGGa0="
+    },
+    "type": "primary"
+  },
+  "ElSopa - 4k Campfire Clean Waterskin": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 152278,
+      "file_name": "ElSopa - 4k Campfire Clean Waterskin-24511-1-0-1595786632.7z",
+      "mod_id": 24511,
+      "hash": "sha256-XDeUPnT2s1+v5s1RCyzIFrrTNkic8RF+9lf5+3QeVRE="
+    },
+    "type": "primary"
+  },
+  "ElSopa - 2k Campfire Clean Waterskin": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 152279,
+      "file_name": "ElSopa - 2k Campfire Clean Waterskin-24511-1-0-1595786714.7z",
+      "mod_id": 24511,
+      "hash": "sha256-q+0vR9Za3QHAOUjdR14XKHIyb+V6vfqG7PbvnCZQxNk="
+    },
+    "type": "primary"
+  },
+  "ElSopa - 1k Campfire Clean Waterskin": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 152280,
+      "file_name": "ElSopa - 1k Campfire Clean Waterskin-24511-1-0-1595786866.7z",
+      "mod_id": 24511,
+      "hash": "sha256-6Zmvz8RH/0IDa81aGo2StpKTiiDlnjwI+v5kdqu12kc="
+    },
+    "type": "primary"
+  },
+  "ElSopa - 512 Campfire Clean Waterskin": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 152281,
+      "file_name": "ElSopa - 512 Campfire Clean Waterskin-24511-1-0-1595786905.7z",
+      "mod_id": 24511,
+      "hash": "sha256-/Br2JpvXLlMBP2v4Fez1TUCsnsGu1EgzT4T/aI1Ztpw="
+    },
+    "type": "primary"
+  }
+}

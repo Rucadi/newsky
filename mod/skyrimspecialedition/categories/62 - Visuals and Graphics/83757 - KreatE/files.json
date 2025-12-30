@@ -1,0 +1,24 @@
+{
+  "KreatE": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.4.1",
+      "file_id": 694609,
+      "file_name": "KreatE-83757-1-4-1-1764929580.7z",
+      "mod_id": 83757,
+      "hash": "sha256-hULwUf73jwEG+O5u+4G+mcRFridcmJzeUKweaooVmww="
+    },
+    "type": "primary"
+  },
+  "KreatE Legacy": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.4.1",
+      "file_id": 694610,
+      "file_name": "KreatE Legacy-83757-1-4-1-1764929604.7z",
+      "mod_id": 83757,
+      "hash": "sha256-Ppr1SYtK65ALFr0fEdBwMJLswg27q9N6gzzsFefvOns="
+    },
+    "type": "primary"
+  }
+}

@@ -1,0 +1,56 @@
+{
+  "Unique Skulls HD - SE 1K": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1",
+      "file_id": 215294,
+      "file_name": "Unique Skulls HD - SE 1K-52073-1-1-1626611858.7z",
+      "mod_id": 52073,
+      "hash": "sha256-baP6cDqAKJ+UyWlVwzdgfn9azGhHbnGuUSvpmDo0m7k="
+    },
+    "type": "primary"
+  },
+  "Unique Skulls HD - SE 2K": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1",
+      "file_id": 215295,
+      "file_name": "Unique Skulls HD - SE 2K-52073-1-1-1626611871.7z",
+      "mod_id": 52073,
+      "hash": "sha256-6rOzArvuE5jdL2EZuTZYev51ie3kZVxL2pIR4dqcH18="
+    },
+    "type": "primary"
+  },
+  "Unique Skulls HD - SE 4K": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1",
+      "file_id": 215296,
+      "file_name": "Unique Skulls HD - SE 4K-52073-1-1-1626611899.7z",
+      "mod_id": 52073,
+      "hash": "sha256-uulyKp7ok5eyxF7rplz++e8CFywVmZNIKvN7Rw6+hbo="
+    },
+    "type": "primary"
+  },
+  "Unique Skulls HD - SE 8K": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1",
+      "file_id": 215297,
+      "file_name": "Unique Skulls HD - SE 8K-52073-1-1-1626611990.7z",
+      "mod_id": 52073,
+      "hash": "sha256-OVrzXPqKZ49+7CJC+OBlAhhsogfGSexyi6shJCn8T/A="
+    },
+    "type": "primary"
+  },
+  "Unique Skulls HD - WACCF Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1",
+      "file_id": 240662,
+      "file_name": "Unique Skulls HD - WACCF Patch-52073-1-1-1636671218.7z",
+      "mod_id": 52073,
+      "hash": "sha256-hv35W1Td8K2iWqs+dT6gDb6FGfGUJJyUBDQsPxKT5kU="
+    }
+  }
+}

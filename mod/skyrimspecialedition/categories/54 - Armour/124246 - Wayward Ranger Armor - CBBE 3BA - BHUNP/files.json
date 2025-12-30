@@ -1,0 +1,63 @@
+{
+  "Wayward Ranger - 4k textures": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0.0",
+      "file_id": 527649,
+      "file_name": "Wayward Ranger - 4k textures-124246-1-0-0-1722632158.zip",
+      "mod_id": 124246,
+      "hash": "sha256-mJJwH/ReBRP5djBA2U4s1hc3M22iIo4Ue4zWOPPZVjA="
+    }
+  },
+  "Wayward Ranger - 2k textures": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0.0",
+      "file_id": 527676,
+      "file_name": "Wayward Ranger - 2k textures-124246-1-0-0-1722640185.zip",
+      "mod_id": 124246,
+      "hash": "sha256-IrikdYRLBiZjDFwsbKzw8AUSylNR+pGbSVC5H/XPN30="
+    }
+  },
+  "Wayward Ranger": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1.0",
+      "file_id": 529062,
+      "file_name": "Wayward Ranger-124246-1-1-0-1723009366.zip",
+      "mod_id": 124246,
+      "hash": "sha256-7fppO5LNK0W6tTSo8f3ZtqjgUksjcLoo4EPC1syxIXY="
+    },
+    "type": "primary"
+  },
+  "Wayward Ranger - BodySlides - BHUNP": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1.0",
+      "file_id": 529181,
+      "file_name": "Wayward Ranger - BodySlides - BHUNP-124246-1-1-0-1723049579.zip",
+      "mod_id": 124246,
+      "hash": "sha256-nGCjDr2GnJT755R+LytaMkpiv8q9QUnPpAnhVpR5QY0="
+    }
+  },
+  "Wayward Ranger - BodySlides - CBBE 3BA": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1.0",
+      "file_id": 529182,
+      "file_name": "Wayward Ranger - BodySlides - CBBE 3BA-124246-1-1-0-1723049655.zip",
+      "mod_id": 124246,
+      "hash": "sha256-d0fR95zErxgzZp2NQ4k9m5HF8s4L433xj0QfXo02eOM="
+    }
+  },
+  "Wayward Ranger - Patches": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1.0",
+      "file_id": 689301,
+      "file_name": "Optional Patches-124246-1-1-0-1763625026.7z",
+      "mod_id": 124246,
+      "hash": "sha256-nmaRBX6onTkhclfFrISHZtqGhR1FdQELpBvtduSVyyE="
+    }
+  }
+}

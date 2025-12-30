@@ -1,0 +1,33 @@
+{
+  "HSWhiterun - Jorrvaskr - ELFX": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0.0",
+      "file_id": 334412,
+      "file_name": "HSWhiterun - Jorrvaskr - ELFX-79389-1-0-0-1669351751.7z",
+      "mod_id": 79389,
+      "hash": "sha256-ccWlsphRUxio3Q+zsi/JFHTr0yFqmPAcPtDQ0B+H8R8="
+    }
+  },
+  "HSWhiterun - Jorrvaskr - LUX": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0.0",
+      "file_id": 344122,
+      "file_name": "HSWhiterun - Jorrvaskr - LUX-79389-1-0-0-1672202987.7z",
+      "mod_id": 79389,
+      "hash": "sha256-nNTT7YfVDTnbOuPZ7VVJ1gGAMylDLD9cigfkGBsz3iE="
+    }
+  },
+  "HSWhiterun - Jorrvaskr": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "2.0.0",
+      "file_id": 518326,
+      "file_name": "HSWhiterun - Jorrvaskr-79389-2-0-0-1720301429.7z",
+      "mod_id": 79389,
+      "hash": "sha256-Wo/UWEhFrcgGSVVTV6WJ2hRoN5cqD7TdeXfErkVx38U="
+    },
+    "type": "primary"
+  }
+}

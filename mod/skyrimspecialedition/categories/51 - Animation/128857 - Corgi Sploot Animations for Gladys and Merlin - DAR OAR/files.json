@@ -1,0 +1,23 @@
+{
+  "Corgi Sploot Anims DAR-OAR SE": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 540655,
+      "file_name": "Corgi Sploot Anims DAR-OAR SE-128857-1-0-1725968859.zip",
+      "mod_id": 128857,
+      "hash": "sha256-gna5rXgjBRY7P87fFGhMWlvKu9GqxHM7RuEkFKBXJXo="
+    },
+    "type": "primary"
+  },
+  "Corgi Sploot Anims Vanilla Replacer SE": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 540656,
+      "file_name": "Corgi Sploot Anims Vanilla Replacer SE-128857-1-0-1725968933.zip",
+      "mod_id": 128857,
+      "hash": "sha256-fiti0cEJgRqQgLnjtKmJZweTfMf/BpQhNKm36vVv1dU="
+    }
+  }
+}

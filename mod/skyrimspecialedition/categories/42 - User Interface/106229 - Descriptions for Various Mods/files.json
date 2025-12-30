@@ -1,0 +1,24 @@
+{
+  "Descriptions for Various Mods - Only Usable Items": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "2.6.1",
+      "file_id": 590820,
+      "file_name": "Descriptions for Various Mods - Only Usable Items-106229-2-6-1738633506.zip",
+      "mod_id": 106229,
+      "hash": "sha256-AUcuWoT6W7TQ8wBpmcfCOTJawm5GOIBzkEEnSFy0Np0="
+    },
+    "type": "primary"
+  },
+  "Descriptions for Various Mods": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "2.6.1",
+      "file_id": 590850,
+      "file_name": "Descriptions for Various Mods-106229-2-6-1-1738638996.zip",
+      "mod_id": 106229,
+      "hash": "sha256-2uhPgsO6WoLKdDBXnnfeMapmdLB8y08JfRDtHIEmfro="
+    },
+    "type": "primary"
+  }
+}

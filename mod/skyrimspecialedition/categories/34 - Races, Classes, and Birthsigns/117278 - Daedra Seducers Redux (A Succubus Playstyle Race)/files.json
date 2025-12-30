@@ -1,0 +1,23 @@
+{
+  "Daedra Seducers Redux": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.4.1",
+      "file_id": 695692,
+      "file_name": "Daedra Seducers Redux-117278-1-4-1-1765174410.7z",
+      "mod_id": 117278,
+      "hash": "sha256-zrrCPgaO3uZQ83zB5Cgvntk0XfUXO/YytoKtJXO83d0="
+    },
+    "type": "primary"
+  },
+  "Default Body - Teeth and Mouth Fix": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.4.1.1",
+      "file_id": 701565,
+      "file_name": "Default Body - Teeth and Mouth Fix-117278-1-4-1-1-1766560982.7z",
+      "mod_id": 117278,
+      "hash": "sha256-6pDG+oh8Q7C3lxabxeq6k6xqPDFhwzDO6KKyq74pFIs="
+    }
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "Scene Tweak - No Awkward Laughs - Dark Brotherhood": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 257009,
+      "file_name": "Scene Tweak - No Awkward Laughs - Dark Brotherhood-61986-1-0-1642278520.7z",
+      "mod_id": 61986,
+      "hash": "sha256-SmOFjM8NhUwRAWUMtzdXDpfInHbjuUz9U86UU3C1QVA="
+    },
+    "type": "primary"
+  },
+  "Scene Tweak - No Awkward Laughs - Uthgerd and Skulvar": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 257011,
+      "file_name": "Scene Tweak - No Awkward Laughs - Uthgerd and Skulvar-61986-1-0-1642278556.7z",
+      "mod_id": 61986,
+      "hash": "sha256-8DH/zcZhVwIQWCMriCKABHtaHmJPAO2Wt0A79qEBUfU="
+    }
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "Divine Blessings": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1",
+      "file_id": 547130,
+      "file_name": "Divine Blessings-130397-1-1727546091.zip",
+      "mod_id": 130397,
+      "hash": "sha256-fJjJubqrJ4SMR9SMHn3/i3IsycpJpRvAML7KdG6v+8U="
+    },
+    "type": "primary"
+  },
+  "Divine Blessings Ingame File": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1",
+      "file_id": 548948,
+      "file_name": "Divine Blessings Ingame File-130397-1-1728049598.zip",
+      "mod_id": 130397,
+      "hash": "sha256-AshwVC5z67pgmkb1jECoXmoLxjs//vE1N/5lCzB/un4="
+    },
+    "type": "primary"
+  }
+}

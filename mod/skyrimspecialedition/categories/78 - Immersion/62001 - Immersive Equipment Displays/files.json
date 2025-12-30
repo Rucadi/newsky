@@ -1,0 +1,24 @@
+{
+  "Immersive Equipment Displays for 1.5.39 - 1.6.353": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.7.4",
+      "file_id": 450464,
+      "file_name": "Immersive Equipment Displays for 1.5.39 - 1.6.353-62001-1-7-4-1702213343.zip",
+      "mod_id": 62001,
+      "hash": "sha256-pe56j2/OrR72e9cdsAzdu4z1M0LroV1dGP8ytRjKa+c="
+    },
+    "type": "primary"
+  },
+  "Immersive Equipment Displays for 1.6.629 and newer": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.7.4",
+      "file_id": 450465,
+      "file_name": "Immersive Equipment Displays for 1.6.629 and newer-62001-1-7-4-1702213373.zip",
+      "mod_id": 62001,
+      "hash": "sha256-hC7gB++/U9Kz12oxirjWjLKMVyx7eReGAJ3BMGhS35o="
+    },
+    "type": "primary"
+  }
+}

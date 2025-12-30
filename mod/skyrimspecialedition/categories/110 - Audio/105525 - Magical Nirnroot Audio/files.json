@@ -1,0 +1,23 @@
+{
+  "Magical Nirnroot ISC Replacer": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 617709,
+      "file_name": "Magical Nirnroot ISC Replacer-105525-1-0-1744762764.zip",
+      "mod_id": 105525,
+      "hash": "sha256-3wtleLhVyKXQ6bb5OlxCkZF8lIPDjUQKRNNhrwatk7k="
+    },
+    "type": "primary"
+  },
+  "Magical Nirnroot": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 617710,
+      "file_name": "Magical Nirnroot-105525-1-0-1744762809.zip",
+      "mod_id": 105525,
+      "hash": "sha256-Q1ynKx3dFacsyDiNrv8zNWMwTphDQBkBr5E9APIzUus="
+    }
+  }
+}

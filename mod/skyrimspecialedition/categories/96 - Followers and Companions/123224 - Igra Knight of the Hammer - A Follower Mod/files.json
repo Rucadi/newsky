@@ -1,0 +1,23 @@
+{
+  "Igra Knight of the Hammer": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1",
+      "file_id": 517797,
+      "file_name": "Igra Knight of the Hammer-123224-1-1720141195.rar",
+      "mod_id": 123224,
+      "hash": "sha256-hjoyCYLQxiqaP5LCshR26IQCtriLpfz964YBMS7hHN8="
+    },
+    "type": "primary"
+  },
+  "Igra - High Poly Preset": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1",
+      "file_id": 518248,
+      "file_name": "Igra - High Poly Preset-123224-1-1720282733.rar",
+      "mod_id": 123224,
+      "hash": "sha256-XHrEankEmGuen9+RuN68GPJJFy5LP1CwqS9Fab16GOo="
+    }
+  }
+}

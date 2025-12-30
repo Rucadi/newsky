@@ -1,0 +1,23 @@
+{
+  "Simple Snow Improvements - Giant Obelisk - BDS2": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.4.1",
+      "file_id": 440022,
+      "file_name": "Simple Snow Improvements - Giant Obelisk - BDS2-75251-1-4-1699182783.rar",
+      "mod_id": 75251,
+      "hash": "sha256-xZowu3qvE/zKB0PqEEmWoKr9Rz2EBtrXeRCJ4uKZ8XI="
+    }
+  },
+  "Simple Snow Improvements - Giant Obelisk Fixes": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.4.1",
+      "file_id": 440060,
+      "file_name": "Simple Snow Improvements - Giant Obelisk Fixes-75251-1-4-1-1699192493.rar",
+      "mod_id": 75251,
+      "hash": "sha256-aMqb4Dngx9yhtueKh6NmL30HO3IphVDzbuWQY/xodvE="
+    },
+    "type": "primary"
+  }
+}

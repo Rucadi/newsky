@@ -1,0 +1,24 @@
+{
+  "Requiem - Seasonal Landscapes": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.00",
+      "file_id": 499403,
+      "file_name": "Requiem - Seasonal Landscapes-119030-1-00-1715257691.rar",
+      "mod_id": 119030,
+      "hash": "sha256-2qG/TTMsqnWzNJRtnMTdD7NXFQgy1E36B3ustJNNrfw="
+    },
+    "type": "primary"
+  },
+  "Requiem - Cathedral 3D Mountain Flowers": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.00",
+      "file_id": 499405,
+      "file_name": "Requiem - Cathedral 3D Mountain Flowers-119030-1-00-1715257769.rar",
+      "mod_id": 119030,
+      "hash": "sha256-j3WsVi4HXKR3Cq2a9CPGGdZBSsajrGdaGwMtbObV09I="
+    },
+    "type": "primary"
+  }
+}

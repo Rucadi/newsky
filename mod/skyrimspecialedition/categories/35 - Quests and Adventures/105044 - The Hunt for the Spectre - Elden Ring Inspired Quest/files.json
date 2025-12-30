@@ -1,0 +1,63 @@
+{
+    "The Hunt for the Spectre - Shattered Version - ESL": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "1.0",
+            "file_id": 443789,
+            "file_name": "The Hunt for the Spectre - Shattered Version-105044-1-0-1700348437.7z",
+            "mod_id": 105044,
+            "hash": "sha256-YtFJYzzIuPooEH0hyDOWK5i/hlQWVIRQUFjJ3pEdlcA="
+        }
+    },
+    "The Great Town of Ivarstead Patch": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "1.0",
+            "file_id": 462351,
+            "file_name": "The Great Town of Ivarstead Patch-105044-1-0-1705518713.7z",
+            "mod_id": 105044,
+            "hash": "sha256-tt4QYvq+HjMMzGGSiZQvVvxVdBgIXQXGq8d9z/9Rnus="
+        }
+    },
+    "Ryns Faendals House Patch": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "1.0",
+            "file_id": 462352,
+            "file_name": "Ryns Faendals House Patch-105044-1-0-1705518744.7z",
+            "mod_id": 105044,
+            "hash": "sha256-mznvILh8PNGT7wf+U2Y+wn+qdQbUiOTQ7e+99eL7K9M="
+        }
+    },
+    "Rodryks Dragon Bridge Patch": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "1.0",
+            "file_id": 462353,
+            "file_name": "Rodryks Dragon Bridge Patch-105044-1-0-1705518790.7z",
+            "mod_id": 105044,
+            "hash": "sha256-0eaiVC+N8SWNY2Xq14oDuXo/9c543ezdKfAK1RMMLWs="
+        }
+    },
+    "RedBag's Rorikstead Patch": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "1.0",
+            "file_id": 462354,
+            "file_name": "RedBag's Rorikstead Patch-105044-1-0-1705518823.7z",
+            "mod_id": 105044,
+            "hash": "sha256-RY87z5cJsv+15Hk/7wPiUj7vR60Mdf+dBWZ/XfTUZ3Y="
+        }
+    },
+    "The Hunt for the Spectre - ESL - 1.0.1": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "1.0.1",
+            "file_id": 619765,
+            "file_name": "The Hunt for the Spectre - ESL - 1.0.1-105044-1-0-1-1745242721.7z",
+            "mod_id": 105044,
+            "hash": "sha256-g40WjRioErUAi6ymr3HaKzGBdra9RQIR5rw12hkG6UM="
+        },
+        "type": "primary"
+    }
+}

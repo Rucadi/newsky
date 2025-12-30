@@ -1,0 +1,23 @@
+{
+  "EVE - Ahlam Dialogue Restored": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0.1",
+      "file_id": 535521,
+      "file_name": "EVE - Ahlam Dialogue Restored-127363-1-0-1-1724678312.zip",
+      "mod_id": 127363,
+      "hash": "sha256-fhF2HFcaXwHphw78rXJD3mKd2H+XW+HNHu9YOCgU0Jk="
+    },
+    "type": "primary"
+  },
+  "EVE - Ahlam Dialogue Restored OPTIONAL Version": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0.1b",
+      "file_id": 535522,
+      "file_name": "EVE - Ahlam Dialogue Restored OPTIONAL Version-127363-1-0-1b-1724678372.zip",
+      "mod_id": 127363,
+      "hash": "sha256-W6eIuqDTviDFRYe2TMU41AE2wx8I0wZyekM2B/Z+X2k="
+    }
+  }
+}

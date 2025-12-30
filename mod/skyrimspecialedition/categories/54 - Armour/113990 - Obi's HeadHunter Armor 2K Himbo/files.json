@@ -1,0 +1,23 @@
+{
+  "Obi's HeadHunter Armor": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 480402,
+      "file_name": "Obi's HeadHunter Armor-113990-1-0-1710403626.zip",
+      "mod_id": 113990,
+      "hash": "sha256-20h+eVz/dLMOQ+WeHDL/QA7Zr92zmBC0vx+YAyIu3tI="
+    },
+    "type": "primary"
+  },
+  "HIMBO Bodyslide Files": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 481422,
+      "file_name": "HIMBO Bodyslide Files-113990-1-0-1710667359.zip",
+      "mod_id": 113990,
+      "hash": "sha256-4EQcTR0NpUrIrPA+qi8StoYXvXp3rIM1wDpBlk0Ql0M="
+    }
+  }
+}

@@ -1,0 +1,33 @@
+{
+    "Shadow of Skyrim - Trembling Hands Unequips": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "1.3.3",
+            "file_id": 348467,
+            "file_name": "Shadow of Skyrim - Trembling Hands Unequips-65136-1-3-3-1673397029.7z",
+            "mod_id": 65136,
+            "hash": "sha256-x2ORAkJMUyKwcPrnMDxqphfjQ3t3NrTA4xBCl5ToEH4="
+        }
+    },
+    "Shadow of Skyrim - No Startup Message": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "1.3.4",
+            "file_id": 365443,
+            "file_name": "Shadow of Skyrim - No Startup Message-65136-1-3-4-1677950345.7z",
+            "mod_id": 65136,
+            "hash": "sha256-+298YbFvtBnfOnTGRe3g9l3qmJalqXfqGtqQaIc/jVQ="
+        }
+    },
+    "Shadow of Skyrim": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "1.3.4",
+            "file_id": 365445,
+            "file_name": "Shadow of Skyrim-65136-1-3-4-1677950671.7z",
+            "mod_id": 65136,
+            "hash": "sha256-R6kdWKkHIHnVpnNEERInVltyTjTshvbYfkkjjsA+Sls="
+        },
+        "type": "primary"
+    }
+}

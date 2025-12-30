@@ -1,0 +1,24 @@
+{
+  "Cathedral 3D Plants - Dark and Desat": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1",
+      "file_id": 480542,
+      "file_name": "Cathedral 3D Plants - Dark and Desat-110898-1-1-1710438333.7z",
+      "mod_id": 110898,
+      "hash": "sha256-33/ZMLwsch8ETlNo1OTQnHldMIG9wZxtlNFsBHq3tAw="
+    },
+    "type": "primary"
+  },
+  "Cathedral 3D Plants - Dark and Desat 1K - 2K": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1",
+      "file_id": 480543,
+      "file_name": "Cathedral 3D Plants - Dark and Desat 1K - 2K-110898-1-1-1710438396.7z",
+      "mod_id": 110898,
+      "hash": "sha256-EAP2c0WJxpiRZXJVQgx6HWPdoM2SLy4DfBMsvSownIU="
+    },
+    "type": "primary"
+  }
+}

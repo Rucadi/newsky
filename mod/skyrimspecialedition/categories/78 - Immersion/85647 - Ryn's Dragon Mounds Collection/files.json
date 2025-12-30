@@ -1,0 +1,24 @@
+{
+  "Ryn's Dragon Mounds Collection FOMOD": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1",
+      "file_id": 362937,
+      "file_name": "Ryn's Dragon Mounds Collection-85647-1-1-1677259914.rar",
+      "mod_id": 85647,
+      "hash": "sha256-m18WXA+xQ4v83goH7HMgqXRHqDAGfv05YJUCD9GOTrM="
+    },
+    "type": "primary"
+  },
+  "Ryn's Dragon Mounds Collection ALL IN ONE": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1.1",
+      "file_id": 377148,
+      "file_name": "Ryn's Dragon Mounds Collection ALL IN ONE-85647-1-1-1-1681164017.rar",
+      "mod_id": 85647,
+      "hash": "sha256-7wOcWfNK4DIaaoVURsh0G/j8D6fl/iXAQc8R2HRVEyA="
+    },
+    "type": "primary"
+  }
+}

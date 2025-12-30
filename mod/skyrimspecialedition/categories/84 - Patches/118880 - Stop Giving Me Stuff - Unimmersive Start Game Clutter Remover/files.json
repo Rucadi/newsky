@@ -1,0 +1,46 @@
+{
+  "Lucifer - Custom Voiced Follower Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0.0",
+      "file_id": 498895,
+      "file_name": "Lucifer - Custom Voiced Follower Patch-118880-1-0-0-1715115607.zip",
+      "mod_id": 118880,
+      "hash": "sha256-jbXSK+8KuhXnF1wvul98zrd/NoURrKtSuj4doXmvTkg="
+    },
+    "type": "primary"
+  },
+  "Remiel - Custom Voiced Follower Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0.0",
+      "file_id": 498897,
+      "file_name": "Remiel - Custom Voiced Follower Patch-118880-1-0-0-1715115688.zip",
+      "mod_id": 118880,
+      "hash": "sha256-AQfEwdIEXg9XqRE17F6mQ7LNKno23ArHpaG6fRnbrys="
+    },
+    "type": "primary"
+  },
+  "Sa'chil - Custom Voiced Follower Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0.0",
+      "file_id": 498898,
+      "file_name": "Sa'chil - Custom Voiced Follower Patch-118880-1-0-0-1715115738.zip",
+      "mod_id": 118880,
+      "hash": "sha256-AkiNQ3z0/wyXUffZYF2PHSjqsq0FW5XL7cel/IugH4c="
+    },
+    "type": "primary"
+  },
+  "Immersive Armors Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0.0",
+      "file_id": 501047,
+      "file_name": "Immersive Armors Patch-118880-1-0-0-1715717416.zip",
+      "mod_id": 118880,
+      "hash": "sha256-h4ORbGj7BOuUQOnPWMM96LYNINO0Dp7CmMOu8BpfskE="
+    },
+    "type": "primary"
+  }
+}

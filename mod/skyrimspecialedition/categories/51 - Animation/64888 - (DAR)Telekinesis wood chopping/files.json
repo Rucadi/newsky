@@ -1,0 +1,35 @@
+{
+  "Telekinesis_wood_choping_SE_V1_for_Natasha": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "V1",
+      "file_id": 269718,
+      "file_name": "Telekinesis_wood_choping-64888-V1-1647131429.zip",
+      "mod_id": 64888,
+      "hash": "sha256-IihZ33RR39kgxZMegeOXJ3JQC2sqk9wxZdYORrf1h08="
+    },
+    "type": "primary"
+  },
+  "Telekinesis_wood_choping_SE_V1_for_PlayerCharacter": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "V1",
+      "file_id": 269719,
+      "file_name": "Telekinesis_wood_choping_SE_V1_for_PlayerCharacter-64888-V1-1647131502.zip",
+      "mod_id": 64888,
+      "hash": "sha256-ud11xamiqappcjvmqnIMGa6c3JqFLF+ul0nsYFQH9FU="
+    },
+    "type": "primary"
+  },
+  "Telekinesis_wood_choping_SE_V1_for_AllWitchNPC": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "V1",
+      "file_id": 269801,
+      "file_name": "Telekinesis_wood_choping_SE_V1_for_AllWitchNPC-64888-V1-1647156843.zip",
+      "mod_id": 64888,
+      "hash": "sha256-YE5jn0bthqHZ3hGcoHwEiSDW1lh68g+b0EHzQXu+RbA="
+    },
+    "type": "primary"
+  }
+}

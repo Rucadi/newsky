@@ -1,0 +1,35 @@
+{
+  "ETHEREAL CLOUDS SE - 1K": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "3.0",
+      "file_id": 166493,
+      "file_name": "ETHEREAL CLOUDS SE - 1K-2393-3-0-1603320611.7z",
+      "mod_id": 2393,
+      "hash": "sha256-a30SnPdgy+MPCqgOhyOxu8dJF5XZUSz/Fcoo63CM+50="
+    },
+    "type": "primary"
+  },
+  "ETHEREAL CLOUDS SE - 2K": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "3.0",
+      "file_id": 166494,
+      "file_name": "ETHEREAL CLOUDS SE - 2K-2393-3-0-1603321016.7z",
+      "mod_id": 2393,
+      "hash": "sha256-T7BdP6HZJn2eSSx7IaJsCFI4/dulVw8MCr/reL4Y988="
+    },
+    "type": "primary"
+  },
+  "ETHEREAL CLOUDS SE - 4K": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "3.0",
+      "file_id": 166495,
+      "file_name": "ETHEREAL CLOUDS SE - 4K-2393-3-0-1603321175.7z",
+      "mod_id": 2393,
+      "hash": "sha256-mvL2AhxI9GGnUjW1qViohf/t6ThxfUdyBqEARGDoFtI="
+    },
+    "type": "primary"
+  }
+}

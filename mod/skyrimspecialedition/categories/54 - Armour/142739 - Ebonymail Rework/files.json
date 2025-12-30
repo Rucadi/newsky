@@ -1,0 +1,43 @@
+{
+  "EbonyMail Rework 1.01": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.01",
+      "file_id": 599474,
+      "file_name": "EbonyMail Rework 1.01-142739-1-01-1740605398.7z",
+      "mod_id": 142739,
+      "hash": "sha256-JOJGFTEhK5JgeznCuEZFP1EP4OKOTm58F2GXyRSiMPs="
+    },
+    "type": "primary"
+  },
+  "EbonyMail Rework 1.01 CHS": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.01",
+      "file_id": 599475,
+      "file_name": "EbonyMail Rework 1.01 CHS-142739-1-01-1740605430.7z",
+      "mod_id": 142739,
+      "hash": "sha256-NEaBwZzBCZScNclZinXyoZB1R0F9u7MDy4uMTx/SHFA="
+    }
+  },
+  "EbonyMail Rework No Cloak Patch 1.01": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.01",
+      "file_id": 606367,
+      "file_name": "EbonyMail Rework No Cloak Patch 1.0-142739-1-0-1742138805.zip",
+      "mod_id": 142739,
+      "hash": "sha256-wMgCI2rmSnDHmvysFwr98cDVThzpu+h6+HjpN8fiU7k="
+    }
+  },
+  "EbonyMail Rework No Cloak Patch 1.01 CHS": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.01",
+      "file_id": 606368,
+      "file_name": "EbonyMail Rework No Cloak Patch 1.01 CHS-142739-1-01-1742138950.zip",
+      "mod_id": 142739,
+      "hash": "sha256-N3aqUAPCR/8iOdOYtgxTe+ynK4bgf6A4qcbxL5BX3WY="
+    }
+  }
+}

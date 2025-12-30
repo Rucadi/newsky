@@ -1,0 +1,24 @@
+{
+  "Give Beggars Food SE Custom Food List": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 278507,
+      "file_name": "Give Beggars Food-66838-1-0-1650484226.zip",
+      "mod_id": 66838,
+      "hash": "sha256-xaDob/Lud2O6le0AqJuhsH0w2Qs+HiY0Jp+PeBQLvaw="
+    },
+    "type": "primary"
+  },
+  "Give Beggars Food SE Non-Custom Food List": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 278508,
+      "file_name": "Give Beggars Food SE Non-Custom List-66838-1-0-1650484272.zip",
+      "mod_id": 66838,
+      "hash": "sha256-jFg30wbQk1Z2rpUogAgqvVhB2Dp+8XbWyddi/zBcyQk="
+    },
+    "type": "primary"
+  }
+}

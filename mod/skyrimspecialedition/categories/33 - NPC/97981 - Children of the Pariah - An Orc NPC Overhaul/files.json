@@ -1,0 +1,43 @@
+{
+  "CotP - Old Orc Follower Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.2.3.4",
+      "file_id": 503834,
+      "file_name": "CotP - Old Orc Follower Patch-97981-1-2-3-4-1716389189.7z",
+      "mod_id": 97981,
+      "hash": "sha256-x9H9og0HyNSgdGs8i9QIeUAuDssT/gV3EGboJMX3Abg="
+    }
+  },
+  "CotP - Closed Mouths - Skypatcher": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.2.3.6",
+      "file_id": 639551,
+      "file_name": "CotP - Closed Mouths - Skypatcher-97981-1-2-3-6-1750354659.7z",
+      "mod_id": 97981,
+      "hash": "sha256-Wd5bsuBEp+etMgWwGw68YyOyH2tt23IMlE4VwP0SzSY="
+    }
+  },
+  "CotP - Vanilla Mouths - Skypatcher": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.2.4",
+      "file_id": 644013,
+      "file_name": "CotP - Vanilla Mouths - Skypatcher-97981-1-2-4-1751637248.7z",
+      "mod_id": 97981,
+      "hash": "sha256-196JHYcnd+viYrxLczLT/rHkJyeR3t4b3rUqDh2vWlU="
+    }
+  },
+  "Children of the Pariah": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.2.5",
+      "file_id": 644842,
+      "file_name": "Children of the Pariah-97981-1-2-5-1751845596.7z",
+      "mod_id": 97981,
+      "hash": "sha256-ViGTQJF901qCaNOddK8vAKtmi+YO4OT2Cgc4noMC9Dk="
+    },
+    "type": "primary"
+  }
+}

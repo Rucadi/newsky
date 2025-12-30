@@ -1,0 +1,44 @@
+{
+  "Wearable Creation Club Goblins Gear": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.2",
+      "file_id": 517725,
+      "file_name": "Wearable Creation Club Goblins Gear-106006-1-2-1720122868.7z",
+      "mod_id": 106006,
+      "hash": "sha256-21vy1omBQwI2NFz051Q09h+jKsQo7PVsoEXG0VQrMIw="
+    },
+    "type": "primary"
+  },
+  "Wearable Creation Club Goblins Gear - Mihail": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.2",
+      "file_id": 517726,
+      "file_name": "Wearable Creation Club Goblins Gear - Mihail-106006-1-2-1720122893.7z",
+      "mod_id": 106006,
+      "hash": "sha256-PdS99PF0wSuUB9AuCoqz2YIsN6reZtGOt1NVWhz9gr8="
+    },
+    "type": "primary"
+  },
+  "Skimped - Goblins Bodyslides": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.2.1",
+      "file_id": 536209,
+      "file_name": "Skimped - Goblins Bodyslides-106006-1-2-1-1724870352.7z",
+      "mod_id": 106006,
+      "hash": "sha256-seC8McS3kz53ZfP9/8HbDcnedDT8WUthe/I6cpNhFMA="
+    }
+  },
+  "Skimped - Goblins Bodyslides - Mihail": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.2.1",
+      "file_id": 536210,
+      "file_name": "Skimped - Goblins Bodyslides - Mihail-106006-1-2-1-1724870387.7z",
+      "mod_id": 106006,
+      "hash": "sha256-gEEcnYexXaJOCvDpmTlB5c72AbX8OuADgBjnxLliXJQ="
+    }
+  }
+}

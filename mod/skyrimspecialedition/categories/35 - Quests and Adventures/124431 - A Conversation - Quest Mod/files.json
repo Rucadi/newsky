@@ -1,0 +1,23 @@
+{
+  "A Conversation - Grey Face Fix": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 644478,
+      "file_name": "A Conversation - Grey Face Fix-124431-1-0-1751749586.zip",
+      "mod_id": 124431,
+      "hash": "sha256-xgIQyJhJHolykPndIf0csD7dz5W87Fy0OJilD8Ym2o8="
+    }
+  },
+  "A Conversation - Quest Mod - ESL - 1.0.3": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0.3",
+      "file_id": 649953,
+      "file_name": "A Conversation - Quest Mod - ESL - 1.0.3-124431-1-0-3-1753411284.zip",
+      "mod_id": 124431,
+      "hash": "sha256-1ml+rk+Lu6q/oyqe/zWEcNNnEZfJFj1rx2KEdi2SX6c="
+    },
+    "type": "primary"
+  }
+}

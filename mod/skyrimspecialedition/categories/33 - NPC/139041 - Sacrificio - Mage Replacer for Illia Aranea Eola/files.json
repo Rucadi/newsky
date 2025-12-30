@@ -1,0 +1,23 @@
+{
+  "Nether's Eola - D7 Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 609878,
+      "file_name": "Nether's Eola - D7 Patch-139041-1-0-1742954726.7z",
+      "mod_id": 139041,
+      "hash": "sha256-xKpkLMoZpjD5qWYdCUqRaXWNIltz63Tv/stW0ALaRAQ="
+    }
+  },
+  "Sacrificio - Mage Replacer for Illia Aranea Eola": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.2",
+      "file_id": 661244,
+      "file_name": "Sacrificio - Mage Replacer for Illia Aranea Eola-139041-1-2-1756680327.7z",
+      "mod_id": 139041,
+      "hash": "sha256-pFFNSXOo77UGGKH+cYMpxN9qjSCm9QgnwRP9OPz/7Nw="
+    },
+    "type": "primary"
+  }
+}

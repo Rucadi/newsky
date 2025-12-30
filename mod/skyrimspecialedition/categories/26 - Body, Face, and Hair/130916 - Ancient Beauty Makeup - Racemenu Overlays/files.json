@@ -1,0 +1,68 @@
+{
+  "Ancient Beauty Makeup HPH 2K": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 549834,
+      "file_name": "Ancient Beauty Makeup 2K-130916-1-0-1728277906.zip",
+      "mod_id": 130916,
+      "hash": "sha256-893YVkBXJipRPoGEcR3/NIBVAqlIKtwCxIPUDu7v08s="
+    },
+    "type": "primary"
+  },
+  "Ancient Beauty Makeup HPH 4K": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 549835,
+      "file_name": "Ancient Beauty Makeup 4K-130916-1-0-1728277922.zip",
+      "mod_id": 130916,
+      "hash": "sha256-ODrGVeGLV4aes0GNRng+YIPjBgS9+QxWRG6YQBg+RO8="
+    },
+    "type": "primary"
+  },
+  "Ancient Beauty Makeup UBE 4K": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 551403,
+      "file_name": "Ancient Beauty Makeup UBE 4K-130916-1-0-1728740098.zip",
+      "mod_id": 130916,
+      "hash": "sha256-KOm57Icw7/G8Oc3Gn7g1BFZ4psEM9WBMR1d7YzSE3S4="
+    },
+    "type": "primary"
+  },
+  "Ancient Beauty Makeup UBE 2K": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 551404,
+      "file_name": "Ancient Beauty Makeup UBE 2K-130916-1-0-1728740142.zip",
+      "mod_id": 130916,
+      "hash": "sha256-v65VAq2csOW0xBicfmWSfCNeREq/unMVhVjJSKlM/3o="
+    },
+    "type": "primary"
+  },
+  "Ancient Beauty Makeup COTR 4K": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 552360,
+      "file_name": "Ancient Beauty Makeup COTR 4K-130916-1-0-1729006895.zip",
+      "mod_id": 130916,
+      "hash": "sha256-rYWWeW3pH33UIA0AgIZcvr4bEhyAA3vS1Tz1P+stRmA="
+    },
+    "type": "primary"
+  },
+  "Ancient Beauty Makeup COTR 2K": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 552362,
+      "file_name": "Ancient Beauty Makeup COTR 2K-130916-1-0-1729006915.zip",
+      "mod_id": 130916,
+      "hash": "sha256-20mi2NLgJoFv5rKwhJ+euALsCP5+T0dn0GEtl5aKbvM="
+    },
+    "type": "primary"
+  }
+}

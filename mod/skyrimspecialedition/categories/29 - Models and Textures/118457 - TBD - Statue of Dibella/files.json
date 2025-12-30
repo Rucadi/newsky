@@ -1,0 +1,43 @@
+{
+  "TBD - Statue of Dibella - Bronze": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.01",
+      "file_id": 497393,
+      "file_name": "TBD - Statue of Dibella - Bronze-118457-1-01-1714747656.7z",
+      "mod_id": 118457,
+      "hash": "sha256-x3jWHyuWUdgGEedVAkffUB+IcCua3Zz9qt8fQ2gJNWw="
+    }
+  },
+  "TBD - Statue of Dibella - Marble 01": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.01",
+      "file_id": 497394,
+      "file_name": "TBD - Statue of Dibella - Marble 01-118457-1-01-1714747691.7z",
+      "mod_id": 118457,
+      "hash": "sha256-ntS8pnQztK7M9IRgTi5wruMawusYkU2akDMEzEBO5o8="
+    }
+  },
+  "TBD - Statue of Dibella - Marble 02": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.01",
+      "file_id": 497396,
+      "file_name": "TBD - Statue of Dibella - Marble 02-118457-1-01-1714747720.7z",
+      "mod_id": 118457,
+      "hash": "sha256-Dnu4fST0NntdJFq5dDbh2bKtQ4wX+d3SGpJcI1gwozQ="
+    }
+  },
+  "TBD - Statue of Dibella": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.03",
+      "file_id": 497463,
+      "file_name": "TBD - Statue of Dibella-118457-1-03-1714760770.7z",
+      "mod_id": 118457,
+      "hash": "sha256-yDkuvLebIP5sHIByOPpPmGMyyBW3a8UTwMSTrPFTte0="
+    },
+    "type": "primary"
+  }
+}

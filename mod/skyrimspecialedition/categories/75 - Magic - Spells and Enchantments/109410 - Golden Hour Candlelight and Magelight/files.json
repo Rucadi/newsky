@@ -1,0 +1,23 @@
+{
+  "Golden Hour Candlelight and Magelight": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.2.2",
+      "file_id": 481588,
+      "file_name": "Golden Hour Candlelight and Magelight-109410-1-2-2-1710701874.zip",
+      "mod_id": 109410,
+      "hash": "sha256-84onl6PRHbjg3rElQnJ17HNEph/vRMTGgwmOSVxJ43g="
+    },
+    "type": "primary"
+  },
+  "Golden Hour - Mysticism Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.2.2",
+      "file_id": 481589,
+      "file_name": "Golden Hour - Mysticism Patch-109410-1-2-2-1710701918.zip",
+      "mod_id": 109410,
+      "hash": "sha256-3K+8KKJ/Kw9DROZq4DDp8hhVqS5e4DpR66U4in4xnVY="
+    }
+  }
+}

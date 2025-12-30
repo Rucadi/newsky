@@ -1,0 +1,35 @@
+{
+    "JContainers SE": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "4.2.9",
+            "file_id": 463765,
+            "file_name": "JContainers SE-16495-4-2-9-1705929247.7z",
+            "mod_id": 16495,
+            "hash": "sha256-pMTfg8Ye0wdYzaKK+K+fiYSlYiAbM8y//rw3R2mjX4M="
+        },
+        "type": "primary"
+    },
+    "JContainers VR": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "4.2.11",
+            "file_id": 482211,
+            "file_name": "JContainers VR-16495-4-2-11-1710863450.7z",
+            "mod_id": 16495,
+            "hash": "sha256-SYEFxpPtZBjCrF13cRuLzckDfovqrbZL73y/vH5IvgY="
+        },
+        "type": "primary"
+    },
+    "JContainers GOG": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "4.2.12",
+            "file_id": 482214,
+            "file_name": "JContainers GOG-16495-4-2-12-1710863522.7z",
+            "mod_id": 16495,
+            "hash": "sha256-62SK91pT0HkKWyQsnJUw9850ol40SpOqk7qntoq87fc="
+        },
+        "type": "primary"
+    }
+}

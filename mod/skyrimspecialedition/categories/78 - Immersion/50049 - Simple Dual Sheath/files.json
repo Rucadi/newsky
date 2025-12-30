@@ -1,0 +1,34 @@
+{
+  "XPMSSE Left Hand Sheath Rotation Fix": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "4.80",
+      "file_id": 204058,
+      "file_name": "XPMSSE Left Hand Skeleton Rotation Fix-50049-4-80-1621290459.zip",
+      "mod_id": 50049,
+      "hash": "sha256-xKCL1cAqOu1lFjk7iw2MISpGgQiNeRqU5UsF3jNLbDM="
+    }
+  },
+  "Simple Dual Sheath for 1.6.629 and newer": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.5.7",
+      "file_id": 450438,
+      "file_name": "Simple Dual Sheath for 1.6.629 and newer-50049-1-5-7-1702208537.zip",
+      "mod_id": 50049,
+      "hash": "sha256-8O1ZTaIsZ68lcWni97sA/G6QOZNC/ALuIAKPbsDwSp0="
+    },
+    "type": "primary"
+  },
+  "Simple Dual Sheath for 1.5.39 - 1.6.353": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.5.7",
+      "file_id": 450439,
+      "file_name": "Simple Dual Sheath for 1.5.39 - 1.6.353-50049-1-5-7-1702208576.zip",
+      "mod_id": 50049,
+      "hash": "sha256-/vb87AwORvRYd2O6jEs4YxGHYoN/AjDjKz6Ub5G5ifA="
+    },
+    "type": "primary"
+  }
+}

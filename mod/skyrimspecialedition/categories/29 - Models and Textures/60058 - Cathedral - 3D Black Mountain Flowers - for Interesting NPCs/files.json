@@ -1,0 +1,33 @@
+{
+  "Cathedral - 3D Black Mountain Flowers - for Interesting NPCs": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 248980,
+      "file_name": "Cathedral - 3D Black Mountain Flowers - for Interesting NPCs-60058-1-0-1639471290.zip",
+      "mod_id": 60058,
+      "hash": "sha256-g03iym3REzkFjEQcpG02iBK8I+An+C7A8KEh5VPa8J4="
+    },
+    "type": "primary"
+  },
+  "Cathedral - 3D Black Mountain Flowers - for Interesting NPCs - Fixed Mesh Lighting": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 249213,
+      "file_name": "Cathedral - 3D Black Mountain Flowers - for Interesting NPCs - Fixed Mesh Lighting-60058-1-0-1639537584.zip",
+      "mod_id": 60058,
+      "hash": "sha256-lCwHVvpsM7KX8zPHGGqIHbK/L699cwqBvz1ruNEXghc="
+    }
+  },
+  "Cathedral - 3D Black Mountain Flowers - for Interesting NPCs - File Path Revert": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 249219,
+      "file_name": "Cathedral - 3D Black Mountain Flowers - for Interesting NPCs - File Path Revert-60058-1-0-1639539771.zip",
+      "mod_id": 60058,
+      "hash": "sha256-G389Lx9qFCOzhEJlCx24vWFWATnITWE8NBs9Ay2gKGY="
+    }
+  }
+}

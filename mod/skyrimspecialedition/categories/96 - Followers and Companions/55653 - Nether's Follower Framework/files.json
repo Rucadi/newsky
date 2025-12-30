@@ -1,0 +1,23 @@
+{
+    "PDF Guide That Comes with NFF": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "0.0",
+            "file_id": 371489,
+            "file_name": "PDF Guide That Comes with NFF-55653-0-0-1679617396.zip",
+            "mod_id": 55653,
+            "hash": "sha256-ot2Xa3UsxhFHksU6lP9m4U6sby6vt1SGm9NmZSTFqSM="
+        }
+    },
+    "Nether's Follower Framework - Universal Installer": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "2.8.6b",
+            "file_id": 489439,
+            "file_name": "Nether's Follower Framework - Universal Installer-55653-2-8-6b-1712793520.zip",
+            "mod_id": 55653,
+            "hash": "sha256-koYrCJU6laMdgOUpyiaOsJLi0X8JJEp/3mQPNDTjYAY="
+        },
+        "type": "primary"
+    }
+}

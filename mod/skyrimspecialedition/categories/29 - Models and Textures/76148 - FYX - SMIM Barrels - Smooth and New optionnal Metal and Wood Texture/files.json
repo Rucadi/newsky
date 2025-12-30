@@ -1,0 +1,79 @@
+{
+  "A) FYX - SMIM Barrel": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0.4",
+      "file_id": 359960,
+      "file_name": "A) FYX - SMIM Barrel-76148-1-0-4-1676460256.7z",
+      "mod_id": 76148,
+      "hash": "sha256-zwdoa1FeXSpPVEQdtMlRleeLbcEVRB+z/4UdQrDBhws="
+    },
+    "type": "primary"
+  },
+  "B) FYX - SMIM Barrel - New Metal Texture 2K": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0.4",
+      "file_id": 359962,
+      "file_name": "B) FYX - SMIM Barrel - New Metal Texture 2K-76148-1-0-4-1676460367.7z",
+      "mod_id": 76148,
+      "hash": "sha256-O4zkMjh67HHLGf6iazWo9GI1knQmrMAxiFpmBSKK25E="
+    },
+    "type": "primary"
+  },
+  "B) FYX - SMIM Barrel - New Metal Texture 4K": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0.4",
+      "file_id": 359963,
+      "file_name": "B) FYX - SMIM Barrel - New Metal Texture 4K-76148-1-0-4-1676460478.7z",
+      "mod_id": 76148,
+      "hash": "sha256-iCIPgtG2RLuoLRL1o87nFmtOQy9ifo57ZYjxMuyDVyQ="
+    },
+    "type": "primary"
+  },
+  "C) FYX - SMIM Barrel - New Metal and Wood Texture 2K": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0.4",
+      "file_id": 359964,
+      "file_name": "C) FYX - SMIM Barrel - New Metal and Wood Texture 2K-76148-1-0-4-1676460630.7z",
+      "mod_id": 76148,
+      "hash": "sha256-oJZ7My2a+jdkgPwEz0KcsHtoDc2IyeWxP/EShEOgR5w="
+    },
+    "type": "primary"
+  },
+  "C) FYX - SMIM Barrel - New Metal and Wood Texture 4K": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0.4",
+      "file_id": 359966,
+      "file_name": "C) FYX - SMIM Barrel - New Metal and Wood Texture 4K-76148-1-0-4-1676461021.7z",
+      "mod_id": 76148,
+      "hash": "sha256-b+L1Ya8UJr1ImETQ+aEjg1dED3+0QBQBNTE0/daETu8="
+    },
+    "type": "primary"
+  },
+  "D) FYX - SMIM Barrel - New Metal and Wood Texture 2K - Barrel01 Variant": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0.4",
+      "file_id": 359967,
+      "file_name": "D) FYX - SMIM Barrel - New Metal and Wood Texture 2K - Barrel01 Variant-76148-1-0-4-1676461178.7z",
+      "mod_id": 76148,
+      "hash": "sha256-9cqX/c5HgFsirbaHYbBvtJVcm0dV3jhPIq3TN7dGjcg="
+    },
+    "type": "primary"
+  },
+  "D) FYX - SMIM Barrel - New Metal and Wood Texture 4K - Barrel01 Variant": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0.4",
+      "file_id": 359972,
+      "file_name": "D) FYX - SMIM Barrel - New Metal and Wood Texture 4K - Barrel01 Variant-76148-1-0-4-1676461746.7z",
+      "mod_id": 76148,
+      "hash": "sha256-u7tdPSIUUzp/gYEzdb8E1rhrmt+JVn5/t3yxeQi/sBQ="
+    },
+    "type": "primary"
+  }
+}

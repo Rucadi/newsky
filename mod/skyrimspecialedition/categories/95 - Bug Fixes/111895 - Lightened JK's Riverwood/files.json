@@ -1,0 +1,24 @@
+{
+  "Lightened JK's Riverwood - For JK's Riverwood ONLY": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.2",
+      "file_id": 518894,
+      "file_name": "Lightened JK's Riverwood - For JK's Riverwood ONLY-111895-1-2-1720421155.zip",
+      "mod_id": 111895,
+      "hash": "sha256-8XQwUkfUESUUjXOJqf5ic/WpKFugm/3XbVuM6U1o0HE="
+    },
+    "type": "primary"
+  },
+  "Lightened JK's Riverwood - For JK's Skyrim ONLY": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.2",
+      "file_id": 518895,
+      "file_name": "Lightened JK's Riverwood - For JK's Skyrim ONLY-111895-1-2-1720421231.zip",
+      "mod_id": 111895,
+      "hash": "sha256-ByDaMaz6bb6rN0UEqppm9PHWOg4t90c8mXlxEACsNEU="
+    },
+    "type": "primary"
+  }
+}

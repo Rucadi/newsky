@@ -1,0 +1,23 @@
+{
+  "No Crime Teleport - Voice Consistency Fix": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "2.1",
+      "file_id": 294677,
+      "file_name": "No Crime Teleport - Voice Consistency Fix-70336-2-1-1656425799.7z",
+      "mod_id": 70336,
+      "hash": "sha256-eZ7V2Kd3O6+UhgzkBDwnvXLcXsSRpUKOD3J53ahBmu4="
+    },
+    "type": "primary"
+  },
+  "No Crime Teleport Voice Consistency Fix - Crime Overhaul Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 299640,
+      "file_name": "No Crime Teleport Voice Consistency Fix - Crime Overhaul Patch-70336-1-0-1658029604.7z",
+      "mod_id": 70336,
+      "hash": "sha256-Cw9gKLkOi/Xcsq+vSTo7l1rFjP3PrYFwWb2GCWpgIFY="
+    }
+  }
+}

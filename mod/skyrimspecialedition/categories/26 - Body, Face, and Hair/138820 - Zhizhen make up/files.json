@@ -1,0 +1,23 @@
+{
+  "Zhizhen MakeUP 4K": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1",
+      "file_id": 585968,
+      "file_name": "Zhizhen MakeUP 4K-138820-1-1-1737482621.zip",
+      "mod_id": 138820,
+      "hash": "sha256-bCyNVROHcZKvueo+55CrYQbQeGgeqjfkWiq96dxEPI8="
+    },
+    "type": "primary"
+  },
+  "Zhizhen MakeUP 2K": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1",
+      "file_id": 586911,
+      "file_name": "Zhizhen MakeUP 2K-138820-1-1-1737742002.zip",
+      "mod_id": 138820,
+      "hash": "sha256-UeocBYoSyEStDKtiRw4tSQ25DQDpDjU7bkBrmxxAO0Q="
+    }
+  }
+}

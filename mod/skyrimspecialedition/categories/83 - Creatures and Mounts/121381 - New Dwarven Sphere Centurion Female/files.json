@@ -1,0 +1,33 @@
+{
+  "4k. New Dwarven Sphere Centurion Female": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0.0",
+      "file_id": 509549,
+      "file_name": "4k. New Dwarven Sphere Centurion Female-121381-1-0-0-1717834246.zip",
+      "mod_id": 121381,
+      "hash": "sha256-1l71lfp63OIvmN4cy9pH2aF7JU9Ur/3qEQ2Rrnmu+Ik="
+    },
+    "type": "primary"
+  },
+  "2K. New Dwarven Sphere Centurion Female": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0.0",
+      "file_id": 509550,
+      "file_name": "2K. New Dwarven Sphere Centurion Female-121381-1-0-0-1717834280.zip",
+      "mod_id": 121381,
+      "hash": "sha256-RZyMCKLJB/ntLWl6Ju+PkQ5NOYwINl7i7frQR8stab0="
+    }
+  },
+  "LoadscreenArt Sphere Centurion": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0.0",
+      "file_id": 509690,
+      "file_name": "LoadscreenArt Sphere Centurion-121381-1-0-0-1717874803.zip",
+      "mod_id": 121381,
+      "hash": "sha256-iH+890xJPycEd2ODUksAYs3mW2IR7Kp6pZmUGDpYh3E="
+    }
+  }
+}

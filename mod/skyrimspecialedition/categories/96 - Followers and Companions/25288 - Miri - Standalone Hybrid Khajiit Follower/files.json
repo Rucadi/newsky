@@ -1,0 +1,34 @@
+{
+  "Miri - Hybrid Khajiit Follower": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 89429,
+      "file_name": "- Miri - Standalone Hybrid Khajiit Follower-25288-1-0-1556046293.zip",
+      "mod_id": 25288,
+      "hash": "sha256-/wfmuRo/BZMRfiiKzZoGCNmCEuCU1hJCetkphS+eDwg="
+    },
+    "type": "primary"
+  },
+  "Miri - Immersive and Adult Version": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "IA",
+      "file_id": 305883,
+      "file_name": "- Miri - Immersive and Adult Version-25288-IA-1660013648.zip",
+      "mod_id": 25288,
+      "hash": "sha256-Y1NfCkWGR5C0c6C/njVvKj2+KYFnZ2JrXvkRpm2JsdA="
+    },
+    "type": "primary"
+  },
+  "Miri - ESL Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0.1",
+      "file_id": 493732,
+      "file_name": "Miri - ESL Patch-25288-1-0-1-1713815948.zip",
+      "mod_id": 25288,
+      "hash": "sha256-O6xRfVhWAL7B4Naart5wP8NCcbFIFy1r/ngxEqZHFW4="
+    }
+  }
+}

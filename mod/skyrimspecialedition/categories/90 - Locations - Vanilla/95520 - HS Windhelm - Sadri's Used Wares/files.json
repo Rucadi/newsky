@@ -1,0 +1,33 @@
+{
+    "HSWindhelm - Sadri's Used Wares - ELFX": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "1.0.0",
+            "file_id": 405731,
+            "file_name": "HSWindhelm - Sadri's Used Wares - ELFX-95520-1-0-0-1688950965.7z",
+            "mod_id": 95520,
+            "hash": "sha256-im1ID9QkSdkLhOZggdioZWn5HZDnwnj9KOrKItYDBIQ="
+        }
+    },
+    "HSWindhelm - Sadri's Used Wares - LUX": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "1.0.0",
+            "file_id": 405732,
+            "file_name": "HSWindhelm - Sadri's Used Wares - LUX-95520-1-0-0-1688950990.7z",
+            "mod_id": 95520,
+            "hash": "sha256-cKBOopUQHBck08h+LrYC469qFNl53CquSxe5iCXIPtE="
+        }
+    },
+    "HSWindhelm - Sadri's Used Wares": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "1.0.0",
+            "file_id": 405836,
+            "file_name": "HSWindhelm - Sadri's Used Wares-95520-1-0-0-1688980307.7z",
+            "mod_id": 95520,
+            "hash": "sha256-6e3+a2rBAu1SFztSG6730x9QK8eG5ZUHd0BvNzQiMBU="
+        },
+        "type": "primary"
+    }
+}

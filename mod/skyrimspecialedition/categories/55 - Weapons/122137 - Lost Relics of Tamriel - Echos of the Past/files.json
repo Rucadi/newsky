@@ -1,0 +1,43 @@
+{
+  "Lost Relics of Tamriel": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1",
+      "file_id": 520512,
+      "file_name": "Lost Relics of Tamriel-122137-1-1-1720827674.zip",
+      "mod_id": 122137,
+      "hash": "sha256-r5pFSjgeKTe3CGk9O5RvARUQaSUcJoVcJ1HHKqOh5Ec="
+    },
+    "type": "primary"
+  },
+  "Lost Relics - 1k Textures": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1",
+      "file_id": 520513,
+      "file_name": "Lost Relics - 1k Textures-122137-1-1-1720827764.zip",
+      "mod_id": 122137,
+      "hash": "sha256-aY9MQC5rjtopgETQ8BGiF2zJsgiEf6K9cQWF1P1Gduc="
+    }
+  },
+  "Lost Relics - 4k Textures": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1",
+      "file_id": 520514,
+      "file_name": "Lost Relics - 4k Textures-122137-1-1-1720827882.zip",
+      "mod_id": 122137,
+      "hash": "sha256-lxH2AaVhx30dbvj5dZLq9n68DCOHY1lY3jzhi9RUZxM="
+    }
+  },
+  "Lost Relics - 512p Textures": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 520526,
+      "file_name": "Lost Relics - 512p Textures-122137-1-0-1720832762.zip",
+      "mod_id": 122137,
+      "hash": "sha256-IigqJKU9GbipJVFA2t2ve34nBQC7GcZxJWIiVFLx5jo="
+    }
+  }
+}

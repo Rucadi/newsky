@@ -1,0 +1,46 @@
+{
+  "(1) Community Overlays 2 - Main - UUNP": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 94365,
+      "file_name": "(1) Community Overlays 2 - Main - UUNP-26224-1-0-1559370785.7z",
+      "mod_id": 26224,
+      "hash": "sha256-VZSJXL5B1TmVZ4t6CZFuFbCmW8UmNvNccCHI7dhavhs="
+    },
+    "type": "primary"
+  },
+  "(2) Community Overlays 2 - Main - CBBE": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 94367,
+      "file_name": "(2) Community Overlays 2 - Main - CBBE-26224-1-0-1559371694.7z",
+      "mod_id": 26224,
+      "hash": "sha256-WiZ/02sO9XwXBDMd/TLBU3lgwLTXcjN+bbelyY2ORHc="
+    },
+    "type": "primary"
+  },
+  "(3) Community Overlays 2 - Main - UUNP and Male": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 94369,
+      "file_name": "(3) Community Overlays 2 - Main - UUNP and Male-26224-1-0-1559372410.7z",
+      "mod_id": 26224,
+      "hash": "sha256-5iWfFDOdIGOCOWkoYNZs5zzEoVTjpmoqQ82MRS0tCB8="
+    },
+    "type": "primary"
+  },
+  "(4) Community Overlays 2 - Main - CBBE and Male": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 94370,
+      "file_name": "(4) Community Overlays 2 - Main - CBBE and Male-26224-1-0-1559373115.7z",
+      "mod_id": 26224,
+      "hash": "sha256-68RW/QQt6sfeHzsbsfZzY9gmwRces8pSFQBs4vhltFM="
+    },
+    "type": "primary"
+  }
+}

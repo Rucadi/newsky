@@ -1,0 +1,33 @@
+{
+  "Stripping fix for NPCs with strap-ons": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1",
+      "file_id": 216653,
+      "file_name": "FlowerGirls NPC undressing fix-36484-1-1627212238.7z",
+      "mod_id": 36484,
+      "hash": "sha256-dPZqrPlIc+k9jAJToWJ2Bzkzm9QrCPJug0DpchsghH4="
+    }
+  },
+  "Animation Selector for Flower Girls SE": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "3.0.2.12",
+      "file_id": 303661,
+      "file_name": "Animation Selector for Flower Girls SE-36484-3-0-2-12-1659290069.7z",
+      "mod_id": 36484,
+      "hash": "sha256-aP8nhY6eegU4uOuQBBxdODJo0QrnU0EcxmeGwryvboU="
+    },
+    "type": "primary"
+  },
+  "Skyrim LE version": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "3.0.2.13",
+      "file_id": 337065,
+      "file_name": "Animation Selector for Flower Girls LE-36484-3-0-2-13-1670062012.7z",
+      "mod_id": 36484,
+      "hash": "sha256-fUogJ9z8N3mRUrVclVBUNHew472q2wsEvyQNSuz+jHU="
+    }
+  }
+}

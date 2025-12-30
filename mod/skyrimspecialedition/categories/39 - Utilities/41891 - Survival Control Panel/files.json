@@ -1,0 +1,23 @@
+{
+  "Survival SDK": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1.0",
+      "file_id": 244131,
+      "file_name": "Survival SDK-41891-1-1-0-1637787313.zip",
+      "mod_id": 41891,
+      "hash": "sha256-exiwHrOdDqjs90bFvV1+L5qV82Fn8BSMoF67cAgfCS8="
+    }
+  },
+  "Survival Control Panel": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1.2",
+      "file_id": 320950,
+      "file_name": "Survival Control Panel-41891-1-1-2-1664687771.7z",
+      "mod_id": 41891,
+      "hash": "sha256-NZ/ojBnSDGV7Y7SwmPua0jdAp5+0v3xVHcGLUy4S080="
+    },
+    "type": "primary"
+  }
+}

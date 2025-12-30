@@ -1,0 +1,33 @@
+{
+  "Forsworn Armors and Weapons Retexture SE": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1",
+      "file_id": 603639,
+      "file_name": "Forsworn Armors and Weapons Retexture SE-99610-1-1-1741534373.7z",
+      "mod_id": 99610,
+      "hash": "sha256-V5BdiPOVmecU93g16ANNEQ2nj6DoMlil4QVABUZB8ss="
+    },
+    "type": "primary"
+  },
+  "Forsworn Armors and Weapons Retexture SE - HalfRes": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1",
+      "file_id": 603640,
+      "file_name": "Forsworn Armors and Weapons Retexture SE - HalfRes-99610-1-1-1741534399.7z",
+      "mod_id": 99610,
+      "hash": "sha256-jtHddDejyXvcQUzcH4usDBNA/0Zd0bp9SwSqTpddf4o="
+    }
+  },
+  "Forsworn Armors and Weapons Retexture SE - Low Res": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1",
+      "file_id": 603641,
+      "file_name": "Forsworn Armors and Weapons Retexture SE - Low Res-99610-1-1-1741534417.7z",
+      "mod_id": 99610,
+      "hash": "sha256-8R7usoo9j5x3exf6OJJNpmWOZlX24Gt9+eUMo1k6yFo="
+    }
+  }
+}

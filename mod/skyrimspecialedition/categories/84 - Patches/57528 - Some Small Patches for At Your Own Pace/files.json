@@ -1,0 +1,101 @@
+{
+  "AYOP Main BCS Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1",
+      "file_id": 300321,
+      "file_name": "AYOP Main BCS Patch-57528-1-1658245707.7z",
+      "mod_id": 57528,
+      "hash": "sha256-RYEsGQDEN+Jt5bGQNrp3DzsbC64pK7AIa4lxlCLNhxs="
+    },
+    "type": "primary"
+  },
+  "AYOP Misc Save Icerunner Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1",
+      "file_id": 300322,
+      "file_name": "AYOP Misc Save Icerunner Patch-57528-1-1658245743.7z",
+      "mod_id": 57528,
+      "hash": "sha256-q0N6fkW2OP0Jq4r3vBp6v/FZfRGfCbnX3tKVW5LWfwo="
+    },
+    "type": "primary"
+  },
+  "AYOP Main Quest NPCS Run Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1",
+      "file_id": 300325,
+      "file_name": "AYOP Main Quest NPCS Run Patch-57528-1-1658245960.7z",
+      "mod_id": 57528,
+      "hash": "sha256-zNLas/wPp9Ic0MFuEF36waRPiyo7sSYwv+VRmuWTlf4="
+    },
+    "type": "primary"
+  },
+  "AYOP Companions Tac Valtheim Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1",
+      "file_id": 300326,
+      "file_name": "AYOP Companions Tac Vaultheim Patch-57528-1-1658245986.7z",
+      "mod_id": 57528,
+      "hash": "sha256-lWiQw2zJiP+JxRoE/glb4xN6omEFv8p6cJ5BNAAMH+0="
+    },
+    "type": "primary"
+  },
+  "AYOP College Tactical Valtheim Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1",
+      "file_id": 300328,
+      "file_name": "AYOP College Tactical Valtheim Patch-57528-1-1658246051.7z",
+      "mod_id": 57528,
+      "hash": "sha256-jp1qMsDKSkKw955uwwwmqe/IwMvfc/QVtThqxv8GgTY="
+    },
+    "type": "primary"
+  },
+  "AYOP Thieves Quest Inconspiuous NPC's Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1",
+      "file_id": 331764,
+      "file_name": "AYOP Thieves Quest Inconspiuous NPC's Patch-57528-1-1668425514.7z",
+      "mod_id": 57528,
+      "hash": "sha256-yuUR+kY/FfSCV2SVKu6RMpmI+2d3LtcMZ/NVGFahMcc="
+    },
+    "type": "primary"
+  },
+  "AYOP ThievesG Quest NPC Run Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "2",
+      "file_id": 331765,
+      "file_name": "AYOP ThievesG Quest NPC Run Patch-57528-2-1668425711.7z",
+      "mod_id": 57528,
+      "hash": "sha256-ngcLmeAeHhJd2qQ1w1e6K7TOwbZFIsLsD/hARlxPygk="
+    },
+    "type": "primary"
+  },
+  "AYOP Companion aMidianBorn Content Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "2",
+      "file_id": 331766,
+      "file_name": "AYOP Companion aMidianBorn Content Patch-57528-2-1668425869.7z",
+      "mod_id": 57528,
+      "hash": "sha256-bGIRyzgzU2sRShhFGiEOgd5TkePrbL/aA90CQID6/xw="
+    },
+    "type": "primary"
+  },
+  "AYOP Thief Wintersun Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1",
+      "file_id": 331767,
+      "file_name": "AYOP Thief Wintersun Patch-57528-1-1668425998.7z",
+      "mod_id": 57528,
+      "hash": "sha256-bWBIFuzs9z7KBBgRGT3UuGXB/wDdbfzzztBXfzwrmcQ="
+    },
+    "type": "primary"
+  }
+}

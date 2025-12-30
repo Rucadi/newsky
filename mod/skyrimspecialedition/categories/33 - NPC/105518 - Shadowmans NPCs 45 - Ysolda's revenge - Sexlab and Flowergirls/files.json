@@ -1,0 +1,24 @@
+{
+  "shadowman_ysoldaSL": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1",
+      "file_id": 445711,
+      "file_name": "shadowman_ysoldaSL-105518-1-1700871975.rar",
+      "mod_id": 105518,
+      "hash": "sha256-E50/FwPoEuNS5EeB+UMt9HA5mg6Rz8PcWZlTHSi9rIA="
+    },
+    "type": "primary"
+  },
+  "shadowman_ysoldaFG": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1",
+      "file_id": 445712,
+      "file_name": "shadowman_ysoldaFG-105518-1-1700872002.rar",
+      "mod_id": 105518,
+      "hash": "sha256-lNuhuehZShPvA35704iqlS36i6ZkpzJN+KaMgimG0oM="
+    },
+    "type": "primary"
+  }
+}

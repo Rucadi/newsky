@@ -1,0 +1,53 @@
+{
+  "Particle Lights for ENB - Falmer Things": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 274762,
+      "file_name": "Particle Lights for ENB - Falmer Things-65984-1-0-1649086235.rar",
+      "mod_id": 65984,
+      "hash": "sha256-FXAzIivysKRLRYGbOJaFzFfJHKnh43JSw7W8ZIdy7MA="
+    },
+    "type": "primary"
+  },
+  "Eyes of the Falmer - ICONIC'S  PATCH": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1",
+      "file_id": 275127,
+      "file_name": "Eyes of the Falmer - ICONIC'S  PATCH-65984-1-1-1649205577.rar",
+      "mod_id": 65984,
+      "hash": "sha256-I7QHViJbTuUe6i2uOHa+4aGnYbSV/9cMOQgDEGd9ga8="
+    }
+  },
+  "Eyes of the Falmer - METALLURGY": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1",
+      "file_id": 275129,
+      "file_name": "Eyes of the Falmer - METALLURGY-65984-1-1-1649205616.rar",
+      "mod_id": 65984,
+      "hash": "sha256-qj+VAWGWFWU9zeOt0a4v6COf96Ldm24eNF2bbbQYWrk="
+    }
+  },
+  "Eyes of the Falmer - VANILLA": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1",
+      "file_id": 275130,
+      "file_name": "Eyes of the Falmer - VANILLA-65984-1-1-1649205654.rar",
+      "mod_id": 65984,
+      "hash": "sha256-CaE59JjGnLRSgmb+zDWcNuJpdPQDJ8VFseYPcCU1JFM="
+    }
+  },
+  "Eyes of the Falmer - Gemstones Replacers HD SE PATCH": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1",
+      "file_id": 275131,
+      "file_name": "Eyes of the Falmer - Gemstones Replacers HD SE PATCH-65984-1-1-1649205704.rar",
+      "mod_id": 65984,
+      "hash": "sha256-aqoKMwqYT7nnH5hFhICVJN2VILIdU+L9Ljv+iHjfLU4="
+    }
+  }
+}

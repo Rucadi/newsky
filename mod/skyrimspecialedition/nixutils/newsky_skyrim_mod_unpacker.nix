@@ -1,7 +1,7 @@
 {
   stdenvNoCC,
   buildEnv,
-  p7zip,
+  unar,
 }:
 {
   mod_name,
@@ -15,7 +15,7 @@ let
   mkUdev =
     osrc:
     stdenvNoCC.mkDerivation {
-      buildInputs = [ p7zip ];
+      buildInputs = [ unar ];
       src = osrc;
       name = mod_name;
       installPhase = ''
@@ -23,13 +23,9 @@ let
         cp -R * $out/
         rm -f $out/env-vars
       '';
-      # Custom unpack phase for .7z files
+
       unpackPhase = ''
-        if [ "$src" != "" ] && [[ "$src" == *.7z ]]; then
-          7z x "$src"
-        else
-          unpackCmd
-        fi
+        unar -D -o . $src
       '';
 
       patchPhase = ''
@@ -82,10 +78,14 @@ let
         popd
       '';
       passthru = passthru;
+
+      dontFixup = true;
+      dontPatchElf = true;
     };
 in
 if builtins.isList src then
   buildEnv {
+    ignoreCollisions = true;
     name = mod_name;
     paths = map mkUdev src;
     passthru = passthru;

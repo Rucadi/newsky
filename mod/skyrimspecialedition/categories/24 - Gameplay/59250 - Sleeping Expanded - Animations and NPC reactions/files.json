@@ -1,0 +1,23 @@
+{
+  "Sleeping Expanded": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.22",
+      "file_id": 339580,
+      "file_name": "Sleeping Expanded-59250-1-22-1670752210.zip",
+      "mod_id": 59250,
+      "hash": "sha256-BZnbrL2OEnjzkYJcwMqDKfBvjG8oMrZo3e2Y1noxRKY="
+    },
+    "type": "primary"
+  },
+  "Patch for New Animations Without DAR or OAR": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.22",
+      "file_id": 339581,
+      "file_name": "Patch for New Animations Without DAR-59250-1-22-1670752345.rar",
+      "mod_id": 59250,
+      "hash": "sha256-2FiUGupsqpp9wCOOgOTeR5Rd2s+/Te0dPDKga+Huy4c="
+    }
+  }
+}

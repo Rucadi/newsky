@@ -1,0 +1,90 @@
+{
+  "FB - Templar Assassin 4k 3BA": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 569334,
+      "file_name": "FB - Templar Assassin 4k 3BA-135547-1-0-1733438027.zip",
+      "mod_id": 135547,
+      "hash": "sha256-KTip9M9xh2NGVufvowBkkTOdOUdpR3/234xfdZ5vQ4E="
+    },
+    "type": "primary"
+  },
+  "FB - Templar Assassin 2k 3BA": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 569335,
+      "file_name": "FB - Templar Assassin 2k 3BA-135547-1-0-1733438122.zip",
+      "mod_id": 135547,
+      "hash": "sha256-jz4etGXT7FhqwpRy/FRi0lYwM05UEnCz77BfnKY7QmQ="
+    },
+    "type": "primary"
+  },
+  "FB - Templar Assassin 4k BHUNP": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 569336,
+      "file_name": "FB - Templar Assassin 4k BHUNP-135547-1-0-1733438265.zip",
+      "mod_id": 135547,
+      "hash": "sha256-k17UtkrS8z8LPPfl2Ecnlw3xUK7k8TJoQbR7mr4t+ng="
+    },
+    "type": "primary"
+  },
+  "FB - Templar Assassin 2k BHUNP": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 569337,
+      "file_name": "FB - Templar Assassin 2k BHUNP-135547-1-0-1733438310.zip",
+      "mod_id": 135547,
+      "hash": "sha256-kypTfCioG8WH+6BiXbB1WbQmFmiybXubVVp0aUEeXMo="
+    },
+    "type": "primary"
+  },
+  "FB - Templar Assassin 4k UNP": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 569340,
+      "file_name": "FB - Templar Assassin 4k UNP-135547-1-0-1733438572.zip",
+      "mod_id": 135547,
+      "hash": "sha256-T+jcUQUuLmYDwhtnxBneH8PXQ6EIhczfO98+G1PhQa0="
+    },
+    "type": "primary"
+  },
+  "FB - Templar Assassin 2k UNP": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 569341,
+      "file_name": "FB - Templar Assassin 2k UNP-135547-1-0-1733438653.zip",
+      "mod_id": 135547,
+      "hash": "sha256-WoWuihvvBEVgVeBnz0zpUJkAe3oUEOpz3YwQMyNSJIk="
+    },
+    "type": "primary"
+  },
+  "FB - Templar Assassin 2k CBBE": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1",
+      "file_id": 573419,
+      "file_name": "FB - Templar Assassin 2k CBBE-135547-1-1-1734465140.zip",
+      "mod_id": 135547,
+      "hash": "sha256-17rN202fxe9ZkiIEWlrKmY7Mn/T3cs24943hpDKJ18k="
+    },
+    "type": "primary"
+  },
+  "FB - Templar Assassin 4k CBBE": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1",
+      "file_id": 573420,
+      "file_name": "FB - Templar Assassin 4k CBBE-135547-1-1-1734465227.zip",
+      "mod_id": 135547,
+      "hash": "sha256-mAEgfd1LMm6HayHixScjT+3Utk0tWH2alX91OGBjN+o="
+    },
+    "type": "primary"
+  }
+}

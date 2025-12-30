@@ -1,0 +1,24 @@
+{
+  "Maya the bunny - CC Thistle replacer (Black nose)": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0a",
+      "file_id": 449365,
+      "file_name": "Maya the bunny - a CC Thistle replacer-106337-1-0-1701892447.rar",
+      "mod_id": 106337,
+      "hash": "sha256-dygAEvnfpZBtH1xr4jQFy54o8+Bq3yjrY7IldH3u+CA="
+    },
+    "type": "primary"
+  },
+  "Maya the bunny - CC Thistle replacer (Pink nose)": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0a",
+      "file_id": 449509,
+      "file_name": "Maya the bunny - a CC Thistle replacer (Pink nose)-106337-1-0-1701951262.rar",
+      "mod_id": 106337,
+      "hash": "sha256-P9XcT+T5r44S1/rB8gBL5vRqZGjkFTHTRDR1Ir9elmg="
+    },
+    "type": "primary"
+  }
+}

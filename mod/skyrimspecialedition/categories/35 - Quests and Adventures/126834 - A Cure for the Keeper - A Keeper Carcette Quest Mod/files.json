@@ -1,0 +1,43 @@
+{
+  "A Cure for the Keeper": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1",
+      "file_id": 532959,
+      "file_name": "A Cure for the Keeper-126834-1-1-1724034307.rar",
+      "mod_id": 126834,
+      "hash": "sha256-fX9fx3G3Sj2dzIIvY3P4iBG9Ia1pyn8W8x4S5C02ErA="
+    },
+    "type": "primary"
+  },
+  "Stendarr Rising - Carcette Returns Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1",
+      "file_id": 533289,
+      "file_name": "Stendarr Rising - Carcette Returns Patch-126834-1-1-1724108299.rar",
+      "mod_id": 126834,
+      "hash": "sha256-ZtLVT/7sv1DOI8arDY6zQDeemhhgMDS0gKoQrjMfBdg="
+    }
+  },
+  "Keeper Carcette Survives Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1",
+      "file_id": 533291,
+      "file_name": "Keeper Carcette Survives Patch-126834-1-1-1724108835.rar",
+      "mod_id": 126834,
+      "hash": "sha256-W099VL3Z8Zb2jQvqZLgQ+6+f3fhxhCA3Vm8/1uXQS/M="
+    }
+  },
+  "Keeper Carcette Survives Carcette Returns Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1",
+      "file_id": 533355,
+      "file_name": "Keeper Carcette Survives Carcette Returns Patch-126834-1-1-1724114226.rar",
+      "mod_id": 126834,
+      "hash": "sha256-fIfcY7chb8N1imi4MvIKHPWQzLuvPtyifzJ9dYOuqVU="
+    }
+  }
+}

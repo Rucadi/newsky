@@ -1,0 +1,23 @@
+{
+  "HDT-SMP Dust Adept Armor Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 551391,
+      "file_name": "HDT-SMP Dust Adept Armor Patch-131376-1-0-1728737622.rar",
+      "mod_id": 131376,
+      "hash": "sha256-VnABiEa7GHczJvGSu4afVyikuomISi9lStLxDHA/0Nc="
+    },
+    "type": "primary"
+  },
+  "HDT-SMP Dust Adept Armor CBBE 3BA and HIMBO": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 551394,
+      "file_name": "HDT-SMP Dust Adept Armor CBBE 3BA and HIMBO-131376-1-0-1728737795.rar",
+      "mod_id": 131376,
+      "hash": "sha256-UBAKxR3/LOkBXW7BgbNv/89gC9mI23aDxwHFLncZpts="
+    }
+  }
+}

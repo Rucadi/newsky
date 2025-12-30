@@ -1,0 +1,23 @@
+{
+  "Suspicious City Guards - original": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "5",
+      "file_id": 152650,
+      "file_name": "Suspicious City Guards-38762-5-1595968194.zip",
+      "mod_id": 38762,
+      "hash": "sha256-GjB+OJorQgTUoOVmI3uW+Z1Z2hP4x/DclzABfSYKQVM="
+    },
+    "type": "primary"
+  },
+  "Suspicious city Guards - sneak only": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "5",
+      "file_id": 600392,
+      "file_name": "Suspicious city Guards - sneak only-38762-5-1740828130.zip",
+      "mod_id": 38762,
+      "hash": "sha256-v3nso5fTh91Y1EwtanuBYEEbSTeM19edkZhNo766APo="
+    }
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "Optional remove the chain mail leg with leather": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1",
+      "file_id": 534104,
+      "file_name": "Optional remove the chain mail leg with leather-126887-1-1-1724327808.rar",
+      "mod_id": 126887,
+      "hash": "sha256-9zGVUSXd5CrKqc7tWXxOoEhNWe4KKJ3FgDubXTV+iIs="
+    }
+  },
+  "Auri default outfit and weap replacer (Skypatcher)": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.2",
+      "file_id": 537343,
+      "file_name": "Auri default outfit and weap replacer (Skypatcher)-126887-1-2-1725138910.7z",
+      "mod_id": 126887,
+      "hash": "sha256-jFqt5dM5EeNGGgtzqI42D5T1L3RJLi/tIhLA5QKEreQ="
+    }
+  },
+  "Valenwood Ranger NFF Arrow patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 566235,
+      "file_name": "Valenwood Ranger NFF Arrow patch-126887-1-0-1732631507.rar",
+      "mod_id": 126887,
+      "hash": "sha256-q8pFxwGcuzdiutgRw0YWBqguFzwPq9aWKGyydFT22XA="
+    }
+  },
+  "Valenwood Ranger Armor Mashup": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.5",
+      "file_id": 686739,
+      "file_name": "Valenwood Ranger Armor Mashup-126887-1-5-1762959287.rar",
+      "mod_id": 126887,
+      "hash": "sha256-slfUhf/58wa8ehBbdE/oF6tulzZioMQTC8153zGruUw="
+    },
+    "type": "primary"
+  },
+  "Valenwood Ranger Armor Mashup 2K Downscaled": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.5",
+      "file_id": 686740,
+      "file_name": "Valenwood Ranger Armor Mashup 2K Downscaled-126887-1-5-1762959324.rar",
+      "mod_id": 126887,
+      "hash": "sha256-aTxqU9Tvq6bU8kzmIR3y6p1r343lGPPKZSK9vXUahVk="
+    },
+    "type": "primary"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "Kathryn (TREBoy) - E2A - Assets": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 499549,
+      "file_name": "Kathryn (TREBoy) - E2A - Assets-119064-1-0-1715289082.rar",
+      "mod_id": 119064,
+      "hash": "sha256-9eqrCsEzZ/SOuFFgZ8ImS1QnxqfY+e9PZwfMDL8fY54="
+    },
+    "type": "primary"
+  },
+  "Kathryn (TREBoy) - E2A - De-Standalone": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 499550,
+      "file_name": "Kathryn (TREBoy) - E2A - De-Standalone-119064-1-0-1715289113.rar",
+      "mod_id": 119064,
+      "hash": "sha256-PuUe/cpc3q8nphB9JoZt/pumQo8L3b887fML3/Wn+QY="
+    },
+    "type": "primary"
+  },
+  "Kathryn (TREBoy) - E2A - Original": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 499553,
+      "file_name": "Kathryn (TREBoy) - E2A - Original-119064-1-0-1715289166.rar",
+      "mod_id": 119064,
+      "hash": "sha256-zUL+sDRIyx7uq8HkaXvLgySUjDfR96i2mZMdD4d6OD8="
+    },
+    "type": "primary"
+  }
+}

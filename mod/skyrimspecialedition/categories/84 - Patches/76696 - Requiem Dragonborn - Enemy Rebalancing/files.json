@@ -1,0 +1,23 @@
+{
+  "Requiem Dragonborn - Enemy Rebalancing": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.00",
+      "file_id": 322184,
+      "file_name": "Requiem Dragonborn - Enemy Rebalancing-76696-1-00-1665140005.rar",
+      "mod_id": 76696,
+      "hash": "sha256-taOCssLjBw9Mt7HCsnzgHdoPg9zx5oJ8UlLnlYUxRFM="
+    },
+    "type": "primary"
+  },
+  "Requiem Dragonborn - Enemy Rebalancing - Trad Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.00",
+      "file_id": 322185,
+      "file_name": "Requiem Dragonborn - Enemy Rebalancing - Trad Patch-76696-1-00-1665140097.rar",
+      "mod_id": 76696,
+      "hash": "sha256-a0E2i1asunZP3PcFtJgdGW32iyD1rooZlyzqZ+D1Bvs="
+    }
+  }
+}

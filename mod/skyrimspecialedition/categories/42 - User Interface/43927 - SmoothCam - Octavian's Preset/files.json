@@ -1,0 +1,23 @@
+{
+  "SmoothCam - Octavian's Preset - No Crosshair Tweaks": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1.0",
+      "file_id": 177940,
+      "file_name": "SmoothCam - Octavian's Preset - No Crosshair Tweaks-43927-1-1-0-1609907416.7z",
+      "mod_id": 43927,
+      "hash": "sha256-3IGT+XIuomE62Yhf8A7T5KNg/RQo8Bhqusmjqw4LRLI="
+    }
+  },
+  "SmoothCam - Octavian's Preset 1.1.2": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1.2",
+      "file_id": 180082,
+      "file_name": "SmoothCam - Octavian's Preset 1.1.2-43927-1-1-2-1610903285.7z",
+      "mod_id": 43927,
+      "hash": "sha256-BR+Vtrh/GZeF6LidiVKqz7MgdMtmUmp02Mg86LxZU5o="
+    },
+    "type": "primary"
+  }
+}

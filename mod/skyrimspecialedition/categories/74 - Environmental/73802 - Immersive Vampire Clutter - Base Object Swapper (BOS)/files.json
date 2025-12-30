@@ -1,0 +1,24 @@
+{
+  "Immersive Vampire Clutter - LITE": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.3",
+      "file_id": 311731,
+      "file_name": "Immersive Vampire Clutter - LITE-73802-1-3-1661869072.rar",
+      "mod_id": 73802,
+      "hash": "sha256-45tfgGaUxloVwPaWjcftCfVkSe1FRm7DB+CU1zG1FQI="
+    },
+    "type": "primary"
+  },
+  "Immersive Vampire Clutter - Base Object Swapper": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.3",
+      "file_id": 311732,
+      "file_name": "Immersive Vampire Clutter - Base Object Swapper-73802-1-3-1661869101.rar",
+      "mod_id": 73802,
+      "hash": "sha256-VALM8aK9Fw+2R+ZRN6w/y4hXsPT5sfktnRnyeuhzzuE="
+    },
+    "type": "primary"
+  }
+}

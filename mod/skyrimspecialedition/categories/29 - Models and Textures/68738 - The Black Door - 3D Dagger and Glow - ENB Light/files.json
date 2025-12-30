@@ -1,0 +1,88 @@
+{
+  "3D Dagger Only - 2k Door": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 287027,
+      "file_name": "3D Dagger Only - 2k Door-68738-1-0-1653717216.rar",
+      "mod_id": 68738,
+      "hash": "sha256-RZ412+OJrcFO2N90hclir8xNHP7jMRmhJ1gFf1Vx17Q="
+    },
+    "type": "primary"
+  },
+  "3D Dagger Only - 4k Door": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 287028,
+      "file_name": "3D Dagger Only - 4k Door-68738-1-0-1653717292.rar",
+      "mod_id": 68738,
+      "hash": "sha256-0m4RAeiCfd1Pa9A1/m6OPqoGQYmmBV7VJ04ba/AYFiE="
+    },
+    "type": "primary"
+  },
+  "3D Dagger and GLOW - ENB Light - 2k Door": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1",
+      "file_id": 287280,
+      "file_name": "3D Dagger and GLOW - ENB Light - 2k Door-68738-1-1-1653781874.rar",
+      "mod_id": 68738,
+      "hash": "sha256-tlxsxBfyWHsARRKvAm4MCeyulhGyRBMYp74g37hI/P0="
+    },
+    "type": "primary"
+  },
+  "3D Dagger and GLOW - ENB Light - 4k Door": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1",
+      "file_id": 287282,
+      "file_name": "3D Dagger and GLOW - ENB Light - 4k Door-68738-1-1-1653781942.rar",
+      "mod_id": 68738,
+      "hash": "sha256-WrJiSPwjegFwbTdjBa2+DHtIbtZ5ZsiuQrNjJZPMos8="
+    },
+    "type": "primary"
+  },
+  "GLOW Only - ENB Light - 2k Door": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1",
+      "file_id": 287283,
+      "file_name": "GLOW Only - ENB Light - 2k Door-68738-1-1-1653781984.rar",
+      "mod_id": 68738,
+      "hash": "sha256-A/T9PAxBTUhW7u5CW66CETdXP2iQraZHXKCc4RHiI9M="
+    },
+    "type": "primary"
+  },
+  "GLOW Only - ENB Light - 4k Door": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1",
+      "file_id": 287285,
+      "file_name": "GLOW Only - ENB Light - 4k Door-68738-1-1-1653782043.rar",
+      "mod_id": 68738,
+      "hash": "sha256-XfHIQ9t9yy+e0PVYtaC2mBkgu3pHnzxSJDLSdS4HiMs="
+    },
+    "type": "primary"
+  },
+  "3D Dagger and GLOW - ENB Light - REDUCED": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1",
+      "file_id": 287286,
+      "file_name": "3D Dagger and GLOW - ENB Light - REDUCED-68738-1-1-1653782093.rar",
+      "mod_id": 68738,
+      "hash": "sha256-KPL36Klk+wQ0KAVPfLGmBjGbzzFH3Hy7ccaTigdzn4o="
+    }
+  },
+  "GLOW Only - ENB Light - REDUCED": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1",
+      "file_id": 287288,
+      "file_name": "GLOW Only - ENB Light - REDUCED-68738-1-1-1653782127.rar",
+      "mod_id": 68738,
+      "hash": "sha256-Z4TotvqxS39332wSCse6cx0a7ZMeprkfawXkZ+PZD2M="
+    }
+  }
+}

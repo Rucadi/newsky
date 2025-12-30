@@ -1,0 +1,83 @@
+{
+  "Crimson Twilight Armor - CBBE SSE": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 37613,
+      "file_name": "Crimson Twilight Armor - CBBE SSE-13059-1-0.7z",
+      "mod_id": 13059,
+      "hash": "sha256-iZYnd9TJRNA1jIrsz4IugYg4gX/XpEXN66PCQKHlwts="
+    },
+    "type": "primary"
+  },
+  "Black Textures": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 37614,
+      "file_name": "Black Textures-13059-1-0.7z",
+      "mod_id": 13059,
+      "hash": "sha256-WqN8e8bydO5zFROz7jRPyPSF/8WbiaGoypHZRKRj+UQ="
+    }
+  },
+  "Blue Textures": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 37615,
+      "file_name": "Blue Textures-13059-1-0.7z",
+      "mod_id": 13059,
+      "hash": "sha256-cwJ5RhZCBk3eVyxYuFe76eMLxwn+RxgY/5czajycmVM="
+    }
+  },
+  "Green Textures": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 37616,
+      "file_name": "Green Textures-13059-1-0.7z",
+      "mod_id": 13059,
+      "hash": "sha256-GSeonFK/seqNcHbLmYXS8aEzsEQImLYMTH8GOHxa5aI="
+    }
+  },
+  "Purple Textures": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 37617,
+      "file_name": "Purple Textures-13059-1-0.7z",
+      "mod_id": 13059,
+      "hash": "sha256-NH3aeYneuqRfN4eZrcS9eTM2+7FjuHv1NUc37hGsXKQ="
+    }
+  },
+  "White Textures": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 37618,
+      "file_name": "White Textures-13059-1-0.7z",
+      "mod_id": 13059,
+      "hash": "sha256-WJK2RruiNDJs0SbbvHrO+EmycsPErjaCNyNJzZzfgs8="
+    }
+  },
+  "Woodland Textures": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 37619,
+      "file_name": "Woodland Textures-13059-1-0.7z",
+      "mod_id": 13059,
+      "hash": "sha256-rifikS8k7CoZokWRhOpCBV5PJZYRKqAB5bmY21unATQ="
+    }
+  },
+  "Yellow Textures": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 37620,
+      "file_name": "Yellow Textures-13059-1-0.7z",
+      "mod_id": 13059,
+      "hash": "sha256-Y9xGkVRJBkxY3qenzgZ50vHJ2lPFit5YMFHDyMPlqsM="
+    }
+  }
+}

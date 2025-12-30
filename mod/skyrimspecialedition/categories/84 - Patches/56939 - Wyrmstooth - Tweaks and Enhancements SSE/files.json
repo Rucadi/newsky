@@ -1,0 +1,24 @@
+{
+  "Wyrmstooth - TnE SE - Landmarks": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.4",
+      "file_id": 323082,
+      "file_name": "Wyrmstooth - TnE SE - Landmarks-56939-1-4-1665415986.7z",
+      "mod_id": 56939,
+      "hash": "sha256-ze+Yw6CdrMXOqW4bTQTxltnDtOVbzD1xxGdgmUzO8xU="
+    },
+    "type": "primary"
+  },
+  "Wyrmstooth - TnE SE - Armor Sets": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.4",
+      "file_id": 323085,
+      "file_name": "Wyrmstooth - TnE SE - Armor Sets-56939-1-4-1665416900.7z",
+      "mod_id": 56939,
+      "hash": "sha256-yNVwtMzCrp5IiD5TPGEUdd3bK5Oi8jQHnBsZXpI4fF8="
+    },
+    "type": "primary"
+  }
+}

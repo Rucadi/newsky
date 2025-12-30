@@ -1,0 +1,63 @@
+{
+  "Seasons of JK All In One Unfrozen": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "2.0",
+      "file_id": 447079,
+      "file_name": "Seasons of JKs mods Unfrozen All In One-105475-2-0-1701258251.rar",
+      "mod_id": 105475,
+      "hash": "sha256-BnoKQNPPmhuoJFkK4NXEeqldz5SrNsSSh9W2SWCo5uc="
+    }
+  },
+  "Seasons of JK CoW Unfrozen": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "2.0",
+      "file_id": 447080,
+      "file_name": "Seasons of JK CoW Unfrozen-105475-2-0-1701258324.rar",
+      "mod_id": 105475,
+      "hash": "sha256-uY1Q4h6ncIr33hMQ49ge59Ts2FvXZwAvb/TgzjlGFMs="
+    }
+  },
+  "Seasons of JK HH Unfrozen": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "2.0",
+      "file_id": 447081,
+      "file_name": "Seasons of JK HH Unfrozen-105475-2-0-1701258394.rar",
+      "mod_id": 105475,
+      "hash": "sha256-qmCaIUCYFRuryYGYUb2W1qZ++eKLoaRaydxXX+iCJFU="
+    }
+  },
+  "Seasons of JK WhO Unfrozen": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "2.0",
+      "file_id": 447082,
+      "file_name": "Seasons of JK WhO Unfrozen-105475-2-0-1701258476.rar",
+      "mod_id": 105475,
+      "hash": "sha256-I2IKZoEsdvKfp6o7jeZAQ1zXqUNqf5Z+MFM9PBd4SF4="
+    }
+  },
+  "Seasons of JK Modular Unfrozen": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "2.0",
+      "file_id": 447083,
+      "file_name": "Seasons of JK Modular Unfrozen-105475-2-0-1701258645.rar",
+      "mod_id": 105475,
+      "hash": "sha256-7PbO/1Be2Lgh11bD0LvQBHCtXpl7En59MLrjWcGz9VM="
+    }
+  },
+  "Seasons of JKs mods": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "3.0",
+      "file_id": 469860,
+      "file_name": "Seasons of JKs mods-105475-3-0-1707664324.rar",
+      "mod_id": 105475,
+      "hash": "sha256-i2Sf4JkCjWqds8Wu1zmZQDVpUwiieD7tBVgWjSrcnK4="
+    },
+    "type": "primary"
+  }
+}

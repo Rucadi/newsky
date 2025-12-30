@@ -1,0 +1,23 @@
+{
+  "Curse of the Mage": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0.0",
+      "file_id": 505878,
+      "file_name": "Curse of the Mage-120521-1-0-0-1716892045.zip",
+      "mod_id": 120521,
+      "hash": "sha256-Hg12xjaZks+5Pr6H4IpBXFLVabAreIC478FD0XzbpPs="
+    }
+  },
+  "Difficulty Global Variable": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "2.0.0",
+      "file_id": 682652,
+      "file_name": "Difficulty Global Variable-120521-2-0-0-1762013866.7z",
+      "mod_id": 120521,
+      "hash": "sha256-COR6Y2sqa0pIREikv1cYjhCbsnGDAgjeaiLnQLlh65I="
+    },
+    "type": "primary"
+  }
+}

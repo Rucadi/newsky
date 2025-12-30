@@ -1,0 +1,34 @@
+{
+  "Animated Objects Overhauled Part One": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1",
+      "file_id": 696958,
+      "file_name": "Animated Objects Overhauled Part One-166533-1-1-1765487978.rar",
+      "mod_id": 166533,
+      "hash": "sha256-/QeAbqHfvoZpQJ/S0tKC1vnywlYQfuOh0P1+Pfhu7KM="
+    },
+    "type": "primary"
+  },
+  "Animated Objects Overhauled Part Two CCA": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1b",
+      "file_id": 696984,
+      "file_name": "Animated Objects Overhauled Part Two CCA-166533-1-1b-1765496353.rar",
+      "mod_id": 166533,
+      "hash": "sha256-dOVDcemHLlS0uV1AxnGgQivqn1ddnK0JV6i4rW9sEoM="
+    },
+    "type": "primary"
+  },
+  "Animated Objects Overhauled Part Two CCA ALT": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1",
+      "file_id": 697539,
+      "file_name": "Animated Objects Overhauled Part Two CCA ALT-166533-1-1-1765632783.rar",
+      "mod_id": 166533,
+      "hash": "sha256-tKcfQ2tMD4f+bMgUv8BlPnrDsHEw9+P7TqG8FWqvcYc="
+    }
+  }
+}

@@ -1,0 +1,23 @@
+{
+    "Less Intrusive HUD II SE - FISSES Patch -towatot": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "1.1.44",
+            "file_id": 57247,
+            "file_name": "Less Intrusive HUD II SE - FISSES Patch -towatot-17974-1-0-SE.7z",
+            "mod_id": 17974,
+            "hash": "sha256-mZGr8S42EqxjqOnmxD7fAXSKCdI99ZVyzMCMS2hs8dI="
+        }
+    },
+    "Less Intrusive HUD II SE 1.1.44-SE": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "1.1.44",
+            "file_id": 57283,
+            "file_name": "Less Intrusive HUD II SE 1.1.44-SE-17974-1-1-44-SE.7z",
+            "mod_id": 17974,
+            "hash": "sha256-Di3YIS8RLb1uZloWBd0QXoDAuzTnjIbjLeo8LDHMeOY="
+        },
+        "type": "primary"
+    }
+}

@@ -1,0 +1,23 @@
+{
+  "Skyrim's Got Talent - Interesting NPCs Addon": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.21",
+      "file_id": 324661,
+      "file_name": "Skyrim's Got Talent - Interesting NPCs Addon-74466-1-21-1665960803.zip",
+      "mod_id": 74466,
+      "hash": "sha256-yjXkLgCe7ny0iSy/nHwNT6BH/1iC48ec52xT5F+fwFo="
+    },
+    "type": "primary"
+  },
+  "Skyrim's Got Talent - Interesting NPCs Addon Translation FOMOD": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.21",
+      "file_id": 324663,
+      "file_name": "Skyrim's Got Talent - Interesting NPCs Addon Translation FOMOD-74466-1-21-1665961184.zip",
+      "mod_id": 74466,
+      "hash": "sha256-+ET5uCFZLE5MzVh30BQucMYuxcqI8VSiF0WJ5bhPrYo="
+    }
+  }
+}

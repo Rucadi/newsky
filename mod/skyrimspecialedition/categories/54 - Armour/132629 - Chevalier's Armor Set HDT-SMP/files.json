@@ -1,0 +1,73 @@
+{
+  "Matching Steel Plate retexture": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 566632,
+      "file_name": "Matching Steel Plate retexture-132629-1-0-1732724660.7z",
+      "mod_id": 132629,
+      "hash": "sha256-ij6k1TFibhAOnO7DQOKEPQMszsRVb+R8wmiz+Vpj09Q="
+    }
+  },
+  "HIMBO Bodyslide Files - Chevalier's Armor": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0b",
+      "file_id": 566947,
+      "file_name": "HIMBO Bodyslide Files - Chevalier's Armor-132629-1-0b-1732801794.7z",
+      "mod_id": 132629,
+      "hash": "sha256-wxYOTOhemCAQtSH0w1yWCvMsLKyD8Ml32Hzog76RjeY="
+    }
+  },
+  "Chevalier's Armor Set": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1",
+      "file_id": 568576,
+      "file_name": "Chevalier's Armor Set-132629-1-1-1733232524.7z",
+      "mod_id": 132629,
+      "hash": "sha256-nU4V2g4Mg/ggMhYMgW+xfiBVBYMXsSQxzBSuUhSBfvQ="
+    },
+    "type": "primary"
+  },
+  "4K Textures - Chevalier's Armor Set": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1",
+      "file_id": 568577,
+      "file_name": "4K Textures - Chevalier's Armor Set-132629-1-1-1733232640.7z",
+      "mod_id": 132629,
+      "hash": "sha256-1KykAogafPfbz8ug1wgFJ2hSijqSPH5Z1zd1YGOJ7ao="
+    }
+  },
+  "CBBE 3BA Bodyslide Files - Chevalier's Armor": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1",
+      "file_id": 568578,
+      "file_name": "CBBE 3BA Bodyslide Files - Chevalier's Armor-132629-1-1-1733232678.7z",
+      "mod_id": 132629,
+      "hash": "sha256-MrZpWSNEG8y+gsaCMEdsbzdRQVTMot6UHe/lxTDpTaQ="
+    }
+  },
+  "Xavbio's Retexture - My Edit": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1",
+      "file_id": 569077,
+      "file_name": "Xavbio's Retexture - My Edit-132629-1-1-1733366566.7z",
+      "mod_id": 132629,
+      "hash": "sha256-I2kPdotp3NIftxj3Ryq7dNmePB12hJjmf4Mvyd/CfwM="
+    }
+  },
+  "White variant - Chevalier's Armor": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1",
+      "file_id": 569083,
+      "file_name": "White variant - Chevalier's Armor-132629-1-1-1733371613.7z",
+      "mod_id": 132629,
+      "hash": "sha256-pfILft6Cj3+/6aiWc1vLQ9904XTE13SRxSTUN8bFpf0="
+    }
+  }
+}

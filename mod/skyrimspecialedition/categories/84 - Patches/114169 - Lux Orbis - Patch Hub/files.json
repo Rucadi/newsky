@@ -1,0 +1,43 @@
+{
+    "Lux Orbis - JK's Tel Mithryn patch": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "4.6",
+            "file_id": 649214,
+            "file_name": "Lux Orbis - JK's Tel Mithryn patch-114169-4-6-1753167381.rar",
+            "mod_id": 114169,
+            "hash": "sha256-RX9afHNiDklq3m3RZt614Oi1jzfp2NNEozVtchctFzg="
+        }
+    },
+    "Lux Orbis - Grand Solitude patch": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "4.6",
+            "file_id": 664619,
+            "file_name": "Lux Orbis - Grand Solitude patch-114169-4-6-1757573989.rar",
+            "mod_id": 114169,
+            "hash": "sha256-3GqM38pf6+pKgPQZVpBNKzF+h9Oc01FFSXEXe5WejIU="
+        }
+    },
+    "Lux Orbis - Grand Solitude JK's Skyrim patch": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "4.6",
+            "file_id": 671059,
+            "file_name": "Lux Orbis - Grand Solitude JK's Skyrim patch-114169-4-6-1759305209.rar",
+            "mod_id": 114169,
+            "hash": "sha256-z4EJE0ggtULF1HbmIx0ce0Q7WlT03juO+By0IoH8G1g="
+        }
+    },
+    "Lux Orbis - Patch Hub": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "4.7",
+            "file_id": 695720,
+            "file_name": "Lux Orbis - Patch Hub-114169-4-7-1765186191.rar",
+            "mod_id": 114169,
+            "hash": "sha256-SLwGloss3Y41Bc4NCAE2piPC1cXBQYO1AjDLjXGkh8s="
+        },
+        "type": "primary"
+    }
+}

@@ -1,0 +1,53 @@
+{
+    "Lux - HAG - Occult Orphan Rock Patch": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "1.3a",
+            "file_id": 594082,
+            "file_name": "Lux - HAG - Occult Orphan Rock Patch-137996-1-3a-1739449070.7z",
+            "mod_id": 137996,
+            "hash": "sha256-py3qUdh3PCxZwgXL6F6jlkVczsbS9/ImUjJ8he8UWSw="
+        }
+    },
+    "Lux Orbis - HAG - Occult Orphan Rock": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "1.3b",
+            "file_id": 594083,
+            "file_name": "Lux Orbis - HAG - Occult Orphan Rock-137996-1-3b-1739449118.7z",
+            "mod_id": 137996,
+            "hash": "sha256-KwencNzCwAbKzpHYvfRLf7Ae0tVr0qQvSbmLyQTFmys="
+        }
+    },
+    "HAG - Occult Orphan Rock": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "1.3.1",
+            "file_id": 596411,
+            "file_name": "HAG - Occult Orphan Rock-137996-1-3-1-1739918898.7z",
+            "mod_id": 137996,
+            "hash": "sha256-j+emyBhXrs3ZDpyp998kulbILG6pkweeXhqP6qs0zFk="
+        },
+        "type": "primary"
+    },
+    "Nature of the Wild Lands Patch 3.14": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "1.3.14NOTWL",
+            "file_id": 673567,
+            "file_name": "Nature of the Wild Lands Patch 3.14-137996-1-3-14NOTWL-1759922761.7z",
+            "mod_id": 137996,
+            "hash": "sha256-2OQ0xOxncHB9hljqSUpLu6dJj+zLpTetQF7ONS0Q3/g="
+        }
+    },
+    "Fabled Forests Patch": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "1.0Fable",
+            "file_id": 673569,
+            "file_name": "Fabled Forests Patch-137996-1-0Fable-1759924009.7z",
+            "mod_id": 137996,
+            "hash": "sha256-/mj8CHzRPQzjndSEOM0wakLUjVCWg2htIFqLfeyfzs8="
+        }
+    }
+}

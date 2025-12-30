@@ -1,0 +1,43 @@
+{
+  "SBDA - Sneaking Module": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 423045,
+      "file_name": "SBDA - Sneaking Module-99842-1-0-1693754219.rar",
+      "mod_id": 99842,
+      "hash": "sha256-6a++7QQELiSbqgw72aCTDIYvXYyZP1Qu2/3ihka2PGU="
+    }
+  },
+  "SBDA - Magic Casting Module": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1",
+      "file_id": 423196,
+      "file_name": "SBDA - Magic Casting Module-99842-1-1-1693810781.zip",
+      "mod_id": 99842,
+      "hash": "sha256-lwzVGCeU7BsYapmhPRLCQXtC7MOzkblGL0kbggTXBC8="
+    }
+  },
+  "SBDA - Archery Module": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.11",
+      "file_id": 513842,
+      "file_name": "SBDA - Archery Module-99842-1-11-1719052458.rar",
+      "mod_id": 99842,
+      "hash": "sha256-HfRFmcDNw90My/srFb6bM0JFXKcYZMje0dCBe6wfBJs="
+    }
+  },
+  "Skill Based Dynamic Animations AIO": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.12",
+      "file_id": 595101,
+      "file_name": "Skill Based Dynamic Animations AIO-99842-1-12-1739643156.rar",
+      "mod_id": 99842,
+      "hash": "sha256-yrkZWTJwXiufx9CnIg2dpCLwxszmN+5F0f9pbm+3x3Q="
+    },
+    "type": "primary"
+  }
+}

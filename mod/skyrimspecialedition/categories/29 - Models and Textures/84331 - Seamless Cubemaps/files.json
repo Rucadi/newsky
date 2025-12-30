@@ -1,0 +1,23 @@
+{
+  "Seamless Cubemaps": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.2",
+      "file_id": 413886,
+      "file_name": "Seamless Cubemaps-84331-1-2-1691105119.7z",
+      "mod_id": 84331,
+      "hash": "sha256-NlsAHjVUD+eI9ULWWfWN2lTVKVfy8SL5WjpzaHvFAJg="
+    },
+    "type": "primary"
+  },
+  "Seamless Cubemaps Zip": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.2",
+      "file_id": 414056,
+      "file_name": "Seamless Cubemaps Zip-84331-1-2-1691165922.zip",
+      "mod_id": 84331,
+      "hash": "sha256-bI53iTKw3Oxnz2Hf6YRdxKe36NW/O1zbgbfQviGemb4="
+    }
+  }
+}

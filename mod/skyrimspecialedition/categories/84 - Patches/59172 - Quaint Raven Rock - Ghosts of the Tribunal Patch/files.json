@@ -1,0 +1,24 @@
+{
+  "Quaint Raven Rock - GoT - EL Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.2",
+      "file_id": 248906,
+      "file_name": "Quaint Raven Rock - Ghosts of the Tribunal - Enhanced Landscapes Patch (ESL)-59172-1-0-1639436868.zip",
+      "mod_id": 59172,
+      "hash": "sha256-AcMcHempH2BNZPmVVINApl+cnnkMqE6TjZ0vObspzMQ="
+    },
+    "type": "primary"
+  },
+  "Quaint Raven Rock - Ghosts of the Tribunal Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.2",
+      "file_id": 248910,
+      "file_name": "Quaint Raven Rock - Ghosts of the Tribunal Patch (ESL)-59172-1-2-1639437342.zip",
+      "mod_id": 59172,
+      "hash": "sha256-a9IjfRYRhloO5PYO+iS9a4sXcMNgFBRI58zqrZxy7ms="
+    },
+    "type": "primary"
+  }
+}

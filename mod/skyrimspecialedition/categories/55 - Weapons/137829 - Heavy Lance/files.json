@@ -1,0 +1,23 @@
+{
+  "Heavy Lance": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0.5",
+      "file_id": 578652,
+      "file_name": "Heavy Lance-137829-1-0-5-1735812242.zip",
+      "mod_id": 137829,
+      "hash": "sha256-bHXom0De6gLHvbmVtthFm9b3hpYiD+RQHuseTeFx+nA="
+    },
+    "type": "primary"
+  },
+  "Heavy Lance KOR esp": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0.5",
+      "file_id": 578654,
+      "file_name": "Heavy Lance KOR esp-137829-1-0-5-1735812313.zip",
+      "mod_id": 137829,
+      "hash": "sha256-V0fVVaGmUWtoIG3y6ZRUX8gqNT4eOHIVe4uMCbIDw8o="
+    }
+  }
+}

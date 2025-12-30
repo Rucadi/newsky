@@ -1,0 +1,45 @@
+{
+  "Bleak Falls Barrow Boss - Requiem - Magic Redone": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.5",
+      "file_id": 553370,
+      "file_name": "Bleak Falls Barrow Boss - Requiem - Magic Redone-131819-1-0-1729287384.7z",
+      "mod_id": 131819,
+      "hash": "sha256-eob3kA6ZuUhQLE8/wFOKvcHdfAXIkZdfGEPq2WXhEDM="
+    },
+    "type": "primary"
+  },
+  "Bleak Falls Barrow Boss - LoreRim Reqtificator": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.4.2",
+      "file_id": 570840,
+      "file_name": "Bleak Falls Barrow Boss - LoreRim Reqtificator-131819-1-4-1-1733785784.7z",
+      "mod_id": 131819,
+      "hash": "sha256-jWeSIgNK66HdH7PCTKwgv0zXuTkJ00cA495RdK0+T3M="
+    }
+  },
+  "Bleak Falls Barrow Boss": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.5",
+      "file_id": 582528,
+      "file_name": "Bleak Falls Barrow Boss-131819-1-5-1736694303.7z",
+      "mod_id": 131819,
+      "hash": "sha256-1qEYfSINnf4SbhwJrxWEfC6rzFINay9O3yy+wYIHGBg="
+    },
+    "type": "primary"
+  },
+  "Bleak Falls Barrow Boss - Leveled Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.5",
+      "file_id": 582529,
+      "file_name": "Bleak Falls Barrow Boss - Leveled Patch-131819-1-5-1736694367.7z",
+      "mod_id": 131819,
+      "hash": "sha256-y2r0ISdT/Z+vtC+WZsqiZX+2RFGSOMKzfu1m+MhtcJI="
+    },
+    "type": "primary"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "Assorted Mesh Fixes - parallax shit (unsupported)": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "0.132",
+      "file_id": 701006,
+      "file_name": "Assorted Mesh Fixes - parallax shit (unsupported)-32117-0-132-1766431069.7z",
+      "mod_id": 32117,
+      "hash": "sha256-mfP1y8y85Wa+qjajm3+raWXORwZKF1Py2Hn3NDTBzkw="
+    }
+  },
+  "Assorted Mesh Fixes": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "0.132",
+      "file_id": 701007,
+      "file_name": "Assorted Mesh Fixes-32117-0-132-1766431071.7z",
+      "mod_id": 32117,
+      "hash": "sha256-GaCtlWq+EgJGiKfSiVTwbI5IAowJ0SQrARTpvnJRYZ8="
+    },
+    "type": "primary"
+  }
+}

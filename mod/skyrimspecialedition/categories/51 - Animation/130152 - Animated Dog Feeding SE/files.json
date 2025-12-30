@@ -1,0 +1,53 @@
+{
+  "Animated Dog Feeding SE - Default version": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "2.21",
+      "file_id": 546723,
+      "file_name": "Animated Dog Feeding SE - Default version-130152-2-21-1727442697.zip",
+      "mod_id": 130152,
+      "hash": "sha256-1acnPY5WtmLPsG189XZIhouCEBW3tRr1aldNFUN9DDQ="
+    },
+    "type": "primary"
+  },
+  "Animated Dog Feeding SE - A Dog's Life version": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "2.21",
+      "file_id": 546726,
+      "file_name": "Animated Dog Feeding SE - A Dog's Life version-130152-2-21-1727442794.zip",
+      "mod_id": 130152,
+      "hash": "sha256-dwa8mRry0neP//7SkfU62l7HPDJu6U8xo0QaLXwOCTs="
+    }
+  },
+  "Animated Dog Feeding SE - Feed The Animals patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "2.21",
+      "file_id": 546879,
+      "file_name": "Animated Dog Feeding SE - Feed The Animals patch-130152-2-21-1727483533.zip",
+      "mod_id": 130152,
+      "hash": "sha256-8F4SaLksYj/P8ZR84hCFSa2jP2cc5ocz0NDhLGRbixM="
+    }
+  },
+  "Patch - Realistic HD Food Remastered": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "2.21",
+      "file_id": 549861,
+      "file_name": "Patch - Realistic HD Food Remastered-130152-2-21-1728285461.zip",
+      "mod_id": 130152,
+      "hash": "sha256-QNxALGN66fHp4PJq5mUXy2xWoCxoBTNSZIeWrGDnM/c="
+    }
+  },
+  "Animated Dog Feeding AE - Wolf Follower with tweak": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "2.22",
+      "file_id": 554432,
+      "file_name": "Animated Dog Feeding AE - Wolf Follower with tweak-130152-2-22-1729560425.zip",
+      "mod_id": 130152,
+      "hash": "sha256-IN+cuHQrOEY0SV4Cy4Q0FpaLdkLRR2h94sG6mydoOkY="
+    }
+  }
+}

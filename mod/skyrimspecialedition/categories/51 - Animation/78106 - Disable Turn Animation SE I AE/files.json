@@ -1,0 +1,24 @@
+{
+    "Disable Turn Animation V1 SE I AE": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "2.0",
+            "file_id": 596831,
+            "file_name": "Disable Turn Animation V1 SE I AE-78106-2-0-1740029317.zip",
+            "mod_id": 78106,
+            "hash": "sha256-OUN2vto//DfkOjr/ZEBKx/1Plhh6VjbLfMz2QCE3LfM="
+        },
+        "type": "primary"
+    },
+    "Disable Turn Animation V2 SE I AE": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "2.0",
+            "file_id": 596833,
+            "file_name": "Disable Turn Animation V2 SE I AE-78106-2-0-1740030187.zip",
+            "mod_id": 78106,
+            "hash": "sha256-3G50LeVINoLfhVSGbZdhK0TS75G9Bbtp5LOy18Imuaw="
+        },
+        "type": "primary"
+    }
+}

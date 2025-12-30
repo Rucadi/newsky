@@ -1,0 +1,43 @@
+{
+  "TIWOBA Sons of Talos bikini set 3BA": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1",
+      "file_id": 493638,
+      "file_name": "TIWOBA Sons of Talos bikini set-114301-1-1-1713795520.rar",
+      "mod_id": 114301,
+      "hash": "sha256-UkwhviVCVpnpxSWgHgR6qSeLoM1AAlnir+Knj0lL6Z4="
+    },
+    "type": "primary"
+  },
+  "BOS_Sons_Crafting_Book_Light": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "Sons",
+      "file_id": 494016,
+      "file_name": "BOS_Dawnguard_Crafting_Book_Light-114301-Sons-1713887169.rar",
+      "mod_id": 114301,
+      "hash": "sha256-RXLbcEgdNCGDjfQcIO1z38gJW28SgBdlDnJ6xjGJ7K0="
+    }
+  },
+  "TIWOBA_sons_Bodyslide_groups": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1",
+      "file_id": 495989,
+      "file_name": "TIWOBA_sons_Bodyslide_groups-114301-1-1-1714387517.rar",
+      "mod_id": 114301,
+      "hash": "sha256-bdjqmu/OFXShVup/N8AxjwVXnA6FA37iDh2093TzjO0="
+    }
+  },
+  "TIWOBA Sons of Talos bikini set TBD CBPC": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "TBDCBPC",
+      "file_id": 605449,
+      "file_name": "TIWOBA Sons of Talos bikini set TBD CBPC-114301-TBDCBPC-1741944344.zip",
+      "mod_id": 114301,
+      "hash": "sha256-vrQcqkrZ8AYpwGLZUASDAj+Dxs2LJ4C3T3dVBrLEqfU="
+    }
+  }
+}

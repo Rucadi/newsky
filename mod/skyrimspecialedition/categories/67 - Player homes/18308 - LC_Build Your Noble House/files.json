@@ -1,0 +1,83 @@
+{
+  "LC_BannersStormcloaks": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 58709,
+      "file_name": "LC_BannersStormcloaks-18308-1-0.rar",
+      "mod_id": 18308,
+      "hash": "sha256-S6am/vdKn/yOvM0jGUfktf8VwFWUW6CAeG4QhwUUwtw="
+    }
+  },
+  "LC_BannersFalkreath": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 58711,
+      "file_name": "LC_BannersFalkreath-18308-1-0.rar",
+      "mod_id": 18308,
+      "hash": "sha256-gZTxW/yXPxVpZiISSrdM/Av6ya6khaB/tm45+WBcvVY="
+    }
+  },
+  "LC_BuildYourNobleHouseV1_4": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.4",
+      "file_id": 67979,
+      "file_name": "LC_BuildYourNobleHouseV1_4-18308-1-4.rar",
+      "mod_id": 18308,
+      "hash": "sha256-LztonqMYY8stjtmOlKS10MW8Y6UP97AuKhqiuSiYOFs="
+    },
+    "type": "primary"
+  },
+  "LC_BannersDawnguard": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.4",
+      "file_id": 67980,
+      "file_name": "LC_BannersDawnguard-18308-1-4.rar",
+      "mod_id": 18308,
+      "hash": "sha256-5PXYvRkps8gW/bjgSfMmxnNE5JTEdFhx7xm15ZdM86Q="
+    }
+  },
+  "LC_BannersDarkBrotherhood": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.4",
+      "file_id": 67981,
+      "file_name": "LC_BannersDarkBrotherhood-18308-1-4.rar",
+      "mod_id": 18308,
+      "hash": "sha256-CGiMbYReG9NNNTFswF1gbNMLrLDLzIMQMkDFkQwNtmY="
+    }
+  },
+  "LC_BannersNightingalesYelow": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.4",
+      "file_id": 67983,
+      "file_name": "LC_BannersNightingalesYelow-18308-1-4.rar",
+      "mod_id": 18308,
+      "hash": "sha256-wN6KwuCIT7w3e0OngxIx+qlRV0ZxlWKGyXB6hd62xm8="
+    }
+  },
+  "LC_BannersImperial": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.4V",
+      "file_id": 67984,
+      "file_name": "LC_BannersImperial-18308-1-4V.rar",
+      "mod_id": 18308,
+      "hash": "sha256-NBIYPQlCqSW8IzMkpdSbPYBZwVHeKdzCmTVnv+fn1nA="
+    }
+  },
+  "LC_BannersNightingales": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.4",
+      "file_id": 82927,
+      "file_name": "LC_BannersNightingales-18308-1-4-1551128707.rar",
+      "mod_id": 18308,
+      "hash": "sha256-mg8UKyVk+aJBi89/q6htaz8ZCHMkF1mNl7EWQv7WacQ="
+    }
+  }
+}

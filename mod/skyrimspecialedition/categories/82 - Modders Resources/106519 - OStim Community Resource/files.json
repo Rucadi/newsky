@@ -1,0 +1,23 @@
+{
+    "OStim Community Resource 3BA Textures": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "2",
+            "file_id": 454857,
+            "file_name": "OStim Community Resource 3BA Textures-106519-2-1703451262.7z",
+            "mod_id": 106519,
+            "hash": "sha256-usF4C5txrURtItvXqpzbxb3Bxr6EcitdW6StCEKgNuQ="
+        }
+    },
+    "OStim Community Resource": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "1.17.6",
+            "file_id": 539493,
+            "file_name": "OStim Community Resource-106519-1-17-6-1725676642.7z",
+            "mod_id": 106519,
+            "hash": "sha256-j5ZFaJZQbOfmeIDjVvjr7PCm5bDkFKCi3Gp2j8F2JHo="
+        },
+        "type": "primary"
+    }
+}

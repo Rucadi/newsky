@@ -1,0 +1,23 @@
+{
+  "Simplicity of MM Vanilla PD": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1",
+      "file_id": 360364,
+      "file_name": "Simplicity of MM Vanilla PD-84042-1-1-1676576282.7z",
+      "mod_id": 84042,
+      "hash": "sha256-Zt71gisOxOj160fM2Ju3xM7qRCsWOx8XQxdbCMi9ez0="
+    },
+    "type": "primary"
+  },
+  "Simplicity of MM Custom PD": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1a",
+      "file_id": 361725,
+      "file_name": "Simplicity of MM Custom PD-84042-1-1a-1676916920.7z",
+      "mod_id": 84042,
+      "hash": "sha256-imx3mecWwNEiVaanlXOKPyFsCIBY30g5sJRVvsCaitc="
+    }
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "Better Tel Mithryn": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.00",
+      "file_id": 619,
+      "file_name": "Better Tel Mithryn-643-1-00.7z",
+      "mod_id": 643,
+      "hash": "sha256-EDBtEbhZpT/L+GRkx8yrOgVWM7zZxFFpdjYJy15UaZo="
+    },
+    "type": "primary"
+  },
+  "Tel Mithryn Prison": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.00",
+      "file_id": 1227,
+      "file_name": "Tel Mithryn Prison-643-1-00.7z",
+      "mod_id": 643,
+      "hash": "sha256-AO5mQKyU3SFLN6AMYleo8XFhotVxYh6PXOtnXv8Vabk="
+    }
+  }
+}

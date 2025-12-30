@@ -1,0 +1,43 @@
+{
+  "Lux - Mara's Embrace patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0.0",
+      "file_id": 468391,
+      "file_name": "Lux - Mara's Embrace patch-111047-1-0-0-1707238735.rar",
+      "mod_id": 111047,
+      "hash": "sha256-OWsp5w30jD8HI7lCv11HewkgdHaidSn17FFCMffxouM="
+    }
+  },
+  "Mara's Embrace - Riften Brothel": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.2.1",
+      "file_id": 468407,
+      "file_name": "Mara's Embrace - Riften Brothel-111047-1-2-1-1707241083.rar",
+      "mod_id": 111047,
+      "hash": "sha256-3ev6rwlalfQZC3poj6HyLX78cw2uGXw87mPfSg+dGUE="
+    },
+    "type": "primary"
+  },
+  "Mara's Embrace - OStim Integration": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.2.1",
+      "file_id": 497790,
+      "file_name": "Mara's Embrace - OStim Integration-111047-1-2-1-1714845155.rar",
+      "mod_id": 111047,
+      "hash": "sha256-3xqujYkTEdH5Bm0iy2aqQr1bM9XEjRXdEZ9qfvGDhrk="
+    }
+  },
+  "Mara's Embrace - JK's Skyrim patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0.0",
+      "file_id": 523801,
+      "file_name": "Mara's Embrace - JK's Skyrim patch-111047-1-0-0-1721650264.rar",
+      "mod_id": 111047,
+      "hash": "sha256-jkictDTZY3NfUiQ1OA8QXYQAcXeQRgx0p4dPF2RudnU="
+    }
+  }
+}

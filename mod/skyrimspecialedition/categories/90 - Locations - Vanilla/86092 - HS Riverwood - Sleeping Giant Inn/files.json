@@ -1,0 +1,43 @@
+{
+    "HSRiverwood - Sleeping Giant Inn": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "1.0.0",
+            "file_id": 364673,
+            "file_name": "HSRiverwood - Sleeping Giant Inn-86092-1-0-0-1677718426.7z",
+            "mod_id": 86092,
+            "hash": "sha256-tZWqNdsImsUoASl1KoTGlbvoCnc3DsqCfi+tK5Y4RZY="
+        },
+        "type": "primary"
+    },
+    "HSRiverwood - Sleeping Giant Inn - ELFX": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "1.0.0",
+            "file_id": 364674,
+            "file_name": "HSRiverwood - Sleeping Giant Inn - ELFX-86092-1-0-0-1677718451.7z",
+            "mod_id": 86092,
+            "hash": "sha256-61qGssqQ8jOgCDCNuW3pphc0bGsYdojkp4wU2ObQM0E="
+        }
+    },
+    "HSRiverwood - Sleeping Giant Inn - LUX": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "1.0.0",
+            "file_id": 364675,
+            "file_name": "HSRiverwood - Sleeping Giant Inn - LUX-86092-1-0-0-1677718479.7z",
+            "mod_id": 86092,
+            "hash": "sha256-+D2YRJzMTjTC8CbMGjiUrf/pW4eks7+Q9wygVwmS490="
+        }
+    },
+    "HSRiverwood - Sleeping Giant Inn - Mrissi": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "1.0.0",
+            "file_id": 378241,
+            "file_name": "HSRiverwood - Sleeping Giant Inn - Mrissi-86092-1-0-0-1681493966.7z",
+            "mod_id": 86092,
+            "hash": "sha256-VT9mdgRcMgiciSprcGabr1KGg3WSSYLDzw7zdxmP6XU="
+        }
+    }
+}

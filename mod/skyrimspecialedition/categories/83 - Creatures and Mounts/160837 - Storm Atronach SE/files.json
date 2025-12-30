@@ -1,0 +1,44 @@
+{
+  "1StormAtronach": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1",
+      "file_id": 672900,
+      "file_name": "1StormAtronach-160837-1-1759758880.7z",
+      "mod_id": 160837,
+      "hash": "sha256-9RbHfgoPSwvyjNmsdOb/E4ecZ0G4WuLeoQDMcyKIm/g="
+    },
+    "type": "primary"
+  },
+  "1StoneWaveCreatureSE": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1",
+      "file_id": 672902,
+      "file_name": "1StoneWaveCreatureSE-160837-1-1759758909.7z",
+      "mod_id": 160837,
+      "hash": "sha256-RXLZ0ymLmgfgvrMrEV3IN5I1/XRDsaet3jlNk+SpaAU="
+    },
+    "type": "primary"
+  },
+  "HiRes Textures": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1",
+      "file_id": 672903,
+      "file_name": "HiRes Textures-160837-1-1759758937.7z",
+      "mod_id": 160837,
+      "hash": "sha256-z5b2W2TGwNg75E2qNFq5jh+a8oMc9nFXXgBx+iboXKo="
+    }
+  },
+  "Lower resolution textures": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1",
+      "file_id": 672904,
+      "file_name": "Lower resolution textures-160837-1-1759758978.7z",
+      "mod_id": 160837,
+      "hash": "sha256-01yGRLLHRSPnGscOpaDcdeIsX0aYRVZuyvLQ1pEXF94="
+    }
+  }
+}

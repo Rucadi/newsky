@@ -1,0 +1,94 @@
+{
+  "Dense Nordic Forest with SFO - No shrubs patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1",
+      "file_id": 125167,
+      "file_name": "Dense Nordic Forest with SFO - No shrubs patch-2154-1-1582318470.7z",
+      "mod_id": 2154,
+      "hash": "sha256-P0WbeF2PP1T9CSkNuEVmI0k8mkxmBKak3bTfvvNU6QA="
+    }
+  },
+  "Lower Res Textures for latest main version": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1",
+      "file_id": 149168,
+      "file_name": "Lower Res Textures for latest main version-2154-1-1594085910.7z",
+      "mod_id": 2154,
+      "hash": "sha256-yShDjTxhl5i8kmAdv+bvb0Up/Et644S5yny1y5Bsjcg="
+    }
+  },
+  "2K LODS": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1",
+      "file_id": 179334,
+      "file_name": "2K LODS-2154-1-1610568921.7z",
+      "mod_id": 2154,
+      "hash": "sha256-TByB7PBHrvbhx3Zm0/wcjlr3DsdGo1l19e+ISZVrcHk="
+    }
+  },
+  "Darker Ferns": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1",
+      "file_id": 260016,
+      "file_name": "Darker Ferns-2154-1-1643331378.7z",
+      "mod_id": 2154,
+      "hash": "sha256-ops++k4mpDzwuJIC5s3aSEBkfIdTCSnX2X7mOybBqgw="
+    }
+  },
+  "SFO Complex Grass ENB": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1",
+      "file_id": 281812,
+      "file_name": "SFO Complex Grass ENB-2154-1-1651820521.7z",
+      "mod_id": 2154,
+      "hash": "sha256-1BAHCyyowBR8Z5zpWcLVE3k/yS4tZMnbiJPerVvxHf8="
+    }
+  },
+  "DynDOLOD 3 Alpha 3D LOD": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1",
+      "file_id": 348044,
+      "file_name": "DynDOLOD 3 Alpha 3D LOD-2154-1-1673265698.7z",
+      "mod_id": 2154,
+      "hash": "sha256-maF5VoNmehx/9V3HWQ2jc4knD3yPHbWAG0NIVIYc3rQ="
+    }
+  },
+  "Pregenerated 3D LODs for latest SFO": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1",
+      "file_id": 348046,
+      "file_name": "Pregenerated 3D LODs for latest SFO-2154-1-1673266675.7z",
+      "mod_id": 2154,
+      "hash": "sha256-gTznLKXDyPn5Dgqe+n/ffNdyoZRLXxYEILEVwTQwu/c="
+    }
+  },
+  "SFO No Grass version": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "2.73c",
+      "file_id": 360654,
+      "file_name": "SFO No Grass version-2154-2-73c-1676653558.7z",
+      "mod_id": 2154,
+      "hash": "sha256-L8Nfto1Xh683Na4zp+fG6+v3tsm3/zXN7sWHv5gSIEQ="
+    },
+    "type": "primary"
+  },
+  "Skyrim Flora Overhaul": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "2.74a",
+      "file_id": 561312,
+      "file_name": "Skyrim Flora Overhaul-2154-2-74a-1731351285.7z",
+      "mod_id": 2154,
+      "hash": "sha256-XHacjmiyZ4AzdEuO5E2jn9LbkCQ0VOEHpXg9rhzTSTs="
+    },
+    "type": "primary"
+  }
+}

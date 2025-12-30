@@ -1,0 +1,33 @@
+{
+  "Reasonably Round Lanterns - Lux Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.10",
+      "file_id": 468793,
+      "file_name": "Reasonably Round Dunmer Lanterns - Lux Patch-110646-1-10-1707352336.7z",
+      "mod_id": 110646,
+      "hash": "sha256-XIuFF4h3nDtAK9t8snmcbru7JIkuFlzjoXqdKt5syXs="
+    }
+  },
+  "Reasonably Round Lanterns - Dovahnique Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.10",
+      "file_id": 469092,
+      "file_name": "Reasonably Round Lanterns - Dovahnique Patch-110646-1-10-1707435469.7z",
+      "mod_id": 110646,
+      "hash": "sha256-i6nLnvkps6ybx5PMYoqigUxJvh++0mtZSPAPdQvPH6M="
+    }
+  },
+  "Reasonably Round Dunmer Lanterns": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.30",
+      "file_id": 563071,
+      "file_name": "Reasonably Round Dunmer Lanterns-110646-1-30-1731800444.7z",
+      "mod_id": 110646,
+      "hash": "sha256-cQtYQnq9TRiGeYQKA+RJ+aZJDjrmGvGlvp7jgIxhBrQ="
+    },
+    "type": "primary"
+  }
+}

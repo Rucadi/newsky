@@ -1,0 +1,24 @@
+{
+  "Soul Cairn Paper Map for FWMF FOMOD (legacy)": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.8",
+      "file_id": 351659,
+      "file_name": "Soul Cairn Paper Map for FWMF FOMOD-55387-1-8-1674314048.zip",
+      "mod_id": 55387,
+      "hash": "sha256-ARxYba+/kb9uoFaqNEZSe/6bGkciHkhtdZbjqZWoNtA="
+    },
+    "type": "primary"
+  },
+  "Soul Cairn Paper Map for FWMF FOMOD": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.9.1",
+      "file_id": 559135,
+      "file_name": "Soul Cairn Paper Map for FWMF FOMOD-55387-1-9-1-1730794438.zip",
+      "mod_id": 55387,
+      "hash": "sha256-hL+g2DaSspp9Nxetpe2bPeRD0WVgN7PCPzLMux1hIqg="
+    },
+    "type": "primary"
+  }
+}

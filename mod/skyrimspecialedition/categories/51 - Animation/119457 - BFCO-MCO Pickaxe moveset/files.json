@@ -1,0 +1,24 @@
+{
+  "Pickaxe MCO": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1",
+      "file_id": 507794,
+      "file_name": "Pickaxe MCO-119457-1-1-1717387182.7z",
+      "mod_id": 119457,
+      "hash": "sha256-KOa8W5WEyqSkit0anLW1aGJ1lLNe+zTIC5uU2Y4pm/0="
+    },
+    "type": "primary"
+  },
+  "Pickaxe BFCO ver.": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "0.11",
+      "file_id": 558446,
+      "file_name": "Pickaxe BFCO ver.-119457-0-11-1730621598.7z",
+      "mod_id": 119457,
+      "hash": "sha256-RF5QE+HulUN6zUqh1vJPmuzuTeeKVuBG2Q3mVZ+G1uM="
+    },
+    "type": "primary"
+  }
+}

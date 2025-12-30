@@ -1,0 +1,35 @@
+{
+  "Native EditorID Fix": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.2.2",
+      "file_id": 488800,
+      "file_name": "Native EditorID Fix-85260-1-2-2-1712605528.7z",
+      "mod_id": 85260,
+      "hash": "sha256-YsQ7im8DjOo7reLEWvl0XiM0ld5VtRGtT6vLW+afBPk="
+    },
+    "type": "primary"
+  },
+  "Native EditorID Fix (Skyrim 1.5)": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.2.2",
+      "file_id": 488802,
+      "file_name": "Native EditorID Fix (Skyrim 1.5)-85260-1-2-2-1712605573.7z",
+      "mod_id": 85260,
+      "hash": "sha256-FiIDyWdc3WOB1WCj7T7Mm8WvlRy0rRkBkFCY2DWdzKU="
+    },
+    "type": "primary"
+  },
+  "Native EditorID Fix (Skyrim 1.6)": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.2.2",
+      "file_id": 488803,
+      "file_name": "Native EditorID Fix (Skyrim 1.6)-85260-1-2-2-1712605603.7z",
+      "mod_id": 85260,
+      "hash": "sha256-YooiF4lScIX+faZ0MaWpFvegN3AMHMmB+0k+nDDkvTg="
+    },
+    "type": "primary"
+  }
+}

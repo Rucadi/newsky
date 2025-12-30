@@ -1,0 +1,353 @@
+{
+    "Ryn's Standing Stones - Amulets of Skyrim Patch": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "1.0",
+            "file_id": 324621,
+            "file_name": "Ryn's Standing Stones - Amulets of Skyrim Patch-76913-1-0-1665958506.7z",
+            "mod_id": 76913,
+            "hash": "sha256-zd8wCtDkusgxltZ1llctKd4LyvFdghJq4r/n5hzvLUY="
+        }
+    },
+    "Ryn's Standing Stones - Artifacts of Skyrim Patch": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "1.0",
+            "file_id": 324622,
+            "file_name": "Ryn's Standing Stones - Artifacts of Skyrim Patch-76913-1-0-1665958525.7z",
+            "mod_id": 76913,
+            "hash": "sha256-tiSLbNBMyOS8pc9s973Gr+7YfeWt/WO2FjpRkcMuUiM="
+        }
+    },
+    "Ryn's Standing Stones - Aspens Ablaze Patch": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "1.0",
+            "file_id": 324623,
+            "file_name": "Ryn's Standing Stones - Aspens Ablaze Patch-76913-1-0-1665958547.7z",
+            "mod_id": 76913,
+            "hash": "sha256-7nhmQlsNDdhRwxfafWMt+QZuQlTsaNhtlqS8b9k42KY="
+        }
+    },
+    "Ryn's Standing Stones - Enhanced Landscapes Patch": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "1.0",
+            "file_id": 324624,
+            "file_name": "Ryn's Standing Stones - Enhanced Landscapes Patch-76913-1-0-1665958581.7z",
+            "mod_id": 76913,
+            "hash": "sha256-GhqYWe1tAYLf+N/wXuaHeeSK0pGmrnvy0rJoaEiDvdQ="
+        }
+    },
+    "Ryn's Standing Stones - ETaC Complete Patch": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "1.0",
+            "file_id": 324625,
+            "file_name": "Ryn's Standing Stones - ETaC Complete Patch-76913-1-0-1665958634.7z",
+            "mod_id": 76913,
+            "hash": "sha256-Iba199e2S5bDUXJzzrsgEalty24VHeiw6QMuK1VIQIA="
+        }
+    },
+    "Ryn's Standing Stones - ETaC DWC Patch": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "1.0",
+            "file_id": 324626,
+            "file_name": "Ryn's Standing Stones - ETaC DWC Patch-76913-1-0-1665958653.7z",
+            "mod_id": 76913,
+            "hash": "sha256-MvFH4JEBQSfn+rZmdK2vce1sMTee4ofqwDPdej+SJJY="
+        }
+    },
+    "Ryn's Standing Stones - Falkreath Hauntings Patch": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "1.0",
+            "file_id": 324627,
+            "file_name": "Ryn's Standing Stones - Falkreath Hauntings Patch-76913-1-0-1665958668.7z",
+            "mod_id": 76913,
+            "hash": "sha256-T+CQ8EbahoQak7SHk8UxRTpwSihFZ+MCQlydLOGLzZ4="
+        }
+    },
+    "Ryn's Standing Stones - Fortune's Trade House Patch": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "1.0",
+            "file_id": 324628,
+            "file_name": "Ryn's Standing Stones - Fortune's Trade House Patch-76913-1-0-1665958713.7z",
+            "mod_id": 76913,
+            "hash": "sha256-z/6xlSCDspOf2D+uFKVT+4cLF0sYtJEUS0OI3j+6TUQ="
+        }
+    },
+    "Ryn's Standing Stones - Hold Border Guards Patch": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "1.0",
+            "file_id": 324630,
+            "file_name": "Ryn's Standing Stones - Hold Border Guards Patch-76913-1-0-1665958780.7z",
+            "mod_id": 76913,
+            "hash": "sha256-fv5hgDqbv7YVNSOczeaL8lWSwlwgzZZ/mzebySdVjmQ="
+        }
+    },
+    "Ryn's Standing Stones - iNeed Extended Patch": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "1.0",
+            "file_id": 324631,
+            "file_name": "Ryn's Standing Stones - iNeed Extended Patch-76913-1-0-1665958795.7z",
+            "mod_id": 76913,
+            "hash": "sha256-Xp32M4moOtpKtOc+4nT6h6wX+CsPhJdoiUZ0bmprh/k="
+        }
+    },
+    "Ryn's Standing Stones - Isengrav Barrow Patch": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "1.0",
+            "file_id": 324632,
+            "file_name": "Ryn's Standing Stones - Isengrav Barrow Patch-76913-1-0-1665958815.7z",
+            "mod_id": 76913,
+            "hash": "sha256-+PVqBpvY+nIE93j5rYUBh8hmTTK2m1mc7Y4TQUW7xdE="
+        }
+    },
+    "Ryn's Standing Stones - Landscape and Water Fixes Patch": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "1.0",
+            "file_id": 324633,
+            "file_name": "Ryn's Standing Stones - Landscape and Water Fixes Patch-76913-1-0-1665958835.7z",
+            "mod_id": 76913,
+            "hash": "sha256-DjgYqEVJZgW8fhg1pc/82K5QdZExrP6UaVoFoZ1wF70="
+        }
+    },
+    "Ryn's Standing Stones - Landscape Patch": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "1.0",
+            "file_id": 324634,
+            "file_name": "Ryn's Standing Stones - Landscape Patch-76913-1-0-1665958851.7z",
+            "mod_id": 76913,
+            "hash": "sha256-fMuCrSzwgHC2Pe1hMX+7wLjGR22xo4NdFqigzUo5kyY="
+        }
+    },
+    "Ryn's Standing Stones - Leaps of Faith Patch": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "1.0",
+            "file_id": 324635,
+            "file_name": "Ryn's Standing Stones - Leaps of Faith Patch-76913-1-0-1665958866.7z",
+            "mod_id": 76913,
+            "hash": "sha256-rspr1LAcAe9KQiuFfnD6DOkoQY8fm0+M3/6KgZ146ic="
+        }
+    },
+    "Ryn's Standing Stones - Leviathan Axe Patch": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "1.0",
+            "file_id": 324636,
+            "file_name": "Ryn's Standing Stones - Leviathan Axe Patch-76913-1-0-1665958881.7z",
+            "mod_id": 76913,
+            "hash": "sha256-gP6N7mVlKbuBjegG/BnULVXMiSHQbKN8yWeZU745Npg="
+        }
+    },
+    "Ryn's Standing Stones - LOTD Patch": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "1.0",
+            "file_id": 324639,
+            "file_name": "Ryn's Standing Stones - LOTD Patch-76913-1-0-1665958958.7z",
+            "mod_id": 76913,
+            "hash": "sha256-bQ/AByfV4TEBrqpiqfLdjinY1mrADYkv7a3O9UHsp+c="
+        }
+    },
+    "Ryn's Standing Stones - Marsh Pines Patch": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "1.0",
+            "file_id": 324641,
+            "file_name": "Ryn's Standing Stones - Marsh Pines Patch-76913-1-0-1665958975.7z",
+            "mod_id": 76913,
+            "hash": "sha256-DBptX2DOI/HvXGc/cF0L7J98CANRz2GQfjHoVRd4er0="
+        }
+    },
+    "Ryn's Standing Stones - Mavari Armor Patch": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "1.0",
+            "file_id": 324642,
+            "file_name": "Ryn's Standing Stones - Mavari Armor Patch-76913-1-0-1665958992.7z",
+            "mod_id": 76913,
+            "hash": "sha256-0Y6aOuKE74enyyUP4IrZTfjtFDJT2SibirSPMD7FjMY="
+        }
+    },
+    "Ryn's Standing Stones - Mundus Stones Patch": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "1.0",
+            "file_id": 324643,
+            "file_name": "Ryn's Standing Stones - Mundus Stones Patch-76913-1-0-1665959012.7z",
+            "mod_id": 76913,
+            "hash": "sha256-IkpNKF54J6TAtYdxUHMA3ky85KmoDXExyQT8hdlOYys="
+        }
+    },
+    "Ryn's Standing Stones - Necrolock Patch": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "1.0",
+            "file_id": 324644,
+            "file_name": "Ryn's Standing Stones - Necrolock Patch-76913-1-0-1665959029.7z",
+            "mod_id": 76913,
+            "hash": "sha256-wA9g41pp5Yu7BhMZKHCjooI4b1dGo5rw4RptYVw0nWY="
+        }
+    },
+    "Ryn's Standing Stones - Requiem Patch": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "1.0",
+            "file_id": 324646,
+            "file_name": "Ryn's Standing Stones - Requiem Patch-76913-1-0-1665959059.7z",
+            "mod_id": 76913,
+            "hash": "sha256-tWYbXcmkUNwd/83ei7rwx+hdc6hje0IJ2zbdMUZmUsQ="
+        }
+    },
+    "Ryn's Standing Stones - S3D Trees Patch": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "1.0",
+            "file_id": 324647,
+            "file_name": "Ryn's Standing Stones - S3D Trees Patch-76913-1-0-1665959076.7z",
+            "mod_id": 76913,
+            "hash": "sha256-+dUKmEa2YN0GXXCiSRvZYHRuC3ic5seJhCStpE27XU0="
+        }
+    },
+    "Ryn's Standing Stones - Shadow of Meresis Patch": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "1.0",
+            "file_id": 324648,
+            "file_name": "Ryn's Standing Stones - Shadow of Meresis Patch-76913-1-0-1665959090.7z",
+            "mod_id": 76913,
+            "hash": "sha256-dCJ5c6dIOYD+CDWw+HSXcNAR0WEfULUzbvCt527jI2Q="
+        }
+    },
+    "Ryn's Standing Stones - Skyrim Reborn - Hjaalmarch Patch": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "1.0",
+            "file_id": 324649,
+            "file_name": "Ryn's Standing Stones - Skyrim Reborn - Hjaalmarch Patch-76913-1-0-1665959109.7z",
+            "mod_id": 76913,
+            "hash": "sha256-or8boDI6JN8KF9THByh9MbsAg1eF08w7uVIRggI8pco="
+        }
+    },
+    "Ryn's Standing Stones - Skyrim Reborn - Whiterun Patch": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "1.0",
+            "file_id": 324650,
+            "file_name": "Ryn's Standing Stones - Skyrim Reborn - Whiterun Patch-76913-1-0-1665959128.7z",
+            "mod_id": 76913,
+            "hash": "sha256-GkM4BzAkaM2Our5M6+xSZIV7v8DWak/BTEASN7p9/58="
+        }
+    },
+    "Ryn's Standing Stones - Steel Falcon Patch": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "1.0",
+            "file_id": 324651,
+            "file_name": "Ryn's Standing Stones - Steel Falcon Patch-76913-1-0-1665959143.7z",
+            "mod_id": 76913,
+            "hash": "sha256-am291zfsMBr9YlnvYQBiitbYp2XnaDX7DubnToYJDS0="
+        }
+    },
+    "Ryn's Standing Stones - SUT Patch": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "1.0",
+            "file_id": 324652,
+            "file_name": "Ryn's Standing Stones - SUT Patch-76913-1-0-1665959157.7z",
+            "mod_id": 76913,
+            "hash": "sha256-LrUWdjeWvfmsPBI85pyZa226loV/5csDkv5wfAgYm7s="
+        }
+    },
+    "Ryn's Standing Stones - TPOS2 - RTCWG Patch": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "1.0",
+            "file_id": 324653,
+            "file_name": "Ryn's Standing Stones - TPOS2 - RTCWG Patch-76913-1-0-1665959173.7z",
+            "mod_id": 76913,
+            "hash": "sha256-qH4P7TQ5g0QNV+Dw01driPKGfk0DBtcSNxOZtLqRu/s="
+        }
+    },
+    "Ryn's Standing Stones - Way of the Dwemer Patch": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "1.0",
+            "file_id": 324654,
+            "file_name": "Ryn's Standing Stones - Way of the Dwemer Patch-76913-1-0-1665959191.7z",
+            "mod_id": 76913,
+            "hash": "sha256-Q7yyoKEKnLE1EHbdPYggPbDaqprYqUL+22k/Z/DIRx0="
+        }
+    },
+    "Ryn's Standing Stones - Wraiths Patch": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "1.0",
+            "file_id": 324655,
+            "file_name": "Ryn's Standing Stones - Wraiths Patch-76913-1-0-1665959203.7z",
+            "mod_id": 76913,
+            "hash": "sha256-wRWYFPNjJRsRcf8+iezEA13JXj/rpsTxDg6rmQGwjGY="
+        }
+    },
+    "Ryn's Standing Stones - Zerofrost Ultimate Armor Patch": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "1.0",
+            "file_id": 324656,
+            "file_name": "Ryn's Standing Stones - Zerofrost Ultimate Armor Patch-76913-1-0-1665959218.7z",
+            "mod_id": 76913,
+            "hash": "sha256-PK47un69x90XXqZP/P15YGV4WRR3dpDuwLzJWrq+F90="
+        }
+    },
+    "Ryn's Standing Stones - NSUTR Patch": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "1.0.1",
+            "file_id": 387383,
+            "file_name": "Ryn's Standing Stones - NSUTR Patch-76913-1-0-1-1683911896.7z",
+            "mod_id": 76913,
+            "hash": "sha256-PF8KpoVFoTXkBLk2Xmq6bTWxssVvRuCU1QwcTZwHDek="
+        }
+    },
+    "Ryn's Standing Stones Patch Collection": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "1.1",
+            "file_id": 549102,
+            "file_name": "Ryn's Standing Stones Patch Collection-76913-1-1-1728095696.7z",
+            "mod_id": 76913,
+            "hash": "sha256-8fRh4SwcFNiM5tSgRUdebXvu7FCmJbQN2NZH/l1Qtf0="
+        },
+        "type": "primary"
+    },
+    "Ryn's Standing Stones - Oblivion Gates Remade": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "1.0",
+            "file_id": 549104,
+            "file_name": "Ryn's Standing Stones - Oblivion Gates Remade-76913-1-0-1728095757.7z",
+            "mod_id": 76913,
+            "hash": "sha256-ov/Te6sRuuxFzZolKioD9HOqDiyXwScJFKjZ/1U9jsc="
+        }
+    },
+    "Ryn's Standing Stones - USSEP Patch": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "1.0",
+            "file_id": 549106,
+            "file_name": "Ryn's Standing Stones - USSEP Patch-76913-1-0-1728095822.7z",
+            "mod_id": 76913,
+            "hash": "sha256-kVIWdbZUh5xmZqGCw5pnPKsLnYl9ycCANIeI0K5N3b0="
+        }
+    }
+}

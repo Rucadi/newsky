@@ -1,0 +1,34 @@
+{
+  "Alice Elderkin - Human Version": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 529520,
+      "file_name": "Alice Elderkin - Human Version-126322-1-0-1723137890.rar",
+      "mod_id": 126322,
+      "hash": "sha256-evlLC6EnwA4fimwvReDZ5CrkJWAdpWNNTnCfUaxSB7E="
+    },
+    "type": "primary"
+  },
+  "Alice Elderkin - Vampire Version": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.2",
+      "file_id": 529592,
+      "file_name": "Alice Elderkin - Vampire Version-126322-1-2-1723152891.rar",
+      "mod_id": 126322,
+      "hash": "sha256-qLQrQmeLt70zwrEPBeXWtw7QAUwbqJyIsndhYEqlMp4="
+    },
+    "type": "primary"
+  },
+  "Alice Elderkin - OBody Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 530106,
+      "file_name": "Alice Elderkin - OBody Patch-126322-1-0-1723271318.rar",
+      "mod_id": 126322,
+      "hash": "sha256-vWd/96CI0i3PO62LiSMXHCeXnPUlwAqOg8CbpZYpwwU="
+    }
+  }
+}

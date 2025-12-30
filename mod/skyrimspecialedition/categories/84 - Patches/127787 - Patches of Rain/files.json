@@ -1,0 +1,167 @@
+{
+  "Fabled Forest - Ivy Riverwood Windmill Apothecary": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0.0",
+      "file_id": 536186,
+      "file_name": "Fabled Forest - Ivy Riverwood Windmill Apothecary-127787-1-0-0-1724863310.7z",
+      "mod_id": 127787,
+      "hash": "sha256-hLNSUV/lUGRFcUEs/R18q1fizZJK6NkQD78hFhfonA0="
+    },
+    "type": "primary"
+  },
+  "Ivy - Whiterun Well - Dawn of Skyrim": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0.0",
+      "file_id": 536188,
+      "file_name": "Ivy - Whiterun Well - Dawn of Skyrim Patch-127787-1-0-0-1724863484.7z",
+      "mod_id": 127787,
+      "hash": "sha256-vpW4kfm3sR/10+f2YL7UPbJvjPRgSM7ssrjfz8bYD1A="
+    },
+    "type": "primary"
+  },
+  "Fortified Morthal - Sunhelm": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0.1",
+      "file_id": 539245,
+      "file_name": "Fortified Morthal - Sunhelm-127787-1-0-1-1725609464.7z",
+      "mod_id": 127787,
+      "hash": "sha256-aUBrUyH1wBulnP3WQlh56E9xYxRJ8ng3mv8zCP695TQ="
+    },
+    "type": "primary"
+  },
+  "Granitehall - SunHelm": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0.1",
+      "file_id": 539253,
+      "file_name": "Granitehall - SunHelm-127787-1-0-0-1725610147.7z",
+      "mod_id": 127787,
+      "hash": "sha256-PNk3au/CPe/9lPPP5vvrsn1N80lFfoI1cYdxHDNZCiE="
+    },
+    "type": "primary"
+  },
+  "Northern Roads - Granite Hill Village Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0.1",
+      "file_id": 540418,
+      "file_name": "Northern Roads - Granite Hill Village Patch-127787-1-0-1-1725891510.7z",
+      "mod_id": 127787,
+      "hash": "sha256-TNmas3f/s01pamfo6/xJQkH3OENtTWbbwmIz/3k6q98="
+    },
+    "type": "primary"
+  },
+  "Lux Orbis - Dawn of Skyrim Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0.0",
+      "file_id": 540624,
+      "file_name": "Lux Orbis - Dawn of Skyrim Patch-127787-1-0-0-1725952798.7z",
+      "mod_id": 127787,
+      "hash": "sha256-c8Y5CgXXqE47AK3g5U35AIedoposLwS53RUSBzoH8LE="
+    },
+    "type": "primary"
+  },
+  "NOTWL - Orc Strongholds - Largashbur": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0.2",
+      "file_id": 563004,
+      "file_name": "NOTWL - Orc Strongholds - Largashbur-127787-1-0-2-1731778654.7z",
+      "mod_id": 127787,
+      "hash": "sha256-Ashl8NVD9OifVcnKmabUNxE/R0SQBFTtl9fEbDR10/M="
+    },
+    "type": "primary"
+  },
+  "Sunhelm - Orc Strongholds - Largashbur": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0.1",
+      "file_id": 563009,
+      "file_name": "Sunhelm - Orc Strongholds - Largashbur-127787-1-0-1-1731779734.7z",
+      "mod_id": 127787,
+      "hash": "sha256-F+RGQ3FJoAbV/UG/DuxI/gI4LOoJTbSEwSu3aZShBjs="
+    },
+    "type": "primary"
+  },
+  "Northern Roads - Kaidan Revoiced Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0.0",
+      "file_id": 576842,
+      "file_name": "Northern Roads - Kaidan Revoiced Patch-127787-1-0-0-1735375981.7z",
+      "mod_id": 127787,
+      "hash": "sha256-qsg+YR1/rJQ6q1WoO7hOcFMtqaRIS0BAdZqK8jRbjRM="
+    },
+    "type": "primary"
+  },
+  "Lux - Kaidan Revoiced": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0.0",
+      "file_id": 576843,
+      "file_name": "Lux - Kaidan Revoiced-127787-1-0-0-1735376008.7z",
+      "mod_id": 127787,
+      "hash": "sha256-emzFGlBGSSsBW243zUebLGgHUnXDT0ZyeJU1DoqfBMQ="
+    },
+    "type": "primary"
+  },
+  "Northern Roads - USSEP Road Chunk Begone": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0.0",
+      "file_id": 599952,
+      "file_name": "Northern Roads - USSEP Road Chunk Begone-127787-1-0-0-1740727757.7z",
+      "mod_id": 127787,
+      "hash": "sha256-uk8T38+G48CtBBEzc2RuQ12fBVu0xOqkBG306BjyAbU="
+    },
+    "type": "primary"
+  },
+  "Nature of the Wild Lands - Vigilant": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0.0",
+      "file_id": 605287,
+      "file_name": "Nature of the Wild Lands - Vigilant-127787-1-0-0-1741906304.7z",
+      "mod_id": 127787,
+      "hash": "sha256-rmSTCUpUWnviKaHzf5n05dtD+F5AXdOGOXwFNGuP45s="
+    },
+    "type": "primary"
+  },
+  "Bad Moon - Sentinel": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0.0",
+      "file_id": 608766,
+      "file_name": "Bad Moon - Sentinel-127787-1-0-0-1742722260.7z",
+      "mod_id": 127787,
+      "hash": "sha256-PHF7h2FRmWZebKsqeUJp0a3M7wERccvw6mC5GuYSNXY="
+    },
+    "type": "primary"
+  },
+  "Riverwood Has Charm - Farmhouse Chimney Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0.0",
+      "file_id": 617462,
+      "file_name": "Riverwood Has Walls - Farmhouse Chimney Patch-127787-1-0-0-1744691613.7z",
+      "mod_id": 127787,
+      "hash": "sha256-B4ehuIIrqH/aya2B/M25CCWQg0CDpg3DBIbccPZXH2M="
+    },
+    "type": "primary"
+  },
+  "Riverwood Has Charm - SunHelm Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0.0",
+      "file_id": 617464,
+      "file_name": "Riverwood Has Charm - SunHelm Patch-127787-1-0-0-1744692929.7z",
+      "mod_id": 127787,
+      "hash": "sha256-3Lxq+2SDYYh4LOdH3eF25vOgu0WzOfUfPqxaVgOIeK4="
+    },
+    "type": "primary"
+  }
+}

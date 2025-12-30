@@ -1,0 +1,24 @@
+{
+  "Japhets Folly Paper Map for FWMF": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 664293,
+      "file_name": "Japhets Folly Paper Map for FWMF-158551-1-0-1757502629.zip",
+      "mod_id": 158551,
+      "hash": "sha256-AMzbJezuXudxR5HfKac5tpDatsggG+puUnlVBYF8Jzs="
+    },
+    "type": "primary"
+  },
+  "Japhets Folly LODSettings": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 664294,
+      "file_name": "Japhets Folly LODSettings-158551-1-0-1757502761.zip",
+      "mod_id": 158551,
+      "hash": "sha256-oMHcdlGJj4NLxLLnsGjZEb9FWs+s1KSEtwOWbmHwmtc="
+    },
+    "type": "primary"
+  }
+}

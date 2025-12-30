@@ -1,0 +1,24 @@
+{
+  "Vigilant Paper Map for FWMF by Limon (legacy)": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 517842,
+      "file_name": "Vigilant Paper Map for FWMF by Limon-123407-1-0-1720164648.zip",
+      "mod_id": 123407,
+      "hash": "sha256-cC2xHLjvq3tHPWZ7yRAJJQaaZFlUsOomChagp7bYGGw="
+    },
+    "type": "primary"
+  },
+  "Vigilant Paper Map for FWMF by Limon": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1.1",
+      "file_id": 559432,
+      "file_name": "Vigilant Paper Map for FWMF by Limon-123407-1-1-1-1730889846.zip",
+      "mod_id": 123407,
+      "hash": "sha256-aCkH4tMY5RFnpO8Yg5lHIIfcrpMwOZKKnLnQvCPL4Jg="
+    },
+    "type": "primary"
+  }
+}

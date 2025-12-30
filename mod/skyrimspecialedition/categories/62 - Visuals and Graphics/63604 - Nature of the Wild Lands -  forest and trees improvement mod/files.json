@@ -1,0 +1,33 @@
+{
+    "Nature of the Wild Lands - Patch Collection": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "3.10",
+            "file_id": 613478,
+            "file_name": "Nature of the Wild Lands - Patch Collection-63604-3-10-1743706207.7z",
+            "mod_id": 63604,
+            "hash": "sha256-+dYEJd3xTHPTU+a0e8Z2Vz30CIxPaqLSjQT6FZsVeIA="
+        }
+    },
+    "NotWL - textures options": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "3.10",
+            "file_id": 613488,
+            "file_name": "NotWL - textures options-63604-3-10-1743709325.7z",
+            "mod_id": 63604,
+            "hash": "sha256-JoOrpB0mEAdpPWNuDzYMjtkOJe1XW1slLnGUf8fmLVg="
+        }
+    },
+    "Nature of the Wild Lands": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "3.14",
+            "file_id": 661793,
+            "file_name": "Nature of the Wild Lands-63604-3-14-1756825179.7z",
+            "mod_id": 63604,
+            "hash": "sha256-hrg6mjsm1aVNuz6kDE5jixjnvkukf4gP6md57LARBUo="
+        },
+        "type": "primary"
+    }
+}

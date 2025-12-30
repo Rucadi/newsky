@@ -1,0 +1,24 @@
+{
+  "M'rissi Roleplay Dialogue": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1",
+      "file_id": 559391,
+      "file_name": "M'rissi Roleplay Dialogue-133284-1-1730873223.zip",
+      "mod_id": 133284,
+      "hash": "sha256-2A+xEkb935JIOepxZIrfZeMFLTuyIWCLMupaczm+zZY="
+    },
+    "type": "primary"
+  },
+  "M'rissi Stage 7 Name Fix": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1",
+      "file_id": 691340,
+      "file_name": "M'rissi Stage 7 Name Fix-133284-1-1764130858.7z",
+      "mod_id": 133284,
+      "hash": "sha256-1vs/zrSHKNZo79OJa2/OrfGhILi7ho0YQ8h9sKnPegY="
+    },
+    "type": "primary"
+  }
+}

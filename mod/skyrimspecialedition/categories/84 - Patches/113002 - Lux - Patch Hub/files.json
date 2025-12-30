@@ -1,0 +1,33 @@
+{
+    "Lux - Grand Solitude patch": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "7.0",
+            "file_id": 665540,
+            "file_name": "Lux - Grand Solitude patch-113002-7-0-1757827635.rar",
+            "mod_id": 113002,
+            "hash": "sha256-bRHz50Fx2Rh8cVhABoa7kuSMydO+e85HgH2N2SM8uzU="
+        }
+    },
+    "Lux JK's Nightgate Inn patch": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "7.0",
+            "file_id": 685587,
+            "file_name": "Lux JK's Nightgate Inn patch-113002-7-0-1762671592.rar",
+            "mod_id": 113002,
+            "hash": "sha256-4rM6bwaPI6BPsT5+1YxhtmykpA7YtNSvi4Ik+Jas5ss="
+        }
+    },
+    "Lux (patch hub)": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "7.1",
+            "file_id": 695703,
+            "file_name": "Lux (patch hub)-113002-7-1-1765181180.rar",
+            "mod_id": 113002,
+            "hash": "sha256-kKcfEHODtG65p9GScDfpYEbeal8tEQr5bBR+BylJD8Q="
+        },
+        "type": "primary"
+    }
+}

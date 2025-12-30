@@ -1,0 +1,23 @@
+{
+  "Half Sized Textures": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1",
+      "file_id": 356642,
+      "file_name": "Half Sized Textures-84280-1-1675603984.7z",
+      "mod_id": 84280,
+      "hash": "sha256-Xi6yYlcbKO+Kyf1gr/b2y53Wm+3p8tFv8M82rFRJXYM="
+    }
+  },
+  "1NDArmorSE": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "2",
+      "file_id": 356771,
+      "file_name": "1NDArmorSE-84280-2-1675621337.7z",
+      "mod_id": 84280,
+      "hash": "sha256-oTDpVWh1aZd12BaqGdqFCGhqGuFor/zHbjgyAucUoYE="
+    },
+    "type": "primary"
+  }
+}

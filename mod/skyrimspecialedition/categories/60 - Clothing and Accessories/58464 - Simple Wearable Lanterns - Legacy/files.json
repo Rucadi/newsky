@@ -1,0 +1,23 @@
+{
+  "Performance textures": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "v1.5",
+      "file_id": 242414,
+      "file_name": "Performance textures-58464-v1-5-1637229304.rar",
+      "mod_id": 58464,
+      "hash": "sha256-7H6+5wKajEc01b9Sm5lrLavNgglt+0hYDTBO4Jfbr+c="
+    }
+  },
+  "Simple Wearable Lanterns - Legacy": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "v1.7",
+      "file_id": 242994,
+      "file_name": "Simple Wearable Lanterns-58464-v1-7-1637437359.rar",
+      "mod_id": 58464,
+      "hash": "sha256-luuniFs2PzwX0YrjlMEM4dfDAHEtVCNJaBq2MLaX8p4="
+    },
+    "type": "primary"
+  }
+}

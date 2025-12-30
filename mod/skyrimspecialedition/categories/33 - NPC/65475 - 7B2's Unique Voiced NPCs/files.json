@@ -1,0 +1,94 @@
+{
+  "Unique Voiced NPCs by 7B2 Vanilla NPCs Other Mod Assets Jenassa Lower pitch -1.0 optional": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "8.0",
+      "file_id": 277170,
+      "file_name": "Unique Voiced NPCs by 7B2 Vanilla NPCs Other Mod Assets Jenassa Lower pitch -1.0 optional-65475-8-0-1649975465.zip",
+      "mod_id": 65475,
+      "hash": "sha256-1yj3lp48P3E5c2wcIpTGupH2RXdQVap2LBYQH6D0wEM="
+    }
+  },
+  "Harkon Lower Pitch Optional": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 321765,
+      "file_name": "Harkon Lower Pitch Optional-65475-1-0-1664950366.zip",
+      "mod_id": 65475,
+      "hash": "sha256-zplSsoyBzFEy6HLg++m5lpY6AgENSeH0N90CH6JVXRU="
+    }
+  },
+  "Serana Higher Pitch Optional": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 321766,
+      "file_name": "Serana Higher Pitch Optional-65475-1-0-1664950761.zip",
+      "mod_id": 65475,
+      "hash": "sha256-ngXKjK+4gLyZDiSzLwhsdOSIMi2mA1SW39LdblMAQdo="
+    }
+  },
+  "Unique Voiced NPCs by 7B2 Vanilla NPCs Serana Extension": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "9.0",
+      "file_id": 322655,
+      "file_name": "Unique Voiced NPCs by 7B2 Vanilla NPCs Serana Extension-65475-9-0-1665295151.zip",
+      "mod_id": 65475,
+      "hash": "sha256-DVTT0rKvzpCo3Q4b1p3Qcvf5bvQToc2uPkYG5eHOD9Q="
+    },
+    "type": "primary"
+  },
+  "Serana Extension Higher Pitch Optional": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 322657,
+      "file_name": "Serana Extension Higher Pitch Optional-65475-1-0-1665295257.zip",
+      "mod_id": 65475,
+      "hash": "sha256-yETmEKSVfC08/pnOi45l3Ot/850awRVA04ovtVNXf/I="
+    }
+  },
+  "Unique Voiced NPCs by 7B2 Vanilla NPCs Other Mod Assets": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "10.0",
+      "file_id": 325106,
+      "file_name": "Unique Voiced NPCs by 7B2 Vanilla NPCs Other Mod Assets-65475-10-0-1666152764.zip",
+      "mod_id": 65475,
+      "hash": "sha256-LXX0Js2SYsWF51GFGabxnx/0HMH12BHH2epIV32cQU4="
+    },
+    "type": "primary"
+  },
+  "Unique Voiced NPCs by 7B2 Serana Extension Patches": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "10.0",
+      "file_id": 325107,
+      "file_name": "Unique Voiced NPCs by 7B2 Serana Extension Patches-65475-10-0-1666152854.zip",
+      "mod_id": 65475,
+      "hash": "sha256-TaRSzRBVJgH24eZk04aPIMOCTWe+OUl1CIRpBgxgDoI="
+    }
+  },
+  "Unique Voiced NPCs by 7B2 Vanilla NPCs Other Mod Assets patches": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "10.0",
+      "file_id": 325108,
+      "file_name": "Unique Voiced NPCs by 7B2 Vanilla NPCs Other Mod Assets patches-65475-10-0-1666152987.zip",
+      "mod_id": 65475,
+      "hash": "sha256-hlo7HvG/6mxUVKie7h9EeGy/PKjUuU5puMj0FDY9hlY="
+    }
+  },
+  "Unique Voiced NPCs by 7B2 Vanilla NPCs Other Mod Assets Jordis higher pitch 1.5 optional": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "10.0",
+      "file_id": 325110,
+      "file_name": "Unique Voiced NPCs by 7B2 Vanilla NPCs Other Mod Assets Jordis higher pitch 1.5 optional-65475-10-0-1666153161.zip",
+      "mod_id": 65475,
+      "hash": "sha256-+bcTW0yaI6LKZnUIQpa0Ba5HFb8H1gjp0S033Js969c="
+    }
+  }
+}

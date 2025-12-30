@@ -1,0 +1,55 @@
+{
+  "Ahzidals Armor Set - My version by Xtudo SE - 4K textures": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1",
+      "file_id": 209612,
+      "file_name": "Ahzidals Armor Set - My version by Xtudo SE - 4K textures-51309-1-1623960519.7z",
+      "mod_id": 51309,
+      "hash": "sha256-Q1L0kHfCbtZ9WssFadoBClXdQDLwYsV0plkvMDnMD6o="
+    }
+  },
+  "Ahzidal's Armor Set - My version SE - Shield on Back patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "SoB-v1",
+      "file_id": 215517,
+      "file_name": "Ahzidal's Armor Set - My version SE - Shield on Back patch-51309-SoB-v1-1626727550.zip",
+      "mod_id": 51309,
+      "hash": "sha256-fSTarWd8+6GOCiEFOGghsTzBgrOue53BfzlCeZB5yuw="
+    }
+  },
+  "Ahzidal's Armor Set - My version SE - v2": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "2.2",
+      "file_id": 292944,
+      "file_name": "Ahzidal's Armor Set - My version SE - v2-51309-2-2-1655838628.7z",
+      "mod_id": 51309,
+      "hash": "sha256-AzMtUPKe+OjC6+LMuJD0I6R5HhF8/VzwY4AfXv6MLUU="
+    },
+    "type": "primary"
+  },
+  "Ahzidal's Armor Set - My version SE - v3": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "3.2",
+      "file_id": 292945,
+      "file_name": "Ahzidal's Armor Set - My version SE - v3-51309-3-2-1655838848.7z",
+      "mod_id": 51309,
+      "hash": "sha256-sNKWqskPkcrSrhqjdAsVrJANT61nXCGJilFGHS0CkOA="
+    },
+    "type": "primary"
+  },
+  "Ahzidal's Armor Set - My version SE - LOTD version": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "3.2.1",
+      "file_id": 307982,
+      "file_name": "Ahzidal's Armor Set - My version SE - LOTD version-51309-3-2-1-1660652280.7z",
+      "mod_id": 51309,
+      "hash": "sha256-LuEFNX7K2Qazyl+zSielXFwR+Ka1K30dkGLlne9fZiE="
+    },
+    "type": "primary"
+  }
+}

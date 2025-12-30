@@ -1,0 +1,24 @@
+{
+  "Praedy's Soul Cairn 4K": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "3.2",
+      "file_id": 619490,
+      "file_name": "Praedy's Soul Cairn 4K-66261-3-2-1745173226.7z",
+      "mod_id": 66261,
+      "hash": "sha256-Ul96tudOl5c4CTWStjXq0UDxV3FvpoUnFcsN2txHL+w="
+    },
+    "type": "primary"
+  },
+  "Praedy's Soul Cairn 2K": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "3.2",
+      "file_id": 624760,
+      "file_name": "Praedy's Soul Cairn 2K-66261-3-2-1746654841.7z",
+      "mod_id": 66261,
+      "hash": "sha256-LKGa/VV8JdPLhyzgpKO+veG7jkn7gY7Nz5C05Vm8qf8="
+    },
+    "type": "primary"
+  }
+}

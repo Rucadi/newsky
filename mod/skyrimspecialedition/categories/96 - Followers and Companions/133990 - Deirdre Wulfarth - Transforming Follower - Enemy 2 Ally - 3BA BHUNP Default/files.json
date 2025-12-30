@@ -1,0 +1,24 @@
+{
+  "Deirdre Wulfarth - E2A - CBBE or Default (FOMOD)": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1",
+      "file_id": 562700,
+      "file_name": "Deirdre Wulfarth - E2A - CBBE or Default (FOMOD)-133990-1-1-1731724464.rar",
+      "mod_id": 133990,
+      "hash": "sha256-POzxKm6MNHwpNPflh76vWPfpMcmN+lyq4KDkQvPH0+E="
+    },
+    "type": "primary"
+  },
+  "Deirdre Wulfarth - E2A - UNP or Default": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1",
+      "file_id": 562701,
+      "file_name": "Deirdre Wulfarth - E2A - UNP or Default-133990-1-1-1731724498.rar",
+      "mod_id": 133990,
+      "hash": "sha256-scP+UPQhYoOFK9T6JH9pNAvZnR48vWMz1z5WMUnK6QE="
+    },
+    "type": "primary"
+  }
+}

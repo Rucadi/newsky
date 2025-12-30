@@ -1,0 +1,24 @@
+{
+  "Dragons 8K": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.3.3",
+      "file_id": 477109,
+      "file_name": "Dragons 8K-101712-1-3-3-1709613804.7z",
+      "mod_id": 101712,
+      "hash": "sha256-s71Urwtrzq2W976AmSxja1rjUVquWiH67iqKQahy2vQ="
+    },
+    "type": "primary"
+  },
+  "Dragons 4K": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.3.3",
+      "file_id": 477110,
+      "file_name": "Dragons 4K-101712-1-3-3-1709613805.7z",
+      "mod_id": 101712,
+      "hash": "sha256-CB2OiVppOFJebLYvZqnFgXi8AwGUKqXqL2g/sFhVuKw="
+    },
+    "type": "primary"
+  }
+}

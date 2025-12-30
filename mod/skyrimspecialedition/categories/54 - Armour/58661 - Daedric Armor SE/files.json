@@ -1,0 +1,23 @@
+{
+  "1DaedricArmorSE": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1",
+      "file_id": 242429,
+      "file_name": "1DaedricArmorSE-58661-1-1637233753.7z",
+      "mod_id": 58661,
+      "hash": "sha256-hlm0rimdGPkkN+DcJ3IkCnK4JP1y8q5TKYtb25mAQWs="
+    },
+    "type": "primary"
+  },
+  "1DaedricBladesSE": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1",
+      "file_id": 242430,
+      "file_name": "1DaedricBladesSE-58661-1-1637233806.7z",
+      "mod_id": 58661,
+      "hash": "sha256-loZNmdf/na7+PNxqrBgVQp079Ne39qj3KgK42u/87jg="
+    }
+  }
+}

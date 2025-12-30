@@ -1,0 +1,23 @@
+{
+  "Environs - The Ruined Tundra Farmhouse": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "3.0.2",
+      "file_id": 529079,
+      "file_name": "Environs - The Ruined Tundra Farmhouse-72981-3-0-2-1723016430.7z",
+      "mod_id": 72981,
+      "hash": "sha256-cO97fwvv4awm6E5gTOxIyioo2iA3fuwNzLIASLFJImY="
+    },
+    "type": "primary"
+  },
+  "Environs - Tundra Farmhouse - Patch Collection": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "3.0.4",
+      "file_id": 592438,
+      "file_name": "Environs - Tundra Farmhouse - Patch Collection-72981-3-0-4-1739050162.7z",
+      "mod_id": 72981,
+      "hash": "sha256-TuqLkisN1qEU3IIj5y5p2RLp78pumJXfCePZfv0T5LA="
+    }
+  }
+}

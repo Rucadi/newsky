@@ -1,0 +1,23 @@
+{
+  "Conjure Seeker Spell Edit": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "ANY",
+      "file_id": 415544,
+      "file_name": "Conjure Seeker Spell Edit-97892-ANY-1691603688.zip",
+      "mod_id": 97892,
+      "hash": "sha256-bgsuhkVcUBOIglIf4IIqj9haoB6tK0lYKLUOHADRSao="
+    }
+  },
+  "Abyssal Tides Magic": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.64",
+      "file_id": 593051,
+      "file_name": "Abyssal Tides Magic-97892-1-64-1739196399.zip",
+      "mod_id": 97892,
+      "hash": "sha256-u87iWSLQ6gdFNyD658otIV1zhTsF1b2EMU0qBmf6mV8="
+    },
+    "type": "primary"
+  }
+}

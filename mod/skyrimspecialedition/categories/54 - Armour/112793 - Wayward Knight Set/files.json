@@ -1,0 +1,53 @@
+{
+  "ahz Wayward Knight 1px Cubemap for ENB": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1",
+      "file_id": 495547,
+      "file_name": "ahz Wayward Knight 1px Cubemap for ENB-112793-1-1714291570.7z",
+      "mod_id": 112793,
+      "hash": "sha256-jmwt/sfQ7op798oLdyV8R71e+JhZsgiszZaPzTvqQcg="
+    }
+  },
+  "ahz Wayward Knight NecDazFeet Patch for Socks": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "130",
+      "file_id": 499978,
+      "file_name": "ahz Wayward Knight NecDazFeet Patch for Socks-112793-130-1715406757.7z",
+      "mod_id": 112793,
+      "hash": "sha256-AThzUwv5ef+DUdQXohw9ANPtXRS9xPXNY5uLUKlPndY="
+    }
+  },
+  "ahz Wayward Knight DW 3BA UBEA Bodyslide Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "130.1",
+      "file_id": 500194,
+      "file_name": "ahz Wayward Knight DW 3BA UBEA Bodyslide Patch-112793-130-1-1715452739.7z",
+      "mod_id": 112793,
+      "hash": "sha256-XMZRDJT0nuLtWuy51OGU7MZoaGKgySNS0PqDohCzQvE="
+    }
+  },
+  "ahz Wayward Knight 2k Textures": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "130.1",
+      "file_id": 500274,
+      "file_name": "ahz Wayward Knight 2k Textures-112793-130-1-1715475644.7z",
+      "mod_id": 112793,
+      "hash": "sha256-v8uB5E36/y5hXb2q9UCY5Q9zqZuw/e/HvyFNcBOkfXQ="
+    }
+  },
+  "ahz Wayward Knight": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "130.1",
+      "file_id": 500533,
+      "file_name": "ahz Wayward Knight-112793-130-1-1715560553.7z",
+      "mod_id": 112793,
+      "hash": "sha256-Ibmy4qRiJpBj/o6UUWS9EGs0g0KCZqAFORQH7CARRVw="
+    },
+    "type": "primary"
+  }
+}

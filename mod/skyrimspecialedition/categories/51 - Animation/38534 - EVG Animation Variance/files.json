@@ -1,0 +1,23 @@
+{
+  "EVGAV - Player Personality Addon": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 151526,
+      "file_name": "EVGAV - Player Personality Addon-38534-1-0-1595366910.zip",
+      "mod_id": 38534,
+      "hash": "sha256-vaEIS5ZiD7yKQzf+ihmfwYMQtIX/vm2CampDeQtovOg="
+    }
+  },
+  "EVG Animation Variance 1.1": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1",
+      "file_id": 269316,
+      "file_name": "EVG Animation Variance 1.1-38534-1-1-1646956058.zip",
+      "mod_id": 38534,
+      "hash": "sha256-tgPxAPelCDCtWAPZ4c/msgs0/X1OhnAg4CFpPHvnoEg="
+    },
+    "type": "primary"
+  }
+}

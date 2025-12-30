@@ -1,0 +1,23 @@
+{
+  "Runway Walk Animation": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.2",
+      "file_id": 209326,
+      "file_name": "Runway Walk Animation-51198-1-2-1623803605.7z",
+      "mod_id": 51198,
+      "hash": "sha256-C4QwkzI7nzqBuDDrSZ889Pkzf0+QQq3/XkDw2sUy+Bs="
+    },
+    "type": "primary"
+  },
+  "CATA Addon - Female Runway Animations": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.3c",
+      "file_id": 400898,
+      "file_name": "CATA Addon - Female Runway Animations-51198-1-3c-1687702346.7z",
+      "mod_id": 51198,
+      "hash": "sha256-st7w1Qic/8oXkl0/H9dUIAzkhTUiYoAjo4IyN2GLWuM="
+    }
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "Fabulous Makeup 2K": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 472639,
+      "file_name": "Fabulous Makeup 2K-111892-1-0-1708371479.zip",
+      "mod_id": 111892,
+      "hash": "sha256-xVugvDbEFDNuTHkW/kE8pj1VDJfM+bdJU833OKQVHAY="
+    },
+    "type": "primary"
+  },
+  "Fabulous Makeup 4K": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 472640,
+      "file_name": "Fabulous Makeup 4K-111892-1-0-1708371508.zip",
+      "mod_id": 111892,
+      "hash": "sha256-kc5oRFm+V9g3jbfebzCQfj6CcA+/KiRa9cPDq5fPjqY="
+    },
+    "type": "primary"
+  }
+}

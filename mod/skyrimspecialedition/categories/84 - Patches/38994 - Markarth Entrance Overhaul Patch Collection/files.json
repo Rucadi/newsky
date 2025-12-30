@@ -1,0 +1,75 @@
+{
+  "Markarth Entrance Overhaul - ESP replacer for JUSTICE": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 153645,
+      "file_name": "Markarth Entrance Overhaul - ESP relacer for JUSTICE-38994-1-0-1596509566.7z",
+      "mod_id": 38994,
+      "hash": "sha256-zmoNuPwT1VUaHa/6He87tOMljUCHkceGf/kFwc8P62o="
+    },
+    "type": "primary"
+  },
+  "Markarth Entrance Overhaul - ESP replacer for JUSTICE and Better City Entrances": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 153646,
+      "file_name": "Markarth Entrance Overhaul - ESP relacer for JUSTICE and Better City Entrances-38994-1-0-1596509593.7z",
+      "mod_id": 38994,
+      "hash": "sha256-6G98cejNKLxyEYuR+2lBo6WbGIt2euZHoOwY/OmdNTk="
+    },
+    "type": "primary"
+  },
+  "Markarth Entrance Overhaul - ESP replacer for JUSTICE and Better City Entrances and Landscape Fixes for Grass Mods": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 153647,
+      "file_name": "Markarth Entrance Overhaul - ESP replacer for JUSTICE - Better City Entrances - Landscape Fixes for Grass-38994-1-0-1596509687.7z",
+      "mod_id": 38994,
+      "hash": "sha256-UeJ4XAvDl6CzokXxX0f99UQa1pf6EShsdN/yCx6tLSE="
+    },
+    "type": "primary"
+  },
+  "Markarth Entrance Overhaul - Immersive Citizens Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 153648,
+      "file_name": "Markarth Entrance Overhaul - Immersive Citizens Patch-38994-1-0-1596509755.7z",
+      "mod_id": 38994,
+      "hash": "sha256-ju5iKvmc0TPZPhqCv0CfvJkfiSDR4adxcCnBmbenQEA="
+    }
+  },
+  "Markarth Entrance Overhaul - Medieval Lanterns Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 153649,
+      "file_name": "Markarth Entrance Overhaul - Medieval Lanterns Patch-38994-1-0-1596509786.7z",
+      "mod_id": 38994,
+      "hash": "sha256-ijq1AQOXb+LqHNRNkZA6iG8TtW/pO+Yjk+IpDgSFgHA="
+    }
+  },
+  "Markarth Entrance Overhaul - Carriage and Ferry Travel Overhaul Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 153650,
+      "file_name": "Markarth Entrance Overhaul - Carriage and Ferry Travel Overhaul Patch-38994-1-0-1596509817.7z",
+      "mod_id": 38994,
+      "hash": "sha256-Hwnw212R3nb0rtJ7DdYH+Ty9IwcwPCyhSsJoDSxruZg="
+    }
+  },
+  "Markarth Entrance Overhaul - Disable Hanged NPCs": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 153651,
+      "file_name": "Markarth Entrance Overhaul - Disable Hanged NPCs-38994-1-0-1596509869.7z",
+      "mod_id": 38994,
+      "hash": "sha256-cWb1GuWl67JnGWJEwBzawQ5fG7Osc7jrureRjUdunCs="
+    }
+  }
+}

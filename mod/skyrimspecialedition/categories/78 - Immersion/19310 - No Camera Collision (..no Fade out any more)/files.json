@@ -1,0 +1,23 @@
+{
+  "NoCamColl_2_SE": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "2",
+      "file_id": 62995,
+      "file_name": "NoCamColl_2_SE-19310-2.zip",
+      "mod_id": 19310,
+      "hash": "sha256-ykKv61ESFzcitIK8VQaRNuq5fJKyo0O4MfclBp5Hq7g="
+    },
+    "type": "primary"
+  },
+  "noCamColl_2_SE-Fixed_body_collision-Patch_(ESPFE)_for_SSE": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "2",
+      "file_id": 64669,
+      "file_name": "noCamColl_2_SE-Fixed_body_collision-Patch_(ESPFE) for SSE-19310-2.7z",
+      "mod_id": 19310,
+      "hash": "sha256-U36b5GKRUFGNu4rN3tW1sKXb4Dy7A8nyv4j+4Yq798g="
+    }
+  }
+}

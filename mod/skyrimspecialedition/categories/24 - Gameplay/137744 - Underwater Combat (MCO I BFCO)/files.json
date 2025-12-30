@@ -1,0 +1,24 @@
+{
+  "Underwater Combat (BFCO)": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "0.3",
+      "file_id": 581402,
+      "file_name": "Underwater Combat (BFCO)-137744-0-3-1736487171.zip",
+      "mod_id": 137744,
+      "hash": "sha256-NWHXRGvj+McyuDe2N9P9dErdaqulxMBK6ea/8MSR05k="
+    },
+    "type": "primary"
+  },
+  "Underwater Combat (MCO)": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "0.3",
+      "file_id": 581403,
+      "file_name": "Underwater Combat (MCO)-137744-0-3-1736487237.zip",
+      "mod_id": 137744,
+      "hash": "sha256-pRY2muLM1Z4OHO8N2dZvQX+XEho3D2j8lUX8Bd8/aQk="
+    },
+    "type": "primary"
+  }
+}

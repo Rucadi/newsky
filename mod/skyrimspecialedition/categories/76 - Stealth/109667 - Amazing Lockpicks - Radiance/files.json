@@ -1,0 +1,23 @@
+{
+  "Amazing Lockpicks Radiance Alternative EAL": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.02",
+      "file_id": 480699,
+      "file_name": "Amazing Lockpicks Radiance Alternative EAL-109667-1-02-1710480732.zip",
+      "mod_id": 109667,
+      "hash": "sha256-0k0h53HN6QiI5Ch5zlFYnU26jRF1kxGySAL6fnJbFv0="
+    }
+  },
+  "Amazing Lockpicks Radiance": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "3.00",
+      "file_id": 542146,
+      "file_name": "Amazing Lockpicks Radiance-109667-3-00-1726345032.zip",
+      "mod_id": 109667,
+      "hash": "sha256-UqafazSD33s4Y/WaloVxevoGsjik+OvvgLMG53/aey8="
+    },
+    "type": "primary"
+  }
+}

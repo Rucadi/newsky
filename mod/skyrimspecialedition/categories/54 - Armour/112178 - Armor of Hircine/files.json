@@ -1,0 +1,23 @@
+{
+  "Render 2K": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1",
+      "file_id": 545441,
+      "file_name": "Render 2K-112178-1-1-1727116210.zip",
+      "mod_id": 112178,
+      "hash": "sha256-kF13MR1m31VWCLTUcYZlzCV5wqKzcazrp61cJeapAMM="
+    }
+  },
+  "Armor of Hircine (Render Version)": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1",
+      "file_id": 545446,
+      "file_name": "Armor of Hircine (Render Version)-112178-1-1-1727116928.zip",
+      "mod_id": 112178,
+      "hash": "sha256-f/zV8htu0Ki8U1fHdEAyQb79w/MoZAO2LFyrz8VKzCc="
+    },
+    "type": "primary"
+  }
+}

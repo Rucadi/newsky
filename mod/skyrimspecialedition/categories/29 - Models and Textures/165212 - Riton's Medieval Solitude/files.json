@@ -1,0 +1,115 @@
+{
+    "Riton's Medieval Solitude 4k": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "1.0",
+            "file_id": 690400,
+            "file_name": "Riton's Medieval Solitude 4k-165212-1-0-1763911219.rar",
+            "mod_id": 165212,
+            "hash": "sha256-Tr2DBbDQkcTqCDat7RVDbOzAtgBRzH5IzPH2SryuAtA="
+        },
+        "type": "primary"
+    },
+    "Riton's Medieval Solitude 2k": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "1.0",
+            "file_id": 690402,
+            "file_name": "Riton's Medieval Solitude 2k-165212-1-0-1763911298.rar",
+            "mod_id": 165212,
+            "hash": "sha256-pWf08HDbUOw4jw7sWzvlbAAYw5EgJlpW6k2LczmydJQ="
+        },
+        "type": "primary"
+    },
+    "RMS Alt Blue Wall 4k": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "1.0",
+            "file_id": 690404,
+            "file_name": "RMS Alt Blue Wall 4k-165212-1-0-1763911370.rar",
+            "mod_id": 165212,
+            "hash": "sha256-17qvr9LO4dWFRZWpP5+A7wr/mp77gibNecRu4EmZtJA="
+        }
+    },
+    "RMS Alt Blue Wall 2k": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "1.0",
+            "file_id": 690405,
+            "file_name": "RMS Alt Blue Wall 2k-165212-1-0-1763911405.rar",
+            "mod_id": 165212,
+            "hash": "sha256-JevRkIvDDRG7PlulXNUU7Y/yxKG5cmGXBi9Z73mwb88="
+        }
+    },
+    "RMS Alt Roof 4k": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "1.0",
+            "file_id": 690407,
+            "file_name": "RMS Alt Roof 4k-165212-1-0-1763911440.rar",
+            "mod_id": 165212,
+            "hash": "sha256-+eSWgY7+a5YgeE8rli4QbYfqE7O3EBI8BZinz/3inXM="
+        }
+    },
+    "RMS Alt Roof 2k": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "1.0",
+            "file_id": 690408,
+            "file_name": "RMS Alt Roof 2k-165212-1-0-1763911465.rar",
+            "mod_id": 165212,
+            "hash": "sha256-ABtPtfgGbl0wPnDzGFC35U8BExHaEbxCMVb+R+nMpic="
+        }
+    },
+    "Riton's Grand Solitude mesh patch": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "1.0",
+            "file_id": 690409,
+            "file_name": "Riton's Grand Solitude mesh patch-165212-1-0-1763911516.rar",
+            "mod_id": 165212,
+            "hash": "sha256-U5zF5EeYjrzv3mbiY6vjp9l+n8r8Mi066+duN7WoMqQ="
+        }
+    },
+    "RMS Lux patch": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "1.0",
+            "file_id": 690411,
+            "file_name": "RMS Lux patch-165212-1-0-1763911616.rar",
+            "mod_id": 165212,
+            "hash": "sha256-sdpzP7elPAmkCKhoCsTy9YlUkufAyXZkL0KkR1XOCj0="
+        }
+    },
+    "Riton's Medieval Solitude 1k": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "1.0",
+            "file_id": 690418,
+            "file_name": "Riton's Medieval Solitude 1k-165212-1-0-1763913224.rar",
+            "mod_id": 165212,
+            "hash": "sha256-dcrZzc+G0CE5g0AXlJovM6KlaIKWKEDBBJqWRv1N1Ec="
+        },
+        "type": "primary"
+    },
+    "RMS Vanilla dragon tile 4k": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "1.0",
+            "file_id": 693987,
+            "file_name": "RMS Vanilla dragon tile 4k-165212-1-0-1764754534.rar",
+            "mod_id": 165212,
+            "hash": "sha256-/u3nw4z5MNSRexAJC2ZtIrPNXvQSCVP2QG7ePOfuKfY="
+        }
+    },
+    "RMS Vanilla dragon tile 2k": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "1.0",
+            "file_id": 693988,
+            "file_name": "RMS Vanilla dragon tile 2k-165212-1-0-1764754577.rar",
+            "mod_id": 165212,
+            "hash": "sha256-qRYqrgn+DN7EPx+4DsKQm9ukfVpmFcGPUSZnHtC1Hps="
+        }
+    }
+}

@@ -1,0 +1,33 @@
+{
+    "Triumvirate - Adamant Compatibility Patch": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "1.8.0",
+            "file_id": 173423,
+            "file_name": "Triumvirate - Adamant Compatibility Patch-39170-1-7-0-1607288632.zip",
+            "mod_id": 39170,
+            "hash": "sha256-KxWOM1piJhYm0ZOFMNlAk3Pqq4fGjeX0i2otNW4/xq8="
+        }
+    },
+    "Triumvirate 1.8.0": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "1.8.0",
+            "file_id": 237933,
+            "file_name": "Triumvirate 1.8.0-39170-1-8-0-1635603585.zip",
+            "mod_id": 39170,
+            "hash": "sha256-CFq1gkdO2XJfvMqLOXeYiq3U4s1WAOrYpB/ADjqpTiY="
+        },
+        "type": "primary"
+    },
+    "Triumvirate - Mysticism Compatibility Patch": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "1.8.0",
+            "file_id": 275075,
+            "file_name": "Triumvirate - Mysticism Compatibility Patch-39170-1-8-0-1649185510.7z",
+            "mod_id": 39170,
+            "hash": "sha256-yA7zU+mR4pROdBi+EYTAypV+kB87yqVi3sJLuUQ6r+A="
+        }
+    }
+}

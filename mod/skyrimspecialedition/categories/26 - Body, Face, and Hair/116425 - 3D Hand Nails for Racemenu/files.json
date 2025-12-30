@@ -1,0 +1,33 @@
+{
+  "Racemenu Handnails": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1.1",
+      "file_id": 507610,
+      "file_name": "Racemenu Handnails-116425-1-1-1-1717344146.7z",
+      "mod_id": 116425,
+      "hash": "sha256-fCdCY/xxIyEz2jCPfLD6RZenyUONoJvUczTF82RQG9E="
+    },
+    "type": "primary"
+  },
+  "Racemenu Handnails - HeadpartWhitelist": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 525701,
+      "file_name": "Racemenu Handnails - HeadpartWhitelist-116425-1-0-1722111642.7z",
+      "mod_id": 116425,
+      "hash": "sha256-L9wlXZgkEmXh/1oFU8zQh7U+pvdU+kO+EAVPRyvR8xU="
+    }
+  },
+  "Racemenu Handnails (Erin race)": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0.1",
+      "file_id": 551760,
+      "file_name": "Racemenu Handnails (Erin race)-116425-1-0-1-1728825877.7z",
+      "mod_id": 116425,
+      "hash": "sha256-RZS2aw8oGgmsX8LFCuDjnfSyiCAOFgnnh2fd42x185s="
+    }
+  }
+}

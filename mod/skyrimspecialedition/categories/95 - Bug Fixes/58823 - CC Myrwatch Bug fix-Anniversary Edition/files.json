@@ -1,0 +1,24 @@
+{
+  "CC Myrwatch Bug fix-USSEP": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 243499,
+      "file_name": "CC Myrwatch Bug fix-USSEP-58823-1-0-1637599802.zip",
+      "mod_id": 58823,
+      "hash": "sha256-+z5z7D8ANB14I9L8gX+wZpOc3QcvK+Opwe5s3H1isNo="
+    },
+    "type": "primary"
+  },
+  "CC Myrwatch Bug fix-NOUSSEP": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 243500,
+      "file_name": "CC Myrwatch Bug fix-NOUSSEP-58823-1-0-1637599827.zip",
+      "mod_id": 58823,
+      "hash": "sha256-PX4y/1a8iOM1Q9NiVYElg/9xgvWXbPc2bekEeMsrpWk="
+    },
+    "type": "primary"
+  }
+}

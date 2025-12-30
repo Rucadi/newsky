@@ -1,0 +1,33 @@
+{
+  "Time Flies - AE Fishing Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 272503,
+      "file_name": "Time Flies - AE Fishing Patch-39426-1-0-1648240393.rar",
+      "mod_id": 39426,
+      "hash": "sha256-uxXowiszpI+Qm2bzLKspNNfmDvzsHTKRTtXkfeNe7ck="
+    }
+  },
+  "Time Flies - CCOR Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1",
+      "file_id": 352603,
+      "file_name": "Time Flies - CCOR Patch-39426-1-1-1674580665.rar",
+      "mod_id": 39426,
+      "hash": "sha256-f2iOk0EZa3XLojVwBaEd/CrRLc6TJfdf3SUcLU1FVMs="
+    }
+  },
+  "Time Flies SE": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "8.2.2",
+      "file_id": 648358,
+      "file_name": "Time Flies SE-39426-8-2-2-1752888502.7z",
+      "mod_id": 39426,
+      "hash": "sha256-5Q9p0hGLY+S9yiA6YUv/SIAgl6AeLY0J75U5mxLB72c="
+    },
+    "type": "primary"
+  }
+}

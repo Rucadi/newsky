@@ -1,0 +1,45 @@
+{
+  "Knight Elaine - UBE": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.2",
+      "file_id": 553492,
+      "file_name": "Knight Elaine - UBE-131624-1-2-1729321484.rar",
+      "mod_id": 131624,
+      "hash": "sha256-iaXaZYishwy1kI8wtu/JJlcsdrHzFKvCI5D/etSN7sI="
+    },
+    "type": "primary"
+  },
+  "Psuedo's Cut - Complex Material Texture Replacer": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.2",
+      "file_id": 553502,
+      "file_name": "Psuedo's Cut - Complex Material Texture Replacer-131624-1-2-1729322295.rar",
+      "mod_id": 131624,
+      "hash": "sha256-hehBjwvvL08Z1kSkT94qu28fz6SLejSf0DaBxPcY43o="
+    }
+  },
+  "Knight Elaine -  BHUNP UNP": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.2",
+      "file_id": 553505,
+      "file_name": "Knight Elaine -  BHUNP-131624-1-2-1729322381.rar",
+      "mod_id": 131624,
+      "hash": "sha256-ULt4GIwte6PbNqIbii//LotrzksxaSkLOtUY9lQzE30="
+    },
+    "type": "primary"
+  },
+  "Knight Elaine - 3BA CBBE": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.2",
+      "file_id": 553507,
+      "file_name": "Knight Elaine - 3BA-131624-1-2-1729322509.rar",
+      "mod_id": 131624,
+      "hash": "sha256-Izm/BoG1ZyC/ifCiBnep5iPkQgfZ/feDTBSqoxnzOmA="
+    },
+    "type": "primary"
+  }
+}

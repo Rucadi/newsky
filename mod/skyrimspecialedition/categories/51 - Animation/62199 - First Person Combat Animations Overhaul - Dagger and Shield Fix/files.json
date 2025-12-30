@@ -1,0 +1,24 @@
+{
+  "FPCAO - Dagger and Shield Fix": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.00",
+      "file_id": 257768,
+      "file_name": "FPCAO - Dagger and Shield Fix-62199-1-00-1642543705.rar",
+      "mod_id": 62199,
+      "hash": "sha256-iEKpD14hDyhGNbQU8X/wu4Tz1GlHVPzzGEmEishlmfQ="
+    },
+    "type": "primary"
+  },
+  "FPCAO - Dagger and Shield Fix (Vanilla Animation)": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.00",
+      "file_id": 257769,
+      "file_name": "FPCAO - Dagger and Shield Fix (Vanilla Animation)-62199-1-00-1642543739.rar",
+      "mod_id": 62199,
+      "hash": "sha256-ARaQZ3e26RcW53piKHa1zt21ZYWjjwePu65nMDlsRqo="
+    },
+    "type": "primary"
+  }
+}

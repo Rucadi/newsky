@@ -1,0 +1,23 @@
+{
+  "ELLE ZK Rogue - Tiniaa Add 3BA": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "TA1.0",
+      "file_id": 552612,
+      "file_name": "ELLE ZK Rogue - Tiniaa Add 3BA-131626-TA1-0-1729072230.7z",
+      "mod_id": 131626,
+      "hash": "sha256-1IqrRpA5G3nRXWjfjg7KFRGGv6ib7jJLPLuvYBpWvdY="
+    },
+    "type": "primary"
+  },
+  "ELLE ZK Rogue - Tiniaa Add BHUNP": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "TA1.0",
+      "file_id": 553680,
+      "file_name": "ELLE ZK Rogue - Tiniaa Add BHUNP-131626-TA1-0-1729355863.7z",
+      "mod_id": 131626,
+      "hash": "sha256-9zUXC2aFc8eJVjCcJWgkrhu9eCSQQk0jJMSk0vj7bjA="
+    }
+  }
+}

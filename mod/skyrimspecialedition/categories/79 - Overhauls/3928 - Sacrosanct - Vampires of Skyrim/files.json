@@ -1,0 +1,23 @@
+{
+  "Sacrosanct 6.0.0": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "6.0.0",
+      "file_id": 408797,
+      "file_name": "Sacrosanct 6.0.0-3928-6-0-0-1689846876.zip",
+      "mod_id": 3928,
+      "hash": "sha256-HBZftLIHpGSEoCUCRVBRgxcMtRrwihutSHXSNFXXSIo="
+    },
+    "type": "primary"
+  },
+  "Sacrosanct - Blood and Snow Compatibility Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "6.0.0",
+      "file_id": 551229,
+      "file_name": "Sacrosanct - Blood and Snow Compatibility Patch-3928-6-0-0-1728693514.zip",
+      "mod_id": 3928,
+      "hash": "sha256-gjVjXNHqVc6RxIgJkxaWH9p6AfoMnGfIcddlU2XfNPw="
+    }
+  }
+}

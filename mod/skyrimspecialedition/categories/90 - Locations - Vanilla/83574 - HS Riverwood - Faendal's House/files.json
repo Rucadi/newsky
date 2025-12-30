@@ -1,0 +1,33 @@
+{
+    "HSRiverwood - Faendal's House": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "1.0.0",
+            "file_id": 353430,
+            "file_name": "HSRiverwood - Faendal's House-83574-1-0-0-1674792775.7z",
+            "mod_id": 83574,
+            "hash": "sha256-LtqSBCTtYq7P4sRy+bdvuNDwb6OlxAs2mNkfKvfDQ2A="
+        },
+        "type": "primary"
+    },
+    "HSRiverwood - Faendal's House - ELFX": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "1.0.0",
+            "file_id": 353431,
+            "file_name": "HSRiverwood - Faendal's House - ELFX-83574-1-0-0-1674792806.7z",
+            "mod_id": 83574,
+            "hash": "sha256-UGppoabtgCaOeKTnOTgrximXfqE64rU++YA2YD/26Wg="
+        }
+    },
+    "HSRiverwood - Faendal's House - LUX": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "1.0.0",
+            "file_id": 353432,
+            "file_name": "HSRiverwood - Faendal's House - LUX-83574-1-0-0-1674792839.7z",
+            "mod_id": 83574,
+            "hash": "sha256-DRKtJ2itvdHzzsYv+/84vmTus7QlN/eq1HvQYl7/HR4="
+        }
+    }
+}

@@ -1,0 +1,34 @@
+{
+  "ELFX Exteriors - Obscure College of Wintehold patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 335051,
+      "file_name": "ELFX Exteriors - Obscure College of Wintehold patch-26327-1-0-1669509069.7z",
+      "mod_id": 26327,
+      "hash": "sha256-xSUWHLU3ktg6RwH48AkvD/kDTH2qW4MkXv/Ci9OvWac="
+    }
+  },
+  "ELFX - Exteriors Fixes": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1",
+      "file_id": 429805,
+      "file_name": "ELFX - Exteriors Fixes-26327-1-1-1696000092.7z",
+      "mod_id": 26327,
+      "hash": "sha256-hTCpyqAtxPDICXNI7MGALqapRgAoZZiZmZJ9uGwqNsg="
+    },
+    "type": "primary"
+  },
+  "ELFX - Exteriors Fixes for ENB users": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1",
+      "file_id": 429806,
+      "file_name": "ELFX - Exteriors Fixes for ENB users-26327-1-1-1696000146.7z",
+      "mod_id": 26327,
+      "hash": "sha256-Xvdjr9Q/lJSZKICS6l9+Rgcaynu+vI6a+H3NYP2a7FQ="
+    },
+    "type": "primary"
+  }
+}

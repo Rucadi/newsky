@@ -1,0 +1,23 @@
+{
+  "Cultured Orc Furniture - Spice Of Life": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1SoL",
+      "file_id": 271150,
+      "file_name": "Cultured Orc Furniture - Spice Of Life-65073-1-1SoL-1647696567.zip",
+      "mod_id": 65073,
+      "hash": "sha256-rEdVfy4wknenyxfhNxYodcOR6z+WUXvSiGqDKVNtKwg="
+    }
+  },
+  "Cultured Orc Furniture": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.3",
+      "file_id": 288473,
+      "file_name": "Cultured Orc Furniture-65073-1-3-1654248898.zip",
+      "mod_id": 65073,
+      "hash": "sha256-2rhDTGSzmtaWJgTr+pwIofem5zzA4DaRWy+YCMSGLgw="
+    },
+    "type": "primary"
+  }
+}

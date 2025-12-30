@@ -1,0 +1,43 @@
+{
+    "HSDragonBridge - Four Shields Tavern - SFCO": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "1.0.0",
+            "file_id": 306113,
+            "file_name": "HSDragonBridge - Four Shields Tavern - SFCO-73017-1-0-0-1660073223.7z",
+            "mod_id": 73017,
+            "hash": "sha256-zdiDR0TpqL3YxL+QVyLziILf1lmI9b6keFZ8KjQDQ6c="
+        }
+    },
+    "HSDragonBridge - Four Shields Tavern": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "1.0.1",
+            "file_id": 383572,
+            "file_name": "HSDragonBridge - Four Shields Tavern-73017-1-0-1-1682921353.7z",
+            "mod_id": 73017,
+            "hash": "sha256-X3B5iArfVyn0SRPGfvWKqIdpEoWdjUEUn+rZ9QLwhcI="
+        },
+        "type": "primary"
+    },
+    "HSDragonBridge - Four Shields Tavern - ELFX": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "1.0.1",
+            "file_id": 383575,
+            "file_name": "HSDragonBridge - Four Shields Tavern - ELFX-73017-1-0-1-1682921446.7z",
+            "mod_id": 73017,
+            "hash": "sha256-cHOjT1Yl8pHwmXCFopS3sX9aFNfRppGC9Fh9BRuQMM8="
+        }
+    },
+    "HSDragonBridge - Four Shields Tavern - LUX": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "1.1.0",
+            "file_id": 489086,
+            "file_name": "HSDragonBridge - Four Shields Tavern - LUX-73017-1-1-0-1712689359.7z",
+            "mod_id": 73017,
+            "hash": "sha256-w4t9NOxRJQg44yDxRMOyWYhBBLyKnL4CnHD3tGQgUwA="
+        }
+    }
+}

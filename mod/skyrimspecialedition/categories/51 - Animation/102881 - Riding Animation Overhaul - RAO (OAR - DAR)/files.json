@@ -1,0 +1,43 @@
+{
+    "Riding Animation Overhaul - RAO - Male": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "1.3.1",
+            "file_id": 529981,
+            "file_name": "Riding Animation Overhaul - RAO - Male-102881-1-3-1-1723238244.zip",
+            "mod_id": 102881,
+            "hash": "sha256-qKLYR9Vrn6mHZbNM9NzqmCjQEwMyXYn9NgqrLibkT1g="
+        }
+    },
+    "Riding Animation Overhaul - RAO": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "1.4",
+            "file_id": 613426,
+            "file_name": "Riding Animation Overhaul - RAO-102881-1-4-1743698129.zip",
+            "mod_id": 102881,
+            "hash": "sha256-xClSjDKjnBM+kzYD5gwCw19ZQO0J/TCTzamqVL0UxF8="
+        },
+        "type": "primary"
+    },
+    "Riding Animation Overhaul - RAO - Female": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "1.4",
+            "file_id": 613427,
+            "file_name": "Riding Animation Overhaul - RAO - Female-102881-1-4-1743698180.zip",
+            "mod_id": 102881,
+            "hash": "sha256-VwFfTD4vSoEpJeNyJSnZAx0xMunZIKnYyxl2GexnMOw="
+        }
+    },
+    "Riding Animation Overhaul - RAO - Player Only": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "1.4",
+            "file_id": 613429,
+            "file_name": "Riding Animation Overhaul - RAO - Player Only-102881-1-4-1743698376.zip",
+            "mod_id": 102881,
+            "hash": "sha256-0Kj5U5NO79HXDQ+GIt4Q94b0do560b1DIXSHnOHRROM="
+        }
+    }
+}

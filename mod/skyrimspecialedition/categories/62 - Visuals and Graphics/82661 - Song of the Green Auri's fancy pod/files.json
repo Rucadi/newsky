@@ -1,0 +1,53 @@
+{
+  "Song of the Green Auri's fancy pod - Brighter lighting patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 349183,
+      "file_name": "Song of the Green Auri's fancy pod - Brighter lighting patch-82661-1-0-1673628576.rar",
+      "mod_id": 82661,
+      "hash": "sha256-XhmjOlZXOytCfZ9VDvt0ci0xFMIal9aQoeYByLEdZ2s="
+    }
+  },
+  "Song of the Green Auri's fancy pod - Lux patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1",
+      "file_id": 349205,
+      "file_name": "Song of the Green Auri's fancy pod - Lux patch-82661-1-1-1673632894.rar",
+      "mod_id": 82661,
+      "hash": "sha256-JAOvU8vXsDQZmUGEBOUQXffI9/l1fTsHXd2h/GH8VxA="
+    }
+  },
+  "Song of the Green Auri's fancy pod - Brighter lighting template": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1",
+      "file_id": 349311,
+      "file_name": "Song of the Green Auri's fancy pod - Brighter lighting template-82661-1-1-1673668972.rar",
+      "mod_id": 82661,
+      "hash": "sha256-fuy8Eb+rnO2+bQCifNItMy76fr3YUV/7AwuDKOVJjHA="
+    }
+  },
+  "Song of the Green Auri's fancy pod - Vanilla lighting template": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1",
+      "file_id": 349312,
+      "file_name": "Song of the Green Auri's fancy pod - Vanilla lighting template-82661-1-1-1673669048.rar",
+      "mod_id": 82661,
+      "hash": "sha256-GfFJu/yQ/cCRFdY32QRKmB7AYxBr4jpdxEr65WC/vis="
+    }
+  },
+  "Song of the Green Auri fancy pod": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.2",
+      "file_id": 386522,
+      "file_name": "Song of the Green Auri fancy pod-82661-1-2-1683697760.rar",
+      "mod_id": 82661,
+      "hash": "sha256-9/q+nqv5r/A4yWVRHswKfAhQMp1WP4BUR1gA+xpl100="
+    },
+    "type": "primary"
+  }
+}

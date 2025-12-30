@@ -1,0 +1,24 @@
+{
+  "Tempered Skins for Females UNP and Vanilla": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.31",
+      "file_id": 123402,
+      "file_name": "Tempered Skins for Females-8505-1-31-1581275267.7z",
+      "mod_id": 8505,
+      "hash": "sha256-mzb6xNKiy5pNrE6F1mKh5kFacPKYl61ttpmwhrb2LN4="
+    },
+    "type": "primary"
+  },
+  "Tempered Skins for Females CBBE": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.32",
+      "file_id": 167956,
+      "file_name": "Tempered Skins for Females CBBE-8505-1-32-1604152171.7z",
+      "mod_id": 8505,
+      "hash": "sha256-Aqej8/2DjRlgXG154HiXd8rdBjONdEPpr4f+zV+c7PM="
+    },
+    "type": "primary"
+  }
+}

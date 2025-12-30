@@ -1,0 +1,24 @@
+{
+  "Modern Controlmap": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.02",
+      "file_id": 536159,
+      "file_name": "Modern Controlmap-89649-1-02-1724855474.rar",
+      "mod_id": 89649,
+      "hash": "sha256-TENNjstaHHdCLZBHdGQCmdK32W+0DDHLujudlEfpLFA="
+    },
+    "type": "primary"
+  },
+  "Modern Controlmap - Quick Loot": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.02",
+      "file_id": 536162,
+      "file_name": "Modern Controlmap - Quick Loot-89649-1-02-1724855990.rar",
+      "mod_id": 89649,
+      "hash": "sha256-j0TmWa4VNkzmNPUTBtB/b7vizlVv9YtUZUnJA+QKGfg="
+    },
+    "type": "primary"
+  }
+}

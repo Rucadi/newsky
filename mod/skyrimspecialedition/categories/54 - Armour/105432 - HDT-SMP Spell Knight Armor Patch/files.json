@@ -1,0 +1,23 @@
+{
+  "HDT-SMP Spell Knight Armor Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 445456,
+      "file_name": "HDT-SMP Spell Knight Armor Patch-105432-1-0-1700803596.rar",
+      "mod_id": 105432,
+      "hash": "sha256-yZz03KuRnWi9vq3Tm4LiWWrBJtfZYX9iUuL/49c8a5A="
+    },
+    "type": "primary"
+  },
+  "HDT-SMP Spell Knight Armor Patch and Variants": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 445457,
+      "file_name": "HDT-SMP Spell Knight Armor Patch and Variants-105432-1-0-1700803939.rar",
+      "mod_id": 105432,
+      "hash": "sha256-tRjyd0jNJa/kan0gjZEtq/kdkquZ8Lzddm6ICrcb1xw="
+    }
+  }
+}

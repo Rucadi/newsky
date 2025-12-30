@@ -1,0 +1,33 @@
+{
+  "The Breton Hero Armor - Disabled Ground Collision": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.5",
+      "file_id": 656324,
+      "file_name": "The Breton Hero Armor - Disabled Ground Collision-123278-1-4-1755379506.7z",
+      "mod_id": 123278,
+      "hash": "sha256-ZaLJoQh3z+/oLQVl1bHtJjMSTT7hzwPIJ8F2jMT9WhI="
+    }
+  },
+  "The Breton Hero Armor": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.5",
+      "file_id": 656753,
+      "file_name": "The Breton Hero Armor-123278-1-5-1755483149.7z",
+      "mod_id": 123278,
+      "hash": "sha256-Bz6lsm0jJNCWObPPZ7LZFaTggbmEN4CEGig+x9uelOA="
+    },
+    "type": "primary"
+  },
+  "The Breton Hero Armor - Non-HDT": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.5",
+      "file_id": 656754,
+      "file_name": "The Breton Hero Armor-123278-1-5-1755483150.7z",
+      "mod_id": 123278,
+      "hash": "sha256-W1uNLB1uALa8BzxYyrf3jKbDM3h5vgC97wnaK+VxMwc="
+    }
+  }
+}

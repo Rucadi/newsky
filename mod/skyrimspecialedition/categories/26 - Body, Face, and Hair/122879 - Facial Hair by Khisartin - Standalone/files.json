@@ -1,0 +1,24 @@
+{
+  "Khisartin Brows - Standalone": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1.0",
+      "file_id": 603440,
+      "file_name": "Khisartin Brows - Standalone-122879-1-1-0-1741497072.7z",
+      "mod_id": 122879,
+      "hash": "sha256-FaozRL+BRmmNJiHgdAU1AMjYoH4hgZT+Gxnj1I0d4bU="
+    },
+    "type": "primary"
+  },
+  "Khisartin Beards - Standalone": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1.0",
+      "file_id": 603441,
+      "file_name": "Khisartin Beards - Standalone-122879-1-1-0-1741497182.7z",
+      "mod_id": 122879,
+      "hash": "sha256-8vBpYiWaK9znEYJUox10bvsxAJoyuE+h/WH82B70rKw="
+    },
+    "type": "primary"
+  }
+}

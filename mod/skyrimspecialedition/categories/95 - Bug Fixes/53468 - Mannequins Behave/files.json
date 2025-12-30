@@ -1,0 +1,23 @@
+{
+  "Mannequins Behave.esp": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 219682,
+      "file_name": "Mannequins Behave.esp-53468-1-0-1628424360.7z",
+      "mod_id": 53468,
+      "hash": "sha256-6seYPPPPHtDXmo3TK/C7c0+G3O/vkXh+QnxwG6ujeyw="
+    },
+    "type": "primary"
+  },
+  "Mannequins Behave ESL Flag": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 219714,
+      "file_name": "Mannequins Behave ESL version-53468-1-0-1628436407.7z",
+      "mod_id": 53468,
+      "hash": "sha256-7G+raE9AMfZCtwxnPB+kfH2Nqmpf3nMvJdhuxBFvifQ="
+    }
+  }
+}

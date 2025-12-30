@@ -1,0 +1,33 @@
+{
+  "FSLE - More Locations": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 510212,
+      "file_name": "FSLE - More Locations-120995-1-0-1718024324.rar",
+      "mod_id": 120995,
+      "hash": "sha256-GuOrHjMlLmkP5oKoBXR8e7+jZ/WNgiXoku+4wjzc5eU="
+    }
+  },
+  "FSLE - Unique Abilities": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 510213,
+      "file_name": "FSLE - Unique Abilities-120995-1-0-1718024635.rar",
+      "mod_id": 120995,
+      "hash": "sha256-XMszIsbIiUe5pfi16UEzc+r7RyV2qAvI3++7F2YcaHY="
+    }
+  },
+  "Falmer Servant Lines Expansion": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.01",
+      "file_id": 578893,
+      "file_name": "Falmer Servant Lines Expansion-120995-1-01-1735890710.zip",
+      "mod_id": 120995,
+      "hash": "sha256-vTv4Q3khZDWzf51/+pIzlsdTXX9KxyrF8jyGjduer48="
+    },
+    "type": "primary"
+  }
+}

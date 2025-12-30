@@ -1,0 +1,24 @@
+{
+  "Dae's Titanhammer - Warhammer and Quest": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0.1",
+      "file_id": 547761,
+      "file_name": "Dae's Titanhammer - Warhammer and Quest-118128-1-0-1-1727714751.zip",
+      "mod_id": 118128,
+      "hash": "sha256-MVtEeX1Y4AQP9P2MhwVUhbUp6uuzVVgHVIVvpiIUwdM="
+    },
+    "type": "primary"
+  },
+  "Dae's Titanhammer - Mihail Automatons Version": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0.2",
+      "file_id": 597430,
+      "file_name": "Dae's Titanhammer - Mihail Automatons Version-118128-1-0-2-1740169276.zip",
+      "mod_id": 118128,
+      "hash": "sha256-OisCX47yWgxBZeTr95IU3O2EznIB50Degg9iSjuPQjM="
+    },
+    "type": "primary"
+  }
+}

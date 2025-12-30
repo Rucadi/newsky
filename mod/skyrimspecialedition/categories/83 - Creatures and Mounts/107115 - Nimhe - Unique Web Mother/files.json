@@ -1,0 +1,33 @@
+{
+  "NUWM - Webmother Brutality Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0.0",
+      "file_id": 453640,
+      "file_name": "NUWM - Webmother Brutality Patch-107115-1-0-0-1703101629.zip",
+      "mod_id": 107115,
+      "hash": "sha256-3tJBme3nKrc70ZC9ZGRrfQIzEKf+ttPWf73m/Qk7diY="
+    }
+  },
+  "Nimhe - Unique Web Mother": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0.0",
+      "file_id": 453641,
+      "file_name": "Nimhe - Unique Web Mother-107115-1-0-0-1703101679.zip",
+      "mod_id": 107115,
+      "hash": "sha256-LaPnoos/VC4/ObGV595olFjNb4VCrt9be9yCFE+kHPs="
+    },
+    "type": "primary"
+  },
+  "Remiel Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0.0",
+      "file_id": 454064,
+      "file_name": "Remiel Patch-107115-1-0-0-1703213109.zip",
+      "mod_id": 107115,
+      "hash": "sha256-XMCkt7qLbY9ocOtQcnfwfYayFFTGymYJZcvQWGAX+SA="
+    }
+  }
+}

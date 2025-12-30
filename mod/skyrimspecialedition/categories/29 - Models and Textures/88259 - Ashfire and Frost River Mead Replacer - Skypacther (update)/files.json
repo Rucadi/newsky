@@ -1,0 +1,88 @@
+{
+  "Ashfire Mead and Frost River Mead": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 374094,
+      "file_name": "Ashfire Mead and Frost River Mead-88259-1-0-1680375877.rar",
+      "mod_id": 88259,
+      "hash": "sha256-aSHW9gBp6gUVNFGmGn2s9XoGxiw2yZiamUt8Ar9bebQ="
+    },
+    "type": "primary"
+  },
+  "Ashfire Mead and Frost River Mead - CACO": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 375949,
+      "file_name": "Ashfire Mead and Frost River Mead - CACO-88259-1-0-1680859607.rar",
+      "mod_id": 88259,
+      "hash": "sha256-cWkP75JE2rQB1LXhRcz9nU0/9YcJCsI0E/ouLlz/Ksc="
+    },
+    "type": "primary"
+  },
+  "Ashfire only": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 375950,
+      "file_name": "Ashfire only-88259-1-0-1680859695.rar",
+      "mod_id": 88259,
+      "hash": "sha256-vmZsvCj9rUSmUbKEltaG2pVuzswMkKo7LIjBoDpAr3Y="
+    },
+    "type": "primary"
+  },
+  "Ashfire Mead - CACO": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 375951,
+      "file_name": "Ashfire Mead - CACO-88259-1-0-1680859801.rar",
+      "mod_id": 88259,
+      "hash": "sha256-rhEYj690xv3/Oz7YzcQsTbaZRVRHsX6qVV5rQxCUDh8="
+    },
+    "type": "primary"
+  },
+  "Frost River Mead only": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 380038,
+      "file_name": "Frost River Mead only-88259-1-0-1681936185.rar",
+      "mod_id": 88259,
+      "hash": "sha256-+UHtoD+J1Kj8fOd7K5cHkLtT4dAO0QuFmOBNeYX/Wxg="
+    },
+    "type": "primary"
+  },
+  "Frost River Mead - CACO": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 380039,
+      "file_name": "Frost River Mead - CACO-88259-1-0-1681936228.rar",
+      "mod_id": 88259,
+      "hash": "sha256-jEQtmpT/4/YrfYrteK2PW4HUdToAoTAn7fsXpa0PwVc="
+    },
+    "type": "primary"
+  },
+  "Ashfire Mead - Skypacther": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 621386,
+      "file_name": "Ashfire Mead - Skypacther-88259-1-0-1745711224.rar",
+      "mod_id": 88259,
+      "hash": "sha256-zI3aZmKXS1zYc12u5P+ydk4XLzA8h1h1pewmdolqKtk="
+    }
+  },
+  "Frost River Mead - Skypatcher": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 621388,
+      "file_name": "Frost River Mead - Skypatcher-88259-1-0-1745711288.rar",
+      "mod_id": 88259,
+      "hash": "sha256-417mJ6hTnL/ATZnwAndpo/+g6PnVUUevmEYVyG8tWYs="
+    }
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "4k. New Gray Fox Bust": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0.0",
+      "file_id": 441460,
+      "file_name": "4k. New Gray Fox Bust-104252-1-0-0-1699635205.zip",
+      "mod_id": 104252,
+      "hash": "sha256-bwOet8/InM5Yu+ALFHMvAaaAcBjUg0pu7V9Axdx5mL8="
+    },
+    "type": "primary"
+  },
+  "2k. New Gray Fox Bust": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0.0",
+      "file_id": 441461,
+      "file_name": "2k. New Gray Fox Bust-104252-1-0-0-1699635232.zip",
+      "mod_id": 104252,
+      "hash": "sha256-krmT1iZCSDcQuQoj5R7TcDKOxf4pfICulOkGH8EvwMM="
+    }
+  }
+}

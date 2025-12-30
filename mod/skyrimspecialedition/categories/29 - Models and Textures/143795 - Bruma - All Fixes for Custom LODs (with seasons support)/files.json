@@ -1,0 +1,34 @@
+{
+  "Bruma - All Fixes for Custom LODs - Non-Seasons": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.3",
+      "file_id": 607460,
+      "file_name": "Bruma - All Fixes for Custom LODs - Non-Seasons-143795-1-3-1742410762.zip",
+      "mod_id": 143795,
+      "hash": "sha256-qTY/wruWDmzAqZWQdTp7xo8tmAgXh0kvfNLp+OhYpRk="
+    },
+    "type": "primary"
+  },
+  "Bruma - All Fixes for Custom LODs - Seasons": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.3",
+      "file_id": 607462,
+      "file_name": "Bruma - All Fixes for Custom LODs - Seasons-143795-1-3-1742411109.zip",
+      "mod_id": 143795,
+      "hash": "sha256-3CWsIXzDyK60xrxXbvw9gSNx7s6EmwwXs8VTZBb4hLE="
+    },
+    "type": "primary"
+  },
+  "Default Trees for Summer and Autumn": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.3",
+      "file_id": 607463,
+      "file_name": "Default Trees for Summer and Autumn-143795-1-3-1742411260.zip",
+      "mod_id": 143795,
+      "hash": "sha256-4AEc+g/Toxs/hWNNkUIPosjvMZIZhG9L06aWVx7tzk8="
+    }
+  }
+}

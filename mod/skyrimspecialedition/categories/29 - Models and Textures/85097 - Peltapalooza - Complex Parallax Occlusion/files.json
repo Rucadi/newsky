@@ -1,0 +1,24 @@
+{
+  "Peltapalooza - Parallax Occlusion - LITE": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 360332,
+      "file_name": "Peltapalooza - Parallax Occlusion - LITE-85097-1-0-1676567753.7z",
+      "mod_id": 85097,
+      "hash": "sha256-3oNLvSXJV+Y2Uzuyrh7RvXJtyGNM66vxF5wtrUq8yF0="
+    },
+    "type": "primary"
+  },
+  "Peltapalooza - Parallax Occlusion - FULL": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 360333,
+      "file_name": "Peltapalooza - Parallax Occlusion - FULL-85097-1-0-1676567792.7z",
+      "mod_id": 85097,
+      "hash": "sha256-dpQ/h85S2roGJsQY6yBywhaIt/BeQevdkvf5Jr++Gsc="
+    },
+    "type": "primary"
+  }
+}

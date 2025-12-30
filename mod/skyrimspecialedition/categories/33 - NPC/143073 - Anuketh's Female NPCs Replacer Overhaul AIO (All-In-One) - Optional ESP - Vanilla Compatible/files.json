@@ -1,0 +1,44 @@
+{
+  "NPCs Replacer Overhaul AIO by Anuketh - ESP": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.11",
+      "file_id": 693333,
+      "file_name": "NPCs Replacer Overhaul AIO by Anuketh - ESP-143073-1-11-1764605370.7z",
+      "mod_id": 143073,
+      "hash": "sha256-zpGARTKP/FyQg4tf0EVPkrvwWepf8pd8FMjV7J6igeQ="
+    },
+    "type": "primary"
+  },
+  "NPCs Replacer Overhaul AIO by Anuketh - No ESP": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.11",
+      "file_id": 693334,
+      "file_name": "NPCs Replacer Overhaul AIO by Anuketh - No ESP-143073-1-11-1764605446.7z",
+      "mod_id": 143073,
+      "hash": "sha256-XCPUWxXO7SHrSEvjJg9OHn83g+C8Nl7knckSh8dsVr8="
+    },
+    "type": "primary"
+  },
+  "NPCs Replacer Overhaul by Anuketh - ALT - ESP": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.11ALT",
+      "file_id": 693335,
+      "file_name": "NPCs Replacer Overhaul by Anuketh - ALT - ESP-143073-1-11ALT-1764605491.7z",
+      "mod_id": 143073,
+      "hash": "sha256-4oSFrIkCR4d5u+XDSxq+icQf+aUjxBeKUrDtsSxpjr4="
+    }
+  },
+  "NPCs Replacer Overhaul by Anuketh - ALT - No ESP": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.11ALT",
+      "file_id": 693337,
+      "file_name": "NPCs Replacer Overhaul by Anuketh - ALT - No ESP-143073-1-11ALT-1764605528.7z",
+      "mod_id": 143073,
+      "hash": "sha256-8T9Nac9dtsT2fwT75PynFMnmWAWSX4hdw0+z+HuGVhw="
+    }
+  }
+}

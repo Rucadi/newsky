@@ -1,0 +1,24 @@
+{
+  "1) Higher Poly Vanilla Eldergleam Roots": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 409799,
+      "file_name": "1) Higher Poly Vanilla Eldergleam Roots-96457-1-0-1690113288.rar",
+      "mod_id": 96457,
+      "hash": "sha256-n2PlyzyPuk+ZBXfucoiZiKUsNfh2dfB4MqGIGo20Y2Q="
+    },
+    "type": "primary"
+  },
+  "2) Higher Poly Vanilla Eldergleam Roots - 3D Trees": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 409800,
+      "file_name": "Higher Poly Vanilla Eldergleam Roots for 3D Trees-96457-1-0-1690113335.rar",
+      "mod_id": 96457,
+      "hash": "sha256-VZhdzlpCVzvaxI6huLLAud2+T4eCIKL3H7oZtlR4Yn8="
+    },
+    "type": "primary"
+  }
+}

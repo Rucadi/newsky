@@ -1,0 +1,54 @@
+{
+  "I4 Icon Colors - Dear Diary": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0.0",
+      "file_id": 363365,
+      "file_name": "I4 Icon Colors - Dear Diary-85702-1-0-0-1677368256.7z",
+      "mod_id": 85702,
+      "hash": "sha256-Q3FeOOEu2uKE+HUuz9/u1PCGKFsAWW/pTEZZHLlE3AM="
+    }
+  },
+  "I4 Icon Colors - Dear Diary Dark Mode (warm text)": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0.0",
+      "file_id": 363366,
+      "file_name": "I4 Icon Colors - Dear Diary Dark Mode (warm text)-85702-1-0-0-1677368328.7z",
+      "mod_id": 85702,
+      "hash": "sha256-Wwx0MwPmwffCG/VmtluR4TU+XTc/jX/A06OYZMVLubo="
+    }
+  },
+  "I4 Icon Colors - Dear Diary Dark Mode (white text)": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0.0",
+      "file_id": 363367,
+      "file_name": "I4 Icon Colors - Dear Diary Dark Mode (white text)-85702-1-0-0-1677368397.7z",
+      "mod_id": 85702,
+      "hash": "sha256-ndy+lOJM0E3pBZBOXkD6pbuqkp/jWmuacS7qwThAzco="
+    }
+  },
+  "Inventory Interface Information Injector (SE)": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1.0",
+      "file_id": 494324,
+      "file_name": "Inventory Interface Information Injector (SE)-85702-1-1-0-1713968718.7z",
+      "mod_id": 85702,
+      "hash": "sha256-G3+yLqlYYy8Y64PHpslih3xFrMvR39S1KUula27t8Ik="
+    },
+    "type": "primary"
+  },
+  "Inventory Interface Information Injector (VR)": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1.0",
+      "file_id": 494325,
+      "file_name": "Inventory Interface Information Injector (VR)-85702-1-1-0-1713968761.7z",
+      "mod_id": 85702,
+      "hash": "sha256-SsHZGtr+Gtm1JPSj9yqueTiQZ+krLZ2J7+shoHXzOLU="
+    },
+    "type": "primary"
+  }
+}

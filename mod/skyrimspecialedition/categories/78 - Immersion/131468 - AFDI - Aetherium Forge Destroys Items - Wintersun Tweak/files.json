@@ -1,0 +1,43 @@
+{
+  "Custom Race Support patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 553086,
+      "file_name": "Custom Race Support patch-131468-1-0-1729204321.7z",
+      "mod_id": 131468,
+      "hash": "sha256-pVMxwAKFxPGebuO1dLSBU4ufUll9nT7CENtHJA5QdLI="
+    }
+  },
+  "Daedric Shrines patch (ORIGINAL)": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "2.0",
+      "file_id": 696996,
+      "file_name": "Daedric Shrines patch (ORIGINAL)-131468-2-0-1765500499.7z",
+      "mod_id": 131468,
+      "hash": "sha256-Bb3T0ZJmwq43VGabffi27EAOAekmFhjrviVIHwzewtg="
+    }
+  },
+  "Daedric Shrines patch (XTUDO FIXES)": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "2.0",
+      "file_id": 696997,
+      "file_name": "Daedric Shrines patch (XTUDO FIXES)-131468-2-0-1765500534.7z",
+      "mod_id": 131468,
+      "hash": "sha256-VBxe4u4PvOGtR6iXf+n9LZ89OIGeX3vHfTZnvQzkLcA="
+    }
+  },
+  "AFDI - Wintersun tweak": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "2.1",
+      "file_id": 697110,
+      "file_name": "AFDI - Wintersun tweak-131468-2-1-1765529399.7z",
+      "mod_id": 131468,
+      "hash": "sha256-EVHkDEWSRxN/O9aD9W7knjWeMdH3NTkQzT7QSrhDvok="
+    },
+    "type": "primary"
+  }
+}

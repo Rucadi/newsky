@@ -1,0 +1,23 @@
+{
+  "Lilly_Vander and the crew patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "221107",
+      "file_id": 330063,
+      "file_name": "Lilly_Vander and the crew patch-61400-221107-1667865360.7z",
+      "mod_id": 61400,
+      "hash": "sha256-JrYT4F0FPXXmink9o43qQNEI78lk6dlPoOZMYKabs6Y="
+    }
+  },
+  "The Courier Crew (ESPfe) USSEP-250214_Loose": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "250214",
+      "file_id": 595196,
+      "file_name": "The Courier Crew (ESPfe) USSEP-250214_Loose-61400-250214-1739655427.7z",
+      "mod_id": 61400,
+      "hash": "sha256-nMEitlQCLpR88OpSk2YPkm2Eyh5766LHykp+eX3aU4w="
+    },
+    "type": "primary"
+  }
+}

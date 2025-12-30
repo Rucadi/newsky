@@ -1,0 +1,63 @@
+{
+  "Additional Dremora Faces - Zim Dremora patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.3",
+      "file_id": 432874,
+      "file_name": "Additional Dremora Faces - Zim Dremora patch-97946-1-3-1696944495.7z",
+      "mod_id": 97946,
+      "hash": "sha256-ycxbcW8AcrRJwhK7aP6wvIQ7WKBklDWg0i/OF7bRBME="
+    }
+  },
+  "Additional Dremora Faces - CC The Cause Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.3.2",
+      "file_id": 434779,
+      "file_name": "Additional Dremora Faces - CC The Cause Patch-97946-1-3-2-1697555984.7z",
+      "mod_id": 97946,
+      "hash": "sha256-9KF2XWK7V9HE9qiYLzUuOdhkp+1F7GdaLlRm/Xz2A8c="
+    }
+  },
+  "Additional Dremora Faces - DERP Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.3.5",
+      "file_id": 436155,
+      "file_name": "Additional Dremora Faces - DERP Patch-97946-1-3-5-1697990359.7z",
+      "mod_id": 97946,
+      "hash": "sha256-mR2IfAV6CjbMlC7wbcraCkm4DcH7un4rjNVV9bLeSDI="
+    }
+  },
+  "ADF - The Cause Reduced Cut Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.3.10",
+      "file_id": 645041,
+      "file_name": "ADF - The Cause Reduced Cut Patch-97946-1-3-10-1751908990.7z",
+      "mod_id": 97946,
+      "hash": "sha256-ReA33YmmjUhM8rsNT3I3+H4rqxnjH8K/KCeq553OKNs="
+    }
+  },
+  "Additional Dremora Faces - VIGILANT Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.3.11",
+      "file_id": 657872,
+      "file_name": "Additional Dremora Faces - VIGILANT Patch-97946-1-3-11-1755800206.7z",
+      "mod_id": 97946,
+      "hash": "sha256-IZByA0YIJJ/aZn5KOa8EFjN4H7jFpdAaCwixki0YBpk="
+    }
+  },
+  "Additional Dremora Faces": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.3.12",
+      "file_id": 658910,
+      "file_name": "Additional Dremora Faces-97946-1-3-12-1756073479.7z",
+      "mod_id": 97946,
+      "hash": "sha256-GYEEYepoHIR6pIXCqcK9F2rfALG2IhkrkEsly/BETn8="
+    },
+    "type": "primary"
+  }
+}

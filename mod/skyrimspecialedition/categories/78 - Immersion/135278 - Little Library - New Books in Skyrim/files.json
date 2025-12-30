@@ -1,0 +1,33 @@
+{
+  "Little Library - Missives Expansion - No LLOS": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.8",
+      "file_id": 701837,
+      "file_name": "Little Library - Missives Expansion - No LLOS-135278-1-8-1766630699.7z",
+      "mod_id": 135278,
+      "hash": "sha256-gljvcYs5o2miPReM5UfLZ3iD+80dSEs/omVRP6mHKlA="
+    }
+  },
+  "Little Library": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.8",
+      "file_id": 701838,
+      "file_name": "Little Library-135278-1-8-1766630785.7z",
+      "mod_id": 135278,
+      "hash": "sha256-A+XpmCXqv1el2HwLUFsT1s3mKDSbiMOG1rEcdJV8ea4="
+    },
+    "type": "primary"
+  },
+  "Little Library - No LLOS Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.8",
+      "file_id": 701839,
+      "file_name": "Little Library - No LLOS Patch-135278-1-8-1766630841.7z",
+      "mod_id": 135278,
+      "hash": "sha256-c3kvdVReqOE/pZgYOhcjkDEgwGX4vgLcYbRPNQ7qTLI="
+    }
+  }
+}

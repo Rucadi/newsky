@@ -1,0 +1,23 @@
+{
+  "FIXED Highpoly Nordic Metal Grate": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 429726,
+      "file_name": "FIXED Highpoly Nordic Metal Grate-101522-1-0-1695953203.7z",
+      "mod_id": 101522,
+      "hash": "sha256-3H2YDrsGWa3lAjtvw1SbQV1BHktX+BNgMNNaU3lszSc="
+    },
+    "type": "primary"
+  },
+  "FIXED Lowpoly Nordic Metal Grate": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 429745,
+      "file_name": "FIXED Lowpoly Nordic Metal Grate-101522-1-0-1695968226.7z",
+      "mod_id": 101522,
+      "hash": "sha256-2kuhVjOyZNVViGjgUF6N4oCTTFuZnOAa1rBc/6ZxQh8="
+    }
+  }
+}

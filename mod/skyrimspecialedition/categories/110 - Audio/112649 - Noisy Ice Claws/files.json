@@ -1,0 +1,46 @@
+{
+  "Noisy Ice Claws - 0.25": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.01",
+      "file_id": 478017,
+      "file_name": "Noisy Ice Claws - 0.25-112649-1-01-1709844718.7z",
+      "mod_id": 112649,
+      "hash": "sha256-NQ7hK5eMhep0ILnzWI3Ar01l0nOPI37ZxxJqpCPrjXg="
+    },
+    "type": "primary"
+  },
+  "Noisy Ice Claws - 0.5": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.01",
+      "file_id": 478018,
+      "file_name": "Noisy Ice Claws - 0.5-112649-1-01-1709844739.7z",
+      "mod_id": 112649,
+      "hash": "sha256-FHg4yWazvCP/+4rlE0OclKoD1WYjUJaA1mbh3BWdT/0="
+    },
+    "type": "primary"
+  },
+  "Noisy Ice Claws - 1": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.01",
+      "file_id": 478019,
+      "file_name": "Noisy Ice Claws - 1-112649-1-01-1709844760.7z",
+      "mod_id": 112649,
+      "hash": "sha256-87FuwStNaXWRYLcDmixN/tbK1fyQmXRs5OMsT3OOkkQ="
+    },
+    "type": "primary"
+  },
+  "Noisy Ice Claws - 2": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.01",
+      "file_id": 478020,
+      "file_name": "Noisy Ice Claws - 2-112649-1-01-1709844775.7z",
+      "mod_id": 112649,
+      "hash": "sha256-X9TI912Xj/Nu/bpW/KVEAjeF9XsIqfArmMlpVzOTdSw="
+    },
+    "type": "primary"
+  }
+}

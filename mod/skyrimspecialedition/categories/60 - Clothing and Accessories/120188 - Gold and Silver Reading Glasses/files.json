@@ -1,0 +1,24 @@
+{
+  "Gold and Silver Reading Glasses": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1",
+      "file_id": 504830,
+      "file_name": "Gold and Silver Reading Glasses-120188-1-1-1716656677.7z",
+      "mod_id": 120188,
+      "hash": "sha256-Vx76uLK2kkxsXaepodAXq2kZzdNwbq7lal/rfiUYgEw="
+    },
+    "type": "primary"
+  },
+  "Gold and Silver Reading Glasses - SPID ini": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1",
+      "file_id": 506359,
+      "file_name": "Gold and Silver Reading Glasses - SPID ini-120188-1-1-1717006064.7z",
+      "mod_id": 120188,
+      "hash": "sha256-oehLfrvLh2tG0nnIuyyTzC4KLNOGv8/UQeL3mcblRNg="
+    },
+    "type": "primary"
+  }
+}

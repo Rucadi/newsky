@@ -1,0 +1,33 @@
+{
+  "No Hand Touches The Beacon": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 311791,
+      "file_name": "No Hand Touches The Beacon-74361-1-0-1661882486.7z",
+      "mod_id": 74361,
+      "hash": "sha256-gj2Y/3q/5ZUNxGf6QowCG92AFMLrB6wdwAvsDJSMrDg="
+    },
+    "type": "primary"
+  },
+  "No Hand Touches The Beacon - BAT file": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 311792,
+      "file_name": "No Hand Touches The Beacon - BAT file-74361-1-0-1661882517.7z",
+      "mod_id": 74361,
+      "hash": "sha256-/H2prRf7f7udFBriqqGhLMV001XZhUIi9xAoCE+7ZWc="
+    }
+  },
+  "No Hand Touches the Beacon - Beacon Only Warlock Places": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0a",
+      "file_id": 341991,
+      "file_name": "No Hand Touches the Beacon - Beacon Only Warlock Places-74361-1-0a-1671488774.7z",
+      "mod_id": 74361,
+      "hash": "sha256-cR+UtPp16t/jKTBGP5goGc8kspAgku+VxAayi48aVhI="
+    }
+  }
+}

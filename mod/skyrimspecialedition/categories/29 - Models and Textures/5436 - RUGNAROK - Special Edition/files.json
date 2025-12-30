@@ -1,0 +1,46 @@
+{
+  "RUGNAROK - Special Edition - 2K-1K": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1",
+      "file_id": 21654,
+      "file_name": "RUGNAROK - Special Edition - 2K-1K-5436-1-1.7z",
+      "mod_id": 5436,
+      "hash": "sha256-9/9OkWaO/sl0HV6EZ1/n4nKC3TFCX7mspdR2e8Fm3cM="
+    },
+    "type": "primary"
+  },
+  "RUGNAROK - Special Edition - 1K": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1",
+      "file_id": 21655,
+      "file_name": "RUGNAROK - Special Edition - 1K-5436-1-1.7z",
+      "mod_id": 5436,
+      "hash": "sha256-3Ev0fQVfvR2su5JEvfFmBvqhhuz1Uj8PB+tNoSZQHBA="
+    },
+    "type": "primary"
+  },
+  "RUGNAROK - Special Edition - 1K-512": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1",
+      "file_id": 21656,
+      "file_name": "RUGNAROK - Special Edition - 1K-512-5436-1-1.7z",
+      "mod_id": 5436,
+      "hash": "sha256-XOMtTcsMTXBT1SOGWDfdr7+Fg7C5QxdVP36d2MWhY8E="
+    },
+    "type": "primary"
+  },
+  "RUGNAROK - Special Edition - 2K": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1.1",
+      "file_id": 552556,
+      "file_name": "RUGNAROK - Special Edition - 2K-5436-1-1-1-1729050633.7z",
+      "mod_id": 5436,
+      "hash": "sha256-q4r2wR4o4YMXzcTQ1cZ86JOG/LORRsaG4RgOxLYR7+E="
+    },
+    "type": "primary"
+  }
+}

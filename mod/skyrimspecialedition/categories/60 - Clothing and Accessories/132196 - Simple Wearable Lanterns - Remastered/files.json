@@ -1,0 +1,23 @@
+{
+  "Simple Wearable Lanterns - Remastered": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "v1",
+      "file_id": 555057,
+      "file_name": "Simple Wearable Lanterns - Remastered-132196-v1-1729768639.rar",
+      "mod_id": 132196,
+      "hash": "sha256-J747H4Fxacl0N+4YJARl7B3PLYzFXN+rHzm9NVsp2Zg="
+    },
+    "type": "primary"
+  },
+  "ESL version": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "v1",
+      "file_id": 555058,
+      "file_name": "ESL version-132196-v1-1729768667.rar",
+      "mod_id": 132196,
+      "hash": "sha256-r4BfpkeVOndmxCNi9/hBOKnF36hcO+p91gB6x5Lb8mk="
+    }
+  }
+}

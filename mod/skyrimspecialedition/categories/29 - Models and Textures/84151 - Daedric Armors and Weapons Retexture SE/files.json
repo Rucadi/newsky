@@ -1,0 +1,33 @@
+{
+  "Daedric Armors and Weapons Retexture SE": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "2.0",
+      "file_id": 522855,
+      "file_name": "Daedric Armors and Weapons Retexture SE-84151-2-0-1721422812.7z",
+      "mod_id": 84151,
+      "hash": "sha256-bnuWe4t+J0pctgPG1c7Ox3cqAeT+zSP/UWV065+f+Kc="
+    },
+    "type": "primary"
+  },
+  "Daedric Armors and Weapons Retexture SE - Half Res": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "2.0",
+      "file_id": 522856,
+      "file_name": "Daedric Armors and Weapons Retexture SE - Half Res-84151-2-0-1721422878.7z",
+      "mod_id": 84151,
+      "hash": "sha256-qohQHwIDRfn6qUdS4lCJ0cgoOSDqfx2wlmTZiygm8jQ="
+    }
+  },
+  "Daedric Armors and Weapons Retexture SE - Low Res": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "2.0",
+      "file_id": 522857,
+      "file_name": "Daedric Armors and Weapons Retexture SE - Low Res-84151-2-0-1721422925.7z",
+      "mod_id": 84151,
+      "hash": "sha256-OoKJsneHnEkWpq2APtl2jnpdSgTUPd1ozYka1BGg3Ls="
+    }
+  }
+}

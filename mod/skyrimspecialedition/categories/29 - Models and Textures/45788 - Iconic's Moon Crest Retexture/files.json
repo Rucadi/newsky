@@ -1,0 +1,43 @@
+{
+  "Moon Crest Retexture 4K": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1",
+      "file_id": 186219,
+      "file_name": "Moon Crest Retexture 4K-45788-1-0-1613456850.7z",
+      "mod_id": 45788,
+      "hash": "sha256-I1/+FOYY5LB/gGJy60JBHaumLPwDHcpDPXlm3zi61uA="
+    }
+  },
+  "Moon Crest Retexture 2K": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1",
+      "file_id": 186220,
+      "file_name": "Moon Crest Retexture 2K-45788-1-0-1613456977.7z",
+      "mod_id": 45788,
+      "hash": "sha256-l1ezUCZUJ+ofLNa9akQPrh6v0ddwOVUI4AhVAdP0nsI="
+    }
+  },
+  "Moon Crest Retexture": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.2",
+      "file_id": 187079,
+      "file_name": "Moon Crest Retexture-45788-1-2-1613859281.7z",
+      "mod_id": 45788,
+      "hash": "sha256-JXCcEj4i3y82qg/x8fmrvNu8PqxrAFeYxXMM+jph1oo="
+    },
+    "type": "primary"
+  },
+  "Unofficial Material Fix Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.2",
+      "file_id": 187080,
+      "file_name": "Unofficial Material Fix Patch-45788-1-2-1613859461.7z",
+      "mod_id": 45788,
+      "hash": "sha256-4b3cE4FRUBf+BGa+siYPkiYIS/CGWrsTzPAHc+z6SaY="
+    }
+  }
+}

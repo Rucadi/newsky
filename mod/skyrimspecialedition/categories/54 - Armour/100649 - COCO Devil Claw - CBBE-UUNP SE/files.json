@@ -1,0 +1,35 @@
+{
+  "COCO Devil Claw - CBBE 3BA": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 426022,
+      "file_name": "COCO Devil Claw - CBBE 3BA-100649-1-0-1694791645.7z",
+      "mod_id": 100649,
+      "hash": "sha256-MdTTu1RJQiNaXoW1YSBizDY+pK/C9k1LALHh+pkMW+4="
+    },
+    "type": "primary"
+  },
+  "COCO Devil Claw - COCOBody UUNP SE": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 426023,
+      "file_name": "COCO Devil Claw - COCOBody UUNP-100649-1-0-1694791743.7z",
+      "mod_id": 100649,
+      "hash": "sha256-a87yCdPTjc5PAwIWRF2O9qVwTtVBQ2ywnjaf2C6Q8aE="
+    },
+    "type": "primary"
+  },
+  "COCO Devil Claw - COCOBody CBBE SE": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 426028,
+      "file_name": "COCO Devil Claw - COCOBody CBBE SE-100649-1-0-1694793057.7z",
+      "mod_id": 100649,
+      "hash": "sha256-Uxkxohjn6EMdYcHiVLHw0F6/Rh00D6SpnZwJc5e6NhE="
+    },
+    "type": "primary"
+  }
+}

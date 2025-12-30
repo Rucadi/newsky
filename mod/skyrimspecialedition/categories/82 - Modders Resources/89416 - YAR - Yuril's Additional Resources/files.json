@@ -1,0 +1,34 @@
+{
+  "YAR - Vanilla Stockade Stick": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0.1",
+      "file_id": 379191,
+      "file_name": "YAR - Vanilla Stockade Stick-89416-1-0-1-1681751280.7z",
+      "mod_id": 89416,
+      "hash": "sha256-SEavPty0A2NYLix/tDS3TAGsZ06IQCGD7sfKG6dzXFI="
+    }
+  },
+  "YAR - Yuril's Additional Resources": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0.5",
+      "file_id": 562925,
+      "file_name": "YAR - Yuril's Additional Resources-89416-1-0-5-1731765713.7z",
+      "mod_id": 89416,
+      "hash": "sha256-taWThs1rebGjFRVDsXV207f11s2+tB/uaKYNJ7GbP8s="
+    },
+    "type": "primary"
+  },
+  "YAR - Yuril's Additional Resources - Parallax": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0.5",
+      "file_id": 562927,
+      "file_name": "YAR - Yuril's Additional Resources - Parallax-89416-1-0-5-1731765750.7z",
+      "mod_id": 89416,
+      "hash": "sha256-0LtRnGsqwtvoWYRW2xhACWR7LrK1Po8y06jzqXMOWGc="
+    },
+    "type": "primary"
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "Floating Weapons Fix (requires Immersive Equipment Displays)": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "fwf0.3",
+      "file_id": 307118,
+      "file_name": "Floating Weapons Fix (requires Immersive Equipment Displays)-36042-0-3-1660397021.7z",
+      "mod_id": 36042,
+      "hash": "sha256-paG476vIYBgjY6MBEylWclNOXHqTYWeqONvrWs62Il0="
+    }
+  },
+  "lilebonymace xEdit scripts": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "scripts-2.47",
+      "file_id": 692559,
+      "file_name": "lilebonymace xEdit scripts-36042-scripts-2-47-1764436645.7z",
+      "mod_id": 36042,
+      "hash": "sha256-s+5Lax53zpa8BUF/2nonmb/inyBsq+n4/KVLlxDRdZg="
+    },
+    "type": "primary"
+  },
+  "lilebonymace patches": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "2.52",
+      "file_id": 703490,
+      "file_name": "lilebonymace patches-36042-2-52-1767077110.7z",
+      "mod_id": 36042,
+      "hash": "sha256-gjjXRjqd1Rx1pW1TwNyCZLR5y4ptbWY6s1xk0xTJMPs="
+    },
+    "type": "primary"
+  }
+}

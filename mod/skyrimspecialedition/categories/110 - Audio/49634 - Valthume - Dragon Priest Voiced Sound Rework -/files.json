@@ -1,0 +1,23 @@
+{
+  "Valthume - Dragon Priest Voiced Sound Rework -": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0PA",
+      "file_id": 202304,
+      "file_name": "Valthume - Dragon Priest Voiced Sound Rework --49634-1-0PA-1620459788.7z",
+      "mod_id": 49634,
+      "hash": "sha256-KwIM62FkRtT0brwjddC1avQFg7P7JbcLBFMP9CkaZGI="
+    },
+    "type": "primary"
+  },
+  "Valthume -Lower Volume Version-": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1F",
+      "file_id": 202731,
+      "file_name": "Valthume -Lower Volume Version--49634-1-1F-1620674135.7z",
+      "mod_id": 49634,
+      "hash": "sha256-pODQeqTbMKu/pZf4PWmo5lbQKKJ1W5DKeId9lL8+K9A="
+    }
+  }
+}

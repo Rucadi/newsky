@@ -1,0 +1,33 @@
+{
+    "CBBE-3BA Patch and Bodyslide": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "CBBE-3BA-1.0.0",
+            "file_id": 533389,
+            "file_name": "CBBE-3BA Patch-126327-CBBE-3BA-1-0-0-1724121955.zip",
+            "mod_id": 126327,
+            "hash": "sha256-1y2zERUKB3UgdtNg84SIZbMNJAe150Bn4kEHNojvMcs="
+        }
+    },
+    "HIMBO Patch and Bodyslide": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "HIMBO-1.0.0",
+            "file_id": 533390,
+            "file_name": "HIMBO Patch-126327-HIMBO-1-0-0-1724122081.zip",
+            "mod_id": 126327,
+            "hash": "sha256-26E69RO85IjVznWiz+R+Ogg7TuTVujIy9ViBsrdnw/o="
+        }
+    },
+    "Official Humanoid Asset Pack - Latest Version": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "1.0.1",
+            "file_id": 568696,
+            "file_name": "Official Humanoid Asset Pack - Latest Veersion-126327-1-0-1-1733258987.zip",
+            "mod_id": 126327,
+            "hash": "sha256-kW6X98vpV39U7oSitJR67zKb82hqPgYXHETtBp2jNcU="
+        },
+        "type": "primary"
+    }
+}

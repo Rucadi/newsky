@@ -1,0 +1,54 @@
+{
+  "Wardancer armor - Modular version - Sattyre edit": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1",
+      "file_id": 541355,
+      "file_name": "Wardancer armor - Modular version - Sattyre edit-128851-1-1-1726144756.7z",
+      "mod_id": 128851,
+      "hash": "sha256-kxLk3KlcW9RfGk/8e3wb9Ei9q8LKW9zOwcgKbFyPUzE="
+    }
+  },
+  "Wardancer armor CBBE Bodyslide": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.2",
+      "file_id": 542845,
+      "file_name": "Wardancer armor CBBE Bodyslide-128851-1-2-1726493938.7z",
+      "mod_id": 128851,
+      "hash": "sha256-gWFnHMPUpghQYPoXOVc6p/cyhz9NNwMVEYQ+SvaDkvs="
+    }
+  },
+  "Wardancer armor CBBE Bodyslide - Curvy mesh": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.2",
+      "file_id": 542846,
+      "file_name": "Wardancer armor CBBE Bodyslide - Curvy mesh-128851-1-2-1726493994.7z",
+      "mod_id": 128851,
+      "hash": "sha256-hq2+RfunRBYImmWIzQuiM+F3KMtrVuVASe/86WOYnXk="
+    }
+  },
+  "Wardancer armor 2K-1K texture": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.2",
+      "file_id": 542853,
+      "file_name": "Wardancer armor 2K-1K texture-128851-1-2-1726494312.7z",
+      "mod_id": 128851,
+      "hash": "sha256-AOO4/6Ey8OEAf0hkEYl1lqqEofqvWWAHArisEkxNMLs="
+    },
+    "type": "primary"
+  },
+  "Wardancer armor 4K-2K texture": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.2",
+      "file_id": 542855,
+      "file_name": "Wardancer armor 4K-2K texture-128851-1-2-1726494380.7z",
+      "mod_id": 128851,
+      "hash": "sha256-5UJcNESQ/8CuJMsKqkFIiDzZg6zdzuAHL4LmpZr+SGg="
+    },
+    "type": "primary"
+  }
+}

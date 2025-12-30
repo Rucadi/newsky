@@ -1,0 +1,44 @@
+{
+  "Azura's Gift - Followers D7": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.4",
+      "file_id": 583087,
+      "file_name": "Azura's Gift - Followers D7-135656-1-4-1736817690.7z",
+      "mod_id": 135656,
+      "hash": "sha256-X5LGaf6vdveFbGV4UWEWhX+S6Z+0PkPs3ZZwWM3OWU4="
+    },
+    "type": "primary"
+  },
+  "Azura's Gift - Replacer D7": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.4",
+      "file_id": 583088,
+      "file_name": "Azura's Gift - Replacer D7-135656-1-4-1736817755.7z",
+      "mod_id": 135656,
+      "hash": "sha256-EK3yuEM+X1OKHEvBTxraLq3khY2z+IZBpxuUKeX1Ml8="
+    },
+    "type": "primary"
+  },
+  "Nether's Karliah - D7 Replacer Patch (Default)": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 583089,
+      "file_name": "Nether's Karliah - D7 Replacer Patch-135656-1-0-1736818669.7z",
+      "mod_id": 135656,
+      "hash": "sha256-FrEt8pKj0RkvozhiqtYySo3eCtUvWV9zsFeZWfQJcD0="
+    }
+  },
+  "Nether's Karliah - D7 Replacer Patch (D7 Asset)": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 587860,
+      "file_name": "Nether's Karliah - D7 Replacer Patch (D7 Asset)-135656-1-0-1737935215.7z",
+      "mod_id": 135656,
+      "hash": "sha256-8FXP2aRv6vgUYXOIH+GaRZKc2vGKBQnGGWEg9KAJT8Y="
+    }
+  }
+}

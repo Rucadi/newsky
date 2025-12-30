@@ -1,0 +1,35 @@
+{
+  "Requiem - Unique Uniques SE Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 178655,
+      "file_name": "Requiem 4.01 SSE - Unique Uniques SE Patch-44190-1-0-1610234581.zip",
+      "mod_id": 44190,
+      "hash": "sha256-kuLSlHKo9o7A/hyBMZ1NS2hb5W7LQGNFf5AmJIcIMfI="
+    },
+    "type": "primary"
+  },
+  "Requiem - Unique Uniques and 3Tweaks Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 178667,
+      "file_name": "Requiem 4.01 SSE - Unique Uniques SE Patch for 3Tweaks Users-44190-1-0-1610242201.zip",
+      "mod_id": 44190,
+      "hash": "sha256-sibaXm7vcM9isPT1llqI2P9GSLa6xP68drhhPzlKHHg="
+    },
+    "type": "primary"
+  },
+  "Requiem - FTweaks and Unique Uniques Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.2",
+      "file_id": 187517,
+      "file_name": "Requiem - FTweaks and Unique Uniques Patch-44190-1-2-1614054468.zip",
+      "mod_id": 44190,
+      "hash": "sha256-NgAi7JrbhjSPE/E+y0jjMAxH39+m2sOsgi0BjtSbYOU="
+    },
+    "type": "primary"
+  }
+}

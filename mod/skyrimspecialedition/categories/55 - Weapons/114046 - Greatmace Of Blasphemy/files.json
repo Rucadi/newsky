@@ -1,0 +1,23 @@
+{
+  "Greatmace Of Blasphemy SE ESL": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "v1.0",
+      "file_id": 480576,
+      "file_name": "Greatmace Of Blasphemy SE ESL-114046-v1-0-1710443407.7z",
+      "mod_id": 114046,
+      "hash": "sha256-fPzy+HHmdUISI3zEnM+xYCO75Jk5eewtf+EBRL3LNaI="
+    },
+    "type": "primary"
+  },
+  "Greatmace Of Blasphemy SE ESP": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "v1.0",
+      "file_id": 480577,
+      "file_name": "Greatmace Of Blasphemy SE ESP-114046-v1-0-1710443469.7z",
+      "mod_id": 114046,
+      "hash": "sha256-o4g5ux5JE9zrROQe5MFh0/bEPRRSSo7fRzk7fDl9GQ4="
+    }
+  }
+}

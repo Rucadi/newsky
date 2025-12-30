@@ -1,0 +1,23 @@
+{
+  "Skyking Snowburst - LODGEN Files": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1",
+      "file_id": 578582,
+      "file_name": "Skyking Snowburst - LODGEN Files-137775-1-1-1735789197.7z",
+      "mod_id": 137775,
+      "hash": "sha256-qL8u/uB4m+NXrEKn22ujctZLZx7wrawyRuggf1fL6n0="
+    }
+  },
+  "Skyking Snowburst": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1",
+      "file_id": 578655,
+      "file_name": "Skyking Snowburst-137775-1-1-1735812507.7z",
+      "mod_id": 137775,
+      "hash": "sha256-BZmRtHGlfqAVtC646EfCctZqaWi4GuGpoGBfQD7ce3I="
+    },
+    "type": "primary"
+  }
+}

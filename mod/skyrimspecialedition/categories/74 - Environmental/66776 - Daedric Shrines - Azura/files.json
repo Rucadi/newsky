@@ -1,0 +1,24 @@
+{
+    "Shrine of Azura 4k": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "1.0",
+            "file_id": 278275,
+            "file_name": "Shrine of Azura 4k-66776-1-0-1650387320.zip",
+            "mod_id": 66776,
+            "hash": "sha256-tuDc2aCRKEtWsCF+3kc8OB1CzPju8NFbaKThNnG6XbA="
+        },
+        "type": "primary"
+    },
+    "Shrine of Azura 2k": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "1.0",
+            "file_id": 278276,
+            "file_name": "Shrine of Azura 2k-66776-1-0-1650387376.zip",
+            "mod_id": 66776,
+            "hash": "sha256-bz8Q67vJvxdemsK8eOwHR3RKFrqGciq3+zO1yH6Y4A0="
+        },
+        "type": "primary"
+    }
+}

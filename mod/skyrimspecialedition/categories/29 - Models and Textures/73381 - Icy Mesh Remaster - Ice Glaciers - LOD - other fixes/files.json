@@ -1,0 +1,64 @@
+{
+  "Icy Mesh Remaster - Vale cracks": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "3.10",
+      "file_id": 662030,
+      "file_name": "Icy Mesh Remaster - Vale cracks-73381-3-10-1756903253.zip",
+      "mod_id": 73381,
+      "hash": "sha256-fUWnCa2NbZx7aTrKCCxSmZ0JkKeUDoD3qM7gQlA+uYE="
+    }
+  },
+  "Icy Mesh Remaster - Icefloes without 2D texture": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "3.20",
+      "file_id": 664422,
+      "file_name": "Icy Mesh Remaster - Icefloes without 2D texture-73381-3-20-1757528215.zip",
+      "mod_id": 73381,
+      "hash": "sha256-19LmoQKpSl7OKB4PeFKvCa7uHIOzdP0FFhAPGMKUBAo="
+    }
+  },
+  "Icy Mesh Remaster - Parallax TXST Fixes Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "P1.01",
+      "file_id": 665960,
+      "file_name": "Icy Mesh Remaster - Parallax TXST Fixes Patch-73381-P1-01-1757929289.zip",
+      "mod_id": 73381,
+      "hash": "sha256-AXmW/M69w6XUGBhE3h6x+lBONdquyvpsfPtvfj47nJ8="
+    }
+  },
+  "Icy Mesh Remaster - Complex Parallax Addon": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "A1.50",
+      "file_id": 666784,
+      "file_name": "Icy Mesh Remaster - Complex Parallax Addon-73381-A1-50-1758138809.zip",
+      "mod_id": 73381,
+      "hash": "sha256-F+ZiHvMgq+S1el+P4Oiqz4C4drWP1xaiXQpNqGGHREI="
+    }
+  },
+  "Icy Mesh Remaster - IcyFixes": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "3.33",
+      "file_id": 667254,
+      "file_name": "Icy Mesh Remaster - IcyFixes-73381-3-33-1758267800.zip",
+      "mod_id": 73381,
+      "hash": "sha256-yRU5BuFXYctQKyAt+QgGe+Mw7P2INJEkDbpZnDHRHHM="
+    },
+    "type": "primary"
+  },
+  "Icy Mesh Remaster - Meshes": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "3.33",
+      "file_id": 667255,
+      "file_name": "Icy Mesh Remaster - Meshes-73381-3-33-1758267826.zip",
+      "mod_id": 73381,
+      "hash": "sha256-aWcniPnvq7SEn8svwRmwmAcq+Y9MnXpltm3Nyqsj5js="
+    },
+    "type": "primary"
+  }
+}

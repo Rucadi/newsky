@@ -1,0 +1,33 @@
+{
+    "Missives Notes Retexture": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "1.0",
+            "file_id": 188007,
+            "file_name": "Missives Notes Retexture-46201-1-0-1614289834.zip",
+            "mod_id": 46201,
+            "hash": "sha256-/uYZvNtIfr0054HjiMKA1dNFCDtP9yYyHTHwX5U208I="
+        },
+        "type": "primary"
+    },
+    "Patch for Missives Worldspace Additions (Heartland)": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "1.0",
+            "file_id": 188806,
+            "file_name": "Patch for Missives Worldspace Additions (Heartland)-46201-1-0-1614612804.zip",
+            "mod_id": 46201,
+            "hash": "sha256-YMcO01FmDqRDhUulBbmLQHa536/JUVbAzWzxTFf3mI4="
+        }
+    },
+    "Patch for Missives Worldspace Additions (Solstheim)": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "1.0",
+            "file_id": 188807,
+            "file_name": "Patch for Missives Worldspace Additions (Solstheim)-46201-1-0-1614612884.zip",
+            "mod_id": 46201,
+            "hash": "sha256-/GlX2ElT+kvbesD8cKbS8iZEHj4OsSJP+mV8NKybBFg="
+        }
+    }
+}

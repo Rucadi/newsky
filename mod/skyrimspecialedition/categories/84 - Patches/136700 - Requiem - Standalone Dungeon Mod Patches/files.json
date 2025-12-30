@@ -1,0 +1,35 @@
+{
+    "Requiem - Ysmir's Tear II": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "1.00",
+            "file_id": 573760,
+            "file_name": "Requiem - Ysmir's Tear II-136700-1-00-1734574288.rar",
+            "mod_id": 136700,
+            "hash": "sha256-zXLnXQOvG59Y15s8WNaMgf+f2PfRgG2J9X9kENaYM3Y="
+        },
+        "type": "primary"
+    },
+    "Requiem - Taarengrav": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "1.00",
+            "file_id": 573761,
+            "file_name": "Requiem - Taarengrav-136700-1-00-1734574317.rar",
+            "mod_id": 136700,
+            "hash": "sha256-NpW+vVt02cthjFK6GcbBWO9qvy18OlwBEvwttJ/UDLk="
+        },
+        "type": "primary"
+    },
+    "Requiem - Dragons Teeth Prison": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "1.00",
+            "file_id": 573762,
+            "file_name": "Requiem - Dragons Teeth Prison-136700-1-00-1734574406.rar",
+            "mod_id": 136700,
+            "hash": "sha256-JI09s4SvkMvB1H2md0SuKLbjQznbIzt7EOI9kI37KtA="
+        },
+        "type": "primary"
+    }
+}

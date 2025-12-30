@@ -1,0 +1,63 @@
+{
+    "JK's Bannered Mare Patch": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "1.0",
+            "file_id": 556955,
+            "file_name": "JK's Bannered Mare Patch-132691-1-0-1730256211.7z",
+            "mod_id": 132691,
+            "hash": "sha256-xVdMhhf3dqlpwCagVmIipEjRXaPK5bpENmk7mDak1pU="
+        }
+    },
+    "JK's Candlehearth Hall Patch": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "1.0",
+            "file_id": 556957,
+            "file_name": "JK's Candlehearth Hall Patch-132691-1-0-1730256262.7z",
+            "mod_id": 132691,
+            "hash": "sha256-SARi8kEimN2aQVqZq1sya/8AF+Uw2qB9YMTVF3SQ8AE="
+        }
+    },
+    "Redbag's Rorikstead Patch": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "1.0",
+            "file_id": 556958,
+            "file_name": "Redbag's Rorikstead Patch-132691-1-0-1730256296.7z",
+            "mod_id": 132691,
+            "hash": "sha256-vSW53OF2ldhw/tl0qGbaeLNkey/d3/WGonClitim230="
+        }
+    },
+    "Redbags Falkreath patch": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "1.0",
+            "file_id": 558555,
+            "file_name": "Redbags Falkreath patch-132691-1-0-1730645952.7z",
+            "mod_id": 132691,
+            "hash": "sha256-SzvvYrY3CE2Mj22Q3xZvzmqa6tZdDeLpYBNJBNH92vs="
+        }
+    },
+    "COTN Falkreath patch": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "1.0",
+            "file_id": 558556,
+            "file_name": "COTN Falkreath patch-132691-1-0-1730645987.7z",
+            "mod_id": 132691,
+            "hash": "sha256-tcozfQPqGyjlJy+vcG1K2lh9IHRsLGTqW/Aq2msHYV8="
+        }
+    },
+    "Memorable Stories 1.0.6": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "1.0.6",
+            "file_id": 651511,
+            "file_name": "Memorable Stories 1.0.6-132691-1-0-6-1753924376.zip",
+            "mod_id": 132691,
+            "hash": "sha256-tMM2nDXWlgzczK+q8IrQZM6o3iLSCVkqBfOwrQGzUVo="
+        },
+        "type": "primary"
+    }
+}

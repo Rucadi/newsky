@@ -1,0 +1,34 @@
+{
+  "Wintersun patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 285139,
+      "file_name": "Wintersun patch-68362-1-0-1653060119.zip",
+      "mod_id": 68362,
+      "hash": "sha256-lHNF31Fy8mWO2+SV5ybd4kNmOoLF0n+fOED5wIZL2ck="
+    }
+  },
+  "Daedric Shrines - Vaermina 4K": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.01",
+      "file_id": 286813,
+      "file_name": "Daedric Shrines - Vaermina 4K-68362-1-01-1653639953.zip",
+      "mod_id": 68362,
+      "hash": "sha256-HYhq0J9IMdubRsh0egWobNaGKgyzb2v7HqNzcVOGR3k="
+    },
+    "type": "primary"
+  },
+  "Daedric Shrines - Vaermina 2K": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.01",
+      "file_id": 286814,
+      "file_name": "Daedric Shrines - Vaermina 2K-68362-1-01-1653639991.zip",
+      "mod_id": 68362,
+      "hash": "sha256-XsblghfSiH4IPIn12v5YMveJrwH3e4ajB3jvbK3//AU="
+    },
+    "type": "primary"
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "CC Ebony Plate- Immersive Start": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.00",
+      "file_id": 511174,
+      "file_name": "CC Ebony Plate- Immersive Start-121794-1-00-1718288787.rar",
+      "mod_id": 121794,
+      "hash": "sha256-EPmhETT+zIiAXR/j13/BaphlFd7IAojX5cZQpEK2T+s="
+    },
+    "type": "primary"
+  },
+  "CC Ebony Plate- Immersive Start - RAE": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.00",
+      "file_id": 511175,
+      "file_name": "CC Ebony Plate- Immersive Start - RAE-121794-1-00-1718288816.rar",
+      "mod_id": 121794,
+      "hash": "sha256-xBHuYgkAQxyydq980Yh8auXZEiN3kXmq6klJTZAGwnk="
+    },
+    "type": "primary"
+  }
+}

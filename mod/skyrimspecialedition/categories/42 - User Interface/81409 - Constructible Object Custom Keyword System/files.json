@@ -1,0 +1,34 @@
+{
+    "Crafting Categories 21x9 Patch": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "1.0.1",
+            "file_id": 345507,
+            "file_name": "Crafting Categories 21x9 Patch-81409-1-0-1-1672574437.7z",
+            "mod_id": 81409,
+            "hash": "sha256-0vKhHUmJzFz4rEbaShQxw+XXOetyHfQCZrXqzsUhz0k="
+        }
+    },
+    "Crafting Categories for SkyUI": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "1.1.1",
+            "file_id": 493920,
+            "file_name": "Crafting Categories for SkyUI-81409-1-1-1-1713865527.7z",
+            "mod_id": 81409,
+            "hash": "sha256-STZ8u3GxMIV3nedwzcdDRJGwzhlccESplkEmG8w+q4Y="
+        },
+        "type": "primary"
+    },
+    "Crafting Categories for SkyUI VR": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "1.1.1",
+            "file_id": 493921,
+            "file_name": "Crafting Categories for SkyUI VR-81409-1-1-1-1713865558.7z",
+            "mod_id": 81409,
+            "hash": "sha256-rCE4Vrgia8vhx4d0onEeDm+Nl1thTS6I2ciH5dhO8i0="
+        },
+        "type": "primary"
+    }
+}

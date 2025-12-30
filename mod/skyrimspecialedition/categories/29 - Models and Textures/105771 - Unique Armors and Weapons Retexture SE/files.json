@@ -1,0 +1,33 @@
+{
+    "Unique Armors and Weapons Retexture SE": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "1.3.0",
+            "file_id": 669574,
+            "file_name": "Unique Armors and Weapons Retexture SE-105771-1-3-0-1758889820.7z",
+            "mod_id": 105771,
+            "hash": "sha256-/rpSXAqTiYYs4W7wl0QHa1bwW3UXPZm2jIrU1qhQU5I="
+        },
+        "type": "primary"
+    },
+    "Unique Armors and Weapons Retexture SE - Half Res": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "1.3.0",
+            "file_id": 669577,
+            "file_name": "Unique Armors and Weapons Retexture SE - Half Res-105771-1-3-0-1758889975.7z",
+            "mod_id": 105771,
+            "hash": "sha256-RCmqiRUts1kSDvEQ8cd08MkSakZH8wGE/uVeQugiGbI="
+        }
+    },
+    "Unique Armors and Weapons Retexture SE - Low Res": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "1.3.0",
+            "file_id": 669579,
+            "file_name": "Unique Armors and Weapons Retexture SE - Low Res-105771-1-3-0-1758890060.7z",
+            "mod_id": 105771,
+            "hash": "sha256-OdZfxvgLQvwr0M2nrWLldLHoKH4FLqLAzvrPFX8c1wU="
+        }
+    }
+}

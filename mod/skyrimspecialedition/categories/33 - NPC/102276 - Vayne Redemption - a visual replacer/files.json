@@ -1,0 +1,45 @@
+{
+  "Vayne Redemption - LORE EYES option": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 432945,
+      "file_name": "Vayne Redemption - LORE EYES option-102276-1-0-1696961459.zip",
+      "mod_id": 102276,
+      "hash": "sha256-dvNatLBNxgm/OqMvvTOPZSVBSeqm0PHpHibK5Od/4I4="
+    }
+  },
+  "Visions - Vayne Redemption - ESPFE version": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 472652,
+      "file_name": "Visions - Vayne Redemption - ESPFE version-102276-1-0-1708373597.zip",
+      "mod_id": 102276,
+      "hash": "sha256-FS/0oWwFT2jYSbrI9uOJ6ttOkaHTzxxkjwumcvIGEh4="
+    },
+    "type": "primary"
+  },
+  "Visions - Vayne Redemption - Standard version": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 472654,
+      "file_name": "Visions - Vayne Redemption - Standard version-102276-1-0-1708374008.zip",
+      "mod_id": 102276,
+      "hash": "sha256-6tKTfYVG9NmvcN2IsVs/XzQ8Shkoz/S1r84US4fkpYA="
+    },
+    "type": "primary"
+  },
+  "Vayne Redemption - for Vayne Remastered": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0VayneRemastered",
+      "file_id": 658183,
+      "file_name": "Vayne Redemption - for Vayne Remastered-102276-1-0VayneRemastered-1755888355.rar",
+      "mod_id": 102276,
+      "hash": "sha256-mnS6JD9dA80qUQnV/Cd42wSOT084XhqhZnmz5cGUxWI="
+    },
+    "type": "primary"
+  }
+}

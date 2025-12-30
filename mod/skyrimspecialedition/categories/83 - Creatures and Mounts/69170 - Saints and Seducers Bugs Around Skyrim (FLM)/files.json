@@ -1,0 +1,23 @@
+{
+  "Saints and Seducers Bugs Around Skyrim - Butterflies Unchained Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 289109,
+      "file_name": "Saints and Seducers Bugs Around Skyrim - Butterflies Unchained Patch-69170-1-0-1654489200.7z",
+      "mod_id": 69170,
+      "hash": "sha256-XLbnliUOOJ06CVM8NKui95TO6UKyeNG/P7lY1qSTM9U="
+    }
+  },
+  "Saints and Seducers Bugs Around Skyrim": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1.1.1",
+      "file_id": 561776,
+      "file_name": "Saints and Seducers Bugs Around Skyrim-69170-1-1-1-1-1731481847.7z",
+      "mod_id": 69170,
+      "hash": "sha256-wHliwjmQfH77vDBIIsqzLeq1rCy1yYLv5P72oi7fAD8="
+    },
+    "type": "primary"
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "Thanedom of Tormmarch (Riften) - AI Overhaul Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "0.Evergreen",
+      "file_id": 443515,
+      "file_name": "Thanedom of Tormmarch (Riften) - AI Overhaul Patch-103920-1-0-0-1700281952.7z",
+      "mod_id": 103920,
+      "hash": "sha256-tzMOA8d+nlaKmfrFRAeUgWZE2X+bds32s/PuvYZkgIM="
+    }
+  },
+  "Amorous Adventures MCM for Alternative Start Users": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "0.Evergreen",
+      "file_id": 578905,
+      "file_name": "Amorous Adventures MCM for Alternative Start Users-103920-2-0-0-1735894911.7z",
+      "mod_id": 103920,
+      "hash": "sha256-24dA3DxPSPCr3ZjdGNfbMXKNNZ6ZSyOWk7i/FunExrQ="
+    }
+  },
+  "Various Dialogue Tags": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "4.1.8",
+      "file_id": 690793,
+      "file_name": "Various Dialogue Tags-103920-4-1-8-1763999442.zip",
+      "mod_id": 103920,
+      "hash": "sha256-AAeyYdn1dHb0jogodfTeH2KS7VO001MAJGOfn2JB1hc="
+    },
+    "type": "primary"
+  },
+  "VDT Overwrite - Immersive Wenches v1.6 (2018)": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "0.Evergreen",
+      "file_id": 698158,
+      "file_name": "VDT Overwrite - Immersive Wenches v1.6 (2018)-103920-0-Evergreen-1765764683.zip",
+      "mod_id": 103920,
+      "hash": "sha256-GO7S1cm3s7lMybZfPrKpkh9+tRNSX0PenFfRMgNlTdE="
+    },
+    "type": "primary"
+  }
+}

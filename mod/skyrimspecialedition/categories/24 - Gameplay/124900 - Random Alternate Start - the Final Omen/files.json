@@ -1,0 +1,23 @@
+{
+  "RandomAlt.Start-Skyim": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "4.27",
+      "file_id": 524818,
+      "file_name": "RandomAlt.Start-Skyim-124900-4-27-1721920044.zip",
+      "mod_id": 124900,
+      "hash": "sha256-nz75z44HyHncUWOPXapV1GhcgXmVs5XM50+1pyzYI+o="
+    },
+    "type": "primary"
+  },
+  "Alternate Random Start-Skyrim": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "4.27b",
+      "file_id": 526802,
+      "file_name": "Alternate Random Start-Skyrim-124900-4-27b-1722383488.zip",
+      "mod_id": 124900,
+      "hash": "sha256-lzfzDvsejE3qGk6bFRmlagyAjrVHZ3F+pO3vUYO4Ziw="
+    }
+  }
+}

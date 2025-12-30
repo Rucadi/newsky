@@ -1,0 +1,64 @@
+{
+  "Ebonmere Moons Restoration": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 286066,
+      "file_name": "Ebonmere Moons Restoration-68550-1-0-1653362998.rar",
+      "mod_id": 68550,
+      "hash": "sha256-hbIsCPzDXB/YtUAdsOLzw6y9XuAHsspqkMsm4xWjBR8="
+    },
+    "type": "primary"
+  },
+  "8K Moons Diffuse map": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 286070,
+      "file_name": "8K Moons Diffuse map-68550-1-0-1653363345.rar",
+      "mod_id": 68550,
+      "hash": "sha256-wmPuYtZ86HUjqW6YsniEuG+A3z7hgzSYMyEAO3knC/4="
+    }
+  },
+  "2K Moon Textures": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 286072,
+      "file_name": "2K Moon Textures-68550-1-0-1653363438.rar",
+      "mod_id": 68550,
+      "hash": "sha256-j6JLUw3/MVWxMAlJkRwBpes32e7wma2JMM8CNhwJX1Y="
+    }
+  },
+  "JS Lockpicking UI SE - FIX": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 286073,
+      "file_name": "JS Lockpicking UI SE - FIX-68550-1-0-1653363581.rar",
+      "mod_id": 68550,
+      "hash": "sha256-feGqnJSwP++hkgtNrCxLTZuiDier29b+lvYbLNKyPJg="
+    }
+  },
+  "Ebonmere Moons Restoration - ENB Light": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1",
+      "file_id": 286266,
+      "file_name": "Ebonmere Moons Restoration - ENB Light-68550-1-1-1653440446.rar",
+      "mod_id": 68550,
+      "hash": "sha256-E3LIza1IfJ69BHwr2xAS2I8HvCeRs323NdUb1GfTgUk="
+    },
+    "type": "primary"
+  },
+  "JS Lockpicking UI SE - FIX - ENB Light": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1",
+      "file_id": 286267,
+      "file_name": "JS Lockpicking UI SE - FIX - ENB Light-68550-1-1-1653440490.rar",
+      "mod_id": 68550,
+      "hash": "sha256-f7Rj6oWuwA+nalQjPTMq8/GAb/Uuq9iZvM5NBQD13lE="
+    }
+  }
+}

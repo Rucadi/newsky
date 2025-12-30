@@ -1,0 +1,33 @@
+{
+  "True Storms SE - No Heavy Fog Weather": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.01",
+      "file_id": 24157,
+      "file_name": "True Storms SE - No Fog-2472-1-01.rar",
+      "mod_id": 2472,
+      "hash": "sha256-CWYHLoTnXwC4LpJBNSOI5RpsyO8IU2q8eUXv0UlBMWQ="
+    }
+  },
+  "True Storms SE - No Fog Camera Effects": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0.2",
+      "file_id": 505080,
+      "file_name": "True Storms SE - No Fog Effects AT ALL-2472-1-0-2-1716716053.rar",
+      "mod_id": 2472,
+      "hash": "sha256-sgNRxiSty9Y7JduCt+uf/rCXpo9OPO1SvulUK2G7S48="
+    }
+  },
+  "True Storms Special Edition": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0.3",
+      "file_id": 572912,
+      "file_name": "True Storms SE 103-2472-1-0-3-1734333743.rar",
+      "mod_id": 2472,
+      "hash": "sha256-PcgSeaAwY7n6etn4iAOaNmTxNdIZaeBUJKJgoaZ6KiM="
+    },
+    "type": "primary"
+  }
+}

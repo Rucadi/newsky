@@ -1,0 +1,43 @@
+{
+  "Glow Eye Mace of Molag Bal": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 602985,
+      "file_name": "Glow Eye Mace of Molag Bal-143740-1-0-1741410650.zip",
+      "mod_id": 143740,
+      "hash": "sha256-+avO3kn/VjXt1ILXY5We3KCXJfcdWxCvazBKmuooswA="
+    }
+  },
+  "Glow Eye Mace of Molag Bal Weapon Animation": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 602986,
+      "file_name": "Glow Eye Mace of Molag Bal Weapon Animation-143740-1-0-1741410846.zip",
+      "mod_id": 143740,
+      "hash": "sha256-VSTTAYBBQ2o8irFwmNlxlCcDZcF07eQCofSF4f8gI4A="
+    }
+  },
+  "Mace of Molag Bal Rework 1.01": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.01",
+      "file_id": 606373,
+      "file_name": "Mace of Molag Bal Rework 1.01-143740-1-01-1742140835.zip",
+      "mod_id": 143740,
+      "hash": "sha256-CL1IYtY0BYcJqpq2DKte0M0nmeLGa0dAN79rqxqLNW4="
+    },
+    "type": "primary"
+  },
+  "Mace of Molag Bal Rework 1.01 CHS": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.01",
+      "file_id": 606374,
+      "file_name": "Mace of Molag Bal Rework 1.01 CHS-143740-1-01-1742140931.7z",
+      "mod_id": 143740,
+      "hash": "sha256-jQ+Ta2qeycRjmUu7GT1/eRE5vd79xnBQC6cmc3ELruk="
+    }
+  }
+}

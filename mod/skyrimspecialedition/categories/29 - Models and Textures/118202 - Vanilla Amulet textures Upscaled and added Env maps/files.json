@@ -1,0 +1,23 @@
+{
+  "Vanilla Amulet textures Upscaled and added Env map": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1",
+      "file_id": 497354,
+      "file_name": "Vanilla Amulet textures Upscaled and added Env map-118202-1-1-1714735980.rar",
+      "mod_id": 118202,
+      "hash": "sha256-KA1JItsniK07Ds7i54vPjDlAlnhGzKJ976m6RmG9Qdk="
+    },
+    "type": "primary"
+  },
+  "Vanilla Amulet textures Env maps only": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1",
+      "file_id": 497757,
+      "file_name": "Vanilla Amulet textures Env maps only-118202-1-1-1714838428.rar",
+      "mod_id": 118202,
+      "hash": "sha256-6xtWrMY83HvGUadQpMmrzptuOVXlIJqWW1jKcC9u7kM="
+    }
+  }
+}

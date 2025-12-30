@@ -1,0 +1,33 @@
+{
+  "Skyking Unique Signs - Capital Windhelm Expansion": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 484512,
+      "file_name": "Skyking Unique Signs - Capital Windhelm Expansion-114940-1-0-1711514258.zip",
+      "mod_id": 114940,
+      "hash": "sha256-Se/bNmLHzfX6Vi7fzLpcE4CScTp1M7p4CPB93HLqjO0="
+    }
+  },
+  "Skyking Unique Signs - Enhanced Solitude": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 484513,
+      "file_name": "Skyking Unique Signs - Enhanced Solitude-114940-1-0-1711514310.zip",
+      "mod_id": 114940,
+      "hash": "sha256-tk2qf3nN6FzUeHMKpAau7iuo9rI60evNIAU3MX/aq38="
+    }
+  },
+  "Skyking Unique Signs": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "2.1",
+      "file_id": 639272,
+      "file_name": "Skyking Unique Signs-114940-2-1-1750270358.7z",
+      "mod_id": 114940,
+      "hash": "sha256-y2uyiESY+qRGdcRH91WDdogAMjU1H6dV9lR+pJbliNs="
+    },
+    "type": "primary"
+  }
+}

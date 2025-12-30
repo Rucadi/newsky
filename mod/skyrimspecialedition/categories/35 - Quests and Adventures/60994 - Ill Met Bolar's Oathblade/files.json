@@ -1,0 +1,23 @@
+{
+  "Ill Met Bolar's Oathblade": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.2",
+      "file_id": 344541,
+      "file_name": "Ill Met Bolar's Oathblade-60994-1-2-1672320779.7z",
+      "mod_id": 60994,
+      "hash": "sha256-WhoPk9Yym6yDE8kuPiy6mPDuH0bGq0DIZmcRJ3tdCuk="
+    },
+    "type": "primary"
+  },
+  "Ill Met Bolar's Oathblade (Russian)": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.2",
+      "file_id": 478964,
+      "file_name": "Ill Met Bolar's Oathblade-60994-1-2-1710067779.7z",
+      "mod_id": 60994,
+      "hash": "sha256-lNvbO9/U1rJPDlYNN86US1lyQNVw0++H9XNaoL5FrDU="
+    }
+  }
+}

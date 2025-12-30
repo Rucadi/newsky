@@ -1,0 +1,24 @@
+{
+  "Koralina's Makeup Tweaks 4k ESL": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.2",
+      "file_id": 262549,
+      "file_name": "Koralina's Makeup Tweaks 4k ESL-63024-1-2-1644271729.zip",
+      "mod_id": 63024,
+      "hash": "sha256-eXlfgbvEgd0P+CrXg8snltVCpcMPCTnwEesPZjVs4zg="
+    },
+    "type": "primary"
+  },
+  "Koralina's Makeup Tweaks 2k ESL": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.12",
+      "file_id": 262550,
+      "file_name": "Koralina's Makeup Tweaks 2k ESL-63024-1-12-1644271858.zip",
+      "mod_id": 63024,
+      "hash": "sha256-grUYMJjXdQSY7YqrLp/eDkKrOEHYVW9g+qBshJ4cR8k="
+    },
+    "type": "primary"
+  }
+}

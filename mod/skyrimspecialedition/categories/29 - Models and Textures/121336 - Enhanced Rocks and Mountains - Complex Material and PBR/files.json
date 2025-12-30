@@ -1,0 +1,44 @@
+{
+  "Blended ERM": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0.2",
+      "file_id": 615464,
+      "file_name": "Blended ERM-121336-1-0-2-1744201101.7z",
+      "mod_id": 121336,
+      "hash": "sha256-8iSCCUbFao7vckOps0gDJnmMbCydrrrpEq5Zy7QHkgE="
+    }
+  },
+  "ERM - Complex Material Textures Collection": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0.0",
+      "file_id": 642026,
+      "file_name": "ERM - Complex Material Textures Collection-121336-1-0-0-1750993203.7z",
+      "mod_id": 121336,
+      "hash": "sha256-UVFZEEUCEW4JKaH0PiD9GflqsS+Idpac5dzbLKlWpic="
+    }
+  },
+  "ERM - Textures": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1.0",
+      "file_id": 657038,
+      "file_name": "ERM - Textures-121336-1-1-0-1755568451.7z",
+      "mod_id": 121336,
+      "hash": "sha256-l5QH6cudt1ZZ8famz0hNx1oERnKwZops6HAOc+rBeVc="
+    },
+    "type": "primary"
+  },
+  "ERM - Enhanced Rocks and Mountains": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1.1",
+      "file_id": 668727,
+      "file_name": "ERM - Enhanced Rocks and Mountains-121336-1-1-1-1758636929.7z",
+      "mod_id": 121336,
+      "hash": "sha256-HDDdcK8IJXGwn1r+36APu/DRvnJYh0COOrtAFmbh2YQ="
+    },
+    "type": "primary"
+  }
+}

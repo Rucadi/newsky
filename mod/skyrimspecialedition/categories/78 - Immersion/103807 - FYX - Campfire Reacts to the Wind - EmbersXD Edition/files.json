@@ -1,0 +1,86 @@
+{
+  "FYX - CRTTW - 1 EmbersXD Flames": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0.3",
+      "file_id": 553634,
+      "file_name": "FYX - CRTTW - 1 EmbersXD Flames-103807-1-0-3-1729346581.7z",
+      "mod_id": 103807,
+      "hash": "sha256-b26NmGasO6Eve1sbhkB1eVFDThuZuIdBMuwL+EbicBE="
+    },
+    "type": "primary"
+  },
+  "FYX - CRTTW - 2 EmbersXD Flames Orange": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0.3",
+      "file_id": 553635,
+      "file_name": "FYX - CRTTW - 2 EmbersXD Flames Orange-103807-1-0-3-1729346614.7z",
+      "mod_id": 103807,
+      "hash": "sha256-2vWG7AGJAe10yo4uf0ligXi+c9W03M28Q5by3f1HMJ0="
+    },
+    "type": "primary"
+  },
+  "FYX - CRTTW - 3 EmbersXD Flames Yellow": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0.3",
+      "file_id": 553636,
+      "file_name": "FYX - CRTTW - 3 EmbersXD Flames Yellow-103807-1-0-3-1729346642.7z",
+      "mod_id": 103807,
+      "hash": "sha256-VoYi5gtEV/eKGR5eqbgXGDzbRuqI4o5ds2pMlm3AbqM="
+    },
+    "type": "primary"
+  },
+  "FYX - CRTTW - 4 Inferno Flames": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0.3",
+      "file_id": 553637,
+      "file_name": "FYX - CRTTW - 4 Inferno Flames-103807-1-0-3-1729346679.7z",
+      "mod_id": 103807,
+      "hash": "sha256-r/84GCttDhobYNNR8x5GtHV2KzPE56hEGBBn3l4lHxU="
+    },
+    "type": "primary"
+  },
+  "FYX - Giant NoCastShadows - 1 EmbersXD Flames": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0.3",
+      "file_id": 553638,
+      "file_name": "FYX - Giant NoCastShadows - 1 EmbersXD Flames-103807-1-0-3-1729346726.7z",
+      "mod_id": 103807,
+      "hash": "sha256-xJw/qzOOA5wpTvJI1reuYhJgUkK59YvXXEuhff8RvTA="
+    }
+  },
+  "FYX - Giant NoCastShadows - 2 EmbersXD Orange": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0.3",
+      "file_id": 553639,
+      "file_name": "FYX - Giant NoCastShadows - 2 EmbersXD Orange-103807-1-0-3-1729346754.7z",
+      "mod_id": 103807,
+      "hash": "sha256-Q6XYQUNE0zvGx0mDbdb78ZN/CMV9ODeJlQYZaSe/Kwg="
+    }
+  },
+  "FYX - Giant NoCastShadows - 3 EmbersXD Yellow": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0.3",
+      "file_id": 553640,
+      "file_name": "FYX - Giant NoCastShadows - 3 EmbersXD Yellow-103807-1-0-3-1729346784.7z",
+      "mod_id": 103807,
+      "hash": "sha256-c1bUgPeOg0hRaqYpdOWGXNHVcms6D0ExLykJLQA2OAI="
+    }
+  },
+  "FYX - Giant NoCastShadows - 4 INFERNO": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0.3",
+      "file_id": 553641,
+      "file_name": "FYX - Giant NoCastShadows - 4 INFERNO-103807-1-0-3-1729346824.7z",
+      "mod_id": 103807,
+      "hash": "sha256-qxGW6woZVRxuNuOB6jN22dhuDkYwVy6fBg8c/w8hlF8="
+    }
+  }
+}

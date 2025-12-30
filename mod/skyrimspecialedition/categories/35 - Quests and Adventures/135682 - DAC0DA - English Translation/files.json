@@ -1,0 +1,23 @@
+{
+  "DAC0DA - Achievement Injector Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0.0",
+      "file_id": 569497,
+      "file_name": "DAC0DA - Achievement Injector Patch-135682-1-0-0-1733484122.zip",
+      "mod_id": 135682,
+      "hash": "sha256-hHbqTF3N78kzHwXuichw9Ufze/3vMimqHsKdtDU6CGw="
+    }
+  },
+  "DAC0DA - English Translation SE": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0.5",
+      "file_id": 662885,
+      "file_name": "DAC0DA - English Translation SE-135682-1-0-5-1757168793.zip",
+      "mod_id": 135682,
+      "hash": "sha256-8ubwIKRf+vDBabDCrwqCKQCLjMEDdsmVN3BygUk0G3c="
+    },
+    "type": "primary"
+  }
+}

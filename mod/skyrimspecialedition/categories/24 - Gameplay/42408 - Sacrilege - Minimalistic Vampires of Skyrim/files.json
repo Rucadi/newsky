@@ -1,0 +1,33 @@
+{
+  "Sacrilege 2.1.0": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "2.1.0",
+      "file_id": 258370,
+      "file_name": "Sacrilege 2.1.0-42408-2-1-0-1642773358.zip",
+      "mod_id": 42408,
+      "hash": "sha256-6Tg9J7xKMUDxQEYMxzpyNs4RpNoDAqD8efkYi9DzarE="
+    },
+    "type": "primary"
+  },
+  "Sacrilege - Fishing Compatibility Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "2.1.0",
+      "file_id": 258376,
+      "file_name": "Sacrilege - Fishing Compatibility Patch-42408-2-1-0-1642774302.zip",
+      "mod_id": 42408,
+      "hash": "sha256-T8jnS/Bfre1JEjxN4ZgFEWXvaqrKCSvEHrOciiqpLEU="
+    }
+  },
+  "Sacrilege - Blood and Snow Compatibility Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "2.1.0",
+      "file_id": 551231,
+      "file_name": "Sacrilege - Blood and Snow Compatibility Patch-42408-2-1-0-1728693616.zip",
+      "mod_id": 42408,
+      "hash": "sha256-S1ctekjDCz8vDB/FFkjfLC3ETT0G0LKfFCwNI133/as="
+    }
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "Clockwork - No Lamp GlowFX": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 369984,
+      "file_name": "Clockwork - No Lamp GlowFX-87356-1-0-1679233302.zip",
+      "mod_id": 87356,
+      "hash": "sha256-FYvfHM0Q8dNHQI1vuOZYM//4gXkhZgUlGN1vM868c8w="
+    }
+  },
+  "Clockwork - Particle Lights for ENB Addon": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.2.2",
+      "file_id": 378128,
+      "file_name": "Clockwork - Particle Lights for ENB Addon-87356-1-2-2-1681462963.zip",
+      "mod_id": 87356,
+      "hash": "sha256-c0QdOYwcMBbetynLp4K9x1W8M9ZMVB0L0kz8u3slfy0="
+    },
+    "type": "primary"
+  }
+}

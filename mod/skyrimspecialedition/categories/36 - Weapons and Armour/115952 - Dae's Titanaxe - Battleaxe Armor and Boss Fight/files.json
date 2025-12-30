@@ -1,0 +1,23 @@
+{
+  "Dae's Titanaxe - Battleaxe Armor and Boss ESL": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1.1",
+      "file_id": 550523,
+      "file_name": "Dae's Titanaxe - Standalone Battleaxe and Boss ESL-115952-1-1-1-1728501094.zip",
+      "mod_id": 115952,
+      "hash": "sha256-BKM0/3FKefXZem21otATVZN77TEKGJ1k8F4WIqbUe9E="
+    },
+    "type": "primary"
+  },
+  "Dae's Titanaxe - Bodyslide files": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0.2",
+      "file_id": 550573,
+      "file_name": "Dae's Titanaxe - Bodyslide files-115952-1-0-2-1728512350.zip",
+      "mod_id": 115952,
+      "hash": "sha256-3SUYlgxz1sXZmhGlMDZWLDOanITskdNoQo71lZKESac="
+    }
+  }
+}

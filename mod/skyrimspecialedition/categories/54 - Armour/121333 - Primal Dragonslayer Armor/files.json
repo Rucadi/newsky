@@ -1,0 +1,53 @@
+{
+  "Primal Dragonslayer Armor 4k": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 509854,
+      "file_name": "Primal Dragonslayer Armor 4k-121333-1-0-1717922382.7z",
+      "mod_id": 121333,
+      "hash": "sha256-Yb4RYbQAaLi96PUWOdCdfWfBmrsE2gM6/IudzMCZ394="
+    }
+  },
+  "Primal Dragonslayer Armor 4k Complex Material": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 509855,
+      "file_name": "Primal Dragonslayer Armor 4k Complex Material-121333-1-0-1717922488.7z",
+      "mod_id": 121333,
+      "hash": "sha256-cNKRtMc9O4CsRmNDlNpAJPXJU+klUurzMKSiM2yNv0Q="
+    }
+  },
+  "Primal Dragonslayer Armor 8k": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 509856,
+      "file_name": "Primal Dragonslayer Armor 8k-121333-1-0-1717922573.7z",
+      "mod_id": 121333,
+      "hash": "sha256-OnzMjElNT9I/xJpZWIDkq+jRk1ZJwSpi1+ZqxubW2MA="
+    }
+  },
+  "Primal Dragonslayer Armor 8k Complex Material": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 509859,
+      "file_name": "Primal Dragonslayer Armor 8k Complex Material-121333-1-0-1717922681.7z",
+      "mod_id": 121333,
+      "hash": "sha256-bj5wH14K3DT3/CZPnG353TsZdy+U6uJb+hszsYd1evE="
+    }
+  },
+  "Primal Dragonslayer Armor": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1",
+      "file_id": 509889,
+      "file_name": "Primal Dragonslayer Armor-121333-1-1-1717930618.7z",
+      "mod_id": 121333,
+      "hash": "sha256-gBYfdhyeJ+DXilUi96f8qlEj6i3qEY5MBkcsr+NPjcM="
+    },
+    "type": "primary"
+  }
+}

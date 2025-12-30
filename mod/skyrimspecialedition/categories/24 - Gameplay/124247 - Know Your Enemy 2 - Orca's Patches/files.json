@@ -1,0 +1,24 @@
+{
+  "Know Your Enemy 2 - Kulharin's Patches": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.04",
+      "file_id": 551105,
+      "file_name": "Know Your Enemy 2 - Kulharin's Patches-124247-1-04-1728660995.7z",
+      "mod_id": 124247,
+      "hash": "sha256-KQjXCnnTl7PsJFsGautKUM8fu/tU1VAE45tebLHqaWE="
+    },
+    "type": "primary"
+  },
+  "Know Your Enemy 2 - Orca's Patches": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0.6",
+      "file_id": 622072,
+      "file_name": "Know Your Enemy 2 - Orca's Patches-124247-1-0-6-1745915173.7z",
+      "mod_id": 124247,
+      "hash": "sha256-mHk+re9hotWOe/2v6z3fcRsSWIs8dRYAQdyKdiyCRzw="
+    },
+    "type": "primary"
+  }
+}

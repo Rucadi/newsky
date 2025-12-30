@@ -1,0 +1,55 @@
+{
+  "XmeadSurvialPatch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.3.a",
+      "file_id": 442478,
+      "file_name": "XmeadSurvialPatch-103915-1-3-a-1699935133.rar",
+      "mod_id": 103915,
+      "hash": "sha256-WHWmA+0mwVBkUCM3RsjEiiFVqxcmer/2+3gdEbRO4Bg="
+    }
+  },
+  "AnimatedBottles": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.3.a",
+      "file_id": 442480,
+      "file_name": "AnimatedBottles-103915-1-3-a-1699935189.rar",
+      "mod_id": 103915,
+      "hash": "sha256-dpGUM2rn/PHlumRhk3k+sFTQKl+CZg11Hk4wVxusCkc="
+    }
+  },
+  "Xmead_2k": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.3.b",
+      "file_id": 442723,
+      "file_name": "Xmead_2k-103915-1-3-b-1700016411.rar",
+      "mod_id": 103915,
+      "hash": "sha256-Hy+sp6Ex32Dfy2s60nD5OzNhfTKIrARolv9auqovTQk="
+    },
+    "type": "primary"
+  },
+  "Xmead_1k": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.3.b",
+      "file_id": 442725,
+      "file_name": "Xmead_1k-103915-1-3-b-1700016542.rar",
+      "mod_id": 103915,
+      "hash": "sha256-xbrT6KMj17SJQQGUo/NuG0V1RFiKVWYXkjMYd6NxG9c="
+    },
+    "type": "primary"
+  },
+  "Xmead_Half": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.3.b",
+      "file_id": 442726,
+      "file_name": "Xmead_Half-103915-1-3-b-1700016613.rar",
+      "mod_id": 103915,
+      "hash": "sha256-E77HplzGTiVjI54VsTq6fjI4HaUL5aNobfWZVgQrnjo="
+    },
+    "type": "primary"
+  }
+}

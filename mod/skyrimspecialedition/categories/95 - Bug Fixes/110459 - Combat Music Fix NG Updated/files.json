@@ -1,0 +1,23 @@
+{
+    "Combat Music Fix NG - Only At Save Load": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "1.1.0",
+            "file_id": 499020,
+            "file_name": "Combat Music Fix NG - Only At Save Load-110459-1-1-0-1715152134.7z",
+            "mod_id": 110459,
+            "hash": "sha256-DmAxNsqeOfJavg/gHo8/Jk+hzj+yYgzlVBl1jkNarkY="
+        }
+    },
+    "Combat Music Fix NG": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "1.2.0",
+            "file_id": 635576,
+            "file_name": "Combat Music Fix NG-110459-1-2-0-1749299871.7z",
+            "mod_id": 110459,
+            "hash": "sha256-BziqmSK+LvFXKgt+vBmDBrg9U3xDVwVZU0sDHsRshFA="
+        },
+        "type": "primary"
+    }
+}

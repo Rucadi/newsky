@@ -1,0 +1,33 @@
+{
+  "JK's No Wonky Trees": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 588353,
+      "file_name": "JK's No Wonky Trees-140253-1-0-1738062223.zip",
+      "mod_id": 140253,
+      "hash": "sha256-neERGlXjFdV3EPDbQKUouYa6cDInqGJqCE8ZOqsTTkc="
+    },
+    "type": "primary"
+  },
+  "JK's Skyrim - No Wonky Trees - ESPFE": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 588478,
+      "file_name": "JK's Skyrim - No Wonky Trees - ESPFE-140253-1-0-1738093973.zip",
+      "mod_id": 140253,
+      "hash": "sha256-bd8gti/M3T1i/PIQcweJbJYSkZGEQaAxzTF8G3pavuM="
+    }
+  },
+  "JK's Whiterun Outskirts - No Wonky Trees - ESPFE": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 588480,
+      "file_name": "JK's Whiterun Outskirts - No Wonky Trees - ESPFE-140253-1-0-1738094017.zip",
+      "mod_id": 140253,
+      "hash": "sha256-hR/H0wyk8VechCthae7dx9oZ0y9/NKRJycrg3JUmGzs="
+    }
+  }
+}

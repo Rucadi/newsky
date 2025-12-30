@@ -1,0 +1,24 @@
+{
+  "NORDIC UI - Alternate loading screen and start menu": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 222300,
+      "file_name": "NORDIC UI - Alternate loading screen and start menu-54153-1-0-1629400032.rar",
+      "mod_id": 54153,
+      "hash": "sha256-XEvGVt2T4DpYJjR74Go0jsXCvk1TWZdoUXilUZnLExE="
+    },
+    "type": "primary"
+  },
+  "NORDIC UI - Alternate loading screen only": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 281461,
+      "file_name": "NORDIC UI - Alternate loading screen only-54153-1-0-1651655614.rar",
+      "mod_id": 54153,
+      "hash": "sha256-nfcLnsJRDHuummbNxcZLOhomZ+kpbvvVpcLnJ6oZM3o="
+    },
+    "type": "primary"
+  }
+}

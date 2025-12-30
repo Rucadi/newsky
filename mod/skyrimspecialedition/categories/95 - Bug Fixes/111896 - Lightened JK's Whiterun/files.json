@@ -1,0 +1,24 @@
+{
+  "Lightened JK's Whiterun - For JK's Whiterun ONLY": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.2",
+      "file_id": 518877,
+      "file_name": "Lightened JK's Whiterun - For JK's Whiterun ONLY-111896-1-2-1720418396.7z",
+      "mod_id": 111896,
+      "hash": "sha256-XtDlV4LftI4oxvODE89khAvg2LzrNPS8FpFC4KHHKK8="
+    },
+    "type": "primary"
+  },
+  "Lightened JK's Whiterun - For JK's Skyrim ONLY": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.2",
+      "file_id": 518878,
+      "file_name": "Lightened JK's Whiterun - For JK's Skyrim ONLY-111896-1-2-1720418430.zip",
+      "mod_id": 111896,
+      "hash": "sha256-SNLdKABT6zdII/7zSnU+dS0nOX2YFgKzkzyisJz4Lko="
+    },
+    "type": "primary"
+  }
+}

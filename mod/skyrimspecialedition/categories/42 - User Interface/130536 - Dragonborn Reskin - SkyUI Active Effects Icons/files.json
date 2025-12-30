@@ -1,0 +1,24 @@
+{
+  "Dragonborn Reskin - SkyUI Active Effects (Default)": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 551093,
+      "file_name": "Dragonborn Reskin - SkyUI Active Effects (Default)-130536-1-0-1728657108.zip",
+      "mod_id": 130536,
+      "hash": "sha256-Fksy/OEGp5fhF8EM6iWsz1uwBk8JincRlSMutaQ0VXY="
+    },
+    "type": "primary"
+  },
+  "Dragonborn Reskin - SkyUI Active Effects (White)": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 551103,
+      "file_name": "Dragonborn Reskin - SkyUI Active Effects (White)-130536-1-0-1728659626.zip",
+      "mod_id": 130536,
+      "hash": "sha256-qxbW9YQwqR7cBwuRKoc3mwugQFJ4kZVJ1J2MgITffeQ="
+    },
+    "type": "primary"
+  }
+}

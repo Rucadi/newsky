@@ -1,0 +1,33 @@
+{
+  "Orcish Armors and Weapons Retexture SE": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "2.0.1",
+      "file_id": 545703,
+      "file_name": "Orcish Armors and Weapons Retexture SE-84607-2-0-1-1727196980.7z",
+      "mod_id": 84607,
+      "hash": "sha256-JPpKMqWwAiBkFx3d4zc1obuikDh8Y3V7/VSETCb4hZ4="
+    },
+    "type": "primary"
+  },
+  "Orcish Armors and Weapons Retexture SE - Half Res": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "2.0.1",
+      "file_id": 545704,
+      "file_name": "Orcish Armors and Weapons Retexture SE - Half Res-84607-2-0-1-1727197065.7z",
+      "mod_id": 84607,
+      "hash": "sha256-hQMY7+TNEGMPY5rVExGewO8IVJN29Y+v7bKcsduG2wQ="
+    }
+  },
+  "Orcish Armors and Weapons Retexture SE - Low Res": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "2.0.1",
+      "file_id": 545705,
+      "file_name": "Orcish Armors and Weapons Retexture SE - Low Res-84607-2-0-1-1727197104.7z",
+      "mod_id": 84607,
+      "hash": "sha256-JxXynWqT7IHo9eiGRYPasEqbwFNKEPyl9eVrZL6z9pg="
+    }
+  }
+}

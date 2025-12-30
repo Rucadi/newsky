@@ -1,0 +1,24 @@
+{
+  "FYX - 3D Whiterun Guard Towers": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0.2",
+      "file_id": 544551,
+      "file_name": "FYX - 3D Whiterun Guard Towers-68572-1-0-2-1726927631.7z",
+      "mod_id": 68572,
+      "hash": "sha256-Janl0U0MQnsSL0XA3EML9coyiO10xSBWbKUexgTv5R0="
+    },
+    "type": "primary"
+  },
+  "FYX - 3D Whiterun Guard Towers - Parallax": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0.2",
+      "file_id": 544552,
+      "file_name": "FYX - 3D Whiterun Guard Towers - Parallax-68572-1-0-2-1726927648.7z",
+      "mod_id": 68572,
+      "hash": "sha256-Gd5kjc/tqpLPdYAdjsBCOc0CMYHO4TrdlOanc+eDw2g="
+    },
+    "type": "primary"
+  }
+}

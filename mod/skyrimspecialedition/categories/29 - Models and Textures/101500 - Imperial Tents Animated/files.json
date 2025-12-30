@@ -1,0 +1,23 @@
+{
+    "Imperial Tents - Animated": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "1.0",
+            "file_id": 429629,
+            "file_name": "Imperial Tents - Animated-101500-1-0-1695914881.7z",
+            "mod_id": 101500,
+            "hash": "sha256-NWQytM3f1IyhUVoSFPJwKtlNZIuic6oBP+SQPH87or4="
+        },
+        "type": "primary"
+    },
+    "Small Tent -No Collision": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "1.0",
+            "file_id": 431088,
+            "file_name": "Small Tent -No Collision-101500-1-0-1696412254.7z",
+            "mod_id": 101500,
+            "hash": "sha256-uTG/SLKJnZIzlGXnElp1c0fZFfxev0mhVAnMWb2Eq4w="
+        }
+    }
+}

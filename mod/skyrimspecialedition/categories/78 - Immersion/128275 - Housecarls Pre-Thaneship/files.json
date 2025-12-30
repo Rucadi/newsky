@@ -1,0 +1,33 @@
+{
+  "HPT - Proper Thane for Winterhold": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "2.0",
+      "file_id": 539822,
+      "file_name": "HPT - Proper Thane for Winterhold-128275-2-0-1725746094.7z",
+      "mod_id": 128275,
+      "hash": "sha256-B2T6CIRXYT/Bh4Kr3v7vebLHb+ts9CwkIuBE3oDbWBc="
+    }
+  },
+  "HPT - Simple Winterhold Housecarl": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "2.0",
+      "file_id": 539824,
+      "file_name": "HPT - Simple Winterhold Housecarl-128275-2-0-1725746139.7z",
+      "mod_id": 128275,
+      "hash": "sha256-jtWj0T5NhY7ZszSiRckdwJ+H6S2POEFUxjacEB9zjcY="
+    }
+  },
+  "Housecarls Pre-Thaneship": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "2.2",
+      "file_id": 642390,
+      "file_name": "Housecarls Pre-Thaneship-128275-2-2-1751123649.7z",
+      "mod_id": 128275,
+      "hash": "sha256-hNC3CEd+n6QGN1cUBlaZzDarB+nHvvOOtE9Y6SyBMWI="
+    },
+    "type": "primary"
+  }
+}

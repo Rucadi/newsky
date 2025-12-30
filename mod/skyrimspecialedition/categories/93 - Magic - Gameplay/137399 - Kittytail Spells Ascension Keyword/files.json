@@ -1,0 +1,23 @@
+{
+  "Kittytail Spells Ascension Keyword": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 576425,
+      "file_name": "Kittytail Spells Ascension Keyword-137399-1-0-1735275830.zip",
+      "mod_id": 137399,
+      "hash": "sha256-Mi6V3Gyl8Vq/emnDgrlZAy/g+dlLsAJ1pcWQmA3OhyE="
+    },
+    "type": "primary"
+  },
+  "Kittytail Spells Ascension Keyword - Holy Templer": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 576744,
+      "file_name": "Kittytail Spells Ascension Keyword - Holy Templer-137399-1-0-1735350875.zip",
+      "mod_id": 137399,
+      "hash": "sha256-hOiypLuyDbmB55rhhvfmHx43lgRv0yWL+GE2MTSE418="
+    }
+  }
+}

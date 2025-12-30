@@ -1,0 +1,33 @@
+{
+  "Ultra Weapons Unique SPID": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "2.6.5",
+      "file_id": 544184,
+      "file_name": "Ultra Weapons Unique SPID-110234-2-6-5-1726842142.zip",
+      "mod_id": 110234,
+      "hash": "sha256-YbcE4xl4ZqGrGXxY/jY9qwZ5lppsUUi+rrKSQUY/IZM="
+    }
+  },
+  "Ultra Weapons": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "3.0.0",
+      "file_id": 660958,
+      "file_name": "Ultra Weapons-110234-3-0-0-1756617844.zip",
+      "mod_id": 110234,
+      "hash": "sha256-lk6GoJUCcND8XIBYq2ohNMHaSsAJAhTX7GCnpSxdFdg="
+    },
+    "type": "primary"
+  },
+  "Ultra Weapons KOR": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "3.0.0",
+      "file_id": 660959,
+      "file_name": "Ultra Weapons KOR-110234-3-0-0-1756617876.zip",
+      "mod_id": 110234,
+      "hash": "sha256-fEeP/ssEgDCJH63yzdn8yNEuMZZqXkiQuVqzflO72xM="
+    }
+  }
+}

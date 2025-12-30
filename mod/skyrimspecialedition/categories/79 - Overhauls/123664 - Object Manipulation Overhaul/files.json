@@ -1,0 +1,24 @@
+{
+  "Object Manipulation Overhaul - Gamepad Config": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1",
+      "file_id": 521070,
+      "file_name": "Object Manipulation Overhaul - Gamepad Config-123664-1-1-1720959566.7z",
+      "mod_id": 123664,
+      "hash": "sha256-afFszuOJWiXIBMN6g6VyZWkRpIRWQ5qUW1QkZxW8vrE="
+    },
+    "type": "primary"
+  },
+  "Object Manipulation Overhaul": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.2.2",
+      "file_id": 522164,
+      "file_name": "Object Manipulation Overhaul-123664-1-2-2-1721227507.7z",
+      "mod_id": 123664,
+      "hash": "sha256-WLunjMHpoXmbJTGkZD+fbAIyy+DITRmOmPbPQWySZz4="
+    },
+    "type": "primary"
+  }
+}

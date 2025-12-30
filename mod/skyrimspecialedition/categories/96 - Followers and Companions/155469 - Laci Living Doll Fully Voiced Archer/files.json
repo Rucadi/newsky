@@ -1,0 +1,54 @@
+{
+    "Laci Follower FOMOD ESL": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "1.0",
+            "file_id": 649999,
+            "file_name": "Laci Follower FOMOD-155469-1-0-1753430266.7z",
+            "mod_id": 155469,
+            "hash": "sha256-ZP64H3iWVW6kUWkNS13Oz8jxFsjCXNfdi0AhQK4Gz5g="
+        },
+        "type": "primary"
+    },
+    "Laci Bodyslide 3BA": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "1.0",
+            "file_id": 650626,
+            "file_name": "Laci Bodyslide 3BA-155469-1-0-1753631585.zip",
+            "mod_id": 155469,
+            "hash": "sha256-W02ZrRPNutuQNxTZDsXJsZiVvCPBRsESPIl7qeoPFa8="
+        }
+    },
+    "Laci Follower for Immersive Adult": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "1.0",
+            "file_id": 666691,
+            "file_name": "Laci Follower for Immersive Adult-155469-1-0-1758118964.7z",
+            "mod_id": 155469,
+            "hash": "sha256-251u+7S8FO8WwW1XqTJkTIKYLKRM427EmMrWuv7nP7E="
+        }
+    },
+    "Immersive Adult Moorside Inn Spawn Change": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "1.0",
+            "file_id": 675000,
+            "file_name": "Immersive Adult Moorside Inn Spawn Change-155469-1-0-1760246989.7z",
+            "mod_id": 155469,
+            "hash": "sha256-CLxpz5M/B3+/LBR0q3NbgO1WRHofZtLt5M4J8giCZwc="
+        }
+    },
+    "Laci Living Doll ESL": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "1.151",
+            "file_id": 690833,
+            "file_name": "Laci Living Doll ESL-155469-1-151-1764011992.zip",
+            "mod_id": 155469,
+            "hash": "sha256-Vn0jR/PC+2k0HHf/E5iDfuNvwEnALYPh6rucElW2G/U="
+        },
+        "type": "primary"
+    }
+}

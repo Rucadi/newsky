@@ -1,0 +1,55 @@
+{
+  "Solitude Docks Improvement-Main Version": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 208929,
+      "file_name": "Solitude Docks Improvement-Main-51148-1-0-1623602144.rar",
+      "mod_id": 51148,
+      "hash": "sha256-DdqtdVv0CTMkAl1iIZPdmoOYm4OtFTcFoDy6DEbcYJw="
+    },
+    "type": "primary"
+  },
+  "Solitude Docks Improvement-Compatible Version": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 208930,
+      "file_name": "Solitude Docks Improvement-Compatible version-51148-1-0-1623602247.rar",
+      "mod_id": 51148,
+      "hash": "sha256-Db+wtbDmCmLEgVrgMjfTUMYHW5pwZ7uQ7SyOxRsGWOw="
+    },
+    "type": "primary"
+  },
+  "Solitude Docks Improvement-Save the Icerunner compatible": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 220012,
+      "file_name": "Solitude Docks Improvement-Save the Icerunner compatible-51148-1-0-1628533238.rar",
+      "mod_id": 51148,
+      "hash": "sha256-Ynb7bpFcOlLBAUCbzn6FMsqySlrnVjjKEqow73ySsp0="
+    }
+  },
+  "Solitude Docks Improvement - 3DNPCs Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0a",
+      "file_id": 466730,
+      "file_name": "Solitude Docks Improvement - 3DNPCs Patch-51148-1-0a-1706791221.rar",
+      "mod_id": 51148,
+      "hash": "sha256-JZhuIuiaAbQv161GlpbhZHelZj31ESoq65a+CDvMc3c="
+    }
+  },
+  "Solitude Docks Improvement-Very Compatible Version": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0b",
+      "file_id": 481887,
+      "file_name": "Solitude Docks Improvement-Very Compatible Version-51148-1-0b-1710778370.rar",
+      "mod_id": 51148,
+      "hash": "sha256-Ugb5zcloHlxq8O+UaqWU451Bde6aRAWOcR1hqSqWWQI="
+    },
+    "type": "primary"
+  }
+}

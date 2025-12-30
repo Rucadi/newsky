@@ -1,0 +1,24 @@
+{
+  "Requiem - Fixed Dragon Levels": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.00",
+      "file_id": 334281,
+      "file_name": "Requiem - Fixed Dragon Levels-79360-1-00-1669322829.rar",
+      "mod_id": 79360,
+      "hash": "sha256-2v2cUosbikuSvMdhFU0zi4y0Mqz3BlfLqDQTH5cB5X0="
+    },
+    "type": "primary"
+  },
+  "Requiem - Fixed Dragon Levels (Deadly Dragons)": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.00",
+      "file_id": 334282,
+      "file_name": "Requiem - Fixed Dragon Levels (Deadly Dragons)-79360-1-00-1669322869.rar",
+      "mod_id": 79360,
+      "hash": "sha256-77EbjMhqBBwc5AOHusleY9BR6mOMcvFalM+adagkoRg="
+    },
+    "type": "primary"
+  }
+}

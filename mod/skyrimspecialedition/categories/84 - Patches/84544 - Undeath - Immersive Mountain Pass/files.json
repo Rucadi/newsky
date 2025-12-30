@@ -1,0 +1,24 @@
+{
+  "Classical Lichdom - Immersive Mountain Pass": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.00",
+      "file_id": 357818,
+      "file_name": "Classical Lichdom - Immersive Mountain Pass-84544-1-00-1675888698.rar",
+      "mod_id": 84544,
+      "hash": "sha256-GkYSw9BoQIlX3kJgpoJFugiZE1shJPfR4TOnJa80CMk="
+    },
+    "type": "primary"
+  },
+  "Undeath - Immersive Mountain Pass": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.00.1",
+      "file_id": 358161,
+      "file_name": "Undeath - Immersive Mountain Pass-84544-1-00-1-1675978340.rar",
+      "mod_id": 84544,
+      "hash": "sha256-K/Wuc83WEnPTKIbtu3fmhSoknd+/fxFEu4t4DVcceSI="
+    },
+    "type": "primary"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "Wanted Maniac": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0.0",
+      "file_id": 469918,
+      "file_name": "Wanted Maniac-111375-1-0-0-1707680331.zip",
+      "mod_id": 111375,
+      "hash": "sha256-Gu0KWec1tnlZiz8G2Zxi/1VivGLzip/9zoFDWQH3/mM="
+    }
+  },
+  "Diverse Missives Boards - Tweaked BOS INI": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "2.0.1",
+      "file_id": 664884,
+      "file_name": "Diverse Missives Boards - Tweaked BOS INI-111375-2-0-1-1757644523.zip",
+      "mod_id": 111375,
+      "hash": "sha256-wxHPiK1ZAwSw2qc98KNOeNyZ1oOhVdc9cluTq0hs6lE="
+    }
+  },
+  "Missives - Unique Missive Boards": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "2.0.2",
+      "file_id": 684238,
+      "file_name": "Missives - Unique Missive Boards-111375-2-0-2-1762389563.zip",
+      "mod_id": 111375,
+      "hash": "sha256-s1ac5LdccSmunyjJq1HTQ1z6P0e/XuE44DoyU+8oc3o="
+    },
+    "type": "primary"
+  }
+}

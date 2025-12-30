@@ -1,0 +1,23 @@
+{
+  "CoMAP - Marker Dev Kit": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "4.0.0",
+      "file_id": 239583,
+      "file_name": "CoMAP - Marker Dev Kit-56123-3-0-0-1636269620.7z",
+      "mod_id": 56123,
+      "hash": "sha256-q2b8vC6Wsk/6NtV3Goz9hVMFI0152hHEY5QN0/bFsKA="
+    }
+  },
+  "CoMAP": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "4.3.0",
+      "file_id": 637224,
+      "file_name": "CoMAP-56123-4-3-0-1749770992.zip",
+      "mod_id": 56123,
+      "hash": "sha256-v1EG9ATtmayT2RJjQ/kNCXfIoDDIE412kWEQwog9I0Q="
+    },
+    "type": "primary"
+  }
+}

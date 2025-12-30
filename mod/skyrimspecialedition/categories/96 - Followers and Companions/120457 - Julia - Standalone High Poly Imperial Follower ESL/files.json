@@ -1,0 +1,45 @@
+{
+  "Julia - Bodyslide Files": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0.0",
+      "file_id": 505982,
+      "file_name": "Julia - Bodyslide Files-120457-1-0-0-1716914891.zip",
+      "mod_id": 120457,
+      "hash": "sha256-xc6kmAztbeLWRkH2kbF8hWcuGlzh0wzABuhgUFFXkMU="
+    }
+  },
+  "Julia - Standalone High Poly Imperial Follower 4K": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0.1",
+      "file_id": 506705,
+      "file_name": "Julia - Standalone High Poly Imperial Follower 4K-120457-1-0-1-1717104805.zip",
+      "mod_id": 120457,
+      "hash": "sha256-9Gz6QzBQHXz1ltSlFwQ4t7gVxjLqnUQVfbvhbJZZoIE="
+    },
+    "type": "primary"
+  },
+  "Julia - Standalone High Poly Imperial Follower 2K": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0.1",
+      "file_id": 506707,
+      "file_name": "Julia - Standalone High Poly Imperial Follower 2K-120457-1-0-1-1717105008.zip",
+      "mod_id": 120457,
+      "hash": "sha256-KDl6m+3IUWRqR/Oje6UciJJGy2tmav8e4Dg3gosihU8="
+    },
+    "type": "primary"
+  },
+  "Julia - Standalone High Poly Imperial Follower 1K": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0.1",
+      "file_id": 506708,
+      "file_name": "Julia - Standalone High Poly Imperial Follower 1K-120457-1-0-1-1717105135.zip",
+      "mod_id": 120457,
+      "hash": "sha256-PDIyXKZq2x2SNfYz0sUEOEDfiM7/CF1Q+YluJaPa/3I="
+    },
+    "type": "primary"
+  }
+}

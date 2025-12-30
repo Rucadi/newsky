@@ -1,0 +1,24 @@
+{
+  "Snazzy Quill of Gemination - Dark Version": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "2.1",
+      "file_id": 153792,
+      "file_name": "Snazzy Quill of Gemination - Dark Version-4412-2-1-1596570321.7z",
+      "mod_id": 4412,
+      "hash": "sha256-s/wCEHStwvKktrgIPB+w/BouVA7WR0Wq17kS3L2tlP0="
+    },
+    "type": "primary"
+  },
+  "Snazzy Quill of Gemination - Light Version": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "2.1",
+      "file_id": 153793,
+      "file_name": "Snazzy Quill of Gemination - Light Version-4412-2-1-1596570352.7z",
+      "mod_id": 4412,
+      "hash": "sha256-9DlVPEfx+uZcEG0VhuyCjAhnDsGm6VKtNu3pKYRiTIw="
+    },
+    "type": "primary"
+  }
+}

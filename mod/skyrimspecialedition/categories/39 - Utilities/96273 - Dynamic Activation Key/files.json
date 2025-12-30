@@ -1,0 +1,33 @@
+{
+  "DAK - Controller Pre-Config Hotkey": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 409232,
+      "file_name": "DAK - Controller Pre-Config Hotkey-96273-1-0-1689972892.rar",
+      "mod_id": 96273,
+      "hash": "sha256-AVCtVCfdNCjdL0bqTQCMy21Ezr20CkVm9LcrjxcI/S4="
+    }
+  },
+  "Dynamic Activation Key": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.02",
+      "file_id": 421305,
+      "file_name": "Dynamic Activation Key-96273-1-02-1693177288.zip",
+      "mod_id": 96273,
+      "hash": "sha256-KK1xftiNwMXKO5wB3PeEmnRwPlCKVWCyE0NJZgaYIpE="
+    },
+    "type": "primary"
+  },
+  "Dynamic Activation Key - DLL NG Edition": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.12",
+      "file_id": 511276,
+      "file_name": "Dynamic Activation Key - DLL NG Edition-96273-1-12-1718310069.zip",
+      "mod_id": 96273,
+      "hash": "sha256-7YLROANwbZjDa3AVSmcmAUDgxsPjbxi+gwBrAeBFWiE="
+    }
+  }
+}

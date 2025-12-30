@@ -1,0 +1,34 @@
+{
+    "Aspen Logs Pruned SE V1_1": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "1.1",
+            "file_id": 351923,
+            "file_name": "Aspen Logs Pruned SE V1_1-76518-1-1-1674378464.rar",
+            "mod_id": 76518,
+            "hash": "sha256-IqoRMQ30fy18+cBxLJw6UsKGcq0HL/QUx3fbbbOwrcc="
+        }
+    },
+    "Vanilla Forest Logs Pruned SE V1_4": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "1.4",
+            "file_id": 378426,
+            "file_name": "Vanilla Forest Logs Pruned SE V1_4-76518-1-4-1681556140.rar",
+            "mod_id": 76518,
+            "hash": "sha256-ni2q62V11BnFI3Ict6uHCgz+nFfseeOOdUJazuw5DdY="
+        },
+        "type": "primary"
+    },
+    "Vanilla Forest Logs Pruned SE _ No Lichen _ V1_4": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "1.4",
+            "file_id": 378427,
+            "file_name": "Vanilla Forest Logs Pruned SE _ No Lichen _ V1_4-76518-1-4-1681556178.rar",
+            "mod_id": 76518,
+            "hash": "sha256-EzUJKSM5td93RG/d9KFs99htcFhd8D1ffApc+N5K7Ns="
+        },
+        "type": "primary"
+    }
+}

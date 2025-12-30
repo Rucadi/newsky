@@ -1,0 +1,33 @@
+{
+  "AncientBoneArmor_4k": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 501421,
+      "file_name": "AncientBoneArmor_4k-119440-1-0-1715794199.7z",
+      "mod_id": 119440,
+      "hash": "sha256-Sh2Wmv70r14jCLni8Z58EpYEwvP06wP1VIKh25Cywt4="
+    }
+  },
+  "AncientBoneArmor_8k": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 501422,
+      "file_name": "AncientBoneArmor_8k-119440-1-0-1715794252.7z",
+      "mod_id": 119440,
+      "hash": "sha256-xzBZBcrQEj1YC3Tpn8nBd5T5upTvln6lOTkj+En/O1g="
+    }
+  },
+  "AncientBoneArmor": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.4",
+      "file_id": 510355,
+      "file_name": "AncientBoneArmor-119440-1-4-1718051948.7z",
+      "mod_id": 119440,
+      "hash": "sha256-UWf8hmujQ84U0bke5UST1QMWHh9icrsZuqzbICkAp1A="
+    },
+    "type": "primary"
+  }
+}

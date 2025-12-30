@@ -1,0 +1,23 @@
+{
+  "Dawnbreaker Rework 1.11": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.11",
+      "file_id": 606360,
+      "file_name": "Dawnbreaker Rework 1.11-141470-1-11-1742137417.7z",
+      "mod_id": 141470,
+      "hash": "sha256-BltUWoA9HpX6NA1Y8fBG1fZJI9pO4jZVxhbAB9/GJRs="
+    },
+    "type": "primary"
+  },
+  "DawnbreakerRework 1.11 CHS": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.11",
+      "file_id": 606366,
+      "file_name": "DawnbreakerRework 1.11 CHS-141470-1-11-1742138341.zip",
+      "mod_id": 141470,
+      "hash": "sha256-2kn3FSKf8HAL527vJc4jEj911ykOgGkCg8lQrdbe9K4="
+    }
+  }
+}

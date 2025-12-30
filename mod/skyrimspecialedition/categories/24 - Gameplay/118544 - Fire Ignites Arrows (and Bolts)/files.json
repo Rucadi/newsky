@@ -1,0 +1,23 @@
+{
+  "Fire Ignites Arrows": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1.2",
+      "file_id": 532115,
+      "file_name": "Fire Ignites Arrows-118544-1-1-2-1723829743.rar",
+      "mod_id": 118544,
+      "hash": "sha256-Fffr4UFSSrZ3TsQw0QeaDki7ApR64eTJ6XOMWrzlxMw="
+    },
+    "type": "primary"
+  },
+  "Poper Mod-Added Torch Support Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1",
+      "file_id": 582493,
+      "file_name": "Poper Mod-Added Torch Support Patch-118544-1-1-1736679267.rar",
+      "mod_id": 118544,
+      "hash": "sha256-TtV6t/LH92XK8i+R4/GIRaOoEUYVaV1GSRGm1k/39MU="
+    }
+  }
+}

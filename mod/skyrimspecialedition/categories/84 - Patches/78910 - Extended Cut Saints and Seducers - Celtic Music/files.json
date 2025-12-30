@@ -1,0 +1,24 @@
+{
+  "Extended Cut Saints and Seducers - Celtic Music": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.00",
+      "file_id": 332403,
+      "file_name": "Extended Cut Saints and Seducers - Celtic Music-78910-1-00-1668634146.rar",
+      "mod_id": 78910,
+      "hash": "sha256-DrBUyBQJBW3I6k2HC6w6VKNAPxNkgLDc4ohyhNa6Gtc="
+    },
+    "type": "primary"
+  },
+  "Extended Cut Saints and Seducers - Celtic Music - Bruma": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.00",
+      "file_id": 332405,
+      "file_name": "Extended Cut Saints and Seducers - Celtic Music - Bruma-78910-1-00-1668634266.rar",
+      "mod_id": 78910,
+      "hash": "sha256-B2GU3vDxKdyL/aR5vvY6nUvxnaGbBFndUxJiXtisQJ8="
+    },
+    "type": "primary"
+  }
+}

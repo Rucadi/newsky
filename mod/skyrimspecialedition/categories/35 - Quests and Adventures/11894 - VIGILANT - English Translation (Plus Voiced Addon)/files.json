@@ -1,0 +1,33 @@
+{
+    "VIGILANT - English Translation SE (Voiced)": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "1.8.0",
+            "file_id": 657505,
+            "file_name": "VIGILANT - English Translation SE (Voiced)-11894-1-8-0-1755703950.zip",
+            "mod_id": 11894,
+            "hash": "sha256-qMz7TNY248Nqwg6gH9UnPqReraBUtjkAff3o52Ha6oE="
+        },
+        "type": "primary"
+    },
+    "VIGILANT - English Translation (Silent)": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "1.8.0",
+            "file_id": 657506,
+            "file_name": "VIGILANT - English Translation (Silent)-11894-1-8-0-1755704019.zip",
+            "mod_id": 11894,
+            "hash": "sha256-gjgPScSmIO8pmKz+MAZI/Mj43+JwLUGWYJQn0GLoXk8="
+        }
+    },
+    "VIGILANT Voiced - English Addon (Unsupported)": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "1.8.0",
+            "file_id": 657510,
+            "file_name": "VIGILANT Voiced - English Addon (Unsupported)-11894-1-8-0-1755704169.zip",
+            "mod_id": 11894,
+            "hash": "sha256-igOEGPKF62HSV2QoGwByo4AxsIICt36KNBDqVaPsksg="
+        }
+    }
+}

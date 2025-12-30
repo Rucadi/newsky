@@ -1,0 +1,23 @@
+{
+  "2K SKSE Edit": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 440221,
+      "file_name": "2K SKSE Edit-104117-1-0-1699213385.zip",
+      "mod_id": 104117,
+      "hash": "sha256-Ku2i0kUODpyAP/1wTUUk4cTkbe9855gForaSiAsO6FQ="
+    }
+  },
+  "Obi's Warpaints 2K Main": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1",
+      "file_id": 442678,
+      "file_name": "Obi's Warpaints 2K Main-104117-1-1-1700001120.zip",
+      "mod_id": 104117,
+      "hash": "sha256-Ifa4xI5XbXvaRjGw67/FGu/THnuF7o8JBX6cL9yMYFA="
+    },
+    "type": "primary"
+  }
+}

@@ -1,0 +1,155 @@
+{
+  "ABT": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 441287,
+      "file_name": "ABT Patch-104406-1-0-1699575163.7z",
+      "mod_id": 104406,
+      "hash": "sha256-v9slWyUcrn75nxN8w+NhpULO+x64kGXu+J5vvN81r1M="
+    },
+    "type": "primary"
+  },
+  "Ancient Nord Stalhrim": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 441288,
+      "file_name": "Ancient Nord Stalhrim-104406-1-0-1699575232.7z",
+      "mod_id": 104406,
+      "hash": "sha256-CcKCxI5HM0yHm+E1JWEkcbmAPycw3BC6u44Ki3Ucj3w="
+    },
+    "type": "primary"
+  },
+  "Artifacts of Skyrim I": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 441289,
+      "file_name": "Artifacts of Skyrim I-104406-1-0-1699575268.7z",
+      "mod_id": 104406,
+      "hash": "sha256-c8IOmuz5TOOCa8Un1UpUuaMlf8vygxxxfrKetSWC5Yc="
+    },
+    "type": "primary"
+  },
+  "Beast Skeletons": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 441290,
+      "file_name": "Beast Skeletons-104406-1-0-1699575298.7z",
+      "mod_id": 104406,
+      "hash": "sha256-W789NaZukG+InDWFsAW8UuPaGpOhYhfkQpgpxbb/BR8="
+    },
+    "type": "primary"
+  },
+  "Unique Item Tweaks": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 441292,
+      "file_name": "Unique Item Tweaks-104406-1-0-1699575375.7z",
+      "mod_id": 104406,
+      "hash": "sha256-1aXHKVV3ZE4UCpu0VC2+Ay8S6+vYCsdZmkxiNy+ul1o="
+    },
+    "type": "primary"
+  },
+  "Mihail's Gargoyles": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 441293,
+      "file_name": "Mihail's Gargoyles-104406-1-0-1699575394.7z",
+      "mod_id": 104406,
+      "hash": "sha256-o6d9TNvnk7L+T117pqnvKjvZp/4Ec95RLC9DUaP+KVE="
+    },
+    "type": "primary"
+  },
+  "Navigator": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 441294,
+      "file_name": "Navigator-104406-1-0-1699575419.7z",
+      "mod_id": 104406,
+      "hash": "sha256-PGaQZ1r8/XkaZeeH8lOaqfBLTkTryU7v7/ILsfCPjG0="
+    },
+    "type": "primary"
+  },
+  "Shadow of Meresis": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 441295,
+      "file_name": "Shadow of Meresis-104406-1-0-1699575442.7z",
+      "mod_id": 104406,
+      "hash": "sha256-v/3hoVYUf8loMPW5TzgW8LvPjE91Tz4sOoXfncQuIh4="
+    },
+    "type": "primary"
+  },
+  "Ryn's Mistwatch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 441296,
+      "file_name": "Ryn's Mistwatch-104406-1-0-1699575463.7z",
+      "mod_id": 104406,
+      "hash": "sha256-UH36gGZe9UEi/1uNqryz5RY8HD9hZvS8Y85wYf+MILs="
+    },
+    "type": "primary"
+  },
+  "Ustengrav Revisited": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 441297,
+      "file_name": "Ustengrav Revisited-104406-1-0-1699575483.7z",
+      "mod_id": 104406,
+      "hash": "sha256-3tC7ArtUmoG3J+rq+RLJMVBaNFLoUCL4TG0s4vzO14g="
+    },
+    "type": "primary"
+  },
+  "Dungeons Revisted": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 441500,
+      "file_name": "Dungeons Revisted-104406-1-0-1699647591.7z",
+      "mod_id": 104406,
+      "hash": "sha256-ytRSOa+A4/fdUiGx9vNlIIVMpLgQVUxGNV8KNJFtbRo="
+    },
+    "type": "primary"
+  },
+  "Heavy Armoury": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 526099,
+      "file_name": "Heavy Armoury-104406-1-0-1722220075.zip",
+      "mod_id": 104406,
+      "hash": "sha256-3gOy2zQAPz3sk3Qs0X0n6zqvoLmRUfzLePZbUbJ+ET8="
+    }
+  },
+  "Animated Armoury": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.01",
+      "file_id": 534531,
+      "file_name": "Animated Armoury-104406-1-01-1724429067.7z",
+      "mod_id": 104406,
+      "hash": "sha256-1DkF4JZ5GxxiWuFcZ1gzOJo7o581NPtv4/nfGmuNIuU="
+    },
+    "type": "primary"
+  },
+  "Bleak Falls Barrow Overhaul Version 2 Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 594825,
+      "file_name": "Bleak Falls Barrow Overhaul Version 2 Patch-104406-1-0-1739591622.7z",
+      "mod_id": 104406,
+      "hash": "sha256-+qqbSZKYHe6SlxgMuSu8T+lE4oEceFhRycF052fvf6w="
+    },
+    "type": "primary"
+  }
+}

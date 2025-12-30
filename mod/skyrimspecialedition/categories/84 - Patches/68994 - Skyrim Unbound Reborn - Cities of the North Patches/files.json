@@ -1,0 +1,53 @@
+{
+  "Skyrim Unbound Reborn - Cities of the North Combined Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0.0",
+      "file_id": 288270,
+      "file_name": "Skyrim Unbound Reborn - Cities of the North Combined Patch-68994-1-0-0-1654168012.7z",
+      "mod_id": 68994,
+      "hash": "sha256-NX3qK/FRPo/HI7zyRZh/h6X7h1vBlPYFNvoDm+yqajw="
+    },
+    "type": "primary"
+  },
+  "Skyrim Unbound Reborn - COTN Falkreath Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0.0",
+      "file_id": 288271,
+      "file_name": "Skyrim Unbound Reborn - COTN Falkreath Patch-68994-1-0-0-1654168072.7z",
+      "mod_id": 68994,
+      "hash": "sha256-faebthTGebqHVLBjCBbtTL8RcEGOZiA8aA1ItiOUNRw="
+    }
+  },
+  "Skyrim Unbound Reborn - COTN Morthal Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0.0",
+      "file_id": 288272,
+      "file_name": "Skyrim Unbound Reborn - COTN Morthal Patch-68994-1-0-0-1654168120.7z",
+      "mod_id": 68994,
+      "hash": "sha256-w45Tu1Z6R2OpsigCl5G5w1PtaQdWDiZSoajRZBIE5cM="
+    }
+  },
+  "Skyrim Unbound Reborn - COTN Dawnstar Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0.0",
+      "file_id": 288273,
+      "file_name": "Skyrim Unbound Reborn - COTN Dawnstar Patch-68994-1-0-0-1654168159.7z",
+      "mod_id": 68994,
+      "hash": "sha256-8HOASgMkrSibYi0Gb5S6ogeBFXFiap9A+4v20sCuW/0="
+    }
+  },
+  "Skyrim Unbound Reborn - COTN Winterhold Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0.0",
+      "file_id": 288274,
+      "file_name": "Skyrim Unbound Reborn - COTN Winterhold Patch-68994-1-0-0-1654168203.7z",
+      "mod_id": 68994,
+      "hash": "sha256-zefDl63qCWGmZ0e3UI4c0jo0r5+z06k4lFJIUitVy00="
+    }
+  }
+}

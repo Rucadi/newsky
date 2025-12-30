@@ -1,0 +1,35 @@
+{
+  "Stonefire Weaponry - My textures SE by Xtudo - 4K": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1",
+      "file_id": 433085,
+      "file_name": "Stonefire Weaponry - My textures SE by Xtudo - 4K-102308-1-1697029057.7z",
+      "mod_id": 102308,
+      "hash": "sha256-zo8l0/Kse32w1yGknd2+Jl3t6ww5zwvFbQ+zbx+Tncc="
+    },
+    "type": "primary"
+  },
+  "Stonefire Weaponry - My textures SE by Xtudo - 2K": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1",
+      "file_id": 433087,
+      "file_name": "Stonefire Weaponry - My textures SE by Xtudo - 2K-102308-1-1697029072.7z",
+      "mod_id": 102308,
+      "hash": "sha256-ZxJvfJ/hDTXoIFg4ePg78V1dBouSq1jIzoUzYQ4Q5Ic="
+    },
+    "type": "primary"
+  },
+  "Stonefire Weaponry - My textures SE by Xtudo - 1K": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1",
+      "file_id": 433088,
+      "file_name": "Stonefire Weaponry - My textures SE by Xtudo - 1K-102308-1-1697029085.7z",
+      "mod_id": 102308,
+      "hash": "sha256-mnLcE4+DXBaXp0g/hITuYn7iO2IeU+gfxnJgH0SdsP8="
+    },
+    "type": "primary"
+  }
+}

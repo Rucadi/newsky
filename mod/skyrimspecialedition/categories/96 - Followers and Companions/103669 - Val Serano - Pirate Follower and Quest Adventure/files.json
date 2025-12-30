@@ -1,0 +1,33 @@
+{
+  "Val Serano - High Res Textures 4K": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "2.5",
+      "file_id": 702769,
+      "file_name": "Val Serano - High Res Textures-103669-2-5-1766898426.7z",
+      "mod_id": 103669,
+      "hash": "sha256-1M+fXRSCCbcSLuTcQbn2wpjVqeyMcLSknwEdj7FN2Xw="
+    }
+  },
+  "Val Serano - HD Textures 2K": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "2.5",
+      "file_id": 702770,
+      "file_name": "Val Serano - HD Textures 2K-103669-2-5-1766898553.7z",
+      "mod_id": 103669,
+      "hash": "sha256-0VBZlDjeEcAc1lYeGdim0SC8vrrV56xU6jz10hAuuQY="
+    }
+  },
+  "Val Serano": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "2.5.1",
+      "file_id": 703474,
+      "file_name": "Val Serano-103669-2-5-1-1767071220.7z",
+      "mod_id": 103669,
+      "hash": "sha256-9fWeczJd/nv12TX4uaaasZ5ZufeyzCIW1lEyVMct3zw="
+    },
+    "type": "primary"
+  }
+}

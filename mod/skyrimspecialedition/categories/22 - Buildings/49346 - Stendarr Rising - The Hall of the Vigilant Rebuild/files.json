@@ -1,0 +1,23 @@
+{
+  "Stendarr Rising - LE Version - Unsupported": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0.0",
+      "file_id": 207076,
+      "file_name": "Stendarr Rising - LE Version - Unsupported-49346-1-0-0-1622716795.rar",
+      "mod_id": 49346,
+      "hash": "sha256-G3rtP6IN7OzCU5xDmH8b7NVG6+b33XtPeR5YJ7Lni4E="
+    }
+  },
+  "Stendarr Rising": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.6.0",
+      "file_id": 398208,
+      "file_name": "Stendarr Rising-49346-1-6-0-1686889033.7z",
+      "mod_id": 49346,
+      "hash": "sha256-mOAhGwPGUymkDPpq+eoxVIvbGhJ4CSFn5aExjPM6k1I="
+    },
+    "type": "primary"
+  }
+}

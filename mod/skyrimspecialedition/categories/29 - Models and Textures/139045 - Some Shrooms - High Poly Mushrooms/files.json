@@ -1,0 +1,44 @@
+{
+  "Some Shrooms": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0.3",
+      "file_id": 584856,
+      "file_name": "Some Shrooms-139045-1-0-3-1737229614.zip",
+      "mod_id": 139045,
+      "hash": "sha256-VAIEVJbHnXEfSThSjYSF2+9fb3Z8TtvJGCQ4esgjUmo="
+    },
+    "type": "primary"
+  },
+  "Some Half Size Shrooms": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0.3",
+      "file_id": 584859,
+      "file_name": "Some Half Size Shrooms-139045-1-0-3-1737229904.zip",
+      "mod_id": 139045,
+      "hash": "sha256-1fpUfQxWOv7fcjCvCS0Iwkcq8tfFC5r3FbT/hx+2HP0="
+    },
+    "type": "primary"
+  },
+  "2K Textures": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0.3",
+      "file_id": 584861,
+      "file_name": "2K Textures-139045-1-0-3-1737230039.zip",
+      "mod_id": 139045,
+      "hash": "sha256-YzZHOcbhB1FjEcEFC4Wr/uj0cWc4viIaI2YSulKa2OQ="
+    }
+  },
+  "4K Textures": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0.3",
+      "file_id": 584862,
+      "file_name": "4K Textures-139045-1-0-3-1737230138.zip",
+      "mod_id": 139045,
+      "hash": "sha256-LoMeYPhXX8UEVCGp3x0JoIkKXYVBALohdsKkhXfpDFE="
+    }
+  }
+}

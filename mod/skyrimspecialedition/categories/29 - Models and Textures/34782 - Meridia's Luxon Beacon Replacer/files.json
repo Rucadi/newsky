@@ -1,0 +1,64 @@
+{
+  "Turquoise Beacon": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 134484,
+      "file_name": "Meridia's Luxon Beacon-34782-1-0-1586972035.7z",
+      "mod_id": 34782,
+      "hash": "sha256-9AOGc2kY81oCBr8CV8iG9k72iMgX9qIeHIgXjud5Hnw="
+    },
+    "type": "primary"
+  },
+  "No Frame Option": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 134752,
+      "file_name": "No Frame Option-34782-1-0-1587125883.7z",
+      "mod_id": 34782,
+      "hash": "sha256-S/lVaIFS7Eo5TJAa23yaSLgx9VVq4mzVO5Q23WyPe8o="
+    }
+  },
+  "No Handles Option": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 134753,
+      "file_name": "No Handles Option-34782-1-0-1587126120.7z",
+      "mod_id": 34782,
+      "hash": "sha256-FrWj+xv+1kV6x0lzu7XsiIlFfHh3pY1/ElcUST3Q1pg="
+    }
+  },
+  "Alternative Hands Pose - Turquoise": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 134754,
+      "file_name": "Alternative Hands Pose-34782-1-0-1587126275.7z",
+      "mod_id": 34782,
+      "hash": "sha256-jDkChYc23Pddg3XfOzHydjLK2nH7Q042DEEtgx5ewJg="
+    }
+  },
+  "Grey Beacon": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 186941,
+      "file_name": "Grey Beacon-34782-1-0-1613806080.7z",
+      "mod_id": 34782,
+      "hash": "sha256-Uj49SHlCxt1mo4RHCD8yNJHDnF02+RaqUVlbZmDVHqk="
+    },
+    "type": "primary"
+  },
+  "Alternative Hands Pose - Grey": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 186942,
+      "file_name": "Alternative Hands Pose - Grey-34782-1-0-1613806569.7z",
+      "mod_id": 34782,
+      "hash": "sha256-tZs26Gnl9ygr5oYGr6CX2L7V1G0wavI7BSUSWl8DbzY="
+    }
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "GG's Thieves Guild Headquarters": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.3",
+      "file_id": 304484,
+      "file_name": "GG's Thieves Guild Headquarters-64018-1-3-1659601519.rar",
+      "mod_id": 64018,
+      "hash": "sha256-XF9de4UPcqfBS6cDO+eX0X6GnBc0N90u+bmkJZtMrx8="
+    },
+    "type": "primary"
+  },
+  "GG's Thieves Guild Headquarters Brighter lights": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.3",
+      "file_id": 304486,
+      "file_name": "GG's Thieves Guild Headquarters Brighter lights-64018-1-3-1659601601.rar",
+      "mod_id": 64018,
+      "hash": "sha256-dssDGjzhYQPH2mXhRWM534uaOi/d8lO70NayNnMZXok="
+    }
+  },
+  "GG's Thieves Guild Headquarters vanilla lighting template": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.3",
+      "file_id": 304488,
+      "file_name": "GG's Thieves Guild Headquarters vanilla lighting template-64018-1-3-1659601726.rar",
+      "mod_id": 64018,
+      "hash": "sha256-bpOeVU1t2cZyQSmBfQfTwjtwaCij4Wy2U5aEDAhs9lU="
+    }
+  },
+  "GG's Thieves Guild Headquarters Brighter lighting template": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.3",
+      "file_id": 304489,
+      "file_name": "GG's Thieves Guild Headquarters Brighter lighting template-64018-1-3-1659601790.rar",
+      "mod_id": 64018,
+      "hash": "sha256-3wDvU5oRj0Q1EigGHeTLeetrK2N43ys+5GcWzP+C/Pc="
+    }
+  }
+}

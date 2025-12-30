@@ -1,0 +1,57 @@
+{
+  "Skyshards ESL - Ryn's Karthspire Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 487523,
+      "file_name": "Skyshards ESL - Ryn's Karthspire Patch-115880-1-0-1712258849.zip",
+      "mod_id": 115880,
+      "hash": "sha256-mbWNMwDIFWB2H0KYj4jc0yHPceOTh/klKc2pWAwnTFQ="
+    },
+    "type": "primary"
+  },
+  "Skyshards ESL - Ryn's Bleakwind Basin Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 487524,
+      "file_name": "Skyshards ESL - Ryn's Bleakwind Basin Patch-115880-1-0-1712258873.zip",
+      "mod_id": 115880,
+      "hash": "sha256-Ljdlrs0ByH9dKE74QIPILRpoAYlk5eu28SqaoBaPBGg="
+    },
+    "type": "primary"
+  },
+  "Skyshards ESL - RedBag's Rorikstead Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 487525,
+      "file_name": "Skyshards ESL - RedBag's Rorikstead Patch-115880-1-0-1712258904.zip",
+      "mod_id": 115880,
+      "hash": "sha256-qlgO28MgPTY/T7bvhRYyzFtAacb+M6n+bPVeLzLzKGQ="
+    },
+    "type": "primary"
+  },
+  "Skyshards ESL - TGC Winterhold Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 487546,
+      "file_name": "Skyshards ESL - TGC Winterhold Patch-115880-1-0-1712262871.zip",
+      "mod_id": 115880,
+      "hash": "sha256-dOUnSrjYquQ/zY/Y+MDgwLccb17WNYNAJgqyM60MUe4="
+    },
+    "type": "primary"
+  },
+  "Skyshards ESL - Skyshards Full LOD": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 487618,
+      "file_name": "Skyshards ESL - Skyshards Full LOD-115880-1-0-1712293208.zip",
+      "mod_id": 115880,
+      "hash": "sha256-CMcn59JrTZzUPjKH6bXBtXs9EVpZp0A7IXdbr27x5Lo="
+    },
+    "type": "primary"
+  }
+}

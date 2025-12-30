@@ -1,0 +1,23 @@
+{
+  "Vanargand Animations - Sneak Crossbows": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0b",
+      "file_id": 293842,
+      "file_name": "Vanargand Animations - Sneak Crossbows-67282-1-0b-1656114642.7z",
+      "mod_id": 67282,
+      "hash": "sha256-JnLWc/noSbZIJdp5Zwy/9/qVv3ufbRxXhSDBbbpSR7o="
+    },
+    "type": "primary"
+  },
+  "Vanargand Animations - Sneak Crossbows B": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0b",
+      "file_id": 293844,
+      "file_name": "Vanargand Animations - Sneak Crossbows B-67282-1-0b-1656114908.7z",
+      "mod_id": 67282,
+      "hash": "sha256-1bBkUtzR2rx9hC2PxT9zaSjrAvkin5gj0vwbMyDJ3Po="
+    }
+  }
+}

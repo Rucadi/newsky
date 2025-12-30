@@ -1,0 +1,35 @@
+{
+  "Magicka Flow 75 Regen Penalty per Spell": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0.0",
+      "file_id": 490393,
+      "file_name": "Magicka Flow 75 Regen Penalty per Spell-116611-1-0-0-1713040322.zip",
+      "mod_id": 116611,
+      "hash": "sha256-7kDkCtf2gOwSAHwgHOhI3iXLREculUE05RT7LHdTsXI="
+    },
+    "type": "primary"
+  },
+  "Magicka Flow 100 Regen Penalty per Spell": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0.0",
+      "file_id": 490395,
+      "file_name": "Magicka Flow 100 Regen Penalty per Spell-116611-1-0-0-1713040361.zip",
+      "mod_id": 116611,
+      "hash": "sha256-FmJy2Os2/IW9V6AIBGi3ndXuDfF9q35aNjZMFNUsidw="
+    },
+    "type": "primary"
+  },
+  "Magicka Flow": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1.0",
+      "file_id": 559198,
+      "file_name": "Magicka Flow-116611-1-1-0-1730820730.zip",
+      "mod_id": 116611,
+      "hash": "sha256-pr1zj9RZSES7RGWG9CwIt5yp8Z1GfSxJZ+lRGTj5B24="
+    },
+    "type": "primary"
+  }
+}

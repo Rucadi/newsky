@@ -1,0 +1,23 @@
+{
+  "Better Reach Trees - FOMOD": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.02",
+      "file_id": 415102,
+      "file_name": "Better Reach Trees - FOMOD-85891-1-02-1691451935.7z",
+      "mod_id": 85891,
+      "hash": "sha256-16JiEI5+4wWcxhQJiO3/A2vkwPKf5mdGWmNC1KLFZ0M="
+    },
+    "type": "primary"
+  },
+  "Majestic Mountains Complex Material Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.03",
+      "file_id": 415635,
+      "file_name": "Majestic Mountains Complex Material Patch-85891-1-03-1691632372.7z",
+      "mod_id": 85891,
+      "hash": "sha256-eA9HiAkaySljl60n0iFg7nwHkx/eEYgai/iGLimS+3Q="
+    }
+  }
+}

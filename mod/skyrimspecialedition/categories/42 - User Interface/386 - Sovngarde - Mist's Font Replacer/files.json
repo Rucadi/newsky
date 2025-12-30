@@ -1,0 +1,45 @@
+{
+  "12th Century Bookfont - Sovngarde Patch V8.9": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "8.9",
+      "file_id": 73937,
+      "file_name": "12th Century Bookfont - Sovngarde Patch V8.8-386-8-8-1543778797.7z",
+      "mod_id": 386,
+      "hash": "sha256-EU4AvKM1tfKkYQDzfXQkPTpgPiEuFwKuTUO88OciTOQ="
+    }
+  },
+  "Sovngarde - Mist's Font Replacer Bold V8.9": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "8.9",
+      "file_id": 115926,
+      "file_name": "Sovngarde - Mist's Font Replacer Bold V8.9-386-8-9-1576107205.7z",
+      "mod_id": 386,
+      "hash": "sha256-2706Yt+I1WF46uJQgRdxKfUIkWGhl28o1Zs7gtpejwM="
+    },
+    "type": "primary"
+  },
+  "Sovngarde - Mist's Font Replacer Light V8.9": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "8.9",
+      "file_id": 115927,
+      "file_name": "Sovngarde - Mist's Font Replacer Light V8.9-386-8-9-1576107283.7z",
+      "mod_id": 386,
+      "hash": "sha256-p9S4KxWY2D38llTB7qh2NG0q/Td+NzpOo5IIhcg/0FQ="
+    },
+    "type": "primary"
+  },
+  "Sovngarde Desktop Edition": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "8.9",
+      "file_id": 679750,
+      "file_name": "Sovngarde Desktop Edition-386-8-9-1761283820.zip",
+      "mod_id": 386,
+      "hash": "sha256-gKV9C5Nf4eAxaVPY1k6ta0ZgVRu6pP30iqPQgCIO4yw="
+    },
+    "type": "primary"
+  }
+}

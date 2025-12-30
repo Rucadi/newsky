@@ -1,0 +1,33 @@
+{
+  "Alternate Start New Beginnings Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "3.00",
+      "file_id": 392881,
+      "file_name": "Alternate Start New Beginnings Patch-73732-3-00-1685323444.7z",
+      "mod_id": 73732,
+      "hash": "sha256-zzkhd2Oc4dOuH/IFM6XTy3tkh9JeLniSwsICXqy3eg8="
+    }
+  },
+  "Alternate Perspective New Beginnings Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "3.00",
+      "file_id": 392882,
+      "file_name": "Alternate Perspective New Beginnings Patch-73732-3-00-1685323552.7z",
+      "mod_id": 73732,
+      "hash": "sha256-8VYKnlqmUzdJjG8UvN5DlljZ/QtfnuYCaZfEyaxsw9c="
+    }
+  },
+  "Environs - The Greenwood Shack": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "3.0.1",
+      "file_id": 529073,
+      "file_name": "Environs - The Greenwood Shack-73732-3-0-1-1723013281.7z",
+      "mod_id": 73732,
+      "hash": "sha256-YMP+yc04GEWeVsBFKN8qhSRyRco49r0q5qgHCE187qQ="
+    },
+    "type": "primary"
+  }
+}

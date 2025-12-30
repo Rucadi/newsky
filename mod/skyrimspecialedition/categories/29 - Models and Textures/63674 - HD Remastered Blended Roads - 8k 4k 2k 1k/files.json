@@ -1,0 +1,45 @@
+{
+  "HD Remastered Blended Roads 4k": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.4",
+      "file_id": 404694,
+      "file_name": "HD Remastered Blended Roads 2k-63674-1-4-1688738373.7z",
+      "mod_id": 63674,
+      "hash": "sha256-lLBimizq9bBYcxwMHxIH3xJekUNNYPw4K0/r1C4FUgo="
+    },
+    "type": "primary"
+  },
+  "HD Remastered Blended Roads 2k": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.4",
+      "file_id": 404695,
+      "file_name": "HD Remastered Blended Roads 2k-63674-1-4-1688738447.7z",
+      "mod_id": 63674,
+      "hash": "sha256-n2mYDzzrZtJIR96mmzGvQK7rVzH6Z1Revhbz71JPDsU="
+    },
+    "type": "primary"
+  },
+  "HD Remastered Blended Roads 8k": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.4",
+      "file_id": 404696,
+      "file_name": "HD Remastered Blended Roads 8k-63674-1-4-1688738658.7z",
+      "mod_id": 63674,
+      "hash": "sha256-3TPljpBD/Jjmk2Dah7RtJYYVMXxElvBIQU9rXEK/JJs="
+    },
+    "type": "primary"
+  },
+  "HD Remastered Blended Roads 1k": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.4",
+      "file_id": 404697,
+      "file_name": "HD Remastered Blended Roads 1k-63674-1-4-1688738710.7z",
+      "mod_id": 63674,
+      "hash": "sha256-tFdMCkbRKJchVhkRxFw4t8p2KcOGghfDoFzxwnfRwXM="
+    }
+  }
+}

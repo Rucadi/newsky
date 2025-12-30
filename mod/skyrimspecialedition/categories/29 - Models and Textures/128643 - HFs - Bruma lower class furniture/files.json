@@ -1,0 +1,35 @@
+{
+  "HFs - Bruma lower class furniture - 2K": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1",
+      "file_id": 548278,
+      "file_name": "HFs - Bruma lower class furniture - 2K-128643-1-1-1727852757.zip",
+      "mod_id": 128643,
+      "hash": "sha256-N8ByzDTr5NmcsyLt687eSzjZ7NTOMVKGwzehiRbPBfY="
+    },
+    "type": "primary"
+  },
+  "HFs - Bruma lower class furniture - 4K": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1",
+      "file_id": 548279,
+      "file_name": "HFs - Bruma lower class furniture - 4K-128643-1-1-1727852978.zip",
+      "mod_id": 128643,
+      "hash": "sha256-4db7aGK13zmT5nkCSDe7Xe1PBDxUYCKRa25IzQ50uk0="
+    },
+    "type": "primary"
+  },
+  "HFs - Bruma lower class furniture - 1K": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1",
+      "file_id": 548293,
+      "file_name": "HFs - Bruma lower class furniture - 1K-128643-1-1-1727854574.zip",
+      "mod_id": 128643,
+      "hash": "sha256-lRhj3e0Gp6lH4QlwqK+i+GWMSYur8XXCVsX09thRaso="
+    },
+    "type": "primary"
+  }
+}

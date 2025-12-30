@@ -1,0 +1,24 @@
+{
+  "SCROTE BSA Version": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0.2",
+      "file_id": 498293,
+      "file_name": "SCROTE BSA Version-97155-1-0-2-1714948522.7z",
+      "mod_id": 97155,
+      "hash": "sha256-KOuiVHteEJtRgQdOFwG2wKP/tn0hExxfTmWdEpDNO8U="
+    },
+    "type": "primary"
+  },
+  "SCROTE Loose Files Version": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0.2",
+      "file_id": 498295,
+      "file_name": "SCROTE Loose Files Version-97155-1-0-2-1714948591.7z",
+      "mod_id": 97155,
+      "hash": "sha256-emcmpHye7oZEJg/s5ynLn5+oQKY6Mb5xT3YoKIOXc6o="
+    },
+    "type": "primary"
+  }
+}

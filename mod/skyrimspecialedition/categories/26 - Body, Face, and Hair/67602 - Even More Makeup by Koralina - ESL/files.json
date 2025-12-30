@@ -1,0 +1,23 @@
+{
+  "Even More Makeup - 2k": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 281714,
+      "file_name": "Even More Makeup - 2k-67602-1-0-1651776095.7z",
+      "mod_id": 67602,
+      "hash": "sha256-0sOtWU3bPOzUYHbeQz9G3DhKxW9RlYxpAX0303rTO8Q="
+    },
+    "type": "primary"
+  },
+  "Source script": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 438019,
+      "file_name": "Source script-67602-1-0-1698575833.7z",
+      "mod_id": 67602,
+      "hash": "sha256-/q8YPwHWHJ7AI35UoVS6ba0lgBgCAhEhaEr9gkDdW8c="
+    }
+  }
+}

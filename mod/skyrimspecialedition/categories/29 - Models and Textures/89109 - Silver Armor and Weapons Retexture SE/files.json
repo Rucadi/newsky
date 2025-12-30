@@ -1,0 +1,33 @@
+{
+  "Silver Armor and Weapons Retexture SE": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "2.0.1",
+      "file_id": 507325,
+      "file_name": "Silver Armor and Weapons Retexture SE-89109-2-0-1-1717271820.7z",
+      "mod_id": 89109,
+      "hash": "sha256-YBl4VYexQ0ZbsnQkPLsBxM7cYMRNKnpPpjr6r4NW50k="
+    },
+    "type": "primary"
+  },
+  "Silver Armor and Weapons Retexture SE - Half Res": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "2.0.1",
+      "file_id": 507326,
+      "file_name": "Silver Armor and Weapons Retexture SE - Half Res-89109-2-0-1-1717271858.7z",
+      "mod_id": 89109,
+      "hash": "sha256-r/HA6sooPy8bYDf0Rw+6B5RduhM4y41PdtLnDAWTJ0A="
+    }
+  },
+  "Silver Armor and Weapons Retexture SE - Low Res": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "2.0.1",
+      "file_id": 507327,
+      "file_name": "Silver Armor and Weapons Retexture SE - Low Res-89109-2-0-1-1717272016.7z",
+      "mod_id": 89109,
+      "hash": "sha256-/pcKQww59PWY+FZcZd0NgJPpWNBcSn1nsNtRrRHkeMo="
+    }
+  }
+}

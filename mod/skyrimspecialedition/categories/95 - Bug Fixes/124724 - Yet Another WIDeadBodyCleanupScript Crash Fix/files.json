@@ -1,0 +1,23 @@
+{
+  "Yet Another WIDeadBodyCleanupScript Crash Fix": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0.1",
+      "file_id": 523443,
+      "file_name": "Yet Another WIDeadBodyCleanupScript Crash Fix-124724-1-0-1-1721571835.zip",
+      "mod_id": 124724,
+      "hash": "sha256-ORHc1iT/7o8t9Yn105EtJSgH8G9yir96x0LasKdYMgk="
+    },
+    "type": "primary"
+  },
+  "Yet Another Crash Fix - ACDB": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0.1",
+      "file_id": 527900,
+      "file_name": "Yet Another Crash Fix - ACDB-124724-1-0-1-1722705789.zip",
+      "mod_id": 124724,
+      "hash": "sha256-yWL5pUdFQWwUnla82midb0kfZ4PpKQ5KygBN7YmZZ9U="
+    }
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "Another Redbelly Mine Mod": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1",
+      "file_id": 306775,
+      "file_name": "Another Redbelly Mine Mod-73166-1-1-1660284446.7z",
+      "mod_id": 73166,
+      "hash": "sha256-FInwihX09cbiJTAKikucb6T9fxogiMBNl8YOODGCSRs="
+    },
+    "type": "primary"
+  },
+  "Another Redbelly Mine Mod - Webmother Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1.1",
+      "file_id": 481501,
+      "file_name": "Another Redbelly Mine Mod - Webmother Patch-73166-1-1-1-1710683300.7z",
+      "mod_id": 73166,
+      "hash": "sha256-WhtKE5LNnvwssOicuf8HnOKe+JzN+zLf2zd+AmB+yQ8="
+    }
+  }
+}

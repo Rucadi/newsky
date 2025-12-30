@@ -1,44 +1,44 @@
 {
-  "Engine Fixes - SKSE64 Preloader": {
-    "nexusmods": {
-      "game_name": "skyrimspecialedition",
-      "version": "7",
-      "file_id": 658442,
-      "file_name": "(Part 2) Engine Fixes - skse64 Preloader ONLY-17230-7-1755965800.7z",
-      "mod_id": 17230,
-      "hash": "sha256-tgU9ETQLDv59fBYzyeWNIQ9HyNL8+LwhH+Zg2rIq94s="
+    "Engine Fixes - SKSE64 Preloader": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "7",
+            "file_id": 658442,
+            "file_name": "(Part 2) Engine Fixes - skse64 Preloader ONLY-17230-7-1755965800.7z",
+            "mod_id": 17230,
+            "hash": "sha256-tgU9ETQLDv59fBYzyeWNIQ9HyNL8+LwhH+Zg2rIq94s="
+        },
+        "type": "primary"
     },
-    "type": "primary"
-  },
-  "Engine Fixes - Main File": {
-    "nexusmods": {
-      "game_name": "skyrimspecialedition",
-      "version": "7.0.19",
-      "file_id": 669323,
-      "file_name": "Engine Fixes - Main File-17230-7-0-19-1758815363.7z",
-      "mod_id": 17230,
-      "hash": "sha256-aQ3bONTXikkuUQnfYXZIkRTLraYeMW9mPzYWCcckiLw="
+    "Engine Fixes - Main File": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "7.0.19",
+            "file_id": 669323,
+            "file_name": "Engine Fixes - Main File-17230-7-0-19-1758815363.7z",
+            "mod_id": 17230,
+            "hash": "sha256-aQ3bONTXikkuUQnfYXZIkRTLraYeMW9mPzYWCcckiLw="
+        },
+        "type": "primary"
     },
-    "type": "primary"
-  },
-  "Engine Fixes (All-In-One) for 1.5.97": {
-    "nexusmods": {
-      "game_name": "skyrimspecialedition",
-      "version": "7.0.19-AIO",
-      "file_id": 669325,
-      "file_name": "Engine Fixes (All-In-One) for 1.5.97-17230-7-0-19-AIO-1758815662.7z",
-      "mod_id": 17230,
-      "hash": "sha256-rqw67SH3lWZc0UlDrxByxYN1LzQGvzQOIwtPeWzxzzA="
+    "Engine Fixes (All-In-One) for 1.5.97": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "7.0.19-AIO",
+            "file_id": 669325,
+            "file_name": "Engine Fixes (All-In-One) for 1.5.97-17230-7-0-19-AIO-1758815662.7z",
+            "mod_id": 17230,
+            "hash": "sha256-rqw67SH3lWZc0UlDrxByxYN1LzQGvzQOIwtPeWzxzzA="
+        }
+    },
+    "Engine Fixes (All-In-One) for 1.6.1170 and newer": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "7.0.19-AIO",
+            "file_id": 669326,
+            "file_name": "Engine Fixes (All-In-One) for 1.6.1170 and newer-17230-7-0-19-AIO-1758815694.7z",
+            "mod_id": 17230,
+            "hash": "sha256-2rlPS7u30FytZsHz4WEUUETBzKD4zc6pjoKWgs25tKg="
+        }
     }
-  },
-  "Engine Fixes (All-In-One) for 1.6.1170 and newer": {
-    "nexusmods": {
-      "game_name": "skyrimspecialedition",
-      "version": "7.0.19-AIO",
-      "file_id": 669326,
-      "file_name": "Engine Fixes (All-In-One) for 1.6.1170 and newer-17230-7-0-19-AIO-1758815694.7z",
-      "mod_id": 17230,
-      "hash": "sha256-2rlPS7u30FytZsHz4WEUUETBzKD4zc6pjoKWgs25tKg="
-    }
-  }
 }

@@ -1,0 +1,24 @@
+{
+  "World Encounter Hostility Fix -Scrolls Version": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "0.3",
+      "file_id": 391675,
+      "file_name": "World Encounter Hostility Fix-91403-0-3-1684986573.7z",
+      "mod_id": 91403,
+      "hash": "sha256-hjLjuDZcj+PzPYyr2ojN6jh1hRH8vmfxGkIZrrwxtLA="
+    },
+    "type": "primary"
+  },
+  "World Encounter Hostility Fix -Performance Version": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "0.4",
+      "file_id": 396164,
+      "file_name": "World Encounter Hostility Fix -Performance Version-91403-0-4-1686275909.7z",
+      "mod_id": 91403,
+      "hash": "sha256-fir6h6gU0Z++w+Vq7/enJ1NKz2kIrF6misA1VrHTtGM="
+    },
+    "type": "primary"
+  }
+}

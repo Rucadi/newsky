@@ -1,0 +1,35 @@
+{
+  "Daughters of the Daedra Vol 1 - E2A - CBBE": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 487995,
+      "file_name": "Daughters of the Daedra Vol 1 - E2A - CBBE-115972-1-0-1712403950.rar",
+      "mod_id": 115972,
+      "hash": "sha256-qx3Vw/rOuHJ/5sDZMmYHPVmt0cBGRcBkkrtsoj8Ag0I="
+    },
+    "type": "primary"
+  },
+  "Daughters of the Daedra Vol 1 - E2A - UNP": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 487996,
+      "file_name": "Daughters of the Daedra Vol 1 - E2A - UNP-115972-1-0-1712404002.rar",
+      "mod_id": 115972,
+      "hash": "sha256-ckzeeyQgFWoA8jTA2KO6Zxy4lcVVal6ALrZdb7SjKxY="
+    },
+    "type": "primary"
+  },
+  "Daughters of the Daedra Vol 1 - E2A - Default": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 487997,
+      "file_name": "Daughters of the Daedra Vol 1 - E2A - Default-115972-1-0-1712404212.rar",
+      "mod_id": 115972,
+      "hash": "sha256-f3ggN2pcHGBPfp4paYrEm5T42NjNWiom6LXatUnPKWE="
+    },
+    "type": "primary"
+  }
+}

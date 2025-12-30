@@ -1,0 +1,46 @@
+{
+  "Whiterun Gatehouse Fix": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1",
+      "file_id": 418009,
+      "file_name": "Whiterun Gatehouse Fix-98262-1-1-1692300309.7z",
+      "mod_id": 98262,
+      "hash": "sha256-SYyCoZHhNSgHeWW0ikFd+is8M8hsj0nXkvmpGanU77k="
+    },
+    "type": "primary"
+  },
+  "Whiterun Gatehouse Fix - Parallax": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1",
+      "file_id": 418010,
+      "file_name": "Whiterun Gatehouse Fix - Parallax-98262-1-1-1692300362.7z",
+      "mod_id": 98262,
+      "hash": "sha256-GIB4Y+PoQNS++MfcxS9Iit6GHeSO1byBflP9vwR1tuo="
+    },
+    "type": "primary"
+  },
+  "Whiterun Gatehouse Fix with FYX": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1",
+      "file_id": 418011,
+      "file_name": "Whiterun Gatehouse Fix with FYX-98262-1-1-1692300519.7z",
+      "mod_id": 98262,
+      "hash": "sha256-2sOF7R0TqNYF6e82t1FTtsfZOhBXluAbnDzV+Gj+mtI="
+    },
+    "type": "primary"
+  },
+  "Whiterun Gatehouse Fix with FYX - Parallax": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1",
+      "file_id": 418013,
+      "file_name": "Whiterun Gatehouse Fix with FYX - Parallax-98262-1-1-1692300655.7z",
+      "mod_id": 98262,
+      "hash": "sha256-j7VmYSVaGqMDqErGAk17TppCg9s5iy4kItL7ccXABzU="
+    },
+    "type": "primary"
+  }
+}

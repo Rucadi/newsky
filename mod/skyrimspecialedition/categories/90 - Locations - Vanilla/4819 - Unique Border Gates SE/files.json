@@ -1,0 +1,53 @@
+{
+  "Unique Border Gates All - Point The Way - Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "2.5",
+      "file_id": 16214,
+      "file_name": "Unique Border Gates All - Point The Way - Patch-4819-2-5.7z",
+      "mod_id": 4819,
+      "hash": "sha256-e33OxbAi1+SvMFaBkTuyAXc037F15RjKe6Nv7qtKSrk="
+    }
+  },
+  "Unique Border Gates All - Better DG Entrance - Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "2.5",
+      "file_id": 16215,
+      "file_name": "Unique Border Gates All - Better DG Entrance - Patch-4819-2-5.7z",
+      "mod_id": 4819,
+      "hash": "sha256-Ck75BuWA9+F4eTsGlzOW6GJQccN+QiLJen30lN6AsHo="
+    }
+  },
+  "Unique Border Gates All - Warzones": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "2.5",
+      "file_id": 16216,
+      "file_name": "Unique Border Gates All - Warzones - Patch-4819-2-5.7z",
+      "mod_id": 4819,
+      "hash": "sha256-mG1D56VgmCVXymW/2H6oM7lwFa/qRgMm4MrhoE0Aozc="
+    }
+  },
+  "Unique Border Gates All": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "2.5",
+      "file_id": 16243,
+      "file_name": "Unique Border Gates All-4819-2-5.7z",
+      "mod_id": 4819,
+      "hash": "sha256-ctJNW/kMpg4o9BaoqvieBGUKetPI7pBgQbbLN6SDYCI="
+    },
+    "type": "primary"
+  },
+  "UniqueBorderGates - Beyond Skyrim Bruma - Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "2.5",
+      "file_id": 28605,
+      "file_name": "UniqueBorderGates - No Pale Pass Gate-4819-2-5.7z",
+      "mod_id": 4819,
+      "hash": "sha256-8h700vhOLLUNKOWqSibZdRKMefoM/XNt3SNiqefDeA4="
+    }
+  }
+}

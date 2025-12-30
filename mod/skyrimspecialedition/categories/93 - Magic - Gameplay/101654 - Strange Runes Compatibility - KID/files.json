@@ -1,0 +1,34 @@
+{
+  "Strange Runes Compatibility - KID": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "2.9.2",
+      "file_id": 652560,
+      "file_name": "Strange Runes Compatibility - KID-101654-2-9-2-1754256770.7z",
+      "mod_id": 101654,
+      "hash": "sha256-719nc73Hat3FJBz4/8zKuqI7NCI4/mpjmWTlumZ9UIM="
+    },
+    "type": "primary"
+  },
+  "Strange Runes Compatibility - NPC Script Fix": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 653411,
+      "file_name": "Strange Runes Compatibility - NPC Script Fix-101654-1-0-1754513644.7z",
+      "mod_id": 101654,
+      "hash": "sha256-j8AwY9kKCVXh636+lkCAra3wpH7Tq5APRNlw8svHV1Y="
+    },
+    "type": "primary"
+  },
+  "Strange Runes Compatibility - Venomancy": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 654101,
+      "file_name": "Strange Runes Compatibility - Venomancy-101654-1-0-1754745232.7z",
+      "mod_id": 101654,
+      "hash": "sha256-OcBDhcd2OIAyAH+uERCkAv5OHjrHzfm4vqdnA5gdyhI="
+    }
+  }
+}

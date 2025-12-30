@@ -1,0 +1,43 @@
+{
+    "The Green Den - Exterior AddOn": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "1.0",
+            "file_id": 691384,
+            "file_name": "The Green Den - Exterior AddOn-165520-1-0-1764147798.rar",
+            "mod_id": 165520,
+            "hash": "sha256-ZOLrdK+qlVLgLcgFS3KMlPaY/0bN6oCdvFQqPLYakkA="
+        }
+    },
+    "The Green Den - ENB Light Sunlight AddOn": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "1.0",
+            "file_id": 691385,
+            "file_name": "The Green Den - ENB Light Sunlight AddOn-165520-1-0-1764147860.rar",
+            "mod_id": 165520,
+            "hash": "sha256-42suTgduTk8+xvRx4Txal8M2O3zE22YGf3iowPmY7FU="
+        }
+    },
+    "The Green Den - JKs Drunken Huntsman Patch": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "1.0",
+            "file_id": 693862,
+            "file_name": "The Green Den - JKs Drunken Huntsman Patch-165520-1-0-1764728339.rar",
+            "mod_id": 165520,
+            "hash": "sha256-Kgd1hy//W7+iQfZJmozWmGJG5dELMwwR4pG6z1IGaj8="
+        }
+    },
+    "The Green Den - A Drunken Huntsman Overhaul": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "1.2",
+            "file_id": 695416,
+            "file_name": "The Green Den - A Drunken Huntsman Overhaul-165520-1-2-1765113653.rar",
+            "mod_id": 165520,
+            "hash": "sha256-9VkQfGH+pmOx5Qndb9Ki/N7IJAmZl9q1Gi8M+WWt2+M="
+        },
+        "type": "primary"
+    }
+}

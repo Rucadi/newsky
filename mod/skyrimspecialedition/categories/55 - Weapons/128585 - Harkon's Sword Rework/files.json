@@ -1,0 +1,23 @@
+{
+  "Harkon Sword Rework 1.03": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.03",
+      "file_id": 606256,
+      "file_name": "Harkon Sword Rework 1.03-128585-1-03-1742122743.zip",
+      "mod_id": 128585,
+      "hash": "sha256-bIR23hRFvtlQiQv2lqeYE5zQQ7a54ggyXvrUV/s6yiw="
+    },
+    "type": "primary"
+  },
+  "Harkon Sword Rework 1.03 CHS": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.03",
+      "file_id": 606257,
+      "file_name": "Harkon Sword Rework 1.03 CHS-128585-1-03-1742122794.zip",
+      "mod_id": 128585,
+      "hash": "sha256-bCaOKpopCUo3OrZOS8kvhXqbYbVPnqDIGXgDU4b7uog="
+    }
+  }
+}

@@ -1,0 +1,75 @@
+{
+  "Rudy HQ - Falling Leaves and Needles for Vanilla game SE": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 93163,
+      "file_name": "Rudy HQ - Falling Leaves and Needles for Vanilla game SE-25939-1-0-1558485943.rar",
+      "mod_id": 25939,
+      "hash": "sha256-lscueKoB4WM2XDiuQ8VygmNcaJ/VTK05ONQhSLH2SgQ="
+    },
+    "type": "primary"
+  },
+  "Rudy HQ - Falling Leaves and Needles for ENB SE": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 93164,
+      "file_name": "Rudy HQ - Falling Leaves and Needles for ENB SE-25939-1-0-1558485992.rar",
+      "mod_id": 25939,
+      "hash": "sha256-a+ChiVq+mUaaRRx+zY2MgGUFDdgouG2Oh/r5tBydAlw="
+    },
+    "type": "primary"
+  },
+  "Rudy HQ - Falling Leaves and Needles for ENB Intense SE": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 93165,
+      "file_name": "Rudy HQ - Falling Leaves and Needles for ENB Intense SE-25939-1-0-1558486047.rar",
+      "mod_id": 25939,
+      "hash": "sha256-XtTV46ftze0IdDx0bS1oCZIG3czbgSyjgRG5INOxMs4="
+    },
+    "type": "primary"
+  },
+  "Rudy HQ - Falling Leaves and Needles for ENB Intense SE - Less Transparent": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 93166,
+      "file_name": "Rudy HQ - Falling Leaves and Needles for ENB Intense SE - Less Transparent-25939-1-0-1558486275.rar",
+      "mod_id": 25939,
+      "hash": "sha256-/9vGDzoFGzJFwRS3jNVx/1rQMhI4cKq90GbYEYyzVLA="
+    }
+  },
+  "Rudy HQ - Falling Leaves and Needles SE - Green Leaves Texture 1K": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 93168,
+      "file_name": "Rudy HQ - Falling Leaves and Needles SE - Green Leaves Texture 1K-25939-1-0-1558486325.rar",
+      "mod_id": 25939,
+      "hash": "sha256-3OKdHHWhXxt2mIgY7GZaITl5ygkZke9+q7oexEYDV3k="
+    }
+  },
+  "Rudy HQ - Falling Leaves and Needles SE - Green Leaves Texture 512": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 145907,
+      "file_name": "Rudy HQ - Falling Leaves and Needles SE - Green Leaves Texture 512-25939-1-0-1592254891.rar",
+      "mod_id": 25939,
+      "hash": "sha256-/+aLxm1NhK84CBnA5hIxEi278pvvpt1Kj6H5eK0l1sA="
+    }
+  },
+  "Rudy HQ - Falling Leaves and Needles SE - Yellow Leaves Texture 512": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 145908,
+      "file_name": "Rudy HQ - Falling Leaves and Needles SE - Yellow Leaves Texture 512-25939-1-0-1592254949.rar",
+      "mod_id": 25939,
+      "hash": "sha256-pwrTJySpPoS3kpiIAWnSvMT/BWtYW2BJ52GWbhQ8IUs="
+    }
+  }
+}

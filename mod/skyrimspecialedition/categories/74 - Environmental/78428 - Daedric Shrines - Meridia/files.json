@@ -1,0 +1,24 @@
+{
+  "Shrine of Meridia 4k": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.01",
+      "file_id": 330398,
+      "file_name": "Shrine of Meridia 4k-78428-1-01-1668012975.zip",
+      "mod_id": 78428,
+      "hash": "sha256-fA14Ug3Wr4JTkir+kgj9QNzL8Yd9dfW48xS1hTJFJ/o="
+    },
+    "type": "primary"
+  },
+  "Shrine of Meridia 2k": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.01",
+      "file_id": 330399,
+      "file_name": "Shrine of Meridia 2k-78428-1-01-1668013020.zip",
+      "mod_id": 78428,
+      "hash": "sha256-7AQYtI6EKTWh9vuz/FRiF+R03QO/WPHwyigVTILtvro="
+    },
+    "type": "primary"
+  }
+}

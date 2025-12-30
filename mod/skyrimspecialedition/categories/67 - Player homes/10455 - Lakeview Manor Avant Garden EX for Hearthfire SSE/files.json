@@ -1,0 +1,53 @@
+{
+  "Lakeview Manor Avant Garden EX for SSE": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.9",
+      "file_id": 193497,
+      "file_name": "Lakeview Manor Avant Garden EX for SSE-10455-1-9-1616667160.7z",
+      "mod_id": 10455,
+      "hash": "sha256-gTxDSJihEW6yzGxYi6B8/gYqqXnX2GijpyWyLnFvszo="
+    },
+    "type": "primary"
+  },
+  "Lakeview Manor Avant Garden EX for SSE - No NPC Autostrip": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.9",
+      "file_id": 216270,
+      "file_name": "Lakeview Manor Avant Garden EX for SSE - No NPC Autostrip (Beta)-10455-1-9-1627075531.7z",
+      "mod_id": 10455,
+      "hash": "sha256-luLGY7+EM+0b8tkBlKW0N1W6Qc9QpCBDKqwERWLOYeg="
+    }
+  },
+  "Lakeview Manor Avant Garden EX for SSE - No Guards": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.9",
+      "file_id": 348105,
+      "file_name": "Lakeview Manor Avant Garden EX for SSE - No Guards-10455-1-9-1673284807.7z",
+      "mod_id": 10455,
+      "hash": "sha256-JzAQR1UHPUgrlS5N4MsRmbjb2/8EJ0I2GQa7tUivlbQ="
+    }
+  },
+  "Lakeview Manor Avant Garden EX for SSE - No Autostrip No Guards": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.9",
+      "file_id": 348107,
+      "file_name": "Lakeview Manor Avant Garden EX for SSE - No Autostrip No Guards-10455-1-9-1673284858.7z",
+      "mod_id": 10455,
+      "hash": "sha256-XHhmEJQBd8GSeFW/o7HK1OLJtlK3mZ7ifuLTc7OtSRY="
+    }
+  },
+  "Lakeview Manor Avant Garden - Tile Remover": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 379094,
+      "file_name": "Lakeview Manor Avant Garden - Tile Remover-10455-1-0-1681733319.7z",
+      "mod_id": 10455,
+      "hash": "sha256-qW2zKOxFv9ulMrdFDjGrkEKgxW8GYVXPrp20dUOdybs="
+    }
+  }
+}

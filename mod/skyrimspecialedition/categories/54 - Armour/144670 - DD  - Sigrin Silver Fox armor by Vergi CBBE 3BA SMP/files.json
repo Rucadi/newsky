@@ -1,0 +1,33 @@
+{
+  "DD - Vergi Sigrin Armor 1k Textures only": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "3.2a",
+      "file_id": 609594,
+      "file_name": "DD - Vergi Sigrin Armor 1k Textures only-144670-3-2-1742892126.rar",
+      "mod_id": 144670,
+      "hash": "sha256-WsKWLjTHOTx3jGEAKGZP+gvwipBWhbk9fEeyOmejO+E="
+    }
+  },
+  "DD - Vergi Sigrin Armor 2k Textures only": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "3.2b",
+      "file_id": 609595,
+      "file_name": "DD - Vergi Sigrin Armor 2k Textures only-144670-3-2b-1742892176.rar",
+      "mod_id": 144670,
+      "hash": "sha256-ois/Zk05y1ALHxDI/Uh2PAMr1fE/BEuRDVgEr9VJjyo="
+    }
+  },
+  "DD - Vergi Sigrin Armor": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "3.6",
+      "file_id": 668835,
+      "file_name": "DD - Vergi Sigrin Armor-144670-3-6-1758666840.rar",
+      "mod_id": 144670,
+      "hash": "sha256-pUf/39Y3DGVDxbrO/FroNmzubqEATtaJAGMbh5tBlZ0="
+    },
+    "type": "primary"
+  }
+}

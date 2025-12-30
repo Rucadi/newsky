@@ -1,0 +1,23 @@
+{
+  "Potema Revoiced - WAV Format": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.01",
+      "file_id": 619124,
+      "file_name": "Potema Revoiced - WAV Format-123877-1-01-1745094274.zip",
+      "mod_id": 123877,
+      "hash": "sha256-ylYUNt1ipH5iVOxwELtw2qys7sEVd9nKdlnzliTsla0="
+    }
+  },
+  "Potema Revoiced - FUZ Format": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.01",
+      "file_id": 619129,
+      "file_name": "Potema Revoiced - FUZ Format-123877-1-01-1745096291.zip",
+      "mod_id": 123877,
+      "hash": "sha256-3h6h7TsuDRgqBlg2q0PP09/ACuJftOGIKUzcd7boRw0="
+    },
+    "type": "primary"
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "SkFO SE - Skin Feature Overlays- 2K": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.6",
+      "file_id": 98405,
+      "file_name": "SkFO SE - Skin Feature Overlays- 2K-20183-1-6-1562446371.7z",
+      "mod_id": 20183,
+      "hash": "sha256-cQfGZnt1jREsssze5mmlhXIFXPLzYUQPOOyUtZIJNiA="
+    },
+    "type": "primary"
+  },
+  "SkFO SE -Skin Feature Overlays- 4K": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.6",
+      "file_id": 98406,
+      "file_name": "SkFO SE -Skin Feature Overlays- 4K-20183-1-6-1562446832.7z",
+      "mod_id": 20183,
+      "hash": "sha256-ggSpT0xzWU5at81iI1a5ZRmSq8GMlMNjwN7UWMrhYJQ="
+    },
+    "type": "primary"
+  }
+}

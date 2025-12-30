@@ -1,0 +1,23 @@
+{
+  "Simple Horse SE": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.21",
+      "file_id": 151916,
+      "file_name": "Simple Horse SE-12650-1-21-1595606399.7z",
+      "mod_id": 12650,
+      "hash": "sha256-V447/d4QQ2nnMXGSr4cxoF41Vfi8G0ReCgizsAqiL7s="
+    },
+    "type": "primary"
+  },
+  "Simple Horse Sprint SE": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.21",
+      "file_id": 151918,
+      "file_name": "Simple Horse Sprint SE-12650-1-21-1595606604.7z",
+      "mod_id": 12650,
+      "hash": "sha256-yBD4EMW1+eckxay880NhweEzq7lgeXW+lRQcf5mCtfg="
+    }
+  }
+}

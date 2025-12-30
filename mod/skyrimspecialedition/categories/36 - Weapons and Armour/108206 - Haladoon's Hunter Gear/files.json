@@ -1,0 +1,34 @@
+{
+  "Haladoon's Hunter Gear Update 1.1": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1",
+      "file_id": 457169,
+      "file_name": "Haladoon's Hunter Gear Update 1.1-108206-1-1-1704188874.zip",
+      "mod_id": 108206,
+      "hash": "sha256-2wIMkzocAww7lAS2RQREYBjlz+M44pJnO7Hdgobsshc="
+    },
+    "type": "primary"
+  },
+  "Haladoon's Hunter Gear CAMPFIRE REQUIRED 1.1": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1",
+      "file_id": 457171,
+      "file_name": "Haladoon's Hunter Gear CAMPFIRE REQUIRED 1.1-108206-1-1-1704189107.zip",
+      "mod_id": 108206,
+      "hash": "sha256-9f70QM+t8p3QQfcTSiFz+GP/2KsDtdX+z1orxFAgwj4="
+    },
+    "type": "primary"
+  },
+  "Hunterborn Scrimshaw Patch ESL": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 458421,
+      "file_name": "Hunterborn Scrimshaw Patch ESL-108206-1-0-1704542479.zip",
+      "mod_id": 108206,
+      "hash": "sha256-KDmB/c/uuDbUXzZexiJQl6wUHmiGMFaojk7+ef/HZ3M="
+    }
+  }
+}

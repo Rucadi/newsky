@@ -1,0 +1,24 @@
+{
+  "Silentroll_skypatcher for Ultimate NPC Dodging": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 507739,
+      "file_name": "Silentroll_skypatched for Ultimate NPC Dodging-120956-1-0-1717371668.zip",
+      "mod_id": 120956,
+      "hash": "sha256-tsedJpdErLYZQhipQVQv9+sD34lOhHdvYCc9qhhFgjU="
+    },
+    "type": "primary"
+  },
+  "Silentroll_SPID for Ultimate NPC Dodging": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 507745,
+      "file_name": "Silentroll_SPID for Ultimate NPC Dodging-120956-1-0-1717372398.zip",
+      "mod_id": 120956,
+      "hash": "sha256-LWqlDzgVUlJAjSduFRyPhgCnHEj3nE7jGcvkJHlLLPc="
+    },
+    "type": "primary"
+  }
+}

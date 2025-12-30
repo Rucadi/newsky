@@ -1,0 +1,23 @@
+{
+    "Modern Wait Menu": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "1.00",
+            "file_id": 498837,
+            "file_name": "Modern Wait Menu-117661-1-00-1715104007.zip",
+            "mod_id": 117661,
+            "hash": "sha256-JGkiB0efOfa2cDKCUrTAglIyPTtVcrD3bJXbzPWHT34="
+        },
+        "type": "primary"
+    },
+    "Modern Wait Menu - Widescreen Patches": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "1.00",
+            "file_id": 499008,
+            "file_name": "Modern Wait Menu - Widescreen Patches-117661-1-00-1715147828.zip",
+            "mod_id": 117661,
+            "hash": "sha256-3vZsy0GUW906JDcfwBVreSvRerrOMi/y++cxxBNbxGU="
+        }
+    }
+}

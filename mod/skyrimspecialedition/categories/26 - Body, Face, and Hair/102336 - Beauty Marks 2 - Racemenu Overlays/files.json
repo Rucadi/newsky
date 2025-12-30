@@ -1,0 +1,24 @@
+{
+  "Beauty Marks 2 2K": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 437779,
+      "file_name": "Beauty Marks 2 2K-102336-1-0-1698513928.zip",
+      "mod_id": 102336,
+      "hash": "sha256-2dM7zk++sybCsd4n2hrR9X+vV6V27Q34Um7ssHWSkdA="
+    },
+    "type": "primary"
+  },
+  "Beauty Marks 2 4K": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 437780,
+      "file_name": "Beauty Marks 2 2K-102336-1-0-1698513959.zip",
+      "mod_id": 102336,
+      "hash": "sha256-qX/cByMKSfiC8iiN6Z7pjzWhBrNpMy/ckkoS7UkrPi8="
+    },
+    "type": "primary"
+  }
+}

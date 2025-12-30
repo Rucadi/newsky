@@ -1,0 +1,24 @@
+{
+  "Blackreach Paper Map for FWMF FOMOD (legacy)": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.75",
+      "file_id": 355216,
+      "file_name": "Blackreach Paper Map for FWMF FOMOD-53878-1-75-1675250604.zip",
+      "mod_id": 53878,
+      "hash": "sha256-5eU4ZA6soTcrnKEm++5AZHEr233JpaJavmP+YTCp3P0="
+    },
+    "type": "primary"
+  },
+  "Blackreach Paper Map for FWMF FOMOD": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.8.1",
+      "file_id": 559137,
+      "file_name": "Blackreach Paper Map for FWMF FOMOD-53878-1-8-1-1730794651.zip",
+      "mod_id": 53878,
+      "hash": "sha256-e3PbiXeCwZAk71UgZ2lpn8mKgsxG2RVX+Tozj6tjBYI="
+    },
+    "type": "primary"
+  }
+}

@@ -1,0 +1,75 @@
+{
+  "Darkend 2K": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.10",
+      "file_id": 442318,
+      "file_name": "Darkend 2K-104528-1-10-1699895199.zip",
+      "mod_id": 104528,
+      "hash": "sha256-IAdDs7LiDDL+fW3ps2MyiTqUbG1VSksMZWlm77Fz8io="
+    }
+  },
+  "Yaldabaoth Armor (Divine Version)": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1",
+      "file_id": 443102,
+      "file_name": "Yaldabaoth Armor (Divine Version)-104528-1-1-1700161126.zip",
+      "mod_id": 104528,
+      "hash": "sha256-vTf2HlqofMeiOzBc5bee+3Pz/gySrX5LH68NDlyoARE="
+    },
+    "type": "primary"
+  },
+  "Yaldabaoth Armor (Render Version)": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1",
+      "file_id": 443104,
+      "file_name": "Yaldabaoth Armor (Render Version)-104528-1-1-1700161240.zip",
+      "mod_id": 104528,
+      "hash": "sha256-IqxEOz7/VMWSlXNFY4WuUVZpgOnVqkAh5WeRSEHrr4c="
+    },
+    "type": "primary"
+  },
+  "Divine 2K": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1",
+      "file_id": 443106,
+      "file_name": "Divine 2K-104528-1-1-1700161462.zip",
+      "mod_id": 104528,
+      "hash": "sha256-qSSoAKZUvdK5PpuhWoDonOuYiydQeKOsedfYCDLaB2Q="
+    }
+  },
+  "Render 2K": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.00",
+      "file_id": 443107,
+      "file_name": "Render 2K-104528-1-00-1700161522.zip",
+      "mod_id": 104528,
+      "hash": "sha256-meZJI8PGQQhsUiLWy2e1AOZmgHZubQbOp5SSEwSQW5w="
+    }
+  },
+  "Yaldabaoth Armor (Darkend Version)": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.2",
+      "file_id": 455628,
+      "file_name": "Yaldabaoth Armor (Darkend Version)-104528-1-2-1703711900.zip",
+      "mod_id": 104528,
+      "hash": "sha256-iTiN/DJi4zCgttK6v6LC7U8uPAK9vjXvglPEyi0D8pc="
+    },
+    "type": "primary"
+  },
+  "Yaldabaoth Hood Down": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.00",
+      "file_id": 473304,
+      "file_name": "Yaldabaoth Hood Down-104528-1-00-1708543787.zip",
+      "mod_id": 104528,
+      "hash": "sha256-Vb9Pp1CxggWCeae/VNbuyQsDbB4ZGeXp5SKXBzfwg9M="
+    }
+  }
+}

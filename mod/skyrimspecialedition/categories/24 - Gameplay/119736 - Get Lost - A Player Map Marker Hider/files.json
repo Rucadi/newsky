@@ -1,0 +1,24 @@
+{
+  "Get Lost for Anniversary Edition": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0.0",
+      "file_id": 513962,
+      "file_name": "Get Lost for Anniversary Edition-119736-1-0-0-1719077996.zip",
+      "mod_id": 119736,
+      "hash": "sha256-i4TiDc+DXUoEwzpFuTo/XWZdx6qV2Nz4CyvY+pEn2tQ="
+    },
+    "type": "primary"
+  },
+  "Get Lost for Special Edition": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0.0",
+      "file_id": 513968,
+      "file_name": "Get Lost for Special Edition-119736-1-0-0-1719079004.zip",
+      "mod_id": 119736,
+      "hash": "sha256-mRJ+2buYNDNFJqHG9za/k9VKBYU3NyVgepxgTOp60Jo="
+    },
+    "type": "primary"
+  }
+}

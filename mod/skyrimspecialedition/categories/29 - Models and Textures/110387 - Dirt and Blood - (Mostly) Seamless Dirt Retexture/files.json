@@ -1,0 +1,23 @@
+{
+  "Dirt and Blood - Seamless Dirt Texture": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 465798,
+      "file_name": "Dirt and Blood - Seamless Dirt Texture-110387-1-0-1706476981.zip",
+      "mod_id": 110387,
+      "hash": "sha256-TXvX8v/XXEub7EyvV1El4PJmgsjXp3xx6ryQSnmm+OI="
+    },
+    "type": "primary"
+  },
+  "Seamless Dirt - Bathing in Skyrim": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 485162,
+      "file_name": "Seamless Dirt - Bathing in Skyrim-110387-1-0-1711681375.zip",
+      "mod_id": 110387,
+      "hash": "sha256-+TKBnxYKBQ7E8bOoTAf9VAOrM7UEKCDHfEJ/RKdTo2k="
+    }
+  }
+}

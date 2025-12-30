@@ -1,0 +1,23 @@
+{
+  "Optional Patch for Brighter Dirt and Blood": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.5b",
+      "file_id": 154904,
+      "file_name": "Optional Patch for Brighter Dirt and Blood-38886-1-5b-1597078711.rar",
+      "mod_id": 38886,
+      "hash": "sha256-/wVlHoun1kmxHEW6d113pqNjobTvF2WHPhGVNnGgRH4="
+    }
+  },
+  "Dirt and Blood": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "2.38",
+      "file_id": 682273,
+      "file_name": "Dirt and Blood-38886-2-38-1761927466.zip",
+      "mod_id": 38886,
+      "hash": "sha256-lMCbIC8HRMBWY+tf0d/R5pD97GePpi/+l1ED7i9fYA8="
+    },
+    "type": "primary"
+  }
+}

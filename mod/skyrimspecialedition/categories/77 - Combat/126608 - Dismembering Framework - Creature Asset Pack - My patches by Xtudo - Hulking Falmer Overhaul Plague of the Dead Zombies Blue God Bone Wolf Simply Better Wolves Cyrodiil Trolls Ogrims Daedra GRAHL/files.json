@@ -1,0 +1,299 @@
+{
+    "DF - Creatures by Xtudo - Falmer Overhaul": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "1.1",
+            "file_id": 531741,
+            "file_name": "DF - Creatures by Xtudo - Falmer Overhaul-126608-1-1-1723727488.7z",
+            "mod_id": 126608,
+            "hash": "sha256-Tbws6jyH8ypp0EIii1Kk3TD4sQgA1JIwnUr+C6nXkKA="
+        },
+        "type": "primary"
+    },
+    "DF - Creatures by Xtudo - Draugrs": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "1.3",
+            "file_id": 533265,
+            "file_name": "DF - Creatures by Xtudo - Draugrs-126608-1-3-1724102008.7z",
+            "mod_id": 126608,
+            "hash": "sha256-gG0io1FIAhlMBkZ/Ju2PHmGzr7ctGdhiMu3qrQwb01M="
+        },
+        "type": "primary"
+    },
+    "DF - Creatures by Xtudo - Hulking Draugr": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "1.3",
+            "file_id": 533272,
+            "file_name": "DF - Creatures by Xtudo - Hulking Draugr-126608-1-3-1724102227.7z",
+            "mod_id": 126608,
+            "hash": "sha256-57n8VNnM1tp6NrcCl6ArGio9ssf7VDjZwqyaFqiNES0="
+        },
+        "type": "primary"
+    },
+    "DF - Creatures by Xtudo - CC Plague of the Dead": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "1.6",
+            "file_id": 533953,
+            "file_name": "DF - Creatures by Xtudo - CC Plague of the Dead-126608-1-6-1724278920.7z",
+            "mod_id": 126608,
+            "hash": "sha256-8NPNLvURtYYaH2osKE/neMU5n3tgJryQM6Oqg1Ac5Lg="
+        },
+        "type": "primary"
+    },
+    "DF - Creatures by Xtudo - Mihails CC Zombies": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "1.6",
+            "file_id": 533954,
+            "file_name": "DF - Creatures by Xtudo - Mihails CC Zombies-126608-1-6-1724279009.7z",
+            "mod_id": 126608,
+            "hash": "sha256-gYyCX3Iletg8UpEfOenbgO+sEkgs2rCsT5LoTjD2CRc="
+        },
+        "type": "primary"
+    },
+    "DF - Creatures by Xtudo - Mihails CC Zombies Resu": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "1.7",
+            "file_id": 546697,
+            "file_name": "DF - Creatures by Xtudo - Mihails CC Zombies Resu-126608-1-7-1727434832.7z",
+            "mod_id": 126608,
+            "hash": "sha256-2e7aP+tvWpidEKokdRfkmh4C5zqtgx9KMbKr2BisPc4="
+        },
+        "type": "primary"
+    },
+    "DF - Creatures by Xtudo - CC Goblins - Blue God": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "1.8",
+            "file_id": 550068,
+            "file_name": "DF - Creatures by Xtudo - CC Goblins - Blue God-126608-1-8-1728339319.7z",
+            "mod_id": 126608,
+            "hash": "sha256-bNqf9N4IFzu3ZjFG2hV4AbJ7EQdvQxeDjmSzVVnDZzo="
+        },
+        "type": "primary"
+    },
+    "DF - Creatures by Xtudo - Hulking Draugr - Dry": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "2.0",
+            "file_id": 552040,
+            "file_name": "DF - Creatures by Xtudo - Hulking Draugr - Dry-126608-2-0-1728908198.7z",
+            "mod_id": 126608,
+            "hash": "sha256-6I4MILem2Qk2UIOt7PS77/qD76+Y2pdc2TFEEzfWtY0="
+        },
+        "type": "primary"
+    },
+    "DF - Creatures by Xtudo - Vanilla Draugr - Dry": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "2.0",
+            "file_id": 552041,
+            "file_name": "DF - Creatures by Xtudo - Vanilla Draugr - Dry-126608-2-0-1728908373.7z",
+            "mod_id": 126608,
+            "hash": "sha256-8Maht8voeeYqYww5W7rMUGLL5x1QKTu2ryXy24hdZOw="
+        },
+        "type": "primary"
+    },
+    "DF - Creatures by Xtudo - Draugrs - Dry Blood": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "2.0",
+            "file_id": 552042,
+            "file_name": "DF - Creatures by Xtudo - Draugrs - Dry Blood-126608-2-0-1728908872.7z",
+            "mod_id": 126608,
+            "hash": "sha256-FRq7Yc4FkTwVKzwk+tVNDbb/q1oTJBYGh5HN0vrNSqY="
+        },
+        "type": "primary"
+    },
+    "DF - Creatures by Xtudo - CC Bone Wolf": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "2.1",
+            "file_id": 552102,
+            "file_name": "DF - Creatures by Xtudo - CC Bone Wolf-126608-2-1-1728922851.7z",
+            "mod_id": 126608,
+            "hash": "sha256-+gw/ifa5sGHldDIbaMklMH1SesFXnr5XO0hoESMYWus="
+        },
+        "type": "primary"
+    },
+    "DF - Creatures by Xtudo - Simply Better Wolves": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "2.2",
+            "file_id": 552336,
+            "file_name": "DF - Creatures by Xtudo - Simply Better Wolves-126608-2-2-1728999029.7z",
+            "mod_id": 126608,
+            "hash": "sha256-l3MxATgDZlywzXJTwHDt5NhSXmavJTq/p8KFIb7lchM="
+        },
+        "type": "primary"
+    },
+    "DF - Creatures by Xtudo - Wolves of Skyrim": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "2.3",
+            "file_id": 557451,
+            "file_name": "DF - Creatures by Xtudo - Wolves of Skyrim-126608-2-3-1730381277.7z",
+            "mod_id": 126608,
+            "hash": "sha256-F9dbXAOg5MN0VxoAEYOABNwMq4GH8sCGaK6rWlwR6oc="
+        },
+        "type": "primary"
+    },
+    "DF - Creatures by Xtudo - Vanilla Hulking Draugr": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "2.5",
+            "file_id": 558220,
+            "file_name": "DF - Creatures by Xtudo - Vanilla Hulking Draugr-126608-2-5-1730558330.7z",
+            "mod_id": 126608,
+            "hash": "sha256-kN+svHC5prGtLhm7ZWJ58WwAAUlG9yivMq1ioPGlu6Q="
+        },
+        "type": "primary"
+    },
+    "DF - Creatures by Xtudo - Mihails Wolves Fluffy": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "2.7",
+            "file_id": 559464,
+            "file_name": "DF - Creatures by Xtudo - Mihails Wolves Fluffy-126608-2-7-1730900867.7z",
+            "mod_id": 126608,
+            "hash": "sha256-AwgDH8T+dtOx4GGPlypIiqWvTWqjmIkHFVopOSCjQ0U="
+        },
+        "type": "primary"
+    },
+    "DF - Creatures by Xtudo - Mihails Wolves NonFluffy": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "2.7",
+            "file_id": 559465,
+            "file_name": "DF - Creatures by Xtudo - Mihails Wolves NonFluffy-126608-2-7-1730900915.7z",
+            "mod_id": 126608,
+            "hash": "sha256-WcVUBp9yFfSEK+UVbPlARY7xX2XS4JdK10s4fPRLfgI="
+        },
+        "type": "primary"
+    },
+    "DF - Creatures by Xtudo - 4th Ogrims": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "2.8",
+            "file_id": 559732,
+            "file_name": "DF - Creatures by Xtudo - 4th Ogrims-126608-2-8-1730982924.7z",
+            "mod_id": 126608,
+            "hash": "sha256-K76r9ZWXA+4zpxop7gyK6echO3BToYSjNjRS+u73JGo="
+        },
+        "type": "primary"
+    },
+    "DF - Creatures by Xtudo - 4th Daedra": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "2.9",
+            "file_id": 563636,
+            "file_name": "DF - Creatures by Xtudo - 4th Deadra-126608-2-9-1731938341.7z",
+            "mod_id": 126608,
+            "hash": "sha256-fGQUgS2+Afq1a8o+BCncxpvdPSayaaY8hTwtadfurHI="
+        },
+        "type": "primary"
+    },
+    "DF - Creatures by Xtudo - Fluffworks": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "3.0",
+            "file_id": 600016,
+            "file_name": "DF - Creatures by Xtudo - Fluffworks-126608-3-0-1740750018.7z",
+            "mod_id": 126608,
+            "hash": "sha256-Y27nqXYl2N5Etf3ilFjnVpq2YNtV+eerb+j40luhQ3U="
+        },
+        "type": "primary"
+    },
+    "DF - Creatures by Xtudo - 4th Trolls": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "3.1",
+            "file_id": 617232,
+            "file_name": "DF - Creatures by Xtudo - 4th Trolls-126608-3-1-1744639319.7z",
+            "mod_id": 126608,
+            "hash": "sha256-MiabagiXXGKw6g0CzltND7qnkiQMyzO7PadaIFssukg="
+        },
+        "type": "primary"
+    },
+    "DF - Creatures by Xtudo - Mihail Undead Snow Elves": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "3.2",
+            "file_id": 617335,
+            "file_name": "DF - Creatures by Xtudo - Mihail Undead Snow Elves-126608-3-2-1744667668.7z",
+            "mod_id": 126608,
+            "hash": "sha256-DHQVz8M75iqqA5htfwQwkAnit6gODTCm8srtSj9S05Y="
+        },
+        "type": "primary"
+    },
+    "DF - Creatures by Xtudo - Ancient Falmer Ruins": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "3.2",
+            "file_id": 617337,
+            "file_name": "DF - Creatures by Xtudo - Ancient Falmer Ruins-126608-3-2-1744667738.7z",
+            "mod_id": 126608,
+            "hash": "sha256-e8I3RwhlhI6ENtMufXtffyXCMkTfdxAnD6cs05YE/LU="
+        },
+        "type": "primary"
+    },
+    "DF - Creatures by Xtudo - Ancient FR - Mihail USE": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "3.2",
+            "file_id": 617338,
+            "file_name": "DF - Creatures by Xtudo - Ancient FR - Mihail USE-126608-3-2-1744667823.7z",
+            "mod_id": 126608,
+            "hash": "sha256-jty124RYwmqnrF3ri++SB1cQ7dtUtvbsg6MHA7ib5jg="
+        },
+        "type": "primary"
+    },
+    "DF - Creatures by Xtudo - True Wolves Of Skyrim": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "3.3",
+            "file_id": 627684,
+            "file_name": "DF - Creatures by Xtudo - True Wolves Of Skyrim-126608-3-3-1747404412.7z",
+            "mod_id": 126608,
+            "hash": "sha256-cNzrkx5O8BRSi5L4E7Q4celqZoBQAQbpXm/GrQ89/Wc="
+        },
+        "type": "primary"
+    },
+    "DF - Creatures by Xtudo - TNT - True Nordic Trolls": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "3.4",
+            "file_id": 631186,
+            "file_name": "DF - Creatures by Xtudo - TNT - True Nordic Trolls-126608-3-4-1748204528.7z",
+            "mod_id": 126608,
+            "hash": "sha256-wFRHmKSKvB5V8eG7l8YAIWhiZUDkULwQ6W7g23q3ffM="
+        },
+        "type": "primary"
+    },
+    "DF - Creatures by Xtudo - GRAHL - The Ice Troll": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "3.5",
+            "file_id": 631440,
+            "file_name": "DF - Creatures by Xtudo - GRAHL - The Ice Troll-126608-3-5-1748266602.7z",
+            "mod_id": 126608,
+            "hash": "sha256-sg4v/gDnbRDJIiuzID+y/nSvdsWoq92y6v9v/kuejEc="
+        },
+        "type": "primary"
+    },
+    "DF - Creatures by Xtudo - Udefrykte Uderfrykte": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "3.6",
+            "file_id": 662511,
+            "file_name": "DF - Creatures by Xtudo - Udefrykte Uderfrykte-126608-3-6-1757028264.7z",
+            "mod_id": 126608,
+            "hash": "sha256-K8PwKnaoQegdXx3MAz0WhCU41VYMSVYTzuxx3lQWk3U="
+        },
+        "type": "primary"
+    }
+}

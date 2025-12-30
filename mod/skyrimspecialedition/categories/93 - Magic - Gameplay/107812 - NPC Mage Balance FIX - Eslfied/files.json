@@ -1,0 +1,24 @@
+{
+  "NPC Mage Balance FIX - Eslfied - 0.5 to 2.0": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 455318,
+      "file_name": "NPC Mage Balance FIX - Eslfied - 0.5 to 2.0-107812-1-0-1703622723.zip",
+      "mod_id": 107812,
+      "hash": "sha256-MTr+Bu7j4LVAeRsGWJplbQfFfIglN/M8OLZV5HBMho4="
+    },
+    "type": "primary"
+  },
+  "NPC Mage Balance FIX - Eslfied - 0.5 to 1.0": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 455319,
+      "file_name": "NPC Mage Balance FIX - Eslfied - 0.5 to 1.0-107812-1-0-1703622762.zip",
+      "mod_id": 107812,
+      "hash": "sha256-jc7bRifC5EkxGQVeV4TdxDmQgLGVbD8VKHrBZwAKFH4="
+    },
+    "type": "primary"
+  }
+}

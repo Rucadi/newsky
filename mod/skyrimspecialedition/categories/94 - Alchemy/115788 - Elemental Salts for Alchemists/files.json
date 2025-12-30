@@ -1,0 +1,56 @@
+{
+  "Salts x 5": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 487214,
+      "file_name": "Salts x 5-115788-1-0-1712175539.7z",
+      "mod_id": 115788,
+      "hash": "sha256-J/07s3mXOQPuQaCxP0oIcK3+21HU8dPno7I2/jqUKZo="
+    },
+    "type": "primary"
+  },
+  "Salts x10": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 487215,
+      "file_name": "Salts x10-115788-1-0-1712175579.7z",
+      "mod_id": 115788,
+      "hash": "sha256-BQKXXgD0hhWD0+iLXU7e9V+uwnbFMD2TSmOGw+YJnEM="
+    },
+    "type": "primary"
+  },
+  "Salts x15": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 487216,
+      "file_name": "Salts x15-115788-1-0-1712175690.7z",
+      "mod_id": 115788,
+      "hash": "sha256-27xgIhRnMfFUvBAOrPWBciNncby7gv5w9TRJK63hFGQ="
+    },
+    "type": "primary"
+  },
+  "Saltsx20": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 487217,
+      "file_name": "Saltsx20-115788-1-0-1712175717.7z",
+      "mod_id": 115788,
+      "hash": "sha256-h9DnPOX36HWqV2K2UCEiWPDhIvgAH/64OFS4b7BvJPE="
+    },
+    "type": "primary"
+  },
+  "Cheaper Salt Prices": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 603492,
+      "file_name": "Cheaper Salt Prices-115788-1-0-1741509843.7z",
+      "mod_id": 115788,
+      "hash": "sha256-MS3g+isBWFTjLpk2TmVzygSGJO8ljZPEq+YZqAXNNSQ="
+    }
+  }
+}

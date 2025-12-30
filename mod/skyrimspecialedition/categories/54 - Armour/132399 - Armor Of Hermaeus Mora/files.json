@@ -1,0 +1,23 @@
+{
+  "Armor of Hermaeus Mora (Render Version)": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.00",
+      "file_id": 555867,
+      "file_name": "Armor of Hermaeus Mora (Render Version)-132399-1-00-1729983091.zip",
+      "mod_id": 132399,
+      "hash": "sha256-shXyMxPsJPHIssWqBzE0aRxoHgTPoG/e+MehvAV2mec="
+    },
+    "type": "primary"
+  },
+  "Render 2K": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.00",
+      "file_id": 555868,
+      "file_name": "Render 2K-132399-1-00-1729983179.zip",
+      "mod_id": 132399,
+      "hash": "sha256-zyjGwLMgH5ld7JKMEcxcjvhfykvYCrKouhF2rZNy7sY="
+    }
+  }
+}

@@ -1,0 +1,101 @@
+{
+  "SMIM - Assorted Mesh Fixes Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.12a",
+      "file_id": 185402,
+      "file_name": "SMIM - Assorted Mesh Fixes Patch-45597-1-01-1613099926.7z",
+      "mod_id": 45597,
+      "hash": "sha256-VgAP8VbAm1TFOGJC3hUy/nowjhMmTRYzj0uEAF5zzHA="
+    },
+    "type": "primary"
+  },
+  "Dlizzio's Mesh Fixes - Skyrim Landscape and Water Fixes Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.12a",
+      "file_id": 185506,
+      "file_name": "Dlizzio's Mesh Fixes - Skyrim Landscape and Water Fixes Patch-45597-1-01-1613149450.7z",
+      "mod_id": 45597,
+      "hash": "sha256-9dAfdf5Cn5kWzgE4Wtk1LXGuNPj2A7fflt1ZxinjTqY="
+    },
+    "type": "primary"
+  },
+  "Assorted Mesh Fixes - SMIM - Blended Roads Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.12a",
+      "file_id": 185518,
+      "file_name": "Assorted Mesh Fixes - SMIM - Blended Roads Patch-45597-1-02-1613152761.7z",
+      "mod_id": 45597,
+      "hash": "sha256-KiZZ06HH7ZBdErMPVRrBPcSRhfE7bbV/oQm8tdJXbt4="
+    },
+    "type": "primary"
+  },
+  "Assorted Mesh Fixes - SMIM - Really Blended Roads Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.12a",
+      "file_id": 185519,
+      "file_name": "Assorted Mesh Fixes - SMIM - Really Blended Roads Patch-45597-1-02-1613152797.7z",
+      "mod_id": 45597,
+      "hash": "sha256-XNUI6w/2BiyckmhfPvjLr6z8ft0cA4xg911m6idjU+E="
+    },
+    "type": "primary"
+  },
+  "Dlizzio's Mesh Fixes - Assorted Mesh Fixes Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.12a",
+      "file_id": 186667,
+      "file_name": "Dlizzio's Mesh Fixes - Assorted Mesh Fixes Patch-45597-1-03-1613690417.7z",
+      "mod_id": 45597,
+      "hash": "sha256-AGlo++OTdnvTK78/SBRWC5oP3PTGp8fR3blwjB0gvFc="
+    },
+    "type": "primary"
+  },
+  "Unofficial Material Fix - Assorted Mesh Fixes Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.12a",
+      "file_id": 190529,
+      "file_name": "Unofficial Material Fix - Assorted Mesh Fixes Patch-45597-1-11-1615330821.7z",
+      "mod_id": 45597,
+      "hash": "sha256-acaltsgt3clU9N/41wgpI8miubdVYmmHG0bDQR/XorQ="
+    },
+    "type": "primary"
+  },
+  "Skyrim Particle Patch for ENB - Assorted Mesh Fixes - Solitude Mesh Fixes Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.12a",
+      "file_id": 190742,
+      "file_name": "Skyrim Particle Patch for ENB - Assorted Mesh Fixes - Solitude Mesh Fixes Patch-45597-1-12-1615439841.7z",
+      "mod_id": 45597,
+      "hash": "sha256-SLyJwOjXKYG3ZBOK1FQwsUeol91sk7dEq44b1kaPmWw="
+    },
+    "type": "primary"
+  },
+  "Skyrim Particle Patch for ENB - ELFX - Unofficial Material Fix Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.12a",
+      "file_id": 190743,
+      "file_name": "Skyrim Particle Patch for ENB - ELFX - Unofficial Material Fix Patch-45597-1-12-1615439884.7z",
+      "mod_id": 45597,
+      "hash": "sha256-jRxlNpnPNmS9FrDl1Wn1fJsuWnfSlENPuBmyEQfBjTs="
+    },
+    "type": "primary"
+  },
+  "SMIM - Quality Addon - Unofficial Material Fix Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.12a",
+      "file_id": 190815,
+      "file_name": "SMIM - Quality Addon - Unofficial Material Fix Patch-45597-1-12a-1615475679.7z",
+      "mod_id": 45597,
+      "hash": "sha256-3Khp9QmHVtZL51oMn/nAjo4KX1NPqZDiYZYHwBiL+EU="
+    },
+    "type": "primary"
+  }
+}

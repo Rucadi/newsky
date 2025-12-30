@@ -1,0 +1,34 @@
+{
+  "Render 2K": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.00",
+      "file_id": 596910,
+      "file_name": "Render 2K-142360-1-00-1740058935.zip",
+      "mod_id": 142360,
+      "hash": "sha256-419YMMN2npi4aP9e6mohT33hEfFffJyPCPmqArOASEk="
+    }
+  },
+  "Drake Knight Armor (Render Version)": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.2",
+      "file_id": 609151,
+      "file_name": "Drake Knight Armor (Render Version)-142360-1-2-1742805105.zip",
+      "mod_id": 142360,
+      "hash": "sha256-VGHBjj+8QiPtq3frcMLziUn1sPc1xjaikfqPs7csBuA="
+    },
+    "type": "primary"
+  },
+  "Fallen Dragonborn Boss": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.2",
+      "file_id": 609152,
+      "file_name": "Fallen Dragonborn Boss-142360-1-2-1742805122.zip",
+      "mod_id": 142360,
+      "hash": "sha256-/LZNy/XvSFXGqa6nerXZgEkBR7+wC09r5pvb0Br0cxY="
+    },
+    "type": "primary"
+  }
+}

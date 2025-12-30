@@ -1,0 +1,32 @@
+{
+  "LDD_LevisChoice_EyebrowSetforMen": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0.0",
+      "file_id": 608967,
+      "file_name": "LDD_LevisChoice_EyebrowSetforMen-145574-1-0-0-1742763000.7z",
+      "mod_id": 145574,
+      "hash": "sha256-n04pTacfABh/mQRCA+quG3P992QZw7TaijFniMLmvgc="
+    },
+    "type": "primary"
+  },
+  "LDD_LevisChoice_EyebrowSetforMen UBE": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0.1",
+      "file_id": 620595,
+      "file_name": "LDD_LevisChoice_EyebrowSetforMen UBE-145574-1-0-1-1745466586.7z",
+      "mod_id": 145574,
+      "hash": "sha256-APeHEgG6Vtj0CZxWg24OkRVti/b4Eo6x6eb3ji25hbM="
+    }
+  },
+  "LDD_LevisChoice_EyebrowSetforMen Vanilla": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.01",
+      "file_id": 641898,
+      "file_name": "LDD_LevisChoice_EyebrowSetforMen Vanilla-145574-1-01-1750959873.7z",
+      "mod_id": 145574
+    }
+  }
+}

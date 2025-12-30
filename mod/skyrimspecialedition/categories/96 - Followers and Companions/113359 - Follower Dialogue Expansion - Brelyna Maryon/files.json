@@ -1,0 +1,43 @@
+{
+    "FDE Brelyna Auri Patch": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "1",
+            "file_id": 606746,
+            "file_name": "FDE Brelyna Auri Patch-113359-1-1742234050.zip",
+            "mod_id": 113359,
+            "hash": "sha256-8UQ9kiNzT5KUcHZV1YpHmqUfBU8B7gk9tFxNeP2H3l8="
+        }
+    },
+    "FDE Brelyna Inigo patch": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "1",
+            "file_id": 606775,
+            "file_name": "FDE Brelyna Inigo patch-113359-1-1742238544.zip",
+            "mod_id": 113359,
+            "hash": "sha256-wLs5slQyT/TjTLuWHbY0Rb4oTvzaNFElzlYM0rjSJjI="
+        }
+    },
+    "FDE Brelyna Lucien patch": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "2",
+            "file_id": 606822,
+            "file_name": "FDE Brelyna Lucien patch-113359-2-1742242909.zip",
+            "mod_id": 113359,
+            "hash": "sha256-q/0uTB6kKejTxTeGZ23oj0ysvjxqKsGN9bN48wH+jV8="
+        }
+    },
+    "FDE Brelyna": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "3.0",
+            "file_id": 640340,
+            "file_name": "FDE Brelyna-113359-3-0-1750536087.zip",
+            "mod_id": 113359,
+            "hash": "sha256-9HeqJIeUClPlMtynrdhyKU1PhkrcemhPGWKOwk1iLVU="
+        },
+        "type": "primary"
+    }
+}

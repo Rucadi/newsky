@@ -1,0 +1,23 @@
+{
+  "ENB Complex Grass Texture Guide": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 265882,
+      "file_name": "ENB Complex Grass Texture Guide-64022-1-0-1645456065.rar",
+      "mod_id": 64022,
+      "hash": "sha256-LfF5Lhqwu/kxBBM/rEACut+tms2PVn/DiqTuLKXaMl0="
+    }
+  },
+  "Rock Grass for ENB Complex Grass SE - Johnskyrim": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1",
+      "file_id": 352693,
+      "file_name": "Rock Grass for ENB Complex Grass SE - Johnskyrim-64022-1-1-1674594187.rar",
+      "mod_id": 64022,
+      "hash": "sha256-1vl2MoyNI21V/PLp3wDwcJgrJObYub1dSfFEGK/eo0g="
+    },
+    "type": "primary"
+  }
+}

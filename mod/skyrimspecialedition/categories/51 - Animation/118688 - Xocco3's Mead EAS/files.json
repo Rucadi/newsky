@@ -1,0 +1,65 @@
+{
+  "1. XMead EAS": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "2.0",
+      "file_id": 632982,
+      "file_name": "XMead EAS-118688-2-0-1748638982.rar",
+      "mod_id": 118688,
+      "hash": "sha256-G4ZHI3G4MH4fbvCNdiXkIdX3zLHLZHMIfkQvYzd1mP8="
+    },
+    "type": "primary"
+  },
+  "2. XMead EAS No Bubbles": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "2.0",
+      "file_id": 632983,
+      "file_name": "XMead EAS No Bubbles-118688-2-0-1748639170.rar",
+      "mod_id": 118688,
+      "hash": "sha256-llwg9aYq8lYjA5VJAWJqclVGGiCFaSXLLBhUTJYAU8U="
+    },
+    "type": "primary"
+  },
+  "3. XMead EAS Opaque": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "2.0",
+      "file_id": 632985,
+      "file_name": "3. XMead EAS Opaque-118688-2-0-1748639252.rar",
+      "mod_id": 118688,
+      "hash": "sha256-PCN5zQyIKbIm3sNLrwsEABVOjl04f64+fS0rfNs5g4c="
+    },
+    "type": "primary"
+  },
+  "1. XMead Gourmet 2K": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "2.0",
+      "file_id": 632991,
+      "file_name": "1. XMead Gourmet-118688-2-0-1748640090.rar",
+      "mod_id": 118688,
+      "hash": "sha256-FmQP+tOrtxAKaJya3cdJ8fuH07RgCyKFYEQ0dStzbJg="
+    }
+  },
+  "2. XMead Gourmet No Bubbles 2K": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "2.0",
+      "file_id": 632993,
+      "file_name": "XMead Gourmet No Bubbles-118688-2-0-1748640320.rar",
+      "mod_id": 118688,
+      "hash": "sha256-Y5DX9DLMxUtqrHhi+QLVZpXDZ+9PReXg8NhJQ7d1VPw="
+    }
+  },
+  "3. XMead Gourmet Opaque 2K": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "2.0",
+      "file_id": 632994,
+      "file_name": "3. XMead Gourmet Opaque-118688-2-0-1748640454.rar",
+      "mod_id": 118688,
+      "hash": "sha256-IVxtCTAVmFCD6Sfii1aefK+dEcTAWoNFCUhziMO7zWQ="
+    }
+  }
+}

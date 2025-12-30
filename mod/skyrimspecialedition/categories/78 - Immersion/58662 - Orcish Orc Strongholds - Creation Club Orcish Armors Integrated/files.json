@@ -1,0 +1,23 @@
+{
+  "Orcish Orc Strongholds": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0a",
+      "file_id": 280346,
+      "file_name": "Orcish Orc Strongholds-58662-1-0a-1651243077.rar",
+      "mod_id": 58662,
+      "hash": "sha256-IYl3IyY4i5ve7A+IphfHy5snW9bVYWOM4kV5LnHbgws="
+    },
+    "type": "primary"
+  },
+  "Orcish Orc Strongholds Non-USSEP": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0b",
+      "file_id": 640940,
+      "file_name": "Orcish Orc Strongholds Non-USSEP-58662-1-0b-1750670468.zip",
+      "mod_id": 58662,
+      "hash": "sha256-8Zmu8KqZNTrTuDCpiglJ+hYAr+DRb+77HSW4n2XOtNg="
+    }
+  }
+}

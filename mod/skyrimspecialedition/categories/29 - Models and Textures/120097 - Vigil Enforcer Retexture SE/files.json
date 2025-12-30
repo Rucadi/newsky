@@ -1,0 +1,33 @@
+{
+    "Vigil Enforcer Retexture SE": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "1.0",
+            "file_id": 504076,
+            "file_name": "Vigil Enforcer Retexture SE-120097-1-0-1716468587.7z",
+            "mod_id": 120097,
+            "hash": "sha256-XaDp61AepWYXj6vevzOB1EMJsObnRgxsrdvYz6G0fTU="
+        },
+        "type": "primary"
+    },
+    "Vigil Enforcer Retexture SE - Half Res": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "1.0",
+            "file_id": 504077,
+            "file_name": "Vigil Enforcer Retexture SE - Half Res-120097-1-0-1716468645.7z",
+            "mod_id": 120097,
+            "hash": "sha256-4iKhsjEwCqtAuHdd292Bhx0RsLDmppLrXEG2hBcqUuw="
+        }
+    },
+    "Vigil Enforcer Retexture SE - Low Res": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "1.0",
+            "file_id": 504078,
+            "file_name": "Vigil Enforcer Retexture SE - Low Res-120097-1-0-1716468701.7z",
+            "mod_id": 120097,
+            "hash": "sha256-XosT+rtwQoUtEODXYC/j9HEmWI2BhNQZEfZqHcSEfLE="
+        }
+    }
+}

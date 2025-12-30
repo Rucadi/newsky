@@ -1,0 +1,44 @@
+{
+  "Dragon.Priest.4k": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.2",
+      "file_id": 10639,
+      "file_name": "Dragon.Priest.4k-4974-1-2.7z",
+      "mod_id": 4974,
+      "hash": "sha256-9xu0Kn6j744vt5MpsGnAkNG41SQj07h1BPzNvCsXjGc="
+    },
+    "type": "primary"
+  },
+  "Dragon.Priest.4k-2k": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.2",
+      "file_id": 10640,
+      "file_name": "Dragon.Priest.4k-2k-4974-1-2.7z",
+      "mod_id": 4974,
+      "hash": "sha256-x/ODUR8ZR8uds7uUP8Q8MiOd9sDMosAyU8/q0MoTwT0="
+    },
+    "type": "primary"
+  },
+  "Dragon.Priest.2k": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.2",
+      "file_id": 10647,
+      "file_name": "Dragon.Priest.2k-4974-1-2.7z",
+      "mod_id": 4974,
+      "hash": "sha256-6iOiry5kKdTyKF28kON+DtyRdHM4Xeo7j22nw62fxqE="
+    }
+  },
+  "Dragon.Priest.1k": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.2",
+      "file_id": 10648,
+      "file_name": "Dragon.Priest.1k-4974-1-2.7z",
+      "mod_id": 4974,
+      "hash": "sha256-n/MzKIFuFxDv471prOcpTSctXiEq1R3JuGWPvRYDt/k="
+    }
+  }
+}

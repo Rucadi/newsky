@@ -1,0 +1,23 @@
+{
+  "Increased range patch for behavior packages by KhrysINXS": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1",
+      "file_id": 271244,
+      "file_name": "Increased range patch for behavior packages by KhrysINXS-3862-1-1647725556.rar",
+      "mod_id": 3862,
+      "hash": "sha256-62c7Loe15PZAlgff8TC+Py36J7JrjHwMEpJqev8EnTY="
+    }
+  },
+  "Hearthfire Multiple Adoptions and Custom Home Support SE": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "3.0.4",
+      "file_id": 295913,
+      "file_name": "Hearthfire Multiple Adoptions and Custom Home Support SE-3862-3-0-4-1656871468.7z",
+      "mod_id": 3862,
+      "hash": "sha256-vUQJeYipwzJ0BjM1Zl5/bkaXfMnsVMBD7754ndvOB38="
+    },
+    "type": "primary"
+  }
+}

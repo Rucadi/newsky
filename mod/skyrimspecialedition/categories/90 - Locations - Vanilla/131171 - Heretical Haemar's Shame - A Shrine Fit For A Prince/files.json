@@ -1,0 +1,33 @@
+{
+    "Lux Patch": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "1.2",
+            "file_id": 552623,
+            "file_name": "Lux Patch-131171-1-2-1729074834.zip",
+            "mod_id": 131171,
+            "hash": "sha256-FarSb8LVGjY/DOmFTuv92DZHrdFKWQc8S6e5s05VpDA="
+        }
+    },
+    "Arena Patch": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "2.0",
+            "file_id": 621356,
+            "file_name": "Arena Patch-131171-2-0-1745702576.zip",
+            "mod_id": 131171,
+            "hash": "sha256-m3kOSIGgk0Efuals658gqJH97cTMGHN+Rk6He+lI18A="
+        }
+    },
+    "Heretical Haemer's Shame": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "4.0",
+            "file_id": 675303,
+            "file_name": "FuzzBeed's Resources-131171-4-0-1760302407.zip",
+            "mod_id": 131171,
+            "hash": "sha256-9IRZLk54MH0qHgfGM3BTcdowhEvdAy0XBXzMm/q+J+c="
+        },
+        "type": "primary"
+    }
+}

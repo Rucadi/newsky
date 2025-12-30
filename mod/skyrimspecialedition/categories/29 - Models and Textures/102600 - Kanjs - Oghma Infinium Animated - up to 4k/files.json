@@ -1,0 +1,65 @@
+{
+  "Kanjs - Oghma Infinium Animated 1K": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "2",
+      "file_id": 434858,
+      "file_name": "Kanjs - Oghma Infinium Animated 1K-102600-2-1697590221.zip",
+      "mod_id": 102600,
+      "hash": "sha256-x8neJhfiO1fVwuYdnlu/YCDYU96UDrRUoghWV4HpxwA="
+    },
+    "type": "primary"
+  },
+  "Kanjs - Oghma Infinium Animated 2K": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "2",
+      "file_id": 434859,
+      "file_name": "Kanjs - Oghma Infinium Animated 2K-102600-2-1697590242.zip",
+      "mod_id": 102600,
+      "hash": "sha256-fLHFcKFWWMXxCm1CpNrgT25ULtgH+k+XyKOMW6bg/4M="
+    },
+    "type": "primary"
+  },
+  "Kanjs - Oghma Infinium Animated 4K": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "2",
+      "file_id": 434860,
+      "file_name": "Kanjs - Oghma Infinium Animated 4K-102600-2-1697590283.zip",
+      "mod_id": 102600,
+      "hash": "sha256-uavVCE2oJcHnzBLPJh0x31uSEQTKDYEB/3rmBUJll+8="
+    },
+    "type": "primary"
+  },
+  "Kanjs - Oghma Infinium Not Altered 1K": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "2",
+      "file_id": 434861,
+      "file_name": "Kanjs - Oghma Infinium Not Altered 1K-102600-2-1697590308.zip",
+      "mod_id": 102600,
+      "hash": "sha256-eWgHnjM5RA0xj6Vfv0pcszVodF7uiwdFvQ6aApjJ52w="
+    }
+  },
+  "Kanjs - Oghma Infinium Not Altered 2K": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "2",
+      "file_id": 434862,
+      "file_name": "Kanjs - Oghma Infinium Not Altered 2K-102600-2-1697590348.zip",
+      "mod_id": 102600,
+      "hash": "sha256-c8WhrwDi5LVTFBhdU9w6s/wn34gJocUvjpDMh7utLFY="
+    }
+  },
+  "Kanjs - Oghma Infinium Not Altered 4K": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "2",
+      "file_id": 434864,
+      "file_name": "Kanjs - Oghma Infinium Not Altered 4K-102600-2-1697590423.zip",
+      "mod_id": 102600,
+      "hash": "sha256-AKzdPREi6JDJeYTJ3utaFADaq8+Wy4SOZ17AlSM7UkU="
+    }
+  }
+}

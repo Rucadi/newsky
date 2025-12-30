@@ -1,0 +1,23 @@
+{
+    "Aetherius A Race Overhaul Patch": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "1.3",
+            "file_id": 478386,
+            "file_name": "Aetherius A Race Over Patch-104050-1-3-1709926070.7z",
+            "mod_id": 104050,
+            "hash": "sha256-J589aa/HtivmTqibrzwtgkYF9gm0+TbgqEJBcEDTx+A="
+        }
+    },
+    "RNST": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "1.3",
+            "file_id": 478809,
+            "file_name": "RNST-104050-1-3-1710026576.7z",
+            "mod_id": 104050,
+            "hash": "sha256-w9S0puglSi9cCrxc6H2DZrBTZ71QvR0tLLBUTqDtBHo="
+        },
+        "type": "primary"
+    }
+}

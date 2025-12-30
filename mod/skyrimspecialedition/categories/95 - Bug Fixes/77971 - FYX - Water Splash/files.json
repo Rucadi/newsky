@@ -1,0 +1,57 @@
+{
+  "FYX - Water Splash - Vanilla": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0.1",
+      "file_id": 337581,
+      "file_name": "FYX - Water Splash - Vanilla-77971-1-0-1-1670181496.7z",
+      "mod_id": 77971,
+      "hash": "sha256-pBKfw0d6mS1zBzGlWD81VhY5ifT1rns2HiAyc1WB2Vc="
+    },
+    "type": "primary"
+  },
+  "FYX - Water Splash - Water for ENB": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0.1",
+      "file_id": 337582,
+      "file_name": "FYX - Water Splash - Water for ENB-77971-1-0-1-1670181516.7z",
+      "mod_id": 77971,
+      "hash": "sha256-d+UN8HOa8ICBYi2azRkkiYZkDZeo4vRqSF2AheBnDjk="
+    },
+    "type": "primary"
+  },
+  "FYX - Water Splash - Water for ENB - WEBaRF": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0.1",
+      "file_id": 337584,
+      "file_name": "FYX - Water Splash - Water for ENB - WEBaRF-77971-1-0-1-1670181543.7z",
+      "mod_id": 77971,
+      "hash": "sha256-PteGMzV0ALavSIjhvWX67IkiZ0eMw+urMMr55D0V3M0="
+    },
+    "type": "primary"
+  },
+  "FYX - Water Splash - RWT2": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0.1.1",
+      "file_id": 343315,
+      "file_name": "FYX - Water Splash - RWT2-77971-1-0-1-1-1671907449.7z",
+      "mod_id": 77971,
+      "hash": "sha256-W58Ra1JTYGbzIMKXCP7HlnWgX3olx+Fc3iXPbf8SBx0="
+    },
+    "type": "primary"
+  },
+  "FYX - Water Splash - RWT2 - WEBaRF": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0.1.1",
+      "file_id": 343317,
+      "file_name": "FYX - Water Splash - RWT2 - WEBaRF-77971-1-0-1-1-1671907477.7z",
+      "mod_id": 77971,
+      "hash": "sha256-3xUFrr/UKWAZXLKHRlfYfk6yihhiCinFCelx3xp5zDw="
+    },
+    "type": "primary"
+  }
+}

@@ -1,0 +1,53 @@
+{
+  "Khajiit Caravan Mules Missouri Retexture": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 200450,
+      "file_name": "Khajiit Caravan Mules Missouri Retexture-49058-1-0-1619517922.rar",
+      "mod_id": 49058,
+      "hash": "sha256-Em147yUBfhrUrNVFgyi1mxrVErSAnlxr56CZZ8bMUAk="
+    }
+  },
+  "Khajiit Caravan Mules Enderal Donkey Model": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 200455,
+      "file_name": "Khajiit Caravan Mules Enderal Donkey Model-49058-1-0-1619521438.rar",
+      "mod_id": 49058,
+      "hash": "sha256-JZxAgvnyq33NdTXHhc2w5vzC/la1TYgfRbZCqr3GB2c="
+    }
+  },
+  "Khajiit Caravan Mules and Khajiit Caravan Kittens Faction Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 205109,
+      "file_name": "Khajiit Caravan Mules and Khajiit Caravan Kittens Faction Patch-49058-1-0-1621768422.rar",
+      "mod_id": 49058,
+      "hash": "sha256-zIP39pixWcFlSI8bX2M8tIvUiUSZPN1QzRG9cvuAWtE="
+    }
+  },
+  "Khajiit Caravan Mules and Khajiit Caravan Kittens ESL Faction Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 206170,
+      "file_name": "Khajiit Caravan Mules and Khajiit Caravan Kittens ESL Faction Patch-49058-1-0-1622280824.rar",
+      "mod_id": 49058,
+      "hash": "sha256-9YDNM0BSi2cLksZ80HL/efpXKlsss7Zh2DVzE1Em1FM="
+    }
+  },
+  "Immersive Khajiit Caravan Mules": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.3",
+      "file_id": 206172,
+      "file_name": "Immersive Khajiit Caravan Mules-49058-1-3-1622281021.rar",
+      "mod_id": 49058,
+      "hash": "sha256-u9ucvJOo6qA6dLkLVs+PA/qrSO3ZBNXW6IGzMJsFaqU="
+    },
+    "type": "primary"
+  }
+}

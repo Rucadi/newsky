@@ -1,0 +1,24 @@
+{
+  "Simple Wearable Lanterns - Toggle": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.2.0",
+      "file_id": 300857,
+      "file_name": "Simple Wearable Lanterns - Toggle-59727-1-2-0-1658417998.zip",
+      "mod_id": 59727,
+      "hash": "sha256-5fwiqJbYOAHLEaAJK78CQDHb6YLWUcZ19fxh40dVpn4="
+    },
+    "type": "primary"
+  },
+  "Simple Wearable Lanterns - Toggle - Light Plugin": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.2.0",
+      "file_id": 300858,
+      "file_name": "Simple Wearable Lanterns - Toggle - Light Plugin-59727-1-2-0-1658418046.zip",
+      "mod_id": 59727,
+      "hash": "sha256-AQ27bjQp3LJ0QapiPXkoHwLMk/C+vOH7TaZZEwbxghA="
+    },
+    "type": "primary"
+  }
+}

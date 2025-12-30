@@ -1,0 +1,406 @@
+{
+  "Mara - My patches SE by Xtudo - USSEP": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1",
+      "file_id": 399502,
+      "file_name": "Mara - My patches SE by Xtudo - USSEP-93917-1-1687300089.7z",
+      "mod_id": 93917,
+      "hash": "sha256-l98gvWiFwymyAblqI5MQ9jvgjINAxY7FTlwvVzaTl3o="
+    },
+    "type": "primary"
+  },
+  "Mara - My patches SE by Xtudo - Lux": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1",
+      "file_id": 399503,
+      "file_name": "Mara - My patches SE by Xtudo - Lux-93917-1-1687300103.7z",
+      "mod_id": 93917,
+      "hash": "sha256-hEd03gqScUIhDhwzq6RfNenw74pECyFt3gWHIxlCOyg="
+    },
+    "type": "primary"
+  },
+  "Mara - My patches SE by Xtudo - ELFX": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1",
+      "file_id": 399504,
+      "file_name": "Mara - My patches SE by Xtudo - ELFX-93917-1-1687300122.7z",
+      "mod_id": 93917,
+      "hash": "sha256-Sl1ry2yReYA8ZknA8pdYPCkNwmyRS2PQ/VcBH3ZY6R8="
+    },
+    "type": "primary"
+  },
+  "Mara - My patches SE by Xtudo - JK's Temple Mara": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1",
+      "file_id": 399505,
+      "file_name": "Mara - My patches SE by Xtudo - JK's Temple Mara-93917-1-1687300152.7z",
+      "mod_id": 93917,
+      "hash": "sha256-WV8b0JIpc/iz7urxfe5DS6+IrMC9kEXJSqMrLbJ/B6Y="
+    },
+    "type": "primary"
+  },
+  "Mara - My patches SE by Xtudo - Lux - JK's Temple": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1",
+      "file_id": 399509,
+      "file_name": "Mara - My patches SE by Xtudo - Lux - JK's-93917-1-1687301245.7z",
+      "mod_id": 93917,
+      "hash": "sha256-iUr2VFhQ7c+haPWHjGZgGVeq07inUguXuXu8Q3zcKXc="
+    },
+    "type": "primary"
+  },
+  "Mara - My patches SE by Xtudo - Alternate Start": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1",
+      "file_id": 399512,
+      "file_name": "Mara - My patches SE by Xtudo - Alternate Start-93917-1-1687303299.7z",
+      "mod_id": 93917,
+      "hash": "sha256-ZMdoL/36SktPUC9dZmjNF1Lz0ju13FtV4qxOcdrOxvo="
+    },
+    "type": "primary"
+  },
+  "Mara - My patches SE by Xtudo - Alternate and Lux": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1",
+      "file_id": 399514,
+      "file_name": "Mara - My patches SE by Xtudo - Alternate and Lux-93917-1-1687304840.7z",
+      "mod_id": 93917,
+      "hash": "sha256-+74q67hFu4ul7g/laus/QQHIYSXTh5r1wHnUtrweNDU="
+    },
+    "type": "primary"
+  },
+  "Mara - My patches SE by Xtudo - ELFX - JK's Temple": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1",
+      "file_id": 399518,
+      "file_name": "Mara - My patches SE by Xtudo - ELFX - JK's Temple-93917-1-1687306247.7z",
+      "mod_id": 93917,
+      "hash": "sha256-JO9wbWbd/TofDXbgbLUCehY0DhpqqUuUMPT5WcGnpQ4="
+    },
+    "type": "primary"
+  },
+  "Mara - My patches SE by Xtudo - Alternate and ELFX": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1",
+      "file_id": 399519,
+      "file_name": "Mara - My patches SE by Xtudo - Alternate and ELFX-93917-1-1687306531.7z",
+      "mod_id": 93917,
+      "hash": "sha256-gFd8+AV49RnxdKlwZuHXpwNG4TXUU0ubHeTVS4nkXfY="
+    },
+    "type": "primary"
+  },
+  "Mara - My patches SE by Xtudo - Lux Valentine": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1",
+      "file_id": 399584,
+      "file_name": "Mara - My patches SE by Xtudo - Lux Valentine-93917-1-1-1687344326.7z",
+      "mod_id": 93917,
+      "hash": "sha256-O8AIOfNQzUvjdoRsZqXeUjHP8J4pC1TdOE6Vi8mCFX4="
+    },
+    "type": "primary"
+  },
+  "Mara - My patches SE by Xtudo - Lux Valentine JK's": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1",
+      "file_id": 399585,
+      "file_name": "Mara - My patches SE by Xtudo - Lux Valentine JK's-93917-1-1687344352.7z",
+      "mod_id": 93917,
+      "hash": "sha256-zQgCWD1+WCEuTN2zd6B8RwtChwyEr7CbZdspb7J3NDE="
+    },
+    "type": "primary"
+  },
+  "Mara - My patches SE by Xtudo - VIGILANT": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1",
+      "file_id": 399588,
+      "file_name": "Mara - My patches SE by Xtudo - VIGILANT-93917-1-1-1687345768.7z",
+      "mod_id": 93917,
+      "hash": "sha256-kEgGRwTUzJbsIKYCquDK52I6s5SgO1rtTXXcLFGRIDA="
+    },
+    "type": "primary"
+  },
+  "Mara - My patches SE by Xtudo - ASLAL ELFX OS": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1",
+      "file_id": 399592,
+      "file_name": "Mara - My patches SE by Xtudo - ASLAL ELFX OS-93917-1-1-1687347913.7z",
+      "mod_id": 93917,
+      "hash": "sha256-dAhJj9Scit3tPHvLBTOGQVgeVEQqZ/p4Ls9H4f0EvfA="
+    }
+  },
+  "Mara - My patches SE by Xtudo - ASLAL Lux OS": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1",
+      "file_id": 399593,
+      "file_name": "Mara - My patches SE by Xtudo - ASLAL Lux OS-93917-1-1-1687347963.7z",
+      "mod_id": 93917,
+      "hash": "sha256-/IfLPYs8wd9st79XXjHsGm17XVi+dmC3P3oALIBEqZQ="
+    }
+  },
+  "Mara - My patches SE by Xtudo - ASLAL": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1",
+      "file_id": 399594,
+      "file_name": "Mara - My patches SE by Xtudo - ASLAL-93917-1-1-1687348036.7z",
+      "mod_id": 93917,
+      "hash": "sha256-kQ/Nai6qsnf1FAoQV299+O0oPGvf15K0Id6W9X7k3bU="
+    }
+  },
+  "Mara - My patches SE by Xtudo - LOTD": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1",
+      "file_id": 399611,
+      "file_name": "Mara - My patches SE by Xtudo - LOTD-93917-1-1-1687351296.7z",
+      "mod_id": 93917,
+      "hash": "sha256-tCkehIXbxTMzCSFHghu3XfjqSskJ09wSaPkJ16v6jbM="
+    },
+    "type": "primary"
+  },
+  "Mara - My patches SE by Xtudo - Distinct Interiors": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1",
+      "file_id": 399630,
+      "file_name": "Mara - My patches SE by Xtudo - Distinct Interiors-93917-1-1-1687356134.7z",
+      "mod_id": 93917,
+      "hash": "sha256-BPHiHAiRByIW/xCjQHleGpiX0CcFbN1HmT3p3E5ewwQ="
+    },
+    "type": "primary"
+  },
+  "Mara - My patches SE by Xtudo - Distinct Lux": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1",
+      "file_id": 399631,
+      "file_name": "Mara - My patches SE by Xtudo - Distinct Lux-93917-1-1687356167.7z",
+      "mod_id": 93917,
+      "hash": "sha256-RFteYYFZ2p/8D+DUOkyZFwUKgyVjtzSiAzBwWy6ZTag="
+    },
+    "type": "primary"
+  },
+  "Mara - My patches SE by Xtudo - Distinct Lux JK's": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1",
+      "file_id": 399632,
+      "file_name": "Mara - My patches SE by Xtudo - Distinct Lux JK's-93917-1-1-1687356189.7z",
+      "mod_id": 93917,
+      "hash": "sha256-bKJhdgphjcWPWt6xfFJisnOAbXZlF9g4AltVmmajexM="
+    },
+    "type": "primary"
+  },
+  "Mara - My patches SE by Xtudo - 2K textures": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1",
+      "file_id": 399676,
+      "file_name": "Mara - My patches SE by Xtudo - 2K textures-93917-1-1-1687373650.7z",
+      "mod_id": 93917,
+      "hash": "sha256-/+weOyVzQaCqHJiXHqGGjBIkZuMtD4yAIdvkSP+uYXo="
+    },
+    "type": "primary"
+  },
+  "Mara - My patches SE by Xtudo - LOTD Lux": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.2",
+      "file_id": 401375,
+      "file_name": "Mara - My patches SE by Xtudo - LOTD Lux-93917-1-3-1687817355.7z",
+      "mod_id": 93917,
+      "hash": "sha256-qXqwCjyevGQZVTcA+IKdiMCWLKwiU4KnV67KQjo7bFs="
+    },
+    "type": "primary"
+  },
+  "Mara - My patches SE by Xtudo - Leaf Rest": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.4",
+      "file_id": 407724,
+      "file_name": "Mara - My patches SE by Xtudo - Leaf Rest-93917-1-4-1689537103.7z",
+      "mod_id": 93917,
+      "hash": "sha256-gczZFguS9ry7JG6M/JZ2at3Rhcj+4v8JdiyBVGQLQCw="
+    },
+    "type": "primary"
+  },
+  "Mara - My patches SE by Xtudo - Hjertesten Hall": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.5",
+      "file_id": 413563,
+      "file_name": "Mara - My patches SE by Xtudo - Hjertesten Hall-93917-1-5-1691005044.7z",
+      "mod_id": 93917,
+      "hash": "sha256-L6AUGT2b7Mfu3LKqFsMBtTephhY36UMSSCKA9EH4JoI="
+    },
+    "type": "primary"
+  },
+  "Mara - My patches SE by Xtudo - Leaf Rest Turned": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.6",
+      "file_id": 433081,
+      "file_name": "Mara - My patches SE by Xtudo - Leaf Rest Turned-93917-1-6-1697024584.7z",
+      "mod_id": 93917,
+      "hash": "sha256-Tsd0wXewYiez2SLBlIWvEglHugEaZCSYlVXzUxEvCuE="
+    },
+    "type": "primary"
+  },
+  "Mara - My patches SE by Xtudo - Gods And Worship": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.7",
+      "file_id": 433563,
+      "file_name": "Mara - My patches SE by Xtudo - Gods And Worship-93917-1-7-1697202929.7z",
+      "mod_id": 93917,
+      "hash": "sha256-vMuQ/JBavAISfj5lwZcVXLck9yudYdyUNTRkHMth1TQ="
+    },
+    "type": "primary"
+  },
+  "Mara - My patches SE by Xtudo - Gods Worship Lux": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.8",
+      "file_id": 433857,
+      "file_name": "Mara - My patches SE by Xtudo - Gods Worship Lux-93917-1-8-1697292444.7z",
+      "mod_id": 93917,
+      "hash": "sha256-29T1kt9zpcn23IFbvJzKeNAAJ4lGm2B8cSEpEBCAyyk="
+    },
+    "type": "primary"
+  },
+  "Mara - My patches SE by Xtudo - T'S Rwd-LR": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.9",
+      "file_id": 455648,
+      "file_name": "Mara - My patches SE by Xtudo - T'S Rwd-LR-93917-1-9-1703715931.7z",
+      "mod_id": 93917,
+      "hash": "sha256-ZYyAbSDb1CIWd1hN+n7CWjM/LuFF+3D0iXp+6z1sZWY="
+    },
+    "type": "primary"
+  },
+  "Mara - My patches SE by Xtudo - T'S Rwd-LR-Turned": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.9",
+      "file_id": 455649,
+      "file_name": "Mara - My patches SE by Xtudo - T'S Rwd-LR-Turned-93917-1-9-1703715973.7z",
+      "mod_id": 93917,
+      "hash": "sha256-+HPvzL3Feo4ybTOZ6m4JloDswG8s4zXyVe4Ru6foBmE="
+    },
+    "type": "primary"
+  },
+  "Mara - My patches SE by Xtudo - LKVM As It Should": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "2.0",
+      "file_id": 458572,
+      "file_name": "Mara - My patches SE by Xtudo - LKVM As It Should-93917-2-0-1704574788.7z",
+      "mod_id": 93917,
+      "hash": "sha256-INvpnz4X3SWrezDpM/M1ZEeSQKH0x5YiD7hsTzG+PuQ="
+    },
+    "type": "primary"
+  },
+  "Mara - My patches SE by Xtudo - Mara's Embrace": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "2.1",
+      "file_id": 484584,
+      "file_name": "Mara - My patches SE by Xtudo - Mara's Embrace-93917-2-1-1711541688.7z",
+      "mod_id": 93917,
+      "hash": "sha256-NOBGXRdXI6nfEGaqHfiDsmrVHjrg7zfAvPKueWZ2jUA="
+    },
+    "type": "primary"
+  },
+  "Mara - My patches SE by Xtudo - Aemer's Refuge": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "2.1",
+      "file_id": 484585,
+      "file_name": "Mara - My patches SE by Xtudo - Aemer's Refuge-93917-2-1-1711541779.7z",
+      "mod_id": 93917,
+      "hash": "sha256-dJSFQbDmgJNTv7jTk+ubyMxYvTMPRPxUtkfsStCf8OQ="
+    },
+    "type": "primary"
+  },
+  "Mara - My patches SE by Xtudo - Distinct JK's": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "2.2",
+      "file_id": 491062,
+      "file_name": "Mara - My patches SE by Xtudo - Distinct JKs-93917-2-2-1713190032.7z",
+      "mod_id": 93917,
+      "hash": "sha256-Mc7Y4dliliQh6VWywFVMnzqPj/mHs3cv5/063OWlR8c="
+    },
+    "type": "primary"
+  },
+  "Mara - My patches SE by Xtudo - Dawnguard DLC": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "2.3",
+      "file_id": 612103,
+      "file_name": "Mara - My patches SE by Xtudo - Dawnguard DLC-93917-2-3-1743426337.7z",
+      "mod_id": 93917,
+      "hash": "sha256-JnlEGmUURI0c/AIBAb438GfbyuF6qOodgPkzsVtdSAA="
+    },
+    "type": "primary"
+  },
+  "Mara - My patches SE by Xtudo - Lux - Dawnguard": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "2.3",
+      "file_id": 612105,
+      "file_name": "Mara - My patches SE by Xtudo - Lux - Dawnguard-93917-2-3-1743426373.7z",
+      "mod_id": 93917,
+      "hash": "sha256-fQ6cJ76uKDje488cbSkqmK2qsFW6EkNoDi5W+qfwTsM="
+    },
+    "type": "primary"
+  },
+  "Mara - My patches SE by Xtudo - Castle VolkiharR": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "2.4",
+      "file_id": 620504,
+      "file_name": "Mara - My patches SE by Xtudo - Castle VolkiharR-93917-2-4-1745444567.7z",
+      "mod_id": 93917,
+      "hash": "sha256-pnJlsO0gNebiWYW+PQikwFU9ausxQms5+M9hF8bgQaA="
+    },
+    "type": "primary"
+  },
+  "Mara - SE by Xtudo - Alternate Start Reborn": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "2.5",
+      "file_id": 670560,
+      "file_name": "Mara - SE by Xtudo - Alternate Start Reborn-93917-2-5-1759172220.7z",
+      "mod_id": 93917,
+      "hash": "sha256-AEJ8CDCRMOANqjcO1oqvJUKtrjMgEEG9AShx+Wgy2Xo="
+    },
+    "type": "primary"
+  },
+  "Mara - SE by Xtudo - HS Riften - Temple of Mara": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "2.6",
+      "file_id": 677119,
+      "file_name": "Mara - SE by Xtudo - HS Riften - Temple of Mara-93917-2-6-1760731038.7z",
+      "mod_id": 93917,
+      "hash": "sha256-SiwARAgkMaVlpZr8CLzpi0c2DZVjazTmtEUUJ+zx8YU="
+    },
+    "type": "primary"
+  }
+}

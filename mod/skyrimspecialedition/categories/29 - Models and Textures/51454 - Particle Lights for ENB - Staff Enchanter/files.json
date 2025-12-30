@@ -1,0 +1,23 @@
+{
+  "Particle Lights for ENB - Staff Enchanter": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1",
+      "file_id": 273183,
+      "file_name": "Particle Lights for ENB - Staff Enchanter-51454-1-1-1648442175.rar",
+      "mod_id": 51454,
+      "hash": "sha256-iK9iiaAidzsqeFt/6yzbcgzBtp/vALfweumwx8C3VvA="
+    },
+    "type": "primary"
+  },
+  "Solstheim Objects SMIMed - High Poly Dark Elf Furniture PATCH": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1",
+      "file_id": 273184,
+      "file_name": "Solstheim Objects SMIMed - High Poly Dark Elf Furniture PATCH-51454-1-1-1648442230.rar",
+      "mod_id": 51454,
+      "hash": "sha256-duUL/BykkIxdfyE3uzd7KISaOrSyBmMfUpSUYAtuRT8="
+    }
+  }
+}

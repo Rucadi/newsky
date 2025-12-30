@@ -1,0 +1,24 @@
+{
+  "Gargoyles and Death Hound 4K": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 381671,
+      "file_name": "Gargoyles and Death Hound 4K-89968-1-0-1682369417.7z",
+      "mod_id": 89968,
+      "hash": "sha256-v2SENlWLUayDvV1GFvheFgaTv+V+BPVLhoqe1+2V7Kw="
+    },
+    "type": "primary"
+  },
+  "Gargoyles and Death Hound 2K": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 381672,
+      "file_name": "Gargoyles and Death Hound 2K-89968-1-0-1682369441.7z",
+      "mod_id": 89968,
+      "hash": "sha256-ftjarmBzSTGUCiFo4hrSdQ5oZeKqWGixfOBThLjJtd0="
+    },
+    "type": "primary"
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "RUSTIC COOKING - Special Edition - 2K": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 14122,
+      "file_name": "RUSTIC COOKING - Special Edition - 2K-6142-1-0.7z",
+      "mod_id": 6142,
+      "hash": "sha256-VJ03COb+JX5u6uHyNB3s+j9S/JvvwL24bR5dZrgJZ7w="
+    },
+    "type": "primary"
+  },
+  "RUSTIC COOKING - Special Edition - 1K": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 14123,
+      "file_name": "RUSTIC COOKING - Special Edition - 1K-6142-1-0.7z",
+      "mod_id": 6142,
+      "hash": "sha256-iJjEDHKAfpkDtZZT05fVDn9bUkYW72NyHzcfsz/4gys="
+    },
+    "type": "primary"
+  }
+}

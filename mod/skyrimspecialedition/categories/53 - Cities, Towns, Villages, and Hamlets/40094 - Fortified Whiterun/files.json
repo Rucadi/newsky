@@ -1,0 +1,113 @@
+{
+  "Bells of Skyrim patch by aproco": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 159970,
+      "file_name": "Bells of Skyrim patch by aproco-40094-1-3-1599706546.7z",
+      "mod_id": 40094,
+      "hash": "sha256-f+E/RKsk25QRdkjtzCrmajw9b4kHLwHRdaE32zXL1AI="
+    }
+  },
+  "Immersive Citizens patch by Sattyre": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 169543,
+      "file_name": "Immersive Citizens patch by Sattyre (Fortified Whiterun - Full Version)-40094-1-0-1605065174.7z",
+      "mod_id": 40094,
+      "hash": "sha256-1aYiNN7xjrwa696lwA5XjtxLAwmi9JjPrpSCIeTOh+k="
+    }
+  },
+  "JKs Whiterun patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 186205,
+      "file_name": "JKs Whiterun patch-40094-1-0-1613451703.7z",
+      "mod_id": 40094,
+      "hash": "sha256-4veiKmEGMP/M4zXxOt9HNlcNVEIHv5q8uB271Lrb++I="
+    }
+  },
+  "Trees Addon patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 186207,
+      "file_name": "Trees Addon patch-40094-1-0-1613452244.rar",
+      "mod_id": 40094,
+      "hash": "sha256-8j5o+xKaKFz0e+DMdRXGcc8O5Wggcj29z3cXX3n3eT4="
+    }
+  },
+  "Dawn of Skyrim v1.4 patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 199538,
+      "file_name": "Dawn of Skyrim v1.4 patch-40094-1-0-1619061347.7z",
+      "mod_id": 40094,
+      "hash": "sha256-8LRfET+x538EqNrN/Q5ljT5LKA0nLwqVgFepbVi9WXY="
+    }
+  },
+  "Dawn of Skyrim v1.5 patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 199540,
+      "file_name": "Dawn of Skyrim v1.5 patch-40094-1-0-1619061592.7z",
+      "mod_id": 40094,
+      "hash": "sha256-zye0LxdS2FoZi01xcNfDnN8qS6rR/5ame5Ne3mJmz5Y="
+    }
+  },
+  "No Jorrvaskr Watchtower Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 199543,
+      "file_name": "No Jorrvaskr Watchtower Patch-40094-1-0-1619064325.7z",
+      "mod_id": 40094,
+      "hash": "sha256-ZZqdH5ia0HFvEkHnaDcnrvwLojtG5fXqBRAXLn7+Vf0="
+    }
+  },
+  "Fewer Exterior Gate Guards for Fortified Whiterun": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 253057,
+      "file_name": "Fewer Exterior Gate Guards for Fortified Whiterun-40094-1-0-1641038512.7z",
+      "mod_id": 40094,
+      "hash": "sha256-/2RnMPi06kHCTnbXOOEh5MystU6NJupk0GQZei9fOrY="
+    }
+  },
+  "Dark's Whiterun Market patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.2",
+      "file_id": 256287,
+      "file_name": "Dark's Whiterun Market patch-40094-1-2-1642044222.7z",
+      "mod_id": 40094,
+      "hash": "sha256-WYrMnN55uyXPSSQ1/c88gELL/88pDT4WBayOhO0KPnk="
+    }
+  },
+  "Fortified Whiterun": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.6",
+      "file_id": 415147,
+      "file_name": "Fortified Whiterun-40094-1-6-1691464187.7z",
+      "mod_id": 40094,
+      "hash": "sha256-4RMc8XZ1YKE14A5/bU/PqYDELXkkO3idnwy5jj1n90k="
+    },
+    "type": "primary"
+  },
+  "JK's Skyrim AIO patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1",
+      "file_id": 415149,
+      "file_name": "JK's Skyrim AIO patch-40094-1-1-1691464453.7z",
+      "mod_id": 40094,
+      "hash": "sha256-j8J4EHLMJJrMIPAi+/Y68Jm2Cm+YT/YZLTJ4Z2smU1k="
+    }
+  }
+}

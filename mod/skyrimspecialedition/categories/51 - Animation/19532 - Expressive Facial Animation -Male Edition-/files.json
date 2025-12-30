@@ -1,0 +1,23 @@
+{
+    "EFA Mouth SSE": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "1.0",
+            "file_id": 72700,
+            "file_name": "EFA Mouth SSE-19532-1-0-1542544522.7z",
+            "mod_id": 19532,
+            "hash": "sha256-fFvvGKXUTYlEC0M9vjuNWD1J/h1Z+r44Ey8iIa5Ge0c="
+        }
+    },
+    "Expressive Facial Animation - Male Edition": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "1.21",
+            "file_id": 115593,
+            "file_name": "Expressive Facial Animation - Male Edition-19532-1-21-1575813430.7z",
+            "mod_id": 19532,
+            "hash": "sha256-enMst122Imj9FSEtcA9L3L4Vtdevyn7g9QLS8VqFoMc="
+        },
+        "type": "primary"
+    }
+}

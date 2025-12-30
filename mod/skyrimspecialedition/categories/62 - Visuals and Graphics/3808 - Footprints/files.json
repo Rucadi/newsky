@@ -1,0 +1,23 @@
+{
+  "Footprints - ENB": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.6.0",
+      "file_id": 186011,
+      "file_name": "Footprints - ENB-3808-1-6-0-1613342638.7z",
+      "mod_id": 3808,
+      "hash": "sha256-i7acLdKD0OcRFyO4aGOJcpZG+4r7udP5r/NRlFIxH3M="
+    }
+  },
+  "Footprints 1.6.1": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.6.1",
+      "file_id": 186188,
+      "file_name": "Footprints 1.6.1-3808-1-6-1-1613434284.7z",
+      "mod_id": 3808,
+      "hash": "sha256-HUHIQnRsvFzK3wOYMsPysPSXY6XPQ97TdCep57yJzpM="
+    },
+    "type": "primary"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "Eastern Dwemer Towers of Solstheim": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0.1",
+      "file_id": 280944,
+      "file_name": "Eastern Dwemer Towers of Solstheim-67410-1-0-1-1651462127.7z",
+      "mod_id": 67410,
+      "hash": "sha256-VFV9eWSWopEgPSmLatjeef2W0gGayZXkug9LvyAvGQQ="
+    },
+    "type": "primary"
+  },
+  "Just the Meshes - For Mod Development": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0.1",
+      "file_id": 280945,
+      "file_name": "Just the Meshes - For Mod Development-67410-1-0-1-1651462221.7z",
+      "mod_id": 67410,
+      "hash": "sha256-sbUVHAa8YgUI7GFrNk6muYW/cicZtcLAHMTyKHKCLIU="
+    }
+  }
+}

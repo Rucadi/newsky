@@ -1,0 +1,23 @@
+{
+  "Goetia Animations - Sprint": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 290049,
+      "file_name": "Goetia Animations - Sprint-69409-1-0-1654812257.7z",
+      "mod_id": 69409,
+      "hash": "sha256-TNhdY2ce7QTN93ZgcUhQwx0QvBZG6K8uzDqGo0KsO20="
+    },
+    "type": "primary"
+  },
+  "CATA Addon - Goetia Animations Sprint": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0c",
+      "file_id": 400899,
+      "file_name": "CATA Addon - Goetia Animations Sprint-69409-1-0c-1687702347.7z",
+      "mod_id": 69409,
+      "hash": "sha256-g5s8ortELNdnGYkjjISQcxpgbgoiFb8faAbNnWQahM0="
+    }
+  }
+}

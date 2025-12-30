@@ -1,0 +1,23 @@
+{
+  "Compass Navigation Overhaul - Nordic UI Skin": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "2.1",
+      "file_id": 359537,
+      "file_name": "Compass Navigation Overhaul - Nordic UI Skin-74484-2-1-1676326470.rar",
+      "mod_id": 74484,
+      "hash": "sha256-pX/si7R6g2nmGCBjW6R9TOcwFdbPA6ma24TrrVI8TQA="
+    }
+  },
+  "Compass Navigation Overhaul": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "2.2.0",
+      "file_id": 481665,
+      "file_name": "Compass Navigation Overhaul-74484-2-2-0-1710712304.rar",
+      "mod_id": 74484,
+      "hash": "sha256-oyrm4MxtaFuhFNH0Ff7aDSBM15JVf6EGhitb7bM/NHM="
+    },
+    "type": "primary"
+  }
+}

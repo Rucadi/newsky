@@ -1,0 +1,34 @@
+{
+    "MCM Settings Preset - Easy Mode": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "easymode",
+            "file_id": 611245,
+            "file_name": "MCM Settings Preset - Easy Mode-145336-easymode-1743237338.zip",
+            "mod_id": 145336,
+            "hash": "sha256-BC+1jh4rLJBzV48OaXGZLS6XEaoMnjRYkg04Lx+MEQ8="
+        }
+    },
+    "Stealth Detection Fixes - FOMOD": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "2.2",
+            "file_id": 626640,
+            "file_name": "Stealth Detection Fixes - FOMOD-145336-2-2-1747112759.7z",
+            "mod_id": 145336,
+            "hash": "sha256-gFj9EpNcoWTSxvbVh4kBilJRz1o/Lg9dQY6t+Vsq5GA="
+        },
+        "type": "primary"
+    },
+    "Stealth Detection Fixes - Light": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "2.2light",
+            "file_id": 646278,
+            "file_name": "Stealth Detection Fixes - Light-145336-2-2light-1752297235.zip",
+            "mod_id": 145336,
+            "hash": "sha256-1vnrbcix/EUDuuOKmUYsEX57UPMvzMh/Tq4TYFYgngA="
+        },
+        "type": "primary"
+    }
+}

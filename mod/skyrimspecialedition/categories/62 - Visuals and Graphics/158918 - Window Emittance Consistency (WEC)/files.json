@@ -1,0 +1,23 @@
+{
+    "Window Emittance Consistency (WEC)": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "1.1.0",
+            "file_id": 671384,
+            "file_name": "Window Emittance Consistency (WEC)-158918-1-1-0-1759379174.7z",
+            "mod_id": 158918,
+            "hash": "sha256-9UFJBwzQhLBGSq6+BgMk/P7bel3x7SNGSWcI5Rh4cKU="
+        },
+        "type": "primary"
+    },
+    "WEC - DynDOLOD Support Patches (EXPERIMENTAL)": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "1.1.0",
+            "file_id": 671398,
+            "file_name": "WEC - DynDOLOD Support Patches (EXPERIMENTAL)-158918-1-1-0-1759382493.7z",
+            "mod_id": 158918,
+            "hash": "sha256-4Dz8YK1IoVfxO6oHs3c6SRmEN7py4Myo19p3LA24xFw="
+        }
+    }
+}

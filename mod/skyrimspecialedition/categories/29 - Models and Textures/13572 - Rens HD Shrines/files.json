@@ -1,0 +1,24 @@
+{
+  "RensHDShrines 2K": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "2.4",
+      "file_id": 69161,
+      "file_name": "RensHDShrines_2_4-13572-2-4-1539464278.7z",
+      "mod_id": 13572,
+      "hash": "sha256-WxOMk1mUJWqtuFMcZXcDeF6vRMlhShQfvnryYGueaAE="
+    },
+    "type": "primary"
+  },
+  "RensHDShrines 4K": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "2.4",
+      "file_id": 217981,
+      "file_name": "RensHDShrines 4K-13572-2-4-1627773657.7z",
+      "mod_id": 13572,
+      "hash": "sha256-sB3s6Pf+viYpwmDsMxuMdzARMX5n3NfCooMnYE5pFxI="
+    },
+    "type": "primary"
+  }
+}

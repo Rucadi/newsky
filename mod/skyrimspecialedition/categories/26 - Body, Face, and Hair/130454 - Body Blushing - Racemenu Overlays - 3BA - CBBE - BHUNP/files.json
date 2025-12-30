@@ -1,0 +1,44 @@
+{
+  "Body Blushing - Racemenu Overlays - CBBE - 4K": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0.2",
+      "file_id": 551924,
+      "file_name": "Body Blushing - Racemenu Overlays - CBBE - 4K-130454-1-0-2-1728868529.rar",
+      "mod_id": 130454,
+      "hash": "sha256-HsrpVro9058mPBMPcqEBFv92/A9ixW699+Fp2qpe4Vw="
+    },
+    "type": "primary"
+  },
+  "Body Blushing - Racemenu Overlays - BHUNP - 4K": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0.2",
+      "file_id": 551925,
+      "file_name": "Body Blushing - Racemenu Overlays - BHUNP - 4K-130454-1-0-2-1728868639.rar",
+      "mod_id": 130454,
+      "hash": "sha256-qWLxLKmxJLkljt6bdW3sSHTY0KEBdsKKkoO439Ygy9I="
+    },
+    "type": "primary"
+  },
+  "Body Blushing - Racemenu Overlays - CBBE - 2K": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0.2",
+      "file_id": 551926,
+      "file_name": "Body Blushing - Racemenu Overlays - CBBE - 2K-130454-1-0-2-1728868733.rar",
+      "mod_id": 130454,
+      "hash": "sha256-x4mWDBF358h1k3Kqs8s/NKvYBhuTM4pgRNXSPi9b6Ug="
+    }
+  },
+  "Body Blushing - Racemenu Overlays - BHUNP - 2K": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0.2",
+      "file_id": 551927,
+      "file_name": "Body Blushing - Racemenu Overlays - BHUNP - 2K-130454-1-0-2-1728868784.rar",
+      "mod_id": 130454,
+      "hash": "sha256-fAXXVTw9/hPrULhXnng25eTqmF6QqsivThwp6VVKLNU="
+    }
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "JS Instruments of Skyrim SE - Become a Bard Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 212827,
+      "file_name": "JS Instruments of Skyrim SE - Become a Bard Patch-51959-1-0-1625492313.rar",
+      "mod_id": 51959,
+      "hash": "sha256-5LTUlfc4AVlXii/ntkSjnSXjlRRW7qRKqnLMjUvGaCY="
+    }
+  },
+  "JS Instruments of Skyrim SE - 4k": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1",
+      "file_id": 213094,
+      "file_name": "JS Instruments of Skyrim SE - 4k-51959-1-1-1625601515.rar",
+      "mod_id": 51959,
+      "hash": "sha256-Rgjtnw1tfNVLrJrOJF9wNqSdFj4ktF0tymJg8i+Yygc="
+    },
+    "type": "primary"
+  },
+  "JS Instruments of Skyrim SE - 2k": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1",
+      "file_id": 213096,
+      "file_name": "JS Instruments of Skyrim SE - 2k-51959-1-1-1625601690.rar",
+      "mod_id": 51959,
+      "hash": "sha256-2YtGGO3gyDC9n7HqDWkKqw1SfQi77rsn2Uz2pXCWXiM="
+    },
+    "type": "primary"
+  },
+  "JS Instruments of Skyrim SE - All Gud and Skyrim's Got Talent Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1",
+      "file_id": 213235,
+      "file_name": "JS Instruments of Skyrim SE - All Gud and Skyrim's Got Talent Patch-51959-1-2-1625672493.rar",
+      "mod_id": 51959,
+      "hash": "sha256-X0+gXGgyKDiR6Iu5xBsDyS4X0bBlIaPTm+Ypz2eaf4Q="
+    }
+  },
+  "JS Instruments of Skyrim SE - EBQO Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 273315,
+      "file_name": "JS Instruments of Skyrim SE - EBQO Patch-51959-1-0-1648490890.rar",
+      "mod_id": 51959,
+      "hash": "sha256-+0zbRRONH97YsIYTcxvpBLWm7KAzNnf+Oq06hH4rYbo="
+    }
+  }
+}

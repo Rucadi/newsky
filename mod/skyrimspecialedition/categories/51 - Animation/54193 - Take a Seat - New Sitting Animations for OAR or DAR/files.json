@@ -1,0 +1,24 @@
+{
+  "Take a Seat - DAR Animations": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 225430,
+      "file_name": "Take a Seat - DAR Animations-54193-1-0-1630519272.zip",
+      "mod_id": 54193,
+      "hash": "sha256-aOuiHO9vIorvhvkeuau2LFQOOGauSOl9PFmIXzKSfG0="
+    },
+    "type": "primary"
+  },
+  "Take a Seat - OAR Animations": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.01",
+      "file_id": 394681,
+      "file_name": "Take a Seat - OAR Animations-54193-1-01-1685814645.zip",
+      "mod_id": 54193,
+      "hash": "sha256-xdISJUzQzCnhPk622LoKqOptmXxc2UjWF/6325+kFhI="
+    },
+    "type": "primary"
+  }
+}

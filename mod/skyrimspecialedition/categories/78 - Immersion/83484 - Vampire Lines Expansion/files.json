@@ -1,0 +1,23 @@
+{
+    "Orc Addon for Vampire Lines Expansion": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "1.01",
+            "file_id": 360548,
+            "file_name": "Orc Addon for Vampire Lines Expansion-83484-1-01-1676616470.zip",
+            "mod_id": 83484,
+            "hash": "sha256-kOJFWvrnFyI2TK77Jrv/VyWNxPBUGWOpH84oyl8ld6I="
+        }
+    },
+    "Vampire Lines Expansion": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "1.02",
+            "file_id": 459574,
+            "file_name": "Vampire Lines Expansion-83484-1-02-1704808705.rar",
+            "mod_id": 83484,
+            "hash": "sha256-K/omD42w9FT5xDp3xEiy6Cf6sganfP9idGsIfXqA4YU="
+        },
+        "type": "primary"
+    }
+}

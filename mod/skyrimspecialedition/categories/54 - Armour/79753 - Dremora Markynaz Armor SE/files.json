@@ -1,0 +1,23 @@
+{
+  "1Markynaz": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1",
+      "file_id": 336403,
+      "file_name": "1Markynaz-79753-1-1669908636.7z",
+      "mod_id": 79753,
+      "hash": "sha256-JFBX7jygV45xM+h/+konfNw4+KesCCerOVmkY1WjtwE="
+    },
+    "type": "primary"
+  },
+  "Half Sized Textures": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1",
+      "file_id": 336425,
+      "file_name": "Half Sized Textures-79753-1-1669913027.7z",
+      "mod_id": 79753,
+      "hash": "sha256-grOWnwuN1+N85q9j9xC+0OALaS9zDJ2lJdYINueARSc="
+    }
+  }
+}

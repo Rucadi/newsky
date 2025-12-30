@@ -1,0 +1,23 @@
+{
+  "Dragon Plate Brazen Renewal Ver SSE": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "NA",
+      "file_id": 259254,
+      "file_name": "Dragon Plate Brazen Renewal Ver SSE-13209-NA-1643040764.7z",
+      "mod_id": 13209,
+      "hash": "sha256-dn09s/bWLRDhvNiWKMYC7UiRuWfic5ujNFQKb6E22Qo="
+    }
+  },
+  "Rosa Follower - FOMOD installer": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.2rwl.sse",
+      "file_id": 261192,
+      "file_name": "Rosa Follower - FOMOD installer-13209-1-2rwl-sse-1643795874.7z",
+      "mod_id": 13209,
+      "hash": "sha256-ADxmZroR4HsuAGA0KULcLp1Rcl1b5pJx2vXs0FIJgnQ="
+    },
+    "type": "primary"
+  }
+}

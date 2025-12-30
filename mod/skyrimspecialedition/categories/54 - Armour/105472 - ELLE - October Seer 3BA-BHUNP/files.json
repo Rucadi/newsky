@@ -1,0 +1,24 @@
+{
+  "October Seer 3BA": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.2",
+      "file_id": 449800,
+      "file_name": "October Seer 3BA-105472-1-2-1702040865.rar",
+      "mod_id": 105472,
+      "hash": "sha256-2mK/ZqW+QgeTfAXu+9F3X5+Sbn0nx+09S5qJTcStwME="
+    },
+    "type": "primary"
+  },
+  "October Seer BHUNPV4": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.2",
+      "file_id": 449803,
+      "file_name": "October Seer BHUNPV4-105472-1-2-1702041000.rar",
+      "mod_id": 105472,
+      "hash": "sha256-l0BLxRgHzSgNY+SSmC1EwsH1e5/pRa0MWKfFIkxNWUM="
+    },
+    "type": "primary"
+  }
+}

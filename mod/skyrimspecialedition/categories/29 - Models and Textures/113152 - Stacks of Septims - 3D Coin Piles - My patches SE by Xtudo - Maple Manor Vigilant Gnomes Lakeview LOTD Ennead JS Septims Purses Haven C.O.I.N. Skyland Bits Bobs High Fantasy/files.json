@@ -1,0 +1,432 @@
+{
+  "3D Coin Piles - SE by Xtudo - Septim HD": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1",
+      "file_id": 477218,
+      "file_name": "3D Coin Piles - SE by Xtudo - Septim HD-113152-1-1709645408.7z",
+      "mod_id": 113152,
+      "hash": "sha256-HGnFhJZaKB/xREDxtQ8fPPADe4YNrIWaTa0LYg2fUTw="
+    },
+    "type": "primary"
+  },
+  "3D Coin Piles - SE by Xtudo - C.O.I.N.": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1",
+      "file_id": 477247,
+      "file_name": "3D Coin Piles - SE by Xtudo - C.O.I.N.-113152-1-1709650835.7z",
+      "mod_id": 113152,
+      "hash": "sha256-Vd1REyzYK92Me+O/oy1eOdKPeqFv1OJm8iiPnLEFTUw="
+    },
+    "type": "primary"
+  },
+  "3D Coin Piles - SE by Xtudo - C.O.I.N. ADM Nchuark": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1",
+      "file_id": 477249,
+      "file_name": "3D Coin Piles - SE by Xtudo - C.O.I.N. ADM Nchuark-113152-1-1709650919.7z",
+      "mod_id": 113152,
+      "hash": "sha256-YJzW2WPx+1+CzmUs8Lq29S3TSeuCSgEtqbYhapSpfYY="
+    },
+    "type": "primary"
+  },
+  "3D Coin Piles - SE by Xtudo - AIM - Silver": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1",
+      "file_id": 477255,
+      "file_name": "3D Coin Piles - SE by Xtudo - AIM - Silver-113152-1-1-1709652382.7z",
+      "mod_id": 113152,
+      "hash": "sha256-dEttETZrOJ30KtVjac9fUK+dU0C5SspooDYvAZHMI8c="
+    },
+    "type": "primary"
+  },
+  "3D Coin Piles - SE by Xtudo - AIM - Classic Gold": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1",
+      "file_id": 477289,
+      "file_name": "3D Coin Piles - SE by Xtudo - AIM - Classic Gold-113152-1-1-1709662162.7z",
+      "mod_id": 113152,
+      "hash": "sha256-xZLSbaD5Wy0TTEOWZeCGElWirbmJOIaNPCEHnF8VeAQ="
+    },
+    "type": "primary"
+  },
+  "3D Coin Piles - SE by Xtudo - 2K Coin Retexture": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1",
+      "file_id": 477291,
+      "file_name": "3D Coin Piles - SE by Xtudo - 2K Coin Retexture-113152-1-1-1709662250.7z",
+      "mod_id": 113152,
+      "hash": "sha256-9Wt8ToqgcfCfIKEwLsj6DyYx4IGai7HYqveoTK43jI4="
+    },
+    "type": "primary"
+  },
+  "3D Coin Piles - SE by Xtudo - Alessian Coin": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1",
+      "file_id": 477307,
+      "file_name": "3D Coin Piles - SE by Xtudo - Alessian Coin-113152-1-1-1709665418.7z",
+      "mod_id": 113152,
+      "hash": "sha256-lhgsxocupFmKMnV6mMiLrUL86VLjLJRp5+X5Btr0FBw="
+    },
+    "type": "primary"
+  },
+  "3D Coin Piles - SE by Xtudo - JS Septims": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.2",
+      "file_id": 477314,
+      "file_name": "3D Coin Piles - SE by Xtudo - JS Septims-113152-1-2-1709666761.7z",
+      "mod_id": 113152,
+      "hash": "sha256-OP0HTxOfcF667Cd83+Sgq0hwR8OJfs6W3ePe9vcUwlI="
+    },
+    "type": "primary"
+  },
+  "3D Coin Piles - SE by Xtudo - Gold Septim Coins": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.2",
+      "file_id": 477352,
+      "file_name": "3D Coin Piles - SE by Xtudo - Gold Septim Coins-113152-1-2-1709672340.7z",
+      "mod_id": 113152,
+      "hash": "sha256-Dqp9zBcboM45k+cm4PwrfAfvbIyB3FUVn5LUop9Awwo="
+    },
+    "type": "primary"
+  },
+  "3D Coin Piles - SE by Xtudo - Coins of Tamriel": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.3",
+      "file_id": 477554,
+      "file_name": "3D Coin Piles - SE by Xtudo - Coins of Tamriel-113152-1-3-1709733577.7z",
+      "mod_id": 113152,
+      "hash": "sha256-Xr8hZ+PVPRKzFjgXopSCKKKgY71gj66KaDgHPmlf98E="
+    },
+    "type": "primary"
+  },
+  "3D Coin Piles - SE by Xtudo - New Golden Coin": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.3",
+      "file_id": 477555,
+      "file_name": "3D Coin Piles - SE by Xtudo - New Golden Coin-113152-1-3-1709733610.7z",
+      "mod_id": 113152,
+      "hash": "sha256-6iSUbZThlvuUz0VpksS+4fJtB3wcLiyUOjId+sQ/oFY="
+    },
+    "type": "primary"
+  },
+  "3D Coin Piles - SE by Xtudo - Smaller Septims 50": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.3",
+      "file_id": 477556,
+      "file_name": "3D Coin Piles - SE by Xtudo - Smaller Septims 50-113152-1-3-1709733677.7z",
+      "mod_id": 113152,
+      "hash": "sha256-1KpExVf/NDUbb9lbf96u3kR85B4F2R7ShyuYHEhZNG4="
+    },
+    "type": "primary"
+  },
+  "3D Coin Piles - SE by Xtudo - Smaller Septims 75": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.3",
+      "file_id": 477557,
+      "file_name": "3D Coin Piles - SE by Xtudo - Smaller Septims 75-113152-1-3-1709733721.7z",
+      "mod_id": 113152,
+      "hash": "sha256-pilMVaLRQ3rtOA141meRVkCPOqasZrpf0ngmKVTV7C8="
+    },
+    "type": "primary"
+  },
+  "3D Coin Piles - SE by Xtudo - Septim - Silver": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.4",
+      "file_id": 478387,
+      "file_name": "3D Coin Piles - SE by Xtudo - Septim - Silver-113152-1-4-1709926083.7z",
+      "mod_id": 113152,
+      "hash": "sha256-MBn0qoS1vfj19VKezw0lbbzTOirg/JklqEhR3/wW/YQ="
+    },
+    "type": "primary"
+  },
+  "3D Coin Piles - SE by Xtudo - Septim - Gold": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.4",
+      "file_id": 478388,
+      "file_name": "3D Coin Piles - SE by Xtudo - Septim - Gold-113152-1-4-1709926119.7z",
+      "mod_id": 113152,
+      "hash": "sha256-RHYzg3ofaYUV2VbTJp3Ra7HIAlcGQXMe6EKAdJHiBo4="
+    },
+    "type": "primary"
+  },
+  "3D Coin Piles - SE by Xtudo - Septim - Bronze": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.4",
+      "file_id": 478389,
+      "file_name": "3D Coin Piles - SE by Xtudo - Septim - Bronze-113152-1-4-1709926152.7z",
+      "mod_id": 113152,
+      "hash": "sha256-Ay4aipdgU7kTG/kf+Zu/DFPQEkE6gxQZCPXhiONT0lM="
+    },
+    "type": "primary"
+  },
+  "3D Coin Piles - SE by Xtudo - Skyland Bits Bobs": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.5",
+      "file_id": 478651,
+      "file_name": "3D Coin Piles - SE by Xtudo - Skyland Bits Bobs-113152-1-5-1709996158.7z",
+      "mod_id": 113152,
+      "hash": "sha256-7pOMXEtiufiWlciIpAEbops+f0gpjmzyzh2cZnsrrGQ="
+    },
+    "type": "primary"
+  },
+  "3D Coin Piles - SE by Xtudo - LOTD - JS": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.8",
+      "file_id": 479559,
+      "file_name": "3D Coin Piles - SE by Xtudo - LOTD - JS-113152-1-8-1710199736.7z",
+      "mod_id": 113152,
+      "hash": "sha256-ZKjMZddFTvuQvA9JaIHoXIPe1fKEf1ohYtxVZXe4MMI="
+    }
+  },
+  "3D Coin Piles - SE by Xtudo - Haven Bag - JS": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.9",
+      "file_id": 480283,
+      "file_name": "3D Coin Piles - SE by Xtudo - Haven Bag-113152-1-9-1710371272.7z",
+      "mod_id": 113152,
+      "hash": "sha256-aZZ73/WpCAwl7xHElrrTEyZ867nxUCGPeL838IlCYZs="
+    }
+  },
+  "3D Coin Piles - SE by Xtudo - LOTD - JS - SMIM": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "2.0",
+      "file_id": 480478,
+      "file_name": "3D Coin Piles - SE by Xtudo - LOTD - JS - SMIM-113152-2-0-1710426369.7z",
+      "mod_id": 113152,
+      "hash": "sha256-uZ7zkUCV7GC7JpTpEH9wPewwx304LJ2KuD5bOpWIvzM="
+    }
+  },
+  "3D Coin Piles - SE by Xtudo - LKVM - JS - SMIM": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "2.1",
+      "file_id": 483842,
+      "file_name": "3D Coin Piles - SE by Xtudo - LKVM - JS - SMIM-113152-2-1-1711313571.7z",
+      "mod_id": 113152,
+      "hash": "sha256-35sl+ZFgxeXNNcKGRIwMMjrGEOlXYGb8mk9pf8OucwQ="
+    }
+  },
+  "3D Coin Piles - SE by Xtudo - Mihail's Gnomes - JS": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "2.2",
+      "file_id": 484618,
+      "file_name": "3D Coin Piles - SE by Xtudo - Mihail's Gnomes - JS-113152-2-2-1711548618.7z",
+      "mod_id": 113152,
+      "hash": "sha256-J0eRWPAoleLoMSJWB55U0tQsqgmauFeruZotsHbCxNM="
+    }
+  },
+  "3D Coin Piles - SE by Xtudo - Ennead - Copper": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "2.3",
+      "file_id": 485340,
+      "file_name": "3D Coin Piles - SE by Xtudo - Ennead - Copper-113152-2-3-1711728697.7z",
+      "mod_id": 113152,
+      "hash": "sha256-HNyVZLV3HcDjVNCiWssJVPbHl7X7pl0yaZU/iHg7FnY="
+    },
+    "type": "primary"
+  },
+  "3D Coin Piles - SE by Xtudo - Ennead - Gold": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "2.3",
+      "file_id": 485342,
+      "file_name": "3D Coin Piles - SE by Xtudo - Ennead - Gold-113152-2-3-1711728724.7z",
+      "mod_id": 113152,
+      "hash": "sha256-uKJIyJkYvpMno+zJHitBcGAdLRVLgHo478M/nn+RFaY="
+    },
+    "type": "primary"
+  },
+  "3D Coin Piles - SE by Xtudo - Ennead - Rose-Gold": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "2.3",
+      "file_id": 485343,
+      "file_name": "3D Coin Piles - SE by Xtudo - Ennead - Rose-Gold-113152-2-3-1711728756.7z",
+      "mod_id": 113152,
+      "hash": "sha256-hFwMfVn0W5CM/sTs0ADlLVZNB4qjfSFdCio5vbQ9bTw="
+    },
+    "type": "primary"
+  },
+  "3D Coin Piles - SE by Xtudo - Ennead - Silver": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "2.3",
+      "file_id": 485344,
+      "file_name": "3D Coin Piles - SE by Xtudo - Ennead - Silver-113152-2-3-1711728784.7z",
+      "mod_id": 113152,
+      "hash": "sha256-yNeD2SXVLidUgvMCn7p5oVaodhq8EffMBinzHv+4WdE="
+    },
+    "type": "primary"
+  },
+  "3D Coin Piles - SE by Xtudo - Gold Master": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "2.4",
+      "file_id": 490040,
+      "file_name": "3D Coin Piles - SE by Xtudo - Gold Master-113152-2-4-1712954325.7z",
+      "mod_id": 113152,
+      "hash": "sha256-D0An2oyVyk40Dzn2NU4dTSj3OlVwmQFQWkYyyIb//48="
+    }
+  },
+  "3D Coin Piles - SE by Xtudo - Better Gold - Nordic": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "2.4",
+      "file_id": 490041,
+      "file_name": "3D Coin Piles - SE by Xtudo - Better Gold - Nordic-113152-2-4-1712954401.7z",
+      "mod_id": 113152,
+      "hash": "sha256-LTqPwSwTu9dKqH6aGySKV17kKC3vvK+pMd9NeHmnoLQ="
+    },
+    "type": "primary"
+  },
+  "3D Coin Piles - SE by Xtudo - Ruin Coins": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "2.5",
+      "file_id": 500088,
+      "file_name": "3D Coin Piles - SE by Xtudo - Ruin Coins-113152-2-5-1715436329.7z",
+      "mod_id": 113152,
+      "hash": "sha256-1MPM6DGowZ0w6PIcCycnPgbxgg0y0q6VOZDw1byoGzo="
+    },
+    "type": "primary"
+  },
+  "3D Coin Piles - SE by Xtudo - Ruin Coins ADM": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "2.5",
+      "file_id": 500089,
+      "file_name": "3D Coin Piles - SE by Xtudo - Ruin Coins ADM-113152-2-5-1715436354.7z",
+      "mod_id": 113152,
+      "hash": "sha256-a4/WLE+urne7v/O6D/qVC5WfLVfMeqmcxUeu6zvCvfc="
+    },
+    "type": "primary"
+  },
+  "3D Coin Piles - SE by Xtudo - Historical Revival": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "2.6",
+      "file_id": 504746,
+      "file_name": "3D Coin Piles - SE by Xtudo - Historical Revival-113152-2-6-1716645215.7z",
+      "mod_id": 113152,
+      "hash": "sha256-MIMfWslYjX6XVP+7gl48pLZ1xaLxxDjlgm8E9b6OaJM="
+    },
+    "type": "primary"
+  },
+  "3D Coin Piles - SE by Xtudo - Mihail's High - JS": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "2.8",
+      "file_id": 510608,
+      "file_name": "3D Coin Piles - SE by Xtudo - Mihail's High - JS-113152-2-8-1718113125.7z",
+      "mod_id": 113152,
+      "hash": "sha256-qoROuvKVjeOCYPfxz8MCsuGUGoBl4rkk5U6gkWG5Rlk="
+    }
+  },
+  "3D Coin Piles - SE by Xtudo - Maple - JS - SMIM": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "2.9",
+      "file_id": 543369,
+      "file_name": "3D Coin Piles - SE by Xtudo - Maple - JS - SMIM-113152-2-9-1726612452.7z",
+      "mod_id": 113152,
+      "hash": "sha256-WYXz+LJBT/yq8BWw/ZTYEAsbjx2ZRZ/Sj0jATsw/iVM="
+    }
+  },
+  "3D Coin Piles - SE by Xtudo - Coin Replacer Redux": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "3.0",
+      "file_id": 553041,
+      "file_name": "3D Coin Piles - SE by Xtudo - Coin Replacer Redux-113152-3-0-1729193345.7z",
+      "mod_id": 113152,
+      "hash": "sha256-01cg+D1o9niPlRqQVd1mthMduuIsMKnnr/FYc1og9jk="
+    },
+    "type": "primary"
+  },
+  "3D Coin Piles - SE by Xtudo - God Pile Spell": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "3.1",
+      "file_id": 586303,
+      "file_name": "3D Coin Piles - SE by Xtudo - God Pile Spell-113152-3-1-1737578545.7z",
+      "mod_id": 113152,
+      "hash": "sha256-0ARysAGz0jbbCvlURfytVFSQyH8pbcausG77TYBzEq0="
+    },
+    "type": "primary"
+  },
+  "3D Coin Piles - SE by Xtudo - Treasure Ancients": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "3.2",
+      "file_id": 649016,
+      "file_name": "3D Coin Piles - SE by Xtudo - Treasure Ancients-113152-3-2-1753104459.7z",
+      "mod_id": 113152,
+      "hash": "sha256-DlbI6P2/23hPx8rPluPNCnjQqCOGOYnwJv2MtTZnlCI="
+    },
+    "type": "primary"
+  },
+  "3D Coin Piles - SE by Xtudo - HFs - StrongBox Vani": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "3.3",
+      "file_id": 658713,
+      "file_name": "3D Coin Piles - SE by Xtudo - HFs - StrongBox Vani-113152-3-3-1756039309.7z",
+      "mod_id": 113152,
+      "hash": "sha256-6J1jZkg18mvltuWyqNE4zb38DQSk/NOcx1nDAfrzpbI="
+    },
+    "type": "primary"
+  },
+  "3D Coin Piles - SE by Xtudo - HFs - StrongBox JS": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "3.3",
+      "file_id": 658714,
+      "file_name": "3D Coin Piles - SE by Xtudo - HFs - StrongBox JS-113152-3-3-1756039419.7z",
+      "mod_id": 113152,
+      "hash": "sha256-FxkpgqybanH63TTlw/0td95HWHjL5zWfNJh/MC6Bdss="
+    },
+    "type": "primary"
+  },
+  "3D Coin Piles - SE by Xtudo - VIGILANT - JS": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "3.4",
+      "file_id": 659532,
+      "file_name": "3D Coin Piles - SE by Xtudo - VIGILANT - JS-113152-3-4-1756241309.7z",
+      "mod_id": 113152,
+      "hash": "sha256-hPHI7bn0ZY+/dORrBJGn5sHg+a0HA5uJZs+RegDzu48="
+    }
+  },
+  "3D Coin Piles - SE by Xtudo - VIGILANT - JS - Lux": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "3.4",
+      "file_id": 659533,
+      "file_name": "3D Coin Piles - SE by Xtudo - VIGILANT - JS - Lux-113152-3-4-1756241337.7z",
+      "mod_id": 113152,
+      "hash": "sha256-wvGcfNVD+JqXfpKHdqWREbL3yqaC3eFdKEWCUh6Arcg="
+    }
+  }
+}

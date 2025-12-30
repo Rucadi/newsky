@@ -1,0 +1,45 @@
+{
+  "Forgotten Princess - CBBE 3BA": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 462313,
+      "file_name": "Forgotten Princess - CBBE 3BA-109153-1-0-1705508265.7z",
+      "mod_id": 109153,
+      "hash": "sha256-+gFIzYvrA0+WmZpSeYqOCeMeoRSt3IOErfccNnIjFTY="
+    },
+    "type": "primary"
+  },
+  "Forgotten Princess - COCOBody CBBE SE": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 462314,
+      "file_name": "Forgotten Princess - COCOBody CBBE SE-109153-1-0-1705508365.7z",
+      "mod_id": 109153,
+      "hash": "sha256-8s3QmTl7P5rosMzwZ/8iQr4PrlOLZA1YQiURdOxjE4Q="
+    },
+    "type": "primary"
+  },
+  "Forgotten Princess - COCOBody UUNP SE": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 462315,
+      "file_name": "Forgotten Princess - COCOBody UUNP SE-109153-1-0-1705508453.7z",
+      "mod_id": 109153,
+      "hash": "sha256-MgoFGij65W8LAVK5zWbcsc97QS0gZ5j064HvBE9Hnwc="
+    },
+    "type": "primary"
+  },
+  "Forgotten Princess - Simple Crafting": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 463622,
+      "file_name": "Forgotten Princess - Simple Crafting-109153-1-0-1705876306.7z",
+      "mod_id": 109153,
+      "hash": "sha256-8iIOm2orZ/BJJnJ4oyyQ6UFV5wz7rPnzMJXP4W6DIks="
+    }
+  }
+}

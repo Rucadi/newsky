@@ -1,0 +1,45 @@
+{
+  "Melodic Assassin Sister - CBBE 3BA": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 472928,
+      "file_name": "Melodic Assassin Sister - CBBE 3BA-111427-1-0-1708443244.7z",
+      "mod_id": 111427,
+      "hash": "sha256-53BPag8VCw+oyG1aweAhvxcyAWQajTZdYYm3zxm8IlM="
+    },
+    "type": "primary"
+  },
+  "Melodic Assassin Sister - COCOBody CBBE SE": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 472932,
+      "file_name": "Melodic Assassin Sister - COCOBody CBBE SE-111427-1-0-1708443453.7z",
+      "mod_id": 111427,
+      "hash": "sha256-P2/sHMbfzXScAgApY1Jhwcw+OHihYdbAcS3YNnVojBo="
+    },
+    "type": "primary"
+  },
+  "Melodic Assassin Sister - COCOBody UUNP SE": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 472935,
+      "file_name": "Melodic Assassin Sister - COCOBody UUNP SE-111427-1-0-1708443538.7z",
+      "mod_id": 111427,
+      "hash": "sha256-zPcHuofd51YlDFNiePuzJILlwY9G3+r9d/ZaHxTmit8="
+    },
+    "type": "primary"
+  },
+  "Melodic Assassin Sister - Low Res Textures": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 472936,
+      "file_name": "Melodic Assassin Sister - Low Res Textures-111427-1-0-1708443700.zip",
+      "mod_id": 111427,
+      "hash": "sha256-m9ajzh131SCHDBKLZCbeTTraUwKw1U80KVUzmrPxBa0="
+    }
+  }
+}

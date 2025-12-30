@@ -1,0 +1,44 @@
+{
+  "Trueblood Serana (V1B)": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.2.0",
+      "file_id": 447607,
+      "file_name": "Trueblood Serana-103713-1-2-0-1701398048.rar",
+      "mod_id": 103713,
+      "hash": "sha256-x7LeBICdNNZl1U0hWXk4Yz/5yM4SkXA3zUus0eA1Yiw="
+    }
+  },
+  "Trueblood Serana (V1A)": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.2.0",
+      "file_id": 447611,
+      "file_name": "Trueblood Serana-103713-1-2-0-1701398993.rar",
+      "mod_id": 103713,
+      "hash": "sha256-L2MDzuxxTi/YXFvh73LT/W5NtwywtR9BmDlf67Glklg="
+    }
+  },
+  "Trueblood Serana (V2A)": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "2.0.0",
+      "file_id": 510138,
+      "file_name": "Trueblood Serana V2-103713-2-0-0-1717998362.7z",
+      "mod_id": 103713,
+      "hash": "sha256-//IJeC3FhloQKg0DK6uKbXSpaGfBf25NYpyWcU9uYNw="
+    },
+    "type": "primary"
+  },
+  "Trueblood Serana V2 (V2B)": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "2.0.0",
+      "file_id": 510139,
+      "file_name": "Trueblood Serana V2-103713-2-0-0-1717998456.rar",
+      "mod_id": 103713,
+      "hash": "sha256-IDPREukif215TL4DLPC9CgTrFlduwaCezpaaVMWRXRk="
+    },
+    "type": "primary"
+  }
+}

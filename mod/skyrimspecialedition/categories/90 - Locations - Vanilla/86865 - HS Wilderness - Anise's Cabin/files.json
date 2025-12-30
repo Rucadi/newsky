@@ -1,0 +1,33 @@
+{
+    "HSWilderness - Anise's Cabin - ELFX": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "1.0.0",
+            "file_id": 367787,
+            "file_name": "HSWilderness - Anise's Cabin - ELFX-86865-1-0-0-1678604148.7z",
+            "mod_id": 86865,
+            "hash": "sha256-A1ywjCJBigHf1z+2jWg9ffiG+klSjQKjDGzqJ2Kouo0="
+        }
+    },
+    "HSWilderness - Anise's Cabin - LUX": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "1.0.0",
+            "file_id": 367788,
+            "file_name": "HSWilderness - Anise's Cabin - LUX-86865-1-0-0-1678604195.7z",
+            "mod_id": 86865,
+            "hash": "sha256-YStkyXgUmxBZ7YVZvS9vht95Ll1st06Ah08eWGpftmU="
+        }
+    },
+    "HSWilderness - Anise's Cabin": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "1.0.1",
+            "file_id": 401768,
+            "file_name": "HSWilderness - Anise's Cabin-86865-1-0-1-1687925014.7z",
+            "mod_id": 86865,
+            "hash": "sha256-qrLeOOn3gWT2avAI4LgrblKDdbsQAEdj4tBJTBiJ7GI="
+        },
+        "type": "primary"
+    }
+}

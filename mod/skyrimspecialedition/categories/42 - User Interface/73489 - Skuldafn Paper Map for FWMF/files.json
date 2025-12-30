@@ -1,0 +1,23 @@
+{
+  "Adding Odahviing": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 308019,
+      "file_name": "add odahviing-73489-1-0-1660662010.zip",
+      "mod_id": 73489,
+      "hash": "sha256-ofi26xX03d8YaZI37RYd+rdvKkhBntqOXuSeqXO3Z9w="
+    }
+  },
+  "Skuldafn Map for FWMF": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1",
+      "file_id": 308046,
+      "file_name": "Skuldafn Map for FWMF-73489-1-1-1660670724.zip",
+      "mod_id": 73489,
+      "hash": "sha256-PDJuyX590yuWdn8ch/1XRBAyUpTDjRBixY76p4hh5D4="
+    },
+    "type": "primary"
+  }
+}

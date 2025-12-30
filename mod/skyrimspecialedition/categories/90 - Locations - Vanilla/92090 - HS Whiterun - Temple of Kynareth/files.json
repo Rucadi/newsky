@@ -1,0 +1,33 @@
+{
+    "HSWhiterun - Temple of Kynareth - ELFX": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "1.0.0",
+            "file_id": 391603,
+            "file_name": "HSWhiterun - Temple of Kynareth - ELFX-92090-1-0-0-1684960003.7z",
+            "mod_id": 92090,
+            "hash": "sha256-isADRjz6JQRag4sTfyuGeldXoyfn8Yn5veboTEEkono="
+        }
+    },
+    "HSWhiterun - Temple of Kynareth - LUX": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "1.0.0",
+            "file_id": 391604,
+            "file_name": "HSWhiterun - Temple of Kynareth - LUX-92090-1-0-0-1684960029.7z",
+            "mod_id": 92090,
+            "hash": "sha256-mRxlN78GzOdTyn6zVGyFkvuA6ULqVW3I+a066Ma2YME="
+        }
+    },
+    "HSWhiterun - Temple of Kynareth": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "1.0.1",
+            "file_id": 400462,
+            "file_name": "HSWhiterun - Temple of Kynareth-92090-1-0-1-1687605376.7z",
+            "mod_id": 92090,
+            "hash": "sha256-8MN7IpQkf16zwbFilx1285TY4nyQiDhlWa4c9/i/WaE="
+        },
+        "type": "primary"
+    }
+}

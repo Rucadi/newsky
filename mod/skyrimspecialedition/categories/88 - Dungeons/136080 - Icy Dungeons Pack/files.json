@@ -1,0 +1,43 @@
+{
+    "Icy Dungeons Pack": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "1.0",
+            "file_id": 572343,
+            "file_name": "Icy Dungeons Pack-136080-1-0-1734190227.rar",
+            "mod_id": 136080,
+            "hash": "sha256-Z+R06BKs+657hsTYMKwcZ9OxNxX6dGqMzYInuHJ5LSY="
+        },
+        "type": "primary"
+    },
+    "Icy Dungeons Pack - Sivdur's Respite Add-on": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "Add-on",
+            "file_id": 572344,
+            "file_name": "Icy Dungeons Pack - Sivdur's Respite Add-on-136080-Add-on-1734190342.rar",
+            "mod_id": 136080,
+            "hash": "sha256-Gu+M8eCr0KuyoYDfXkvorI4L9c2qsrnujN7sA7Iz7Eo="
+        }
+    },
+    "Icy Dungeons Pack - Champion's Rest Add-on": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "Add-on",
+            "file_id": 572346,
+            "file_name": "Icy Dungeons Pack - Champion's Rest Add-on-136080-Add-on-1734190400.rar",
+            "mod_id": 136080,
+            "hash": "sha256-a2+bGgBA9IWFBg/J9rX/75TmnWwqqAbD3BrnPcSLyoI="
+        }
+    },
+    "Icy Dungeons Pack - Snow Veil Sanctum Add-on": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "Add-on",
+            "file_id": 572348,
+            "file_name": "Icy Dungeons Pack - Snow Veil Sanctum Add-on-136080-Add-on-1734190453.rar",
+            "mod_id": 136080,
+            "hash": "sha256-YzsQdOzWtsi6tI4104nlaP0JuC6xQ4k6rXmRStHhYSM="
+        }
+    }
+}

@@ -1,0 +1,35 @@
+{
+  "Vigilant No Boss Summons": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 289986,
+      "file_name": "Vigilant No Boss Summons-69400-1-0-1654797691.7z",
+      "mod_id": 69400,
+      "hash": "sha256-2DO+bXhVsb1ihoQ0OjFoh6QCO9tiHTgtbf5UbBxcVJ0="
+    },
+    "type": "primary"
+  },
+  "Nerfed Rewards": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1",
+      "file_id": 317192,
+      "file_name": "Nerfed Rewards-69400-1-1-1663491005.7z",
+      "mod_id": 69400,
+      "hash": "sha256-FpiI8HrdbaeFpS+kfUxBcdlYKRnjUpRdpQwIL5KoAAs="
+    },
+    "type": "primary"
+  },
+  "VIGILANT Revised Scripts for MCO": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.01",
+      "file_id": 614048,
+      "file_name": "VIGILANT Revised Scripts for MCO-69400-1-01-1743847356.zip",
+      "mod_id": 69400,
+      "hash": "sha256-17Aot+OdN5m8odObnXKyg1TreJ44BrNdopFLKmh7sjQ="
+    },
+    "type": "primary"
+  }
+}

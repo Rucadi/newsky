@@ -1,0 +1,23 @@
+{
+  "Better Difficulty Options": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "2.0.0",
+      "file_id": 505999,
+      "file_name": "Better Difficulty Options-104576-2-0-0-1716917483.zip",
+      "mod_id": 104576,
+      "hash": "sha256-dMs9Eb3gKo5KdQ7I7P0p2e8ZxAO+1ixEJe1BThOpdtU="
+    },
+    "type": "primary"
+  },
+  "Better Difficulty Options - Equalise Damage Number": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "2.0.0",
+      "file_id": 506000,
+      "file_name": "Better Difficulty Options - Equalise Damage Number-104576-2-0-0-1716917592.zip",
+      "mod_id": 104576,
+      "hash": "sha256-jIruboxHIldshCC9I/9HXTw3KnV9vvEaxQ2mmZOLiSs="
+    }
+  }
+}

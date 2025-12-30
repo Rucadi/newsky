@@ -1,0 +1,55 @@
+{
+  "Hands Redone F CBBE": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0.0",
+      "file_id": 390469,
+      "file_name": "Hands Redone F CBBE-90713-1-0-0-1684666697.zip",
+      "mod_id": 90713,
+      "hash": "sha256-en6kR3wb6O9c7d5iMNZfoeZ6zXjRGmoSMImsjA+O6J8="
+    },
+    "type": "primary"
+  },
+  "Hands Redone F BHUNP": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0.0",
+      "file_id": 390906,
+      "file_name": "Hands Redone F BHUNP-90713-1-0-0-1684771846.zip",
+      "mod_id": 90713,
+      "hash": "sha256-1wAxDdIgmnxvCWdn5pDJ3GNQrvo5RhXw7nV2D4bb9Y4="
+    },
+    "type": "primary"
+  },
+  "Hands Redone F Vanilla": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0.0",
+      "file_id": 391559,
+      "file_name": "Hands Redone F Vanilla-90713-1-0-0-1684946883.zip",
+      "mod_id": 90713,
+      "hash": "sha256-11EA12Xjz/+OTGfQ22cXFnCEPfYBY+StT5oS16t/pkM="
+    },
+    "type": "primary"
+  },
+  "3BA Patch for CBBE": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0.0",
+      "file_id": 397409,
+      "file_name": "3BA Patch for CBBE-90713-1-0-0-1686632524.zip",
+      "mod_id": 90713,
+      "hash": "sha256-sbcGBttznqd0MafzKrSsX3VC1XexhkZ6BkwJZZlqlqc="
+    }
+  },
+  "No Rim Lighting": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0.0",
+      "file_id": 448994,
+      "file_name": "No Rim Lighting-90713-1-0-0-1701782550.zip",
+      "mod_id": 90713,
+      "hash": "sha256-f1UN5J5/9ZK2FI40CRoMHi7CdHp+er03C0bHftDWUcU="
+    }
+  }
+}

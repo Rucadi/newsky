@@ -1,0 +1,23 @@
+{
+  "Falmer Armors and Weapons Retexture SE": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 384939,
+      "file_name": "Falmer Armors and Weapons Retexture SE-90711-1-0-1683300027.rar",
+      "mod_id": 90711,
+      "hash": "sha256-QxBJ9Tx6UHHdcPDb3vV1eQMjGA1847zHkWYHaksay58="
+    },
+    "type": "primary"
+  },
+  "Falmer Armors and Weapons Retexture SE - Half Res": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 384941,
+      "file_name": "Falmer Armors and Weapons Retexture SE - Half Res-90711-1-0-1683300113.rar",
+      "mod_id": 90711,
+      "hash": "sha256-xpj/CslWwBziAZPC32CyWU2PAhZAjgZOBYuCC3pkQVg="
+    }
+  }
+}

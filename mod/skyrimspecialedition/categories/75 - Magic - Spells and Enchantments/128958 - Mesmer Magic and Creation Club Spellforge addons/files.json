@@ -1,0 +1,24 @@
+{
+  "Mesmer Magic Library": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1",
+      "file_id": 541097,
+      "file_name": "Mesmer Magic Library-128958-1-1-1726070237.rar",
+      "mod_id": 128958,
+      "hash": "sha256-XgcD8mV4nnXDnYcXICktM1QeWGH7mZt94nmLcqEFP0M="
+    },
+    "type": "primary"
+  },
+  "Creation Club": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1",
+      "file_id": 541099,
+      "file_name": "Creation Club-128958-1-1726070303.rar",
+      "mod_id": 128958,
+      "hash": "sha256-7y6Mz4p0zdFE7lsunOMMWAM86iHr5GD4kpGR0YDzOHE="
+    },
+    "type": "primary"
+  }
+}

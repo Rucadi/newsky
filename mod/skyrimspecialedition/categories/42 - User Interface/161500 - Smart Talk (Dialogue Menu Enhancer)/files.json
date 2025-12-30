@@ -1,0 +1,23 @@
+{
+    "Smart Talk - MCM menu": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "MCM-01",
+            "file_id": 682794,
+            "file_name": "Smart Talk - MCM menu-161500-MCM-01-1762043001.zip",
+            "mod_id": 161500,
+            "hash": "sha256-yr9ujsM8/tPVnWT3G9nkBm2CMsyteShWXUe/mKP9BTk="
+        }
+    },
+    "Smart Talk - Latest Version": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "1.0.5",
+            "file_id": 700903,
+            "file_name": "Smart Talk - Latest Version-161500-1-0-5-1766414595.zip",
+            "mod_id": 161500,
+            "hash": "sha256-jXHHtb4W0hBpHnwCE9g8cQuRJdIVX9eDrPJeHE9FuGs="
+        },
+        "type": "primary"
+    }
+}

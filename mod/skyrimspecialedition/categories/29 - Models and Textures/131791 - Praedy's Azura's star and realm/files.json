@@ -1,0 +1,24 @@
+{
+  "Praedy's Azura's star and realm 2K": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1",
+      "file_id": 553835,
+      "file_name": "Praedy's Azura's star and realm 2K-131791-1-1-1729398755.7z",
+      "mod_id": 131791,
+      "hash": "sha256-iJh5eKj2Z8x+cHXOBuwqaYprPj1DwY1iZH5dudKXBHc="
+    },
+    "type": "primary"
+  },
+  "Praedy's Azura's star and realm 4K": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1",
+      "file_id": 553836,
+      "file_name": "Praedy's Azura's star and realm 4K-131791-1-1-1729398837.7z",
+      "mod_id": 131791,
+      "hash": "sha256-ARMMB+6S8y/i0YKlYOulIS89ExFbpU1cr0wezG2kGCY="
+    },
+    "type": "primary"
+  }
+}

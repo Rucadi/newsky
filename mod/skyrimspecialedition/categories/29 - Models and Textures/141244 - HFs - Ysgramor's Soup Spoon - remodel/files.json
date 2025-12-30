@@ -1,0 +1,35 @@
+{
+  "HFs - Ysgramor's Soup Spoon - 1K": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1",
+      "file_id": 592480,
+      "file_name": "HFs - Ysgramor's Soup Spoon - 1K-141244-1-1739058807.zip",
+      "mod_id": 141244,
+      "hash": "sha256-5W1qfqxusDUe4IsfoDEsp0UUfm2Szkut4ya7a9X3tAc="
+    },
+    "type": "primary"
+  },
+  "HFs - Ysgramor's Soup Spoon - 2K": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1",
+      "file_id": 592481,
+      "file_name": "HFs - Ysgramor's Soup Spoon - 2K-141244-1-1739058827.zip",
+      "mod_id": 141244,
+      "hash": "sha256-UX9A1kV2gXePvSKB8bjPtSxJrXCKaAl4b+ZLAgLcclU="
+    },
+    "type": "primary"
+  },
+  "HFs - Ysgramor's Soup Spoon - 4K": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1",
+      "file_id": 592482,
+      "file_name": "HFs - Ysgramor's Soup Spoon - 4K-141244-1-1739058881.zip",
+      "mod_id": 141244,
+      "hash": "sha256-nf1xWP6bGFj81Hh4UHZkb60LeZcZVBtQ8lDfLdlR2wY="
+    },
+    "type": "primary"
+  }
+}

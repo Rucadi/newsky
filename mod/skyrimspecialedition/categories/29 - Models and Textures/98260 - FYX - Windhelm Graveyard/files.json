@@ -1,0 +1,74 @@
+{
+    "FYX - Windhelm Graveyard": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "1.0.1",
+            "file_id": 417929,
+            "file_name": "FYX - Windhelm Graveyard-98260-1-0-1-1692280315.7z",
+            "mod_id": 98260,
+            "hash": "sha256-fFMVNNq31YLblK56nvvg9ZdUv+vlX5029tJHJNdxY2E="
+        },
+        "type": "primary"
+    },
+    "FYX - Windhelm Graveyard - Parallax": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "1.0.1",
+            "file_id": 417930,
+            "file_name": "FYX - Windhelm Graveyard - Parallax-98260-1-0-1-1692280344.7z",
+            "mod_id": 98260,
+            "hash": "sha256-7UPuLM6cJHv+p8Xq4zF/SIWJ//o5WcHn4pNfGWSeSVM="
+        },
+        "type": "primary"
+    },
+    "FYX - Windhelm Graveyard - JK's Patch": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "1.0.1",
+            "file_id": 417931,
+            "file_name": "FYX - Windhelm Graveyard - JK's Patch-98260-1-0-1-1692280377.7z",
+            "mod_id": 98260,
+            "hash": "sha256-TSggErGwjKw5NJfK2cTP2KlNn3YUw8eRzAa4dQB2YLg="
+        }
+    },
+    "FYX - Windhelm Graveyard - JK's Patch - Parallax": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "1.0.1",
+            "file_id": 417932,
+            "file_name": "FYX - Windhelm Graveyard - JK's Patch - Parallax-98260-1-0-1-1692280407.7z",
+            "mod_id": 98260,
+            "hash": "sha256-GWOHfd82+5gr+IDTr1Xx485znkFdSWtP8kQLHu28LWo="
+        }
+    },
+    "FYX - Windhelm Graveyard - Spaghetti": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "1.0.1",
+            "file_id": 417933,
+            "file_name": "FYX - Windhelm Graveyard - Spaghetti-98260-1-0-1-1692280441.7z",
+            "mod_id": 98260,
+            "hash": "sha256-vaewT0vDgS6pI5TpHBfVNczgbMYtbKI4bvRhMpfi3go="
+        }
+    },
+    "FYX - Windhelm Graveyard - Spaghetti - Parallax": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "1.0.1",
+            "file_id": 417935,
+            "file_name": "FYX - Windhelm Graveyard - Spaghetti - Parallax-98260-1-0-1-1692280498.7z",
+            "mod_id": 98260,
+            "hash": "sha256-9pt/Auy2HSjuWfLUN8AI1Y1gJ/iFrhpBKF3wNRkygN0="
+        }
+    },
+    "FYX - Windhelm Graveyard - Navcut ESP": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "1.0.1",
+            "file_id": 424502,
+            "file_name": "FYX - Windhelm Graveyard - Navcut ESP-98260-1-0-1-1694274193.7z",
+            "mod_id": 98260,
+            "hash": "sha256-NWTd+F0aziBbZr74enB6D79qEKKPtwYSx/9h1K0KosE="
+        }
+    }
+}

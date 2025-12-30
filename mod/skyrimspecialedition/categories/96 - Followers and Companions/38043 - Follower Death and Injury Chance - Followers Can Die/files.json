@@ -1,0 +1,23 @@
+{
+  "Follower Death Injury - Skyrim Bandages Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "3.50",
+      "file_id": 653346,
+      "file_name": "Follower Death Injury - Skyrim Bandages Patch-38043-3-50-1754494026.rar",
+      "mod_id": 38043,
+      "hash": "sha256-RpQFm3eR1keSiO51JKxum21X3GIM+ClodzGoRdhTthQ="
+    }
+  },
+  "Follower Death Chance (SPID)": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "3.51",
+      "file_id": 694139,
+      "file_name": "Follower Death Chance (SPID)-38043-3-51-1764803329.zip",
+      "mod_id": 38043,
+      "hash": "sha256-RCuv4I4xtE7f0mqhf2NdncBSxqBxEoxXJKW4VKztuBE="
+    },
+    "type": "primary"
+  }
+}

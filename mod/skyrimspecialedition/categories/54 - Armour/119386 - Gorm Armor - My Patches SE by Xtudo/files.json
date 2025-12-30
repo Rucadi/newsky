@@ -1,0 +1,84 @@
+{
+  "Gorm Armor - SE by Xtudo - Fixes": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1",
+      "file_id": 500806,
+      "file_name": "Gorm Armor - SE by Xtudo - Fixes-119386-1-1715641318.7z",
+      "mod_id": 119386,
+      "hash": "sha256-6w49D+gfEN5GQ5bNz30KmrigzrleS/2PSeERaXnGXh4="
+    },
+    "type": "primary"
+  },
+  "Gorm Armor - SE by Xtudo - 2K Textures": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1",
+      "file_id": 500807,
+      "file_name": "Gorm Armor - SE by Xtudo - 2K Textures-119386-1-1715641369.7z",
+      "mod_id": 119386,
+      "hash": "sha256-HChYO8o+ThZWjfLKGyJ/wivu2UYuZJ0hynILEi41Q2w="
+    }
+  },
+  "Gorm Armor - SE by Xtudo - 1K Textures": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1",
+      "file_id": 500808,
+      "file_name": "Gorm Armor - SE by Xtudo - 1K Textures-119386-1-1715641387.7z",
+      "mod_id": 119386,
+      "hash": "sha256-nCPjyS7WWzD801nf46N5F6fCThXSmt7MAG0GeWNOfmI="
+    }
+  },
+  "Gorm Armor - SE by Xtudo - Fixes - Non-HDT version": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.2",
+      "file_id": 501345,
+      "file_name": "Gorm Armor - SE by Xtudo - Fixes - Non-HDT version-119386-1-2-1715780873.7z",
+      "mod_id": 119386,
+      "hash": "sha256-QOXiOJSVfZZmmyU1SpvVva0ZqaIeu+PFi7DerKa2uMY="
+    },
+    "type": "primary"
+  },
+  "Gorm Armor - SE by Xtudo - SPID Bandit Bosses": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.3",
+      "file_id": 501451,
+      "file_name": "Gorm Armor - SE by Xtudo - SPID Bandit Bosses-119386-1-3-1715802893.7z",
+      "mod_id": 119386,
+      "hash": "sha256-6TLi5B9OfY64zPBXLD56HdV2jVbaK3rzznNM6Qns4UQ="
+    }
+  },
+  "Gorm Armor - SE by Xtudo - Helmets No Horns patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.4",
+      "file_id": 508087,
+      "file_name": "Gorm Armor - SE by Xtudo - Helmets No Horns patch-119386-1-4-1717455471.7z",
+      "mod_id": 119386,
+      "hash": "sha256-t97RkoxqFDiVwxt1Rp6on+bWVa2Zz2PeU2EMgYTOmkk="
+    }
+  },
+  "Gorm Armor - SE by Xtudo - Heavy Armor version": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.5",
+      "file_id": 566950,
+      "file_name": "Gorm Armor - SE by Xtudo - Heavy Armor version-119386-1-5-1732802605.7z",
+      "mod_id": 119386,
+      "hash": "sha256-XbUmj1EqW/fmhiH+R5UggBr/bO0ffZw6dH/HoUz+XA4="
+    }
+  },
+  "Gorm Armor - SE by Xtudo - Ebony Armor Replacer": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.5",
+      "file_id": 566952,
+      "file_name": "Gorm Armor - SE by Xtudo - Ebony Armor Replacer-119386-1-5-1732802648.7z",
+      "mod_id": 119386,
+      "hash": "sha256-45vLlori8pRujS3bFqNXThhUOM1kyVLWZLFDDxpZQxY="
+    }
+  }
+}

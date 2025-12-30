@@ -1,0 +1,23 @@
+{
+  "4k Textures": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1",
+      "file_id": 473347,
+      "file_name": "4k Textures-112260-1-1708552810.7z",
+      "mod_id": 112260,
+      "hash": "sha256-Byy+T1WtQYVV7O6sIT7mIMPYDordRFSPTsYvWTZOJHM="
+    }
+  },
+  "Dark Witch Armor": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.4",
+      "file_id": 484714,
+      "file_name": "Dark Witch Armor-112260-1-4-1711577253.7z",
+      "mod_id": 112260,
+      "hash": "sha256-xF4uZwzpe1s/DLSZjCYPuunG+MCyrDUbw0dV0HGb6ss="
+    },
+    "type": "primary"
+  }
+}

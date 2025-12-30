@@ -1,0 +1,53 @@
+{
+    "Patch for Lawless and Infiltration Quest Expansion": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "1.01",
+            "file_id": 489038,
+            "file_name": "Patch for Lawless and Infiltration Quest Expansion-114054-1-01-1712680230.rar",
+            "mod_id": 114054,
+            "hash": "sha256-DZXjSO9VZcFIB83AQgNBNUMuTEQW+52pgxOn9GtqaLY="
+        }
+    },
+    "Patch for BUVARP and Infiltration Quest Expansion": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "1.01",
+            "file_id": 489039,
+            "file_name": "Patch for BUVARP and Infiltration Quest Expansion-114054-1-01-1712680310.rar",
+            "mod_id": 114054,
+            "hash": "sha256-DhnJ9Mw+5/mn5SCCjxoGCsYdSW/5SDEgSlzHzPUdiJc="
+        }
+    },
+    "Patch for Thanedom of TG and Infiltration QE": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "1.01",
+            "file_id": 489042,
+            "file_name": "Patch for Thanedom of TG and Infiltration QE-114054-1-01-1712680577.rar",
+            "mod_id": 114054,
+            "hash": "sha256-u/3DHJvIK0Lai22v6IbjbDDSxL09Om7OHYtp7k2Ygek="
+        }
+    },
+    "Infiltration - Quest Expansion": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "1.02",
+            "file_id": 535065,
+            "file_name": "Infiltration - Quest Expansion-114054-1-02-1724572951.zip",
+            "mod_id": 114054,
+            "hash": "sha256-D7qHuwo41absmRD1j0kTiI37Js9lwIcfkKf4Oc1QRGQ="
+        },
+        "type": "primary"
+    },
+    "Patch for CRF and Infiltration Quest Expansion": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "1.02",
+            "file_id": 535066,
+            "file_name": "Patch for CRF and Infiltration Quest Expansion-114054-1-02-1724572989.zip",
+            "mod_id": 114054,
+            "hash": "sha256-fXLhVukLs3aPrgKO7fkUW6tM0u8EOmJxaBLpqbnVmC4="
+        }
+    }
+}

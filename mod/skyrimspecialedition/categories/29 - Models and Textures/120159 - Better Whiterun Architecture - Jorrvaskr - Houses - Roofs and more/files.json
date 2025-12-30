@@ -1,0 +1,24 @@
+{
+  "Better Whiterun Architecture": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.5",
+      "file_id": 672176,
+      "file_name": "Better Whiterun Architecture-120159-1-5-1759587726.rar",
+      "mod_id": 120159,
+      "hash": "sha256-Q+LBdZeGwRodd+7k1VYCnrrPTdkbVPbnkPae3PQDlIU="
+    },
+    "type": "primary"
+  },
+  "Better Whiterun Architecture - Parallax": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.5",
+      "file_id": 672177,
+      "file_name": "Better Whiterun Architecture - Parallax-120159-1-5-1759587778.rar",
+      "mod_id": 120159,
+      "hash": "sha256-M7nRuCd8r4EORKxhKADhcbRDHRIpvfAFfecgLOLFknQ="
+    },
+    "type": "primary"
+  }
+}

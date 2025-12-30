@@ -1,0 +1,23 @@
+{
+  "TDM Vigilant Boss ini": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.2",
+      "file_id": 220684,
+      "file_name": "TDM Vigilant Boss ini-53708-1-2-1628793098.zip",
+      "mod_id": 53708,
+      "hash": "sha256-CDnOh9tZ+k4N+94BblQmOQwLf1UmNaip01h8M9WJ4QE="
+    },
+    "type": "primary"
+  },
+  "Auroran Addon": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.2opt",
+      "file_id": 220688,
+      "file_name": "Auroran Addon-53708-V1-1628793374.zip",
+      "mod_id": 53708,
+      "hash": "sha256-JzhHz99MIu/hSwWuUUEjQ4gT/aTR/MV8P5j+BNmeAfc="
+    }
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "JS Instruments of Skyrim - AYOP Misc": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.00",
+      "file_id": 619808,
+      "file_name": "JS Instruments of Skyrim SE - AYOP Misc-148330-1-00-1745246419.rar",
+      "mod_id": 148330,
+      "hash": "sha256-vYN9j3/vgqr1PZjFKjZ+gBK7q/oYxzgMf4qSRLRFLNQ="
+    },
+    "type": "primary"
+  },
+  "JS Instruments of Skyrim - Requiem": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.00",
+      "file_id": 619809,
+      "file_name": "JS Instruments of Skyrim - Requiem-148330-1-00-1745246443.rar",
+      "mod_id": 148330,
+      "hash": "sha256-zY0O4DnYSYSNMIDjdYc6GVIQtpnVka9NNoRXtvJ/afE="
+    },
+    "type": "primary"
+  },
+  "JS Instruments of Skyrim - Requiem and SGT": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.00",
+      "file_id": 619810,
+      "file_name": "JS Instruments of Skyrim - Requiem and SGT-148330-1-00-1745246494.rar",
+      "mod_id": 148330,
+      "hash": "sha256-mFW3iYXQcy2SGmXF75ZKyPzHgNnJNElBdKD9R9ednBU="
+    },
+    "type": "primary"
+  },
+  "JS Instruments of Skyrim - Skyrim's Got Talent": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.00",
+      "file_id": 619812,
+      "file_name": "JS Instruments of Skyrim - Skyrim's Got Talent-148330-1-00-1745246520.rar",
+      "mod_id": 148330,
+      "hash": "sha256-lLMYt6WkLP6wxfhMxYDStpAIPPSDLITnCVv2WZe+wok="
+    },
+    "type": "primary"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "Ultra Shields debuff": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0.0",
+      "file_id": 528294,
+      "file_name": "Ultra Shields debuff-126024-1-0-0-1722796925.zip",
+      "mod_id": 126024,
+      "hash": "sha256-rfoiYpVxAJKLsvDn8osYKg04uB3R0/Er+s2qDVEelNs="
+    }
+  },
+  "Ultra Shields": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "2.0.2",
+      "file_id": 661126,
+      "file_name": "Ultra Shields-126024-2-0-2-1756655501.zip",
+      "mod_id": 126024,
+      "hash": "sha256-Ahkpg+XDLJ6hpBBWU+Z5H7zrrPUG1/Xs+r+r2F8Dd8U="
+    },
+    "type": "primary"
+  }
+}

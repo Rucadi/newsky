@@ -1,0 +1,34 @@
+{
+  "Chaos Dragon 4thUnknown Dragon Edit texture origin": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 573506,
+      "file_name": "Chaos Dragon 4thUnknown Dragon Edit texture origin-136502-1-0-1734497686.7z",
+      "mod_id": 136502,
+      "hash": "sha256-drxkRX+biy2lMn2IQwujdgp+2UhZNaKF0qJ7OzaQKNw="
+    },
+    "type": "primary"
+  },
+  "Chaos Dragon 4thUnknown Dragon Edit texture 4k": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 573515,
+      "file_name": "Chaos Dragon 4thUnknown Dragon Edit texture 4k-136502-1-0-1734501692.7z",
+      "mod_id": 136502,
+      "hash": "sha256-9PcyqRmP3EILf2BOlBeNCNwUEtUthFbThrMPiccWvkE="
+    }
+  },
+  "Chaos Dragon 4thUnknown Dragon Edit": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 573554,
+      "file_name": "Chaos Dragon 4thUnknown Dragon Edit-136502-1-0-1734522143.7z",
+      "mod_id": 136502,
+      "hash": "sha256-ZDdagupqptwh0r7NSq1UfJC2gvaRWxJttS32zZIirqg="
+    },
+    "type": "primary"
+  }
+}

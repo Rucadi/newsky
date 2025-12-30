@@ -1,0 +1,393 @@
+{
+  "Pose Mod": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 528551,
+      "file_name": "Pose Mod-126100-1-0-1722867740.7z",
+      "mod_id": 126100,
+      "hash": "sha256-C8TdxZ+CWXtI9A6oXFSiRO/thRIFIJcLcpiIcPk2N9Q="
+    },
+    "type": "primary"
+  },
+  "Combat - Sword only animations.": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 528554,
+      "file_name": "Combat - Sword only animations.-126100-1-0-1722867884.7z",
+      "mod_id": 126100,
+      "hash": "sha256-p6VprA2kfna0qe9DZf7Y2DVSLsFkdHHFvJ2DNWczNlM="
+    }
+  },
+  "Combat - Sword Destruction animations": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 528556,
+      "file_name": "Combat - Sword Destruction Animations-126100-1-0-1722867959.7z",
+      "mod_id": 126100,
+      "hash": "sha256-Pb+oU4SfJkGKPSNoeT7yq421atBEYKS1NcPBMjxr9XU="
+    }
+  },
+  "Combat - Sword Restoration animations": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 528557,
+      "file_name": "Combat - Sword Restoration Animations-126100-1-0-1722867998.7z",
+      "mod_id": 126100,
+      "hash": "sha256-1h+Fpu8SaR6u42zflhS584qBHtkFRXwp4/VaMH6SZSw="
+    }
+  },
+  "Combat - Battleaxe One Handed animations": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 528559,
+      "file_name": "Combat - Battleaxe One Handed animations-126100-1-0-1722868078.7z",
+      "mod_id": 126100,
+      "hash": "sha256-9/FY2Olwr47noc7N0/VxhX/WuuqZ0xvrbZNyfpEPZRk="
+    }
+  },
+  "Combat - Battleaxe animations": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 528560,
+      "file_name": "Combat - Battleaxe animations-126100-1-0-1722868758.7z",
+      "mod_id": 126100,
+      "hash": "sha256-Vj/gL/5shvhj1hLYS3b5EC6hx1Tvk0vB7QUtK8KqLBY="
+    }
+  },
+  "Combat - Bow animations": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 528561,
+      "file_name": "Combat - Bow animations-126100-1-0-1722868892.7z",
+      "mod_id": 126100,
+      "hash": "sha256-NoUJOAq1gQ2Hw91Ed0kEESg9nVkdH2e1baBjmdgzbXc="
+    }
+  },
+  "Combat - Crossbow animations": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 528562,
+      "file_name": "Combat - Crossbow animations-126100-1-0-1722868938.7z",
+      "mod_id": 126100,
+      "hash": "sha256-hkqaOd2ROvD1LMRuV/hr/CT1uKFgAu3MIu1dQMr6Jmc="
+    }
+  },
+  "Combat - Dagger Only animations": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 528564,
+      "file_name": "Combat - Dagger Only animations-126100-1-0-1722869236.7z",
+      "mod_id": 126100,
+      "hash": "sha256-j0UQrYWUnewVBm3a2GzvnnQRoYJrO/o7vV1zSWWk9jU="
+    }
+  },
+  "Combat - Destruction Both Hands animations": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 528565,
+      "file_name": "Combat - Destruction Both Hands animations-126100-1-0-1722869278.7z",
+      "mod_id": 126100,
+      "hash": "sha256-C8W2vTs9ml1XPwO3zHL5UmctjwcYRE9IXpssl79wARA="
+    }
+  },
+  "Combat - Staff Left animations": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 528566,
+      "file_name": "Combat - Staff Left animations-126100-1-0-1722869352.7z",
+      "mod_id": 126100,
+      "hash": "sha256-mbNqdhvqJbcc+dUhVdBaavYPx8pPf+qAV0fl7MyXqzQ="
+    }
+  },
+  "Combat - Sword Shield animations": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 528567,
+      "file_name": "Combat - Sword Shield animations-126100-1-0-1722869391.7z",
+      "mod_id": 126100,
+      "hash": "sha256-djAOtIcbjMt+2X4cSy3z+WSBizXWD7Hk4rUJwON7zU0="
+    }
+  },
+  "Combat - Two Handed Sword animations": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 528568,
+      "file_name": "Combat - Two Handed Sword animations-126100-1-0-1722869422.7z",
+      "mod_id": 126100,
+      "hash": "sha256-WvEMRsxcVbqCnBfTLKA1HY5jlLh3NYL5wv1Nm5NdcRM="
+    }
+  },
+  "Combat - Warhammer animations": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 528569,
+      "file_name": "Combat - Warhammer animations-126100-1-0-1722869466.7z",
+      "mod_id": 126100,
+      "hash": "sha256-PswO/T7V1mcVU5oBMrDBK5jmfRCLC3o3oDNCMCZkA+s="
+    }
+  },
+  "Crafting - Alchemy animations": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 528795,
+      "file_name": "Crafting - Alchemy animations-126100-1-0-1722943397.7z",
+      "mod_id": 126100,
+      "hash": "sha256-96vvezO0G7ujigArF2y0RTTAfdDyUrKcfYwsrF4E0Pg="
+    }
+  },
+  "Crafting - Cooking animations": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 528796,
+      "file_name": "Crafting - Cooking animations-126100-1-0-1722943429.7z",
+      "mod_id": 126100,
+      "hash": "sha256-NZgssg9QBHL7TRRgXb8BpBt9TkBVLxvWiEcoq4pyZCQ="
+    }
+  },
+  "Crafting - Enchanting animations": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 528797,
+      "file_name": "Crafting - Enchanting animations-126100-1-0-1722943461.7z",
+      "mod_id": 126100,
+      "hash": "sha256-XS3ngAavhSsiS5zCNxs8NAsTuEf4eL8QId4O7NcoZR0="
+    }
+  },
+  "Crafting - Spinning Wheel animations": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 528798,
+      "file_name": "Crafting - Spinning Wheel animations-126100-1-0-1722943488.7z",
+      "mod_id": 126100,
+      "hash": "sha256-OMaoW/y+6ladpZppYbr08HNuEWhXJxZD9wvDU+RdXZE="
+    }
+  },
+  "Crafting - Tanning Rack animations": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 528799,
+      "file_name": "Crafting - Tanning Rack animations-126100-1-0-1722943536.7z",
+      "mod_id": 126100,
+      "hash": "sha256-XNIKk9fPJ1Q4cIf6QSmQowx84Fd+1QDCLEYGmnQrutI="
+    }
+  },
+  "Misc - Bleeding animations": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 528800,
+      "file_name": "Misc - Bleeding animations-126100-1-0-1722943611.7z",
+      "mod_id": 126100,
+      "hash": "sha256-N9WMlDHSRbyVFAEBfqwPUY85V9vXu3DtF136ouO4WkU="
+    }
+  },
+  "Misc - Drunk animations": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 528801,
+      "file_name": "Misc - Drunk animations-126100-1-0-1722943644.7z",
+      "mod_id": 126100,
+      "hash": "sha256-OJqWlWY+xHI7MS+HKwinRB/xkfi+9b2QjtyRINYQk3c="
+    }
+  },
+  "Misc - Jump animations": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 528802,
+      "file_name": "Misc - Jump animations-126100-1-0-1722943698.7z",
+      "mod_id": 126100,
+      "hash": "sha256-woH59aqry4v7pdpCKrKYy/1xRcLTDl6vtRP/d7ysItY="
+    }
+  },
+  "Misc - Running animations": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 528803,
+      "file_name": "Misc - Running animations-126100-1-0-1722943734.7z",
+      "mod_id": 126100,
+      "hash": "sha256-bqDUxfftVUpOulVfFYt3WL/38bHFNcVTerHxdO3qoyw="
+    }
+  },
+  "Misc - Stealth animations": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 528805,
+      "file_name": "Misc - Stealth animations-126100-1-0-1722943761.7z",
+      "mod_id": 126100,
+      "hash": "sha256-Duv6eZ7TqtUxyD6zRUmq0nEwe0Qkou2+5uSg41XFusk="
+    }
+  },
+  "Misc - Stool animations": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 528806,
+      "file_name": "Misc - Stool animations-126100-1-0-1722943817.7z",
+      "mod_id": 126100,
+      "hash": "sha256-d205A9rOlzEKhojGZVANLYwALKOYXHXNVrxdTDr+1bQ="
+    }
+  },
+  "Misc - Swimming animations": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 528807,
+      "file_name": "Misc - Swimming animations-126100-1-0-1722943852.7z",
+      "mod_id": 126100,
+      "hash": "sha256-XQqKVfAFaipAGY4XZz8xS7fhVXsxmv1TSNDLztH4FwA="
+    }
+  },
+  "Dagger Killmove - GrappleStab SE": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 528817,
+      "file_name": "Dagger Killmove - GrappleStab SE-126100-1-0-1722944521.7z",
+      "mod_id": 126100,
+      "hash": "sha256-H6+enFmxavotGVbXv8cQkwTg2+A+XJXBpydJ5f7SOUk="
+    }
+  },
+  "Dagger Killmove - shortd": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 528821,
+      "file_name": "Dagger Killmove - shortd-126100-1-0-1722944563.7z",
+      "mod_id": 126100,
+      "hash": "sha256-64MMQ1wloj7Lu/4rLVQiHFdXBNAlj0Sc2FgLETcEmqc="
+    }
+  },
+  "Killmove from Behind - Unarmed": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 528822,
+      "file_name": "Killmove from Behind - Unarmed-126100-1-0-1722944587.7z",
+      "mod_id": 126100,
+      "hash": "sha256-4N6kTKF688x3pVmSVY6NVgHzg/sFYwkfM3cIJvmgcUM="
+    }
+  },
+  "Stealth Killmove - Dagger": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 528824,
+      "file_name": "Stealth Killmove - Dagger-126100-1-0-1722944616.7z",
+      "mod_id": 126100,
+      "hash": "sha256-c/cJpWyhn+U8ZXqi6sExWY7ZjA73GCRW/8fpQH39+Io="
+    }
+  },
+  "Stealth Killmove - Sword": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 528825,
+      "file_name": "Stealth Killmove - Sword-126100-1-0-1722944637.7z",
+      "mod_id": 126100,
+      "hash": "sha256-7nt44DnRfiGmgbMEqO6Ydw2b5Zw+rjI378aSnH/3hnw="
+    }
+  },
+  "Unarmed - Killmove Bodyslam": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 528826,
+      "file_name": "Unarmed - Killmove Bodyslam-126100-1-0-1722944656.7z",
+      "mod_id": 126100,
+      "hash": "sha256-ObCduh/yqo6aaLrViLWKb0EGcScR8jDZzDeVPF8W61U="
+    }
+  },
+  "Unarmed - Killmove ComboA": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 528827,
+      "file_name": "Unarmed - Killmove ComboA-126100-1-0-1722944680.7z",
+      "mod_id": 126100,
+      "hash": "sha256-eRlKxvNK8SY3TQOteru749eG+/fp1UPR7qw+e/qQbxo="
+    }
+  },
+  "Unarmed - Killmove Kneethrow": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 528828,
+      "file_name": "Unarmed - Killmove Kneethrow-126100-1-0-1722944714.7z",
+      "mod_id": 126100,
+      "hash": "sha256-J1PLCFakfGbRmhHMF5Fll5xPi8HniLzS4VdAbLfWf70="
+    }
+  },
+  "Unarmed - Killmove SlamA": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 528829,
+      "file_name": "Unarmed - Killmove SlamA-126100-1-0-1722944733.7z",
+      "mod_id": 126100,
+      "hash": "sha256-axH34NQ5br37TStnch4Er07WWykUwWk9yM9CF4+afdQ="
+    }
+  },
+  "Warhammer - Killmove Chopkick": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 528830,
+      "file_name": "Warhammer - Killmove Chopkick-126100-1-0-1722944749.7z",
+      "mod_id": 126100,
+      "hash": "sha256-CGE65UJE+l4+Y+j4D+afYqpRGsrAPjCJHeuVsIY+q10="
+    }
+  },
+  "Warhammer - Killmove from Behind": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 528831,
+      "file_name": "Warhammer - Killmove from Behind-126100-1-0-1722944771.7z",
+      "mod_id": 126100,
+      "hash": "sha256-XdOWtfKCnGipruYfPVmswQrJtckuCGZGI7Xp54Zp4Do="
+    }
+  },
+  "Warhammer - Killmove Headbutt": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 528833,
+      "file_name": "Warhammer - Killmove Headbutt-126100-1-0-1722944834.7z",
+      "mod_id": 126100,
+      "hash": "sha256-vwOcueOyvFujssrt0Dv2VS08wfcVIE8HJeUnyv/ZwVQ="
+    }
+  },
+  "Warhammer - Killmove KillmoveB": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 528834,
+      "file_name": "Warhammer - Killmove KillmoveB-126100-1-0-1722944852.7z",
+      "mod_id": 126100,
+      "hash": "sha256-LygLPiWgOQKQMWWNi9Vx+VlM1w2lsttMYHkSeJRMLbA="
+    }
+  }
+}

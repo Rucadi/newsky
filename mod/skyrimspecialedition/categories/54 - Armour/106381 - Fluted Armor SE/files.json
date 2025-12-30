@@ -1,0 +1,33 @@
+{
+  "Lower resolution textures": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1",
+      "file_id": 449540,
+      "file_name": "Lower resolution textures-106381-1-1701958411.7z",
+      "mod_id": 106381,
+      "hash": "sha256-X5oApSPj+vtpOrPjcg9+O4CYwf/vwfHnyJoWO0tF7uw="
+    }
+  },
+  "Potato Sized Textures": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1",
+      "file_id": 449541,
+      "file_name": "Potato Sized Textures-106381-1-1701958433.7z",
+      "mod_id": 106381,
+      "hash": "sha256-RHoPNr4F2FLtNbHFkDrc4FqBZInwl2tvZaOxynatN1I="
+    }
+  },
+  "1FlutedArmorSE": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "2",
+      "file_id": 449715,
+      "file_name": "1FlutedArmorSE-106381-2-1702016021.7z",
+      "mod_id": 106381,
+      "hash": "sha256-lcAGtw938o6tRF78/IYHH7qEFBrooUAZrUUC0p+Tocg="
+    },
+    "type": "primary"
+  }
+}

@@ -1,0 +1,200 @@
+{
+    "Ancient Argonian Armor - Fixes ESL by Xtudo": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "1",
+            "file_id": 426263,
+            "file_name": "Ancient Argonian Armor - My patches by Xtudo - ESL-100733-1-1694873526.7z",
+            "mod_id": 100733,
+            "hash": "sha256-lWnhSdXVkFlaTp13Lmq2LOppc3EZDPb1fSzFmCALkBA="
+        },
+        "type": "primary"
+    },
+    "Ancient Argonian Armor - Fixes ESP by Xtudo": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "1",
+            "file_id": 426264,
+            "file_name": "Ancient Argonian Armor - My patches by Xtudo - ESP-100733-1-1694873545.7z",
+            "mod_id": 100733,
+            "hash": "sha256-oh7J61W9hXzmKIBW1uT6XoZX3lIJ70rz0hIhg5i+C9A="
+        },
+        "type": "primary"
+    },
+    "Ancient Argonian Armor - Glow 50 4K by Xtudo": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "1.1",
+            "file_id": 426749,
+            "file_name": "Ancient Argonian Armor - Glow 50 4K by Xtudo-100733-1-1-1694979253.7z",
+            "mod_id": 100733,
+            "hash": "sha256-PYVvFr8+m1YX8GkorHZupj5sTziuQ3mYyNjm3c9Go08="
+        }
+    },
+    "Ancient Argonian Armor - Glow 50 2K by Xtudo": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "1.1",
+            "file_id": 426750,
+            "file_name": "Ancient Argonian Armor - Glow 50 2K by Xtudo-100733-1-1-1694979269.7z",
+            "mod_id": 100733,
+            "hash": "sha256-AUxijDQLELa5IPJ36iNNZViNH3e8iaYVtTgel8oDOBs="
+        }
+    },
+    "Ancient Argonian Armor - Glow 50 1K by Xtudo": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "1.1",
+            "file_id": 426751,
+            "file_name": "Ancient Argonian Armor - Glow 50 1K by Xtudo-100733-1-1-1694979295.7z",
+            "mod_id": 100733,
+            "hash": "sha256-MD4P9r//PApvBMkJaQZ5YLt143X08Yx6qO4KOhIwUbc="
+        }
+    },
+    "Ancient Argonian Armor - Glow 25 4K by Xtudo": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "1.1",
+            "file_id": 426752,
+            "file_name": "Ancient Argonian Armor - Glow 25 4K by Xtudo-100733-1-1-1694979321.7z",
+            "mod_id": 100733,
+            "hash": "sha256-5Ys6ME9JyRrUs2NNYl3lWwGmeKS6ga6NqjZw3FE+tuA="
+        }
+    },
+    "Ancient Argonian Armor - Glow 25 2K by Xtudo": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "1.1",
+            "file_id": 426753,
+            "file_name": "Ancient Argonian Armor - Glow 25 2K by Xtudo-100733-1-1-1694979342.7z",
+            "mod_id": 100733,
+            "hash": "sha256-KmNTgscoQ149xtYG640T8VkCeEjZ85kyB4fqlQGIntQ="
+        }
+    },
+    "Ancient Argonian Armor - Glow 25 1K by Xtudo": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "1.1",
+            "file_id": 426754,
+            "file_name": "Ancient Argonian Armor - Glow 25 1K by Xtudo-100733-1-1-1694979362.7z",
+            "mod_id": 100733,
+            "hash": "sha256-CgDioIn6K54jEi9hkHCOceIX+ey1C47zH3q3OkS+me8="
+        }
+    },
+    "Ancient Argonian Armor - Fixes ESL Unench by Xtudo": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "1.2",
+            "file_id": 428881,
+            "file_name": "Ancient Argonian Armor by Xtudo - Unenchanted -ESL-100733-1-2-1695638981.7z",
+            "mod_id": 100733,
+            "hash": "sha256-iQ3Hq7iNqbknf0O+J5ZtUVXLd5FByGXETaYE0zxNIdw="
+        },
+        "type": "primary"
+    },
+    "Ancient Argonian Armor - Fixes ESP Unench by Xtudo": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "1.2",
+            "file_id": 428882,
+            "file_name": "Ancient Argonian Armor by Xtudo - Unenchanted ESP-100733-1-2-1695639010.7z",
+            "mod_id": 100733,
+            "hash": "sha256-rHPy6ScxsgMYZ6KXJnNhK+XJYmskRknBkzE8BoLNr+o="
+        },
+        "type": "primary"
+    },
+    "Ancient Argonian Armor - OBIS-SPID patch by Xtudo": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "1.3",
+            "file_id": 432119,
+            "file_name": "Ancient Argonian Armor - OBIS-SPID patch by Xtudo-100733-1-3-1696722348.7z",
+            "mod_id": 100733,
+            "hash": "sha256-ookzbDpQaXXwM6fiAJ26Ea7R5IlC1VpF0DzHhos8IDs="
+        }
+    },
+    "Ancient Argonian Armor - No Glow by Xtudo": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "1.4",
+            "file_id": 437469,
+            "file_name": "Ancient Argonian Armor - No Glow by Xtudo-100733-1-4-1698421333.7z",
+            "mod_id": 100733,
+            "hash": "sha256-pkJIWBNg9+Wkxp/41Q3LxkP0LHJ4QCcW1wTD9UYRzkA="
+        }
+    },
+    "Ancient Argonian Armor - BS-WoT Addon by Xtudo": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "1.5",
+            "file_id": 439006,
+            "file_name": "Ancient Argonian Armor - BS-WoT Addon by Xtudo-100733-1-5-1698888837.7z",
+            "mod_id": 100733,
+            "hash": "sha256-wG5OOmJN5H/awIrVFJLehc39gixvOJPGFxnYWplbY9I="
+        }
+    },
+    "Ancient Argonian Armor - BS-WoT Addon Une by Xtudo": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "1.5",
+            "file_id": 439007,
+            "file_name": "Ancient Argonian Armor - BS-WoT Addon Une by Xtudo-100733-1-5-1698888860.7z",
+            "mod_id": 100733,
+            "hash": "sha256-VWidAABNbZh28ptFvV99JfdtHZ7ds88Cqvsp3Z+i9xY="
+        }
+    },
+    "Ancient Argonian Armor - Inv Items NoGlow by Xtudo": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "1.6",
+            "file_id": 651955,
+            "file_name": "Ancient Argonian Armor - Inv Items NoGlow by Xtudo-100733-1-6-1754078927.7z",
+            "mod_id": 100733,
+            "hash": "sha256-FqFI7jfFo4Ia/MIV/IJ0UVcICA6cvdgLZmrXQFHjLuc="
+        }
+    },
+    "Ancient Argonian Armor - Fixes ESL Tail by Xtudo": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "1.7",
+            "file_id": 654437,
+            "file_name": "Ancient Argonian Armor - Fixes ESL Tail by Xtudo-100733-1-7-1754827068.7z",
+            "mod_id": 100733,
+            "hash": "sha256-ovNBM4PewO7BLaUoYeBMT9Sv9CQemI9UcYIQGkBxnUc="
+        },
+        "type": "primary"
+    },
+    "Ancient Argonian Armor - Fixes ESL TailUn by Xtudo": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "1.7",
+            "file_id": 654439,
+            "file_name": "Ancient Argonian Armor - Fixes ESL TailUn by Xtudo-100733-1-7-1754827288.7z",
+            "mod_id": 100733,
+            "hash": "sha256-Xo8j2RcfmMfHh39JxcSX0M7T70OUs9T+9wQb+rlNyzw="
+        },
+        "type": "primary"
+    },
+    "Ancient Argonian Armor - Fixes ESP TailUn by Xtudo": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "1.7",
+            "file_id": 654440,
+            "file_name": "Ancient Argonian Armor - Fixes ESP TailUn by Xtudo-100733-1-7-1754827327.7z",
+            "mod_id": 100733,
+            "hash": "sha256-OG7/l9jw1rdZbBaf1aKuAaCEkjp2YWDeQUoOy62dh80="
+        },
+        "type": "primary"
+    },
+    "Ancient Argonian Armor - Fixes ESP Tail by Xtudo": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "1.7",
+            "file_id": 654721,
+            "file_name": "Ancient Argonian Armor - Fixes ESP Tail by Xtudo-100733-1-7-1754919914.7z",
+            "mod_id": 100733,
+            "hash": "sha256-ina6OUBOtqQnYRQyYCpfzsNQTM166aCECLuga23InGM="
+        },
+        "type": "primary"
+    }
+}

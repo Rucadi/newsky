@@ -1,0 +1,23 @@
+{
+    "DF - Enhanced Blood Textures Patch": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "02",
+            "file_id": 634786,
+            "file_name": "DF - Enhanced Blood Textures Patch-126203-02-1749114511.zip",
+            "mod_id": 126203,
+            "hash": "sha256-WRX5wzWiSzxW8UAcFL+h2bUxnqei0vkEjmsG9wj8xz0="
+        }
+    },
+    "Dismembering Framework - Latest Version": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "1.2.2",
+            "file_id": 660925,
+            "file_name": "Dismembering Framework - Latest Version-126203-1-2-2-1756603963.zip",
+            "mod_id": 126203,
+            "hash": "sha256-agsTWL3PjPApj87YiJyi6/6PlN78J7EwEIypZVXHINU="
+        },
+        "type": "primary"
+    }
+}

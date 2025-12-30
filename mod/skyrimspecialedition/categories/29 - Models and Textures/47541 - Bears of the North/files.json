@@ -1,0 +1,43 @@
+{
+  "Bears of the North": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1",
+      "file_id": 193903,
+      "file_name": "Bears of the North-47541-1-1-1616859125.7z",
+      "mod_id": 47541,
+      "hash": "sha256-Wi9lYbQHv8EBjT56Rjrrymdw0axXUxEITkqUd0mWhNc="
+    },
+    "type": "primary"
+  },
+  "4K Textures": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1",
+      "file_id": 193904,
+      "file_name": "4K Textures-47541-1-1-1616859215.7z",
+      "mod_id": 47541,
+      "hash": "sha256-IPwnauYZBb5MqZ+tvduiBiI3LrThto38X81xDDUAXpc="
+    }
+  },
+  "COTN Winterhold Add-On": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1",
+      "file_id": 193932,
+      "file_name": "COTN Winterhold Add-On-47541-1-1-1616865651.7z",
+      "mod_id": 47541,
+      "hash": "sha256-5Ld57C2hl+/498FIy8ZcjkK+xPGHvJtkCHvwBP9bdcE="
+    }
+  },
+  "Trophies HOTFIX": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1",
+      "file_id": 204396,
+      "file_name": "Trophies HOTFIX-47541-1-1-1621455362.7z",
+      "mod_id": 47541,
+      "hash": "sha256-XrO+jKS1+xzBX4wABS2BtjPGkKiHB1Zqn50P8o/XanA="
+    }
+  }
+}

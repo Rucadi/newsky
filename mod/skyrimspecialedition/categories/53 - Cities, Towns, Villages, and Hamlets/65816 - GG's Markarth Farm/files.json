@@ -1,0 +1,64 @@
+{
+  "Markarth Farm light plugin": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1",
+      "file_id": 274252,
+      "file_name": "Markarth Farm light plugin-65816-1-1-1648877185.rar",
+      "mod_id": 65816,
+      "hash": "sha256-Bz9b35BMmPc8QC3XZINnpDmdNPBdNEPrnyA5c97YHLE="
+    }
+  },
+  "Markarth Farm patch for efps": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1.3",
+      "file_id": 274843,
+      "file_name": "Markarth Farm patch for efps-65816-1-1-3-1649094708.rar",
+      "mod_id": 65816,
+      "hash": "sha256-SKplJcl7NGjanLXuKuAVZ/uR6G+dyMkgEijQ7VJtXkQ="
+    }
+  },
+  "GG's Markarth Farm": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1.4",
+      "file_id": 274963,
+      "file_name": "GG's Markarth Farm-65816-1-1-4-1649138996.rar",
+      "mod_id": 65816,
+      "hash": "sha256-pV4ARxGTwhx2axr+5UQzrgwJv6SAEA5wohqcddHL404="
+    },
+    "type": "primary"
+  },
+  "GG's Markarth Farm (for Lux Via users only)": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1.4",
+      "file_id": 274964,
+      "file_name": "GG's Markarth Farm (for Lux Via users only)-65816-1-1-4-1649139020.rar",
+      "mod_id": 65816,
+      "hash": "sha256-y766mr2DDvQlOvxHXHzO4j6PioRmD7yi65k/engKpmQ="
+    },
+    "type": "primary"
+  },
+  "GG's Markarth Farm brighter lights": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1.4",
+      "file_id": 274980,
+      "file_name": "GG's Markarth Farm brighter lights-65816-1-1-4-1649147520.rar",
+      "mod_id": 65816,
+      "hash": "sha256-zFEG4yHZkM92v+WxEKX68BuLtpUV+WlBsAU0bbX5Xbk="
+    }
+  },
+  "GG's Markarth Farm Windmills of Skyrim patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1.4",
+      "file_id": 277722,
+      "file_name": "GG's Markarth Farm Windmills of Skyrim patch-65816-1-1-4-1650178047.rar",
+      "mod_id": 65816,
+      "hash": "sha256-q/mDJKLg8KkGP48UiLttoApV7uoHnEIDvTZ7Yr/1kWM="
+    }
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "HSWhiterun - Arcadia's Cauldron": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "2.0.0",
+      "file_id": 443952,
+      "file_name": "HSWhiterun - Arcadia's Cauldron-75340-2-0-0-1700401949.7z",
+      "mod_id": 75340,
+      "hash": "sha256-ADGjQZTJzJxnazULriQqxUmXeSCRZa+PvCa+wyLnjA8="
+    },
+    "type": "primary"
+  },
+  "HSWhiterun - Arcadia's Cauldron - ELFX": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0.0",
+      "file_id": 443965,
+      "file_name": "HSWhiterun - Arcadia's Cauldron - ELFX-75340-1-0-0-1700403611.7z",
+      "mod_id": 75340,
+      "hash": "sha256-etTuG6LTNnVqeHYm3tdM13TI3fX37Z6K50ktwbl3LOg="
+    }
+  },
+  "HSWhiterun - Arcadia's Cauldron - LUX": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0.0",
+      "file_id": 443966,
+      "file_name": "HSWhiterun - Arcadia's Cauldron - LUX-75340-1-0-0-1700403637.7z",
+      "mod_id": 75340,
+      "hash": "sha256-/TqIx7IoQGgKlbI/KtVt8tw1ItUKlqvB1qKTnMtifY4="
+    }
+  }
+}

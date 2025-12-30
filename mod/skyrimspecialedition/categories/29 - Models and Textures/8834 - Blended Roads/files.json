@@ -1,0 +1,23 @@
+{
+    "Medieval Bridges": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "1.31",
+            "file_id": 52732,
+            "file_name": "Medieval Bridges-8834-1-31.7z",
+            "mod_id": 8834,
+            "hash": "sha256-EjN4w30rn/5DbIVIGOSQWAfP7A9+S0NUA04oUxpY8HY="
+        }
+    },
+    "Blended Roads": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "1.7",
+            "file_id": 133231,
+            "file_name": "Blended Roads-8834-1-7-1586448385.7z",
+            "mod_id": 8834,
+            "hash": "sha256-TZBkMaIhmkeBm3+wUVf4V9zQIJ/CO/LIagd6qVsyPEQ="
+        },
+        "type": "primary"
+    }
+}

@@ -1,0 +1,84 @@
+{
+  "Soul Hunter Skeletons Nerf Patch No Dungeon": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1",
+      "file_id": 550060,
+      "file_name": "Soul Hunter Skeletons Nerf Patch No Dungeon-122614-1-1-1728337434.rar",
+      "mod_id": 122614,
+      "hash": "sha256-BUCPUUVAYRFeLODgWxrJ84I1cU8/0Z9w06jMWVaAtb0="
+    }
+  },
+  "Soul Hunter Armor Mashup Without dungeon": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.6",
+      "file_id": 550061,
+      "file_name": "Soul Hunter Armor Mashup Without dungeon-122614-1-6-1728337487.rar",
+      "mod_id": 122614,
+      "hash": "sha256-o3f9y4phijEcEaZp0USdxXx81S1LstK5b8gTVxasuw8="
+    }
+  },
+  "Serana default outfit and weap replacer Skypatcher": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.6.5",
+      "file_id": 551371,
+      "file_name": "Serana default outfit and weap replacer Skypatcher-122614-1-6-5-1728732769.rar",
+      "mod_id": 122614,
+      "hash": "sha256-GD2swlhAQBrZEQfqPpNrQ2jYcTeo1rJfDFjEiv1u0Ow="
+    }
+  },
+  "Soul Hunter Armor Mashup": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.7",
+      "file_id": 697242,
+      "file_name": "Soul Hunter Armor Mashup-122614-1-7-1765559748.rar",
+      "mod_id": 122614,
+      "hash": "sha256-0JwJfsW2Hbi2oK7VLjNaSRxe9UC98q2922ptwo4VoPg="
+    },
+    "type": "primary"
+  },
+  "Soul Hunter Armor Mashup 2K Downscaled": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.7",
+      "file_id": 697243,
+      "file_name": "Soul Hunter Armor Mashup 2K Downscaled-122614-1-7-1765559796.rar",
+      "mod_id": 122614,
+      "hash": "sha256-7IbDpQ+aneKEE4i/By+BlKGC32sWqL47QWFf486xnko="
+    },
+    "type": "primary"
+  },
+  "Soul Hunter RED and panties version addon (ESL)": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.7",
+      "file_id": 697244,
+      "file_name": "Soul Hunter RED and panties version addon (ESL)-122614-1-7-1765559880.rar",
+      "mod_id": 122614,
+      "hash": "sha256-9NQGLh7VtxeP5o4cipqbh88aJj1lTV+O7aNiuunAWFs="
+    }
+  },
+  "Soul Hunter RED and panties version addon (ESL) 2k": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.7",
+      "file_id": 697246,
+      "file_name": "Soul Hunter RED and panties version addon (ESL) 2k-122614-1-7-1765559917.rar",
+      "mod_id": 122614,
+      "hash": "sha256-AMTQnnYAwUaAjif1uT+oPT17lH/bWgm8SCukJ3uyz5A="
+    }
+  },
+  "Soul Hunter Skeletons Nerf Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.7",
+      "file_id": 697247,
+      "file_name": "Soul Hunter Skeletons Nerf Patch-122614-1-7-1765559947.rar",
+      "mod_id": 122614,
+      "hash": "sha256-WNahFYwRDTWinx2+GqTty/IuTBvhvrvdySEYjz7/CEc="
+    }
+  }
+}

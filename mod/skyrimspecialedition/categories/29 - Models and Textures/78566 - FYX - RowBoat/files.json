@@ -1,0 +1,23 @@
+{
+  "FYX - RowBoat": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0.4",
+      "file_id": 371849,
+      "file_name": "FYX - RowBoat-78566-1-0-4-1679734418.7z",
+      "mod_id": 78566,
+      "hash": "sha256-6wik0CqGyciq5b/Hj+118RvpDEVSX7sNO+mQYtqQd/Y="
+    },
+    "type": "primary"
+  },
+  "FYX - RowBoat x Thanedom of x Kingdom of x Hamlets of": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0.4",
+      "file_id": 371887,
+      "file_name": "FYX - RowBoat x Thanedom of x Kingdom of x Hamlets of-78566-1-0-4-1679749021.7z",
+      "mod_id": 78566,
+      "hash": "sha256-at2bVYog7geaxmkBRlinc4PsCQN9XB1lb5/Y4VAE0Lg="
+    }
+  }
+}

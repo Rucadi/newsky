@@ -1,0 +1,33 @@
+{
+    "HSRiverwood - Alvor and Sigrid's House - ELFX": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "1.0.0",
+            "file_id": 364666,
+            "file_name": "HSRiverwood - Alvor and Sigrid's House - ELFX-86088-1-0-0-1677717360.7z",
+            "mod_id": 86088,
+            "hash": "sha256-TB2EiAPjJYN7M5CluUR1C0DC0xdwRrAF68FGLj54O2g="
+        }
+    },
+    "HSRiverwood - Alvor and Sigrid's House - LUX": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "1.0.0",
+            "file_id": 364667,
+            "file_name": "HSRiverwood - Alvor and Sigrid's House - LUX-86088-1-0-0-1677717389.7z",
+            "mod_id": 86088,
+            "hash": "sha256-mhxgDvHbm0Ujby+e8X0ZuYolXR3ZynV2QV2yxD38vCg="
+        }
+    },
+    "HSRiverwood - Alvor and Sigrid's House": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "1.0.1",
+            "file_id": 665511,
+            "file_name": "HSRiverwood - Alvor and Sigrid's House-86088-1-0-1-1757816580.7z",
+            "mod_id": 86088,
+            "hash": "sha256-AHJ633Wf2kgdlLoc2rfbjGraQaM3fvMiL6BM9M5WbB4="
+        },
+        "type": "primary"
+    }
+}

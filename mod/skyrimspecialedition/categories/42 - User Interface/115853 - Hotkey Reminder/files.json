@@ -1,0 +1,23 @@
+{
+  "Hotkey Reminder Prompt": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0.0",
+      "file_id": 685376,
+      "file_name": "Hotkey Reminder Prompt-115853-1-0-0-1762634851.zip",
+      "mod_id": 115853,
+      "hash": "sha256-yYfz7v43QC6l9oeOUmjuryQUtF6+mA5PR3r8AhEhgNk="
+    }
+  },
+  "Hotkey Reminder": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0.6",
+      "file_id": 701852,
+      "file_name": "Hotkey Reminder-115853-1-0-6-1766638149.zip",
+      "mod_id": 115853,
+      "hash": "sha256-wi6zpQoWLDmumXpsJHLa1NKREoUSV4INEwUNSZvXBUw="
+    },
+    "type": "primary"
+  }
+}

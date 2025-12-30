@@ -1,0 +1,23 @@
+{
+  "Unique Border Gates Fixes patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "4.3",
+      "file_id": 511989,
+      "file_name": "Unique Border Gates Fixes patch-56095-4-3-1718516836.rar",
+      "mod_id": 56095,
+      "hash": "sha256-8ZdD81ZBquIeZJ/st8IZq1Wyp20keIfkL0D8x6Uq2Hs="
+    }
+  },
+  "Lux Orbis (main)": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "4.5",
+      "file_id": 567228,
+      "file_name": "Lux Orbis (main)-56095-4-5-1732873513.rar",
+      "mod_id": 56095,
+      "hash": "sha256-ADeQ54R84TSfYYNx8mkOwyoWc+TB+rwHIEUiAleEWz0="
+    },
+    "type": "primary"
+  }
+}

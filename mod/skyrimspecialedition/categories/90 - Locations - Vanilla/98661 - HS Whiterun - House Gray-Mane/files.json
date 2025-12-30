@@ -1,0 +1,33 @@
+{
+  "HSWhiterun - House Gray-Mane": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0.0",
+      "file_id": 418546,
+      "file_name": "HSWhiterun - House Gray-Mane-98661-1-0-0-1692452437.7z",
+      "mod_id": 98661,
+      "hash": "sha256-3pRlETlL5yIpw/Bfut+9zHGswaeQbZWkzBgohCL9dz8="
+    },
+    "type": "primary"
+  },
+  "HSWhiterun - House Gray-Mane - ELFX": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0.0",
+      "file_id": 418547,
+      "file_name": "HSWhiterun - House Gray-Mane - ELFX-98661-1-0-0-1692452479.7z",
+      "mod_id": 98661,
+      "hash": "sha256-cRcIxMb9Rgr/SeHzWXyqyuY8B4j6l2sM6Xv9S1VLG50="
+    }
+  },
+  "HSWhiterun - House Gray-Mane - LUX": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0.0",
+      "file_id": 418548,
+      "file_name": "HSWhiterun - House Gray-Mane - LUX-98661-1-0-0-1692452511.7z",
+      "mod_id": 98661,
+      "hash": "sha256-wjhsaL0biK6of01J0Fq9PBipEoqYP0TGheocI1lhxsw="
+    }
+  }
+}

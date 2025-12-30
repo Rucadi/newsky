@@ -1,0 +1,33 @@
+{
+  "HSPlayerHomes - Breezehome - EXD": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "2.0.0",
+      "file_id": 486830,
+      "file_name": "HSPlayerHomes - Breezehome - EXD-74184-2-0-0-1712073463.7z",
+      "mod_id": 74184,
+      "hash": "sha256-s0NHjBln0mb0jES6gj19epZdtqa2Hf3Xw6pHXEHNC8I="
+    }
+  },
+  "HSPlayerHomes - Breezehome - LUX": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "2.0.0",
+      "file_id": 486831,
+      "file_name": "HSPlayerHomes - Breezehome - LUX-74184-2-0-0-1712073509.7z",
+      "mod_id": 74184,
+      "hash": "sha256-Mgfiw1Oo6QRfaINsPggHJ3gUIBuH93xsH6L0ow8OkCo="
+    }
+  },
+  "HSPlayerHomes - Breezehome": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "2.0.1",
+      "file_id": 487002,
+      "file_name": "HSPlayerHomes - Breezehome-74184-2-0-1-1712106364.7z",
+      "mod_id": 74184,
+      "hash": "sha256-MeO0Giloc+NCbi9dJo1EPRKaWPJRPpKTlW/5FsOFu2w="
+    },
+    "type": "primary"
+  }
+}

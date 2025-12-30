@@ -1,0 +1,65 @@
+{
+    "Immersive Patrols (Heavy)": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "3.0b",
+            "file_id": 481212,
+            "file_name": "Immersive Patrols (Heavy)-718-3-0b-1710611088.zip",
+            "mod_id": 718,
+            "hash": "sha256-e4a2I0HhQarDipwE6p0kyfNM5hFAXGXBcAN5uRoiW1Q="
+        },
+        "type": "primary"
+    },
+    "Immersive Patrols (Lite)": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "3.0b",
+            "file_id": 481213,
+            "file_name": "Immersive Patrols (Lite)-718-3-0b-1710611136.zip",
+            "mod_id": 718,
+            "hash": "sha256-gvI5x26yg7LXdbhWbnR06GS9dKQfSDXTKjPHhtOry1o="
+        },
+        "type": "primary"
+    },
+    "Immersive Patrols (Main)": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "3.0b",
+            "file_id": 481214,
+            "file_name": "Immersive Patrols (Main)-718-3-0b-1710611172.zip",
+            "mod_id": 718,
+            "hash": "sha256-SoD9DEbjNE6vcqhZVv44pycteDzjI3ZROo235Exx1ng="
+        },
+        "type": "primary"
+    },
+    "Immersive Patrols (Heavy) Always Enabled": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "3.0b",
+            "file_id": 481215,
+            "file_name": "Immersive Patrols (Heavy) Always Enabled-718-3-0b-1710611225.zip",
+            "mod_id": 718,
+            "hash": "sha256-SOcrohZYiSFhGc98xINHVyWJ42yVZsxeUztpVMMAomo="
+        }
+    },
+    "Immersive Patrols (Lite) Always Enabled": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "3.0b",
+            "file_id": 481216,
+            "file_name": "Immersive Patrols (Lite) Always Enabled-718-3-0b-1710611256.zip",
+            "mod_id": 718,
+            "hash": "sha256-dfqdnrBc1zez+w4jQ4GM6v9KoN0MubCdPmqiMmM9XHE="
+        }
+    },
+    "Immersive Patrols (Main) Always Enabled": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "3.0b",
+            "file_id": 481217,
+            "file_name": "Immersive Patrols (Main) Always Enabled-718-3-0b-1710611295.zip",
+            "mod_id": 718,
+            "hash": "sha256-MXu1RCG7dUjBoSnnJ2XNJq0b2c3nfY28TZU5CB5iT6w="
+        }
+    }
+}

@@ -1,0 +1,33 @@
+{
+  "B. Vigilant Armors and Weapons Retexture SE - High res 4k-2k": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "4.0",
+      "file_id": 332185,
+      "file_name": "Vigilant Armors and Weapons Retexture SE - High res 4k-2k-45735-4-0-1668558192.rar",
+      "mod_id": 45735,
+      "hash": "sha256-XV9+0heZw3tsIb+XPKkz+5MPhbqxtqxeA7Gx7wTuQfw="
+    },
+    "type": "primary"
+  },
+  "A. Vigilant Armors and Weapons Retexture SE - Mid Res 2k-1k (recommended)": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "4.0",
+      "file_id": 332186,
+      "file_name": "Vigilant Armors and Weapons Retexture SE - Mid Res 2k-1k (recommended)-45735-4-0-1668558775.rar",
+      "mod_id": 45735
+    },
+    "type": "primary"
+  },
+  "C. Vigilant Armors and Weapons Retexture SE - Low res 1k-512": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "4.0",
+      "file_id": 332187,
+      "file_name": "Vigilant Armors and Weapons Retexture SE - Low res 1k-512-45735-4-0-1668558958.rar",
+      "mod_id": 45735
+    },
+    "type": "primary"
+  }
+}

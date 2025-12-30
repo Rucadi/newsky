@@ -1,0 +1,43 @@
+{
+    "EASY MODE - Show Direct Quest Markers": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "1.05",
+            "file_id": 301627,
+            "file_name": "EASY MODE - Show Direct Quest Markers-66666-1-05-1658619915.zip",
+            "mod_id": 66666,
+            "hash": "sha256-qZfpiArh/OdfeHwdinW9stexm34l5TeiQopOpRDvUhg="
+        }
+    },
+    "Enchanted Table Bypass (Mostly for VR users)": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "1.11",
+            "file_id": 327870,
+            "file_name": "Enchanted Table Bypass (Mostly for VR users)-66666-1-11-1667206199.zip",
+            "mod_id": 66666,
+            "hash": "sha256-o4rDNuZmDtNY5Rv32GYO3NJ14SOqPDJ4vILjE4z/kf0="
+        }
+    },
+    "Patch for RS Children Overhaul": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "1.12",
+            "file_id": 349127,
+            "file_name": "Patch for RS Children Overhaul-66666-1-12-1673607915.zip",
+            "mod_id": 66666,
+            "hash": "sha256-Pvvb1JzjI03peT/CPiuNJerPGL2sl1bVxnUdu7zSLJU="
+        }
+    },
+    "College of Winterhold - Quest Expansion": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "1.16",
+            "file_id": 616798,
+            "file_name": "College of Winterhold - Quest Expansion-66666-1-16-1744547275.zip",
+            "mod_id": 66666,
+            "hash": "sha256-GoJYRd8Ol39QLToCKiLkRSNXWqZsbYP5hAxaVsvka9g="
+        },
+        "type": "primary"
+    }
+}

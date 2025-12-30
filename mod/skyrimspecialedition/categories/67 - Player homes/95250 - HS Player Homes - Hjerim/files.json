@@ -1,0 +1,23 @@
+{
+  "HSPlayerHomes - Hjerim - LUX": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0.0",
+      "file_id": 404601,
+      "file_name": "HSPlayerHomes - Hjerim - LUX-95250-1-0-0-1688715106.7z",
+      "mod_id": 95250,
+      "hash": "sha256-4rZcIaaVZ6p7hw2xsmOXVAWfuiS/qxYw25vfG2qsf4A="
+    }
+  },
+  "HSPlayerHomes - Hjerim": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0.1",
+      "file_id": 424582,
+      "file_name": "HSPlayerHomes - Hjerim-95250-1-0-1-1694303422.7z",
+      "mod_id": 95250,
+      "hash": "sha256-ZvvhAmMANu9plvyyg9sX6BgaQzIDuU+P8xzCMNpZ9J0="
+    },
+    "type": "primary"
+  }
+}

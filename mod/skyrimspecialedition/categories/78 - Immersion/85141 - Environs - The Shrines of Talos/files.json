@@ -1,0 +1,23 @@
+{
+    "Environs - The Shrines of Talos": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "3.02",
+            "file_id": 502274,
+            "file_name": "Environs - The Shrines of Talos-85141-3-02-1716012325.7z",
+            "mod_id": 85141,
+            "hash": "sha256-hXTAYMamKMGiK3HgApcT/0gumrUe1ASGJFqqPFHR4UY="
+        },
+        "type": "primary"
+    },
+    "Environs - The Shrines of Talos - Patch Collection": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "3.02",
+            "file_id": 502275,
+            "file_name": "Environs - The Shrines of Talos - Patch Collection-85141-3-02-1716012368.7z",
+            "mod_id": 85141,
+            "hash": "sha256-rn1Mkc2yPoi2M6RWuh0BkDgM6M6TWL9vKVYqclVzzKA="
+        }
+    }
+}

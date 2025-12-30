@@ -1,0 +1,24 @@
+{
+  "Natural Beauty Makeup 2K": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 480327,
+      "file_name": "Natural Beauty Makeup 2K-113704-1-0-1710387509.zip",
+      "mod_id": 113704,
+      "hash": "sha256-Et0xOv0HcgLuHjiOZmwrdipfa/RqFxXj0S9cIEI8RXA="
+    },
+    "type": "primary"
+  },
+  "Natural Beauty Makeup 4K": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 480379,
+      "file_name": "Natural Beauty Makeup 4K-113704-1-0-1710396082.zip",
+      "mod_id": 113704,
+      "hash": "sha256-7wbhYkukEXbfDVxB7gWHsH+gBs7MYy6czBiR8WyQ05U="
+    },
+    "type": "primary"
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "ALT - The Snow Elves Throne": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0.2",
+      "file_id": 390428,
+      "file_name": "ALT - The Snow Elves Throne-90590-1-0-2-1684655821.7z",
+      "mod_id": 90590,
+      "hash": "sha256-zCegKCTHn5V8eMKYfZUV+x+WjMh4VmasqrdqjtODr1A="
+    },
+    "type": "primary"
+  },
+  "ALT - The Snow Elves Throne - BOS": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0.2",
+      "file_id": 390429,
+      "file_name": "ALT - The Snow Elves Throne - BOS-90590-1-0-2-1684655845.7z",
+      "mod_id": 90590,
+      "hash": "sha256-HXE2kc/aAoJ91FKG08BJvyWAHxcxNmT+MHxyEctg220="
+    },
+    "type": "primary"
+  }
+}

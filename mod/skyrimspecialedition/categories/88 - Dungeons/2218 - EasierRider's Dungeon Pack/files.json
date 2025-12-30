@@ -1,0 +1,23 @@
+{
+  "EasierRider's Dunegon Pack SSE v1.5": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "SSEv1.5",
+      "file_id": 142890,
+      "file_name": "EasierRider's Dunegon Pack v1.5-2218-v1-5-1590866643.zip",
+      "mod_id": 2218,
+      "hash": "sha256-Qn06LiHgXOPKw82r6V13cdgAbBaWyXDOmJ8EvPK5jtQ="
+    },
+    "type": "primary"
+  },
+  "EasierRider's Dungeon Pack SSE v1.5 ESM": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "v1.5SSE",
+      "file_id": 473526,
+      "file_name": "EasierRider's Dungeon Pack SSE v1.5 ESM-2218-v1-5SSE-1708614851.zip",
+      "mod_id": 2218,
+      "hash": "sha256-U2rB/J2EnC9GTB7GE8EU2osKkcepFaZRyaWW6DMtOVY="
+    }
+  }
+}

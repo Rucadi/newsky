@@ -1,0 +1,233 @@
+{
+  "Ryn's Alchemist Shack - Arcwind Point Dungeon Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 311068,
+      "file_name": "Ryn's Alchemist Shack - Arcwind Point Dungeon Patch-74233-1-0-1661692157.7z",
+      "mod_id": 74233,
+      "hash": "sha256-tVpGQHyRtWoQDoQtDkdfClibMVCiy3IDCKsgTLeOKo8="
+    },
+    "type": "primary"
+  },
+  "Ryn's Bleakfalls Tower - Legend of Eagles Nest": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 311071,
+      "file_name": "Ryn's Bleakfalls Tower - Legend of Eagles Nest-74233-1-0-1661692215.7z",
+      "mod_id": 74233,
+      "hash": "sha256-PCeN0Djrb+fYCelT8n4E2xZnZwz8LQ7K1KuqZPMlmhk="
+    },
+    "type": "primary"
+  },
+  "Ryn's Secunda's Kiss - Lanterns of Skyrim II": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 311074,
+      "file_name": "Ryn's Secunda's Kiss - Lanterns of Skyrim II-74233-1-0-1661692339.7z",
+      "mod_id": 74233,
+      "hash": "sha256-AzMS1zwn4KC1ZmL0OPzAhm7VTkAnxupidEchyHSkk3A="
+    },
+    "type": "primary"
+  },
+  "Ryn's Halted Stream Camp - Lanterns of Skyrim II": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 311087,
+      "file_name": "Ryn's Halted Stream Camp - Lanterns of Skyrim II-74233-1-0-1661693378.7z",
+      "mod_id": 74233,
+      "hash": "sha256-D59otU0vLwYVo5F+v7KZUD3h0iSU7C6WBtzWD7EUE4U="
+    },
+    "type": "primary"
+  },
+  "Ryn's Bleak Falls Tower - Bleak Falls Tower Lawbringer Module": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 311326,
+      "file_name": "yn's Bleak Falls Tower - Bleak Falls Tower Lawbringer Module-74233-1-0-1661745706.zip",
+      "mod_id": 74233,
+      "hash": "sha256-dRV2nJHi+Y08zkJVB+LkRD/SMU+AhiGdOxCQgDzTKKQ="
+    },
+    "type": "primary"
+  },
+  "Ryn's Saarthal - Nordic Ruins Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 318776,
+      "file_name": "Ryn's Saarthal - Nordic Ruins Patch-74233-1-0-1663953053.zip",
+      "mod_id": 74233,
+      "hash": "sha256-tIA2gbw+JO35xWBzYTdZwYLPSkXW3x4mePPBJtVEQbo="
+    },
+    "type": "primary"
+  },
+  "Ryn's Karthspire - USSEP Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 323876,
+      "file_name": "Ryn's Karthspire - USSEP Patch-74233-1-0-1665716971.7z",
+      "mod_id": 74233,
+      "hash": "sha256-VX3ohoWZE+fwvmuYWH5RODLrfdsFncsv7cdNiT+wjeI="
+    },
+    "type": "primary"
+  },
+  "Ryn's Karthspire - Lanterns of Skyrim II Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 323877,
+      "file_name": "Ryn's Karthspire - LoS 2 Patch-74233-1-0-1665717010.7z",
+      "mod_id": 74233,
+      "hash": "sha256-entn7A0p/wm8dIwTZ/OFU7atyCBbdbG5UUjOpRJWwTM="
+    },
+    "type": "primary"
+  },
+  "Ryn's Mistwatch - Jurgholm": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 336503,
+      "file_name": "Ryn's Mistwatch - Jurgholm-74233-1-0-1669925727.7z",
+      "mod_id": 74233,
+      "hash": "sha256-vAb4Dd5PLeN1gaR4ZsIDPq7lpsoRQZJFlmEpl1krZIc="
+    },
+    "type": "primary"
+  },
+  "Ryn's Mistwatch - King of Worms I Queen of Dawn": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 336514,
+      "file_name": "Ryn's Mistwatch - King of Worms I Queen of Dawn-74233-1-0-1669926204.7z",
+      "mod_id": 74233,
+      "hash": "sha256-bWus+sJuKeq0yvnHNL/gjA1MxDndMGwQ5qIFv477+MM="
+    },
+    "type": "primary"
+  },
+  "Ryn's Dragon Mounds - USSEP": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 386845,
+      "file_name": "Ryn's Dragon Mounds - USSEP-74233-1-0-1683773476.7z",
+      "mod_id": 74233,
+      "hash": "sha256-OzAvm1E1Nmi572QtB4jin+PgwhLvW/7+DMsg6N5DTKs="
+    },
+    "type": "primary"
+  },
+  "Ryn's Dragon Mounds - Ogres": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 386846,
+      "file_name": "Ryn's Dragon Mounds - Ogres-74233-1-0-1683773504.7z",
+      "mod_id": 74233,
+      "hash": "sha256-6gaSIQToogUuSXZ4ObfIc7jdmkSu6llvHGj1vqbz3KE="
+    },
+    "type": "primary"
+  },
+  "Ryn's Dragon Mounds - Cutting Room Floor": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 386849,
+      "file_name": "Ryn's Dragon Mounds - Cutting Room Floor-74233-1-0-1683773652.7z",
+      "mod_id": 74233,
+      "hash": "sha256-VNn+8hl8qv8hMJ12XNHrTmaWbF+CMv9OY078Pq3EYtU="
+    },
+    "type": "primary"
+  },
+  "Ryn's Dragon Mounds - EasierRider's Dungeon pack": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 386850,
+      "file_name": "Ryn's Dragon Mounds - EasierRider's Dungeon pack-74233-1-0-1683773711.7z",
+      "mod_id": 74233,
+      "hash": "sha256-gaJ0KbK6wp6OOTCqp54S2wWx4X3EVfewxkAFceYvajU="
+    },
+    "type": "primary"
+  },
+  "Ryn's Lost Valley Redoubt - Cutting Room Floor": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 434264,
+      "file_name": "Ryn's Lost Valley Redoubt - Cutting Room Floor-74233-1-0-1697387659.7z",
+      "mod_id": 74233,
+      "hash": "sha256-rBhytpIqXVtpgVt05O+VaIiDOBMMnLlvBQzrJbQGNkg="
+    },
+    "type": "primary"
+  },
+  "Ryn's Lost Valley Redoubt - Artifact of Skyrim": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.01",
+      "file_id": 436150,
+      "file_name": "Ryn's Lost Valley Redoubt - Artifact of Skyrim-74233-1-01-1697990059.7z",
+      "mod_id": 74233,
+      "hash": "sha256-lIzKwB0l8qs7PDzgCvTgRscC+srjkwXMd1AcSQHRKHw="
+    },
+    "type": "primary"
+  },
+  "Ryn's Lost Valley Redoubt - Lanterns of Skyrim II": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.01",
+      "file_id": 436151,
+      "file_name": "Ryn's Lost Valley Redoubt - Lanterns of Skyrim II-74233-1-01-1697990094.7z",
+      "mod_id": 74233,
+      "hash": "sha256-nKxZ6P/2P3o7fq9fvn11rpdCGOkT7tMbqSYZcnBi6Fk="
+    },
+    "type": "primary"
+  },
+  "Ryn's Lost Valley Redoubt - SLaWF": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.01",
+      "file_id": 436152,
+      "file_name": "Ryn's Lost Valley Redoubt - SLaWF-74233-1-01-1697990118.7z",
+      "mod_id": 74233,
+      "hash": "sha256-4rqOwe3kcXM8lb0vsY63S+2m1EN7yiJO6x44Hyuj2uw="
+    },
+    "type": "primary"
+  },
+  "Ryn's Farms - Khajit Has Tents": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 528576,
+      "file_name": "Ryn's Farms - Khajit Has Tents-74233-1-0-1722871953.7z",
+      "mod_id": 74233,
+      "hash": "sha256-hXvrdBx1QTrepRnk6Cq63/X0VOc00vSLJV8Tj+xE0PI="
+    },
+    "type": "primary"
+  },
+  "Ryn's Bleakfalls Basin - Lux Via": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 644895,
+      "file_name": "Ryn's Bleakfalls Basin - Lux Via-74233-1-0-1751860189.7z",
+      "mod_id": 74233,
+      "hash": "sha256-QPVrI+Ldiw4PZdYRjMlqE5HpjPCMIMbGhGvAf2GnEh0="
+    },
+    "type": "primary"
+  },
+  "Ryn's Bleakwind Basin - The Devil's in the Detail": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 644896,
+      "file_name": "Ryn's Bleakfalls Basin - The Devil's in the Detail-74233-1-0-1751860231.7z",
+      "mod_id": 74233,
+      "hash": "sha256-EoJeSPbo5tZ+6Hof4EE0MX6SqFfqdHqRImVoaMFJtI8="
+    },
+    "type": "primary"
+  }
+}

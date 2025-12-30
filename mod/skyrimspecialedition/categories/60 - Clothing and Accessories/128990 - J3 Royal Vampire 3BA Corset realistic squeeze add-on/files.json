@@ -1,0 +1,23 @@
+{
+  "J3 Royal Vamp Corset add on": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 541196,
+      "file_name": "J3 Royal Vamp Corset add on-128990-1-0-1726092164.rar",
+      "mod_id": 128990,
+      "hash": "sha256-TvMrOj7rCfEPg7/Tsadewwbggz2NkA59r0DjwnJ3nAY="
+    },
+    "type": "primary"
+  },
+  "TNG and SoS ini files.": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "TNG.SOS",
+      "file_id": 541454,
+      "file_name": "TNG and SoS ini files.-128990-TNG-SOS-1726168425.rar",
+      "mod_id": 128990,
+      "hash": "sha256-/emoCh8vQ4WLzz+S5qtBMZ+2S7MrXIgRc2996gjTPjE="
+    }
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "Armor of Sheogorath (Haskill Version)": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1",
+      "file_id": 571944,
+      "file_name": "Armor of Sheogorath (Haskill Version)-136115-1-1-1734087916.zip",
+      "mod_id": 136115,
+      "hash": "sha256-reTxhg3GW1R3R2AGL3W48FNmLNLGsvuVwEA55RX8sPo="
+    },
+    "type": "primary"
+  },
+  "Armor of Sheogorath (Render Version)": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1",
+      "file_id": 571946,
+      "file_name": "Armor of Sheogorath (Render Version)-136115-1-1-1734088130.zip",
+      "mod_id": 136115,
+      "hash": "sha256-W6t95IGq1w7856JZk1hVgHFmUyV9/zS3TLF7xa9ELho="
+    },
+    "type": "primary"
+  }
+}

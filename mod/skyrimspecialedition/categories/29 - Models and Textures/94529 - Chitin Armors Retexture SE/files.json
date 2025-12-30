@@ -1,0 +1,23 @@
+{
+  "Chitin Armors Retexture SE": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 401890,
+      "file_name": "Chitin Armors Retexture SE-94529-1-0-1687960117.rar",
+      "mod_id": 94529,
+      "hash": "sha256-lQKdJ87NFCKl5ZTYRt2zAF/fukV7JiUqv6b8fNj1vSk="
+    },
+    "type": "primary"
+  },
+  "Chitin Armors Retexture SE - Half Res": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 401891,
+      "file_name": "Chitin Armors Retexture SE - Half Res-94529-1-0-1687960188.rar",
+      "mod_id": 94529,
+      "hash": "sha256-7547Lt6Mg3CxhTJP+DvnhkRYr124x2pxZ7oW5+w+VOo="
+    }
+  }
+}

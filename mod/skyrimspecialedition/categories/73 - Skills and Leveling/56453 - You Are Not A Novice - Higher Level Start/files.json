@@ -1,0 +1,23 @@
+{
+  "You Are Not A Novice": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1",
+      "file_id": 242866,
+      "file_name": "You Are Not A Novice-56453-1-1-1637406926.7z",
+      "mod_id": 56453,
+      "hash": "sha256-yXK+3E6xGyO4hqz6iGot4knatVbHWmxZJlvW8OXmRZM="
+    },
+    "type": "primary"
+  },
+  "YANAN Book Start": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1",
+      "file_id": 243194,
+      "file_name": "YANAN Book Start-56453-1-1-1637490651.7z",
+      "mod_id": 56453,
+      "hash": "sha256-qyzaiAJMGegrqI3ZhQHiZUS7wxZZyC2GkJHT6LoVjiY="
+    }
+  }
+}

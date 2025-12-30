@@ -1,0 +1,23 @@
+{
+  "Armor of Dagon (Render Version)": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1",
+      "file_id": 545454,
+      "file_name": "Armor of Dagon (Render Version)-113809-1-1-1727118204.zip",
+      "mod_id": 113809,
+      "hash": "sha256-ERjJs8S9aZdceHPeDhyN3pXMWrVDPDGcqgqWsA8q/HQ="
+    },
+    "type": "primary"
+  },
+  "Render 2K": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1",
+      "file_id": 545455,
+      "file_name": "Render 2K-113809-1-1-1727118283.zip",
+      "mod_id": 113809,
+      "hash": "sha256-eRlUOWqsDXKbiEBeBMX2tyWTHSlz+kDhr55eI11Jzt4="
+    }
+  }
+}

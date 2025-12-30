@@ -1,0 +1,23 @@
+{
+  "Zhizhen Tattoo 8K": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 585892,
+      "file_name": "Zhizhen Tattoo 8K-138824-1-0-1737467929.zip",
+      "mod_id": 138824,
+      "hash": "sha256-Qic5BE6jKYZbrl7Pk0TVvgAHmgDQYWQSiMcmj3LWlt8="
+    },
+    "type": "primary"
+  },
+  "Zhizhen Tattoo 4K": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1",
+      "file_id": 586919,
+      "file_name": "Zhizhen Tattoo 4K-138824-1-1-1737742228.zip",
+      "mod_id": 138824,
+      "hash": "sha256-ekb9iQyz307foPEJx1ncRzCUkUrugwuHQnbj/53HQPQ="
+    }
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "Improved Shadowmarks (256)": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "2.0",
+      "file_id": 55863,
+      "file_name": "Improved Shadowmarks (256)-17609-2-0.7z",
+      "mod_id": 17609,
+      "hash": "sha256-8U9AXbmifPoO9p2fZ32u5P5y1BTcTRJd+Bps4CTwmNs="
+    },
+    "type": "primary"
+  },
+  "Improved Shadowmarks (512)": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "2.0",
+      "file_id": 55864,
+      "file_name": "Improved Shadowmarks (512)-17609-2-0.7z",
+      "mod_id": 17609,
+      "hash": "sha256-oVY8ABrwvxHpHAj6nIy5HQCISY8XOtDy89R9l/UcyBM="
+    },
+    "type": "primary"
+  },
+  "Textures Only (256)": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "2.0",
+      "file_id": 126908,
+      "file_name": "Textures Only 256-17609-1-0-1583189922.zip",
+      "mod_id": 17609,
+      "hash": "sha256-wY4Dtge5fMWA9Xly0HijyY3RHHs5tlfVCBU+ULzkKBs="
+    }
+  },
+  "Textures Only (512)": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "2.0",
+      "file_id": 126912,
+      "file_name": "Textures Only (512)-17609-2-0-1583190155.zip",
+      "mod_id": 17609,
+      "hash": "sha256-3KOHaCdWTTI5i9ZMs1OUjEgoqk7+OxUSo4/i89N0qPk="
+    }
+  }
+}

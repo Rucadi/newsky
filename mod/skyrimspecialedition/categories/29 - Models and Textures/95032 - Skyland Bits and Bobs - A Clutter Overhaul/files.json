@@ -1,0 +1,44 @@
+{
+  "Blacksmith Smelter Embers HD Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 403851,
+      "file_name": "Blacksmith Smelter Embers HD Patch-95032-1-0-1688526360.7z",
+      "mod_id": 95032,
+      "hash": "sha256-37p4/dw8nRz3xWFbg7xANqcv8GDWvhABYgK1xYWMNlg="
+    }
+  },
+  "Blacksmith Smelter Embers XD Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 403852,
+      "file_name": "Blacksmith Smelter Embers XD Patch-95032-1-0-1688526426.7z",
+      "mod_id": 95032,
+      "hash": "sha256-ej6ZSMgWQO358dEjzyjYQuNh2u5wTiOFG5Q3lA+W1u8="
+    }
+  },
+  "Skyland Bits and Bobs - A Clutter Overhaul": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.91",
+      "file_id": 538811,
+      "file_name": "Skyland Bits and Bobs - A Clutter Overhaul-95032-1-91-1725502242.7z",
+      "mod_id": 95032,
+      "hash": "sha256-ZtMoA8J+VxHNmwnnd3VGfWME97OggOfEH0nN7sFsaEM="
+    },
+    "type": "primary"
+  },
+  "Skyland bits and Bobs - Performance Version": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.91",
+      "file_id": 538816,
+      "file_name": "Skyland bits and Bobs - Performance Version-95032-1-91-1725506698.7z",
+      "mod_id": 95032,
+      "hash": "sha256-A5TdmBicgnZx6Pf+9G9eizaYcN+Sofo/7yvw3jsK+4k="
+    },
+    "type": "primary"
+  }
+}

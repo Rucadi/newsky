@@ -1,0 +1,35 @@
+{
+    "Kanjs - Giant - Mammoth and Clutter SE 4k": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "1.2",
+            "file_id": 596163,
+            "file_name": "Kanjs - Giant - Mammoth and Clutter SE 4k-140293-1-2-1739856110.zip",
+            "mod_id": 140293,
+            "hash": "sha256-1DtvQS7nyxO2TKyf6GoT1lKUEDoARYoYf/FADvp7Yl0="
+        },
+        "type": "primary"
+    },
+    "Kanjs - Giant - Mammoth and Clutter SE 2k": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "1.2",
+            "file_id": 596165,
+            "file_name": "Kanjs - Giant - Mammoth and Clutter SE 2k-140293-1-2-1739856209.zip",
+            "mod_id": 140293,
+            "hash": "sha256-sPw2p8lBj+iMFT1AcJyKcF4Y3StkdZCvG/CpAWGfRg8="
+        },
+        "type": "primary"
+    },
+    "Kanjs - Giant - Mammoth and Clutter SE 1k": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "1.2",
+            "file_id": 596167,
+            "file_name": "Kanjs - Giant - Mammoth and Clutter SE 1k-140293-1-2-1739856239.zip",
+            "mod_id": 140293,
+            "hash": "sha256-/MDd9Sw4x3dBF/osl6iNgciDLWSE4wxbO5i6oTGUNqc="
+        },
+        "type": "primary"
+    }
+}

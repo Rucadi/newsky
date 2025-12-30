@@ -1,0 +1,23 @@
+{
+    "The Price of Art and Ryn's Shrine of Azura Patch": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "1.0.1",
+            "file_id": 458288,
+            "file_name": "The Price of Art and Ryn's Shrine of Azura Patch-108516-1-0-1-1704494365.7z",
+            "mod_id": 108516,
+            "hash": "sha256-4qgt9mUa7HdxAVh/m4dYoIBwQbbYeiPacbH/IIUBkY0="
+        }
+    },
+    "The Price of Art - ESL - 1.0.3": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "1.0.3",
+            "file_id": 649963,
+            "file_name": "The Price of Art - ESL - 1.0.3-108516-1-0-3-1753411797.zip",
+            "mod_id": 108516,
+            "hash": "sha256-8PvhjHUIOEnKmTVdj2wO9FIbQjmOVJLAtToD363K8gE="
+        },
+        "type": "primary"
+    }
+}

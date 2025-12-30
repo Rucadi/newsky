@@ -1,0 +1,23 @@
+{
+  "Better and Realistic Dragon Melee": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "3.11",
+      "file_id": 694129,
+      "file_name": "Better and Realistic Dragon Melee-121460-3-02-1764800408.zip",
+      "mod_id": 121460,
+      "hash": "sha256-ZVU03vJqcGWrG2gItXovhn0z3lfJBPANoulhx7QJVbw="
+    },
+    "type": "primary"
+  },
+  "Better Dragon Melee No Player KD": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "3.11",
+      "file_id": 701303,
+      "file_name": "Better Dragon Melee No Player KD-121460-3-11-1766502018.zip",
+      "mod_id": 121460,
+      "hash": "sha256-o2BZ9Gd245MoAUrVEopj63+iRgc7QWpOhf1SfJV+Q0o="
+    }
+  }
+}

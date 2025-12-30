@@ -1,0 +1,23 @@
+{
+  "Razor Skill Tree Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 554463,
+      "file_name": "Razor Skill Tree Patch-132040-1-0-1729570663.rar",
+      "mod_id": 132040,
+      "hash": "sha256-AqPgSQ6uhfWEpl3RGlqG7Flfb/9nmNyfrFmHYokIpIk="
+    }
+  },
+  "Lost Knowledge": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.2",
+      "file_id": 570872,
+      "file_name": "Lost Knowledge-132040-1-2-1733794351.rar",
+      "mod_id": 132040,
+      "hash": "sha256-hzM4aS5jVlsekGO75ZM9qBLWFKQ/kQULv2JweaI/E9s="
+    },
+    "type": "primary"
+  }
+}

@@ -1,0 +1,43 @@
+{
+    "JKJ - 3DNPCs - 1k Textures": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "3.0.4",
+            "file_id": 400171,
+            "file_name": "JKJ - 3DNPCs - 1k Textures-60447-3-0-4-1687541231.7z",
+            "mod_id": 60447,
+            "hash": "sha256-iPFkdkj0qsl+CrwW9aI6kW2vHUZKNfTUGuRAM19pxaA="
+        }
+    },
+    "JKJ - 3DNPCs - 4k Textures": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "3.0.4",
+            "file_id": 400173,
+            "file_name": "JKJ - 3DNPCs - 4k Textures-60447-3-0-4-1687541348.7z",
+            "mod_id": 60447,
+            "hash": "sha256-LjkHtpx5DuW2V4cG9fMN5ve4IuZd5o6ma5KcPX81Gac="
+        }
+    },
+    "Project ja-Kha'jay - Interesting NPCs Addon": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "3.05",
+            "file_id": 455820,
+            "file_name": "Project ja-Kha'jay - Interesting NPCs Addon-60447-3-05-1703784814.7z",
+            "mod_id": 60447,
+            "hash": "sha256-Rva3x4IxU/NL+vGbFK17dEl+JMCwhYqLXA3PS45Yy4Y="
+        },
+        "type": "primary"
+    },
+    "JKJ - 3DNPCs No Eyeglow Patch": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "3.05",
+            "file_id": 455821,
+            "file_name": "JKJ - 3DNPCs No Eyeglow Patch-60447-3-05-1703784869.7z",
+            "mod_id": 60447,
+            "hash": "sha256-0JCA3D4faRRoXEF5zySZGI97HhoDrE/dzEolcqwP6HY="
+        }
+    }
+}

@@ -1,0 +1,23 @@
+{
+  "Relationship Dialogue Overhaul - UHDAP Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 182719,
+      "file_name": "Relationship Dialogue Overhaul - UHDAP Patch-44601-1-0-1611973175.rar",
+      "mod_id": 44601,
+      "hash": "sha256-ntLzbQm+ZDEd3ad9Nht8zDDdlBvc5nj8dA2/fkf7ils="
+    }
+  },
+  "Relationship Dialogue Overhaul - Update and MCM 1.0.5": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0.5",
+      "file_id": 237381,
+      "file_name": "Relationship Dialogue Overhaul - Update and MCM 1.0.5-44601-1-0-5-1635353663.rar",
+      "mod_id": 44601,
+      "hash": "sha256-m9jMWteFw7dVuTSjsf9TgAY2zozMhAkUohARUqPTK2c="
+    },
+    "type": "primary"
+  }
+}

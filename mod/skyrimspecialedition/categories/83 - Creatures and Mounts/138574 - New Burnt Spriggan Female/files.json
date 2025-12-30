@@ -1,0 +1,23 @@
+{
+  "4k. New Burnt Spriggan Female": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0.0",
+      "file_id": 581213,
+      "file_name": "4k. New Burnt Spriggan Female-138574-1-0-0-1736436403.zip",
+      "mod_id": 138574,
+      "hash": "sha256-+et4gjLoa9SjUXuUYCUDOU9iK1EgRJX7XuKtEWaiPS4="
+    },
+    "type": "primary"
+  },
+  "2K. New Burnt Spriggan Female": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0.0",
+      "file_id": 581214,
+      "file_name": "2K. New Burnt Spriggan Female-138574-1-0-0-1736436433.zip",
+      "mod_id": 138574,
+      "hash": "sha256-w+X2Zqp/KrI4x0mmsWu/EVi/tbPjIu5Bsg6D4IopEwE="
+    }
+  }
+}

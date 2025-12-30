@@ -1,0 +1,35 @@
+{
+  "Mihail's CC Goblins - My textures by Xtudo - 2K": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1",
+      "file_id": 444086,
+      "file_name": "Mihail's CC Goblins - My textures by Xtudo - 2K-105122-1-1700425078.7z",
+      "mod_id": 105122,
+      "hash": "sha256-3mluAm2oP3WlIo1DLWVJOvRbKyxIGwqCe5PhJ7sA0gM="
+    },
+    "type": "primary"
+  },
+  "Mihail's CC Goblins - My textures by Xtudo - 1K": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1",
+      "file_id": 444087,
+      "file_name": "Mihail's CC Goblins - My textures by Xtudo - 1K-105122-1-1700425121.7z",
+      "mod_id": 105122,
+      "hash": "sha256-ixxwjehfxrEg3G/PbYZAb2aH7204ADgYGYA4zZtfRpg="
+    },
+    "type": "primary"
+  },
+  "Mihail's CC Goblins - My textures by Xtudo - 4K": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1",
+      "file_id": 444096,
+      "file_name": "Mihail's CC Goblins - My textures by Xtudo - 4K-105122-1-1700426290.7z",
+      "mod_id": 105122,
+      "hash": "sha256-qCwMabv5P1NKQWR1GXBvXbUycssQjVk9K/LVU7dGWHc="
+    },
+    "type": "primary"
+  }
+}

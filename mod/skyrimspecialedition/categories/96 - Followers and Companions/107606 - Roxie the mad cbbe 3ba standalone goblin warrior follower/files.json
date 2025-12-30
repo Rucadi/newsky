@@ -1,0 +1,23 @@
+{
+  "Roxie the mad": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.00",
+      "file_id": 454532,
+      "file_name": "Roxie the mad-107606-1-00-1703357332.rar",
+      "mod_id": 107606,
+      "hash": "sha256-PRP9OHnQzEtO4HctXRJTiHix7nYrIbYu7J976n1jp2E="
+    },
+    "type": "primary"
+  },
+  "No vagina for roxie": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.00",
+      "file_id": 454533,
+      "file_name": "No vagina for roxie-107606-1-00-1703357400.rar",
+      "mod_id": 107606,
+      "hash": "sha256-+jBgrySADLG97sHa/IRIEwczQz6Gi6dfKqVNA1hrNeE="
+    }
+  }
+}

@@ -1,0 +1,43 @@
+{
+    "Exiled Jarls Don't Require Favors Patch": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "1.0.0",
+            "file_id": 543671,
+            "file_name": "Exiled Jarls Don't Require Favors Patch-129588-1-0-0-1726694538.zip",
+            "mod_id": 129588,
+            "hash": "sha256-PXE2Un4B4qnhlJEE4VFTV+VB3/H/lAcUQSKmnPDGhI8="
+        }
+    },
+    "A Steward for Dawnstar": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "1.0.1",
+            "file_id": 684134,
+            "file_name": "A Steward for Dawnstar-129588-1-0-1-1762361535.zip",
+            "mod_id": 129588,
+            "hash": "sha256-Kq0jKijJUiKjHCi9AsI3poJM7MwGFyI0KMnIK7/gzLY="
+        },
+        "type": "primary"
+    },
+    "Favor Quests Separated (Bounty Module) Patch": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "1.0.1",
+            "file_id": 684136,
+            "file_name": "Favor Quests Separated (Bounty Module) Patch-129588-1-0-1-1762361588.zip",
+            "mod_id": 129588,
+            "hash": "sha256-gcAVC6Sc1r5pCmifAOCqvOjsKJjcLV1YJIyAMP3qoDA="
+        }
+    },
+    "Headhunter Patch": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "1.0.1",
+            "file_id": 699437,
+            "file_name": "Headhunter Patch-129588-1-0-1-1766100947.zip",
+            "mod_id": 129588,
+            "hash": "sha256-/llcWQVvfKKgbj/eA9IM1nuh+v9l+qWD1YVYqrWRUtA="
+        }
+    }
+}

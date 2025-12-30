@@ -1,0 +1,23 @@
+{
+  "Vampire Lord Wings Remesh": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1",
+      "file_id": 226338,
+      "file_name": "Vampire Lord Wings Remesh-55145-1-1630854982.7z",
+      "mod_id": 55145,
+      "hash": "sha256-HThWocBlhd7bVHIS2spnLR2ccsB50EtI9D3ZhtDokcI="
+    },
+    "type": "primary"
+  },
+  "Compatibility Patch for Vampire Lord Retexture by Avike": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1",
+      "file_id": 226504,
+      "file_name": "Compatibility Patch for Vampire Lord Retexture by Avike-55145-1-1630929792.7z",
+      "mod_id": 55145,
+      "hash": "sha256-Fk3ZTZgq6+wQgY//T9yZmptY1xA26uuiNXjL3YUDf0Y="
+    }
+  }
+}

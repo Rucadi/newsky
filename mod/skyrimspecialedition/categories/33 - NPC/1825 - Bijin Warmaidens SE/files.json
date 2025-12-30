@@ -1,0 +1,53 @@
+{
+    "High-res skin textures for UNP": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "3.1.2",
+            "file_id": 22210,
+            "file_name": "High-res skin textures for UNP-1825-3-1-2.7z",
+            "mod_id": 1825,
+            "hash": "sha256-wHiy4HDpxc/Bbeq2Aux9vQL3VEWvm//PKBfKaQOp8k8="
+        }
+    },
+    "High-res skin textures for CBBE": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "3.1.2",
+            "file_id": 22211,
+            "file_name": "High-res skin textures for CBBE-1825-3-1-2.7z",
+            "mod_id": 1825,
+            "hash": "sha256-qX/gTFjbolOGErLrnTIQPcmb7svjjV1Y1ujuIpeCYWU="
+        }
+    },
+    "Bijin Warmaidens SE v3.1.3": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "3.1.3",
+            "file_id": 22452,
+            "file_name": "Bijin Warmaidens SE v3.1.3-1825-3-1-3.7z",
+            "mod_id": 1825,
+            "hash": "sha256-cTxeGJ+9XpLkAp2DW2wBcJJz08XZ2Szp2xDOQPi19/o="
+        },
+        "type": "primary"
+    },
+    "Bijin AIO SE": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "AIOSE",
+            "file_id": 30619,
+            "file_name": "Bijin AIO SE-1825-AIOSE.7z",
+            "mod_id": 1825,
+            "hash": "sha256-Twzjcko16bYz+z4HLkbp1UstI1CVV9vF0EoKOsaNJsc="
+        }
+    },
+    "Bijin AIO SE for USSEP": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "AIOSE",
+            "file_id": 30620,
+            "file_name": "Bijin AIO SE for USSEP-1825-AIOSE.7z",
+            "mod_id": 1825,
+            "hash": "sha256-r6X2FTXYNbP9yqND+0HWVrMjEQhajPxD45S9Ni2zfU4="
+        }
+    }
+}

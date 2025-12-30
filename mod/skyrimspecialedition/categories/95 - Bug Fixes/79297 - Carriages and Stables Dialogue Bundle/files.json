@@ -1,0 +1,33 @@
+{
+  "Carriages and Stables Dialogue Bundle": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 334238,
+      "file_name": "Carriages and Stables Dialogue Bundle-79297-1-0-1669311428.zip",
+      "mod_id": 79297,
+      "hash": "sha256-JVJgNrrBog/3vLmIbjBCRNNBXgTAqxGF2kSwnQzhFC8="
+    },
+    "type": "primary"
+  },
+  "Wild Horses - Voiced Addon (CC)": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 334239,
+      "file_name": "Wild Horses - Voiced Addon (CC)-79297-1-0-1669311576.zip",
+      "mod_id": 79297,
+      "hash": "sha256-UQHxvJsWw7TVv7NIM/CBWRB+ZdywpCJ1sW3eLDmX1Hc="
+    }
+  },
+  "Carriage and Ferry Travel Overhaul Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 338955,
+      "file_name": "Carriage and Ferry Travel Overhaul Patch-79297-1-0-1670578006.zip",
+      "mod_id": 79297,
+      "hash": "sha256-onCGmHD6wg8OTO86rJu8X14zVVp4KB6pwDoA/g+Go8A="
+    }
+  }
+}

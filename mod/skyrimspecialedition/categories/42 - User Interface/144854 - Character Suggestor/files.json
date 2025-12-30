@@ -1,0 +1,23 @@
+{
+  "Character Suggestor": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0.8",
+      "file_id": 685435,
+      "file_name": "Character Suggestor-144854-1-0-8-1762645310.zip",
+      "mod_id": 144854,
+      "hash": "sha256-XuEawzN0Fp7D4TTOYrc7QwIlEBqp/q4pBBoC/8nnl+E="
+    },
+    "type": "primary"
+  },
+  "Untarnished UI Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0.0",
+      "file_id": 685465,
+      "file_name": "Untarnished UI Patch-144854-1-0-0-1762648123.rar",
+      "mod_id": 144854,
+      "hash": "sha256-Rnw4/PXoHfSZ1+Pxrjd6hYk3uA5TcvoKzxzbDEJyXLQ="
+    }
+  }
+}

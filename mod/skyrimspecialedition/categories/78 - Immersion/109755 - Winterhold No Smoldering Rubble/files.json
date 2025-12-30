@@ -1,0 +1,24 @@
+{
+  "Winterhold No Smoldering Rubble - Vanilla": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 463439,
+      "file_name": "Winterhold No Smoldering Rubble - Vanilla-109755-1-0-1705827629.zip",
+      "mod_id": 109755,
+      "hash": "sha256-nFgLobDbcrRtcaluFpCnwEiteUsUXUcvi9APynKkYjY="
+    },
+    "type": "primary"
+  },
+  "Winterhold No Smoldering Rubble - JK's Skyrim": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 463440,
+      "file_name": "Winterhold No Smoldering Rubble - JK's Skyrim-109755-1-0-1705827681.zip",
+      "mod_id": 109755,
+      "hash": "sha256-0GaRob4OFyUlA7Ex87RDgFkKmtDCYqLUNOnroSFvH2Y="
+    },
+    "type": "primary"
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "Cure Potions": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1.0",
+      "file_id": 467470,
+      "file_name": "Cure Potions-110791-1-0-1-1706995310.zip",
+      "mod_id": 110791,
+      "hash": "sha256-jQ9gq69kQf9bLGtw736vA1InzY0Ou5X3PuN8cX78kOA="
+    },
+    "type": "primary"
+  },
+  "Resistance Potions": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1.0",
+      "file_id": 467478,
+      "file_name": "Resistance Potions-110791-1-1-0-1706996813.zip",
+      "mod_id": 110791,
+      "hash": "sha256-Maw1o3oVQ3ImQrv3QWcmd9muYuJdbhX96QswoXZqBZo="
+    },
+    "type": "primary"
+  },
+  "Health Stamina Magicka Potions": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1.0",
+      "file_id": 467479,
+      "file_name": "Health Stamina Magicka Potions-110791-1-1-0-1706996886.zip",
+      "mod_id": 110791,
+      "hash": "sha256-/by8F/3TQEMBi79J1OasoFw3t5w8Dt8Ki2WFDOljDC8="
+    },
+    "type": "primary"
+  },
+  "Drunken Huntsman Pelts": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.2.0",
+      "file_id": 467626,
+      "file_name": "Drunkenhuntsman Pelts-110791-1-2-0-1707042834.zip",
+      "mod_id": 110791,
+      "hash": "sha256-oU0jCAOdhZB+zBGdMZTF6hsmxaCUE17HbF6YXRoMEpo="
+    },
+    "type": "primary"
+  }
+}

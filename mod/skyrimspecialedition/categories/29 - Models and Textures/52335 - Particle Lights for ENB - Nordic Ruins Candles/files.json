@@ -1,0 +1,43 @@
+{
+  "Particle Lights for ENB - Nordic Ruins Candles": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.2",
+      "file_id": 273185,
+      "file_name": "Particle Lights for ENB - Nordic Ruins Candles-52335-1-2-1648442460.rar",
+      "mod_id": 52335,
+      "hash": "sha256-wUt3oNv6QZctoNJx5uEyOW/Elg4JPYDrOQj7TaB4FWg="
+    },
+    "type": "primary"
+  },
+  "Lux Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.2",
+      "file_id": 273186,
+      "file_name": "Lux Patch-52335-1-2-1648442523.rar",
+      "mod_id": 52335,
+      "hash": "sha256-npxYjQ7kfqW7iTxJbaaE058WH1Y0U8uU6NmrP53gB/E="
+    }
+  },
+  "Lux Patch Parallax": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.2",
+      "file_id": 273187,
+      "file_name": "Lux Patch Parallax-52335-1-2-1648442572.rar",
+      "mod_id": 52335,
+      "hash": "sha256-XmF7LNv6YDIJbH0NVqn0Vubw/i/tKUnMuDZadZxrPEY="
+    }
+  },
+  "parallax meshes": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.2",
+      "file_id": 273188,
+      "file_name": "parallax meshes-52335-1-2-1648442631.rar",
+      "mod_id": 52335,
+      "hash": "sha256-2OUeiLnBViK4w/VTjgsnfDUaD5UCUieCs1s3pT1DIO8="
+    }
+  }
+}

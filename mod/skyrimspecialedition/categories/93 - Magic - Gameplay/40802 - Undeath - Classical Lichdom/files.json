@@ -1,0 +1,43 @@
+{
+  "Hishy's Undeath Cleaner Script Improved": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1",
+      "file_id": 162483,
+      "file_name": "Hishy's Undeath Cleaner Script Improved-40802-1-1-1601050264.rar",
+      "mod_id": 40802,
+      "hash": "sha256-sxCYKfUuDCmVcVqXIQibjiUUp4J/xcYYeq7kduTf0fw="
+    }
+  },
+  "UCL - Hardcore Mode": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "3.45",
+      "file_id": 254115,
+      "file_name": "UCL - The Cause Ayleid Lich Model Patch-40802-3-45-1641386219.rar",
+      "mod_id": 40802,
+      "hash": "sha256-eOj1LZLmDMoGqoqNle2k3Zj3WfJdgZbWLMS0kjJaQKc="
+    }
+  },
+  "Undeath Classical Lichdom": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "3.60",
+      "file_id": 306023,
+      "file_name": "Undeath Classical Lichdom-40802-3-60-1660051977.rar",
+      "mod_id": 40802,
+      "hash": "sha256-Dl25j73n8s4zPZdQdXZDLtOUxNWK0kVl2NJ8gPhTij8="
+    },
+    "type": "primary"
+  },
+  "0.9x Sized Liches - Dynamic Collision Adjustment": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "3.60",
+      "file_id": 334446,
+      "file_name": "0.9x Sized Liches - Dynamic Collision Adjustment-40802-3-60-1669367629.rar",
+      "mod_id": 40802,
+      "hash": "sha256-Ia79gn2oTmExH5RVU4gUUd+4zXVUUpR3j8rrJAs+xRQ="
+    }
+  }
+}

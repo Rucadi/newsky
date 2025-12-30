@@ -1,0 +1,35 @@
+{
+    "a) slightly Better Oil - ENB users": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "1.0",
+            "file_id": 569865,
+            "file_name": "slightly Better Oil - ENB users-135759-1-0-1733572949.rar",
+            "mod_id": 135759,
+            "hash": "sha256-s7/es7L2zGqLUM9bBusP1EXI3GYzUM5IpuDseQdKZqQ="
+        },
+        "type": "primary"
+    },
+    "or b) slightly Better Oil - Non ENB users": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "1.0",
+            "file_id": 569866,
+            "file_name": "slightly Better Oil - Non ENB users-135759-1-0-1733573110.rar",
+            "mod_id": 135759,
+            "hash": "sha256-MT5mZ9Tw2nJXnH8JmwTozMIZ87mJqIdfTqckdjnrIzA="
+        },
+        "type": "primary"
+    },
+    "or c) slightly Better Oil - No textures": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "1.0",
+            "file_id": 569867,
+            "file_name": "slightly Better Oil - No textures-135759-1-0-1733573271.rar",
+            "mod_id": 135759,
+            "hash": "sha256-pLsUYGXFPHwo/z3HxjBD5xJJ8V8JHDPHOroxJPXwyhQ="
+        },
+        "type": "primary"
+    }
+}

@@ -1,0 +1,33 @@
+{
+  "Merged SLaWF Version - Only ESP": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.06",
+      "file_id": 297450,
+      "file_name": "Merged SWLF Version - Only ESP-50755-1-06-1657375008.zip",
+      "mod_id": 50755,
+      "hash": "sha256-JYD5jxkLC0pKEUK01N0pGyodbwgaR2Iw+8kB5Md80dQ="
+    }
+  },
+  "Merged Version - Only ESP": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.06",
+      "file_id": 297451,
+      "file_name": "Merged Version - Only ESP-50755-1-06-1657375043.zip",
+      "mod_id": 50755,
+      "hash": "sha256-XCln+mFQhyS9RmFnP88hScXejWCplz40UqTxt5GicS0="
+    }
+  },
+  "Lightened Skyrim": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.06",
+      "file_id": 297452,
+      "file_name": "Lightened Skyrim-50755-1-06-1657375075.zip",
+      "mod_id": 50755,
+      "hash": "sha256-V8F0AtuWmxUiTYRnUMTMJ/nMpkG7T/7lgL9y5GV2uvU="
+    },
+    "type": "primary"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "OBody NG Configuration File": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "4.3.0",
+      "file_id": 423865,
+      "file_name": "OBody NG Configuration File-77016-4-2-0-1694045204.zip",
+      "mod_id": 77016,
+      "hash": "sha256-gcPluGLLtaldQwL+CKjTCJS+K5vSZ+4OyVuZuRogRKs="
+    }
+  },
+  "OBody NG": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "4.4.3",
+      "file_id": 681716,
+      "file_name": "OBody NG-77016-4-4-3-1761772767.zip",
+      "mod_id": 77016,
+      "hash": "sha256-pvbkX6526J5Ra2F6xSpGKbVFXDuoH4NjSATTcE7tOfQ="
+    },
+    "type": "primary"
+  }
+}

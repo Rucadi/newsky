@@ -1,0 +1,46 @@
+{
+  "A) FYX - Jorrvaskr": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0.4",
+      "file_id": 363505,
+      "file_name": "A) FYX - Jorrvaskr-77355-1-0-4-1677410367.7z",
+      "mod_id": 77355,
+      "hash": "sha256-vFU5XVFb3uOrmTTWgtKWd+LqsglZraH5d2Yn6eiuqvo="
+    },
+    "type": "primary"
+  },
+  "A) FYX - Jorrvaskr - Parallax": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0.4",
+      "file_id": 363507,
+      "file_name": "A) FYX - Jorrvaskr - Parallax-77355-1-0-4-1677410395.7z",
+      "mod_id": 77355,
+      "hash": "sha256-BoBT7FnFyUWwVfK+kvTZ1WLhsrIAJeWP5BBEDSy0a78="
+    },
+    "type": "primary"
+  },
+  "B) FYX - Jorrvaskr - NO Color Edit": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0.4",
+      "file_id": 363508,
+      "file_name": "B) FYX - Jorrvaskr - NO Color Edit-77355-1-0-4-1677410427.7z",
+      "mod_id": 77355,
+      "hash": "sha256-Z42CU/csP5YKv8sEfIF5j9mH84PxrZC6VWy0D2CAZRo="
+    },
+    "type": "primary"
+  },
+  "B) FYX - Jorrvaskr - NO Color Edit - Parallax": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0.4",
+      "file_id": 363511,
+      "file_name": "B) FYX - Jorrvaskr - NO Color Edit - Parallax-77355-1-0-4-1677410457.7z",
+      "mod_id": 77355,
+      "hash": "sha256-oAL2P2TVL7VV2BU6KNXXpwZXxlCPT9gq9ms2hATSPIE="
+    },
+    "type": "primary"
+  }
+}

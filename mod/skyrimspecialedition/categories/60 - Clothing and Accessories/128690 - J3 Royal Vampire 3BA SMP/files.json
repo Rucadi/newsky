@@ -1,0 +1,23 @@
+{
+  "J3 Royal Vampire": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 540435,
+      "file_name": "J3 Royal Vampire-128690-1-0-1725893771.zip",
+      "mod_id": 128690,
+      "hash": "sha256-nJqwEHsoqE6iPfL88nzK4WPrtmkFIRfWIOGsUqrodaY="
+    },
+    "type": "primary"
+  },
+  "J3 Royal Vampire 4k textures": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1",
+      "file_id": 540437,
+      "file_name": "J3 Royal Vampire 4k textures-128690-1-1-1725893892.zip",
+      "mod_id": 128690,
+      "hash": "sha256-hJ/n0NypsT/2tPfk9kECRyseQrJDAeKF6Bw8GR9RJmM="
+    }
+  }
+}

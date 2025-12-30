@@ -1,0 +1,96 @@
+{
+  "(5) Community Overlays 1 - Male Replacer - 2K": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.MAN",
+      "file_id": 77788,
+      "file_name": "(5) Community Overlays 1 - Male Replacer - 2K-22487-1-MAN-1547079862.7z",
+      "mod_id": 22487,
+      "hash": "sha256-cH5KPbjwnsd44F/XRuQas1E2q6d+grko7oZlmmjtE4w="
+    }
+  },
+  "(6) Community Overlays 1 - Male Replacer - 4K": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.MANN",
+      "file_id": 77789,
+      "file_name": "(6) Community Overlays 1 - Male Replacer - 4K-22487-1-MANN-1547079943.7z",
+      "mod_id": 22487,
+      "hash": "sha256-w6SA2tMogeyY7kzKNetqTnNVBGuUlLTzP6h09JkQ7Uk="
+    }
+  },
+  "(1) Community Overlays 1 - Main - UNP  2K": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0.1",
+      "file_id": 77985,
+      "file_name": "(1) Community Overlays 1 - Main - UNP  2K-22487-1-0-1-1547247749.7z",
+      "mod_id": 22487,
+      "hash": "sha256-LAJ/QrYPgZ/hoBD+1Wuvt8SMUMIRC4BJHBYRIEyFVEE="
+    },
+    "type": "primary"
+  },
+  "(2) Community Overlays 1 - Main - UNP  4K": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0.1",
+      "file_id": 77987,
+      "file_name": "(2) Community Overlays 1 - Main - UNP  4K-22487-1-0-1-1547248023.7z",
+      "mod_id": 22487,
+      "hash": "sha256-3x2NqjWwQN0O5FZiHv09Q/rdSs2tk0m7NZ5JxjMSodk="
+    },
+    "type": "primary"
+  },
+  "(3) Community Overlays 1 - Main - CBBE 2K": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0.1",
+      "file_id": 77988,
+      "file_name": "(3) Community Overlays 1 - Main - CBBE 2K-22487-1-0-1-1547248146.7z",
+      "mod_id": 22487,
+      "hash": "sha256-y3QzNp2oFzYf1TG+RpBLNlMqRbhOBoLQF2OVQz0Zv3M="
+    },
+    "type": "primary"
+  },
+  "(4) Community Overlays 1 - Main - CBBE 4K": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0.1",
+      "file_id": 77989,
+      "file_name": "(4) Community Overlays 1 - Main - CBBE 4K-22487-1-0-1-1547248552.7z",
+      "mod_id": 22487,
+      "hash": "sha256-foit/jKk/DIcAZ1AWL0VEvETZiIQUV0IrfmzvAs0yRI="
+    },
+    "type": "primary"
+  },
+  "(2 S) Community Overlays 1 - Soft UNP Replacers": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.SOFT",
+      "file_id": 79621,
+      "file_name": "(2 S) Community Overlays 1 - Soft UNP Replacers-22487-1-SOFT-1548461864.7z",
+      "mod_id": 22487,
+      "hash": "sha256-xUZmjD2hTNP00XClOyz7oAq8S8tJddm2HOZUDrgRM/s="
+    }
+  },
+  "(7) Community Overlays 1 - Female Face Overlays": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.FACE",
+      "file_id": 104828,
+      "file_name": "(7) Community Overlays 1 - Female Face Overlays-22487-1-FACE-1567125201.7z",
+      "mod_id": 22487,
+      "hash": "sha256-hoBBhwra0g+AQmgswkgIPw1Crs3o0wZHTT1SF2JL/N8="
+    }
+  },
+  "(8) Community Overlays 1 - Male Face Overlays": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.FACE",
+      "file_id": 104868,
+      "file_name": "(8) Community Overlays 1 - Male Face Overlays-22487-1-FACE-1567150388.7z",
+      "mod_id": 22487,
+      "hash": "sha256-zIvSISb/p37vZu045C/KC8Guh2IGNNXTSyfof/2aYJA="
+    }
+  }
+}

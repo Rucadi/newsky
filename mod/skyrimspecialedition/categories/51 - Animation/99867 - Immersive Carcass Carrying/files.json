@@ -1,0 +1,35 @@
+{
+  "ICC - Hunterborn": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.00",
+      "file_id": 423270,
+      "file_name": "ICC - Hunterborn-99867-1-00-1693842164.rar",
+      "mod_id": 99867,
+      "hash": "sha256-O3w11SvHk4WSXbIYEhQyCoadFToYFokJlAS1bLgLpMo="
+    },
+    "type": "primary"
+  },
+  "ICC - Simple Hunting Overhaul": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.00",
+      "file_id": 423271,
+      "file_name": "ICC - Simple Hunting Overhaul-99867-1-00-1693842216.rar",
+      "mod_id": 99867,
+      "hash": "sha256-YlR9wSKxJj8E2SVq+7XECTPNxY5ekK5WCMSzDxHaQF0="
+    },
+    "type": "primary"
+  },
+  "ICC - Immersive Hunting Animations": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.00",
+      "file_id": 423272,
+      "file_name": "ICC - Immersive Hunting Animations-99867-1-00-1693842297.rar",
+      "mod_id": 99867,
+      "hash": "sha256-hnADV/nRgTQa0NmUYpWiBu8tFj7FzJ35YKV9ln40Ehs="
+    },
+    "type": "primary"
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "Vampire Lord 2K": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1",
+      "file_id": 382857,
+      "file_name": "Vampire Lord 2K-89905-1-1-1682740901.7z",
+      "mod_id": 89905,
+      "hash": "sha256-4wjb/Thfuj55BrPnbvqsWNWsyQji8z5vJt4BpITAHyE="
+    },
+    "type": "primary"
+  },
+  "Vampire Lord 4K": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1",
+      "file_id": 382858,
+      "file_name": "Vampire Lord 2K-89905-1-1-1682740981.7z",
+      "mod_id": 89905,
+      "hash": "sha256-QNRHtHomO7ZJ3i+HxN+zaUa2FK+rgX9p62yyOdBVOt4="
+    },
+    "type": "primary"
+  }
+}

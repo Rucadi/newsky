@@ -1,0 +1,24 @@
+{
+  "Leveling Freedom ESPFE": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "0.B",
+      "file_id": 325656,
+      "file_name": "Leveling Freedom ESPFE-69589-0-B-1666405709.zip",
+      "mod_id": 69589,
+      "hash": "sha256-dsJ+CHvQfJXu5Syu9Bl44kDKk1yKVK31rTh0rIhVjA0="
+    },
+    "type": "primary"
+  },
+  "Leveling Freedom ESP": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "0.C",
+      "file_id": 325657,
+      "file_name": "Leveling Freedom ESP-69589-0-C-1666406002.zip",
+      "mod_id": 69589,
+      "hash": "sha256-3kFTxl6EaPc2mq3FoKZI4DaF6rUkNOZ4PNc9lxRdA2A="
+    },
+    "type": "primary"
+  }
+}

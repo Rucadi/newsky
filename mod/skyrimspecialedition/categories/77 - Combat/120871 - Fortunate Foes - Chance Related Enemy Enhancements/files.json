@@ -1,0 +1,54 @@
+{
+  "156 Combat Styles Only": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "5.004",
+      "file_id": 658805,
+      "file_name": "156 Combat Styles-120871-5-004-1756055062.7z",
+      "mod_id": 120871,
+      "hash": "sha256-3P0GN9QWNNf6C0o+oGGsZ1DeZvllyJyyKgGIvruBBvc="
+    }
+  },
+  "Fortunate Foes Complete Edition": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "6.014",
+      "file_id": 681867,
+      "file_name": "Fortunate Foes Complete Edition-120871-6-014-1761820342.zip",
+      "mod_id": 120871,
+      "hash": "sha256-Jepy1tVdDvj0og/kXJ/WCIPleu2OZ5k2vW2Wtvu5pB8="
+    },
+    "type": "primary"
+  },
+  "Mythic Conjurers (Compatibility Version)": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "6.5",
+      "file_id": 701617,
+      "file_name": "Mythic Conjurers-120871-6-5-1766579689.zip",
+      "mod_id": 120871,
+      "hash": "sha256-WljgK4DoFiR1WGkEIwBKbDW+4NzqNCsunspMY8fapHg="
+    }
+  },
+  "Fortunate Foes Core": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "6.015",
+      "file_id": 701927,
+      "file_name": "Fortunate Foes Core-120871-6-015-1766658544.zip",
+      "mod_id": 120871,
+      "hash": "sha256-+B4wYOctb4moj8VSnydeb7LNLYAetBTVwKPWWXK/GcE="
+    },
+    "type": "primary"
+  },
+  "Additional Bandit Types": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "6.51",
+      "file_id": 701931,
+      "file_name": "Additional Bandit Types-120871-6-51-1766661542.zip",
+      "mod_id": 120871,
+      "hash": "sha256-b5anRJ3acP8G08gaJMIc4dRnZq7keHkUll8hyT06GLA="
+    }
+  }
+}

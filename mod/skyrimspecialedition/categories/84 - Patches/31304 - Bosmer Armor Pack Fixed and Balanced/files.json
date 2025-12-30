@@ -1,0 +1,23 @@
+{
+  "Bosmer Armor Pack Fixed and Balanced": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "2.13",
+      "file_id": 585939,
+      "file_name": "Bosmer Armor Pack Fixed and Balanced-31304-2-13-1737476932.7z",
+      "mod_id": 31304,
+      "hash": "sha256-/FTV/5U0r6tp2J70EUUjogJKt0tHeZYbJhNrr1vXDR4="
+    },
+    "type": "primary"
+  },
+  "ABT Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 699741,
+      "file_name": "ABT Patch-31304-1-0-1766176778.7z",
+      "mod_id": 31304,
+      "hash": "sha256-2RDBzaIAjxW1ZANL2w/syN0ahUOP9lcyn4jJJlvHRtg="
+    }
+  }
+}

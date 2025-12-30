@@ -1,0 +1,34 @@
+{
+  "Eris - Chooey's Choice": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1.1",
+      "file_id": 603412,
+      "file_name": "Eris - Chooey's Choice-102519-1-1-1-1741491892.7z",
+      "mod_id": 102519,
+      "hash": "sha256-vpu4+wgTiybmm+NHbilrvlX7SCAebVySRi6MvlDySVI="
+    }
+  },
+  "Eris - Chooey's Choice 2.3.0": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "2.3.0",
+      "file_id": 673105,
+      "file_name": "Eris - Chooey's Choice 2.3.0-102519-2-3-0-1759807199.7z",
+      "mod_id": 102519,
+      "hash": "sha256-i8HJ14aDkiBhHSr/SPa3jrE7wVJMa1NTM76KX3d840w="
+    },
+    "type": "primary"
+  },
+  "Eris - Chooey's Choice 3.0.0": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "3.0.0",
+      "file_id": 673106,
+      "file_name": "Eris - Chooey's Choice 3.0.0-102519-3-0-0-1759807239.7z",
+      "mod_id": 102519,
+      "hash": "sha256-DFY1NzgyAETIWrqMcR104HmVl8VeWUmOZ+ga4OLM8uo="
+    },
+    "type": "primary"
+  }
+}

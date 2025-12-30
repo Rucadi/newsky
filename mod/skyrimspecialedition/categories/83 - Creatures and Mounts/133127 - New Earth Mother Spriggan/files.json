@@ -1,0 +1,33 @@
+{
+  "4k. New Earth Mother Spriggan": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0.0",
+      "file_id": 560789,
+      "file_name": "4k. New Earth Mother Spriggan-133127-1-0-0-1731240762.zip",
+      "mod_id": 133127,
+      "hash": "sha256-JezSQKQ3F26qwx9NvyEvo0e21RzkuX/+0h5v3T2tvzU="
+    },
+    "type": "primary"
+  },
+  "2k. New Earth Mother Spriggan": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0.0",
+      "file_id": 560790,
+      "file_name": "2k. New Earth Mother Spriggan-133127-1-0-0-1731240789.zip",
+      "mod_id": 133127,
+      "hash": "sha256-G8DscYTYykj7nB2ir7qPdiStMO2JksSr35T9KvnSUhA="
+    }
+  },
+  "Optional. Purple leaves": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0.0",
+      "file_id": 560791,
+      "file_name": "Optional. Purple leaves-133127-1-0-0-1731240873.zip",
+      "mod_id": 133127,
+      "hash": "sha256-HE+Z3EOxvHmmiyufbwtccXUq5EZ2hsqKZbwFMaf6Iak="
+    }
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "Goldenglow Is Yours patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 305986,
+      "file_name": "Goldenglow Is Yours patch-72926-1-0-1660043960.rar",
+      "mod_id": 72926,
+      "hash": "sha256-xhC2kbCdupLgm7WZpbT6cvIERzDxzhDi/v2+9h6MtAU="
+    }
+  },
+  "Ryn's Goldenglow Estate": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.7",
+      "file_id": 485584,
+      "file_name": "Ryn's Goldenglow Estate-72926-1-7-1711778921.7z",
+      "mod_id": 72926,
+      "hash": "sha256-4ojCA3llgB000wCN5y/7ygVlonqctxaVlZBYgQjyvO8="
+    },
+    "type": "primary"
+  }
+}

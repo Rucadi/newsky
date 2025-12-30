@@ -1,0 +1,46 @@
+{
+  "GG's HH Fixed Stairs": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1",
+      "file_id": 371406,
+      "file_name": "GG's HH Fixed Stairs-87626-1-1-1679591372.rar",
+      "mod_id": 87626,
+      "hash": "sha256-Nh0s/0dSEZk/ZNSjGaVfwkwl1QRQsMDUwQVTEV5j2OA="
+    },
+    "type": "primary"
+  },
+  "GG's HH Fixed Stairs with Parallax": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1",
+      "file_id": 372740,
+      "file_name": "GG's HH Fixed Stairs with Parallax-87626-1-1-1679986222.rar",
+      "mod_id": 87626,
+      "hash": "sha256-zWAFGM+iN0YyPS/voqL29zzF4hFB6ELHcEstx4j9cJY="
+    },
+    "type": "primary"
+  },
+  "GG's HH Fixed Stairs (split)": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.2",
+      "file_id": 401316,
+      "file_name": "GG's HH Fixed Stairs (split)-87626-1-2-1687801835.rar",
+      "mod_id": 87626,
+      "hash": "sha256-X8KIqCm+Ju9airqlrrXza+OLQU1dFy8k8ilNpOUj2rs="
+    },
+    "type": "primary"
+  },
+  "GG's HH Fixed Stairs with Parallax (split)": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.2",
+      "file_id": 401317,
+      "file_name": "GG's HH Fixed Stairs with Parallax (split)-87626-1-2-1687801891.rar",
+      "mod_id": 87626,
+      "hash": "sha256-SSPe3/ecdplgFmR/JQaGp7E2DsjhM4P+/Jm6KOvbxA0="
+    },
+    "type": "primary"
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "Horse Jump Fix": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 691150,
+      "file_name": "Horse Jump Fix-165468-1-0-1764093132.zip",
+      "mod_id": 165468,
+      "hash": "sha256-RT/KPfbSAESFZ4e+yFNwNzB1EKdbIzZyVzEL3D8Kf3Y="
+    },
+    "type": "primary"
+  },
+  "Horse Jump Fix - OAR": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 691151,
+      "file_name": "Horse Jump Fix - OAR-165468-1-0-1764093227.zip",
+      "mod_id": 165468,
+      "hash": "sha256-KkN5tY5qktVKcqqWbQssBWP99e3/ITs0+hRDwOoGRd4="
+    },
+    "type": "primary"
+  }
+}

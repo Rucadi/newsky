@@ -1,0 +1,44 @@
+{
+  "Closed Helmets KOR ESP": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "3.0.6",
+      "file_id": 637781,
+      "file_name": "Closed Helmets-107802-3-0-6-1749917496.zip",
+      "mod_id": 107802,
+      "hash": "sha256-Ozs660wxyE54ehrA+w4HzhVcL7cCg1EmJdxFdBouX1Y="
+    }
+  },
+  "Closed Helmets StandAlone KOR ESP": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "3.0.6",
+      "file_id": 637782,
+      "file_name": "Closed Helmets StandAlone KOR ESP-107802-3-0-6-1749917611.zip",
+      "mod_id": 107802,
+      "hash": "sha256-KQ+5cRAOTjpXfkp6h3OfzvSs180IItpnWow1X0epRkU="
+    }
+  },
+  "Closed Helmets": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "3.1.0",
+      "file_id": 661128,
+      "file_name": "Closed Helmets-107802-3-1-0-1756655816.zip",
+      "mod_id": 107802,
+      "hash": "sha256-NrO3DJ0EEjoyE53BgY7JpX5NzLV1iRRUSDFgjy1flWY="
+    },
+    "type": "primary"
+  },
+  "Closed Helmets StandAlone": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "3.1.0",
+      "file_id": 661129,
+      "file_name": "Closed Helmets-107802-3-1-0-1756655870.zip",
+      "mod_id": 107802,
+      "hash": "sha256-V9iDKQXY6XVZeyoxiCSl3Ify9lGYvVd0CsPui+mE42A="
+    },
+    "type": "primary"
+  }
+}

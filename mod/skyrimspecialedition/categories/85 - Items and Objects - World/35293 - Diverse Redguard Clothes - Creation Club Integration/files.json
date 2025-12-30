@@ -1,0 +1,23 @@
+{
+  "Diverse Redguard Clothes - Creation Club Integration": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "2.0",
+      "file_id": 136824,
+      "file_name": "Diverse Redguard Clothes - Creation Club Integration-35293-2-0-1588097308.7z",
+      "mod_id": 35293,
+      "hash": "sha256-NHh3Shte/X+w1AX1f5wWYNBXlTBCHunMCGYCVy1WnRc="
+    },
+    "type": "primary"
+  },
+  "Diverse Redguard Clothes - With Nazir Outfit Change": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "2.01",
+      "file_id": 273692,
+      "file_name": "Diverse Redguard Clothes - With Nazir Outfit Change-35293-2-01-1648652316.7z",
+      "mod_id": 35293,
+      "hash": "sha256-cBbVmsd/1h5RQxoC+bBR28yE+MmUH5YmF9SUhL0+3OY="
+    }
+  }
+}

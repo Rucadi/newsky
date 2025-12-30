@@ -1,0 +1,23 @@
+{
+  "Thundertrot Directional Move": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 593754,
+      "file_name": "Thundertrot Directional Move-140941-1-0-1739372436.7z",
+      "mod_id": 140941,
+      "hash": "sha256-H0ZXxkQxfM585oUSsTchp2zuFuQYbwC1OqUAnkC/Pbo="
+    }
+  },
+  "Thundertrot Horse Animations": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "2.1",
+      "file_id": 593799,
+      "file_name": "Thundertrot Horse Animations-140941-2-1-1739379776.7z",
+      "mod_id": 140941,
+      "hash": "sha256-mAzWT8AdEtBjqQR7ekmWy8+W8PRUdeSeZ2T9VqforIQ="
+    },
+    "type": "primary"
+  }
+}

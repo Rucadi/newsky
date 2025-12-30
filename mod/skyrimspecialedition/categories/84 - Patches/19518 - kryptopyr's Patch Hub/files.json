@@ -1,13 +1,13 @@
 {
-  "kryptopyr's Patch Hub Installer": {
-    "nexusmods": {
-      "game_name": "skyrimspecialedition",
-      "version": "4.2.4",
-      "file_id": 652899,
-      "file_name": "kryptopyr's Patch Hub Installer-19518-4-2-4-1754338657.7z",
-      "mod_id": 19518,
-      "hash": "sha256-gkUWAzh5EK4Iqyi/gABi1zAk8PkOr6ZFTItbgXQqjbw="
-    },
-    "type": "primary"
-  }
+    "kryptopyr's Patch Hub Installer": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "4.2.4",
+            "file_id": 652899,
+            "file_name": "kryptopyr's Patch Hub Installer-19518-4-2-4-1754338657.7z",
+            "mod_id": 19518,
+            "hash": "sha256-gkUWAzh5EK4Iqyi/gABi1zAk8PkOr6ZFTItbgXQqjbw="
+        },
+        "type": "primary"
+    }
 }

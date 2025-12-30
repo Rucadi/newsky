@@ -1,0 +1,33 @@
+{
+  "judy final.nif": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "7734",
+      "file_id": 573214,
+      "file_name": "judy final.nif-136554-7734-1734416097.zip",
+      "mod_id": 136554,
+      "hash": "sha256-2u7FGQ+3zXqtJCNjqKaGODxP2ZK68A6ZiB9fN7vmlG0="
+    }
+  },
+  "judy final.dds": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "7734",
+      "file_id": 573218,
+      "file_name": "judy final.dds-136554-7734-1734416191.zip",
+      "mod_id": 136554,
+      "hash": "sha256-he8MB9UaVf2eRwmyvZIM/pikiQSJNd4dA+tSsC9pmvc="
+    }
+  },
+  "Judy the Dunmer - Racemenu Dunmer Preset (DOMAIN)": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "7734",
+      "file_id": 575851,
+      "file_name": "Judy the Dunmer - Racemenu Dunmer Preset (DOMAIN)-136554-7734-1735097174.zip",
+      "mod_id": 136554,
+      "hash": "sha256-kBTC7lXNCiQ4X0IR7kSSRV/iBIdXfjuburxQieqKngw="
+    },
+    "type": "primary"
+  }
+}

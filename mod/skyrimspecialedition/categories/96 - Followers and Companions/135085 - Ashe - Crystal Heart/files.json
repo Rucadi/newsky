@@ -1,0 +1,123 @@
+{
+  "Ashe Inigo Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0InigoPatch",
+      "file_id": 573564,
+      "file_name": "Ashe Inigo Patch-135085-1-0InigoPatch-1734526330.7z",
+      "mod_id": 135085,
+      "hash": "sha256-lyHWuWriQgi0HQOt4mZWWkEzgHDNZnD/dCUepZuD6us="
+    }
+  },
+  "Legacy Skirt Bodyslide Files (CBBE)": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0LegacySkirt",
+      "file_id": 573569,
+      "file_name": "Legacy Skirt Bodyslide Files (CBBE)-135085-1-0LegacySkirt-1734526524.7z",
+      "mod_id": 135085,
+      "hash": "sha256-wDO+KwxVY/wQpLW7EMsSbek6xnoz4NmBaZpM7mK6NBU="
+    }
+  },
+  "Legacy Skirt Bodyslide Files (3BA)": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0LegacySkirt",
+      "file_id": 573570,
+      "file_name": "Legacy Skirt Bodyslide Files (3BA)-135085-1-0LegacySkirt-1734526585.7z",
+      "mod_id": 135085,
+      "hash": "sha256-nM2cNOlasR6PuYEzk+1+6O8D+nrd3y/kRbHouKa9c6Q="
+    }
+  },
+  "Legacy Skirt Bodyslide Files (BHUNP)": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0LegacySkirt",
+      "file_id": 573571,
+      "file_name": "Legacy Skirt Bodyslide Files (BHUNP)-135085-1-0LegacySkirt-1734526634.7z",
+      "mod_id": 135085,
+      "hash": "sha256-gtJenkdkDuBUL481NGC52F6zOeEoT4ZSMCRKXQzCQyU="
+    }
+  },
+  "Ashe Vanilla Body Patch (Experimental)": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0VanillaBodyPatch",
+      "file_id": 573573,
+      "file_name": "Ashe Vanilla Body Patch (Experimental)-135085-1-0VanillaBodyPatch-1734527057.7z",
+      "mod_id": 135085,
+      "hash": "sha256-d9bhWLG2Q8Isyq8qPODu9P4daeCsaQOGAskUqVtdRq8="
+    }
+  },
+  "Ashe UCOW and ICOW Book Placement Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0UCOWPatch",
+      "file_id": 645313,
+      "file_name": "Ashe UCOW and ICOW Book Placement Patch-135085-1-0UCOWPatch-1751980808.7z",
+      "mod_id": 135085,
+      "hash": "sha256-fHX6eOQ5bvyZ94SDZkY+7Vtd15pjcu3zI4wvnGH3fds="
+    }
+  },
+  "Ashe Static Skill Levelling Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0SSLPatch",
+      "file_id": 659983,
+      "file_name": "Ashe Static Skill Levelling Patch-135085-1-0SSLPatch-1756367995.zip",
+      "mod_id": 135085,
+      "hash": "sha256-Oc0TsoDHJHUvLO8Hdv+hiwvRbErhW3Aa0pqWJ4vXbIs="
+    }
+  },
+  "Ashe Lux Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0LuxPatch",
+      "file_id": 659984,
+      "file_name": "Ashe Lux Patch-135085-1-0LuxPatch-1756368076.zip",
+      "mod_id": 135085,
+      "hash": "sha256-nWp8gyAoZkA3BFQkJVP6gQEQiQld1ikQuL0QBX+WN2k="
+    }
+  },
+  "Ashe Static Skill Leveling Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1SSLPatch",
+      "file_id": 661064,
+      "file_name": "Ashe Static Skill Leveling Patch-135085-1-1SSLPatch-1756642735.zip",
+      "mod_id": 135085,
+      "hash": "sha256-4IDa67e5UhAEoHZ+OpNk2cdPjN9b/lFLpjtrOhCFXPg="
+    }
+  },
+  "Ashe Bestiary Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0BestiaryPatch",
+      "file_id": 701204,
+      "file_name": "Ashe Bestiary Patch-135085-1-0BestiaryPatch-1766484531.zip",
+      "mod_id": 135085,
+      "hash": "sha256-nMVTzDBH//mzGChJCWZ3RcD/Xaa4Kmu2mYS4QuwE7Ko="
+    }
+  },
+  "Ashe Combat Nerf Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0CombatNerfPatch",
+      "file_id": 701223,
+      "file_name": "Ashe Combat Nerf Patch-135085-1-0CombatNerfPatch-1766487385.7z",
+      "mod_id": 135085,
+      "hash": "sha256-0kGVLywe3J5SAqz9Mi8DxMEepVoCigxwesXT2NScSaY="
+    }
+  },
+  "Ashe - Crystal Heart SE": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.2.6",
+      "file_id": 702906,
+      "file_name": "Ashe - Crystal Heart SE-135085-1-2-6-1766934306.7z",
+      "mod_id": 135085,
+      "hash": "sha256-4sWa50oS1zx3cusUIHMqE4td5OGpGXIxzJ7YNtPukwc="
+    },
+    "type": "primary"
+  }
+}

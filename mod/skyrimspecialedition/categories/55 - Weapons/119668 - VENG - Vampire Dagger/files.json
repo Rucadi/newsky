@@ -1,0 +1,54 @@
+{
+  "VENG - Vampire Dagger 4K": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "2.0",
+      "file_id": 627044,
+      "file_name": "VENG - Vampire Dagger 4K-119668-2-0-1747224706.zip",
+      "mod_id": 119668,
+      "hash": "sha256-Pvw4lYlj5HmbNwfvVrUop9sTjCNZhDx1DXQMYuEi5dA="
+    },
+    "type": "primary"
+  },
+  "VENG - Vampire Dagger 2K": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "2.0",
+      "file_id": 627046,
+      "file_name": "VENG - Vampire Dagger 2K-119668-2-0-1747225148.zip",
+      "mod_id": 119668,
+      "hash": "sha256-T+teuWipUywYWhuCOKrC+BrFYZGaLQ9QBAHR0a4kWfY="
+    },
+    "type": "primary"
+  },
+  "VENG - ESP file Without Enchantment": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "2.0",
+      "file_id": 627047,
+      "file_name": "VENG - ESP file Without Enchantment-119668-2-0-1747225271.zip",
+      "mod_id": 119668,
+      "hash": "sha256-WxWtuo6ncQn1quofmdX1BvHWcPOFNUqwQf2OPwQtdy4="
+    }
+  },
+  "VENG - Shadow Dagger (Just for Fun)": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "2.0",
+      "file_id": 627068,
+      "file_name": "VENG - Shadow Dagger (Just for Fun)-119668-2-0-1747227756.zip",
+      "mod_id": 119668,
+      "hash": "sha256-D6x5UHmap5uvVxbcS2eBJd+HpcQ9DYQl801fVelWd+Y="
+    }
+  },
+  "VENG - Lower intensity of glow": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "2.0",
+      "file_id": 692588,
+      "file_name": "VENG - Lower intensity of glow-119668-2-0-1764445018.zip",
+      "mod_id": 119668,
+      "hash": "sha256-otWPWuRabSrreafy+ty1isDNrzXQVbbxysvzf9L8XZU="
+    }
+  }
+}

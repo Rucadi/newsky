@@ -1,0 +1,35 @@
+{
+  "Kanjs - Briar Heart Beating and Animated SE 4K": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1",
+      "file_id": 468515,
+      "file_name": "Kanjs - Briar Heart Beating and Animated SE 4K-111089-1-1707275621.zip",
+      "mod_id": 111089,
+      "hash": "sha256-sXCs6EHBdNmZEABPFwW3k2gIrJEYwpA6lpjv+twCFq0="
+    },
+    "type": "primary"
+  },
+  "Kanjs - Briar Heart Beating and Animated SE 2K": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1",
+      "file_id": 468516,
+      "file_name": "Kanjs - Briar Heart Beating and Animated SE 2K-111089-1-1707275657.zip",
+      "mod_id": 111089,
+      "hash": "sha256-admsGPeGQ8TejE57FaoBDbd42rPwoY8CU7C2xl530mk="
+    },
+    "type": "primary"
+  },
+  "Kanjs - Briar Heart Beating and Animated SE 1K": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1",
+      "file_id": 468517,
+      "file_name": "Kanjs - Briar Heart Beating and Animated SE 1K-111089-1-1707275674.zip",
+      "mod_id": 111089,
+      "hash": "sha256-4SqZLOztEfhAi4BpKjXEuQ6C+X2mI6dnQaEfWV9K6nY="
+    },
+    "type": "primary"
+  }
+}

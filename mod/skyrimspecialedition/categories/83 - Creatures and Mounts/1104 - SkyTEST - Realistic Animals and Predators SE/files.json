@@ -1,0 +1,53 @@
+{
+  "Animation Fix for SkyrimSE Mute Wolves": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1",
+      "file_id": 5904,
+      "file_name": "Animation Fix for SkyrimSE Mute Wolves-1104-1.7z",
+      "mod_id": 1104,
+      "hash": "sha256-MzMAVeausaQK7Fb15u23xkR8wOs7Ju4OFpEAmadlBAw="
+    }
+  },
+  "SkyTEST - Realistic Animal Behaviors (Lite Version)": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1",
+      "file_id": 8486,
+      "file_name": "SkyTEST - Realistic Animal Behaviors-1104-1.7z",
+      "mod_id": 1104,
+      "hash": "sha256-AxR3IUo27LbOIOVH0V+FqS9q9zfyXAMwlq6vELqF2xk="
+    }
+  },
+  "SkyTEST - Realistic Animals and Predators ImAWussy Edition": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1",
+      "file_id": 8522,
+      "file_name": "SkyTEST - Realistic Animals and Predators ImAWussy-1104-1.7z",
+      "mod_id": 1104,
+      "hash": "sha256-ITiL4x4DcRpVhU/h62f0IF/bi3b36SREqWfIKkD+9BM="
+    }
+  },
+  "SEQ File to fix inconsistencies with the mod.": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1",
+      "file_id": 225194,
+      "file_name": "SEQ File to fix inconsistencies with the mod.-1104-1-1630424024.zip",
+      "mod_id": 1104,
+      "hash": "sha256-y9enWZMU9JI0YQHbI3ONn1yQ7W82uDxDKcJDgJdHfL0="
+    }
+  },
+  "SkyTEST - RealisticAnimals N Predators": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.65.22",
+      "file_id": 463271,
+      "file_name": "SkyTEST - RealisticAnimals N Predators (AE) LATEST-1104-1-65-22-1705785486.7z",
+      "mod_id": 1104,
+      "hash": "sha256-7lAJvEr/reZcmeZOTmjy8htgCZBS8sO2mDrV8amceWc="
+    },
+    "type": "primary"
+  }
+}

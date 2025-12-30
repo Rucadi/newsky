@@ -1,0 +1,23 @@
+{
+  "Goetia Animations - Male Idle Walk And Run": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.2",
+      "file_id": 295227,
+      "file_name": "Goetia Animations - Male Idle Walk And Run-68625-1-2-1656609600.7z",
+      "mod_id": 68625,
+      "hash": "sha256-FvBmmO7YazArosbeRvumiy9GcayF/WH9vmHew9YzAFc="
+    },
+    "type": "primary"
+  },
+  "CATA Addon - Goetia male idle Walk Run": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.3c",
+      "file_id": 400901,
+      "file_name": "CATA Addon - Goetia male idle Walk Run-68625-1-3c-1687702350.7z",
+      "mod_id": 68625,
+      "hash": "sha256-44uC5fLLeIApM7YrFc4uzKqQjMWu7beNiXrqEtf4Tnc="
+    }
+  }
+}

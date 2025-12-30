@@ -1,0 +1,33 @@
+{
+  "3DNPC-TGCoMM Patch by WiZkiD": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 143875,
+      "file_name": "3DNPC-TGCoMM Patch by WiZkiD-36350-1-0-1591299024.7z",
+      "mod_id": 36350,
+      "hash": "sha256-4A8oIjxiJxyK+bESMxfRGcR5IwFhhHgFZJ5e8mTDWX0="
+    }
+  },
+  "SMIM Rope TGCoMM by WiZkiD": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 143876,
+      "file_name": "SMIM Rope TGCoMM by WiZkiD-36350-1-0-1591299246.7z",
+      "mod_id": 36350,
+      "hash": "sha256-EWP2XfB72vqJb21ygvPa9GcpcZZrZYnT50zaI0KBKZs="
+    }
+  },
+  "The Great Village of Mixwater Mill 1.1": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1",
+      "file_id": 213426,
+      "file_name": "The Great Village of Mixwater Mill 1.1-36350-1-1-1625778204.zip",
+      "mod_id": 36350,
+      "hash": "sha256-JGM54Osc1z9rAHXC0VzIq3ZteJz9Z2E3Z/sqSzNQwTY="
+    },
+    "type": "primary"
+  }
+}

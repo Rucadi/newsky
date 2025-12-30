@@ -1,0 +1,24 @@
+{
+  "ENB Extender and Helper": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.4.2",
+      "file_id": 669889,
+      "file_name": "ENB Extender and Helper-99406-1-4-2-1758988547.7z",
+      "mod_id": 99406,
+      "hash": "sha256-hn0o39AG4KnJVHLnJTi6QYD5xwzLZQcnc069mkA3hgc="
+    },
+    "type": "primary"
+  },
+  "ENB Extender and Helper Legacy": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.4.2",
+      "file_id": 669891,
+      "file_name": "ENB Extender and Helper Legacy-99406-1-4-2-1758988588.7z",
+      "mod_id": 99406,
+      "hash": "sha256-7JazaDrPTuvqDWb/kL3jDOcLVuYfFJMMmPKFPbj4sMc="
+    },
+    "type": "primary"
+  }
+}

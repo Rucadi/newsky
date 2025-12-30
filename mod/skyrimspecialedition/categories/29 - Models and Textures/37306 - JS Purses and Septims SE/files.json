@@ -1,0 +1,23 @@
+{
+    "JS Purses and Septims SE - FOMOD": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "1.2",
+            "file_id": 214078,
+            "file_name": "JS Purses and Septims SE - FOMOD-37306-1-2-1626039809.rar",
+            "mod_id": 37306,
+            "hash": "sha256-/m9lojbNBPzp0f6S3Hz/75TcDvP/s+zfAw7CR4wKY78="
+        },
+        "type": "primary"
+    },
+    "JS Purses and Septims SE - Wintersun Patch": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "1.0",
+            "file_id": 675473,
+            "file_name": "JS Purses and Septims SE - Wintersun Patch-37306-1-0-1760353585.zip",
+            "mod_id": 37306,
+            "hash": "sha256-0gHnS0ysLK2h9iWGJ1w3kcTMUCsjY9bSZWfv4sjgoqQ="
+        }
+    }
+}

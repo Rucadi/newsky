@@ -1,0 +1,23 @@
+{
+  "High Poly Project - 4k Textures": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "v3.85",
+      "file_id": 36615,
+      "file_name": "HPP - High Poly Project 4K Textures.rar-12029-v3-85.rar",
+      "mod_id": 12029,
+      "hash": "sha256-rKzH2snXZfXBVLCe6aJ/bGgylFUrVCBja4sGcyc8ZVE="
+    }
+  },
+  "High Poly Project": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "v5.3",
+      "file_id": 236420,
+      "file_name": "High Poly Project-12029-v5-3-1634909383.zip",
+      "mod_id": 12029,
+      "hash": "sha256-4ReXQjmy0O26a7lj6+BRUFHTS7viUv6D+2DoFEwmky4="
+    },
+    "type": "primary"
+  }
+}

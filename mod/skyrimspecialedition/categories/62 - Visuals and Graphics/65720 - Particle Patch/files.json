@@ -1,0 +1,63 @@
+{
+  "Glow Maps for ENB": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 564607,
+      "file_name": "Glow Maps for ENB-65720-1-0-1732207964.zip",
+      "mod_id": 65720,
+      "hash": "sha256-ivjno1L+yzSnDqmxarTdWnLCElH2idBeUxnOZFzoeig="
+    }
+  },
+  "Remove Candle Glow": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 650840,
+      "file_name": "Remove Candle Glow-65720-1-0-1753683329.zip",
+      "mod_id": 65720,
+      "hash": "sha256-FfleXlUDHJLRkg0ZH3nP81utG2+RzBNhJeZgavIhVaA="
+    }
+  },
+  "Particle Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.3.9",
+      "file_id": 656110,
+      "file_name": "Particle Patch-65720-1-3-9-1755332473.zip",
+      "mod_id": 65720,
+      "hash": "sha256-QJfMy4dleWrsWzJnXH9au8lkfia83IxbMud8bG3Y1Vg="
+    },
+    "type": "primary"
+  },
+  "Particle Patch (No FOMOD)": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.3.9",
+      "file_id": 656451,
+      "file_name": "Particle Patch (No FOMOD)-65720-1-3-9-1755418437.zip",
+      "mod_id": 65720,
+      "hash": "sha256-2EUZLWd4oJeRIIhZt1R8BQFlq3XMZjoWgePEX3vFA98="
+    }
+  },
+  "Particle Patch Magic Hand FX": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 684663,
+      "file_name": "Particle Patch Magic Hand FX-65720-1-0-1762517708.zip",
+      "mod_id": 65720,
+      "hash": "sha256-8qxxHcgObpVbCUN0FCu822MKtPJqmdYZoQObI6kN/Z0="
+    }
+  },
+  "Remove Yellow Glow": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.01",
+      "file_id": 684664,
+      "file_name": "Remove Yellow Glow-65720-1-01-1762517861.zip",
+      "mod_id": 65720,
+      "hash": "sha256-x0bdoD5DwMT8hY8bo6tddTxdSPhQrKn6WpmH+vTVomQ="
+    }
+  }
+}

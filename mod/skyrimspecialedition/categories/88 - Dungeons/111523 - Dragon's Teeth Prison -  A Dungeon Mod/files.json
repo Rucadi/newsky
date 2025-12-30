@@ -1,0 +1,23 @@
+{
+  "Dragons Teeth Prison V1.4": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.4",
+      "file_id": 568075,
+      "file_name": "Dragons Teeth Prison V1.4-111523-1-4-1733091415.zip",
+      "mod_id": 111523,
+      "hash": "sha256-PwA5sxZw4rYJpuioyBhkGpFexp1975rw1E8tInzljqU="
+    },
+    "type": "primary"
+  },
+  "DTD - Akaviri Ruins of Savirien-Chorak Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.4",
+      "file_id": 665860,
+      "file_name": "DTD - Akaviri Ruins of Savirien-Chorak Patch-111523-1-4-1757900894.7z",
+      "mod_id": 111523,
+      "hash": "sha256-aU9zKah3lfW7Kj6a9WMHim1+f98TEpyNY03v4l+9zVY="
+    }
+  }
+}

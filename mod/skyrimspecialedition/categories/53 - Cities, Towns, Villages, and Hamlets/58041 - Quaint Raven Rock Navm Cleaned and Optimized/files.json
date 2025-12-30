@@ -1,0 +1,23 @@
+{
+  "Quaint Raven Rock NAVM Clockwork Replacer Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "2.1",
+      "file_id": 246988,
+      "file_name": "Quaint Raven Rock NAVM Clockwork Replacer Patch-58041-2-1-1638777055.7z",
+      "mod_id": 58041,
+      "hash": "sha256-TaPz82mzKIYQSZyMKnnaqccKRhozRn3x2vHhhPiHrRk="
+    }
+  },
+  "Quaint Raven Rock NAVM Optimized Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "2.23",
+      "file_id": 303376,
+      "file_name": "Quaint Raven Rock NAVM Optimized Patch-58041-2-23-1659202492.7z",
+      "mod_id": 58041,
+      "hash": "sha256-hYyhNJTIr4MklIQgt3mPhQR89AeojxsSKBEyMC8qAdE="
+    },
+    "type": "primary"
+  }
+}

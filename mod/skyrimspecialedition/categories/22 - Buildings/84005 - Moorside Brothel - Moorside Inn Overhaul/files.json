@@ -1,0 +1,83 @@
+{
+    "Moorside Brothel - Moorside Inn Overhaul": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "1.2.1",
+            "file_id": 480547,
+            "file_name": "Moorside Brothel - Moorside Inn Overhaul-84005-1-2-1-1710438982.zip",
+            "mod_id": 84005,
+            "hash": "sha256-mVj4g/0CNNhs9fRaiYbmhg6TkBnOvUGDYukah2iHKkI="
+        },
+        "type": "primary"
+    },
+    "Moorside Brothel - AI Overhaul Patch": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "1.0.0",
+            "file_id": 495018,
+            "file_name": "Moorside Brothel - AI Overhaul Patch-84005-1-0-0-1714152074.zip",
+            "mod_id": 84005,
+            "hash": "sha256-Vfxn26ZEj4iWw9Lxy7UFFgFLJGtYVrVLUkELS9NPMts="
+        }
+    },
+    "Moorside Brothel - Boss Encounters Patch": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "1.0.2",
+            "file_id": 495638,
+            "file_name": "Moorside Brothel - Boss Encounters Patch-84005-1-0-2-1714313761.zip",
+            "mod_id": 84005,
+            "hash": "sha256-G+bQmukUXpQ9oOHCIaz/EaokCSDSKFmuFS4hB9vG1ok="
+        }
+    },
+    "Moorside Brothel - Embers XD Patch": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "1.0.3",
+            "file_id": 495641,
+            "file_name": "Moorside Brothel - Embers XD Patch-84005-1-0-3-1714313890.zip",
+            "mod_id": 84005,
+            "hash": "sha256-KINW1OIV9m+kTExQ1sC9Pa5V/u5ZuCGMrLCuoCZ/BKw="
+        }
+    },
+    "Moorside Brothel - Flower Girls Patch": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "1.0.1",
+            "file_id": 495642,
+            "file_name": "Moorside Brothel - Flower Girls Patch-84005-1-0-1-1714313941.zip",
+            "mod_id": 84005,
+            "hash": "sha256-RmVBMnhE53C+GSb9mA4u4L5R+wfiD8sW8H6CelFvB+o="
+        }
+    },
+    "Moorside Brothel - LUX Patch": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "1.0.4",
+            "file_id": 495647,
+            "file_name": "Moorside Brothel - LUX Patch-84005-1-0-4-1714314282.zip",
+            "mod_id": 84005,
+            "hash": "sha256-yHqHz1v3SC9bnQEC5ZJ/ZcJJyZ9qECqZF3zvHJq4d/s="
+        }
+    },
+    "Moorside Brothel - Yuriana Wench Patch": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "1.0.1",
+            "file_id": 495649,
+            "file_name": "Moorside Brothel - Yuriana Wench Patch-84005-1-0-1-1714314340.zip",
+            "mod_id": 84005,
+            "hash": "sha256-pzFcO0wicBcmeKsmWwLAHrdE0Rxy+UxBeFYEnCIHAao="
+        }
+    },
+    "Moorside Brothel - ELFX Patch": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "1.0.4",
+            "file_id": 496073,
+            "file_name": "Moorside Brothel - ELFX Patch-84005-1-0-4-1714409205.zip",
+            "mod_id": 84005,
+            "hash": "sha256-3FUzYa7meZ4zxBY5gohHD6+eBw9nLTdAdvZZHcuzXgg="
+        }
+    }
+}

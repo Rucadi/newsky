@@ -1,0 +1,24 @@
+{
+  "_Rainbows over Waterfalls": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.5.1",
+      "file_id": 508095,
+      "file_name": "Rainbows over Waterfalls-101348-1-5-1-1717456613.zip",
+      "mod_id": 101348,
+      "hash": "sha256-lpryCYS7nie1p0Sd1knNJgwdsi6qIRoO4ORgRf7rDNs="
+    },
+    "type": "primary"
+  },
+  "Rainbows Over Waterfalls - New Gen": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.7",
+      "file_id": 699663,
+      "file_name": "Rainbows Over Waterfalls - New Gen-101348-1-7-1766160397.zip",
+      "mod_id": 101348,
+      "hash": "sha256-5NE1fejk/oSJSVokZqPuewnIoZ3Mk3hfVClXOB5QKPQ="
+    },
+    "type": "primary"
+  }
+}

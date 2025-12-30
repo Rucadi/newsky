@@ -1,0 +1,33 @@
+{
+    "The Eyes Of Beauty - Vampire Eyes SSE": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "1.0",
+            "file_id": 48556,
+            "file_name": "The Eyes Of Beauty - Vampire Eyes SSE-15910-1-0.7z",
+            "mod_id": 15910,
+            "hash": "sha256-/rzziSQMw4hawbicBq1muSKH/5hTBq1Px5KlwAFu20U="
+        },
+        "type": "primary"
+    },
+    "The Eyes Of Beauty - Vampire Eyes - HN66s Long Eye Lashes": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "1.0",
+            "file_id": 85242,
+            "file_name": "The Eyes Of Beauty - Vampire Eyes - HN66s Long Eye Lashes-15910-1-0-1552820902.7z",
+            "mod_id": 15910,
+            "hash": "sha256-C+8xfnGXJDh9NgfkKefhHZsJgkCVFabHUCwNHMD1lws="
+        }
+    },
+    "The Eyes Of Beauty - Vampire Eyes Glowing - HN66s Long Eye Lashes": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "1.0",
+            "file_id": 85243,
+            "file_name": "The Eyes Of Beauty - Vampire Eyes Glowing - HN66s Long Eye Lashes-15910-1-0-1552820948.7z",
+            "mod_id": 15910,
+            "hash": "sha256-r/BuH1j5gObnKoH2ObB1KnykYZml4czc/7uzf7NdcPs="
+        }
+    }
+}

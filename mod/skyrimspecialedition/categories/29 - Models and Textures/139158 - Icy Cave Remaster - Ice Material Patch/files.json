@@ -1,0 +1,24 @@
+{
+  "Icy Cave Remaster - Ice Material Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 583577,
+      "file_name": "Icy Cave Remaster - Ice Material Patch-139158-1-0-1736948609.7z",
+      "mod_id": 139158,
+      "hash": "sha256-2bES7oVOL1zKvbP8BFcTaInyQMTl95kQyb4bnyBU9/U="
+    },
+    "type": "primary"
+  },
+  "Icy Cave Remaster - Ice Material Patch - CM": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 583578,
+      "file_name": "Icy Cave Remaster - Ice Material Patch - CM-139158-1-0-1736948700.7z",
+      "mod_id": 139158,
+      "hash": "sha256-Ruu+5YbjGIVMt3I+VILZxSkWOP2S9bH8nUPirMfGXQI="
+    },
+    "type": "primary"
+  }
+}

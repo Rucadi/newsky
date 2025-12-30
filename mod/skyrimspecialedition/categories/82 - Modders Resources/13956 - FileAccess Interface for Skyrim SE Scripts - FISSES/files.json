@@ -1,0 +1,44 @@
+{
+    "FISS None ESMify": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "1.3.6",
+            "file_id": 41184,
+            "file_name": "None FISS ESMify-13956-1-3-1.zip",
+            "mod_id": 13956,
+            "hash": "sha256-jRR9NtGp0HUwCdBamHQRl2yBokLTlTOjwpMD8hyYie8="
+        }
+    },
+    "FISSES DLL for VR": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "1.3.5",
+            "file_id": 76109,
+            "file_name": "FISSES DLL for VR-13956-1-3-5-1545666459.zip",
+            "mod_id": 13956,
+            "hash": "sha256-wN2rtG/hE4zZGF+/2gE0nxetzJDcBO6Pj4ZVC2CKqq0="
+        }
+    },
+    "FileAccess Interface for Skyrim SE Scripts - FISSES (Special Edition)": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "1.3.7",
+            "file_id": 114287,
+            "file_name": "FileAccess Interface for Skyrim SE Scripts - FISSES-13956-1-3-7-1574615841.zip",
+            "mod_id": 13956,
+            "hash": "sha256-LaVmBfWyiwxQZap1qu0U79nHQn28ADvUuBSxPlrlXZc="
+        },
+        "type": "primary"
+    },
+    "FileAccess Interface for Skyrim SE Scripts - FISSES (Anniversary Edition) BETA": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "1.4.1",
+            "file_id": 319211,
+            "file_name": "FileAccess Interface for Skyrim SE Scripts - FISSES (Anniversary Edition) BETA-13956-1-4-1-1664092979.zip",
+            "mod_id": 13956,
+            "hash": "sha256-jzdu+aGknxo+dj+HbYFwEVihWMUGTgENr1fdcKhTGBE="
+        },
+        "type": "primary"
+    }
+}

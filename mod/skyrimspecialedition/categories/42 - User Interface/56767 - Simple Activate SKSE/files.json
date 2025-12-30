@@ -1,0 +1,13 @@
+{
+  "Simple Activate SKSE": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.4.2",
+      "file_id": 552627,
+      "file_name": "Simple Activate SKSE-56767-1-4-2-1729077081.7z",
+      "mod_id": 56767,
+      "hash": "sha256-E1guj+X5sATMDpcNqaGKwhIgG/WrsdrotK7nca+aD9I="
+    },
+    "type": "primary"
+  }
+}

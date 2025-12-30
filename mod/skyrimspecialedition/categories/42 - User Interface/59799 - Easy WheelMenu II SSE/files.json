@@ -1,0 +1,33 @@
+{
+  "Easy WheelMenu II SSE": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.5",
+      "file_id": 292662,
+      "file_name": "Easy WheelMenu II SSE-59799-1-5-1655768747.7z",
+      "mod_id": 59799,
+      "hash": "sha256-9f5/qdJQPsRU3y18l7aJDtKjDay/5peyElwPB8fhA0o="
+    },
+    "type": "primary"
+  },
+  "Easy WheelMenu II SSE - Traduccion Spanish": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.5",
+      "file_id": 432622,
+      "file_name": "Easy WheelMenu II SSE - Traduccion Spanish-59799-1-5-1696851683.rar",
+      "mod_id": 59799,
+      "hash": "sha256-6gGrcviKkT7phLpm8KPp+/4OlvSDaUXNeL90s72es5k="
+    }
+  },
+  "Easy WheelMenu II SSE Patch Only": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.5a",
+      "file_id": 536479,
+      "file_name": "Easy WheelMenu II SSE Patch Only-59799-1-5a-1724950046.zip",
+      "mod_id": 59799,
+      "hash": "sha256-3W1AJvNLV/VofEXChclstOhOscb5becRFhyfkWdUGfA="
+    }
+  }
+}

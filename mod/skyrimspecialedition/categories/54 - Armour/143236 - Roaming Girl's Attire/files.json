@@ -1,0 +1,43 @@
+{
+  "Roaming Girl's Attire CBBE Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 602990,
+      "file_name": "Roaming Girl's Attire CBBE Patch-143236-1-0-1741411373.zip",
+      "mod_id": 143236,
+      "hash": "sha256-hZG5L1mCUn2GuQLWFSg0l2IYgBYthUVJNbfDUcOgNRM="
+    }
+  },
+  "Roaming Girl's Attire  (3BA)": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.2.1",
+      "file_id": 610414,
+      "file_name": "Roaming Girl's Attire  (3BA)-143236-1-2-1-1743079781.zip",
+      "mod_id": 143236,
+      "hash": "sha256-0ewiR1cOz7tato7HF6S3k/sXSGTSE5Z3xi9Hnw0n0BQ="
+    },
+    "type": "primary"
+  },
+  "Roaming Girl's Attire - Heavy Armor Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 648168,
+      "file_name": "Roaming Girl's Attire - Heavy Armor Patch-143236-1-0-1752843451.zip",
+      "mod_id": 143236,
+      "hash": "sha256-gJv5xhXexNHi87VvEJSvvRrqSxsFLqNZCImQYBUmKuw="
+    }
+  },
+  "Roaming Girl's Attire - Clothing Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 689657,
+      "file_name": "Roaming Girl's Attire - Clothing Patch-143236-1-0-1763736018.zip",
+      "mod_id": 143236,
+      "hash": "sha256-kq7oYZCsG+8lVwtm3X4UeeWgf+a0aR07TZDqrhAxcG4="
+    }
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "Custom Cubemaps by fadingsignal v1.1": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1",
+      "file_id": 244024,
+      "file_name": "Custom Cubemaps by fadingsignal v1.1-58817-1-1-1637746857.rar",
+      "mod_id": 58817,
+      "hash": "sha256-JxitQ7ytAYc7e9vFIB7Tu2XPlTer4GCZ1SmBsAbWjfU="
+    },
+    "type": "primary"
+  },
+  "Custom Cubemaps by fadingsignal v1.1 TGA": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1",
+      "file_id": 244026,
+      "file_name": "Custom Cubemaps by fadingsignal v1.1 TGA-58817-1-1-1637746998.rar",
+      "mod_id": 58817,
+      "hash": "sha256-bN8hQEIKoCcY64dXzgtvx7BKxPnD7PiITTgT3Qi3jh8="
+    }
+  }
+}

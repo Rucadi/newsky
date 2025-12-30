@@ -1,0 +1,23 @@
+{
+  "Tarnished Armor (Render Version)": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1",
+      "file_id": 589323,
+      "file_name": "Tarnished Armor (Render Version)-140119-1-1-1738290243.zip",
+      "mod_id": 140119,
+      "hash": "sha256-cwHA06O26OSXCp1Kzy3wplRYw4JHPTTYfG76vajQf98="
+    },
+    "type": "primary"
+  },
+  "Render 2K": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1",
+      "file_id": 589324,
+      "file_name": "Render 2K-140119-1-1-1738290356.zip",
+      "mod_id": 140119,
+      "hash": "sha256-MWm0tnuGyGJtEPhvtRQ3svw9T1m+7Is4JLXZmnGj+Xk="
+    }
+  }
+}

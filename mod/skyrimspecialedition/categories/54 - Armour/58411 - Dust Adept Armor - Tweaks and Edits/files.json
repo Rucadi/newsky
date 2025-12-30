@@ -1,0 +1,23 @@
+{
+  "Dust Adept Tweaks": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.2.1",
+      "file_id": 307244,
+      "file_name": "Dust Adept Tweaks-58411-1-2-1-1660419878.zip",
+      "mod_id": 58411,
+      "hash": "sha256-2j8P7CE0w1YdBUqZSousGrCfvzNBLEohI0PwF+NfIcE="
+    },
+    "type": "primary"
+  },
+  "Dust Adept Tweaks - Loremonger": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.2.1b",
+      "file_id": 307254,
+      "file_name": "Dust Adept Tweaks - Loremonger-58411-1-2-1b-1660420911.zip",
+      "mod_id": 58411,
+      "hash": "sha256-YTYcBvKs1yoHsDjnIrkY9nfqMLuwzxdZ2o5ocCQdc00="
+    }
+  }
+}

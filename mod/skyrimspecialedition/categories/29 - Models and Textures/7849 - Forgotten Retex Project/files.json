@@ -1,0 +1,34 @@
+{
+  "Forgotten Retex Project - Half Res": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "8.3",
+      "file_id": 354954,
+      "file_name": "Forgotten Retex Project - Half Res-7849-8-3-1675171828.7z",
+      "mod_id": 7849,
+      "hash": "sha256-GDzZ7jwFAoIOH6jzK586zMm/GHI/VPMNaAyytdByZxE="
+    },
+    "type": "primary"
+  },
+  "Forgotten Retex Project - Meshes Only": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "8.3",
+      "file_id": 354956,
+      "file_name": "Forgotten Retex Project - Meshes Only-7849-8-3-1675172073.7z",
+      "mod_id": 7849,
+      "hash": "sha256-9VI4fcAOcnCPHhMC0/TRgpqKUVuAYyOgOAZnEb0wcn8="
+    }
+  },
+  "Forgotten Retex Project - Full Resolution": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "8.4",
+      "file_id": 499843,
+      "file_name": "Forgotten Retex Project - Full Resolution-7849-8-4-1715370668.7z",
+      "mod_id": 7849,
+      "hash": "sha256-WwFBSe0SCLtKb9wyW0bmDb50t46FNXzoSF3ijJxotLg="
+    },
+    "type": "primary"
+  }
+}

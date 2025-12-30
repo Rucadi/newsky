@@ -1,0 +1,24 @@
+{
+    "Wyrmstooth Paper Map for FWMF by Limon (legacy)": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "1.0",
+            "file_id": 522660,
+            "file_name": "Wyrmstooth Paper Map for FWMF by Limon-124686-1-0-1721373478.zip",
+            "mod_id": 124686,
+            "hash": "sha256-vSSfbl7PJXA8171izKXoRXldwMH1MsYcEshTLIeZPUk="
+        },
+        "type": "primary"
+    },
+    "Wyrmstooth Paper Map for FWMF by Limon": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "1.1.2",
+            "file_id": 559441,
+            "file_name": "Wyrmstooth Paper Map for FWMF by Limon-124686-1-1-2-1730890689.zip",
+            "mod_id": 124686,
+            "hash": "sha256-3rtFaSeUTDIFrBuOrxDXre1VvZ8d0QGS4Sq58DzcHuA="
+        },
+        "type": "primary"
+    }
+}

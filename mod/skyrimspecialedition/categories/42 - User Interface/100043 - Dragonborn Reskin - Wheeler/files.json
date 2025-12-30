@@ -1,0 +1,23 @@
+{
+  "Edge UI Color Options": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 522336,
+      "file_name": "Edge UI Color Options-100043-1-0-1721277706.zip",
+      "mod_id": 100043,
+      "hash": "sha256-YRQ5oF0a4tyxfSDUFYJn7ag3+C8HuLmrX7vYu29TKe0="
+    }
+  },
+  "Dragonborn Reskin - Wheeler by borokoshow": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.9.1",
+      "file_id": 586537,
+      "file_name": "Dragonborn Reskin - Wheeler by borokoshow-100043-1-9-1-1737645911.zip",
+      "mod_id": 100043,
+      "hash": "sha256-kfVGZgMAUhxTp7yEv99inWBUekS07lUjSsWOM8NB8Vc="
+    },
+    "type": "primary"
+  }
+}

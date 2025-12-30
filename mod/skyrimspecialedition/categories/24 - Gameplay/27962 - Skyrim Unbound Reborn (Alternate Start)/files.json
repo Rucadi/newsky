@@ -1,0 +1,23 @@
+{
+  "Skyrim Unbound Reborn (Russian)": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "3.0.6",
+      "file_id": 703221,
+      "file_name": "Skyrim Unbound Reborn (Russian)-27962-3-0-6-1767013629.7z",
+      "mod_id": 27962,
+      "hash": "sha256-ZNKiAZtc/vKlVljc85gJsFc4Z/F1crBQ7u4zMJi1wbc="
+    }
+  },
+  "Skyrim Unbound Reborn": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "3.0.6",
+      "file_id": 703223,
+      "file_name": "Skyrim Unbound Reborn-27962-3-0-6-1767013658.7z",
+      "mod_id": 27962,
+      "hash": "sha256-dfe1Glmj+OQXg4FbK4e+qTNgHBKmybKBH6QrAGmialA="
+    },
+    "type": "primary"
+  }
+}

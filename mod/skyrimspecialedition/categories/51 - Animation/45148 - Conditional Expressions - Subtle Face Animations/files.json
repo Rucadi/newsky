@@ -1,0 +1,23 @@
+{
+  "IFPV Optional Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.20",
+      "file_id": 228366,
+      "file_name": "IFPV Optional Patch-45148-1-20-1631633223.zip",
+      "mod_id": 45148,
+      "hash": "sha256-s/IHQGUBu2Yx5gnukI+ol4JWFdM+PO2YpyMyVJFsPDw="
+    }
+  },
+  "Conditional Expressions": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.29",
+      "file_id": 655975,
+      "file_name": "Conditional Expressions-45148-1-29-1755293339.rar",
+      "mod_id": 45148,
+      "hash": "sha256-KtJCTRPW+a3OsdmN+YOy7mxEKjJnv01Mx7mOoUFmJNY="
+    },
+    "type": "primary"
+  }
+}

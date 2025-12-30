@@ -1,0 +1,23 @@
+{
+    "Expressive Facegen Morphs SE": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "1.0",
+            "file_id": 151138,
+            "file_name": "Expressive Facegen Morphs SE-35785-1-0-1595174141.7z",
+            "mod_id": 35785,
+            "hash": "sha256-7UiNU/yc++TSrENxBrRuuP67Hq4+QNSJcFi6x5nJZSs="
+        },
+        "type": "primary"
+    },
+    "EFM SE - Racemenu plugin": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "1.0",
+            "file_id": 151142,
+            "file_name": "EFM SE - Racemenu plugin-35785-1-0-1595174244.7z",
+            "mod_id": 35785,
+            "hash": "sha256-PxgcEtPyGWb8DTkCXyWVz+A5WPcRudpoZOZVPilc7NA="
+        }
+    }
+}

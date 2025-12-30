@@ -1,0 +1,200 @@
+{
+    "Vigilant Enigma Patch": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "1.1",
+            "file_id": 126024,
+            "file_name": "Vigilant Enigma Patch-33084-1-1-1582730915.7z",
+            "mod_id": 33084,
+            "hash": "sha256-EYel48dI+dto9P2dMw0ctL0FnEJZ/B+bk+ctrMzLTVE="
+        },
+        "type": "primary"
+    },
+    "Talkative dragons Enigma patch": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "1.1",
+            "file_id": 126025,
+            "file_name": "Talkative dragons Enigma patch-33084-1-1-1582730961.7z",
+            "mod_id": 33084,
+            "hash": "sha256-xCghx9wpDSuZnEMswBWRx2Lf4jMvK9QNM6NdQ7ejHH0="
+        },
+        "type": "primary"
+    },
+    "Alduin Dragon Follower Enigma Patch": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "1.1",
+            "file_id": 126143,
+            "file_name": "Alduin Dragon Follower Enigma Patch-33084-1-1-1582815517.7z",
+            "mod_id": 33084,
+            "hash": "sha256-OTyD5bOxwKHY/HlEfH9QsSITBlYWKCcw1+18Ra7DRFY="
+        },
+        "type": "primary"
+    },
+    "KS Dragon Overhaul 2 Enigma Patch": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "1.1",
+            "file_id": 126317,
+            "file_name": "KS Dragon Overhaul 2 Enigma Patch-33084-1-1-1582906787.7z",
+            "mod_id": 33084,
+            "hash": "sha256-p2Oat2xB0TTjrorS9OD62kxKVciaCwyjPUbvFEG8qbU="
+        },
+        "type": "primary"
+    },
+    "Rotmulaag Patch": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "1.1",
+            "file_id": 166194,
+            "file_name": "Rotmulaag Patch-33084-1-1-1603130712.7z",
+            "mod_id": 33084,
+            "hash": "sha256-OXz8pVDj9G8okiI1g6Tz3E6PY5c3VlWvq+SCG22CtEs="
+        },
+        "type": "primary"
+    },
+    "Mihail Talkative Dragon Priests Patch": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "1.3Patches",
+            "file_id": 385583,
+            "file_name": "Mihail Talkative Dragon Priests Patch-33084-1-3Patches-1683447319.7z",
+            "mod_id": 33084,
+            "hash": "sha256-DODLrZR7SP/yUU/q1i0+xytx3BSJP/VbndhqPCieNjg="
+        },
+        "type": "primary"
+    },
+    "House of Horrors - Quest Expansion 1.12": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "1.12",
+            "file_id": 430828,
+            "file_name": "House of Horrors - Quest Expansion 1.12-33084-1-12-1696312710.7z",
+            "mod_id": 33084,
+            "hash": "sha256-WCZ0wA3GNvCyEmaaeum32R3GWwxjoKDmZsfKacJ04hc="
+        },
+        "type": "primary"
+    },
+    "Paarthurnax - Quest Expansion 1.12": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "1.12",
+            "file_id": 430830,
+            "file_name": "Paarthurnax - Quest Expansion 1.12-33084-1-12-1696313989.7z",
+            "mod_id": 33084,
+            "hash": "sha256-v7k5Deba6r1wAxZ1Q3trWhEE3+I5deQcSASvhxyTrLA="
+        },
+        "type": "primary"
+    },
+    "Wyrmstooth 1.20 Patch": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "1.20",
+            "file_id": 430835,
+            "file_name": "Wyrmstooth 1.20 Patch-33084-1-20-1696318293.7z",
+            "mod_id": 33084,
+            "hash": "sha256-PJzTmj1zVYOD3G5UcFSi7CI9+dNDl+5H4h+u4gEejNs="
+        },
+        "type": "primary"
+    },
+    "Memorable Dragons Patch": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "1.4.6Patches",
+            "file_id": 565364,
+            "file_name": "Memorable Dragons Patch-33084-1-4-6Patches-1732400444.7z",
+            "mod_id": 33084,
+            "hash": "sha256-H9nc9pXpii14maMbOrDsXzCymsm3X/0h/zAtA+QG+wk="
+        },
+        "type": "primary"
+    },
+    "The Tale of Tsatampra Xiros Patch": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "1.4.7Patches",
+            "file_id": 592929,
+            "file_name": "The Tale of Tsatampra Xiros Patch-33084-1-4-7Patches-1739149591.7z",
+            "mod_id": 33084,
+            "hash": "sha256-y3R06lB0xVf/zTMqq/gctVWi2HvdFX9TDqd0XdA+h7s="
+        },
+        "type": "primary"
+    },
+    "Death Consumes All": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "1.4.7Patches",
+            "file_id": 592936,
+            "file_name": "Death Consumes All-33084-1-4-7Patches-1739150801.7z",
+            "mod_id": 33084,
+            "hash": "sha256-cwCkj62DD8F38YfyPBhglBmJZenXvxgdHy5YXHhnsIg="
+        },
+        "type": "primary"
+    },
+    "The Only Cure - Quest Expansion Patch": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "1.4.8Patches",
+            "file_id": 597322,
+            "file_name": "The Only Cure - Quest Expansion Patch-33084-1-4-8Patches-1740148927.7z",
+            "mod_id": 33084,
+            "hash": "sha256-FUe3dq8TyU9BHRm+Xqnv0Wvix43rLJW3pOSlBGgtRGs="
+        },
+        "type": "primary"
+    },
+    "Dragons Use Thu'um 6.5 Patch": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "1.4.9Patches",
+            "file_id": 600319,
+            "file_name": "Dragons Use Thu'um 6.5 Patch-33084-1-4-9Patches-1740810737.7z",
+            "mod_id": 33084,
+            "hash": "sha256-qlJcI+7P1xKa1pzd4AkiygCyjq/RIozrGhgfvlImm5s="
+        },
+        "type": "primary"
+    },
+    "Behind and Beyond - Quest Mod Patch": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "1.5.0Patches",
+            "file_id": 613946,
+            "file_name": "Behind and Beyond - Quest Mod Patch-33084-1-5-0Patches-1743814290.7z",
+            "mod_id": 33084,
+            "hash": "sha256-aG6qzznV95VthHSJN8XhyFM3/2AJ8mG3l3K/PPM5lYA="
+        },
+        "type": "primary"
+    },
+    "Sleep Walking Into A Nightmare Enigma Series Patch": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "1.5.0Patches",
+            "file_id": 653349,
+            "file_name": "Sleep Walking Into A Nightmare Enigma Series Patch-33084-1-5-0Patches-1754495937.7z",
+            "mod_id": 33084,
+            "hash": "sha256-52s3wOfYqOmeLAg1MrB2wVta/5NcCyFNRmXOkzH9CeA="
+        },
+        "type": "primary"
+    },
+    "Dark Brotherhood Contact Restored - Cut Content RE": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "1.5.1Patches",
+            "file_id": 658587,
+            "file_name": "Dark Brotherhood Contact Restored - Cut Content RE-33084-1-5-1Patches-1755995123.7z",
+            "mod_id": 33084,
+            "hash": "sha256-4Bcl9eiWPC6k5gmcGdgYP3PviQlIZWgTm69XyL7AoLw="
+        },
+        "type": "primary"
+    },
+    "Aetherium Forge Destroys Items Patch": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "1.5.2",
+            "file_id": 658816,
+            "file_name": "Aetherium Forge Destroys Items Patch-33084-1-5-2-1756057467.7z",
+            "mod_id": 33084,
+            "hash": "sha256-nqh3XslMLUSnqy7K8TaJXILGMIAFYTWgQ58kSYKLEQM="
+        },
+        "type": "primary"
+    }
+}

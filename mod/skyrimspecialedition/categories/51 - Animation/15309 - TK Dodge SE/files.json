@@ -1,0 +1,44 @@
+{
+    "TK Dodge SE": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "3.18",
+            "file_id": 114159,
+            "file_name": "TK Dodge SE-15309-3-18-1574502132.7z",
+            "mod_id": 15309,
+            "hash": "sha256-UxHxUMGifd/h8LGgDSLJfYSV1eRInFRDr0P0dfqF71w="
+        },
+        "type": "primary"
+    },
+    "Replace to Step Dodge": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "3.18",
+            "file_id": 162059,
+            "file_name": "Replace to Step Dodge-15309-3-18-1600780245.7z",
+            "mod_id": 15309,
+            "hash": "sha256-ydmxPW197VXDUZRLY6lUcCkKT6/7aUX9BvL6wZylqRU="
+        }
+    },
+    "TK Dodge AE": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "3.18",
+            "file_id": 315864,
+            "file_name": "TK Dodge AE-15309-3-18-1663095851.7z",
+            "mod_id": 15309,
+            "hash": "sha256-kEt2/ozD11bp8daBHESSh4CyQdSh90Ej2iYQhEzLe6I="
+        },
+        "type": "primary"
+    },
+    "TK Dodge For RE": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "3.18",
+            "file_id": 315866,
+            "file_name": "TK Dodge For RE-15309-3-18-1663096096.7z",
+            "mod_id": 15309,
+            "hash": "sha256-C6F8QOqusy5U93uRDfGkuyHIhL5sflL/DhJE/yY0RvQ="
+        }
+    }
+}

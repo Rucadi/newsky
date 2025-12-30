@@ -1,0 +1,23 @@
+{
+  "Whispers of the Depths and Quaint Raven Rock Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0.1",
+      "file_id": 536566,
+      "file_name": "Whispers of the Depths and Quaint Raven Rock Patch-127087-1-0-1-1724964683.zip",
+      "mod_id": 127087,
+      "hash": "sha256-D8bICoKuJSCIGVwuAuXuztioydb77sAGZAJGpGZu7Kc="
+    }
+  },
+  "Whispers of the Depths - ESL 1.0.4": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0.4",
+      "file_id": 645115,
+      "file_name": "Whispers of the Depths - ESL 1.0.4-127087-1-0-4-1751924061.rar",
+      "mod_id": 127087,
+      "hash": "sha256-GYbzVhdSzSDU5AKPQ9Zk6h9WFXOkR3TWR/enJ49rQbQ="
+    },
+    "type": "primary"
+  }
+}

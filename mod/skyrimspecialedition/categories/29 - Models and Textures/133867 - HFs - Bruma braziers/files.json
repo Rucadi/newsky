@@ -1,0 +1,35 @@
+{
+  "HFs - Bruma braziers - 1K": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1",
+      "file_id": 561988,
+      "file_name": "HFs - Bruma braziers - 1K-133867-1-1731541347.zip",
+      "mod_id": 133867,
+      "hash": "sha256-JwP6VdrfGSC8xfT5lfTOWRS+onOgfhoOvUNNhVdrk3g="
+    },
+    "type": "primary"
+  },
+  "HFs - Bruma braziers - 2K": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1",
+      "file_id": 561989,
+      "file_name": "HFs - Bruma braziers - 2K-133867-1-1731541372.zip",
+      "mod_id": 133867,
+      "hash": "sha256-obko7VOl3sneTkqCGRMOBbxbRncFVraE+URIB2T83HM="
+    },
+    "type": "primary"
+  },
+  "HFs - Bruma braziers - 4K": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1",
+      "file_id": 561991,
+      "file_name": "HFs - Bruma braziers - 4K-133867-1-1731541512.zip",
+      "mod_id": 133867,
+      "hash": "sha256-rUgxa2blgqa/xGE4TNrIDn/Kc9zQ3Q2eW4wTudq+2H0="
+    },
+    "type": "primary"
+  }
+}

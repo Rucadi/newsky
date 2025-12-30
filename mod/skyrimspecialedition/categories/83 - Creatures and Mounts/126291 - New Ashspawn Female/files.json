@@ -1,0 +1,64 @@
+{
+  "2-4k. New Ashspawn Female v1": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0.0",
+      "file_id": 532049,
+      "file_name": "2-4k. New Ashspawn Female v1-126291-1-0-0-1723812406.zip",
+      "mod_id": 126291,
+      "hash": "sha256-QB+8yUrUyIbLm5o3ZvdCMF/CD0lSg1JFAzvNevzjy2s="
+    },
+    "type": "primary"
+  },
+  "2-4k. New Ashspawn Female v2 - no hair": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0.0",
+      "file_id": 532051,
+      "file_name": "2-4k. New Ashspawn Female v2 - no hair-126291-1-0-0-1723812766.zip",
+      "mod_id": 126291,
+      "hash": "sha256-53OiE50TtZyIkczKAF+pF7WSWCt98dkxiZSTcokzF4M="
+    },
+    "type": "primary"
+  },
+  "1-2k. New Ashspawn Female v1": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0.0",
+      "file_id": 532052,
+      "file_name": "1-2k. New Ashspawn Female v1-126291-1-0-0-1723812792.zip",
+      "mod_id": 126291,
+      "hash": "sha256-Njf0ylyesMeM5VCjhBotgqCDNwJzsd0l11JQfqsgTw0="
+    }
+  },
+  "1-2k. New Ashspawn Female v2 - no hair": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0.0",
+      "file_id": 532053,
+      "file_name": "1-2k. New Ashspawn Female v2 - no hair-126291-1-0-0-1723812823.zip",
+      "mod_id": 126291,
+      "hash": "sha256-netuwmDzHi3FVryp0Y0lzrVp3GVluRqmbsA2ynXjVhc="
+    }
+  },
+  "0. Loadscreenart Ashspawn v2 - No hair": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0.2",
+      "file_id": 567210,
+      "file_name": "0. Loadscreenart Ashspawn v2 - No hair-126291-1-0-2-1732866694.zip",
+      "mod_id": 126291,
+      "hash": "sha256-s7N0Qg0Ip15+V1IBcHhwIvioo7t8iE1Uc10FhQRvTUw="
+    }
+  },
+  "0.Loadscreenart Ashspawn v1": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0.2",
+      "file_id": 567211,
+      "file_name": "0.Loadscreenart Ashspawn v1-126291-1-0-2-1732866727.zip",
+      "mod_id": 126291,
+      "hash": "sha256-SWOQdFSnjMyRs2TvtDKp8A2/RgDOW6bqHf7TOEkdviA="
+    }
+  }
+}

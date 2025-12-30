@@ -1,0 +1,23 @@
+{
+  "Race Compatibility SKSE": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "2.4.0",
+      "file_id": 674458,
+      "file_name": "Race Compatibility SKSE-122592-2-4-0-1760156437.zip",
+      "mod_id": 122592,
+      "hash": "sha256-53i291i3L7wEtR+oKoL8s5GFuKC7rYDqPdovi36fe+I="
+    },
+    "type": "primary"
+  },
+  "Race Compatibility SKSE - Patch Hub": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "2.1.6",
+      "file_id": 674464,
+      "file_name": "Race Compatibility SKSE - Patch Hub-122592-2-1-6-1760156861.zip",
+      "mod_id": 122592,
+      "hash": "sha256-4jd39VIHnjbMZr+KL/aP3DYJ3ekMM1AmNFpUdf77agE="
+    }
+  }
+}

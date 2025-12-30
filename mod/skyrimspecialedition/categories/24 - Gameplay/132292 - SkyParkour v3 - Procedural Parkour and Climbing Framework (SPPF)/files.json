@@ -1,0 +1,34 @@
+{
+  "Respawn Soulslike Fix": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0.0",
+      "file_id": 627799,
+      "file_name": "Respawn Soulslike Fix-132292-1-0-0-1747432783.rar",
+      "mod_id": 132292,
+      "hash": "sha256-HBFZTScqwIfSJql32FLEUqrtuL5ONHNoIefwmw1Ju5k="
+    }
+  },
+  "Additional Pandora Patch For CRC32 Cache": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "3.0.0",
+      "file_id": 655679,
+      "file_name": "SkyParkour V3 - Pandora Patch-132292-3-0-0-1755214387.rar",
+      "mod_id": 132292,
+      "hash": "sha256-8KLovz2S4ORnQWGBOvfvf1HcRWE21ujBvl4qoC2VnkQ="
+    },
+    "type": "primary"
+  },
+  "SkyParkour V3 - Parkour Framework": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "3.2.1",
+      "file_id": 677127,
+      "file_name": "SkyParkour V3 - Parkour Framework-132292-3-2-1-1760734215.rar",
+      "mod_id": 132292,
+      "hash": "sha256-hMeq+vIGkJC/s59M6bwK/JbN8dCy4MtitFFCJ+b8Ey8="
+    },
+    "type": "primary"
+  }
+}

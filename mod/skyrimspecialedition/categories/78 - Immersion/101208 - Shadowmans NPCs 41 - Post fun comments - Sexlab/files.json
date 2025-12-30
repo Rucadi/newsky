@@ -1,0 +1,24 @@
+{
+  "shadowman_postsexSL_PartialVoicePack": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1",
+      "file_id": 428675,
+      "file_name": "shadowman_postsexSL_PartialVoicePack-101208-1-1695559282.rar",
+      "mod_id": 101208,
+      "hash": "sha256-AsX16TzgzovDBfq1a7MqTG2GBXvtuhSp0jqVFlNw8BA="
+    },
+    "type": "primary"
+  },
+  "shadowman_postsexsl": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1",
+      "file_id": 429591,
+      "file_name": "shadowman_postsexsl-101208-1-1-1695898931.rar",
+      "mod_id": 101208,
+      "hash": "sha256-TZwGVM//ZEu6rv5hB5n/sWPEfeg6EC3ci/DV/rCiuYE="
+    },
+    "type": "primary"
+  }
+}

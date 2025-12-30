@@ -1,0 +1,67 @@
+{
+  "8.4 A Quality World Map - Classic with All Roads": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "8.4CA",
+      "file_id": 13017,
+      "file_name": "A Quality World Map - Classic with All Roads-5804-8-4CA.zip",
+      "mod_id": 5804,
+      "hash": "sha256-0OvQQ/1V0fizi+2NafDk74vUoD6BBFSESJ5iriuxb2Y="
+    },
+    "type": "primary"
+  },
+  "8.4 A Quality World Map - Classic with Main Roads Only": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "8.4CM",
+      "file_id": 13018,
+      "file_name": "A Quality World Map - Classic with Main Roads-5804-8-4CM.zip",
+      "mod_id": 5804,
+      "hash": "sha256-Am9lBJBwALxdgueuWhRE0spN25ItGzsw1oCPKJ3fh9c="
+    },
+    "type": "primary"
+  },
+  "9.0 A Quality World Map - Paper": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "9.0P",
+      "file_id": 13019,
+      "file_name": "A Quality World Map - Paper-5804-9-0P.zip",
+      "mod_id": 5804,
+      "hash": "sha256-qHyA2XF3iagysMBepBEbJjC+HfkbAN4XWSLCM+kS+tU="
+    },
+    "type": "primary"
+  },
+  "A Quality World Map - Clear Map Skies": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "9.0.1CMS",
+      "file_id": 13556,
+      "file_name": "A Quality World Map - Clear Map Skies-5804-9-0-1CMS.zip",
+      "mod_id": 5804,
+      "hash": "sha256-F1lWm7gIUbL+a7TkDpHE9FGa7dSj/5POLvW630PRYow="
+    }
+  },
+  "9.0.1 A Quality World Map - Vivid with Stone Roads": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "9.0.1",
+      "file_id": 13792,
+      "file_name": "9.0.1 A Quality World Map - Vivid with Stone Roads-5804-9-0-1.zip",
+      "mod_id": 5804,
+      "hash": "sha256-/xYPNLZSFKfBh0WiW4YtQb6S2i9IUU7yISLNaQI2Us0="
+    },
+    "type": "primary"
+  },
+  "9.0.1 A Quality World Map - Vivid with Flat Roads": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "9.0.1VF",
+      "file_id": 13793,
+      "file_name": "9.0.1 A Quality World Map - Vivid with Flat Roads-5804-9-0-1VF.zip",
+      "mod_id": 5804,
+      "hash": "sha256-7hrdSbU1ouZ7avUua8xfo9ysIAWmADbCuJ/DNfqVA7Y="
+    },
+    "type": "primary"
+  }
+}

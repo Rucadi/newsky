@@ -1,0 +1,24 @@
+{
+  "Janos Tran 3BA Bodyslide Preset - Weight 0.4-0.5": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "v1a-Final",
+      "file_id": 561399,
+      "file_name": "Janos Tran 3BA Bodyslide Preset - Weight 0.4-0.5-133730-v1a-Final-1731372153.zip",
+      "mod_id": 133730,
+      "hash": "sha256-mNyvoZJUaT9vPfxF8GZb4GC1iiKRDgKLvtIJBsGAMXY="
+    },
+    "type": "primary"
+  },
+  "Janos Tran 3BA Bodyslide Preset - Weight 0.9-1.0": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "v1b-Final",
+      "file_id": 561400,
+      "file_name": "Janos Tran 3BA Bodyslide Preset - Weight 0.9-1.0-133730-v1b-Final-1731372187.zip",
+      "mod_id": 133730,
+      "hash": "sha256-eHfmgb5t7zlcU3I0DCpvCqaGCRciaSb+PBFW9k1xmGw="
+    },
+    "type": "primary"
+  }
+}

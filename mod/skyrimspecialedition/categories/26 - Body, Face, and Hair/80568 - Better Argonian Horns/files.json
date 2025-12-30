@@ -1,0 +1,83 @@
+{
+  "Better Argonian Horns - Kabu's Argonian Fins Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1",
+      "file_id": 373532,
+      "file_name": "Better Argonian Horns - Kabu's Argonian Fins Patch-80568-1-1-1680230080.7z",
+      "mod_id": 80568,
+      "hash": "sha256-B54WpgEsw+Izf3paKISrHkDUTX7vkMyaIweJKm9fknM="
+    }
+  },
+  "Better Argonian Horns - Hott Argonians Hairstyles": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "2.1.1",
+      "file_id": 397898,
+      "file_name": "Better Argonian Horns - Hott Argonians Hairstyles-80568-2-1-1-1686794049.7z",
+      "mod_id": 80568,
+      "hash": "sha256-ZWhet6J5vKS9Q2bw/7cKQCb4FFmXTmtIYB0OmE5iOd8="
+    }
+  },
+  "BAH - Kabu's Argonian Fins ESL-ifed Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "2.1.1",
+      "file_id": 413214,
+      "file_name": "BAH - Kabu's Argonian Fins ESL-ifed Patch-80568-2-1-1-1690926461.7z",
+      "mod_id": 80568,
+      "hash": "sha256-F2Ncczr7XXIqgYmHJ4gaUmnBtVNRx5XipftaJtBJ7jk="
+    }
+  },
+  "Better Argonian Horns": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "2.2",
+      "file_id": 566782,
+      "file_name": "Better Argonian Horns-80568-2-2-1732761486.7z",
+      "mod_id": 80568,
+      "hash": "sha256-PuSGQyvvaVmZeLkIQrsVEAU3FlNmIMmn0cFytTqG8AE="
+    },
+    "type": "primary"
+  },
+  "Better Argonian Horns - More Argonian Horns Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1",
+      "file_id": 566783,
+      "file_name": "Better Argonian Horns - More Argonian Horns Patch-80568-1-1-1732761543.7z",
+      "mod_id": 80568,
+      "hash": "sha256-nb5WrfChTydHWb86aoQJHpl76nR25JL/l1Obn+AVc2A="
+    }
+  },
+  "Better Argonian Horns for High Poly Heads": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "2.2.1",
+      "file_id": 566962,
+      "file_name": "Better Argonian Horns for High Poly Heads-80568-2-2-1-1732804468.7z",
+      "mod_id": 80568,
+      "hash": "sha256-pR0a5+/pYcbnDah9SfHKqcjXXUfO90dbfjnwyA2/iTE="
+    }
+  },
+  "WIP - BAH - BeastHHBB Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "2.3",
+      "file_id": 672593,
+      "file_name": "WIP - BAH - BeastHHBB Patch-80568-2-3-1759682670.7z",
+      "mod_id": 80568,
+      "hash": "sha256-KFOyedtpzhmLT9VcTY2Oq91oTse0zcq+Q8S98QnI1T8="
+    }
+  },
+  "BAH - EasyNPC Bug - Plugin Replacement": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "2.2",
+      "file_id": 681127,
+      "file_name": "BAH - EasyNPC Bug - Plugin Replacement-80568-2-2-1761603727.7z",
+      "mod_id": 80568,
+      "hash": "sha256-xyJIgQOlJmSQKUzdEgW0Qyu0QJhuqBP3N/KTSDsqzPg="
+    }
+  }
+}

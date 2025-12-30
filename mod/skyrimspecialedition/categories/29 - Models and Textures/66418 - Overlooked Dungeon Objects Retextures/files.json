@@ -1,0 +1,24 @@
+{
+  "Overlooked Dungeon Objects Retextures - 4K": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "2.0",
+      "file_id": 616357,
+      "file_name": "Overlooked Dungeon Objects Retextures - 4K-66418-2-0-1744455662.zip",
+      "mod_id": 66418,
+      "hash": "sha256-qqYkecY0GGptEJM83KOB3cq0TU73aDKjqBfo5chwpaA="
+    },
+    "type": "primary"
+  },
+  "Overlooked Dungeon Objects Retextures - 2K": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "2.0",
+      "file_id": 616360,
+      "file_name": "Overlooked Dungeon Objects Retextures - 2K-66418-2-0-1744455722.zip",
+      "mod_id": 66418,
+      "hash": "sha256-dsc8fqetm9nbhw2A0tC4eGY1LDouPzWGoPP2dZr1h6c="
+    },
+    "type": "primary"
+  }
+}

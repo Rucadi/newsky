@@ -1,0 +1,33 @@
+{
+  "Realistic Ragdolls and Force SE": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.92",
+      "file_id": 9861,
+      "file_name": "Realistic Ragdolls and Force SE-1439-1-92.zip",
+      "mod_id": 1439,
+      "hash": "sha256-cdfi/omibKdgwqBoeD3l5JXZOVL3qC/LEj08u7b4ig4="
+    },
+    "type": "primary"
+  },
+  "Increase Fall Damage": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.92",
+      "file_id": 9862,
+      "file_name": "Increase Fall Damage-1439-1-92.zip",
+      "mod_id": 1439,
+      "hash": "sha256-OsFBYFPtFhAmRvvsOKesk8mW3IZaat57V0mugOIGOUY="
+    }
+  },
+  "Increase Fall Damage (Player Only)": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1",
+      "file_id": 66944,
+      "file_name": "Increased Fall Damage Player Only-1439-1.zip",
+      "mod_id": 1439,
+      "hash": "sha256-Tck4aaYTx8zLuYJ7KzS0UKQHyRWB4FtcyyZ0/++dcSw="
+    }
+  }
+}

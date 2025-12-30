@@ -1,0 +1,46 @@
+{
+  "Ulene - Follower 3BA": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 551236,
+      "file_name": "Ulene - Follower 3BA-131167-1-0-1728694733.7z",
+      "mod_id": 131167,
+      "hash": "sha256-gqvDdF0US5XQZlkj3sLsqkIfafeIPgfTagyexaB7s3s="
+    },
+    "type": "primary"
+  },
+  "Ulene - Follower BHUNP": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 551237,
+      "file_name": "Ulene - Follower BHUNP-131167-1-0-1728694832.7z",
+      "mod_id": 131167,
+      "hash": "sha256-1DXbfdSe+i1jbGZRVMN+rI7OZ6ZJuEJSuj1/qSWikOY="
+    },
+    "type": "primary"
+  },
+  "Ulene - Follower Default": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 551238,
+      "file_name": "Ulene - Follower Default-131167-1-0-1728694888.7z",
+      "mod_id": 131167,
+      "hash": "sha256-k7Yn9/RdGSn9xV3Zz2iohGirbBM3kUnAjyrVR0/ypgg="
+    },
+    "type": "primary"
+  },
+  "Ulene - Racemenu Preset": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 551239,
+      "file_name": "Ulene - Racemenu Preset-131167-1-0-1728694947.7z",
+      "mod_id": 131167,
+      "hash": "sha256-fZ5QFED3FQm0eSKZfZAg7N4aF2LoknGEycYyDPDztqQ="
+    },
+    "type": "primary"
+  }
+}

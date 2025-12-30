@@ -1,0 +1,121 @@
+{
+  "Scarlett - The Great Cities Patches - MODULAR BUNDLE": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.00",
+      "file_id": 257584,
+      "file_name": "Scarlett - The Great Cities - ALL IN ONE-62145-1-00-1642470263.zip",
+      "mod_id": 62145,
+      "hash": "sha256-Zx7zB+aIUhp5vjdSoaeUiFefwitFEfdmsaadzxEbM/w="
+    }
+  },
+  "Scarlett - GC Dawnstar patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.00",
+      "file_id": 257585,
+      "file_name": "Scarlett - GC Dawnstar patch-62145-1-00-1642470325.zip",
+      "mod_id": 62145,
+      "hash": "sha256-jBeL7RIvVqZRB66smjgxYLq18APxCAiMDBedUoeYCxg="
+    },
+    "type": "primary"
+  },
+  "Scarlett - GT Ivarstead patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.00",
+      "file_id": 257586,
+      "file_name": "Scarlett - GT Ivarstead patch-62145-1-00-1642470511.zip",
+      "mod_id": 62145,
+      "hash": "sha256-+5/aO/IiFu6IdSgW9ZoRJAZJV2DEb5Lh0m73j1c0l4s="
+    },
+    "type": "primary"
+  },
+  "Scarlett - GC Morthal patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.00",
+      "file_id": 257587,
+      "file_name": "Scarlett - GC Morthal patch-62145-1-00-1642470555.zip",
+      "mod_id": 62145,
+      "hash": "sha256-/PvgCnO7haAjSXJWwv2AZx52CY7eaiCfAl0lhfwpLEQ="
+    },
+    "type": "primary"
+  },
+  "Scarlett - GC Solitude patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.00",
+      "file_id": 257588,
+      "file_name": "Scarlett - GC Solitude patch-62145-1-00-1642470622.zip",
+      "mod_id": 62145,
+      "hash": "sha256-Tz/U2nlekL+Xx6gAHRdpGUgakW3X5gHetz/WzrmilZw="
+    },
+    "type": "primary"
+  },
+  "Scarlett - Jk's Riverwood STANDALONE patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.00",
+      "file_id": 257590,
+      "file_name": "Scarlett - Jk's Riverwood STANDALONE patch-62145-1-00-1642470718.zip",
+      "mod_id": 62145,
+      "hash": "sha256-5RVU4kRCP0PtXvxzDYN7ROsVzYDMH47FqfRJeoNtujI="
+    },
+    "type": "primary"
+  },
+  "Scarlett - Jk's Skyrim patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.00",
+      "file_id": 257591,
+      "file_name": "Scarlett - Jk's Skyrim patch-62145-1-00-1642471001.zip",
+      "mod_id": 62145,
+      "hash": "sha256-2lY7lkjrNhcm3NuBtGnZMOJfzJfqBLFwyU5VbUZIvsQ="
+    },
+    "type": "primary"
+  },
+  "Scarlett - Morthal Overhaul II patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.00",
+      "file_id": 257592,
+      "file_name": "Scarlett - Morthal Overhaul II patch-62145-1-00-1642471043.zip",
+      "mod_id": 62145,
+      "hash": "sha256-53OZ7sjOmrXSLHwNfVhLk0RBUfcFInHrIVPCWKvo6Fk="
+    },
+    "type": "primary"
+  },
+  "Scarlett - Quaint Raven Rock patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.00",
+      "file_id": 257593,
+      "file_name": "Scarlett - Quaint Raven Rock patch-62145-1-00-1642471138.zip",
+      "mod_id": 62145,
+      "hash": "sha256-B2blDfduyGwIidtKGyMlKxkA4D22AIJPao2skwBHbc8="
+    },
+    "type": "primary"
+  },
+  "Icerunner - Alternate Location Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "0.01",
+      "file_id": 257762,
+      "file_name": "Icerunner - Alternate Location Patch (WIP)-62145-0-01-1642541733.zip",
+      "mod_id": 62145,
+      "hash": "sha256-VrSlyGTnAlse299JiFe01Lp6vUix1o7U32OfhOemXg4="
+    }
+  },
+  "Scarlett - GC Minor Cities and Towns patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.01",
+      "file_id": 258091,
+      "file_name": "Scarlett - GC Minor Cities and Towns patch-62145-1-01-1642701466.zip",
+      "mod_id": 62145,
+      "hash": "sha256-Dpk2l9SVHiwVXWxnhUUm+0T/pmeE6MUsNpBFzcc6A3g="
+    },
+    "type": "primary"
+  }
+}

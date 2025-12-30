@@ -1,0 +1,23 @@
+{
+  "Open Faced Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1",
+      "file_id": 592949,
+      "file_name": "Open Faced Patch-139546-1-1-1739155586.rar",
+      "mod_id": 139546,
+      "hash": "sha256-1RU8QOjeRIlD1hh+RpIrtnIyIDPNZBecZnR6x1OTP+4="
+    }
+  },
+  "Redoran Tombwarden Armor": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.4",
+      "file_id": 672644,
+      "file_name": "Redoran Tombwarden Armor-139546-1-4-1759698533.rar",
+      "mod_id": 139546,
+      "hash": "sha256-zcPJ/7y8vXb5FeRO3BukEKoVsmvBgr0ObtlT/6t24RA="
+    },
+    "type": "primary"
+  }
+}

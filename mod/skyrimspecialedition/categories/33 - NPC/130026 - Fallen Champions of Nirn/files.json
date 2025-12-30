@@ -1,0 +1,103 @@
+{
+  "Fallen Champions of Nirn - No HIMBO Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 547285,
+      "file_name": "Fallen Champions of Nirn - No HIMBO Patch-130026-1-0-1727582503.rar",
+      "mod_id": 130026,
+      "hash": "sha256-jFTjm5Z4iiHbQIB1O7w1JozWTO8TPu8FIdkm3aV6sUg="
+    }
+  },
+  "Fallen Champions of Nirn - Dwemer Outfit SkyPatch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 547286,
+      "file_name": "Fallen Champions of Nirn - Dwemer Outfit SkyPatche-130026-1-0-1727582775.rar",
+      "mod_id": 130026,
+      "hash": "sha256-6wZvrCY+bCoXWivwvsyYceXjvswX6bObWB0kiL7efx4="
+    }
+  },
+  "Fallen Champions of Nirn - Rihad Swordman SkyPatch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 547287,
+      "file_name": "Fallen Champions of Nirn - Rihad Swordman SkyPatch-130026-1-0-1727582926.rar",
+      "mod_id": 130026,
+      "hash": "sha256-UT1VinDzOgx19Lhw4P2y0ytO/ltEURvt7W5UraFdNeo="
+    }
+  },
+  "Fallen Champions of Nirn - Winged Hussar SkyPatch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 547288,
+      "file_name": "Fallen Champions of Nirn - Winged Hussar SkyPatch-130026-1-0-1727583175.rar",
+      "mod_id": 130026,
+      "hash": "sha256-9QZ7LIVW3iV1eNpGudmzGnfwjqAB1eTLGL9UHSUsR6g="
+    }
+  },
+  "Fallen Champions of Nirn - Pig Iron Set SkyPatched": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 547290,
+      "file_name": "Fallen Champions of Nirn - Pig Iron Set SkyPatched-130026-1-0-1727583290.rar",
+      "mod_id": 130026,
+      "hash": "sha256-9GmfrgBSdzfnas15yoFqw7joZJXfYYp5yM/bQTXhfnI="
+    }
+  },
+  "Fallen Champions of Nirn - Moon Monk SkyPatched": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 547292,
+      "file_name": "Fallen Champions of Nirn - Moon Monk SkyPatched-130026-1-0-1727583477.rar",
+      "mod_id": 130026,
+      "hash": "sha256-TUeU9HBzOzgH/dMs9QVyKJgSj6JpYciIHVY1zEeuN5k="
+    }
+  },
+  "Fallen Champions of Nirn - Gryphonknight SkyPatch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 547619,
+      "file_name": "Fallen Champions of Nirn - Gryphonknight SkyPatch-130026-1-0-1727665133.rar",
+      "mod_id": 130026,
+      "hash": "sha256-799qclsdMA6Y71Z/M/30bGJT5ww8oq09+weSYtTf3AE="
+    }
+  },
+  "Fallen Champions of Nirn - MAIN File": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.2",
+      "file_id": 547860,
+      "file_name": "Fallen Champions of Nirn - MAIN File-130026-1-2-1727733707.rar",
+      "mod_id": 130026,
+      "hash": "sha256-i0iD7NzGZKz+Md1eHlx8CGGXHhPowZ5PidCVvt6WMw0="
+    },
+    "type": "primary"
+  },
+  "Fallen Champions of Nirn - Handplaced NPCs": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.2",
+      "file_id": 547862,
+      "file_name": "Fallen Champions of Nirn - Handplaced NPCs-130026-1-2-1727733780.rar",
+      "mod_id": 130026,
+      "hash": "sha256-hu3Do/UNkJN3Q2oi0k7qLoD9O2noDrRKHXbP441XiZY="
+    }
+  },
+  "Fallen Champions of Nirn - Increased Spawn Chance": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.3",
+      "file_id": 548350,
+      "file_name": "Fallen Champions of Nirn - Increased Spawn Chance-130026-1-3-1727881410.rar",
+      "mod_id": 130026,
+      "hash": "sha256-8AE48+vNhCTDC2vnLrr7VRAXB1QsyfyoYyrDadzUpoU="
+    }
+  }
+}

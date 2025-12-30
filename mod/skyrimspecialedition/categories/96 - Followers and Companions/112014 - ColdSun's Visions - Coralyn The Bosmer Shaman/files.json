@@ -1,0 +1,34 @@
+{
+  "ColdSun's Visions - Coralyn - Standard ESP": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 472353,
+      "file_name": "ColdSun's Visions - Coralyn - Standard ESP-112014-1-0-1708298615.7z",
+      "mod_id": 112014,
+      "hash": "sha256-Xk7dBC+jXACmAiK3jKfYnapo/LEhtkR5PnUtsEfot5U="
+    },
+    "type": "primary"
+  },
+  "ColdSun's Visions - Coralyn - ESPFE": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 472355,
+      "file_name": "ColdSun's Visions - Coralyn - ESPFE-112014-1-0-1708298689.7z",
+      "mod_id": 112014,
+      "hash": "sha256-+J8dYNQ8FCRT26kX+/yM6ejbS2pgeqFRUl/0nnF0ZgU="
+    },
+    "type": "primary"
+  },
+  "Coralyn - OPrivacy Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 472362,
+      "file_name": "Coralyn - OPrivacy Patch-112014-1-0-1708299819.zip",
+      "mod_id": 112014,
+      "hash": "sha256-GuI/W/z0dqo2Uizno/1H8NNCHKdK4nT6HENmcaqPr/U="
+    }
+  }
+}

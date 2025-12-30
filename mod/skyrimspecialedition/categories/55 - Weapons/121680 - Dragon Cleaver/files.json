@@ -1,0 +1,43 @@
+{
+  "Dragon Cleaver 4k": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 510714,
+      "file_name": "Dragon Cleaver 4k-121680-1-0-1718136803.7z",
+      "mod_id": 121680,
+      "hash": "sha256-DY3ly2m/JhHG2xgDJT0zufxnVF+F6laNStoCzjb2QwA="
+    }
+  },
+  "Dragon Cleaver": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1",
+      "file_id": 510930,
+      "file_name": "Dragon Cleaver-121680-1-1-1718208297.7z",
+      "mod_id": 121680,
+      "hash": "sha256-xXJOx7JABL4itTSPqaHUbrNk10K9vXNrgUleS2hodkk="
+    },
+    "type": "primary"
+  },
+  "Dragon Cleaver PBR 2k": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1",
+      "file_id": 607751,
+      "file_name": "Dragon Cleaver PBR 2k-121680-1-1-1742501885.7z",
+      "mod_id": 121680,
+      "hash": "sha256-ief0y2dLHhwaIN0puKvfU7c9lijCXnK5RFcw/jnnsyQ="
+    }
+  },
+  "Dragon Cleaver PBR 4k": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1",
+      "file_id": 607752,
+      "file_name": "Dragon Cleaver PBR 4k-121680-1-1-1742501917.7z",
+      "mod_id": 121680,
+      "hash": "sha256-lOT9TlIxobRN8Xtv2TVKWPlKhVG7kgjI9QEWXdJOFLI="
+    }
+  }
+}

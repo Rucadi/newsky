@@ -1,0 +1,53 @@
+{
+  "SG Eyebrows Only": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1",
+      "file_id": 30130,
+      "file_name": "SG Eyebrows Only-1699-4-0.rar",
+      "mod_id": 1699,
+      "hash": "sha256-3voZxerS9Yl3tFWniOlWj+fSD8eID+Yg++seryffAis="
+    }
+  },
+  "ECE Female Head": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1",
+      "file_id": 30898,
+      "file_name": "ECE Female Head-1699-4-1.rar",
+      "mod_id": 1699,
+      "hash": "sha256-zEsECoboxh1bTrtA37Eybn/X/J3knVo/ozcbWnSGv9g="
+    }
+  },
+  "UNP Female Body Renewal 4.6": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "4.6",
+      "file_id": 66923,
+      "file_name": "UNP Female Body Renewal 4.6-1699-4-6.7z",
+      "mod_id": 1699,
+      "hash": "sha256-pGuO1ykcHih4xCF+BzByTr8hUpKMp2WM4D5f4KYobDU="
+    },
+    "type": "primary"
+  },
+  "SG Textures Renewal 4.6": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "4.6",
+      "file_id": 66924,
+      "file_name": "SG Textures Renewal 4.6-1699-4-6.7z",
+      "mod_id": 1699,
+      "hash": "sha256-XMUllybMFYAqCBfZZ0VoV3VH1C3/2zMpCBS2Bo+K9J8="
+    }
+  },
+  "UNP Female Body Meshes Only 4.6": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "4.6",
+      "file_id": 66925,
+      "file_name": "UNP Female Body Meshes Only 4.6-1699-4-6.7z",
+      "mod_id": 1699,
+      "hash": "sha256-Cuvkimp6SMNgZb/yrzXTp69ENVlvyTMzhfT2/wsJ/3Q="
+    }
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "Animation Motion Fix": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "v1.14",
+      "file_id": 607662,
+      "file_name": "Animation Motion Fix-145100-v1-14-1742484206.7z",
+      "mod_id": 145100,
+      "hash": "sha256-svxU+DxVngYbWgfC43hplG3RhvHs9Cmu8XpsnEGGzmM="
+    },
+    "type": "primary"
+  },
+  "Animation Motion Fix - Experimental": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "v1.15",
+      "file_id": 624262,
+      "file_name": "Animation Motion Fix-145100-v1-15-1746531042.7z",
+      "mod_id": 145100,
+      "hash": "sha256-Vu/0p3XVcsoVXdgeWnWf/nuybn9RYz+NrCYMidlL6ek="
+    },
+    "type": "primary"
+  }
+}

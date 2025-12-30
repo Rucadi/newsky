@@ -1,0 +1,44 @@
+{
+  "RUSTIC DAEDRA SSE - 2K": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "2.0",
+      "file_id": 63264,
+      "file_name": "RUSTIC DAEDRA SSE - 2K-19272-2-0.7z",
+      "mod_id": 19272,
+      "hash": "sha256-b9cXBAXfMxCG+qWBcSKkQhJG8kYqmmIS9TZO0S7XHCg="
+    },
+    "type": "primary"
+  },
+  "RUSTIC DAEDRA SSE - 4K": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "2.0",
+      "file_id": 63265,
+      "file_name": "RUSTIC DAEDRA SSE - 4K-19272-2-0.7z",
+      "mod_id": 19272,
+      "hash": "sha256-IUp7IF7BoVCTJ3QIw3wReP17bqJooK5fcZMez30iz58="
+    },
+    "type": "primary"
+  },
+  "RUSTIC DAEDRA SSE - VANILLA - 2K": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "2.0",
+      "file_id": 63266,
+      "file_name": "RUSTIC DAEDRA SSE - VANILLA - 2K-19272-2-0.7z",
+      "mod_id": 19272,
+      "hash": "sha256-3FUApMxdU1gWxOwVzFtSUmKeb4qbnuSWu/+k8Iv+oxw="
+    }
+  },
+  "RUSTIC DAEDRA SSE - VANILLA - 4K": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "2.0",
+      "file_id": 63268,
+      "file_name": "RUSTIC DAEDRA SSE - VANILLA - 4K-19272-2-0.7z",
+      "mod_id": 19272,
+      "hash": "sha256-Aqm8+zA2zt8Gc2qQSJt1YJIHZOoIF+0IQF7iwGdOVpo="
+    }
+  }
+}

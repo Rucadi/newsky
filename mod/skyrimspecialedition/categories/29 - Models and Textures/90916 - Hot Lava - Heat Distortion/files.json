@@ -1,0 +1,44 @@
+{
+  "Hot Lava - Heat Distortion - ENB Light": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0.1",
+      "file_id": 386074,
+      "file_name": "Hot Lava - Heat Distortion - ENB Light-90916-1-0-1-1683571140.7z",
+      "mod_id": 90916,
+      "hash": "sha256-cXiLSYvttlW5LBiA4ukNWn6GKZOdjJnmmdhpL/Za/Bw="
+    }
+  },
+  "Hot Lava - Heat Distortion - PraedyXVI - ENB Light": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0.1",
+      "file_id": 386075,
+      "file_name": "Hot Lava - Heat Distortion - PraedyXVI - ENB Light-90916-1-0-1-1683571169.7z",
+      "mod_id": 90916,
+      "hash": "sha256-EpL4MJ9xS15hViHpKudY4C6NeYEtVqGfTI6a1ifd0mI="
+    }
+  },
+  "Hot Lava - Heat Distortion": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0.2.1",
+      "file_id": 387396,
+      "file_name": "Hot Lava - Heat Distortion-90916-1-0-2-1-1683915993.7z",
+      "mod_id": 90916,
+      "hash": "sha256-IhhoqYkIYKrVGNTgHx3s59p1vmpMZDxjZR8MzRBnH4g="
+    },
+    "type": "primary"
+  },
+  "Hot Lava - Heat Distortion - PraedythXVI": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0.2.1",
+      "file_id": 387397,
+      "file_name": "Hot Lava - Heat Distortion - PraedythXVI-90916-1-0-2-1-1683916025.7z",
+      "mod_id": 90916,
+      "hash": "sha256-lJBldWMg3ZnhpaxuApQZUB0HP+4+EAawmbS0bvQVLIc="
+    },
+    "type": "primary"
+  }
+}

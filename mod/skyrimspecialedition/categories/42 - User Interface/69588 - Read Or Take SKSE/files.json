@@ -1,0 +1,13 @@
+{
+  "Read or Take SKSE": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.4.0",
+      "file_id": 503000,
+      "file_name": "Read or Take SKSE-69588-1-4-0-1716187218.7z",
+      "mod_id": 69588,
+      "hash": "sha256-vefGleoOpvindHN2Nuepwi04RKiRDlMxV0MkZDDpk6E="
+    },
+    "type": "primary"
+  }
+}

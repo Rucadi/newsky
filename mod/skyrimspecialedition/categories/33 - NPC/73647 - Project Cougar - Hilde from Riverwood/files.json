@@ -1,0 +1,24 @@
+{
+  "Project Cougar - Hilde": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 308722,
+      "file_name": "Project Cougar - Hilde-73647-1-0-1660936037.7z",
+      "mod_id": 73647,
+      "hash": "sha256-1Wq3BTrj69wkylmqIXVLuK5H036d67LjF7sDGeQjbo0="
+    },
+    "type": "primary"
+  },
+  "(Updated Version) Project Cougar - Hilde": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "2.0",
+      "file_id": 353504,
+      "file_name": "(Updated Version) Project Cougar - Hilde-73647-2-0-1674825660.7z",
+      "mod_id": 73647,
+      "hash": "sha256-BP3eSFjbqnOKlmU55/IjZCnvTu1JUkVeyIDI6KZfLgQ="
+    },
+    "type": "primary"
+  }
+}

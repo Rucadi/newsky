@@ -1,0 +1,43 @@
+{
+  "Exiled Jarls Don't Require Favors Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0.2",
+      "file_id": 540528,
+      "file_name": "Exiled Jarls Don't Require Favors Patch-121606-1-0-2-1725915993.zip",
+      "mod_id": 121606,
+      "hash": "sha256-jYCdyQZe9tTG4ji7BOG2l3mn9yKx4MU++kjyFHcys4c="
+    }
+  },
+  "Swap Winterhold Jarls": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0.4",
+      "file_id": 611396,
+      "file_name": "Swap Winterhold Jarls-121606-1-0-4-1743276949.zip",
+      "mod_id": 121606,
+      "hash": "sha256-NIKK21NU1fas5Ip6YQNp5x1tLZfiFlnh+KBuSm31D1s="
+    },
+    "type": "primary"
+  },
+  "Swap Winterhold Jarls - USSEP Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0.4",
+      "file_id": 611397,
+      "file_name": "Swap Winterhold Jarls - USSEP Patch-121606-1-0-4-1743276977.zip",
+      "mod_id": 121606,
+      "hash": "sha256-YqOPVknfGQPb67wUQ+eEUyRpEQBqyuQrX6aSYvYrpu8="
+    }
+  },
+  "Swap Winterhold Jarls - AI Overhaul Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0.4",
+      "file_id": 654504,
+      "file_name": "Swap Winterhold Jarls - AI Overhaul Patch-121606-1-0-4-1754846439.zip",
+      "mod_id": 121606,
+      "hash": "sha256-L/gwxNopBTZMMJJVCFMIE0Zr2t8+cGzcpv+ihK4eVS8="
+    }
+  }
+}

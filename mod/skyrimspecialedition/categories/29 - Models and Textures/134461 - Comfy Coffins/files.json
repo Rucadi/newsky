@@ -1,0 +1,66 @@
+{
+  "Comfy Coffins - Vampire Coffins": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 564420,
+      "file_name": "Comfy Coffins - Vampire Coffins-134461-1-0-1732148666.rar",
+      "mod_id": 134461,
+      "hash": "sha256-agv7IG1KAfsckJNZiY3CmoqnzekJKyXsdaM2zKOeCaE="
+    },
+    "type": "primary"
+  },
+  "Comfy Coffins - Solitude Coffins": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0.4",
+      "file_id": 581091,
+      "file_name": "Comfy Coffins - Solitude Coffins-134461-1-0-4-1736401562.rar",
+      "mod_id": 134461,
+      "hash": "sha256-fHZnSn2hqBtvgY6aVhaebENDE5eNh4fV4zXqcPMDiE8="
+    },
+    "type": "primary"
+  },
+  "Animated patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0.2",
+      "file_id": 581676,
+      "file_name": "Animated patch-134461-1-0-2-1736537133.rar",
+      "mod_id": 134461,
+      "hash": "sha256-iQ1lZezVpRTMlBdJzBgVLw2q+p3PVzQOOjrUMMwZItY="
+    }
+  },
+  "Animated patch - Skeleton Replacer HD": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 581697,
+      "file_name": "Animated patch - Skeleton Replacer HD-134461-1-0-1736539636.rar",
+      "mod_id": 134461,
+      "hash": "sha256-eHrGFukmdVtcWQajVkd0rhRelhFxnO4RghEMfsYPag4="
+    }
+  },
+  "Comfy Coffins - Common Coffins": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0.3",
+      "file_id": 582604,
+      "file_name": "Comfy Coffins - Common Coffins-134461-1-0-3-1736711192.rar",
+      "mod_id": 134461,
+      "hash": "sha256-IZfX3IYZ6cFpo1CDllOkLIbM/LuIBc8DSfu9y2A+s+8="
+    },
+    "type": "primary"
+  },
+  "Comfy Coffins - AIO": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0.7",
+      "file_id": 582605,
+      "file_name": "Comfy Coffins - AIO-134461-1-0-7-1736711292.rar",
+      "mod_id": 134461,
+      "hash": "sha256-HhcI76dDzzWFNyx/wbOxHxTafMBuxPwwOl2zSJzmTak="
+    },
+    "type": "primary"
+  }
+}

@@ -1,0 +1,45 @@
+{
+    "The Companions": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "2.0",
+            "file_id": 635051,
+            "file_name": "The Companions-76960-2-0-1749171894.zip",
+            "mod_id": 76960,
+            "hash": "sha256-4wuTLPcy6f5QKX5ubmd2rRMpKOeJAwWYlSQE50ZzWc8="
+        },
+        "type": "primary"
+    },
+    "The Nightingales": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "2.0",
+            "file_id": 635053,
+            "file_name": "The Nightingales-76960-2-0-1749171926.zip",
+            "mod_id": 76960,
+            "hash": "sha256-rl+KtK8895VkP2SwhPpGXGKHAVJatLB2cnHYvr/03fs="
+        },
+        "type": "primary"
+    },
+    "The Mercenary": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "2.0",
+            "file_id": 635054,
+            "file_name": "The Mercenary-76960-2-0-1749171958.zip",
+            "mod_id": 76960,
+            "hash": "sha256-JMrdXmXUfj5K/H3EyLYjNc5VTD5UMSnxnVd33pSwCD8="
+        },
+        "type": "primary"
+    },
+    "Warrior Women": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "B.1.0",
+            "file_id": 635055,
+            "file_name": "Warrior Women-76960-B-1-0-1749172135.zip",
+            "mod_id": 76960,
+            "hash": "sha256-3mEvY5lGnkxOH5mn9OnXWd05Zcng7TqAoq2VgylzlRg="
+        }
+    }
+}

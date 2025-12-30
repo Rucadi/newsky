@@ -1,0 +1,142 @@
+{
+  "At Your Own Pace - Misc": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1.0MS",
+      "file_id": 232244,
+      "file_name": "At Your Own Pace - Misc-52704-1-1-0-1633233207.zip",
+      "mod_id": 52704,
+      "hash": "sha256-31x7QOgaHK6n1xrxPw1G99w6pUYANBta1uiSw1/MqrU="
+    },
+    "type": "primary"
+  },
+  "At Your Own Pace - Dark Brotherhood": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1.1DB",
+      "file_id": 246952,
+      "file_name": "At Your Own Pace - Dark Brotherhood-52704-1-1-1DB-1638762189.zip",
+      "mod_id": 52704,
+      "hash": "sha256-3+9JSxi9XpchpQioYUEXY9zD5O045F5cfuveDxZKHHM="
+    },
+    "type": "primary"
+  },
+  "At Your Own Pace - Dragonborn": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0.1ST",
+      "file_id": 309285,
+      "file_name": "At Your Own Pace - Dragonborn-52704-1-0-1DB-1661116882.zip",
+      "mod_id": 52704,
+      "hash": "sha256-GhMNT37gErmVrN9SIYx4IyMAMNbN8DK9LLnj3yCIOno="
+    },
+    "type": "primary"
+  },
+  "At You Own Pace - A Blade in the Dark Fix": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0.0",
+      "file_id": 363809,
+      "file_name": "At You Own Pace - A Blade in the Dark Fix-52704-1-0-0-1677478516.zip",
+      "mod_id": 52704,
+      "hash": "sha256-+LuqWZamwattkD9ZHrpmj0BsnCzd7tRp3VerzLVByrk="
+    }
+  },
+  "At Your Own Pace - Skyrim Unbound": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1.0SU",
+      "file_id": 364079,
+      "file_name": "At Your Own Pace - Skyrim Unbound-52704-1-1-0SU-1677555684.zip",
+      "mod_id": 52704,
+      "hash": "sha256-pYNF1Kj6709iQOOojyAv3GiK53KpQo25lEsOIOCUYrM="
+    },
+    "type": "primary"
+  },
+  "At Your Own Pace - Main Quest": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "2.1.0",
+      "file_id": 364095,
+      "file_name": "At Your Own Pace - Main Quest-52704-2-1-0-1677557354.zip",
+      "mod_id": 52704,
+      "hash": "sha256-In0GbitrfRpe6TVpU/Z4px0NF+QwxAkbtkWKCGDuSfw="
+    },
+    "type": "primary"
+  },
+  "At Your Own Pace - Inigo Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0.0IG",
+      "file_id": 368236,
+      "file_name": "At Your Own Pace - Inigo Patch-52704-1-0-0IG-1678729810.zip",
+      "mod_id": 52704,
+      "hash": "sha256-Q4P1ckZf4dVIXIhhTcqd+JSt84c+bjfgDOrRwZCvrAU="
+    }
+  },
+  "At Your Own Pace - College Quest Expansion Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0.0CQ",
+      "file_id": 368686,
+      "file_name": "At Your Own Pace - College Quest Expansion Patch-52704-1-0-0CQ-1678856285.zip",
+      "mod_id": 52704,
+      "hash": "sha256-ab9gERRxfDugC2Wu6FAR+pbycYRLzULXv7FED9O3eOg="
+    }
+  },
+  "At Your Own Pace - Thieves Guild": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "2.1.1TG",
+      "file_id": 382341,
+      "file_name": "At Your Own Pace - Thieves Guild-52704-2-1-1TG-1682573468.zip",
+      "mod_id": 52704,
+      "hash": "sha256-ZrGwGHMtKvDLx6qcduzt9xMB6lDMXALybyHBJW8gmaI="
+    },
+    "type": "primary"
+  },
+  "At Your Own Pace - College of Winterhold": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "2.1.0MG",
+      "file_id": 389486,
+      "file_name": "At Your Own Pace - College of Winterhold-52704-2-1-0MG-1684436813.zip",
+      "mod_id": 52704,
+      "hash": "sha256-lVPVtkEqXdoGhpyAoTgMU7X8V/Y56j8FXREGVTE3Fww="
+    },
+    "type": "primary"
+  },
+  "At Your Own Pace - Companions": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "3.0.4CP",
+      "file_id": 446173,
+      "file_name": "At Your Own Pace - Companions-52704-3-0-4CP-1700976265.zip",
+      "mod_id": 52704,
+      "hash": "sha256-YXSbPT5PARJxS5rP1rhAnoJ5FGZ7GVZFFWqPZk589K4="
+    },
+    "type": "primary"
+  },
+  "At Your Own Pace - Dawnguard": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0.1DG",
+      "file_id": 446174,
+      "file_name": "At Your Own Pace - Dawnguard-52704-1-0-1DG-1700976366.zip",
+      "mod_id": 52704,
+      "hash": "sha256-hT6wYoYjHDAx2i9CEkiUzBWOiwarkc0RDnbHlMHrPGI="
+    },
+    "type": "primary"
+  },
+  "At Your Own Pace - Thane Overhaul": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0.4TO",
+      "file_id": 462945,
+      "file_name": "At Your Own Pace - Thane Overhaul-52704-1-0-4TO-1705690074.zip",
+      "mod_id": 52704,
+      "hash": "sha256-6/c/Ce4QnlTiz1erObm+ylsuuikNM8ZnanSAUvseqPE="
+    },
+    "type": "primary"
+  }
+}

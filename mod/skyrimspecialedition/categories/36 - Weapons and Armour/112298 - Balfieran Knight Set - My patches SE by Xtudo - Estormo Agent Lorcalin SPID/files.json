@@ -1,0 +1,54 @@
+{
+  "Balfieran Knight Set - SE by Xtudo - 1K textures": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1",
+      "file_id": 473496,
+      "file_name": "Balfieran Knight Set - SE by Xtudo - 1K textures-112298-1-1708609726.7z",
+      "mod_id": 112298,
+      "hash": "sha256-LZGZZJnmS50GvdI905qvFhnaW8EsO7E/8ISFuK7Gl9s="
+    }
+  },
+  "Balfieran Knight Set - SE by Xtudo - Estormo SPID": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.2",
+      "file_id": 476884,
+      "file_name": "Balfieran Knight Set - SE by Xtudo - Estormo SPID-112298-1-2-1709553221.7z",
+      "mod_id": 112298,
+      "hash": "sha256-yOIynumT+RXit4C1SbYt3MoAJxnfG5sD4r0MLo6CvDA="
+    }
+  },
+  "Balfieran Knight Set - SE by Xtudo - Lorcalin SPID": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.2",
+      "file_id": 476885,
+      "file_name": "Balfieran Knight Set - SE by Xtudo - Lorcalin SPID-112298-1-2-1709553295.7z",
+      "mod_id": 112298,
+      "hash": "sha256-lzQhgXsEfwwrvftyoTPV7yhAFKUEpwftZK0RKj4SELg="
+    }
+  },
+  "Balfieran Knight Set - SE by Xtudo - Fixes": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.3",
+      "file_id": 510053,
+      "file_name": "Balfieran Knight Set - SE by Xtudo - Fixes-112298-1-3-1717966780.7z",
+      "mod_id": 112298,
+      "hash": "sha256-cHmYDHQ2SJKU66raV1b7Q9rCrJ0U0eo/CG+1SdddAeo="
+    },
+    "type": "primary"
+  },
+  "Balfieran Knight Set - SE by Xtudo - Fixes Non-HDT": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.3",
+      "file_id": 510054,
+      "file_name": "Balfieran Knight Set - SE by Xtudo - Fixes Non-HDT-112298-1-3-1717966801.7z",
+      "mod_id": 112298,
+      "hash": "sha256-RZG7NIJURhM5bU2y0c7MDyvof5RSD6HGQgb0ali4mqc="
+    },
+    "type": "primary"
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "Celtic Music In Skyrim SE": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "2.1",
+      "file_id": 4606,
+      "file_name": "Celtic Music In Skyrim SE-2980-2-1.rar",
+      "mod_id": 2980,
+      "hash": "sha256-c02dp9R5QN6wsVQeZxbCgg6dasog+EvIkUwZu2EKhWU="
+    },
+    "type": "primary"
+  },
+  "Celtic Music In Skyrim SE - Combat": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 4607,
+      "file_name": "Celtic Music In Skyrim SE - Combat-2980-1-0.rar",
+      "mod_id": 2980,
+      "hash": "sha256-MFtyRWce1XGUZIEscjAu7BhklXLnEwj3/P7+TNfTck0="
+    }
+  },
+  "Celtic Music In Skyrim SE - Dungeon": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "",
+      "file_id": 4612,
+      "file_name": "Celtic Music In Skyrim SE - Dungeon-2980-.rar",
+      "mod_id": 2980,
+      "hash": "sha256-zsn33yGWOEP/1tcMchjL8yPFfGpiIgXD3JOlG/gAQ10="
+    }
+  },
+  "Readme": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "2.1",
+      "file_id": 4619,
+      "file_name": "Readme-2980-2-1.rar",
+      "mod_id": 2980,
+      "hash": "sha256-OnufKOjxTt7rYxhv1/9H85Ft3q8I3LYUcnyQONJQCDI="
+    },
+    "type": "primary"
+  }
+}

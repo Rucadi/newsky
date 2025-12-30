@@ -1,0 +1,23 @@
+{
+  "Falmer Blood Elixir": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 22565,
+      "file_name": "Falmer Blood Elixir-8949-1-0.rar",
+      "mod_id": 8949,
+      "hash": "sha256-NN81/ybcEUkvShpd1lCJCXhonMdzSEWQ7ld1EPt7dj8="
+    },
+    "type": "primary"
+  },
+  "Optional 2k Textures": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 22566,
+      "file_name": "Optional 2k Textures-8949-1-0.rar",
+      "mod_id": 8949,
+      "hash": "sha256-7NxWgDBo3OMVlKhnhtJI54Zhj4BZ1nQmfKdP2+QrYNU="
+    }
+  }
+}

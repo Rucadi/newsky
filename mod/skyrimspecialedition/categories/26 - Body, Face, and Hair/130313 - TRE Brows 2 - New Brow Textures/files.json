@@ -1,0 +1,24 @@
+{
+  "TRE Brows 2 - New Brow Textures 2K": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0.0",
+      "file_id": 547613,
+      "file_name": "TRE Brows 2 - New Brow Textures 2K-130313-1-0-0-1727661864.zip",
+      "mod_id": 130313,
+      "hash": "sha256-JdyQtBlJsfTYtbULrsJ7tshBHdezzIFOqrYz0On/0yU="
+    },
+    "type": "primary"
+  },
+  "TRE Brows 2 - New Brow Textures 1K": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0.0",
+      "file_id": 547614,
+      "file_name": "TRE Brows 2 - New Brow Textures 1K-130313-1-0-0-1727662642.zip",
+      "mod_id": 130313,
+      "hash": "sha256-0Q0NKAbu/asZEovgauabIUy98Ht5b09RU8C9PQqSJlY="
+    },
+    "type": "primary"
+  }
+}

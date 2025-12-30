@@ -1,0 +1,23 @@
+{
+  "Underdog Animations Index": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "3.0",
+      "file_id": 692918,
+      "file_name": "Underdog Animations Index-51811-3-0-1764511856.rar",
+      "mod_id": 51811,
+      "hash": "sha256-M91JeMVR/FCPMdzRGSiDBuglDj5bT0wBeR2KPH92wLA="
+    }
+  },
+  "UNDERDOG - Animations - OAR": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "3.0.1",
+      "file_id": 693465,
+      "file_name": "UNDERDOG - Animations - OAR-51811-3-0-1-1764630253.rar",
+      "mod_id": 51811,
+      "hash": "sha256-YsAEpsYVZMfAu97KHa0/CU5mQ8MWi48KxhqU20F2/b0="
+    },
+    "type": "primary"
+  }
+}

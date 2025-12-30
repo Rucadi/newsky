@@ -1,0 +1,66 @@
+{
+  "Gold Retexture": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1",
+      "file_id": 599380,
+      "file_name": "Gold Retexture-142665-1-1740590696.7z",
+      "mod_id": 142665,
+      "hash": "sha256-Us+tUXgth5wxAsRy4eS8XjHAIG754ndSZpc6k1Ukfy4="
+    }
+  },
+  "Silver Retexture": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1",
+      "file_id": 599381,
+      "file_name": "Silver Retexture-142665-1-1740590717.7z",
+      "mod_id": 142665,
+      "hash": "sha256-4ybVpZOSUgLmdYkqE/6vHn2T8JfrXRladh5KyMTlvPY="
+    }
+  },
+  "Ebokini CBBE 3BA": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.41",
+      "file_id": 687647,
+      "file_name": "Ebokini CBBE 3BA-142665-1-41-1763205012.7z",
+      "mod_id": 142665,
+      "hash": "sha256-wrSRZafT/5UWOIoAolYcNkw2TeOp4LHYDgLh8dAlpQc="
+    },
+    "type": "primary"
+  },
+  "Ebokini HIMBO": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.41",
+      "file_id": 687649,
+      "file_name": "Ebokini HIMBO-142665-1-41-1763205057.7z",
+      "mod_id": 142665,
+      "hash": "sha256-KQ+REI7MAiyLTKkelkyBXcQe+4O9UB0SRMNKQ02o+Ow="
+    },
+    "type": "primary"
+  },
+  "Ebokini BHUNP": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.41",
+      "file_id": 687651,
+      "file_name": "Ebokini BHUNP-142665-1-41-1763205121.7z",
+      "mod_id": 142665,
+      "hash": "sha256-UuVbMmmXImofiaqpsmZAWnqOTSn831HvH3jrsOHmJp8="
+    },
+    "type": "primary"
+  },
+  "Ebokini Vanilla": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.41",
+      "file_id": 687653,
+      "file_name": "Ebokini Vanilla-142665-1-41-1763205182.7z",
+      "mod_id": 142665,
+      "hash": "sha256-Py2dcmpaEYwiWUtKmoDj1C3j26cKocXCgNBqonTMOgg="
+    },
+    "type": "primary"
+  }
+}

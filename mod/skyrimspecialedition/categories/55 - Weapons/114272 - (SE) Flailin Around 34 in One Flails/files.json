@@ -1,0 +1,24 @@
+{
+  "Flailin Around WIP 34 in One": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": ".9",
+      "file_id": 488694,
+      "file_name": "Flailin Around WIP 34 in One-114272--9-1712585775.zip",
+      "mod_id": 114272,
+      "hash": "sha256-msAztbhobzDxk4gh4xnwTpOGnYK0hamzWbkHA/NNNng="
+    },
+    "type": "primary"
+  },
+  "Flailin Around 34 in One with LEVELED LIST": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": ".9",
+      "file_id": 507922,
+      "file_name": "Flailin Around 34 in One with LEVELED LIST-114272--9-1717427840.zip",
+      "mod_id": 114272,
+      "hash": "sha256-7FejVyiFHzUt5QjvCSFa25wEpOdJtK2WjDRHiRDSfr0="
+    },
+    "type": "primary"
+  }
+}

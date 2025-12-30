@@ -1,0 +1,45 @@
+{
+  "NoGrassias": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1",
+      "file_id": 174114,
+      "file_name": "NoGrassias-35639-1-1-1607633526.7z",
+      "mod_id": 35639,
+      "hash": "sha256-idW+eJGpV1babT5NW/PxCd2MkN6bE440Rd9ReV98mNA="
+    },
+    "type": "primary"
+  },
+  "NoGrassias Extended": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1",
+      "file_id": 174115,
+      "file_name": "NoGrassias Extended-35639-1-1-1607633563.7z",
+      "mod_id": 35639,
+      "hash": "sha256-/QH/c1vRMgoz2De1z948CeEK4sY+b6g6j5kAfIBsawg="
+    },
+    "type": "primary"
+  },
+  "NoGrassias Ultimate": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1",
+      "file_id": 174116,
+      "file_name": "NoGrassias Ultimate-35639-1-1-1607633607.7z",
+      "mod_id": 35639,
+      "hash": "sha256-FdH9XvqljxVRAVBzpxONYDj8cnCL1kiQwbU7CbxFD7w="
+    },
+    "type": "primary"
+  },
+  "NoGrassias Lite": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1",
+      "file_id": 175644,
+      "file_name": "NoGrassias Lite-35639-1-1-1608610294.7z",
+      "mod_id": 35639,
+      "hash": "sha256-YNvcTWdxVhVWoW3I8WMpa06w4dWQUAvSdPC4i35bS/U="
+    }
+  }
+}

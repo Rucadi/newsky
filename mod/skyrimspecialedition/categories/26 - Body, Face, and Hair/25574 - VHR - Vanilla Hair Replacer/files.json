@@ -1,0 +1,46 @@
+{
+  "VHR - Vanilla Hair Replacer - Main Version": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "2.0",
+      "file_id": 121427,
+      "file_name": "VHR - Vanilla Hair Replacer-25574-2-0-1580140608.rar",
+      "mod_id": 25574,
+      "hash": "sha256-h5mehdpY/Suwpf8AmA7Zh4uPR0oRbK+i4utGCjqO/bs="
+    },
+    "type": "primary"
+  },
+  "VHR - Vanilla Hair Replacer - Bald is Beautiful (BIB) Version": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "2.0",
+      "file_id": 142968,
+      "file_name": "VHR - Vanilla Hair Replacer - Bald is Beautiful (BIB) Version-25574-2-0-1590892284.rar",
+      "mod_id": 25574,
+      "hash": "sha256-5ch938tgdTbpjSyoU5gFsOPhsVaP9COvj/wV2Cx2aa8="
+    },
+    "type": "primary"
+  },
+  "VHR - Vanilla Hair Replacer - Females Only Version": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "2.0",
+      "file_id": 142970,
+      "file_name": "VHR - Vanilla Hair Replacer - Females Only Version-25574-2-0-1590894213.rar",
+      "mod_id": 25574,
+      "hash": "sha256-ht7QPzYiaG9TRdw4hE1Q/WXHv9EOkIQJjYpprLl35EA="
+    },
+    "type": "primary"
+  },
+  "VHR - Vanilla Hair Replacer - Males Only Version": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "2.0",
+      "file_id": 142972,
+      "file_name": "VHR - Vanilla Hair Replacer - Males Only Version-25574-2-0-1590895718.rar",
+      "mod_id": 25574,
+      "hash": "sha256-NMjxocuKpX5998NX409gTGtkm9gUPn/MQVJYsGgQlhU="
+    },
+    "type": "primary"
+  }
+}

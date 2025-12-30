@@ -1,0 +1,55 @@
+{
+  "FYX - 3D Stockades": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0.4",
+      "file_id": 275218,
+      "file_name": "FYX - 3D Stockades-65104-1-0-4-1649238334.7z",
+      "mod_id": 65104,
+      "hash": "sha256-N2tApTvThyUcR/GvNfFuF15SvSQsUltHTV0A6EqevxI="
+    },
+    "type": "primary"
+  },
+  "FYX - 3D Stockades - SoS 3D": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0.5",
+      "file_id": 294820,
+      "file_name": "FYX - 3D Stockades - SoS 3D-65104-1-0-5-1656450946.7z",
+      "mod_id": 65104,
+      "hash": "sha256-+XJuF6U9TseNVozNeJr25vA+2v8cNOAqmolvawHO1oE="
+    },
+    "type": "primary"
+  },
+  "FYX - 3D Stockades - SoS 3D - Parallax": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0.5",
+      "file_id": 294822,
+      "file_name": "FYX - 3D Stockades - SoS 3D - Parallax-65104-1-0-5-1656451078.7z",
+      "mod_id": 65104,
+      "hash": "sha256-KMJMZ4+fDKMCW7i/gqKMK0to/H4WB2CrWJuL5gjZzYE="
+    },
+    "type": "primary"
+  },
+  "FYX - 3D Stockades - SOS - OPTI": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0.5",
+      "file_id": 377923,
+      "file_name": "FYX - 3D Stockades - SOS - OPTI-65104-1-0-5-1681398515.7z",
+      "mod_id": 65104,
+      "hash": "sha256-znpR2pm96HII86ctwiPR3WhsdqGCzMyzrefFViGYo0o="
+    }
+  },
+  "FYX - 3D Stockades - SOS - Parallax - OPTI": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0.5",
+      "file_id": 377924,
+      "file_name": "FYX - 3D Stockades - SOS - Parallax - OPTI-65104-1-0-5-1681398607.7z",
+      "mod_id": 65104,
+      "hash": "sha256-3zrxXTsIEVgLIYGiCRNzQnB9P0E0MnQebni0roSRNrM="
+    }
+  }
+}

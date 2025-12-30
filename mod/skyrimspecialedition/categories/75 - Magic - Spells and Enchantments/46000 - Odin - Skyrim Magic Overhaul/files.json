@@ -1,0 +1,33 @@
+{
+  "Odin - Ordinator Compatibility Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "3.0.0",
+      "file_id": 658698,
+      "file_name": "Odin - Ordinator Compatibility Patch-46000-3-0-0-1756035478.zip",
+      "mod_id": 46000,
+      "hash": "sha256-aQ7eLOS46k0Ga/asxVSNqvOyXVr0rYRJJpyJHqkXsSw="
+    }
+  },
+  "Odin - Vokrii Compatibility Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "3.1.0",
+      "file_id": 664485,
+      "file_name": "Odin - Vokrii Compatibility Patch-46000-3-1-0-1757536500.zip",
+      "mod_id": 46000,
+      "hash": "sha256-pfm754yv6zpUfIVXhT8SFEgH+vWNSJXyPSPUYWzbBNQ="
+    }
+  },
+  "Odin 3.1.3": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "3.1.3",
+      "file_id": 674175,
+      "file_name": "Odin 3.1.3-46000-3-1-3-1760086320.zip",
+      "mod_id": 46000,
+      "hash": "sha256-NlTuXAhQfOtbRHt65Ffw5v4RVAL3VDOBQ+3otZg6mN4="
+    },
+    "type": "primary"
+  }
+}

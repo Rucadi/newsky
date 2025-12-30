@@ -1,0 +1,24 @@
+{
+    "Canliberk The Voiced Collection Guide": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "2",
+            "file_id": 666403,
+            "file_name": "Canliberk The Voiced Collection Guide-103329-2-1758043318.zip",
+            "mod_id": 103329,
+            "hash": "sha256-XXlMgpt4oCRAHEf6SUYIhPqKOUh2joMXsPevVR2Fhkk="
+        },
+        "type": "primary"
+    },
+    "Canliberk The Voiced Collection Guide - AP Addon": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "1",
+            "file_id": 671351,
+            "file_name": "Canliberk The Voiced Collection Guide - AP Addon-103329-1-1759372643.zip",
+            "mod_id": 103329,
+            "hash": "sha256-njt+k13vQavR3lSpjOBwvllihL+7UQp90STtKxh/vmA="
+        },
+        "type": "primary"
+    }
+}

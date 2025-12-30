@@ -1,0 +1,90 @@
+{
+  "Vigilant - Fleshblade Sound Tweak": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 395190,
+      "file_name": "Vigilant - Fleshblade Sound Tweak-92893-1-0-1685936641.7z",
+      "mod_id": 92893,
+      "hash": "sha256-X9+rQQeNX/eCu5Owj2noF3Pd8jefEi3WKRm3FblYR2A="
+    },
+    "type": "primary"
+  },
+  "Vigilant - Pilgrim Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 395191,
+      "file_name": "Vigilant - Pilgrim Patch-92893-1-0-1685936654.7z",
+      "mod_id": 92893,
+      "hash": "sha256-FMaJu0f02Zt9HdrUd1+LOWeRUoSoawbtHOLeIkAJ5Jw="
+    },
+    "type": "primary"
+  },
+  "Vigilant - Player Storage": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 395192,
+      "file_name": "Vigilant - Player Storage-92893-1-0-1685936667.7z",
+      "mod_id": 92893,
+      "hash": "sha256-EcIyueLJc4qSbE02/HnvMppQZ3lEsyDRlEuSG64DaKE="
+    },
+    "type": "primary"
+  },
+  "Vigilant - Scene Text Removal": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 395193,
+      "file_name": "Vigilant - Scene Text Removal-92893-1-0-1685936682.7z",
+      "mod_id": 92893,
+      "hash": "sha256-gYIdsdLGH5pOgH342bqFueD41Bw9Xw1P3zdod3ravKs="
+    },
+    "type": "primary"
+  },
+  "Vigilant - Wasteland Tree": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 395194,
+      "file_name": "Vigilant - Wasteland Tree-92893-1-0-1685936706.7z",
+      "mod_id": 92893,
+      "hash": "sha256-IwI3ZUFqIZTzOzjTjlEpL+dk/UpOQkgwsFNJGXqMNZo="
+    },
+    "type": "primary"
+  },
+  "Vigilant - No Weapon Arts": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 395197,
+      "file_name": "Vigilant - No Weapon Arts-92893-1-0-1685937270.7z",
+      "mod_id": 92893,
+      "hash": "sha256-AwzNF8Gw3wAQ61JooG7Bf8kkOLg3ndyzWnIBgGez2RQ="
+    },
+    "type": "primary"
+  },
+  "Vigilant - Wintersun Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 395674,
+      "file_name": "Vigilant - Wintersun Patch-92893-1-0-1686097612.7z",
+      "mod_id": 92893,
+      "hash": "sha256-B+Ka03QvomAqucfpU/aJqi+vTU7w++xRphWWXc/ou9w="
+    },
+    "type": "primary"
+  },
+  "Vigilant - Armor Rebalance": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 395914,
+      "file_name": "Vigilant - Armor Rebalance-92893-1-0-1686190411.7z",
+      "mod_id": 92893,
+      "hash": "sha256-n0dDc+nZ6DcwzT3g7PjIn9sVDi/F2JZTJOURtGb/xII="
+    },
+    "type": "primary"
+  }
+}

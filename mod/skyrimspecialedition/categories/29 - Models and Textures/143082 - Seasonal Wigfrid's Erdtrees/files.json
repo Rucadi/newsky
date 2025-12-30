@@ -1,0 +1,24 @@
+{
+  "Seasonal Wigfrid's Erdtrees": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.01",
+      "file_id": 600150,
+      "file_name": "Seasonal Wigfrid's Erdtrees-143082-1-01-1740772944.zip",
+      "mod_id": 143082,
+      "hash": "sha256-GEMSUOHCx6ZzQLcvBCGewiEvdZNna1xgno6oDe5cgE4="
+    },
+    "type": "primary"
+  },
+  "Seasonal Wigfrid's Erdtrees Replacer": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.01",
+      "file_id": 600151,
+      "file_name": "Seasonal Wigfrid's Erdtrees Replacer-143082-1-01-1740773009.zip",
+      "mod_id": 143082,
+      "hash": "sha256-0Zb8QAsGMC96Um51YnNyqAGJR+xT2YSKWaYnWBoT6ic="
+    },
+    "type": "primary"
+  }
+}

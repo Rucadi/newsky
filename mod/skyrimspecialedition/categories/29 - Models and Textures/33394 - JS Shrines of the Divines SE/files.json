@@ -1,0 +1,45 @@
+{
+  "JS Shrines of the Divines SE - 1K": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.3",
+      "file_id": 282600,
+      "file_name": "JS Shrines of the Divines SE - 1K-33394-1-3-1652146093.7z",
+      "mod_id": 33394,
+      "hash": "sha256-37lnHNbU0y6V0Ec2m/AlpRH95LKB1Zkh/081ci7ofnE="
+    },
+    "type": "primary"
+  },
+  "JS Shrines of the Divines SE - 2K": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.3",
+      "file_id": 282601,
+      "file_name": "JS Shrines of the Divines SE - 2K-33394-1-3-1652146205.7z",
+      "mod_id": 33394,
+      "hash": "sha256-vA5gHGM+9zV0WAS7qOohd/splmI9wm1vY9PymmniXpk="
+    },
+    "type": "primary"
+  },
+  "JS Shrines of the Divines SE - 4K": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.3",
+      "file_id": 282602,
+      "file_name": "JS Shrines of the Divines SE - 4K-33394-1-3-1652146410.7z",
+      "mod_id": 33394,
+      "hash": "sha256-Bp4J3dRqbvT81wNtEdpUzO40HBw16SIXeKj8kYnMpa8="
+    },
+    "type": "primary"
+  },
+  "JS Shrines of the Divines SE - Alternate Golden Shrines": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.3",
+      "file_id": 284799,
+      "file_name": "JS Shrines of the Divines SE - Alternate Golden Shrines-33394-1-3-1652914576.7z",
+      "mod_id": 33394,
+      "hash": "sha256-6CPrefHrkOK4XAiXMsLrou1ISYY7OJPPyd042g//Se0="
+    }
+  }
+}

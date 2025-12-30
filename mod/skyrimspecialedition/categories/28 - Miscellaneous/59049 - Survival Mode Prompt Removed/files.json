@@ -1,0 +1,35 @@
+{
+  "Survival Mode - Disable By Default": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0.0",
+      "file_id": 244329,
+      "file_name": "Survival Mode - Disable By Default-59049-1-0-0-1637864324.zip",
+      "mod_id": 59049,
+      "hash": "sha256-4jr4T0YnCYr2NEiOoLPOUIPbYUzh2cwuTlLvQd5Rt+o="
+    },
+    "type": "primary"
+  },
+  "Survival Mode - Enable By Default": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0.0",
+      "file_id": 244330,
+      "file_name": "Survival Mode - Enable By Default-59049-1-0-0-1637864361.zip",
+      "mod_id": 59049,
+      "hash": "sha256-m9An8y81uZ+LMn+tCDBv9s+48oELEbTVWH0Nh8RcOEU="
+    },
+    "type": "primary"
+  },
+  "Survival Mode - Disable Permanently": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0.0",
+      "file_id": 244331,
+      "file_name": "Survival Mode - Disable Permanently-59049-1-0-0-1637864411.zip",
+      "mod_id": 59049,
+      "hash": "sha256-8zfaSb4LXTFUNXR4PL11HEVs1byT3wRAkYVSxUlxdmo="
+    },
+    "type": "primary"
+  }
+}

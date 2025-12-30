@@ -1,0 +1,23 @@
+{
+  "1DwemerArmorSE": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1",
+      "file_id": 342128,
+      "file_name": "1DwemerArmorSE-81043-1-1671541249.7z",
+      "mod_id": 81043,
+      "hash": "sha256-rmCbX2NRKrMlM2BsKEA8ZtBo6cZimUy7YiTfaZerwX0="
+    },
+    "type": "primary"
+  },
+  "Half Sized Textures": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1",
+      "file_id": 342130,
+      "file_name": "Half Sized Textures-81043-1-1671541573.7z",
+      "mod_id": 81043,
+      "hash": "sha256-FwmknczGXMyX5U46Rby+fbXrwVLFv2zTHbrNHWudWnk="
+    }
+  }
+}

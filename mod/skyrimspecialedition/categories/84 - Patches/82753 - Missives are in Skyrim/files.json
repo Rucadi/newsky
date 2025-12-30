@@ -1,0 +1,23 @@
+{
+  "Missives are in Skyrim - Main Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 349612,
+      "file_name": "Missives are in Skyrim - Main Patch-82753-1-0-1673754475.zip",
+      "mod_id": 82753,
+      "hash": "sha256-bbJbyKlqijPQ+1eNR7sLPSqWTFn6dbxhMl8CM+uZMVY="
+    },
+    "type": "primary"
+  },
+  "Patch for Economy Overhaul and Speechcraft Improvements - Lite": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 349614,
+      "file_name": "Patch for Economy Overhaul and Speechcraft Improvements - Lite-82753-1-0-1673754602.zip",
+      "mod_id": 82753,
+      "hash": "sha256-oFh63KUEpvnOjUINcuPKvHXWG86FMEE0eFvhc9sENBE="
+    }
+  }
+}

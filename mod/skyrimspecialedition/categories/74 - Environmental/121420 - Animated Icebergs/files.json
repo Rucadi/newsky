@@ -1,0 +1,23 @@
+{
+  "Animated Icebergs - Vertex Colors Fixed": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 642999,
+      "file_name": "Animated Icebergs - Vertex Colors Fixed-121420-1-0-1751298247.7z",
+      "mod_id": 121420,
+      "hash": "sha256-kjpDgQjL55ZbrgaeSVCbSbA1a7kzlvnUxdxv12yxBW4="
+    }
+  },
+  "Animated Icebergs": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "2.0",
+      "file_id": 686772,
+      "file_name": "Animated Icebergs-121420-2-0-1762966504.7z",
+      "mod_id": 121420,
+      "hash": "sha256-g1IU6p9sAZ2kC6b5GjT+HJCZACIw3LM7pwMumFe6TGI="
+    },
+    "type": "primary"
+  }
+}

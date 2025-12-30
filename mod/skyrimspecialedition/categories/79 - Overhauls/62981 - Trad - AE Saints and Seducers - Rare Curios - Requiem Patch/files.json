@@ -1,0 +1,64 @@
+{
+  "Trad - Saints  - Curios - Fozar Dragonborn Requiem - compatibility patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 261273,
+      "file_name": "Trad - Saints  - Curios - Fozar Dragonborn Requiem - compatibility patch-62981-1-0-1643816017.7z",
+      "mod_id": 62981,
+      "hash": "sha256-ETtrC+G9drzdJDuq7kVx6D9hY/0HAeS8oQOV5lv9edo="
+    }
+  },
+  "Trad_CC025_ArmorBonus_Requiem_Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.2",
+      "file_id": 312725,
+      "file_name": "Trad_CC025_ArmorBonus_Requiem_Patch-62981-1-2-1662197123.7z",
+      "mod_id": 62981,
+      "hash": "sha256-+mI5wgTlUA1ubEu5EkIrwmsnRAXbLfJtGvuWeBMbdec="
+    }
+  },
+  "Trad - Requiem - Saints Seducers - Rare Curios patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.9",
+      "file_id": 338141,
+      "file_name": "Trad - Requiem - Saints Seducers - Rare Curios patch-62981-1-9-1670335724.7z",
+      "mod_id": 62981,
+      "hash": "sha256-wFJWZPObfyxD22DBJ65k07sutYiruLOEaczeDi4CEzQ="
+    },
+    "type": "primary"
+  },
+  "Trad - Requiem - Saints Seducers - Rare Curios patch - Loose": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.9",
+      "file_id": 338142,
+      "file_name": "Trad - Requiem - Saints Seducers - Rare Curios patch - Loose-62981-1-9-1670335751.7z",
+      "mod_id": 62981,
+      "hash": "sha256-WplUhCY1tAFsEOVKskGRQ9yftb2GEvgTGfNxmk903Pc="
+    },
+    "type": "primary"
+  },
+  "Trad_SaintsExtendedCut_Compatibility_Requiem_Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 338143,
+      "file_name": "Trad_SaintsExtendedCut_Compatibility_Requiem_Patch-62981-1-0-1670335854.7z",
+      "mod_id": 62981,
+      "hash": "sha256-/jKeJPVAV8XaRAUSqgmI4odoJRo6jB22zHcqfivABkQ="
+    }
+  },
+  "Trad_SaintsExtendedCut_Compatibility_Requiem_Patch_Loose": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 338144,
+      "file_name": "Trad_SaintsExtendedCut_Compatibility_Requiem_Patch_Loose-62981-1-0-1670335895.7z",
+      "mod_id": 62981,
+      "hash": "sha256-uB6CBTFVRTHOqMa8JLMX1wGsbhnobFPESh+ohynt8p8="
+    }
+  }
+}

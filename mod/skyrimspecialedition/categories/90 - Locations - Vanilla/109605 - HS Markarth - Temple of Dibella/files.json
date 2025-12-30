@@ -1,0 +1,43 @@
+{
+  "HSMarkarth - Temple of Dibella": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0.0",
+      "file_id": 462733,
+      "file_name": "HSMarkarth - Temple of Dibella-109605-1-0-0-1705626256.7z",
+      "mod_id": 109605,
+      "hash": "sha256-iLvxp2OAi3rj5v1C3eFk8KdagOtyMa66d70xD1251i8="
+    },
+    "type": "primary"
+  },
+  "HSMarkarth - Temple of Dibella - ELFX": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0.0",
+      "file_id": 462734,
+      "file_name": "HSMarkarth - Temple of Dibella - ELFX-109605-1-0-0-1705626290.7z",
+      "mod_id": 109605,
+      "hash": "sha256-WUVdD8Fj3eE03Lzv0xmHMCTuM4dcNMptBtqHG3lY4Us="
+    }
+  },
+  "HSMarkarth - Temple of Dibella - LOTD": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0.0",
+      "file_id": 462735,
+      "file_name": "HSMarkarth - Temple of Dibella - LOTD-109605-1-0-0-1705626312.7z",
+      "mod_id": 109605,
+      "hash": "sha256-tjOEMr/VV+DZW9qO9iOeifEb9RSPa4D3MHRtGKHXPRE="
+    }
+  },
+  "HSMarkarth - Temple of Dibella - LUX": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0.0",
+      "file_id": 462736,
+      "file_name": "HSMarkarth - Temple of Dibella - LUX-109605-1-0-0-1705626347.7z",
+      "mod_id": 109605,
+      "hash": "sha256-rNUoyAI3mf5U0Do0TbBAZ1WAknPnqnidCgVzS/wNXi4="
+    }
+  }
+}

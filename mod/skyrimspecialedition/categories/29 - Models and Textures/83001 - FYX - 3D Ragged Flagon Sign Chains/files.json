@@ -1,0 +1,66 @@
+{
+  "FYX - 3D Ragged Flagon Sign Chains - Opt01": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 350786,
+      "file_name": "FYX - 3D Ragged Flagon Sign Chains - Opt01-83001-1-0-1674061320.7z",
+      "mod_id": 83001,
+      "hash": "sha256-oSc2GgWEzJ24rHGu0PhqS8kLHjGuhtsLTVvaP63q8uw="
+    },
+    "type": "primary"
+  },
+  "FYX - 3D Ragged Flagon Sign Chains - Opt02": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 350787,
+      "file_name": "FYX - 3D Ragged Flagon Sign Chains - Opt02-83001-1-0-1674061339.7z",
+      "mod_id": 83001,
+      "hash": "sha256-KGA/PNM0wmplgSChzq/nTBVkfjHzUYYdZRwbUbiAyNA="
+    },
+    "type": "primary"
+  },
+  "FYX - 3D Ragged Flagon Sign Chains - Opt01 - NT Rusty": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 351009,
+      "file_name": "FYX - 3D Ragged Flagon Sign Chains - Opt01 - NT Rusty-83001-1-0-1674127500.7z",
+      "mod_id": 83001,
+      "hash": "sha256-OklB4pAhOa2Y4h35ra9YuCFZqQ9KcOOp65MAH9HQJ/g="
+    },
+    "type": "primary"
+  },
+  "FYX - 3D Ragged Flagon Sign Chains - Opt02 - NT Classic Damage": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 351010,
+      "file_name": "FYX - 3D Ragged Flagon Sign Chains - Opt02 - NT Classic Damage-83001-1-0-1674127633.7z",
+      "mod_id": 83001,
+      "hash": "sha256-dCrVUvw5F9PTUhc/O1LJaR+ZYSmiZp+VE7M5YPt3F6w="
+    },
+    "type": "primary"
+  },
+  "FYX - Opt01 - NT Rusty - 1K": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 351014,
+      "file_name": "FYX - Opt01 - NT Rusty - 1K-83001-1-0-1674129283.7z",
+      "mod_id": 83001,
+      "hash": "sha256-NSE59dwZbVVUsRYPgoFy1bxOiRpTqste1+iRlPoFFZI="
+    }
+  },
+  "FYX - Opt02 - NT Classic Damage - 1K": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 351015,
+      "file_name": "FYX - Opt02 - NT Classic Damage - 1K-83001-1-0-1674129356.7z",
+      "mod_id": 83001,
+      "hash": "sha256-RLMlycYEAGvhLJ+8/El6W8CGvrZibamQ7sghxg+yDrA="
+    }
+  }
+}

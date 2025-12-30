@@ -1,0 +1,24 @@
+{
+  "SIL CC Addon - USCCCP Forwards": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0.0",
+      "file_id": 530514,
+      "file_name": "SIL CC Addon - USCCCP Forwards-126539-1-0-0-1723385571.zip",
+      "mod_id": 126539,
+      "hash": "sha256-RpezJMwttUd10oMiTNLmMW86E85YX/2Dgm9rEXj+4lQ="
+    },
+    "type": "primary"
+  },
+  "SIL CC Addon - Bittercup Tweak Forwards": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0.0",
+      "file_id": 530515,
+      "file_name": "SIL CC Addon - Bittercup Tweak Forwards-126539-1-0-0-1723385607.zip",
+      "mod_id": 126539,
+      "hash": "sha256-LMACsEfLu85XrKfk7m7YUmngVEyTj3ABH0iXMMu2bIQ="
+    },
+    "type": "primary"
+  }
+}

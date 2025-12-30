@@ -1,0 +1,23 @@
+{
+  "Daedric Bitches 2024": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1",
+      "file_id": 494260,
+      "file_name": "Daedric Bitches 2024-117528-1-1-1713946710.7z",
+      "mod_id": 117528,
+      "hash": "sha256-IXuooFSkSd70CPhSOAqzjABUcrRKvYTLuEAfEEAMAIg="
+    },
+    "type": "primary"
+  },
+  "Daedric Bitches Balanced (No Magic)": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 498585,
+      "file_name": "Daedric Bitches Balanced (No Magic)-117528-1-0-1715029423.7z",
+      "mod_id": 117528,
+      "hash": "sha256-U6qzIx2GR7hVwCF7lAhlbvQUuSvY75jezob9BPSRFVk="
+    }
+  }
+}

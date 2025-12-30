@@ -1,0 +1,33 @@
+{
+  "Landscape Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 553248,
+      "file_name": "Landscape Patch-129582-1-0-1729260229.zip",
+      "mod_id": 129582,
+      "hash": "sha256-ikBno4OFGi4IrhTiXWN0aXKTuarrSIwTM5OrO3rGJNA="
+    }
+  },
+  "Non-Animated Sludge": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 557477,
+      "file_name": "Sludge Patch-129582-1-0-1730394719.zip",
+      "mod_id": 129582,
+      "hash": "sha256-zzuPPDFS39csPzcislEBzFf3HIdGTepZYQ48tWLKyX0="
+    }
+  },
+  "Gravewind": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.2",
+      "file_id": 565683,
+      "file_name": "Gravewind-129582-1-2-1732476021.zip",
+      "mod_id": 129582,
+      "hash": "sha256-CDPR3sny1Ce3otT1tKNXjgOSHv/wTqWu7n7ZUdS0XXk="
+    },
+    "type": "primary"
+  }
+}

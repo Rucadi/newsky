@@ -1,0 +1,23 @@
+{
+  "Weapon Animation (Chillrend)": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 215231,
+      "file_name": "Weapon Animation (Chillrend)-52526-1-0-1626583457.zip",
+      "mod_id": 52526,
+      "hash": "sha256-v0C35huRcxQoxtCYlGj7CsX1Jg0vtb+3QZfWYcPofno="
+    },
+    "type": "primary"
+  },
+  "Chillrend visual overhaul patch(magic effect only)": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.2",
+      "file_id": 215291,
+      "file_name": "Chillrend visual overhaul patch(magic effect only)-52526-1-2-1626610563.zip",
+      "mod_id": 52526,
+      "hash": "sha256-ZB1QGoOUKRksBY22kROalVlt3cboZ0FuGIcoOos6vx8="
+    }
+  }
+}

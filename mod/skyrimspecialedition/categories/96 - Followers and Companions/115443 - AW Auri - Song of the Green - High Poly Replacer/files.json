@@ -1,0 +1,34 @@
+{
+  "AW Auri Replacer High Poly": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1",
+      "file_id": 495710,
+      "file_name": "AW Auri Replacer High Poly-115443-1-1-1714325512.zip",
+      "mod_id": 115443,
+      "hash": "sha256-so2xUCngLQ9z9jtE/J3lkhh/w/TbqFbnf5wRDB9ePaE="
+    },
+    "type": "primary"
+  },
+  "Auri 2.0 fagegen replacer": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "2.0",
+      "file_id": 613415,
+      "file_name": "Auri 2.0 fagegen replacer-115443-2-0-1743694897.zip",
+      "mod_id": 115443,
+      "hash": "sha256-c4Y5t2nOVrxKgM/RA+GKu7pWpwD6dbSDTO9dK0mjVQ4="
+    },
+    "type": "primary"
+  },
+  "AW Auri CBBE skin patch 4k": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "2.1",
+      "file_id": 619745,
+      "file_name": "AW Auri CBBE skin patch 4k-115443-2-1-1745240068.zip",
+      "mod_id": 115443,
+      "hash": "sha256-9/OKylXKePG3j2vq21LduHvgWAjVEbsjr8R3nKJq09k="
+    }
+  }
+}

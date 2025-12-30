@@ -1,0 +1,46 @@
+{
+  "Seagulls of Skyrim - ESL": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.4",
+      "file_id": 215342,
+      "file_name": "Seagulls of Skyrim - ESL-52153-1-4-1626631394.rar",
+      "mod_id": 52153,
+      "hash": "sha256-5QoQtkCO00XCh6nWLKwdAhzERa/HSlbDVPCpDanFf3E="
+    },
+    "type": "primary"
+  },
+  "Seagulls of Skyrim - ESP": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.4",
+      "file_id": 215343,
+      "file_name": "Seagulls of Skyrim - ESP-52153-1-4-1626631438.rar",
+      "mod_id": 52153,
+      "hash": "sha256-WRZCr1rasH67FGhM+1uDkF8cjYetOCoUMfbYOYAECdY="
+    },
+    "type": "primary"
+  },
+  "Seagulls of Skyrim - Riften Version - ESL": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.4",
+      "file_id": 215344,
+      "file_name": "Seagulls of Skyrim - Riften Version - ESL-52153-1-4-1626631556.rar",
+      "mod_id": 52153,
+      "hash": "sha256-T/iZbfHj4SBycQoo3Wg7BC22S0A2sb5+r9nD61IvZiY="
+    },
+    "type": "primary"
+  },
+  "Seagulls of Skyrim - Riften Version - ESP": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.4",
+      "file_id": 215345,
+      "file_name": "Seagulls of Skyrim - Riften Version - ESP-52153-1-4-1626631600.rar",
+      "mod_id": 52153,
+      "hash": "sha256-iGulx74ec2KCJn58nKw8ZZX3uxMUBefUd21uuGjHN1s="
+    },
+    "type": "primary"
+  }
+}

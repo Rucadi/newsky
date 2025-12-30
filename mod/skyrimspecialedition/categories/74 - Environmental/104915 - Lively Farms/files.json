@@ -1,0 +1,24 @@
+{
+  "Lively Farms (Animated looting no physics version)": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "2.2.2",
+      "file_id": 668876,
+      "file_name": "Lively Farms (Animated looting no physics version)-104915-2-2-2-1758684218.7z",
+      "mod_id": 104915,
+      "hash": "sha256-+tHEL3wNDnRCJQBE0QtyDP3D2C0pfFql9aDUYNb2Duk="
+    },
+    "type": "primary"
+  },
+  "Lively Farms": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "2.2.2",
+      "file_id": 669137,
+      "file_name": "Lively Farms-104915-2-2-2-1758750604.7z",
+      "mod_id": 104915,
+      "hash": "sha256-Fz8cR/Mcaj8SCQL9uk4zqLRdv74R3KgxTnJ4k7p4ccg="
+    },
+    "type": "primary"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "Hidden DB Entrances": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0.3",
+      "file_id": 196481,
+      "file_name": "Hidden DB Entrances-48146-1-0-3-1617730295.zip",
+      "mod_id": 48146,
+      "hash": "sha256-lJZqP1rvNfh9dzrZvDCRtq1wOb2WuegmlD86Ydlz7uE="
+    },
+    "type": "primary"
+  },
+  "Hidden DB Entrances Majestic Mountains Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0.0",
+      "file_id": 222413,
+      "file_name": "Hidden DB Entrances Majestic Mountains Patch-48146-1-0-0-1629460583.zip",
+      "mod_id": 48146,
+      "hash": "sha256-JapAAk3OwnZbkh7OhSpMDStpMCOhsNxTkf6k2OEcFzk="
+    }
+  }
+}

@@ -1,0 +1,23 @@
+{
+    "Neutral Whiterun Guards - Crime Overhaul Patch": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "4.2",
+            "file_id": 346218,
+            "file_name": "Neutral Whiterun Guards - Crime Overhaul Patch-70197-4-0-1672738946.7z",
+            "mod_id": 70197,
+            "hash": "sha256-Q5vFh3+O980rU+AmPxPNLcuvHwb8omj4hodZIDndQ7o="
+        }
+    },
+    "Neutral Whiterun Guards": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "4.2",
+            "file_id": 567595,
+            "file_name": "Neutral Whiterun Guards-70197-4-2-1732972503.7z",
+            "mod_id": 70197,
+            "hash": "sha256-R1WGf3dZttDhYEfBa3RsKVXfv+w5GZbQw+V1Vz3oTK4="
+        },
+        "type": "primary"
+    }
+}

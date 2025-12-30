@@ -1,0 +1,23 @@
+{
+  "JK's Blue Palace - Persistent Reference Fix": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.2.2",
+      "file_id": 265146,
+      "file_name": "JK's Blue Palace - Persistent Reference Fix-45324-1-2-2-1645208265.zip",
+      "mod_id": 45324,
+      "hash": "sha256-HFeEcR4WnJXSRQIObQqRNbZAgZB7JTcG+bGB6KOwxd0="
+    }
+  },
+  "JK's Blue Palace": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "2.0.2",
+      "file_id": 622815,
+      "file_name": "JK's Blue Palace-45324-2-0-2-1746160267.7z",
+      "mod_id": 45324,
+      "hash": "sha256-RxsZyT5XKV55ewZL1xaxvMNISoVqNZzj+5Vtgs/iC/4="
+    },
+    "type": "primary"
+  }
+}

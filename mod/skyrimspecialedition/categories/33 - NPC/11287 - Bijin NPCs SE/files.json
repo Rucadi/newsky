@@ -1,0 +1,53 @@
+{
+  "Bijin AIO SE": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "AIOSE",
+      "file_id": 30610,
+      "file_name": "Bijin AIO SE-11287-AIOSE.7z",
+      "mod_id": 11287,
+      "hash": "sha256-Twzjcko16bYz+z4HLkbp1UstI1CVV9vF0EoKOsaNJsc="
+    }
+  },
+  "Bijin AIO SE for USSEP": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "AIOSE",
+      "file_id": 30611,
+      "file_name": "Bijin AIO SE for USSEP-11287-AIOSE.7z",
+      "mod_id": 11287,
+      "hash": "sha256-r6X2FTXYNbP9yqND+0HWVrMjEQhajPxD45S9Ni2zfU4="
+    }
+  },
+  "Bijin NPCs SE 1.2.1": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.2.1",
+      "file_id": 30612,
+      "file_name": "Bijin NPCs SE 1.2.1-11287-1-2-1.7z",
+      "mod_id": 11287,
+      "hash": "sha256-yGK+5vSd0GTWL4YG3wdOkSXi589uhBJ7fLPO10Qsg98="
+    },
+    "type": "primary"
+  },
+  "High-Res skin for UNP": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "",
+      "file_id": 30613,
+      "file_name": "High-Res skin for UNP-11287-.7z",
+      "mod_id": 11287,
+      "hash": "sha256-1RyDxkXPASE88k94TJrFNn+qGGp78VyRa1ao8Tw7K2M="
+    }
+  },
+  "High-Res skin for CBBE": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.2.1",
+      "file_id": 30614,
+      "file_name": "High-Res skin for CBBE-11287-1-2-1.7z",
+      "mod_id": 11287,
+      "hash": "sha256-5JTY9vqmRdEiop7WwvQAYGXCaCRKbA9GpnMmMQKL5B8="
+    }
+  }
+}

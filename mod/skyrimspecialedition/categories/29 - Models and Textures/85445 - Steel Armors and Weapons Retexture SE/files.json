@@ -1,0 +1,74 @@
+{
+    "Steel Retexture - Bodyslide Patches": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "2.1.0",
+            "file_id": 670447,
+            "file_name": "Steel Retexture - Bodyslide Patches-85445-2-1-0-1759149210.7z",
+            "mod_id": 85445,
+            "hash": "sha256-HgTSzykUKY3bs+pIIo2+dszdg/f1XmgZvRDD/dlPj3o="
+        }
+    },
+    "Steel Armors and Weapons Retexture SE": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "2.1.1",
+            "file_id": 670506,
+            "file_name": "Steel Armors and Weapons Retexture SE-85445-2-1-1-1759164246.7z",
+            "mod_id": 85445,
+            "hash": "sha256-eyH6xzGL+kKbtEWXgkLzLa4GaGinYfRGDQ4jNrcw9dU="
+        },
+        "type": "primary"
+    },
+    "Steel Retexture No Consistency patches": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "2.1.1",
+            "file_id": 670512,
+            "file_name": "Steel Retexture No Consistency patches-85445-2-1-1-1759165169.7z",
+            "mod_id": 85445,
+            "hash": "sha256-QuzNsPNBr/JDMo/oA0wqIA9z4r1Cqah/CDDnlXNgxDI="
+        },
+        "type": "primary"
+    },
+    "Steel Armors and Weapons Retexture SE Half Res": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "2.1.1",
+            "file_id": 670515,
+            "file_name": "Steel Armors and Weapons Retexture SE Half Res-85445-2-1-1-1759165479.7z",
+            "mod_id": 85445,
+            "hash": "sha256-OZ7yhanMlYQWorWW4h//Fk56xeFuH25Dsf/7yEL6LTE="
+        }
+    },
+    "Steel Armors and Weapons Retexture SE Low Res": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "2.1.1",
+            "file_id": 670516,
+            "file_name": "Steel Armors and Weapons Retexture SE Low Res-85445-2-1-1-1759165553.7z",
+            "mod_id": 85445,
+            "hash": "sha256-lv9oYNhfdcVJeNLvTQs9op18JtztBcQv2s+wZvyuNbc="
+        }
+    },
+    "Steel Retexture No Consistency patches - Half Res": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "2.1.1",
+            "file_id": 670517,
+            "file_name": "Steel Retexture No Consistency patches - Half Res-85445-2-1-1-1759165659.7z",
+            "mod_id": 85445,
+            "hash": "sha256-/M/CzvBd4QuWOWiZHlvp11UjOgc84V/sDvWOLgCtwfM="
+        }
+    },
+    "Steel Retexture No Consistency patches - Low Res": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "2.1.1",
+            "file_id": 670518,
+            "file_name": "Steel Retexture No Consistency patches - Low Res-85445-2-1-1-1759165705.7z",
+            "mod_id": 85445,
+            "hash": "sha256-CeoCdq+b6fcy0POs2zrKCOnUFuBrA+bMeNG1jmG9Ryc="
+        }
+    }
+}

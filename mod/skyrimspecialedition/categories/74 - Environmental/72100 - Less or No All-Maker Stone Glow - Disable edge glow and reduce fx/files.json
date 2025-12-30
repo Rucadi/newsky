@@ -1,0 +1,35 @@
+{
+  "Version A. Remove edge glow AND reduce magic FX": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1",
+      "file_id": 302066,
+      "file_name": "Version A. No edge glow and reduced FX-72100-1-1658749402.rar",
+      "mod_id": 72100,
+      "hash": "sha256-8mESGYhDFik+M6132DUgpnLkttgjDglj8yzihhDQpwg="
+    },
+    "type": "primary"
+  },
+  "Version B. Remove edge glow AND ALL other magic effects": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1",
+      "file_id": 302067,
+      "file_name": "Version B. Remove edge glow AND ALL other magic effects-72100-1-1658749437.rar",
+      "mod_id": 72100,
+      "hash": "sha256-kVphPfBtaR5O8S2f+2qW2jizdlmCN2VdrzcYdsyDda0="
+    },
+    "type": "primary"
+  },
+  "Version C. Remove ONLY edge glow and keep vanilla magic effects": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1",
+      "file_id": 302068,
+      "file_name": "Version C. Remove ONLY edge glow and keep vanilla magic effects-72100-1-1658749477.rar",
+      "mod_id": 72100,
+      "hash": "sha256-ZcK69Hi2yg8X93XT1sjjzNJ+nQrBY5oiq51G7k2feew="
+    },
+    "type": "primary"
+  }
+}

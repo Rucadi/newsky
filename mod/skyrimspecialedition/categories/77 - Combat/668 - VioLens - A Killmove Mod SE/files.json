@@ -1,0 +1,23 @@
+{
+  "VioLens - A Killmove Mod SE 2.30": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "2.30",
+      "file_id": 255970,
+      "file_name": "VioLens - A Killmove Mod SE 2.30-668-2-30-1641929178.7z",
+      "mod_id": 668,
+      "hash": "sha256-Ogfr24QYxoMGS43gWbhYP+d6UOUYXfU0InLW9C4Xvps="
+    },
+    "type": "primary"
+  },
+  "VioLens - A Killmove Mod SE 2.30 - Russian": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "2.30",
+      "file_id": 256177,
+      "file_name": "VioLens - A Killmove Mod SE 2.30 - Russian-668-2-30-1642008713.7z",
+      "mod_id": 668,
+      "hash": "sha256-ecW7Sqz7aZHeO5l+zmehm9iijYwzvyDrfc9kzjoEAzA="
+    }
+  }
+}

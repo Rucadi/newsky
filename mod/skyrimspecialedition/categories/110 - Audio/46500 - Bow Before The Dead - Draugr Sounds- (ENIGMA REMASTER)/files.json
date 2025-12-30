@@ -1,0 +1,24 @@
+{
+  "Bow Before The Dead - Draugr Sounds- (ENIGMA REMASTER)": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "4.3",
+      "file_id": 189226,
+      "file_name": "Bow Before The Dead - Draugr Sounds- (ENIGMA REMASTER)-46500-4-3-1614806536.7z",
+      "mod_id": 46500,
+      "hash": "sha256-E2tQBIaPj5WRQpAUaDyDlt4XOj4c4i/qasksauYg8xE="
+    },
+    "type": "primary"
+  },
+  "Bow Before The Dead - Lower Volume Plus Update 5": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "5.0",
+      "file_id": 224343,
+      "file_name": "Bow Before The Dead - Lower Volume Plus Update 5-46500-5-0-1630144803.7z",
+      "mod_id": 46500,
+      "hash": "sha256-Ac7EGWrqDcrR+UlNYEMM0I5dbJIA2a6NVFDCbvQKPs0="
+    },
+    "type": "primary"
+  }
+}

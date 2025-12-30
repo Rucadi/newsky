@@ -1,0 +1,68 @@
+{
+  "NAT-ENB - WYRMSTOOTH patch 1.1": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1",
+      "file_id": 395021,
+      "file_name": "NAT-ENB - WYRMSTOOTH patch 1.1-92662-1-1-1685899634.zip",
+      "mod_id": 92662,
+      "hash": "sha256-SzVflR8MLniwrWVFu0nye6ejzgJi1oE/e1xfnzLLYkY="
+    },
+    "type": "primary"
+  },
+  "NAT-ENB - BEYOND SKYRIM BRUMA patch 1.1": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1",
+      "file_id": 395023,
+      "file_name": "NAT-ENB - BEYOND SKYRIM BRUMA patch 1.1-92662-1-1-1685899658.zip",
+      "mod_id": 92662,
+      "hash": "sha256-x4Ow6Q139Cq1BvvbXTN63e6LOMfZ5TqYRzuuKT3UbgM="
+    },
+    "type": "primary"
+  },
+  "NAT-ENB - College of Winterhold Patch 1.0": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 395024,
+      "file_name": "NAT-ENB - College of Winterhold Patch 1.0-92662-1-0-1685899701.zip",
+      "mod_id": 92662,
+      "hash": "sha256-n8UIvuDR7HgiGWtASPpxIx3rCBfl+NMqT4havQ4RoaI="
+    },
+    "type": "primary"
+  },
+  "NAT-ENB - DARKEND patch 1.1": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1",
+      "file_id": 395025,
+      "file_name": "NAT-ENB - DARKEND patch 1.1-92662-1-1-1685899719.zip",
+      "mod_id": 92662,
+      "hash": "sha256-7AlmqlP73ry3pTu6B2zz3qMHBULNuspzs/aPdvfXHU0="
+    },
+    "type": "primary"
+  },
+  "NAT-ENB - FALSKAAR patch 1.1": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1",
+      "file_id": 395026,
+      "file_name": "NAT-ENB - FALSKAAR patch 1.1-92662-1-1-1685899736.zip",
+      "mod_id": 92662,
+      "hash": "sha256-joKUH+lYwlpMVt229y7bhYiK4qJOCn4dMOuuYYVlI48="
+    },
+    "type": "primary"
+  },
+  "NAT-ENB - Judgement Cut End patch 1.0": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 395027,
+      "file_name": "NAT-ENB - Judgement Cut End patch 1.0-92662-1-0-1685899752.zip",
+      "mod_id": 92662,
+      "hash": "sha256-0oK4wGM1j4EG8/iArw5cg/nndeHfnjS8QJRVeuAV5PI="
+    },
+    "type": "primary"
+  }
+}

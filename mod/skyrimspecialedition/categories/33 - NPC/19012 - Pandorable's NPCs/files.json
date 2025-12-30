@@ -1,0 +1,33 @@
+{
+  "PAN_NPCs SE - blonde Elisif": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.4",
+      "file_id": 129704,
+      "file_name": "PAN_NPCs SE - blonde Elisif-19012-1-4-1584803041.rar",
+      "mod_id": 19012,
+      "hash": "sha256-zJ5vUvg3kYZXu2dLO2VTytLj3bCCTroV89gE/J32gps="
+    }
+  },
+  "PAN NPCs - 1k facetints": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.4",
+      "file_id": 229924,
+      "file_name": "PAN NPCs - 1k facetints-19012-1-4-1632300521.rar",
+      "mod_id": 19012,
+      "hash": "sha256-k10vydP0qzarqbFFEBkJ3ulDeA5OfX9DXruwnvTaOnM="
+    }
+  },
+  "PAN_NPCs": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.4",
+      "file_id": 229960,
+      "file_name": "PAN_NPCs-19012-1-4-1632324450.rar",
+      "mod_id": 19012,
+      "hash": "sha256-YP1GZsk5bDLqjdRHM11c+gK59iy4NHbu9CfoTtv9+18="
+    },
+    "type": "primary"
+  }
+}

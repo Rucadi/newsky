@@ -1,0 +1,43 @@
+{
+  "Skyrim Souls Tweaks": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.01",
+      "file_id": 285770,
+      "file_name": "Skyrim Souls Tweaks-68490-1-01-1653243971.rar",
+      "mod_id": 68490,
+      "hash": "sha256-yTjRpKch4eXS2NmNw/WqEJ5xLAdEYQlBfMZ+1cDgdUw="
+    },
+    "type": "primary"
+  },
+  "Skyrim Souls Tweaks (75 slow)": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.01",
+      "file_id": 285781,
+      "file_name": "Skyrim Souls Tweaks (75 slow)-68490-1-01-1653246531.rar",
+      "mod_id": 68490,
+      "hash": "sha256-AQItWLGOpK7a4C306KIseDN4C1XpfI3REvPj0UuO5yw="
+    }
+  },
+  "Skyrim Souls Tweaks (Inventory Paused)": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.01",
+      "file_id": 285788,
+      "file_name": "Skyrim Souls Tweaks (Inventory Paused)-68490-1-01-1653249909.rar",
+      "mod_id": 68490,
+      "hash": "sha256-MNjGHi6+172+mKEgNDhxN9Me3Go+1h5fKCsZ4Qarmos="
+    }
+  },
+  "Skyrim Souls Tweaks (Inventory Paused) - CNST": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.01",
+      "file_id": 618281,
+      "file_name": "Skyrim Souls Tweaks (Inventory Paused) - CNST-68490-1-01-1744911247.rar",
+      "mod_id": 68490,
+      "hash": "sha256-YN8D1Jaz2au2ERcsHVRgAOSQez3h9C3uG30av4oNpH4="
+    }
+  }
+}

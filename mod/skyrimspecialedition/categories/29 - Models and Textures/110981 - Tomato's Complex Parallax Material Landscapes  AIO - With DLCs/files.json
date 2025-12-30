@@ -1,0 +1,108 @@
+{
+  "Tomato's Landscape AIO - 2K - TPBF": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "4.0",
+      "file_id": 535731,
+      "file_name": "Tomato's Complex Material Landscape AIO - 2K-110981-4-0-1724719664.7z",
+      "mod_id": 110981,
+      "hash": "sha256-EAeZ8xk9atvi4ElyLQaN49rCOUx5bPwQduy6nVw71NU="
+    },
+    "type": "primary"
+  },
+  "Tomato's Landscape AIO - 1K - TPBF": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "4.0",
+      "file_id": 535732,
+      "file_name": "Tomato's Complex Material Landscape AIO - 1K-110981-4-0-1724719667.7z",
+      "mod_id": 110981,
+      "hash": "sha256-Gd9I+oEfPqKxfaFxae+3Abwprwg8l/nK79UE7qE2KUA="
+    },
+    "type": "primary"
+  },
+  "Tomato's Landscape AIO - 4K - TPBF": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "4.0",
+      "file_id": 535739,
+      "file_name": "Tomato's Complex Material Landscape AIO - 4K-110981-4-0-1724720458.7z",
+      "mod_id": 110981,
+      "hash": "sha256-jRdcXZW3I9dEtEF8NspyonuyWaZuJfegFoN+RYRYCQc="
+    },
+    "type": "primary"
+  },
+  "Simplicity of Snow -  LOD Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "4.0",
+      "file_id": 536649,
+      "file_name": "Simplicity of Snow -  LOD Patch-110981-4-0-1724987722.7z",
+      "mod_id": 110981,
+      "hash": "sha256-70duTL5AdGYmzZYMrhII5DwtN42YGxkKIW67uKL9kPw="
+    }
+  },
+  "Tomato's Landscapes AIO - 1K - Terrain Helper": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "4.1",
+      "file_id": 605658,
+      "file_name": "Tomato's Landscapes AIO - 1K - Terrain Helper-110981-4-1-1741987140.7z",
+      "mod_id": 110981,
+      "hash": "sha256-1O6I0E8Z52x7w+M4hcHwNQ8ggZ7iNOoAINgh25NgIYY="
+    },
+    "type": "primary"
+  },
+  "Tomato's Landscapes AIO - 2K - Terrain Helper": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "4.1",
+      "file_id": 605661,
+      "file_name": "Tomato's Landscapes AIO - 2K - Terrain Helper-110981-4-1-1741988055.7z",
+      "mod_id": 110981,
+      "hash": "sha256-TGEFVYkBe+KZGx7USAc6//10tiTSoAf2iuaJUp0kzAg="
+    },
+    "type": "primary"
+  },
+  "Tomato's Landscapes AIO - 4K - Terrain Helper": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "4.1",
+      "file_id": 605667,
+      "file_name": "Tomato's Landscapes AIO - 4K - Terrain Helper-110981-4-1-1741988878.7z",
+      "mod_id": 110981,
+      "hash": "sha256-20AfMSyKHszToyV7HC6/vSM/4Zyj4LEfs8J9QVDWGqY="
+    },
+    "type": "primary"
+  },
+  "Tomato Landscape - Better Dynamic Ash Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "2.0c",
+      "file_id": 605669,
+      "file_name": "Tomato Landscape - Better Dynamic Ash Patch-110981-2-0c-1741988976.7z",
+      "mod_id": 110981,
+      "hash": "sha256-X3XzIgqbN0chiSz1q/1kBWeKKOOcS9KA5E1bTMMaR1M="
+    }
+  },
+  "Tomato Landscape - Better Dynamic Snow Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "2.0b",
+      "file_id": 605671,
+      "file_name": "Tomato Landscape - Better Dynamic Snow Patch-110981-2-0b-1741989013.7z",
+      "mod_id": 110981,
+      "hash": "sha256-12NuwAGB/Pr3PXKbKuCcPjgd0TS3M3Hrn5GR+u0ZJ7E="
+    }
+  },
+  "Tomato's Landscape - Blended Roads CM Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "4.1",
+      "file_id": 605682,
+      "file_name": "Tomato's Landscape - Blended Roads CM Patch-110981-4-1-1741991355.7z",
+      "mod_id": 110981,
+      "hash": "sha256-KFZfQWji3VEvWZ6aZrOq46clhtM5fpHJ8NaQzPCDYrA="
+    }
+  }
+}

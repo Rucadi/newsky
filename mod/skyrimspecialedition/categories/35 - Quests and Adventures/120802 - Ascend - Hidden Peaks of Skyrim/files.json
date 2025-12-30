@@ -1,0 +1,23 @@
+{
+  "Addon for 'Shrine to Kyne'": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 517110,
+      "file_name": "Addon for 'Shrine to Kyne'-120802-1-0-1719950254.zip",
+      "mod_id": 120802,
+      "hash": "sha256-SkkSZoILhiwp5J5hXvwZ+BcgbLMJZeGeK11j/3Q6j8c="
+    }
+  },
+  "Ascend - Hidden Peaks of Skyrim": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.01",
+      "file_id": 536417,
+      "file_name": "Ascend - Hidden Peaks of Skyrim-120802-1-01-1724932479.zip",
+      "mod_id": 120802,
+      "hash": "sha256-4/+0ai5ce7+3O6+otJgIZoV2N9lna2VQgerweUhIfvs="
+    },
+    "type": "primary"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "Modpocalypse NPCs - Resources": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.03",
+      "file_id": 270209,
+      "file_name": "Modpocalypse NPCs - Resources-54421-1-03-1647300998.7z",
+      "mod_id": 54421,
+      "hash": "sha256-nrCYgCVf/Yprww5da+wnY1ZWI/ts0l+e51ah2mL0EN8="
+    },
+    "type": "primary"
+  },
+  "Modpocalypse NPCs - Resources (Hair Physics Addon)": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.03",
+      "file_id": 270210,
+      "file_name": "Modpocalypse NPCs - Resources (Hair Physics Addon)-54421-1-03-1647301253.7z",
+      "mod_id": 54421,
+      "hash": "sha256-srKp90bObfDUsaI6bxmkvelbeuRE7O08CemGiwZi0+0="
+    }
+  }
+}

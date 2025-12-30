@@ -1,0 +1,23 @@
+{
+  "Celtic Music Fixes": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.00",
+      "file_id": 275460,
+      "file_name": "Celtic Music Fixes-66141-1-00-1649340435.rar",
+      "mod_id": 66141,
+      "hash": "sha256-RIBoP7vAXUG3jUjRupOGbqT6HnMklDUXBAzz+zI2DUw="
+    },
+    "type": "primary"
+  },
+  "Celtic Combat Music Fixed": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.00",
+      "file_id": 275462,
+      "file_name": "Celtic Combat Music Fixed-66141-1-00-1649340489.rar",
+      "mod_id": 66141,
+      "hash": "sha256-Ht7brW1JyG4tvVhdgc6J9eE860CHTqqgi5IswHLQKlo="
+    }
+  }
+}

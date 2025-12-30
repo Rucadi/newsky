@@ -1,0 +1,65 @@
+{
+  "Armor of Blades DB Replacer": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1",
+      "file_id": 440940,
+      "file_name": "Armor of Blades Replacer-104091-1-1-1699423713.zip",
+      "mod_id": 104091,
+      "hash": "sha256-8ES5bxNOLClYls+IcXVbnZ9W0oDb9ycvC/3J2z2KAWQ="
+    }
+  },
+  "Mesh Edit (Chapters Version)": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.00",
+      "file_id": 441855,
+      "file_name": "Mesh Edit (Chapters Version)-104091-1-00-1699736944.zip",
+      "mod_id": 104091,
+      "hash": "sha256-nFwi2B4dqTpb60Rcb+E+CgbGrcIh0aKMUiKh45LVUKU="
+    }
+  },
+  "Mesh Edit (Render Version)": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.00",
+      "file_id": 441856,
+      "file_name": "Mesh Edit (Render Version)-104091-1-00-1699736980.zip",
+      "mod_id": 104091,
+      "hash": "sha256-gOtsgVvUBOUtWoW+1EUZ0FbM5MxTrt0t5y4vk8zMPcA="
+    }
+  },
+  "Armor of Blades (Chapter Version)": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.2",
+      "file_id": 478552,
+      "file_name": "Armor of Blades (Chapter Version)-104091-1-2-1709966170.zip",
+      "mod_id": 104091,
+      "hash": "sha256-yxypuAyog9QgcVYFmwYTF1LZKv4gVlQfxiALIAMs338="
+    },
+    "type": "primary"
+  },
+  "Armor of Blades (Render Version)": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.2",
+      "file_id": 478553,
+      "file_name": "Armor of Blades (Render Version)-104091-1-2-1709966310.zip",
+      "mod_id": 104091,
+      "hash": "sha256-EkQNbcNcYRZwQ9HEQIGVI4GyYSzS/GUSyM6zYa/0118="
+    },
+    "type": "primary"
+  },
+  "Armor of Blades (Royal Version)": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.2",
+      "file_id": 478554,
+      "file_name": "Armor of Blades (Royal Version)-104091-1-2-1709966443.zip",
+      "mod_id": 104091,
+      "hash": "sha256-hz8/fhe2dfD+OUc+SP+ZbOUnWGsdboDAOCipj9Ytyfg="
+    },
+    "type": "primary"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "AE Ghost of the Tribunal mask Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 676410,
+      "file_name": "AE Ghost of the Tribunal mask Patch-139840-1-0-1760574264.rar",
+      "mod_id": 139840,
+      "hash": "sha256-0XbXWpbsfIooZmgvR7t10wPxFLYSYNEpGUbsghLMKmk="
+    }
+  },
+  "(LORE ACCURATE) Dagoth Ur Follower": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.17",
+      "file_id": 701500,
+      "file_name": "(LORE ACCURATE) Dagoth Ur Follower-139840-1-17-1766541767.rar",
+      "mod_id": 139840,
+      "hash": "sha256-msQklcSVupJA+jzITudYdtXDz0ybAINDEOZ2jdwu0H8="
+    },
+    "type": "primary"
+  }
+}

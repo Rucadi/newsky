@@ -1,0 +1,63 @@
+{
+  "Runecarvers Edge 2k Complex Material": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 581694,
+      "file_name": "Runecarvers Edge 2k Complex Material-138601-1-0-1736539135.7z",
+      "mod_id": 138601,
+      "hash": "sha256-R1XU9o0tqD+9kh4vyVuTZ1Z+uPIF2kLPYI4Ln6dg9l0="
+    }
+  },
+  "Runecarvers Edge 4k": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "2.0",
+      "file_id": 581695,
+      "file_name": "Runecarvers Edge 4k-138601-2-0-1736539161.7z",
+      "mod_id": 138601,
+      "hash": "sha256-5srNmY0g6d9rrl9J6lfPE5d/QyW1Z4bNuLG5qXKBW4k="
+    }
+  },
+  "Runecarvers Edge 4k Complex Material": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 581696,
+      "file_name": "Runecarvers Edge 4k Complex Material-138601-1-0-1736539187.7z",
+      "mod_id": 138601,
+      "hash": "sha256-YO4PdNeCzdO5E6AuYT1s5aXLJ5k/7dYtRE5JlLiN3ek="
+    }
+  },
+  "Runecarvers Edge": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 582572,
+      "file_name": "Runecarvers Edge-138601-1-0-1736705107.7z",
+      "mod_id": 138601,
+      "hash": "sha256-SoY7B5FhdYI3YaeboISLwubfnDxvPu/8UG95NysAD3o="
+    },
+    "type": "primary"
+  },
+  "Runecarvers Edge 2k PBR": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 606070,
+      "file_name": "Runecarvers Edge 2k PBR-138601-1-0-1742069974.7z",
+      "mod_id": 138601,
+      "hash": "sha256-zpv6n++TDuAVQubGJABNvE++s/MTXYOBekkYHymWb7Y="
+    }
+  },
+  "Runecarvers Edge 4k PBR": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 606071,
+      "file_name": "Runecarvers Edge 4k PBR-138601-1-0-1742070011.7z",
+      "mod_id": 138601,
+      "hash": "sha256-4tpJhwqYyw/lPdiuAUvk/9HJfPBCIfUoWleLJqxMF3g="
+    }
+  }
+}

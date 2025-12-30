@@ -1,0 +1,24 @@
+{
+  "Cloaks of Skyrim Name Consistency Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1",
+      "file_id": 229512,
+      "file_name": "Cloaks of Skyrim Name Consistency Patch-55418-1-1-1632095596.7z",
+      "mod_id": 55418,
+      "hash": "sha256-jXn/YwTJ8ihZCTl4O8di0ARGReoQm47rwAKTgPDP/fo="
+    },
+    "type": "primary"
+  },
+  "Cloaks of Skyrim Crafting Tweaks": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 229513,
+      "file_name": "Cloaks of Skyrim Crafting Tweaks-55418-1-0-1632095781.7z",
+      "mod_id": 55418,
+      "hash": "sha256-Y+bhCemI8v6h0GNs2PWViSDZ2h/9yM+S62yDLw/RKnE="
+    },
+    "type": "primary"
+  }
+}

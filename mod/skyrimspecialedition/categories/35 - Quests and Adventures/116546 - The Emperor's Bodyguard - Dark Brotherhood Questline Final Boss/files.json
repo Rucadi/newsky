@@ -1,0 +1,23 @@
+{
+  "Emperor's Bodyguard Boss": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "2",
+      "file_id": 576045,
+      "file_name": "Emperor's Bodyguard Boss-116546-2-1735156747.zip",
+      "mod_id": 116546,
+      "hash": "sha256-iZ+vFJlfj389PEvelY5bKRGcsTQdmweRFB8h8spCZGU="
+    },
+    "type": "primary"
+  },
+  "Emperor's Bodyguard - Titus Mede I Armor": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1",
+      "file_id": 623463,
+      "file_name": "Emperor's Bodyguard - Titus Mede I Armor-116546-1-1746334763.zip",
+      "mod_id": 116546,
+      "hash": "sha256-F0WQEzibKJMlDoZIXUM1cUGQh2vOm4rW4bFBd1ggsBg="
+    }
+  }
+}

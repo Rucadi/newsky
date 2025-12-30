@@ -1,0 +1,23 @@
+{
+  "Cathedral - 3D Thicket and Dead Shrub - Uncompressed": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1",
+      "file_id": 365807,
+      "file_name": "Cathedral - 3D Thicket and Dead Shrub - Uncompressed-86392-1-1678043011.zip",
+      "mod_id": 86392,
+      "hash": "sha256-QLRFXRUyFmki1utMGiC7AwupM/d6WS5W1IQ3qhCwVQc="
+    }
+  },
+  "Cathedral - 3D Thicket and Dead Shrub": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1",
+      "file_id": 365808,
+      "file_name": "Cathedral - 3D Thicket and Dead Shrub-86392-1-1678043151.zip",
+      "mod_id": 86392,
+      "hash": "sha256-iR6KN/JZrtk1IoQZmTNJJDlJkjNw72M5/GVfXUr8I+k="
+    },
+    "type": "primary"
+  }
+}

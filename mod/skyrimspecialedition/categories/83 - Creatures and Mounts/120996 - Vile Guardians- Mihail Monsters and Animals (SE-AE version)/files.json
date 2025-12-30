@@ -1,0 +1,33 @@
+{
+  "Vile Guardians (se-ae)- 4k textures": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1",
+      "file_id": 507917,
+      "file_name": "Vile Guardians (se-ae)- 4k textures-120996-1-1717427702.rar",
+      "mod_id": 120996,
+      "hash": "sha256-yb9GQy4kTDxJ87Q7CECmXOdJyBhiOdZS8D/fqAuiGTk="
+    },
+    "type": "primary"
+  },
+  "Vile Guardians (se-ae)- 2k textures": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1",
+      "file_id": 507919,
+      "file_name": "Vile Guardians (se-ae)- 2k textures-120996-1-1717427766.rar",
+      "mod_id": 120996,
+      "hash": "sha256-DiISRz70ze/1xYeSE4rgjBVaCO+6yMgZZumCwa9hrPM="
+    }
+  },
+  "Vile Guardians (se-ae)- 1k textures": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1",
+      "file_id": 507920,
+      "file_name": "Vile Guardians (se-ae)- 1k textures-120996-1-1717427802.rar",
+      "mod_id": 120996,
+      "hash": "sha256-539gmyhCQpanxTg1/apKGXEj4BCgaYwzJKQ4vVnkFDM="
+    }
+  }
+}

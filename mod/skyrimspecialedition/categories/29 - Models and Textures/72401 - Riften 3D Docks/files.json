@@ -1,0 +1,24 @@
+{
+  "PARALLAX VERSION": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.02",
+      "file_id": 303557,
+      "file_name": "PARALLAX VERSION-72401-1-02-1659264512.zip",
+      "mod_id": 72401,
+      "hash": "sha256-M7L7ijiV/ClXkg9XCs/ICiLnbpI3VXMxBJ7kje8yv3s="
+    },
+    "type": "primary"
+  },
+  "NO PARALLAX VERSION": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.02",
+      "file_id": 303558,
+      "file_name": "NO PARALLAX VERSION-72401-1-02-1659264537.zip",
+      "mod_id": 72401,
+      "hash": "sha256-QcQSfJZkS3SAuvktpBoqt+HoW2F4+ROHW9r69ABncc0="
+    },
+    "type": "primary"
+  }
+}

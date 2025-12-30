@@ -1,0 +1,23 @@
+{
+  "Enhanced Landscapes Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1",
+      "file_id": 568070,
+      "file_name": "Enhanced Landscapes Patch-135116-1-1-1733089150.zip",
+      "mod_id": 135116,
+      "hash": "sha256-qZkwMJ8Umh7jfKD3E5fmYduwX8mgwqGl2CR597R1Jf0="
+    }
+  },
+  "Seeker's Solace": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.4",
+      "file_id": 571130,
+      "file_name": "Seeker's Solace-135116-1-4-1733863338.zip",
+      "mod_id": 135116,
+      "hash": "sha256-zOIzQVmEO0p4bQtWcEYMRQUJMSvdsiOe0dOdXZvS1SM="
+    },
+    "type": "primary"
+  }
+}

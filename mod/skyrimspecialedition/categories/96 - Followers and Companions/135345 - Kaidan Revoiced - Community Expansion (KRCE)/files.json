@@ -1,0 +1,124 @@
+{
+    "KRCE - High Res Texture Add-on": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "1.0.0",
+            "file_id": 570800,
+            "file_name": "KRCE - High Res Texture Add-on-135345-1-0-0-1733776740.zip",
+            "mod_id": 135345,
+            "hash": "sha256-TcTahQ+svsV/oT8h2Dr+eko/ES9Dsmefo6BOdsGGnOw="
+        }
+    },
+    "KRCE - Snazzy Falion's House Patch": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "1.0.0",
+            "file_id": 570801,
+            "file_name": "KRCE - Snazzy Falion's House Patch-135345-1-0-0-1733777049.zip",
+            "mod_id": 135345,
+            "hash": "sha256-67JUjkIGQgs+TJrtHn+abJ+eXyiN8UbYO9rxMXR6nB0="
+        }
+    },
+    "KRCE - Modder's Resources": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "1.0.0",
+            "file_id": 570890,
+            "file_name": "KRCE - Modder's Resources-135345-1-0-0-1733798907.zip",
+            "mod_id": 135345,
+            "hash": "sha256-XwuGKxIYvBwKWuuCayn3SK+tmWZZND+dVLVKch/ATI8="
+        }
+    },
+    "KRCE - Hand Placed Enemies - Light Patch": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "1.0",
+            "file_id": 571809,
+            "file_name": "KRCE - Hand Placed Enemies - Light Patch-135345-1-0-1734042747.zip",
+            "mod_id": 135345,
+            "hash": "sha256-js5bX0DxgmX9mVgBn3ULR4sctTLaQzRY+8+BgLXlHEY="
+        }
+    },
+    "KRCE - Hand Placed Enemies - Light (No Ambushes)": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "1.0.0",
+            "file_id": 571811,
+            "file_name": "KRCE - Hand Placed Enemies - Light (No Ambushes)-135345-1-0-0-1734043050.zip",
+            "mod_id": 135345,
+            "hash": "sha256-09kP7Hsgnnk8vyjkjNOZPOQN8WMJxtNfUudVLr5pook="
+        }
+    },
+    "Akaviri Dragonborn Mask Recolor - Standalone": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "1.0.0",
+            "file_id": 574720,
+            "file_name": "Akaviri Dragonborn Mask Recolor - Standalone-135345-1-0-0-1734819785.zip",
+            "mod_id": 135345,
+            "hash": "sha256-g+2r2t5sMtN4vNxj9WIZ5pTwCvIbYZYuMMSCczF2JWw="
+        }
+    },
+    "KRCE - Mihails Ring-necked Pheasants Patch": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "1.0",
+            "file_id": 580941,
+            "file_name": "KRCE - Mihails Ring-necked Pheasants Patch-135345-1-0-1736363348.zip",
+            "mod_id": 135345,
+            "hash": "sha256-HvpiP3QFoj66a175UK969y5Dbs5jdcES1khaRv+epvc="
+        }
+    },
+    "Abstract's Kaidan Workshop NPC Overhaul": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "1.1",
+            "file_id": 613129,
+            "file_name": "Abstract's Kaidan Workshop NPC Overhaul-135345-1-1-1743620572.zip",
+            "mod_id": 135345,
+            "hash": "sha256-n+6UyXH1b0nC1TnX56h2e1/2kuLUaRvWbn111ujrlQs="
+        }
+    },
+    "Kaidan Revoiced - Community Expansion v1.2.0": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "1.2.0",
+            "file_id": 615046,
+            "file_name": "Kaidan Revoiced - Community Expansion v1.2.0-135345-1-2-0-1744074524.zip",
+            "mod_id": 135345,
+            "hash": "sha256-QiBDvfau+A+JmTBKxDGp0u3FMGzamJUWQAPuKSZOMwU="
+        },
+        "type": "primary"
+    },
+    "KRCE v1.2.0 - (loose files)": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "1.2.0",
+            "file_id": 615047,
+            "file_name": "KRCE v1.2.0 - (loose files)-135345-1-2-0-1744074792.zip",
+            "mod_id": 135345,
+            "hash": "sha256-84zvHYpYX//R/rHsCeUC8GNVzXltXMx5Gy0Jwvh9pJE="
+        },
+        "type": "primary"
+    },
+    "KRCE - Hand Placed Enemies Patch": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "1.0.0",
+            "file_id": 677117,
+            "file_name": "KRCE - Hand Placed Enemies-135345-1-0-0-1760730688.zip",
+            "mod_id": 135345,
+            "hash": "sha256-WexGslcWSjxNXxLBWczGoOMTE4ySRY5mwU3gqE3pILc="
+        }
+    },
+    "KRCE - Hand Placed Enemies (No Ambushes) Patch": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "1.0.0",
+            "file_id": 677118,
+            "file_name": "KRCE - Hand Placed Enemies (No Ambushes)-135345-1-0-0-1760730757.zip",
+            "mod_id": 135345,
+            "hash": "sha256-ahqXUGgy7+LzdlqieZCSFDhNc8BChlMV4fAwAjnlmOE="
+        }
+    }
+}

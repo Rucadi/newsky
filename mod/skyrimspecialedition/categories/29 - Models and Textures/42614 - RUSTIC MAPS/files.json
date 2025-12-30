@@ -1,0 +1,95 @@
+{
+  "RUSTIC MAPS - 2K": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "2.0",
+      "file_id": 171718,
+      "file_name": "RUSTIC MAPS - 2K-42614-2-0-1606433716.7z",
+      "mod_id": 42614,
+      "hash": "sha256-sLUK8O1sEtvyXkLoTVQUusyzkVEJ4YBmwCxRD9bZfqU="
+    },
+    "type": "primary"
+  },
+  "RUSTIC MAPS - 4K": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "2.0",
+      "file_id": 171721,
+      "file_name": "RUSTIC MAPS - 4K-42614-2-0-1606434383.7z",
+      "mod_id": 42614,
+      "hash": "sha256-eA3yZpimtVd9Izqsoz/aZL4mlhBwUEYfuVln1NfuJNU="
+    },
+    "type": "primary"
+  },
+  "RUSTIC MAPS - 4K-2K": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "2.0",
+      "file_id": 171722,
+      "file_name": "RUSTIC MAPS - 4K-2K-42614-2-0-1606434499.7z",
+      "mod_id": 42614,
+      "hash": "sha256-drnFG9iAPjRLY62uNcTN0jBvE/hyvR8kK0OrwtyhazM="
+    },
+    "type": "primary"
+  },
+  "RUSTIC MAPS - 2K - DEUTSCH": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "2.0",
+      "file_id": 171723,
+      "file_name": "RUSTIC MAPS - 2K - DEUTSCH-42614-2-0-1606434659.7z",
+      "mod_id": 42614,
+      "hash": "sha256-zA/u7Z11kOqRVvHP1ozRZndKM9b5VY/RWH+JgKzC1H4="
+    }
+  },
+  "RUSTIC MAPS - 4K - DEUTSCH": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "2.0",
+      "file_id": 171724,
+      "file_name": "RUSTIC MAPS - 4K - DEUTSCH-42614-2-0-1606434765.7z",
+      "mod_id": 42614,
+      "hash": "sha256-rhq1LOOlYadCHV2sNIrR+R6GinLfRNrrCPjzjjnoHlg="
+    }
+  },
+  "RUSTIC MAPS - 4K-2K - DEUTSCH": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "2.0",
+      "file_id": 171725,
+      "file_name": "RUSTIC MAPS - 4K-2K - DEUTSCH-42614-2-0-1606434873.7z",
+      "mod_id": 42614,
+      "hash": "sha256-BcBiZue+GJ4QriuauH9SuaX6h6wujmhH6tkTZmB7jhI="
+    }
+  },
+  "RUSTIC MAPS - 2K - RUSSIAN": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "2.0",
+      "file_id": 350302,
+      "file_name": "RUSTIC MAPS - 2K - RUSSIAN-42614-2-0-1673928162.7z",
+      "mod_id": 42614,
+      "hash": "sha256-dgRMmYEavom4ZvnXOWNb+Ls9uzIxk5vrQYchBdwVZvA="
+    }
+  },
+  "RUSTIC MAPS - 4K - RUSSIAN": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "2.0",
+      "file_id": 350303,
+      "file_name": "RUSTIC MAPS - 4K - RUSSIAN-42614-2-0-1673928346.7z",
+      "mod_id": 42614,
+      "hash": "sha256-5bYQWHu25jKJEr8kJKrouIPjFTK6ONLiykS1FohM4fw="
+    }
+  },
+  "RUSTIC MAPS - 4K-2K - RUSSIAN": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "2.0",
+      "file_id": 350304,
+      "file_name": "RUSTIC MAPS - 4K-2K - RUSSIAN-42614-2-0-1673928511.7z",
+      "mod_id": 42614,
+      "hash": "sha256-tOjUC21U/v/+/Bi14v0U9ewe/pKIdGjInLDsLtgcsHc="
+    }
+  }
+}

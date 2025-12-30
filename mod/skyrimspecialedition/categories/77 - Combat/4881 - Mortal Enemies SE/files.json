@@ -1,0 +1,46 @@
+{
+  "Mortal Enemies SE ": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.05",
+      "file_id": 11006,
+      "file_name": "Mortal Enemies SE-4881-1-05.rar",
+      "mod_id": 4881,
+      "hash": "sha256-dmRACpnmJB4vVJbPnXfN8wLffiAhb8Ivq7CGfEzsuaY="
+    },
+    "type": "primary"
+  },
+  "Mortal Enemies SE - No Run Walk Changes": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "",
+      "file_id": 11785,
+      "file_name": "Mortal Enemies SE - No Run Walk Changes-4881-.rar",
+      "mod_id": 4881,
+      "hash": "sha256-jRrCEZ9/ylOtpDBDrEzTOg4lk5+kxQz8U1+aczoTx3Q="
+    },
+    "type": "primary"
+  },
+  "Mortal Enemies SE - Rival Remix - No Run Walk Changes": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 14358,
+      "file_name": "Mortal Enemies SE - Rival Remix - No Run Walk Changes-4881-1-0.rar",
+      "mod_id": 4881,
+      "hash": "sha256-+DVEBRPfTfJMFn7AweA10jOIu3sHUoD3C2YWcIWbkb4="
+    },
+    "type": "primary"
+  },
+  "Mortal Enemies SE - Rival Remix": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 14359,
+      "file_name": "Mortal Enemies SE - Rival Remix-4881-1-0.rar",
+      "mod_id": 4881,
+      "hash": "sha256-k7qqW2yy2EK+yqhO6CpTwqA3mJC+jiSB1+8xfWqFtqQ="
+    },
+    "type": "primary"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "Tundra Overhaul Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 642893,
+      "file_name": "Tundra Overhaul Patch-118261-1-0-1751275408.zip",
+      "mod_id": 118261,
+      "hash": "sha256-v2SsprZa/ctvmap9iFwMrn4lPDKahXnIJkPw6XTV7yg="
+    }
+  },
+  "Depths of the Soul - Quest Mod - ESL - 1.0.3": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0.3",
+      "file_id": 649955,
+      "file_name": "Depths of the Soul - Quest Mod - ESL - 1.0.3-118261-1-0-3-1753411387.zip",
+      "mod_id": 118261,
+      "hash": "sha256-mcSWBiJHQAtL2DcgGxKCk1EzKwXEVECidxJLI6Bo6B4="
+    },
+    "type": "primary"
+  }
+}

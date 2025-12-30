@@ -1,0 +1,44 @@
+{
+  "ZK Rogue 3BA": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1",
+      "file_id": 517566,
+      "file_name": "ZK Rogue 3BA-123311-1-1720087674.rar",
+      "mod_id": 123311,
+      "hash": "sha256-JqTI2qXl/KGWB86N9pmsc36PiyeWU1k0cxoxlElC/Bw="
+    },
+    "type": "primary"
+  },
+  "ZK Rogue UBE Patch - REQUIRES 3BA Version": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1",
+      "file_id": 517620,
+      "file_name": "ZK Rogue UBE Patch - REQUIRES 3BA Version-123311-1-1720102094.rar",
+      "mod_id": 123311,
+      "hash": "sha256-qJA6QTZ2l+pv8+oJUpuMCcZ0UvRUC3VSC4CAjQsDRoU="
+    }
+  },
+  "ZK Rogue BHUNP": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1",
+      "file_id": 517971,
+      "file_name": "ZK Rogue BHUNP-123311-1-1720199389.rar",
+      "mod_id": 123311,
+      "hash": "sha256-m2WSKmngoSrnWdCi1Va3GrDcusnQ5vdH0Xu0b4YQbuQ="
+    },
+    "type": "primary"
+  },
+  "ZK Rogue TBD Patch - REQUIRES 3BA": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1",
+      "file_id": 517984,
+      "file_name": "ZK Rogue TBD Patch - REQUIRES 3BA-123311-1-1720201082.rar",
+      "mod_id": 123311,
+      "hash": "sha256-9A0r7eWbPm/rRbtr0BzS4MclYtS1+DQLmuL6KAxMVdA="
+    }
+  }
+}

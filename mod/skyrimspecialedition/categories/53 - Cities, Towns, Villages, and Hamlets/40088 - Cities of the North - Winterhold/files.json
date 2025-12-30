@@ -1,0 +1,103 @@
+{
+  "Alternate Start - Live Another Life Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 159018,
+      "file_name": "Alternate Start - Live Another Life Patch-40088-1-0-1599190104.7z",
+      "mod_id": 40088,
+      "hash": "sha256-Zmh29htF7jwX7PmSRhNxrvEBUsrXqjbHFaISLC2Seh4="
+    }
+  },
+  "Enhanced Landscapes Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 159019,
+      "file_name": "Enhanced Landscapes Patch-40088-1-0-1599190165.7z",
+      "mod_id": 40088,
+      "hash": "sha256-++PSZyiuno2tiZHa+WK5YMePqjbBKsAVVcpQYlI7n9k="
+    }
+  },
+  "Medieval Lanterns of Skyrim Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 159020,
+      "file_name": "Medieval Lanterns of Skyrim Patch-40088-1-0-1599190195.7z",
+      "mod_id": 40088,
+      "hash": "sha256-WbTjNSwq/GzDbNn7JZMZyTGpUvAT7VwgWmbqzeAztDY="
+    }
+  },
+  "Missives Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 159021,
+      "file_name": "Missives Patch-40088-1-0-1599190222.7z",
+      "mod_id": 40088,
+      "hash": "sha256-kyw2WX5/awTlvpUtQ1pmJnP899u+XyvQcb/QonM4tAo="
+    }
+  },
+  "Skyrim 3D Signs Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 159022,
+      "file_name": "Skyrim 3D Signs Patch-40088-1-0-1599190257.7z",
+      "mod_id": 40088,
+      "hash": "sha256-STSaVQgj+/gIrMgS2O3WGkAVldQjXbJCv2mQlydHaI4="
+    }
+  },
+  "JK's Skyrim Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 159459,
+      "file_name": "JK's Skyrim Patch-40088-1-0-1599439004.7z",
+      "mod_id": 40088,
+      "hash": "sha256-W2KKLufenCZAdqugeNibkYGYnpqVcZ7MNlHbbsIyoAA="
+    }
+  },
+  "JK's Skyrim and Medieval Lanterns of Skyrim Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 159460,
+      "file_name": "JK's Skyrim and Medieval Lanterns Patch-40088-1-0-1599439083.7z",
+      "mod_id": 40088,
+      "hash": "sha256-C45OTxtUmlgNQAVXrGM/RNwxzSKtw4e3+rdBxY1sFt8="
+    }
+  },
+  "Cities of the North - Winterhold": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1",
+      "file_id": 165114,
+      "file_name": "Cities of the North - Winterhold-40088-1-1-1602459318.7z",
+      "mod_id": 40088,
+      "hash": "sha256-n58KnTVAmaMODdMJiLZ+GpOcalPizAScrfb3Lsixj2Q="
+    },
+    "type": "primary"
+  },
+  "LOD Fix for Non-DynDOLOD Users": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 240581,
+      "file_name": "LOD Fix for Non-DynDOLOD Users-40088-1-0-1636650553.7z",
+      "mod_id": 40088,
+      "hash": "sha256-XQajMiTg6NaGNAhRDCCsGc23QeaMdC6p2Zg3+ioxpAU="
+    }
+  },
+  "DK's Realistic Nord Ships Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 259657,
+      "file_name": "DK's Realistic Nord Ships Patch-40088-1-0-1643202870.7z",
+      "mod_id": 40088,
+      "hash": "sha256-m1WGot1zYXkViiwP5OiT5bTpffrhSNylnUncyXB4D08="
+    }
+  }
+}

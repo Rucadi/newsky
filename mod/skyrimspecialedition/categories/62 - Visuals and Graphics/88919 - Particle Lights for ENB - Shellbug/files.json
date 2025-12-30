@@ -1,0 +1,33 @@
+{
+  "Particle Lights for ENB - Shellbug": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 376909,
+      "file_name": "Particle Lights for ENB - Shellbug-88919-1-0-1681109333.rar",
+      "mod_id": 88919,
+      "hash": "sha256-iPcRMOFtBIBZ2QfBFxVUV3eu+iE4xUXQSx5q9Z1IoEs="
+    },
+    "type": "primary"
+  },
+  "HD Reworked Shellbug - PATCH": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 376910,
+      "file_name": "HD Reworked Shellbug - PATCH-88919-1-0-1681109434.rar",
+      "mod_id": 88919,
+      "hash": "sha256-Y7yjcpGlPTdtI57+cGwC/LYxzOVbiPD39IoRvKW2INY="
+    }
+  },
+  "Shellbug Overhaul- Mihail Monsters and Animals - PATCH": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 376911,
+      "file_name": "Shellbug Overhaul- Mihail Monsters and Animals - PATCH-88919-1-0-1681109542.rar",
+      "mod_id": 88919,
+      "hash": "sha256-WGXhpC9ITAXkTFmMjBf9FlsU0dlTveKy/u6Yhpz4JNA="
+    }
+  }
+}

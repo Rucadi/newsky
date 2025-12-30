@@ -1,0 +1,46 @@
+{
+  "Origins Of Forest - 3D Forest Grass": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.4.8",
+      "file_id": 326241,
+      "file_name": "Origins Of Forest - 3D Forest Grass-45719-1-4-8-1666599330.7z",
+      "mod_id": 45719,
+      "hash": "sha256-aAOVxVH4o2IPYWVIcLS40zdaDxTm0fxkaQaWczFOe7I="
+    },
+    "type": "primary"
+  },
+  "Origins Of Forest - 3D Forest Grass - less saturated": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.4.8",
+      "file_id": 326242,
+      "file_name": "Origins Of Forest - 3D Forest Grass - less saturated-45719-1-4-8-1666599362.7z",
+      "mod_id": 45719,
+      "hash": "sha256-d6qGXdxo6WuMVLNCoiSD0B9EoHpC1p4rFMY13Uaovr4="
+    },
+    "type": "primary"
+  },
+  "Origins Of Forest - 3D Forest Grass - less saturated and darker": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.4.8",
+      "file_id": 326243,
+      "file_name": "Origins Of Forest - 3D Forest Grass - less saturated and darker-45719-1-4-8-1666599394.7z",
+      "mod_id": 45719,
+      "hash": "sha256-Re91tdDNmkGftxurxVmFRL69AV0TIsodOiMh7ENFVNI="
+    },
+    "type": "primary"
+  },
+  "Origins Of Forest - 3D Forest Grass - tweaked highlights": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.4.8",
+      "file_id": 326244,
+      "file_name": "Origins Of Forest - 3D Forest Grass - tweaked highlights-45719-1-4-8-1666599452.7z",
+      "mod_id": 45719,
+      "hash": "sha256-QjhcX7Ta4GTeJcdMFO4ximMUfYkiCJhnBHo9e1i1GZE="
+    },
+    "type": "primary"
+  }
+}

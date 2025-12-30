@@ -1,0 +1,35 @@
+{
+  "JS UU Rings - Reliquary of Myth": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 433897,
+      "file_name": "JS UU Rings - Reliquary of Myth-102590-1-0-1697301197.7z",
+      "mod_id": 102590,
+      "hash": "sha256-n3dYbJT1k/xiedtsT+f8Gsot7B0GNluI/cygUpknMwU="
+    },
+    "type": "primary"
+  },
+  "JS UU Rings - Unique Item Tweaks": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 433898,
+      "file_name": "JS UU Rings - Unique Item Tweaks-102590-1-0-1697301220.7z",
+      "mod_id": 102590,
+      "hash": "sha256-LOt1Wehsyy+WAfK+vbGoRtbDtHQlkWvZ5c1rcs7pm/0="
+    },
+    "type": "primary"
+  },
+  "JS UU Rings - Forgotten Uniques": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 433900,
+      "file_name": "JS UU Rings - Forgotten Uniques-102590-1-0-1697301267.7z",
+      "mod_id": 102590,
+      "hash": "sha256-6Z+yCzyITYTexVxEw6Fs6UoShy8ccDfZrZ4j20IGPtg="
+    },
+    "type": "primary"
+  }
+}

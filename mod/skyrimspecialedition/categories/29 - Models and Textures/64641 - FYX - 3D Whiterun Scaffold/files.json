@@ -1,0 +1,46 @@
+{
+  "FYX - 3D Whiterun Scaffold - Gap Reduced": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0.4",
+      "file_id": 287673,
+      "file_name": "FYX - 3D Whiterun Scaffold - Gap Reduced-64641-1-0-4-1653923767.7z",
+      "mod_id": 64641,
+      "hash": "sha256-nEWbFXHWYynNN0JgMjzIzaxllPqVFdzs6aglYYYtHY4="
+    },
+    "type": "primary"
+  },
+  "FYX - 3D Whiterun Scaffold - Parallax": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0.4",
+      "file_id": 287674,
+      "file_name": "FYX - 3D Whiterun Scaffold - Parallax-64641-1-0-4-1653923794.7z",
+      "mod_id": 64641,
+      "hash": "sha256-IQGYenRKp0cI2H/QOnW2l8qMdcWyBNkOIY3kqU9chbg="
+    },
+    "type": "primary"
+  },
+  "FYX - 3D Whiterun Scaffold - Parallax - Gap Reduced": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0.4",
+      "file_id": 287675,
+      "file_name": "FYX - 3D Whiterun Scaffold - Parallax - Gap Reduced-64641-1-0-4-1653923816.7z",
+      "mod_id": 64641,
+      "hash": "sha256-tw7ChfTRIaqITDMCQ7U+oAL3d7kwCGeCitt3rlar47k="
+    },
+    "type": "primary"
+  },
+  "FYX - 3D Whiterun Scaffold": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0.4",
+      "file_id": 287676,
+      "file_name": "FYX - 3D Whiterun Scaffold-64641-1-0-4-1653923878.7z",
+      "mod_id": 64641,
+      "hash": "sha256-uT6pLYw0DLcqxEu9PpnEbX9EFQnLaETVDyYkd+2BZaQ="
+    },
+    "type": "primary"
+  }
+}

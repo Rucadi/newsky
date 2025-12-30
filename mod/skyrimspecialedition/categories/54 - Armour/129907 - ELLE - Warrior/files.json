@@ -1,0 +1,35 @@
+{
+  "Warrior - 3BA": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1",
+      "file_id": 546339,
+      "file_name": "Warrior - 3BA-129907-1-1727343079.rar",
+      "mod_id": 129907,
+      "hash": "sha256-kKAJ9Bvkjw9X1SIPvm6dwNtK35satOECbIHJA/Ft9Os="
+    },
+    "type": "primary"
+  },
+  "Warrior - BHUNP": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1",
+      "file_id": 546350,
+      "file_name": "Warrior - BHUNP-129907-1-1727345362.rar",
+      "mod_id": 129907,
+      "hash": "sha256-weXy7lOJdV+pj5K9GBRV79oCS/n/IZ/YA4DpFXJShwU="
+    },
+    "type": "primary"
+  },
+  "Warrior - UBE Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1",
+      "file_id": 546351,
+      "file_name": "Warrior - UBE Patch-129907-1-1727345892.rar",
+      "mod_id": 129907,
+      "hash": "sha256-Q/Ps3aTVt5nlcy8TK2AVkV56JYNWcDvz+YURpS6R8kI="
+    },
+    "type": "primary"
+  }
+}

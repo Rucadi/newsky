@@ -1,0 +1,43 @@
+{
+  "Knight-Errant Armor Set 2K Textures": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 548740,
+      "file_name": "Knight-Errant Armor Set 2K Textures-130790-1-0-1727977874.7z",
+      "mod_id": 130790,
+      "hash": "sha256-y7PPrc2aC5rj193N4fPXcUtk7RZFfTsoKA72xjuXfT4="
+    }
+  },
+  "Knight-Errant Armor Set": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.4",
+      "file_id": 556326,
+      "file_name": "Knight-Errant Armor Set-130790-1-4-1730094470.7z",
+      "mod_id": 130790,
+      "hash": "sha256-eOx/DNBaJuulGNubGbbIRSm9YvgKPWa3/ro5VyBkSXw="
+    },
+    "type": "primary"
+  },
+  "Knight-Errant Armor Set - Brighter metal 4K - 2K": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.4",
+      "file_id": 556327,
+      "file_name": "Knight-Errant Armor Set - Brighter metal 4K - 2K-130790-1-4-1730094815.7z",
+      "mod_id": 130790,
+      "hash": "sha256-8ZyKMkKbnPgApuLTz4tH2+XTluwEM07TRjDwepTr9AA="
+    }
+  },
+  "Knight-Errant Armor Set - Brighter metal 2K - 1K": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.4",
+      "file_id": 556328,
+      "file_name": "Knight-Errant Armor Set - Brighter metal 2K - 1K-130790-1-4-1730095068.7z",
+      "mod_id": 130790,
+      "hash": "sha256-bAAvRv8yS0141Q4yUHWJUlF2RFlRGg+L8776j9NVh+Q="
+    }
+  }
+}

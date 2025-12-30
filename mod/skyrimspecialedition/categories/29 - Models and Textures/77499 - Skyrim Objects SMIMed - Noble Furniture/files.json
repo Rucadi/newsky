@@ -1,0 +1,23 @@
+{
+  "Project Clarity - noble furniture textures": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "0.1",
+      "file_id": 325867,
+      "file_name": "Project Clarity - noble furniture textures-77499-0-1-1666474005.7z",
+      "mod_id": 77499,
+      "hash": "sha256-ugrjURsmOoRmaMCsQ5/USqb6FpI8eVosDAHfo2Y9eKY="
+    }
+  },
+  "Skyrim Objects SMIMed - Noble Furniture": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "0.6",
+      "file_id": 494271,
+      "file_name": "Skyrim Objects SMIMed - Noble Furniture-77499-0-6-1713951238.7z",
+      "mod_id": 77499,
+      "hash": "sha256-HlPXXr6Gb+S3VOz657ChaMJS3C20Smwxo6ffICrtZBY="
+    },
+    "type": "primary"
+  }
+}

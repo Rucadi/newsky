@@ -1,0 +1,24 @@
+{
+  "Wintersun - Gallows Hall": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 244077,
+      "file_name": "Wintersun - Gallows Hall-58988-1-0-1637770412.zip",
+      "mod_id": 58988,
+      "hash": "sha256-uX5r4T34r+mt6+Rr9uCDPQ/FzsF3GZioYQisqk+2ktw="
+    },
+    "type": "primary"
+  },
+  "Wintersun - Ghosts of the Tribunal": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 244119,
+      "file_name": "Wintersun - Ghosts of the Tribunal-58988-1-0-1637783294.zip",
+      "mod_id": 58988,
+      "hash": "sha256-xOluiekMohq/MG1r24HQTY2RZdW6PYPkDhPxfvDY5wc="
+    },
+    "type": "primary"
+  }
+}

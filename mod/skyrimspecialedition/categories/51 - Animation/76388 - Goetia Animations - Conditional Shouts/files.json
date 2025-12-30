@@ -1,0 +1,34 @@
+{
+  "Goetia Animations - Conditional Shouts": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.2",
+      "file_id": 320841,
+      "file_name": "Goetia Animations - Conditional Shouts-76388-1-2-1664660844.7z",
+      "mod_id": 76388,
+      "hash": "sha256-vrPrDCZ/tYq2g+nQZHU683BFue56i7D/O64G+UlxRjc="
+    },
+    "type": "primary"
+  },
+  "Goetia Animations - Momentum Whirlwind Sprint": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 320842,
+      "file_name": "Goetia Animations - Momentum Whirlwind Sprint-76388-1-0-1664660895.7z",
+      "mod_id": 76388,
+      "hash": "sha256-mijFTvvBRSMxhpfbK/ZDqlVwz8KcsrYg2IvVKasvVfU="
+    }
+  },
+  "Goetia Animations - Shouts - Simplistic Version": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 322488,
+      "file_name": "Goetia Animations - Shouts - Simplistic Version-76388-1-0-1665244884.7z",
+      "mod_id": 76388,
+      "hash": "sha256-gRwoXS3cNYaoJV/sfeVTShuamqFPZEiP22l6t+r2Bbw="
+    },
+    "type": "primary"
+  }
+}

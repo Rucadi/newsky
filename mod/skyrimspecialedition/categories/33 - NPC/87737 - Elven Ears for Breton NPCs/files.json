@@ -1,0 +1,43 @@
+{
+  "Patch for RBT  and URF": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1",
+      "file_id": 373030,
+      "file_name": "Patch for RBT or URF-87737-1-1680075684.zip",
+      "mod_id": 87737,
+      "hash": "sha256-TkJoEeKdtpsOUrYnoPAM92JpwZCqGAve2sJC1M7PYmY="
+    }
+  },
+  "Equipable Ears for Player.": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1",
+      "file_id": 373249,
+      "file_name": "Equipable Ears for Player.-87737-1-1680158768.zip",
+      "mod_id": 87737,
+      "hash": "sha256-qyjZr3laPNHIknXmArgfP4Yd8DNU3F50saPmjcrQl64="
+    }
+  },
+  "Elven Ears for Breton NPCs - FOMOD Installer": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.2",
+      "file_id": 380298,
+      "file_name": "Elven Ears for Breton NPCs - FOMOD Installer-87737-1-2-1682007063.zip",
+      "mod_id": 87737,
+      "hash": "sha256-teNF3Qee55gDnnULL66KhuWY69UDJQIoOABlme0Gbjg="
+    },
+    "type": "primary"
+  },
+  "BnP - RSV Patch by Owlessa": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "2",
+      "file_id": 437413,
+      "file_name": "BnP - RSV Patch by Owlessa-87737-2-1698393594.7z",
+      "mod_id": 87737,
+      "hash": "sha256-csoJ+CW4jOYfd7NAAHoxH0S3W3ALCbQ153vqHEZlC2Y="
+    }
+  }
+}

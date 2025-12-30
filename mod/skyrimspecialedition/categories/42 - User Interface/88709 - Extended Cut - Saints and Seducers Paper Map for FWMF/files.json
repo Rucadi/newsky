@@ -1,0 +1,24 @@
+{
+  "ECSS Shivering Isles Paper Map for FWMF (legacy)": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 376033,
+      "file_name": "ECSS Shivering Isles Paper Map for FWMF-88709-1-0-1680883210.zip",
+      "mod_id": 88709,
+      "hash": "sha256-WK1F2sIilcMM5IhcQT0Gf5wvsZ2aBrWrM4RhFyWcEis="
+    },
+    "type": "primary"
+  },
+  "ECSS Shivering Isles Paper Map for FWMF": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1.1",
+      "file_id": 559405,
+      "file_name": "ECSS Shivering Isles Paper Map for FWMF-88709-1-1-1-1730883240.zip",
+      "mod_id": 88709,
+      "hash": "sha256-N134OA9ljjxnjobEctClqgMHc/Msu9gXMsNwGF5Kleo="
+    },
+    "type": "primary"
+  }
+}

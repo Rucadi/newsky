@@ -1,0 +1,23 @@
+{
+  "EVG Animated Traversal - Stamina Cost": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 425812,
+      "file_name": "EVG Animated Traversal - Stamina Cost-100632-1-0-1694722454.7z",
+      "mod_id": 100632,
+      "hash": "sha256-qWvswL4SqA+d4ZNKzvDMKmod6m8L3DMmtz7t78p4jxU="
+    },
+    "type": "primary"
+  },
+  "Doubled Stamina Cost (20-40)": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 425813,
+      "file_name": "Doubled Stamina Cost (20-40)-100632-1-0-1694722744.7z",
+      "mod_id": 100632,
+      "hash": "sha256-NBUtCVsU+xhLwnTEp3PEiUQZTrnwrWTzSPwbrPq2t8Q="
+    }
+  }
+}

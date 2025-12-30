@@ -1,0 +1,23 @@
+{
+    "Tiny Patch for FK Diverse Racial Skeletons": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "1.0",
+            "file_id": 441797,
+            "file_name": "Tiny Patch for FK Diverse Racial Skeletons-103440-1-0-1699725274.rar",
+            "mod_id": 103440,
+            "hash": "sha256-FtKyVLqtvaB4Y4S1bL7th5AHdEv976zQJzBny0zl1VA="
+        }
+    },
+    "Simple Fishing Overhaul": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "1.2",
+            "file_id": 453831,
+            "file_name": "Simple Fishing Overhaul-103440-1-2-1703162004.rar",
+            "mod_id": 103440,
+            "hash": "sha256-zmxxAafAAirt7niMSe9UrkLYOUFb+FG72btUdMB6Ig8="
+        },
+        "type": "primary"
+    }
+}

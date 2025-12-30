@@ -1,0 +1,33 @@
+{
+  "Gingerbread Atronachs": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 452205,
+      "file_name": "Gingerbread Atronachs-107101-1-0-1702684106.rar",
+      "mod_id": 107101,
+      "hash": "sha256-o1sfuEhnQQk4SS450bhksEuoZtcpjvtuW7IpyS1PnpU="
+    },
+    "type": "primary"
+  },
+  "Obscure's College of Winterhold Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 452206,
+      "file_name": "Obscure's College of Winterhold Patch-107101-1-0-1702684191.rar",
+      "mod_id": 107101,
+      "hash": "sha256-1i3fiJbIWYbilNpdrBIQvNPTriS4JK/WVPEbSWCkqkw="
+    }
+  },
+  "USSEP Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 452207,
+      "file_name": "USSEP Patch-107101-1-0-1702684261.rar",
+      "mod_id": 107101,
+      "hash": "sha256-Lg4V1go6/jVwjJGlK8uRq0T7IXyrJIvF5QzYJ+UdgQ0="
+    }
+  }
+}

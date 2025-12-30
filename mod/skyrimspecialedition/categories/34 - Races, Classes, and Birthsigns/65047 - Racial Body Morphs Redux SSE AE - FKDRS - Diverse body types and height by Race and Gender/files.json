@@ -1,0 +1,35 @@
+{
+  "Racial Body Morphs": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.00",
+      "file_id": 273355,
+      "file_name": "Racial Body Morphs-65047-1-00-1648503549.7z",
+      "mod_id": 65047,
+      "hash": "sha256-bEoQhOiqE8TJ3Ua3ErCSGiPQjICovojsL4qqiErGWt4="
+    },
+    "type": "primary"
+  },
+  "Racial Body Morphs - Subtle": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.00",
+      "file_id": 273443,
+      "file_name": "Racial Body Morphs - Subtle-65047-1-00-1648541606.7z",
+      "mod_id": 65047,
+      "hash": "sha256-iF/ZnSXxMbIoVZ3IFH8nZX2rzJHF/gk2CpLdVFdjpho="
+    },
+    "type": "primary"
+  },
+  "Racial Body Morphs - Extreme": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.00",
+      "file_id": 277566,
+      "file_name": "Racial Body Morphs - Extreme-65047-1-00-1650131791.7z",
+      "mod_id": 65047,
+      "hash": "sha256-tfuS1WjLZ9QIMf45tl8bqT4LB6jS7CDsrbW9VuTZJ+E="
+    },
+    "type": "primary"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "Elmlock Armor and Blade - 4k Textures Addon": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 450609,
+      "file_name": "Elmlock Armor and Blade - 4k Textures Addon-105930-1-0-1702244241.7z",
+      "mod_id": 105930,
+      "hash": "sha256-bP9nFiffHlJ/CMFmY/h7SmYYug2/qt65UY8SIz+kYY8="
+    }
+  },
+  "Elmlock Armor and Blade - Concept Art Edition": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 450622,
+      "file_name": "Elmlock Armor and Blade - Concept Art Edition-105930-1-0-1702248692.7z",
+      "mod_id": 105930,
+      "hash": "sha256-q3AfTIgrNKOOFgtNzOSXeIzpp47zvWvvx56vR2HhucY="
+    }
+  },
+  "Elmlock Armor and Blade - Main File - 2K Textures": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.2.1",
+      "file_id": 451505,
+      "file_name": "Elmlock Armor and Blade - Main File - 2K Textures-105930-1-2-1-1702481970.7z",
+      "mod_id": 105930,
+      "hash": "sha256-wLFJZ7yLV2/3dMhBsq57A4+uIReRipTOBpT3hl0HDFM="
+    },
+    "type": "primary"
+  }
+}

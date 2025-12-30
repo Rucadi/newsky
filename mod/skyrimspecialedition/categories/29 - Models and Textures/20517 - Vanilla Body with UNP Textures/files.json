@@ -1,0 +1,23 @@
+{
+  "Warmonger Armory - Vampire Mesh": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1",
+      "file_id": 92302,
+      "file_name": "Warmonger Armory - Vampire Mesh-20517-1-1557931867.7z",
+      "mod_id": 20517,
+      "hash": "sha256-CLuStLi4X/4xWtr7eL88IMrQCeSsyOWNoZvdo0Wx93E="
+    }
+  },
+  "Vanilla Body with UNP Textures": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.2.1",
+      "file_id": 157116,
+      "file_name": "Vanilla Body with UNP Textures-20517-1-2-1-1598118449.7z",
+      "mod_id": 20517,
+      "hash": "sha256-dXg/WIKB/+Rt240ozK8Qb9PQf08PpgvlqbJQG3SFIw4="
+    },
+    "type": "primary"
+  }
+}

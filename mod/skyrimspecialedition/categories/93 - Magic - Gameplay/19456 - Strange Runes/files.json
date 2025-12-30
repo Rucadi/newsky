@@ -1,0 +1,33 @@
+{
+  "1K textures": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "3.5",
+      "file_id": 161310,
+      "file_name": "1K textures-19456-3-5-1600382085.7z",
+      "mod_id": 19456,
+      "hash": "sha256-nQNWqYDIlvJ8I2fo/XqdYIF4IrBcuJ/KIMHoHP5l1bI="
+    }
+  },
+  "No ENB Lights": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "3.6",
+      "file_id": 211568,
+      "file_name": "No ENB Lights-19456-3-6-1624902071.7z",
+      "mod_id": 19456,
+      "hash": "sha256-9XpEDpwxKXOX6hHPiu16ZOzIXNlWIUjXLTl566rpP/Q="
+    }
+  },
+  "Strange Runes": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "3.7.3",
+      "file_id": 275145,
+      "file_name": "Strange Runes-19456-3-7-3-1649208518.7z",
+      "mod_id": 19456,
+      "hash": "sha256-eIxfXucvY40yq8cHZAsPMc6fCLDjeN1k0vNKOVF6GMM="
+    },
+    "type": "primary"
+  }
+}

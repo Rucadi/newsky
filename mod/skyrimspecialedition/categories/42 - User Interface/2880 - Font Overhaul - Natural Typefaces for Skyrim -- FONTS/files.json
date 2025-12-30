@@ -1,0 +1,23 @@
+{
+  "Scribes of Skyrim Compatibility": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "2.1",
+      "file_id": 218923,
+      "file_name": "Scribes of Skyrim Compatibility-2880-2-1-1628137495.zip",
+      "mod_id": 2880,
+      "hash": "sha256-MPSm7WThALizfK2DlQ90Ujo6unVAd1IgrA+dM2JB6b8="
+    }
+  },
+  "Font Overhaul - All In One Installer": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "2.1.3",
+      "file_id": 468239,
+      "file_name": "Font Overhaul - All In One Installer-2880-2-1-3-1707201837.7z",
+      "mod_id": 2880,
+      "hash": "sha256-Ijp/VnBqEqhVrsHqct3qMq4WS4rAc64vEhJS0HbO/u8="
+    },
+    "type": "primary"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "Missing In Action - Skyforge Steel Reward": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 487378,
+      "file_name": "Missing In Action - Skyforge Steel Reward-115834-1-0-1712231538.7z",
+      "mod_id": 115834,
+      "hash": "sha256-piiJ7sv8IAhEdmdjt90BROIacdOfurH1bWg+G76Vv+Q="
+    },
+    "type": "primary"
+  },
+  "Missing In Action - Skyforge Steel Reward - AnH": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 488399,
+      "file_name": "Missing In Action - Skyforge Steel Reward - AnH-115834-1-0-1712513201.7z",
+      "mod_id": 115834,
+      "hash": "sha256-VV6FDSFQgX6R0JELEFOfArFTH9W3TyetRpHPgsbLsZQ="
+    }
+  }
+}

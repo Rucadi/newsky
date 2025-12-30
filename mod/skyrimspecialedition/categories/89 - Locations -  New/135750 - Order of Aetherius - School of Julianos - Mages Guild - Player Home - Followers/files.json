@@ -1,0 +1,104 @@
+{
+  "Order of Aetherius - Dint BDOR Wigs Addon": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 569720,
+      "file_name": "Order of Aetherius - Dint BDOR Wigs Addon-135750-1-0-1733536441.rar",
+      "mod_id": 135750,
+      "hash": "sha256-g59lI3GLHLdHQ4DOuSjOXB8dDRx1fDVdzJKpDj4dCBM="
+    }
+  },
+  "Order of Aetherius - Non-ENB Candles": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 569725,
+      "file_name": "Order of Aetherius - Non-ENB Candles-135750-1-0-1733537064.rar",
+      "mod_id": 135750,
+      "hash": "sha256-GX/6VPDHg324ArIa1l4G24LpTEfKcNZJnFrYsxOfyI8="
+    }
+  },
+  "Order of Aetherius - Ulvenwald": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 569726,
+      "file_name": "Order of Aetherius - Ulvenwald-135750-1-0-1733537091.rar",
+      "mod_id": 135750,
+      "hash": "sha256-E8daDQ0DP0CGhVECahkj403czqsfTEyjUSdaiDYccKQ="
+    }
+  },
+  "Order of Aetherius - Lux Orbis": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 569727,
+      "file_name": "Order of Aetherius - Lux Orbis-135750-1-0-1733537127.rar",
+      "mod_id": 135750,
+      "hash": "sha256-mthEy3LSvSdQbpeU9NzkEjGB5zAg6293F8NG5f4gnCA="
+    }
+  },
+  "Order of Aetherius - Lux": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.01",
+      "file_id": 569788,
+      "file_name": "Order of Aetherius - Lux-135750-1-01-1733547535.rar",
+      "mod_id": 135750,
+      "hash": "sha256-go4QKmHE8irG78kRP+B1uL49fvZklfqfAqnOUeT4dag="
+    }
+  },
+  "Order of Aetherius - Hidden Map Marker": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 571030,
+      "file_name": "Order of Aetherius - Hidden Map Marker-135750-1-0-1733842919.rar",
+      "mod_id": 135750,
+      "hash": "sha256-RuXAJE95ANkpciPl9/V2HsmR9FhyVdcsJaJFPig7TmE="
+    }
+  },
+  "Alternate Perspective - Order of Aetherius": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 573549,
+      "file_name": "Alternate Perspective - Order of Aetherius-135750-1-0-1734521855.rar",
+      "mod_id": 135750,
+      "hash": "sha256-Fh6JVM/ish/AFCWPsOEO9uBewwK82lyzRqsJ079Ff5c="
+    }
+  },
+  "Order of Aetherius - Smelter XP": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 584985,
+      "file_name": "Order of Aetherius - Smelter XP-135750-1-0-1737261311.rar",
+      "mod_id": 135750,
+      "hash": "sha256-JsCER6AN6xrJr8l5kxSeVCn3bcTBdg2hnwzkhel1NiU="
+    }
+  },
+  "Order of Aetherius CBBE 3BA": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.10",
+      "file_id": 627354,
+      "file_name": "Order of Aetherius CBBE 3BA-135750-1-10-1747311033.rar",
+      "mod_id": 135750,
+      "hash": "sha256-K5y/G4wWvDKeyaU8vQjTUGrwqaSQiyqyWupz7UjO2SA="
+    },
+    "type": "primary"
+  },
+  "Order of Aetherius UNP BHUNP": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.10",
+      "file_id": 627358,
+      "file_name": "Order of Aetherius UNP BHUNP-135750-1-10-1747311167.rar",
+      "mod_id": 135750,
+      "hash": "sha256-/zDPos5YVQhXYhd4EKMwdQWuKdssm/D/hDZqlWgGYsU="
+    },
+    "type": "primary"
+  }
+}

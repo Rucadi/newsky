@@ -1,0 +1,33 @@
+{
+  "Whistling in Skyrim Subtitles Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 483244,
+      "file_name": "Whistling in Skyrim Subtitles Patch-114781-1-0-1711156914.zip",
+      "mod_id": 114781,
+      "hash": "sha256-Efa7VU8Q8ImX/XO1Q2wB/tBjKIYuHAmYYIHuIOWFIno="
+    }
+  },
+  "Whistling in Skyrim": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.01",
+      "file_id": 669391,
+      "file_name": "Whistling in Skyrim-114781-1-01-1758833352.zip",
+      "mod_id": 114781,
+      "hash": "sha256-UOpVa0Gx8B3pARywRX/2Aaa7u1sPdrccaG+MAHH4K7c="
+    },
+    "type": "primary"
+  },
+  "Whistling in Skyrim - No Summons Version": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.01",
+      "file_id": 669394,
+      "file_name": "Whistling in Skyrim - No Summons Version-114781-1-01-1758835302.zip",
+      "mod_id": 114781,
+      "hash": "sha256-B4NYxqEPZX7r3b2Rgw9rqBVzVSxdCMw86uLhIcYbObU="
+    }
+  }
+}

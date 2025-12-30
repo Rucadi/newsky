@@ -1,0 +1,33 @@
+{
+  "HSMarkarth - The Treasury House": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0.0",
+      "file_id": 457233,
+      "file_name": "HSMarkarth - The Treasury House-108286-1-0-0-1704213715.7z",
+      "mod_id": 108286,
+      "hash": "sha256-/yvMC8ddNp89mEE4LWWUWAGRS2g+kdz8MnVT3/yl/5E="
+    },
+    "type": "primary"
+  },
+  "HSMarkarth - The Treasury House - ELFX": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0.0",
+      "file_id": 457234,
+      "file_name": "HSMarkarth - The Treasury House - ELFX-108286-1-0-0-1704213737.7z",
+      "mod_id": 108286,
+      "hash": "sha256-YGesRMYVK5CU/cIWwKeKW1QNt873w+MQMxpZRiP8dkA="
+    }
+  },
+  "HSMarkarth - The Treasury House - LUX": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0.0",
+      "file_id": 457235,
+      "file_name": "HSMarkarth - The Treasury House - LUX-108286-1-0-0-1704213778.7z",
+      "mod_id": 108286,
+      "hash": "sha256-HTh4QmQcofR6O2WGmTgDuvFxkHKGauSfvnyQg2+Kgbo="
+    }
+  }
+}

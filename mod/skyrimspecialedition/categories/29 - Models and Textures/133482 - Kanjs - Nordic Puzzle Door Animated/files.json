@@ -1,0 +1,35 @@
+{
+  "Kanjs - Nordic Puzzle Door Animated SE 4K": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1",
+      "file_id": 560093,
+      "file_name": "Kanjs - Nordic Puzzle Door Animated SE 4K-133482-1-1731074274.zip",
+      "mod_id": 133482,
+      "hash": "sha256-QdWvukE6Ib76b7MDSuH4igfB7wmXn5OJfmfv8qs+jW4="
+    },
+    "type": "primary"
+  },
+  "Kanjs - Nordic Puzzle Door Animated SE 1K": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1",
+      "file_id": 560095,
+      "file_name": "Kanjs - Nordic Puzzle Door Animated SE 1K-133482-1-1731074332.zip",
+      "mod_id": 133482,
+      "hash": "sha256-DgVEufSefBDoGS8NcuLnZw5AhD1KLfnlWmBaY11/QU8="
+    },
+    "type": "primary"
+  },
+  "Kanjs - Nordic Puzzle Door Animated SE 2K": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1",
+      "file_id": 560158,
+      "file_name": "Kanjs - Nordic Puzzle Door Animated SE 2K-133482-1-1731083861.zip",
+      "mod_id": 133482,
+      "hash": "sha256-Zn2MtuLQP92o7TddSlIXESfuPjbWQlEDrOgNFijeoBs="
+    },
+    "type": "primary"
+  }
+}

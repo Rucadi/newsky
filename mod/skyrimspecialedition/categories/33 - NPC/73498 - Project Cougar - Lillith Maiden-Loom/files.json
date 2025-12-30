@@ -1,0 +1,24 @@
+{
+  "Project Cougar - Lillith Maiden-Loom": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 308050,
+      "file_name": "Project Cougar - Lillith Maiden-Loom-73498-1-0-1660671576.7z",
+      "mod_id": 73498,
+      "hash": "sha256-eqMXnGDqKHBLYH51+dcor9XqQCHL8VQ4voXAnjrLDwc="
+    },
+    "type": "primary"
+  },
+  "(Updated Version) Project Cougar - Lillith Maiden-Loom": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "2.0",
+      "file_id": 353495,
+      "file_name": "Project Cougar - Lillith Maiden-Loom-73498-2-0-1674822780.7z",
+      "mod_id": 73498,
+      "hash": "sha256-k8IudDEiP5emihiRZ5s9W0TzsSCfUy0ZDUTuGwTuZpU="
+    },
+    "type": "primary"
+  }
+}

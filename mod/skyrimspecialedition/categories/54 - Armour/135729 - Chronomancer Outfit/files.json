@@ -1,0 +1,93 @@
+{
+  "Chronomancer 2k Complex Material": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 572066,
+      "file_name": "Chronomancer 2k Complex Material-135729-1-0-1734119304.7z",
+      "mod_id": 135729,
+      "hash": "sha256-iE/HaSqA8/dFyD0hCssl4uX8yBA/UgwcTrnv2kI8n3Y="
+    }
+  },
+  "Chronomancer 4k": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 572067,
+      "file_name": "Chronomancer 4k-135729-1-0-1734119420.7z",
+      "mod_id": 135729,
+      "hash": "sha256-J2P5u1+R4zxO4Hq3gNVawV/vzLYJDq7V8SujyistnZk="
+    }
+  },
+  "Chronomancer 4k Complex Material": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 572068,
+      "file_name": "Chronomancer 4k Complex Material-135729-1-0-1734119485.7z",
+      "mod_id": 135729,
+      "hash": "sha256-CwKrqcjRw2aRGKYqx+NnqqFaRMa1Xbx/5qZ9ntV2Jdo="
+    }
+  },
+  "Chronomancer 8k": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 572070,
+      "file_name": "Chronomancer 8k-135729-1-0-1734119652.7z",
+      "mod_id": 135729,
+      "hash": "sha256-nlKjwajjmD0auf3s0g6Kw2JOfYNOoukIvHtxS/aCN+I="
+    }
+  },
+  "Chronomancer 8k Complex Material": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 572073,
+      "file_name": "Chronomancer 8k Complex Material-135729-1-0-1734119776.7z",
+      "mod_id": 135729,
+      "hash": "sha256-im2/K3TJoOZAiVDyj5GeD1CPB5hplzaiL1st1f7Hqls="
+    }
+  },
+  "Chronomancer Armor": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.4",
+      "file_id": 616708,
+      "file_name": "Chronomancer Armor-135729-1-4-1744532506.7z",
+      "mod_id": 135729,
+      "hash": "sha256-2TPKDbb+2zreI/h7ll84x1AZ77qYNE+ygLLPwgpb+aE="
+    },
+    "type": "primary"
+  },
+  "Chronomancer 2k PBR": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.4",
+      "file_id": 616709,
+      "file_name": "Chronomancer 2k PBR-135729-1-4-1744532534.7z",
+      "mod_id": 135729,
+      "hash": "sha256-m01OwNSBmy/p6CuIwDR+/SFDAT7IM+ekHYXjcY3XBfc="
+    }
+  },
+  "Chronomancer 4k PBR": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.4",
+      "file_id": 616710,
+      "file_name": "Chronomancer 4k PBR-135729-1-4-1744532587.7z",
+      "mod_id": 135729,
+      "hash": "sha256-aEyyPnj7+aNv5YfIJrtbV/CRt1T9MdJ4kOzuwEba5z8="
+    }
+  },
+  "Chronomancer 8k PBR": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.4",
+      "file_id": 616711,
+      "file_name": "Chronomancer 8k PBR-135729-1-4-1744532761.7z",
+      "mod_id": 135729,
+      "hash": "sha256-/AiDd0sF2jFe71uClLtUjsCieEW2keR7SShVI26mnFw="
+    }
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "ChaosDragon Tweaks 1.01": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.01",
+      "file_id": 591654,
+      "file_name": "ChaosDragon Tweaks 1.01-136577-1-01-1738832456.7z",
+      "mod_id": 136577,
+      "hash": "sha256-wEFmpsofoizYt7OwKLYpw15Wm+QJ6vVSNaZfIeYaqSU="
+    },
+    "type": "primary"
+  },
+  "ChaosDragon Tweaks 1.01 CHS": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.01",
+      "file_id": 591655,
+      "file_name": "ChaosDragon Tweaks 1.01 CHS-136577-1-01-1738832480.7z",
+      "mod_id": 136577,
+      "hash": "sha256-D3nJL+iReMisj6796lkqs07wTb8YbzDVORz5hV4tYbo="
+    }
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "(Amsedillir) RoR 1.1.1 upgrade VampFix": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1.1",
+      "file_id": 598574,
+      "file_name": "(Amsedillir) RoR 1.1.1 upgrade VampFix-132573-1-1-1-1740405764.zip",
+      "mod_id": 132573,
+      "hash": "sha256-ZmVrQJa+DQ0fMv1QQ1DChn/S/g81dZIcwD0lHX4Jn24="
+    }
+  },
+  "Amsedillir - Runes Of Roots (3BA BHUNP UBE)": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1.2.1",
+      "file_id": 640195,
+      "file_name": "Amsedillir - Runes Of Roots (3BA BHUNP UBE)-132573-1-1-2-1-1750512001.zip",
+      "mod_id": 132573,
+      "hash": "sha256-0vVP1kXDDhnBXo8HFZy6+EvmNy/IMc7rxDSxwXZaUC4="
+    },
+    "type": "primary"
+  }
+}

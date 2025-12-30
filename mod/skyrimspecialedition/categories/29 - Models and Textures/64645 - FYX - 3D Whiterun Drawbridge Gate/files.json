@@ -1,0 +1,55 @@
+{
+  "FYX - 3D Whiterun Drawbridge Gate": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0.2",
+      "file_id": 271862,
+      "file_name": "FYX - 3D Whiterun Drawbridge Gate-64645-1-0-2-1647976916.7z",
+      "mod_id": 64645,
+      "hash": "sha256-hRk1FkjHmtLfqQ6Xbxt+Hsc/AcvQtVtYE6FscWHbCVU="
+    },
+    "type": "primary"
+  },
+  "FYX - 3D Whiterun Drawbridge Gate - Parallax": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0.2",
+      "file_id": 271863,
+      "file_name": "FYX - 3D Whiterun Drawbridge Gate - Parallax-64645-1-0-2-1647976958.7z",
+      "mod_id": 64645,
+      "hash": "sha256-lx7vwVE4DWpz591xFolytP37PIecailG4bzG4B91Sd8="
+    },
+    "type": "primary"
+  },
+  "FYX - 3D Whiterun Drawbridge Gate - SMIM": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0.2",
+      "file_id": 271864,
+      "file_name": "FYX - 3D Whiterun Drawbridge Gate - SMIM-64645-1-0-2-1647976998.7z",
+      "mod_id": 64645,
+      "hash": "sha256-xohVOfIRFnmnQErE0iuIOejfqNr+BMQEFbhWFCYx3sg="
+    },
+    "type": "primary"
+  },
+  "FYX - 3D Whiterun Drawbridge Gate - LUX Orbis meshe": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0.2",
+      "file_id": 271913,
+      "file_name": "FYX - 3D Whiterun Drawbridge Gate - LUX Orbis meshe-64645-1-0-2-1648014274.7z",
+      "mod_id": 64645,
+      "hash": "sha256-W////C0Fua4JrLu+4OClvjWfwpsUZ+C3PW5yvqB6fDw="
+    }
+  },
+  "FYX - 3D Whiterun Drawbridge Gate - LUX Orbis meshe Parallax": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0.2.1",
+      "file_id": 282043,
+      "file_name": "FYX - 3D Whiterun Drawbridge Gate - LUX Orbis meshe Parallax-64645-1-0-2-1-1651907556.7z",
+      "mod_id": 64645,
+      "hash": "sha256-q1D4gkdAX7X7u872SlkdYCSejyurjjZt2WQDtaqGjrg="
+    }
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "2-4k. New Dragonpriests. v1 Dirt": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0.0",
+      "file_id": 489890,
+      "file_name": "2-4k. New Dragonpriests. v1 Dirt-116525-1-0-0-1712922890.zip",
+      "mod_id": 116525,
+      "hash": "sha256-LXMQ7wxvApsQLBEDsbTQ0SaeJrN6ql5F9fsoLPdaxZ4="
+    },
+    "type": "primary"
+  },
+  "2-4k. New Dragonpriests. v2 Clean": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0.0",
+      "file_id": 489891,
+      "file_name": "2-4k. New Dragonpriests. v2 Clean-116525-1-0-0-1712922953.zip",
+      "mod_id": 116525,
+      "hash": "sha256-4c9ThdFr8mZ5iSNNlCCQsfzCRDmyIxmkwTYM+hkTSNM="
+    },
+    "type": "primary"
+  },
+  "1-2k. New Dragonpriests. v1 Dirt": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0.0",
+      "file_id": 489892,
+      "file_name": "1-2k. New Dragonpriests. v1 Dirt-116525-1-0-0-1712922998.zip",
+      "mod_id": 116525,
+      "hash": "sha256-0cpIEf4PX1y8khBejNm4kq8d1JfK8AlB5E1OmbsPlN0="
+    }
+  },
+  "1-2k. New Dragonpriests. v2 Clean": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0.0",
+      "file_id": 489893,
+      "file_name": "1-2k. New Dragonpriests. v2 Clean-116525-1-0-0-1712923055.zip",
+      "mod_id": 116525,
+      "hash": "sha256-YTCucaUPXkLI/IFi7Ulpc4SiVhiFVOvAbg+8Ha3Pb5Y="
+    }
+  },
+  "0. LoadscreenArt Dragonpriest": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0.0",
+      "file_id": 492478,
+      "file_name": "0. LoadscreenArt Dragonpriest-116525-1-0-0-1713519932.zip",
+      "mod_id": 116525,
+      "hash": "sha256-oV0pCwYkp58AGROHMgy3OpR1pMxLXDshM/BaseogVTM="
+    }
+  }
+}

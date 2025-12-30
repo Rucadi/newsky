@@ -1,0 +1,44 @@
+{
+  "FYX - 3D Stockades - Walls and Gate": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0.3",
+      "file_id": 283340,
+      "file_name": "FYX - 3D Stockades - Walls and Gate-66037-1-0-3-1652432991.7z",
+      "mod_id": 66037,
+      "hash": "sha256-YdpMlUVMCDJkjPOJw995pl4wSU0VsBa/BHhvI+u+4AY="
+    },
+    "type": "primary"
+  },
+  "FYX - 3D Stockades - Walls and Gate - Parallax": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0.3",
+      "file_id": 283341,
+      "file_name": "FYX - 3D Stockades - Walls and Gate - Parallax-66037-1-0-3-1652433107.7z",
+      "mod_id": 66037,
+      "hash": "sha256-y8SNF7uGbazuBRMfdlXJQRuiqapVcL/a+1/DeeSI/To="
+    },
+    "type": "primary"
+  },
+  "FYX - 3D Stockades - Walls and Gate - OPTI": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0.3",
+      "file_id": 377926,
+      "file_name": "FYX - 3D Stockades - Walls and Gate - OPTI-66037-1-0-3-1681398829.7z",
+      "mod_id": 66037,
+      "hash": "sha256-ApYgS32xBAZqXRkQleVFk45IfmZpNy7jLrOxViueOMU="
+    }
+  },
+  "FYX - 3D Stockades - Walls and Gate - Parallax - OPTI": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0.3",
+      "file_id": 377927,
+      "file_name": "FYX - 3D Stockades - Walls and Gate - Parallax - OPTI-66037-1-0-3-1681398866.7z",
+      "mod_id": 66037,
+      "hash": "sha256-cBQ54ckpq5W2+ju5WW4kNUwOmNGU1pBZxLo/Pib5MQs="
+    }
+  }
+}

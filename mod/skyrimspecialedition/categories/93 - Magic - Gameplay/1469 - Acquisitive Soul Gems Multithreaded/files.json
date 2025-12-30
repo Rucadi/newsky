@@ -1,0 +1,23 @@
+{
+  "Chinese Translation Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "4.8-CHINESE",
+      "file_id": 143197,
+      "file_name": "Chinese Translation Patch-1469-4-7-CHINESE-1590977775.7z",
+      "mod_id": 1469,
+      "hash": "sha256-AsxaA+zVGLmI0Cba9VGXlIryL09RTf5V6uPQbhHnYVU="
+    }
+  },
+  "Acquisitive Soul Gems Multithreaded": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "4.8",
+      "file_id": 315456,
+      "file_name": "Acquisitive Soul Gems Multithreaded-1469-4-8-1662950859.7z",
+      "mod_id": 1469,
+      "hash": "sha256-XtHHVQ18oeBcm8nUTxg+4eex4QVXZykg+Hgz7l+F3Ro="
+    },
+    "type": "primary"
+  }
+}

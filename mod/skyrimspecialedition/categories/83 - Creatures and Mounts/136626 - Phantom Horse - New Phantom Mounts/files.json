@@ -1,0 +1,23 @@
+{
+  "Phantom Horse - New Phantom Mounts": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.3",
+      "file_id": 661601,
+      "file_name": "Phantom Horse - New Phantom Mounts-136626-1-3-1756776069.zip",
+      "mod_id": 136626,
+      "hash": "sha256-756Z8fEn55umiF5HgLygaI+E4NIrbKYjzvhbRwEU3Jk="
+    },
+    "type": "primary"
+  },
+  "Phantom Mounts - Template": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.3",
+      "file_id": 661602,
+      "file_name": "Phantom Mounts - Template-136626-1-3-1756776129.zip",
+      "mod_id": 136626,
+      "hash": "sha256-OQ4FMjve2qQYPgl9VshIQhxBPWGNzsX2EYj+kqE3MA0="
+    }
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "Kanjs - Death Hound Animated SE 4K": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1",
+      "file_id": 489356,
+      "file_name": "Kanjs - Death Hound Animated SE 4K-116399-1-1712778188.zip",
+      "mod_id": 116399,
+      "hash": "sha256-EjK2lDXS/2l4ZjtPqPUwVKhjzvgY358+NsbVMIG+CKA="
+    },
+    "type": "primary"
+  },
+  "Kanjs - Death Hound Animated SE 2K": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1",
+      "file_id": 489358,
+      "file_name": "Kanjs - Death Hound Animated SE 2K-116399-1-1712778213.zip",
+      "mod_id": 116399,
+      "hash": "sha256-N1kJjwwYuO/LQ/W9P7WMeURMbtNLAuSAGui35bMUIaU="
+    },
+    "type": "primary"
+  },
+  "Kanjs - Death Hound Animated SE 1K": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1",
+      "file_id": 489359,
+      "file_name": "Kanjs - Death Hound Animated SE 1K-116399-1-1712778227.zip",
+      "mod_id": 116399,
+      "hash": "sha256-TUKTybpRSHMUzT6+ZPhkG/DrkOhPUf3aPalgSy3MTio="
+    },
+    "type": "primary"
+  }
+}

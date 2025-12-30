@@ -1,0 +1,24 @@
+{
+  "Keywords Fixed USEEP": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": ".",
+      "file_id": 134153,
+      "file_name": "Keywords Fixed USEEP-21597---1586817984.zip",
+      "mod_id": 21597,
+      "hash": "sha256-vSRmcSQbkmZTNIHPS3JjCXJ+HU/bJknbVKZ4QwgNV3M="
+    },
+    "type": "primary"
+  },
+  "Keywords Fixed - USEEP - ESL": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": ".",
+      "file_id": 134154,
+      "file_name": "Keywords Fixed - USEEP - ESL-21597---1586818157.zip",
+      "mod_id": 21597,
+      "hash": "sha256-kaORufGqQECnWaau1y3XnGe8TG8zDO0OG9a4gPcu6kU="
+    },
+    "type": "primary"
+  }
+}

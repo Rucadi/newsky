@@ -1,0 +1,68 @@
+{
+    "FYX - A - HHrothgar Collisions": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "1.0",
+            "file_id": 423814,
+            "file_name": "FYX - High Hrothgar Collisions-100088-1-0-1694023215.7z",
+            "mod_id": 100088,
+            "hash": "sha256-734DdD3b3CuZSLMPXgjpreVdMOHAug9ZdFgZthCbI2g="
+        },
+        "type": "primary"
+    },
+    "FYX - A - HHrothgar Collisions - Parallax": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "1.0",
+            "file_id": 423815,
+            "file_name": "FYX - High Hrothgar Collisions - Parallax-100088-1-0-1694023245.7z",
+            "mod_id": 100088,
+            "hash": "sha256-DxCWHSyCwGJxH4ozEasKD3/1k6Jfvnv78/1P67KE+/I="
+        },
+        "type": "primary"
+    },
+    "FYX - A - HHrothgar Steps Col - Skyrim Remastered": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "1.0",
+            "file_id": 424265,
+            "file_name": "FYX - High Hrothgar Steps Col - Skyrim Remastered-100088-1-0-1694194901.7z",
+            "mod_id": 100088,
+            "hash": "sha256-ZsC6dY6ysO10tdoIx12uaKRlz/QqUIlM/ko+Af4Ejm4="
+        },
+        "type": "primary"
+    },
+    "FYX - B - HHrothgar Steps Collisions - Soft": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "1.0",
+            "file_id": 425129,
+            "file_name": "FYX - High Hrothgar Steps Collisions - Soft-100088-1-0-1694490906.7z",
+            "mod_id": 100088,
+            "hash": "sha256-DveBnGHhW3rRqvifXBMG8/GkTyburS/QRfi342w2W1Q="
+        },
+        "type": "primary"
+    },
+    "FYX - B - HHrothgar Collisions - Soft - Parallax": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "1.0",
+            "file_id": 425130,
+            "file_name": "FYX - High Hrothgar Collisions - Parallax - Soft-100088-1-0-1694490960.7z",
+            "mod_id": 100088,
+            "hash": "sha256-nUNgjXoP8XL7mtVNTYRfGDI+rjptV0k+XqZlpuRkmCY="
+        },
+        "type": "primary"
+    },
+    "FYX - B - HHrothgar Step - Soft - Skyrim Remaster": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "1.0",
+            "file_id": 425131,
+            "file_name": "FYX - High Hrothgar Steps Collisions - Skyrim Rema-100088-1-0-1694491042.7z",
+            "mod_id": 100088,
+            "hash": "sha256-gI5oRoMsZuxTURIfJokJT6sn8fcAp0Nl8YYQEHId5s4="
+        },
+        "type": "primary"
+    }
+}

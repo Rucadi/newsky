@@ -1,0 +1,83 @@
+{
+  "Humanoid Dragon Priests - Open Helmet Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1",
+      "file_id": 513553,
+      "file_name": "Humanoid Dragon Priests - Open Helmet Patch-122320-1-1-1718950162.zip",
+      "mod_id": 122320,
+      "hash": "sha256-gaoIwWeSDxQgnB5E/R/qw+7LACzEwNFSBHum1t4Lfdk="
+    }
+  },
+  "Humanoid Dragon Priests - Xavbio Unique DP": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1",
+      "file_id": 513554,
+      "file_name": "Humanoid Dragon Priests - Xavbio Unique DP-122320-1-1-1718950384.zip",
+      "mod_id": 122320,
+      "hash": "sha256-e5ShPBwLFE+1BxFDOAm6SVg5IuCsxDcW8zXV5m7rzZU="
+    }
+  },
+  "Humanoid Dragon Priests - Xavbio - Open Helmet": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1",
+      "file_id": 513555,
+      "file_name": "Humanoid Dragon Priests - Xavbio - Open Helmet-122320-1-1-1718950463.zip",
+      "mod_id": 122320,
+      "hash": "sha256-wha3OwK53v9d3h0idcVz7b1+p80U2tL7KOW1tOWee1U="
+    }
+  },
+  "Humanoid Dragon Priests - SMP": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1",
+      "file_id": 513941,
+      "file_name": "Humanoid Dragon Priests - SMP-122320-1-1-1719072892.zip",
+      "mod_id": 122320,
+      "hash": "sha256-Dc7HGvaORItM0lK78YBSuKCRdUTwKKMbGdZIYBPYSds="
+    }
+  },
+  "Humanoid Dragon Priests - Xavbio - SMP": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1",
+      "file_id": 513942,
+      "file_name": "Humanoid Dragon Priests - Xavbio - SMP-122320-1-1-1719073018.zip",
+      "mod_id": 122320,
+      "hash": "sha256-l6g8bdyvxEH+BJ9soBh/unE2cdyd/EZR4KZ5ypoNTEw="
+    }
+  },
+  "Humanoid Dragon Priests": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.12",
+      "file_id": 521709,
+      "file_name": "Humanoid Dragon Priests-122320-1-12-1721103343.zip",
+      "mod_id": 122320,
+      "hash": "sha256-0C3YYgYLbs69UFkwdCUntxgClwOeSmdzb0xev62wvmg="
+    },
+    "type": "primary"
+  },
+  "Requiem - 3BFTweaks Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.14",
+      "file_id": 612160,
+      "file_name": "Requiem - 3BFTweaks Patch-122320-1-14-1743438297.zip",
+      "mod_id": 122320,
+      "hash": "sha256-ZXiaBr//IoqFKqafhF6vqELHTsFfOKHkPiQYujdD7CU="
+    }
+  },
+  "Requiem Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.13",
+      "file_id": 643970,
+      "file_name": "Requiem Patch-122320-1-13-1751625370.zip",
+      "mod_id": 122320,
+      "hash": "sha256-KEfYYWUAuoQXhs3dn/f+fLo/06bJ6miiOr7TTvEA0Qg="
+    }
+  }
+}

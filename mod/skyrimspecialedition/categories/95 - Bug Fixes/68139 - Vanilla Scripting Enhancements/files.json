@@ -1,0 +1,24 @@
+{
+  "BSA Version": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "3.0",
+      "file_id": 393086,
+      "file_name": "BSA Version-68139-3-0-1685378500.rar",
+      "mod_id": 68139,
+      "hash": "sha256-X/U5lZesmag9ewEdyDZyF3f3K54b4oIDmxQQiWnY7X4="
+    },
+    "type": "primary"
+  },
+  "Loose Version": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "3.0",
+      "file_id": 393087,
+      "file_name": "Loose Version-68139-3-0-1685378555.rar",
+      "mod_id": 68139,
+      "hash": "sha256-j3hZ3IuX0b3rrh0coEbwrxTH+QSqh+6qJTUSBRl3hwU="
+    },
+    "type": "primary"
+  }
+}

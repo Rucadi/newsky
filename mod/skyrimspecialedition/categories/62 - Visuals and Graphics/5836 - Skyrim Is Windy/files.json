@@ -1,0 +1,53 @@
+{
+  "Skyrim Is Windy - Enhanced Vanilla Trees Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "4.03",
+      "file_id": 13957,
+      "file_name": "Skyrim Is Windy - Enhanced Vanilla Trees Patch-5836-3-1.7z",
+      "mod_id": 5836,
+      "hash": "sha256-5pNELudEacVklVfcZb74UuJN90U3Fyz3C8N+On2/x/o="
+    }
+  },
+  "Skyrim Is Windy": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "4.03",
+      "file_id": 14210,
+      "file_name": "Skyrim Is Windy-5836-4-01.7z",
+      "mod_id": 5836,
+      "hash": "sha256-nsKEPywat7Z2VbpJ5NcB2D9MnDwfA17+INMGXZ4hzvc="
+    },
+    "type": "primary"
+  },
+  "Skyrim Is Windy - Simply Bigger Trees Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "4.03",
+      "file_id": 14217,
+      "file_name": "Skyrim Is Windy - Simply Bigger Trees Patch-5836-4-1.7z",
+      "mod_id": 5836,
+      "hash": "sha256-JK2pLeYYbOdCDK0FFh8Spd2wWNxUwxdJQealJsGDqRc="
+    }
+  },
+  "Skyrim Is Windy - Harvest Overhaul Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "4.03",
+      "file_id": 14251,
+      "file_name": "Skyrim Is Windy - Harvest Overhaul Patch-5836-4-02.7z",
+      "mod_id": 5836,
+      "hash": "sha256-2a1ele96n6HOTU5mnMH0PZVt/79NPv5ViL7OoYDTSxA="
+    }
+  },
+  "Skyrim Is Windy - Better Harvest Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "4.03",
+      "file_id": 16566,
+      "file_name": "Skyrim Is Windy - Better Harvest Patch-5836-4-03.7z",
+      "mod_id": 5836,
+      "hash": "sha256-BilgyvHZwI6gn3Ytjz+dLsoN7IcZf0oSSP7sjMZ721k="
+    }
+  }
+}

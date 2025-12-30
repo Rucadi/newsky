@@ -1,0 +1,23 @@
+{
+  "Frost Resist Warmth 1.0": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 253923,
+      "file_name": "Frost Resist Warmth 1.0-61272-1-0-1641316281.zip",
+      "mod_id": 61272,
+      "hash": "sha256-16veEvHGkAeRPk/6fpoQK3OOEjkmWoDq7yjQsyl3P+U="
+    },
+    "type": "primary"
+  },
+  "Frost Resist provides Warmth - Alternate Maximum Values": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 254212,
+      "file_name": "Frost Resist provides Warmth - Alternate Maximum Values-61272-1-0-1641412333.zip",
+      "mod_id": 61272,
+      "hash": "sha256-21XzUfix9n8lQIJ1x9oaVdR+GWlV84nsuryGSB47798="
+    }
+  }
+}

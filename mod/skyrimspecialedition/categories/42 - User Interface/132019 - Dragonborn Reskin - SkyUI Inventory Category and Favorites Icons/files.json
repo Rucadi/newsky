@@ -1,0 +1,24 @@
+{
+  "Dragonborn Reskin - SkyUI Category and Fav Icons": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.5",
+      "file_id": 632119,
+      "file_name": "Dragonborn Reskin - SkyUI Category and Fav Icons-132019-1-5-1748434489.zip",
+      "mod_id": 132019,
+      "hash": "sha256-KJd2rWLNbZv32Qq0yKvgzXwLw4ETzAdXow4OPtX0fe8="
+    },
+    "type": "primary"
+  },
+  "Quick Fav - Favorites Menu Effects Description mod": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.5",
+      "file_id": 632128,
+      "file_name": "Quick Fav - Favorites Menu Effects Description mod-132019-1-5-1748435661.zip",
+      "mod_id": 132019,
+      "hash": "sha256-1pEyMeZsYoEE0nt/luhUCQ4gXGyInPA1+F83TN3qjOA="
+    },
+    "type": "primary"
+  }
+}

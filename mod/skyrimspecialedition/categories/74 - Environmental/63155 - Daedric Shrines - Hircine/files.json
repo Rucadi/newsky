@@ -1,0 +1,24 @@
+{
+  "Hircine 4k": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.03",
+      "file_id": 262566,
+      "file_name": "Hircine 4k-63155-1-03-1644273934.zip",
+      "mod_id": 63155,
+      "hash": "sha256-o14qFYMoZsqemaAgq+SlsISmDpbQnj8lq8KBa/t5x3w="
+    },
+    "type": "primary"
+  },
+  "Hircine 2k": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.03",
+      "file_id": 262568,
+      "file_name": "Hircine 2k-63155-1-03-1644274013.zip",
+      "mod_id": 63155,
+      "hash": "sha256-jH3O1u63H+M1Km1VsClGKZyHXKFf0QmP3DkrA/JC+jY="
+    },
+    "type": "primary"
+  }
+}

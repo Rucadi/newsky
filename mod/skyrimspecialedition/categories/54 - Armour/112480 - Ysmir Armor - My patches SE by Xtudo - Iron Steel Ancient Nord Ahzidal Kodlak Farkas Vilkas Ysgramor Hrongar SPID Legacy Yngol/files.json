@@ -1,0 +1,381 @@
+{
+    "Ysmir Armor - SE by Xtudo - Fixes ESL": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "1.2",
+            "file_id": 474356,
+            "file_name": "Ysmir Armor - SE by Xtudo - Fixes ESL-112480-1-2-1708868535.7z",
+            "mod_id": 112480,
+            "hash": "sha256-xPNvKhPjYPbagpD3kiIsXI5b6of2OOCzk6m5hovy+Jw="
+        },
+        "type": "primary"
+    },
+    "Ysmir Armor - SE by Xtudo - Fixes ESP": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "1.2",
+            "file_id": 474357,
+            "file_name": "Ysmir Armor - SE by Xtudo - Fixes ESP-112480-1-2-1708868556.7z",
+            "mod_id": 112480,
+            "hash": "sha256-O03Ip+M02KLRNgiACf5I9AraoTkWwu9/z+juzl0fk1w="
+        },
+        "type": "primary"
+    },
+    "Ysmir Armor - SE by Xtudo - FarksVilks Outfit SPID": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "1.2",
+            "file_id": 474358,
+            "file_name": "Ysmir Armor - SE by Xtudo - FarksVilks Outfit SPID-112480-1-2-1708868591.7z",
+            "mod_id": 112480,
+            "hash": "sha256-bTpXE3R0+TIUSDZBWE2Ui930zBXdJosMa2VOen1V2BQ="
+        }
+    },
+    "Ysmir Armor - SE by Xtudo - Hrongar Outfit SPID": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "1.2",
+            "file_id": 474359,
+            "file_name": "Ysmir Armor - SE by Xtudo - Hrongar Outfit SPID-112480-1-2-1708868611.7z",
+            "mod_id": 112480,
+            "hash": "sha256-3oU9yC9gvlAEiLS+WHGfm2ujY2qKIVzuABR99tpYpFU="
+        }
+    },
+    "Ysmir Armor - SE by Xtudo - Kodlak Outfit SPID": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "1.2",
+            "file_id": 474360,
+            "file_name": "Ysmir Armor - SE by Xtudo - Kodlak Outfit SPID-112480-1-2-1708868631.7z",
+            "mod_id": 112480,
+            "hash": "sha256-1DYX2TJ0lL6zrhCpXDYIWh3da4emd8Oczch5NJwYjGU="
+        }
+    },
+    "Ysmir Armor - SE by Xtudo - Ysgramor Outfit SPID": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "1.2",
+            "file_id": 474363,
+            "file_name": "Ysmir Armor - SE by Xtudo - Ysgramor Outfit SPID-112480-1-2-1708868751.7z",
+            "mod_id": 112480,
+            "hash": "sha256-LyJt3h2BIVmuS1V9S4QspxI9bbkpVtis1duFWmDjk0M="
+        }
+    },
+    "Ysmir Armor - SE by Xtudo - Atmoran Baxe Fixes ESL": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "1.2",
+            "file_id": 474367,
+            "file_name": "Ysmir Armor - SE by Xtudo - Atmoran BAxe Fixes ESL-112480-1-3-1708869512.7z",
+            "mod_id": 112480,
+            "hash": "sha256-M/6VTqu8+jHcQDQr4BODsJoT0wDD2H42QvTdddTsXJg="
+        },
+        "type": "primary"
+    },
+    "Ysmir Armor - SE by Xtudo - Atmoran Baxe Fixes ESP": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "1.2",
+            "file_id": 474368,
+            "file_name": "Ysmir Armor - SE by Xtudo - Atmoran BAxe Fixes ESP-112480-1-3-1708869532.7z",
+            "mod_id": 112480,
+            "hash": "sha256-D+0S7xvv0Ikt2+Lgy5yjU27Hk/62UzsHeExf1ESuY/w="
+        },
+        "type": "primary"
+    },
+    "Ysmir Armor - SE by Xtudo - Atmoran Fix Craft ESL": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "1.4",
+            "file_id": 474717,
+            "file_name": "Ysmir Armor - SE by Xtudo - Atmoran Fix Craft ESL-112480-1-4-1708953177.7z",
+            "mod_id": 112480,
+            "hash": "sha256-oGKTGagiKfD2HdlMheoKxNaDGaQO5mcC9w7pEuvbr78="
+        },
+        "type": "primary"
+    },
+    "Ysmir Armor - SE by Xtudo - Fixes Crafting ESL": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "1.4",
+            "file_id": 474720,
+            "file_name": "Ysmir Armor - SE by Xtudo - Fixes Crafting ESL-112480-1-4-1708953340.7z",
+            "mod_id": 112480,
+            "hash": "sha256-168HeozT15SpMHnGe7rWvJRi8r9N9dsqamxgwZULJSo="
+        },
+        "type": "primary"
+    },
+    "Ysmir Armor - SE by Xtudo - Fixes Crafting ESP": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "1.4",
+            "file_id": 474721,
+            "file_name": "Ysmir Armor - SE by Xtudo - Fixes Crafting ESP-112480-1-4-1708953370.7z",
+            "mod_id": 112480,
+            "hash": "sha256-owrF4vJCevHknw9ChzO4Osu2mcY78+vKrhJ6G9BsjiA="
+        },
+        "type": "primary"
+    },
+    "Ysmir Armor - SE by Xtudo - Vanilla Ahzidal Armor": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "1.4",
+            "file_id": 474733,
+            "file_name": "Ysmir Armor - SE by Xtudo - Vanilla Ahzidal Armor-112480-1-4-1708954638.7z",
+            "mod_id": 112480,
+            "hash": "sha256-seHzg7D3OFIUobNCeefj1gUZeswqAxypW+OYi4HCLec="
+        }
+    },
+    "Ysmir Armor - SE by Xtudo - Vanilla Ancient Armor": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "1.4",
+            "file_id": 474734,
+            "file_name": "Ysmir Armor - SE by Xtudo - Vanilla Ancient Armor-112480-1-4-1708954661.7z",
+            "mod_id": 112480,
+            "hash": "sha256-txEExEyuNTJdxv26rO4osoGfCwch8ymdzpTKFee/AYc="
+        }
+    },
+    "Ysmir Armor - SE by Xtudo - Vanilla Iron Armor": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "1.4",
+            "file_id": 474735,
+            "file_name": "Ysmir Armor - SE by Xtudo - Vanilla Iron Armor-112480-1-4-1708954685.7z",
+            "mod_id": 112480,
+            "hash": "sha256-Etp76hJX0D7WeKsyDHLzEIMIgTWN3jseFAzP3DFYtBI="
+        }
+    },
+    "Ysmir Armor - SE by Xtudo - Atmoran Fix Craft ESP": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "1.4",
+            "file_id": 474775,
+            "file_name": "Ysmir Armor - SE by Xtudo - Atmoran Fix Craft ESP-112480-1-4-1708962675.7z",
+            "mod_id": 112480,
+            "hash": "sha256-tQc35mxTmCNq42Mp4N9yMRMGHdVFK28dDkI1Ln9Oz1o="
+        },
+        "type": "primary"
+    },
+    "Ysmir Armor - SE by Xtudo - LOTD Ahzidal Armor": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "1.5",
+            "file_id": 475107,
+            "file_name": "Ysmir Armor - SE by Xtudo - LOTD Ahzidal Armor-112480-1-5-1709049745.7z",
+            "mod_id": 112480,
+            "hash": "sha256-7B7oIEY9gsOGAyRHzS2YNrX5jsW8G5qea9XIwsw5P4U="
+        }
+    },
+    "Ysmir Armor - SE by Xtudo - Hair Female Long": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "1.5",
+            "file_id": 475108,
+            "file_name": "Ysmir Armor - SE by Xtudo - Hair Female Long-112480-1-5-1709049805.7z",
+            "mod_id": 112480,
+            "hash": "sha256-Wp9V6YLQS/MHlWbGQqg7yptVpSgq9RIUi69pW8KL/k0="
+        }
+    },
+    "Ysmir Armor - SE by Xtudo - Hair Female Short": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "1.5",
+            "file_id": 475109,
+            "file_name": "Ysmir Armor - SE by Xtudo - Hair Female Short-112480-1-5-1709049825.7z",
+            "mod_id": 112480,
+            "hash": "sha256-Ah4lVoOXaPTEx550kKzQclseDHxc58WATqJpwsGL+e8="
+        }
+    },
+    "Ysmir Armor - SE by Xtudo - Hair Male": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "1.5",
+            "file_id": 475110,
+            "file_name": "Ysmir Armor - SE by Xtudo - Hair Male-112480-1-5-1709049848.7z",
+            "mod_id": 112480,
+            "hash": "sha256-YPSoqrKSAWMcl8Wu0y+PgXBiBGuDrxG3+nK/TeGQKI8="
+        }
+    },
+    "Ysmir Armor - SE by Xtudo - Fixes Companions ESL": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "1.7",
+            "file_id": 475668,
+            "file_name": "Ysmir Armor - SE by Xtudo - Fixes Companions ESL-112480-1-7-1709215101.7z",
+            "mod_id": 112480,
+            "hash": "sha256-KzMPzYGy/Q2SnWC2sJLA4H538KGRnYLb31RANmoMG1o="
+        },
+        "type": "primary"
+    },
+    "Ysmir Armor - SE by Xtudo - Fixes Companions ESP": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "1.7",
+            "file_id": 475669,
+            "file_name": "Ysmir Armor - SE by Xtudo - Fixes Companions ESP-112480-1-7-1709215125.7z",
+            "mod_id": 112480,
+            "hash": "sha256-+HjsTDyvXWBxaGN9oe3pGccFV/FKVkU0j4l5LSk+sdA="
+        },
+        "type": "primary"
+    },
+    "Ysmir Armor - SE by Xtudo - Kodlak Outfit NoH SPID": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "1.9",
+            "file_id": 477640,
+            "file_name": "Ysmir Armor - SE by Xtudo - Kodlak Outfit NoH SPID-112480-1-9-1709750447.7z",
+            "mod_id": 112480,
+            "hash": "sha256-4b5tWWhPx9X6cxvt9gO6vELZ2mDmXfMEvxRxaMEWPnA="
+        }
+    },
+    "Ysmir Armor - SE by Xtudo - Armor Fixes": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "2.0",
+            "file_id": 485425,
+            "file_name": "Ysmir Armor - SE by Xtudo - Armor Fixes-112480-2-0-1711743435.7z",
+            "mod_id": 112480,
+            "hash": "sha256-evCmzDVe4yXenw54jL/tPbHSdCwX9iaTMRgDM8wdsHY="
+        },
+        "type": "primary"
+    },
+    "Ysmir Armor - SE by Xtudo - Vanilla Steel Armor": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "2.1",
+            "file_id": 570819,
+            "file_name": "Ysmir Armor - SE by Xtudo - Vanilla Steel Armor-112480-2-1-1733783011.7z",
+            "mod_id": 112480,
+            "hash": "sha256-Yz6ah9V0WoMVFplpVmjQ0QY+zJyO5JrZFiVCQpB3bzA="
+        }
+    },
+    "Ysmir Armor - SE by Xtudo - Female Hands Redone": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "2.2",
+            "file_id": 572271,
+            "file_name": "Ysmir Armor - SE by Xtudo - Female Hands Redone-112480-2-2-1734177048.7z",
+            "mod_id": 112480,
+            "hash": "sha256-1tYVe/Co/xYlXcinzxwbTJB2DcSPyzHS3KhV0sZTnSI="
+        }
+    },
+    "Ysmir Armor - SE by Xtudo - FarksVks Outfit SPIDNH": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "2.3",
+            "file_id": 584426,
+            "file_name": "Ysmir Armor - SE by Xtudo - FarksVks Outfit SPIDNH-112480-2-3-1737134997.7z",
+            "mod_id": 112480,
+            "hash": "sha256-W6ZLRICQrhv59Ou6PhUnzTdaNFQ+49uRLdRnIj2iGk8="
+        }
+    },
+    "Ysmir Armor - SE by Xtudo - Fixes Crafting EB ESL": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "2.4",
+            "file_id": 589415,
+            "file_name": "Ysmir Armor - SE by Xtudo - Fixes Crafting EB ESL-112480-2-4-1738323304.7z",
+            "mod_id": 112480,
+            "hash": "sha256-1BRuv4yFlNq3DrCdQb8FX3qb5GmbL22BNO4xhTHCmNY="
+        },
+        "type": "primary"
+    },
+    "Ysmir Armor - SE by Xtudo - Fixes Crafting EB ESP": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "2.4",
+            "file_id": 589417,
+            "file_name": "Ysmir Armor - SE by Xtudo - Fixes Crafting EB ESP-112480-2-4-1738323338.7z",
+            "mod_id": 112480,
+            "hash": "sha256-FvkB5U6gcegg6F+aD8ynhx0KE4KFdwoxvkKIVZ9Ml28="
+        },
+        "type": "primary"
+    },
+    "Ysmir Armor - SE by Xtudo - Fixes Crafting LA ESL": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "2.4",
+            "file_id": 589420,
+            "file_name": "Ysmir Armor - SE by Xtudo - Fixes Crafting LA ESL-112480-2-4-1738323436.7z",
+            "mod_id": 112480,
+            "hash": "sha256-bKVddKPeuB06JcHXB9YSCuEbJVXFP0Ers81jYGXX5a0="
+        },
+        "type": "primary"
+    },
+    "Ysmir Armor - SE by Xtudo - Fixes Crafting LA ESP": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "2.4",
+            "file_id": 589422,
+            "file_name": "Ysmir Armor - SE by Xtudo - Fixes Crafting LA ESP-112480-2-4-1738323481.7z",
+            "mod_id": 112480,
+            "hash": "sha256-KWdZbnhjGDoKBlASRcJPlbIPvQGcI0Y1jyA/Pyeps5g="
+        },
+        "type": "primary"
+    },
+    "Ysmir Armor - SE by Xtudo - Atmoran Craft Unen ESP": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "2.5",
+            "file_id": 607613,
+            "file_name": "Ysmir Armor - SE by Xtudo - Atmoran Craft Unen ESP-112480-2-5-1742472300.7z",
+            "mod_id": 112480,
+            "hash": "sha256-hj0OzEhSwLYWLO6dCbzFjXaUewLRzP0XLUboHdyW6KY="
+        },
+        "type": "primary"
+    },
+    "Ysmir Armor - SE by Xtudo - Atmoran Craft Unen ESL": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "2.5",
+            "file_id": 607614,
+            "file_name": "Ysmir Armor - SE by Xtudo - Atmoran Craft Unen ESL-112480-2-5-1742472358.7z",
+            "mod_id": 112480,
+            "hash": "sha256-hj0OzEhSwLYWLO6dCbzFjXaUewLRzP0XLUboHdyW6KY="
+        },
+        "type": "primary"
+    },
+    "Ysmir Armor - SE by Xtudo - Fixes Companions LAESL": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "2.6",
+            "file_id": 642225,
+            "file_name": "Ysmir Armor - SE by Xtudo - Fixes Companions LAESL-112480-2-6-1751061150.7z",
+            "mod_id": 112480,
+            "hash": "sha256-owpAhCZz6wp1AnCn0SWBIoH47KIruSsX/lPKh3ISQIA="
+        },
+        "type": "primary"
+    },
+    "Ysmir Armor - SE by Xtudo - Fixes Companions LAESP": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "2.6",
+            "file_id": 642226,
+            "file_name": "Ysmir Armor - SE by Xtudo - Fixes Companions LAESP-112480-2-6-1751061191.7z",
+            "mod_id": 112480,
+            "hash": "sha256-uU6r7Wnobc0ELoN8CzOGgKrU00KlKhqahDmtrwaNQL8="
+        },
+        "type": "primary"
+    },
+    "Ysmir Armor - SE by Xtudo - Artificer Ahzidal": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "2.7",
+            "file_id": 657257,
+            "file_name": "Ysmir Armor - SE by Xtudo - Artificer Ahzidal-112480-2-7-1755630049.7z",
+            "mod_id": 112480,
+            "hash": "sha256-rv2sOEyKM3en8yz0GndFkvHL4ZLcpLfcZLbUBhsHN+A="
+        }
+    },
+    "Ysmir Armor - SE by Xtudo - Artificer Yngol": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "2.9",
+            "file_id": 698288,
+            "file_name": "Ysmir Armor - SE by Xtudo - Artificer Yngol-112480-2-9-1765799043.7z",
+            "mod_id": 112480,
+            "hash": "sha256-Dsn5HYmA9KTVOWFOY8I7VDaFMm3vpCGACwdeqQRvPxY="
+        }
+    }
+}

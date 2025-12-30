@@ -1,0 +1,33 @@
+{
+  "SpellBreaker Rework Model Edit": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 605794,
+      "file_name": "SpellBreaker Rework Model Edit-144558-1-0-1742021511.zip",
+      "mod_id": 144558,
+      "hash": "sha256-3aoJIPFzH8E4OsqpcIyHtJxVVRJUrk8GREIQR/nyn7g="
+    }
+  },
+  "SpellBreaker Rework 1.01": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.01",
+      "file_id": 608606,
+      "file_name": "SpellBreaker Rework 1.01-144558-1-01-1742688367.zip",
+      "mod_id": 144558,
+      "hash": "sha256-hg+udNl5MTlWCcHqoFoCCcfvlygf8TDJcvzbu9nYtO4="
+    },
+    "type": "primary"
+  },
+  "SpellBreaker Rework 1.01 CHS": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.01",
+      "file_id": 608607,
+      "file_name": "SpellBreaker Rework 1.01 CHS-144558-1-01-1742688395.zip",
+      "mod_id": 144558,
+      "hash": "sha256-AKTHlhXg6TdUvFh2Zq+EP2nTCIC3FlJEgQGJckWhSVM="
+    }
+  }
+}

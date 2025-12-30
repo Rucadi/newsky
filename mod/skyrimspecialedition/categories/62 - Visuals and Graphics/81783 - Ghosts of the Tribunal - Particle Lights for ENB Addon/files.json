@@ -1,0 +1,24 @@
+{
+  "Ghosts of the Tribunal - Particle Lights for ENB Addon - Vanilla": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 345471,
+      "file_name": "Ghosts of the Tribunal - Particle Lights for ENB Addon - Vanilla-81783-1-0-1672562995.zip",
+      "mod_id": 81783,
+      "hash": "sha256-KcGo7m5f1rT+Z4S2xJBsCS0fzeZqHovhLqhLfqR2mbA="
+    },
+    "type": "primary"
+  },
+  "Ghosts of the Tribunal - Particle Lights for ENB Addon - Rudy": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 345472,
+      "file_name": "Ghosts of the Tribunal - Particle Lights for ENB Addon - Rudy-81783-1-0-1672563023.zip",
+      "mod_id": 81783,
+      "hash": "sha256-VrtMLv+E9Bw8VSS+5zY7u3XjJKY0OS0aIGBiksJGut4="
+    },
+    "type": "primary"
+  }
+}

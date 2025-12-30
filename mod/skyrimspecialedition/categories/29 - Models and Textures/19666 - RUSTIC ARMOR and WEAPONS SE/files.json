@@ -1,0 +1,35 @@
+{
+    "RAW SSE - 2K": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "3.0",
+            "file_id": 69261,
+            "file_name": "RAW SSE - 2K-19666-3-0-1539568066.7z",
+            "mod_id": 19666,
+            "hash": "sha256-dv0Jwq8/jKtq8KB7SMLOIpQoevBlyrVxP3fbVO33GYY="
+        },
+        "type": "primary"
+    },
+    "RAW SSE - 4K-2K": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "3.0",
+            "file_id": 69262,
+            "file_name": "RAW SSE - 4K-2K-19666-3-0-1539568268.7z",
+            "mod_id": 19666,
+            "hash": "sha256-A4oEJKuuIXhuy79DW6lMRMxBNPU+RK8m1LhyNMefm4o="
+        },
+        "type": "primary"
+    },
+    "RAW SSE - 4K": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "3.0",
+            "file_id": 69263,
+            "file_name": "RAW SSE - 4K-19666-3-0-1539568657.7z",
+            "mod_id": 19666,
+            "hash": "sha256-MQVAFu2Q6CJ2jxU9pCIxq6BoNCoAO9cL/gMIiJRIEhU="
+        },
+        "type": "primary"
+    }
+}

@@ -1,0 +1,33 @@
+{
+  "Classical Lichdom Cleaned": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1",
+      "file_id": 229434,
+      "file_name": "Classical Lichdom Cleaned-55803-1-1632073877.rar",
+      "mod_id": 55803,
+      "hash": "sha256-3liElONu1ksZDK+fFfMrhfZx071JfcDEg8XlBxkWlOM="
+    },
+    "type": "primary"
+  },
+  "4k Classical Lichdom Redone": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1",
+      "file_id": 325679,
+      "file_name": "4k Classical Lichdom Redone-55803-1-1666416114.rar",
+      "mod_id": 55803,
+      "hash": "sha256-lxe1xrDXV2bVGnQcXmUts/E7AAVWJxW8l7UnwxYhF/8="
+    }
+  },
+  "2k Classical Lichdom Redon": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1",
+      "file_id": 325681,
+      "file_name": "2k Classical Lichdom Redon-55803-1-1666416652.rar",
+      "mod_id": 55803,
+      "hash": "sha256-ZTNFLCSXqAak+9tfo+jPtui07zFWLLl7byMDZR5uxQg="
+    }
+  }
+}

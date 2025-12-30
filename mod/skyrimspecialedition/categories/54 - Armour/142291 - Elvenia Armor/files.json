@@ -1,0 +1,44 @@
+{
+  "Black Retextures": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.2",
+      "file_id": 610518,
+      "file_name": "Black Retextures-142291-1-2-1743100436.7z",
+      "mod_id": 142291,
+      "hash": "sha256-hzmaiTMgpmbM0unA33HCaTl6O+C7pqHYKnJhPAbh9R8="
+    }
+  },
+  "Elvenia Armor CBBE 3BA": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.4",
+      "file_id": 667231,
+      "file_name": "Elvenia Armor CBBE 3BA-142291-1-4-1758260113.7z",
+      "mod_id": 142291,
+      "hash": "sha256-+hRNHkViUQC5s8mfm51MslBZrpUyq4HwtTVRiB1hP+U="
+    },
+    "type": "primary"
+  },
+  "Elvenia Armor BHUNP": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.4",
+      "file_id": 667232,
+      "file_name": "Elvenia Armor BHUNP-142291-1-4-1758260143.7z",
+      "mod_id": 142291,
+      "hash": "sha256-ooQri0jC84mrEjTC+z63qzxD15+toqQCNqD6c5STook="
+    },
+    "type": "primary"
+  },
+  "Silver Retextures": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.4",
+      "file_id": 667233,
+      "file_name": "Silver Retextures-142291-1-4-1758260960.7z",
+      "mod_id": 142291,
+      "hash": "sha256-MWfO9RI4jUwTB8YN8+cXsPSdqQrbGSZ7yNOdmoIkGwI="
+    }
+  }
+}

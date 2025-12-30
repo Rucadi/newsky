@@ -1,0 +1,23 @@
+{
+  "Ronnie's Unique Weapons": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.2",
+      "file_id": 564061,
+      "file_name": "Ronnie's Unique Weapons-134120-1-2-1732050306.7z",
+      "mod_id": 134120,
+      "hash": "sha256-VtVErfT5ihVdLFmDZUcLGRj69MIoLl1winkJd62Lk3U="
+    },
+    "type": "primary"
+  },
+  "More Bandit Camps Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.2",
+      "file_id": 565247,
+      "file_name": "More Bandit Camps Patch-134120-1-2-1732380063.7z",
+      "mod_id": 134120,
+      "hash": "sha256-PP/MEFXKd7SuPXZ6rmYi8YT4SnVtuxgISfYPHjzXWmU="
+    }
+  }
+}

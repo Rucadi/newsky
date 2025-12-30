@@ -1,0 +1,35 @@
+{
+  "FYX - Water Mesh Optimization A 32": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0.2",
+      "file_id": 416099,
+      "file_name": "FYX - Water Mesh Optimization A 32-97713-1-0-2-1691765502.7z",
+      "mod_id": 97713,
+      "hash": "sha256-BXhmm5DFzxqzqFGWZO2Jpf1tTXPjCT1On6D2lKZGCgY="
+    },
+    "type": "primary"
+  },
+  "FYX - Water Mesh Optimization B 72": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0.2",
+      "file_id": 416100,
+      "file_name": "FYX - Water Mesh Optimization B 72-97713-1-0-2-1691765522.7z",
+      "mod_id": 97713,
+      "hash": "sha256-phhJUBr1WjX+2aCakRN5bNPwELJ8p1BZXFeUygV2MlQ="
+    },
+    "type": "primary"
+  },
+  "FYX - Water Mesh Optimization C 128": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0.2",
+      "file_id": 416101,
+      "file_name": "FYX - Water Mesh Optimization C 128-97713-1-0-2-1691765541.7z",
+      "mod_id": 97713,
+      "hash": "sha256-vpwKzD0DE46LVz/PnYuvyanUJf6KCIXD+pSPed0fPxQ="
+    },
+    "type": "primary"
+  }
+}

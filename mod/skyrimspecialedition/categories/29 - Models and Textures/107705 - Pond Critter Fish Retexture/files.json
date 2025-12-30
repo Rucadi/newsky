@@ -1,0 +1,24 @@
+{
+  "Pond Critter Fish Retexture": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1",
+      "file_id": 454918,
+      "file_name": "Pond Critter Fish Retexture-107705-1-1-1703472660.zip",
+      "mod_id": 107705,
+      "hash": "sha256-lEJZ91vtjJZdDtsPx+QJ9uTp6Xnnuqm/FolW/IY4Y7g="
+    },
+    "type": "primary"
+  },
+  "Specular Mesh Version with Texture Replacer": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.2",
+      "file_id": 454976,
+      "file_name": "Specular Mesh Version with Texture Replacer-107705-1-2-1703508834.zip",
+      "mod_id": 107705,
+      "hash": "sha256-fouCR24NkJYhI8TXrLnx6yAaFaprcbuckKIRM0DxSiI="
+    },
+    "type": "primary"
+  }
+}

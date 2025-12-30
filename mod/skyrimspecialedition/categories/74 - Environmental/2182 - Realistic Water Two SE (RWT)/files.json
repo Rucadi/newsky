@@ -1,0 +1,23 @@
+{
+  "Realistic Water Two SE - Darker Gradient Textures v5 and up": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "5.0.0",
+      "file_id": 312334,
+      "file_name": "Realistic Water Two SE - Darker Gradient Textures v5 and up-2182-5-0-0-1662062033.7z",
+      "mod_id": 2182,
+      "hash": "sha256-xVNiRAODC3/kOh/xE2KSTU2c2sHjSOAAigoD8JvitV0="
+    }
+  },
+  "Realistic Water Two SE v5.7.2": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "5.7.2",
+      "file_id": 567802,
+      "file_name": "Realistic Water Two SE v5.7.2-2182-5-7-2-1733024562.7z",
+      "mod_id": 2182,
+      "hash": "sha256-PkiMVXokjG+1n86H1S2VGxPj8DV/4iaDYeKrXy57Qg0="
+    },
+    "type": "primary"
+  }
+}

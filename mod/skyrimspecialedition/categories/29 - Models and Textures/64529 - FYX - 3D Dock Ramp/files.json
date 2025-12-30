@@ -1,0 +1,24 @@
+{
+  "FYX - 3D Dock Ramp": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0.2",
+      "file_id": 300795,
+      "file_name": "FYX - 3D Dock Ramp-64529-1-0-2-1658382506.7z",
+      "mod_id": 64529,
+      "hash": "sha256-v1aKSwZnG8mp2ctYkIe4jS+PFv2AGDMXntbE0OFXLWc="
+    },
+    "type": "primary"
+  },
+  "FYX - 3D Dock Ramp - Parallax": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0.2",
+      "file_id": 300796,
+      "file_name": "FYX - 3D Dock Ramp - Parallax-64529-1-0-2-1658382530.7z",
+      "mod_id": 64529,
+      "hash": "sha256-OzGPZETrjTAOjPyR7t8weNIMDwPnCCX44AljJ4kxsIw="
+    },
+    "type": "primary"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "Champions of Nature - Enemy 2 Ally - CBBE": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 538480,
+      "file_name": "Champions of Nature - Enemy 2 Ally - CBBE-128338-1-0-1725411296.rar",
+      "mod_id": 128338,
+      "hash": "sha256-gv/QgSV67ajlYNWliSljlY92897DyJkrmqo3/LN7A/w="
+    },
+    "type": "primary"
+  },
+  "Champions of Nature - Enemy 2 Ally - UNP": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 538481,
+      "file_name": "Champions of Nature - Enemy 2 Ally - UNP-128338-1-0-1725411346.rar",
+      "mod_id": 128338,
+      "hash": "sha256-a1/1LyqkzXeEkZYEAzjbeH4d5zkL8dwFi6NzoqSXasI="
+    },
+    "type": "primary"
+  },
+  "Champions of Nature - Enemy 2 Ally - Default": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 538482,
+      "file_name": "Champions of Nature - Enemy 2 Ally - Default-128338-1-0-1725411396.rar",
+      "mod_id": 128338,
+      "hash": "sha256-GMV9QD2f4uzOTcO7Rx+NKKMKYNqOIlefoELkXKKcyH0="
+    },
+    "type": "primary"
+  }
+}

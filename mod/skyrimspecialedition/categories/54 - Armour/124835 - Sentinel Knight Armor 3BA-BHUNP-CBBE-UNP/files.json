@@ -1,0 +1,86 @@
+{
+  "FB - Sentinel Knight 3BA 4k": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 523735,
+      "file_name": "FB - Sentinel Knight 3BA 4k-124835-1-0-1721638298.zip",
+      "mod_id": 124835,
+      "hash": "sha256-c1g8mvu/OuCDUAkKltG+jOZxqobhjR9aBAoS3qrxDIw="
+    },
+    "type": "primary"
+  },
+  "FB - Sentinel Knight 3BA 2k": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 523736,
+      "file_name": "FB - Sentinel Knight 3BA 2k-124835-1-0-1721638321.zip",
+      "mod_id": 124835,
+      "hash": "sha256-84FeqbcqUNzdUxfZccavsZhZtVdGmInBwQRnG1gBV10="
+    },
+    "type": "primary"
+  },
+  "FB - Sentinel Knight BHUNP 4k": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 523737,
+      "file_name": "FB - Sentinel Knight BHUNP 4k-124835-1-0-1721638359.zip",
+      "mod_id": 124835,
+      "hash": "sha256-XlDOpAYQXiUI7fggoBO56QIJ7UPsfwNZ5ST4PTED078="
+    },
+    "type": "primary"
+  },
+  "FB - Sentinel Knight BHUNP 2k": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 523738,
+      "file_name": "FB - Sentinel Knight BHUNP 2k-124835-1-0-1721638388.zip",
+      "mod_id": 124835,
+      "hash": "sha256-36LznSQQzckQrQ4EWpabdoTFekhUlAHFivI1BV8iH38="
+    },
+    "type": "primary"
+  },
+  "FB - Sentinel Knight UNP 4k": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 523741,
+      "file_name": "FB - Sentinel Knight UNP 4k-124835-1-0-1721638720.zip",
+      "mod_id": 124835,
+      "hash": "sha256-e5+QccpyDcx+b0v8fFd8gNgKm8ABHlqJ0AlEbKaO6t0="
+    }
+  },
+  "FB - Sentinel Knight UNP 2k": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 523743,
+      "file_name": "FB - Sentinel Knight UNP 2k-124835-1-0-1721638770.zip",
+      "mod_id": 124835,
+      "hash": "sha256-XavA9nSh7cNJHgU/rjZxyaeX5EGDGG5LJSDiwmrW8p8="
+    }
+  },
+  "FB - Sentinel Knight CBBE 4k": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 523748,
+      "file_name": "FB - Sentinel Knight CBBE 4k-124835-1-0-1721639842.zip",
+      "mod_id": 124835,
+      "hash": "sha256-+v0pDzrIGO+JCtBiJccSkJtrxtaqGsVlqg4ux3mr7bA="
+    }
+  },
+  "FB - Sentinel Knight CBBE 2k": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 523755,
+      "file_name": "FB - Sentinel Knight CBBE 2k-124835-1-0-1721640666.zip",
+      "mod_id": 124835,
+      "hash": "sha256-sk91q+hhT8EPWWtUTYgHIDumYAwbtVAEqjHUhYRJXlc="
+    }
+  }
+}

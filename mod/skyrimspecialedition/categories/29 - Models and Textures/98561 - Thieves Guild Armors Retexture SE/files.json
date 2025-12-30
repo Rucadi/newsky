@@ -1,0 +1,23 @@
+{
+  "Thieves Guild Armors Retexture SE": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 418220,
+      "file_name": "Thieves Guild Armors Retexture SE-98561-1-0-1692362970.rar",
+      "mod_id": 98561,
+      "hash": "sha256-3uU15zatX6IUNj32gh5puN+mtj9R18lE9KbrdhIVAbg="
+    },
+    "type": "primary"
+  },
+  "Thieves Guild Armors Retexture SE - Half Res": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 418221,
+      "file_name": "Thieves Guild Armors Retexture SE - Half Res-98561-1-0-1692363044.rar",
+      "mod_id": 98561,
+      "hash": "sha256-tZWviZNcvjcbxju9oKFiWHpb99pYUNtywyHHBP3I8Vs="
+    }
+  }
+}

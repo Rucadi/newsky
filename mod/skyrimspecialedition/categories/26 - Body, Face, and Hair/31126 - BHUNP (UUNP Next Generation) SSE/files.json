@@ -1,0 +1,33 @@
+{
+    "UNP Remastered BHUNP Body with Bodyslides SSE": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "3.34",
+            "file_id": 457352,
+            "file_name": "UNP Remastered BHUNP Body with Bodyslides SSE-31126-3-34-1704250037.7z",
+            "mod_id": 31126,
+            "hash": "sha256-9oFqaV7HqgXAJKNPPrtHC2brBTXSMS4Gp0dbhI2nGRM="
+        },
+        "type": "primary"
+    },
+    "BHUNP Physics Config Installer": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "3.22",
+            "file_id": 374346,
+            "file_name": "BHUNP Physics Config Installer-31126-3-22-1680432843.7z",
+            "mod_id": 31126,
+            "hash": "sha256-Hs4fieN8GjcQ32BrRwYYUoLK4q0JF2NraoUXvJchERc="
+        }
+    },
+    "BHUNP Bodyslider Modder's Resources": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "3.32",
+            "file_id": 379140,
+            "file_name": "BHUNP Bodyslider Modder's Resources-31126-3-32-1681742990.7z",
+            "mod_id": 31126,
+            "hash": "sha256-R54Xh3jlLYbKO+HXY3QyoEb0r9zia7GVWMYzV/Piv/Q="
+        }
+    }
+}

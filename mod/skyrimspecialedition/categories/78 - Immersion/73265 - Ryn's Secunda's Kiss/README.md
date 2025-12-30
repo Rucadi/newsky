@@ -1,0 +1,127 @@
+# Ryn's Secunda's Kiss
+- Author: Ryn
+- Game: skyrimspecialedition
+- Mod Page: https://www.nexusmods.com/skyrimspecialedition/mods/73265
+My Goal
+  
+  
+I love The Elder Scrolls series dearly, and I want to make my favorite game feel better for everyone. 
+  
+There are many other modders who do amazing things, and I feel like as a group we can make Skyrim feel new in EVERY way. 
+  
+My goal is to update many of the game's exteriors and/or interiors of commonly visited locations and dungeons throughout Skyrim, marked as ESL when available.
+  
+Consider joining my [Discord](https://discord.gg/VJbCEsDasb)﻿ for project updates!
+  
+*Please feel free to leave suggestions and ask questions along the way! ﻿*
+  
+  
+Ryn's Skyrim
+  
+  
+An ongoing project to overhaul the entirety of Skyrim's Worldspace. This will initially released in individual files, then as large AOI files, then finally in the end I will provide an all encompassing AOI file that will contain everything.
+  
+This will inherently make the game **more** **difficult**, as additional enemy spawns will be placed to match the increased size of most locations.
+  
+The largest and most well known mods in the community will always be taken into consideration and I attempt to create a product that is either easily patched, or does not require a patch. 
+  
+  
+I have full plans to create **open world bosses**, as well as bosses with their own **dungeons** or **worldspaces**. These bosses will massively range in difficulty, but know that open world bosses that you can easily wander into will never be on the most difficult side of the scale.
+  
+Bosses will potentially come with unique weapons, armors, or spells, as reward for defeating them.
+  
+These rewards will either be made by me, or be provided by other skilled Mod Authors.
+  
+  
+Additional locations, are part of Ryn's Skyrim as well. New points of interest, new openworld dwellings, new dungeons and worldspaces.
+  
+The scope of this mod is***massive***, and will take time to be completed. 
+  
+  
+MOD AUTHORS
+  
+I am always looking for others to work with. If you would like to help with this project, please contact me on the Nexus or on Discord. I am available in both places very often. Though mostly Discord. You will almost always get a reply from me on Discord within minutes.
+  
+  
+I'm searching for **creators** to contribute assets such as **armors** and **weapons**. This includes already created mods, you may wish the be included in some way in this project. I will ALWAYS provide clear and upfront credits to those who contribute. 
+  
+**Level Designers** that may want to join, I also am interested in you. Again, feel free to contact me on the Nexus or on Discord.
+  
+  
+  
+  
+Ryn's Secunda's Kiss
+  
+  
+*"She should be on a hill somewhere, under a fruit tree, with the sun and clouds above her and the rain to wash her clean."*
+  
+A giant's love for his mammoth is comparable to the love a man has for his wife.
+  
+Giants are known to mourn the deaths of their kin and their mammoths, and are known to bury them in their proper burial sites such as Secunda's Kiss. No longer does the location feel like a pile of rocks stacked together in a totally random field.
+  
+The terrain's form is utilized by the giants to offer their deceased companions an elevated position in offering to the moon Secunda.
+
+FAQ
+
+  
+  
+  
+  
+**Will you make a patch for \_\_\_\_\_\_\_\_\_\_\_?:**
+  
+Maybe. If you are going to ask, please ask nicely. I'm a human before I am a modder. :)
+  
+I focus heavily on creating new mods to add to this project, so creating patches for other mods is not on the top of my list, unless it is among the most important to have patched. If you would like niche mods to be patched, I'm sorry but you may have to seek other assistance. This project will take a very very long time as it is.
+  
+**If you put PATCH REQUESTS in the bug section, I will consider banning you from viewing any of my content.**
+  
+**I don't like this./This enemy is too hard. Can you change it for me?:**
+  
+Damn that's crazy.
+  
+  
+**How do I contact you about \_\_\_\_\_\_\_\_?:**
+  
+You can message me here on the nexus, or message me on Discord. (At the bottom of this page)
+  
+  
+**I'm having *insert bug* issue. Can you help?:**
+  
+Please put any issues in the bug section. They are far more likely to be taken care of that way. I see your comments. I read all of them. Seriously, I read every single comment. Adding your patch requests in the BUG section will make me considerably less likely to make the patch. 
+  
+**Please when reporting a bug, include images if you can. Chances are I will ask you for images regardless. Please either embed these images, or provide a link to Imgur. I will not go to any other site to view your images. If you provide a link to any other site, I will probably just delete or ignore the comment or bug report.** 
+  
+I **HIGHLY**suggest using a mod like [More Informative Console](https://www.nexusmods.com/skyrimspecialedition/mods/19250?tab=description) to help you pinpoint where bugs are coming from and provide that information to the correct author.
+  
+  
+**Can you make an AIO version containing all of your mods?**
+  
+Not yet. 
+  
+That is planned for later on and will come when I have the final creation of Ryn's Skyrim. Until then, no.
+  
+**Can you overhaul *insert location*?**It's probably already on my list, but please feel free to request. Sometimes that's what pushes me to work on it.
+  
+  
+**Why don't you make many patches for other mods to work with your mods?**
+  
+Because this project is very big. Making patches for other mods will take up an incredible amount of my time and drain me of any interest I have in completing this project. I am choosing to work on my own goal first, and then later I will pay much more attention to creating patches for other authors' work.
+  
+  
+  
+
+A Special Thank you﻿
+  
+A very special friend of mine who encouraged me to start modding.
+  
+Those who have helped encourage me, helped with feedback, and supported my work, thank you.
+  
+Without you, I do not think this project would continue.
+  
+As always, I love you, and happy modding.
+  
+  
+  
+  
+  
+Feel free to join my community discord for updates on my projects <https://discord.gg/VJbCEsDasb>

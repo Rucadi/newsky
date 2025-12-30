@@ -1,0 +1,46 @@
+{
+  "Based Boar 4K": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1",
+      "file_id": 226056,
+      "file_name": "Based Boar 4K-55073-1-1-1630755113.rar",
+      "mod_id": 55073,
+      "hash": "sha256-xShvJn8B7GKp2B/GPTGAvgnVPnCLFc54xC9mtGqdbgE="
+    },
+    "type": "primary"
+  },
+  "Based Boar 2K": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 226057,
+      "file_name": "Based Boar 2K-55073-1-0-1630755174.rar",
+      "mod_id": 55073,
+      "hash": "sha256-JrV8xhlKGwHDQm3iKdwaQqjlevj5GD6ZhoH6Ggv+xd8="
+    },
+    "type": "primary"
+  },
+  "Based Boar 2K-1K": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 226058,
+      "file_name": "Based Boar 2K-1K-55073-1-0-1630755213.rar",
+      "mod_id": 55073,
+      "hash": "sha256-9YjVrfKkhb2Bz3wEDiOn1lBd6QTxtcwBkZ6hHNSp3uo="
+    },
+    "type": "primary"
+  },
+  "Based Boar 1K": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 226059,
+      "file_name": "Based Boar 1K-55073-1-0-1630755250.rar",
+      "mod_id": 55073,
+      "hash": "sha256-BX0VTy7U9GzeXrOV6maTzbo1kBouY5xjLDucTLUwH1o="
+    },
+    "type": "primary"
+  }
+}

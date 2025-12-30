@@ -1,0 +1,74 @@
+{
+  "Vibian female goblin": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.00",
+      "file_id": 446022,
+      "file_name": "Vibian-105576-1-00-1700938227.rar",
+      "mod_id": 105576,
+      "hash": "sha256-RRE+Q0TTapY7JprnN7yzec1kSXwna6+7NVhAiPt8pqI="
+    },
+    "type": "primary"
+  },
+  "Selkie femboy goblin": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.00",
+      "file_id": 446023,
+      "file_name": "Selkie-105576-1-00-1700938279.rar",
+      "mod_id": 105576,
+      "hash": "sha256-X80Ms8usORJZP+1jSuXxx8ThB1y9mna6MmcWAbVJGGM="
+    },
+    "type": "primary"
+  },
+  "Vibian body preset": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.00",
+      "file_id": 446031,
+      "file_name": "Vibian body preset-105576-1-00-1700938617.rar",
+      "mod_id": 105576,
+      "hash": "sha256-U0rxjLUEWfWA4uFQ3hFhSxoNSPSTlxu5nRfwUF0zqHE="
+    }
+  },
+  "Selkie body preset": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.00",
+      "file_id": 446032,
+      "file_name": "Selkie body preset-105576-1-00-1700938661.rar",
+      "mod_id": 105576,
+      "hash": "sha256-iwxeqUCOK01DoKVgoAEL3VZmaJI67i4TsKZAnywLn88="
+    }
+  },
+  "Vibian no vagina patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.00",
+      "file_id": 446033,
+      "file_name": "Vibian no vagina patch-105576-1-00-1700938754.rar",
+      "mod_id": 105576,
+      "hash": "sha256-Sz12pRmQvf6kBYoqx5fptpm8JW8c1+cxKeNmsYPfcMg="
+    }
+  },
+  "Selkie no bodypaint for no vag version": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.00",
+      "file_id": 446052,
+      "file_name": "Selkie no bodypaint for no vag version-105576-1-00-1700939623.rar",
+      "mod_id": 105576,
+      "hash": "sha256-bqNlyMYUoSXlZ4hEzKDLSxCMMIB1FQ+yVtS+0Dfbmio="
+    }
+  },
+  "Selkie vagina patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.01",
+      "file_id": 446148,
+      "file_name": "Selkie vagina patch-105576-1-01-1700966669.rar",
+      "mod_id": 105576,
+      "hash": "sha256-6tEODZ2qwkeHJw/9CGghlEI8mYsnRK71vipIzebsoPo="
+    }
+  }
+}

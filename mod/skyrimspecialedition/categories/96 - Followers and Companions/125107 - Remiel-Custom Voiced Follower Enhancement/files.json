@@ -1,0 +1,63 @@
+{
+  "Remiel Enhancement Appearance Patch 1.1": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1",
+      "file_id": 531279,
+      "file_name": "Remiel Enhancement Appearance Patch 1.1-125107-1-1-1723575575.7z",
+      "mod_id": 125107,
+      "hash": "sha256-W4UK9yGsXPRIp4uUVGiRcwt8yAwPJ2pMUX6Ej7sApJA="
+    }
+  },
+  "Remiel Enhancement - Dwemer Automatons Glowmapped": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 531499,
+      "file_name": "Remiel Enhancement - Dwemer Automatons Glowmapped-125107-1-0-1723651590.7z",
+      "mod_id": 125107,
+      "hash": "sha256-+1imu5IPo7xp5q0CI9uwZ9O3a5AAIB3A+gnGe4xjojQ="
+    }
+  },
+  "Remiel Enhancement LOTD Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 531591,
+      "file_name": "Remiel Enhancement LOTD Pacth-125107-1-0-1723677494.7z",
+      "mod_id": 125107,
+      "hash": "sha256-N8zyfGiLbwsDSpuS6xgLiLBEhNrzLugO/QlPiqo4LVk="
+    }
+  },
+  "Remiel Enhancement Fast Start Patch 1.0": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 539559,
+      "file_name": "Remiel Enhancement Fast Start Patch 1.0-125107-1-0-1725696224.7z",
+      "mod_id": 125107,
+      "hash": "sha256-SYRyVCsKUqNYjkErnGrEjinWw4bM1jyYTds12LXFkug="
+    }
+  },
+  "Remiel Enhancement 1.12": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.12",
+      "file_id": 608598,
+      "file_name": "Remiel Enhancement 1.12-125107-1-12-1742687553.zip",
+      "mod_id": 125107,
+      "hash": "sha256-6L2SRRJy3PtDKv7YbvkxLUS63W2N4z1Rliixgd3otX4="
+    },
+    "type": "primary"
+  },
+  "Remiel Enhancement 1.12 CHS": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.12",
+      "file_id": 608599,
+      "file_name": "Remiel Enhancement 1.12 CHS-125107-1-12-1742687606.zip",
+      "mod_id": 125107,
+      "hash": "sha256-Zd3ptlF4sEWwx/RvyNbrR7FBCumEdShUaSP+13vwHjg="
+    }
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "Modern Brawl Bug Fix Loose": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0MBBF",
+      "file_id": 444178,
+      "file_name": "Modern Brawl Bug Fix Loose-105144-1-0MBBF-1700446113.rar",
+      "mod_id": 105144,
+      "hash": "sha256-o62U0i1ohwR7vFBCf39+4wTYqqeo2j46n5dC/L8nBLg="
+    }
+  },
+  "Script Optimizations and Fixes Compilation": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.3.3",
+      "file_id": 446975,
+      "file_name": "Script Optimizations and Fixes Compilation-105144-1-3-3-1701219209.rar",
+      "mod_id": 105144,
+      "hash": "sha256-KGdAA/4yKgWtDpYPmiemhTiGQVR4SPQiP6GaRt7oVok="
+    },
+    "type": "primary"
+  },
+  "Script Optimizations and Fixes Compilation - Loose": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.3.3L",
+      "file_id": 446976,
+      "file_name": "Script Optimizations and Fixes Compilation - Loose-105144-1-3-3L-1701219229.rar",
+      "mod_id": 105144,
+      "hash": "sha256-oXh0ZnI9f84Jvk8D5Jg5d73hVcsplMPQiSqvQYVrWO8="
+    },
+    "type": "primary"
+  }
+}

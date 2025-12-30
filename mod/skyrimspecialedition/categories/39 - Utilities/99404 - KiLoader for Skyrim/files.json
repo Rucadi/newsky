@@ -1,0 +1,23 @@
+{
+  "KiLoader ENB Satellite": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.2-ENB",
+      "file_id": 491964,
+      "file_name": "KiLoader ENB Satellite-99404-1-2-ENB-1713391574.7z",
+      "mod_id": 99404,
+      "hash": "sha256-96eLAl6Nja1TWm2kJo+QPtx0HnPAYp9MCZrjUOsX5YE="
+    }
+  },
+  "KiLoader for Skyrim": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.2",
+      "file_id": 491966,
+      "file_name": "KiLoader for Skyrim-99404-1-2-1713391803.7z",
+      "mod_id": 99404,
+      "hash": "sha256-1KyfI+u3hDh5pgJ8Kvz/CXUzaDXA/j/LteyqR8yoiLA="
+    },
+    "type": "primary"
+  }
+}

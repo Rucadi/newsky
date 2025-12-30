@@ -1,0 +1,44 @@
+{
+  "Deadly Dragons SE Patches": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "6.5.6",
+      "file_id": 249137,
+      "file_name": "Deadly Dragons SE Patches-23723-6-5-6-1639507938.7z",
+      "mod_id": 23723,
+      "hash": "sha256-nB5tQTg2S3V9Gihp3BDfFG/+m6OqvlSnh8iey/Fdnyc="
+    },
+    "type": "primary"
+  },
+  "Deadly Dragons - Temporary LotD Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "6.5.9",
+      "file_id": 403128,
+      "file_name": "Deadly Dragons - Temporary LotD Patch-23723-6-5-8a-1688312713.7z",
+      "mod_id": 23723,
+      "hash": "sha256-qT8TE4mR4GytHBtBHbizvv89UEr3a988A1pg5RlKRYM="
+    }
+  },
+  "Deadly Dragons SE": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "6.6.1",
+      "file_id": 466265,
+      "file_name": "Deadly Dragons SE-23723-6-6-1-1706624758.7z",
+      "mod_id": 23723,
+      "hash": "sha256-Sjl9bZNtVCEkBb5aUenfovXFsC2cgnt8OJyOwqSZkX8="
+    },
+    "type": "primary"
+  },
+  "Nether Dragon Breath Optimization": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "6.6.0",
+      "file_id": 450174,
+      "file_name": "Nether Dragon Breath Optimization-23723-6-6-0-1702134285.7z",
+      "mod_id": 23723,
+      "hash": "sha256-MuCskz9kesBSn4oK6Y7JQD8k7sAVKJj2SfGL2cQDbm8="
+    }
+  }
+}

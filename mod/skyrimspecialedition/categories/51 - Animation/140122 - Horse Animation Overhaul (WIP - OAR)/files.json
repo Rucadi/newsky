@@ -1,0 +1,33 @@
+{
+    "Horse Animation Overhaul - HAO": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "2.0",
+            "file_id": 646133,
+            "file_name": "Horse Animation Overhaul - HAO-140122-2-0-1752247438.zip",
+            "mod_id": 140122,
+            "hash": "sha256-ekIw47yhpPNIFvtfYxIhTX4qIEWuKh521nbKOy3cdAw="
+        },
+        "type": "primary"
+    },
+    "Thundertrot Directional Move Patch - HAO": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "2.0",
+            "file_id": 646135,
+            "file_name": "Thundertrot Directional Move Patch - HAO-140122-2-0-1752247475.zip",
+            "mod_id": 140122,
+            "hash": "sha256-o6Mnhcp2OEzgIkwq2mspMBDU9CbkdTl/jyZUgLtMfiM="
+        }
+    },
+    "Extra turn animations - HAO": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "2.0",
+            "file_id": 646136,
+            "file_name": "Extra turn animations - HAO-140122-2-0-1752247591.zip",
+            "mod_id": 140122,
+            "hash": "sha256-X1TM6vXWxzSwhtoc1vo9aaVsef9QqOP1uDadYdjRmGc="
+        }
+    }
+}

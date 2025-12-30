@@ -1,0 +1,23 @@
+{
+  "Unofficial Skyrim Special Edition Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 306627,
+      "file_name": "Unofficial Skyrim Special Edition Patch-73141-1-0-1660243763.rar",
+      "mod_id": 73141,
+      "hash": "sha256-LgGaPclVDeGTicolXUqm/LhDVDfWagUcV4d1POYsTRQ="
+    }
+  },
+  "Ryn's Bleakwind Basin": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1",
+      "file_id": 309172,
+      "file_name": "Ryn's Bleakwind Basin-73141-1-1-1661092859.rar",
+      "mod_id": 73141,
+      "hash": "sha256-NH/2EcaqLEEOurycSBtRdqvQaa4LCvsK1Or6osuDI24="
+    },
+    "type": "primary"
+  }
+}

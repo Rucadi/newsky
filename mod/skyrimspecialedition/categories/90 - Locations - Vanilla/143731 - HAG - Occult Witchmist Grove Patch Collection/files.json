@@ -1,0 +1,68 @@
+{
+  "HAG - Occult Witchmist Grove - Ryn's Dragon Mounds": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 602335,
+      "file_name": "HAG - Occult Witchmist Grove - Ryn's Dragon Mounds-143731-1-0-1741254313.rar",
+      "mod_id": 143731,
+      "hash": "sha256-cb/Vee2sZwd3edboBPDHTIYriTR4kvPCnzwCeWZRHW0="
+    },
+    "type": "primary"
+  },
+  "HAG - Occult Witchmist Grove - Deadly Dragon Lair": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 602336,
+      "file_name": "HAG - Occult Witchmist Grove - Deadly Dragon Lair-143731-1-0-1741254332.rar",
+      "mod_id": 143731,
+      "hash": "sha256-R5dlMeh7wv9WSPcW7EgdHKY3ZvkeWcwJk3sgTjGywAo="
+    },
+    "type": "primary"
+  },
+  "HAG - Witchmist - Ryn's and ESO Combo Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1",
+      "file_id": 602344,
+      "file_name": "HAG - Witchmist - Ryn's and ESO Combo Patch-143731-1-1-1741256287.rar",
+      "mod_id": 143731,
+      "hash": "sha256-HpwSVfJUS+Emc5LhMoHIoKUWtTwFUJdqTxpFWT9i1WU="
+    },
+    "type": "primary"
+  },
+  "HAG - Occult Witchmist Grove -  FPS Boost": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.21",
+      "file_id": 602359,
+      "file_name": "HAG - Occult Witchmist Grove -  FPS Boost-143731-1-21-1741262337.rar",
+      "mod_id": 143731,
+      "hash": "sha256-VH9h28p54X2Xl/waQp7Iah+HP7wzMAHKsNvOCLbomMk="
+    },
+    "type": "primary"
+  },
+  "HAG - Witchmist - Mihail's Crows and Ravens Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 603438,
+      "file_name": "HAG - Witchmist - Mihail's Crows and Ravens Patch-143731-1-0-1741495959.zip",
+      "mod_id": 143731,
+      "hash": "sha256-fqiyAuPg0LU0D/FEI/ntVF2y3jA/9PDGdMU7NV04SYk="
+    },
+    "type": "primary"
+  },
+  "HAG - Occult Witchmist Grove - ESO Imports Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.3",
+      "file_id": 626490,
+      "file_name": "HAG - Occult Witchmist Grove - ESO Patch-143731-1-2-1747076718.rar",
+      "mod_id": 143731,
+      "hash": "sha256-KtkYF8n/4bMDUhcZ7kwvyeMgJyNjVrT4wqmKxKTr5Mw="
+    },
+    "type": "primary"
+  }
+}

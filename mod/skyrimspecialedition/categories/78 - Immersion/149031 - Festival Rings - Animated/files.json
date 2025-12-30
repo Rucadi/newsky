@@ -1,0 +1,24 @@
+{
+  "slightly Better Bunting": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1",
+      "file_id": 622921,
+      "file_name": "slightly Better Bunting-149031-1-1746197918.zip",
+      "mod_id": 149031,
+      "hash": "sha256-DdKJIqgH4y4EzsBv9WPCSRqwKy2WonzV30W4ub5t4n0="
+    },
+    "type": "primary"
+  },
+  "Solitude Objects SMIMed": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1",
+      "file_id": 622923,
+      "file_name": "Solitude Objects SMIMed-149031-1-1746197949.zip",
+      "mod_id": 149031,
+      "hash": "sha256-X6EDwZU9vLA9nK0IydOPTgbLFvvVvobuO8BG0b3o6B4="
+    },
+    "type": "primary"
+  }
+}

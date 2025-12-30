@@ -1,0 +1,24 @@
+{
+  "Simple Dual Sheath Tweaks (No Scabbards)": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.01",
+      "file_id": 285738,
+      "file_name": "Simple Dual Sheath Tweaks (No Scabbards)-68491-1-01-1653237230.rar",
+      "mod_id": 68491,
+      "hash": "sha256-k1mZvxtoZyatOVlZVGy1W3UMzK+/bCXTi4Z4+/AGUFw="
+    },
+    "type": "primary"
+  },
+  "Simple Dual Sheath Tweaks (Scabbards)": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.01",
+      "file_id": 285739,
+      "file_name": "Simple Dual Sheath Tweaks (Scabbards)-68491-1-01-1653237255.rar",
+      "mod_id": 68491,
+      "hash": "sha256-P+/KsSbkGZqIsiGZuPmtcZFgt676r1jF33mGibpLbfU="
+    },
+    "type": "primary"
+  }
+}

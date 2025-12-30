@@ -1,0 +1,159 @@
+{
+  "07 SFO -4k Textures": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.4",
+      "file_id": 550064,
+      "file_name": "Skyrim Fantasy Overhaul -4k Textures-130952-1-0-1728338032.zip",
+      "mod_id": 130952,
+      "hash": "sha256-NMPjhRlI7t8uOsX565sJjVdP0K0y5oFg3+ESRn3pPRE="
+    }
+  },
+  "07 Remove Collions on Walls": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.4",
+      "file_id": 555817,
+      "file_name": "Fantasy Walls NO Collision-130952-1-2-1729972703.zip",
+      "mod_id": 130952,
+      "hash": "sha256-6834HTa4llo4SFH7koGSp8AxTzpxk8vKdKn2N93GX4c="
+    }
+  },
+  "00 Core Essentials": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.4",
+      "file_id": 586621,
+      "file_name": "00 Core Essentials-130952-1-3-1737665069.zip",
+      "mod_id": 130952,
+      "hash": "sha256-NLZrfyxsdNA/vIXk5b4d/r+2TsofKmXuK8A8YP0zKUc="
+    },
+    "type": "primary"
+  },
+  "03 Riften": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.4",
+      "file_id": 667766,
+      "file_name": "03 Riften-130952-1-4-1758408255.zip",
+      "mod_id": 130952,
+      "hash": "sha256-lJD82zTXHW9P7gOkxxhqxBG9O+XCdC6IubgpkM/wOh8="
+    },
+    "type": "primary"
+  },
+  "04 Windhelm": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.4",
+      "file_id": 667767,
+      "file_name": "04 Windhelm-130952-1-4-1758408311.zip",
+      "mod_id": 130952,
+      "hash": "sha256-80y0spfDu1hXQYGnnjMA/6/H6o0s+L/X9WSgwhceJPs="
+    },
+    "type": "primary"
+  },
+  "05 Solitude": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.4",
+      "file_id": 667768,
+      "file_name": "05 Solitude-130952-1-4-1758408378.zip",
+      "mod_id": 130952,
+      "hash": "sha256-lBt8E4xqjMsw+uIuiPFXfJ1Ps6iOnFpP/LlvGi35Bcw="
+    },
+    "type": "primary"
+  },
+  "01 All in One Interiors": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.4",
+      "file_id": 667771,
+      "file_name": "01 All in One Interiors-130952-1-4-1758408604.zip",
+      "mod_id": 130952,
+      "hash": "sha256-GQaP4QsAWJydSnHTtr8VS8HyEMqHvD0v3IkLRt4vtUg="
+    }
+  },
+  "02 Whiterun Interiors": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.4",
+      "file_id": 667772,
+      "file_name": "02 Whiterun Interiors-130952-1-4-1758408682.zip",
+      "mod_id": 130952,
+      "hash": "sha256-4ByZjaKUf/X78KHoJA8FoWep493NfN+gguYxTxeIbSg="
+    }
+  },
+  "03 Riften Interiors": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.4",
+      "file_id": 667773,
+      "file_name": "03 Riften Interiors-130952-1-4-1758408720.zip",
+      "mod_id": 130952,
+      "hash": "sha256-85UVXZC5NYcOzZw2vRktEUeTCKLnjykk/ZX5Q4S2rY8="
+    }
+  },
+  "04 Windhelm Interiors": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.4",
+      "file_id": 667774,
+      "file_name": "04 Windhelm Interiors-130952-1-4-1758408762.zip",
+      "mod_id": 130952,
+      "hash": "sha256-KEYDCfbrrZssyBgMowFAcmj2VMqqV4wzGo6XiYoYye4="
+    }
+  },
+  "05 Solitude Interiors": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.4",
+      "file_id": 667776,
+      "file_name": "05 Solitude Interiors-130952-1-4-1758408809.zip",
+      "mod_id": 130952,
+      "hash": "sha256-rsJqcDUL187TWEHZhbxprf+TYFwk4QTwD46UgIZVJn4="
+    }
+  },
+  "06 Extra Interiors": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.4",
+      "file_id": 667778,
+      "file_name": "06 Extra Interiors-130952-1-4-1758408873.zip",
+      "mod_id": 130952,
+      "hash": "sha256-wLMAuk8229LE3sMFSUNYYcZUCdQ4BQvX1DCrT+79+E4="
+    }
+  },
+  "01 All in One Exterior 1.4": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.4",
+      "file_id": 668798,
+      "file_name": "01 All in One Exterior 1.4-130952-1-4-1758656016.zip",
+      "mod_id": 130952,
+      "hash": "sha256-3Bp6+P1GwoQOuN995Gb5/u0TV0O+/feojugb2DUChG4="
+    },
+    "type": "primary"
+  },
+  "02 Whiterun 1.4": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.4",
+      "file_id": 668799,
+      "file_name": "02 Whiterun 1.4-130952-1-4-1758656050.zip",
+      "mod_id": 130952,
+      "hash": "sha256-DLLoYPlMB8XT98tauZeqq30sDtESDeZDwnReFOZr8Xc="
+    },
+    "type": "primary"
+  },
+  "06 Extra Exteriors 1.4": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.4",
+      "file_id": 668800,
+      "file_name": "06 Extra Exteriors 1.4-130952-1-4-1758656102.zip",
+      "mod_id": 130952,
+      "hash": "sha256-X59KxGsndnrCNzS0erjuU8eFbVdbPPnG/LHALHt8LDo="
+    },
+    "type": "primary"
+  }
+}

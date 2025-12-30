@@ -1,0 +1,134 @@
+{
+  "Great Village of Old Hroldan - Meridia's Order Pat": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 449673,
+      "file_name": "Great Village of Old Hroldan - Meridia's Order Pat-106422-1-0-1701988039.7z",
+      "mod_id": 106422,
+      "hash": "sha256-Ex0w/j3FUg4j05cTNBwYmVi97TuqU38StXTD+09znEI="
+    },
+    "type": "primary"
+  },
+  "COTN Winterhold - Meridia's Order Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "2.0",
+      "file_id": 503683,
+      "file_name": "COTN Winterhold - Meridia's Order Patch-106422-2-0-1716333357.zip",
+      "mod_id": 106422,
+      "hash": "sha256-bRclB1O910/D5vtaDiM+C/T4B7ODwTmXU78MkqpWYPA="
+    },
+    "type": "primary"
+  },
+  "Meridia's Order - Sons of Skyrim Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "2.0",
+      "file_id": 503684,
+      "file_name": "Meridia's Order - Sons of Skyrim Patch-106422-2-0-1716333377.zip",
+      "mod_id": 106422,
+      "hash": "sha256-YXVcBrWydbldnpZMOO5QHUD8nkb/DjI0okHg9SgPPoc="
+    },
+    "type": "primary"
+  },
+  "Meridia's Order -  USMP Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "2.0",
+      "file_id": 503685,
+      "file_name": "Meridia's Order -  USMP Patch-106422-2-0-1716333397.zip",
+      "mod_id": 106422,
+      "hash": "sha256-W26Vp5h4veqZlcX2W+02Mvsbfk5imZu7IS7B4FvaUy0="
+    },
+    "type": "primary"
+  },
+  "Northern Roads - Meridia's Order Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "2.0",
+      "file_id": 503686,
+      "file_name": "Northern Roads - Meridia's Order Patch-106422-2-0-1716333412.zip",
+      "mod_id": 106422,
+      "hash": "sha256-s/5pRCvGP2w2IX8gPDQZIBoshlPYxoNIjZpNoiEukE0="
+    },
+    "type": "primary"
+  },
+  "Meridia's Order - Hammet's Dungeon Pack 1 patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 514654,
+      "file_name": "Meridia's Order - Hammet's Dungeon Pack 1 patch-106422-1-0-1719285840.zip",
+      "mod_id": 106422,
+      "hash": "sha256-sCYLZS86TnXDp7rVwpz5V6HsyJe2u7XRip+Q+5CURg0="
+    },
+    "type": "primary"
+  },
+  "Meridia's Order - Pilgrim Synergy Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "2.1.0",
+      "file_id": 521698,
+      "file_name": "Meridia's Order - Pilgrim Synergy Patch-106422-2-1-0-1721100117.zip",
+      "mod_id": 106422,
+      "hash": "sha256-nfhKFDtW6/2OYjT/OdbFZf45iKB2mAphvHZcsnSl2LU="
+    },
+    "type": "primary"
+  },
+  "Meridia's Order - Guard Armor Replacer patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "2.2.0",
+      "file_id": 531041,
+      "file_name": "Meridia's Order - Guard Armor Replacer patch-106422-2-2-0-1723513132.zip",
+      "mod_id": 106422,
+      "hash": "sha256-UW7OJRo/ZKNiSkj9iMm5MX74grZZtGQGQEpAkVmDZVQ="
+    },
+    "type": "primary"
+  },
+  "Meridia's Order - Stendarr's Beacon Enhanced patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "2.3.0",
+      "file_id": 551279,
+      "file_name": "Meridia's Order - Stendarr's Beacon Enhanced patch-106422-2-3-0-1728703503.zip",
+      "mod_id": 106422,
+      "hash": "sha256-QViAhwuEQ5q29ZL1u8E/WyEypOyUfpWTeyAiZ8dmjpo="
+    },
+    "type": "primary"
+  },
+  "Meridia's Order - Lollygaggin patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "2.4.0",
+      "file_id": 591944,
+      "file_name": "Meridia's Order - Lollygaggin patch-106422-2-4-0-1738902226.zip",
+      "mod_id": 106422,
+      "hash": "sha256-mDr+S8D9YuhzDHUtYvXNZfSftXEa72dxm7ohYHWd3Mg="
+    },
+    "type": "primary"
+  },
+  "Meridia's Order - RMB SPIDified - Guard Armor Repl": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "2.4.1",
+      "file_id": 595538,
+      "file_name": "Meridia's Order - RMB SPIDified - Guard Armor Repl-106422-2-2-1-1739735077.zip",
+      "mod_id": 106422,
+      "hash": "sha256-jKL2i6ut9UUMkAOKgfWShRgyxiaw1MxlIxuFY1GhpNU="
+    },
+    "type": "primary"
+  },
+  "Meridia's Order - Wintersun Synergy patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "2.5.0",
+      "file_id": 641659,
+      "file_name": "Meridia's Order - Wintersun Synergy patch.esp-106422-2-5-0-1750895244.zip",
+      "mod_id": 106422,
+      "hash": "sha256-Qm3jsDHFceSLWZw3XwZcCmRxs5bd8Jpzs19DeK3lJ1Q="
+    },
+    "type": "primary"
+  }
+}

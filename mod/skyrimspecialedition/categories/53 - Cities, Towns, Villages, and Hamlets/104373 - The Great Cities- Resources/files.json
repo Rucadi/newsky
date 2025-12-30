@@ -1,0 +1,24 @@
+{
+  "The Great Cities - Resources 4k": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1.1",
+      "file_id": 571752,
+      "file_name": "The Great Cities - Resources 4k-104373-1-1-1734033708.zip",
+      "mod_id": 104373,
+      "hash": "sha256-jUuSk+yOeSaL7xLySkiqI1KVwSVq8/U1Y1iCs7tWfsA="
+    },
+    "type": "primary"
+  },
+  "The Great Cities - Resources 2k": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1.1",
+      "file_id": 571931,
+      "file_name": "The Great Cities - Resources 2k-104373-1-1-1734084651.zip",
+      "mod_id": 104373,
+      "hash": "sha256-dKeCJ1rf97SCWgrmA/63XuD9OGPCRThDsvhJ1qkUhSc="
+    },
+    "type": "primary"
+  }
+}

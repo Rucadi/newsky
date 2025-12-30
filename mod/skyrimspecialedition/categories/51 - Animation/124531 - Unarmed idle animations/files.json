@@ -1,0 +1,24 @@
+{
+  "Unarmed Idle - Everyone": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1",
+      "file_id": 558620,
+      "file_name": "Unarmed Idle - Everyone-124531-1-1-1730657891.zip",
+      "mod_id": 124531,
+      "hash": "sha256-cPmGly+h9G92+s3yCp3RdQQ8KHnqThTtkdRltxHZS14="
+    },
+    "type": "primary"
+  },
+  "Unarmed Idle - Player Only": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1",
+      "file_id": 558623,
+      "file_name": "Unarmed Idle - Player Only-124531-1-1-1730657922.zip",
+      "mod_id": 124531,
+      "hash": "sha256-TsLw7IOfyHDqRH+HTI4yiCI3zGbKLGk5bREzLtYCivY="
+    },
+    "type": "primary"
+  }
+}

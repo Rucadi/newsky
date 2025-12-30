@@ -1,0 +1,33 @@
+{
+  "VIGILANT Music Extended": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 377692,
+      "file_name": "VIGILANT Music Extended-89102-1-0-1681328536.7z",
+      "mod_id": 89102,
+      "hash": "sha256-OJLLippVh2LyvOooc2zKD2b0oW7FlQRtIGTIW/l40Zg="
+    },
+    "type": "primary"
+  },
+  "VIGILANT Music Extended Redux": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 377698,
+      "file_name": "Vigilant Music Extended Redux-89102-1-0-1681328701.7z",
+      "mod_id": 89102,
+      "hash": "sha256-QJGeRIJE0lU8pRVDQ2ESRGWDTKSu94o/UiwhtMswXtk="
+    }
+  },
+  "VIGILANT Music Remastered Tracks": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 377928,
+      "file_name": "VIGILANT Music Remastered Tracks-89102-1-0-1681399895.7z",
+      "mod_id": 89102,
+      "hash": "sha256-fJRVYXPAn1oLQ1q/Z5sdOUqWX81mTqBPZ8e+MaG32tk="
+    }
+  }
+}

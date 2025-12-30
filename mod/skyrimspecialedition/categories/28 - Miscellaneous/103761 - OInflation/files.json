@@ -1,0 +1,23 @@
+{
+  "P.A.I.A OInflation Patch for OAR": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0.0",
+      "file_id": 439041,
+      "file_name": "P.A.I.A OInflation Patch for OAR-103761-1-0-0-1698894031.7z",
+      "mod_id": 103761,
+      "hash": "sha256-y6lZ0hes6YevPvLpaIUEmhDHqvuI8GRDdAEag9rQBzA="
+    }
+  },
+  "OInflation 1.0.1": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0.1",
+      "file_id": 440164,
+      "file_name": "OInflation 1.0.1-103761-1-0-1-1699205449.7z",
+      "mod_id": 103761,
+      "hash": "sha256-WyAgmW3qMrY6TW2B8luNcDuDibj1aZIRy2zy0QzJ0u4="
+    },
+    "type": "primary"
+  }
+}

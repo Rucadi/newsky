@@ -1,0 +1,23 @@
+{
+  "NPC Relationships": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1",
+      "file_id": 589343,
+      "file_name": "NPC Relationships-140482-1-1-1738294441.zip",
+      "mod_id": 140482,
+      "hash": "sha256-cnUaOc/Cv7gjiRgwx2/D5jO4WoGO676GA4OA+MQA6W8="
+    },
+    "type": "primary"
+  },
+  "Uniqueified for Friendship and et cetera": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1",
+      "file_id": 590294,
+      "file_name": "Uniqueified for Friendship and et cetera-140482-1-1-1738513803.zip",
+      "mod_id": 140482,
+      "hash": "sha256-MQdg8vvpbrSSI4BOOn2RDjg6xhe6YO1b4JEfSd/7dpE="
+    }
+  }
+}

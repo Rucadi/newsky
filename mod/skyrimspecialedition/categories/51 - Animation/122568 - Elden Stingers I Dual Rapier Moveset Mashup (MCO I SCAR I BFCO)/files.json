@@ -1,0 +1,44 @@
+{
+  "Elden Stingers - BFCO": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 514364,
+      "file_name": "Elden Stingers - BFCO-122568-1-0-1719196225.7z",
+      "mod_id": 122568,
+      "hash": "sha256-UdW7CqTUrQRJShSVAwElLULL+VANwus2cqGUk1AE3JQ="
+    },
+    "type": "primary"
+  },
+  "Elden Stingers - MCO I SCAR": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 514366,
+      "file_name": "Elden Stingers - MCO I SCAR-122568-1-0-1719196272.7z",
+      "mod_id": 122568,
+      "hash": "sha256-nRDuXoSQSWzQ7EVUB/0ioYzWlaRHXx1+/B67IYP/o7Y="
+    },
+    "type": "primary"
+  },
+  "OAR Version (MCO I SCAR)": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "OAR",
+      "file_id": 515045,
+      "file_name": "OAR Version (MCO I SCAR)-122568-OAR-1719410328.zip",
+      "mod_id": 122568,
+      "hash": "sha256-rFbtCJmC9wOJZhJjm25pfhZjsTvDiBvVvAqdw0p9QO8="
+    }
+  },
+  "OAR Version (BFCO)": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "OAR",
+      "file_id": 515046,
+      "file_name": "OAR Version (BFCO)-122568-OAR-1719410339.zip",
+      "mod_id": 122568,
+      "hash": "sha256-gLcfE0VpeOco7fckIzBrAFaPQAsQKTIW4V2G6skqbnI="
+    }
+  }
+}

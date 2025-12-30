@@ -1,0 +1,24 @@
+{
+  "Fertility Mode Vocalized for Fixes and Tweaks": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "241023",
+      "file_id": 554872,
+      "file_name": "Fertility Mode Vocalized for Fixes and Tweaks-116355-241023-1729705647.7z",
+      "mod_id": 116355,
+      "hash": "sha256-U44okOlF5yhYvwA1htCjDVV3Wy7MGqbD3OKob2bsPIc="
+    },
+    "type": "primary"
+  },
+  "Fertility Mode Vocalized for Fixes_Mantella": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "241023",
+      "file_id": 554873,
+      "file_name": "Fertility Mode Vocalized for Fixes_Mantella-116355-241023-1729706137.7z",
+      "mod_id": 116355,
+      "hash": "sha256-xuDxRoexK07/esfzZ2nMuf741OmzXMAerRXIRTpTIBk="
+    },
+    "type": "primary"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "HFs - Bruma Bedroll - remodel - 1K": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1",
+      "file_id": 592318,
+      "file_name": "HFs - Bruma Bedroll - remodel - 1K-141192-1-1739016997.zip",
+      "mod_id": 141192,
+      "hash": "sha256-lh1lL/TpkCzSupf5PRpTrIguTZp/zit20M0fGDgSmPU="
+    },
+    "type": "primary"
+  },
+  "HFs - Bruma Bedroll - remodel - 2K": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1",
+      "file_id": 592319,
+      "file_name": "HFs - Bruma Bedroll - remodel - 2K-141192-1-1739017052.zip",
+      "mod_id": 141192,
+      "hash": "sha256-RFF26LODhV9AkrWrQqt2ysJ7OG0vZT1/D6JnpUxKz34="
+    },
+    "type": "primary"
+  },
+  "HFs - Bruma Bedroll - remodel - 4K": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1",
+      "file_id": 592320,
+      "file_name": "HFs - Bruma Bedroll - remodel - 4K-141192-1-1739017117.zip",
+      "mod_id": 141192,
+      "hash": "sha256-PzPb1/df2WkGwhgwBnq9aQrvdZWXf1cHJmU19y6vR3w="
+    },
+    "type": "primary"
+  }
+}

@@ -1,0 +1,73 @@
+{
+  "aMidianBorn Book of Silence SE -- CREATURES": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.9.1",
+      "file_id": 148033,
+      "file_name": "aMidianBorn Book of Silence SE -- CREATURES-35382-1-9-1-1593475365.zip",
+      "mod_id": 35382,
+      "hash": "sha256-Q5rp5AUCmY88btR9lSMveoIQQLaIUB7KZl7DU9Qt8Gs="
+    }
+  },
+  "aMidianBorn Book of Silence SE -- ARMORS": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.9.1",
+      "file_id": 148040,
+      "file_name": "aMidianBorn Book of Silence SE -- ARMORS-35382-1-9-1-1593478592.zip",
+      "mod_id": 35382,
+      "hash": "sha256-qJhUU4jPFUvokk5+JIsoarlqtUEiNEDueCPaBOsBq1I="
+    }
+  },
+  "aMidianBorn Book of Silence SE -- WEAPONS": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.9.1",
+      "file_id": 148042,
+      "file_name": "aMidianBorn Book of Silence SE -- WEAPONS-35382-1-9-1-1593480012.zip",
+      "mod_id": 35382,
+      "hash": "sha256-Y8lT+7XD3sh3/QSQRhUB65ylhVEs2N6E1otnhwRvmVM="
+    }
+  },
+  "aMidianBorn Book of Silence SE -- DRAGONBORN": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.9.1",
+      "file_id": 148071,
+      "file_name": "aMidianBorn Book of Silence SE -- DRAGONBORN-35382-1-9-1-1593494717.zip",
+      "mod_id": 35382,
+      "hash": "sha256-jLS1IjSLfDp+G0fZ027GbMdcVQsed/lJYqD3jT0DfTw="
+    }
+  },
+  "aMidianBorn Book of Silence SE -- UNIQUE ITEMS": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.9.1",
+      "file_id": 148078,
+      "file_name": "aMidianBorn Book of Silence SE -- UNIQUE ITEMS-35382-1-9-1-1593496803.zip",
+      "mod_id": 35382,
+      "hash": "sha256-dMBnhusvnrmtVJ0BzihWJIRohEzz6ErOy4OPAXdHuT8="
+    }
+  },
+  "1) aMidianBorn Book of Silence SE -- COMPLETE": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.9.1",
+      "file_id": 148088,
+      "file_name": "aMidianBorn Book of Silence SE -- COMPLETE-35382-1-9-1-1593501570.zip",
+      "mod_id": 35382,
+      "hash": "sha256-FsADXf7uyPgjPncjh7aP+vrumHla6TeZYJPIzzj41ZI="
+    },
+    "type": "primary"
+  },
+  "2) aMidianBorn Book of Silence SE -- CCOR CONTENT ADDON": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.9.1",
+      "file_id": 148138,
+      "file_name": "aMidianBorn Book of Silence SE -- CCOR CONTENT ADDON-35382-1-9-1-1593527032.zip",
+      "mod_id": 35382
+    },
+    "type": "primary"
+  }
+}

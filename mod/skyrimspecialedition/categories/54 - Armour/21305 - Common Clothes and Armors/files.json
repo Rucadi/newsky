@@ -1,0 +1,24 @@
+{
+  "Common Clothes and Armors - 2k Textures": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "2.0.0",
+      "file_id": 265940,
+      "file_name": "Common Clothes and Armors - 2k Textures-21305-2-0-0-1645471761.7z",
+      "mod_id": 21305,
+      "hash": "sha256-vdOt1COt8JwMBWTdTy9Ee454/avssYLC6eIl9o8JUX0="
+    },
+    "type": "primary"
+  },
+  "Common Clothes and Armors - 1k Textures": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "2.0.0",
+      "file_id": 265942,
+      "file_name": "Common Clothes and Armors - 1k Textures-21305-2-0-0-1645471933.7z",
+      "mod_id": 21305,
+      "hash": "sha256-xc1FI6qZv/zjWIONKRKXoEzzuyLqxdYXAQIFWHgM5BY="
+    },
+    "type": "primary"
+  }
+}

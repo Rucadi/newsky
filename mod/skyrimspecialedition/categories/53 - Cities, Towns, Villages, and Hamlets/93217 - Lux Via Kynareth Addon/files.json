@@ -1,0 +1,23 @@
+{
+  "Lux Via Kynareth Addon": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 396562,
+      "file_name": "Lux Via Kynareth Addon-93217-1-0-1686403336.rar",
+      "mod_id": 93217,
+      "hash": "sha256-JMVkYDIJPW1ml3HJ4y7jvsjmoCRO0S9GP1mUCd0jN1k="
+    },
+    "type": "primary"
+  },
+  "Lexy's version - Mandragora's Meridia replacer": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.01",
+      "file_id": 396911,
+      "file_name": "Lexy's version - Mandragora's Meridia replacer-93217-1-01-1686483709.7z",
+      "mod_id": 93217,
+      "hash": "sha256-60T8kegJYgWI/Eilo+5kEP9GDEH6sols0x+EZpuaW/0="
+    }
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "Lifesworn Vestiges - 2k textures": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 574390,
+      "file_name": "2k textures-136837-1-0-1734737812.zip",
+      "mod_id": 136837,
+      "hash": "sha256-XF7Jqas3E7mlVh+GdryRdGBrVkfmYySp9DJZBw/iBTw="
+    }
+  },
+  "Lifesworn Vestiges - SMP patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.05",
+      "file_id": 574608,
+      "file_name": "SMP patch-136837-1-05-1734794555.zip",
+      "mod_id": 136837,
+      "hash": "sha256-TY9T2cQpzpkfptURUMD9UXA1EM5y0TzP5TwXgMNJzOU="
+    }
+  },
+  "Main file": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0.1",
+      "file_id": 574724,
+      "file_name": "Main file-136837-1-0-1-1734820625.zip",
+      "mod_id": 136837,
+      "hash": "sha256-FMlT4dqXruhMmh6zJj4w3+nHgoe/avc9u6T+XRcpeJc="
+    },
+    "type": "primary"
+  },
+  "Lifesworn Vestige - Dynamic ENB cubemap": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 574725,
+      "file_name": "Lifesworn Vestige - Dynamic ENB cubemap-136837-1-1734820814.zip",
+      "mod_id": 136837,
+      "hash": "sha256-jaIeypEwL8zqzlS50DsBClx/wRp0GrCD+JBxWG2clkY="
+    }
+  }
+}

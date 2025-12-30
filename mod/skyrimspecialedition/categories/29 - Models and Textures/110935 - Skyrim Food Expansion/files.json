@@ -1,0 +1,55 @@
+{
+  "Skyrim Food Expansion - EAS Patch Collection": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "3.0.0",
+      "file_id": 700553,
+      "file_name": "Skyrim Food Expansion - EAS Patch Collection-110935-3-0-0-1766343821.7z",
+      "mod_id": 110935,
+      "hash": "sha256-7hkz63dzsjUwXyNACSoTkGbE4hnzBWJzdb2/beGcI8I="
+    }
+  },
+  "Skyrim Food Expansion - Patch Collection": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "3.0.0",
+      "file_id": 700554,
+      "file_name": "Skyrim Food Expansion - Patch Collection-110935-3-0-0-1766343824.7z",
+      "mod_id": 110935,
+      "hash": "sha256-kXC+2b2YJPZ9bmga4jDg4vCdMdamEMfE9KNcyN47olo="
+    }
+  },
+  "Skyrim Food Expansion - Eating Animations Sounds": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "3.0.0",
+      "file_id": 700555,
+      "file_name": "Skyrim Food Expansion - Eating Animations Sounds-110935-3-0-0-1766343826.7z",
+      "mod_id": 110935,
+      "hash": "sha256-/Y9Tv050ZURbiVFjpK12sOJC7o24501Sz34YisGkfkM="
+    },
+    "type": "primary"
+  },
+  "Skyrim Food Expansion - 2K": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "3.0.0",
+      "file_id": 700556,
+      "file_name": "Skyrim Food Expansion - 2K-110935-3-0-0-1766343828.7z",
+      "mod_id": 110935,
+      "hash": "sha256-EBB2xYoZrTkCbQAyPmZw0looH+BUYGv1wY440n/xblA="
+    },
+    "type": "primary"
+  },
+  "Skyrim Food Expansion - 1K": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "3.0.0",
+      "file_id": 700557,
+      "file_name": "Skyrim Food Expansion - 1K-110935-3-0-0-1766343831.7z",
+      "mod_id": 110935,
+      "hash": "sha256-c9xaNqtxieZEAX+Hkm423YB70J1x0L7pO+X1J9nR3DM="
+    },
+    "type": "primary"
+  }
+}

@@ -1,0 +1,55 @@
+{
+  "Daymarr Shadow Knight - COCOBody CBBE SE": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 501405,
+      "file_name": "Daymarr Shadow Knight - COCOBody CBBE SE-119080-1-0-1715791284.7z",
+      "mod_id": 119080,
+      "hash": "sha256-4tTvwFWq25Y+O9MPLKj6smWT001zgcyYJYUluikUqK8="
+    },
+    "type": "primary"
+  },
+  "Daymarr Shadow Knight - COCOBody UUNP SE": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 501408,
+      "file_name": "Daymarr Shadow Knight - COCOBody UUNP SE-119080-1-0-1715791780.7z",
+      "mod_id": 119080,
+      "hash": "sha256-LtTu3jwBIe5IS2JGrvdX493yXrDZge1wz7m/LVRNvu4="
+    },
+    "type": "primary"
+  },
+  "Daymarr Shadow Knight - 4K Uncompressed Textures": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 501409,
+      "file_name": "Daymarr Shadow Knight - 4K Uncompressed Textures-119080-1-0-1715791891.7z",
+      "mod_id": 119080,
+      "hash": "sha256-sTM/oIomr6NHlxsWZzM4CKYuJBUZj48R2QFDd7T0mQE="
+    }
+  },
+  "Daymarr Shadow Knight - 2K Uncompressed Textures": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 501467,
+      "file_name": "Daymarr Shadow Knight - 2K Uncompressed Textures-119080-1-0-1715808675.7z",
+      "mod_id": 119080,
+      "hash": "sha256-UeIFugTthBhdIKoXYC9kPJ4D8diryGeoN6k0oW0LEVk="
+    }
+  },
+  "Daymarr Shadow Knight - CBBE 3BA": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 501523,
+      "file_name": "Daymarr Shadow Knight - CBBE 3BA-119080-1-0-1715818200.7z",
+      "mod_id": 119080,
+      "hash": "sha256-ILzEwRiRPIRCffPCnEUb2pcBzwBqSIDTy73//DYtgeY="
+    },
+    "type": "primary"
+  }
+}

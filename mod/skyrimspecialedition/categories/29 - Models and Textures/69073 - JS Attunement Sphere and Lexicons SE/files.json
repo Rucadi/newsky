@@ -1,0 +1,85 @@
+{
+  "JS Attunement Sphere and Lexicons SE - 1k Textures": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.01",
+      "file_id": 288669,
+      "file_name": "JS Attunement Sphere and Lexicons SE - 1k Textures-69073-1-01-1654312839.7z",
+      "mod_id": 69073,
+      "hash": "sha256-PpoNZLNEEIfCHd6e22gDaJRR+yb+n5DKGyOkD/FcC1c="
+    },
+    "type": "primary"
+  },
+  "JS Attunement Sphere and Lexicons SE - 2k Textures": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.01",
+      "file_id": 288670,
+      "file_name": "JS Attunement Sphere and Lexicons SE - 2k Textures-69073-1-01-1654312905.7z",
+      "mod_id": 69073,
+      "hash": "sha256-+T0RZ4Q1TWzFBGc/DQH0cUZ8kUHgmzrfsNnwDeUXGc8="
+    },
+    "type": "primary"
+  },
+  "JS Attunement Sphere and Lexicons SE - 4k Textures": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.01",
+      "file_id": 288671,
+      "file_name": "JS Attunement Sphere and Lexicons SE - 4k Textures-69073-1-01-1654312971.7z",
+      "mod_id": 69073,
+      "hash": "sha256-9cdDZFSG6lFez21eAmtzBmenAYqdszav0I0MuQYFwSE="
+    },
+    "type": "primary"
+  },
+  "JS Attunement - Improved Dwemer Glass Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 289275,
+      "file_name": "JS Attunement Sphere and Lexicons SE - Improved Dwemer Glass Patch-69073-1-0-1654531034.7z",
+      "mod_id": 69073,
+      "hash": "sha256-DtDC2JxGrklJ0VnmM44xn3Jn4oqI8fk2WZChTxxWQzE="
+    }
+  },
+  "JS Attunement - LOTD Display Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 289794,
+      "file_name": "JS Attunement Sphere and Lexicons SE - LOTD Display Patch-69073-1-0-1654725151.rar",
+      "mod_id": 69073,
+      "hash": "sha256-Gx4wSUsOdHf/pG2HDCL+xwAwok8/Eb8PoFxH6ivVP9U="
+    }
+  },
+  "JS Attunement - GDPR Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 482910,
+      "file_name": "JS Attunement Sphere and Lexicons - GDPR Patch-69073-1-0-1711053639.7z",
+      "mod_id": 69073,
+      "hash": "sha256-pzaXEeRVCnKSp6qEYjPV51svYrXOIGax3FhZZq1tcWM="
+    }
+  },
+  "JS Attunement - Improved Dwemer Glass GDPR Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 482911,
+      "file_name": "JS Attunement - Improved Dwemer Glass GDPR Patch-69073-1-0-1711053756.7z",
+      "mod_id": 69073,
+      "hash": "sha256-GOwdfkXiZtqYZAO0NU1horHw+ykSIoJlRGPFH7y60ks="
+    }
+  },
+  "JS Attunement - IDG Glow GDPR Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 482942,
+      "file_name": "JS Attunement - IDG Glow GDPR Patch-69073-1-0-1711055812.7z",
+      "mod_id": 69073,
+      "hash": "sha256-0lV4hP6xVMFogLyO8yQqe7dX7Jupc2hJ7KTbUXb5O5A="
+    }
+  }
+}

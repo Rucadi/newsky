@@ -1,0 +1,62 @@
+{
+  "RunemasterMagic - Magicka": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "ANY",
+      "file_id": 608498,
+      "file_name": "RunemasterMagic - Magicka-145420-ANY-1742669621.zip",
+      "mod_id": 145420,
+      "hash": "sha256-NPR5+ovmTUCvdZwgHJWhzhD0AkQf0taVmEcDgIwAqGg="
+    }
+  },
+  "RunemasterMagic - Activate With Power Attack": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "ANY",
+      "file_id": 608830,
+      "file_name": "RunemasterMagic - Activate With Power Attack-145420-ANY-1742742318.zip",
+      "mod_id": 145420,
+      "hash": "sha256-0Bu5vFbqvJCeDC3wVUqe/Eqsr5OrLpsvc+D+R0bd8Jo="
+    }
+  },
+  "Runemaster Magic - Sorting": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "ANY",
+      "file_id": 608878,
+      "file_name": "Runemaster Magic - Sorting-145420-ANY-1742749286.zip",
+      "mod_id": 145420,
+      "hash": "sha256-HWdsOA/YPmRkCxans1B6JAE7oUS//i89ImZZ6upcj6w="
+    }
+  },
+  "RunemasterMagic - Allow Disenchant": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "ANY",
+      "file_id": 609258,
+      "file_name": "RunemasterMagic - Allow Disenchant-145420-ANY-1742828659.zip",
+      "mod_id": 145420,
+      "hash": "sha256-LACPcQE5FtsIAAmHzYuiDwWEWweufVoxS+q8wfkG4f8="
+    }
+  },
+  "Runemaster Magic - Runic Draugr Weapons": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "ANY",
+      "file_id": 644346,
+      "file_name": "Runemaster Magic - Runic Draugr Weapons-145420-ANY-1751723398.zip",
+      "mod_id": 145420,
+      "hash": "sha256-HHx9+5/VIH8JECoXiL9BgmD042j2oELWnJCV6mNyMQ8="
+    }
+  },
+  "Runemaster Magic": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.5",
+      "file_id": 686240,
+      "file_name": "Runemaster Magic-145420-1-5-1762813645.zip",
+      "mod_id": 145420
+    },
+    "type": "primary"
+  }
+}

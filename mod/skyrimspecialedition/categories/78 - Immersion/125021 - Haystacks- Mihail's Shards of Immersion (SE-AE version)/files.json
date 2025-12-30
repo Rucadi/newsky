@@ -1,0 +1,23 @@
+{
+  "Haystacks (se-ae)- 4k textures": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1",
+      "file_id": 524170,
+      "file_name": "Haystacks (se-ae)- 4k textures-125021-1-1721749128.rar",
+      "mod_id": 125021,
+      "hash": "sha256-FQ+e5titpdCZTdVVNQpF2kFYOh/hZgHPOgKh1mgjpH8="
+    },
+    "type": "primary"
+  },
+  "Haystacks (se-ae)- 2k textures": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1",
+      "file_id": 524171,
+      "file_name": "Haystacks (se-ae)- 2k textures-125021-1-1721749171.rar",
+      "mod_id": 125021,
+      "hash": "sha256-ypf8nrecUK7NcCAgLd8osyrXkax1OxEiy7+QPeUuf7E="
+    }
+  }
+}

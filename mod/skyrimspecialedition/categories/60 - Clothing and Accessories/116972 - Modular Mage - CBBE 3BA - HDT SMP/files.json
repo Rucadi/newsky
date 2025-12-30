@@ -1,0 +1,43 @@
+{
+  "Modular Mage - CBBE 3BA Revealing": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 498919,
+      "file_name": "Modular Mage - CBBE 3BA Revealing-116972-1-0-1715120142.7z",
+      "mod_id": 116972,
+      "hash": "sha256-JHWvn90mDewQG4C+bNSU3z8fnPUx1ZCckTrrFSc20iI="
+    }
+  },
+  "Modular Mage - CBBE 3BA Prebuilt Meshes": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.5.1",
+      "file_id": 671206,
+      "file_name": "Modular Mage - CBBE 3BA Prebuilt Meshes-116972-1-5-1-1759343148.7z",
+      "mod_id": 116972,
+      "hash": "sha256-RpJd590u+nWeEvWCVZwPfzUUfksNRKDM1HWaLX6+HGQ="
+    }
+  },
+  "Modular Mage - CBBE 3BA": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.5.2",
+      "file_id": 684519,
+      "file_name": "Modular Mage - CBBE 3BA-116972-1-5-2-1762472894.7z",
+      "mod_id": 116972,
+      "hash": "sha256-eU7B/DdjK+50yRblkdevQ94kDhwcJOmYmVZlHPLyNq8="
+    },
+    "type": "primary"
+  },
+  "Modular Mage - New Beast Feet Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 701121,
+      "file_name": "Modular Mage - New Beast Feet Patch-116972-1-0-1766465074.7z",
+      "mod_id": 116972,
+      "hash": "sha256-eIPCmA4oQoQYuah45why5iF6ZRRq3nz0BSeMcF4M6yw="
+    }
+  }
+}

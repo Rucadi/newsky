@@ -1,0 +1,23 @@
+{
+  "EnaPoser SE": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "4.0.0",
+      "file_id": 666984,
+      "file_name": "EnaPoser SE-123007-4-0-0-1758197945.7z",
+      "mod_id": 123007,
+      "hash": "sha256-SlRD65HFksWtm/awIqykzGPpsNN0/qs/avGAxVyTyRw="
+    },
+    "type": "primary"
+  },
+  "EnaPoser PoseList Thumbnails": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "4.0.0",
+      "file_id": 666985,
+      "file_name": "EnaPoser PoseList Thumbnails-123007-4-0-0-1758198005.7z",
+      "mod_id": 123007,
+      "hash": "sha256-IAqanNvOMZ08J8NxdnbqxT379jLrn+iHwYpBzrsRmOo="
+    }
+  }
+}

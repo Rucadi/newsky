@@ -1,0 +1,43 @@
+{
+  "GoT Dragon Companions - HQ Command voices (M-F)": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.4",
+      "file_id": 498639,
+      "file_name": "GoT Dragon Companion HQ Command voices (M-F)-63062-1-4-1715045837.7z",
+      "mod_id": 63062,
+      "hash": "sha256-PBf1QSGOYnFzIkFEByeYy+xht/523D2udUf7DyDzub0="
+    }
+  },
+  "Wyrm Main Menu Theme - Coming After You -": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.4",
+      "file_id": 499224,
+      "file_name": "Wyrm Main Menu Theme - Coming After You --63062-1-3-1715198781.7z",
+      "mod_id": 63062,
+      "hash": "sha256-7nzHdHJ7PKs0WekCVY3Jq20eE1hdBtWpc5a+aOouac0="
+    }
+  },
+  "Wyrm - Dragons Sounds Rework -": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.5.0",
+      "file_id": 588922,
+      "file_name": "Wyrm - Dragons Sounds Rework --63062-1-5-0-1738194196.7z",
+      "mod_id": 63062,
+      "hash": "sha256-p7WKuH7MUTd3bkJldL/Y2NmIrsEOhbESKWQYtidrcEU="
+    },
+    "type": "primary"
+  },
+  "Wyrm - Footsteps Lower Volume -": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.5.0",
+      "file_id": 589172,
+      "file_name": "Wyrm - Footsteps Lower Volume --63062-1-5-0-1738259779.7z",
+      "mod_id": 63062,
+      "hash": "sha256-tnyuU+MGb7JnhGqk+cg25vF4JbqqD31IK44iPkWJW9o="
+    }
+  }
+}

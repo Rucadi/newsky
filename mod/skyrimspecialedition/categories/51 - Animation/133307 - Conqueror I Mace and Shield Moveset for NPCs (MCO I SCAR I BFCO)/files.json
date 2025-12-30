@@ -1,0 +1,24 @@
+{
+  "Conqueror I Mace and Shield (MCO I SCAR)": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 559456,
+      "file_name": "Conqueror I Mace and Shield (MCO I SCAR)-133307-1-0-1730898410.zip",
+      "mod_id": 133307,
+      "hash": "sha256-OklwKmikThov4D/TeBBPkaYVFc9eZCKQXh9sSjjtCA8="
+    },
+    "type": "primary"
+  },
+  "Conqueror I Mace and Shield (BFCO)": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 559457,
+      "file_name": "Conqueror I Mace and Shield (BFCO)-133307-1-0-1730898859.zip",
+      "mod_id": 133307,
+      "hash": "sha256-Iny9kWFCcNROW9zu8yHiatSG0AIYd5GItLwtgvSJCW4="
+    },
+    "type": "primary"
+  }
+}

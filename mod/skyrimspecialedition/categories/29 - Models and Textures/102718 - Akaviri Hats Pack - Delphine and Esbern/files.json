@@ -1,0 +1,24 @@
+{
+  "Akaviri Hats Pack - Delphine and Esbern": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 434376,
+      "file_name": "Akaviri Hats Pack - Delphine and Esbern-102718-1-0-1697408265.7z",
+      "mod_id": 102718,
+      "hash": "sha256-Q/Lt9ScTlT9ie8gYLFa9lgE0CZBxtrSeuCPWbW5SEFg="
+    },
+    "type": "primary"
+  },
+  "Akaviri Hats Pack - Delphine Esbern and Fultheim": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 434639,
+      "file_name": "Akaviri Hats Pack - Delphine Esbern and Fultheim-102718-1-0-1697497819.7z",
+      "mod_id": 102718,
+      "hash": "sha256-8OfbzI/UvG//vaD2dZuGbjpo/9nqhGDA7mDECsf2wUU="
+    },
+    "type": "primary"
+  }
+}

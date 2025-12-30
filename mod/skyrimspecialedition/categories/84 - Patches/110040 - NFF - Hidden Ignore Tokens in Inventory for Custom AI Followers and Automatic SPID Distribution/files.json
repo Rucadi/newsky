@@ -1,0 +1,63 @@
+{
+  "Invisible Ignore Tokens": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 464488,
+      "file_name": "Invisible Ignore Tokens-110040-1-0-1706117926.zip",
+      "mod_id": 110040,
+      "hash": "sha256-E1BunbLTyQEgm5nMqwyqI1mFuCeaVh8INjYz6TsycfY="
+    },
+    "type": "primary"
+  },
+  "Disable All NFF Custom Crafting Recipes": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 464489,
+      "file_name": "Disable All NFF Custom Crafting Recipes-110040-1-0-1706117976.zip",
+      "mod_id": 110040,
+      "hash": "sha256-aH4DlogPZYU/KPMZMIDK/8UvJrfKFElyoRkD+Q7ls7w="
+    }
+  },
+  "NFF Ignore Token - Shirley A Skyrim Follower": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 482219,
+      "file_name": "NFF Ignore Token - Shirley A Skyrim Follower-110040-1-0-1710864268.zip",
+      "mod_id": 110040,
+      "hash": "sha256-9ltQWI6+Mnr8xW6D7VheNHfZxXbECOfnPfzWs0MOFZE="
+    }
+  },
+  "NFF Ignore Token - A Dog's Life": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 482221,
+      "file_name": "NFF Ignore Token - A Dog's Life-110040-1-0-1710864376.zip",
+      "mod_id": 110040,
+      "hash": "sha256-M3DE6yA3LLjODA0siB8YmprOWIlch/u97FaZFTG8LVI="
+    }
+  },
+  "NFF Ignore Token - A Cat's Life": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 482223,
+      "file_name": "NFF Ignore Token - A Cat's Life-110040-1-0-1710864436.zip",
+      "mod_id": 110040,
+      "hash": "sha256-0dHLiWQW5p3LaMTyLZqC3mlOYr1cwHYFfR01e/bGZgU="
+    }
+  },
+  "NFF Ignore Token - A Bunny's Life": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 482224,
+      "file_name": "NFF Ignore Token - A Bunny's Life-110040-1-0-1710864481.zip",
+      "mod_id": 110040,
+      "hash": "sha256-ZicPEcVgKg9SGHJSWHh7FOzgOJfdqny/qIUxvdhrGy0="
+    }
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "SC6 Quarterstaff moveset (MCO - SCAR)": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 472912,
+      "file_name": "SC6 Quarterstaff moveset (MCO - SCAR)-112109-1-0-1708439609.7z",
+      "mod_id": 112109,
+      "hash": "sha256-ewgA+6IBrp7ouBM1MgWn2G8vdIqm/6voADLt4jXJ4jk="
+    },
+    "type": "primary"
+  },
+  "BFCO Version": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 573143,
+      "file_name": "BFCO Version-112109-1-0-1734390798.zip",
+      "mod_id": 112109,
+      "hash": "sha256-zSgJRO92hRbQrHv64pZHcZdQrG++XnA7hyEgKb6d1a4="
+    },
+    "type": "primary"
+  }
+}

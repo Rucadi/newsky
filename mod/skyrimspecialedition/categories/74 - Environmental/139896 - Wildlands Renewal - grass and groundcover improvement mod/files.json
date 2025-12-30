@@ -1,0 +1,24 @@
+{
+  "Wildlands Renewal 2k": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.05",
+      "file_id": 598880,
+      "file_name": "Wildlands Renewal 2k-139896-1-05-1740486753.7z",
+      "mod_id": 139896,
+      "hash": "sha256-meVFKxyFkx1G7hAbR/7O0bk9CJBuT21dTnD4SXFbFAM="
+    },
+    "type": "primary"
+  },
+  "Wildlands Renewal 4k": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.05",
+      "file_id": 598885,
+      "file_name": "Wildlands Renewal 4k-139896-1-05-1740486957.7z",
+      "mod_id": 139896,
+      "hash": "sha256-2pszEsVXQPqr/XtKZXfTMbyTqADKoaWcpEJ0mOGhbRE="
+    },
+    "type": "primary"
+  }
+}

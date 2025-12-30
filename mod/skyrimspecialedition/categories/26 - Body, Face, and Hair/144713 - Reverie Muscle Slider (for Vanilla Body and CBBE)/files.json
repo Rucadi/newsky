@@ -1,0 +1,63 @@
+{
+  "Reverie Muscle Slider - Vanilla Body": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 605569,
+      "file_name": "Reverie Muscle Slider-144713-1-0-1741975685.7z",
+      "mod_id": 144713,
+      "hash": "sha256-dgkIHbYaYrPDLmzdzwdLln44tyE4jIPlNQ+7A2s4LxY="
+    },
+    "type": "primary"
+  },
+  "Reverie Muscle Map Remix - Toned - Vanilla Body": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 605598,
+      "file_name": "Reverie Muscle Map Remix - Toned-144713-1-0-1741978577.7z",
+      "mod_id": 144713,
+      "hash": "sha256-t7U+cNCMFWLE2u5yQmFMTEErAqlAJRS4EaALXvLVf/w="
+    }
+  },
+  "Reverie Muscle Map Remix - Muscular - Vanilla Body": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1",
+      "file_id": 608938,
+      "file_name": "Reverie Muscle Map Remix - Muscular - Vanilla Body-144713-1-1-1742759251.7z",
+      "mod_id": 144713,
+      "hash": "sha256-65zl7DooXUAC7Os3R1hRgWq+dvP++xzYVsjxHd7y7ag="
+    }
+  },
+  "Reverie Muscle Slider - CBBE": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 608940,
+      "file_name": "Reverie Muscle Slider - CBBE-144713-1-1-1742759459.7z",
+      "mod_id": 144713,
+      "hash": "sha256-OcPopd+/xEp8juWC+rfcYQaXnSw3lJEqZ9okgXaTSRk="
+    },
+    "type": "primary"
+  },
+  "Reverie Muscle Map Remix - Muscular - CBBE": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 608950,
+      "file_name": "Reverie Muscle Map Remix - Muscular - CBBE-144713-1-0-1742760491.7z",
+      "mod_id": 144713,
+      "hash": "sha256-dqfHE2x5B+Svh8aZSmc0xn6DsUCB+vMOGNsR/ZetKbM="
+    }
+  },
+  "Reverie Muscle Map Remix - Toned - CBBE": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 608952,
+      "file_name": "Reverie Muscle Map Remix - Toned - CBBE-144713-1-0-1742760595.7z",
+      "mod_id": 144713
+    }
+  }
+}

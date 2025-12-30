@@ -1,0 +1,24 @@
+{
+  "Suspicious City Guard Improvements": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.00",
+      "file_id": 499392,
+      "file_name": "Suspicious City Guard Improvements-119028-1-00-1715256265.rar",
+      "mod_id": 119028,
+      "hash": "sha256-CpfvMgm5TUKlx8+Oxl3XkIXGar/bgZ5clvwbK7avEPs="
+    },
+    "type": "primary"
+  },
+  "Suspicious City Guard Improvements (No Debuff)": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.00.1",
+      "file_id": 508078,
+      "file_name": "Suspicious City Guard Improvements (No Debuff)-119028-1-00-1-1717452659.rar",
+      "mod_id": 119028,
+      "hash": "sha256-nzCp/K7SisIAcWScMyNYNp2y6QfKs6otiPRLkNgG7WI="
+    },
+    "type": "primary"
+  }
+}

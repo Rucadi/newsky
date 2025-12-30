@@ -1,0 +1,24 @@
+{
+    "Face Discoloration Fix SE": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "1.0.3",
+            "file_id": 319047,
+            "file_name": "Face Discoloration Fix SE-42441-1-0-3-1664040600.7z",
+            "mod_id": 42441,
+            "hash": "sha256-+9F6QC+Jp8CHt3MxT9imLYVYHfeHlqap0vFbJTuc8vY="
+        },
+        "type": "primary"
+    },
+    "Face Discoloration Fix VR": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "1.0.3",
+            "file_id": 319048,
+            "file_name": "Face Discoloration Fix VR-42441-1-0-3-1664040662.7z",
+            "mod_id": 42441,
+            "hash": "sha256-/66pSvbFqrYoOlehgTK8pkXw8Iap9mP22K5nbFLj2Dk="
+        },
+        "type": "primary"
+    }
+}

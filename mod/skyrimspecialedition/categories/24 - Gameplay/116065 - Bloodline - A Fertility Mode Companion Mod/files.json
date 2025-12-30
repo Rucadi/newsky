@@ -1,0 +1,34 @@
+{
+  "Fertility Mode - Show Semen in Mls": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 503755,
+      "file_name": "Fertility Mode - Show Semen in Mls-116065-1-0-1716359803.rar",
+      "mod_id": 116065,
+      "hash": "sha256-17uLUJmVMcE0lIJR9leFiSQURKRnwNvj0RGinSK3GBU="
+    }
+  },
+  "Bloodline - A Fertility Mode Companion Mod": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.2.2",
+      "file_id": 534035,
+      "file_name": "Bloodline - A Fertility Mode Companion Mod-116065-1-2-2-1724307976.rar",
+      "mod_id": 116065,
+      "hash": "sha256-lpKsPVf675C8sncqsFPgKVwXvp1dJO4bkMu302SBY8o="
+    },
+    "type": "primary"
+  },
+  "Bloodline MCM Patch for v1.2.2": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.2.2",
+      "file_id": 676811,
+      "file_name": "Bloodline MCM Patch for v1.2.2-116065-1-2-2-1760661640.rar",
+      "mod_id": 116065,
+      "hash": "sha256-A8e9eqEvbMR3d8gqkOHumDQVbb0tgbrdiViba+8lcsM="
+    },
+    "type": "primary"
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "1k Frost Mirriam and Elves Ears": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1",
+      "file_id": 692061,
+      "file_name": "1k Frost Mirriam and Elves Ears-165664-1-1-1764310202.7z",
+      "mod_id": 165664,
+      "hash": "sha256-NS6LAgES/ydlfgafhgFI2nKV0F39x7crGNK4FfyAIDE="
+    },
+    "type": "primary"
+  },
+  "2k Frost Mirriam and Elves Ears": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1",
+      "file_id": 692062,
+      "file_name": "2k Frost Mirriam and Elves Ears-165664-1-1-1764310263.7z",
+      "mod_id": 165664,
+      "hash": "sha256-Nqx3qwRCJIUItCXu4zdtEDvTGIIPtVNUKDuIn6ErC6k="
+    },
+    "type": "primary"
+  },
+  "1k Forgotten Herbs-Nature's Bounty Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1",
+      "file_id": 692063,
+      "file_name": "1k Forgotten Herbs-Nature's Bounty Patch-165664-1-0-1764310404.7z",
+      "mod_id": 165664,
+      "hash": "sha256-FO9cQE6UI8J7L8AKZO9sUP9cD/s6zVF2ZP3krPt8Ggg="
+    }
+  },
+  "2k Forgotten Herbs-Nature's Bounty Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1",
+      "file_id": 692064,
+      "file_name": "2k Forgotten Herbs-Nature's Bounty Patch-165664-1-1-1764310462.7z",
+      "mod_id": 165664,
+      "hash": "sha256-RNeTzK5DS2Ml7Jcq+O89vST1J0y5psZZnXksLMN6E1I="
+    }
+  }
+}

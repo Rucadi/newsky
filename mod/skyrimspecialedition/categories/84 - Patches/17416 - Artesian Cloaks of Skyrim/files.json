@@ -1,0 +1,134 @@
+{
+  "Daedric Cloaks SSE HDT-SMP": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1.0",
+      "file_id": 57482,
+      "file_name": "Daedric Cloaks SSE HDT-SMP-17416-1-1-0.7z",
+      "mod_id": 17416,
+      "hash": "sha256-heGrzrb2XYxfYIEZlEIzayYyAIIC3GQ9kKma3CALsOU="
+    }
+  },
+  "Divine Cloaks SSE HDT-SMP": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1.0",
+      "file_id": 57483,
+      "file_name": "Divine Cloaks SSE HDT-SMP-17416-1-1-0.7z",
+      "mod_id": 17416,
+      "hash": "sha256-XHkzghg+FAzo6na7Ntcy844ZGXv+thx+fE4ZLnzNnb4="
+    }
+  },
+  "Wet and Cold SSE HDT-SMP": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1.0",
+      "file_id": 57484,
+      "file_name": "Wet and Cold SSE HDT-SMP-17416-1-1-0.7z",
+      "mod_id": 17416,
+      "hash": "sha256-NsbX/2c7o+HaDScT+lmPaF5th6VYWnuztaaYPdzizdE="
+    }
+  },
+  "Cloaks of Lace SSE HDT-SMP": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.2.0",
+      "file_id": 57675,
+      "file_name": "Cloaks of Lace SSE HDT-SMP-17416-1-2-0.7z",
+      "mod_id": 17416,
+      "hash": "sha256-2KB5JUesJTvKNmeuGgpM1g1+wsWfVQIt6TC8m9DS25c="
+    }
+  },
+  "Artesian Cloaks of Skyrim FOMOD": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.3.0",
+      "file_id": 58843,
+      "file_name": "Artesian Cloaks of Skyrim FOMOD-17416-1-3-0.7z",
+      "mod_id": 17416,
+      "hash": "sha256-d+6B5X9qXfp5LcomghFdgHuu9J+OBtr80feAEMDzOLM="
+    },
+    "type": "primary"
+  },
+  "Cloaks and Capes SSE HDT SMP": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.3.0",
+      "file_id": 58844,
+      "file_name": "Cloaks and Capes SSE HDT SMP-17416-1-3-0.7z",
+      "mod_id": 17416,
+      "hash": "sha256-rmDPITGLqhaLbEkC5eXnYhQkp9hDGZ7fBmXtkccbvME="
+    }
+  },
+  "Cloaks of Skyrim SSE HDT-SMP": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.3.0",
+      "file_id": 58845,
+      "file_name": "Cloaks of Skyrim SSE HDT-SMP-17416-1-3-0.7z",
+      "mod_id": 17416,
+      "hash": "sha256-ZqU9PcK+6cF1RGkMM6KRS/ZNnU1jAgUn7DVMbUxC8jE="
+    }
+  },
+  "Winter Is Coming SSE HDT-SMP": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.3.0",
+      "file_id": 58846,
+      "file_name": "Winter Is Coming SSE HDT-SMP-17416-1-3-0.7z",
+      "mod_id": 17416,
+      "hash": "sha256-C91IxGkg+Tf2n2w5edPC09jdD9P3lsLB2mgrxpN7Gmk="
+    }
+  },
+  "Apachii Divine Elegance Store SSE HDT-SMP": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.3.0",
+      "file_id": 58847,
+      "file_name": "Apachii Divine Elegance Store SSE HDT-SMP-17416-1-3-0.7z",
+      "mod_id": 17416,
+      "hash": "sha256-2ya5tJHfBcW9yKOrnZ0djOnJAB7twRlYRuKVQ8Woug4="
+    }
+  },
+  "DeserterX Cloaks SSE HDT-SMP": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.3.0",
+      "file_id": 58848,
+      "file_name": "DeserterX Cloaks SSE HDT-SMP-17416-1-3-0.7z",
+      "mod_id": 17416,
+      "hash": "sha256-SkdaGB3QI0oCFoFj4jRJ/4VHjhbg31eht0PxNdl+ADc="
+    }
+  },
+  "Ennead - Cloaks of Evening Star HDT-SMP": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.3.0",
+      "file_id": 58849,
+      "file_name": "Ennead - Cloaks of Evening Star HDT-SMP-17416-1-3-0.7z",
+      "mod_id": 17416,
+      "hash": "sha256-4b2y8PncFUhS1/Hwi6BTk6wTh+CHV0ydmrfjJM/ceQY="
+    }
+  },
+  "Ashara Princes of the Woods Cloaks SSE HDT-SMP": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.3.0",
+      "file_id": 58850,
+      "file_name": "Princes of the Woods Cloaks SSE HDT-SMP-17416-1-3-0.7z",
+      "mod_id": 17416,
+      "hash": "sha256-pD+LogEkp8JvW1E//HGOq2qo5HUqnpB/Rz9W3JXIZFM="
+    }
+  },
+  "Cloaks of Skyrim Retextured SSE HDT-SMP": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.4.0",
+      "file_id": 171756,
+      "file_name": "Cloaks of Skyrim Retextured SSE HDT-SMP-17416-1-4-0-1606453157.7z",
+      "mod_id": 17416,
+      "hash": "sha256-dDK7x3rcN5dwUc+gZXfKrgm+UOTW5icEOanSesKeZhE="
+    },
+    "type": "primary"
+  }
+}

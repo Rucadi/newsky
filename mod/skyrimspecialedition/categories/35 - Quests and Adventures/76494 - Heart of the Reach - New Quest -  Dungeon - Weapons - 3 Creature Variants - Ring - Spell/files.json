@@ -1,0 +1,55 @@
+{
+  "4k Ring Textures": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "v1.0.0",
+      "file_id": 321329,
+      "file_name": "4k Ring Textures-76494-v1-0-0-1664813555.7z",
+      "mod_id": 76494,
+      "hash": "sha256-cYkm0W3hu6Vlk66AYH9+xJBF5F/Mu2fxUvsOTSzFPjo="
+    }
+  },
+  "Arachnophobia Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0.0",
+      "file_id": 472472,
+      "file_name": "Arachnophobia Patch-76494-1-0-0-1708338053.zip",
+      "mod_id": 76494,
+      "hash": "sha256-eA5GVrGjHiBYCAWO0AOMy3aHqJtVXpudV/ZJg3WbCDA="
+    }
+  },
+  "Heart of the Reach - High Resolution Textures": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0.7",
+      "file_id": 495143,
+      "file_name": "Heart of the Reach - High Resolution Textures-76494-1-0-7-1714178948.7z",
+      "mod_id": 76494,
+      "hash": "sha256-QSpgetYiKamI5+XUNw+fd/+N8KyZhxEghzhLPem/5aM="
+    },
+    "type": "primary"
+  },
+  "Heart of the Reach - Half Resolution Creatures": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0.7",
+      "file_id": 495146,
+      "file_name": "Heart of the Reach - Half Resolution Creatures-76494-1-0-7-1714179090.7z",
+      "mod_id": 76494,
+      "hash": "sha256-BYW8y3/a9eC3LJg8ejeJEdsDgn4Z71QAnUK0jhGJfIg="
+    },
+    "type": "primary"
+  },
+  "Heart of the Reach - Low Resolution Textures": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0.7",
+      "file_id": 495147,
+      "file_name": "Heart of the Reach - Low Resolution Textures-76494-1-0-7-1714179150.7z",
+      "mod_id": 76494,
+      "hash": "sha256-UR5QeV0HkINynX2k1obeI9CwBUseU4khaJCIdqN4OPk="
+    },
+    "type": "primary"
+  }
+}

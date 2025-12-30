@@ -1,0 +1,33 @@
+{
+    "Dark Blue Mist Apparition": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "ANY",
+            "file_id": 520659,
+            "file_name": "Dark Blue Mist Apparition-124125-ANY-1720870019.zip",
+            "mod_id": 124125,
+            "hash": "sha256-p9rlF4cHfsjmoDXIhRVxLW1gRpwELcU18ChKBlZxHnI="
+        }
+    },
+    "Wizarding Traversal - Fast Travel Enabled": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "ANY",
+            "file_id": 523571,
+            "file_name": "Wizarding Traversal - Fast Travel Enabled-124125-ANY-1721596549.zip",
+            "mod_id": 124125,
+            "hash": "sha256-qS1tewyvKf4pde5JahNwXBUuRzRZPY7p+moSpqdXvik="
+        }
+    },
+    "Wizarding Traversal Magic": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "1.43",
+            "file_id": 530577,
+            "file_name": "Wizarding Traversal Magic-124125-1-43-1723398323.zip",
+            "mod_id": 124125,
+            "hash": "sha256-33Jtp68j7ERfWr7b7iJiE2KLAqE9uohWIosz5dEaSds="
+        },
+        "type": "primary"
+    }
+}

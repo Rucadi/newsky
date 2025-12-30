@@ -1,0 +1,23 @@
+{
+  "Vanargand Animations II - Male Idle Walk and Run": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 426904,
+      "file_name": "Vanargand Animations II - Male Idle Walk and Run-99999-1-0-1695014742.7z",
+      "mod_id": 99999,
+      "hash": "sha256-WkPTbpZwmGVIqAhjdf7oIQ6RPUMuR3Qx0BZkQwTVuYc="
+    },
+    "type": "primary"
+  },
+  "CATA Addon - Vanargand II Male Idle Walk Run": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 426905,
+      "file_name": "CATA Addon - Vanargand II Male Idle Walk Run-99999-1-0-1695014799.7z",
+      "mod_id": 99999,
+      "hash": "sha256-lhJ+EoMVlMK4709ugS4jfz0JADKeH+LamSzzSssELVk="
+    }
+  }
+}

@@ -1,0 +1,73 @@
+{
+    "Tel Mithryn Overhaul": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "1.0",
+            "file_id": 445833,
+            "file_name": "Tel Mithryn Overhaul-104813-1-0-1700901760.rar",
+            "mod_id": 104813,
+            "hash": "sha256-P3wMv/xEcNTp4cIOEheICfRh9Qx+8J3dajvViy6boI8="
+        },
+        "type": "primary"
+    },
+    "Tel Mithryn Overhaul - USSEP Patch": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "1.0a",
+            "file_id": 446228,
+            "file_name": "Tel Mithryn Overhaul - USSEP Patch-104813-1-0a-1700996409.rar",
+            "mod_id": 104813,
+            "hash": "sha256-J0293uJkbSDoycZ/v+ErZOzER9mP8Qab3Esat5D29bg="
+        }
+    },
+    "TMO - Spaghetti's Tel Mithryn Patch (BOS)": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "1.0bb",
+            "file_id": 471244,
+            "file_name": "TMO - Spaghetti's Tel Mithryn Patch (BOS)-104813-1-0bb-1708034632.rar",
+            "mod_id": 104813,
+            "hash": "sha256-Kvk5Ig3r5m5GMO62Jh0X+qX8omAxXB3IwMZ6jHUQ2f4="
+        }
+    },
+    "Tel Mithryn Overhaul - Lux Patch (BOS)": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "1.0cc",
+            "file_id": 471245,
+            "file_name": "Tel Mithryn Overhaul - Lux Patch (BOS)-104813-1-0cc-1708034716.rar",
+            "mod_id": 104813,
+            "hash": "sha256-oUXWJ2wAdFaPjp0BSqNGIKm3kaHnz/TBPgy58Gk5SFs="
+        }
+    },
+    "TMO - Spaghetti's Solstheim - AIO Patch (BOS)": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "1.0dd",
+            "file_id": 471246,
+            "file_name": "TMO - Spaghetti's Solstheim - AIO (BOS)-104813-1-0dd-1708034791.rar",
+            "mod_id": 104813,
+            "hash": "sha256-CZyuZEqbq4FeG0rpWxZ9+2KC4XOgB3NuyVbjjr0WraU="
+        }
+    },
+    "TMO - Better Tel Mithryn Patch (BOS)": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "1.0ee",
+            "file_id": 471247,
+            "file_name": "TMO - Better Tel Mithryn Patch (BOS)-104813-1-0ee-1708034862.rar",
+            "mod_id": 104813,
+            "hash": "sha256-zY0Ng0gr4m5AbLCu5oQrQ3SydpMsZfDqFqQ6yk7bOU8="
+        }
+    },
+    "Tel Mithryn Overhaul - Lux Orbis Patch (BOS)": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "1.0ff",
+            "file_id": 559795,
+            "file_name": "Tel Mithryn Overhaul - Lux Orbis Patch (BOS)-104813-1-0ff-1730993980.rar",
+            "mod_id": 104813,
+            "hash": "sha256-b7Y+eRphPz3XkwRtGeCl/MYEuwOtI8CE2LFxi9KNIpU="
+        }
+    }
+}

@@ -1,0 +1,24 @@
+{
+  "HAG - 3DNPC Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 581435,
+      "file_name": "HAG - 3DNPC Patch-138625-1-0-1736495753.rar",
+      "mod_id": 138625,
+      "hash": "sha256-w2xW1xmqv/S6D/EEaJgAnK7g9dIojX9MBHlw9/g8t+s="
+    },
+    "type": "primary"
+  },
+  "HAG - Mihail's crows and ravens Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 581436,
+      "file_name": "HAG - Mihail's crows and ravens Patch-138625-1-0-1736495795.rar",
+      "mod_id": 138625,
+      "hash": "sha256-vxGpQjw9P1cMTGeUUDYnMflmmwwK4kTuu3A9TNYHs/Y="
+    },
+    "type": "primary"
+  }
+}

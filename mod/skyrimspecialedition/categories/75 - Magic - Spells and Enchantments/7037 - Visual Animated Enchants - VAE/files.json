@@ -1,0 +1,23 @@
+{
+  "Previous VAE ART (1.1B)": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1b",
+      "file_id": 18048,
+      "file_name": "Previous VAE ART (1.1B)-7037-1-1b.rar",
+      "mod_id": 7037,
+      "hash": "sha256-COkiYA7yeYuLfDxbj4OIkOUm14Bo97NqoRS55ECo/7E="
+    }
+  },
+  "Visual Animated Enchants V.2": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "V.2",
+      "file_id": 22536,
+      "file_name": "Visual Animated Enchants-7037-V-2.rar",
+      "mod_id": 7037,
+      "hash": "sha256-XGdSWPzbDpwQ9uUt6Fo7vljf03uYiimeExWDubBQ3Z8="
+    },
+    "type": "primary"
+  }
+}

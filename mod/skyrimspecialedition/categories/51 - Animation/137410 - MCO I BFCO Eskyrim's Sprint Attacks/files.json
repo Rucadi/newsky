@@ -1,0 +1,43 @@
+{
+  "Sprint Attacks Remastered - 2nd Stage": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1",
+      "file_id": 578282,
+      "file_name": "Sprint Attacks Remastered - 2nd Stage-137410-1-1-1735722790.7z",
+      "mod_id": 137410,
+      "hash": "sha256-e7OIV6I9be8w3Xpvs16BiEQTfdryqDdtwpXtjjtwbvs="
+    }
+  },
+  "Sprint Attacks Remastered - 1st Stage": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1",
+      "file_id": 578285,
+      "file_name": "Sprint Attacks Remastered - 1st Stage-137410-1-1-1735722837.7z",
+      "mod_id": 137410,
+      "hash": "sha256-CMpeVm0sJYAbkWo8sPGljNevm/fcIqjs33HxszZcYOo="
+    }
+  },
+  "Sprint Attacks Remastered - 3rd Stage": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1",
+      "file_id": 589974,
+      "file_name": "Sprint Attacks Remastered - 3rd Stage-137410-1-0-1738443918.7z",
+      "mod_id": 137410,
+      "hash": "sha256-BmQCkG3dy+EIL8rjmlm35UxJUDtb2GwPjGT85jTtpF8="
+    }
+  },
+  "Sprint Attacks Remastered - All in One": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1",
+      "file_id": 592347,
+      "file_name": "Sprint Attacks Remastered - All in One-137410-1-1-1739022051.7z",
+      "mod_id": 137410,
+      "hash": "sha256-zOP5x16k8vsAv1slvYb59pokUBWBsbzzIBcSNMX9hPw="
+    },
+    "type": "primary"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "Weapon Animation (Dawnbreaker)": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1",
+      "file_id": 213532,
+      "file_name": "Weapon Animation (Dawnbreaker)-52128-1-1-1625839015.zip",
+      "mod_id": 52128,
+      "hash": "sha256-0PX+ixnpbzkbFhy6HvGZw0D+NaEtd/aVlaBbSQC1Aqg="
+    },
+    "type": "primary"
+  },
+  "two-handed version ( made by Khrysamere )": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 213573,
+      "file_name": "two-handed version ( made by Khrysamere )-52128-1-0-1625854080.zip",
+      "mod_id": 52128,
+      "hash": "sha256-SMSp8CiA7Y+Drx4oN4z1LwlOWDF3vUfwdVxLuK+lVY0="
+    }
+  }
+}

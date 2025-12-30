@@ -1,0 +1,33 @@
+{
+    "HSWhiterun - Heimskr's House": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "1.0.0",
+            "file_id": 397357,
+            "file_name": "HSWhiterun - Heimskr's House-93401-1-0-0-1686611083.7z",
+            "mod_id": 93401,
+            "hash": "sha256-FRrs/+1cZGZ6Rd/+wiD8fERrduCiuaJcHd136OFEtcU="
+        },
+        "type": "primary"
+    },
+    "HSWhiterun - Heimskr's House - ELFX": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "1.0.0",
+            "file_id": 397358,
+            "file_name": "HSWhiterun - Heimskr's House - ELFX-93401-1-0-0-1686611118.7z",
+            "mod_id": 93401,
+            "hash": "sha256-dAg1c9iS9q6qLMUYhLH1TFiiCttV9PeUT4xVX3JJr8o="
+        }
+    },
+    "HSWhiterun - Heimskr's House - LUX": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "1.0.0",
+            "file_id": 397359,
+            "file_name": "HSWhiterun - Heimskr's House - LUX-93401-1-0-0-1686611158.7z",
+            "mod_id": 93401,
+            "hash": "sha256-5L0AaVhMOUmmaHSJ0Yca63Ir+wNU/OBk8i1SoIt7tBA="
+        }
+    }
+}

@@ -1,0 +1,53 @@
+{
+  "Sa'chil Addon - Fluffy Tails": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0.0",
+      "file_id": 451482,
+      "file_name": "Sa'chil Addon - Fluffy Tails-106892-1-0-0-1702477977.zip",
+      "mod_id": 106892,
+      "hash": "sha256-55wzSswX+nlaYBViRXkbZuwe8+BJnRPRMRLVhBsIyWg="
+    }
+  },
+  "Sa'chil Addon - CBBE preset": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0.0",
+      "file_id": 451483,
+      "file_name": "Sa'chil Addon - CBBE preset-106892-1-0-0-1702478027.zip",
+      "mod_id": 106892,
+      "hash": "sha256-KbY1eeI78mGZF3i+rkXpZOCNKQ3kflmNUfbQ0fUG/qo="
+    }
+  },
+  "Sa'chil - Custom Voiced Khajiit Follower - 1.0.3": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0.3",
+      "file_id": 453902,
+      "file_name": "Sa'chil - Custom Voiced Khajiit Follower - 1.0.3-106892-1-0-3-1703179362.zip",
+      "mod_id": 106892,
+      "hash": "sha256-3CYrPcQK98Vk87gf6ySACgR0LwSYgXsO8bkaOglpGaA="
+    },
+    "type": "primary"
+  },
+  "Sa'chil Addon - Fluffy Tails - Physics": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0.0",
+      "file_id": 453908,
+      "file_name": "Sa'chil Addon - Fluffy Tails - Physics-106892-1-0-0-1703181935.7z",
+      "mod_id": 106892,
+      "hash": "sha256-6Ckme4WsLIo4lfXEjzRaKKcoJjYUAKDYrF36eZI654w="
+    }
+  },
+  "Sa'chil Addon - High Bitrate Voice Upgrade": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 637828,
+      "file_name": "Sa'chil Addon - High Bitrate Voice Upgrade-106892-1-0-1749927767.zip",
+      "mod_id": 106892,
+      "hash": "sha256-JugkxRXT1fGf/bSjZudiZvkudhb4/UoiMDTPvf0ncEg="
+    }
+  }
+}

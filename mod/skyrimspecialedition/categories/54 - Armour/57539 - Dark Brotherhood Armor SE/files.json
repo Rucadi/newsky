@@ -1,0 +1,83 @@
+{
+  "DBArmorSE": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1",
+      "file_id": 237218,
+      "file_name": "DBArmorSE-57539-1-1635271446.7z",
+      "mod_id": 57539,
+      "hash": "sha256-UCXhq4TpDR4rmAUA8n1wjTLc1PsYOOvzliFdTT1WZYk="
+    },
+    "type": "primary"
+  },
+  "Blade of Woe redesing SE": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1",
+      "file_id": 237219,
+      "file_name": "Blade of Woe redesing SE-57539-1-1635271476.7z",
+      "mod_id": 57539,
+      "hash": "sha256-1Szfw/eei8m0VR7m7dKehwP8AjYn6lWN4AwvslsTRGo="
+    }
+  },
+  "red variant by JPSteel2": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1",
+      "file_id": 237297,
+      "file_name": "red variant by JPSteel2-57539-1-1635315470.7z",
+      "mod_id": 57539,
+      "hash": "sha256-H2JEeUCtZpclOGQk8rnTumRw/vTqTWKcw5u7Lol7rds="
+    }
+  },
+  "red variant by babix": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1",
+      "file_id": 237329,
+      "file_name": "red variant by babix-57539-1-1635338975.7z",
+      "mod_id": 57539,
+      "hash": "sha256-nM0rp8WGTXHMfXhe2/9xjVNFel1fsaHaEdCyLjdZSI4="
+    }
+  },
+  "color variation by lumikami": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1",
+      "file_id": 237357,
+      "file_name": "color variation by lumikami-57539-1-1635345435.zip",
+      "mod_id": 57539,
+      "hash": "sha256-w+OmfZCnJnlEM4pBp0kk5ZU7HtdOG8AW0paTJslj1t0="
+    }
+  },
+  "color variation by IconicDeath": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1",
+      "file_id": 237378,
+      "file_name": "color variation by IconicDeath-57539-1-1635353371.7z",
+      "mod_id": 57539,
+      "hash": "sha256-jHBBohoRco2BQ0JM9x/1yKJNldTeDvPBAIs4aHuVJuY="
+    }
+  },
+  "Slate Version by MoonMods": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1",
+      "file_id": 237719,
+      "file_name": "Slate Version by MoonMods-57539-1-1635514358.7z",
+      "mod_id": 57539,
+      "hash": "sha256-g+zhgVlzJvkeV7rL/Z1pJ/acJi6yCCbi14pA2/98poo="
+    }
+  },
+  "Dark Brotherhood Armor Standalone by Korodic": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "2",
+      "file_id": 237893,
+      "file_name": "Dark Brotherhood Armor Standalone by Korodic-57539-2-1635583323.7z",
+      "mod_id": 57539,
+      "hash": "sha256-W45DQtpwSPSxvYX+3/9uq17z9PdXY6Bc324BZ03ubwI="
+    }
+  }
+}

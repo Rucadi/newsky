@@ -1,0 +1,23 @@
+{
+  "Vindicator Blade ESL": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "v1.0",
+      "file_id": 493678,
+      "file_name": "Vindicator Blade ESL-117211-v1-0-1713802611.7z",
+      "mod_id": 117211,
+      "hash": "sha256-nR0U5z4CQKr6ovpactTdaw+9ePCKfpUKcPiuuXL2pSg="
+    },
+    "type": "primary"
+  },
+  "Vindicator Blade ESP": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "v1.0",
+      "file_id": 493679,
+      "file_name": "Vindicator Blade ESP-117211-v1-0-1713802647.7z",
+      "mod_id": 117211,
+      "hash": "sha256-3P/ZH3LuEIYYXrX6UnKE4rLyPLWE2EEQYdBEicndRw0="
+    }
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "Skyrim's Paraglider - ONE": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "3.0",
+      "file_id": 596783,
+      "file_name": "Skyrim's Paraglider - ONE-134795-3-0-1740020728.7z",
+      "mod_id": 134795,
+      "hash": "sha256-CiGZ8+O6a6S9RYhxNlYlaRvTXk4hVsgp13u1gPeK3Nc="
+    },
+    "type": "primary"
+  },
+  "Skyrim's Paraglider - ONE(Plus)": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "3.0",
+      "file_id": 596785,
+      "file_name": "Skyrim's Paraglider - ONE(Plus)-134795-3-0-1740020873.7z",
+      "mod_id": 134795,
+      "hash": "sha256-YeESU48EOlFBSGkDb884EcoDtVDjtIyE5TUDw7EyrgU="
+    },
+    "type": "primary"
+  },
+  "Skyrim's Paraglider - ONE LoreRim": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "3.0.1",
+      "file_id": 651522,
+      "file_name": "Skyrim's Paraglider - ONE LoreRim-134795-3-0-1-1753927601.7z",
+      "mod_id": 134795,
+      "hash": "sha256-z+LSc1ekwiT/PQM1q5uPd5lNrcHlmJHg+0jz4ZMKo+k="
+    }
+  }
+}

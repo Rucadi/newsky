@@ -1,0 +1,33 @@
+{
+    "HSSolitude - Temple of the Divines - ELFX": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "1.0.0",
+            "file_id": 319166,
+            "file_name": "HSSolitude - Temple of the Divines - ELFX-76056-1-0-0-1664059873.7z",
+            "mod_id": 76056,
+            "hash": "sha256-h1iKcVx/baKsTk9q2hvJNh3sqOZBcYQ4MJ/lj/ZsWhQ="
+        }
+    },
+    "HSSolitude - Temple of the Divines - LUX": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "1.0.0",
+            "file_id": 344124,
+            "file_name": "HSSolitude - Temple of the Divines - LUX-76056-1-0-0-1672204388.7z",
+            "mod_id": 76056,
+            "hash": "sha256-nAhryZK70Vhs/g4t5vnZoiAlMm48u/2ys7/Z0cLFyuo="
+        }
+    },
+    "HSSolitude - Temple of the Divines": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "1.0.1",
+            "file_id": 397964,
+            "file_name": "HSSolitude - Temple of the Divines-76056-1-0-1-1686810598.7z",
+            "mod_id": 76056,
+            "hash": "sha256-+tDMiPYW0qvG3jbIqftG6+ulkFyFDr1R4IaRPBZwM/4="
+        },
+        "type": "primary"
+    }
+}

@@ -1,0 +1,33 @@
+{
+  "Shivering Sky": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1",
+      "file_id": 539143,
+      "file_name": "Shivering Sky-128488-1-1725572005.rar",
+      "mod_id": 128488,
+      "hash": "sha256-dDiMRwuqfynliqISGzjsBqhiQAoDS48Tl3B3OnyxpcI="
+    }
+  },
+  "Mind of Madness Overhaul": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.01",
+      "file_id": 543239,
+      "file_name": "Mind of Madness Overhaul-128488-1-01-1726585002.rar",
+      "mod_id": 128488,
+      "hash": "sha256-IgrZl1B+yA6MeRiuTJwG6o/oP7pLJqS5jVoQvpDdIEw="
+    },
+    "type": "primary"
+  },
+  "Shivering Trees and Mushrooms": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.011",
+      "file_id": 564929,
+      "file_name": "Shivering Trees and Mushrooms-128488-1-011-1732294579.rar",
+      "mod_id": 128488,
+      "hash": "sha256-kJyH6qw8SLYx+yOTcWxxY/LTZDDpLa35IgmHBBDGugk="
+    }
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "Shaders of Solstheim - Parallax Meshes": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "0.2",
+      "file_id": 250468,
+      "file_name": "Shaders of Solstheim - Ash and Moss - Parallax Meshes-60144-0-1-1639987706.7z",
+      "mod_id": 60144,
+      "hash": "sha256-xd0jauglfth+A6mABNZFkXBM/BRDu7dPMqt8PeO2YGQ="
+    }
+  },
+  "Shaders of Solstheim - Ash and Moss": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "0.3",
+      "file_id": 622543,
+      "file_name": "Shaders of Solstheim - Ash and Moss-60144-0-3-1746065950.7z",
+      "mod_id": 60144,
+      "hash": "sha256-pSX/Y+4mZ/8GK3C39D9D/QfMSEjS4lff972XZ4KeEos="
+    },
+    "type": "primary"
+  }
+}

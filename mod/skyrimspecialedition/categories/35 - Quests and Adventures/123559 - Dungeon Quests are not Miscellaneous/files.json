@@ -1,0 +1,23 @@
+{
+    "Dungeon Quests are not Miscellaneous": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "1.0.0",
+            "file_id": 518307,
+            "file_name": "Dungeon Quests are not Miscellaneous-123559-1-0-0-1720298455.zip",
+            "mod_id": 123559,
+            "hash": "sha256-RNr3dHvRMp3WskJhhKe2jmoLcNpay456FsjMnh12Yl0="
+        },
+        "type": "primary"
+    },
+    "Dungeon Quests are not Miscellaneous - BQO Patch": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "1.0.0-BQO",
+            "file_id": 518590,
+            "file_name": "Dungeon Quests are not Miscellaneous - BQO Patch-123559-1-0-0-BQO-1720359485.zip",
+            "mod_id": 123559,
+            "hash": "sha256-b+NkQyZXuraOAsgKhvCCHJGvYOKEe4srsRPFHCrA4fE="
+        }
+    }
+}

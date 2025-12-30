@@ -1,0 +1,34 @@
+{
+    "Shrine of Molag Bal 4k": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "1.0",
+            "file_id": 291256,
+            "file_name": "Shrine of Molag Bal 4k-69667-1-0-1655237220.zip",
+            "mod_id": 69667,
+            "hash": "sha256-sRrPWEmbRpfmLVCzaKua7S9XFS5l3iRLd12vV8trkeI="
+        },
+        "type": "primary"
+    },
+    "Shrine of Molag Bal 2k": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "1.0",
+            "file_id": 291257,
+            "file_name": "Shrine of Molag Bal 2k-69667-1-0-1655237247.zip",
+            "mod_id": 69667,
+            "hash": "sha256-jB2ZCvFeOmr4tYrHzoVuEgS6JiteYGrwh8c9raQ0OzM="
+        },
+        "type": "primary"
+    },
+    "Wintersun patch": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "1.0",
+            "file_id": 291273,
+            "file_name": "Wintersun patch-69667-1-0-1655242480.zip",
+            "mod_id": 69667,
+            "hash": "sha256-VZjj1RTJfh/LdGPA629zK1C1ruj9+QTmqNeKmZ8usjY="
+        }
+    }
+}

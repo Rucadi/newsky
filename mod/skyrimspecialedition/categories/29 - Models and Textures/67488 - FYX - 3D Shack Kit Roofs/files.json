@@ -1,0 +1,23 @@
+{
+    "FYX - 3D Shack Kit Roofs": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "1.0.2",
+            "file_id": 282468,
+            "file_name": "FYX - 3D Shack Kit Roofs-67488-1-0-2-1652087913.7z",
+            "mod_id": 67488,
+            "hash": "sha256-/bzGa/7dVdEJCjQ+Sf0ALzqcUz00oXOqXeiWIUZU0ws="
+        },
+        "type": "primary"
+    },
+    "FYX - 3D Shack Kit Roofs - Better collisions": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "1.0.2",
+            "file_id": 509836,
+            "file_name": "FYX - 3D Shack Kit Roofs - Better collisions-67488-1-0-2-1717917192.7z",
+            "mod_id": 67488,
+            "hash": "sha256-Qt85sRbs0fRG6nTrPuN8kueJvUfTnoB6fM4B8QBgxxM="
+        }
+    }
+}

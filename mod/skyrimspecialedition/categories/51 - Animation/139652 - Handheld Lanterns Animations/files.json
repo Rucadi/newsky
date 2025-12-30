@@ -1,0 +1,44 @@
+{
+  "Handheld Lanterns Animations - OAR": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1",
+      "file_id": 586287,
+      "file_name": "Handheld Lanterns Animations - OAR-139652-1-1-1737573200.zip",
+      "mod_id": 139652,
+      "hash": "sha256-JrxL4EpkLSo2ux9KSvsbNORWQCWhJEqm/0vPN8kB3wE="
+    },
+    "type": "primary"
+  },
+  "HLA - Randomized Conditions - OAR": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1",
+      "file_id": 586288,
+      "file_name": "HLA - Randomized Conditions - OAR-139652-1-1-1737573226.zip",
+      "mod_id": 139652,
+      "hash": "sha256-xS/9r7Elr5FWiUOliwGnAVDrPdICyfprTU6WB/2eaeE="
+    }
+  },
+  "zHandheld Lanterns Animations - DAR Legacy": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1",
+      "file_id": 596084,
+      "file_name": "zHandheld Lanterns Animations - DAR Legacy-139652-1-1-1739835241.zip",
+      "mod_id": 139652,
+      "hash": "sha256-a27u+tSiEPocoIbdeuy6/IXUVQTxU0DoGI25eXYaWpc="
+    },
+    "type": "primary"
+  },
+  "zHLA - Randomized Conditions - DAR Legacy": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1",
+      "file_id": 596092,
+      "file_name": "zHLA - Randomized Conditions - DAR Legacy-139652-1-1-1739836482.zip",
+      "mod_id": 139652,
+      "hash": "sha256-4J3eHrezMZcyf7ypsM6Kv09J7GDqA/YlTLLePrAghjc="
+    }
+  }
+}

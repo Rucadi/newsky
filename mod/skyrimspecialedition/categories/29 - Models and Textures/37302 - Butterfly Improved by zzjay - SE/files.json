@@ -1,0 +1,33 @@
+{
+    "00 - Butterflies": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "1.0",
+            "file_id": 145715,
+            "file_name": "Butterflies-37302-1-0-1592165051.7z",
+            "mod_id": 37302,
+            "hash": "sha256-hdZBHN9kh4BgY7plf9GuQbC39hEeEqUL/aesm1nHgmY="
+        },
+        "type": "primary"
+    },
+    "02 - Rudy HQ - Luna Moth ENB Light": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "1.0",
+            "file_id": 146481,
+            "file_name": "Rudy HQ - Luna Moth ENB Light-37302-beta1-0-1592595058.7z",
+            "mod_id": 37302,
+            "hash": "sha256-xHaRqfrBzHna9j46LwrvkseJRXs5xC3xKJh1nep8JKA="
+        }
+    },
+    "01 - Saint and Seducers - Patch": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "1.0.1",
+            "file_id": 288859,
+            "file_name": "01 - Saint and Seducers - Patch-37302-1-0-1-1654394928.7z",
+            "mod_id": 37302,
+            "hash": "sha256-H8CzWTT9X7xyMb4uv+d1eMK+pmbFcxJeyMy5/yg/Mr8="
+        }
+    }
+}

@@ -1,0 +1,33 @@
+{
+  "Modex - Community Kit Hub": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0.0",
+      "file_id": 597120,
+      "file_name": "Modex - Community Kit Hub-137877-1-0-0-1740100484.7z",
+      "mod_id": 137877,
+      "hash": "sha256-reftaeo667GVzzZh6Vcc7Kep7cTPie5v9o5MA0HRIIk="
+    }
+  },
+  "Modex - A Mod Explorer Menu": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.2.3",
+      "file_id": 646543,
+      "file_name": "Modex - A Mod Explorer Menu-137877-1-2-3-1752357735.7z",
+      "mod_id": 137877,
+      "hash": "sha256-Y1+A0+9MPBih3NzulBW5+7QCzUxkoGjROleFIW+/1rM="
+    },
+    "type": "primary"
+  },
+  "Modex - A Mod Explorer - Dev build": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "alpha-1.3.0",
+      "file_id": 647976,
+      "file_name": "Modex - A Mod Explorer - Dev build-137877-alpha-1-3-0-1752767120.7z",
+      "mod_id": 137877,
+      "hash": "sha256-HJhEI8ttSPUxFwuo8xMFzlilX0EaiXxn7E0VisMePhc="
+    }
+  }
+}

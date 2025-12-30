@@ -1,0 +1,33 @@
+{
+  "Voltage 4-2K": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "2",
+      "file_id": 52702,
+      "file_name": "Voltage 4-2K-15565-2.7z",
+      "mod_id": 15565,
+      "hash": "sha256-juEBZlNVKUnxpBecDNpk0wxZT3hYCOGhsgEEPGQTdN4="
+    },
+    "type": "primary"
+  },
+  "Voltage 2K": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "2",
+      "file_id": 52703,
+      "file_name": "Voltage 2K-15565-2.7z",
+      "mod_id": 15565,
+      "hash": "sha256-8p4784p4/Ut8nVp3J3LnGc7cpjGVAkb9CjG/PfgL9ho="
+    }
+  },
+  "Voltage Variants": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "2",
+      "file_id": 52704,
+      "file_name": "Voltage Variants-15565-2.7z",
+      "mod_id": 15565,
+      "hash": "sha256-Onxok3qnCDZ4WkOZJPa6NrI5gYyV6sn/sKiCWy/5g4s="
+    }
+  }
+}

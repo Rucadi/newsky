@@ -1,0 +1,23 @@
+{
+  "Trade and Barter SE": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "2.2",
+      "file_id": 586734,
+      "file_name": "Trade and Barter SE-23081-2-2-1737695883.7z",
+      "mod_id": 23081,
+      "hash": "sha256-xO3QErF/Ckz0YOxs8cFM/hWkSllWALF5dEdmaCgYpPg="
+    },
+    "type": "primary"
+  },
+  "Trade and Barter SE - Non-USSEP": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "2.2",
+      "file_id": 586735,
+      "file_name": "Trade and Barter SE - Non-USSEP-23081-2-2-1737695926.7z",
+      "mod_id": 23081,
+      "hash": "sha256-zoWAgj0+7NooUye28Pwvy0np/9VHgRyfo99eZNVyGgo="
+    }
+  }
+}

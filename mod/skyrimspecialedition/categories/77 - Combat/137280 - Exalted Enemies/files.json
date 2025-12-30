@@ -1,0 +1,23 @@
+{
+  "Exalted Enemies - ESO Imports SkyPatcher": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 576191,
+      "file_name": "Exalted Enemies - ESO Imports SkyPatcher-137280-1-0-1735221883.rar",
+      "mod_id": 137280,
+      "hash": "sha256-08+bH4BOKRMmKVSuxqcAFbPR5I+5ltObJYKSKekUF3g="
+    }
+  },
+  "Exalted Enemies": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "2.1",
+      "file_id": 703280,
+      "file_name": "Exalted Enemies-137280-2-1-1767024795.rar",
+      "mod_id": 137280,
+      "hash": "sha256-nDfybhIvv/DTy1ZMBfniTiUwGArpxUgTnGtyZNkJSnY="
+    },
+    "type": "primary"
+  }
+}

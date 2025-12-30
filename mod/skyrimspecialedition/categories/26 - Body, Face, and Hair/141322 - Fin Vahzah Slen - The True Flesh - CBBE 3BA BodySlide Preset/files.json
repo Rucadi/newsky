@@ -1,0 +1,43 @@
+{
+  "Fin Vazah Slen - The True Flesh": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 592770,
+      "file_name": "Fin Vazah Slen - The True Flesh-141322-1-0-1739122403.7z",
+      "mod_id": 141322,
+      "hash": "sha256-rtbeK9ZMxvLxH9ibw6fe0dVsb6iK2iazBYdz+qkK5tk="
+    },
+    "type": "primary"
+  },
+  "Fin Vazah Slen - 0 Weight Fixed": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 607017,
+      "file_name": "Fin Vazah Slen - 0 Weight Fixed-141322-1-0-1742295148.7z",
+      "mod_id": 141322,
+      "hash": "sha256-RL9jsv7QmanlMEmW+xkqnF1Sbv0U3BWkabeDu+ZLGWM="
+    }
+  },
+  "Fin Vazah Slen - 50 Weight Fixed": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 607018,
+      "file_name": "Fin Vazah Slen - 50 Weight Fixed-141322-1-0-1742295217.7z",
+      "mod_id": 141322,
+      "hash": "sha256-y5KZXsSNwSeh17MNhiBJm8XG6A6aHyb/QP8jUMwHlFA="
+    }
+  },
+  "Fin Vazah Slen - 100 Weight Fixed": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 607019,
+      "file_name": "Fin Vazah Slen - 100 Weight Fixed-141322-1-0-1742295319.7z",
+      "mod_id": 141322,
+      "hash": "sha256-tox2oRKd+ayGdOStomwln/yUOaSSWjRs/DNdkEbdHMg="
+    }
+  }
+}

@@ -1,0 +1,53 @@
+{
+    "FDE Jenassa Dark Brotherhood version": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "1",
+            "file_id": 547182,
+            "file_name": "FDE Jenassa Dark Brotherhood version-120255-1-1727558823.zip",
+            "mod_id": 120255,
+            "hash": "sha256-qIwHJ7kfxUnxVOz90zfPfeN79552tdwFcg8ZJrUTG6I="
+        }
+    },
+    "FDE Jenassa Auri Patch": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "2",
+            "file_id": 590153,
+            "file_name": "FDE Jenassa Auri Patch-120255-2-1738489611.zip",
+            "mod_id": 120255,
+            "hash": "sha256-MJo815odZmEE6NJ96+Mri8UI5Qz0yQ1l61v0TBB/7To="
+        }
+    },
+    "Inigo patch": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "4.0",
+            "file_id": 597612,
+            "file_name": "Inigo patch-120255-4-0-1740209287.zip",
+            "mod_id": 120255,
+            "hash": "sha256-AcNhzQBOnDCLj2ZcQjvGqigQ+5OMBzgukSrKCRXg2Ms="
+        }
+    },
+    "FDE Jenassa Elysium Estate Patch": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "2",
+            "file_id": 616262,
+            "file_name": "FDE Jenassa Elysium Estate Patch-120255-2-1744423135.zip",
+            "mod_id": 120255,
+            "hash": "sha256-kmYdMPDvOKturC7OfzzUVd58yVBgVOG95QkFHAgoYKg="
+        }
+    },
+    "FDE Jenassa": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "6.0.1",
+            "file_id": 674586,
+            "file_name": "FDE Jenassa-120255-6-0-1-1760193030.zip",
+            "mod_id": 120255,
+            "hash": "sha256-cfNuReokrHi7jPrcKXQiotFbjVCuXoWCU46MYLrG144="
+        },
+        "type": "primary"
+    }
+}

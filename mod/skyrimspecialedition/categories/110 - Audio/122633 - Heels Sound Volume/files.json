@@ -1,0 +1,46 @@
+{
+  "Default version.": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.01",
+      "file_id": 514715,
+      "file_name": "Default version.-122633-1-01-1719308988.rar",
+      "mod_id": 122633,
+      "hash": "sha256-Kqz+5bf8TZ3BcNVt6Uz+Mqqi/W4sPg692DXUVkgzces="
+    },
+    "type": "primary"
+  },
+  "Extended version.": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.01",
+      "file_id": 514716,
+      "file_name": "Extended version.-122633-1-01-1719309035.rar",
+      "mod_id": 122633,
+      "hash": "sha256-+RK0cJd91lnug2UWaELwnC4Lnz0dbB5SKF+eWi5lH2I="
+    },
+    "type": "primary"
+  },
+  "Main Files FOMOD version": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.01",
+      "file_id": 514883,
+      "file_name": "Main Files FOMOD version-122633-1-01-1719351847.rar",
+      "mod_id": 122633,
+      "hash": "sha256-JiTQKdOVSefqk/ppq6U2T7CIlDUjU5UwNLdOK47FI8M="
+    },
+    "type": "primary"
+  },
+  "Main Files FOMOD 2025": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "2025.003",
+      "file_id": 648793,
+      "file_name": "Main Files FOMOD 2025-122633-2025-003-1753036743.rar",
+      "mod_id": 122633,
+      "hash": "sha256-zeVDTZJLNHDIRV9HwP4nplAUWvgnQMb9oLk8t6fPsHI="
+    },
+    "type": "primary"
+  }
+}

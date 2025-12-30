@@ -1,0 +1,33 @@
+{
+    "HSWhiterun - House Battle-Born - ELFX": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "1.0.0",
+            "file_id": 429890,
+            "file_name": "HSWhiterun - House Battle-Born - ELFX-101568-1-0-0-1696026740.7z",
+            "mod_id": 101568,
+            "hash": "sha256-sYNq9p5vTesYFY+nSFw12D+JrWbeBPq5w6NKpEmfJ70="
+        }
+    },
+    "HSWhiterun - House Battle-Born - LUX": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "1.0.0",
+            "file_id": 429891,
+            "file_name": "HSWhiterun - House Battle-Born - LUX-101568-1-0-0-1696026767.7z",
+            "mod_id": 101568,
+            "hash": "sha256-pMzlWsjQ6gBqgpBjYawNnV+WPeCtANwtsddJKJqHfas="
+        }
+    },
+    "HSWhiterun - House Battle-Born": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "1.0.1",
+            "file_id": 665516,
+            "file_name": "HSWhiterun - House Battle-Born-101568-1-0-1-1757817720.7z",
+            "mod_id": 101568,
+            "hash": "sha256-y+VmzZuZ3d11XbtzwhuxCgBT08oOsIdvgH2uxIb+H/Y="
+        },
+        "type": "primary"
+    }
+}

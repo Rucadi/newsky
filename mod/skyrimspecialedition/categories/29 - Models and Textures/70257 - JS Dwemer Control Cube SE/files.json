@@ -1,0 +1,75 @@
+{
+  "JS Dwemer Control Cube SE - 1k Textures": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 293979,
+      "file_name": "JS Dwemer Control Cube SE - 1k Textures-70257-1-0-1656176348.7z",
+      "mod_id": 70257,
+      "hash": "sha256-5J1uOXID66rG6BlTCjlyo7iMn96Sz+0QsslNLvcB7pQ="
+    },
+    "type": "primary"
+  },
+  "JS Dwemer Control Cube SE - 2k Textures": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 293980,
+      "file_name": "JS Dwemer Control Cube SE - 2k Textures-70257-1-0-1656176377.7z",
+      "mod_id": 70257,
+      "hash": "sha256-Q/B9JzESn1XVIg9JZUOA01H5NjqkOVKZBIPPZ5vRWvE="
+    },
+    "type": "primary"
+  },
+  "JS Dwemer Control Cube SE - 4k Textures": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 293981,
+      "file_name": "JS Dwemer Control Cube SE - 4k Textures-70257-1-0-1656176424.7z",
+      "mod_id": 70257,
+      "hash": "sha256-cuv7YXI7ZGfjLkZ/DKmY9rpNxopjj7B8dIjWX0r2+lw="
+    },
+    "type": "primary"
+  },
+  "JS Dwemer Control Cube SE - IDG Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 293998,
+      "file_name": "JS Dwemer Control Cube SE - Improved Dwemer Glass Patch-70257-1-0-1656179506.7z",
+      "mod_id": 70257,
+      "hash": "sha256-DiT6KwPevfKObBhs8vLBL4V+jmEeKCQJibmQbbFZXgM="
+    }
+  },
+  "JS Dwemer Control Cube SE - GDPR Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 482920,
+      "file_name": "JS Dwemer Control Cube SE - GDPR Patch-70257-1-0-1711054343.7z",
+      "mod_id": 70257,
+      "hash": "sha256-dEcXy8OEO0xFJMHO3/ibM64icZgXkEcjQaZcniXb1xo="
+    }
+  },
+  "JS Dwemer Control Cube SE - IDG GDPR Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 482921,
+      "file_name": "JS Dwemer Control Cube SE - IDG GDPR Patch-70257-1-0-1711054382.7z",
+      "mod_id": 70257,
+      "hash": "sha256-C/BoXyMp33Xn2EvUkBVARoXTvHfyuW6uAzAcQSTDhSY="
+    }
+  },
+  "JS Dwemer Control Cube SE - IDG Glow GDPR Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 482938,
+      "file_name": "JS Dwemer Control Cube SE - IDG Glow GDPR Patch-70257-1-0-1711055230.7z",
+      "mod_id": 70257,
+      "hash": "sha256-Z1lkBtbw1Ed5sXqvolV9KL/D/MpfOb47bt1szqhvjiQ="
+    }
+  }
+}

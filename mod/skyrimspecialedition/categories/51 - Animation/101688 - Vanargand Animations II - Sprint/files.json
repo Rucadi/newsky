@@ -1,0 +1,23 @@
+{
+    "Vanargand Animations II - Sprint": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "1.0",
+            "file_id": 430432,
+            "file_name": "Vanargand Animations II - Sprint-101688-1-0-1696181231.7z",
+            "mod_id": 101688,
+            "hash": "sha256-Iwqo4rk4QKJavgf8s7WlJQ/X36wE56Xvbm584l2XvSI="
+        },
+        "type": "primary"
+    },
+    "CATA Addon - Vanargand Animations II Sprint": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "1.0",
+            "file_id": 430435,
+            "file_name": "CATA Addon - Vanargand Animations II Sprint-101688-1-0-1696181320.7z",
+            "mod_id": 101688,
+            "hash": "sha256-2268LPHV/1aQh0vTdNM6w/eOSXjMEWOcuEdQMgAMC5M="
+        }
+    }
+}

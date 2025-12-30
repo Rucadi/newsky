@@ -1,0 +1,66 @@
+{
+  "FYX - WH Docks Entrance Consistency": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0.1",
+      "file_id": 500674,
+      "file_name": "FYX - WH Docks Entrance Consistency-119282-1-0-1-1715608922.7z",
+      "mod_id": 119282,
+      "hash": "sha256-IPqx6TDdpFCaZlK+6yjsOr6utAdgefKnt6CKK6ZVa0g="
+    },
+    "type": "primary"
+  },
+  "FYX - WH Docks Entrance Consistency - Parallax": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0.1",
+      "file_id": 500675,
+      "file_name": "FYX - WH Docks Entrance Consistency - Parallax-119282-1-0-1-1715608964.7z",
+      "mod_id": 119282,
+      "hash": "sha256-ckxi4r6YM292/dXaBxXeQcQnq3GCbG7P9X7bNtyL3E8="
+    },
+    "type": "primary"
+  },
+  "FYX - WH Docks Entrance Consistency - BOS": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0.1",
+      "file_id": 500694,
+      "file_name": "FYX - WH Docks Entrance Consistency - BOS-119282-1-0-1-1715613438.7z",
+      "mod_id": 119282,
+      "hash": "sha256-ZFg0kuWWLMEK86D5CxGpGTzCqdSPhS0lmKp+Kxjf6fo="
+    },
+    "type": "primary"
+  },
+  "FYX - WH Docks Entrance Consistency - Parallax BOS": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0.1",
+      "file_id": 500697,
+      "file_name": "FYX - WH Docks Entrance Consistency - Parallax BOS-119282-1-0-1-1715613525.7z",
+      "mod_id": 119282,
+      "hash": "sha256-r/r/cic6iJuq3K5yfruqBMEF0JmPqewo0MRwH+L1ZBw="
+    },
+    "type": "primary"
+  },
+  "FYX - WH Docks Entrance - Lux Orbis": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0.1.1",
+      "file_id": 505655,
+      "file_name": "FYX - WH Docks Entrance - Lux Orbis-119282-1-0-1-1-1716840830.7z",
+      "mod_id": 119282,
+      "hash": "sha256-txLGfYzZhYD3n3Hr8RLDfB+QVZ3caZnLqwFLWCsf7YI="
+    }
+  },
+  "FYX - WH Docks Entrance - Lux Orbis - Parallax": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0.1.1",
+      "file_id": 505656,
+      "file_name": "FYX - WH Docks Entrance - Lux Orbis - Parallax-119282-1-0-1-1-1716840867.7z",
+      "mod_id": 119282,
+      "hash": "sha256-NEywq9YQpi3chS6u7NjLDXJwr0KuP3bWL+RYCS13L/s="
+    }
+  }
+}

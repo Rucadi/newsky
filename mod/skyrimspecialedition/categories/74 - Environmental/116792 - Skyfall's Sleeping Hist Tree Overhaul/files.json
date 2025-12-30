@@ -1,0 +1,123 @@
+{
+    "Embers XD Patch": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "1.0",
+            "file_id": 490905,
+            "file_name": "Embers XD Patch-116792-1-0-1713153589.7z",
+            "mod_id": 116792,
+            "hash": "sha256-dUdQOkXQ65aZYgcntji9yDIffiZIsw2ydn2tu5jn3Xw="
+        }
+    },
+    "Grandiose Giants Patch": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "1.0",
+            "file_id": 490906,
+            "file_name": "Grandiose Giants Patch-116792-1-0-1713153638.7z",
+            "mod_id": 116792,
+            "hash": "sha256-XrAWV5/bvLL9e3iPrgyn6mUYlk6PK/Dxlgmkf/W53NY="
+        }
+    },
+    "LoS II Patch": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "1.0",
+            "file_id": 490907,
+            "file_name": "LoS II Patch-116792-1-0-1713153710.7z",
+            "mod_id": 116792,
+            "hash": "sha256-JzUV8R7tyemBRByqw8J4Yfm9DBthfv6CES+6huy9K3M="
+        }
+    },
+    "Dead Looking Sleeping Tree (Leafless)": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "1.0",
+            "file_id": 491344,
+            "file_name": "Dead and Winter Textures-116792-1-0-1713241246.7z",
+            "mod_id": 116792,
+            "hash": "sha256-G4OjREW8mcJ8XmknZAUOVCFoDeBA/n7067jSRfLv5jQ="
+        }
+    },
+    "Traverse the Ulvenwald Patch": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "1.0",
+            "file_id": 491351,
+            "file_name": "Traverse the Ulvenwald Patch-116792-1-0-1713241577.7z",
+            "mod_id": 116792,
+            "hash": "sha256-oCC/cTJ0DwETxPC3hPNlXZekpE1rW7V1bEyZRB4NlOU="
+        }
+    },
+    "Seasonal Patch": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "1.0",
+            "file_id": 492030,
+            "file_name": "Seasonal Patch-116792-1-0-1713414515.7z",
+            "mod_id": 116792,
+            "hash": "sha256-tS9OrEjk1P3TaJ06SM6qDnVOy4sKQbV/KUaQ8mrlS6I="
+        }
+    },
+    "Magical Purple Glow Effect Addon": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "1.1",
+            "file_id": 494518,
+            "file_name": "Magical Purple Glow Effect Addon-116792-1-1-1714018619.7z",
+            "mod_id": 116792,
+            "hash": "sha256-UqeSgpKRSp3dTWr8uQTC87JoHKtTGJompU9hrW7nid0="
+        }
+    },
+    "Nocturnal Moths Patch (Moths fly around lanterns)": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "1.0",
+            "file_id": 494521,
+            "file_name": "Nocturnal Moths Patch (Moths fly around lanterns)-116792-1-0-1714018842.7z",
+            "mod_id": 116792,
+            "hash": "sha256-AQ5BCPd+BuFS+XsfJ/B2JVVhw4fpp7qXsa/O/+6HSFw="
+        }
+    },
+    "Non Glowing Roots Addon": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "1.1",
+            "file_id": 496981,
+            "file_name": "Non Glowing Roots Addon-116792-1-1-1714643748.7z",
+            "mod_id": 116792,
+            "hash": "sha256-yXF2t8VqYJG+YnuFs6LbQUrUdAqT+8rcd0UErTJPZlc="
+        }
+    },
+    "Skyfall Sleeping Hist Tree Overhaul": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "1.4",
+            "file_id": 498345,
+            "file_name": "Skyfall Sleeping Hist Tree Overhaul-116792-1-4-1714968243.7z",
+            "mod_id": 116792,
+            "hash": "sha256-G38+MUny24c1QDu0TvhJ7oZQYzAOAd1fGIVR368upc8="
+        },
+        "type": "primary"
+    },
+    "Xelzaz - Argonian Follower - Patch": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "1.0",
+            "file_id": 533901,
+            "file_name": "Xelzaz - Argonian Follower - Patch-116792-1-0-1724266705.7z",
+            "mod_id": 116792,
+            "hash": "sha256-VC1xADyRTz0E9sJN0WI2myM6OuIhc/UzbVvF7Y/Cwjs="
+        }
+    },
+    "Sleeping Hist Tree - LUX Orbis and Embers XD Patch": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "1.0",
+            "file_id": 578325,
+            "file_name": "Sleeping Hist Tree - LUX Orbis and Embers XD Patch-116792-1-0-1735735876.7z",
+            "mod_id": 116792,
+            "hash": "sha256-gerDR48M9BJMKKzF7W4xiFmw8q3X1m52tWeKMIonzro="
+        }
+    }
+}

@@ -1,0 +1,79 @@
+{
+  "VoicedGoblinEmpty_SL": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1",
+      "file_id": 497177,
+      "file_name": "VoicedGoblinEmpty_SL-118451-1-1714677718.rar",
+      "mod_id": 118451,
+      "hash": "sha256-Z+NlZqhLhJ21NbOQlKLlnM3wq4K0NYGtVfOzn3PR6UU="
+    },
+    "type": "primary"
+  },
+  "VoicedGoblinVibian_SL": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1",
+      "file_id": 497179,
+      "file_name": "VoicedGoblinVibian_SL-118451-1-1714677826.rar",
+      "mod_id": 118451,
+      "hash": "sha256-3gWQtIpXyK2FyiRQK8FIEWGiDB0Y+Ke05LhopU7r/F8="
+    },
+    "type": "primary"
+  },
+  "VoicedGoblinVibian_FG": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1",
+      "file_id": 497192,
+      "file_name": "VoicedGoblinVibian_FG-118451-1-1714679421.rar",
+      "mod_id": 118451,
+      "hash": "sha256-sHqltnowGugmK5sbo1UIu8gVi1PP6l9zhrV6Yt5TlRk="
+    },
+    "type": "primary"
+  },
+  "VoicedGoblinRoxie_SL": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1",
+      "file_id": 497198,
+      "file_name": "VoicedGoblinRoxie_SL-118451-1-1714680619.rar",
+      "mod_id": 118451,
+      "hash": "sha256-XnmgqyBLwU5Zjy5iTzDxuoBkT662c0L9IInp64fvpdA="
+    },
+    "type": "primary"
+  },
+  "VoicedGoblinBoth_SL": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.01",
+      "file_id": 497199,
+      "file_name": "VoicedGoblinBoth_SL-118451-1-01-1714680746.rar",
+      "mod_id": 118451,
+      "hash": "sha256-AoSfCesPuM3KpIg8Q0+H95oS/865uxSX16Cs4AqJqRM="
+    },
+    "type": "primary"
+  },
+  "VoicedGoblinBoth_FG": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.02",
+      "file_id": 499187,
+      "file_name": "VoicedGoblinBoth_FG-118451-1-02-1715193360.rar",
+      "mod_id": 118451,
+      "hash": "sha256-XxqFWBhX9EiarFEyIWUfyijlLySLKxz5c8v7dpF/SF0="
+    },
+    "type": "primary"
+  },
+  "VoicedGoblinRoxie_FG": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.02",
+      "file_id": 499188,
+      "file_name": "VoicedGoblinRoxie_FG-118451-1-02-1715193432.rar",
+      "mod_id": 118451,
+      "hash": "sha256-nFaJ3exLGggH77wP/oPpeAlnvJZ1j4LlzUntbe55TTM="
+    },
+    "type": "primary"
+  }
+}

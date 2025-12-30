@@ -1,0 +1,23 @@
+{
+  "Daedric Shrines - Quaint Raven Rock Add-on": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "3.01",
+      "file_id": 278359,
+      "file_name": "Daedric Shrines - Quaint Raven Rock Add-on-63499-3-01-1650419420.7z",
+      "mod_id": 63499,
+      "hash": "sha256-bv52A+jk2/ddEadvRe36k9b9DIGhbMStRsZzI6/hbME="
+    },
+    "type": "primary"
+  },
+  "Daedric Shrines in Raven Rock - STANDALONE": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "3.01-STANDALONE",
+      "file_id": 312809,
+      "file_name": "Daedric Shrines in Raven Rock - STANDALONE-63499-3-01-STANDALONE-1662219290.7z",
+      "mod_id": 63499,
+      "hash": "sha256-ouR6Tyf9D0nhTP3RYGRTdh5GQ76tJ/b6PJJeGVUiyQI="
+    }
+  }
+}

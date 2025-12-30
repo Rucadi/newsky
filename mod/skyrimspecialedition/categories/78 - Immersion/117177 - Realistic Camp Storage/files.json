@@ -1,0 +1,53 @@
+{
+  "Realistic Camp Storage": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "2",
+      "file_id": 499713,
+      "file_name": "Realistic Camp Storage-117177-2-1715339679.rar",
+      "mod_id": 117177,
+      "hash": "sha256-xI182nz9AxybNmRPjTL6G2nVwLd1bS7AbHPo/0C7D3o="
+    },
+    "type": "primary"
+  },
+  "Enderchest Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1",
+      "file_id": 591690,
+      "file_name": "Enderchest Patch-117177-1-1-1738840290.7z",
+      "mod_id": 117177,
+      "hash": "sha256-AGTMGvgevY/I14wdw5vrBBCFc7MdCEZp2E3Ebj3lf/M="
+    }
+  },
+  "Wildlander Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1",
+      "file_id": 591699,
+      "file_name": "Wildlander Patch-117177-1-1-1738843178.7z",
+      "mod_id": 117177,
+      "hash": "sha256-ytHlA2bz9ETa4O8B/lZGXo2E20eS1kfIpxbWEo3frYQ="
+    }
+  },
+  "Simple Bedrolls and Supplies - for Campfire Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1",
+      "file_id": 591701,
+      "file_name": "Simple Campfire Additions Patch-117177-1-1738843270.7z",
+      "mod_id": 117177,
+      "hash": "sha256-cSDqA7PR3mRCpPEYYoG2eZj3HDnxwiz/DshMRrxXrLA="
+    }
+  },
+  "Requiem Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1",
+      "file_id": 596984,
+      "file_name": "Requiem Patch-117177-1-1-1740074306.7z",
+      "mod_id": 117177,
+      "hash": "sha256-VeMba1LPZtGl62TJ4rrhX3DoywQtSvOhbDgifZcPyFA="
+    }
+  }
+}

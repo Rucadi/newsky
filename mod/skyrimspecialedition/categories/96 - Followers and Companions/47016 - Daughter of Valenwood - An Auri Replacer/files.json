@@ -1,0 +1,43 @@
+{
+  "RaceMenu Preset - ESO Eyes": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 205656,
+      "file_name": "RaceMenu Preset - ESO Eyes-47016-1-0-1622044816.zip",
+      "mod_id": 47016,
+      "hash": "sha256-j8BZyAG3amLhtUpXqGt/aHbI7z9wVY7S3jDiiyIcBGI="
+    }
+  },
+  "RaceMenu Preset - Standard Eyes": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 205657,
+      "file_name": "RaceMenu Preset - Standard Eyes-47016-1-0-1622044916.zip",
+      "mod_id": 47016,
+      "hash": "sha256-j8BZyAG3amLhtUpXqGt/aHbI7z9wVY7S3jDiiyIcBGI="
+    }
+  },
+  "Daughter of Valenwood - An Auri Replacer V2.1": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "2.1",
+      "file_id": 576985,
+      "file_name": "Daughter of Valenwood - An Auri Replacer V2.1-47016-2-1-1735414157.zip",
+      "mod_id": 47016,
+      "hash": "sha256-/vXOCE8q7NDaZTPKwlmadOMZ3NQWPZhK7lBXDil6TPU="
+    },
+    "type": "primary"
+  },
+  "Daughter of Valenwood - An Auri Replacer V2.1 ALT": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "2.1",
+      "file_id": 576988,
+      "file_name": "Daughter of Valenwood - An Auri Replacer V2.1 ALT-47016-2-1-1735414968.zip",
+      "mod_id": 47016,
+      "hash": "sha256-YiyfOiEhEm7LY+j//oSNpAbSJ6ZIPNyDCZJSEMf8Uq4="
+    }
+  }
+}

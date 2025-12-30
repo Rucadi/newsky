@@ -1,0 +1,33 @@
+{
+  "Dragon Armors and Weapons Retexture SE": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "2.2",
+      "file_id": 603617,
+      "file_name": "Dragon Armors and Weapons Retexture SE-83222-2-2-1741530795.7z",
+      "mod_id": 83222,
+      "hash": "sha256-HJqEvLJtru0d4gASCJqvDWpCArL6hqT0H3VWiQn/eVU="
+    },
+    "type": "primary"
+  },
+  "Dragon Armors and Weapons Retexture SE-Half Res": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "2.2",
+      "file_id": 603619,
+      "file_name": "Dragon Armors and Weapons Retexture SE-Half Res-83222-2-2-1741530865.7z",
+      "mod_id": 83222,
+      "hash": "sha256-jb2GimPTyUAiwOrhIoYfpZ64AszgUQ+bNfdgAFZT9/Q="
+    }
+  },
+  "Dragon Armors and Weapons Retexture SE-Low Res": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "2.2",
+      "file_id": 603621,
+      "file_name": "Dragon Armors and Weapons Retexture SE-Low Res-83222-2-2-1741530897.7z",
+      "mod_id": 83222,
+      "hash": "sha256-p1jHzIXDhSRKx4Hw92AgJ1pc6ZxDdJVhs4M3y8NZTuc="
+    }
+  }
+}

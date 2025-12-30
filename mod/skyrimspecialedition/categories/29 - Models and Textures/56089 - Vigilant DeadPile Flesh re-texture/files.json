@@ -1,0 +1,35 @@
+{
+  "Vigilant DeadPile Flesh 1k": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 230533,
+      "file_name": "Vigilant DeadPile Flesh 1k-56089-1-0-1632578021.7z",
+      "mod_id": 56089,
+      "hash": "sha256-Lc6pOnVzgELysSmdDuLTPgU8sbU8t0bId9imYfvbpa8="
+    },
+    "type": "primary"
+  },
+  "Vigilant DeadPile Flesh 2k": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 230535,
+      "file_name": "Vigilant DeadPile Flesh 2k-56089-1-0-1632578036.7z",
+      "mod_id": 56089,
+      "hash": "sha256-Bfz5rCAKIFqh9xrx9P2rG4+3IwF3GvUweOPjx/5ppz8="
+    },
+    "type": "primary"
+  },
+  "Vigilant DeadPile Flesh 4k": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 230536,
+      "file_name": "Vigilant DeadPile Flesh 4k-56089-1-0-1632578056.7z",
+      "mod_id": 56089,
+      "hash": "sha256-y55sNVgL/c8wWPGBiLZyuqda/est8kMuwQaVeTMJUEs="
+    },
+    "type": "primary"
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "Kabu's Really Gourd Plant Replacer 4k-2k": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.4d",
+      "file_id": 391619,
+      "file_name": "Kabu's Really Gourd Plant Replacer 4k-2k-90824-1-4d-1684965855.rar",
+      "mod_id": 90824,
+      "hash": "sha256-7S2OOz6fOcieIwVo5DbdI4Ujyy1RkV4fnQMlJnbQOSs="
+    },
+    "type": "primary"
+  },
+  "Kabu's Really Gourd Plant Replacer 2k-1k": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.4d",
+      "file_id": 391620,
+      "file_name": "Kabu's Really Gourd Plant Replacer 2k-1k-90824-1-4d-1684966000.rar",
+      "mod_id": 90824,
+      "hash": "sha256-jbRPFd9rL+UaV1l1ITD6QIfUbACJ49lpIXkuYnGpTpw="
+    },
+    "type": "primary"
+  }
+}

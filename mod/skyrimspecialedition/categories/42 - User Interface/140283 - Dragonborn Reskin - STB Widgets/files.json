@@ -1,0 +1,53 @@
+{
+  "Gold color option for the resist widgets": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 594184,
+      "file_name": "Gold color option for the resist widgets-140283-1-0-1739468072.zip",
+      "mod_id": 140283,
+      "hash": "sha256-FgNkayLazCz8KLzxMMcS7qHTtwW4jXun50vvt4U7CB8="
+    }
+  },
+  "Gold color for shout recharge bar": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 626512,
+      "file_name": "Gold color for shout recharge bar-140283-1-0-1747080325.zip",
+      "mod_id": 140283,
+      "hash": "sha256-gvM3Z7WInQmpcgsw5jTwWJyJZVlp3sewFsnwHMuPtQc="
+    }
+  },
+  "Dragonborn Reskin - STB Widgets": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.05",
+      "file_id": 636549,
+      "file_name": "Dragonborn Reskin - STB Widgets-140283-1-05-1749571855.zip",
+      "mod_id": 140283,
+      "hash": "sha256-Nrs5wOJuD155G2XMrtKAC2fxGrD2/0KUW32x20YoiUQ="
+    },
+    "type": "primary"
+  },
+  "Gold color for Level Up Widget": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 636553,
+      "file_name": "Gold color for Level Up Widget-140283-1-0-1749572290.zip",
+      "mod_id": 140283,
+      "hash": "sha256-dcgMWJefn0aMG+TiM0Oy2g8YXY+y0j1H+j9ecVP+5Ko="
+    }
+  },
+  "Blue color for Level Up Widget": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 636554,
+      "file_name": "Blue color for Level Up Widget-140283-1-0-1749572518.zip",
+      "mod_id": 140283,
+      "hash": "sha256-Ll8GAjbJUIrDBDlBW8SKI6QU2FCTq/CuPgQ3lBKlFGA="
+    }
+  }
+}

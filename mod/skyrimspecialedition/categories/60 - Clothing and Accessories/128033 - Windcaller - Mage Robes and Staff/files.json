@@ -1,0 +1,54 @@
+{
+  "SPID to Jorgen Windcaller": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1",
+      "file_id": 576665,
+      "file_name": "SPID to Jorgen Windcaller-128033-1-1735327241.zip",
+      "mod_id": 128033,
+      "hash": "sha256-u03CAk8Wjy84Gxh4NOmBaIoqeUlbaOyNADasIFsITMc="
+    }
+  },
+  "Windcaller": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "3.0",
+      "file_id": 655909,
+      "file_name": "Windcaller-128033-3-0-1755278697.zip",
+      "mod_id": 128033,
+      "hash": "sha256-WI7S7cpsJzGOqL0l6t3TEE/AmpF0s6apEr1MPvjPrI8="
+    },
+    "type": "primary"
+  },
+  "Windcaller - HIMBO": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "3.0",
+      "file_id": 655910,
+      "file_name": "Windcaller - HIMBO-128033-3-0-1755278775.zip",
+      "mod_id": 128033,
+      "hash": "sha256-WGAiJgVVSehnlzymJp+MaVX0+eoEFu0W9zHsXwWQjQA="
+    }
+  },
+  "Windcaller - 3BA": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "3.0",
+      "file_id": 655911,
+      "file_name": "Windcaller - 3BA-128033-3-0-1755278828.zip",
+      "mod_id": 128033,
+      "hash": "sha256-/f6HnBkYgo18YEpyGF0hGBsPkpgdV+Q/0WNjIW5t2hs="
+    }
+  },
+  "Windcaller - CC Staff Replacer": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "3.0",
+      "file_id": 655914,
+      "file_name": "Windcaller - CC Staff Replacer-128033-3-0-1755279295.zip",
+      "mod_id": 128033,
+      "hash": "sha256-aLVPwv8YslNnXUAwxE5sRy6rD+5zbwAkDV9iN4362DQ="
+    },
+    "type": "primary"
+  }
+}

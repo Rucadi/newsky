@@ -1,0 +1,33 @@
+{
+  "HSPlayerHomes - Vlindrel Hall": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "2.0.0",
+      "file_id": 631983,
+      "file_name": "HSPlayerHomes - Vlindrel Hall-83170-2-0-0-1748395816.7z",
+      "mod_id": 83170,
+      "hash": "sha256-Cy+51Kyr9wfNU6qEV/vCEV7eLHzmkhvTfnstvzXMRnw="
+    },
+    "type": "primary"
+  },
+  "HSPlayerHomes - Vlindrel Hall - ELFX": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "2.0.0",
+      "file_id": 631984,
+      "file_name": "HSPlayerHomes - Vlindrel Hall - ELFX-83170-2-0-0-1748395860.7z",
+      "mod_id": 83170,
+      "hash": "sha256-+F6I1M3H+kpAyHjLMTsAvnQcnaLWsMYHQLqpEPnYRRM="
+    }
+  },
+  "HSPlayerHomes - Vlindrel Hall - LUX": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "2.0.0",
+      "file_id": 631985,
+      "file_name": "HSPlayerHomes - Vlindrel Hall - LUX-83170-2-0-0-1748395898.7z",
+      "mod_id": 83170,
+      "hash": "sha256-hPOTXUIu/y7ha1FmNcIWlfVidT0+VzqxshesBczXfC4="
+    }
+  }
+}

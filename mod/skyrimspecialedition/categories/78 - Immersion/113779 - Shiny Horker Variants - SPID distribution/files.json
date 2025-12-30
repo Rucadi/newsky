@@ -1,0 +1,43 @@
+{
+  "Shiny Horker Variants SPID": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1",
+      "file_id": 481163,
+      "file_name": "Shiny Horker Variants SPID-113779-1-1-1710601897.zip",
+      "mod_id": 113779,
+      "hash": "sha256-RY5y38b1ul2KCW1MO06DQuxHiRFyOhYn/jIVvMI4i/8="
+    },
+    "type": "primary"
+  },
+  "Shiny Horker Variants SPID - modified brown": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1",
+      "file_id": 481165,
+      "file_name": "Shiny Horker Variants SPID - modified brown-113779-1-1-1710602014.zip",
+      "mod_id": 113779,
+      "hash": "sha256-UwRBEQSlaNqNfWQcL4l1Dk7jPLqj6ML0LDO7ejl9ln4="
+    }
+  },
+  "Shiny Horker Variants in Solstheim Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 534315,
+      "file_name": "Shiny Horker Variants in Solstheim Patch-113779-1-0-1724372544.zip",
+      "mod_id": 113779,
+      "hash": "sha256-Pm+xZAUoKpajzmdwI0bZrk5qd9WlUXm9OknPCbUbGgg="
+    }
+  },
+  "Shiny Horker Variants - Vigilant Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 535237,
+      "file_name": "Shiny Horker Variants - Vigilant Patch-113779-1-0-1724607583.zip",
+      "mod_id": 113779,
+      "hash": "sha256-gqsovj/2z2Q2aNJwi0GIRjqVl1WTLlYl135A6Jo/v84="
+    }
+  }
+}

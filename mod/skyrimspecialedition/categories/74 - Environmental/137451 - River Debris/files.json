@@ -1,0 +1,24 @@
+{
+  "River Debris": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0.1",
+      "file_id": 576714,
+      "file_name": "River Debris-137451-1-0-1-1735340034.zip",
+      "mod_id": 137451,
+      "hash": "sha256-BN+kg86YQCEYJfJQYhTTaLD+nI6U8oravG2pMXXnduQ="
+    },
+    "type": "primary"
+  },
+  "River Debris esl version": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0.1",
+      "file_id": 576931,
+      "file_name": "River Debris esl version-137451-1-0-1-1735398422.zip",
+      "mod_id": 137451,
+      "hash": "sha256-36jDrIqxibn6+skHqoQjLJGFcpFyGFUbYFJglzaL6mo="
+    },
+    "type": "primary"
+  }
+}

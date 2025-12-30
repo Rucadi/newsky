@@ -1,0 +1,24 @@
+{
+  "JKs Skyrim - Landscape and Water Fixes": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.00",
+      "file_id": 317889,
+      "file_name": "JKs Skyrim - Landscape and Water Fixes-75805-1-00-1663672450.rar",
+      "mod_id": 75805,
+      "hash": "sha256-HLF9RPgYwQRSPhrFKIjnIwi4U26J4lmLj6zIVpfK+3M="
+    },
+    "type": "primary"
+  },
+  "JKs Skyrim COTN Falkreath - Landscape and Water Fixes": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.00",
+      "file_id": 317890,
+      "file_name": "JKs Skyrim COTN Falkreath - Landscape and Water Fixes-75805-1-00-1663672465.rar",
+      "mod_id": 75805,
+      "hash": "sha256-whLffD6XCTC99OxC2sESuS5n8/M3rMESM5/t6pt3Hcc="
+    },
+    "type": "primary"
+  }
+}

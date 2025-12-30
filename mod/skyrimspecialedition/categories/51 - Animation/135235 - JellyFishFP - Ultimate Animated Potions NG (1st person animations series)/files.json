@@ -1,0 +1,24 @@
+{
+  "JellyFishinLoop FP - Potions NG": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0b",
+      "file_id": 568322,
+      "file_name": "JellyFishinLoop FP - Potions NG-135235-1-0b-1733159150.7z",
+      "mod_id": 135235,
+      "hash": "sha256-hAgpKftx0mQxyoUPWqR1VlRMw4kK5AwhDrfengHumyU="
+    },
+    "type": "primary"
+  },
+  "Potion Simplified ver.": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 570787,
+      "file_name": "Potion Simplified ver.-135235-1-0-1733773755.7z",
+      "mod_id": 135235,
+      "hash": "sha256-x7mgo4yS7Oo4HxI6ThlerGXJ0uhV+wQSPcZ60l7e7f8="
+    },
+    "type": "primary"
+  }
+}

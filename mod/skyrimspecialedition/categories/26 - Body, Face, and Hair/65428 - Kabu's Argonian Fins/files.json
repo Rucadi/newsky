@@ -1,0 +1,98 @@
+{
+  "Kabu's Argonian Fins - Vanilla": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 272348,
+      "file_name": "Kabu's Argonian Fins - Vanilla-65428-1-0-1648199641.zip",
+      "mod_id": 65428,
+      "hash": "sha256-AxVjhfo/CpeKLWuw+bfESNllJbqniDkmyBWvUx0JMG0="
+    },
+    "type": "primary"
+  },
+  "Kabu's Argonian Fins - Forgotten Argonian Roots": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 272351,
+      "file_name": "Kabu's Argonian Fins - Forgotten Argonian Roots-65428-1-0-1648200405.zip",
+      "mod_id": 65428,
+      "hash": "sha256-4UP7R7pS4boGjmZUcANZbb13MsFLOGdspsoJqS541uA="
+    },
+    "type": "primary"
+  },
+  "Kabu's Argonian Fins - Flawn's Vanilla Argonians Redux": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 272352,
+      "file_name": "Kabu's Argonian Fins - Flawn's Vanilla Argonians Redux-65428-1-0-1648200541.zip",
+      "mod_id": 65428,
+      "hash": "sha256-Ma14Dv4OJMOHnvF+RrS1MzjMOYNmhjkdwZirqkCFQJo="
+    },
+    "type": "primary"
+  },
+  "Kabu's Argonian Fins - Masculine and Feminine Argonian Textures (Lizard)": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 272358,
+      "file_name": "Kabu's Argonian Fins - Masculine and Feminine Argonian Textures (Lizard)-65428-1-0-1648201120.zip",
+      "mod_id": 65428,
+      "hash": "sha256-80mKFuKdDiS+znMPFCkyQMXMeIO29x3RHPOHGwlFQgs="
+    },
+    "type": "primary"
+  },
+  "Kabu's Argonian Fins - Male and Female Dragonic Argonian Textures": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 272366,
+      "file_name": "Kabu's Argonian Fins - Male and Female Dragonic Argonian Textures-65428-1-0-1648202552.zip",
+      "mod_id": 65428,
+      "hash": "sha256-SUgWXC+OwVPtqzA1jfEkxm2ENeskQ8k7C+80YygWCyo="
+    },
+    "type": "primary"
+  },
+  "Kabu's Argonian Fins - Forgotten Argonian Roots (Cobra)": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 272368,
+      "file_name": "Kabu's Argonian Fins - Forgotten Argonian Roots (Cobra)-65428-1-0-1648202819.zip",
+      "mod_id": 65428,
+      "hash": "sha256-xJwf9e2for9VjcCddmKHPcyplKpnXIjrnMlZpMZEhbI="
+    }
+  },
+  "Kabu's Argonian Fins - Forgotten Argonian Roots (Anaconda)": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 272370,
+      "file_name": "Kabu's Argonian Fins - Forgotten Argonian Roots (Anaconda)-65428-1-0-1648203002.zip",
+      "mod_id": 65428,
+      "hash": "sha256-vPWtuiqPDT+EK8HG5VCt7EcYPgoOR1Ss7aGEIIeFjHg="
+    }
+  },
+  "Kabu's Argonian Fins - Argonians Enhanced": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 272371,
+      "file_name": "Kabu's Argonian Fins - Argonians Enhanced-65428-1-0-1648203168.zip",
+      "mod_id": 65428,
+      "hash": "sha256-jJVOnBFyHN0MXuWSHUldvkqVY9fq7qUZtY/U75sQXfg="
+    }
+  },
+  "Kabu's Argonian Fins - Masculine and Feminine Argonian Textures (Chameleon)": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.2",
+      "file_id": 272508,
+      "file_name": "Kabu's Argonian Fins - Masculine and Feminine Argonian Textures (Chameleon)-65428-1-2-1648242833.zip",
+      "mod_id": 65428,
+      "hash": "sha256-MTXIg919ybbWEbD3ZjemE0otfZW2U3e/IRpT5HJiHw8="
+    },
+    "type": "primary"
+  }
+}

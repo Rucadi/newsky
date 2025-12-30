@@ -1,0 +1,33 @@
+{
+  "Imperial Armors and Weapons Retexture SE": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "2.0.2",
+      "file_id": 654095,
+      "file_name": "Imperial Armors and Weapons Retexture SE-86097-2-0-2-1754744858.7z",
+      "mod_id": 86097,
+      "hash": "sha256-e9W1s3eRjWUTVt2DoZhCNd18vGesAaAoCa4AqEWddT8="
+    },
+    "type": "primary"
+  },
+  "Imperial Armors and Weapons Retexture SE - HalfRes": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "2.0.2",
+      "file_id": 654098,
+      "file_name": "Imperial Armors and Weapons Retexture SE - HalfRes-86097-2-0-2-1754744934.7z",
+      "mod_id": 86097,
+      "hash": "sha256-5HjUpFhTTIs7Uym+YpDjPZx1k2t5b7FAYFvBXEDx5pE="
+    }
+  },
+  "Imperial Armors and Weapons Retexture SE - Low Res": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "2.0.2",
+      "file_id": 654099,
+      "file_name": "Imperial Armors and Weapons Retexture SE - Low Res-86097-2-0-2-1754744965.7z",
+      "mod_id": 86097,
+      "hash": "sha256-825L/1sscNRRvHYb4CJ691+OwKFvm6HMhahVDtAZrLE="
+    }
+  }
+}

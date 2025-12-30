@@ -1,0 +1,33 @@
+{
+  "Saints and Seducers Retexture SE": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1.0",
+      "file_id": 691056,
+      "file_name": "Saints and Seducers Retexture SE-151116-1-1-0-1764075910.7z",
+      "mod_id": 151116,
+      "hash": "sha256-kemSRgYQXDAbLI5hckJTo3oiP8/A9e5e9YQzl6uo2BQ="
+    },
+    "type": "primary"
+  },
+  "Saints and Seducers Retexture SE - Half res": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1.0",
+      "file_id": 691057,
+      "file_name": "Saints and Seducers Retexture SE - Half res-151116-1-1-0-1764076057.7z",
+      "mod_id": 151116,
+      "hash": "sha256-7ixDY4SHf3vuXyJq1m5wi7Y96PoVNXzqXeZ5VbAB7ns="
+    }
+  },
+  "Saints and Seducers Retexture SE - Low res": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1.0",
+      "file_id": 691058,
+      "file_name": "Saints and Seducers Retexture SE - Low res-151116-1-1-0-1764076102.7z",
+      "mod_id": 151116,
+      "hash": "sha256-aaJq/c2VJ5Xu5kZ7m7lItuQcVcj8VZJpUu603FG1TJs="
+    }
+  }
+}

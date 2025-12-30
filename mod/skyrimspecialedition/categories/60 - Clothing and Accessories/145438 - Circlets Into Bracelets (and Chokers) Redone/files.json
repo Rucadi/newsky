@@ -1,0 +1,72 @@
+{
+  "CircletBracelet - Imperious RoS 1st pov Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 610467,
+      "file_name": "CircletBracelet - Imperious RoS 1st pov Patch-145438-1-0-1743092520.zip",
+      "mod_id": 145438,
+      "hash": "sha256-5WtQpjbVehdVFUgojU757PaOACLSiw6Hjr1N38FSh34="
+    }
+  },
+  "Circlets Into Chokers Redone": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 613405,
+      "file_name": "Circlets Into Chokers Redone-145438-1-0-1743691431.zip",
+      "mod_id": 145438,
+      "hash": "sha256-E1geOwOfMDVOU33bfElKzABSVy1AKVsbHWckGlbtz8Q="
+    }
+  },
+  "Circlets Into Bracelets Redone 1K textures": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.3",
+      "file_id": 655928,
+      "file_name": "Circlets Into Bracelets Redone 1K textures-145438-1-1-1755283830.zip",
+      "mod_id": 145438,
+      "hash": "sha256-At76P7uAsr6cY4Lig9p43BlJ3UmCh5oOtAcvc82yphY="
+    },
+    "type": "primary"
+  },
+  "Circlets Into Bracelets Redone 2K textures": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.3",
+      "file_id": 655929,
+      "file_name": "Circlets Into Bracelets Redone 2K textures-145438-1-3-1755283917.zip",
+      "mod_id": 145438
+    },
+    "type": "primary"
+  },
+  "Circlets Into Bracelets Redone 4K textures": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.3",
+      "file_id": 655930,
+      "file_name": "Circlets Into Bracelets Redone 4K textures-145438-1-3-1755283955.zip",
+      "mod_id": 145438
+    },
+    "type": "primary"
+  },
+  "Circlets Into Bracelets Redone - UPDATED esp ONLY": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.3",
+      "file_id": 655931,
+      "file_name": "Circlets Into Bracelets Redone - UPDATED esp ONLY-145438-1-3-1755284155.zip",
+      "mod_id": 145438
+    },
+    "type": "primary"
+  },
+  "Circlets Into Chokers Redone - crafting menu patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 655939,
+      "file_name": "Circlets Into Chokers Redone - crafting menu patch-145438-1-0-1755285516.zip",
+      "mod_id": 145438
+    }
+  }
+}

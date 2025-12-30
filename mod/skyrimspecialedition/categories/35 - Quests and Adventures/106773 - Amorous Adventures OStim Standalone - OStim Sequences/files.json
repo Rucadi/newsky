@@ -1,0 +1,23 @@
+{
+  "Amorous Adventures - OStim Standalone Sequence": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1.0",
+      "file_id": 454073,
+      "file_name": "Amorous Adventures - OStim Standalone Sequence-106773-1-1-0-1703217930.zip",
+      "mod_id": 106773,
+      "hash": "sha256-x8+z214qVZb71wechbnpyMF81MTScVXn3rluWUWe7QM="
+    },
+    "type": "primary"
+  },
+  "AA OStim Sequences - Vampire Fix Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0.1.VampirePatch",
+      "file_id": 457922,
+      "file_name": "AA OStim Sequences - Vampire Fix Patch-106773-1-0-1-VampirePatch-1704408862.zip",
+      "mod_id": 106773,
+      "hash": "sha256-e2VSLQykCpyoAsv79OD0PHlB+J+JrjUGvX2qKTAv0e4="
+    }
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "Simply Better Wolves 2K": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 513267,
+      "file_name": "Simply Better Wolves 2K-122291-1-0-1718842132.zip",
+      "mod_id": 122291,
+      "hash": "sha256-2o26CRX9LX0WINwzw9pvwdz/wqxN5HRGG1yDk6I7ryk="
+    },
+    "type": "primary"
+  },
+  "Simply Better Wolves 1K": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 513268,
+      "file_name": "Simply Better Wolves 1K-122291-1-0-1718842154.zip",
+      "mod_id": 122291,
+      "hash": "sha256-pQGYf244ovxTKYtIg3TqA9aMh+NmxoCMp/TtiJA30os="
+    },
+    "type": "primary"
+  },
+  "Simply Better Wolves 4K": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 513269,
+      "file_name": "Simply Better Wolves 4K-122291-1-0-1718842300.zip",
+      "mod_id": 122291,
+      "hash": "sha256-ItExBjtQhHEJ3c6qpEI0BDxu64uA0NRkOgfj4wkn9pg="
+    },
+    "type": "primary"
+  }
+}

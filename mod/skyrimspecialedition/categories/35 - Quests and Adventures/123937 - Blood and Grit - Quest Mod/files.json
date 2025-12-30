@@ -1,0 +1,23 @@
+{
+  "Blood and Grit and Northern Roads": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0.1",
+      "file_id": 544145,
+      "file_name": "Blood and Grit and Northern Roads-123937-1-0-1-1726835894.7z",
+      "mod_id": 123937,
+      "hash": "sha256-f2AAR806qLOR44oMzyMpDNtdKmz7WrUQ+T/Isoh0gY8="
+    }
+  },
+  "Blood and Grit - ESL - 1.0.4": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0.4",
+      "file_id": 698670,
+      "file_name": "Blood and Grit - ESL - 1.0.4-123937-1-0-4-1765910696.zip",
+      "mod_id": 123937,
+      "hash": "sha256-9JSQZoyue/5UFLUkydjOJln5oWazxCNz47HX2jgWyPg="
+    },
+    "type": "primary"
+  }
+}

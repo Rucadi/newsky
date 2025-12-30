@@ -1,0 +1,24 @@
+{
+  "The Northerner Diaries - Immersive Edition": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.3",
+      "file_id": 441023,
+      "file_name": "The Northerner Diaries - Immersive Edition-28108-1-3-1699468531.7z",
+      "mod_id": 28108,
+      "hash": "sha256-dTVIx3u61sLFuAnuzzO71q47CfoX+Jfa09f9puUQBGw="
+    },
+    "type": "primary"
+  },
+  "The Northerner Diaries - Immersive Edition ESL": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.3e",
+      "file_id": 441029,
+      "file_name": "The Northerner Diaries - Immersive Edition ESL-28108-1-3e-1699470748.7z",
+      "mod_id": 28108,
+      "hash": "sha256-wdfnPmUMMpLEuU6CxLR0bIbuX4L7UKRRvLXYz+40gSE="
+    },
+    "type": "primary"
+  }
+}

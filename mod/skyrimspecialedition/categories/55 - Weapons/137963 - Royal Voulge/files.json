@@ -1,0 +1,24 @@
+{
+  "Royal Voulge SE - ESL 1024x4096 Textures": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "v1.1",
+      "file_id": 579128,
+      "file_name": "Royal Voulge SE - ESL 1024x4096 Textures-137963-v1-1-1735946968.7z",
+      "mod_id": 137963,
+      "hash": "sha256-gfijf/nlmR1WWQl8w8mLJG6N4bNyVRZ4SMtFKp85Xmo="
+    },
+    "type": "primary"
+  },
+  "Royal Voulge SE ESL 2048x8192  textures": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "v1.1",
+      "file_id": 579129,
+      "file_name": "Royal Voulge SE ESL 2048x8192  textures-137963-v1-1-1735947172.7z",
+      "mod_id": 137963,
+      "hash": "sha256-dpYAUuIWnB2uJ2N+FCoWSpOJICs3NCgBqjP/xWt96Zo="
+    },
+    "type": "primary"
+  }
+}

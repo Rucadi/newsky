@@ -1,0 +1,13 @@
+{
+    "Security Overhaul SKSE - Regional Locks": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "1.0.1",
+            "file_id": 260861,
+            "file_name": "Security Overhaul SKSE - Regional Locks-62781-1-0-1-1643681140.7z",
+            "mod_id": 62781,
+            "hash": "sha256-fHF6kaGUF/SCz6PEOSzrCbaNhWLXkMCfxuPnAZj8fSk="
+        },
+        "type": "primary"
+    }
+}

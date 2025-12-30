@@ -1,0 +1,33 @@
+{
+  "HSWhiterun - Uthgerd's House": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0.0",
+      "file_id": 426872,
+      "file_name": "HSWhiterun - Uthgerd's House-100848-1-0-0-1694998000.7z",
+      "mod_id": 100848,
+      "hash": "sha256-Yzu8D9a86rwG0eOhfVQ1FaaeWzUCgKgmye2K2/3Vxfc="
+    },
+    "type": "primary"
+  },
+  "HSWhiterun - Uthgerd's House - ELFX": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0.0",
+      "file_id": 426875,
+      "file_name": "HSWhiterun - Uthgerd's House - ELFX-100848-1-0-0-1694998029.7z",
+      "mod_id": 100848,
+      "hash": "sha256-zLU6JQC4wxfW9eL7vCs47BCx/kkwxJtgAbDOHLhr23Y="
+    }
+  },
+  "HSWhiterun - Uthgerd's House - LUX": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0.0",
+      "file_id": 426876,
+      "file_name": "HSWhiterun - Uthgerd's House - LUX-100848-1-0-0-1694998065.7z",
+      "mod_id": 100848,
+      "hash": "sha256-qMClHIr1xLpMaDTV5JsWb8v6k6PnzbxAI7IRmEktzY8="
+    }
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "Witchplate Armor Retexture SE - Blue": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1",
+      "file_id": 361844,
+      "file_name": "Witchplate Armor Retexture SE - Blue-73299-1-1-1676936104.rar",
+      "mod_id": 73299,
+      "hash": "sha256-xkhQAMb9i1v5NZ8DCy+0OJ/WN4AYSRf0A3WUfUSCIqQ="
+    },
+    "type": "primary"
+  },
+  "Witchplate Armor Retexture SE - Orange": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1",
+      "file_id": 361846,
+      "file_name": "Witchplate Armor Retexture SE - Orange-73299-1-1-1676936206.rar",
+      "mod_id": 73299,
+      "hash": "sha256-0vkNRrgP23OBvZ34MUHQ1fwVkZIHrH2N8v7QgVclyrE="
+    },
+    "type": "primary"
+  },
+  "Witchplate Armor Retexture SE - Purple": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1",
+      "file_id": 361847,
+      "file_name": "Witchplate Armor Retexture SE - Purple-73299-1-1-1676936244.rar",
+      "mod_id": 73299,
+      "hash": "sha256-6qHPEcQy3IAk1ioSbadZfVRbr6p3IWD/IbAiL/owVhU="
+    },
+    "type": "primary"
+  }
+}

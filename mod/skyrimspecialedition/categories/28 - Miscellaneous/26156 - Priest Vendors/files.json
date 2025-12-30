@@ -1,0 +1,45 @@
+{
+  "Priest Vendors SE - NPC Edits with SPID": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "2.0",
+      "file_id": 416689,
+      "file_name": "Priest Vendors SE - NPC Edits with SPID-26156-2-0-1691941802.7z",
+      "mod_id": 26156,
+      "hash": "sha256-PCUQ9+t4GDPNuTQevbPyTtHdKl+VOYFIgdfTu3I3fXk="
+    },
+    "type": "primary"
+  },
+  "Priest Vendors SE - NPC Edits without SPID": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "2.0",
+      "file_id": 416690,
+      "file_name": "Priest Vendors SE - NPC Edits without SPID-26156-2-0-1691941827.7z",
+      "mod_id": 26156,
+      "hash": "sha256-86i9SRNvnh9n49C6e64LWxjbZ7P+4Fc38AjjzPyImyA="
+    },
+    "type": "primary"
+  },
+  "Priest Vendors SE - USSEP Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "2.0",
+      "file_id": 416691,
+      "file_name": "Priest Vendors SE - USSEP Patch-26156-2-0-1691941874.7z",
+      "mod_id": 26156,
+      "hash": "sha256-k4n9rVrwXhLD53941c2AW1b0PQ5AIWIVo1T/MJs5V2s="
+    }
+  },
+  "Priest Vendors SE - MAIN": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "2.1",
+      "file_id": 499485,
+      "file_name": "Priest Vendors SE - MAIN-26156-2-1-1715277608.7z",
+      "mod_id": 26156,
+      "hash": "sha256-iITa42e1nNBtBIez6edbc2h+U2YkbU2tYoc7ybe7/RM="
+    },
+    "type": "primary"
+  }
+}

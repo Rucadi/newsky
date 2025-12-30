@@ -1,0 +1,78 @@
+{
+  "3DNPC - Vigilant Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 303059,
+      "file_name": "3DNPC - Vigilant Patch-72309-1-0-1659077808.7z",
+      "mod_id": 72309,
+      "hash": "sha256-ai9o/vMb8N+W3AWnJsOf4XuPmixq/n4fXJqnuPPLvJ8="
+    },
+    "type": "primary"
+  },
+  "3DNPC - Moon and Star Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 303060,
+      "file_name": "3DNPC - Moon and Star Patch-72309-1-0-1659077847.7z",
+      "mod_id": 72309,
+      "hash": "sha256-RHPa6JUFZiCv9xI/IC1hshicvws0iKHma2RMmNtGQNI="
+    },
+    "type": "primary"
+  },
+  "Hammets Dungeons1 - 3DNPC Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 303061,
+      "file_name": "Hammets Dungeons1 - 3DNPC Patch-72309-1-0-1659077882.7z",
+      "mod_id": 72309,
+      "hash": "sha256-wGKXLUYPKoifZWQmI7VeTuR57/UHnBraij5Zj6XZMcg="
+    },
+    "type": "primary"
+  },
+  "Project AHO - 3DNPC Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 303062,
+      "file_name": "Project AHO - 3DNPC Patch-72309-1-0-1659077900.7z",
+      "mod_id": 72309,
+      "hash": "sha256-hk5ThELcLl+lJpLcTaYKzxBqtMRNn1/UXrUXYr5FCYo="
+    },
+    "type": "primary"
+  },
+  "Vuldur - 3DNPC Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 303063,
+      "file_name": "Vuldur - 3DNPC Patch-72309-1-0-1659077944.7z",
+      "mod_id": 72309,
+      "hash": "sha256-RywOeT6oM6l1T2uFldVs/DbSsHyGoCm8w9YCB2m7YdU="
+    }
+  },
+  "Windhelm Docks Pathways - 3DNPC Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 303064,
+      "file_name": "Windhelm Docks Pathways - 3DNPC Patch-72309-1-0-1659077994.7z",
+      "mod_id": 72309,
+      "hash": "sha256-2ZRqh6E8EML3IrksFu4m+60asoLHN0+lmYH3g+cSf+w="
+    },
+    "type": "primary"
+  },
+  "3DNPC - Treasure Hunter Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 303476,
+      "file_name": "3DNPC - Treasure Hunter Patch-72309-1-0-1659226156.7z",
+      "mod_id": 72309,
+      "hash": "sha256-+TeB0vcQRTWN3nQiy2UpVxYU2z1PDmWi51n338HqYI4="
+    },
+    "type": "primary"
+  }
+}

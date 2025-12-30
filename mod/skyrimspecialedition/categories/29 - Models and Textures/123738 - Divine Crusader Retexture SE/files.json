@@ -1,0 +1,33 @@
+{
+    "Divine Crusader Retexture SE": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "1.0",
+            "file_id": 518999,
+            "file_name": "Divine Crusader Retexture SE-123738-1-0-1720446270.7z",
+            "mod_id": 123738,
+            "hash": "sha256-ndAXqczsMcN2R0ggb+bJlMT4fHvrqIQFBur0q2P7Hrs="
+        },
+        "type": "primary"
+    },
+    "Divine Crusader Retexture SE - Half Res": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "1.0",
+            "file_id": 519000,
+            "file_name": "Divine Crusader Retexture SE - Half Res-123738-1-0-1720446401.7z",
+            "mod_id": 123738,
+            "hash": "sha256-yD4vvZYZZ6kRSkySWibfJoaJZXgiFjoFPTwqF9J8cZY="
+        }
+    },
+    "Divine Crusader Retexture SE - Low Res": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "1.0",
+            "file_id": 519004,
+            "file_name": "Divine Crusader Retexture SE - Low Res-123738-1-0-1720446608.7z",
+            "mod_id": 123738,
+            "hash": "sha256-BMpNETZQDnPEL8FfuTjMjTY9mDWCZ/llyjMyZ11tFvE="
+        }
+    }
+}

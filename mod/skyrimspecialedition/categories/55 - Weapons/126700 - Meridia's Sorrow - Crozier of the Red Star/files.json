@@ -1,0 +1,33 @@
+{
+  "Meridia's Sorrow - 1K Textures": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 531276,
+      "file_name": "Meridia's Sorrow - 1K Textures-126700-1-0-1723575161.zip",
+      "mod_id": 126700,
+      "hash": "sha256-RF9lvPfg/tzZt6ypYTHr/qavgUz7z01HzmsLaRVHRS4="
+    }
+  },
+  "Meridia's Sorrow - 4K Textures": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 531277,
+      "file_name": "Meridia's Sorrow - 4K Textures-126700-1-0-1723575366.zip",
+      "mod_id": 126700,
+      "hash": "sha256-cSrz6Tdy6eLLz3rS+U1scsZuw6wK1WL0fErD087tl3g="
+    }
+  },
+  "Meridia's Sorrow - Crozier of the Red Star": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1",
+      "file_id": 531358,
+      "file_name": "Meridia's Sorrow - Crozier of th e Red Star-126700-1-1-1723599246.zip",
+      "mod_id": 126700,
+      "hash": "sha256-oDDTYrcd1LUTSCUldlm841rQFnK72SZoqe3sIUhKzOw="
+    },
+    "type": "primary"
+  }
+}

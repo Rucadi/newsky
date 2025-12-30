@@ -1,0 +1,35 @@
+{
+    "JS Embalming Tools SE - 4k Textures": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "1.0",
+            "file_id": 441035,
+            "file_name": "JS Embalming Tools SE - 4k Textures-104322-1-0-1699472388.7z",
+            "mod_id": 104322,
+            "hash": "sha256-9VHfxO5xcJDXeKaxcenyihyh5YzFZNEZ1DsvtvWqFNU="
+        },
+        "type": "primary"
+    },
+    "JS Embalming Tools SE - 2k Textures": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "1.0",
+            "file_id": 441036,
+            "file_name": "JS Embalming Tools SE - 2k Textures-104322-1-0-1699472419.7z",
+            "mod_id": 104322,
+            "hash": "sha256-jluNvdEkXyBY997BlFSBlCtgQI4FCKZyKVZbfQZchy4="
+        },
+        "type": "primary"
+    },
+    "JS Embalming Tools SE - 1k Textures": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "1.0",
+            "file_id": 441037,
+            "file_name": "JS Embalming Tools SE - 1k Textures-104322-1-0-1699472450.7z",
+            "mod_id": 104322,
+            "hash": "sha256-OpQ9lnlUOXREnM8ItwLuijXIEZ3Z7yVLCSSJsl73xk4="
+        },
+        "type": "primary"
+    }
+}

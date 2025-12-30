@@ -1,0 +1,383 @@
+{
+  "Lux - Balamath patch replacer": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 648721,
+      "file_name": "Lux - Balamath patch replacer-155182-1-0-1753027068.7z",
+      "mod_id": 155182,
+      "hash": "sha256-x3IJCH/AUT9GWh6Fwg8fW+MKrgqFxGSbxRWTv7z6rgc="
+    }
+  },
+  "Lux - The Serpent Pit patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 648725,
+      "file_name": "The Serpent Pit-155182-1-0-1753027316.7z",
+      "mod_id": 155182,
+      "hash": "sha256-org4c09T4s56WNsHLLJuGI5/tMJuCk0ROoUvEwEIjPo="
+    }
+  },
+  "Lux - EasierRiders patch replacer": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 648726,
+      "file_name": "Lux - EasierRiders patch replacer-155182-1-0-1753027394.7z",
+      "mod_id": 155182,
+      "hash": "sha256-+Z3/71w6PDwWmv1PCW4ThguGY5HuuorEJkP6IEdqcdk="
+    }
+  },
+  "Lux - ezPG patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 648727,
+      "file_name": "Lux - ezPG patch-155182-1-0-1753027434.7z",
+      "mod_id": 155182,
+      "hash": "sha256-DFJPoDvy1hNBo39vW3vVhgPLZoJErqXSjd3poP/RcNQ="
+    }
+  },
+  "Lux - Heart of the Reach patch replacer": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 648729,
+      "file_name": "Lux - Heart of the Reach patch replacer-155182-1-0-1753027558.7z",
+      "mod_id": 155182,
+      "hash": "sha256-1JqqLug/BGEfVR5QUoSZr24ik9hsWur8sqd9AqwslSg="
+    }
+  },
+  "Lux - Legend of Icebound Crypt patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 648738,
+      "file_name": "Lux - Legend of Icebound Crypt patch-155182-1-0-1753028065.7z",
+      "mod_id": 155182,
+      "hash": "sha256-qLtErKE3m9VMjFvwKUVCBiFV1JuAGkqDJwyUjPxrxiE="
+    }
+  },
+  "Lux - Root of Madness patch replacer": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 648749,
+      "file_name": "Lux - Root of Madness patch replacer-155182-1-0-1753028653.7z",
+      "mod_id": 155182,
+      "hash": "sha256-M8j29Zf1sifnftBdgiFIh6U6/8NKwKu8ZkUgvx6+WQA="
+    }
+  },
+  "Lux - Shindara patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 648752,
+      "file_name": "Lux - Shindara patch-155182-1-0-1753028837.7z",
+      "mod_id": 155182,
+      "hash": "sha256-foLbjknQnM3VfBiZblBivMX5dbHjHnPf90GtYSfcZSs="
+    }
+  },
+  "Lux - Sirenroot patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 648753,
+      "file_name": "Lux - Sirenroot patch-155182-1-0-1753028879.7z",
+      "mod_id": 155182,
+      "hash": "sha256-mXjcHkYSvSTIjcy1akF/k7tpR3VSibogtWr4Igx3CkM="
+    }
+  },
+  "Lux - Snowpoint Dungeon Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 648754,
+      "file_name": "Lux - Snowpoint Dungeon Patch-155182-1-0-1753028932.7z",
+      "mod_id": 155182,
+      "hash": "sha256-DY6sFIXGXARN3TWM3QGKz700w5D3SeWFuzYvXGDQ5fo="
+    }
+  },
+  "Lux - Saints and Seducers EC patch replacer": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.01",
+      "file_id": 648919,
+      "file_name": "Lux - Saints and Seducers EC patch replacer-155182-1-01-1753066743.7z",
+      "mod_id": 155182,
+      "hash": "sha256-2MJxtfwJeNBj/gBiykosBPctExue3y0jV+CgDTqkXuQ="
+    }
+  },
+  "Lux - Blackreach Railroad patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.01",
+      "file_id": 648921,
+      "file_name": "Lux - Blackreach Railroad patch-155182-1-01-1753068039.7z",
+      "mod_id": 155182,
+      "hash": "sha256-1V3fvpjE4aymhznOf2WyEfuj/RzPkFAEAlXlFf7GouU="
+    }
+  },
+  "Lux - Isengrav Barrow patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 649462,
+      "file_name": "Lux - Isengrav Barrow patch-155182-1-0-1753243115.7z",
+      "mod_id": 155182,
+      "hash": "sha256-m85q0uQsd71//TeRZ+YmJztYRHQvTETaVmXomxFcPfc="
+    }
+  },
+  "Lux - Routa patch (non stormcloak)": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 650370,
+      "file_name": "Lux - Routa patch (non stormcloak)-155182-1-0-1753548495.7z",
+      "mod_id": 155182,
+      "hash": "sha256-Nmwsamr5svX35girsLJJ2Zo6luEdpHXS0gz/JnZpRJQ="
+    }
+  },
+  "Lux - Ljungvunde patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.01",
+      "file_id": 652042,
+      "file_name": "Lux - Ljungvunde patch-155182-1-01-1754109696.7z",
+      "mod_id": 155182,
+      "hash": "sha256-QDw6FjKduZI/l1XwH8/z0Jv3bC9zrFASNf59KGNYsZU="
+    }
+  },
+  "Lux - ClefJ Fort Dawnguard patch replacer": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 652867,
+      "file_name": "Lux - ClefJ Fort Dawnguard patch replacer-155182-1-0-1754328590.7z",
+      "mod_id": 155182,
+      "hash": "sha256-YbQweWx7L/NT0n0zsQFmskkCMDoWMrRRnFAW9CW3gLs="
+    }
+  },
+  "Lux - Fantabulous Lighting Templates": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.04",
+      "file_id": 655169,
+      "file_name": "Lux - Fantabulous Lighting Templates-155182-1-04-1755059978.7z",
+      "mod_id": 155182,
+      "hash": "sha256-uzwuucT/itBXf+Oqqv6zzhWVsF4xAM7geKOXHRZuifU="
+    },
+    "type": "primary"
+  },
+  "Lux - Vvardenkemel patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.01",
+      "file_id": 688334,
+      "file_name": "Lux - Vvardenkemel patch-155182-1-01-1763341730.7z",
+      "mod_id": 155182,
+      "hash": "sha256-/GRqPUbJnbzUovaHZzaWd0+Sqes/9fISB0jObuNfHbA="
+    }
+  },
+  "Lux - Cathedral of Vilassian patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.01",
+      "file_id": 688335,
+      "file_name": "Lux - Cathedral of Vilassian patch-155182-1-01-1763341773.7z",
+      "mod_id": 155182,
+      "hash": "sha256-PgTQPLg3X5PFHQit/Y+RaLZ+IfUFUBRPo1h2Engf3M8="
+    }
+  },
+  "Lux - Grand Paladin patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.01",
+      "file_id": 688336,
+      "file_name": "Lux - Grand Paladin patch-155182-1-01-1763341807.7z",
+      "mod_id": 155182,
+      "hash": "sha256-crJp84JJSVSlqLG5wI3bGeVUQ+5yG04GpM2kFlXbS9Y="
+    }
+  },
+  "Lux - Henantir's Steamcrag": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.02",
+      "file_id": 688337,
+      "file_name": "Lux - Henantir's Steamcrag-155182-1-02-1763341874.7z",
+      "mod_id": 155182,
+      "hash": "sha256-ti8KzniXf/v31k1YCOqOvdY2AAS7THBON6eLL2QQv0M="
+    }
+  },
+  "Lux - Vjarkell Castle": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.02",
+      "file_id": 688338,
+      "file_name": "Lux - Vjarkell Castle-155182-1-02-1763341906.7z",
+      "mod_id": 155182,
+      "hash": "sha256-gidlQ1BPM1KIjkWQC0/nalZWGIKbpqtS3JDv2N3zxKs="
+    }
+  },
+  "Lux - Prospector's Residence Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.01",
+      "file_id": 688339,
+      "file_name": "Lux - Prospector's Residence Patch-155182-1-01-1763341960.7z",
+      "mod_id": 155182,
+      "hash": "sha256-eaD9GMSwkXwnC68JZK7aDRol5Vbitix6mhBcsVM2dCU="
+    }
+  },
+  "Lux - More to do Soul Cairn": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.01",
+      "file_id": 688340,
+      "file_name": "Lux - More to do Soul Cairn-155182-1-01-1763341992.7z",
+      "mod_id": 155182,
+      "hash": "sha256-alWOn6LblEvzHO8eeWI+TCWCIC2FYgWQzEDKKOhfOxM="
+    }
+  },
+  "Lux - Mihail Guardian Spectres and Shadow Atronach": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.02",
+      "file_id": 688341,
+      "file_name": "Lux - Mihail Guardian Spectres and Shadow Atronach-155182-1-02-1763342028.7z",
+      "mod_id": 155182,
+      "hash": "sha256-Z0MdtmcmO6vbfgCZkTESP/vNvqKTY2wmQkEf8cA4TPo="
+    }
+  },
+  "Lux - Leaf Fall Farm patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.01",
+      "file_id": 688342,
+      "file_name": "Lux - Leaf Fall Farm patch-155182-1-01-1763342049.7z",
+      "mod_id": 155182,
+      "hash": "sha256-cSLAVp1TbvgLes95nN2RbBY23FPKnEr3gZbgxCCvjK0="
+    }
+  },
+  "Lux - Jurgholm patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.01",
+      "file_id": 688343,
+      "file_name": "Lux - Jurgholm patch-155182-1-01-1763342069.7z",
+      "mod_id": 155182,
+      "hash": "sha256-8xBkbeci7VkOi6pF4T4KSsX5cNNHgRqzv0WUxlB0O48="
+    }
+  },
+  "Lux - Iomaungandr patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.01",
+      "file_id": 688344,
+      "file_name": "Lux - Iomaungandr patch-155182-1-01-1763342087.7z",
+      "mod_id": 155182,
+      "hash": "sha256-Sg90DN9sSpGBJK9igy+pIci9/K3XcVhr4htnHRkMoIY="
+    }
+  },
+  "Lux - Hope's Abandon Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.02",
+      "file_id": 688345,
+      "file_name": "Lux - Hope's Abandon Patch-155182-1-02-1763342131.7z",
+      "mod_id": 155182,
+      "hash": "sha256-G9EB0NPqAAlsVXL4lBlt85AKG+KN4ntZFiUFuHsSuOk="
+    }
+  },
+  "Lux - Faerdham patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.01",
+      "file_id": 688347,
+      "file_name": "Lux - Faerdham patch-155182-1-01-1763342176.7z",
+      "mod_id": 155182,
+      "hash": "sha256-/Qac+JA984d/DZ5F/Bhuo1e4kTMiiyNlWPyZwekT4XE="
+    }
+  },
+  "Lux - Cloistered Temple patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.01",
+      "file_id": 688348,
+      "file_name": "Lux - Cloistered Temple patch-155182-1-01-1763342192.7z",
+      "mod_id": 155182,
+      "hash": "sha256-WdX8QQylhi5bErlqyl3D38fggXyIeXzMhu/IBtbF7fQ="
+    }
+  },
+  "Lux - Maelstrom patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.01",
+      "file_id": 688350,
+      "file_name": "Lux - Maelstrom patch-155182-1-01-1763342211.7z",
+      "mod_id": 155182,
+      "hash": "sha256-7kDDurYux8CZP9tEw7doiOmDJkxqHdZjzYmKT0PgP20="
+    }
+  },
+  "Lux - Khajit Will Follow patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.01",
+      "file_id": 688351,
+      "file_name": "Lux - Khajit Will Follow patch-155182-1-01-1763342232.7z",
+      "mod_id": 155182,
+      "hash": "sha256-17u8YNI1oelx3PyITKo0TMJOzQvNGd2i/k7b6cEqcBs="
+    }
+  },
+  "Lux - Hel Rising patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.01",
+      "file_id": 688353,
+      "file_name": "Lux - Hel Rising patch-155182-1-01-1763342250.7z",
+      "mod_id": 155182,
+      "hash": "sha256-KpRvaO9ZgaI3HNu3hgKd9V7H9PiIwpHLcvy2/ftLzH0="
+    }
+  },
+  "Lux - Doubt Suspended Quest Pack patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.01",
+      "file_id": 688354,
+      "file_name": "Lux - Doubt Suspended Quest Pack patch-155182-1-01-1763342284.7z",
+      "mod_id": 155182,
+      "hash": "sha256-tUlRzoe9nEihqot7aJmzBqv7Guyoe3icudI0ybvC8sQ="
+    }
+  },
+  "Lux - Caves of Morrowind patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.01",
+      "file_id": 688355,
+      "file_name": "Lux - Caves of Morrowind patch-155182-1-01-1763342310.7z",
+      "mod_id": 155182,
+      "hash": "sha256-+ZQBShjf9bnjiZ1/8CBqbhJVeCp2wpzqKpfw64zumxo="
+    }
+  },
+  "Lux - Path of the Revenant patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.01",
+      "file_id": 688357,
+      "file_name": "Lux - Path of the Revenant patch-155182-1-01-1763342340.7z",
+      "mod_id": 155182,
+      "hash": "sha256-SwMBH+f/ucp++i3ZNRKYABP3rf4m4dV05l6R6tqXIsA="
+    }
+  },
+  "Lux - Painted Torment patch replacer": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.01",
+      "file_id": 688358,
+      "file_name": "Lux - Painted Torment patch replacer-155182-1-01-1763342632.7z",
+      "mod_id": 155182,
+      "hash": "sha256-lYuvDd1p5G9df8u33OuIs6fMMht956a1OD1kSuMUtnw="
+    }
+  }
+}

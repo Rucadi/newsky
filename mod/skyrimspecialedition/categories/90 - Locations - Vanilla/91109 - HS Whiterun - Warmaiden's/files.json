@@ -1,0 +1,33 @@
+{
+    "HSWhiterun - Warmaiden's - ELFX": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "1.0.0",
+            "file_id": 386984,
+            "file_name": "HSWhiterun - Warmaiden's - ELFX-91109-1-0-0-1683806595.7z",
+            "mod_id": 91109,
+            "hash": "sha256-7aOkri/6QiTauckLmfbXxOKKz8gDYkdrxxzEqWhdkAE="
+        }
+    },
+    "HSWhiterun - Warmaiden's - LUX": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "1.0.0",
+            "file_id": 386985,
+            "file_name": "HSWhiterun - Warmaiden's - LUX-91109-1-0-0-1683806626.7z",
+            "mod_id": 91109,
+            "hash": "sha256-NycfwSsPqyHSBFFuKiFue1eSqCJ+C4rld+jwdJ7gMSs="
+        }
+    },
+    "HSWhiterun - Warmaiden's": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "1.0.1",
+            "file_id": 424762,
+            "file_name": "HSWhiterun - Warmaiden's-91109-1-0-1-1694369044.7z",
+            "mod_id": 91109,
+            "hash": "sha256-4FoUFRa8WHtJ5gctmksjiS6suc5dALsR6rYVnoTZ5D4="
+        },
+        "type": "primary"
+    }
+}

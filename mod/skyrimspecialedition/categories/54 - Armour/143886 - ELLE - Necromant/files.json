@@ -1,0 +1,23 @@
+{
+  "Necromant - 3BA": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1",
+      "file_id": 605321,
+      "file_name": "Necromant - 3BA-143886-1-1741915707.rar",
+      "mod_id": 143886,
+      "hash": "sha256-aTHLKcGnJydbC0WcU/yppgzD+/K1jRlPtnb8I6Jefm4="
+    },
+    "type": "primary"
+  },
+  "Necromant - UBE": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1",
+      "file_id": 605334,
+      "file_name": "Necromant - UBE-143886-1-1741919805.rar",
+      "mod_id": 143886,
+      "hash": "sha256-MLHZ1pUXFHLb3bfNK+kzGcvdLeWsuTl5WFN7gy1SWKc="
+    }
+  }
+}

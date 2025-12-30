@@ -1,0 +1,23 @@
+{
+    "Nirn Necessities - SMP Accessories": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "1.03",
+            "file_id": 563435,
+            "file_name": "Nirn Necessities - SMP Accessories-112481-1-03-1731887957.7z",
+            "mod_id": 112481,
+            "hash": "sha256-zBaEMUqO+czuhsusOg0Kjs5ShP9grwDgoqp3SLYSHT8="
+        },
+        "type": "primary"
+    },
+    "Nirn Necessities - Bodyslide Files": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "1.03",
+            "file_id": 563436,
+            "file_name": "Nirn Necessities - Bodyslide Files-112481-1-03-1731888046.7z",
+            "mod_id": 112481,
+            "hash": "sha256-kGe/WmFJ/dXO9jC1wCP+m3nFxqYJXMF4n/CKpn5LCoc="
+        }
+    }
+}

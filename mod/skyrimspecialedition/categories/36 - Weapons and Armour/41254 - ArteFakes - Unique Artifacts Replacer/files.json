@@ -1,0 +1,103 @@
+{
+  "Zim's Immersive Artifacts Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1",
+      "file_id": 165862,
+      "file_name": "Zim's Immersive Artifacts Patch-41254-1-1602951073.7z",
+      "mod_id": 41254,
+      "hash": "sha256-tEHglSrTh6CANqch0lICqSdA7tJ9RMDa2F2oohIxV0k="
+    }
+  },
+  "Animation Replacer Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1",
+      "file_id": 165937,
+      "file_name": "ArteFakes - Animation Replacer Patch-41254-1-1603003867.7z",
+      "mod_id": 41254,
+      "hash": "sha256-YUDKGb0lfDrufEJyPT9iNzV7gxIahzA4XdyQgFuQ/jI="
+    }
+  },
+  "aMidianBorn Skyforge Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1",
+      "file_id": 165949,
+      "file_name": "aMidianBorn Skyforge Patch-41254-1-1603007242.7z",
+      "mod_id": 41254,
+      "hash": "sha256-54Hztj3JwUiW6Ruf48ivvVuJSS9C9jtsEr+aqXxDfIk="
+    }
+  },
+  "USSEP Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "2.0",
+      "file_id": 197029,
+      "file_name": "USSEP Patch-41254-2-0-1617950420.7z",
+      "mod_id": 41254,
+      "hash": "sha256-eVlxNR7SXBHRysTQj7+8/2vvRY35UUQOBMkEMg5YtXQ="
+    }
+  },
+  "Reliquary of Myth Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "2.0",
+      "file_id": 197032,
+      "file_name": "Reliquary of Myth Patch-41254-2-0-1617951163.7z",
+      "mod_id": 41254,
+      "hash": "sha256-fUnULwJIXblLM50suV6zm05MpIWtL+jcNZubkEobMvo="
+    }
+  },
+  "Unique Items Tweaks Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "2.0",
+      "file_id": 197033,
+      "file_name": "Unique Items Tweaks Patch-41254-2-0-1617951351.7z",
+      "mod_id": 41254,
+      "hash": "sha256-d7OOH++wmo1m6C9h9xGwrMnzDvhZibYrqBPm0Q9SvGo="
+    }
+  },
+  "ArteFakes": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "2.0",
+      "file_id": 197058,
+      "file_name": "ArteFakes-41254-2-0-1617966810.7z",
+      "mod_id": 41254,
+      "hash": "sha256-jtOeut7AaEAfDx0rDlJd0CJY7LQD64Av5dht+20FZQY="
+    },
+    "type": "primary"
+  },
+  "Balance Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "BP2.0",
+      "file_id": 197059,
+      "file_name": "Balance Patch-41254-2-0-1617966847.7z",
+      "mod_id": 41254,
+      "hash": "sha256-e6Fd1P5KxtFMp/jGK6SpEIKMOfaW8HcLLdXxDDZ0fmY="
+    }
+  },
+  "Legacy of the Dragonborn Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "2.0",
+      "file_id": 197466,
+      "file_name": "Legacy of the Dragonborn Patch-41254-2-0-1618136294.7z",
+      "mod_id": 41254,
+      "hash": "sha256-DcTJxUVQ0PSf2+0t6hBwywtWUayPHuUfYq8cxit0qXs="
+    }
+  },
+  "Awesome Artifacts Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "2.0.1",
+      "file_id": 227183,
+      "file_name": "Awesome Artifacts Patch-41254-2-0-1-1631195869.7z",
+      "mod_id": 41254,
+      "hash": "sha256-o9J/a+GMnHeA/TTA6KJFVjqQPe+AgFuC0a4adKkCeXI="
+    }
+  }
+}

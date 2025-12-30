@@ -1,0 +1,23 @@
+{
+  "Saints and Seducers Flora ENB Light": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 268722,
+      "file_name": "Saints and Seducers Flora ENB Light-64659-1-0-1646687304.7z",
+      "mod_id": 64659,
+      "hash": "sha256-f4VKZ6r5/ELiD/yLYXiDaj72n7pAU9efPyc8nPcmtfQ="
+    },
+    "type": "primary"
+  },
+  "Saints and Seducers Flora ENB Light - Root Weed Update": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.01",
+      "file_id": 268731,
+      "file_name": "Saints and Seducers Flora ENB Light - Root Weed Update-64659-1-01-1646690431.7z",
+      "mod_id": 64659,
+      "hash": "sha256-pP/9zwOzDhHddPjjR+Nta0y9ebg4/7cnJHhhEMTwjI0="
+    }
+  }
+}

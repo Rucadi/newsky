@@ -1,0 +1,24 @@
+{
+  "Royal Armory Tweaks for ICoW": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.41",
+      "file_id": 131051,
+      "file_name": "Royal Armory Tweaks for ICoW-26398-1-40-1585416322.zip",
+      "mod_id": 26398,
+      "hash": "sha256-MeUEnIAjY+3TE8ozCQm+huEypzO8QSw2iJL2cJS6Iv0="
+    },
+    "type": "primary"
+  },
+  "Royal Armory Tweaks": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.41",
+      "file_id": 165255,
+      "file_name": "Royal Armory Tweaks-26398-1-41-1602541547.zip",
+      "mod_id": 26398,
+      "hash": "sha256-1e5bIgRe4VQwAI8A0/qywWxFH+VYmL4Q7+UI0+aKNS4="
+    },
+    "type": "primary"
+  }
+}

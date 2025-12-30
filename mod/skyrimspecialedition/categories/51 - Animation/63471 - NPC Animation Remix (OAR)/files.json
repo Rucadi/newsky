@@ -1,0 +1,23 @@
+{
+  "NPC Animation Remix (OAR) - main archive": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "2.0.0",
+      "file_id": 520752,
+      "file_name": "NPC Animation Remix (OAR) - main archive-63471-2-0-0-1720883072.zip",
+      "mod_id": 63471,
+      "hash": "sha256-xXHTjJLepKEXWD6wwJIhgh6A2JR7TaVyKFJb1aRRSYk="
+    },
+    "type": "primary"
+  },
+  "NPC Animation Remix (OAR) - shield patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "2.0.0",
+      "file_id": 520756,
+      "file_name": "NPC Animation Remix (OAR) - shield patch-63471-2-0-0-1720883215.zip",
+      "mod_id": 63471,
+      "hash": "sha256-ORpbAjKrs4OpPzXdZUupSM+ut3aMET3jrzExG/h69hI="
+    }
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "FYX - Windhelm Castle Door": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1",
+      "file_id": 496643,
+      "file_name": "FYX - Windhelm Castle Door-118120-1-1-1714543001.7z",
+      "mod_id": 118120,
+      "hash": "sha256-rZwuuxTD66zuSMPUion4MRTV/90uVrJwiRWkst5E3A8="
+    },
+    "type": "primary"
+  },
+  "FYX - Windhelm Castle Door - Parallax": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1",
+      "file_id": 496644,
+      "file_name": "FYX - Windhelm Castle Door - Parallax-118120-1-1-1714543025.7z",
+      "mod_id": 118120,
+      "hash": "sha256-TNiuaqDQl7Y0T3UHNP/+HAfKlWVHbbotb/WrykwKxT8="
+    },
+    "type": "primary"
+  },
+  "FYX - Windhelm Castle Door - Skyland Parallax": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1",
+      "file_id": 496645,
+      "file_name": "FYX - Windhelm Castle Door - Skyland Parallax-118120-1-1-1714543053.7z",
+      "mod_id": 118120,
+      "hash": "sha256-AocPS+aOqA8WDZYTuNyeBb7cPSQW47rel6VzJnSjNRc="
+    },
+    "type": "primary"
+  }
+}

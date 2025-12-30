@@ -1,0 +1,23 @@
+{
+  "Trees patches for Woodcutting Tweaks": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.6",
+      "file_id": 660878,
+      "file_name": "Trees patches for Woodcutting Tweaks-136527-1-6-1756588033.7z",
+      "mod_id": 136527,
+      "hash": "sha256-KUtHnJilg1Brx9NzCZFb85Fp3HKAlaBS9X5LBeO/2+w="
+    },
+    "type": "primary"
+  },
+  "Trees patches for Woodcutting Tweaks TRAD DSDFR": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.6FRDSD",
+      "file_id": 660884,
+      "file_name": "Trees patches for Woodcutting Tweaks TRAD DSDFR-136527-1-6FRDSD-1756589833.7z",
+      "mod_id": 136527,
+      "hash": "sha256-rL6xc4O6B6egnPB8c3kqWJSb7tJCoKPuYYRO3yIYxn4="
+    }
+  }
+}

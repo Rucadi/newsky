@@ -1,0 +1,44 @@
+{
+  "2-4k. New Matron v1": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0.0",
+      "file_id": 431645,
+      "file_name": "2-4k. New Matron v1-101971-1-0-0-1696608931.zip",
+      "mod_id": 101971,
+      "hash": "sha256-uBPz5gpLEydEeCwumAdCitK86Uow/RbwgrBx+A7YLcE="
+    },
+    "type": "primary"
+  },
+  "2-4k. New Matron v2": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0.0",
+      "file_id": 431646,
+      "file_name": "2-4k. New Matron v2-101971-1-0-0-1696608965.zip",
+      "mod_id": 101971,
+      "hash": "sha256-kAogdCb+uFPCo7qxrAJojJSmDg69Tpzp+xaCH5iqVUA="
+    },
+    "type": "primary"
+  },
+  "1-2k. New Matron v1": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0.0",
+      "file_id": 431647,
+      "file_name": "1-2k. New Matron v1-101971-1-0-0-1696608999.zip",
+      "mod_id": 101971,
+      "hash": "sha256-5xIU9R0XPStVCKQiq39rwn/m2voGGYtARy8aKlrS4fA="
+    }
+  },
+  "1-2k. New Matron v2": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0.0",
+      "file_id": 431648,
+      "file_name": "1-2k. New Matron v2-101971-1-0-0-1696609032.zip",
+      "mod_id": 101971,
+      "hash": "sha256-RjziUs4mFbGy4idlwBGl82liA+G0pxyvVMaSxTcd9mg="
+    }
+  }
+}

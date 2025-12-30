@@ -1,0 +1,33 @@
+{
+    "Ghostly Helgi": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "1.2",
+            "file_id": 446550,
+            "file_name": "Ghostly Helgi-105527-1-2-1701057874.zip",
+            "mod_id": 105527,
+            "hash": "sha256-dqxzt5OKBiCq9uzmSDEIrxbunUQ3tBEU9PqMkG0xodY="
+        },
+        "type": "primary"
+    },
+    "Ghostly Helgi Adopt Helgi Patch": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "1.2",
+            "file_id": 446551,
+            "file_name": "Ghostly Helgi Adopt Helgi Patch-105527-1-2-1701057994.zip",
+            "mod_id": 105527,
+            "hash": "sha256-QUqoKyTtWNi1bHtXQbqIa6l/Ak1yR9wwQwV9KKzojLo="
+        }
+    },
+    "Ghostly Helgi A Laid to Rest Overhaul Patch": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "1.2",
+            "file_id": 446554,
+            "file_name": "Ghostly Helgi A Laid to Rest Overhaul Patch-105527-1-2-1701058063.7z",
+            "mod_id": 105527,
+            "hash": "sha256-Gz70nPUZyMXgF9RIZURkyzOZ9Q5X1n/nDklajcoh/ig="
+        }
+    }
+}

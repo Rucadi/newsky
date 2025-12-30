@@ -1,0 +1,54 @@
+{
+    "Alchemy Ingredients ENB Light patch": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "1.0",
+            "file_id": 327712,
+            "file_name": "Alchemy Ingredients ENB Light patch-77912-1-0-1667153739.rar",
+            "mod_id": 77912,
+            "hash": "sha256-LV6tEbu8myHolSdyeviZnPgnQE3WxKoVL/kv80lXn2o="
+        }
+    },
+    "Subdivide and Smooth - Hagraven": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "1.1",
+            "file_id": 329998,
+            "file_name": "Subdivide and Smooth with complementary mesh fixes - Hagraven-77912-1-1-1667848462.rar",
+            "mod_id": 77912,
+            "hash": "sha256-fIDf0U58EqAjBBnHsKxcn2CXwJH2RvaJDYuh1iIJe7A="
+        },
+        "type": "primary"
+    },
+    "Subdivide and Smooth with complementary mesh fixes - Vanilla wood": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "1.1",
+            "file_id": 330001,
+            "file_name": "Subdivide and Smooth with complementary mesh fixes - Vanilla wood-77912-1-1-1667848550.rar",
+            "mod_id": 77912,
+            "hash": "sha256-FeazhUG5aE2l/gEKKhweYmCfdCUgeOZLTEYpBf9+qYE="
+        }
+    },
+    "WiZkiD Hagraven Clutter and Bones patch": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "1.1",
+            "file_id": 330002,
+            "file_name": "WiZkiD Hagraven Clutter and Bones patch cloud_download-77912-1-1-1667848579.rar",
+            "mod_id": 77912,
+            "hash": "sha256-vjbPSpIHcWHWBPdtTS1AKNufuxLJ18ZiAcyP77ou3tk="
+        }
+    },
+    "Subdivide and Smooth - Hagraven - Parallax": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "1.2",
+            "file_id": 426403,
+            "file_name": "Subdivide and Smooth - Hagraven - Parallax-77912-1-2-1694904262.rar",
+            "mod_id": 77912,
+            "hash": "sha256-oOyoX8fjG1UBRcJjSeS0pJoz6oAQLaLNWl6sGDn1sxw="
+        },
+        "type": "primary"
+    }
+}

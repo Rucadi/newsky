@@ -1,0 +1,24 @@
+{
+  "Requiem - Realistic Room Rental": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.00",
+      "file_id": 295377,
+      "file_name": "Requiem - Realistic Room Rental-70548-1-00-1656677782.rar",
+      "mod_id": 70548,
+      "hash": "sha256-FjMlc5/2IGMH0MfdszGpw0vWdkUqMCrIY9zBWY+Hn4o="
+    },
+    "type": "primary"
+  },
+  "Requiem - Realistic Room Rental (REBALANCED)": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.00",
+      "file_id": 295378,
+      "file_name": "Requiem - Realistic Room Rental (REBALANCED)-70548-1-00-1656677827.rar",
+      "mod_id": 70548,
+      "hash": "sha256-ib3O/49kYW0lpZuknSD+NMMnF8q6OMY4yAZiLfBQPYs="
+    },
+    "type": "primary"
+  }
+}

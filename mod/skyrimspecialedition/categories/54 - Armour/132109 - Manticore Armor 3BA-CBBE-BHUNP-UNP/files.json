@@ -1,0 +1,90 @@
+{
+  "FB - Manticore Armor 2k 3BA": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 558866,
+      "file_name": "FB - Manticore Armor 2k 3BA-132109-1-0-1730723611.zip",
+      "mod_id": 132109,
+      "hash": "sha256-GyIowHcPGThSsMkfulvhUOo6+rZC4H/nsmlZMcy06YI="
+    },
+    "type": "primary"
+  },
+  "FB - Manticore Armor 4k 3BA": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 558867,
+      "file_name": "FB - Manticore Armor 4k 3BA-132109-1-0-1730723635.zip",
+      "mod_id": 132109,
+      "hash": "sha256-1HVNv3S+HvJ35gRauX7s1vZ25G8O9P8OLtGJ2lYXeSg="
+    },
+    "type": "primary"
+  },
+  "FB - Manticore Armor 2k BHUNP": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 558868,
+      "file_name": "FB - Manticore Armor 2k BHUNP-132109-1-0-1730723661.zip",
+      "mod_id": 132109,
+      "hash": "sha256-0Uj93eCo/BtaUlAFoHUTaOam+D8OcvyLfbnKueriEfg="
+    },
+    "type": "primary"
+  },
+  "FB - Manticore Armor 4k BHUNP": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 558869,
+      "file_name": "FB - Manticore Armor 4k BHUNP-132109-1-0-1730723693.zip",
+      "mod_id": 132109,
+      "hash": "sha256-+vabE3RWHyoXFBncbfQ1mG/nMvgCpZ+x6xTiqT5o4+A="
+    },
+    "type": "primary"
+  },
+  "FB - Manticore Armor 2k CBBE-3BA": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 558871,
+      "file_name": "FB - Manticore Armor 2k CBBE-3BA-132109-1-0-1730723904.zip",
+      "mod_id": 132109,
+      "hash": "sha256-qAFOyJAHkMB2ZAwDIVowrKUjbaUf6NnPl2OCzv7QKi4="
+    },
+    "type": "primary"
+  },
+  "FB - Manticore Armor 4k CBBE-3BA": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 558872,
+      "file_name": "FB - Manticore Armor 4k CBBE-3BA-132109-1-0-1730723945.zip",
+      "mod_id": 132109,
+      "hash": "sha256-q3S05pbko5JioDHYzWGfdlnNYup0IFVNB4ZMGoqxMAE="
+    },
+    "type": "primary"
+  },
+  "FB - Manticore Armor 2k UNP-BHUNP": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 558873,
+      "file_name": "FB - Manticore Armor 2k UNP-BHUNP-132109-1-0-1730724013.zip",
+      "mod_id": 132109,
+      "hash": "sha256-J9qu/aYBy7EUQQi0M1LYgoFT1TYhSbdoeMDJs9u/PKc="
+    },
+    "type": "primary"
+  },
+  "FB - Manticore Armor 4k UNP-BHUNP": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 558874,
+      "file_name": "FB - Manticore Armor 4k UNP-BHUNP-132109-1-0-1730724051.zip",
+      "mod_id": 132109,
+      "hash": "sha256-pw2xZT13cQlKVK7DVrukg8JhlpSLuHd5yTxmiQMGmGc="
+    },
+    "type": "primary"
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "Ruins Clutter Improved Subliminal Traps": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "2.8",
+      "file_id": 252698,
+      "file_name": "Ruins Clutter Improved Subliminal Traps-5870-2-8-1640880639.7z",
+      "mod_id": 5870,
+      "hash": "sha256-sMA3lfGyOPlJu6FHFJdvKAU2YYebD89x5iSWdaXJ9cY="
+    }
+  },
+  "Ruins Clutter Improved SE Mod Manager": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "3.2b",
+      "file_id": 254650,
+      "file_name": "Ruins Clutter Improved SE Mod Manager-5870-3-2b-1641550746.rar",
+      "mod_id": 5870,
+      "hash": "sha256-GaBM+dZWUawGsXnSyPVYhIx64MG1zjxHZMu6y7aGC4Y="
+    },
+    "type": "primary"
+  },
+  "Ruins_Clutter_Improved SE": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "3.2c",
+      "file_id": 272388,
+      "file_name": "Ruins_Clutter_Improved SE-5870-3-2c-1648209021.rar",
+      "mod_id": 5870,
+      "hash": "sha256-bTs2uMBMA4r0X0/r/2EvY4dgjpVegdbNZgwhCN1YSRQ="
+    },
+    "type": "primary"
+  }
+}

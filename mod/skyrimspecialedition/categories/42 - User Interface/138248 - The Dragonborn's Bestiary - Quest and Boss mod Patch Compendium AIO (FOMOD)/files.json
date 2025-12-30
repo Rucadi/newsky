@@ -1,0 +1,33 @@
+{
+  "Wyrmstooth - Dragons SE Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 628801,
+      "file_name": "Wyrmstooth - Dragons SE Patch-138248-1-0-1747637187.7z",
+      "mod_id": 138248,
+      "hash": "sha256-vxXYZQhc5JW/SB3ETorPo4uol9lNZNMvRpUgD0rMEhE="
+    }
+  },
+  "Gray Cowl of Nocturnal - Hunt for Hammerfell patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 629365,
+      "file_name": "Gray Cowl of Nocturnal - Hunt for Hammerfell patch-138248-1-0-1747785880.7z",
+      "mod_id": 138248,
+      "hash": "sha256-TvuWxMoQ9Jkrvv7RWbygdn2kBx/M0hehiAKMtsXKwcc="
+    }
+  },
+  "The Dragonborn's Bestiary - Patch Compendium AIO": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.23",
+      "file_id": 680093,
+      "file_name": "The Dragonborn's Bestiary - Patch Compendium AIO-138248-1-23-1761358624.7z",
+      "mod_id": 138248,
+      "hash": "sha256-V3xbcurxjd1GPZIAB8pnf+r3Clt63iOM2xdMssdXVBI="
+    },
+    "type": "primary"
+  }
+}

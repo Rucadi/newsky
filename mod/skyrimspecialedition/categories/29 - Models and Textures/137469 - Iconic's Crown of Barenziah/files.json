@@ -1,0 +1,24 @@
+{
+  "Iconic's Crown of Barenziah - 4K": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 576747,
+      "file_name": "Iconic's Crown of Barenziah - 4K-137469-1-0-1735351363.7z",
+      "mod_id": 137469,
+      "hash": "sha256-u5PpGniOAg5YUK/6wi1tYU8gm7S13jShW7wnjwtdMK8="
+    },
+    "type": "primary"
+  },
+  "Iconic's Crown of Barenziah - 2K": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 576749,
+      "file_name": "Iconic's Crown of Barenziah - 2K-137469-1-0-1735351405.7z",
+      "mod_id": 137469,
+      "hash": "sha256-VDrXqWl5g/uJqWMrFLwEojVP0inqzCqhscn02ZjGl/w="
+    },
+    "type": "primary"
+  }
+}

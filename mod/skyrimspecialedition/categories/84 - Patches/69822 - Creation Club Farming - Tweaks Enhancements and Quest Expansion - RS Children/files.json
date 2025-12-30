@@ -1,0 +1,24 @@
+{
+  "CC Farming ONLY": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 291840,
+      "file_name": "ONLY CC Farming-69822-1-0-1655488554.7z",
+      "mod_id": 69822,
+      "hash": "sha256-P9VxLWygE9jaJOcVIbNUb4/fPpXKUedtp9ITAdDBmjE="
+    },
+    "type": "primary"
+  },
+  "CC Farming and Creation Club Farming - Tweaks Enhancements and Quest Expansion": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 291841,
+      "file_name": "CC Farming and Creation Club Farming - Tweaks Enhancements and Quest Expansion-69822-1-0-1655488610.7z",
+      "mod_id": 69822,
+      "hash": "sha256-Wfh0hUhxAIyAbjrujY74Fg+VasyEc43BJoiSc5nD56I="
+    },
+    "type": "primary"
+  }
+}

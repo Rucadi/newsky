@@ -1,0 +1,24 @@
+{
+  "Random Faces of Skyrim - Bandits": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.2.1",
+      "file_id": 600165,
+      "file_name": "Random Faces of Skyrim - Bandits-140917-1-2-1-1740776136.zip",
+      "mod_id": 140917,
+      "hash": "sha256-5MzXBuzBGz8zjUpsf+oPhDHNyjlBuQH9cTAlwb1KeIg="
+    },
+    "type": "primary"
+  },
+  "Random Faces of Skyrim - Bandits - 50 Chance": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.2.1",
+      "file_id": 600167,
+      "file_name": "Random Faces of Skyrim - Bandits - 50 Chance-140917-1-2-1-1740776172.zip",
+      "mod_id": 140917,
+      "hash": "sha256-6JQl7YlHy7UQXwP4eTyl5c4UQv+P0DPYBMwDEu0lZUU="
+    },
+    "type": "primary"
+  }
+}

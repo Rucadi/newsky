@@ -1,0 +1,362 @@
+{
+    "Requiem - Rock Trap Nerf": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "1.0",
+            "file_id": 335699,
+            "file_name": "Requiem - Rock Trap Nerf-79506-1-0-1669673921.zip",
+            "mod_id": 79506,
+            "hash": "sha256-5lkuQj8e5pXYd6OfrIDfmSUY9xTPxgvtWYpAr9AVIg4="
+        }
+    },
+    "Requiem - Elemental Staffs Patch": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "1.1",
+            "file_id": 335760,
+            "file_name": "Requiem - Elemental Staffs Patch-79506-1-1-1669690999.zip",
+            "mod_id": 79506,
+            "hash": "sha256-JJM9G0svjDKcO+SqwSJ1I+x2Z5Zdwx125qzmKcVN4Io="
+        }
+    },
+    "Requiem - Gauldurbrand": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "1.0",
+            "file_id": 340433,
+            "file_name": "Requiem - Gauldurbrand-79506-1-0-1670985213.zip",
+            "mod_id": 79506,
+            "hash": "sha256-PXeXqBKtgzxqnleT3jIO/EI/av6Bs9heB5hP4rZG2ko="
+        }
+    },
+    "Requiem - Nordwar Simple Guard Helmets": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "1.0",
+            "file_id": 340437,
+            "file_name": "Requiem - Nordwar Simple Guard Helmets-79506-1-0-1670985744.zip",
+            "mod_id": 79506,
+            "hash": "sha256-bBe3wGaO5Ln/KBQYiacqqtyey2WTKO7sVuZxwRoICgg="
+        }
+    },
+    "General NPC Tweaks - Companions Werewolf Spirit": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "1.0",
+            "file_id": 340445,
+            "file_name": "General NPC Tweaks - Companions Werewolf Spirit-79506-1-0-1670986537.zip",
+            "mod_id": 79506,
+            "hash": "sha256-hWAWgiUDZcOdejyM989mVkdRMkzv0WXZrTBExLtSA1k="
+        }
+    },
+    "Requiem - Artefakes": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "1.1",
+            "file_id": 340702,
+            "file_name": "Requiem - Artefakes-79506-1-1-1671079164.zip",
+            "mod_id": 79506,
+            "hash": "sha256-7cs77lG++QT6Mat8YyxzAG/w6AIwLmT+9FC3NgotpzY="
+        }
+    },
+    "Requiem - Blades of Ice (Unique Weapon Replacers)": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "Rboi1.0",
+            "file_id": 417462,
+            "file_name": "Requiem - Blades of Ice (Unique Weapon Replacers)-79506-Rboi1-0-1692135775.zip",
+            "mod_id": 79506,
+            "hash": "sha256-WKYuHusT7lnRMDQbww08bfMSspy+lWMRPcT2F9hf6fw="
+        }
+    },
+    "Requiem - Convenient Item Names": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "Rcin1.0",
+            "file_id": 417556,
+            "file_name": "Requiem - Convenient Item Names-79506-Rcin1-0-1692169538.zip",
+            "mod_id": 79506,
+            "hash": "sha256-7lpbQxRzH1GE4ZPxa+k8G7z+GqfqYSd1e1mz1MWwMHA="
+        }
+    },
+    "Enemy Load Door Travel Fixes": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "eldtf1.0",
+            "file_id": 419942,
+            "file_name": "Enemy Load Door Travel Fixes-79506-eldtf1-0-1692842516.zip",
+            "mod_id": 79506,
+            "hash": "sha256-BK3BI1qckCqwvi+VKJ6hYZzjGCCObJRvO0HRjHBUMK0="
+        }
+    },
+    "Requiem - Better Shrouded Armor Fixed": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "rbsaf1.0",
+            "file_id": 426499,
+            "file_name": "Requiem - Better Shrouded Armor Fixed-79506-rbsaf1-0-1694921295.zip",
+            "mod_id": 79506,
+            "hash": "sha256-GyKMNziRmX1jdR+V1334yO5eRIcVcxiQa2EZqjSbBjQ="
+        }
+    },
+    "Requiem - Dremora Faces-Lines Expansion NO CC": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "RDLEnoCC1.0",
+            "file_id": 442912,
+            "file_name": "Requiem - Dremora Faces-Lines Expansion NO CC-79506-RDLEnoCC1-0-1700087097.zip",
+            "mod_id": 79506,
+            "hash": "sha256-+dbU/zgMbkYThqwsGfvD2I+NsFEzcHhdUprKvNsvrRw="
+        }
+    },
+    "Requiem - Additional Dremora Faces-Lines Expansion": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "Rdle1.1",
+            "file_id": 443508,
+            "file_name": "Requiem - Additional Dremora Faces-Lines Expansion-79506-Rdle1-1-1700280411.zip",
+            "mod_id": 79506,
+            "hash": "sha256-oxPNnK1HJ/E5v8Ifma72LhfeQMPhOQQdeJMWoRa4+Mg="
+        }
+    },
+    "Small Tweaks - Add Dremora Faces-Lines Expansion": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "STdle1.1",
+            "file_id": 443510,
+            "file_name": "Small Tweaks - Add Dremora Faces-Lines Expansion-79506-STdle1-1-1700280490.zip",
+            "mod_id": 79506,
+            "hash": "sha256-y5cyjcX6irwuVCjzwia8IyySvBcbl8sr3xAqp9EAhtI="
+        }
+    },
+    "Live Another Life  - Left For Dead Expansion": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "LaLL4D1.0",
+            "file_id": 482713,
+            "file_name": "Live Another Life  - Left For Dead Expansion-79506-LaLL4D1-0-1710996597.zip",
+            "mod_id": 79506,
+            "hash": "sha256-IDz65afTbbwN0JtjhyHdlRKRJlt3jeBo+MRswnFZemc="
+        }
+    },
+    "Requiem - JS Dwarven Oil (BOS) Patch": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "RJsDo1.0",
+            "file_id": 511649,
+            "file_name": "Requiem - JS Dwarven Oil (BOS) Patch-79506-RJsDo1-0-1718423356.zip",
+            "mod_id": 79506,
+            "hash": "sha256-gJkOGMtzBRwDbt3OL7kDYg6minB1Mr8Kvfzfygr5c3U="
+        }
+    },
+    "Requiem - Za Warudo Slow Time Audio Replacer": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "RZwSt",
+            "file_id": 515065,
+            "file_name": "Requiem - Za Warudo Slow Time Audio Replacer-79506-RZwSt-1719414699.zip",
+            "mod_id": 79506,
+            "hash": "sha256-0ZUy2jVMFfRLo7caFCrvzcWRuxJDAkW1Ybd1SAjICEw="
+        }
+    },
+    "Requiem - Hammer and Whetstone Portable Tempering": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "ReqHwPt1.0",
+            "file_id": 526741,
+            "file_name": "Requiem - Hammer and Whetstone Portable Tempering-79506-ReqHwPt1-0-1722367387.zip",
+            "mod_id": 79506,
+            "hash": "sha256-UF5dgBbcTnOhFj4hDC+gySx1EHNi/LXifSmoyOQIclg="
+        }
+    },
+    "Wilderness Bandit Spawns": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "wbs",
+            "file_id": 531650,
+            "file_name": "Wilderness Bandit Spawns-79506-wbs-1723690767.zip",
+            "mod_id": 79506,
+            "hash": "sha256-BAwGaZIV297GNDiGqvfctlslMgM0xaoWkFHf8gw6cR4="
+        }
+    },
+    "Requiem - Praedys Soul Gems - YASTM - ISC - Patch": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "RPsg1.0",
+            "file_id": 535742,
+            "file_name": "Requiem - Praedys Soul Gems - YASTM - ISC - Patch-79506-RPsg1-0-1724721486.zip",
+            "mod_id": 79506,
+            "hash": "sha256-yGgZYewdDkuBUEFmMf2WrGyIVDxMNsbTtOE+YwGYYdk="
+        }
+    },
+    "Requiem - Skyrim Landscape and Water Fixes": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "ReqSLaWF1.0",
+            "file_id": 543683,
+            "file_name": "Requiem - Skyrim Landscape and Water Fixes-79506-ReqSLaWF1-0-1726698922.zip",
+            "mod_id": 79506,
+            "hash": "sha256-HkonCF2/TB2WHgD3iY+jBif5fy2RHdETASi4YOtAdCk="
+        }
+    },
+    "Requiem - New Female Guard Voices Patch": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "ReqNfgv1.3",
+            "file_id": 552104,
+            "file_name": "Requiem - New Female Guard Voices Patch-79506-ReqNfgv1-3-1728923188.zip",
+            "mod_id": 79506,
+            "hash": "sha256-iP2XP+LOYxKFSbuiCC/UtRy8VWvIDbv00TyUYg3Bc7k="
+        }
+    },
+    "Requiem - ELFX Safe Fix": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "ReqElfx1.0",
+            "file_id": 556318,
+            "file_name": "Requiem - ELFX Safe Fix-79506-ReqElfx1-0-1730087471.zip",
+            "mod_id": 79506,
+            "hash": "sha256-edK8/LUDtJ6VnZ0gJ3GVYwN0jfwXnHL2/oprTi9ylc8="
+        }
+    },
+    "Ghouls Bounty Quests Redone NG Rewards Tweaks": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "1.0",
+            "file_id": 563726,
+            "file_name": "Ghouls Bounty Quests Redone NG Rewards Tweaks-79506-1-0-1731961746.zip",
+            "mod_id": 79506,
+            "hash": "sha256-Upn+yOi7qsIVVkS8kTipdzKJo45H70kpcL2Jw3c7Y/s="
+        }
+    },
+    "Requiem - Lux Patch": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "ReqLux1.0",
+            "file_id": 564364,
+            "file_name": "Requiem - Lux Patch-79506-ReqLux1-0-1732136460.zip",
+            "mod_id": 79506,
+            "hash": "sha256-KuTA9NwQRpDQIU8rpt7hqjfGbfvxXXmA/7eEUWxiDDY="
+        }
+    },
+    "Requiem - At Your Own Pace Thieves Guild": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "ReqAyopTg1.0",
+            "file_id": 566762,
+            "file_name": "Requiem - At Your Own Pace Thieves Guild-79506-ReqAyopTg1-0-1732755218.zip",
+            "mod_id": 79506,
+            "hash": "sha256-Gp9pwaGx0QxxexJ/om/raFcaxPkwnIBSqRSmSCyNjiY="
+        }
+    },
+    "Requiem - Skyking Mountain Flowers": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "1.0",
+            "file_id": 590660,
+            "file_name": "Requiem - Skyking Mountain Flowers-79506-1-0-1738605854.zip",
+            "mod_id": 79506,
+            "hash": "sha256-EUTE88Yx+VHxCTN7t/CT2EJqeNM2cVnItIkEbOg+ie8="
+        }
+    },
+    "Requiem - Navigation Restrictions Rebalance": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "ReqNR1.1",
+            "file_id": 593631,
+            "file_name": "Requiem - Navigation Restrictions Rebalance-79506-ReqNR1-1-1739342022.zip",
+            "mod_id": 79506,
+            "hash": "sha256-KZMT5cwCG1JWx5fASkgDlNT56vhBxfc4CTGhIiFLFbw="
+        }
+    },
+    "Requiem - Smaller Wolves Tweak": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "ReqSWT1.1",
+            "file_id": 610197,
+            "file_name": "Requiem - Smaller Wolves Tweak-79506-ReqSWT1-1-1743027606.zip",
+            "mod_id": 79506,
+            "hash": "sha256-Csw7/6pe2m9G/A8dIpOspszlDXbgBUVsLPXhw/V+znQ="
+        }
+    },
+    "Requiem - Better Citizen Outfits SPID": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "1.2",
+            "file_id": 610735,
+            "file_name": "Requiem - Better Citizen Outfits SPID-79506-1-2-1743137815.zip",
+            "mod_id": 79506,
+            "hash": "sha256-bE/E4KrX7hrNSb1QDvcMNOrnqIWFLPk2/ejrCN2JrvQ="
+        }
+    },
+    "Requiem - Third Era Alchemy Equipment Patch": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "TeAe1.0",
+            "file_id": 634049,
+            "file_name": "Requiem - Third Era Alchemy Equipment Patch-79506-TeAe1-0-1748916053.zip",
+            "mod_id": 79506,
+            "hash": "sha256-Bd2fk1cTOhjgzUWWE4XK4Qo8H57CKpxFvLAf3a94FUw="
+        }
+    },
+    "Requiem - Adjusted Chainmail Boots Inventory Mesh": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "ReqACBiM1.0",
+            "file_id": 646631,
+            "file_name": "Requiem - Adjusted Chainmail Boots Inventory Mesh-79506-ReqACBiM1-0-1752383264.zip",
+            "mod_id": 79506,
+            "hash": "sha256-OFivB2Hge83tYJ6nJGZwgNXumNFXZyujVx7FiughYzI="
+        }
+    },
+    "Requiem - Navigator Navmesh FIxes ESL Patch": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "ReqNnfesl1.0",
+            "file_id": 661532,
+            "file_name": "Requiem - Navigator Navmesh FIxes ESL Patch-79506-ReqNnfesl1-0-1756760733.zip",
+            "mod_id": 79506,
+            "hash": "sha256-OJ4weglF1sgyehcRcUPHMk5iyJNrNL8vv3jyCJZihsI="
+        }
+    },
+    "Requiem - DD Jewelry Replacer Patch": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "ReqDDJR1.0",
+            "file_id": 661534,
+            "file_name": "Requiem - DD Jewelry Replacer Patch-79506-ReqDDJR1-0-1756760856.zip",
+            "mod_id": 79506,
+            "hash": "sha256-O+Rgp2lR8PMBfdysiM2PA1WI0iaTyk11N13bcVfTtOM="
+        }
+    },
+    "Requiem Magic Redone - Enemy Magic Expansion": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "MrEMX0.5",
+            "file_id": 681667,
+            "file_name": "Requiem Magic Redone - Enemy Magic Expansion-79506-MrEMX0-5-1761760490.zip",
+            "mod_id": 79506,
+            "hash": "sha256-tDvF4LZk3wMvIU6X99tjv6AoIWyemW+pcvKa/Z9L3g0="
+        }
+    },
+    "Requiem - Navigator Navmesh FIxes ESPFE Patch": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "ReqNNFesp2.0",
+            "file_id": 683976,
+            "file_name": "Requiem - Navigator Navmesh FIxes ESPFE Patch-79506-ReqNNFesp2-0-1762320156.zip",
+            "mod_id": 79506,
+            "hash": "sha256-FBa/5mHkYxJ9mpVQbanTrWDUIm/LWf4TlIemP76FJCw="
+        }
+    },
+    "Enemy Load Door Travel Fixes BOS": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "eltfBOS0.2",
+            "file_id": 693385,
+            "file_name": "Enemy Load Door Travel Fixes BOS-79506-eltfBOS0-2-1764612646.zip",
+            "mod_id": 79506,
+            "hash": "sha256-0o7ddIqcmemd1VX2T0gLQKtMT3y4tNFbf/ZPYlOvxk0="
+        }
+    }
+}

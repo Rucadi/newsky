@@ -1,0 +1,33 @@
+{
+  "DWBF - Sprint Attack and Perk Fixes": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.00",
+      "file_id": 586353,
+      "file_name": "DWBF - Sprint Attack and Perk Fixes-139775-1-00-1737596178.rar",
+      "mod_id": 139775,
+      "hash": "sha256-ySRyxxv6T1NOoXHeyOW4jYzde0F4wCbAF25knofCBbM="
+    }
+  },
+  "Sprint Attack and Perk Fixes for ATKSPD mods": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.00",
+      "file_id": 586354,
+      "file_name": "Sprint Attack and Perk Fixes for ATKSPD mods-139775-1-00-1737596380.rar",
+      "mod_id": 139775,
+      "hash": "sha256-DMPoAx0vzO6+mQYRti14MCjP35449S5iFIZ1Di6Bpfo="
+    }
+  },
+  "Dual Wield Behavior Fixes - Nemesis Files": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "2.0",
+      "file_id": 586955,
+      "file_name": "Dual Wield Behavior Fixes - Nemesis Files-139775-2-0-1737749282.rar",
+      "mod_id": 139775,
+      "hash": "sha256-OW90+wC66CqTzB2MY/ljWCQLxeVPGGNmU59EWFcBcUY="
+    },
+    "type": "primary"
+  }
+}

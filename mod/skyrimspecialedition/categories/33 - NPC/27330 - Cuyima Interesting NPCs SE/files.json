@@ -1,0 +1,64 @@
+{
+  "Cuyima Interesting NPCs - Salt and Wind Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1",
+      "file_id": 148090,
+      "file_name": "Cuyima Interesting NPCs - Salt and Wind Patch-27330-1-1-1593504366.zip",
+      "mod_id": 27330,
+      "hash": "sha256-jm8ilt8jwG+XyViEPXfvLA6XdqrxdAYPmcMliqHO8EQ="
+    }
+  },
+  "Cuyima Interesting NPCs SE - Custom Hair": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1.1",
+      "file_id": 171988,
+      "file_name": "Cuyima Interesting NPCs SE - Custom Hair-27330-1-1-1-1606572302.7z",
+      "mod_id": 27330,
+      "hash": "sha256-4Npqhk745eKxyKOsT8KVImkYsXrECyGC4mYqX1Aj5Og="
+    },
+    "type": "primary"
+  },
+  "Cuyima Interesting NPCs SE - Vanilla Hair": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1.1",
+      "file_id": 171989,
+      "file_name": "Cuyima Interesting NPCs SE - VanillaHair-27330-1-1-1-1606572416.7z",
+      "mod_id": 27330,
+      "hash": "sha256-NVd1fjQS0HMAFEeeqIKB1dIeyZrLxmuuIcmmgdKCF3U="
+    },
+    "type": "primary"
+  },
+  "Cuyima Interesting NPCs - Rumarin Alternatives": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1.1",
+      "file_id": 184782,
+      "file_name": "Cuyima Interesting NPCs - Alternate Rumarin-27330-1-1-1-1612804863.7z",
+      "mod_id": 27330,
+      "hash": "sha256-/AwXgxC+PdNwAHJTcyc7868fgmJCfDlIReZSBCvOQSs="
+    }
+  },
+  "Cuyima Interesting NPCs - High Poly Rumarin": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1.2",
+      "file_id": 239375,
+      "file_name": "Cuyima Interesting NPCs - High Poly Rumarin-27330-1-1-2-1636203287.7z",
+      "mod_id": 27330,
+      "hash": "sha256-8Sh+r2MhvS++PYFlTSvNIyNW7wXtmeHZeev2Ff8wmf0="
+    }
+  },
+  "Cuyima Interesting NPCs - High Poly Zora": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1.2",
+      "file_id": 239376,
+      "file_name": "Cuyima Interesting NPCs - High Poly Zora-27330-1-1-2-1636203347.7z",
+      "mod_id": 27330,
+      "hash": "sha256-z7j3tcegzzg448jHW0CLfVSils2ohFn7dYKIPDRNpmw="
+    }
+  }
+}

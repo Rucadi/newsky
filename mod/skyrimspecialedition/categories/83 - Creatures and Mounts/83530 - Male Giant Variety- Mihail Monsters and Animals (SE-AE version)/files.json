@@ -1,0 +1,23 @@
+{
+  "Male Giant Variety (SE-AE) (complete version)": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1",
+      "file_id": 353280,
+      "file_name": "Male Giant Variety (SE-AE) (complete version)-83530-1-1674749105.rar",
+      "mod_id": 83530,
+      "hash": "sha256-w4BK/hMcH11/dW+sdgLf87tg5uEpLSymxjEHKe+H29Y="
+    },
+    "type": "primary"
+  },
+  "Male Giant Variety (SE-AE) (incomplete version)": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1",
+      "file_id": 353286,
+      "file_name": "Male Giant Variety (SE-AE) (incomplete version)-83530-1-1674749786.rar",
+      "mod_id": 83530,
+      "hash": "sha256-r5Ko8caJUfkRWSsEHTnuRJES62RbgpO8KsrZDccLDCw="
+    }
+  }
+}

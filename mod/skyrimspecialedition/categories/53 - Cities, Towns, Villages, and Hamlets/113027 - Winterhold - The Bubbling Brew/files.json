@@ -1,0 +1,23 @@
+{
+  "Winterhold - The Bubbling Brew": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1",
+      "file_id": 487845,
+      "file_name": "Winterhold - The Bubbling Brew-113027-1-1-1712358624.7z",
+      "mod_id": 113027,
+      "hash": "sha256-OyJGdK53fbDjxlZSyFz5LAsz9pAVhYaxKsoj1QVCffM="
+    },
+    "type": "primary"
+  },
+  "Winterhold - Bubbling Brew - Patch Collection": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.2",
+      "file_id": 488097,
+      "file_name": "Winterhold - Bubbling Brew - Patch Collection-113027-1-2-1712425529.7z",
+      "mod_id": 113027,
+      "hash": "sha256-Q6Wk62jUX0NugpgzvqQqSo3hGthFStg3m5IQySYqP5s="
+    }
+  }
+}

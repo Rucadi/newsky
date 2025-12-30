@@ -1,0 +1,64 @@
+{
+  "Trusty HP Follower Pack UNP": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 262935,
+      "file_name": "Trusty HP Follower Pack UNP-62996-1-0-1644428303.7z",
+      "mod_id": 62996,
+      "hash": "sha256-EAIf3YQ5nV2GC7FCtjUDHMw7wWHdZcl8AnCPRWoii7M="
+    },
+    "type": "primary"
+  },
+  "Trusty HP Follower Pack CBBE": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 262936,
+      "file_name": "Trusty HP Follower Pack CBBE-62996-1-0-1644428479.7z",
+      "mod_id": 62996,
+      "hash": "sha256-0/3l+kxa9XM0KfjlpmniH91fXMD3diSxbY2d7rccZhw="
+    },
+    "type": "primary"
+  },
+  "Trusty Followers - CBBE Sporty patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 262937,
+      "file_name": "CBBE Sporty Normal patch-62996-1-0-1644428576.7z",
+      "mod_id": 62996,
+      "hash": "sha256-jRhWowqb4MGPZCLf+/IhGeW3sSosLl6yTBLJaCiusto="
+    }
+  },
+  "Trusty Followers - UNP Sporty patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 262938,
+      "file_name": "UNP Sporty Normal patch-62996-1-0-1644428657.7z",
+      "mod_id": 62996,
+      "hash": "sha256-EWJ1w/e30i6Wv8ao5TRBq2H8zLcJsDd6ujxzK3MzcHM="
+    }
+  },
+  "Trusty followers - CBBE Smooth patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 262944,
+      "file_name": "Trusty followers - CBBE Smooth patch-62996-1-0-1644432861.7z",
+      "mod_id": 62996,
+      "hash": "sha256-XIa13VjuMU1LHm/POosPkqYUdJTWux1uunrJ4dt6/BU="
+    }
+  },
+  "Trusty followers - UNP Smooth patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 262945,
+      "file_name": "Trusty followers - UNP Smooth patch-62996-1-0-1644433037.7z",
+      "mod_id": 62996,
+      "hash": "sha256-bfyswqwhDHtj6GiFPuU9dysa2GG9aEP8IE1yuMu6XAA="
+    }
+  }
+}

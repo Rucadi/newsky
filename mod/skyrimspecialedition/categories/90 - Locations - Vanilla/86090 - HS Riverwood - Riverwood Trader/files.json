@@ -1,0 +1,43 @@
+{
+    "HSRiverwood - Riverwood Trader - ELFX": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "1.0.0",
+            "file_id": 364671,
+            "file_name": "HSRiverwood - Riverwood Trader - ELFX-86090-1-0-0-1677717990.7z",
+            "mod_id": 86090,
+            "hash": "sha256-X4nFgEaGzTHiAud1sW+OzT7smTr+vPvfuR6tb1rh9h8="
+        }
+    },
+    "HSRiverwood - Riverwood Trader - LUX": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "1.0.0",
+            "file_id": 364672,
+            "file_name": "HSRiverwood - Riverwood Trader - LUX-86090-1-0-0-1677718019.7z",
+            "mod_id": 86090,
+            "hash": "sha256-2b4qCcAyKvqao3V9tgkizud0lOCFCFLZxNXlq9FZfOQ="
+        }
+    },
+    "HSRiverwood - Riverwood Trader": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "1.1.0",
+            "file_id": 366681,
+            "file_name": "HSRiverwood - Riverwood Trader-86090-1-1-0-1678317357.7z",
+            "mod_id": 86090,
+            "hash": "sha256-l5upUs9lJfLYUkJVOAP+kkVDWqe1L1J7GzhB2bWE9e4="
+        },
+        "type": "primary"
+    },
+    "HSRiverwood - Riverwood Trader - LOTD": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "1.0.0",
+            "file_id": 378308,
+            "file_name": "HSRiverwood - Riverwood Trader - LOTD-86090-1-0-0-1681506642.7z",
+            "mod_id": 86090,
+            "hash": "sha256-E+bTMgtEBJFQsUVeCzLmc+nnz0SoMVhURvr2WzD9lko="
+        }
+    }
+}

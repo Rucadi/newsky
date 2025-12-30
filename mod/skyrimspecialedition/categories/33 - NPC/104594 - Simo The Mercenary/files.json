@@ -1,0 +1,24 @@
+{
+  "Simo The Mercenary Follower - Non Collection Vers": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1",
+      "file_id": 664837,
+      "file_name": "Simo The Mercenary Follower-104594-1-1757629202.rar",
+      "mod_id": 104594,
+      "hash": "sha256-CRh5QvbGeoFUOd4T3AUwoJ/SGC3FSdPgOUbfhOcAc9M="
+    },
+    "type": "primary"
+  },
+  "Simo The Mercenary - Collection Version": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "2",
+      "file_id": 666402,
+      "file_name": "Simo The Mercenary - Collection Version-104594-2-1758043316.zip",
+      "mod_id": 104594,
+      "hash": "sha256-5jlCEooniAI5Lovl52STrQB6Tc1I4cEB3d9PKqRniDc="
+    },
+    "type": "primary"
+  }
+}

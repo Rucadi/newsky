@@ -1,0 +1,43 @@
+{
+  "Melodies of Civilization - REPLACER": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 111595,
+      "file_name": "Melodies of Civilization - REPLACER-30014-1-0-1572192878.rar",
+      "mod_id": 30014,
+      "hash": "sha256-WY1ReaJJY4z1kpwuDUn2jdXHlBtg8mMRgK6tklqiI7U="
+    }
+  },
+  "Melodies of Civilization - Personalized Music": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 111596,
+      "file_name": "Melodies of Civilization - Personalized Music-30014-1-0-1572192964.rar",
+      "mod_id": 30014,
+      "hash": "sha256-QqtFOuPSTAPlvI0BCJPnpi/Eq7VDLc/3F4RcsygBWWg="
+    }
+  },
+  "Melodies of Civilization 1.01": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.01",
+      "file_id": 111784,
+      "file_name": "Melodies of Civilization 1.01-30014-1-01-1572356289.rar",
+      "mod_id": 30014,
+      "hash": "sha256-dj5dgFC8ZtfkuBVvfID/wE1Rtr6CvtvkkeTL6tfJcOA="
+    },
+    "type": "primary"
+  },
+  "Melodies of Civilization - Chapter II v3.5": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.01",
+      "file_id": 524194,
+      "file_name": "Melodies of Civilization - Chapter II v3.5-30014-1-01-1721756423.7z",
+      "mod_id": 30014,
+      "hash": "sha256-5th7xWL7TL3Sy3buu4Ent3VnEWvi1VQwGyAHLD8dmgM="
+    }
+  }
+}

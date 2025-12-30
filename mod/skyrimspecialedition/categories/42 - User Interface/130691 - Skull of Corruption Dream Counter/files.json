@@ -1,0 +1,23 @@
+{
+  "Skull of Corruption Dream Counter": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0.0",
+      "file_id": 552013,
+      "file_name": "Skull of Corruption Dream Counter-130691-1-0-0-1728900842.zip",
+      "mod_id": 130691,
+      "hash": "sha256-pJcgDZW+GJqAlGBlovde22/j1D0t7QsXfIREhxMLZpU="
+    },
+    "type": "primary"
+  },
+  "Skull of Corruption Dream Counter - Artificer": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0.0",
+      "file_id": 567619,
+      "file_name": "Skull of Corruption Dream Counter - Artificer-130691-1-0-0-1732977437.zip",
+      "mod_id": 130691,
+      "hash": "sha256-nCrszGsOdHhUDgutIpZEwc66EmNS0+FSGVcH+qEFBgY="
+    }
+  }
+}

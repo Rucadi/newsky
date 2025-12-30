@@ -1,0 +1,43 @@
+{
+    "1YsmirArmorSE": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "1",
+            "file_id": 474048,
+            "file_name": "1YsmirArmorSE-112454-1-1708789486.7z",
+            "mod_id": 112454,
+            "hash": "sha256-2g9CKrneaLit7xwCRSSQuqK50q6oY9fS3amdfNlCDP0="
+        },
+        "type": "primary"
+    },
+    "Lower resolution textures": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "1",
+            "file_id": 474057,
+            "file_name": "Lower resolution textures-112454-1-1708791294.7z",
+            "mod_id": 112454,
+            "hash": "sha256-Sbv6+PbMyTaOO7jbx5LblvZJLlWwQrbtnn2FblG3oKc="
+        }
+    },
+    "Potato Sized Textures": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "1",
+            "file_id": 474059,
+            "file_name": "Potato Sized Textures-112454-1-1708791316.7z",
+            "mod_id": 112454,
+            "hash": "sha256-JaPXVNuyR2oqagnepQH29AvRiDhCCePQ5qIUvQ4W0wk="
+        }
+    },
+    "1AtmoranBattleaxeSE": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "1",
+            "file_id": 474322,
+            "file_name": "1AtmoranBattleaxeSE-112454-1-1708860261.7z",
+            "mod_id": 112454,
+            "hash": "sha256-hlVirml97X4TuxwVJoAOiCzyKCxtUk1fOmq87B6ZDaE="
+        }
+    }
+}

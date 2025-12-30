@@ -1,0 +1,44 @@
+{
+  "Praedy's Apocrypha Complex Parallax textures 2k": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1",
+      "file_id": 537595,
+      "file_name": "Praedy's Apocrypha Complex Parallax textures 2k-127944-1-1-1725198404.7z",
+      "mod_id": 127944,
+      "hash": "sha256-hoLksSEOrsuGaIyZG36CK0RjJevQSorIBMUL7fKXhRM="
+    }
+  },
+  "Praedy's Apocrypha Complex Parallax textures 4k": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1",
+      "file_id": 537596,
+      "file_name": "Praedy's Apocrypha Complex Parallax textures 4k-127944-1-1-1725198428.7z",
+      "mod_id": 127944,
+      "hash": "sha256-+PSYMsGu7QLDwWlRP5ylNYBTzIh0n/7M0YMadHlnMy4="
+    }
+  },
+  "Praedy's Apocrypha 2K": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.2",
+      "file_id": 537761,
+      "file_name": "Praedy's Apocrypha 2K-127944-1-2-1725230339.7z",
+      "mod_id": 127944,
+      "hash": "sha256-xliGo+pXb/aiv5aeu9COMnolUzFtVDC12jRkbxq1Cfw="
+    },
+    "type": "primary"
+  },
+  "Praedy's Apocrypha 4K": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.2",
+      "file_id": 537764,
+      "file_name": "Praedy's Apocrypha 4K-127944-1-2-1725230432.7z",
+      "mod_id": 127944,
+      "hash": "sha256-zEK+DEKcZ1ZXXigOmRpuHlfSqM3Z+C8iLwVWHUT3L0o="
+    },
+    "type": "primary"
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "HiRes Textures": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1",
+      "file_id": 598190,
+      "file_name": "HiRes Textures-142655-1-1740315037.7z",
+      "mod_id": 142655,
+      "hash": "sha256-GHw7rRnCruFrR/eJa5M2FBEChqtvT4H8zZz8wekmbb8="
+    }
+  },
+  "Potato Sized Textures": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1",
+      "file_id": 598244,
+      "file_name": "Potato Sized Textures-142655-1-1740324651.7z",
+      "mod_id": 142655,
+      "hash": "sha256-z+lwUbSAt8QgJkFEXiDcujtQN/AzhjG+oNSoDERg7iA="
+    }
+  },
+  "1AncientImperialArmorSE": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "4",
+      "file_id": 624910,
+      "file_name": "1AncientImparisalArmorSE-142655-4-1746702476.7z",
+      "mod_id": 142655,
+      "hash": "sha256-ilkfn10MOMTQapeG3Cin78AvtulpvKgbXS5njg5eQBQ="
+    },
+    "type": "primary"
+  },
+  "ESP flagged as ESL": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "2",
+      "file_id": 625175,
+      "file_name": "ESP flagged as ESL-142655-2-1746774960.7z",
+      "mod_id": 142655,
+      "hash": "sha256-SQ/jqkP4RPUyGWJWj/nKfhHqZ387+twzKllilYvOSR4="
+    }
+  }
+}

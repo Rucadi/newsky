@@ -1,0 +1,23 @@
+{
+  "Razor Perk Tree": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "2.0",
+      "file_id": 474797,
+      "file_name": "Razor Perk Tree-111253-1-2-1708967112.rar",
+      "mod_id": 111253,
+      "hash": "sha256-hvNbvw2cSak6+n3Pnpzxb4nWWyPSdJTzbdmpAd+icPw="
+    },
+    "type": "primary"
+  },
+  "More Draconic Dragon ect Patch for Razor Perk Tree": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "2.01",
+      "file_id": 474811,
+      "file_name": "Dragon Aspect Patch for Razor Perk Tree-111253-1-21-1708970761.rar",
+      "mod_id": 111253,
+      "hash": "sha256-dpKwlHJ2XXLPdX4TZO5LexdVi1SBu2rmN8ZjSvCyNcQ="
+    }
+  }
+}

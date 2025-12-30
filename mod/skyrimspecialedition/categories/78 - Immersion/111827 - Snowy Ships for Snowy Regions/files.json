@@ -1,0 +1,35 @@
+{
+  "Snowy Ships for Snowy Regions - BDS-DE": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "2.7",
+      "file_id": 562000,
+      "file_name": "Snowy Ships for Snowy Regions - BDS DE Version-111827-2-7-1731545837.7z",
+      "mod_id": 111827,
+      "hash": "sha256-0ZHKXfcDsjTn3DscRLaKggRvDcPVwV2F4pssuUA+94M="
+    },
+    "type": "primary"
+  },
+  "Snowy Ships for Snowy Regions - Simplicity of Snow": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "2.7",
+      "file_id": 562025,
+      "file_name": "Snowy Ships for Snowy Regions - Simplicity of Snow-111827-2-7-1731550583.7z",
+      "mod_id": 111827,
+      "hash": "sha256-s9lsjzmMWppZlm2tVL7RKaA2RXMRH19u4w8uYcAVehA="
+    },
+    "type": "primary"
+  },
+  "Snowy Ships for Snowy Regions - Vanilla": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "2.7",
+      "file_id": 562026,
+      "file_name": "Snowy Ships for Snowy Regions - Vanilla-111827-2-7-1731550625.7z",
+      "mod_id": 111827,
+      "hash": "sha256-Q4bFSB3K1RDHEsh3sm47mFReZsGT4WbQ04ku9spp5to="
+    },
+    "type": "primary"
+  }
+}

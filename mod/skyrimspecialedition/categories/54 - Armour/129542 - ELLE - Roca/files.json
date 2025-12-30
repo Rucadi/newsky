@@ -1,0 +1,35 @@
+{
+  "Roca - 3BA": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1",
+      "file_id": 543486,
+      "file_name": "Roca - 3BA-129542-1-1726656743.rar",
+      "mod_id": 129542,
+      "hash": "sha256-u4w1BfW8oSWeBHcMbfuTYUG6Nk2a3UKwj318xxhG7JE="
+    },
+    "type": "primary"
+  },
+  "Roca - BHUNP": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1",
+      "file_id": 543487,
+      "file_name": "Roca - BHUNP-129542-1-1726656959.rar",
+      "mod_id": 129542,
+      "hash": "sha256-/3uY8e/vb82ph+w4uVGQZMdXz6iLRGGwvL43CkXbiHs="
+    },
+    "type": "primary"
+  },
+  "Roca - UBE": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1",
+      "file_id": 543488,
+      "file_name": "Roca - UBE-129542-1-1726657002.rar",
+      "mod_id": 129542,
+      "hash": "sha256-EcTd+JsT0/w6GDv+mc9iDz7rV6F/w0SKD0CSvKT2QPI="
+    },
+    "type": "primary"
+  }
+}

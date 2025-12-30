@@ -1,0 +1,43 @@
+{
+    "USSEP Optional Patch": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "1.0",
+            "file_id": 273648,
+            "file_name": "USSEP Optional Patch-65708-1-0-1648631976.zip",
+            "mod_id": 65708,
+            "hash": "sha256-OrqKH+1xd8DWfzdXjcu0PhxBZMhwR6YZqVzjnkpy6Lg="
+        }
+    },
+    "Requiem Optional Patch": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "1.0",
+            "file_id": 273649,
+            "file_name": "Requiem Optional Patch-65708-1-0-1648632115.zip",
+            "mod_id": 65708,
+            "hash": "sha256-O2c0TyH/7hWZCy9Qb5/6SiQGmbsbPDdB71yBBPYfdVE="
+        }
+    },
+    "Open Cities Optional Patch": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "1.01",
+            "file_id": 275189,
+            "file_name": "Open Cities Optional Patch-65708-1-01-1649224160.zip",
+            "mod_id": 65708,
+            "hash": "sha256-7PqG0GsD44qpx1HniRKw7ilLMVxtokU5bj8U23VtOb4="
+        }
+    },
+    "Caught Red Handed - Quest Expansion": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "1.06",
+            "file_id": 520337,
+            "file_name": "Caught Red Handed - Quest Expansion-65708-1-06-1720799133.zip",
+            "mod_id": 65708,
+            "hash": "sha256-aTXziV7qNVd5/GL68ZY+gbB0gMut8CSou1QnPGsdTug="
+        },
+        "type": "primary"
+    }
+}

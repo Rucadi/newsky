@@ -1,0 +1,103 @@
+{
+  "Dracania Armor 2k Complex": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 542050,
+      "file_name": "Dracania Armor 2k Complex-128683-1-0-1726330247.7z",
+      "mod_id": 128683,
+      "hash": "sha256-IwQI5F/91+T8LF6IAxyWMIX10ZDmQ7eXVUnfjwI2K+4="
+    }
+  },
+  "Dracania Armor 4k Complex": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 542051,
+      "file_name": "Dracania Armor 4k Complex-128683-1-0-1726330323.7z",
+      "mod_id": 128683,
+      "hash": "sha256-Q5OJeTeKQX6+G6bAOkqCjxiexs+YQ5UjRVdf8OJbJ60="
+    }
+  },
+  "Dracania Armor 4k": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 542052,
+      "file_name": "Dracania Armor 4k-128683-1-0-1726330443.7z",
+      "mod_id": 128683,
+      "hash": "sha256-dayPKl3clzjLbt4Wz9bdTsGe+3mOKDaBRPRcBBJpUzM="
+    }
+  },
+  "Dracania Armor 8k Complex Material": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 542054,
+      "file_name": "Dracania Armor 8k Complex Material-128683-1-0-1726330769.7z",
+      "mod_id": 128683,
+      "hash": "sha256-6t1Zfh2MZ0QnmJN0ThHWCJguH51NfQvgo3fTPmcPuTw="
+    }
+  },
+  "Dracania Armor 8k": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 542057,
+      "file_name": "Dracania Armor 8k-128683-1-0-1726331051.7z",
+      "mod_id": 128683,
+      "hash": "sha256-NfSFbeXy1ChBFUfnlMJzejVEgTSwdsYS+zTBpMr5Etk="
+    }
+  },
+  "Dracania Armor": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1",
+      "file_id": 543263,
+      "file_name": "Dracania Armor-128683-1-1-1726591679.7z",
+      "mod_id": 128683,
+      "hash": "sha256-pFWgUu/fs3GCMDPKHSzwUVVKqHeroTYcfGSwNkQYEEg="
+    },
+    "type": "primary"
+  },
+  "Dracania_KID_SOS": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1",
+      "file_id": 543540,
+      "file_name": "Dracania_KID_SOS-128683-1-1-1726669228.7z",
+      "mod_id": 128683,
+      "hash": "sha256-8eAAt17qVCa1hokVvhf5oE+iP4NKixLMMYZusGEFsWM="
+    }
+  },
+  "Dracania Armor 2k PBR": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1",
+      "file_id": 606222,
+      "file_name": "Dracania Armor 2k PBR-128683-1-1-1742116705.7z",
+      "mod_id": 128683,
+      "hash": "sha256-fL+S8oR1IxlJ5a7RJr8TnUfXQU3dF1U3vhMRivpOl5E="
+    }
+  },
+  "Dracania Armor 4k PBR": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1",
+      "file_id": 606223,
+      "file_name": "Dracania Armor 4k PBR-128683-1-1-1742116750.7z",
+      "mod_id": 128683,
+      "hash": "sha256-hjBC4o4Otc+jlEieb+B1GGt2CWMjwevrrXnrIkNWNYc="
+    }
+  },
+  "Dracania Armor 8k PBR": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1",
+      "file_id": 606225,
+      "file_name": "Dracania Armor 8k PBR-128683-1-1-1742116880.7z",
+      "mod_id": 128683,
+      "hash": "sha256-pSJ0whrIk50KjZvJR+rUcpQVL8xbA6wUQZ646wUtcfs="
+    }
+  }
+}

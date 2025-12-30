@@ -1,0 +1,56 @@
+{
+  "FYX - Eastern Empire Company Building - eFPS PATCH": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 366614,
+      "file_name": "FYX - Eastern Empire Company Building - eFPS PATCH-86526-1-0-1678297690.7z",
+      "mod_id": 86526,
+      "hash": "sha256-9MW/b/wFU6wmHf47jK9ot1fG/H5GtoZSjxR1IfyZHlw="
+    }
+  },
+  "FYX - (A) Eastern Empire Company Building": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0.2.1",
+      "file_id": 367433,
+      "file_name": "FYX - (A) Eastern Empire Company Building-86526-1-0-2-1-1678531583.7z",
+      "mod_id": 86526,
+      "hash": "sha256-n9Pcwy1jU2NPFrxshAy1P1zgrB7xPRtfcuyDiLMdvqc="
+    },
+    "type": "primary"
+  },
+  "FYX - (A) Eastern Empire Company Building - Parallax": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0.2.1",
+      "file_id": 367434,
+      "file_name": "FYX - (A) Eastern Empire Company Building - Parallax-86526-1-0-2-1-1678531613.7z",
+      "mod_id": 86526,
+      "hash": "sha256-ATdLU2BBU6K3qwc9pTWiD+OIdx0m8/36BKHnRLMmMu0="
+    },
+    "type": "primary"
+  },
+  "FYX - (B) Eastern Empire Company Building - SMIM": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0.2.1",
+      "file_id": 367435,
+      "file_name": "FYX - (B) Eastern Empire Company Building - SMIM-86526-1-0-2-1-1678531647.7z",
+      "mod_id": 86526,
+      "hash": "sha256-ADpEkTdy3oly/t1Sp+mwuzi+KHJPDbcahrw/bVC45fg="
+    },
+    "type": "primary"
+  },
+  "FYX - (B) Eastern Empire Company Building - SMIM - Parallax": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0.2.1",
+      "file_id": 367436,
+      "file_name": "FYX - (B) Eastern Empire Company Building - SMIM - Parallax-86526-1-0-2-1-1678531675.7z",
+      "mod_id": 86526,
+      "hash": "sha256-3aGnKVYlcOXMgtI/pw9ZU4UXKCMVIsm8D/TxEo/kayc="
+    },
+    "type": "primary"
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "Rare Curios - BS Bruma Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "2.0.0",
+      "file_id": 250512,
+      "file_name": "Rare Curios - BS Bruma Patch-60412-2-0-0-1640000031.7z",
+      "mod_id": 60412,
+      "hash": "sha256-xZlWYyvFqId+5pIMGFqTm40kfbsxQrFEy+C3aAu+GM8="
+    },
+    "type": "primary"
+  },
+  "Consumable Varla Stones": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "2.0.0",
+      "file_id": 250513,
+      "file_name": "Consumable Varla Stones-60412-2-0-0-1640000058.7z",
+      "mod_id": 60412,
+      "hash": "sha256-XAf4Kgo0uWHpKgFzcJ4QwgCIY0FezXUML19d8Q/KUIw="
+    }
+  },
+  "Consumable Varla Stones - Ayleid Distribution Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "2.0.0",
+      "file_id": 250514,
+      "file_name": "Consumable Varla Stones - Ayleid Distribution Patch-60412-2-0-0-1640000197.7z",
+      "mod_id": 60412,
+      "hash": "sha256-9SYAP5dbxakY+RwYXWmPlMGfNTFwKWg4DoJhKcrojIs="
+    }
+  },
+  "Goblins Patch Consistency Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "2.0.0",
+      "file_id": 250515,
+      "file_name": "Goblins Patch Consistency Patch-60412-2-0-0-1640000333.7z",
+      "mod_id": 60412,
+      "hash": "sha256-j8y4ly2dZzdNmj9Ndt44em4iIaRTvbQt10aR9oW1BJ0="
+    }
+  }
+}

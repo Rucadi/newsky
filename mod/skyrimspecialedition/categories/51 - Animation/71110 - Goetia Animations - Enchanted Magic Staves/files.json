@@ -1,0 +1,33 @@
+{
+  "Goetia Animations - Alternate Movement For Destruction Staves": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.51",
+      "file_id": 298617,
+      "file_name": "Goetia Animations - Alternate Movement For Destruction Staves-71110-1-51-1657726129.7z",
+      "mod_id": 71110,
+      "hash": "sha256-qb0AQgGn8bLwh3r+GDqaTwK9lZ9IIBDboDrGuoTAvNo="
+    }
+  },
+  "Goetia Animations - Enchanted Staves": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.51",
+      "file_id": 298623,
+      "file_name": "Goetia Animations - Enchanted Staves-71110-1-51-1657727300.7z",
+      "mod_id": 71110,
+      "hash": "sha256-mFtIz5+9dt5JMxrkRsEYdl+GPkyYc2vT8evE8/ZjuuI="
+    },
+    "type": "primary"
+  },
+  "Goetia Animations - Alternate Movement For All Staves": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.51",
+      "file_id": 299402,
+      "file_name": "Goetia Animations - Alternate Movement For All Staves-71110-1-51-1657979043.7z",
+      "mod_id": 71110,
+      "hash": "sha256-S5/U1h0i5lhphqcE0LhOWCwT1ktgR2aYr4uBwuxpT5k="
+    }
+  }
+}

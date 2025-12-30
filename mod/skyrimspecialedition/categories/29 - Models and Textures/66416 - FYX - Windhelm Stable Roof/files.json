@@ -1,0 +1,24 @@
+{
+  "FYX - Windhelm Stable Roof": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0.2",
+      "file_id": 277314,
+      "file_name": "FYX - Windhelm Stable Roof-66416-1-0-2-1650032035.7z",
+      "mod_id": 66416,
+      "hash": "sha256-2fbXcUgwvICafuL0tdZU1+sih1Q1RYk/RX8v9zlM5pM="
+    },
+    "type": "primary"
+  },
+  "FYX - Windhelm Stable Roof - Parallax": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0.2",
+      "file_id": 435129,
+      "file_name": "FYX - Windhelm Stable Roof - Parallax-66416-1-0-2-1697694651.7z",
+      "mod_id": 66416,
+      "hash": "sha256-3n31b589iotZhPLLmBuKPsRWHvcytsp7XBGTZiBBBsQ="
+    },
+    "type": "primary"
+  }
+}

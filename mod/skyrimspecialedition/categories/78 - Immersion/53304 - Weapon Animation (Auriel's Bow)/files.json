@@ -1,0 +1,79 @@
+{
+  "Weapon Animation (Auriel's Bow)blue": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 219029,
+      "file_name": "Weapon Animation (Auriel's Bow)-53304-1-0-1628179591.zip",
+      "mod_id": 53304,
+      "hash": "sha256-WwZTEZ67kxs2sOenw5PEUM0tYPKEjFsx7A95KzMwRAU="
+    },
+    "type": "primary"
+  },
+  "Weapon Animation (Auriel's Bow)red": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 219347,
+      "file_name": "Weapon Animation (Auriel's Bow)red-53304-1-0-1628290009.zip",
+      "mod_id": 53304,
+      "hash": "sha256-WbzGbTXTuFIz+SHlIobBxYGzuAyoewICh/F5hdLu+xQ="
+    },
+    "type": "primary"
+  },
+  "Weapon Animation (Auriel's Bow)yellow": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 219351,
+      "file_name": "Weapon Animation (Auriel's Bow)yellow-53304-1-0-1628291052.zip",
+      "mod_id": 53304,
+      "hash": "sha256-y6y4f7X2CAo7TnrPwQtzTuwg/HLvIKQUkToNjc/+3v4="
+    },
+    "type": "primary"
+  },
+  "Weapon Animation (Auriel's Bow)orange": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 219354,
+      "file_name": "Weapon Animation (Auriel's Bow)orange-53304-1-0-1628291931.zip",
+      "mod_id": 53304,
+      "hash": "sha256-A8YMZBjf92ly4dEX3Qeejk3A6noLAAB/FCV6lm9PZdU="
+    },
+    "type": "primary"
+  },
+  "Weapon Animation (Auriel's Bow)green": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 219361,
+      "file_name": "Weapon Animation (Auriel's Bow)green-53304-1-0-1628292654.zip",
+      "mod_id": 53304,
+      "hash": "sha256-9TU+Xtl3XflWFcrOoFkxvdPeSO51VWKFSAASLfuyQq4="
+    },
+    "type": "primary"
+  },
+  "Weapon Animation (Auriel's Bow)purple": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 219364,
+      "file_name": "Weapon Animation (Auriel's Bow)purple-53304-1-0-1628293433.zip",
+      "mod_id": 53304,
+      "hash": "sha256-TcgKNJ7lXfzK+Ehq7kAKBUOkSG/semfu9MZTlg1O9zA="
+    },
+    "type": "primary"
+  },
+  "Weapon Animation (Auriel's Bow)white": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 220608,
+      "file_name": "Weapon Animation (Auriel's Bow)white-53304-1-0-1628772789.zip",
+      "mod_id": 53304,
+      "hash": "sha256-x0QpyRvCVn/kBd79+76PpkXGNIB8ZN0vViWD5huGA9Y="
+    },
+    "type": "primary"
+  }
+}

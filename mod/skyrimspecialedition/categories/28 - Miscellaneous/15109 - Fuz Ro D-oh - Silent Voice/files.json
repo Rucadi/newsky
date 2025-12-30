@@ -1,0 +1,34 @@
+{
+    "Alternate Silent Voice Files": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "1.1",
+            "file_id": 123167,
+            "file_name": "Alternate Silent Voice Files-15109-1-1-1581167160.7z",
+            "mod_id": 15109,
+            "hash": "sha256-g7aW/vYxgzBuWyUxhyW5zWjvRJXjZvj8UoysevTEPc4="
+        }
+    },
+    "Fuz Ro D'oh": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "2.5",
+            "file_id": 464222,
+            "file_name": "Fuz Ro D'oh-15109-2-5-1706039953.7z",
+            "mod_id": 15109,
+            "hash": "sha256-+YVgcxaLnCiZfBzvduFe32rYIZ7nAgZlTXojrgJc8EE="
+        },
+        "type": "primary"
+    },
+    "Fuz Ro D'oh (GOG Edition)": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "2.5",
+            "file_id": 492859,
+            "file_name": "Fuz Ro D'oh (GOG Edition)-15109-2-5-1713611998.7z",
+            "mod_id": 15109,
+            "hash": "sha256-DeunBEge/KVsG2PovFIriSzFG0z5ryv94i2iZ5cLTtU="
+        },
+        "type": "primary"
+    }
+}

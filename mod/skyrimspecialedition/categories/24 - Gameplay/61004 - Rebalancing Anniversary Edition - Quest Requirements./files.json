@@ -1,0 +1,53 @@
+{
+  "JKs Silver Blood Inn Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "2.01",
+      "file_id": 255714,
+      "file_name": "JKs Silver Blood Inn Patch-61004-2-01-1641842500.rar",
+      "mod_id": 61004,
+      "hash": "sha256-Q26mpsKIh5/sF06ZLY/JCwrTdU2NJZHDVANffCGvykM="
+    }
+  },
+  "COTN Falkreath Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "2.01",
+      "file_id": 255715,
+      "file_name": "COTN Falkreath Patch-61004-2-01-1641842527.rar",
+      "mod_id": 61004,
+      "hash": "sha256-JD/NYJPxU4mqjWik2AglDqZCskT0P9o3PxhteMlsbQA="
+    }
+  },
+  "moose109's Misc Patches - SS Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "2.01",
+      "file_id": 255716,
+      "file_name": "moose109's Misc Patches - SS Patch-61004-2-01-1641842613.rar",
+      "mod_id": 61004,
+      "hash": "sha256-oULDxkQTEi38HRondYmjrebRNhWrqAS8aABohyPES3A="
+    }
+  },
+  "RAE - Saints and Seducers Voiced Narrative Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 306347,
+      "file_name": "RAE - Saints and Seducers Voiced Narrative Patch-61004-1-0-1660147666.rar",
+      "mod_id": 61004,
+      "hash": "sha256-fwt6YeSLZMAYh2HKZ9QVsvr455nHjWp5vLLrOrxkQio="
+    }
+  },
+  "RAE 2.6": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "2.6",
+      "file_id": 693440,
+      "file_name": "RAE 2.6-61004-2-6-1764625578.rar",
+      "mod_id": 61004,
+      "hash": "sha256-jl89AQLWGKWEY3yZdwXg1XHiXx/ml3auCrhKzEHiwGk="
+    },
+    "type": "primary"
+  }
+}

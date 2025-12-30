@@ -1,0 +1,44 @@
+{
+  "Chie Half-Khajiit BHUNP": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.2",
+      "file_id": 559999,
+      "file_name": "Chie Half-Khajiit BHUNP-132842-1-2-1731042174.7z",
+      "mod_id": 132842,
+      "hash": "sha256-bS4rKejh+HTGOQPZOlRKlPC280268S6wNvsBCC3+w80="
+    },
+    "type": "primary"
+  },
+  "Chie - Sa'chil Requiem Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 625825,
+      "file_name": "Chie - Sa'chil Requiem Patch-132842-1-0-1746915944.7z",
+      "mod_id": 132842,
+      "hash": "sha256-BjSZh9R1PIfS4XOLN2q9IznKvcuFzdMmi3CUXvoolE8="
+    }
+  },
+  "Chie - RSV Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 634378,
+      "file_name": "Chie - RSV Patch-132842-1-0-1749007642.zip",
+      "mod_id": 132842,
+      "hash": "sha256-0AiABPM2AD637l/4SMnj6EzULCQmhswSlN6oNDJhTWs="
+    }
+  },
+  "Chie Half-Khajiit 3BA": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "2.1",
+      "file_id": 703126,
+      "file_name": "Chie Half-Khajiit 3BA-132842-2-1-1766977597.7z",
+      "mod_id": 132842,
+      "hash": "sha256-FYAc3jiqfM0Mv90UOMpiJ5OpD3LPcSI1AhIoLQ048xw="
+    },
+    "type": "primary"
+  }
+}

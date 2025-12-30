@@ -1,0 +1,53 @@
+{
+    "Fishermen Fish - Shadows over Ilinata patch": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "1.4",
+            "file_id": 580963,
+            "file_name": "Fishermen Fish - Shadows over Ilinata patch-134408-1-3-1736371394.zip",
+            "mod_id": 134408,
+            "hash": "sha256-479FHiQSdJH5gsk6GufxwunpE4xiw02gooAXU9iXxBw="
+        }
+    },
+    "Fishermen Fish": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "1.4",
+            "file_id": 620526,
+            "file_name": "Fishermen Fish-134408-1-4-1745447820.zip",
+            "mod_id": 134408,
+            "hash": "sha256-2SdDhDSJMGILt7Bg0FE6p0poKSoOAbjlV/ZPHi/S0Zc="
+        },
+        "type": "primary"
+    },
+    "Fishermen Fish - JK Skyrim patch": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "1.4",
+            "file_id": 620527,
+            "file_name": "Fishermen Fish - JK Skyrim patch-134408-1-4-1745447875.zip",
+            "mod_id": 134408,
+            "hash": "sha256-7iLRdp6qoXqcd2Q6CYbWxaBtzgapH5vBW122BWJ05Es="
+        }
+    },
+    "Fishermen Fish - Thuldor's Ivarstead": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "1.4",
+            "file_id": 620528,
+            "file_name": "Fishermen Fish - Thuldor's Ivarstead-134408-1-4-1745447930.zip",
+            "mod_id": 134408,
+            "hash": "sha256-OEL6lC7ez1pOPd6ulWJ11ftu1uUmRXL+3N9UWRtNm1s="
+        }
+    },
+    "Fishermen Fish - Whispers of the Depths": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "1.4",
+            "file_id": 620529,
+            "file_name": "Fishermen Fish - Slay-Many-Beasts-134408-1-4-1745448009.zip",
+            "mod_id": 134408,
+            "hash": "sha256-qjzqPyOIWLP7UxOTI1V8MIhUyUWZvogbt3yx77IDxTY="
+        }
+    }
+}

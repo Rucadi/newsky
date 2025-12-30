@@ -1,0 +1,24 @@
+{
+  "Ash Guardian 2K": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 374444,
+      "file_name": "Ash Guardian 2K-88343-1-0-1680450011.7z",
+      "mod_id": 88343,
+      "hash": "sha256-pNVkE7fCy0dojDm6NM1/XRIT/OX3SBl77SGti/xM2Lc="
+    },
+    "type": "primary"
+  },
+  "Ash Guardian 4K": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 374445,
+      "file_name": "Ash Guardian 4K-88343-1-0-1680450088.7z",
+      "mod_id": 88343,
+      "hash": "sha256-BkBXlbqeQGqSnNaF0IVvupYJCgJ6WtPUdYMJxui+U70="
+    },
+    "type": "primary"
+  }
+}

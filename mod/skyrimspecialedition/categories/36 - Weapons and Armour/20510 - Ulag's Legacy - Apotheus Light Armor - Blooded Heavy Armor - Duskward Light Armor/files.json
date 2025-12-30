@@ -1,0 +1,74 @@
+{
+  "Ulags Legacy 2K Textures - No Immersive Armors": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1.0",
+      "file_id": 70050,
+      "file_name": "Ulags Legacy 2K Textures - No Immersive Armors-20510-1-1-0-1540313064.7z",
+      "mod_id": 20510,
+      "hash": "sha256-vQEyeW3+XAqDpn4qQGjvRyDU4pVIGS8njxJ2s1tPvtM="
+    }
+  },
+  "Ulags Legacy 2K Textures - With Immersive Armors": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1.0",
+      "file_id": 70051,
+      "file_name": "Ulags Legacy 2K Textures - With Immersive Armors-20510-1-1-0-1540313157.7z",
+      "mod_id": 20510,
+      "hash": "sha256-Da0mvAYToaL2udtDNquiLbY+JfY1xBXRgnOaHzb/Rv4="
+    }
+  },
+  "Ulags Legacy - No Immersive Armors": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1.1",
+      "file_id": 70107,
+      "file_name": "Ulags Legacy - No Immersive Armors-20510-1-1-1-1540364027.7z",
+      "mod_id": 20510,
+      "hash": "sha256-zPnZC/NOFm3ByslzVjCWIEAb3gNRunyk/e1YxwrYX9I="
+    },
+    "type": "primary"
+  },
+  "Ulags Legacy - With Immersive Armors": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1.1",
+      "file_id": 70108,
+      "file_name": "Ulags Legacy - With Immersive Armors-20510-1-1-1-1540364273.7z",
+      "mod_id": 20510,
+      "hash": "sha256-hxy2Yyx/Nf6nKQ8gs/Y+vjLL0vB2qGwzQyuMijUJxRQ="
+    },
+    "type": "primary"
+  },
+  "Ulags Legacy - DSR patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1.1",
+      "file_id": 76242,
+      "file_name": "Ulags Legacy - DSR patch-20510-1-1-1-1545810209.7z",
+      "mod_id": 20510,
+      "hash": "sha256-pjmtZ39+XxSm/hSLZo5r8DCi1yWqDjlZgbcLDLQdK94="
+    }
+  },
+  "Ulags Legacy - Loose Files 2k": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1",
+      "file_id": 76243,
+      "file_name": "Ulags Legacy - Loose Files 2k-20510-1-1545810622.7z",
+      "mod_id": 20510,
+      "hash": "sha256-huwq9qs8Yfq0/vflik5i8+MvXqsTW1j+5RQ4ZGFbLTk="
+    }
+  },
+  "Ulags Legacy - Loose Files 4k": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1",
+      "file_id": 76244,
+      "file_name": "Ulags Legacy - Loose Files 4k-20510-1-1545810849.7z",
+      "mod_id": 20510,
+      "hash": "sha256-hYmKsdcSJS4bHF6Ko7Y5Su9PnCQb7Zxw3T4oa/BKl6Q="
+    }
+  }
+}

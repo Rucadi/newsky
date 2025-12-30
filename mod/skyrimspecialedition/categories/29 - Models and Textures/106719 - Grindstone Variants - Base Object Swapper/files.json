@@ -1,0 +1,84 @@
+{
+  "1) Grindstone Variants": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 450733,
+      "file_name": "Grindstone Variants-106719-1-0-1702281512.rar",
+      "mod_id": 106719,
+      "hash": "sha256-ByNls47PntWwvrxDLNTkvVlN51+0ByIaRl8y6t4jFkE="
+    },
+    "type": "primary"
+  },
+  "2) Grindstone Variants - ElSopa Variant": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 450973,
+      "file_name": "Grindstone Variants - ElSopa Variant-106719-1-0-1702323589.rar",
+      "mod_id": 106719,
+      "hash": "sha256-JUKIClpn3aCMCMnBJUEWYiNFDnOYKKeeDMic5zZrwrw="
+    },
+    "type": "primary"
+  },
+  "O1) GV - Improved Sparks Patch - Vanilla Sparks": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 451597,
+      "file_name": "GV - Improved Sparks Patch - Vanilla Sparks-106719-1-0-1702495730.rar",
+      "mod_id": 106719,
+      "hash": "sha256-JUs3o68nZs9iP6EIExQ3GH7KuyfwMSugxdV1ZN2OipA="
+    }
+  },
+  "O2) GV - Improved Sparks Patch - 10X Sparks": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 451599,
+      "file_name": "GV - Improved Sparks Patch - 10X Sparks-106719-1-0-1702495800.rar",
+      "mod_id": 106719,
+      "hash": "sha256-lQdQEAFMPdJBtC0nEufLcObbZakdv5IrW4um1kFFYLM="
+    }
+  },
+  "O3) GV - Improved Sparks Patch - 20X Sparks": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 451600,
+      "file_name": "GV - Improved Sparks Patch - 20X Sparks-106719-1-0-1702495835.rar",
+      "mod_id": 106719,
+      "hash": "sha256-98vVGg0Gl7xCcxYtQZ278p0yZhbTfJUo2Z94p4gsWa4="
+    }
+  },
+  "O4) GV-EV - Improved Sparks Patch - Vanilla Sparks": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 451601,
+      "file_name": "GV - EV - Improved Sparks Patch - Vanilla Sparks-106719-1-0-1702495968.rar",
+      "mod_id": 106719,
+      "hash": "sha256-l/leiW0hM5tcLD8Zd8GsM4NGUx0dzA6q6tYHEsaaXvk="
+    }
+  },
+  "O5) GV-EV - Improved Sparks Patch - 10X Sparks": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 451602,
+      "file_name": "GV - EV - Improved Sparks Patch - 10X Sparks-106719-1-0-1702495998.rar",
+      "mod_id": 106719,
+      "hash": "sha256-nCvAxiCLWZjRpJB71fIDmXVK/4aUiaWTv8OjRzOJ/Eg="
+    }
+  },
+  "O6) GV-EV - Improved Sparks Patch - 20X Sparks": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 451603,
+      "file_name": "GV - EV - Improved Sparks Patch - 20X Sparks-106719-1-0-1702496029.rar",
+      "mod_id": 106719,
+      "hash": "sha256-S3qXjhHyPX1EadeyojBPX/uUqD7JCiZGpear1H2NQqE="
+    }
+  }
+}

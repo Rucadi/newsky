@@ -1,0 +1,24 @@
+{
+  "Additional Dremora faces - My textures by Xtudo 2K": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1",
+      "file_id": 431106,
+      "file_name": "Additional Dremora faces - My textures by Xtudo 2K-101828-1-1696425931.7z",
+      "mod_id": 101828,
+      "hash": "sha256-0surT7HWpDYQYbD2NF7H4kxaPNhG62ohJHstj1Qb0uI="
+    },
+    "type": "primary"
+  },
+  "Additional Dremora faces - My textures by Xtudo 1K": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1",
+      "file_id": 431107,
+      "file_name": "Additional Dremora faces - My textures by Xtudo 1K-101828-1-1696425944.7z",
+      "mod_id": 101828,
+      "hash": "sha256-axUZ+Lt1xiUosoW9Y2vjgoUam7ybYK1FVrCsmiFS/ew="
+    },
+    "type": "primary"
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "No Crime Teleport AE": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 300427,
+      "file_name": "No Crime Teleport AE-71691-1-0-1658271275.7z",
+      "mod_id": 71691,
+      "hash": "sha256-nz0O6ajqPs1VdTi8KQSsjZSnYy0rvTWUL1hQew+VD6g="
+    },
+    "type": "primary"
+  },
+  "No Crime Teleport SE": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 300428,
+      "file_name": "No Crime Teleport SE-71691-1-0-1658271317.7z",
+      "mod_id": 71691,
+      "hash": "sha256-CKMZ3L+wCr8Yh80+HScYko2zEsXu+xAOjlP06rwrA68="
+    },
+    "type": "primary"
+  }
+}

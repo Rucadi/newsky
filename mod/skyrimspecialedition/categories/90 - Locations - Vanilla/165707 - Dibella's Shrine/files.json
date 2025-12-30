@@ -1,0 +1,23 @@
+{
+  "Dibella's Shrine": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 694085,
+      "file_name": "Dibella's Shrine-165707-1-0-1764782542.7z",
+      "mod_id": 165707,
+      "hash": "sha256-lgQS1T7lfiGk+R/6XpzFsAZ/4iGKYJXb/yKXzrX4BC4="
+    },
+    "type": "primary"
+  },
+  "Dibella's Shrine Vanilla": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 694091,
+      "file_name": "Dibella's Shrine Vanilla-165707-1-0-1764784905.7z",
+      "mod_id": 165707,
+      "hash": "sha256-IYUCPhfMJpfxM2DYYg7cbRXlIhkJolTOPFMEx2SI0lY="
+    }
+  }
+}

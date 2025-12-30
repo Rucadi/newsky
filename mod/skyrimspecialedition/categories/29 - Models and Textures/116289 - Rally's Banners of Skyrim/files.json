@@ -1,0 +1,204 @@
+{
+  "Falskaar Patch 4K": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 494232,
+      "file_name": "Banners Falskaar Patch 4K-116289-1-0-1713936125.7z",
+      "mod_id": 116289,
+      "hash": "sha256-rMsNbvXRXySCs3h/shxXQu9p0UX31SeNBEmTJ6dA6SU="
+    }
+  },
+  "Falskaar Patch 2K": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 494233,
+      "file_name": "Banners Falskaar Patch 2K-116289-1-0-1713936154.7z",
+      "mod_id": 116289,
+      "hash": "sha256-bp3Gd425C/s+5w0UawyfQUmNBKkPDSfNHoFcRn3bNhw="
+    }
+  },
+  "Moonpath Patch 4K": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 494234,
+      "file_name": "Moonpath Patch 4K-116289-1-0-1713936430.7z",
+      "mod_id": 116289,
+      "hash": "sha256-MAnw7wQHa3nEdUPo8CE67TgSS2cyM1CVS6JweR5FA4A="
+    }
+  },
+  "Moonpath Patch 2K": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 494235,
+      "file_name": "Moonpath Patch 2K-116289-1-0-1713936460.7z",
+      "mod_id": 116289,
+      "hash": "sha256-tty4GVY9CN/6lZtpaoAV2ihI4LjtbRHeVUI8tBkIrE0="
+    }
+  },
+  "Helgen Reborn Patch 4K": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 494237,
+      "file_name": "Helgen Reborn Patch 4K-116289-1-0-1713937014.7z",
+      "mod_id": 116289,
+      "hash": "sha256-AgUB7LAUWF6XiZP6DoL7MvhnMGce2kEmwQQ2wcGh2WY="
+    }
+  },
+  "Wyrmstooth Patch 4K": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 494241,
+      "file_name": "Wyrmstooth Patch 4K-116289-1-0-1713937416.7z",
+      "mod_id": 116289,
+      "hash": "sha256-HC9u0+13E/nFOjMFUCR+0P62nwRP07BE95O+0BZAaPU="
+    }
+  },
+  "Wyrmstooth Patch 2K": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 494242,
+      "file_name": "Wyrmstooth Patch 2K-116289-1-0-1713937450.7z",
+      "mod_id": 116289,
+      "hash": "sha256-9gNKai4xrSg3MF62fWTnXz4UvmntNNPY89gMWQ0XAws="
+    }
+  },
+  "Banners of Skyrim 4K": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1",
+      "file_id": 494538,
+      "file_name": "Banners of Skyrim 4K-116289-1-1-1714025557.7z",
+      "mod_id": 116289,
+      "hash": "sha256-sSEMbBXl0FB1g9qCkzRKex85inF8O0s897g30WdJBhk="
+    },
+    "type": "primary"
+  },
+  "Banners of Skyrim 2K": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1",
+      "file_id": 494539,
+      "file_name": "Banners of Skyrim 2K-116289-1-1-1714025624.7z",
+      "mod_id": 116289,
+      "hash": "sha256-AUJV+a9ubKnTfSbsSppqeJyXcxeG48KbNMIZwMnOlPI="
+    },
+    "type": "primary"
+  },
+  "Northern Roads Patch 4K": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 494540,
+      "file_name": "Northern Roads Patch 4K-116289-1-0-1714025834.7z",
+      "mod_id": 116289,
+      "hash": "sha256-d18bj2CHPtPu+WLJOaxAal0NPJbUObdcwMErmrcbtgY="
+    }
+  },
+  "Northern Roads Patch 2K": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 494541,
+      "file_name": "Northern Roads Patch 2K-116289-1-0-1714025856.7z",
+      "mod_id": 116289,
+      "hash": "sha256-ct7YYucyMbhETO14KHLtt/zlahPhtgJJDDBY1wF090M="
+    }
+  },
+  "Vigilant Patch 4K": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 494965,
+      "file_name": "Vigilant Patch 4K-116289-1-0-1714139952.7z",
+      "mod_id": 116289,
+      "hash": "sha256-NhOHPTPyf0VvMMYwB6MtYqs+lJojM+PMX8uyiGrdxBQ="
+    }
+  },
+  "Vigilant Patch 2K": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 494966,
+      "file_name": "Vigilant Patch 2K-116289-1-0-1714139984.7z",
+      "mod_id": 116289,
+      "hash": "sha256-S6hof/VyIXITnOGMgX+/EckZKISMjV2M8IxfJfH3o/Y="
+    }
+  },
+  "LotD Patch 4K": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 495583,
+      "file_name": "LotD Patch 4K-116289-1-0-1714302041.7z",
+      "mod_id": 116289,
+      "hash": "sha256-O7WUuvSpAIYIe1WnGknsxrEcTW7ZOMSe6NSanTyjhQ8="
+    }
+  },
+  "LotD Patch 2K": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 495584,
+      "file_name": "LotD Patch 2K-116289-1-0-1714302072.7z",
+      "mod_id": 116289,
+      "hash": "sha256-vYMvDRa3Ts5yFLOc5Vc20bwR94fYi5j2AFeVFuS4jA8="
+    }
+  },
+  "Helgen Reborn Patch 2K": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1",
+      "file_id": 498701,
+      "file_name": "Helgen Reborn Patch 2K-116289-1-1-1715067043.7z",
+      "mod_id": 116289,
+      "hash": "sha256-dlGW19L6NzC4SIPUY8J2/vzaU8o7V9zTz6ZIl1Ul1fY="
+    }
+  },
+  "JK Castle Volkihar Patch 4K": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 502771,
+      "file_name": "JK Castle Volkihar Patch 4K-116289-1-0-1716127454.7z",
+      "mod_id": 116289,
+      "hash": "sha256-yaRKGWJgPpn+dps/DgTG+0I49rXpvX9UJfzjVlMgoXA="
+    }
+  },
+  "JK Castle Volkihar Patch 2K": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 502772,
+      "file_name": "JK Castle Volkihar Patch 2K-116289-1-0-1716127482.7z",
+      "mod_id": 116289,
+      "hash": "sha256-P6UzRP1UoCcCmcImeRTpq9G8I5GILsK4VjUX4yil3Ow="
+    }
+  },
+  "Wintersun Patch 4K": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 515680,
+      "file_name": "Wintersun Patch 4K-116289-1-0-1719555790.7z",
+      "mod_id": 116289,
+      "hash": "sha256-6rsYeX+hAYIIc4eky6OpJoE8dsCZi1W5yiAendmzPHk="
+    }
+  },
+  "Wintersun Patch 2K": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 515681,
+      "file_name": "Wintersun Patch 2K-116289-1-0-1719555826.7z",
+      "mod_id": 116289,
+      "hash": "sha256-RzBrlCneG+VFr9msL/ICuPCOyGKgfpPtCg+alGkU9nM="
+    }
+  }
+}

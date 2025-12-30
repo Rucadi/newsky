@@ -1,0 +1,33 @@
+{
+    "IDDP Bruma Patch": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "1.0",
+            "file_id": 424093,
+            "file_name": "IDDP Bruma Patch-34955-1-0-1694136328.rar",
+            "mod_id": 34955,
+            "hash": "sha256-uRMjmEeugFLPA7xRjN50cGm0TDKiGJpg92l+NM4mBQw="
+        }
+    },
+    "Bruma - Unique Border Gates Patch": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "2.0",
+            "file_id": 430670,
+            "file_name": "Bruma - Unique Border Gates Patch-34955-2-0-1696269968.rar",
+            "mod_id": 34955,
+            "hash": "sha256-E3078hmCQXPfFoJ5fglWA1OEzTVsThW2LZkfAsdqbBs="
+        },
+        "type": "primary"
+    },
+    "Point The Way Bruma Patch": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "1.0",
+            "file_id": 430677,
+            "file_name": "Point The Way Bruma Patch-34955-1-0-1696270690.rar",
+            "mod_id": 34955,
+            "hash": "sha256-slUSBYReXA/r1kzXsRk7qZqRE0DgAsMSrPghr/mQkIU="
+        }
+    }
+}

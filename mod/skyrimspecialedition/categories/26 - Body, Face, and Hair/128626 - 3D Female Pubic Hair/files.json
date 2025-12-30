@@ -1,0 +1,43 @@
+{
+  "BHUNP Bodyslide Files": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1",
+      "file_id": 539962,
+      "file_name": "BHUNP Bodyslide Files-128626-1-1-1725787474.7z",
+      "mod_id": 128626,
+      "hash": "sha256-KL6j7pj/u+YUNvC4nxMcbgIQxcsj0dS2g6Omli6fCkg="
+    }
+  },
+  "SoS Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1",
+      "file_id": 539967,
+      "file_name": "SoS Patch-128626-1-1-1725790504.7z",
+      "mod_id": 128626,
+      "hash": "sha256-8Ee64JVbRp8jgoedRhwv1C4H3qIqml8SbMxyNM56KZg="
+    }
+  },
+  "UBE Bodyslide and esp": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1",
+      "file_id": 540991,
+      "file_name": "UBE Bodyslide and esp-128626-1-1-1726048408.7z",
+      "mod_id": 128626,
+      "hash": "sha256-o4s+vtf0ISo11E0l6E1QaqQSbrnjCQnKCVaY5WVMAYw="
+    }
+  },
+  "3D Female Pubic Hair CBBE 3BA": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.3",
+      "file_id": 649344,
+      "file_name": "3D Female Pubic Hair CBBE 3BA-128626-1-3-1753205167.7z",
+      "mod_id": 128626,
+      "hash": "sha256-fXge04LA3knd+Umk5jJvED7SodmSOvhv0mJgFGdpOJU="
+    },
+    "type": "primary"
+  }
+}

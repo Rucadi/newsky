@@ -1,0 +1,24 @@
+{
+  "Frost - Flame - Storm Atronach Retexture 2K": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0.1",
+      "file_id": 374470,
+      "file_name": "Frost - Flame - Storm Atronach Retexture 2K-88344-1-0-1-1680455311.7z",
+      "mod_id": 88344,
+      "hash": "sha256-mznswiU5Yn+lCokE/UmfbVmHM1CR19Kqy3TSX8DIiuM="
+    },
+    "type": "primary"
+  },
+  "Frost - Flame - Storm Atronach Retexture 4K": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0.1",
+      "file_id": 374471,
+      "file_name": "Frost - Flame - Storm Atronach Retexture 4K-88344-1-0-1-1680455365.7z",
+      "mod_id": 88344,
+      "hash": "sha256-u6FnEIknXx2BYMQUiqZt0VGjmYP+O9R4vY7e4qJ0rfo="
+    },
+    "type": "primary"
+  }
+}

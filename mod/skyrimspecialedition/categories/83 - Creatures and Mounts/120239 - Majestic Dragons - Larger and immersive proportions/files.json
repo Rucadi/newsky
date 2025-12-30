@@ -1,0 +1,132 @@
+{
+  "Majestic True Dragons": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "2.0",
+      "file_id": 510777,
+      "file_name": "Majestic True Dragons-120239-2-0-1718154249.zip",
+      "mod_id": 120239,
+      "hash": "sha256-ylLeKLptyg4yhRtH+LR79JC7T0JAETJqGOB9P45o9n8="
+    }
+  },
+  "Majestic True Dragons Mole": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "2.0",
+      "file_id": 510778,
+      "file_name": "Majestic True Dragons Mole-120239-2-0-1718154282.zip",
+      "mod_id": 120239,
+      "hash": "sha256-ChVLDKL6gzsvKzhxOGRUZXIXX3v5P6PFvSsVxJYH9t0="
+    }
+  },
+  "Majestic Dragons Colossal -Skyracer": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "3.2",
+      "file_id": 665274,
+      "file_name": "Majestic Dragons Colossal -Skyracer-120239-3-2-1757771408.zip",
+      "mod_id": 120239,
+      "hash": "sha256-QkWGWWIhFbXttFWmixoM69qt0ywoRaIV0yLd/mAdMWA="
+    },
+    "type": "primary"
+  },
+  "Majestic Dragons - Colossal": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "3.2",
+      "file_id": 665275,
+      "file_name": "Majestic Dragons - Colossal-120239-3-2-1757771444.zip",
+      "mod_id": 120239,
+      "hash": "sha256-/jQMiGlUx5gzivgLlfXjkd8qeHSD3VDYkiXEmJTt8O0="
+    },
+    "type": "primary"
+  },
+  "Majestic Dragons Colossal -Robust": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "3.2",
+      "file_id": 665276,
+      "file_name": "Majestic Dragons Colossal -Robust-120239-3-2-1757771553.zip",
+      "mod_id": 120239,
+      "hash": "sha256-HPE8LOH9H4cj+0B1SgwHYIUukY5pQ5xBQ65xZUCc1VY="
+    },
+    "type": "primary"
+  },
+  "Majestic Dragons - Gracile": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "3.2",
+      "file_id": 665277,
+      "file_name": "Majestic Dragons - Gracile-120239-3-2-1757771602.zip",
+      "mod_id": 120239,
+      "hash": "sha256-VdgjAKAyM48CbPQJA0CzGK0DYYHeyHUE8qjn6EkBCn8="
+    },
+    "type": "primary"
+  },
+  "Majestic Dragons Beauty - Elegance": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "3.2",
+      "file_id": 665278,
+      "file_name": "Majestic Dragons Beauty - Elegance-120239-3-2-1757771638.zip",
+      "mod_id": 120239,
+      "hash": "sha256-nTKbMr6/qqOOYnmnC7KhfyEYhEhjsdkVBL+qADgt5ac="
+    },
+    "type": "primary"
+  },
+  "Majestic Dragons - Beauty": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "3.2",
+      "file_id": 665280,
+      "file_name": "Majestic Dragons - Beauty-120239-3-2-1757771664.zip",
+      "mod_id": 120239,
+      "hash": "sha256-LbjEL4Vf6O6wr+idt+Gxd6EXxybElWfGZQLNW3ZVwWo="
+    },
+    "type": "primary"
+  },
+  "Majestic Dragons - Glorious": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "3.2",
+      "file_id": 665281,
+      "file_name": "Majestic Dragons - Glorious-120239-3-2-1757771722.zip",
+      "mod_id": 120239,
+      "hash": "sha256-BAXI3lbjl0eMc8YoCTyLsz3egpdkTGyI/xkLxZu1XfM="
+    },
+    "type": "primary"
+  },
+  "Majestic Dragons Beauty - Subtle": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "3.21",
+      "file_id": 666116,
+      "file_name": "Beauty - Subtle-120239-3-21-1757964208.zip",
+      "mod_id": 120239,
+      "hash": "sha256-WjeQrR4IQj+/9qB6ZU5cIxyu3n98b7eV218DN4w6k48="
+    },
+    "type": "primary"
+  },
+  "Majestic Dragons Serpentine": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "3.21",
+      "file_id": 666117,
+      "file_name": "Majestic Dragons Serpentine-120239-3-21-1757964295.zip",
+      "mod_id": 120239,
+      "hash": "sha256-tEjQPLLHX8TZANy0Kp29jHF9k5EW7NCxp5lzwdEX8j8="
+    },
+    "type": "primary"
+  },
+  "Dragon Races of Skyrim - Resources": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 666627,
+      "file_name": "Dragon Races of Skyrim - Resources-120239-1-0-1758104051.zip",
+      "mod_id": 120239,
+      "hash": "sha256-SXhp1Z0lum7VJdPD98CqnVl/OtJ5k36KPkL391ybJpY="
+    },
+    "type": "primary"
+  }
+}

@@ -1,0 +1,79 @@
+{
+    "Papyrus Special Quick Tweak For Collection": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "1",
+            "file_id": 664948,
+            "file_name": "Papyrus Special Quick Tweak For Collection-158971-1-1757670971.zip",
+            "mod_id": 158971,
+            "hash": "sha256-29FT0LWqem4W6EOlv6gpEfOF1y0TjN5tSsW9lKXuLsI="
+        },
+        "type": "primary"
+    },
+    "Immersive and Pure Resources revision 8 and later": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "8",
+            "file_id": 668857,
+            "file_name": "Immersive and Pure Resources revision 8 and later-158971-8-1758674449.zip",
+            "mod_id": 158971,
+            "hash": "sha256-VFwIOobTiSHp67kIeTA1M/X1XWuEitN6dmW5pWte1aQ="
+        },
+        "type": "primary"
+    },
+    "Immersive and Adult Bodyslide Outputs r97 and late": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "97",
+            "file_id": 670533,
+            "file_name": "Immersive and Adult Bodyslide Outputs r97 and late-158971-97-1759167909.7z",
+            "mod_id": 158971,
+            "hash": "sha256-j73/3xveGKIokB6GVg095zp8ys0phxuEtO0VC8YC70c="
+        },
+        "type": "primary"
+    },
+    "Immersive and Pure Pandora Output": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "1",
+            "file_id": 672075,
+            "file_name": "Immersive and Pure Pandora Output-158971-1-1759555669.7z",
+            "mod_id": 158971,
+            "hash": "sha256-a+IG/IV7yDWTjyLk15p8t6eZWU2Qx290AS0ZYkDD7QA="
+        },
+        "type": "primary"
+    },
+    "Immersive and Pure Resources": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "11",
+            "file_id": 672092,
+            "file_name": "Immersive and Pure Resources-158971-11-1759559290.7z",
+            "mod_id": 158971,
+            "hash": "sha256-iGMiBbr8P2lIgviRNAoZTwLyrQjMo4cZzukKj5d45Ao="
+        },
+        "type": "primary"
+    },
+    "Immersive and Adult Resources": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "99",
+            "file_id": 675020,
+            "file_name": "Immersive and Adult Resources-158971-99-1760250057.7z",
+            "mod_id": 158971,
+            "hash": "sha256-ONuRoFlMH5YmwOw74NNRJS3yG/oK4tstaWx0K/SKE6c="
+        },
+        "type": "primary"
+    },
+    "Immersive and Adult Pandora Output": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "99",
+            "file_id": 675072,
+            "file_name": "Immersive and Adult Pandora Output-158971-99-1760256557.7z",
+            "mod_id": 158971,
+            "hash": "sha256-VGqF2TpJlugFEdfyF1UfVh9iNRVGuoie5VQKC7ReUVg="
+        },
+        "type": "primary"
+    }
+}

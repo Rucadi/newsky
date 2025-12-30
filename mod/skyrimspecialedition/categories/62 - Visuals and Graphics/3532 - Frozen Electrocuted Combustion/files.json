@@ -1,0 +1,33 @@
+{
+  "Ordinator Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "4.1",
+      "file_id": 171087,
+      "file_name": "Ordinator Patch-3532-4-1-1606000077.7z",
+      "mod_id": 3532,
+      "hash": "sha256-6TThFrGIOWgygxFASaWoHP9uFIPoJQtzEupDuPZBzpI="
+    }
+  },
+  "4.9.6 Compatibility Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "4.9.6",
+      "file_id": 282692,
+      "file_name": "4..9.6 Compatibility Patch-3532-4-9-6-1652196003.7z",
+      "mod_id": 3532,
+      "hash": "sha256-FlfqM2TLEjnnuCkf6YZZ3FhVWmq+GoHXerkgtK3n9Kc="
+    }
+  },
+  "Frozen Electrocuted Combustion": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "6.1.0",
+      "file_id": 703193,
+      "file_name": "Frozen Electrocuted Combustion-3532-6-1-0-1767008099.7z",
+      "mod_id": 3532,
+      "hash": "sha256-VZQ7gWSOleG5451cV1Blm26JK9Y32WrT7xUb8MOi2D0="
+    },
+    "type": "primary"
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "Dawnfire Required Files - Panda's NAT3 Tweaks -": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "2.4",
+      "file_id": 525182,
+      "file_name": "Dawnfire Required Files - Panda's NAT3 Tweaks --111660-2-4-1722003061.7z",
+      "mod_id": 111660,
+      "hash": "sha256-Se8CwqpxwdSrYsbFR/WyyWDLLcKvpg7Zk+dUtGsumm8="
+    },
+    "type": "primary"
+  },
+  "Dawnfire ENB for NATIII": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "2.4.1",
+      "file_id": 525522,
+      "file_name": "Dawnfire ENB for NATIII-111660-2-4-1-1722076640.7z",
+      "mod_id": 111660,
+      "hash": "sha256-mx9PTNbjiyPZwpVfkR/SqKbg5SB118bgNS2KCojJdNY="
+    },
+    "type": "primary"
+  }
+}

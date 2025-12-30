@@ -1,0 +1,35 @@
+{
+  "Solitude Bordello - Redbag's Solitude Trees Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 523521,
+      "file_name": "Solitude Bordello - Redbag's Solitude Trees Patch-124864-1-0-1721588572.zip",
+      "mod_id": 124864,
+      "hash": "sha256-jMiXMEwDRlZkEWItXUZi9Auyg+QrJm6MC6XoRxYcs8A="
+    },
+    "type": "primary"
+  },
+  "Solitude Bordello - SLaWF Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 523522,
+      "file_name": "Solitude Bordello - SLaWF Patch-124864-1-0-1721588695.zip",
+      "mod_id": 124864,
+      "hash": "sha256-CyDY7m0KGN6IY0uDbxxG+hEC/f8Wkj62h9qz1XtyLCs="
+    },
+    "type": "primary"
+  },
+  "Solitude Bordelllo - Bug Fixes": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 523523,
+      "file_name": "Solitude Bordelllo - Bug Fixes-124864-1-0-1721588823.zip",
+      "mod_id": 124864,
+      "hash": "sha256-OdKoHDzIxUnTqy6VyCfKpVc9+NcN3HxxhkcUqEGHISM="
+    },
+    "type": "primary"
+  }
+}

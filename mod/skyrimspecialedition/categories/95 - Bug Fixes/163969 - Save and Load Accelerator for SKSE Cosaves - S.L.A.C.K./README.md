@@ -1,0 +1,233 @@
+# Save and Load Accelerator for SKSE Cosaves - S.L.A.C.K.
+- Author: just-harry
+- Game: skyrimspecialedition
+- Mod Page: https://www.nexusmods.com/skyrimspecialedition/mods/163969
+
+
+**Save & Load Accelerator for SKSE Cosaves (S.L.A.C.K.)**
+  
+  
+This plugin aims to make heavily-modded games save and load more quickly.
+  
+  
+The SKSE cosave is a sidecar file that is saved beside the game's actual save file.
+  
+This plugin accelerates the saving/loading of only the SKSE cosave: it does nothing for the actual save file.
+  
+Hence the acceleration of loading is less dramatic than the acceleration of saving.
+  
+  
+**Preamble**
+  
+SKSE is a fantastic bit of kit: almost every non-trivial Skyrim mod owes its very existence to it.
+  
+In fact, the same is true for almost every game of Bethesda Game Studios from Oblivion onwards.
+  
+The modding community—authors and users alike—truly owe a great debt to all the people behind the Script Extender series, for without them, where would we be?
+  
+  
+The Script Extenders' saving system is an exception to this praise: it frankly isn't very good.
+  
+It can require dozens of seconds to save a single-digit-number of megabytes on veritable supercomputers.
+  
+This is because it effectively hasn't changed at all† since the days of the Oblivion Script Extender; designed in the time of 5,400 RPM hard-drives, cheap(ish) syscalls, and if I may be so bold: perhaps more naïve programmers ;).
+  
+  
+† I'm not exaggerating here, most of the core code of the saving system specifically is identical to what it was in 2008.
+  
+  
+Before I continue, I'd like to emphasise that I hold nothing but respect for the developers of the Script Extender series.
+  
+The existence of this plugin, and the words I write, are not intended as an attack or a derisory action onto them.
+  
+Likewise, do not go and harangue the Script Extender developers about slow cosave saving: they are already aware.
+  
+  
+The tone I intend this document to be read with is that which a schoolteacher might use to cheerfully admonish a schoolboy with.
+  
+For, whilst the SKSE developers are *obviously* very highly capable developers, they've done their skills a disservice in this instance by designing and implementing an API, for a performance-critical process, wherein the most natural, pleasant, and easy method of usage is also the slowest possible method of usage, and then by leaving that as the state of affairs for seventeen years.
+  
+  
+What this plugin does is rewrite SKSE's saving/loading code to be as fast it should be.
+  
+  
+**Uninstallation**
+  
+This plugin is safe to uninstall at any time.
+  
+Saves made with this plugin installed can be loaded without this plugin installed, that is to say, it is safe to try to this plugin out and then uninstall it later.
+  
+  
+**Requirements**
+  
+
+  
+* A DLL preloader: either the ["SSE Engine Fixes - SKSE64 Preloader"](https://www.nexusmods.com/skyrimspecialedition/mods/17230), or the ["DLL Plugin Loader"](https://www.nexusmods.com/skyrimspecialedition/mods/10546) will do.
+[SKSE](https://skse.silverlock.org/) (duh).
+  
+
+  
+**Installation**
+  
+After ensuring that a DLL preloader is installed, this plugin can be installed like any other via your mod-manager of choice.
+  
+  
+The plugin will be installed correctly by default by all good mod-managers.
+  
+When installed correctly, the path of the DLL relative to the game's folder will be "Data\DLLPlugins\Save&LoadAcceleratorForSKSECosaves.dll".
+  
+  
+Also, please note that only the versions for Skyrim AE v1.6.1170 and Skyrim SE v1.5.97 have been tested by me, all other version are untested (but should work).
+  
+  
+**Usage**
+  
+This plugin is active by default when it is installed.
+  
+  
+By default, the time taken to save or load a game will be logged to the in-game console.
+  
+  
+The "Save&LoadAcceleratorForSKSECosaves.ini" file next to the "Save&LoadAcceleratorForSKSECosaves.dll" file can be edited to configure this plugin.
+  
+  
+If you would like to eke out even more speed for saving the game, the experimental parallel-saving feature can be enabled via the "Save&LoadAcceleratorForSKSECosaves.ini" file.
+  
+  
+**Compatibility**
+  
+This plugin should be compatible with just about everything, with the exception of other plugins that patch or hook SKSE's code, potentially.
+  
+In practice, patching and hooking SKSE itself is very rare.
+  
+  
+To answer a frequent question: this plugin is compatible with [Skyrim Save System Overhaul (SSSO)](https://www.nexusmods.com/skyrimspecialedition/mods/122343).
+  
+  
+**What this plugin does**
+  
+This plugin makes heavily-modded games save and load more quickly.
+  
+It does so by hooking and patching the SKSE DLL, at runtime, with highly-optimised reimplementations of SKSE's cosave saving/loading API's functions.
+  
+  
+This is particularly effective for save games wherein heavy usage of RaceMenu has been made, such as through using the likes of OBody, Mu Skeleton Editor, or XP32 Maximum Skeleton's weapon styles for NPCs.
+  
+  
+On my machine†, my SKSE cosave, standing at 4.25 MB in size (at the time of writing), takes **8.7 seconds** to save. **8.7 seconds** for 4.25 MB. That's 0.49 megabytes a second.
+  
+  
+† My machine sports a Ryzen 7950X3D and a PCIe 4.0 NVMe SSD capable of writing at 7 GB/s: that is to say, it should not require 8.7 seconds to save 4.25 MB.
+  
+  
+When I activate this plugin, that same SKSE cosave takes only 0.06 seconds to save. That's sixty milliseconds: 70.82 megabytes a second. 145 times faster.
+  
+  
+Going a step further, and activating the experimental parallel-saving feature, with sixteen threads, the very same SKSE cosave takes only 0.04 seconds to save: forty milliseconds, 106.25 megabytes a second, 217 times faster.
+  
+  
+For loading a cosave, the improvement is a bit less impressive.
+  
+Without this plugin, my SKSE cosave takes 1.5 seconds to load. With the plugin, it takes 0.1 seconds. So only a modest 15 times faster.
+  
+  
+**What this plugin does (TL;DR)**
+  
+This plugin makes SKSE cosaves save up-to 150 times faster, and load up-to 15 times faster.
+  
+  
+**Is this safe to use?**
+  
+If you are hesitant to use this plugin, then you are of good sense, for anything that toys about with the saving/loading logic has the potential to create corrupt save games and to corrupt the game-state upon loading.
+  
+  
+That said, I have taken great care to ensure that this plugin's saving and loading routines have the exact same effect as SKSE's original routines.
+  
+  
+In my testing, the saves generated with this plugin active are bit-for-bit identical to saves generated by SKSE's original code.
+  
+With the one exception being that, when parallel-saving is used, the data for each plugin will be saved to the file in a slightly different and unpredictable order: this should be harmless as SKSE does not have a well-defined order for loaded plugins anyway.
+  
+  
+Likewise, for loading, in my testing with this plugin active an identical sequence of API calls are made as are made with SKSE's original code.
+  
+  
+**Technical discussion**
+  
+Spoiler
+  
+The obvious question by now is: "what is SKSE doing that's so slow?".
+  
+What SKSE is doing is providing an API that suggests that SKSE itself is taking care of file-buffering—and then not doing *any* file-buffering whatsoever, instead it issues an absurd number of system calls.
+  
+  
+This is the API SKSE provides for cosave saving:
+  
+
+```
+bool WriteRecord (uint32_t type, uint32_t version, const void *buffer, uint32_t length);
+  
+bool OpenRecord (uint32_t type, uint32_t version);
+  
+bool WriteRecordData (const void *buffer, uint32_t length);
+```
+
+  
+*OpenRecord* is used to begin a self-contained chunk of data.
+  
+*WriteRecordData* is used to append data to the last record began by *OpenRecord*.
+  
+*WriteRecord* is merely a convenience wrapper for calling *OpenRecord* and then *WriteRecordData*.
+  
+  
+Every call to *WriteRecordData* transitively calls the Win32 function *WriteFile*, making for one syscall.
+  
+  
+Every call of *OpenRecord* transitively calls *SetFilePointerEx* twice or thrice, making for two-or-three syscalls, it then also transitively calls *WriteFile* in the same way as *WriteRecordData* does.
+  
+  
+So what this plugin does to remedy this pretty state of things is it reimplements these three functions to not perform any syscalls nor any disk IO, and to instead just simply blit the received data into a pre-preserved region of memory, which is then written to a file all at once after all plugins have saved their data.
+  
+(Some trickery with virtual-memory and an vectored-exception-handler is used to commit the region of memory gradually, without incurring the overhead of any bounds-checks.)
+  
+  
+For loading, the situation is better: typically each call to *GetNextRecordInfo* and *ReadRecordData* results in only one transitive call of *ReadFile*.
+  
+The optimisation this plugin makes is similarly obvious: the file is read into memory all at once, and the API functions simply blit the data into the buffer supplied by the caller.
+  
+  
+  
+**Source-Code**
+  
+The source-code for this plugin is available at <https://github.com/just-harry/save-load-accelerator-for-skse-cosaves>.
+  
+  
+**Honourable Mentions**
+  
+On 2024-10-04 (over a year ago), GitHub user "intorr" submitted a [pull-request to the SKSE project](https://github.com/ianpatt/skse64/pull/44) which speeds up the saving and loading of SKSE cosaves, via a delightfully simple implementation of a buffered file-stream.
+  
+In intorr's testing, it reduced the cosave-saving time from 2 seconds to 0.05 seconds.
+  
+  
+The pull-request remains unmerged.
+  
+Hence the existence of this plugin.
+  
+(To clarify, my plugin is not based on intorr's PR in any way.)
+  
+  
+**Preemptively Answered Questions (PAQ)**
+  
+Q: Why isn't the letter S in the plugin's acronym? Where the did the K come from?
+  
+A: Shut up.
+  
+  
+Q: Why did you answer the previous question so rudely?
+  
+A: Look, you try coming up with a catchy name that forms a funny acronym.
+  
+  
+Q: Why the dots in the acronym?
+  
+A: Without them I'd be infringing upon the wordmark of a chatroom-providing company.

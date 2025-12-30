@@ -1,0 +1,23 @@
+{
+  "Skyrim Fantasy Overhaul - Base Object Swapper": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.2",
+      "file_id": 679918,
+      "file_name": "Skyrim Fantasy Overhaul - Base Object Swapper-141384-1-2-1761320978.zip",
+      "mod_id": 141384,
+      "hash": "sha256-W+leSew94wC2sBs2BHn/W/rHLKEFFpRglFnFJOZyNwg="
+    },
+    "type": "primary"
+  },
+  "SFO BOS - Parallax Meshes": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1",
+      "file_id": 679919,
+      "file_name": "SFO BOS - Parallax Meshes-141384-1-1-1761321038.zip",
+      "mod_id": 141384,
+      "hash": "sha256-YurHaqkdpvPudabzHAswaH2kTy7i1j8p5l6PQsQ+hsY="
+    }
+  }
+}

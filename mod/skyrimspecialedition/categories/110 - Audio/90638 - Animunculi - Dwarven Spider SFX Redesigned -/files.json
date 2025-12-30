@@ -1,0 +1,24 @@
+{
+  "Animunculi - Dwarven Spider SFX Redesigned -": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 384582,
+      "file_name": "Animunculi - Dwarven Spider SFX Redesigned --90638-1-0-1683201736.7z",
+      "mod_id": 90638,
+      "hash": "sha256-FrnsdxoCZQ8xy5IfGKBQF37ITscAFOysgeHMALPtj3c="
+    },
+    "type": "primary"
+  },
+  "Animunculi - Dwarven Spider SFX Redesigned -LV": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.01",
+      "file_id": 653647,
+      "file_name": "Animunculi - Dwarven Spider SFX Redesigned -LV-90638-1-01-1754597515.7z",
+      "mod_id": 90638,
+      "hash": "sha256-vJU86giCOcA898PSPe03TPi3NA3nN52ZfTRsf9OPamU="
+    },
+    "type": "primary"
+  }
+}

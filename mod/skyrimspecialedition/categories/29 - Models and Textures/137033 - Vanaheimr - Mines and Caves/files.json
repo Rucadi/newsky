@@ -1,0 +1,44 @@
+{
+  "Vanaheimr - Mines and Caves - 2k": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "4.0",
+      "file_id": 616952,
+      "file_name": "Vanaheimr - Mines and Caves - 2k-137033-4-0-1744571035.7z",
+      "mod_id": 137033,
+      "hash": "sha256-wp+HZgOj5x5bf9n31VgJi3ZwXy72tXdxJLcWnjMIx6s="
+    },
+    "type": "primary"
+  },
+  "Vanaheimr - Mines and Caves - 4k": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "4.0",
+      "file_id": 616953,
+      "file_name": "Vanaheimr - Mines and Caves - 4k-137033-4-0-1744571147.7z",
+      "mod_id": 137033,
+      "hash": "sha256-JYp5neGOlzhXk9i44jl6GyyjwXaegl2FW1L6bUrAjA8="
+    },
+    "type": "primary"
+  },
+  "Vanaheimr - Mines and Caves - CPM - Lux Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "4.0",
+      "file_id": 616954,
+      "file_name": "Vanaheimr - Mines and Caves - CPM - Lux Patch-137033-4-0-1744571173.7z",
+      "mod_id": 137033,
+      "hash": "sha256-4XvmLGupzHwDfLFDjuN093bYMxEphNly2eOJp+eCRNE="
+    }
+  },
+  "vanaheimr - Mine and Caves - ESP": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "4.0",
+      "file_id": 616962,
+      "file_name": "vanaheimr - Mine and Caves - ESP-137033-4-0-1744572084.7z",
+      "mod_id": 137033,
+      "hash": "sha256-PTvx2Gmel+jXrDk8JNUhxFmVKCwmq9BpSJgZ0Isj7vo="
+    }
+  }
+}

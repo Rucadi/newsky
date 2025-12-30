@@ -1,0 +1,24 @@
+{
+  "PELTAPALOOZA  Special Edition - FULL": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 11948,
+      "file_name": "PELTAPALOOZA  Special Edition - FULL-5442-1-0.7z",
+      "mod_id": 5442,
+      "hash": "sha256-DNHCTknpof22onnVePLZW4FLbKvEEFlKxgJZ7POI0w8="
+    },
+    "type": "primary"
+  },
+  "PELTAPALOOZA - Special Edition - LITE": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 11950,
+      "file_name": "PELTAPALOOZA - Special Edition - LITE-5442-1-0.7z",
+      "mod_id": 5442,
+      "hash": "sha256-Ev/XkY4o8q2TDC7vWHuSnjopHQL3ClnlU6jJW/OQyss="
+    },
+    "type": "primary"
+  }
+}

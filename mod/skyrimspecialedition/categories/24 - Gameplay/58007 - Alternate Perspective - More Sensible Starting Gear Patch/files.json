@@ -1,0 +1,23 @@
+{
+  "AP - Sensible Gear CHS": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 239361,
+      "file_name": "AP - Sensible Gear-58007-1-0-1636196766.rar",
+      "mod_id": 58007,
+      "hash": "sha256-sEkDf9Stk5VwYV13DXros+XDsWxd1JyK4DGXG2KbTXk="
+    }
+  },
+  "AP - Sensible Gear EN": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 247708,
+      "file_name": "AP - Sensible Gear EN-58007-1-0-1639047924.rar",
+      "mod_id": 58007,
+      "hash": "sha256-XazRW8DX+3F25ql0Weyo1HIPeMOy8G+nJSuE5SF6BPI="
+    },
+    "type": "primary"
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "FYX - Candlehearth Hall Chimney - Icy Windhelm": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1",
+      "file_id": 491862,
+      "file_name": "FYX - Candlehearth Hall Chimney - Icy Windhelm-65533-1-1-1713373280.7z",
+      "mod_id": 65533,
+      "hash": "sha256-ukHioVI72Lz5ko05Qtd2TDBIHIU5rX75cJTY2aNMxik="
+    },
+    "type": "primary"
+  },
+  "FYX - Candlehearth Hall Chimney": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1",
+      "file_id": 491863,
+      "file_name": "FYX - Candlehearth Hall Chimney - Major Cities Mes-65533-1-1-1713373313.7z",
+      "mod_id": 65533,
+      "hash": "sha256-DxtCQvYhC9NCzbScj46BqISHuKowD2zeA3JbmZn6Yzw="
+    },
+    "type": "primary"
+  },
+  "FYX - Candlehearth Hall ChimneyParallax": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1",
+      "file_id": 491865,
+      "file_name": "FYX - Candlehearth Hall Chimney - MCMO - Parallax-65533-1-1-1713373426.7z",
+      "mod_id": 65533,
+      "hash": "sha256-x2EhyXd35zzBPYknUdH64Fl53xw8J9AEQlvTnnb8JWo="
+    },
+    "type": "primary"
+  },
+  "FYX - Candlehearth Hall Chimney - IcyWH - Parallax": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1",
+      "file_id": 491866,
+      "file_name": "FYX - Candlehearth Hall Chimney - IcyWH - Parallax-65533-1-1-1713373520.7z",
+      "mod_id": 65533,
+      "hash": "sha256-mws4Cttbof/R/R3NiEsB3vulThdAK0agrEvp9InVtpE="
+    },
+    "type": "primary"
+  }
+}

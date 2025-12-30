@@ -1,0 +1,33 @@
+{
+    "HSMarkarth - Endon's House - ELFX": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "1.0.0",
+            "file_id": 506669,
+            "file_name": "HSMarkarth - Endon's House - ELFX-120715-1-0-0-1717093201.7z",
+            "mod_id": 120715,
+            "hash": "sha256-1Cvdry8XlKWERY/O9B0qw5tvtsycHZ9vx0MUw3wc0iI="
+        }
+    },
+    "HSMarkarth - Endon's House - LUX": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "1.0.0",
+            "file_id": 506670,
+            "file_name": "HSMarkarth - Endon's House - LUX-120715-1-0-0-1717093236.7z",
+            "mod_id": 120715,
+            "hash": "sha256-lyI8uvblo2v4nb2oc7Sssxv0W0ImYmvC3bfxjdsZeTo="
+        }
+    },
+    "HSMarkarth - Endon's House": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "1.0.1",
+            "file_id": 665513,
+            "file_name": "HSMarkarth - Endon's House-120715-1-0-1-1757817426.7z",
+            "mod_id": 120715,
+            "hash": "sha256-i9PHkb3BVeGc+horJJBy5zsvdfKCOuURDlvKfiutY+c="
+        },
+        "type": "primary"
+    }
+}

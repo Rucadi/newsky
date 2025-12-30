@@ -1,0 +1,24 @@
+{
+  "Optimised Scripts for XPMSSE (for Papyrus Stack Fix 4.8.3)": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.2.0",
+      "file_id": 357460,
+      "file_name": "Optimised Scripts for XPMSSE (for Papyrus Stack Fix 4.8.3)-82774-1-2-0-1675784522.zip",
+      "mod_id": 82774,
+      "hash": "sha256-hSGhJvaMiN/VhFJ7aifzP2U4J20iwFQwDM79FRBUl7Q="
+    },
+    "type": "primary"
+  },
+  "Optimised Scripts for XPMSSE (for Papyrus Stack Fix 4.8.4)": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.2.0",
+      "file_id": 357461,
+      "file_name": "Optimised Scripts for XPMSSE (for Papyrus Stack Fix 4.8.4)-82774-1-2-0-1675784553.zip",
+      "mod_id": 82774,
+      "hash": "sha256-Ape/jjb2xMHI5aepELceM9jOoDz3VGWTBKAVwjBJLds="
+    },
+    "type": "primary"
+  }
+}

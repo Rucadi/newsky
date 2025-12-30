@@ -1,0 +1,24 @@
+{
+  "Critical Damage Fixes - FULL Version": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1",
+      "file_id": 584052,
+      "file_name": "EVE - Critical Damage Fixes-138690-1-1-1737039298.rar",
+      "mod_id": 138690,
+      "hash": "sha256-Q6Msubi28clpeQunIV52EIndMBLnEkO6RYXAWR3PhwQ="
+    },
+    "type": "primary"
+  },
+  "Critical Damage Fixes for Perk Overhauls": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1",
+      "file_id": 584054,
+      "file_name": "Critical Damage Fixes for Perk Overhauls-138690-1-1-1737039507.rar",
+      "mod_id": 138690,
+      "hash": "sha256-ljjJYXlYT9NHYNulpxxcUP1O7azp8K42RrvpIibYAbI="
+    },
+    "type": "primary"
+  }
+}

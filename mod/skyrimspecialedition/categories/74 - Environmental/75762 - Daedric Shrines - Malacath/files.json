@@ -1,0 +1,24 @@
+{
+  "Shrine of Malacath 4k": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 317739,
+      "file_name": "Shrine of Malacath 4k-75762-1-0-1663618781.zip",
+      "mod_id": 75762,
+      "hash": "sha256-R2PQKy6FUnwaOlw9FYknM1bYaf57OAK6Juhj5/XQ518="
+    },
+    "type": "primary"
+  },
+  "Shrine of Malacath 2k": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 317740,
+      "file_name": "Shrine of Malacath 2k-75762-1-0-1663618812.zip",
+      "mod_id": 75762,
+      "hash": "sha256-0uuK4PIlbRcrbYIT6P0GndDhtJrXkcDMWC2Q2OpVUUs="
+    },
+    "type": "primary"
+  }
+}

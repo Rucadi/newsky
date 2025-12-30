@@ -1,0 +1,65 @@
+{
+  "FB - Master Thief 2k Textures": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 595380,
+      "file_name": "FB - Master Thief 2k Textures-141700-1-0-1739704532.zip",
+      "mod_id": 141700,
+      "hash": "sha256-vaBq8v0h1vITwBfQtzte3zZRiOVCBOYtpoE6gkizs8U="
+    }
+  },
+  "FB - Master Thief 3BA-CBBE 4k": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.2",
+      "file_id": 596353,
+      "file_name": "FB - Master Thief 3BA-CBBE 4k-141700-1-2-1739909661.zip",
+      "mod_id": 141700,
+      "hash": "sha256-PqSUfFe6oG2jY1NQTXPb0IaURqOZ/+j1jnjws6N/9n8="
+    },
+    "type": "primary"
+  },
+  "FB - Master Thief BHUNP-UNP 4k": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.2",
+      "file_id": 596354,
+      "file_name": "FB - Master Thief BHUNP-UNP 4k-141700-1-2-1739909739.zip",
+      "mod_id": 141700,
+      "hash": "sha256-X4jxAZ9ciWIx/Jjp73cPb2UEIKGJWyfBGnlZHDMS12I="
+    },
+    "type": "primary"
+  },
+  "FB - Master Thief Vanilla 4k": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.2",
+      "file_id": 596356,
+      "file_name": "FB - Master Thief Vanilla 4k-141700-1-2-1739909806.zip",
+      "mod_id": 141700,
+      "hash": "sha256-i3ZQqjP/hqBGxju29xccjJZnoEjOTLk3AFZDvUl4IoA="
+    },
+    "type": "primary"
+  },
+  "FB - Master Thief HIMBO Files": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.2",
+      "file_id": 596357,
+      "file_name": "FB - Master Thief HIMBO Files-141700-1-2-1739909834.zip",
+      "mod_id": 141700,
+      "hash": "sha256-yC0+wVSfSbAarRg5eUDD+3K7yb2z5p/hgxL5ZBAOEmo="
+    }
+  },
+  "FB - Thieves Guild Armor Replacer": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.2",
+      "file_id": 596358,
+      "file_name": "FB - Thieves Guild Armor Replacer-141700-1-2-1739909850.zip",
+      "mod_id": 141700,
+      "hash": "sha256-tZDjVQXtrkmEkfbtjvUx4SfIP1F1rpkNgNXKucv96FE="
+    }
+  }
+}

@@ -1,0 +1,67 @@
+{
+  "Requiem - Better Forgotten Vale": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 274747,
+      "file_name": "Requiem - Better Forgotten Vale-42633-1-0-1649081313.zip",
+      "mod_id": 42633,
+      "hash": "sha256-9D2whjGwdKr16dMufcAJRsuEEirRrYHaGsaif1EAAxc="
+    },
+    "type": "primary"
+  },
+  "Requiem - AlduinRedone": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "2.4",
+      "file_id": 559719,
+      "file_name": "Requiem - AlduinRedone-42633-2-4-1730978494.zip",
+      "mod_id": 42633,
+      "hash": "sha256-3WDNvvF/Xr+TK24c8zxRAQgE9nCOU1W2K5swpFBoqRY="
+    },
+    "type": "primary"
+  },
+  "Requiem - MR Small Tweaks Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "2.0",
+      "file_id": 604478,
+      "file_name": "Requiem - MR Small Tweaks Patch-42633-2-0-1741705793.zip",
+      "mod_id": 42633,
+      "hash": "sha256-CGXxM+oXduQ4kslLiyNlqkFUFho3BqseERUsXHgT0qo="
+    }
+  },
+  "Requiem_VampireCollection": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "3.1",
+      "file_id": 623483,
+      "file_name": "Requiem_VampireCollection-42633-3-1-1746343298.zip",
+      "mod_id": 42633,
+      "hash": "sha256-o3bjoNBZRrdOhW3Ol7VUnMjvoyLIrsKlCUw54JLx6Q8="
+    },
+    "type": "primary"
+  },
+  "Requiem - general_NPC_tweaks": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "5.2",
+      "file_id": 701242,
+      "file_name": "Requiem - general_NPC_tweaks-42633-5-2-1766490201.zip",
+      "mod_id": 42633,
+      "hash": "sha256-2m4GlVnWVRsgcxsgYFVx1fq92c6qqq3aeOJoVWvGZ1k="
+    },
+    "type": "primary"
+  },
+  "Requiem - Knockdown_tweak": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "2.0",
+      "file_id": 701243,
+      "file_name": "Requiem - Knockdown_tweak-42633-2-0-1766490307.zip",
+      "mod_id": 42633,
+      "hash": "sha256-VI0F4wfshuUgZSBFgtkZnpy/2qeGdxU4qjVw8boGG1Q="
+    },
+    "type": "primary"
+  }
+}

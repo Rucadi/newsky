@@ -1,0 +1,24 @@
+{
+  "MCO elden rim dual wield": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "0.9",
+      "file_id": 466908,
+      "file_name": "elden rim dual wield-110667-0-9-1706846684.7z",
+      "mod_id": 110667,
+      "hash": "sha256-PI6F3xHOeDRSWGIl0xV0p0Am20WMGCXWsv4QCowOA2o="
+    },
+    "type": "primary"
+  },
+  "BFCO Elden Rim Dual Wield": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "0.9-BFCO",
+      "file_id": 567573,
+      "file_name": "BFCO Elden Rim Dual Wield-110667-0-9-BFCO-1732969317.rar",
+      "mod_id": 110667,
+      "hash": "sha256-E99UCqSj+iSFeuC7hW307vZwfOlZaV+4SzbKGLucQ7E="
+    },
+    "type": "primary"
+  }
+}

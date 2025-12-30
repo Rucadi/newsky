@@ -1,0 +1,43 @@
+{
+  "Requiem - Song of the Green Auri patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1",
+      "file_id": 266004,
+      "file_name": "Requiem - Song of the Green Auri patch-64048-1-1645484602.7z",
+      "mod_id": 64048,
+      "hash": "sha256-OgiqcDIpTy3qx/6JxnVHtHAR88o68XHNQJA71eyzzuw="
+    },
+    "type": "primary"
+  },
+  "Requiem - Auri Deluxe Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1",
+      "file_id": 266005,
+      "file_name": "Requiem - Auri Deluxe Patch-64048-1-1645484648.7z",
+      "mod_id": 64048,
+      "hash": "sha256-ouiQvrq2Ba7JHS/IYF/6QVJiT9otDNrwZ1GxVNFM7M4="
+    }
+  },
+  "Requiem IDB - Auri Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1",
+      "file_id": 266006,
+      "file_name": "Requiem IDB - Auri Patch-64048-1-1645484695.7z",
+      "mod_id": 64048,
+      "hash": "sha256-iQcbpSrbkLFrWrLluyz1Jm2yn2yzV1yYC7tIwTPz6uA="
+    }
+  },
+  "Requiem - Song of the Green - Auri Replacer - Ella's version": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1",
+      "file_id": 365137,
+      "file_name": "Requiem - Song of the Green - Auri Replacer - Ella's version-64048-1-1677864155.7z",
+      "mod_id": 64048,
+      "hash": "sha256-769a5w8yDuD4y0/yayMBCaQ5I650fjZR77OyKENLpAU="
+    }
+  }
+}

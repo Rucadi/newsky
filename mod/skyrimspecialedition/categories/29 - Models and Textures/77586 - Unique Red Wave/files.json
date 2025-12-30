@@ -1,0 +1,33 @@
+{
+  "Unique Red Wave - No Base Object Swapper": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0.0",
+      "file_id": 326267,
+      "file_name": "Non Base Object Swapper Version-77586-1-0-0-1666611913.7z",
+      "mod_id": 77586,
+      "hash": "sha256-zfsAlqw1h+6rMPEo41bXwRTsqrU6Qgn5IwI3gVgicoY="
+    }
+  },
+  "Unique Red Wave": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1.0",
+      "file_id": 388279,
+      "file_name": "Unique Red Wave-77586-1-1-0-1684134928.7z",
+      "mod_id": 77586,
+      "hash": "sha256-CMN2gK+4WzPSlT/KFJIIkBGGXVj7NOF0PaN0oZQXahY="
+    },
+    "type": "primary"
+  },
+  "Unique Red Wave - No BOS - Wyrmstooth Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1.0",
+      "file_id": 388280,
+      "file_name": "Unique Red Wave - No BOS - Wyrmstooth Patch-77586-1-1-0-1684135083.7z",
+      "mod_id": 77586,
+      "hash": "sha256-ufxeSmz6xlYBSebSc+OGFYChC1ntbFyYpi6/LJsIo+I="
+    }
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "Unread Books Glow SSE 2.2.1": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "2.2.1",
+      "file_id": 2144,
+      "file_name": "Unread Books Glow SSE 2.2.1-1296-2-2-1.zip",
+      "mod_id": 1296,
+      "hash": "sha256-vI7hP2V0HhE4lSDmcpqmi+emwwPc4aCcruRIhpsAyhM="
+    },
+    "type": "primary"
+  },
+  "Unread Books Glow SSE 2.2.1 (Loose)": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "2.2.1",
+      "file_id": 2145,
+      "file_name": "Unread Books Glow SSE 2.2.1 (Loose)-1296-2-2-1.zip",
+      "mod_id": 1296,
+      "hash": "sha256-bPWkfWa2lJbYk/dLKIN60OzXw7++I8weB/QrMdhcb7Q="
+    },
+    "type": "primary"
+  }
+}

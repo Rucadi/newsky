@@ -1,0 +1,23 @@
+{
+  "Blackthorn - A Buildable Town in The Rift (SE)": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1",
+      "file_id": 4341,
+      "file_name": "Blackthorn - A Buildable Town in The Rift (SE)-2242-1-1.rar",
+      "mod_id": 2242,
+      "hash": "sha256-J8L+T+5qjl1AVKbcAz5FXAdYIB938oCSWsC1ajafENU="
+    },
+    "type": "primary"
+  },
+  "Blackthorn V1.1 in German": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1",
+      "file_id": 14384,
+      "file_name": "Blackthorn V1.1 in German-2242-1-1.7z",
+      "mod_id": 2242,
+      "hash": "sha256-iI5+hlikzmu3AjzLUWokur3w0Kyp3FmwO24jCsy9NNU="
+    }
+  }
+}

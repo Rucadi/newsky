@@ -1,0 +1,33 @@
+{
+    "Dragon Priests Retexture SE": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "1.1",
+            "file_id": 506852,
+            "file_name": "Dragon Priests Retexture SE-101101-1-1-1717159606.7z",
+            "mod_id": 101101,
+            "hash": "sha256-TZ85CpkLAsJnozdj3PeQ6JcA6m+fZWkRztRHt5cWsDE="
+        },
+        "type": "primary"
+    },
+    "Dragon Priests Retexture SE - Half Res": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "1.1",
+            "file_id": 506856,
+            "file_name": "Dragon Priests Retexture SE - Half Res-101101-1-1-1717159764.7z",
+            "mod_id": 101101,
+            "hash": "sha256-MsObH4cPQtZcWcy7MnyqgN75/LWvbXo7fL8gZnYz8IY="
+        }
+    },
+    "Dragon Priests Retexture SE - Low Res": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "1.1",
+            "file_id": 506857,
+            "file_name": "Dragon Priests Retexture SE - Low Res-101101-1-1-1717159833.7z",
+            "mod_id": 101101,
+            "hash": "sha256-0uskG+SQtXvLkvFk58RQcsqmp11vkSKb/pVu9bR7oIQ="
+        }
+    }
+}

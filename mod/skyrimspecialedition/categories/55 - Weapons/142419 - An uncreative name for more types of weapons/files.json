@@ -1,0 +1,33 @@
+{
+  "Main Mod": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1",
+      "file_id": 608897,
+      "file_name": "Main Mod-142419-1-1-1742752511.zip",
+      "mod_id": 142419,
+      "hash": "sha256-PO0rWYBdWKAv/w0raYkUsZqwwANDtHPW7niYyuf9Rpo="
+    },
+    "type": "primary"
+  },
+  "Open Animation Replacer Folders": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1",
+      "file_id": 608898,
+      "file_name": "Open Animation Replacer Folders-142419-1-1-1742752554.zip",
+      "mod_id": 142419,
+      "hash": "sha256-xj+fYgpKEzUTGNWIZVqqFlGeJ2rdXqsEvnmVt/FhpJQ="
+    }
+  },
+  "Open Animation Replacer Folders No Dynamic Grip": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1",
+      "file_id": 610149,
+      "file_name": "Open Animation Replacer Folders No Dynamic Grip-142419-1-1-1743020524.zip",
+      "mod_id": 142419,
+      "hash": "sha256-EPlE3XWEtXQoKw5OxSOHCVqi/MA8hpOaOQjHqApvpf0="
+    }
+  }
+}

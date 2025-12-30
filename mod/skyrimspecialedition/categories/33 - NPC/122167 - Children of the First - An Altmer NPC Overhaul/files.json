@@ -1,0 +1,104 @@
+{
+    "CotF - AI Overhaul Patch": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "1.0",
+            "file_id": 643332,
+            "file_name": "CotF - AI Overhaul Patch-122167-1-0-1751400089.7z",
+            "mod_id": 122167,
+            "hash": "sha256-RdVmThfv4ew6s6uj5KbTEBI/uSibIerrDLIJ3jOWLH4="
+        }
+    },
+    "CotF - BUVARP RE - Chronicles of the College Patch": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "1.0",
+            "file_id": 643335,
+            "file_name": "CotF - BUVAPR RE - Chronicles of the College Patch-122167-1-0-1751400325.7z",
+            "mod_id": 122167,
+            "hash": "sha256-i59UKvkMFdYnc6toz2rm4eWo5UsB8cNwATK26xf/bC4="
+        }
+    },
+    "CotF - Lore Gameplay Tweaks Patch": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "1.0",
+            "file_id": 643336,
+            "file_name": "CotF - Lore Gameplay Tweaks Patch-122167-1-0-1751400611.7z",
+            "mod_id": 122167,
+            "hash": "sha256-4bm9x0KmzsewxEaQyNDa+a1/xLyUWB3Yut/4BPHKFjc="
+        }
+    },
+    "CotF - USSEP": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "1.0",
+            "file_id": 643338,
+            "file_name": "CotF - USSEP-122167-1-0-1751400730.7z",
+            "mod_id": 122167,
+            "hash": "sha256-tdyPlxjqh7L2kL1y4FrHaQgt4bNAerFXSRwk34Q7rpA="
+        }
+    },
+    "CotF - 1k Textures": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "1.0",
+            "file_id": 643342,
+            "file_name": "CotF - 1k Textures-122167-1-0-1751401534.7z",
+            "mod_id": 122167,
+            "hash": "sha256-3u+tBmWfPtg581HVZImk9NAmdFI1xPrgkjC1wNvQHo0="
+        }
+    },
+    "CotF - Ultimate College AIO Patch": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "1.02",
+            "file_id": 646524,
+            "file_name": "CotF - Ultimate College AIO Patch-122167-1-02-1752355035.7z",
+            "mod_id": 122167,
+            "hash": "sha256-AZ7K1FNxGxb0cMlYjUTbCs6dBrYb/MG4Mufq8XXKVAU="
+        }
+    },
+    "CotF - A Horse's Life Patch": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "1.01",
+            "file_id": 648330,
+            "file_name": "CotF - A Horse's Life Patch-122167-1-01-1752877527.7z",
+            "mod_id": 122167,
+            "hash": "sha256-dvfkXy63LsPYAI9R++RCx7A4oTvw17bCAd1ZcdMWkyA="
+        }
+    },
+    "CotF - Lesbians in Skyrim Addon": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "1.01",
+            "file_id": 670924,
+            "file_name": "CotF - Lesbians in Skyrim Addon-122167-1-01-1759268579.7z",
+            "mod_id": 122167,
+            "hash": "sha256-HaDokMf/5GArx/eogYAxb1wg7qqzwZ22e8CEWUKAGpc="
+        }
+    },
+    "Children of the First": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "1.06.1",
+            "file_id": 681654,
+            "file_name": "Children of the First-122167-1-06-1-1761758880.7z",
+            "mod_id": 122167,
+            "hash": "sha256-W1Babk1FOi0bWrHT7HN8vOh3AWaN3B4I3hCm4ctKoSc="
+        },
+        "type": "primary"
+    },
+    "SkyPatcher - Children of the First": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "1.06.1",
+            "file_id": 681655,
+            "file_name": "SkyPatcher - Children of the First-122167-1-06-1-1761758909.7z",
+            "mod_id": 122167,
+            "hash": "sha256-X6BDVsqsnm2dUntfBQzdOsdYsXY4q/TwqrHP06SbUd8="
+        },
+        "type": "primary"
+    }
+}

@@ -1,0 +1,34 @@
+{
+  "SK Shinobi - UBE": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1",
+      "file_id": 570940,
+      "file_name": "SK Shinobi - UBE-133684-1-1733814005.rar",
+      "mod_id": 133684,
+      "hash": "sha256-N+uQvkWkbDdMn+2wX1Q0qY8rdePEmxcAA57efJR7icQ="
+    },
+    "type": "primary"
+  },
+  "SK Shinobi - 3BA": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1",
+      "file_id": 570943,
+      "file_name": "SK Shinobi - 3BA-133684-1-1733814566.rar",
+      "mod_id": 133684,
+      "hash": "sha256-LJAe4x2AqEf0QPR/ZXXUgGNBDXyZC7fIAskdFS8WZ2E="
+    },
+    "type": "primary"
+  },
+  "Psuedo's Cut - Complex Material Texture Replacer": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1",
+      "file_id": 570944,
+      "file_name": "Psuedo's Cut - Complex Material Texture Replacer-133684-1-1733815002.rar",
+      "mod_id": 133684,
+      "hash": "sha256-G2LNWYmyItX2RRF95CSYW0xMuywE17gQEJOMPgAUPv0="
+    }
+  }
+}

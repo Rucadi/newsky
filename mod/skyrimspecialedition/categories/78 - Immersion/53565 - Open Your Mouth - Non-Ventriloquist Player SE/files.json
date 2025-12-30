@@ -1,0 +1,43 @@
+{
+  "Open Your Mouth SE - Become A Bard add-on": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "6.0",
+      "file_id": 222930,
+      "file_name": "Open Your Mouth SE - Become A Bard add-on-53565-6-0-1629643770.zip",
+      "mod_id": 53565,
+      "hash": "sha256-RQZAIjwPwnnnFuU/oHthD4+0jtQPrRa9t5Z7NSREXnA="
+    }
+  },
+  "Open Your Mouth SE - Bards Reborn add-on": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "6.0",
+      "file_id": 222931,
+      "file_name": "Open Your Mouth SE - Bards Reborn add-on-53565-6-0-1629643803.zip",
+      "mod_id": 53565,
+      "hash": "sha256-bOtNZBeOS/nFck4uwVPOf/uArPD2tVnDAGAiBA9KWps="
+    }
+  },
+  "Open Your Mouth Modern - Alternate script for PC Head Tracking B.Y.O. Voice packs": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "7.7.1",
+      "file_id": 369714,
+      "file_name": "Open Your Mouth Modern - Alternate script for PC Head Tracking B.Y.O. Voice packs-53565-7-7-1-1679167604.zip",
+      "mod_id": 53565,
+      "hash": "sha256-bzpwpEcpMUEP64yNiGJd8CNFD7ys8I8ppRSf/YIe1Ss="
+    }
+  },
+  "Open Your Mouth SE": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "7.7.4",
+      "file_id": 403257,
+      "file_name": "Open Your Mouth SE-53565-7-7-4-1688344649.zip",
+      "mod_id": 53565,
+      "hash": "sha256-WsVo+XC876EnfV3mS76+zPkLM3055D9lTbNCO1xtZrY="
+    },
+    "type": "primary"
+  }
+}

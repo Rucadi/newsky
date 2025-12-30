@@ -1,0 +1,34 @@
+{
+  "Invisible Head Wrap for Elven Ears": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 430928,
+      "file_name": "Invisible Head Wrap for Elven Ears-101776-1-0-1696356025.7z",
+      "mod_id": 101776,
+      "hash": "sha256-N1oo1dN048D16Ug/uyiIpg6JXTUDZtNhMbxzlbpyy6w="
+    }
+  },
+  "Invisible Head Wrap for Slot 44": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1",
+      "file_id": 630331,
+      "file_name": "Invisible Head Wrap for Elven Ears or Beards-101776-1-1-1748021709.7z",
+      "mod_id": 101776,
+      "hash": "sha256-KNWW/3X5xm28DlhHK527kmSBjATGUAS3ddbnQcUOxVY="
+    },
+    "type": "primary"
+  },
+  "Invisible Horn Wrap for Slot 55": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 630859,
+      "file_name": "Invisible Horn Wrap for Slot 55-101776-1-0-1748140206.7z",
+      "mod_id": 101776,
+      "hash": "sha256-/1Zk5g1BBLI5Gv+wJKI7TbT6dMyfTid9nqy+hm5UheU="
+    },
+    "type": "primary"
+  }
+}

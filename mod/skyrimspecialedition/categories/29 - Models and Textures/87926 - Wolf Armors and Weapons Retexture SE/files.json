@@ -1,0 +1,44 @@
+{
+  "Wolf Armors and Weapons Retexture SE": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.2",
+      "file_id": 603340,
+      "file_name": "Wolf Armors and Weapons Retexture SE-87926-1-2-1741479789.7z",
+      "mod_id": 87926,
+      "hash": "sha256-WReNgcO1SE+uHPYwrv780X0hB13zhScsIg+i+31yMb0="
+    },
+    "type": "primary"
+  },
+  "Wolf Armors and Weapons Retexture SE - Half Res": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.2",
+      "file_id": 603343,
+      "file_name": "Wolf Armors and Weapons Retexture SE - Half Res-87926-1-2-1741479900.7z",
+      "mod_id": 87926,
+      "hash": "sha256-6grBrgfqOkifyyzNG5GuOrpDb1+81UQjWb7gF7RgDI4="
+    }
+  },
+  "Wolf Armors and Weapons Retexture SE - Low Res": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.2",
+      "file_id": 603344,
+      "file_name": "Wolf Armors and Weapons Retexture SE - Low Res-87926-1-2-1741479926.7z",
+      "mod_id": 87926,
+      "hash": "sha256-IuuO1urFGe9bKgt50Hl9ptjfWobIYfrQMzVkt9xiQwg="
+    }
+  },
+  "Wolf Bodyslide Patches": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.2",
+      "file_id": 603348,
+      "file_name": "Wolf Bodyslide Patches-87926-1-2-1741480328.7z",
+      "mod_id": 87926,
+      "hash": "sha256-UTbm5hL4TIdJf1G0QB9CLgTmROcETku8aSMTSRTpBz4="
+    },
+    "type": "primary"
+  }
+}

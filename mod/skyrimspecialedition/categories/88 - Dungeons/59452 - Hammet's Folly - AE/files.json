@@ -1,0 +1,24 @@
+{
+  "Hammet's Folly AE esm version": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.04",
+      "file_id": 492358,
+      "file_name": "Hammet's Folly AE esm version-59452-1-04-1713491626.7z",
+      "mod_id": 59452,
+      "hash": "sha256-dFIVjGKzkaTff8Ru/jnnkgYVQh+tjDz1LR+W4+KpZWE="
+    },
+    "type": "primary"
+  },
+  "Hammet's Folly AE esp version": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.04",
+      "file_id": 492359,
+      "file_name": "Hammet's Folly AE esp version-59452-1-04-1713491710.7z",
+      "mod_id": 59452,
+      "hash": "sha256-tRZYKgqmlfdxCosXvjU3NHx7k5gR0/rW66wOq3KCuSI="
+    },
+    "type": "primary"
+  }
+}

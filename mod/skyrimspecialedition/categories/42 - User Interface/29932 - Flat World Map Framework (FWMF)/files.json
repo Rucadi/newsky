@@ -1,0 +1,116 @@
+{
+  "Flat World Map Framework SE - Marked Old Map 4K": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.7",
+      "file_id": 219684,
+      "file_name": "Flat World Map Framework SE - Marked Old Map 4K-29932-1-7-1628424668.zip",
+      "mod_id": 29932,
+      "hash": "sha256-vhJBgE8V5FCRljOvnyFf80xVFXWkIQpCfOGYQ4fTMpw="
+    }
+  },
+  "Flat World Map Framework SE - Marked Clean Map 4K": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.7",
+      "file_id": 219737,
+      "file_name": "Flat World Map Framework SE - Marked Clean Map 4K-29932-1-70-1628440775.zip",
+      "mod_id": 29932,
+      "hash": "sha256-rku9ERaQe7p2PpA1T59MAeKwIa2dA8Sko9KvIqsB588="
+    }
+  },
+  "Flat World Map Framework SE - Unmarked Clean Map 4K": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.7",
+      "file_id": 219742,
+      "file_name": "Flat World Map Framework SE - Unmarked Clean Map 4K-29932-1-7-1628442320.zip",
+      "mod_id": 29932,
+      "hash": "sha256-7vfcdl1R4KDOGMc0esaNFwbAKXzkkyRD26KIr66HsIk="
+    }
+  },
+  "Flat World Map Framework SE - Unmarked Old Map 4K": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.7",
+      "file_id": 219990,
+      "file_name": "Flat World Map Framework SE - Unmarked Old Map 4K-29932-1-7-1628527485.zip",
+      "mod_id": 29932,
+      "hash": "sha256-wa3uBfSYYsF3rFO9lfZlh2AEbtthA0BENVBPDFFNEY8="
+    }
+  },
+  "FWMF for Paper Skyrim and Solstheim Maps by Mirhayasu": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.7",
+      "file_id": 221055,
+      "file_name": "FWMF for Paper Skyrim and Solstheim Maps by Mirhayasu-29932-1-7-1628927630.zip",
+      "mod_id": 29932,
+      "hash": "sha256-JtXXsDZdm+TN1ffgvIsuN8dbHMrOV1faIIYF1MaaVA4="
+    }
+  },
+  "Flat World Map Framework FOMOD (legacy)": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.7",
+      "file_id": 351649,
+      "file_name": "Flat World Map Framework All-in-One FOMOD-29932-1-7-1674313136.zip",
+      "mod_id": 29932,
+      "hash": "sha256-U5pUNq0ovM6yfp4KQoe+Djmck1BIMCIQcB2UvnWMFA8="
+    },
+    "type": "primary"
+  },
+  "Standalone MCM for legacy FWMF versions": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 359409,
+      "file_name": "Standalone MCM for FWMF-29932-1-0-1676300051.zip",
+      "mod_id": 29932,
+      "hash": "sha256-H3HETEmyiaepOyiY8xnij6hFLWXV1dnC2SI1F3qToO8="
+    }
+  },
+  "Flat World Map Framework - Fantasy Paper Maps": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.87",
+      "file_id": 410626,
+      "file_name": "Flat World Map Framework - Fantasy Paper Maps-29932-1-87-1690309337.zip",
+      "mod_id": 29932,
+      "hash": "sha256-PlrWgzBg4aAgH8//vVc05p2UDBQwD9g6NrAdmvMw4fw="
+    }
+  },
+  "Flat World Map Framework FOMOD Lite (legacy)": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.87",
+      "file_id": 410637,
+      "file_name": "Flat World Map Framework FOMOD Lite-29932-1-87-1690313092.zip",
+      "mod_id": 29932,
+      "hash": "sha256-OurEFg9+ko5f+likr8w0bPpylCTbXOoKesyEQP64R1s="
+    },
+    "type": "primary"
+  },
+  "Flat World Map Framework FOMOD": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.9.981",
+      "file_id": 693241,
+      "file_name": "Flat World Map Framework FOMOD-29932-1-9-981-1764587051.zip",
+      "mod_id": 29932,
+      "hash": "sha256-847tqTQZ3uyDbB0CoOwWRqH59NWxebZHRmmkxXso0uc="
+    },
+    "type": "primary"
+  },
+  "Flat World Map Framework FOMOD Lite": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.9.981",
+      "file_id": 693242,
+      "file_name": "Flat World Map Framework FOMOD Lite-29932-1-9-981-1764587101.zip",
+      "mod_id": 29932,
+      "hash": "sha256-FxMMtmfuwf1SR6SlKSICg3uDhR1aqFC9Fm7hngKEsl8="
+    },
+    "type": "primary"
+  }
+}

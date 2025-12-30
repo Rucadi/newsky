@@ -1,0 +1,23 @@
+{
+  "Customizable Camera Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 346958,
+      "file_name": "Show Player In Menus - Customizable Camera Patch-81291-1-0-1672937561.zip",
+      "mod_id": 81291,
+      "hash": "sha256-RQ3uX0ynWBF6k3r3vF3Jnu6Ene7xHbgDmvvXXqKTnIA="
+    }
+  },
+  "Show Player In Menus": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "2.0.3",
+      "file_id": 357073,
+      "file_name": "Show Player In Menus-81291-2-0-3-1675683703.zip",
+      "mod_id": 81291,
+      "hash": "sha256-Al0O3WRTtE0tnE7IuFkXfnxgtOQHrzE2Le4AEjNZtbQ="
+    },
+    "type": "primary"
+  }
+}

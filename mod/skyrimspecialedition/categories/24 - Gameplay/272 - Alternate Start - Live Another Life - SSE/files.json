@@ -1,0 +1,23 @@
+{
+  "ASLAL - City Guard Extension Example": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0.4",
+      "file_id": 523574,
+      "file_name": "ASLAL - City Guard Extension Example-272-1-0-4-1721597069.7z",
+      "mod_id": 272,
+      "hash": "sha256-T6fm9Dw0Yne5n/ACWb+mgIiXr/I/7K26Hn5vCg5W8zI="
+    }
+  },
+  "Alternate Start - Live Another Life": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "4.2.5",
+      "file_id": 642220,
+      "file_name": "Alternate Start - Live Another Life-272-4-2-5-1751059176.7z",
+      "mod_id": 272,
+      "hash": "sha256-fhRi4vzjdVhFKu9/4boVAdedQHIUYELEP9p21i/Po2E="
+    },
+    "type": "primary"
+  }
+}

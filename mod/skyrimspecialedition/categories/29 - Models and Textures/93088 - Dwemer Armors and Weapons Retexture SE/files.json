@@ -1,0 +1,23 @@
+{
+  "Dwemer Armors and Weapons Retexture SE": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 396069,
+      "file_name": "Dwemer Armors and Weapons Retexture SE-93088-1-0-1686248560.rar",
+      "mod_id": 93088,
+      "hash": "sha256-EmwM5BPoKu/YUklv4fKVzVChO7OHEpSJo8Sp4QBAqMk="
+    },
+    "type": "primary"
+  },
+  "Dwemer Armors and Weapons Retexture SE - Half Res": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 396072,
+      "file_name": "Dwemer Armors and Weapons Retexture SE - Half Res-93088-1-0-1686248797.rar",
+      "mod_id": 93088,
+      "hash": "sha256-1k07uPYHQiXJpINH+y0l/LOMp+7rgXgQ6uDQSViTiio="
+    }
+  }
+}

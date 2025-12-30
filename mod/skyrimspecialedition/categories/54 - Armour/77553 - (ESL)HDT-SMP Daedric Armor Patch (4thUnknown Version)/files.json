@@ -1,0 +1,23 @@
+{
+  "(ESL)HDT-SMP Daedric Armor Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 326104,
+      "file_name": "(ESL)HDT-SMP Daedric Armor Patch-77553-1-0-1666545418.rar",
+      "mod_id": 77553,
+      "hash": "sha256-jbCMhFHgQGy6PI7rwqLL3DJD3asxZ7CWH+nrmJnAX+c="
+    },
+    "type": "primary"
+  },
+  "Daedric Armor Helmet 1.01": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.01",
+      "file_id": 331306,
+      "file_name": "Daedric Armor Helmet 1.01-77553-1-01-1668304109.rar",
+      "mod_id": 77553,
+      "hash": "sha256-dJZE+p5n9MZm1YAmnpEBmyGiT9bKbhAyDZ10hGpTi+8="
+    }
+  }
+}

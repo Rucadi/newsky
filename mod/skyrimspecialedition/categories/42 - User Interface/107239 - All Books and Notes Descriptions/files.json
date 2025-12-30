@@ -1,0 +1,33 @@
+{
+  "All Books EN v0.1": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "0.1",
+      "file_id": 452794,
+      "file_name": "All Books EN v0.1-107239-0-1-1702850000.zip",
+      "mod_id": 107239,
+      "hash": "sha256-RimP+edT1tMIyi8PJgKoIC7IBJQlgwBI11euLjoVOoI="
+    },
+    "type": "primary"
+  },
+  "All Books EN": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "0.1",
+      "file_id": 452811,
+      "file_name": "All Books EN-107239-0-1-1702853921.zip",
+      "mod_id": 107239,
+      "hash": "sha256-ZeQ1xHcAY60oRcCIVFTYTh5rdOLjJtPpVL7ecKnJTMI="
+    }
+  },
+  "All Books Ru v0.1": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "0.1",
+      "file_id": 453135,
+      "file_name": "All Books Ru v0.1-107239-0-1-1702949119.zip",
+      "mod_id": 107239,
+      "hash": "sha256-TYwkxghEkyEvFQzI513A57Mpzxv6s7UlQVzzOGQsDLU="
+    }
+  }
+}

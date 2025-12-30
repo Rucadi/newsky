@@ -1,0 +1,23 @@
+{
+  "DAc0da Achievements": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0.0",
+      "file_id": 565495,
+      "file_name": "DAc0da Achievements-134405-1-0-0-1732429652.7z",
+      "mod_id": 134405,
+      "hash": "sha256-uVITNKw4DlMvP9ThbQvx6DQaDu9Lta+i6duwCWJObqI="
+    }
+  },
+  "Dac0da v105": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0.5",
+      "file_id": 662809,
+      "file_name": "Dac0da v105-134405-1-0-5-1757145391.rar",
+      "mod_id": 134405,
+      "hash": "sha256-HiHRKHjA1UgIYCNA8fRSasu+RIiIZo7ANDugMRtGZZ0="
+    },
+    "type": "primary"
+  }
+}

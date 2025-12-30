@@ -1,0 +1,23 @@
+{
+    "Nordic UI Bandit Style - TrueHUD Preset 1.0.1": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "1.0.1",
+            "file_id": 263483,
+            "file_name": "Nordic UI Bandit Style - TrueHUD Preset 1.0.1-63212-1-0-1-1644628253.zip",
+            "mod_id": 63212,
+            "hash": "sha256-92aZ9HYfYYHfSkxHlmKSQyIgUg4sfdBOtNlAXSGLTfc="
+        }
+    },
+    "Nordic-ish - A Preset for TrueHUD based on Nordic UI": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "1.1.1",
+            "file_id": 272105,
+            "file_name": "Nordic-ish - A Preset for TrueHUD based on Nordic UI-63212-1-1-1-1648090733.7z",
+            "mod_id": 63212,
+            "hash": "sha256-0my2ZycL250dIsbasEGrk1vzIsCum6RyHVcJeRIOJKE="
+        },
+        "type": "primary"
+    }
+}

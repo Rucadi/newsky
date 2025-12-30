@@ -1,0 +1,35 @@
+{
+  "Kanjs - Books All In One Animated SE 1k": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1",
+      "file_id": 463900,
+      "file_name": "Kanjs - Books All In One Animated SE 1k-109877-1-1705957900.zip",
+      "mod_id": 109877,
+      "hash": "sha256-XPxcp3EQQpof3EEuO7Ag1Lv6V8fyhWWWkJPtXGN2Si0="
+    },
+    "type": "primary"
+  },
+  "Kanjs - Books All In One Animated SE 2k": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1",
+      "file_id": 463902,
+      "file_name": "Kanjs - Books All In One Animated SE 2k-109877-1-1705958030.zip",
+      "mod_id": 109877,
+      "hash": "sha256-zcrZtt6u/Aykz+S7Ab2G9XBdr1LS2pp0j/dWi3vHu8M="
+    },
+    "type": "primary"
+  },
+  "Kanjs - Books All In One Animated SE 4k": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1",
+      "file_id": 593245,
+      "file_name": "Kanjs - Books All In One Animated SE 4k-109877-1-1739245656.zip",
+      "mod_id": 109877,
+      "hash": "sha256-/feaEdLNDi6ZcqzpRNhDh+0wKHMsqUnEwWSOzPU1/+Y="
+    },
+    "type": "primary"
+  }
+}

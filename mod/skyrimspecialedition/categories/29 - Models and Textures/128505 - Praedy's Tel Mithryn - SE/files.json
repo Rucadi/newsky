@@ -1,0 +1,24 @@
+{
+  "Praedy's Tel Mithryn 4K": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "3.0",
+      "file_id": 545515,
+      "file_name": "Praedy's Tel Mithryn 4K-128505-3-0-1727136597.7z",
+      "mod_id": 128505,
+      "hash": "sha256-wtbfVsr6D7MdNEc4LhoK5mOWpy3NwWUx37FfD0s3zdM="
+    },
+    "type": "primary"
+  },
+  "Praedy's Tel Mithryn 2K": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "3.0",
+      "file_id": 545526,
+      "file_name": "Praedy's Tel Mithryn 2K-128505-3-0-1727141714.7z",
+      "mod_id": 128505,
+      "hash": "sha256-hGULh7QCYBS3Rh691iAFD9S7eY139ddkxf1hg48pUFs="
+    },
+    "type": "primary"
+  }
+}

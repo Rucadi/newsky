@@ -1,0 +1,33 @@
+{
+  "Optional Undead FX Addon": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 412233,
+      "file_name": "Optional Undead FX Addon-97048-1-0-1690709626.rar",
+      "mod_id": 97048,
+      "hash": "sha256-B7zZijN/tTkDyEPOti0XtLIpMAk/DolXoU3AxtJKEPs="
+    }
+  },
+  "Optional Undead FX Addon (SPID ESPFE)": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 413685,
+      "file_name": "Optional Undead FX Addon (SPID ESPFE)-97048-1-0-1691045744.7z",
+      "mod_id": 97048,
+      "hash": "sha256-HWLMX0lwjIusuZeuEVzc5vbpfO6NdjXFDNYt/nPTgj0="
+    }
+  },
+  "Immersive Death Cycle": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.04",
+      "file_id": 456429,
+      "file_name": "Immersive Death Cycle-97048-1-04-1703953947.rar",
+      "mod_id": 97048,
+      "hash": "sha256-f+ix+NB6jXwDARiCkAxu3Sctu40gK4sTj8Z7dX0mX/Y="
+    },
+    "type": "primary"
+  }
+}

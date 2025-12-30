@@ -1,0 +1,23 @@
+{
+  "BHUNP BBP Minidresses Bodyslides": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.2",
+      "file_id": 136674,
+      "file_name": "BHUNP BBP Minidresses Bodyslides-35080-1-2-1588006412.7z",
+      "mod_id": 35080,
+      "hash": "sha256-TP9klRQe2oX2eN9Cj0JJtOekYD99NGc07f1KGP1SV+M="
+    }
+  },
+  "BHUNP 3BBB Minidresses Bodyslides": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.4",
+      "file_id": 264547,
+      "file_name": "BHUNP 3BBB Minidresses Bodyslides-35080-1-4-1644984278.7z",
+      "mod_id": 35080,
+      "hash": "sha256-A2bt5bKPIUKC1TuxQzAhvkd15viBIu/6iRFj4Mco35k="
+    },
+    "type": "primary"
+  }
+}

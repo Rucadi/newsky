@@ -1,0 +1,44 @@
+{
+  "Elrian Saddle Retexture for Frost - Light Version": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1",
+      "file_id": 523234,
+      "file_name": "Elrian Saddle Retexture for Frost - Light Version-124800-1-1721517394.7z",
+      "mod_id": 124800,
+      "hash": "sha256-P6IPt9nlCTneNNOvhe+LRN+FzcgjoCIiEd7XhuR54Ow="
+    }
+  },
+  "Elrian Saddle Retexture for Frost - Dark Version": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1",
+      "file_id": 523235,
+      "file_name": "Elrian Saddle Retexture for Frost - Dark Version-124800-1-1721517479.7z",
+      "mod_id": 124800,
+      "hash": "sha256-D2aORREq3d6FcI8IRJls0uKAyjbDvUz18cE8EM9vylk="
+    }
+  },
+  "Frosty the Snowhorse": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1",
+      "file_id": 525341,
+      "file_name": "Frosty the Snowhorse-124800-1-1-1722034655.7z",
+      "mod_id": 124800,
+      "hash": "sha256-bY5kg+ZH1T0+7eNSTedP3vP8D6+sUYPw3ptDnOomI3w="
+    },
+    "type": "primary"
+  },
+  "Frosty the Snowhorse - Less Blinding Version": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1",
+      "file_id": 525348,
+      "file_name": "Frosty the Snowhorse - Less Blinding Version-124800-1-1722035830.7z",
+      "mod_id": 124800,
+      "hash": "sha256-6FgHmb0htP2ZPFEHvn+j3uWj4lZoxd0Khi90ZcDKQHg="
+    },
+    "type": "primary"
+  }
+}

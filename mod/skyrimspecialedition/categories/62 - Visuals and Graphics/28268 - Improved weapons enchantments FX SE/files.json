@@ -1,0 +1,33 @@
+{
+  "Improved weapons enchantments FX SE": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1",
+      "file_id": 103138,
+      "file_name": "Improved weapons enchantments FX SE-28268-1-1-1565911554.7z",
+      "mod_id": 28268,
+      "hash": "sha256-rvkctjOybjZvUVIGFzJR8qGtp04Tq1Law+KF4MKDc0I="
+    },
+    "type": "primary"
+  },
+  "Original shock texture texture": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1",
+      "file_id": 103140,
+      "file_name": "Original shock texture texture-28268-1-1-1565911904.7z",
+      "mod_id": 28268,
+      "hash": "sha256-rBWmr9OcKzH1LYJhdo6bBz4o1k7Vq1iHH2QuEh8ACgU="
+    }
+  },
+  "Alternate Fire Texture": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1",
+      "file_id": 103142,
+      "file_name": "Alternate Fire Texture-28268-1-1-1565911940.7z",
+      "mod_id": 28268,
+      "hash": "sha256-Kj0H68bP+h8q6qmpftQOdk0lHkrt30XthaB0kBkmNlE="
+    }
+  }
+}

@@ -1,0 +1,53 @@
+{
+  "Ring of Namira Rework 1.0 CHS": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 607812,
+      "file_name": "Ring of Namira Rework 1.0 CHS-145287-1-0-1742513350.zip",
+      "mod_id": 145287,
+      "hash": "sha256-hCg/wY2Aj7tarRmiX7KOem2To6ieqHpJKLygF/sDblc="
+    }
+  },
+  "Ring of Namira Rework JS Rings Patch 1.0": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 607814,
+      "file_name": "Ring of Namira Rework JS Rings Patch 1.0-145287-1-0-1742513455.zip",
+      "mod_id": 145287,
+      "hash": "sha256-rzv2k3huQwFi41TOFrZI+GxCYoKkMSmz9/SvNp0iITY="
+    }
+  },
+  "Ring of Namira Rework JS Rings Patch 1.0 CHS": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 607816,
+      "file_name": "Ring of Namira Rework JS Rings Patch 1.0 CHS-145287-1-0-1742513524.zip",
+      "mod_id": 145287,
+      "hash": "sha256-Y3GkC/SuBUsn/bMlA4tI0mgbFRQFzK7zl/5DEp5qRMs="
+    }
+  },
+  "Ring of Namira Rework JS Edit": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 607817,
+      "file_name": "Ring of Namira Rework JS Edit-145287-1-0-1742513737.zip",
+      "mod_id": 145287,
+      "hash": "sha256-uhVSsPw+hluOrbvBAhzfjEkaRfbPntC8hIqThL92GW8="
+    }
+  },
+  "Ring of Namira Rework 1.01": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.01",
+      "file_id": 699544,
+      "file_name": "Ring of Namira Rework 1.01-145287-1-01-1766130930.zip",
+      "mod_id": 145287,
+      "hash": "sha256-c8JuiSi9l2yENJJwhFqP9yDidGg+p09N4Q55Q1Je7BI="
+    },
+    "type": "primary"
+  }
+}

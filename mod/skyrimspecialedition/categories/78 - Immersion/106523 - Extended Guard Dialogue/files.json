@@ -1,0 +1,23 @@
+{
+  "Dawnguard VA Fix": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0.0",
+      "file_id": 485965,
+      "file_name": "Dawnguard VA Fix-106523-1-0-0-1711868060.zip",
+      "mod_id": 106523,
+      "hash": "sha256-IheSx+KQauez5GctcxrS4E+7SYDpG/Z7Qsk1BmhwG2I="
+    }
+  },
+  "Extended Guard Dialogue": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0.5",
+      "file_id": 558739,
+      "file_name": "Extended Guard Dialogue-106523-1-0-5-1730682423.zip",
+      "mod_id": 106523,
+      "hash": "sha256-yKmpynYw1I6gEmD2sI8FVIFYheVTmDDcDt7plK8nKKg="
+    },
+    "type": "primary"
+  }
+}

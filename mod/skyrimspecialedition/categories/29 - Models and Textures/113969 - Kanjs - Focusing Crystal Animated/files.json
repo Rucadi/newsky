@@ -1,0 +1,35 @@
+{
+  "Kanjs - Focusing Crystal Animated se 4k": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1",
+      "file_id": 480271,
+      "file_name": "Kanjs - Focusing Crystal Animated se 4k-113969-1-1710368958.zip",
+      "mod_id": 113969,
+      "hash": "sha256-pED+tUr92P17ik7oO6whcNM5Sz8KVWz9LDYC3+nDTGE="
+    },
+    "type": "primary"
+  },
+  "Kanjs - Focusing Crystal Animated se 2k": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1",
+      "file_id": 480272,
+      "file_name": "Kanjs - Focusing Crystal Animated se 2k-113969-1-1710368969.zip",
+      "mod_id": 113969,
+      "hash": "sha256-gjBsARXJNYTAsDNX7hlbMu+Lk0iCOIA6x8cGv1qF8Pg="
+    },
+    "type": "primary"
+  },
+  "Kanjs - Focusing Crystal Animated se 1k": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1",
+      "file_id": 480273,
+      "file_name": "Kanjs - Focusing Crystal Animated se 1k-113969-1-1710368994.zip",
+      "mod_id": 113969,
+      "hash": "sha256-hWTiAKsMsK5Go7xh04RX1D9+7fdabKtwPoU6SU8auwM="
+    },
+    "type": "primary"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "IA community presets tattooed version": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 279390,
+      "file_name": "IA community presets tattoo version-66928-1-0-1650814767.zip",
+      "mod_id": 66928,
+      "hash": "sha256-eSS/sCt3j8GeRuWQ8JQzPUSR1DTLyHJysa4MWmj8NGg="
+    }
+  },
+  "IA racemenu presets": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.3.1",
+      "file_id": 279657,
+      "file_name": "IA racemenu presets-66928-1-3-1-1650933024.zip",
+      "mod_id": 66928,
+      "hash": "sha256-xuB7eJjq9whsWREk65BTANZB3ddMB9PmRLhqfVo8Rj0="
+    },
+    "type": "primary"
+  }
+}

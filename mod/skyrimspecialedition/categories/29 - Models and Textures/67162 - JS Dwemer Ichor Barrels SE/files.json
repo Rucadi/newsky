@@ -1,0 +1,34 @@
+{
+  "JS Dwemer Ichor Barrels SE - 2k Textures": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.01",
+      "file_id": 279934,
+      "file_name": "JS Dwemer Ichor Barrels SE - 2k Textures-67162-1-01-1651062610.7z",
+      "mod_id": 67162,
+      "hash": "sha256-QmYWpREYu7XHKu14pooAXm7fXFSjHHjqB9KzFDBij48="
+    },
+    "type": "primary"
+  },
+  "JS Dwemer Ichor Barrels SE - 4k Textures": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.01",
+      "file_id": 279935,
+      "file_name": "JS Dwemer Ichor Barrels SE - 4k Textures-67162-1-01-1651062644.7z",
+      "mod_id": 67162,
+      "hash": "sha256-n/lTMHCkpgAiS7e9a6DmpK5wabvCp6ps1gpOtr2kGvg="
+    },
+    "type": "primary"
+  },
+  "JS Dwemer Ichor Barrels SE - GDPR Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 494875,
+      "file_name": "JS Dwemer Ichor Barrels SE - GDPR Patch-67162-1-0-1714105529.7z",
+      "mod_id": 67162,
+      "hash": "sha256-xq9ASEgW28LHgXOvgXj3oNXoQ6iNf/BOPWOoYOa5lxY="
+    }
+  }
+}

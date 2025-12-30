@@ -1,0 +1,23 @@
+{
+  "Hoth": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "3.2",
+      "file_id": 96662,
+      "file_name": "Hoth-16137-3-2-1561052047.7z",
+      "mod_id": 16137,
+      "hash": "sha256-ACzhBFpSeFKEAfXSNLnYqbrHomrgJUGC+DjEdxzHGZk="
+    },
+    "type": "primary"
+  },
+  "UFO Compatibility Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1",
+      "file_id": 96666,
+      "file_name": "UFO Compatibility Patch-16137-1-1561052507.7z",
+      "mod_id": 16137,
+      "hash": "sha256-mzhKZO2edT/AdAWT+ybf1keK9yC50DgtCkEHFmKC0tU="
+    }
+  }
+}

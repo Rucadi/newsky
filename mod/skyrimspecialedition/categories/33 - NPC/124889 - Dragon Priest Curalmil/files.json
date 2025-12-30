@@ -1,0 +1,33 @@
+{
+  "Dragon Priest Curalmil - Full Version": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 523601,
+      "file_name": "Dragon Priest Curalmil - Full Version-124889-1-0-1721604389.zip",
+      "mod_id": 124889,
+      "hash": "sha256-ykFEeLiSVWabvyOSdlfr5SxOdsxmmnXVS5TJ3+squ2k="
+    },
+    "type": "primary"
+  },
+  "Replacer Only Version": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 523602,
+      "file_name": "Replacer Only Version-124889-1-0-1721604495.zip",
+      "mod_id": 124889,
+      "hash": "sha256-o5Ytf8lJ2NwiXJqgAFA1yk0z06VuD5ZIVEcX7Mw0BOE="
+    }
+  },
+  "Dragon Priest Curalmil - Curalmil mask": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 686588,
+      "file_name": "Dragon Priest Curalmil - Curalmil mask-124889-1-0-1762905847.zip",
+      "mod_id": 124889,
+      "hash": "sha256-LUfYX7tdfwp3W1atdMZ4rQ5+AbfP0/rJZ3dRwUkcAhY="
+    }
+  }
+}

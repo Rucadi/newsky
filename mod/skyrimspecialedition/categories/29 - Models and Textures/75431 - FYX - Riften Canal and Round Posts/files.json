@@ -1,0 +1,44 @@
+{
+  "FYX - Riften Canal and Round Posts - RYFTEN M-Y-R": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 316528,
+      "file_name": "FYX - Riften Canal and Round Posts - RYFTEN M-Y-R-75431-1-0-1663338495.7z",
+      "mod_id": 75431,
+      "hash": "sha256-I09h0K9m8Co9o12rMaf5EhBvq8I9R//rq2kNzYmGpY4="
+    }
+  },
+  "FYX - Riften Canal and Round Posts - RYFTEN M-Y-R - Parallax": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 316530,
+      "file_name": "FYX - Riften Canal and Round Posts - RYFTEN M-Y-R - Parallax-75431-1-0-1663338559.7z",
+      "mod_id": 75431,
+      "hash": "sha256-JOZdN1Mn5+2a/TfNCMEu3NtpgtomtHkGNylACoNqdtM="
+    }
+  },
+  "FYX - Riften Canal and Round Posts": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0.2",
+      "file_id": 317664,
+      "file_name": "FYX - Riften Canal and Round Posts-75431-1-0-2-1663598251.7z",
+      "mod_id": 75431,
+      "hash": "sha256-rxZJsKO+65WuaeJsGcBW2NIf4BELEtgV2aDAEEiu2fI="
+    },
+    "type": "primary"
+  },
+  "FYX - Riften Canal and Round Posts - Parallax": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0.2.1",
+      "file_id": 565119,
+      "file_name": "FYX - Riften Canal and Round Posts - Parallax-75431-1-0-2-1-1732347134.7z",
+      "mod_id": 75431,
+      "hash": "sha256-pf7CVS04Wy52FhAGmyuWjMJrBvlG+eBMwIdpz1YNzKg="
+    },
+    "type": "primary"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "Leap of Faith - Legacy of the Dragonborn Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.02",
+      "file_id": 241668,
+      "file_name": "Leap of Faith - Legacy of the Dragonborn Patch-53074-1-02-1636970842.zip",
+      "mod_id": 53074,
+      "hash": "sha256-7FcYgCU284y9Y8q98kknr/e+hJBrxynffGm4URieNHU="
+    }
+  },
+  "Leaps of Faith": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.05",
+      "file_id": 448275,
+      "file_name": "Leaps of Faith-53074-1-05-1701557076.rar",
+      "mod_id": 53074,
+      "hash": "sha256-u0XI/yvlGLz6ANVVLtpGGfJrKgZbKPdjSRpMLsyIeTo="
+    },
+    "type": "primary"
+  }
+}

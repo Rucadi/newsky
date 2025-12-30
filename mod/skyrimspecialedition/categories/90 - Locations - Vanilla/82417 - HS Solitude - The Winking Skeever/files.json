@@ -1,0 +1,63 @@
+{
+    "HSSolitude - The Winking Skeever": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "1.0.1",
+            "file_id": 367664,
+            "file_name": "HSSolitude - The Winking Skeever-82417-1-0-1-1678588100.7z",
+            "mod_id": 82417,
+            "hash": "sha256-FWbFFj969tpJJPC4stWYvjoDNk4dc5RhU5I2qqRWfIw="
+        },
+        "type": "primary"
+    },
+    "HSSolitude - The Winking Skeever - ELFX": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "1.0.1",
+            "file_id": 367665,
+            "file_name": "HSSolitude - The Winking Skeever - ELFX-82417-1-0-1-1678588128.7z",
+            "mod_id": 82417,
+            "hash": "sha256-S8UNHY6Pna9S4hxg7iLYugjBZPies35HsfcjgtMfiqk="
+        }
+    },
+    "HSSolitude - The Winking Skeever - LUX": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "1.0.1",
+            "file_id": 367666,
+            "file_name": "HSSolitude - The Winking Skeever - LUX-82417-1-0-1-1678588174.7z",
+            "mod_id": 82417,
+            "hash": "sha256-UovZ7RImaOp6oxJdL8L31ckJDAQSpBqXKMVAp2fxybQ="
+        }
+    },
+    "HSSolitude - The Winking Skeever - IC": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "1.0.1",
+            "file_id": 367697,
+            "file_name": "HSSolitude - The Winking Skeever - IC-82417-1-0-1-1678591544.7z",
+            "mod_id": 82417,
+            "hash": "sha256-ihbkenwPxXOZlAqAXVT5BBFoOXm0bFjKNOWbhbj3g/g="
+        }
+    },
+    "HSSolitude - The Winking Skeever - MSkye": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "1.0.0",
+            "file_id": 378835,
+            "file_name": "HSSolitude - The Winking Skeever - MSkye-82417-1-0-0-1681654490.7z",
+            "mod_id": 82417,
+            "hash": "sha256-OyhgIqYULq3zh7tePq/G6S2+6T6TWYXoNEWVNm2t/CU="
+        }
+    },
+    "HSSolitude - The Winking Skeever - UVD": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "1.0.0",
+            "file_id": 387586,
+            "file_name": "HSSolitude - The Winking Skeever - UVD-82417-1-0-0-1683967902.7z",
+            "mod_id": 82417,
+            "hash": "sha256-vuGrkry4a0URWyeeSLkpWOQ5GRZzbMp2c7DxrdmcUvc="
+        }
+    }
+}
