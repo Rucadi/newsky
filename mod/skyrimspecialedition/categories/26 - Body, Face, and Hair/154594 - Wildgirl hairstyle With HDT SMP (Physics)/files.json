@@ -1,0 +1,24 @@
+{
+  "Wild Girl Hairstyle. More sway": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "V1",
+      "file_id": 645976,
+      "file_name": "Wild Girl Hairstyle. More sway-154594-V1-1752178762.7z",
+      "mod_id": 154594,
+      "hash": "sha256-ip3KYtQGGp3Ct1ApHrWPwywMbykxghCtfz9zzTUig3U="
+    },
+    "type": "primary"
+  },
+  "Wild Girl Hairstyle. Less sway": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "V1.B",
+      "file_id": 645978,
+      "file_name": "Wild Girl Hairstyle. Less sway-154594-V1-B-1752178856.7z",
+      "mod_id": 154594,
+      "hash": "sha256-5//dbRM6P/w5emYZLTX/X0pj1rYzCvbQhZdzl6r9vPQ="
+    },
+    "type": "primary"
+  }
+}

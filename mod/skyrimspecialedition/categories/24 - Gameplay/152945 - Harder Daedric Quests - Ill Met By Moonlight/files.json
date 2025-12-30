@@ -1,0 +1,33 @@
+{
+  "Harder Daedric Quests - Ill Met By Moonlight": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1",
+      "file_id": 638839,
+      "file_name": "Harder Daedric Quests - Ill Met By Moonlight-152945-1-1750163453.zip",
+      "mod_id": 152945,
+      "hash": "sha256-eO8pzssHdHtjuytzVqmscMSa2jdIeVzIyqAkKOT5Pvg="
+    },
+    "type": "primary"
+  },
+  "Ill Met Authentic Sinding Werewolf Follower Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1",
+      "file_id": 639824,
+      "file_name": "Authentic Sinding Werewolf Follower Patch-152945-1-1750439862.zip",
+      "mod_id": 152945,
+      "hash": "sha256-pu5NT2XioYs1iKdGRGqPSvkpy0Tp3Hg3QDC5Y4MqZV0="
+    }
+  },
+  "Ill Met Shiny Creatures Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1",
+      "file_id": 639826,
+      "file_name": "Ill Met - Shiny Creatures Patch-152945-1-1750439999.zip",
+      "mod_id": 152945,
+      "hash": "sha256-pQKWKPWdGSUifVZ2+mNNk/i60T27L3O67klqeQNlHig="
+    }
+  }
+}

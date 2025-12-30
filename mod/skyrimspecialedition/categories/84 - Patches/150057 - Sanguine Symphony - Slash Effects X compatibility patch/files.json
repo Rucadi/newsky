@@ -27,7 +27,8 @@
       "version": "1.02",
       "file_id": 627917,
       "file_name": "SS - DI Slash Effects X - Vanilla Decal Patch-150057-1-02-1747464110.zip",
-      "mod_id": 150057
+      "mod_id": 150057,
+      "hash": "sha256-dJj57U4yjsxmmNCPitpRxvhUIBU8bzUTcashK4vpUWw="
     }
   },
   "SS - DI Slash Effects X - Arrow Pierces Patch": {
@@ -36,7 +37,8 @@
       "version": "1.02",
       "file_id": 627918,
       "file_name": "SS - DI Slash Effects X - Arrow Pierces Patch-150057-1-02-1747464221.zip",
-      "mod_id": 150057
+      "mod_id": 150057,
+      "hash": "sha256-RmmoWVjasSSWotW7UJT+AsVGSwv4V1vhIPpxtZQa6Os="
     }
   },
   "CIF - HitSpark": {
@@ -45,7 +47,8 @@
       "version": "1.02",
       "file_id": 627921,
       "file_name": "CIF - HitSpark-150057-1-02-1747464669.zip",
-      "mod_id": 150057
+      "mod_id": 150057,
+      "hash": "sha256-n6jnVlGcfr24AgV2DeyD9ypvTz1kehLvBDT6bgFUS5k="
     }
   },
   "Sanguine Symphony - Dynamic Impact Slash Effects X": {
@@ -54,7 +57,8 @@
       "version": "1.03",
       "file_id": 630891,
       "file_name": "Sanguine Symphony - Dynamic Impact Slash Effects X-150057-1-03-1748153105.zip",
-      "mod_id": 150057
+      "mod_id": 150057,
+      "hash": "sha256-5mEgCBazTzOTgDGRr+DIpFSKb+13M1zDH/Yw9OEBPmg="
     },
     "type": "primary"
   }

@@ -1,0 +1,23 @@
+{
+  "Sir Rumple Bifrost": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 640335,
+      "file_name": "Sir Rumple Bifrost-153286-1-0-1750535447.zip",
+      "mod_id": 153286,
+      "hash": "sha256-xEJXqqf8/jOY8bAdHoBwjri4ZxksZhkAZXrcBR0e45k="
+    },
+    "type": "primary"
+  },
+  "Sir Rumple Bifrost - No Heel Sounds": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 641335,
+      "file_name": "Sir Rumple Bifrost - No Heel Sounds-153286-1-0-1750791690.zip",
+      "mod_id": 153286,
+      "hash": "sha256-oBTMq3hFk7tyVZaVmuSSSKxd6EPax8q3vWoMIOIWm/Y="
+    }
+  }
+}

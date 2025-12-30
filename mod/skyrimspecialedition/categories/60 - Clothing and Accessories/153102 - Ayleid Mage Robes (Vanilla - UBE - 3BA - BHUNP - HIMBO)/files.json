@@ -1,0 +1,73 @@
+{
+  "Ayleid Mage Robes": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 639668,
+      "file_name": "Ayleid Mage Robes-153102-1-0-1750388957.zip",
+      "mod_id": 153102,
+      "hash": "sha256-0KXxkdLQLEG08vysO/dJ+HCaO/p+z2u7obqVKDFsnMw="
+    },
+    "type": "primary"
+  },
+  "Bodyslide Files - HIMBO": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 639670,
+      "file_name": "Bodyslide Files - HIMBO-153102-1-0-1750389068.rar",
+      "mod_id": 153102,
+      "hash": "sha256-SRj28Z/OWx3Vic/AgVERu9baLvz+r7UtX8yrE+MbSEc="
+    }
+  },
+  "Addon - CC The Cause": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 639671,
+      "file_name": "Addon - CC The Cause-153102-1-0-1750389377.zip",
+      "mod_id": 153102,
+      "hash": "sha256-zVxZS4HHnILN4Hkudd+zqHfcsmVnAKUe0RE9aALdFHE="
+    }
+  },
+  "Bodyslide Files - 3BA": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 639962,
+      "file_name": "Bodyslide Files - 3BA-153102-1-0-1750463794.zip",
+      "mod_id": 153102,
+      "hash": "sha256-nMvewP26ujXjL9xuJzkfCINUdLdUshmKaizzEjyYmvk="
+    }
+  },
+  "Bodyslide Files - UBE": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 640305,
+      "file_name": "Bodyslide Files - UBE-153102-1-0-1750528068.7z",
+      "mod_id": 153102,
+      "hash": "sha256-q0vS+jFGC+zlLR18Z42V3WoAGfPwTb14q9angUl3cn4="
+    }
+  },
+  "Bodyslide Files - BHUNP": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1",
+      "file_id": 640447,
+      "file_name": "Bodyslide Files - BHUNP-153102-1-1-1750552554.rar",
+      "mod_id": 153102,
+      "hash": "sha256-xSHx4+gCNbuo5TVaxqtPrxCL1ir1C4oT6rExqZAZ/IU="
+    }
+  },
+  "PBR Textures": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 641075,
+      "file_name": "PBR Textures-153102-1-0-1750701745.zip",
+      "mod_id": 153102,
+      "hash": "sha256-NHNfQyugvcIfbfn3b3P9FOOD62q1ZSMaXAX6d/rcqXw="
+    }
+  }
+}

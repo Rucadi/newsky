@@ -1,0 +1,54 @@
+{
+  "Woo custom skin edit": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0.3",
+      "file_id": 629314,
+      "file_name": "Woo custom skin edit V3-150600-1-0-0-1747773264.7z",
+      "mod_id": 150600,
+      "hash": "sha256-iJ3wBqEiBKNMmpreuKl3fjT5dXlRn4yaKscc4tHbdFk="
+    }
+  },
+  "CBPC_Creatures": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0.0",
+      "file_id": 629659,
+      "file_name": "CBPC_Creatures-150600-1-0-0-1747862866.7z",
+      "mod_id": 150600,
+      "hash": "sha256-C7YB+12IOBhOu0WNl+WuKvedh+xLVBOQ7oIC7yAuRrs="
+    },
+    "type": "primary"
+  },
+  "CbpcGravityConfigs": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0.1",
+      "file_id": 637792,
+      "file_name": "CbpcGravityConfigs-150600-1-0-1-1749921472.7z",
+      "mod_id": 150600,
+      "hash": "sha256-wOyxAliSc9db2f2OaN8n5iBcw4bFIMLmUmBLwEvbLx4="
+    },
+    "type": "primary"
+  },
+  "Woo Tweaks": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0.5",
+      "file_id": 657811,
+      "file_name": "Woo Tweaks-150600-1-0-5-1755787549.7z",
+      "mod_id": 150600,
+      "hash": "sha256-qMV0r2RQ+XSVxRKJufu7JUmEL5MSM3oGo4WhTcVXKm0="
+    }
+  },
+  "EXPERIMENTAL ESLifier Compactor Output": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "5.0.0",
+      "file_id": 670851,
+      "file_name": "EXPERIMENTAL ESLifier Compactor Output-150600-5-0-0-1759252019.7z",
+      "mod_id": 150600,
+      "hash": "sha256-pTRo5KZKDpjTnxAT2cAr/jnNtdyY9Sc4YHU77RwlEBM="
+    }
+  }
+}

@@ -1,13 +1,13 @@
 {
-  "Sanguine's Ultimatum - CBBE 3BA Bodyslide Preset": {
-    "nexusmods": {
-      "game_name": "skyrimspecialedition",
-      "version": "1.0a",
-      "file_id": 616909,
-      "file_name": "Sanguine's Ultimatum - CBBE 3BA Bodyslide Preset-147557-1-0a-1744563033.7z",
-      "mod_id": 147557,
-      "hash": "sha256-jYlGJQhABtzt2K67N0iMulbkzd96B4dqjh7bWXR9Db0="
-    },
-    "type": "primary"
-  }
+    "Sanguine's Ultimatum - CBBE 3BA Bodyslide Preset": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "1.0a",
+            "file_id": 616909,
+            "file_name": "Sanguine's Ultimatum - CBBE 3BA Bodyslide Preset-147557-1-0a-1744563033.7z",
+            "mod_id": 147557,
+            "hash": "sha256-jYlGJQhABtzt2K67N0iMulbkzd96B4dqjh7bWXR9Db0="
+        },
+        "type": "primary"
+    }
 }

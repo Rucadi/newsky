@@ -1,0 +1,94 @@
+{
+  "Glow of The Gildergreen - Default": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 641632,
+      "file_name": "Glow of The Gildergreen - Default-153600-1-0-1750880975.7z",
+      "mod_id": 153600,
+      "hash": "sha256-8OJx/et3ZEqY0qywBHqmvlUWfxvYlDlMNJkhB1WMiiY="
+    },
+    "type": "primary"
+  },
+  "Glow of The Gildergreen - Light Blue": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 641633,
+      "file_name": "Glow of The Gildergreen - Light Blue-153600-1-0-1750881096.7z",
+      "mod_id": 153600,
+      "hash": "sha256-goIE50UKCinOBlMX6o6kaAlGzfFIRQJJ6bpkkiCVAa8="
+    },
+    "type": "primary"
+  },
+  "Glow of The Gildergreen - G.I.R.T.H. - Default": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 641798,
+      "file_name": "Glow of The Gildergreen - G.I.R.T.H. - Default-153600-1-0-1750927253.7z",
+      "mod_id": 153600,
+      "hash": "sha256-2G7O4nO+Vd5a+ZQBFnIFQqi/dBMuzM+MahCkdx5kL+A="
+    }
+  },
+  "Glow of The Gildergreen - G.I.R.T.H. - Light Blue": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 641799,
+      "file_name": "Glow of The Gildergreen - G.I.R.T.H. - Light Blue-153600-1-0-1750927346.7z",
+      "mod_id": 153600,
+      "hash": "sha256-koFOQY1n1qgzvqPEvQBkdNJc3hDQkTVkYrab8HLBWiA="
+    }
+  },
+  "GoTG - Ancient Trees of Skyrim - Default": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 641914,
+      "file_name": "GoTG - Ancient Trees of Skyrim - Default-153600-1-0-1750964227.7z",
+      "mod_id": 153600,
+      "hash": "sha256-7dQgHOalRX5b2Dpu9GwP0SBgWK7VsfBp0pcTHpbT4Fs="
+    }
+  },
+  "GoTG - Ancient Trees of Skyrim - Light Blue": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 641915,
+      "file_name": "GoTG - Ancient Trees of Skyrim - Light Blue-153600-1-0-1750964311.7z",
+      "mod_id": 153600,
+      "hash": "sha256-CGl2QdeeQ7cm5PA+W+KXGulEr+cY9o32513Sg4lNFTs="
+    }
+  },
+  "Glow of The Gildergreen - Kaanreyth": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 643051,
+      "file_name": "Glow of The Gildergreen - Kaanreyth-153600-1-0-1751316854.7z",
+      "mod_id": 153600,
+      "hash": "sha256-p3Oi7nk5EJZVis3ky9/Ou7XDmZVYvVajS8gYB9KHyOk="
+    }
+  },
+  "GotG - Ivy's NotWL Standalone Patch - Pink": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 654699,
+      "file_name": "GotG - Ivy's NotWL Standalone Patch - Pink-153600-1-0-1754914631.7z",
+      "mod_id": 153600,
+      "hash": "sha256-FKEj/uhCfF3XFR13/pP4okSUZvIMpw1NPOnnSu1qDcU="
+    }
+  },
+  "GotG - Ivy's NotWL Standalone Patch - Blue": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 654700,
+      "file_name": "GotG - Ivy's NotWL Standalone Patch - Blue-153600-1-0-1754914682.7z",
+      "mod_id": 153600,
+      "hash": "sha256-8xLUo1tYIx+RPwz64P4RxdGEpaF7rD9sI6PqDCDEXxU="
+    }
+  }
+}

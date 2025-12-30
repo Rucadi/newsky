@@ -1,0 +1,24 @@
+{
+  "shadowman_narriSL": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1",
+      "file_id": 643842,
+      "file_name": "shadowman_narriSL-154075-1-1751575851.rar",
+      "mod_id": 154075,
+      "hash": "sha256-cMu66i7ysZSfjys+Lg2r45KIq17J0UNTtNqx0NDmYRQ="
+    },
+    "type": "primary"
+  },
+  "shadowman_narriFG": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1",
+      "file_id": 643843,
+      "file_name": "shadowman_narriFG-154075-1-1751575875.rar",
+      "mod_id": 154075,
+      "hash": "sha256-rMtmLloklkQDu0JKp05m8+0iS5CJLdIbCp3gG+NZ2Ug="
+    },
+    "type": "primary"
+  }
+}

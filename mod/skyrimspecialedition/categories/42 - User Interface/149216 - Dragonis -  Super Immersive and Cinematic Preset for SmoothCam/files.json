@@ -1,13 +1,13 @@
 {
-  "Dragonis SmoothCam": {
-    "nexusmods": {
-      "game_name": "skyrimspecialedition",
-      "version": "2.0",
-      "file_id": 636726,
-      "file_name": "Dragonis SmoothCam-149216-2-0-1749621586.zip",
-      "mod_id": 149216,
-      "hash": "sha256-3fIiz1lU1kYCwqakyQjipLJ1T9MRysuHdSCsTfGrFHI="
-    },
-    "type": "primary"
-  }
+    "Dragonis SmoothCam": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "2.0",
+            "file_id": 636726,
+            "file_name": "Dragonis SmoothCam-149216-2-0-1749621586.zip",
+            "mod_id": 149216,
+            "hash": "sha256-3fIiz1lU1kYCwqakyQjipLJ1T9MRysuHdSCsTfGrFHI="
+        },
+        "type": "primary"
+    }
 }

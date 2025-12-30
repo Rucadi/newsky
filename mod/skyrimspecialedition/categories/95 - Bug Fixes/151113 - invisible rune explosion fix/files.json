@@ -1,0 +1,23 @@
+{
+  "invisible rune explosion fix": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0.4",
+      "file_id": 636722,
+      "file_name": "invisible rune explosion fix-151113-1-0-4-1749620705.7z",
+      "mod_id": 151113,
+      "hash": "sha256-q2TLTIYcz73EJ2ISfogcTOOwAeZcQLU2R0SMugPgY/M="
+    },
+    "type": "primary"
+  },
+  "invisible rune explosion fix - 1.5.97": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0.4",
+      "file_id": 636723,
+      "file_name": "invisible rune explosion fix - 1.5.97-151113-1-0-4-1749620799.7z",
+      "mod_id": 151113,
+      "hash": "sha256-6wq3MjdlGMuGmNG+F3SzUzxE4o3B6Vhf3IWU5FM8z6s="
+    }
+  }
+}

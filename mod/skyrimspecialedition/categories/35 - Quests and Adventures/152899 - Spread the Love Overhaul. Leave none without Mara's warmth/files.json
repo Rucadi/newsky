@@ -1,0 +1,23 @@
+{
+  "Spread the Love Overhual": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 638677,
+      "file_name": "Spread the Love Overhual-152899-1-0-1750113849.rar",
+      "mod_id": 152899,
+      "hash": "sha256-tDyohODH3l7UvBxPjed5n5x3muFqx7t28h6wlgifJ/o="
+    },
+    "type": "primary"
+  },
+  "Spread the Love 3dnpcs": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 638678,
+      "file_name": "Spread the Love 3dnpcs-152899-1-0-1750113896.rar",
+      "mod_id": 152899,
+      "hash": "sha256-+dcjr6ldPje/XxoZ3GNPh0dZLo16NZcu9o4HAIYfY7o="
+    }
+  }
+}

@@ -1,13 +1,13 @@
 {
-  "Immersive Dying Nurelion": {
-    "nexusmods": {
-      "game_name": "skyrimspecialedition",
-      "version": "0.2",
-      "file_id": 637350,
-      "file_name": "Immersive Dying Nurelion-152547-0-2-1749814430.7z",
-      "mod_id": 152547,
-      "hash": "sha256-LE6+cPpkBP+RlxoIL8T8m6yECsYqb/fnSz0kZoATdk0="
-    },
-    "type": "primary"
-  }
+    "Immersive Dying Nurelion": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "0.2",
+            "file_id": 637350,
+            "file_name": "Immersive Dying Nurelion-152547-0-2-1749814430.7z",
+            "mod_id": 152547,
+            "hash": "sha256-LE6+cPpkBP+RlxoIL8T8m6yECsYqb/fnSz0kZoATdk0="
+        },
+        "type": "primary"
+    }
 }

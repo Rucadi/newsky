@@ -1,0 +1,63 @@
+{
+  "Diverse Chicken Coops - 1K textures": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.2",
+      "file_id": 639404,
+      "file_name": "Diverse Chicken Coops - 1K textures-152612-1-2-1750315654.rar",
+      "mod_id": 152612,
+      "hash": "sha256-jDiOtu1e+YNFbzqT1ZyZSLBGRNI9JeYUs2pu+uLDHdA="
+    }
+  },
+  "Diverse Chicken Coops": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.4",
+      "file_id": 698510,
+      "file_name": "Diverse Chicken Coops-152612-1-4-1765870026.rar",
+      "mod_id": 152612,
+      "hash": "sha256-KZNZUhX+z/i45w63QR+j7EnLuto6/Hy2yg5v1V33Bo8="
+    },
+    "type": "primary"
+  },
+  "Diverse Chicken Coops - No Ivy": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.4",
+      "file_id": 698528,
+      "file_name": "Diverse Chicken Coops - No Ivy-152612-1-4-1765874589.rar",
+      "mod_id": 152612,
+      "hash": "sha256-jVpgwhsFUkyipiUGwedvaNf5zHbyGgHsqgWcyOyTSco="
+    }
+  },
+  "Diverse Chicken Coops - Ryn's Farms Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.4",
+      "file_id": 698549,
+      "file_name": "Diverse Chicken Coops - Ryn's Farms Patch-152612-1-4-1765880872.rar",
+      "mod_id": 152612,
+      "hash": "sha256-X2fPHs1YqNk0E50Eu2yk0+pU4Vu3+S+663qxiATsOXE="
+    }
+  },
+  "Diverse Chicken Coops - Great Town of Shor's Stone": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.4",
+      "file_id": 698552,
+      "file_name": "Diverse Chicken Coops - Great Town of Shor's Stone-152612-1-4-1765881034.rar",
+      "mod_id": 152612,
+      "hash": "sha256-otNvQVwJVWPli6avfWUSqU4jY8rpv7uxfxCCsvfLGl0="
+    }
+  },
+  "Diverse Chicken Coops - Fortified Morthal Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.4",
+      "file_id": 698557,
+      "file_name": "Diverse Chicken Coops - Fortified Morthal Patch-152612-1-4-1765881229.rar",
+      "mod_id": 152612,
+      "hash": "sha256-oGx5FuK1Kwvi112LhxUzQgHKS+gOBNGq+saJ4ay6lv4="
+    }
+  }
+}

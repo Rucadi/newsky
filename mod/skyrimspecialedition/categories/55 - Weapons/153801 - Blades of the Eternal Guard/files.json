@@ -1,0 +1,64 @@
+{
+  "Meshes - Blades of the Eternal Guard": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 642585,
+      "file_name": "Meshes - Blades of the Eternal Guard-153801-1-0-1751178462.zip",
+      "mod_id": 153801,
+      "hash": "sha256-kTqyCPofrBi1O1EzLrPAkzhZMs/c7y0waYGwQnnQYEg="
+    }
+  },
+  "2K Textures": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1",
+      "file_id": 642587,
+      "file_name": "2K Textures-153801-1-1751178635.zip",
+      "mod_id": 153801,
+      "hash": "sha256-sO0dvIDQcEk5DFsiixVvrJ1S2gu8D+xhR+QNcjc46HM="
+    }
+  },
+  "4K Textures": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1",
+      "file_id": 642588,
+      "file_name": "4K Textures-153801-1-1751178741.zip",
+      "mod_id": 153801,
+      "hash": "sha256-pnzY+x3jgosscUc7NqgZU60dTqzWPvw+ZWdlLPybXhI="
+    }
+  },
+  "8K Textures": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1",
+      "file_id": 642590,
+      "file_name": "8K Textures-153801-1-1751178909.zip",
+      "mod_id": 153801,
+      "hash": "sha256-lh2wLAuHNK0K1s6oLwG9tjw1wY6ItjoYKN+PMI1jhFI="
+    }
+  },
+  "All in one - Blades of the Eternal Guard": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1",
+      "file_id": 642591,
+      "file_name": "All in one - Blades of the Eternal Guard-153801-1-1-1751179364.zip",
+      "mod_id": 153801,
+      "hash": "sha256-IrgptsPTy4h20rPR3hK3zdgyFXPtT68yKOJhINYrgnE="
+    },
+    "type": "primary"
+  },
+  "Blades of the Eternal Guard": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.2",
+      "file_id": 649885,
+      "file_name": "Blades of the Eternal Guard-153801-1-2-1753386442.zip",
+      "mod_id": 153801,
+      "hash": "sha256-fRPed3RRXtnd+yYOp611y3YElu0ZlqjUbvz1mpdR7no="
+    },
+    "type": "primary"
+  }
+}

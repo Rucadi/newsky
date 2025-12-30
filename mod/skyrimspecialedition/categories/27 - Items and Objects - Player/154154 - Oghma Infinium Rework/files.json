@@ -1,0 +1,33 @@
+{
+  "Oghma Infinium Rework 1.0": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 644452,
+      "file_name": "Oghma Infinium Rework 1.0-154154-1-0-1751743791.7z",
+      "mod_id": 154154,
+      "hash": "sha256-/LZvg6/RiBzukvzpQk/WtcHtyQhS23ncilReuNq0pKo="
+    },
+    "type": "primary"
+  },
+  "Oghma Infinium Rework 1.0 CHS": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 644453,
+      "file_name": "Oghma Infinium Rework 1.0-154154-1-0-1751743832.7z",
+      "mod_id": 154154,
+      "hash": "sha256-a7bpUcoYwrvardg3aqo9O5540mcUtjjMc+t/rdLHR74="
+    }
+  },
+  "Oghma Infinium Rework Kanjs Model Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 644455,
+      "file_name": "Oghma Infinium Rework Kanjs Model Patch-154154-1-0-1751743995.zip",
+      "mod_id": 154154,
+      "hash": "sha256-uCT6qZ4RU2/9hrBubNAS5pbn8bLBDJtjuBr/18eQc6Q="
+    }
+  }
+}

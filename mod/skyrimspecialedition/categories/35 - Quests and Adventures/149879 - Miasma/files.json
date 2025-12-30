@@ -45,7 +45,8 @@
       "version": "1.0.0",
       "file_id": 636153,
       "file_name": "Miasma - Forceful Tongue Patch-149879-1-0-0-1749460540.7z",
-      "mod_id": 149879
+      "mod_id": 149879,
+      "hash": "sha256-EW4F0ct93O1Txdq1GBXY+bJhKStADKKCEbZnrTA+LXI="
     }
   },
   "Miasma - Striding Silt Strider Patch": {
@@ -54,7 +55,8 @@
       "version": "1.0.0",
       "file_id": 671886,
       "file_name": "Miasma - Striding Silt Strider Patch-149879-1-0-0-1759509422.7z",
-      "mod_id": 149879
+      "mod_id": 149879,
+      "hash": "sha256-EiPmx+DuoViEzoz/I3PDBWJz2lLWENeUUfH3HwOpy6M="
     }
   },
   "Miasma 1.1.5": {
@@ -63,7 +65,8 @@
       "version": "1.1.5",
       "file_id": 701973,
       "file_name": "Miasma 1.1.5-149879-1-1-5-1766668575.7z",
-      "mod_id": 149879
+      "mod_id": 149879,
+      "hash": "sha256-UDDRVGyfUEsK/lNQdT2pWNH9fDxRHdhwDON5JrEdgOc="
     },
     "type": "primary"
   }

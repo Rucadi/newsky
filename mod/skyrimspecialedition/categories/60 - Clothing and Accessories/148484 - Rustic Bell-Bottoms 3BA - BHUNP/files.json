@@ -1,33 +1,33 @@
 {
-  "Rustic Bell-Bottoms Main": {
-    "nexusmods": {
-      "game_name": "skyrimspecialedition",
-      "version": "1.1",
-      "file_id": 627378,
-      "file_name": "Rustic Bell-Bottoms Main-148484-1-1-1747313551.7z",
-      "mod_id": 148484,
-      "hash": "sha256-vbvEdfWlnzUB3L/45GqCud7AG3plfWXjwS6iVDkh2Cc="
+    "Rustic Bell-Bottoms Main": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "1.1",
+            "file_id": 627378,
+            "file_name": "Rustic Bell-Bottoms Main-148484-1-1-1747313551.7z",
+            "mod_id": 148484,
+            "hash": "sha256-vbvEdfWlnzUB3L/45GqCud7AG3plfWXjwS6iVDkh2Cc="
+        },
+        "type": "primary"
     },
-    "type": "primary"
-  },
-  "Rustic Bell-Bottoms BHUNP": {
-    "nexusmods": {
-      "game_name": "skyrimspecialedition",
-      "version": "1.1.1",
-      "file_id": 667135,
-      "file_name": "Rustic Bell-Bottoms BHUNP-148484-1-1-1-1758231488.7z",
-      "mod_id": 148484,
-      "hash": "sha256-HvLHoEQEeYgUOmPbHh23XV9gjeJID01LDCO9PInkFP0="
+    "Rustic Bell-Bottoms BHUNP": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "1.1.1",
+            "file_id": 667135,
+            "file_name": "Rustic Bell-Bottoms BHUNP-148484-1-1-1-1758231488.7z",
+            "mod_id": 148484,
+            "hash": "sha256-HvLHoEQEeYgUOmPbHh23XV9gjeJID01LDCO9PInkFP0="
+        }
+    },
+    "Rustic Bell-Bottoms 3BA": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "1.2",
+            "file_id": 690146,
+            "file_name": "Rustic Bell-Bottoms 3BA-148484-1-2-1763850344.7z",
+            "mod_id": 148484,
+            "hash": "sha256-Z06hYBoAYeCUWdyjT3yzDmXuJFchHmYAV5z2cKgztJc="
+        }
     }
-  },
-  "Rustic Bell-Bottoms 3BA": {
-    "nexusmods": {
-      "game_name": "skyrimspecialedition",
-      "version": "1.2",
-      "file_id": 690146,
-      "file_name": "Rustic Bell-Bottoms 3BA-148484-1-2-1763850344.7z",
-      "mod_id": 148484,
-      "hash": "sha256-Z06hYBoAYeCUWdyjT3yzDmXuJFchHmYAV5z2cKgztJc="
-    }
-  }
 }

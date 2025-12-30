@@ -1,0 +1,53 @@
+{
+  "A Friend in Mead - Dizzying Fall Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 631454,
+      "file_name": "A Friend in Mead - Dizzying Fall Patch-150999-1-0-1748268172.7z",
+      "mod_id": 150999,
+      "hash": "sha256-5fzLl/UOg1swuHKcN6bC+0QUMEtejxyjF4Q7h/S055w="
+    }
+  },
+  "A Friend in Mead - Old Orc Overhaul Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 631455,
+      "file_name": "A Friend in Mead - Old Orc Overhaul Patch-150999-1-0-1748268208.7z",
+      "mod_id": 150999,
+      "hash": "sha256-tIwkRlT0ckSvPNlw46riGz+FQZzcbi0ScHgbR49E6Yc="
+    }
+  },
+  "A Friend in Mead - Whispers of the Depths": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 631474,
+      "file_name": "A Friend in Mead - Whispers of the Depths-150999-1-0-1748270590.7z",
+      "mod_id": 150999,
+      "hash": "sha256-6/811IFc6FEDNivjbEVNIO94tw7Axj7wuREJ0m6mnC4="
+    }
+  },
+  "A Friend in Mead - Old Orc Overhaul Patch - No Dep": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 632266,
+      "file_name": "A Friend in Mead - Old Orc Overhaul Patch - No Dep-150999-1-0-1748456261.7z",
+      "mod_id": 150999,
+      "hash": "sha256-aBYrFjklkkIPuQBPHXYc5xvK/HEM59xPFGIwTGPkilc="
+    }
+  },
+  "A Friend in Mead - ESL": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0.2",
+      "file_id": 660399,
+      "file_name": "A Friend in Mead - ESL-150999-1-0-2-1756491979.zip",
+      "mod_id": 150999,
+      "hash": "sha256-59QlhAct9fs58qs6LXxESH9EXRiuzBmIjjsliIOFajo="
+    },
+    "type": "primary"
+  }
+}

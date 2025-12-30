@@ -26,7 +26,8 @@
       "version": "1.0",
       "file_id": 624462,
       "file_name": "Daymarr Fortuna's Favor - COCOBody CBBE SE-149329-1-0-1746567711.7z",
-      "mod_id": 149329
+      "mod_id": 149329,
+      "hash": "sha256-y+pMoGKRejs2Hk5Fg6tUcmtDpuDmaXuruCbbYwOx7t8="
     },
     "type": "primary"
   },
@@ -36,7 +37,8 @@
       "version": "1.0",
       "file_id": 624463,
       "file_name": "Daymarr Fortuna's Favor - COCOBody UUNP SE-149329-1-0-1746567902.7z",
-      "mod_id": 149329
+      "mod_id": 149329,
+      "hash": "sha256-A+YMwKMcYm9GAG3vYkpwrf+TFBfj/X0i6Wn544m5Oy4="
     },
     "type": "primary"
   }

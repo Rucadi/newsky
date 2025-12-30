@@ -1,0 +1,24 @@
+{
+  "Alchemist's Arsenal - Just Potions and Poisons": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.2",
+      "file_id": 635372,
+      "file_name": "Alchemist's Arsenal - Just Potions and Poisons-150909-1-2-1749245768.zip",
+      "mod_id": 150909,
+      "hash": "sha256-b9PMR1YaPRsVUzTLf/IVWGozAZu+l3ehSFd65qLRjf4="
+    },
+    "type": "primary"
+  },
+  "Alchemist's Arsenal": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.2",
+      "file_id": 655324,
+      "file_name": "Alchemist's Arsenal-150909-1-2-1755120582.zip",
+      "mod_id": 150909,
+      "hash": "sha256-adWmlla8DkAY2oJ3Gynw6GZuMuUEwdOxQfHCccyIgLo="
+    },
+    "type": "primary"
+  }
+}

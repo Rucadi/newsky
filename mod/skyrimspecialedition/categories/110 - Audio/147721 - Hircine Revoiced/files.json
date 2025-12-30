@@ -1,33 +1,33 @@
 {
-  "Hircine Revoiced": {
-    "nexusmods": {
-      "game_name": "skyrimspecialedition",
-      "version": "1.0",
-      "file_id": 617420,
-      "file_name": "Hircine Revoiced-147721-1-0-1744684813.zip",
-      "mod_id": 147721,
-      "hash": "sha256-mmkL7MuZuBSUDHF2qQWC0fM+H2zvc5ncuEZ9VID6URI="
+    "Hircine Revoiced": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "1.0",
+            "file_id": 617420,
+            "file_name": "Hircine Revoiced-147721-1-0-1744684813.zip",
+            "mod_id": 147721,
+            "hash": "sha256-mmkL7MuZuBSUDHF2qQWC0fM+H2zvc5ncuEZ9VID6URI="
+        },
+        "type": "primary"
     },
-    "type": "primary"
-  },
-  "Hircine Revoiced - Daedric Voices Patch": {
-    "nexusmods": {
-      "game_name": "skyrimspecialedition",
-      "version": "1.0",
-      "file_id": 619184,
-      "file_name": "Hircine Revoiced - Daedric Voices Patch-147721-1-0-1745108609.zip",
-      "mod_id": 147721,
-      "hash": "sha256-BhDaanLPBxxEd7Uxb7zXD5YsFFVZ4crzRKff5lF75IU="
+    "Hircine Revoiced - Daedric Voices Patch": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "1.0",
+            "file_id": 619184,
+            "file_name": "Hircine Revoiced - Daedric Voices Patch-147721-1-0-1745108609.zip",
+            "mod_id": 147721,
+            "hash": "sha256-BhDaanLPBxxEd7Uxb7zXD5YsFFVZ4crzRKff5lF75IU="
+        }
+    },
+    "Hircine Revoiced - AFDI Patch": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "1.0",
+            "file_id": 619185,
+            "file_name": "Hircine Revoiced - AFDI Patch-147721-1-0-1745108640.zip",
+            "mod_id": 147721,
+            "hash": "sha256-Ac687e0Eo+Oc8ym3rBJjnJ/lFIDcdFC56KyX1uurDLY="
+        }
     }
-  },
-  "Hircine Revoiced - AFDI Patch": {
-    "nexusmods": {
-      "game_name": "skyrimspecialedition",
-      "version": "1.0",
-      "file_id": 619185,
-      "file_name": "Hircine Revoiced - AFDI Patch-147721-1-0-1745108640.zip",
-      "mod_id": 147721,
-      "hash": "sha256-Ac687e0Eo+Oc8ym3rBJjnJ/lFIDcdFC56KyX1uurDLY="
-    }
-  }
 }

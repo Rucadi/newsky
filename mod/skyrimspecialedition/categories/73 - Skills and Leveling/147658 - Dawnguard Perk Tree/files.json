@@ -1,13 +1,13 @@
 {
-  "Dawnguard Perk Tree": {
-    "nexusmods": {
-      "game_name": "skyrimspecialedition",
-      "version": "1.1",
-      "file_id": 659942,
-      "file_name": "Dawnguard Perk Tree-147658-1-1-1756347387.rar",
-      "mod_id": 147658,
-      "hash": "sha256-a0SLySZbPKdC6HbRFXR/+Uq3NHBW8XFyembwbIkKt8E="
-    },
-    "type": "primary"
-  }
+    "Dawnguard Perk Tree": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "1.1",
+            "file_id": 659942,
+            "file_name": "Dawnguard Perk Tree-147658-1-1-1756347387.rar",
+            "mod_id": 147658,
+            "hash": "sha256-a0SLySZbPKdC6HbRFXR/+Uq3NHBW8XFyembwbIkKt8E="
+        },
+        "type": "primary"
+    }
 }

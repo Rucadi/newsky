@@ -1,0 +1,24 @@
+{
+  "Hank's Heavy Terrain Noise": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 636761,
+      "file_name": "Hank's Heavy Terrain Noise-152390-1-0-1749633922.zip",
+      "mod_id": 152390,
+      "hash": "sha256-keXTK2rtfi1doOxymJnuhdvbw4q3XVz8npk2414twOs="
+    },
+    "type": "primary"
+  },
+  "V2 (more subtle)": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 636809,
+      "file_name": "V2 (more subtle)-152390-1-0-1749648649.zip",
+      "mod_id": 152390,
+      "hash": "sha256-Zt0x+qgfUam89XSFP0JrViZbX8wNJdoM1q+cA850bmg="
+    },
+    "type": "primary"
+  }
+}

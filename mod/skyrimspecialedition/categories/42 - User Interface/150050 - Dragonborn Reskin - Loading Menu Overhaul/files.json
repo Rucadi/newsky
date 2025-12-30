@@ -27,7 +27,8 @@
       "version": "1.0",
       "file_id": 627211,
       "file_name": "Dragonborn Reskin - Loading Menu Overhaul-150050-1-0-1747257157.zip",
-      "mod_id": 150050
+      "mod_id": 150050,
+      "hash": "sha256-Cjs1FF/PiWBDWVYjH5L04f5iquC/6nrfw84UBiBzeB0="
     },
     "type": "primary"
   },
@@ -37,7 +38,8 @@
       "version": "1.0",
       "file_id": 628931,
       "file_name": "Version with hidden buttons and centered lvl bar-150050-1-0-1747669275.zip",
-      "mod_id": 150050
+      "mod_id": 150050,
+      "hash": "sha256-eyyJIzzi11Vr1R6nbyDfL+lw9GXwoTxjTkrCI3jxbSE="
     },
     "type": "primary"
   },
@@ -47,7 +49,8 @@
       "version": "1.0",
       "file_id": 628933,
       "file_name": "Version with hidden buttons and no lvl bar-150050-1-0-1747669440.zip",
-      "mod_id": 150050
+      "mod_id": 150050,
+      "hash": "sha256-DXTLnq2+cjSwX8JfC+JMTCJx9VJWrcNtMAU+Ey/NF7Q="
     },
     "type": "primary"
   },
@@ -57,7 +60,8 @@
       "version": "1.1",
       "file_id": 629136,
       "file_name": "New button art for SkyUI menus-150050-1-1-1747744659.zip",
-      "mod_id": 150050
+      "mod_id": 150050,
+      "hash": "sha256-F1RXMooSRJyWl+X0AK01JLmwCD6d11bCNAEmvPA5Ap4="
     }
   }
 }

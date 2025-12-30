@@ -1,13 +1,13 @@
 {
-  "First Person Animations - For some mods": {
-    "nexusmods": {
-      "game_name": "skyrimspecialedition",
-      "version": "1.2",
-      "file_id": 685097,
-      "file_name": "First Person Animations - For some mods-148289-1-2-1762569176.zip",
-      "mod_id": 148289,
-      "hash": "sha256-PpjmPo1jIfAGZl301KF+TNULcWr99pBoErXXAwctUWU="
-    },
-    "type": "primary"
-  }
+    "First Person Animations - For some mods": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "1.2",
+            "file_id": 685097,
+            "file_name": "First Person Animations - For some mods-148289-1-2-1762569176.zip",
+            "mod_id": 148289,
+            "hash": "sha256-PpjmPo1jIfAGZl301KF+TNULcWr99pBoErXXAwctUWU="
+        },
+        "type": "primary"
+    }
 }

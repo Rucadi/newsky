@@ -1,0 +1,23 @@
+{
+  "Hail - Knockout Extentions Add On": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 666450,
+      "file_name": "Hail - Knockout Extentions patch-150258-1-0-1758059095.7z",
+      "mod_id": 150258,
+      "hash": "sha256-4RchLQNPc2z2SAbkqlC5Gak/nDvcA7r+ukFXe93PN98="
+    }
+  },
+  "Hail": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "5.07",
+      "file_id": 677749,
+      "file_name": "Hail-150258-5-07-1760842950.7z",
+      "mod_id": 150258,
+      "hash": "sha256-t2bQztaDU4H+WRSbCxIUG1meQE3o51bCKUZ41R90Ra4="
+    },
+    "type": "primary"
+  }
+}

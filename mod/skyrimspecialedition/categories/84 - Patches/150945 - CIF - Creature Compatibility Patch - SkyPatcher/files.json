@@ -1,0 +1,33 @@
+{
+  "CIF - Creature Patch - SS Sound Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "2.02",
+      "file_id": 635461,
+      "file_name": "CIF - Creature Patch - SS Sound Patch-150945-2-02-1749270583.zip",
+      "mod_id": 150945,
+      "hash": "sha256-MjzR1aYOajPHm84jaD6vgxAMr0JgjkQWlE9cMXjWoK8="
+    }
+  },
+  "CIF - Creature Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "2.4",
+      "file_id": 639427,
+      "file_name": "CIF - Creature Patch-150945-2-4-1750324092.zip",
+      "mod_id": 150945,
+      "hash": "sha256-FMkgChu9R6DaUFTMQt/r9yDurbNPEXKWUGD911jCto4="
+    },
+    "type": "primary"
+  },
+  "CIF - Creature Patch - TRD Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "2.4",
+      "file_id": 639428,
+      "file_name": "CIF - Creature Patch - TRD Patch-150945-2-4-1750324346.zip",
+      "mod_id": 150945,
+      "hash": "sha256-OXW6JMhbhO18M4NRsMEeA6u1fxvx6RqxVhrjpzm940U="
+    }
+  }
+}

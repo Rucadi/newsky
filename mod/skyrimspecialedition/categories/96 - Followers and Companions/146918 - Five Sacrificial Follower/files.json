@@ -1,23 +1,23 @@
 {
-  "Sacrificial Followers": {
-    "nexusmods": {
-      "game_name": "skyrimspecialedition",
-      "version": "1",
-      "file_id": 614368,
-      "file_name": "Sacrificial Followers-146918-1-1743899076.zip",
-      "mod_id": 146918,
-      "hash": "sha256-XfPAPMtx54LNe5NcxcDaDHBd2nn4YMIT+ee7Y6oQ1EA="
+    "Sacrificial Followers": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "1",
+            "file_id": 614368,
+            "file_name": "Sacrificial Followers-146918-1-1743899076.zip",
+            "mod_id": 146918,
+            "hash": "sha256-XfPAPMtx54LNe5NcxcDaDHBd2nn4YMIT+ee7Y6oQ1EA="
+        },
+        "type": "primary"
     },
-    "type": "primary"
-  },
-  "Missing Orc dude": {
-    "nexusmods": {
-      "game_name": "skyrimspecialedition",
-      "version": "1.1",
-      "file_id": 614370,
-      "file_name": "Missing Orc dude-146918-1-1-1743899398.zip",
-      "mod_id": 146918,
-      "hash": "sha256-bSapzbmDPmjp74dXDQv6JdRYiwgS09wrXyhVAfDJC/w="
+    "Missing Orc dude": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "1.1",
+            "file_id": 614370,
+            "file_name": "Missing Orc dude-146918-1-1-1743899398.zip",
+            "mod_id": 146918,
+            "hash": "sha256-bSapzbmDPmjp74dXDQv6JdRYiwgS09wrXyhVAfDJC/w="
+        }
     }
-  }
 }

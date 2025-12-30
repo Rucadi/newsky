@@ -1,23 +1,23 @@
 {
-  "Silent Reverence - Gabrielle - Chooey's Choice": {
-    "nexusmods": {
-      "game_name": "skyrimspecialedition",
-      "version": "1.0.0",
-      "file_id": 625880,
-      "file_name": "Silent Reverence - Gabrielle - Chooey's Choice-149346-1-0-0-1746926086.7z",
-      "mod_id": 149346,
-      "hash": "sha256-UE9SJZPbqvLSO+EdgJFWHiBB7giN6P9Y9kVgvcX4Ilc="
+    "Silent Reverence - Gabrielle - Chooey's Choice": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "1.0.0",
+            "file_id": 625880,
+            "file_name": "Silent Reverence - Gabrielle - Chooey's Choice-149346-1-0-0-1746926086.7z",
+            "mod_id": 149346,
+            "hash": "sha256-UE9SJZPbqvLSO+EdgJFWHiBB7giN6P9Y9kVgvcX4Ilc="
+        },
+        "type": "primary"
     },
-    "type": "primary"
-  },
-  "Gabrielle - Chooey's Choice - Celestine Patch": {
-    "nexusmods": {
-      "game_name": "skyrimspecialedition",
-      "version": "1.0.0",
-      "file_id": 625892,
-      "file_name": "Gabrielle - Chooey's Choice - Celestine Patch-149346-1-0-0-1746927993.7z",
-      "mod_id": 149346,
-      "hash": "sha256-KTBlUf2+uf2x1TfOe4XXpDGgWfQgvttI/nzPYelKdoQ="
+    "Gabrielle - Chooey's Choice - Celestine Patch": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "1.0.0",
+            "file_id": 625892,
+            "file_name": "Gabrielle - Chooey's Choice - Celestine Patch-149346-1-0-0-1746927993.7z",
+            "mod_id": 149346,
+            "hash": "sha256-KTBlUf2+uf2x1TfOe4XXpDGgWfQgvttI/nzPYelKdoQ="
+        }
     }
-  }
 }

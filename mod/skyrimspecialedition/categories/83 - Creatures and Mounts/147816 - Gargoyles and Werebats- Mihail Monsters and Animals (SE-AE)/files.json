@@ -1,13 +1,13 @@
 {
-  "Gargoyles and Werebats (se-ae)": {
-    "nexusmods": {
-      "game_name": "skyrimspecialedition",
-      "version": "1",
-      "file_id": 617846,
-      "file_name": "Gargoyles and Werebats (se-ae)-147816-1-1744806297.rar",
-      "mod_id": 147816,
-      "hash": "sha256-6Olv8gEK69n4s1jTfdJGKybwNhNwozZXYRCjse0Olmo="
-    },
-    "type": "primary"
-  }
+    "Gargoyles and Werebats (se-ae)": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "1",
+            "file_id": 617846,
+            "file_name": "Gargoyles and Werebats (se-ae)-147816-1-1744806297.rar",
+            "mod_id": 147816,
+            "hash": "sha256-6Olv8gEK69n4s1jTfdJGKybwNhNwozZXYRCjse0Olmo="
+        },
+        "type": "primary"
+    }
 }

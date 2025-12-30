@@ -1,23 +1,23 @@
 {
-  "Hide Legs": {
-    "nexusmods": {
-      "game_name": "skyrimspecialedition",
-      "version": "1.0",
-      "file_id": 636932,
-      "file_name": "Hide Legs-147688-1-0-1749689483.7z",
-      "mod_id": 147688,
-      "hash": "sha256-oXXHof+6NX47l+byMTFLe9KcQja7nglS/tHk+LqdbBU="
-    }
-  },
-  "Penelope 3BA": {
-    "nexusmods": {
-      "game_name": "skyrimspecialedition",
-      "version": "1.01",
-      "file_id": 638552,
-      "file_name": "Penelope 3BA-147688-1-01-1750087860.7z",
-      "mod_id": 147688,
-      "hash": "sha256-hKUtz896MBIxh2L7C316bF9ycDnSgLLVOk4OKbLPK0A="
+    "Hide Legs": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "1.0",
+            "file_id": 636932,
+            "file_name": "Hide Legs-147688-1-0-1749689483.7z",
+            "mod_id": 147688,
+            "hash": "sha256-oXXHof+6NX47l+byMTFLe9KcQja7nglS/tHk+LqdbBU="
+        }
     },
-    "type": "primary"
-  }
+    "Penelope 3BA": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "1.01",
+            "file_id": 638552,
+            "file_name": "Penelope 3BA-147688-1-01-1750087860.7z",
+            "mod_id": 147688,
+            "hash": "sha256-hKUtz896MBIxh2L7C316bF9ycDnSgLLVOk4OKbLPK0A="
+        },
+        "type": "primary"
+    }
 }

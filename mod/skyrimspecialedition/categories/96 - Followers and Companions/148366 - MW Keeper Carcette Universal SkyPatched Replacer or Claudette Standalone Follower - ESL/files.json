@@ -1,33 +1,33 @@
 {
-  "MW Keeper Carcette FOMOD - ESL": {
-    "nexusmods": {
-      "game_name": "skyrimspecialedition",
-      "version": "1.0",
-      "file_id": 620896,
-      "file_name": "MW Keeper Carcette FOMOD - ESL-148366-1-0-1745548393.zip",
-      "mod_id": 148366,
-      "hash": "sha256-fQXhMjDg3RAFgMe38GlpfQId6mhNMg5j5EGH/d1/CTQ="
+    "MW Keeper Carcette FOMOD - ESL": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "1.0",
+            "file_id": 620896,
+            "file_name": "MW Keeper Carcette FOMOD - ESL-148366-1-0-1745548393.zip",
+            "mod_id": 148366,
+            "hash": "sha256-fQXhMjDg3RAFgMe38GlpfQId6mhNMg5j5EGH/d1/CTQ="
+        },
+        "type": "primary"
     },
-    "type": "primary"
-  },
-  "MW Claudette Vampire - ESL": {
-    "nexusmods": {
-      "game_name": "skyrimspecialedition",
-      "version": "1.0",
-      "file_id": 620909,
-      "file_name": "MW Claudette Vampire - ESL-148366-1-0-1745551114.zip",
-      "mod_id": 148366,
-      "hash": "sha256-SkxgY0oWBUJbLXBNE2ZaHc1X35RpaDpUN2iwkn4iC48="
+    "MW Claudette Vampire - ESL": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "1.0",
+            "file_id": 620909,
+            "file_name": "MW Claudette Vampire - ESL-148366-1-0-1745551114.zip",
+            "mod_id": 148366,
+            "hash": "sha256-SkxgY0oWBUJbLXBNE2ZaHc1X35RpaDpUN2iwkn4iC48="
+        }
+    },
+    "MW Claudette Vigilant - ESL": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "1.0",
+            "file_id": 620911,
+            "file_name": "MW Claudette Vigilant - ESL-148366-1-0-1745551298.zip",
+            "mod_id": 148366,
+            "hash": "sha256-o8Oub0ULCspYZuAMDq9uB+MKlLGJYdQNqzqzeFKLg4w="
+        }
     }
-  },
-  "MW Claudette Vigilant - ESL": {
-    "nexusmods": {
-      "game_name": "skyrimspecialedition",
-      "version": "1.0",
-      "file_id": 620911,
-      "file_name": "MW Claudette Vigilant - ESL-148366-1-0-1745551298.zip",
-      "mod_id": 148366,
-      "hash": "sha256-o8Oub0ULCspYZuAMDq9uB+MKlLGJYdQNqzqzeFKLg4w="
-    }
-  }
 }

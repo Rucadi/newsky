@@ -1,13 +1,13 @@
 {
-  "Mun-Naak": {
-    "nexusmods": {
-      "game_name": "skyrimspecialedition",
-      "version": "1.0",
-      "file_id": 623053,
-      "file_name": "Mun-Naak-149061-1-0-1746229600.7z",
-      "mod_id": 149061,
-      "hash": "sha256-47tYj+BnZqX6jErEzyIaBCk7yJz/zLBJyJxG02+bABg="
-    },
-    "type": "primary"
-  }
+    "Mun-Naak": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "1.0",
+            "file_id": 623053,
+            "file_name": "Mun-Naak-149061-1-0-1746229600.7z",
+            "mod_id": 149061,
+            "hash": "sha256-47tYj+BnZqX6jErEzyIaBCk7yJz/zLBJyJxG02+bABg="
+        },
+        "type": "primary"
+    }
 }

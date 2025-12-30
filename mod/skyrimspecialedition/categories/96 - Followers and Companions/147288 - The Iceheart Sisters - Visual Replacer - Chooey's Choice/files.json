@@ -1,13 +1,13 @@
 {
-  "The Iceheart Sisters - Chooey's Choice": {
-    "nexusmods": {
-      "game_name": "skyrimspecialedition",
-      "version": "1.0.1",
-      "file_id": 616526,
-      "file_name": "The Iceheart Sisters - Chooey's Choice-147288-1-0-1-1744496691.7z",
-      "mod_id": 147288,
-      "hash": "sha256-TI4QEonifJX91yGYp2fAYutGLnovByBTPYDkwPv163M="
-    },
-    "type": "primary"
-  }
+    "The Iceheart Sisters - Chooey's Choice": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "1.0.1",
+            "file_id": 616526,
+            "file_name": "The Iceheart Sisters - Chooey's Choice-147288-1-0-1-1744496691.7z",
+            "mod_id": 147288,
+            "hash": "sha256-TI4QEonifJX91yGYp2fAYutGLnovByBTPYDkwPv163M="
+        },
+        "type": "primary"
+    }
 }

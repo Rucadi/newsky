@@ -1,0 +1,44 @@
+{
+  "Blacksted Armors Mashup AIO": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "2.0.0",
+      "file_id": 678328,
+      "file_name": "Blacksted Armors Mashup AIO-151200-2-0-0-1760933348.zip",
+      "mod_id": 151200,
+      "hash": "sha256-syEyFX0w2g2qXQxgpA5Q08yDSiwCKyhrr88O9a3Dggo="
+    },
+    "type": "primary"
+  },
+  "Blacksted Armors Mashup (Vanilla)": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "2.0.0",
+      "file_id": 678329,
+      "file_name": "Blacksted Armors Mashup (Vanilla)-151200-2-0-0-1760933621.zip",
+      "mod_id": 151200,
+      "hash": "sha256-wn820rfdWKjDTqO74DVoMyrS4Czvdw3Km/TykHznRAo="
+    },
+    "type": "primary"
+  },
+  "B.A.M. 3BA Bodyslides": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "2.0.0",
+      "file_id": 678330,
+      "file_name": "B.A.M. 3BA Bodyslides-151200-2-0-0-1760933762.zip",
+      "mod_id": 151200,
+      "hash": "sha256-bJMk8/33ygajicHd7xPVTgPR6Z5iPx7R6TJDawEOnNs="
+    }
+  },
+  "B.A.M. HIMBO Bodyslides": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "2.0.0",
+      "file_id": 678331,
+      "file_name": "B.A.M. HIMBO Bodyslides-151200-2-0-0-1760933860.zip",
+      "mod_id": 151200,
+      "hash": "sha256-IMJNNAKy7MVVdexmrgvtcfieiAldabsI32vlFzDEPP0="
+    }
+  }
+}

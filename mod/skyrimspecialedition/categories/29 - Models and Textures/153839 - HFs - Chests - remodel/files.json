@@ -1,0 +1,45 @@
+{
+  "HFs - Chests - remodel - 1K": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1",
+      "file_id": 650348,
+      "file_name": "HFs - Chests - remodel - 1K-153839-1-1-1753541028.rar",
+      "mod_id": 153839,
+      "hash": "sha256-qwdlcYLd0Io04UQ88250vXwrvTmw0SWcoV6XU8t9hwo="
+    },
+    "type": "primary"
+  },
+  "HFs - Chests - remodel - 2K": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1",
+      "file_id": 650349,
+      "file_name": "HFs - Chests - remodel - 2K-153839-1-1-1753541067.rar",
+      "mod_id": 153839,
+      "hash": "sha256-OmpZac9uIqSaHGde3d34jj1Jh0yg1uhE7BfOx0d5m5k="
+    },
+    "type": "primary"
+  },
+  "HFs - Chests - remodel - 4K": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1",
+      "file_id": 650351,
+      "file_name": "HFs - Chests - remodel - 4K-153839-1-1-1753541136.rar",
+      "mod_id": 153839,
+      "hash": "sha256-vz24mKjglypgvQPo59Z/vZhOwWz1e+J2GgjHA45M8Dg="
+    },
+    "type": "primary"
+  },
+  "HFs - Chests - remodel - Ukrainian translation": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1.1",
+      "file_id": 654581,
+      "file_name": "HFs - Chests - remodel - Ukrainian translation-153839-1-1-1-1754862322.rar",
+      "mod_id": 153839,
+      "hash": "sha256-uE5qQ0Ub0XmnFzEMs0gBu1Fc2TVUU3bt5mnkepaW3vs="
+    }
+  }
+}

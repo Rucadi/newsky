@@ -1,0 +1,23 @@
+{
+  "Talkative Draugr": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 635610,
+      "file_name": "Talkative Draugr-152128-1-0-1749309978.7z",
+      "mod_id": 152128,
+      "hash": "sha256-9FYX1UA+Hmbu1mTEmq4L5gliUekuP0Q5bUBC9zHBwrI="
+    },
+    "type": "primary"
+  },
+  "Talkative Draugr - Voice condition": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 638214,
+      "file_name": "Talkative Draugr - Voice condition-152128-1-0-1750004636.7z",
+      "mod_id": 152128,
+      "hash": "sha256-DNtA6ahPATc+IZYtbrP22ctsFZx+KCY6ffgSLAu2ims="
+    }
+  }
+}

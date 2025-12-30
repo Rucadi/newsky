@@ -1,63 +1,63 @@
 {
-  "Nature of the Wildlands Patch": {
-    "nexusmods": {
-      "game_name": "skyrimspecialedition",
-      "version": "1.2.0",
-      "file_id": 618003,
-      "file_name": "Nature of the Wildlands Patch-147742-1-0-0-1744840541.7z",
-      "mod_id": 147742,
-      "hash": "sha256-fbg4K/OKbFifria68QW+/DSJOWik+dWv1UcmY2dBqj8="
-    }
-  },
-  "USSEP Patch": {
-    "nexusmods": {
-      "game_name": "skyrimspecialedition",
-      "version": "1.2.0",
-      "file_id": 620626,
-      "file_name": "USSEP Patch-147742-1-1-0-1745475716.zip",
-      "mod_id": 147742,
-      "hash": "sha256-kpCABNePnKRfNN1RejTQuQ0Q0mhDbKx0W69DFIohTkI="
-    }
-  },
-  "Guard Dialogue Overhaul Patch": {
-    "nexusmods": {
-      "game_name": "skyrimspecialedition",
-      "version": "1.2.0",
-      "file_id": 620627,
-      "file_name": "Guard Dialogue Overhaul Patch-147742-1-1-0-1745475783.zip",
-      "mod_id": 147742,
-      "hash": "sha256-mTWipuB4Fw2ksSulQfyAJV09Qx48C7NMFW6DDERKmQU="
-    }
-  },
-  "G.I.R.T.H. Patch": {
-    "nexusmods": {
-      "game_name": "skyrimspecialedition",
-      "version": "1.2.0",
-      "file_id": 655663,
-      "file_name": "G.I.R.T.H. Patch-147742-1-2-0-1755206983.zip",
-      "mod_id": 147742,
-      "hash": "sha256-v8JoNcNian2cAmLsvLs9KgURvHCmTFf1RZncmqJEQ0Q="
-    }
-  },
-  "Wigfrid's Erdtree Patch": {
-    "nexusmods": {
-      "game_name": "skyrimspecialedition",
-      "version": "1.2.0",
-      "file_id": 655664,
-      "file_name": "Wigfrid's Erdtree Patch-147742-1-2-0-1755207059.zip",
-      "mod_id": 147742,
-      "hash": "sha256-iTmgyOjNgwBTYuOcqfJnIqNJTOT8Edl7fV24W5WvlQQ="
-    }
-  },
-  "The Gildergreen Grows": {
-    "nexusmods": {
-      "game_name": "skyrimspecialedition",
-      "version": "1.2.0",
-      "file_id": 655739,
-      "file_name": "The Gildergreen Grows-147742-1-2-0-1755229870.zip",
-      "mod_id": 147742,
-      "hash": "sha256-whvBkV/6GuUwrdl7xV1eFt7clgAzn6Uf9KlYVYEQfbg="
+    "Nature of the Wildlands Patch": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "1.2.0",
+            "file_id": 618003,
+            "file_name": "Nature of the Wildlands Patch-147742-1-0-0-1744840541.7z",
+            "mod_id": 147742,
+            "hash": "sha256-fbg4K/OKbFifria68QW+/DSJOWik+dWv1UcmY2dBqj8="
+        }
     },
-    "type": "primary"
-  }
+    "USSEP Patch": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "1.2.0",
+            "file_id": 620626,
+            "file_name": "USSEP Patch-147742-1-1-0-1745475716.zip",
+            "mod_id": 147742,
+            "hash": "sha256-kpCABNePnKRfNN1RejTQuQ0Q0mhDbKx0W69DFIohTkI="
+        }
+    },
+    "Guard Dialogue Overhaul Patch": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "1.2.0",
+            "file_id": 620627,
+            "file_name": "Guard Dialogue Overhaul Patch-147742-1-1-0-1745475783.zip",
+            "mod_id": 147742,
+            "hash": "sha256-mTWipuB4Fw2ksSulQfyAJV09Qx48C7NMFW6DDERKmQU="
+        }
+    },
+    "G.I.R.T.H. Patch": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "1.2.0",
+            "file_id": 655663,
+            "file_name": "G.I.R.T.H. Patch-147742-1-2-0-1755206983.zip",
+            "mod_id": 147742,
+            "hash": "sha256-v8JoNcNian2cAmLsvLs9KgURvHCmTFf1RZncmqJEQ0Q="
+        }
+    },
+    "Wigfrid's Erdtree Patch": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "1.2.0",
+            "file_id": 655664,
+            "file_name": "Wigfrid's Erdtree Patch-147742-1-2-0-1755207059.zip",
+            "mod_id": 147742,
+            "hash": "sha256-iTmgyOjNgwBTYuOcqfJnIqNJTOT8Edl7fV24W5WvlQQ="
+        }
+    },
+    "The Gildergreen Grows": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "1.2.0",
+            "file_id": 655739,
+            "file_name": "The Gildergreen Grows-147742-1-2-0-1755229870.zip",
+            "mod_id": 147742,
+            "hash": "sha256-whvBkV/6GuUwrdl7xV1eFt7clgAzn6Uf9KlYVYEQfbg="
+        },
+        "type": "primary"
+    }
 }

@@ -1,0 +1,90 @@
+{
+  "Dibellan - Better Bits 4 3BA - 4K": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "2.0",
+      "file_id": 643623,
+      "file_name": "Dibellan - Better Bits 4 3BA - 4K-153620-2-0-1751499861.7z",
+      "mod_id": 153620,
+      "hash": "sha256-/vM2jfFqrv99070JqW5ubxKWBoSOxeTOoKp+A3+vdq4="
+    },
+    "type": "primary"
+  },
+  "Dibellan - Better Bits 4 3BA - Pale 2k": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "2.0",
+      "file_id": 643629,
+      "file_name": "Dibellan - Better Bits 4 3BA - Pale 2k-153620-2-0-1751500402.7z",
+      "mod_id": 153620,
+      "hash": "sha256-A0xNNtdYK504vOK4OvBfTzH734OW4C+kGDjp/BimKV4="
+    },
+    "type": "primary"
+  },
+  "Dibellan - Better Bits 4 3BA - 2K": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "2.0",
+      "file_id": 643630,
+      "file_name": "Dibellan - Better Bits 4 3BA - 2K-153620-2-0-1751500457.7z",
+      "mod_id": 153620,
+      "hash": "sha256-tCKlcEeBZHxFRScvLjI5a0L1KmAle2BO7Lu+C6ofnj8="
+    },
+    "type": "primary"
+  },
+  "Dibellan - Better Bits 4 3BA - Pale 4K": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "2.0",
+      "file_id": 643631,
+      "file_name": "Dibellan - Better Bits 4 3BA - Pale 4K-153620-2-0-1751500519.7z",
+      "mod_id": 153620,
+      "hash": "sha256-SH6quowVmFdc0sUVthwtE0O4/7Kki9ELHTFB3DIC1AE="
+    },
+    "type": "primary"
+  },
+  "Dibellan - Better Bits 4 BHUNP - 2K": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "2.0",
+      "file_id": 644549,
+      "file_name": "Dibellan - Better Bits 4 BHUNP - 2K-153620-2-0-1751768755.7z",
+      "mod_id": 153620,
+      "hash": "sha256-QwgW6OXsBBhBMC7Zt/nVI+zbE0G9TrCsCDWP1s6zTDo="
+    },
+    "type": "primary"
+  },
+  "Dibellan - Better Bits 4 BHUNP - 4K": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "2.0",
+      "file_id": 644550,
+      "file_name": "Dibellan - Better Bits 4 BHUNP - 4K-153620-2-0-1751768812.7z",
+      "mod_id": 153620,
+      "hash": "sha256-ddZ+lsUbjBSROTfFb05MUgcuOCkp7Dk6x7mDS9FWrH4="
+    },
+    "type": "primary"
+  },
+  "Dibellan - Better Bits 4 BHUNP - Pale 2K": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "2.0",
+      "file_id": 644551,
+      "file_name": "Dibellan - Better Bits 4 BHUNP - Pale 2K-153620-2-0-1751768872.7z",
+      "mod_id": 153620,
+      "hash": "sha256-SF9goyW3uhPU8oA18VsgGiEnARW+8Oey+5Y2noR3hIw="
+    },
+    "type": "primary"
+  },
+  "Dibellan - Better Bits 4 BHUNP - Pale 4K": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "2.0",
+      "file_id": 644552,
+      "file_name": "Dibellan - Better Bits 4 BHUNP - Pale 4K-153620-2-0-1751768946.7z",
+      "mod_id": 153620,
+      "hash": "sha256-fswGclVz8YXAtnSRSB7R0CEtwtzv/+4hmkQ/Zn34U1I="
+    },
+    "type": "primary"
+  }
+}

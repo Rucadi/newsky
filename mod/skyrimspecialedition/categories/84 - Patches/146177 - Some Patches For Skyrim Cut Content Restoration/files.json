@@ -1,167 +1,167 @@
 {
-  "CutContententRestoration Cath3DmountainFlowers Pat": {
-    "nexusmods": {
-      "game_name": "skyrimspecialedition",
-      "version": "1",
-      "file_id": 611400,
-      "file_name": "CutContententRestoration Cath3DmountainFlowers Pat-146177-1-1743277088.7z",
-      "mod_id": 146177,
-      "hash": "sha256-fSuoQlXiRVtcQsr8AntFmQm7Yjf9L/+Ijcu9PPJlU3s="
+    "CutContententRestoration Cath3DmountainFlowers Pat": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "1",
+            "file_id": 611400,
+            "file_name": "CutContententRestoration Cath3DmountainFlowers Pat-146177-1-1743277088.7z",
+            "mod_id": 146177,
+            "hash": "sha256-fSuoQlXiRVtcQsr8AntFmQm7Yjf9L/+Ijcu9PPJlU3s="
+        },
+        "type": "primary"
     },
-    "type": "primary"
-  },
-  "CutContentRestoration 3DNPC Patch": {
-    "nexusmods": {
-      "game_name": "skyrimspecialedition",
-      "version": "1",
-      "file_id": 611403,
-      "file_name": "CutContentRestoration 3DNPC Patch-146177-1-1743277158.7z",
-      "mod_id": 146177,
-      "hash": "sha256-clrxMPXpkWrF52kPGjXlIkO119QpSmAtRUfXByAJKgA="
+    "CutContentRestoration 3DNPC Patch": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "1",
+            "file_id": 611403,
+            "file_name": "CutContentRestoration 3DNPC Patch-146177-1-1743277158.7z",
+            "mod_id": 146177,
+            "hash": "sha256-clrxMPXpkWrF52kPGjXlIkO119QpSmAtRUfXByAJKgA="
+        },
+        "type": "primary"
     },
-    "type": "primary"
-  },
-  "CutContentRestoration AI Overhaul NPC Patch": {
-    "nexusmods": {
-      "game_name": "skyrimspecialedition",
-      "version": "1",
-      "file_id": 611406,
-      "file_name": "CutContentRestoration AI Overhaul NPC Patch-146177-1-1743277405.7z",
-      "mod_id": 146177,
-      "hash": "sha256-eOu8AY9HkHNHKLtX73Uo6vlcvoEV1YOyWUfhZFTsAb4="
+    "CutContentRestoration AI Overhaul NPC Patch": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "1",
+            "file_id": 611406,
+            "file_name": "CutContentRestoration AI Overhaul NPC Patch-146177-1-1743277405.7z",
+            "mod_id": 146177,
+            "hash": "sha256-eOu8AY9HkHNHKLtX73Uo6vlcvoEV1YOyWUfhZFTsAb4="
+        },
+        "type": "primary"
     },
-    "type": "primary"
-  },
-  "CutContentRestoration BanditWar Patch": {
-    "nexusmods": {
-      "game_name": "skyrimspecialedition",
-      "version": "1",
-      "file_id": 611407,
-      "file_name": "CutContentRestoration BanditWar Patch-146177-1-1743277475.7z",
-      "mod_id": 146177,
-      "hash": "sha256-oNmqik+Tyy11Lj8c9Bj/Enr+puThrYIYwAd3bxkBQtQ="
+    "CutContentRestoration BanditWar Patch": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "1",
+            "file_id": 611407,
+            "file_name": "CutContentRestoration BanditWar Patch-146177-1-1743277475.7z",
+            "mod_id": 146177,
+            "hash": "sha256-oNmqik+Tyy11Lj8c9Bj/Enr+puThrYIYwAd3bxkBQtQ="
+        },
+        "type": "primary"
     },
-    "type": "primary"
-  },
-  "CutContentRestoration DeadDaedricGuardians Patch": {
-    "nexusmods": {
-      "game_name": "skyrimspecialedition",
-      "version": "1",
-      "file_id": 611408,
-      "file_name": "CutContentRestoration DeadDaedricGuardians Patch-146177-1-1743277520.7z",
-      "mod_id": 146177,
-      "hash": "sha256-fAnS1ZDxXyrNS4Fu03KW+LBVlTUFwIGW1U+mFpn7f9c="
+    "CutContentRestoration DeadDaedricGuardians Patch": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "1",
+            "file_id": 611408,
+            "file_name": "CutContentRestoration DeadDaedricGuardians Patch-146177-1-1743277520.7z",
+            "mod_id": 146177,
+            "hash": "sha256-fAnS1ZDxXyrNS4Fu03KW+LBVlTUFwIGW1U+mFpn7f9c="
+        },
+        "type": "primary"
     },
-    "type": "primary"
-  },
-  "CutContentRestoration EnvironsAAbodes MLU Patch": {
-    "nexusmods": {
-      "game_name": "skyrimspecialedition",
-      "version": "1",
-      "file_id": 611412,
-      "file_name": "CutContentRestoration EnvironsAAbodes MLU Patch-146177-1-1743277652.7z",
-      "mod_id": 146177,
-      "hash": "sha256-eIG8E/IT+U5VJNTrWAhW1Ype7R9RySiUgfDTtmolGAA="
+    "CutContentRestoration EnvironsAAbodes MLU Patch": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "1",
+            "file_id": 611412,
+            "file_name": "CutContentRestoration EnvironsAAbodes MLU Patch-146177-1-1743277652.7z",
+            "mod_id": 146177,
+            "hash": "sha256-eIG8E/IT+U5VJNTrWAhW1Ype7R9RySiUgfDTtmolGAA="
+        },
+        "type": "primary"
     },
-    "type": "primary"
-  },
-  "CutContentRestoration EnvironsAAbodes Patch": {
-    "nexusmods": {
-      "game_name": "skyrimspecialedition",
-      "version": "1",
-      "file_id": 611413,
-      "file_name": "CutContentRestoration EnvironsAAbodes Patch-146177-1-1743277708.7z",
-      "mod_id": 146177,
-      "hash": "sha256-bgkjwWfCjMEWaaGuB62Su4mZEG3/cfQuAt89hDLnaXE="
+    "CutContentRestoration EnvironsAAbodes Patch": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "1",
+            "file_id": 611413,
+            "file_name": "CutContentRestoration EnvironsAAbodes Patch-146177-1-1743277708.7z",
+            "mod_id": 146177,
+            "hash": "sha256-bgkjwWfCjMEWaaGuB62Su4mZEG3/cfQuAt89hDLnaXE="
+        },
+        "type": "primary"
     },
-    "type": "primary"
-  },
-  "CutContentRestoration EVEghostMechanics Patch": {
-    "nexusmods": {
-      "game_name": "skyrimspecialedition",
-      "version": "1",
-      "file_id": 611416,
-      "file_name": "CutContentRestoration EVEghostMechanics Patch-146177-1-1743277758.7z",
-      "mod_id": 146177,
-      "hash": "sha256-tskmH7jt9eTUX+hpJ2603vymIzS4H233wiDrbrd7vok="
+    "CutContentRestoration EVEghostMechanics Patch": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "1",
+            "file_id": 611416,
+            "file_name": "CutContentRestoration EVEghostMechanics Patch-146177-1-1743277758.7z",
+            "mod_id": 146177,
+            "hash": "sha256-tskmH7jt9eTUX+hpJ2603vymIzS4H233wiDrbrd7vok="
+        },
+        "type": "primary"
     },
-    "type": "primary"
-  },
-  "CutContentRestoration GDO Patch": {
-    "nexusmods": {
-      "game_name": "skyrimspecialedition",
-      "version": "1",
-      "file_id": 611417,
-      "file_name": "CutContentRestoration GDO Patch-146177-1-1743277805.7z",
-      "mod_id": 146177,
-      "hash": "sha256-b5fbS79eC4JOP99dbwX0CC4oRQmHCfab/isRcImL6+c="
+    "CutContentRestoration GDO Patch": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "1",
+            "file_id": 611417,
+            "file_name": "CutContentRestoration GDO Patch-146177-1-1743277805.7z",
+            "mod_id": 146177,
+            "hash": "sha256-b5fbS79eC4JOP99dbwX0CC4oRQmHCfab/isRcImL6+c="
+        },
+        "type": "primary"
     },
-    "type": "primary"
-  },
-  "CutContentRestoration Gore Patch": {
-    "nexusmods": {
-      "game_name": "skyrimspecialedition",
-      "version": "1",
-      "file_id": 611418,
-      "file_name": "CutContentRestoration Gore Patch-146177-1-1743277878.7z",
-      "mod_id": 146177,
-      "hash": "sha256-Xx25hr5ZsMlzmBhkBmtRVnoSYuGOf0P3Pj5TjJC+Vn4="
+    "CutContentRestoration Gore Patch": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "1",
+            "file_id": 611418,
+            "file_name": "CutContentRestoration Gore Patch-146177-1-1743277878.7z",
+            "mod_id": 146177,
+            "hash": "sha256-Xx25hr5ZsMlzmBhkBmtRVnoSYuGOf0P3Pj5TjJC+Vn4="
+        },
+        "type": "primary"
     },
-    "type": "primary"
-  },
-  "CutContentRestoration ImmersiveCollegeNPCs Patch": {
-    "nexusmods": {
-      "game_name": "skyrimspecialedition",
-      "version": "1",
-      "file_id": 611419,
-      "file_name": "CutContentRestoration ImmersiveCollegeNPCs Patch-146177-1-1743277935.7z",
-      "mod_id": 146177,
-      "hash": "sha256-m9js7yZqJ/iMVLhO7nHjWuigbZVVdy61LKbqz5q8yWI="
+    "CutContentRestoration ImmersiveCollegeNPCs Patch": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "1",
+            "file_id": 611419,
+            "file_name": "CutContentRestoration ImmersiveCollegeNPCs Patch-146177-1-1743277935.7z",
+            "mod_id": 146177,
+            "hash": "sha256-m9js7yZqJ/iMVLhO7nHjWuigbZVVdy61LKbqz5q8yWI="
+        },
+        "type": "primary"
     },
-    "type": "primary"
-  },
-  "CutContentRestoration ImmersiveEncounters Patch": {
-    "nexusmods": {
-      "game_name": "skyrimspecialedition",
-      "version": "1",
-      "file_id": 611420,
-      "file_name": "CutContentRestoration ImmersiveEncounters Patch-146177-1-1743277982.7z",
-      "mod_id": 146177,
-      "hash": "sha256-Ode66Evn5eIBsu5LIDD5hPlRyhTYwYdwFZsz7jolDFI="
+    "CutContentRestoration ImmersiveEncounters Patch": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "1",
+            "file_id": 611420,
+            "file_name": "CutContentRestoration ImmersiveEncounters Patch-146177-1-1743277982.7z",
+            "mod_id": 146177,
+            "hash": "sha256-Ode66Evn5eIBsu5LIDD5hPlRyhTYwYdwFZsz7jolDFI="
+        },
+        "type": "primary"
     },
-    "type": "primary"
-  },
-  "CutContentRestoration IWI Patch": {
-    "nexusmods": {
-      "game_name": "skyrimspecialedition",
-      "version": "1",
-      "file_id": 611422,
-      "file_name": "CutContentRestoration IWI Patch-146177-1-1743278026.7z",
-      "mod_id": 146177,
-      "hash": "sha256-beXWhCIza8ryvbFyKlsflTJ/ECB39lNiiIkdn+h5s1g="
+    "CutContentRestoration IWI Patch": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "1",
+            "file_id": 611422,
+            "file_name": "CutContentRestoration IWI Patch-146177-1-1743278026.7z",
+            "mod_id": 146177,
+            "hash": "sha256-beXWhCIza8ryvbFyKlsflTJ/ECB39lNiiIkdn+h5s1g="
+        },
+        "type": "primary"
     },
-    "type": "primary"
-  },
-  "CutContentRestoration MoreToSayFalkreath Patch": {
-    "nexusmods": {
-      "game_name": "skyrimspecialedition",
-      "version": "1",
-      "file_id": 611426,
-      "file_name": "CutContentRestoration MoreToSayFalkreath Patch-146177-1-1743278145.7z",
-      "mod_id": 146177,
-      "hash": "sha256-Ef5T67Bnn5VAjizYxGASeuC1qMXxVPAxvgAmRunnm7M="
+    "CutContentRestoration MoreToSayFalkreath Patch": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "1",
+            "file_id": 611426,
+            "file_name": "CutContentRestoration MoreToSayFalkreath Patch-146177-1-1743278145.7z",
+            "mod_id": 146177,
+            "hash": "sha256-Ef5T67Bnn5VAjizYxGASeuC1qMXxVPAxvgAmRunnm7M="
+        },
+        "type": "primary"
     },
-    "type": "primary"
-  },
-  "CutContentRestoration Location2 Patch": {
-    "nexusmods": {
-      "game_name": "skyrimspecialedition",
-      "version": "2.1",
-      "file_id": 694619,
-      "file_name": "CutContentRestoration Location2 Patch-146177-1-1-1764931626.7z",
-      "mod_id": 146177,
-      "hash": "sha256-2J59+GJQ1J7uJaNo/Hu5MM/gT1ckZKHRsHIRFHS++z0="
-    },
-    "type": "primary"
-  }
+    "CutContentRestoration Location2 Patch": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "2.1",
+            "file_id": 694619,
+            "file_name": "CutContentRestoration Location2 Patch-146177-1-1-1764931626.7z",
+            "mod_id": 146177,
+            "hash": "sha256-2J59+GJQ1J7uJaNo/Hu5MM/gT1ckZKHRsHIRFHS++z0="
+        },
+        "type": "primary"
+    }
 }

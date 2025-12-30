@@ -1,0 +1,33 @@
+{
+  "Firmament": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 642516,
+      "file_name": "Firmament-153781-1-0-1751149392.zip",
+      "mod_id": 153781,
+      "hash": "sha256-LUYPySh65pav+Nh5ecTa1nHvvwF4/rABi92gzXyeMHo="
+    },
+    "type": "primary"
+  },
+  "Survival Mode Improved Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 642519,
+      "file_name": "Survival Mode Improved Patch-153781-1-0-1751150109.zip",
+      "mod_id": 153781,
+      "hash": "sha256-Wyaf7tTHJ5xRJC4J3vY9G+abaEaH0x+oOPjx5GSz7Qs="
+    }
+  },
+  "Book Covers Skyrim Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 642520,
+      "file_name": "Book Covers Skyrim Patch-153781-1-0-1751150151.zip",
+      "mod_id": 153781,
+      "hash": "sha256-2PCz84CJwGAO2Ypvs15surpDV0Gr3PRAhw1d0MaJ7sI="
+    }
+  }
+}

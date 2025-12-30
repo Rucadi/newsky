@@ -1,68 +1,68 @@
 {
-  "Remiel - SIC Patch": {
-    "nexusmods": {
-      "game_name": "skyrimspecialedition",
-      "version": "1.0",
-      "file_id": 621651,
-      "file_name": "Remiel - SIC Patch-148739-1-0-1745784115.zip",
-      "mod_id": 148739,
-      "hash": "sha256-MLGpzrOgM8LnURvmFQ8TGdkq1Bp7MxOUmJAxTyagX1g="
+    "Remiel - SIC Patch": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "1.0",
+            "file_id": 621651,
+            "file_name": "Remiel - SIC Patch-148739-1-0-1745784115.zip",
+            "mod_id": 148739,
+            "hash": "sha256-MLGpzrOgM8LnURvmFQ8TGdkq1Bp7MxOUmJAxTyagX1g="
+        },
+        "type": "primary"
     },
-    "type": "primary"
-  },
-  "Remiel Crossbow Replacer - LOTD Patch Patch": {
-    "nexusmods": {
-      "game_name": "skyrimspecialedition",
-      "version": "1.0",
-      "file_id": 621654,
-      "file_name": "Remiel Crossbow Replacer - LOTD Patch Patch-148739-1-0-1745784179.zip",
-      "mod_id": 148739,
-      "hash": "sha256-luZvYuyzxHejIYBktxG1U/q6H9jMwNtNrwD7euKBY90="
+    "Remiel Crossbow Replacer - LOTD Patch Patch": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "1.0",
+            "file_id": 621654,
+            "file_name": "Remiel Crossbow Replacer - LOTD Patch Patch-148739-1-0-1745784179.zip",
+            "mod_id": 148739,
+            "hash": "sha256-luZvYuyzxHejIYBktxG1U/q6H9jMwNtNrwD7euKBY90="
+        },
+        "type": "primary"
     },
-    "type": "primary"
-  },
-  "Remiel Hates Magic": {
-    "nexusmods": {
-      "game_name": "skyrimspecialedition",
-      "version": "1.0",
-      "file_id": 623879,
-      "file_name": "Remiel Hates Magic-148739-1-0-1746431991.rar",
-      "mod_id": 148739,
-      "hash": "sha256-fg22LE25pFHEJbocSD89jmu2460pukfFiLrdGNhldZ4="
+    "Remiel Hates Magic": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "1.0",
+            "file_id": 623879,
+            "file_name": "Remiel Hates Magic-148739-1-0-1746431991.rar",
+            "mod_id": 148739,
+            "hash": "sha256-fg22LE25pFHEJbocSD89jmu2460pukfFiLrdGNhldZ4="
+        },
+        "type": "primary"
     },
-    "type": "primary"
-  },
-  "Remiel Enhancement Hates Magic": {
-    "nexusmods": {
-      "game_name": "skyrimspecialedition",
-      "version": "1.0",
-      "file_id": 623880,
-      "file_name": "Remiel Enhancement Hates Magic-148739-1-0-1746432052.rar",
-      "mod_id": 148739,
-      "hash": "sha256-9ZKOyVXGg0T5EmJh5J4Ofdz/nhTwdIEsjQ76j9uqya4="
+    "Remiel Enhancement Hates Magic": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "1.0",
+            "file_id": 623880,
+            "file_name": "Remiel Enhancement Hates Magic-148739-1-0-1746432052.rar",
+            "mod_id": 148739,
+            "hash": "sha256-9ZKOyVXGg0T5EmJh5J4Ofdz/nhTwdIEsjQ76j9uqya4="
+        },
+        "type": "primary"
     },
-    "type": "primary"
-  },
-  "Remiel Party Hat Equipment Freedom": {
-    "nexusmods": {
-      "game_name": "skyrimspecialedition",
-      "version": "1.1",
-      "file_id": 623884,
-      "file_name": "Remiel Party Hat Equipment Freedom-148739-1-1-1746432609.rar",
-      "mod_id": 148739,
-      "hash": "sha256-t+YaYf2tyvXTDMVw97AQduj/j+e4ITHVLYXZi2xoa/Y="
+    "Remiel Party Hat Equipment Freedom": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "1.1",
+            "file_id": 623884,
+            "file_name": "Remiel Party Hat Equipment Freedom-148739-1-1-1746432609.rar",
+            "mod_id": 148739,
+            "hash": "sha256-t+YaYf2tyvXTDMVw97AQduj/j+e4ITHVLYXZi2xoa/Y="
+        },
+        "type": "primary"
     },
-    "type": "primary"
-  },
-  "Remiel Combat Style Tweaks": {
-    "nexusmods": {
-      "game_name": "skyrimspecialedition",
-      "version": "1.1",
-      "file_id": 623886,
-      "file_name": "Remiel Combat Style Tweaks-148739-1-1-1746433016.rar",
-      "mod_id": 148739,
-      "hash": "sha256-FJbslvD45kxwiqwTDwKxgZ1trU3ScvUFmPDsaibBoPk="
-    },
-    "type": "primary"
-  }
+    "Remiel Combat Style Tweaks": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "1.1",
+            "file_id": 623886,
+            "file_name": "Remiel Combat Style Tweaks-148739-1-1-1746433016.rar",
+            "mod_id": 148739,
+            "hash": "sha256-FJbslvD45kxwiqwTDwKxgZ1trU3ScvUFmPDsaibBoPk="
+        },
+        "type": "primary"
+    }
 }

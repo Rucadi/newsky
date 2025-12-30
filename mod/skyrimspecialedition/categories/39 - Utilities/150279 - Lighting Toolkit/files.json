@@ -1,0 +1,23 @@
+{
+  "Racemenu Model": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0.1",
+      "file_id": 630109,
+      "file_name": "Racemenu Model-150279-1-0-1-1747978568.zip",
+      "mod_id": 150279,
+      "hash": "sha256-Zm2vxRRfF7sT0ct8NiSfltTlTwvzaNvIVEQ7NnGji+M="
+    }
+  },
+  "Lighting Toolkit": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "0.10.0",
+      "file_id": 633785,
+      "file_name": "Lighting Toolkit-150279-0-10-0-1748847169.zip",
+      "mod_id": 150279,
+      "hash": "sha256-+WvYTuL7VH+nhXL7aEFOt1FWdjcbm6WL9CzLeAkhqvI="
+    },
+    "type": "primary"
+  }
+}

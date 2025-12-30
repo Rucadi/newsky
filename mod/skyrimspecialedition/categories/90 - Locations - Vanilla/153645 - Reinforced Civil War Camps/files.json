@@ -1,0 +1,43 @@
+{
+  "Nature of the Wild Lands Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0A",
+      "file_id": 673310,
+      "file_name": "Nature of the Wild Lands Patch-153645-1-0A-1759860308.7z",
+      "mod_id": 153645,
+      "hash": "sha256-GMOOr6haQIgAk0ZYHA4U5rZfKnn9iNF6OBpFzl9xUjo="
+    }
+  },
+  "Fabled Forests (Author's Choice) Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0B",
+      "file_id": 673338,
+      "file_name": "Fabled Forests (Author's Choice) Patch-153645-1-0B-1759862562.7z",
+      "mod_id": 153645,
+      "hash": "sha256-02/Fk+NyiRJXWlEHXrn0L0lD4eVFa7x4J/t1vIpYego="
+    }
+  },
+  "Fabled Forests (Mythic Proportions) Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0C",
+      "file_id": 673353,
+      "file_name": "Fabled Forests (Mythic Proportions) Patch-153645-1-0C-1759864966.7z",
+      "mod_id": 153645,
+      "hash": "sha256-2egQ6k9LU4P7hcIOx16UbDHlfgDt8dtudFWwAlo5bY0="
+    }
+  },
+  "Reinforced Civil War Camps": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.2.1",
+      "file_id": 681844,
+      "file_name": "Reinforced Civil War Camps-153645-1-2-1-1761815449.7z",
+      "mod_id": 153645,
+      "hash": "sha256-4WDRjrJ4ZPvyFxliLCWGSo7uUbTEbLmfSZJjeuvoKsI="
+    },
+    "type": "primary"
+  }
+}

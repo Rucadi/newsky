@@ -1,0 +1,79 @@
+{
+  "Reinforced Camps - ESO imports and Aftermath Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 642083,
+      "file_name": "Reinforced Camps - ESO imports and Aftermath Patch-153687-1-0-1751017379.rar",
+      "mod_id": 153687,
+      "hash": "sha256-0kX1cJZw5UXdZJopQrg9+oFF8oZyuBtmLjANf64hDMM="
+    },
+    "type": "primary"
+  },
+  "Reinforced Camps - Better Dynamic Snow Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 642084,
+      "file_name": "Reinforced Camps - Better Dynamic Snow Patch-153687-1-0-1751017409.rar",
+      "mod_id": 153687,
+      "hash": "sha256-c1x0HMBW30FpOX81KwA5nhil/b7i2k6aiOeT0uXFnHQ="
+    },
+    "type": "primary"
+  },
+  "Reinforced Camps - USSEP Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 642085,
+      "file_name": "Reinforced Camps - USSEP Patch-153687-1-0-1751017428.rar",
+      "mod_id": 153687,
+      "hash": "sha256-yQGpYZS6Eq/53sWBRcKbAIXP4m5EXVpAP3aPy0OO6ic="
+    },
+    "type": "primary"
+  },
+  "RCWC - Enhanced Landscapes DeadMarsh Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 642086,
+      "file_name": "RCWC - Enhanced Landscapes DeadMarsh Patch-153687-1-0-1751017487.rar",
+      "mod_id": 153687,
+      "hash": "sha256-fobxAWFlLnVW84QyQx/815j7C80Z4YnWmcTjbXfD9Ag="
+    },
+    "type": "primary"
+  },
+  "Reinforced Civil War Camps - Whiterun Camp Reborn": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 642088,
+      "file_name": "Reinforced Civil War Camps - Whiterun Camp Reborn-153687-1-0-1751018102.rar",
+      "mod_id": 153687,
+      "hash": "sha256-29AXEbcVSRRs67ztN3djRfN73ZgDlgzNYw8jDQ4xuUc="
+    },
+    "type": "primary"
+  },
+  "Reinforced Civil War Camps - ESO imports Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1",
+      "file_id": 642091,
+      "file_name": "Reinforced Civil War Camps - ESO imports Patch-153687-1-1-1751019326.rar",
+      "mod_id": 153687,
+      "hash": "sha256-xk6mzxPKZbJ1GolAw2QaVMu+5qxkJj/LZ17+upuIWI0="
+    },
+    "type": "primary"
+  },
+  "Reinforced Camps - Civil War Aftermath Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1",
+      "file_id": 642092,
+      "file_name": "Reinforced Camps - Civil War Aftermath Patch-153687-1-1-1751019426.rar",
+      "mod_id": 153687,
+      "hash": "sha256-GPQWVU4WN8q+uexnUy5ZBp/Knv3XAsHs38jkJ96xEVY="
+    },
+    "type": "primary"
+  }
+}

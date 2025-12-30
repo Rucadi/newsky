@@ -1,0 +1,23 @@
+{
+  "Spooning of Skyrim - Main File": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1",
+      "file_id": 641189,
+      "file_name": "Spooning of Skyrim - Main File-153263-1-1-1750742634.7z",
+      "mod_id": 153263,
+      "hash": "sha256-+sweahWAQpAdQj4s0EnPqmZh2XZRxjyfUCkubtnBero="
+    },
+    "type": "primary"
+  },
+  "Spooning - Optional OAR Bedroll Animation": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 642110,
+      "file_name": "Spooning - Optional OAR Bedroll Animation-153263-1-0-1751026328.7z",
+      "mod_id": 153263,
+      "hash": "sha256-t+UiZFRSZdWCK1TeVGsrM1Bsxx9C7ZeIZk6bxeAOH+M="
+    }
+  }
+}

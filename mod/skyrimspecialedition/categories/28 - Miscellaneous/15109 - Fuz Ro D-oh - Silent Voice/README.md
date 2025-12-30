@@ -2,6 +2,8 @@
 - Author: shadeMe
 - Game: skyrimspecialedition
 - Mod Page: https://www.nexusmods.com/skyrimspecialedition/mods/15109
+
+
 **Fuz Ro D'oh**
   
 **The second best 'D'oh' that you'll (n)ever hear**

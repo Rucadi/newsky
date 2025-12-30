@@ -1,13 +1,13 @@
 {
-  "Combat Pathing Revolution AE": {
-    "nexusmods": {
-      "game_name": "skyrimspecialedition",
-      "version": "0.30.1",
-      "file_id": 615170,
-      "file_name": "Combat Pathing Revolution AE-146965-0-30-1-1744103037.7z",
-      "mod_id": 146965,
-      "hash": "sha256-cIbIiTVAgjomTq5GAOvo6bLF5m+jKmbfRyVuf07ZaT4="
-    },
-    "type": "primary"
-  }
+    "Combat Pathing Revolution AE": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "0.30.1",
+            "file_id": 615170,
+            "file_name": "Combat Pathing Revolution AE-146965-0-30-1-1744103037.7z",
+            "mod_id": 146965,
+            "hash": "sha256-cIbIiTVAgjomTq5GAOvo6bLF5m+jKmbfRyVuf07ZaT4="
+        },
+        "type": "primary"
+    }
 }

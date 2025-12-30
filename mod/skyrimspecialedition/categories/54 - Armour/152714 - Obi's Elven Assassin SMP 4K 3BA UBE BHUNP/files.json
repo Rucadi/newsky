@@ -1,0 +1,23 @@
+{
+  "Obi's Elven Assassin armor Black retexture": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 639441,
+      "file_name": "Obi's Elven Assassin armor Black retexture-152714-1-0-1750328880.zip",
+      "mod_id": 152714,
+      "hash": "sha256-szy/CqPPPEIxLk3fJctbEeFPk3XW3cokElzgF0qAEnI="
+    }
+  },
+  "Obi's Elven Assassin armor 3BA Main": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.2",
+      "file_id": 641033,
+      "file_name": "Obi's Elven Assassin armor 3BA Main-152714-1-2-1750688642.zip",
+      "mod_id": 152714,
+      "hash": "sha256-D93iZ+JBBgm9jUwKx38UpGYdp86VtCEJuNWMWsOc1x0="
+    },
+    "type": "primary"
+  }
+}

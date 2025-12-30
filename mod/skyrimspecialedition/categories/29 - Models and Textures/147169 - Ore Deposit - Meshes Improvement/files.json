@@ -1,83 +1,83 @@
 {
-  "Metallurgy - Ingots Ore and Veins - Patch": {
-    "nexusmods": {
-      "game_name": "skyrimspecialedition",
-      "version": "2.3.4",
-      "file_id": 615821,
-      "file_name": "Metallurgy - Ingots Ore and Veins - Patch-147169-2-0-1744297663.7z",
-      "mod_id": 147169,
-      "hash": "sha256-lBWe5vEyXZdd5dOqRiJ6AQDKPsHrh82BtSrMBhUeRkg="
-    }
-  },
-  "Praedy's Ores and Ingots - Patch": {
-    "nexusmods": {
-      "game_name": "skyrimspecialedition",
-      "version": "2.3.4",
-      "file_id": 617494,
-      "file_name": "Praedy's Ores and Ingots - Patch-147169-2-3-1744701764.7z",
-      "mod_id": 147169,
-      "hash": "sha256-A9/1Ib1Hv0fFEzYGZFSzG3eagcL52BIJBZPa/+cGM3M="
-    }
-  },
-  "Praedy's Blackreach Deposits - Patch": {
-    "nexusmods": {
-      "game_name": "skyrimspecialedition",
-      "version": "2.3.4",
-      "file_id": 617495,
-      "file_name": "Praedy's Blackreach Deposits - Patch-147169-2-3-1744701803.7z",
-      "mod_id": 147169,
-      "hash": "sha256-RygRwituKNXhzBNVOlzeiU3Aaj2wpFDL2Xw2XjXqL4I="
-    }
-  },
-  "CC's Enhanced Ore Veins - Patch (Brighter)": {
-    "nexusmods": {
-      "game_name": "skyrimspecialedition",
-      "version": "2.3.4",
-      "file_id": 617496,
-      "file_name": "CC's Enhanced Ore Veins - Patch (Brighter)-147169-2-3-1744701878.7z",
-      "mod_id": 147169,
-      "hash": "sha256-J582qvsMpOubO2MQ0g12LsL/M28+jOVmJJhvdd77N5k="
-    }
-  },
-  "CC's Enhanced Ore Veins - Patch": {
-    "nexusmods": {
-      "game_name": "skyrimspecialedition",
-      "version": "2.3.4",
-      "file_id": 617497,
-      "file_name": "CC's Enhanced Ore Veins - Patch-147169-2-3-1744701928.7z",
-      "mod_id": 147169,
-      "hash": "sha256-VWUmHYHZtTgQrxq+HDJZHxyVOAAUdZCCu9yYgtgut4A="
-    }
-  },
-  "Ore Deposit - Meshes Improvement": {
-    "nexusmods": {
-      "game_name": "skyrimspecialedition",
-      "version": "2.3.4",
-      "file_id": 621788,
-      "file_name": "Ore Deposit - Meshes Improvement-147169-2-3-2-1745826103.7z",
-      "mod_id": 147169,
-      "hash": "sha256-RnhKZ3Tt7I3ipYYJ7oYxPH1hSOQgNzfrL/NQdY6y7+E="
+    "Metallurgy - Ingots Ore and Veins - Patch": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "2.3.4",
+            "file_id": 615821,
+            "file_name": "Metallurgy - Ingots Ore and Veins - Patch-147169-2-0-1744297663.7z",
+            "mod_id": 147169,
+            "hash": "sha256-lBWe5vEyXZdd5dOqRiJ6AQDKPsHrh82BtSrMBhUeRkg="
+        }
     },
-    "type": "primary"
-  },
-  "Skyland - AIO - Patch": {
-    "nexusmods": {
-      "game_name": "skyrimspecialedition",
-      "version": "2.3.4",
-      "file_id": 629121,
-      "file_name": "Skyland - AIO - Patch-147169-2-3-1747735381.7z",
-      "mod_id": 147169,
-      "hash": "sha256-bMaRxtsjMR9jk5NuVixWEdtlkQHy2Yp2H92yKqGna0U="
+    "Praedy's Ores and Ingots - Patch": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "2.3.4",
+            "file_id": 617494,
+            "file_name": "Praedy's Ores and Ingots - Patch-147169-2-3-1744701764.7z",
+            "mod_id": 147169,
+            "hash": "sha256-A9/1Ib1Hv0fFEzYGZFSzG3eagcL52BIJBZPa/+cGM3M="
+        }
+    },
+    "Praedy's Blackreach Deposits - Patch": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "2.3.4",
+            "file_id": 617495,
+            "file_name": "Praedy's Blackreach Deposits - Patch-147169-2-3-1744701803.7z",
+            "mod_id": 147169,
+            "hash": "sha256-RygRwituKNXhzBNVOlzeiU3Aaj2wpFDL2Xw2XjXqL4I="
+        }
+    },
+    "CC's Enhanced Ore Veins - Patch (Brighter)": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "2.3.4",
+            "file_id": 617496,
+            "file_name": "CC's Enhanced Ore Veins - Patch (Brighter)-147169-2-3-1744701878.7z",
+            "mod_id": 147169,
+            "hash": "sha256-J582qvsMpOubO2MQ0g12LsL/M28+jOVmJJhvdd77N5k="
+        }
+    },
+    "CC's Enhanced Ore Veins - Patch": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "2.3.4",
+            "file_id": 617497,
+            "file_name": "CC's Enhanced Ore Veins - Patch-147169-2-3-1744701928.7z",
+            "mod_id": 147169,
+            "hash": "sha256-VWUmHYHZtTgQrxq+HDJZHxyVOAAUdZCCu9yYgtgut4A="
+        }
+    },
+    "Ore Deposit - Meshes Improvement": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "2.3.4",
+            "file_id": 621788,
+            "file_name": "Ore Deposit - Meshes Improvement-147169-2-3-2-1745826103.7z",
+            "mod_id": 147169,
+            "hash": "sha256-RnhKZ3Tt7I3ipYYJ7oYxPH1hSOQgNzfrL/NQdY6y7+E="
+        },
+        "type": "primary"
+    },
+    "Skyland - AIO - Patch": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "2.3.4",
+            "file_id": 629121,
+            "file_name": "Skyland - AIO - Patch-147169-2-3-1747735381.7z",
+            "mod_id": 147169,
+            "hash": "sha256-bMaRxtsjMR9jk5NuVixWEdtlkQHy2Yp2H92yKqGna0U="
+        }
+    },
+    "CC's Geodes Reimagined - Patch": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "2.3.4",
+            "file_id": 632224,
+            "file_name": "CC's Geodes Reimagined - Patch-147169-2-3-4-1748448780.7z",
+            "mod_id": 147169,
+            "hash": "sha256-gCixnAwL3YF2fLbeKm2RJQzcENJbgJnNZYwMTpWVovU="
+        }
     }
-  },
-  "CC's Geodes Reimagined - Patch": {
-    "nexusmods": {
-      "game_name": "skyrimspecialedition",
-      "version": "2.3.4",
-      "file_id": 632224,
-      "file_name": "CC's Geodes Reimagined - Patch-147169-2-3-4-1748448780.7z",
-      "mod_id": 147169,
-      "hash": "sha256-gCixnAwL3YF2fLbeKm2RJQzcENJbgJnNZYwMTpWVovU="
-    }
-  }
 }

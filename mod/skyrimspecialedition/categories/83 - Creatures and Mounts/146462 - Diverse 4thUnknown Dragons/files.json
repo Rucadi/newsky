@@ -1,42 +1,46 @@
 {
-    "D4D Textures - High Res": {
-        "nexusmods": {
-            "game_name": "skyrimspecialedition",
-            "version": "1.0",
-            "file_id": 617451,
-            "file_name": "D4D Textures - High Res-146462-1-1-1744689928.7z",
-            "mod_id": 146462
-        },
-        "type": "primary"
+  "D4D Textures - High Res": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 617451,
+      "file_name": "D4D Textures - High Res-146462-1-1-1744689928.7z",
+      "mod_id": 146462,
+      "hash": "sha256-909NtQ5j0LQ7MX9W8odVMPXKBDgSZ+/T1we4VZqzKoY="
     },
-    "D4D Textures - Low Res": {
-        "nexusmods": {
-            "game_name": "skyrimspecialedition",
-            "version": "1.0",
-            "file_id": 617457,
-            "file_name": "D4D Textures - Low Res-146462-1-1-1744690165.7z",
-            "mod_id": 146462
-        },
-        "type": "primary"
+    "type": "primary"
+  },
+  "D4D Textures - Low Res": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 617457,
+      "file_name": "D4D Textures - Low Res-146462-1-1-1744690165.7z",
+      "mod_id": 146462,
+      "hash": "sha256-v4nOmVAkA5G4VxOWM668fucv6FU08b3sGAVX6fxXEcg="
     },
-    "D4D Main File": {
-        "nexusmods": {
-            "game_name": "skyrimspecialedition",
-            "version": "1.17",
-            "file_id": 670329,
-            "file_name": "D4D Main File-146462-1-17-1759104525.7z",
-            "mod_id": 146462
-        },
-        "type": "primary"
+    "type": "primary"
+  },
+  "D4D Main File": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.17",
+      "file_id": 670329,
+      "file_name": "D4D Main File-146462-1-17-1759104525.7z",
+      "mod_id": 146462,
+      "hash": "sha256-4JcghOD6CO0deQrR2g8XmIhzlGwg5ltqngIDQkJVefM="
     },
-    "D4D Main File - No Serpentine Replacer": {
-        "nexusmods": {
-            "game_name": "skyrimspecialedition",
-            "version": "1.17",
-            "file_id": 670331,
-            "file_name": "D4D Main File - No Serpentine Replacer-146462-1-17-1759104592.7z",
-            "mod_id": 146462
-        },
-        "type": "primary"
-    }
+    "type": "primary"
+  },
+  "D4D Main File - No Serpentine Replacer": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.17",
+      "file_id": 670331,
+      "file_name": "D4D Main File - No Serpentine Replacer-146462-1-17-1759104592.7z",
+      "mod_id": 146462,
+      "hash": "sha256-sDg+ILdGwtELTfhrRCSPM9F/08oHyiQxxRgyu4pirpA="
+    },
+    "type": "primary"
+  }
 }

@@ -1,24 +1,24 @@
 {
-  "Aliana Racemenu Preset": {
-    "nexusmods": {
-      "game_name": "skyrimspecialedition",
-      "version": "1.0",
-      "file_id": 617138,
-      "file_name": "Aliana Racemenu Preset-147638-1-0-1744618885.7z",
-      "mod_id": 147638,
-      "hash": "sha256-k13m8wCsWLc9wkIITj7+7T7e+cUYzVLja1OcARdrRJU="
+    "Aliana Racemenu Preset": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "1.0",
+            "file_id": 617138,
+            "file_name": "Aliana Racemenu Preset-147638-1-0-1744618885.7z",
+            "mod_id": 147638,
+            "hash": "sha256-k13m8wCsWLc9wkIITj7+7T7e+cUYzVLja1OcARdrRJU="
+        },
+        "type": "primary"
     },
-    "type": "primary"
-  },
-  "Aliana - D7": {
-    "nexusmods": {
-      "game_name": "skyrimspecialedition",
-      "version": "3.1",
-      "file_id": 625096,
-      "file_name": "Aliana - D7-147638-3-1-1746752238.7z",
-      "mod_id": 147638,
-      "hash": "sha256-Nlj1OFFO+Npeyvaw28CwxoRTRTLm+wQLGkbM2mN/bDk="
-    },
-    "type": "primary"
-  }
+    "Aliana - D7": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "3.1",
+            "file_id": 625096,
+            "file_name": "Aliana - D7-147638-3-1-1746752238.7z",
+            "mod_id": 147638,
+            "hash": "sha256-Nlj1OFFO+Npeyvaw28CwxoRTRTLm+wQLGkbM2mN/bDk="
+        },
+        "type": "primary"
+    }
 }

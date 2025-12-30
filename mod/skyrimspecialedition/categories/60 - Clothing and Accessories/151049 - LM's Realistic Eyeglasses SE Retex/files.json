@@ -1,0 +1,33 @@
+{
+  "LM's Realistic Eyeglasses SE Retex": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 631760,
+      "file_name": "LM's Realistic Eyeglasses SE Retex-151049-1-0-1748331841.7z",
+      "mod_id": 151049,
+      "hash": "sha256-GrIRG/hcJA+zRPrUaU1Xw64WIUEGquvdqe+1ZM9tS08="
+    },
+    "type": "primary"
+  },
+  "LM's Realistic Eyeglasses SE Retex - Optional Cube": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 631761,
+      "file_name": "LM's Realistic Eyeglasses SE Retex - Optional Cube-151049-1-0-1748331879.7z",
+      "mod_id": 151049,
+      "hash": "sha256-yY2fXAjojuoznFQxI5VirXj/Cn8JXICGkQhjm3m+5Ew="
+    }
+  },
+  "LM's Realistic Eyeglasses SE Retex - Optional UBE": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 631762,
+      "file_name": "LM's Realistic Eyeglasses SE Retex - Optional UBE-151049-1-0-1748331931.7z",
+      "mod_id": 151049,
+      "hash": "sha256-dQw26VXZ2OGJp9t6cGVYjgLUnoJp/R0wt0DlAJtm/sk="
+    }
+  }
+}

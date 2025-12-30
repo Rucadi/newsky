@@ -1,23 +1,23 @@
 {
-  "Sanguine Rose Rework 1.0": {
-    "nexusmods": {
-      "game_name": "skyrimspecialedition",
-      "version": "1.0",
-      "file_id": 622202,
-      "file_name": "Sanguine Rose Rework 1.0-148841-1-0-1745959027.zip",
-      "mod_id": 148841,
-      "hash": "sha256-wYfbpIgxch6/iXiI3hdtVVh7yCyZQkFMZfCwimzVCd4="
+    "Sanguine Rose Rework 1.0": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "1.0",
+            "file_id": 622202,
+            "file_name": "Sanguine Rose Rework 1.0-148841-1-0-1745959027.zip",
+            "mod_id": 148841,
+            "hash": "sha256-wYfbpIgxch6/iXiI3hdtVVh7yCyZQkFMZfCwimzVCd4="
+        },
+        "type": "primary"
     },
-    "type": "primary"
-  },
-  "Sanguine Rose Rework 1.0 CHS": {
-    "nexusmods": {
-      "game_name": "skyrimspecialedition",
-      "version": "1.0",
-      "file_id": 622203,
-      "file_name": "Sanguine Rose Rework 1.0 CHS-148841-1-0-1745959049.zip",
-      "mod_id": 148841,
-      "hash": "sha256-ImIdg1GLaD8L+2f19WpzMYbdd4vOnbZ57b6HjwnZoa0="
+    "Sanguine Rose Rework 1.0 CHS": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "1.0",
+            "file_id": 622203,
+            "file_name": "Sanguine Rose Rework 1.0 CHS-148841-1-0-1745959049.zip",
+            "mod_id": 148841,
+            "hash": "sha256-ImIdg1GLaD8L+2f19WpzMYbdd4vOnbZ57b6HjwnZoa0="
+        }
     }
-  }
 }

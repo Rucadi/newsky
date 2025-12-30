@@ -1,0 +1,35 @@
+{
+  "The Corrupted Guardians - E2A - CBBE": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 636606,
+      "file_name": "The Corrupted Guardians - E2A - CBBE-152352-1-0-1749582787.rar",
+      "mod_id": 152352,
+      "hash": "sha256-G71epgNO9glZ4UNIi/nCpVcyETCTPQ+6R2sPlECbi74="
+    },
+    "type": "primary"
+  },
+  "The Corrupted Guardians - E2A - De-Standalone": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 636607,
+      "file_name": "The Corrupted Guardians - E2A - De-Standalone-152352-1-0-1749582822.rar",
+      "mod_id": 152352,
+      "hash": "sha256-SHzAVL5VRNlz1EinHWbbgcbsj4u9EG+74OBuMnoKSAI="
+    },
+    "type": "primary"
+  },
+  "The Corrupted Guardians - E2A - UNP": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 636608,
+      "file_name": "The Corrupted Guardians - E2A - UNP-152352-1-0-1749582858.rar",
+      "mod_id": 152352,
+      "hash": "sha256-NVmZFYLwRUvEXb5zn1aC6rNw2jh+y0ezEHJZeqKYaIc="
+    },
+    "type": "primary"
+  }
+}

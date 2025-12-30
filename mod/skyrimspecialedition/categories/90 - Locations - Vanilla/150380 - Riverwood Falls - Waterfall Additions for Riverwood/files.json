@@ -1,0 +1,23 @@
+{
+  "Riverwood Falls - Terrain LOD": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 628327,
+      "file_name": "Riverwood Falls - Terrain LOD-150380-1-0-1747542353.zip",
+      "mod_id": 150380,
+      "hash": "sha256-1ZvbsMfOghZ/o2PoSh/HKyBMAukGIysNvDUdisKsZ6s="
+    }
+  },
+  "Riverwood Falls 1.2.1": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.2.1",
+      "file_id": 633042,
+      "file_name": "Riverwood Falls 1.2.1-150380-1-2-1-1748652367.zip",
+      "mod_id": 150380,
+      "hash": "sha256-CmEaSGHBBznYMsRpJJc57vNMZA9StZHnAr7omSyKKOU="
+    },
+    "type": "primary"
+  }
+}

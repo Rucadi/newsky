@@ -1,13 +1,13 @@
 {
-  "A proper thane of winterhold- Evelyna Overhaul": {
-    "nexusmods": {
-      "game_name": "skyrimspecialedition",
-      "version": "1.1",
-      "file_id": 612654,
-      "file_name": "A proper thane of winterhold- Evelyna Overhaul-146446-1-1-1743519633.rar",
-      "mod_id": 146446,
-      "hash": "sha256-yRy1xH/af0nyiLjnQfNw0cR7WjZ30EthKfJsE2mLAbw="
-    },
-    "type": "primary"
-  }
+    "A proper thane of winterhold- Evelyna Overhaul": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "1.1",
+            "file_id": 612654,
+            "file_name": "A proper thane of winterhold- Evelyna Overhaul-146446-1-1-1743519633.rar",
+            "mod_id": 146446,
+            "hash": "sha256-yRy1xH/af0nyiLjnQfNw0cR7WjZ30EthKfJsE2mLAbw="
+        },
+        "type": "primary"
+    }
 }

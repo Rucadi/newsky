@@ -1,13 +1,13 @@
 {
-  "SkyrimOutfitEquipmentSystemNG": {
-    "nexusmods": {
-      "game_name": "skyrimspecialedition",
-      "version": "1.0.4",
-      "file_id": 615397,
-      "file_name": "SkyrimOutfitEquipmentSystemNG-147011-1-0-4-1744173905.zip",
-      "mod_id": 147011,
-      "hash": "sha256-FY1dxt0U1VUZmjbPD15sUf5AFUjv5lwUvBqcKktkYkE="
-    },
-    "type": "primary"
-  }
+    "SkyrimOutfitEquipmentSystemNG": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "1.0.4",
+            "file_id": 615397,
+            "file_name": "SkyrimOutfitEquipmentSystemNG-147011-1-0-4-1744173905.zip",
+            "mod_id": 147011,
+            "hash": "sha256-FY1dxt0U1VUZmjbPD15sUf5AFUjv5lwUvBqcKktkYkE="
+        },
+        "type": "primary"
+    }
 }

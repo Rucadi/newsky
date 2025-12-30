@@ -1,0 +1,44 @@
+{
+  "DwemerBathyscaphes 1.4(SNOW FIX)": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.4",
+      "file_id": 643393,
+      "file_name": "DwemerBathyscaphes 1.4(SNOW FIX)-153418-1-4-1751419058.rar",
+      "mod_id": 153418,
+      "hash": "sha256-HBiHe8JFeEsXtvw8AoDUGNUpywKcVxo25lO6fT97Zds="
+    }
+  },
+  "Dwemer Deep 1.4(MOUNTS)": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.4",
+      "file_id": 664476,
+      "file_name": "Dwemer Deep 1.4(MOUNTS)-153418-1-4-1757534585.rar",
+      "mod_id": 153418,
+      "hash": "sha256-2dztZbR18HhBh3uqFlaFSjCg/QAtFTjOdIrPkTYzllE="
+    }
+  },
+  "Dwemer Deep 1.4.1(NO MOUNTS)": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.4.1",
+      "file_id": 664478,
+      "file_name": "Dwemer Deep 1.4.1(NO MOUNTS)-153418-1-4-1-1757534778.rar",
+      "mod_id": 153418,
+      "hash": "sha256-EHuTbqCftc3ABIvR+EQhEHnz5H7jweehvt9AHwhGcW4="
+    },
+    "type": "primary"
+  },
+  "Dwemer Deep 1.4.1(NO MOUNTS SNOW FIX)": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.4.1",
+      "file_id": 664479,
+      "file_name": "Dwemer Deep 1.4.1(NO MOUNTS SNOW FIX)-153418-1-4-1-1757534829.rar",
+      "mod_id": 153418,
+      "hash": "sha256-OCoazVjLiRNFWJeUXfRwDx65JbEL60cYXUEOmua+/pM="
+    },
+    "type": "primary"
+  }
+}

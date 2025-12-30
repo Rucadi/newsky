@@ -1,0 +1,45 @@
+{
+  "ElSopa - Misc Ruins Redone 4k": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 642826,
+      "file_name": "ElSopa - Misc Ruins Redone 4k-153797-1-0-1751243655.7z",
+      "mod_id": 153797,
+      "hash": "sha256-VbcXAZcdqZ+VWJ5w1MwX+X3iD0UwxejafZmhOzY+Eqk="
+    },
+    "type": "primary"
+  },
+  "ElSopa - Misc Ruins Redone 2k": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 642827,
+      "file_name": "ElSopa - Misc Ruins Redone 2k-153797-1-0-1751243747.7z",
+      "mod_id": 153797,
+      "hash": "sha256-ZE7yxqj2dvqi0wqms96aiRJvpOtQgSeR9tMrjrvvG2E="
+    },
+    "type": "primary"
+  },
+  "ElSopa - Misc Ruins Redone 1k": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 642829,
+      "file_name": "ElSopa - Misc Ruins Redone 1k-153797-1-0-1751244175.7z",
+      "mod_id": 153797,
+      "hash": "sha256-AB0z9G+3qHceb3owO6XJpjKTzn/F5X1/4TUM2BwnHPY="
+    },
+    "type": "primary"
+  },
+  "ElSopa - Misc Ruins Redone Pepe Alternative": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 642830,
+      "file_name": "ElSopa - Misc Ruins Redone Pepe Alternative-153797-1-0-1751244657.7z",
+      "mod_id": 153797,
+      "hash": "sha256-7ADptAzD34oEpztdPBTQPnUhxcBxTveyA/GMc5y2fbM="
+    }
+  }
+}

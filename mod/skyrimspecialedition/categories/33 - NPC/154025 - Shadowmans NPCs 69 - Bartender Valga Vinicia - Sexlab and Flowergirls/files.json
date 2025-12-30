@@ -1,0 +1,24 @@
+{
+  "shadowman_valgaSL": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1",
+      "file_id": 643567,
+      "file_name": "shadowman_valgaSL-154025-1-1751478275.rar",
+      "mod_id": 154025,
+      "hash": "sha256-TFDUrU2XI9zlCkoFqLQoCvbzXUO+EeJwZVUE9pEEdVQ="
+    },
+    "type": "primary"
+  },
+  "shadowman_valgaFG": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1",
+      "file_id": 643568,
+      "file_name": "shadowman_valgaFG-154025-1-1751478301.rar",
+      "mod_id": 154025,
+      "hash": "sha256-FASFhnBKqvEDMwMIM302XfJdlX1GD21tizNJ5neLQPA="
+    },
+    "type": "primary"
+  }
+}

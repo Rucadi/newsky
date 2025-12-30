@@ -80,7 +80,8 @@
       "version": "1.0",
       "file_id": 613382,
       "file_name": "Shiny BHUNP-146631-1-0-1743688662.zip",
-      "mod_id": 146631
+      "mod_id": 146631,
+      "hash": "sha256-bR19qoF6rsyOnCUA4ohJ0OVDD7npMzPz9Ma1+iqMNqo="
     }
   },
   "Shiny CBBE": {
@@ -89,7 +90,8 @@
       "version": "1.0",
       "file_id": 613383,
       "file_name": "Shiny CBBE-146631-1-0-1743688688.zip",
-      "mod_id": 146631
+      "mod_id": 146631,
+      "hash": "sha256-k4ZaSj3ZDBiFriFKAwviYWWIxxm219FVQm7WmWgJQCM="
     }
   },
   "Shiny UBE": {
@@ -98,7 +100,8 @@
       "version": "1.0",
       "file_id": 613384,
       "file_name": "Shiny UBE-146631-1-0-1743688716.zip",
-      "mod_id": 146631
+      "mod_id": 146631,
+      "hash": "sha256-x8WXn9FWD3FBpyloGfueQP1M1stocG/8uC8bX88Ev/Y="
     }
   },
   "Shiny UNP": {
@@ -107,7 +110,8 @@
       "version": "1.0",
       "file_id": 613385,
       "file_name": "Shiny UNP-146631-1-0-1743688793.zip",
-      "mod_id": 146631
+      "mod_id": 146631,
+      "hash": "sha256-eIFWtQZt7gm38NgdbWfOuUIZXzWtywphP0ITUOv4RBA="
     }
   }
 }

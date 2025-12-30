@@ -1,33 +1,33 @@
 {
-  "Higher Poly Vanilla Burnt Corpses": {
-    "nexusmods": {
-      "game_name": "skyrimspecialedition",
-      "version": "1.0",
-      "file_id": 628511,
-      "file_name": "Higher Poly Vanilla Burnt Corpses-150421-1-0-1747577330.rar",
-      "mod_id": 150421,
-      "hash": "sha256-Hh1OzwD951ndK+68czuPH6Pfqyz4zCdDprw2x0SXMmM="
+    "Higher Poly Vanilla Burnt Corpses": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "1.0",
+            "file_id": 628511,
+            "file_name": "Higher Poly Vanilla Burnt Corpses-150421-1-0-1747577330.rar",
+            "mod_id": 150421,
+            "hash": "sha256-Hh1OzwD951ndK+68czuPH6Pfqyz4zCdDprw2x0SXMmM="
+        },
+        "type": "primary"
     },
-    "type": "primary"
-  },
-  "HPV Burnt Corpses - Skeleton Replacer HD - Patch": {
-    "nexusmods": {
-      "game_name": "skyrimspecialedition",
-      "version": "1.0",
-      "file_id": 628512,
-      "file_name": "HPV Burnt Corpses - Skeleton Replacer HD - Patch-150421-1-0-1747577379.rar",
-      "mod_id": 150421,
-      "hash": "sha256-1sa/m0bzOkYRpXTeKwP7hxHOsB1/MUZaMEh09m3Z3EI="
+    "HPV Burnt Corpses - Skeleton Replacer HD - Patch": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "1.0",
+            "file_id": 628512,
+            "file_name": "HPV Burnt Corpses - Skeleton Replacer HD - Patch-150421-1-0-1747577379.rar",
+            "mod_id": 150421,
+            "hash": "sha256-1sa/m0bzOkYRpXTeKwP7hxHOsB1/MUZaMEh09m3Z3EI="
+        }
+    },
+    "HPV BC - Skeleton Replacer HD - Less Shiny - Patch": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "1.0",
+            "file_id": 628639,
+            "file_name": "HPV BC - Skeleton Replacer HD - Less Shiny - Patch-150421-1-0-1747600038.rar",
+            "mod_id": 150421,
+            "hash": "sha256-wB9ECadTcVmw5MvfdEDrUy9QMGdSnUu2csuFSTR8IKg="
+        }
     }
-  },
-  "HPV BC - Skeleton Replacer HD - Less Shiny - Patch": {
-    "nexusmods": {
-      "game_name": "skyrimspecialedition",
-      "version": "1.0",
-      "file_id": 628639,
-      "file_name": "HPV BC - Skeleton Replacer HD - Less Shiny - Patch-150421-1-0-1747600038.rar",
-      "mod_id": 150421,
-      "hash": "sha256-wB9ECadTcVmw5MvfdEDrUy9QMGdSnUu2csuFSTR8IKg="
-    }
-  }
 }

@@ -1,24 +1,24 @@
 {
-  "LDD_LevisChoice_DetailMakeupSetforHPH 2K": {
-    "nexusmods": {
-      "game_name": "skyrimspecialedition",
-      "version": "1.0.0",
-      "file_id": 625331,
-      "file_name": "LDD_LevisChoice_DetailMakeupSetforHPH 2K-149633-1-0-0-1746811365.7z",
-      "mod_id": 149633,
-      "hash": "sha256-MTgcv4SfcGJrq3t2PbshB9UiacOFB47kaMPjnaklC2k="
+    "LDD_LevisChoice_DetailMakeupSetforHPH 2K": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "1.0.0",
+            "file_id": 625331,
+            "file_name": "LDD_LevisChoice_DetailMakeupSetforHPH 2K-149633-1-0-0-1746811365.7z",
+            "mod_id": 149633,
+            "hash": "sha256-MTgcv4SfcGJrq3t2PbshB9UiacOFB47kaMPjnaklC2k="
+        },
+        "type": "primary"
     },
-    "type": "primary"
-  },
-  "LDD_LevisChoice_DetailMakeupSetforHPH 4K": {
-    "nexusmods": {
-      "game_name": "skyrimspecialedition",
-      "version": "1.0.0",
-      "file_id": 625332,
-      "file_name": "LDD_LevisChoice_DetailMakeupSetforHPH 4K-149633-1-0-0-1746811399.7z",
-      "mod_id": 149633,
-      "hash": "sha256-n2TrzT6mkGdxbtJmtcZZkP+G2oJXeSD61kNp8rX/4BQ="
-    },
-    "type": "primary"
-  }
+    "LDD_LevisChoice_DetailMakeupSetforHPH 4K": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "1.0.0",
+            "file_id": 625332,
+            "file_name": "LDD_LevisChoice_DetailMakeupSetforHPH 4K-149633-1-0-0-1746811399.7z",
+            "mod_id": 149633,
+            "hash": "sha256-n2TrzT6mkGdxbtJmtcZZkP+G2oJXeSD61kNp8rX/4BQ="
+        },
+        "type": "primary"
+    }
 }

@@ -16,7 +16,8 @@
       "version": "1",
       "file_id": 627191,
       "file_name": "HFs - Practice Dummies - remodel - 2K-150102-1-1747253365.zip",
-      "mod_id": 150102
+      "mod_id": 150102,
+      "hash": "sha256-2uHeTpY9D0w39SNPt3KtzdkAnRqIQZrg4Rm+17dTzYs="
     },
     "type": "primary"
   },
@@ -26,7 +27,8 @@
       "version": "1",
       "file_id": 627192,
       "file_name": "HFs - Practice Dummies - remodel - 4K-150102-1-1747253419.zip",
-      "mod_id": 150102
+      "mod_id": 150102,
+      "hash": "sha256-4BYfy3kIBnNt1wwSgSCZVaBrG5Cp/m3RUI7li6MIXLk="
     },
     "type": "primary"
   }

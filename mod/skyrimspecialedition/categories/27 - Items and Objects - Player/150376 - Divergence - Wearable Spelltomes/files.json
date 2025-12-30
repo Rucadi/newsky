@@ -1,0 +1,43 @@
+{
+  "Divergence - Wearable Spelltomes": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1",
+      "file_id": 628311,
+      "file_name": "Divergence - Wearable Spelltomes-150376-1-1747536225.7z",
+      "mod_id": 150376,
+      "hash": "sha256-ZixP7z6OdhPWqX/h86zg9QMiIJb1yuf3oKt026qDYxo="
+    },
+    "type": "primary"
+  },
+  "Divergence Wearable Spell Tomes - USSEP Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1",
+      "file_id": 628633,
+      "file_name": "Divergence Wearable Spell Tomes - USSEP Patch-150376-1-1747599754.7z",
+      "mod_id": 150376,
+      "hash": "sha256-IPQIK4sppnzFBiYSBIrOyJhFRhtuJCVOOicKUCyk/Jw="
+    }
+  },
+  "Divergence Wearable Spell Tomes - Mysticism Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1",
+      "file_id": 628635,
+      "file_name": "Divergence Wearable Spell Tomes - Mysticism Patch-150376-1-1747599859.7z",
+      "mod_id": 150376,
+      "hash": "sha256-PeZNOaYpwvZ4B2U5YaPhVK4Acu0NlgcXDb7hw+DLOiY="
+    }
+  },
+  "Divergence Wearable Spell Tomes - Sorcerer Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1",
+      "file_id": 628638,
+      "file_name": "Divergence Wearable Spell Tomes - Sorcerer Patch-150376-1-1747599950.7z",
+      "mod_id": 150376,
+      "hash": "sha256-1X9wFI+94SRxP//E5HatJy6HmIw4ximZglC/tzrj6G4="
+    }
+  }
+}

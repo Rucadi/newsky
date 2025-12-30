@@ -1,0 +1,44 @@
+{
+  "Dynamic Female Table Leaning - OAR": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1",
+      "file_id": 636634,
+      "file_name": "Dynamic Female Table Leaning - OAR-151307-1-1-1749593766.zip",
+      "mod_id": 151307,
+      "hash": "sha256-icbF1mixq2s4cbYcD6N38Sxoh0jGh+raQZ/Nzl1Rtjs="
+    },
+    "type": "primary"
+  },
+  "zDynamic Female Table Leaning - DAR Legacy": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1",
+      "file_id": 636635,
+      "file_name": "zDynamic Female Table Leaning - DAR Legacy-151307-1-1-1749593807.zip",
+      "mod_id": 151307,
+      "hash": "sha256-tOHziFrNQqNtagiLMCm7UHHrRhkyQ9yaaswxF4iGxYI="
+    },
+    "type": "primary"
+  },
+  "DFTL - Randomized Conditions - OAR": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1",
+      "file_id": 636636,
+      "file_name": "DFTL - Randomized Conditions - OAR-151307-1-1-1749593841.zip",
+      "mod_id": 151307,
+      "hash": "sha256-kuyYM/9/wFK0ZMoEBb0TpxwnbsfIZGeNJ4ePEK9Ff8k="
+    }
+  },
+  "zDFTL - Randomized Conditions - DAR Legacy": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1",
+      "file_id": 636637,
+      "file_name": "zDFTL - Randomized Conditions - DAR Legacy-151307-1-1-1749593871.zip",
+      "mod_id": 151307,
+      "hash": "sha256-lH+bHHMd+T6/BL73u9nEIc9KU5X5B1IWZ8o8I7+nmSs="
+    }
+  }
+}

@@ -1,0 +1,63 @@
+{
+  "Domain TNG Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "2",
+      "file_id": 633483,
+      "file_name": "Domain TNG Patch-151480-2-1748763772.7z",
+      "mod_id": 151480,
+      "hash": "sha256-SR+Q8InAK0syHXoP8JothhUZG+DURCPQzze6eAhIpQE="
+    },
+    "type": "primary"
+  },
+  "Argonian Female Pubic Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1",
+      "file_id": 633484,
+      "file_name": "Argonian Female Pubic Patch-151480-1-1748763861.7z",
+      "mod_id": 151480,
+      "hash": "sha256-OqJEDu+EiqSVjt6p33bKinewKh98CjDuawcmPdUtyWY="
+    }
+  },
+  "Khajit Female Pubic Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1",
+      "file_id": 633485,
+      "file_name": "Khajit Female Pubic Patch-151480-1-1748763916.7z",
+      "mod_id": 151480,
+      "hash": "sha256-TCfbza+Sxqx/+p9e7udbCokGybnSJcd4GO6/O2wm7+I="
+    }
+  },
+  "Wood Elf Pubic Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1",
+      "file_id": 633486,
+      "file_name": "Wood Elf Pubic Patch-151480-1-1748763974.7z",
+      "mod_id": 151480,
+      "hash": "sha256-op931IhRVmjTnhpghX6uMxy0Xafz2ZbGGGKlmd0SfDI="
+    }
+  },
+  "Imperial Vampire TRX patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1",
+      "file_id": 633488,
+      "file_name": "Imperial Vampire TRX patch-151480-1-1748764047.7z",
+      "mod_id": 151480,
+      "hash": "sha256-4tkNWM0YdFKN6G3mijQRT4SY1urAaJO93T/IETdTciI="
+    }
+  },
+  "TNG INI's": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1",
+      "file_id": 633489,
+      "file_name": "TNG INI's-151480-1-1748764091.7z",
+      "mod_id": 151480,
+      "hash": "sha256-wV8GUlxnDuK20z0AWY5s5sPvM4Jgm/VCDgbSEq8avsQ="
+    }
+  }
+}

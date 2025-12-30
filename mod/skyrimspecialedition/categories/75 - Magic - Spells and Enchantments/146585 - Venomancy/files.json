@@ -106,7 +106,8 @@
       "version": "1.5",
       "file_id": 648553,
       "file_name": "Venomancy - Restoration-146585-1-5-1752963723.zip",
-      "mod_id": 146585
+      "mod_id": 146585,
+      "hash": "sha256-ebOldbeRc0HcKI1nPRgLZ8/Sy4itg4SicgOHRqYrxFs="
     },
     "type": "primary"
   },
@@ -116,7 +117,8 @@
       "version": "1.5",
       "file_id": 648554,
       "file_name": "Venomancy - Lost Grimoire SSE Patch-146585-1-5-1752963830.zip",
-      "mod_id": 146585
+      "mod_id": 146585,
+      "hash": "sha256-85+hpYglYGN3F1T3cFilwTYC59oD5Q20RoL+fiYFums="
     }
   }
 }

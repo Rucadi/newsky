@@ -1,33 +1,33 @@
 {
-  "Compatibility patch for EVG Conditional Idles": {
-    "nexusmods": {
-      "game_name": "skyrimspecialedition",
-      "version": "1.0",
-      "file_id": 628200,
-      "file_name": "Compatibility patch for EVG Conditional Idles-149713-1-0-1747515672.zip",
-      "mod_id": 149713,
-      "hash": "sha256-oDqAuPPFfxg5X3wyGS0zycXoAr7lHsiEnYz+ODzAkok="
-    }
-  },
-  "Compatibility patch for EVG Conditionals extended": {
-    "nexusmods": {
-      "game_name": "skyrimspecialedition",
-      "version": "1.0",
-      "file_id": 628202,
-      "file_name": "EVG Conditionals extended-149713-1-0-1747515710.zip",
-      "mod_id": 149713,
-      "hash": "sha256-SnCImXVuRFnOpn9y5oghgKmMZfUwL0zRhKMuD++wySM="
-    }
-  },
-  "Smooth Moveset - OAR": {
-    "nexusmods": {
-      "game_name": "skyrimspecialedition",
-      "version": "1.5",
-      "file_id": 660022,
-      "file_name": "Smooth Moveset - OAR-149713-1-5-1756381509.zip",
-      "mod_id": 149713,
-      "hash": "sha256-RJ/a/UuZGjnpblk08R753vxTLslf3ASF2oL2nszxuh0="
+    "Compatibility patch for EVG Conditional Idles": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "1.0",
+            "file_id": 628200,
+            "file_name": "Compatibility patch for EVG Conditional Idles-149713-1-0-1747515672.zip",
+            "mod_id": 149713,
+            "hash": "sha256-oDqAuPPFfxg5X3wyGS0zycXoAr7lHsiEnYz+ODzAkok="
+        }
     },
-    "type": "primary"
-  }
+    "Compatibility patch for EVG Conditionals extended": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "1.0",
+            "file_id": 628202,
+            "file_name": "EVG Conditionals extended-149713-1-0-1747515710.zip",
+            "mod_id": 149713,
+            "hash": "sha256-SnCImXVuRFnOpn9y5oghgKmMZfUwL0zRhKMuD++wySM="
+        }
+    },
+    "Smooth Moveset - OAR": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "1.5",
+            "file_id": 660022,
+            "file_name": "Smooth Moveset - OAR-149713-1-5-1756381509.zip",
+            "mod_id": 149713,
+            "hash": "sha256-RJ/a/UuZGjnpblk08R753vxTLslf3ASF2oL2nszxuh0="
+        },
+        "type": "primary"
+    }
 }

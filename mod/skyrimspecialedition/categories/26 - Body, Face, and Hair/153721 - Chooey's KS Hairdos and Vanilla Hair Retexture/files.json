@@ -1,0 +1,34 @@
+{
+  "Chooey's KS Hairdos Retexture": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "2.1.0",
+      "file_id": 688927,
+      "file_name": "Chooey's KS Hairdos Retexture-153721-2-1-0-1763512473.7z",
+      "mod_id": 153721,
+      "hash": "sha256-alfI/bKxjraPFdF5vrqufGOjHNq2vu9yJ5rbCrrrPKI="
+    },
+    "type": "primary"
+  },
+  "Chooey's KS Hairdos Retexture - HDT-SMP Addon": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "2.1.0",
+      "file_id": 688928,
+      "file_name": "Chooey's KS Hairdos Retexture - HDT-SMP Addon-153721-2-1-0-1763512518.7z",
+      "mod_id": 153721,
+      "hash": "sha256-JXBpecK6mxcwpai6X18Pwnbm0uY+oVHDCkf3zPkjECA="
+    }
+  },
+  "Chooey's Vanilla Hair Retexture": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0.0",
+      "file_id": 689308,
+      "file_name": "Chooey's Vanilla Hair Retexture-153721-1-0-0-1763626382.7z",
+      "mod_id": 153721,
+      "hash": "sha256-wrWTMPBc+9z10SaooUw2/Qp04U6SvZXsUXio9XCMvw0="
+    },
+    "type": "primary"
+  }
+}

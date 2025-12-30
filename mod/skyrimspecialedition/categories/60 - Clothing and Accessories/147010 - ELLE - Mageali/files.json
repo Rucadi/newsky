@@ -1,23 +1,23 @@
 {
-  "Mageali - 3BA": {
-    "nexusmods": {
-      "game_name": "skyrimspecialedition",
-      "version": "1",
-      "file_id": 618991,
-      "file_name": "Mageali - 3BA-147010-1-1745066680.rar",
-      "mod_id": 147010,
-      "hash": "sha256-fYZro7IiNRf2sgZjW2jdUV8yeLonmtuN95MjMFANAhk="
+    "Mageali - 3BA": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "1",
+            "file_id": 618991,
+            "file_name": "Mageali - 3BA-147010-1-1745066680.rar",
+            "mod_id": 147010,
+            "hash": "sha256-fYZro7IiNRf2sgZjW2jdUV8yeLonmtuN95MjMFANAhk="
+        },
+        "type": "primary"
     },
-    "type": "primary"
-  },
-  "Mageali - UBE": {
-    "nexusmods": {
-      "game_name": "skyrimspecialedition",
-      "version": "1",
-      "file_id": 618992,
-      "file_name": "Mageali - UBE-147010-1-1745066770.rar",
-      "mod_id": 147010,
-      "hash": "sha256-r8j6McWETh8oei7sv7moW8B+aXJxLzNbHPjjblFSI7A="
+    "Mageali - UBE": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "1",
+            "file_id": 618992,
+            "file_name": "Mageali - UBE-147010-1-1745066770.rar",
+            "mod_id": 147010,
+            "hash": "sha256-r8j6McWETh8oei7sv7moW8B+aXJxLzNbHPjjblFSI7A="
+        }
     }
-  }
 }

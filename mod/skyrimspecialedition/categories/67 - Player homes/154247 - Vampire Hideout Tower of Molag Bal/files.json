@@ -1,0 +1,34 @@
+{
+  "Vampire Hideout Tower of Molag Bal": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 644470,
+      "file_name": "Vampire Hideout Tower of Molag Bal-154247-1-0-1751747882.zip",
+      "mod_id": 154247,
+      "hash": "sha256-ZePlMDbWQ4U1EsliMUp4Zz6O8BhbC/4zibqcuIcN3DA="
+    },
+    "type": "primary"
+  },
+  "Vampire Hideout Tower of Molag Bal with servants": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 644472,
+      "file_name": "Vampire Hideout Tower of Molag Bal with servants-154247-1-0-1751747996.zip",
+      "mod_id": 154247,
+      "hash": "sha256-nolPiY7JhFRVUJNkMO+BilRS2bG77ZWJ9tgqFFrQwVQ="
+    },
+    "type": "primary"
+  },
+  "Vampire Hideout and Wintersun PATCH": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 644473,
+      "file_name": "Vampire Hideout and Wintersun PATCH-154247-1-0-1751748120.zip",
+      "mod_id": 154247,
+      "hash": "sha256-QOWZ7kAa+NVVQxu8dYCTX5usLG6IUpiQPjf2dQ/4dG0="
+    }
+  }
+}

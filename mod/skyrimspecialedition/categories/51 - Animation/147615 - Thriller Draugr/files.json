@@ -1,13 +1,13 @@
 {
-  "Thriller Draugr": {
-    "nexusmods": {
-      "game_name": "skyrimspecialedition",
-      "version": "1.0",
-      "file_id": 617050,
-      "file_name": "Thriller Draugr-147615-1-0-1744591879.7z",
-      "mod_id": 147615,
-      "hash": "sha256-hCigh4Luunjt1J8X8kUEvFza3Ju0aFLiK8CAdpfdPkg="
-    },
-    "type": "primary"
-  }
+    "Thriller Draugr": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "1.0",
+            "file_id": 617050,
+            "file_name": "Thriller Draugr-147615-1-0-1744591879.7z",
+            "mod_id": 147615,
+            "hash": "sha256-hCigh4Luunjt1J8X8kUEvFza3Ju0aFLiK8CAdpfdPkg="
+        },
+        "type": "primary"
+    }
 }

@@ -1,143 +1,143 @@
 {
-  "2. Werebear Colour Sync - 1. Vanilla": {
-    "nexusmods": {
-      "game_name": "skyrimspecialedition",
-      "version": "1.1",
-      "file_id": 619157,
-      "file_name": "Werebear Colour Sync - Vanilla-147697-1-1-1745102385.rar",
-      "mod_id": 147697,
-      "hash": "sha256-8JIg2ZotZekTPPOakeN9Q3nvIr8OthtVefe5+xnDRSU="
+    "2. Werebear Colour Sync - 1. Vanilla": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "1.1",
+            "file_id": 619157,
+            "file_name": "Werebear Colour Sync - Vanilla-147697-1-1-1745102385.rar",
+            "mod_id": 147697,
+            "hash": "sha256-8JIg2ZotZekTPPOakeN9Q3nvIr8OthtVefe5+xnDRSU="
+        },
+        "type": "primary"
     },
-    "type": "primary"
-  },
-  "1. Werewolf Colour Sync - 2. Elegant": {
-    "nexusmods": {
-      "game_name": "skyrimspecialedition",
-      "version": "1.1",
-      "file_id": 621401,
-      "file_name": "Werewolf Colour Sync - Elegant-147697-1-1-1745714630.rar",
-      "mod_id": 147697,
-      "hash": "sha256-3XtDMvieDLmEO62JlomFgw8QPzX0fz0njBNXhX8tFrg="
+    "1. Werewolf Colour Sync - 2. Elegant": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "1.1",
+            "file_id": 621401,
+            "file_name": "Werewolf Colour Sync - Elegant-147697-1-1-1745714630.rar",
+            "mod_id": 147697,
+            "hash": "sha256-3XtDMvieDLmEO62JlomFgw8QPzX0fz0njBNXhX8tFrg="
+        },
+        "type": "primary"
     },
-    "type": "primary"
-  },
-  "1. Werewolf Colour Sync - 2. Elegant Terror": {
-    "nexusmods": {
-      "game_name": "skyrimspecialedition",
-      "version": "1.1",
-      "file_id": 621402,
-      "file_name": "Werewolf Colour Sync - Elegant Terror-147697-1-1-1745714825.rar",
-      "mod_id": 147697,
-      "hash": "sha256-HRNQI6hccjw9y1bAJOZLgPw3d4UCXNckJN8S10bZv2c="
+    "1. Werewolf Colour Sync - 2. Elegant Terror": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "1.1",
+            "file_id": 621402,
+            "file_name": "Werewolf Colour Sync - Elegant Terror-147697-1-1-1745714825.rar",
+            "mod_id": 147697,
+            "hash": "sha256-HRNQI6hccjw9y1bAJOZLgPw3d4UCXNckJN8S10bZv2c="
+        },
+        "type": "primary"
     },
-    "type": "primary"
-  },
-  "Werewolf Colour Sync - La Femme Lycana - Elegant": {
-    "nexusmods": {
-      "game_name": "skyrimspecialedition",
-      "version": "1.1",
-      "file_id": 621404,
-      "file_name": "Werewolf Colour Sync - La Femme Lycana - Elegant-147697-1-1-1745714931.rar",
-      "mod_id": 147697,
-      "hash": "sha256-IXABChThnQ439LJsvFglH4vzfmFkAR6cZ7viD6p2tRY="
+    "Werewolf Colour Sync - La Femme Lycana - Elegant": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "1.1",
+            "file_id": 621404,
+            "file_name": "Werewolf Colour Sync - La Femme Lycana - Elegant-147697-1-1-1745714931.rar",
+            "mod_id": 147697,
+            "hash": "sha256-IXABChThnQ439LJsvFglH4vzfmFkAR6cZ7viD6p2tRY="
+        }
+    },
+    "1. Werewolf Colour Sync - 3. Apex No Eye Glow": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "1.1",
+            "file_id": 630241,
+            "file_name": "1. Werewolf Colour Sync - 3. Apex No Eye Glow-147697-1-1-1748006946.rar",
+            "mod_id": 147697,
+            "hash": "sha256-EQk67YvOvr8j0Xtg6VBf/NcSJ/AeLVmFWmuu4mkjQAE="
+        },
+        "type": "primary"
+    },
+    "1. Werewolf Colour Sync - 3. Apex With Eye Glow": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "1.1",
+            "file_id": 630243,
+            "file_name": "1. Werewolf Colour Sync - 3. Apex With Eye Glow-147697-1-1-1748007065.rar",
+            "mod_id": 147697,
+            "hash": "sha256-PXzHWR4lASLkyPVwbnTROboqUGkA94spAnWhp3gI0As="
+        },
+        "type": "primary"
+    },
+    "1. Werewolf Colour Sync - 4. Underworld": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "1.1",
+            "file_id": 630980,
+            "file_name": "1. Werewolf Colour Sync - 4. Underworld-147697-1-1-1748170588.rar",
+            "mod_id": 147697,
+            "hash": "sha256-G+oyf8u6O5634wIDacWXv8zLXe0Wy5kdp344WHznWzE="
+        },
+        "type": "primary"
+    },
+    "Werewolf Colour Sync - La Femme Lycana - Vanilla": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "1.1.1",
+            "file_id": 639447,
+            "file_name": "Werewolf Colour Sync - La Femme Lycana - Vanilla-147697-1-1-1-1750331705.rar",
+            "mod_id": 147697,
+            "hash": "sha256-lNMTztSXKa4fCDzM+FrDGdTyFs4aDNcToRPVasYFvHQ="
+        }
+    },
+    "1. Werewolf Colour Sync - 1. Vanilla": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "2.0",
+            "file_id": 656875,
+            "file_name": "1. Werewolf Colour Sync - 1. Vanilla-147697-2-0-1755518366.7z",
+            "mod_id": 147697,
+            "hash": "sha256-2Wbe5m/TE4dEgS3zfm6I6RFnZbqWbbudA4tFYU4bYKs="
+        },
+        "type": "primary"
+    },
+    "1. Werewolf Colour Sync - 5. Tamaska": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "2.0",
+            "file_id": 656876,
+            "file_name": "1. Werewolf Colour Sync - 5. Tamaska-147697-2-0-1755518526.7z",
+            "mod_id": 147697,
+            "hash": "sha256-gGlvddKiU/AELLd4K2OzpBvEnAZ8ZNHC07MjI0pFOOM="
+        },
+        "type": "primary"
+    },
+    "1. Werewolf Colour Sync - 6. FusaFusa": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "2.0",
+            "file_id": 656878,
+            "file_name": "1. Werewolf Colour Sync - 6. FusaFusa-147697-2-0-1755518697.7z",
+            "mod_id": 147697,
+            "hash": "sha256-EciuVhb+2jO7Wt4DSOuic6drw49J14lF1mpEX15YvIE="
+        },
+        "type": "primary"
+    },
+    "1. Werewolf Colour Sync - 7. Fluffworks Medium": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "2.0",
+            "file_id": 656881,
+            "file_name": "1. Werewolf Colour Sync - 7. Fluffworks Medium-147697-2-0-1755518832.7z",
+            "mod_id": 147697,
+            "hash": "sha256-sCmQjUCoRS2UGTxTJMrkfkaEjK7xZLgpdluSpk37lgY="
+        },
+        "type": "primary"
+    },
+    "1. Werewolf Colour Sync - 7. Fluffworks Quality": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "2.0",
+            "file_id": 656882,
+            "file_name": "1. Werewolf Colour Sync - 7. Fluffworks Quality-147697-2-0-1755518948.7z",
+            "mod_id": 147697,
+            "hash": "sha256-nR6LJcqJv8U0/Dv+CZRmN8VYzyS3P0Tb+q76abzMc+E="
+        },
+        "type": "primary"
     }
-  },
-  "1. Werewolf Colour Sync - 3. Apex No Eye Glow": {
-    "nexusmods": {
-      "game_name": "skyrimspecialedition",
-      "version": "1.1",
-      "file_id": 630241,
-      "file_name": "1. Werewolf Colour Sync - 3. Apex No Eye Glow-147697-1-1-1748006946.rar",
-      "mod_id": 147697,
-      "hash": "sha256-EQk67YvOvr8j0Xtg6VBf/NcSJ/AeLVmFWmuu4mkjQAE="
-    },
-    "type": "primary"
-  },
-  "1. Werewolf Colour Sync - 3. Apex With Eye Glow": {
-    "nexusmods": {
-      "game_name": "skyrimspecialedition",
-      "version": "1.1",
-      "file_id": 630243,
-      "file_name": "1. Werewolf Colour Sync - 3. Apex With Eye Glow-147697-1-1-1748007065.rar",
-      "mod_id": 147697,
-      "hash": "sha256-PXzHWR4lASLkyPVwbnTROboqUGkA94spAnWhp3gI0As="
-    },
-    "type": "primary"
-  },
-  "1. Werewolf Colour Sync - 4. Underworld": {
-    "nexusmods": {
-      "game_name": "skyrimspecialedition",
-      "version": "1.1",
-      "file_id": 630980,
-      "file_name": "1. Werewolf Colour Sync - 4. Underworld-147697-1-1-1748170588.rar",
-      "mod_id": 147697,
-      "hash": "sha256-G+oyf8u6O5634wIDacWXv8zLXe0Wy5kdp344WHznWzE="
-    },
-    "type": "primary"
-  },
-  "Werewolf Colour Sync - La Femme Lycana - Vanilla": {
-    "nexusmods": {
-      "game_name": "skyrimspecialedition",
-      "version": "1.1.1",
-      "file_id": 639447,
-      "file_name": "Werewolf Colour Sync - La Femme Lycana - Vanilla-147697-1-1-1-1750331705.rar",
-      "mod_id": 147697,
-      "hash": "sha256-lNMTztSXKa4fCDzM+FrDGdTyFs4aDNcToRPVasYFvHQ="
-    }
-  },
-  "1. Werewolf Colour Sync - 1. Vanilla": {
-    "nexusmods": {
-      "game_name": "skyrimspecialedition",
-      "version": "2.0",
-      "file_id": 656875,
-      "file_name": "1. Werewolf Colour Sync - 1. Vanilla-147697-2-0-1755518366.7z",
-      "mod_id": 147697,
-      "hash": "sha256-2Wbe5m/TE4dEgS3zfm6I6RFnZbqWbbudA4tFYU4bYKs="
-    },
-    "type": "primary"
-  },
-  "1. Werewolf Colour Sync - 5. Tamaska": {
-    "nexusmods": {
-      "game_name": "skyrimspecialedition",
-      "version": "2.0",
-      "file_id": 656876,
-      "file_name": "1. Werewolf Colour Sync - 5. Tamaska-147697-2-0-1755518526.7z",
-      "mod_id": 147697,
-      "hash": "sha256-gGlvddKiU/AELLd4K2OzpBvEnAZ8ZNHC07MjI0pFOOM="
-    },
-    "type": "primary"
-  },
-  "1. Werewolf Colour Sync - 6. FusaFusa": {
-    "nexusmods": {
-      "game_name": "skyrimspecialedition",
-      "version": "2.0",
-      "file_id": 656878,
-      "file_name": "1. Werewolf Colour Sync - 6. FusaFusa-147697-2-0-1755518697.7z",
-      "mod_id": 147697,
-      "hash": "sha256-EciuVhb+2jO7Wt4DSOuic6drw49J14lF1mpEX15YvIE="
-    },
-    "type": "primary"
-  },
-  "1. Werewolf Colour Sync - 7. Fluffworks Medium": {
-    "nexusmods": {
-      "game_name": "skyrimspecialedition",
-      "version": "2.0",
-      "file_id": 656881,
-      "file_name": "1. Werewolf Colour Sync - 7. Fluffworks Medium-147697-2-0-1755518832.7z",
-      "mod_id": 147697,
-      "hash": "sha256-sCmQjUCoRS2UGTxTJMrkfkaEjK7xZLgpdluSpk37lgY="
-    },
-    "type": "primary"
-  },
-  "1. Werewolf Colour Sync - 7. Fluffworks Quality": {
-    "nexusmods": {
-      "game_name": "skyrimspecialedition",
-      "version": "2.0",
-      "file_id": 656882,
-      "file_name": "1. Werewolf Colour Sync - 7. Fluffworks Quality-147697-2-0-1755518948.7z",
-      "mod_id": 147697,
-      "hash": "sha256-nR6LJcqJv8U0/Dv+CZRmN8VYzyS3P0Tb+q76abzMc+E="
-    },
-    "type": "primary"
-  }
 }

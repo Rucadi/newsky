@@ -1,46 +1,46 @@
 {
-  "Lovely Makeup 3 - UBE - 4K": {
-    "nexusmods": {
-      "game_name": "skyrimspecialedition",
-      "version": "1.0",
-      "file_id": 621199,
-      "file_name": "Lovely Makeup 3 - UBE - 4K-147639-1-0-1745649287.zip",
-      "mod_id": 147639,
-      "hash": "sha256-qp5ANVWjUd5Y663+kZhbwwzGJF9dhXWnDn7V1h78xsY="
+    "Lovely Makeup 3 - UBE - 4K": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "1.0",
+            "file_id": 621199,
+            "file_name": "Lovely Makeup 3 - UBE - 4K-147639-1-0-1745649287.zip",
+            "mod_id": 147639,
+            "hash": "sha256-qp5ANVWjUd5Y663+kZhbwwzGJF9dhXWnDn7V1h78xsY="
+        },
+        "type": "primary"
     },
-    "type": "primary"
-  },
-  "Lovely Makeup 3 - UBE - 2K": {
-    "nexusmods": {
-      "game_name": "skyrimspecialedition",
-      "version": "1.0",
-      "file_id": 621200,
-      "file_name": "Lovely Makeup 3 - UBE - 2K-147639-1-0-1745649385.zip",
-      "mod_id": 147639,
-      "hash": "sha256-04w6C3JZRpvzNeOe1vb7oWeTdi9i3Gm6YOM46EOAD4E="
+    "Lovely Makeup 3 - UBE - 2K": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "1.0",
+            "file_id": 621200,
+            "file_name": "Lovely Makeup 3 - UBE - 2K-147639-1-0-1745649385.zip",
+            "mod_id": 147639,
+            "hash": "sha256-04w6C3JZRpvzNeOe1vb7oWeTdi9i3Gm6YOM46EOAD4E="
+        },
+        "type": "primary"
     },
-    "type": "primary"
-  },
-  "Lovely Makeup 3 - HPH - 2K": {
-    "nexusmods": {
-      "game_name": "skyrimspecialedition",
-      "version": "1.0",
-      "file_id": 621363,
-      "file_name": "Lovely Makeup 3 - HPH - 2K-147639-1-0-1745706649.zip",
-      "mod_id": 147639,
-      "hash": "sha256-lJX09C1xwOhqGw0q6tad+cuX7eNxHnQUYkkEp9NxE8o="
+    "Lovely Makeup 3 - HPH - 2K": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "1.0",
+            "file_id": 621363,
+            "file_name": "Lovely Makeup 3 - HPH - 2K-147639-1-0-1745706649.zip",
+            "mod_id": 147639,
+            "hash": "sha256-lJX09C1xwOhqGw0q6tad+cuX7eNxHnQUYkkEp9NxE8o="
+        },
+        "type": "primary"
     },
-    "type": "primary"
-  },
-  "Lovely Makeup 3 - HPH - 4K": {
-    "nexusmods": {
-      "game_name": "skyrimspecialedition",
-      "version": "1.0",
-      "file_id": 621365,
-      "file_name": "Lovely Makeup 3 - HPH - 4K-147639-1-0-1745706687.zip",
-      "mod_id": 147639,
-      "hash": "sha256-aJ2AGKm77lTFyFjEGtwmiaFixERfpwDLdYmsEqc2JBI="
-    },
-    "type": "primary"
-  }
+    "Lovely Makeup 3 - HPH - 4K": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "1.0",
+            "file_id": 621365,
+            "file_name": "Lovely Makeup 3 - HPH - 4K-147639-1-0-1745706687.zip",
+            "mod_id": 147639,
+            "hash": "sha256-aJ2AGKm77lTFyFjEGtwmiaFixERfpwDLdYmsEqc2JBI="
+        },
+        "type": "primary"
+    }
 }

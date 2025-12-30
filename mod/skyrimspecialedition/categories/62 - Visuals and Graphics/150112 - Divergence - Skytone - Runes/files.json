@@ -1,40 +1,44 @@
 {
-    "Skytone - Runes - 2K": {
-        "nexusmods": {
-            "game_name": "skyrimspecialedition",
-            "version": "1",
-            "file_id": 627223,
-            "file_name": "Skytone - Runes - 2K-150112-1-1747262227.7z",
-            "mod_id": 150112
-        },
-        "type": "primary"
+  "Skytone - Runes - 2K": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1",
+      "file_id": 627223,
+      "file_name": "Skytone - Runes - 2K-150112-1-1747262227.7z",
+      "mod_id": 150112,
+      "hash": "sha256-bU82eXw8tiapZ8DeGs4f6tHJy1TTPrZ3DeV/gy1fZ9I="
     },
-    "Skytone - Runes - 1K": {
-        "nexusmods": {
-            "game_name": "skyrimspecialedition",
-            "version": "1",
-            "file_id": 627224,
-            "file_name": "Skytone - Runes - 1K-150112-1-1747262269.7z",
-            "mod_id": 150112
-        },
-        "type": "primary"
+    "type": "primary"
+  },
+  "Skytone - Runes - 1K": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1",
+      "file_id": 627224,
+      "file_name": "Skytone - Runes - 1K-150112-1-1747262269.7z",
+      "mod_id": 150112,
+      "hash": "sha256-XHeADfsTLIc/CBhZeeh/HCbTPZrp6Os2pygkzgmmhLI="
     },
-    "Skytone - Runes - Arcane Accessories - 2K": {
-        "nexusmods": {
-            "game_name": "skyrimspecialedition",
-            "version": "1",
-            "file_id": 660466,
-            "file_name": "Skytone - Runes - Arcane Accessories - 2K-150112-1-1756505230.7z",
-            "mod_id": 150112
-        }
-    },
-    "Skytone - Runes - Arcane Accessories - 1K": {
-        "nexusmods": {
-            "game_name": "skyrimspecialedition",
-            "version": "1",
-            "file_id": 660468,
-            "file_name": "Skytone - Runes - Arcane Accessories - 1K-150112-1-1756505292.7z",
-            "mod_id": 150112
-        }
+    "type": "primary"
+  },
+  "Skytone - Runes - Arcane Accessories - 2K": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1",
+      "file_id": 660466,
+      "file_name": "Skytone - Runes - Arcane Accessories - 2K-150112-1-1756505230.7z",
+      "mod_id": 150112,
+      "hash": "sha256-PaNbJiJp1twB18RbkmPFjEkP8QBjKw1qGy5raIbgb6I="
     }
+  },
+  "Skytone - Runes - Arcane Accessories - 1K": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1",
+      "file_id": 660468,
+      "file_name": "Skytone - Runes - Arcane Accessories - 1K-150112-1-1756505292.7z",
+      "mod_id": 150112,
+      "hash": "sha256-mhRO1lQIHUqnSASvVts3UkHpx1rSObsTYmMBIAVFsQU="
+    }
+  }
 }

@@ -1,13 +1,13 @@
 {
-  "Desecration of the NIne - 3BA Bodyslide Preset": {
-    "nexusmods": {
-      "game_name": "skyrimspecialedition",
-      "version": "1.0",
-      "file_id": 618744,
-      "file_name": "Desecration of the NIne - 3BA Bodyslide Preset-148066-1-0-1745001497.7z",
-      "mod_id": 148066,
-      "hash": "sha256-uWqU1tp9xGv4Hz2BSOtq3ff/xUQKPIbCjYqjkE6zahU="
-    },
-    "type": "primary"
-  }
+    "Desecration of the NIne - 3BA Bodyslide Preset": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "1.0",
+            "file_id": 618744,
+            "file_name": "Desecration of the NIne - 3BA Bodyslide Preset-148066-1-0-1745001497.7z",
+            "mod_id": 148066,
+            "hash": "sha256-uWqU1tp9xGv4Hz2BSOtq3ff/xUQKPIbCjYqjkE6zahU="
+        },
+        "type": "primary"
+    }
 }

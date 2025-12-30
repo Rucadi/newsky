@@ -1,43 +1,43 @@
 {
-  "Rueful Axe 4k": {
-    "nexusmods": {
-      "game_name": "skyrimspecialedition",
-      "version": "1.0",
-      "file_id": 618125,
-      "file_name": "Rueful Axe 4k-147151-1-0-1744870940.7z",
-      "mod_id": 147151,
-      "hash": "sha256-OPpDurj5XqwmwKNjkwWZkmHAYJ4zbG6efY3l9XLxLCE="
-    }
-  },
-  "Clavicus Vile Artifacts Rework 1.02": {
-    "nexusmods": {
-      "game_name": "skyrimspecialedition",
-      "version": "1.02",
-      "file_id": 622418,
-      "file_name": "Clavicus Vile Artifacts Rework 1.02-147151-1-02-1746026623.zip",
-      "mod_id": 147151,
-      "hash": "sha256-I1zwaWIrztGsOYl9m3vKqTu5Xuf6AY0I1ATkCalfSPA="
+    "Rueful Axe 4k": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "1.0",
+            "file_id": 618125,
+            "file_name": "Rueful Axe 4k-147151-1-0-1744870940.7z",
+            "mod_id": 147151,
+            "hash": "sha256-OPpDurj5XqwmwKNjkwWZkmHAYJ4zbG6efY3l9XLxLCE="
+        }
     },
-    "type": "primary"
-  },
-  "Clavicus Vile Artifacts Rework 1.02 CHS": {
-    "nexusmods": {
-      "game_name": "skyrimspecialedition",
-      "version": "1.02",
-      "file_id": 622419,
-      "file_name": "Clavicus Vile Artifacts Rework 1.02 CHS-147151-1-02-1746026651.zip",
-      "mod_id": 147151,
-      "hash": "sha256-qVFkefGcHe7ccCfBNdA44/HvrLOYGixouBCCSt8SxkQ="
+    "Clavicus Vile Artifacts Rework 1.02": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "1.02",
+            "file_id": 622418,
+            "file_name": "Clavicus Vile Artifacts Rework 1.02-147151-1-02-1746026623.zip",
+            "mod_id": 147151,
+            "hash": "sha256-I1zwaWIrztGsOYl9m3vKqTu5Xuf6AY0I1ATkCalfSPA="
+        },
+        "type": "primary"
+    },
+    "Clavicus Vile Artifacts Rework 1.02 CHS": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "1.02",
+            "file_id": 622419,
+            "file_name": "Clavicus Vile Artifacts Rework 1.02 CHS-147151-1-02-1746026651.zip",
+            "mod_id": 147151,
+            "hash": "sha256-qVFkefGcHe7ccCfBNdA44/HvrLOYGixouBCCSt8SxkQ="
+        }
+    },
+    "Clavicus Vile Artifacts Rework - Fluffy Patch": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "1.0",
+            "file_id": 630110,
+            "file_name": "Clavicus Vile Artifacts Rework - Fluffy Patch-147151-1-0-1747978603.rar",
+            "mod_id": 147151,
+            "hash": "sha256-7eo5mCoxhNyUQobHs5eo/UwAkpptyEX/EfJ5gkskgYU="
+        }
     }
-  },
-  "Clavicus Vile Artifacts Rework - Fluffy Patch": {
-    "nexusmods": {
-      "game_name": "skyrimspecialedition",
-      "version": "1.0",
-      "file_id": 630110,
-      "file_name": "Clavicus Vile Artifacts Rework - Fluffy Patch-147151-1-0-1747978603.rar",
-      "mod_id": 147151,
-      "hash": "sha256-7eo5mCoxhNyUQobHs5eo/UwAkpptyEX/EfJ5gkskgYU="
-    }
-  }
 }

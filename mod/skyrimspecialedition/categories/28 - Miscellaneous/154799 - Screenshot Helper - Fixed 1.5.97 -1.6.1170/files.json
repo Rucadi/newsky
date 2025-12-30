@@ -1,0 +1,24 @@
+{
+  "Screenshot Helper - Fixed": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 646927,
+      "file_name": "Screenshot Helper-154799-1-0-1752458052.7z",
+      "mod_id": 154799,
+      "hash": "sha256-muKxdeOiwGmONBoeS0wN1t7UpTaqzjL2cF2+qvy4ZQQ="
+    },
+    "type": "primary"
+  },
+  "Screenshot Helper - Fixed 1.5.97": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 647223,
+      "file_name": "Screenshot Helper - Fixed 1.5.97-154799-1-0-1752529926.7z",
+      "mod_id": 154799,
+      "hash": "sha256-axcxUra/bR/NDYiX6d7aTrdyvB99a21x6MTVGaGuQFw="
+    },
+    "type": "primary"
+  }
+}

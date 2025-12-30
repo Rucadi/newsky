@@ -1,0 +1,83 @@
+{
+  "Scholar's Village - Lux": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 628829,
+      "file_name": "Order of Aetherius - Scholar's Village - Lux-150487-1-0-1747645149.rar",
+      "mod_id": 150487,
+      "hash": "sha256-sabCCeSTf4wLkQddvT0nzjnC6jG+2MX58smrIvCWN3g="
+    }
+  },
+  "Scholar's Village - Lux Orbis": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 628830,
+      "file_name": "Order of Aetherius - Scholar's Village - Lux Orbis-150487-1-0-1747645194.rar",
+      "mod_id": 150487,
+      "hash": "sha256-hNYuEtrResG5rz8wpPgocutZ4ueq4c1rrPyp5Z23hI8="
+    }
+  },
+  "Scholar's Village - High Taverm": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 628831,
+      "file_name": "Scholar's Village - High Taverm-150487-1-0-1747645239.rar",
+      "mod_id": 150487,
+      "hash": "sha256-ltd3CHx/He0haaHKkIGH6GSA8JgNpE6Vis2BXo5s2mc="
+    }
+  },
+  "Scholar's Village - Forgotten Dungeons": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 628832,
+      "file_name": "Scholar's Village - Forgotten Dungeons-150487-1-0-1747645286.rar",
+      "mod_id": 150487,
+      "hash": "sha256-sbQtKeq8pIkg/cvSjaqQE54xjlQ9eBDua7HBVqWApB8="
+    }
+  },
+  "Scholar's Village - Follower Home - Fiarrah": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 628833,
+      "file_name": "Scholar's Village - Follower Home - Fiarrah-150487-1-0-1747645354.rar",
+      "mod_id": 150487,
+      "hash": "sha256-nftN7jk6HD/ZhruSoBnVG0lUvqhlGsruA9Z5X80iMXQ="
+    }
+  },
+  "Scholar's Village - High tavern Forgotten Dungeons": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 628835,
+      "file_name": "Scholar's Village - High tavern Forgotten Dungeons-150487-1-0-1747646019.rar",
+      "mod_id": 150487,
+      "hash": "sha256-5MIc1hrzGB3cXySlp9OeFXMJotIo66sey7wicRAfYew="
+    }
+  },
+  "Scholar's Village - Follower Home - Inalion": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 628953,
+      "file_name": "Scholar's Village - Follower Home - Inalion-150487-1-0-1747673323.rar",
+      "mod_id": 150487,
+      "hash": "sha256-v6gV14MaIRN/A1ix8rymBXpMW2P3+isJbmnSjpOQpZM="
+    }
+  },
+  "Order of Aetherius - Scholar's Village": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.01",
+      "file_id": 628960,
+      "file_name": "Order of Aetherius - Scholar's Village-150487-1-01-1747674575.rar",
+      "mod_id": 150487,
+      "hash": "sha256-nJiOLvZUx2jQ0ojsXJna09rbDGEEXZRKVkytX/6EfNs="
+    },
+    "type": "primary"
+  }
+}

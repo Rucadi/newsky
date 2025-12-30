@@ -1,0 +1,33 @@
+{
+  "Handcarts 1K textures": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 643922,
+      "file_name": "Handcarts 1K textures-154085-1-0-1751610486.rar",
+      "mod_id": 154085,
+      "hash": "sha256-0fQiyRP/ejyazFq7dnji3if3+/2cPvWTuCPV5tlbB2M="
+    }
+  },
+  "Handcarts": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.2",
+      "file_id": 684258,
+      "file_name": "Handcarts-154085-1-2-1762394280.rar",
+      "mod_id": 154085,
+      "hash": "sha256-QomMVv8fE66uwd6OZveLYIisFZvrl4KtLLMHI7hhGPY="
+    },
+    "type": "primary"
+  },
+  "Handcarts - No vanilla carts": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.2",
+      "file_id": 684260,
+      "file_name": "Handcarts - No vanilla carts-154085-1-2-1762394356.rar",
+      "mod_id": 154085,
+      "hash": "sha256-ZNWtAPcL44m7aiFz8Gt3CN9azyDSgKi5qVeK5MScVSM="
+    }
+  }
+}

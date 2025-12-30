@@ -1,0 +1,23 @@
+{
+  "AzuraStarRework 1.01 CHS": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.01",
+      "file_id": 663786,
+      "file_name": "AzuraStarRework 1.01 CHS-153639-1-01-1757363786.zip",
+      "mod_id": 153639,
+      "hash": "sha256-Cf0UtT9KmvaJRhA7bpbG0y4xLlp5/n1JKpE8hmMNqdo="
+    }
+  },
+  "AzuraStarRework 1.01": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.01",
+      "file_id": 695478,
+      "file_name": "AzuraStarRework 1.01-153639-1-01-1765126679.zip",
+      "mod_id": 153639,
+      "hash": "sha256-hDLWhVBaue+oTEXcVKhBzdX5x8T1pVkdEl0RXMiBC+0="
+    },
+    "type": "primary"
+  }
+}

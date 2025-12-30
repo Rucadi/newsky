@@ -1,44 +1,44 @@
 {
-  "Vigil's Last Reward": {
-    "nexusmods": {
-      "game_name": "skyrimspecialedition",
-      "version": "1.3",
-      "file_id": 619033,
-      "file_name": "Vigil's Last Reward-146571-1-3-1745074227.rar",
-      "mod_id": 146571,
-      "hash": "sha256-hifcISGWlDMDTnXHPl+BQw3e2S66YVnL3SXPjVlOe7o="
+    "Vigil's Last Reward": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "1.3",
+            "file_id": 619033,
+            "file_name": "Vigil's Last Reward-146571-1-3-1745074227.rar",
+            "mod_id": 146571,
+            "hash": "sha256-hifcISGWlDMDTnXHPl+BQw3e2S66YVnL3SXPjVlOe7o="
+        },
+        "type": "primary"
     },
-    "type": "primary"
-  },
-  "Vigil's Last Reward - Passive": {
-    "nexusmods": {
-      "game_name": "skyrimspecialedition",
-      "version": "1.3",
-      "file_id": 619034,
-      "file_name": "Vigil's Last Reward - Passive-146571-1-3-1745074252.rar",
-      "mod_id": 146571,
-      "hash": "sha256-QS+ZJt8rCBPyGMH+DxrDdKy1JCmIlS2EPqINFQp4VaQ="
+    "Vigil's Last Reward - Passive": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "1.3",
+            "file_id": 619034,
+            "file_name": "Vigil's Last Reward - Passive-146571-1-3-1745074252.rar",
+            "mod_id": 146571,
+            "hash": "sha256-QS+ZJt8rCBPyGMH+DxrDdKy1JCmIlS2EPqINFQp4VaQ="
+        },
+        "type": "primary"
     },
-    "type": "primary"
-  },
-  "Vigil's Last Reward - Snazzy patch": {
-    "nexusmods": {
-      "game_name": "skyrimspecialedition",
-      "version": "1.3",
-      "file_id": 619035,
-      "file_name": "Vigil's Last Reward - Snazzy patch-146571-1-3-1745074281.rar",
-      "mod_id": 146571,
-      "hash": "sha256-+meARBzm2cRFDHcGKWUOf2WkXxhVXmYtljBjvDN8VE0="
+    "Vigil's Last Reward - Snazzy patch": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "1.3",
+            "file_id": 619035,
+            "file_name": "Vigil's Last Reward - Snazzy patch-146571-1-3-1745074281.rar",
+            "mod_id": 146571,
+            "hash": "sha256-+meARBzm2cRFDHcGKWUOf2WkXxhVXmYtljBjvDN8VE0="
+        }
+    },
+    "Vigil's Last Reward(Passive) - Snazzy patch": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "1.3",
+            "file_id": 619036,
+            "file_name": "Vigil's Last Reward(Passive) - Snazzy patch-146571-1-3-1745074322.rar",
+            "mod_id": 146571,
+            "hash": "sha256-U9OwMF6Tkz79/EKlZQHxZ1ZjqJYbbrhO8J/85vidU1c="
+        }
     }
-  },
-  "Vigil's Last Reward(Passive) - Snazzy patch": {
-    "nexusmods": {
-      "game_name": "skyrimspecialedition",
-      "version": "1.3",
-      "file_id": 619036,
-      "file_name": "Vigil's Last Reward(Passive) - Snazzy patch-146571-1-3-1745074322.rar",
-      "mod_id": 146571,
-      "hash": "sha256-U9OwMF6Tkz79/EKlZQHxZ1ZjqJYbbrhO8J/85vidU1c="
-    }
-  }
 }

@@ -1,0 +1,43 @@
+{
+  "HircineArtifactRework 1.0": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 634841,
+      "file_name": "HircineArtifactRework 1.0-151860-1-0-1749126903.7z",
+      "mod_id": 151860,
+      "hash": "sha256-LFnmMZMcBBIxQ6fn6Qtt+I16pBytmTyvdPCOQoNG9Y8="
+    },
+    "type": "primary"
+  },
+  "HircineArtifactRework 1.0 CHS": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 634843,
+      "file_name": "HircineArtifactRework 1.0 CHS-151860-1-0-1749126928.7z",
+      "mod_id": 151860,
+      "hash": "sha256-fgrlDm/4luEYy+8DVkx7vzEPq3d7GEKK2GZhVHM4wuQ="
+    }
+  },
+  "HircineArtifactRework Savior's Hide replacer patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 634844,
+      "file_name": "HircineArtifactRework Savior's Hide replacer patch-151860-1-0-1749127069.zip",
+      "mod_id": 151860,
+      "hash": "sha256-E+4r8tPgGUEYkNkZONJEBNvuQZo77IfvxYyuDSwfsk4="
+    }
+  },
+  "HircineArtifactRework SaviorHideReplacer patch CHS": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 634845,
+      "file_name": "HircineArtifactRework SaviorHideReplacer patch CHS-151860-1-0-1749127153.zip",
+      "mod_id": 151860,
+      "hash": "sha256-1KEoiqvnWHkiCC2eLfn9nu8jmWNQReNg9xvzVxwEk/M="
+    }
+  }
+}

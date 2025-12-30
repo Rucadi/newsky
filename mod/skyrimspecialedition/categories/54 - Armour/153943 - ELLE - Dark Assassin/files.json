@@ -1,0 +1,24 @@
+{
+  "Dark Assassin - UBE": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1",
+      "file_id": 643742,
+      "file_name": "Dark Assassin - UBE-153943-1-1751535973.rar",
+      "mod_id": 153943,
+      "hash": "sha256-0X7Hd53sp02GYp5gL+urYk+oIlK6RCmK5Ja+LqtiXgU="
+    },
+    "type": "primary"
+  },
+  "Dark Assassin - 3BA": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "2",
+      "file_id": 644939,
+      "file_name": "Dark Assassin - 3BA-153943-2-1751875112.rar",
+      "mod_id": 153943,
+      "hash": "sha256-xpr3Yfx15MGMaAZxGQuw7f/tqC5QTYczXfpUSeHSyak="
+    },
+    "type": "primary"
+  }
+}

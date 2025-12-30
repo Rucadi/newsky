@@ -1,35 +1,35 @@
 {
-  "Kanjs - Stalhrim Weapons Animated se 4k": {
-    "nexusmods": {
-      "game_name": "skyrimspecialedition",
-      "version": "1.1",
-      "file_id": 627422,
-      "file_name": "Kanjs - Stalhrim Weapons Animated se 4k-146167-1-1-1747324837.zip",
-      "mod_id": 146167,
-      "hash": "sha256-OVia6P59rQg2JI/B+VppLjQl0xS2Cfp+bvxLqRc+x9I="
+    "Kanjs - Stalhrim Weapons Animated se 4k": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "1.1",
+            "file_id": 627422,
+            "file_name": "Kanjs - Stalhrim Weapons Animated se 4k-146167-1-1-1747324837.zip",
+            "mod_id": 146167,
+            "hash": "sha256-OVia6P59rQg2JI/B+VppLjQl0xS2Cfp+bvxLqRc+x9I="
+        },
+        "type": "primary"
     },
-    "type": "primary"
-  },
-  "Kanjs - Stalhrim Weapons Animated se 2k": {
-    "nexusmods": {
-      "game_name": "skyrimspecialedition",
-      "version": "1.1",
-      "file_id": 627423,
-      "file_name": "Kanjs - Stalhrim Weapons Animated se 2k-146167-1-1-1747324875.zip",
-      "mod_id": 146167,
-      "hash": "sha256-GcsytssbsamXurQ/X/bbHJOmZj2bnzaPpFjeFN9WQJQ="
+    "Kanjs - Stalhrim Weapons Animated se 2k": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "1.1",
+            "file_id": 627423,
+            "file_name": "Kanjs - Stalhrim Weapons Animated se 2k-146167-1-1-1747324875.zip",
+            "mod_id": 146167,
+            "hash": "sha256-GcsytssbsamXurQ/X/bbHJOmZj2bnzaPpFjeFN9WQJQ="
+        },
+        "type": "primary"
     },
-    "type": "primary"
-  },
-  "Kanjs - Stalhrim Weapons Animated se 1k": {
-    "nexusmods": {
-      "game_name": "skyrimspecialedition",
-      "version": "1.1",
-      "file_id": 627424,
-      "file_name": "Kanjs - Stalhrim Weapons Animated se 1k-146167-1-1-1747324899.zip",
-      "mod_id": 146167,
-      "hash": "sha256-HOvnFA9wghdckcfbH5U6ynBE5mnbNzCgi4ucaJ/LjD0="
-    },
-    "type": "primary"
-  }
+    "Kanjs - Stalhrim Weapons Animated se 1k": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "1.1",
+            "file_id": 627424,
+            "file_name": "Kanjs - Stalhrim Weapons Animated se 1k-146167-1-1-1747324899.zip",
+            "mod_id": 146167,
+            "hash": "sha256-HOvnFA9wghdckcfbH5U6ynBE5mnbNzCgi4ucaJ/LjD0="
+        },
+        "type": "primary"
+    }
 }

@@ -1,33 +1,33 @@
 {
-  "Ebony Blade Rework 1.0": {
-    "nexusmods": {
-      "game_name": "skyrimspecialedition",
-      "version": "1.0",
-      "file_id": 624140,
-      "file_name": "Ebony Blade Rework 1.0-149294-1-0-1746494579.7z",
-      "mod_id": 149294,
-      "hash": "sha256-Z0f3/QKaraIRDJoYscB2/No4NOPkrs8Cttnaq2B6AVU="
+    "Ebony Blade Rework 1.0": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "1.0",
+            "file_id": 624140,
+            "file_name": "Ebony Blade Rework 1.0-149294-1-0-1746494579.7z",
+            "mod_id": 149294,
+            "hash": "sha256-Z0f3/QKaraIRDJoYscB2/No4NOPkrs8Cttnaq2B6AVU="
+        },
+        "type": "primary"
     },
-    "type": "primary"
-  },
-  "Ebony Blade Rework 1.0 CHS": {
-    "nexusmods": {
-      "game_name": "skyrimspecialedition",
-      "version": "1.0",
-      "file_id": 624141,
-      "file_name": "Ebony Blade Rework 1.0 CHS-149294-1-0-1746494622.7z",
-      "mod_id": 149294,
-      "hash": "sha256-hBGXFLqPCheDly8mP2U0K8Pv0ystdvrSu34VkBViSjg="
+    "Ebony Blade Rework 1.0 CHS": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "1.0",
+            "file_id": 624141,
+            "file_name": "Ebony Blade Rework 1.0 CHS-149294-1-0-1746494622.7z",
+            "mod_id": 149294,
+            "hash": "sha256-hBGXFLqPCheDly8mP2U0K8Pv0ystdvrSu34VkBViSjg="
+        }
+    },
+    "Ebony Blade Rework Deceit Slash Animation": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "1.0",
+            "file_id": 624142,
+            "file_name": "Ebony Blade Rework Deceit Slash Animation-149294-1-0-1746494972.7z",
+            "mod_id": 149294,
+            "hash": "sha256-CQ96lbGKk+qOgQDC8ceNGsFxi0liHI0gPNQkbT7sdtY="
+        }
     }
-  },
-  "Ebony Blade Rework Deceit Slash Animation": {
-    "nexusmods": {
-      "game_name": "skyrimspecialedition",
-      "version": "1.0",
-      "file_id": 624142,
-      "file_name": "Ebony Blade Rework Deceit Slash Animation-149294-1-0-1746494972.7z",
-      "mod_id": 149294,
-      "hash": "sha256-CQ96lbGKk+qOgQDC8ceNGsFxi0liHI0gPNQkbT7sdtY="
-    }
-  }
 }

@@ -1,43 +1,43 @@
 {
-  "Peryite Revoiced": {
-    "nexusmods": {
-      "game_name": "skyrimspecialedition",
-      "version": "1.0",
-      "file_id": 614665,
-      "file_name": "Peryite Revoiced-146986-1-0-1743978994.zip",
-      "mod_id": 146986,
-      "hash": "sha256-0q4V1/tYJwxG+/9EI147Z/POtYC/Kvb3BWJiGUYXC90="
+    "Peryite Revoiced": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "1.0",
+            "file_id": 614665,
+            "file_name": "Peryite Revoiced-146986-1-0-1743978994.zip",
+            "mod_id": 146986,
+            "hash": "sha256-0q4V1/tYJwxG+/9EI147Z/POtYC/Kvb3BWJiGUYXC90="
+        },
+        "type": "primary"
     },
-    "type": "primary"
-  },
-  "Peryite Revoiced - The Only Cure Patch": {
-    "nexusmods": {
-      "game_name": "skyrimspecialedition",
-      "version": "1.0",
-      "file_id": 614666,
-      "file_name": "Peryite Revoiced - The Only Cure Patch-146986-1-0-1743979069.zip",
-      "mod_id": 146986,
-      "hash": "sha256-Don2aEnDMkKLCXY+HmofXU+38yu/ZOt5zrlCI+9miu8="
+    "Peryite Revoiced - The Only Cure Patch": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "1.0",
+            "file_id": 614666,
+            "file_name": "Peryite Revoiced - The Only Cure Patch-146986-1-0-1743979069.zip",
+            "mod_id": 146986,
+            "hash": "sha256-Don2aEnDMkKLCXY+HmofXU+38yu/ZOt5zrlCI+9miu8="
+        }
+    },
+    "Peryite Revoiced - Daedric Voices Patch": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "1.0",
+            "file_id": 616413,
+            "file_name": "Peryite Revoiced - Daedric Voices Patch-146986-1-0-1744468275.zip",
+            "mod_id": 146986,
+            "hash": "sha256-phjHvAqAbvcj9/ZSbOj32biWTQnicTriHMxRGV01MzQ="
+        }
+    },
+    "Peryite Revoiced - AFDI Patch": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "1.0",
+            "file_id": 619190,
+            "file_name": "Peryite Revoiced - AFDI Patch-146986-1-0-1745109925.zip",
+            "mod_id": 146986,
+            "hash": "sha256-KrYCA+aQ+OmyQsuYnqAnrJ+S3pKnlhpHnIVSIk9PH6I="
+        }
     }
-  },
-  "Peryite Revoiced - Daedric Voices Patch": {
-    "nexusmods": {
-      "game_name": "skyrimspecialedition",
-      "version": "1.0",
-      "file_id": 616413,
-      "file_name": "Peryite Revoiced - Daedric Voices Patch-146986-1-0-1744468275.zip",
-      "mod_id": 146986,
-      "hash": "sha256-phjHvAqAbvcj9/ZSbOj32biWTQnicTriHMxRGV01MzQ="
-    }
-  },
-  "Peryite Revoiced - AFDI Patch": {
-    "nexusmods": {
-      "game_name": "skyrimspecialedition",
-      "version": "1.0",
-      "file_id": 619190,
-      "file_name": "Peryite Revoiced - AFDI Patch-146986-1-0-1745109925.zip",
-      "mod_id": 146986,
-      "hash": "sha256-KrYCA+aQ+OmyQsuYnqAnrJ+S3pKnlhpHnIVSIk9PH6I="
-    }
-  }
 }

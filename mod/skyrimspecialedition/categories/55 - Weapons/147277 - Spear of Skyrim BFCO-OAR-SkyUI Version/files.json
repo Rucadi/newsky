@@ -1,13 +1,13 @@
 {
-  "Spear of Skyrim BFCO-OAR-SkyUI": {
-    "nexusmods": {
-      "game_name": "skyrimspecialedition",
-      "version": "1.0",
-      "file_id": 615900,
-      "file_name": "Spear of Skyrim BFCO-OAR-SkyUI-147277-1-0-1744316926.7z",
-      "mod_id": 147277,
-      "hash": "sha256-wSu5WKc36Wzvyg5yHoulNQlF6MiGHmQQCNmKPGK6sJk="
-    },
-    "type": "primary"
-  }
+    "Spear of Skyrim BFCO-OAR-SkyUI": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "1.0",
+            "file_id": 615900,
+            "file_name": "Spear of Skyrim BFCO-OAR-SkyUI-147277-1-0-1744316926.7z",
+            "mod_id": 147277,
+            "hash": "sha256-wSu5WKc36Wzvyg5yHoulNQlF6MiGHmQQCNmKPGK6sJk="
+        },
+        "type": "primary"
+    }
 }

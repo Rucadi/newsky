@@ -1,0 +1,33 @@
+{
+  "Custom book.swf": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1.1",
+      "file_id": 652461,
+      "file_name": "Custom book.swf-152364-1-1-1-1754237501.zip",
+      "mod_id": 152364,
+      "hash": "sha256-DNocowMeAWqZK3Og6Dqs/Na1zN1PmOHdIyta6q9+UXs="
+    }
+  },
+  "Input overlay": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0.0",
+      "file_id": 652462,
+      "file_name": "Input overlay-152364-1-0-0-1754237565.zip",
+      "mod_id": 152364,
+      "hash": "sha256-Jw6TJBtAuM448GRRANv5sM7+8rwxj3c0y3j+o430Res="
+    }
+  },
+  "Dynamic Book Framework": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1.6",
+      "file_id": 663259,
+      "file_name": "Dynamic Book Framework-152364-1-1-6-1757247647.zip",
+      "mod_id": 152364,
+      "hash": "sha256-tNBj6rXBwTZTUB9HAnDU0ZkvZJ3w1FgtOIsvmxNcoow="
+    },
+    "type": "primary"
+  }
+}

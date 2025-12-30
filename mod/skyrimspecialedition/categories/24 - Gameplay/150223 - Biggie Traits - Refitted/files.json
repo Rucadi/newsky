@@ -1,0 +1,33 @@
+{
+  "CC Crosbows Trait Fixes": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.72",
+      "file_id": 654079,
+      "file_name": "CC Crosbows Trait Fixes-150223-1-71-1754743071.zip",
+      "mod_id": 150223,
+      "hash": "sha256-+StWsPZE/lHeqQxo5lukT22sE16e5tahFx1HiYLO1KU="
+    }
+  },
+  "Biggie Traits - Refitted": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.72",
+      "file_id": 654093,
+      "file_name": "Biggie Traits - Refitted-150223-1-72-1754744452.7z",
+      "mod_id": 150223,
+      "hash": "sha256-kdYXDJ6N2BACOay4wQuC059oHkEZxLmR8sP70XpJQyw="
+    },
+    "type": "primary"
+  },
+  "Biggie Traits - Refitted AS Fix": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.72",
+      "file_id": 657153,
+      "file_name": "Biggie Traits - Refitted AS Fix-150223-1-72-1755604657.7z",
+      "mod_id": 150223,
+      "hash": "sha256-37LmyO8oyGKWbL14bzIvrqs3+fWzlh4CF0SxUTrmIwE="
+    }
+  }
+}

@@ -1,13 +1,13 @@
 {
-  "Auri VIGILANT commentary patch tweaks": {
-    "nexusmods": {
-      "game_name": "skyrimspecialedition",
-      "version": "1.0",
-      "file_id": 619261,
-      "file_name": "Auri VIGILANT commentary patch tweaks-148207-1-0-1745127639.rar",
-      "mod_id": 148207,
-      "hash": "sha256-yadmLPxWRtkhQFi1WaNL+6M/nFQxnhH26gWJ+kF+ZY4="
-    },
-    "type": "primary"
-  }
+    "Auri VIGILANT commentary patch tweaks": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "1.0",
+            "file_id": 619261,
+            "file_name": "Auri VIGILANT commentary patch tweaks-148207-1-0-1745127639.rar",
+            "mod_id": 148207,
+            "hash": "sha256-yadmLPxWRtkhQFi1WaNL+6M/nFQxnhH26gWJ+kF+ZY4="
+        },
+        "type": "primary"
+    }
 }

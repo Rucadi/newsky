@@ -1,13 +1,13 @@
 {
-  "Hunters Not Bandits 4.2": {
-    "nexusmods": {
-      "game_name": "skyrimspecialedition",
-      "version": "4.2",
-      "file_id": 593813,
-      "file_name": "Hunters Not Bandits 4.2-1547-4-2-1739380857.7z",
-      "mod_id": 1547,
-      "hash": "sha256-cd95o63iSZ39bDCOlP9BR0tF97hPGaRSprdcA+aStYU="
-    },
-    "type": "primary"
-  }
+    "Hunters Not Bandits 4.2": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "4.2",
+            "file_id": 593813,
+            "file_name": "Hunters Not Bandits 4.2-1547-4-2-1739380857.7z",
+            "mod_id": 1547,
+            "hash": "sha256-cd95o63iSZ39bDCOlP9BR0tF97hPGaRSprdcA+aStYU="
+        },
+        "type": "primary"
+    }
 }

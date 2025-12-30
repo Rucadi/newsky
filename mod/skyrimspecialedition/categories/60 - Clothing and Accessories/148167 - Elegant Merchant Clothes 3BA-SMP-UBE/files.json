@@ -1,54 +1,54 @@
 {
-  "Elegant Merchant Clothes - SPID": {
-    "nexusmods": {
-      "game_name": "skyrimspecialedition",
-      "version": "1.3",
-      "file_id": 619208,
-      "file_name": "Elegant Merchant Clothes - SPID-148167-1-2-1745114855.7z",
-      "mod_id": 148167,
-      "hash": "sha256-BYylJwY+HqEd7Vpxkh2ArvT1WfahDO5mETl7cc1jfpk="
-    }
-  },
-  "Elegant Merchant Clothes 3BA-SMP": {
-    "nexusmods": {
-      "game_name": "skyrimspecialedition",
-      "version": "1.7",
-      "file_id": 620778,
-      "file_name": "Elegant Merchant Clothes 3BA-SMP-148167-1-7-1745520599.7z",
-      "mod_id": 148167,
-      "hash": "sha256-7a2p/cg+BQN+GrcDd2Zb+EXS276c08MkWZbejKL7CD4="
+    "Elegant Merchant Clothes - SPID": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "1.3",
+            "file_id": 619208,
+            "file_name": "Elegant Merchant Clothes - SPID-148167-1-2-1745114855.7z",
+            "mod_id": 148167,
+            "hash": "sha256-BYylJwY+HqEd7Vpxkh2ArvT1WfahDO5mETl7cc1jfpk="
+        }
     },
-    "type": "primary"
-  },
-  "Elegant Merchant Clothes - Hands Redone Patch": {
-    "nexusmods": {
-      "game_name": "skyrimspecialedition",
-      "version": "1.7",
-      "file_id": 620779,
-      "file_name": "Elegant Merchant Clothes - Hands Redone Patch-148167-1-7-1745520624.7z",
-      "mod_id": 148167,
-      "hash": "sha256-tRymg8/lqFZg++HNTN58StCkFO7BI9VmijZ4RL2RJVk="
-    }
-  },
-  "Elegant Merchant Clothes 3BA - Replacer": {
-    "nexusmods": {
-      "game_name": "skyrimspecialedition",
-      "version": "1.7",
-      "file_id": 620780,
-      "file_name": "Elegant Merchant Clothes 3BA - Replacer-148167-1-7-1745520661.7z",
-      "mod_id": 148167,
-      "hash": "sha256-dAxZX4bCq3EQy937ov+pSftIuadL0CqOzmVyxPKi+Rw="
-    }
-  },
-  "Elegant Merchant Clothes UBE-SMP": {
-    "nexusmods": {
-      "game_name": "skyrimspecialedition",
-      "version": "1.7",
-      "file_id": 631412,
-      "file_name": "Elegant Merchant Clothes UBE-SMP-148167-1-7-1748260836.zip",
-      "mod_id": 148167,
-      "hash": "sha256-mIqi8joKKvfDDZJY1ztu0BWnX50Hb09g4kjJ04dR3YU="
+    "Elegant Merchant Clothes 3BA-SMP": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "1.7",
+            "file_id": 620778,
+            "file_name": "Elegant Merchant Clothes 3BA-SMP-148167-1-7-1745520599.7z",
+            "mod_id": 148167,
+            "hash": "sha256-7a2p/cg+BQN+GrcDd2Zb+EXS276c08MkWZbejKL7CD4="
+        },
+        "type": "primary"
     },
-    "type": "primary"
-  }
+    "Elegant Merchant Clothes - Hands Redone Patch": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "1.7",
+            "file_id": 620779,
+            "file_name": "Elegant Merchant Clothes - Hands Redone Patch-148167-1-7-1745520624.7z",
+            "mod_id": 148167,
+            "hash": "sha256-tRymg8/lqFZg++HNTN58StCkFO7BI9VmijZ4RL2RJVk="
+        }
+    },
+    "Elegant Merchant Clothes 3BA - Replacer": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "1.7",
+            "file_id": 620780,
+            "file_name": "Elegant Merchant Clothes 3BA - Replacer-148167-1-7-1745520661.7z",
+            "mod_id": 148167,
+            "hash": "sha256-dAxZX4bCq3EQy937ov+pSftIuadL0CqOzmVyxPKi+Rw="
+        }
+    },
+    "Elegant Merchant Clothes UBE-SMP": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "1.7",
+            "file_id": 631412,
+            "file_name": "Elegant Merchant Clothes UBE-SMP-148167-1-7-1748260836.zip",
+            "mod_id": 148167,
+            "hash": "sha256-mIqi8joKKvfDDZJY1ztu0BWnX50Hb09g4kjJ04dR3YU="
+        },
+        "type": "primary"
+    }
 }

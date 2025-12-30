@@ -1,0 +1,24 @@
+{
+  "AW Tsaesci Human Skin": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1",
+      "file_id": 630793,
+      "file_name": "AW Tsaesci Human Skin-150908-1-1-1748123245.zip",
+      "mod_id": 150908,
+      "hash": "sha256-TGXVjiLAFL5aCwyTo5h9leDrESPwF3Gwl52jSFQ3teg="
+    },
+    "type": "primary"
+  },
+  "AW Tsaesci Snake Skin": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1",
+      "file_id": 630802,
+      "file_name": "AW Tsaesci Snake Skin-150908-1-1-1748124681.zip",
+      "mod_id": 150908,
+      "hash": "sha256-F1p20/cegRRjfx3WBC7mUc0dJHXSDm5AtYrDZgC/dYg="
+    },
+    "type": "primary"
+  }
+}

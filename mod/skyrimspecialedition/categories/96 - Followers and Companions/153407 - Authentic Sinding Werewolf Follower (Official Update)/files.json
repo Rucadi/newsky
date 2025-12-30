@@ -1,0 +1,53 @@
+{
+  "Sinding's Werewolf Voice Overhaul patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "8.0.0",
+      "file_id": 641599,
+      "file_name": "Sinding's Werewolf Voice Overhaul patch FIXED-153407-8-0-0-1750873374.zip",
+      "mod_id": 153407,
+      "hash": "sha256-49fKtATCmvX9QGmEVYrBgClsn45kxDxmrNdL2KSMpa0="
+    }
+  },
+  "Authentic Sinding Follower Update - FULL": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "8.0.0",
+      "file_id": 641600,
+      "file_name": "Authentic Sinding Follower Update - FULL-153407-8-0-0-1750873512.zip",
+      "mod_id": 153407,
+      "hash": "sha256-v1miI0Yl9YEP74lteORu8FROEUVHwKw3Recp+/Q40YI="
+    },
+    "type": "primary"
+  },
+  "Authentic Sinding Follower - Fluffy patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "8.0.0",
+      "file_id": 641604,
+      "file_name": "Authentic Sinding Follower - Fluffy patch-153407-8-0-0-1750873821.zip",
+      "mod_id": 153407,
+      "hash": "sha256-gT+3hQdJ+4d2/DFZhcXQzu4my6Kb2KCq9M4ClqU9HgE="
+    }
+  },
+  "Family-man Sinding": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "8.0.0",
+      "file_id": 641605,
+      "file_name": "Family-man Sinding-153407-8-0-0-1750873955.zip",
+      "mod_id": 153407,
+      "hash": "sha256-3MVlOLKomG6QZPaKY7XRwlZ36pm/yAL913Cfta8dzxM="
+    }
+  },
+  "Sindra Follower Update": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "8.0",
+      "file_id": 641629,
+      "file_name": "Sindra Follower Update-153407-8-0-1750879762.zip",
+      "mod_id": 153407,
+      "hash": "sha256-1EnKIIwmJnxBISVERjrJXo//aJEWM4M5LLL0V6hAa7I="
+    }
+  }
+}

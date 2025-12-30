@@ -1,43 +1,43 @@
 {
-  "Biggie Traits - Thumbnail Overhaul": {
-    "nexusmods": {
-      "game_name": "skyrimspecialedition",
-      "version": "1.03",
-      "file_id": 642047,
-      "file_name": "Biggie Traits - Thumbnail Overhaul-148018-1-03-1751002442.7z",
-      "mod_id": 148018,
-      "hash": "sha256-EDWdmnGBAzDzVzMinoXZZ964El5XtxKKhmlW6w/hniA="
+    "Biggie Traits - Thumbnail Overhaul": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "1.03",
+            "file_id": 642047,
+            "file_name": "Biggie Traits - Thumbnail Overhaul-148018-1-03-1751002442.7z",
+            "mod_id": 148018,
+            "hash": "sha256-EDWdmnGBAzDzVzMinoXZZ964El5XtxKKhmlW6w/hniA="
+        },
+        "type": "primary"
     },
-    "type": "primary"
-  },
-  "Additional Traits for Biggie Traits - Patch": {
-    "nexusmods": {
-      "game_name": "skyrimspecialedition",
-      "version": "1.0",
-      "file_id": 642048,
-      "file_name": "Additional Traits for Biggie Traits - Patch-148018-1-0-1751002668.7z",
-      "mod_id": 148018,
-      "hash": "sha256-8IBv1vSbugmLIClexRZB5ht6y8+EiU0FLQrDEew+n0s="
+    "Additional Traits for Biggie Traits - Patch": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "1.0",
+            "file_id": 642048,
+            "file_name": "Additional Traits for Biggie Traits - Patch-148018-1-0-1751002668.7z",
+            "mod_id": 148018,
+            "hash": "sha256-8IBv1vSbugmLIClexRZB5ht6y8+EiU0FLQrDEew+n0s="
+        }
+    },
+    "Additional Traits for Biggie Traits-Requiem Patch": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "1.01",
+            "file_id": 646984,
+            "file_name": "Additional Traits for Biggie Traits-Requiem Patch-148018-1-01-1752473152.7z",
+            "mod_id": 148018,
+            "hash": "sha256-1Dw2IWscgiN0xpGaCz3Ow1wyJ6qJqn2i/tCt/5Bj6fA="
+        }
+    },
+    "DagoC92's Duplicate Thumbnail Replacers": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "1.0",
+            "file_id": 656413,
+            "file_name": "DagoC92's Duplicate Thumbnail Replacers-148018-1-0-1755409420.7z",
+            "mod_id": 148018,
+            "hash": "sha256-I1XTol8ccPCsVNJi/0Yg5/nvVXnBtsTVfJLeSRCuUSs="
+        }
     }
-  },
-  "Additional Traits for Biggie Traits-Requiem Patch": {
-    "nexusmods": {
-      "game_name": "skyrimspecialedition",
-      "version": "1.01",
-      "file_id": 646984,
-      "file_name": "Additional Traits for Biggie Traits-Requiem Patch-148018-1-01-1752473152.7z",
-      "mod_id": 148018,
-      "hash": "sha256-1Dw2IWscgiN0xpGaCz3Ow1wyJ6qJqn2i/tCt/5Bj6fA="
-    }
-  },
-  "DagoC92's Duplicate Thumbnail Replacers": {
-    "nexusmods": {
-      "game_name": "skyrimspecialedition",
-      "version": "1.0",
-      "file_id": 656413,
-      "file_name": "DagoC92's Duplicate Thumbnail Replacers-148018-1-0-1755409420.7z",
-      "mod_id": 148018,
-      "hash": "sha256-I1XTol8ccPCsVNJi/0Yg5/nvVXnBtsTVfJLeSRCuUSs="
-    }
-  }
 }

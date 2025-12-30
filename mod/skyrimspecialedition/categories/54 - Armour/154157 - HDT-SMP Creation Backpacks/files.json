@@ -1,13 +1,13 @@
 {
-  "HDT-SMP Creation Backpacks": {
-    "nexusmods": {
-      "game_name": "skyrimspecialedition",
-      "version": "1.0a",
-      "file_id": 647641,
-      "file_name": "HDT-SMP Creation Backpacks-154157-1-0a-1752649044.7z",
-      "mod_id": 154157,
-      "hash": "sha256-3HUbFRvh54PMQn2IayZeAA8Jyg433aOKKPAfC9gHISY="
-    },
-    "type": "primary"
-  }
+    "HDT-SMP Creation Backpacks": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "1.0a",
+            "file_id": 647641,
+            "file_name": "HDT-SMP Creation Backpacks-154157-1-0a-1752649044.7z",
+            "mod_id": 154157,
+            "hash": "sha256-3HUbFRvh54PMQn2IayZeAA8Jyg433aOKKPAfC9gHISY="
+        },
+        "type": "primary"
+    }
 }

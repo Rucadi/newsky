@@ -1,0 +1,24 @@
+{
+  "Various Book Tags (Lite) - Vanilla Only": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0.0",
+      "file_id": 632918,
+      "file_name": "Various Book Tags (Lite) - Vanilla Only-151404-1-0-0-1748620757.zip",
+      "mod_id": 151404,
+      "hash": "sha256-kvGh2RKrRbjiSTSSZDxAoE/kE8eRR+zIL5NVU7vM+/k="
+    },
+    "type": "primary"
+  },
+  "Various Book Tags": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0.3",
+      "file_id": 690805,
+      "file_name": "Various Book Tags-151404-1-0-3-1764001009.zip",
+      "mod_id": 151404,
+      "hash": "sha256-P3ODRDjR8Q3EcPOJczq9UGYA2SFZ6uo39uQ9Ym2nJ64="
+    },
+    "type": "primary"
+  }
+}

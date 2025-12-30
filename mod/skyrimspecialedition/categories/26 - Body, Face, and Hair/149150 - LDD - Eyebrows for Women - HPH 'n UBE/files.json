@@ -1,33 +1,33 @@
 {
-  "LDD_LevisChoice_EyebrowSetforWomen HPH": {
-    "nexusmods": {
-      "game_name": "skyrimspecialedition",
-      "version": "1.0.0",
-      "file_id": 623424,
-      "file_name": "LDD_LevisChoice_EyebrowSetforWomen HPH-149150-1-0-0-1746323838.7z",
-      "mod_id": 149150,
-      "hash": "sha256-2zoiCxfqhsOdq5TwSL3Q8VaVsDULgGABVliaFSCNx6Q="
+    "LDD_LevisChoice_EyebrowSetforWomen HPH": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "1.0.0",
+            "file_id": 623424,
+            "file_name": "LDD_LevisChoice_EyebrowSetforWomen HPH-149150-1-0-0-1746323838.7z",
+            "mod_id": 149150,
+            "hash": "sha256-2zoiCxfqhsOdq5TwSL3Q8VaVsDULgGABVliaFSCNx6Q="
+        },
+        "type": "primary"
     },
-    "type": "primary"
-  },
-  "LDD_LevisChoice_EyebrowSetforWomen UBE": {
-    "nexusmods": {
-      "game_name": "skyrimspecialedition",
-      "version": "1.0.0",
-      "file_id": 623425,
-      "file_name": "LDD_LevisChoice_EyebrowSetforWomen UBE-149150-1-0-0-1746323932.7z",
-      "mod_id": 149150,
-      "hash": "sha256-fT6Ua6jIv8bgF7B0oZu4hHGr+QlkJH0E2kzOZY87r/U="
+    "LDD_LevisChoice_EyebrowSetforWomen UBE": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "1.0.0",
+            "file_id": 623425,
+            "file_name": "LDD_LevisChoice_EyebrowSetforWomen UBE-149150-1-0-0-1746323932.7z",
+            "mod_id": 149150,
+            "hash": "sha256-fT6Ua6jIv8bgF7B0oZu4hHGr+QlkJH0E2kzOZY87r/U="
+        }
+    },
+    "LDD_LevisChoice_EyebrowSetforWomen VANILLA": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "1.0.0",
+            "file_id": 623426,
+            "file_name": "LDD_LevisChoice_EyebrowSetforWomen VANILLA-149150-1-0-0-1746323963.7z",
+            "mod_id": 149150,
+            "hash": "sha256-J09AH8xXNKB4/6i1yGLbadENMoR6wmpnXwIiKspFSNA="
+        }
     }
-  },
-  "LDD_LevisChoice_EyebrowSetforWomen VANILLA": {
-    "nexusmods": {
-      "game_name": "skyrimspecialedition",
-      "version": "1.0.0",
-      "file_id": 623426,
-      "file_name": "LDD_LevisChoice_EyebrowSetforWomen VANILLA-149150-1-0-0-1746323963.7z",
-      "mod_id": 149150,
-      "hash": "sha256-J09AH8xXNKB4/6i1yGLbadENMoR6wmpnXwIiKspFSNA="
-    }
-  }
 }

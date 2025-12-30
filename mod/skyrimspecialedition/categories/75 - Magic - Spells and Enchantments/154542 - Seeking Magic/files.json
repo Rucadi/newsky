@@ -1,0 +1,23 @@
+{
+  "Seeking Magic": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1.1",
+      "file_id": 646918,
+      "file_name": "Seeking Magic-154542-1-1-1-1752456564.zip",
+      "mod_id": 154542,
+      "hash": "sha256-RXrve2R6Q+ZVsJFnN4c5SRihBD0KMQvlgzS8kOoRQHU="
+    },
+    "type": "primary"
+  },
+  "Less Active Seekers": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1.2",
+      "file_id": 650176,
+      "file_name": "Less Active Seekers-154542-1-1-2-1753485514.zip",
+      "mod_id": 154542,
+      "hash": "sha256-Vh/lYtEraPhiYBfrOyIebcEpIY0gyhijDkN9uFFaHns="
+    }
+  }
+}

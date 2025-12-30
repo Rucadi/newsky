@@ -1,0 +1,24 @@
+{
+  "Wade in Water Redux - Normal": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1.0",
+      "file_id": 632650,
+      "file_name": "Wade in Water Redux-151353-1-0-1-1748549515.zip",
+      "mod_id": 151353,
+      "hash": "sha256-nu9oq45ibTNGnTkQvosUuJvx+uWWpe84aEPyE7eRfnM="
+    },
+    "type": "primary"
+  },
+  "Wade in Water Redux - Softened Penalties": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1.0",
+      "file_id": 633126,
+      "file_name": "Wade in Water Redux - Softened Penalties-151353-1-1-0-1748678281.zip",
+      "mod_id": 151353,
+      "hash": "sha256-9k+Kp9QN8OUjYeeOGcAKB35vdUAWky6BuSk+Zzjkw6Q="
+    },
+    "type": "primary"
+  }
+}

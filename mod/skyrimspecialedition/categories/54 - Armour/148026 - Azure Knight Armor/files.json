@@ -45,7 +45,8 @@
       "version": "1.2",
       "file_id": 629514,
       "file_name": "Azure Knight Armor 8k PBR-148026-1-2-1747832559.7z",
-      "mod_id": 148026
+      "mod_id": 148026,
+      "hash": "sha256-VhBKHPy/vXFyKqiAiI200xXm2t1PxZNlEv3bPogZWys="
     }
   },
   "Azure Knight Armor": {
@@ -54,7 +55,8 @@
       "version": "1.3",
       "file_id": 637445,
       "file_name": "Azure Knight Armor-148026-1-3-1749837085.7z",
-      "mod_id": 148026
+      "mod_id": 148026,
+      "hash": "sha256-SQV59scV/TJJL1RQHLYg3/GLlfaGOZEUBUizd2XqVpM="
     },
     "type": "primary"
   }

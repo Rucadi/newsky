@@ -1,13 +1,13 @@
 {
-  "HSF Poser Pack 02": {
-    "nexusmods": {
-      "game_name": "skyrimspecialedition",
-      "version": "3.0",
-      "file_id": 621984,
-      "file_name": "HSF Poser Pack 02-148651-3-0-1745887202.7z",
-      "mod_id": 148651,
-      "hash": "sha256-JE5nmpWs9sW1LiNy7ODw3cgm13QzSesF3W0wawZ928c="
-    },
-    "type": "primary"
-  }
+    "HSF Poser Pack 02": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "3.0",
+            "file_id": 621984,
+            "file_name": "HSF Poser Pack 02-148651-3-0-1745887202.7z",
+            "mod_id": 148651,
+            "hash": "sha256-JE5nmpWs9sW1LiNy7ODw3cgm13QzSesF3W0wawZ928c="
+        },
+        "type": "primary"
+    }
 }

@@ -1,0 +1,117 @@
+{
+  "Viper Armor 4k 3BA": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 638592,
+      "file_name": "Viper Armor 4k 3BA-152490-1-0-1750096882.zip",
+      "mod_id": 152490,
+      "hash": "sha256-J2Pg7ffVamh5igcpXlvdHJa4q5BvEyEmjFDc2ViSYds="
+    },
+    "type": "primary"
+  },
+  "Viper Armor 4k CBBE": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 638593,
+      "file_name": "Viper Armor 4k CBBE-152490-1-0-1750096963.zip",
+      "mod_id": 152490,
+      "hash": "sha256-3a1mp4SL86vYyPp/GcYNYbRa7F7lg0h2k5A/ff7lvYk="
+    },
+    "type": "primary"
+  },
+  "Viper Armor 4k UNP": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 638594,
+      "file_name": "Viper Armor 4k UNP-152490-1-0-1750097024.zip",
+      "mod_id": 152490,
+      "hash": "sha256-BF5590yMu9CupwjvMOCVKQEPBzH3BS5+drqwXQp1gQA="
+    },
+    "type": "primary"
+  },
+  "Viper Armor 4k BHUNP": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 638595,
+      "file_name": "Viper Armor 4k BHUNP-152490-1-0-1750097093.zip",
+      "mod_id": 152490,
+      "hash": "sha256-irweHSXfvuXxzZ2JuZGNsHQbujKKnFXK0tdaJHORo88="
+    },
+    "type": "primary"
+  },
+  "Viper Armor 2k Textures": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 638596,
+      "file_name": "Viper Armor 2k Textures-152490-1-0-1750097153.zip",
+      "mod_id": 152490,
+      "hash": "sha256-OGYMEt0/dAAliqOyWkBsabooD4ty8pFrf19wEWu9km4="
+    }
+  },
+  "Dark Brotherhood Replacer 3BA": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 638597,
+      "file_name": "Dark Brotherhood Replacer 3BA-152490-1-0-1750097225.zip",
+      "mod_id": 152490,
+      "hash": "sha256-xb7zc3659rblO/9CeWkEpJWbcGJGvfHCt2Q9gidKuh8="
+    }
+  },
+  "Dark Brotherhood Replacer CBBE": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 638598,
+      "file_name": "Dark Brotherhood Replacer CBBE-152490-1-0-1750097248.zip",
+      "mod_id": 152490,
+      "hash": "sha256-I1E8a7rvBAfXz/S2QKktt25LHlc6A+Vfil/9OAE5Geg="
+    }
+  },
+  "Dark Brotherhood Replacer BHUNP": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 638599,
+      "file_name": "Dark Brotherhood Replacer BHUNP-152490-1-0-1750097280.zip",
+      "mod_id": 152490,
+      "hash": "sha256-TFLnsGnpdre2cuRquuNRMn9wm4CWKdSmn14kb4v8oYo="
+    }
+  },
+  "Dark Brotherhood Replacer UNP": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 638600,
+      "file_name": "Dark Brotherhood Replacer UNP-152490-1-0-1750097303.zip",
+      "mod_id": 152490,
+      "hash": "sha256-ZbcMQm14u6vjiUxEWF+PMkDOHznuAdOW7jw01SVBOd8="
+    }
+  },
+  "Dark Brotherhood Replacer Vanilla": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 638601,
+      "file_name": "Dark Brotherhood Replacer Vanilla-152490-1-0-1750097321.zip",
+      "mod_id": 152490,
+      "hash": "sha256-QXImUKOxccMwyfeqBc4EBSYgOO6mlDf9InrhKcNyMxo="
+    }
+  },
+  "Viper Armor 4k Vanilla": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 638603,
+      "file_name": "Viper Armor 4k Vanilla-152490-1-0-1750097368.zip",
+      "mod_id": 152490,
+      "hash": "sha256-Fpnw6hlwfn+g7+V/BblO2pDJ6tuNfGgbAGmK+Oa6tgM="
+    },
+    "type": "primary"
+  }
+}

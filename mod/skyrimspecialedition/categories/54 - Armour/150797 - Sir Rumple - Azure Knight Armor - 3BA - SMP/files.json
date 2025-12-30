@@ -1,0 +1,23 @@
+{
+  "Sir Rumple - Azure Knight Armor": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1",
+      "file_id": 630826,
+      "file_name": "Sir Rumple - Azure Knight Armor-150797-1-1-1748130435.zip",
+      "mod_id": 150797,
+      "hash": "sha256-CW8rF8ZhSzeSVdQZ/9cP6/zvpN1/pab4aZ6h64bjusY="
+    },
+    "type": "primary"
+  },
+  "Sir Rumple Azure Knight Heel Sound": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 633258,
+      "file_name": "Sir Rumple Azure Knight Heel Sound-150797-1-0-1748713104.zip",
+      "mod_id": 150797,
+      "hash": "sha256-IjfsaOc230eSgIcyDCyvxwZHaiyA6h+zbFZ7sxi0h0g="
+    }
+  }
+}

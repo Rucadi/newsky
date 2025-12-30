@@ -1,0 +1,64 @@
+{
+  "Golden Aegis 4K": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 630804,
+      "file_name": "Golden Aegis 4K-150919-1-0-1748125059.zip",
+      "mod_id": 150919,
+      "hash": "sha256-sCyu9IYJyxH4pfPczG7YX1vpyZlRcQ/rMoGSzcW50Co="
+    },
+    "type": "primary"
+  },
+  "Golden Aegis 2K": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 630807,
+      "file_name": "Golden Aegis 2K-150919-1-0-1748125423.zip",
+      "mod_id": 150919,
+      "hash": "sha256-VLiBFOtSfwofaYPGXFv4ii53TRae/zZOAiS7nei5lL4="
+    },
+    "type": "primary"
+  },
+  "Golden Aegis  dimmer visual effects": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 632043,
+      "file_name": "Golden Aegis  dimmer visual effects-150919-1-0-1748413819.zip",
+      "mod_id": 150919,
+      "hash": "sha256-GmKi/vsB43LJkkZ5iZQloteRS/8V4M62jMxunk2x0rM="
+    }
+  },
+  "Golden Aegis Craft Ver": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1",
+      "file_id": 632100,
+      "file_name": "Golden Aegis Craft Ver-150919-1-1-1748429428.zip",
+      "mod_id": 150919,
+      "hash": "sha256-igaerM3btPIdNGifGlvNCH1u9t6bUJnnIXwv0tkkVh4="
+    }
+  },
+  "Golden Aegis Auriels Shield Replacer": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 632515,
+      "file_name": "Golden Aegis Auriels Shield Replacer-150919-1-0-1748524855.zip",
+      "mod_id": 150919,
+      "hash": "sha256-7/uvVm7lMKSoBxYnu3IsFbIFmAv0/LdL0Y0yLSn/jPY="
+    }
+  },
+  "Golden Aegis Spell Breaker Replacer": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 632516,
+      "file_name": "Golden Aegis Spell Breaker Replacer-150919-1-0-1748524916.zip",
+      "mod_id": 150919,
+      "hash": "sha256-GK42sXIJAe7CuKIjYcQXzb91/W8a8eI2Rykn1ddxk14="
+    }
+  }
+}

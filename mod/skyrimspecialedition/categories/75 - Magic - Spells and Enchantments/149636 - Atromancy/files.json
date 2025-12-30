@@ -56,7 +56,8 @@
       "version": "1.8",
       "file_id": 701435,
       "file_name": "Atromancy - Shadow Atronach Add-on-149636-1-8-1766529098.zip",
-      "mod_id": 149636
+      "mod_id": 149636,
+      "hash": "sha256-PKCjt2c4qWj/DCf4aKiA896DKOKu3x56FD2XWxmL7rM="
     }
   },
   "Atromancy - Sun Atronach Add-on": {
@@ -65,7 +66,8 @@
       "version": "1.8",
       "file_id": 701436,
       "file_name": "Atromancy - Sun Atronach Add-on-149636-1-8-1766529114.zip",
-      "mod_id": 149636
+      "mod_id": 149636,
+      "hash": "sha256-1+ozasXlgGDkiB8RGYujhS7IFVJDinsUgoaffkXQWV0="
     }
   }
 }

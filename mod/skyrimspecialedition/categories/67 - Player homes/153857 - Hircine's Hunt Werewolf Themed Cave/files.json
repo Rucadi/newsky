@@ -1,0 +1,53 @@
+{
+  "Hircine's Hunt and COTN - Falkreath PATCH": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0.2",
+      "file_id": 644016,
+      "file_name": "Hircine's Hunt and COTN - Falkreath PATCH-153857-1-0-1751637755.zip",
+      "mod_id": 153857,
+      "hash": "sha256-puBI8i9BVtJTdndCjKxCGUb14tq4ZFsJ8+xCP+ngVWY="
+    }
+  },
+  "Hircine's Hunt Werewolf Themed Cave": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0.1",
+      "file_id": 644061,
+      "file_name": "Hircine's Hunt Werewolf Themed Cave-153857-1-0-1-1751649305.zip",
+      "mod_id": 153857,
+      "hash": "sha256-sLDkv+Yi2V5NsTutYfG9Xh1W3BnusumxgSCFICOjwDE="
+    },
+    "type": "primary"
+  },
+  "Hircine's Hunt and Wintersun PATCH": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 644409,
+      "file_name": "Hircine's Hunt and Wintersun PATCH-153857-1-0-1751733389.zip",
+      "mod_id": 153857,
+      "hash": "sha256-LJrLJlm8d6cGPvu1ynpjfvjH6JGfKeuoA+1pRiHOdNs="
+    }
+  },
+  "Hircine Hunt - Wintersun - Daedric Shrines PATCH": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 645092,
+      "file_name": "Hircine Hunt - Wintersun - Daedric Shrines PATCH-153857-1-0-1751914591.zip",
+      "mod_id": 153857,
+      "hash": "sha256-O9DYjDP5y0PwPMX/bcP56MVubNUejTXEOMWDtxgLl/8="
+    }
+  },
+  "Hircine Hunt - COTN Falkreath - DS AIO PATCH": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 645597,
+      "file_name": "Hircine Hunt - COTN Falkreath - DS AIO PATCH-153857-1-0-1752074466.zip",
+      "mod_id": 153857,
+      "hash": "sha256-e9XN8No2Dfr8TGtOnJ/J4tySdIDwbeS0TTXlBsppo2Y="
+    }
+  }
+}

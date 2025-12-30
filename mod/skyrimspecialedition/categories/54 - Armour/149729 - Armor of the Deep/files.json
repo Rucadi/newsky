@@ -35,7 +35,8 @@
       "version": "1.0",
       "file_id": 640653,
       "file_name": "Armor Of The Deep-149729-1-0-1750598234.7z",
-      "mod_id": 149729
+      "mod_id": 149729,
+      "hash": "sha256-vSPNJI5mD3Vx9C5t2pSxkjNk0EXMn8crVD7/d3jvnl0="
     },
     "type": "primary"
   },
@@ -45,7 +46,8 @@
       "version": "1.0",
       "file_id": 640654,
       "file_name": "Armor Of The Deep 4k-149729-1-0-1750598263.7z",
-      "mod_id": 149729
+      "mod_id": 149729,
+      "hash": "sha256-c8OiuztVtTOyeI6UgSoGIhvXevPOjiztOQcFO6mhfR0="
     }
   },
   "Armor Of The Deep 8k": {
@@ -54,7 +56,8 @@
       "version": "1.0",
       "file_id": 640655,
       "file_name": "Armor Of The Deep 8k-149729-1-0-1750598327.7z",
-      "mod_id": 149729
+      "mod_id": 149729,
+      "hash": "sha256-uqKmWvpKSr3aiXY5VZhBV/vS0iywZdg5jR0QTPn2dAg="
     }
   }
 }

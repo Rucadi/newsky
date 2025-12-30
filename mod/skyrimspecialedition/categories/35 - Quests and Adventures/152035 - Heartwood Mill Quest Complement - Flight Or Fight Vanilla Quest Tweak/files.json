@@ -1,0 +1,33 @@
+{
+  "Grosta's House Interior Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1.0i",
+      "file_id": 642298,
+      "file_name": "Grosta's House Interior Patch-152035-1-1-0-1751093774.7z",
+      "mod_id": 152035,
+      "hash": "sha256-lmjZQyNv8Sk/asll6EnWueXHl/kop6NuGHT7/LVl1Z0="
+    }
+  },
+  "Heartwood Mill Quest Complement": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1.1",
+      "file_id": 699976,
+      "file_name": "Heartwood Mill Quest Complement-152035-1-1-1-1766241670.7z",
+      "mod_id": 152035,
+      "hash": "sha256-PpX0Ymuze/OyT6DlQL5qAySfJL4XZZ40PVHQ2wbNyI0="
+    },
+    "type": "primary"
+  },
+  "Lia's Shack Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1.1l",
+      "file_id": 699978,
+      "file_name": "Lia's Shack Patch-152035-1-1-1-1766241856.7z",
+      "mod_id": 152035,
+      "hash": "sha256-opgoUjuPRGvBr2LT2HN+81XesM1PwNu1/o1owLBBRPA="
+    }
+  }
+}

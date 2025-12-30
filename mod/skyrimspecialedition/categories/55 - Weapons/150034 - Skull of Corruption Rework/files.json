@@ -26,7 +26,8 @@
       "version": "1.0",
       "file_id": 628875,
       "file_name": "Skull of Corruption Rework Model Edit-150034-1-0-1747662483.zip",
-      "mod_id": 150034
+      "mod_id": 150034,
+      "hash": "sha256-yHE0AQ5x7KJpAP1UAbYAiRONM7RsgWtt3NgPVL4F0Mw="
     }
   },
   "Skull of Corruption Rework Model Edit Animation": {
@@ -35,7 +36,8 @@
       "version": "1.0",
       "file_id": 628877,
       "file_name": "Skull of Corruption Rework Model Edit Animation-150034-1-0-1747662592.zip",
-      "mod_id": 150034
+      "mod_id": 150034,
+      "hash": "sha256-6n/gYO7BTovwXFA9GTtHjDOh8cJkNMfKF4cqhFkpkn8="
     }
   },
   "Skull of Corruption Dream Counter Patch": {
@@ -44,7 +46,8 @@
       "version": "1.0",
       "file_id": 628979,
       "file_name": "Skull of Corruption Dream Counter Patch-150034-1-0-1747684417.zip",
-      "mod_id": 150034
+      "mod_id": 150034,
+      "hash": "sha256-G6JLsOsP2dQaJvfn9mxyh3I1glX8wZtVCWN1e3mCGnM="
     }
   },
   "Skull of Corruption Dream Counter Pacth CHS": {
@@ -53,7 +56,8 @@
       "version": "1.0",
       "file_id": 628980,
       "file_name": "Skull of Corruption Dream Counter Pacth CHS-150034-1-0-1747684491.zip",
-      "mod_id": 150034
+      "mod_id": 150034,
+      "hash": "sha256-gZ4VNrhkO7NrwnSyvpdBitaK6GHmePcgWR6WXPx9JaI="
     }
   }
 }

@@ -10,9 +10,6 @@ Please ENDORSE and VOTE for this mod if you like it! It helps more people to kno
 [Download all FDE mods in one go here!](https://next.nexusmods.com/skyrimspecialedition/collections/uu3kpb/)
   
   
-**Google my ID to keep track of future release**
-  
-  
 [![](https://i.imgur.com/dUdih61.png)](https://ko-fi.com/anbeegod)[![](https://static.vecteezy.com/system/resources/thumbnails/023/986/480/small/youtube-logo-youtube-logo-transparent-youtube-icon-transparent-free-free-png.png)](https://www.youtube.com/@anbeegod/featured)
   
   
