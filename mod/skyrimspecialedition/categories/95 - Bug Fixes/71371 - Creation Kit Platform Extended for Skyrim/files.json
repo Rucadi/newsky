@@ -1,0 +1,24 @@
+{
+  "CK Platform Extended 0.6-b477": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "0.6-b477",
+      "file_id": 678997,
+      "file_name": "CK Platform Extended 0.6-b477-71371-0-6-b477-1761108172.zip",
+      "mod_id": 71371,
+      "hash": "sha256-2qsjtk7Xz3KxO1UjHTmN2526afnTatgu91f3Khht3aE="
+    },
+    "type": "primary"
+  },
+  "CK Platform Extended (No AVX2) 0.6-b477": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "0.6-b477",
+      "file_id": 678999,
+      "file_name": "CK Platform Extended (No AVX2) 0.6-b477-71371-0-6-b477-1761108208.zip",
+      "mod_id": 71371,
+      "hash": "sha256-xVZx5wi4ckE2elEcdayef+11m9DUG0728V3dG5g8D2M="
+    },
+    "type": "primary"
+  }
+}
