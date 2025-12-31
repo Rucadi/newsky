@@ -132,6 +132,35 @@ let
     in
       allModsByIdOnly;
 
+# ------------------------------------------------------------
+# Extract all mods by name
+# ------------------------------------------------------------
+
+extractModsByName = categories:
+  let
+    categoryValues = builtins.attrValues categories;
+
+    allModsByNameOnly =
+      builtins.foldl' (acc: category:
+        let
+          modAttrs = builtins.attrNames category;
+
+          # Keep only non-numeric (name-based) attributes
+          nameAttrs =
+            builtins.filter
+              (name: builtins.match "^[0-9]+$" name == null)
+              modAttrs;
+
+          nameMods =
+            builtins.listToAttrs
+              (map (name: { inherit name; value = category.${name}; })
+                   nameAttrs);
+        in
+          acc // nameMods
+      ) {} categoryValues;
+  in
+    allModsByNameOnly;
+
   # ------------------------------------------------------------
   # Entry point
   # ------------------------------------------------------------
@@ -145,6 +174,8 @@ let
 in
 categories // {
   by-mod-id = extractModsById categories;
+  by-mod-name = extractModsByName categories;
+
   nixutils = {
     newsky_skyrim_mod_unpacker = pkgs.callPackage ./nixutils/newsky_skyrim_mod_unpacker.nix {};
   };
