@@ -1,0 +1,56 @@
+{
+  "Pilgrim and Daedric Shrines Patch - MM": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "2.1.MM",
+      "file_id": 354337,
+      "file_name": "Pilgrim and Daedric Shrines Consistency and Tweaks - Map Markers-63617-2-1-MM-1675022437.7z",
+      "mod_id": 63617,
+      "hash": "sha256-FXbNfz0lYYdrxOGWxVnG9L4WIZP/gC3P/xDxREOE52I="
+    },
+    "type": "primary"
+  },
+  "Pilgrim and Daedric Shrines Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "2.1",
+      "file_id": 354340,
+      "file_name": "Pilgrim and Daedric Shrines Consistency and Tweaks-63617-2-1-1675022600.7z",
+      "mod_id": 63617,
+      "hash": "sha256-P0oWYVOJwiHIhSiDjAWA69lUY7ZM9s0g+PgX9enENx0="
+    },
+    "type": "primary"
+  },
+  "Pilgrim and Daedric Shrines Patch - Sithis": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "2.1.Alt",
+      "file_id": 354341,
+      "file_name": "Pilgrim and Daedric Shrines Consistency and Tweaks - Sithis-63617-2-1-Alt-1675022657.7z",
+      "mod_id": 63617,
+      "hash": "sha256-yUUapAUWN2GwE88Y/qKkwjBIVFNpYaU70SQG/n6Dv58="
+    },
+    "type": "primary"
+  },
+  "Pilgrim and Daedric Shrines Patch - Sithis - MM": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "2.1.Alt.MM",
+      "file_id": 354342,
+      "file_name": "Pilgrim and Daedric Shrines Consistency and Tweaks - Sithis - Map Markers-63617-2-1-Alt-MM-1675022743.7z",
+      "mod_id": 63617,
+      "hash": "sha256-iZlFFglwe7LYZmdyKxlzKVP4YbX7oymKaTCLz8nLsqk="
+    },
+    "type": "primary"
+  },
+  "Strongholds Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.3",
+      "file_id": 411984,
+      "file_name": "Strongholds Patch-63617-1-3-1690662496.7z",
+      "mod_id": 63617,
+      "hash": "sha256-6S46ckAr9rzyFpSA6HbrCHuxUh1HobfK1aqyz8Cz5uo="
+    }
+  }
+}

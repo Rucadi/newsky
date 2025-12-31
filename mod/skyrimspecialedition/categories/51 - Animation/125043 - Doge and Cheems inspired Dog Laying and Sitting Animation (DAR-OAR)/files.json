@@ -1,0 +1,33 @@
+{
+  "Dog Laying Anim Replacer SSE": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 524266,
+      "file_name": "Dog Laying Anim Replacer SSE-125043-1-0-1721777287.zip",
+      "mod_id": 125043,
+      "hash": "sha256-RVm08BrqQU2SqjgY3aH0rVc7T3sY2cRg4WGERq4yK9g="
+    }
+  },
+  "Dog Sitting Anim Replacer SSE": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1",
+      "file_id": 540657,
+      "file_name": "Dog Sitting Anim Replacer SSE-125043-1-1-1725969008.zip",
+      "mod_id": 125043,
+      "hash": "sha256-enKQwT8bul4KdQLoYR0DrQrQPaaIT06ruTRmku6u/cE="
+    }
+  },
+  "Doge and Cheems Animation Replacers DAR-OAR": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.2.1",
+      "file_id": 555876,
+      "file_name": "Doge and Cheems Animation Replacers DAR-OAR-125043-1-2-1-1729984049.zip",
+      "mod_id": 125043,
+      "hash": "sha256-Zj+VkOR34cdw2nygQyHh5qd3tzcFz7lq6gxBXy9ax9I="
+    },
+    "type": "primary"
+  }
+}

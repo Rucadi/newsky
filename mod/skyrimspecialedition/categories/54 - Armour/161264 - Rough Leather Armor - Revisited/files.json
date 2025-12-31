@@ -1,0 +1,24 @@
+{
+  "Rough Leather Armor - Default Stats": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 674560,
+      "file_name": "Rough Leather Armor - Default Stats-161264-1-0-1760186965.7z",
+      "mod_id": 161264,
+      "hash": "sha256-5ZKdzc3tOZY56s+HfOYvi1jvpFYOjpka/Zh0hNYVNkc="
+    },
+    "type": "primary"
+  },
+  "Rough Leather Armor - Balanced Stats": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 674778,
+      "file_name": "Rough Leather Armor - Balanced Stats-161264-1-0-1760211376.7z",
+      "mod_id": 161264,
+      "hash": "sha256-bTPUwakrNb3ilOO18Z/KCDJbOTgwRAgoMF6W4tj7/3k="
+    },
+    "type": "primary"
+  }
+}

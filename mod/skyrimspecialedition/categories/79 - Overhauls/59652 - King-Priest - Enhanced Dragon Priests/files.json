@@ -1,0 +1,43 @@
+{
+  "King-Priest - Wyrmstooth Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "4.0.1",
+      "file_id": 505589,
+      "file_name": "King-Priest - Wyrmstooth Patch-59652-4-0-1-1716830926.zip",
+      "mod_id": 59652,
+      "hash": "sha256-SMsWTK4GglUKJwvEdSlw8fWnLrhqktF0NjVu9uuu3bU="
+    }
+  },
+  "King-Priest - Enhanced Dragon Priests": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "4.0.2",
+      "file_id": 506454,
+      "file_name": "King-Priest - Enhanced Dragon Priests-59652-4-0-2-1717031478.zip",
+      "mod_id": 59652,
+      "hash": "sha256-G6+z0TA8yMLpeCz82Uu1wg7YiscJaJEUKOCNTco5FjE="
+    },
+    "type": "primary"
+  },
+  "King-Priest - Simonrim": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "4.0.2",
+      "file_id": 506455,
+      "file_name": "King-Priest - Simonrim-59652-4-0-2-1717031696.zip",
+      "mod_id": 59652,
+      "hash": "sha256-ESFCxU/VYqBt/Chdns1bHoKqyJa/LP2qABD66gvCZpQ="
+    }
+  },
+  "King-Priest - Believable Weapons Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "4.0.2",
+      "file_id": 507700,
+      "file_name": "King-Priest - Believable Weapons Patch-59652-4-0-2-1717361052.zip",
+      "mod_id": 59652,
+      "hash": "sha256-78fTra53wmPlPFLkwoC0d6/7Gnc1REqHJaJLV/R/Qy0="
+    }
+  }
+}

@@ -1,0 +1,53 @@
+{
+  "Snazzy Noble Wardrobes - Base Object Swapper": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1",
+      "file_id": 587535,
+      "file_name": "Snazzy Noble Wardrobes - Base Object Swapper-92493-1-1-1737872605.7z",
+      "mod_id": 92493,
+      "hash": "sha256-Tr9aT3FnAwUzCSInEXkc9dAvMn9AnYeRoX5421/XcYU="
+    },
+    "type": "primary"
+  },
+  "Skyrim 3D Furniture Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1",
+      "file_id": 587536,
+      "file_name": "Skyrim 3D Furniture Patch-92493-1-1-1737872670.7z",
+      "mod_id": 92493,
+      "hash": "sha256-KALmH1+Dm9kEZdfyuU7JqtFGcCsGBlm7QT9vmokLqqE="
+    }
+  },
+  "WACCF Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1",
+      "file_id": 587537,
+      "file_name": "WACCF Patch-92493-1-1-1737872725.7z",
+      "mod_id": 92493,
+      "hash": "sha256-MorPBUWM3L927CYgIRgjx4DJJtAR6M5cKE3AgV7saYo="
+    }
+  },
+  "HQ Patch (vanilla furniture)": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1",
+      "file_id": 587538,
+      "file_name": "HQ Patch (vanilla furniture)-92493-1-1-1737872872.7z",
+      "mod_id": 92493,
+      "hash": "sha256-QFNYTC3LZ3+LFpXTRHQRlLSRLNiyBRLRA6lBGiNlwmQ="
+    }
+  },
+  "Skyrim 3D Furniture - HQ Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1",
+      "file_id": 587539,
+      "file_name": "Skyrim 3D Furniture - HQ Patch-92493-1-1-1737872943.7z",
+      "mod_id": 92493,
+      "hash": "sha256-DXQPMlxMrfpNcy6NG03eoKly2ueryBUBsMlfFMDuN+A="
+    }
+  }
+}

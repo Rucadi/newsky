@@ -1,0 +1,23 @@
+{
+  "Wounds Overlays Applied": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.2",
+      "file_id": 618593,
+      "file_name": "Wounds Overlays Applied-107246-1-2-1744980942.zip",
+      "mod_id": 107246,
+      "hash": "sha256-CT1Jh7CrwVcUpLcPcH8EBOnkLOOpm8Pp7AmXVxK+KEk="
+    },
+    "type": "primary"
+  },
+  "Wounds Overlays Applied for Stages of Suffering": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 618595,
+      "file_name": "Wounds Overlays Applied for Stages of Suffering-107246-1-0-1744980987.zip",
+      "mod_id": 107246,
+      "hash": "sha256-CCgB0wEBYgLbxR88KTBD7l6uYGbDfyYAT4e6PAhF3/M="
+    }
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "BS Bruma Scamps for Creation Club ESP": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1",
+      "file_id": 248098,
+      "file_name": "BS Bruma Scamps for Creation Club ESP-59591-1-1639186959.7z",
+      "mod_id": 59591,
+      "hash": "sha256-8MGqV/aILlVqWw/ddl6nCXoD/ALlNsRErSC47IiuhpM="
+    },
+    "type": "primary"
+  },
+  "BS Bruma Scamps for Creation Club - ESL flagged": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1",
+      "file_id": 442020,
+      "file_name": "BS Bruma Scamps for Creation Club - ESL flagged-59591-1-1699795676.7z",
+      "mod_id": 59591,
+      "hash": "sha256-xIsOiovliSpodYAwHsPnvPMPQ8hV3Xp3TQsWMd9XukI="
+    },
+    "type": "primary"
+  }
+}

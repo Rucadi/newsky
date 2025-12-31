@@ -1,0 +1,23 @@
+{
+  "Skyrim Reputation v2.4 English": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "2.4",
+      "file_id": 117415,
+      "file_name": "Skyrim Reputation v2.4 English-22374-2-4-1577298115.7z",
+      "mod_id": 22374,
+      "hash": "sha256-wpEiCNWj87Rmy6+56eSv1hzQ1BCiwbbYR/4y3sBtxcU="
+    },
+    "type": "primary"
+  },
+  "Wintersun Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "0.2",
+      "file_id": 117438,
+      "file_name": "Wintersun Patch-22374-0-2-1577310083.7z",
+      "mod_id": 22374,
+      "hash": "sha256-E9OyCJxu5AeeDHXZ46kc8LBB5TiPsX2QyD/ckgYhbt0="
+    }
+  }
+}

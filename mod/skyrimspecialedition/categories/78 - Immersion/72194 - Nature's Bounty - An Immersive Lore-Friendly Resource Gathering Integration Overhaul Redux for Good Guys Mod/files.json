@@ -1,0 +1,56 @@
+{
+  "Dreugh Remains": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0.0",
+      "file_id": 302491,
+      "file_name": "Dreugh Remains-72194-1-0-0-1658880423.zip",
+      "mod_id": 72194,
+      "hash": "sha256-H+DYROeU8rb01y7IqlaY5FbYR3RZIvk73FF9u1eUvpQ="
+    },
+    "type": "primary"
+  },
+  "Pheasant Encounters": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0.1",
+      "file_id": 350650,
+      "file_name": "Pheasant Encounters-72194-1-0-1-1674018813.7z",
+      "mod_id": 72194,
+      "hash": "sha256-4k4kHmo0B19mat29rylldFsUYgAbLq5kU137f6/vdzI="
+    },
+    "type": "primary"
+  },
+  "Don't Leave Me Hanging - Plants": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0.0",
+      "file_id": 350653,
+      "file_name": "Don't Leave Me Hanging - Plants-72194-1-0-0-1674019341.7z",
+      "mod_id": 72194,
+      "hash": "sha256-5cHhD29JUCi3j8vmL6OGOVa0J06DsPEIHekmqqwI1mE="
+    },
+    "type": "primary"
+  },
+  "Pheasant Encounters - Mihail's Pheasant Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0.1",
+      "file_id": 404153,
+      "file_name": "Pheasant Encounters - Mihail's Pheasant Patch-72194-1-0-1-1688596286.7z",
+      "mod_id": 72194,
+      "hash": "sha256-xlKEeEcwGHkz8axNY5B4Os6clK7iFINOQ2vfWK/I7NU="
+    }
+  },
+  "Frostcrag Spire Mana Blooms": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0.0",
+      "file_id": 570081,
+      "file_name": "Frostcrag Spire Mana Blooms-72194-1-0-0-1733607261.zip",
+      "mod_id": 72194,
+      "hash": "sha256-Vghlm7hpuzcxan1M2uSrC8pWz87O3zXzzKxhQOc2Qak="
+    },
+    "type": "primary"
+  }
+}

@@ -1,0 +1,66 @@
+{
+  "ElSopa - Iron Weapons Redone - 1k Scabbards": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 215551,
+      "file_name": "ElSopa - Iron Weapons Redone - 1k Scabbards-52605-1-0-1626743822.7z",
+      "mod_id": 52605,
+      "hash": "sha256-ql5rYNeKzh59BDCKroMo6sFRp5g1dizeRcrcVSBfOPc="
+    }
+  },
+  "ElSopa - Iron Weapons Redone 4k": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1",
+      "file_id": 215663,
+      "file_name": "ElSopa - Iron Weapons Redone 4k-52605-1-1-1626795920.7z",
+      "mod_id": 52605,
+      "hash": "sha256-MrB/qH/u6wBCe2ouwwutArF6Juer9GIMOn74fm5LkB4="
+    },
+    "type": "primary"
+  },
+  "ElSopa - Iron Weapons Redone 2k": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1",
+      "file_id": 215664,
+      "file_name": "ElSopa - Iron Weapons Redone 2k-52605-1-1-1626796048.7z",
+      "mod_id": 52605,
+      "hash": "sha256-d8vDH/thyHFP0X6XZOf7QpdmeHZmj5IOYYMd9Eq4muo="
+    },
+    "type": "primary"
+  },
+  "ElSopa - Iron Weapons Redone 1k": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1",
+      "file_id": 215666,
+      "file_name": "ElSopa - Iron Weapons Redone 1k-52605-1-1-1626796073.7z",
+      "mod_id": 52605,
+      "hash": "sha256-7vITdlsKeuQBMl572UjOGlc1QHsCg0NatIyuHmpaq3Y="
+    },
+    "type": "primary"
+  },
+  "ElSopa - Iron Weapons Redone 512": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1",
+      "file_id": 215667,
+      "file_name": "ElSopa - Iron Weapons Redone 512-52605-1-1-1626796096.7z",
+      "mod_id": 52605,
+      "hash": "sha256-cUin804XlTiAAz8eeAz3hzC8F5mRXE7H6xu3ZXWUHm0="
+    },
+    "type": "primary"
+  },
+  "ElSopa - Iron Weapons Redone - Textures Only": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1",
+      "file_id": 216984,
+      "file_name": "ElSopa - Iron Weapons Redone - Textures Only-52605-1-1-1627334419.7z",
+      "mod_id": 52605,
+      "hash": "sha256-ToURWy/Bttme6J6emi470KAO1DsI8YpgYMVf30YkaKM="
+    }
+  }
+}

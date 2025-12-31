@@ -1,0 +1,64 @@
+{
+  "True Storms and Azurite Weathers I Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.X-Patch",
+      "file_id": 217984,
+      "file_name": "True Storms and Azurite Patch-42731-1-71-1627776662.7z",
+      "mod_id": 42731,
+      "hash": "sha256-hcJ+8SkS8uHmhVeHqfeqlj0gcWnxxxHWfUaX2fWidQo="
+    }
+  },
+  "Azurite Weathers II - Brighter Nights": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "v1.1-AWII",
+      "file_id": 437257,
+      "file_name": "Azurite Weathers II - Brighter Nights-42731-v1-1-AWII-1698342326.zip",
+      "mod_id": 42731,
+      "hash": "sha256-y2NHHBFKAzy+XPUcNpQGiIxgdAHozm/hdaY9T8aOueY="
+    }
+  },
+  "Azurite Weathers II - Darker Nights": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "v1.1-AWII",
+      "file_id": 437258,
+      "file_name": "Azurite Weathers II - Darker Nights-42731-v1-1-AWII-1698342397.7z",
+      "mod_id": 42731,
+      "hash": "sha256-lBlcgE9O6ztZoZKf+Al5TaQ3VspgaLrxwlxkKf5M7Ss="
+    }
+  },
+  "Azurite Weathers II": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "2.57",
+      "file_id": 497633,
+      "file_name": "Azurite Weathers II-42731-2-57-1714799064.zip",
+      "mod_id": 42731,
+      "hash": "sha256-KUPvW65ueJGiDk4IsqJPpjSSE1rebBtnKXWvZGyQF1I="
+    },
+    "type": "primary"
+  },
+  "Azurite Weathers III - Darker Nights": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "3.x",
+      "file_id": 579699,
+      "file_name": "Azurite Weather III - Darker Nights-42731-3-x-1736096568.7z",
+      "mod_id": 42731,
+      "hash": "sha256-n1WtgL9DOwYMp46gpkSq/EVVx5UT8uvB9XxTClcRfN4="
+    }
+  },
+  "Azurite Weathers III": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "3.34",
+      "file_id": 607852,
+      "file_name": "Azurite Weathers III-42731-3-34-1742525295.zip",
+      "mod_id": 42731,
+      "hash": "sha256-UnLcjw/7y4We5CH/k2WPsPvTZaMAMlImsh+teHDiZzQ="
+    },
+    "type": "primary"
+  }
+}

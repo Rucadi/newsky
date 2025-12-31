@@ -1,0 +1,23 @@
+{
+  "Embershard Miners - Unvoiced Dialogue": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "2.0.1",
+      "file_id": 140420,
+      "file_name": "Embershard Miners-35031-2-0-1-1589682764.7z",
+      "mod_id": 35031,
+      "hash": "sha256-fWMCndoIOTsOfNl+EaYIQnysJ1eDIp9ATrfSoUOc1uA="
+    }
+  },
+  "Embershard Miners - With Voiced Dialogue": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "2.1",
+      "file_id": 143594,
+      "file_name": "Embershard Miners - With Voiced Dialogue-35031-2-5-1591145595.7z",
+      "mod_id": 35031,
+      "hash": "sha256-MmcLRmnMNAs8H7PjUDD5wP7aH2KnK5ZPIdZjltfve4w="
+    },
+    "type": "primary"
+  }
+}

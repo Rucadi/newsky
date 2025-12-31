@@ -1,0 +1,23 @@
+{
+  "Seasons of Skryim - Thicket and Dead Shrub Swapper": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "3.01",
+      "file_id": 367760,
+      "file_name": "Seasons of Skryim Support - Thicket and Dead Shrub Swapper-86414-2-0-1678601360.7z",
+      "mod_id": 86414,
+      "hash": "sha256-/eCUih9z2Fikyh8dwLQ6r/+PnIBhtk81z4Fs8Z4olLE="
+    }
+  },
+  "Thickets and Dead Shrub Swapper with Options": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "3.01",
+      "file_id": 693153,
+      "file_name": "Thickets and Dead Shrub Swapper with Options-86414-3-01-1764553396.7z",
+      "mod_id": 86414,
+      "hash": "sha256-6W2xSSTwsMvYzeXuUv2kFTQoHPIeFXC0qV+TbB5S9CY="
+    },
+    "type": "primary"
+  }
+}

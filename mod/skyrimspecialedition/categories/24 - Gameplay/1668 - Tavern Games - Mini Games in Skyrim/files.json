@@ -1,0 +1,13 @@
+{
+  "1.2.1": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.2.1",
+      "file_id": 9544,
+      "file_name": "1.2.1-1668-1-2-1.7z",
+      "mod_id": 1668,
+      "hash": "sha256-G1lAqGcbLDE3vzUaFlVydH1i+QTIBCCoGYjuNYgje9o="
+    },
+    "type": "primary"
+  }
+}

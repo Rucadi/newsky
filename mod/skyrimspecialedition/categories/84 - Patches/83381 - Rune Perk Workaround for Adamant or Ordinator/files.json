@@ -1,0 +1,24 @@
+{
+  "Rune Perk Fix - Ordinator": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1",
+      "file_id": 636912,
+      "file_name": "Rune Perk Fix - Ordinator-83381-1-1-1749681560.zip",
+      "mod_id": 83381,
+      "hash": "sha256-NHIrFatqLZlO+9d7xYGKANPovbyH99ezZrGRoIOH+Ww="
+    },
+    "type": "primary"
+  },
+  "Rune Perk Fix - Adamant": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1.1",
+      "file_id": 672379,
+      "file_name": "Rune Perk Fix - Adamant-83381-1-1-1-1759628624.zip",
+      "mod_id": 83381,
+      "hash": "sha256-m/VgMzIEi0NZ2n1AJBnkeQqfNx8Tb5U8YBPy4biRjLs="
+    },
+    "type": "primary"
+  }
+}

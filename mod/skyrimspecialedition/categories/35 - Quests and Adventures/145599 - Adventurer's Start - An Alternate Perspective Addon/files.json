@@ -1,0 +1,43 @@
+{
+  "Bruma Adventurer's Start Addon": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0.1",
+      "file_id": 614709,
+      "file_name": "Bruma Adventurer's Start Addon-145599-1-0-0-1743990939.zip",
+      "mod_id": 145599,
+      "hash": "sha256-Sz66alSuonRX9UPU//nrV0B+u6W+9eWhYwl8YvaBrlE="
+    }
+  },
+  "Inconvenient Dungeons Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0.1",
+      "file_id": 614710,
+      "file_name": "Inconvenient Dungeons Patch-145599-1-0-0-1743990990.zip",
+      "mod_id": 145599,
+      "hash": "sha256-JA2qpE/2bR3/sZc/ntOXST8d1n2C/imb+hT0e6MGVq4="
+    }
+  },
+  "Serious Civil War Fort Personnel Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0.1",
+      "file_id": 643282,
+      "file_name": "Serious Civil War Fort Personnel Patch-145599-1-0-1-1751387899.zip",
+      "mod_id": 145599,
+      "hash": "sha256-qLg4HCzD4YxhqMq0SLYqLscTF8kYMXOnmuDtMRV6ff8="
+    }
+  },
+  "Adventurer's Start": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0.1",
+      "file_id": 643431,
+      "file_name": "Adventurer's Start-145599-1-0-1-1751438227.zip",
+      "mod_id": 145599,
+      "hash": "sha256-Ffw8tIWMm8n0Ph+LcR/GDp4lBkhuce/kzhS33Xdt+5w="
+    },
+    "type": "primary"
+  }
+}

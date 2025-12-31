@@ -1,0 +1,24 @@
+{
+  "Luminous Atronachs": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "2.0ESP",
+      "file_id": 100805,
+      "file_name": "Luminous Atronachs-27732-2-0-1564186040.7z",
+      "mod_id": 27732,
+      "hash": "sha256-F0JaTGrZ0nYIy9Ob26Zs7kXikBgAxFeEkMX/396iLsQ="
+    },
+    "type": "primary"
+  },
+  "Luminous Atronachs - ESPLite": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "2.0ESPLite",
+      "file_id": 100806,
+      "file_name": "Luminous Atronachs - ESPLite-27732-2-0ESPLite-1564186348.7z",
+      "mod_id": 27732,
+      "hash": "sha256-FW0f39EJI4R9iyRLEAMrwSWqYqfT+9A2csaDq+OJRi0="
+    },
+    "type": "primary"
+  }
+}

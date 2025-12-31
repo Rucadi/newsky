@@ -1,0 +1,23 @@
+{
+  "GTS exemption list": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 675546,
+      "file_name": "GTS exemption list-161062-1-0-1760367039.zip",
+      "mod_id": 161062,
+      "hash": "sha256-rsYu8NP1LXu/WmQnQs6/4VRM1HXjYqfPi0ck5cvLvMU="
+    }
+  },
+  "Dynamic NPC Hairstyles": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1.2",
+      "file_id": 687082,
+      "file_name": "Dynamic NPC Hairstyles-161062-1-1-2-1763054176.rar",
+      "mod_id": 161062,
+      "hash": "sha256-j0dBNGuFIkvPt89CG0gSHTd0ofjHvaO2l8/Lw7HBayw="
+    },
+    "type": "primary"
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "AJO - Clue Scrolls Synergy Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.4",
+      "file_id": 595448,
+      "file_name": "AJO - Clue Scrolls Synergy Patch-109363-1-4-1739719655.7z",
+      "mod_id": 109363,
+      "hash": "sha256-8P1Fggjko1V3ZdbOMcJbZtdxdFKaYH7bavxrRf8Ipj8="
+    }
+  },
+  "AJO - First Person Messages": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.4",
+      "file_id": 595449,
+      "file_name": "AJO - First Person Messages-109363-1-4-1739719684.7z",
+      "mod_id": 109363,
+      "hash": "sha256-1FyaeYeCMzwiQJdaWMC7gLa+8nvDdWa4+cI2/xY9Nuw="
+    }
+  },
+  "AJO - No Tool Requirements": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.4",
+      "file_id": 595450,
+      "file_name": "AJO - No Tool Requirements-109363-1-4-1739719720.7z",
+      "mod_id": 109363,
+      "hash": "sha256-WBM4C+5pPfXkKm9aoWqNZXPktODfv8mpJtU2rH1j3zg="
+    }
+  },
+  "AJO - Andrealletius Jobs Overhaul": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.5.4",
+      "file_id": 701800,
+      "file_name": "AJO - Andrealletius Jobs Overhaul-109363-1-5-4-1766619609.7z",
+      "mod_id": 109363,
+      "hash": "sha256-fgGBgCMTc/K+kFOouSfhjOo+kAjlzwKWGnM5dftS90U="
+    },
+    "type": "primary"
+  }
+}

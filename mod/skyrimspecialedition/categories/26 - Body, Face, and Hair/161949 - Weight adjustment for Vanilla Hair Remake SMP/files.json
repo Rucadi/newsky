@@ -1,0 +1,23 @@
+{
+  "Weight adjustment for Vanilla hair remake SMP": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "0.8",
+      "file_id": 677368,
+      "file_name": "Weight adjustment for Vanilla hair remake SMP-161949-0-8-1760800390.zip",
+      "mod_id": 161949,
+      "hash": "sha256-cR4tIJB7m68m9u8FJ8nfks2w4Xo9oai3cCiezTkKufY="
+    },
+    "type": "primary"
+  },
+  "Weight adjustment for jg1's other SMP hairs": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "0.8",
+      "file_id": 681024,
+      "file_name": "Weight adjustment for jg1's other SMP hairs-161949-0-8-1761583266.zip",
+      "mod_id": 161949,
+      "hash": "sha256-993B3bBt65kffWiwqDcoZMSWPYmB24Iy3Zw8ODeEC4g="
+    }
+  }
+}

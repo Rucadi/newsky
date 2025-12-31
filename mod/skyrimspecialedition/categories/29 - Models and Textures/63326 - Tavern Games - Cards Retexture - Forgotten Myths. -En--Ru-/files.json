@@ -1,0 +1,24 @@
+{
+  "Tavern Games - Battle of Heroes - Forgotten Myths Retexture": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 262902,
+      "file_name": "Tavern Games - Battle of Heroes - Forgotten Myths Retexture-63326-1-0-1644410020.7z",
+      "mod_id": 63326,
+      "hash": "sha256-L0pmYZpCd24T97UPYo9HQb0/+v5+Y1SZImc+r3pj+7s="
+    },
+    "type": "primary"
+  },
+  "Tavern Games - Battle of Heroes - Forgotten Myths Retexture (Ru)": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 262903,
+      "file_name": "Tavern Games - Battle of Heroes - Forgotten Myths Retexture (Ru)-63326-1-0-1644410085.7z",
+      "mod_id": 63326,
+      "hash": "sha256-67sUFkEiiCx9/Ok3t5bXC5gzIp5tZnQPLDTBx2w5QHY="
+    },
+    "type": "primary"
+  }
+}

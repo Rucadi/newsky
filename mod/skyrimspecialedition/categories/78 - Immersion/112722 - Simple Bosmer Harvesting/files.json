@@ -1,0 +1,43 @@
+{
+  "Simple Bosmer Harvesting": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "2.0",
+      "file_id": 529992,
+      "file_name": "Simple Bosmer Harvesting-112722-2-0-1723239446.zip",
+      "mod_id": 112722,
+      "hash": "sha256-jb9ZLQSIPLLp9TSyrW9zcW/m13aFkcrEpcqS/uaSuEc="
+    },
+    "type": "primary"
+  },
+  "Gourmet Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "2.0",
+      "file_id": 529993,
+      "file_name": "Gourmet Patch-112722-2-0-1723239529.zip",
+      "mod_id": 112722,
+      "hash": "sha256-/3ciB3WizkMZ3QfswqT/MNTM/zsguDOF58oQMgZ3vlg="
+    }
+  },
+  "Eating Animations and Sounds Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "2.0",
+      "file_id": 529994,
+      "file_name": "Eating Animations and Sounds Patch-112722-2-0-1723239581.zip",
+      "mod_id": 112722,
+      "hash": "sha256-H9AjnagiuHArDvxqulXtWmeMwb9iLc1xwfGfpsaUqrU="
+    }
+  },
+  "No Salt Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 529999,
+      "file_name": "No Salt Patch-112722-1-0-1723240713.zip",
+      "mod_id": 112722,
+      "hash": "sha256-MJ1qq7fPmzi1qYZNdSSfISkefJy0zSaJZ0YZlxQnfJM="
+    }
+  }
+}

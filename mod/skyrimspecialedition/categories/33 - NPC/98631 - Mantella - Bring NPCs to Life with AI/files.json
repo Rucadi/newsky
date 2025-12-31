@@ -1,0 +1,33 @@
+{
+  "Mantella - Expanded Piper Models List": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1",
+      "file_id": 591368,
+      "file_name": "Mantella - Expanded Piper Models List-98631-1-1738776611.zip",
+      "mod_id": 98631,
+      "hash": "sha256-HeZ5jNQVME9NvXXJZgJUkkcWADYjHKyxNZlKGjIXt3Q="
+    }
+  },
+  "Mantella": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "0.13.1",
+      "file_id": 632328,
+      "file_name": "Mantella-98631-0-13-1-1748466880.zip",
+      "mod_id": 98631,
+      "hash": "sha256-UOkpDOvND5bJ/kCs17PTztj7SDFPYh3yu+YSGY0MEhk="
+    },
+    "type": "primary"
+  },
+  "Mantella v0.13.1 - MGO Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "0.13.1",
+      "file_id": 632330,
+      "file_name": "Mantella v0.13.1 - MGO Patch-98631-0-13-1-1748467470.zip",
+      "mod_id": 98631,
+      "hash": "sha256-QzDuEjIulqH6ncyY3BEYQyBCndVM/RAtO9m/szusD4I="
+    }
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "Solstheim Lighthouse v1.2 ESP": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.2",
+      "file_id": 101432,
+      "file_name": "Solstheim Lighthouse v1.2 ESP-14329-1-2-1564648663.rar",
+      "mod_id": 14329,
+      "hash": "sha256-GJLI2zW4fRvl7uIjaJOkZXKPASiEzlxzWGsSCQFcRpM="
+    },
+    "type": "primary"
+  },
+  "Solstheim Lighthouse v1.2 ESL": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.2",
+      "file_id": 101433,
+      "file_name": "Solstheim Lighthouse v1.2 ESL-14329-1-2-1564648799.rar",
+      "mod_id": 14329,
+      "hash": "sha256-qkF9L/aQsvZbEadVhsuCoLuCzEu/9q4iC0+EgazyRM4="
+    },
+    "type": "primary"
+  },
+  "HD Raven Rock Brick Texture Replacer": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 101434,
+      "file_name": "HD Raven Rock Brick Texture Replacer-14329-1-0-1564648899.rar",
+      "mod_id": 14329,
+      "hash": "sha256-+aOs38bs925SOPHI8SouAW3zQBqKi+jaSP+ZBA81lGw="
+    }
+  }
+}

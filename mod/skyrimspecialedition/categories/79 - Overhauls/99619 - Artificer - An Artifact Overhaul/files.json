@@ -1,0 +1,65 @@
+{
+  "Artificer - Dragon Priest Staves": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 426430,
+      "file_name": "Artificer - Dragon Priest Staves-99619-1-0-1694913924.rar",
+      "mod_id": 99619,
+      "hash": "sha256-AgO8umFZ09GjSZ3tnRuGDd8iFnPIZtq69kFt5wiRWmo="
+    }
+  },
+  "Artificer - Xavbios Old Gods Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0.2",
+      "file_id": 427058,
+      "file_name": "Artificer - Xavbios Old Gods Patch-99619-1-0-2-1695062973.rar",
+      "mod_id": 99619,
+      "hash": "sha256-4GfaVk+TkwkuVqOGd8yo+JN0gn3qGzgfXeDoNlsxbNg="
+    }
+  },
+  "Artificer - An Artifact Overhaul": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0.11",
+      "file_id": 469357,
+      "file_name": "Artificer - An Artifact Overhaul-99619-1-0-11-1707516439.rar",
+      "mod_id": 99619,
+      "hash": "sha256-zSNP0Un5pgKHxyjHZ5FQILQDD3FdGs5oCkxfDTw7DU8="
+    },
+    "type": "primary"
+  },
+  "Artificer - USSEP": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0.2",
+      "file_id": 469362,
+      "file_name": "Artificer - USSEP-99619-1-0-2-1707516650.rar",
+      "mod_id": 99619,
+      "hash": "sha256-Y0VG28zXt+NmoPSG51sTBrJ461rhoHVUsuBnbLqmcJM="
+    }
+  },
+  "Artificer - Xavbio Textures Addon": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0.11",
+      "file_id": 500474,
+      "file_name": "Artificer - Xavbio Textures Addon-99619-1-0-11-1715538818.rar",
+      "mod_id": 99619,
+      "hash": "sha256-GFYIHCZ/5/j4GmaKzk5Bx28rb2WnpKDccFLR1gTsARM="
+    },
+    "type": "primary"
+  },
+  "Artificer - Xavbio Textures Addon HalfRes": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0.11",
+      "file_id": 500475,
+      "file_name": "Artificer - Xavbio Textures Addon HalfRes-99619-1-0-11-1715538982.rar",
+      "mod_id": 99619,
+      "hash": "sha256-RHmj3JA/WwsHII6AKHIGTcFWgS03syJkkZW6FNZjWS0="
+    },
+    "type": "primary"
+  }
+}

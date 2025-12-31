@@ -1,0 +1,23 @@
+{
+  "Fare Thee Well - Spouses and Children Give Blessings": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.3",
+      "file_id": 234888,
+      "file_name": "Fare Thee Well - Spouses and Children Give Blessings-56366-1-3-1634293406.rar",
+      "mod_id": 56366,
+      "hash": "sha256-8R9LGDPF08yDhBiG1pgnxoOx5T2CDRwZy1+vPMm8u6k="
+    },
+    "type": "primary"
+  },
+  "Fare Thee Well TEST ESP for Revealed Magic Effects": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.3",
+      "file_id": 682188,
+      "file_name": "Fare Thee Well TEST ESP for Revealed Magic Effects-56366-1-3-1761900629.rar",
+      "mod_id": 56366,
+      "hash": "sha256-5dWT/VJWsXnMsWx64xegePKNsdujgGSamB5lyO5qeZI="
+    }
+  }
+}

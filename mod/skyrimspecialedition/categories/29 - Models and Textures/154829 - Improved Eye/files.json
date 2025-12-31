@@ -1,0 +1,44 @@
+{
+  "Improved Eye": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0.0",
+      "file_id": 647073,
+      "file_name": "Improved Eye-154829-1-0-0-1752501069.7z",
+      "mod_id": 154829,
+      "hash": "sha256-7+likdwBoqCpREjbU8nV4hyw9dSe5OyY2MVks7jmW+o="
+    },
+    "type": "primary"
+  },
+  "Improved Eye - Glowing Vampire Eye": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0.0",
+      "file_id": 647303,
+      "file_name": "Improved Eye - Glowing Vampire Eye-154829-1-0-0-1752544766.7z",
+      "mod_id": 154829,
+      "hash": "sha256-wfPyhe1l45rSZHEOtC3/CkZekeVuAdltozhUulXm8zQ="
+    }
+  },
+  "Improved Eye - Longer Eyelashes": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0.0",
+      "file_id": 653610,
+      "file_name": "Improved Eye - Longer Eyelashes-154829-1-0-0-1754584586.7z",
+      "mod_id": 154829,
+      "hash": "sha256-VELZ03LCaXS84KW7lV0Yk/26pKLlWfWfh+YJnzxtshw="
+    },
+    "type": "primary"
+  },
+  "Improved Eye - Longer Eyelashes Glowing Vampire": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0.0",
+      "file_id": 670227,
+      "file_name": "Improved Eye - Longer Eyelashes Glowing Vampire-154829-1-0-0-1759081105.7z",
+      "mod_id": 154829,
+      "hash": "sha256-3gOag3Nl9JhkaUkJtDYAVjWzoXXIQzA7W6RHfRGzKzc="
+    }
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "Project AHO (EN)": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "2.0",
+      "file_id": 87556,
+      "file_name": "Project AHO (EN)-15996-2-0-1554570948.rar",
+      "mod_id": 15996,
+      "hash": "sha256-QU9HZe6ei4oUW3+gmSL/eT56OciNjxH1qT7cddMyafE="
+    },
+    "type": "primary"
+  },
+  "Project AHO (RU)": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "2.0",
+      "file_id": 87559,
+      "file_name": "Project AHO (RU)-15996-2-0-1554571240.rar",
+      "mod_id": 15996,
+      "hash": "sha256-ysyfZhKTR1rE7rsos0ls674DdDqz7ZXeDMJMh+ZSsOQ="
+    },
+    "type": "primary"
+  },
+  "Project AHO ESM Flag Edition": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "2.0",
+      "file_id": 87561,
+      "file_name": "Project AHO ESM Flag Edition-15996-2-0-1554571292.rar",
+      "mod_id": 15996,
+      "hash": "sha256-Og3Hj/j3DpQy0o8NO5dv3Gt7zvmZp5PzrhpTfsaWfO8="
+    }
+  }
+}

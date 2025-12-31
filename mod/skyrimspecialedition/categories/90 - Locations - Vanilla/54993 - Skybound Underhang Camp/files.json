@@ -1,0 +1,73 @@
+{
+  "Hunt of Hircine Cut - OIF Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "7",
+      "file_id": 225737,
+      "file_name": "Hunt of Hircine Cut - OIF Patch-54993-1-1630649149.zip",
+      "mod_id": 54993,
+      "hash": "sha256-H3jrhlHxbsLtZUMU4xkeJn6qUqZHiXUEe7oVJszeQK4="
+    }
+  },
+  "Arena Consistency": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "7",
+      "file_id": 412536,
+      "file_name": "Arena Consistency-54993-5-1690763438.zip",
+      "mod_id": 54993,
+      "hash": "sha256-KbCHdZHUagS0zOjOmS70SoStbV/iEtAYsoi4vQFRmjY="
+    }
+  },
+  "Creation Club - Iron Plate Addon": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "7",
+      "file_id": 412539,
+      "file_name": "Creation Club - Iron Plate Addon-54993-5-1690763532.zip",
+      "mod_id": 54993,
+      "hash": "sha256-G16zQ/Ufvy6sk/PD5N/Kh27OX5XThsSwflYckEgH2NU="
+    }
+  },
+  "Helgen Reborn Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "7",
+      "file_id": 603380,
+      "file_name": "Helgen Reborn Patch-54993-7-1741488930.zip",
+      "mod_id": 54993,
+      "hash": "sha256-Y5DV6WkuyHyzyxrDsHFL2Y0dtxdf7RE6hcr1SsQVVrs="
+    }
+  },
+  "Skybound Underhang Camp": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "7",
+      "file_id": 603429,
+      "file_name": "Skybound Underhang Camp-54993-7-1741494253.zip",
+      "mod_id": 54993,
+      "hash": "sha256-TnEKEFvDtkfGx3pbyskELJj+iF1RvKvRSSNMJGayCwE="
+    },
+    "type": "primary"
+  },
+  "Lux Via Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "7",
+      "file_id": 603430,
+      "file_name": "Lux Via Patch-54993-7-1741494285.zip",
+      "mod_id": 54993,
+      "hash": "sha256-Pjxw2w2LVOKEBWMAE3hoQNsc4ggJvxsoDNJu84pVQI0="
+    }
+  },
+  "Lawbringer Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "7",
+      "file_id": 603431,
+      "file_name": "Lawbringer Patch-54993-7-1741494310.zip",
+      "mod_id": 54993,
+      "hash": "sha256-DfwG1tgHQqVeGpp77Y363U0LjujDlFbIQ0ryj+bDylY="
+    }
+  }
+}

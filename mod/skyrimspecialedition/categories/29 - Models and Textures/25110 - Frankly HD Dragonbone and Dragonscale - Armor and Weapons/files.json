@@ -1,0 +1,24 @@
+{
+  "Frankly HD Dragonbone and Dragonscale 2k": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 88740,
+      "file_name": "Frankly HD Dragonbone and Dragonscale 2k-25110-1-0-1555502184.7z",
+      "mod_id": 25110,
+      "hash": "sha256-LiMD4uta05kKZ2T+QptcifLsGxDiBUKxt2pZ7oPagdQ="
+    },
+    "type": "primary"
+  },
+  "Frankly HD Dragonbone and Dragonscale 4k": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 88741,
+      "file_name": "Frankly HD Dragonbone and Dragonscale 4k-25110-1-0-1555502288.7z",
+      "mod_id": 25110,
+      "hash": "sha256-6JXN6bf0MzRDE/VrDDDxB/BGRj25aopnTefph64ua8w="
+    },
+    "type": "primary"
+  }
+}

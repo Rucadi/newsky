@@ -1,0 +1,34 @@
+{
+  "Alternate Start Consistency ONLY": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 678351,
+      "file_name": "Alternate Start Consistency ONLY-162227-1-0-1760940866.7z",
+      "mod_id": 162227,
+      "hash": "sha256-shGNmOkc4NmwrfmVLzF/Fs1u80q2nwAYY/6jMSr6HPY="
+    }
+  },
+  "IDE - Companions - DDR Version": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1.1",
+      "file_id": 679355,
+      "file_name": "IDE - Companions-162227-1-1-1-1761193028.7z",
+      "mod_id": 162227,
+      "hash": "sha256-fCJReM6IqJWCN3Jo3UVqJtLIYUtdfl83XGqwc+DTKfI="
+    },
+    "type": "primary"
+  },
+  "IDE Companions - No DDR Version": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1.2",
+      "file_id": 693208,
+      "file_name": "IDE Companions - No DDR Version-162227-1-1-2-1764575858.7z",
+      "mod_id": 162227,
+      "hash": "sha256-AdIo8iA2xFETpl+ck51bL6ZtUoQ98YWQ8HtvVBDywpY="
+    },
+    "type": "primary"
+  }
+}

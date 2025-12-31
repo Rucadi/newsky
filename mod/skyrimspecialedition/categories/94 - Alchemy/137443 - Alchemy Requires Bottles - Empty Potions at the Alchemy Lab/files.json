@@ -1,0 +1,24 @@
+{
+  "Show Empty Bottes in the Menu": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1",
+      "file_id": 580074,
+      "file_name": "Show Empty Bottes in the Menu-137443-1-1-1736187077.zip",
+      "mod_id": 137443,
+      "hash": "sha256-jdaG4NOXJ3Ao3tuPIBoi9zswmFoumrnSRjHsNn9pKc8="
+    },
+    "type": "primary"
+  },
+  "Empty Potions at the Alchemy Lab": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1",
+      "file_id": 583242,
+      "file_name": "Empty Potions at the Alchemy Lab-137443-1-1-1736860036.zip",
+      "mod_id": 137443,
+      "hash": "sha256-K1Su0WXB/+OJTWkhw5gfhIFW0Wsc4jTsDl/7zwLZkjk="
+    },
+    "type": "primary"
+  }
+}

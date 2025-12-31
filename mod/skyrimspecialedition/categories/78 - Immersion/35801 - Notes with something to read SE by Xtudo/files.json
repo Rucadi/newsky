@@ -1,0 +1,46 @@
+{
+  "Notes with something to read SE MAP": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.3",
+      "file_id": 139571,
+      "file_name": "Notes with something to read SE MAP-35801-1-3-1589307484.rar",
+      "mod_id": 35801,
+      "hash": "sha256-v32wKmYx4TPQJRlMmrr4BEdOWRAR+aeTYU/dye4U89w="
+    },
+    "type": "primary"
+  },
+  "Notes with something to read SE MAP-WINE": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.3",
+      "file_id": 139572,
+      "file_name": "Notes with something to read SE MAP-WINE-35801-1-3-1589307518.rar",
+      "mod_id": 35801,
+      "hash": "sha256-uXoITuTmgT7Iji52/LDmBT+abnlUzrA/08/b6TPGick="
+    },
+    "type": "primary"
+  },
+  "Notes with something to read SE TEXT": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.3",
+      "file_id": 139573,
+      "file_name": "Notes with something to read SE TEXT-35801-1-3-1589307550.rar",
+      "mod_id": 35801,
+      "hash": "sha256-vwzjxee9NQ2UJIYXA8QhaiglR6Qll+jVNEm8k+yLcYc="
+    },
+    "type": "primary"
+  },
+  "Notes with something to read SE TEXT-WINE": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.3",
+      "file_id": 139574,
+      "file_name": "Notes with something to read SE TEXT-WINE-35801-1-3-1589307583.rar",
+      "mod_id": 35801,
+      "hash": "sha256-Q7Rwze5LtGcMHZKl4gnKb9FSxVYQurcf5pmDc4SfnZ4="
+    },
+    "type": "primary"
+  }
+}

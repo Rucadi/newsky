@@ -1,0 +1,33 @@
+{
+  "01 - Less Shiny Mane": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.5",
+      "file_id": 264499,
+      "file_name": "03 - Less Shiny Mane-63640-1-0-1-1644957426.7z",
+      "mod_id": 63640,
+      "hash": "sha256-R3If7Omd+byp9OR1djCImhLGI9k3VrunwlkU373KxAE="
+    }
+  },
+  "02 - Convenient Horses Patch - SE": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.5.2",
+      "file_id": 282527,
+      "file_name": "02 - Convenient Horses Patch - SE-63640-1-5-2-1652115365.7z",
+      "mod_id": 63640,
+      "hash": "sha256-GrV4bGuQ3qcjUM6Q9AzKvghT6wxBYMlBRQWKY1f8nTc="
+    }
+  },
+  "00 - Skyrim Horse Overhaul SE - by zzjay": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.5.2",
+      "file_id": 282528,
+      "file_name": "00 - Skyrim Horse Overhaul SE - by zzjay-63640-1-5-2-1652115555.7z",
+      "mod_id": 63640,
+      "hash": "sha256-Aa5suteGK/iakAcNJi2ypztIVH9uNIhROi9Lyg44+JA="
+    },
+    "type": "primary"
+  }
+}

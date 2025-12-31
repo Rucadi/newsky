@@ -1,0 +1,34 @@
+{
+  "Grahl - Harvest Overhaul Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0.0",
+      "file_id": 23932,
+      "file_name": "Grahl - Harvest Overhaul Patch-9311-1-0-0.7z",
+      "mod_id": 9311,
+      "hash": "sha256-eXXqzF9m3FfR49AGtXUTgd5bscrp0ChEFoEL2YHfTyQ="
+    }
+  },
+  "Grahl - The Ice Troll": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.3.0",
+      "file_id": 37785,
+      "file_name": "Grahl - The Ice Troll-9311-1-3-0.zip",
+      "mod_id": 9311,
+      "hash": "sha256-XpWlldPrQPHD4FvoA74zqFzKroyJwedx5j6CuidLYIk="
+    },
+    "type": "primary"
+  },
+  "Grahl - The Ice Troll - 4K": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.3.0",
+      "file_id": 37786,
+      "file_name": "Grahl - The Ice Troll - 4K-9311-1-3-0.zip",
+      "mod_id": 9311,
+      "hash": "sha256-JcmtuObPwebkxa3pjXQwYVQIyuAflOn1EeJXIwfWa7Q="
+    },
+    "type": "primary"
+  }
+}

@@ -1,0 +1,73 @@
+{
+  "OMEAR Addition - Immersive College of Winterhold": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.8.2",
+      "file_id": 303048,
+      "file_name": "OMEAR Addition - Immersive College of Winterhold 6.2-67968-1-8-1-1659074819.zip",
+      "mod_id": 67968,
+      "hash": "sha256-OZrqLTrE2/AiXFu1tsm4I2lByul3cKyFJCbaA7vALIk="
+    }
+  },
+  "OnMagicEffectApply Replacer Effective": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.8.2",
+      "file_id": 474739,
+      "file_name": "OnMagicEffectApply Replacer Effective-67968-1-8-2-1708954935.zip",
+      "mod_id": 67968,
+      "hash": "sha256-8AxOFo0OpLXEHW6Cxkq8qk5qlWP5Eqnhopsns7m3ln4="
+    },
+    "type": "primary"
+  },
+  "OMEAR Addition - Ordinator Perks of Skyrim": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.8.2",
+      "file_id": 475036,
+      "file_name": "OMEAR Addition - Ordinator Perks-67968-1-8-2-1709032755.zip",
+      "mod_id": 67968,
+      "hash": "sha256-bzvDRlvmQVtoVBU+9UDca+1y5rUv+c5ESLpZQf9N0Ek="
+    }
+  },
+  "OMEAR Addition - CoW Quest Expansion": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.8.2",
+      "file_id": 515359,
+      "file_name": "OMEAR Addition - CoW Quest Expansion-67968-1-8-2-1719485443.zip",
+      "mod_id": 67968,
+      "hash": "sha256-HM7H36srAZDZqTGBjMkARZp4TUPCuxkgT9Sds9PaMcw="
+    }
+  },
+  "OMEAR Addition - LOTD-Wintersun Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.8.2",
+      "file_id": 654486,
+      "file_name": "OMEAR Addition - LOTD-Wintersun Patch-67968-1-8-2-1754840954.zip",
+      "mod_id": 67968,
+      "hash": "sha256-QgtxhrbKds0YdYpsBZaViF1/f8VA+oJpqu6ExbyR5KI="
+    }
+  },
+  "OMEAR Addition - Skyrim Extended Cut S-and-S": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.8.2",
+      "file_id": 658456,
+      "file_name": "OMEAR Addition - Skyrim Extended Cut S-and-S-67968-1-8-2-1755967056.zip",
+      "mod_id": 67968,
+      "hash": "sha256-87nBMgmG06RVm5pbk3V2P/5gOJcXhSsiNNYLd7cDNIY="
+    }
+  },
+  "OMEAR Addition - Val Serano 2": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.8.2",
+      "file_id": 703043,
+      "file_name": "OMEAR Addition - Val Serano 2-67968-1-8-2-1766965231.zip",
+      "mod_id": 67968,
+      "hash": "sha256-P6/o3ETWJMLoeWYCAWs7tAS+alEt5hd+H7Zy6jmxOPQ="
+    }
+  }
+}

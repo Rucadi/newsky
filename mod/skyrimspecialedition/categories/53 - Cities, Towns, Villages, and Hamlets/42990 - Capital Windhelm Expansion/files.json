@@ -1,0 +1,194 @@
+{
+  "Capital Windhelm Expansion - JK's Skyrim Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1",
+      "file_id": 182432,
+      "file_name": "Capital Windhelm Expansion - JK's Skyrim Patch-42990-1-1611861057.rar",
+      "mod_id": 42990,
+      "hash": "sha256-hQekwtb3GjgJXTvwHgmz63ZYwzGyl3uUsaeVvS9Q8ec="
+    }
+  },
+  "Capital Windhelm Expansion - Embers XD PATCH": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1",
+      "file_id": 187612,
+      "file_name": "Capital Windhelm Expansion - Embers XD PATCH-42990-1-1-1614105728.zip",
+      "mod_id": 42990,
+      "hash": "sha256-SiHPRmV+a+JJzITlV98MvTszrUcF7sP3Wn8o6jJsdz4="
+    }
+  },
+  "Capital Windhelm Expansion - Embers HD PATCH": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1",
+      "file_id": 187613,
+      "file_name": "Capital Windhelm Expansion - Embers HD PATCH-42990-1-1-1614105791.zip",
+      "mod_id": 42990,
+      "hash": "sha256-AtktCW86cJIfSkEAGh2zXO3M60MqfMccwm7DDeVpG5k="
+    }
+  },
+  "Capital Windhelm Expansion - Embers XD (esl) PATCH": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1",
+      "file_id": 187615,
+      "file_name": "Capital Windhelm Expansion - Embers XD PATCH-42990-1-1614105914.zip",
+      "mod_id": 42990,
+      "hash": "sha256-FmNPRDINJGJsDQiwykLBkdrr75u4greOy/ixiKvC0l8="
+    }
+  },
+  "Capital Windhelm Expansion - Normal": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.3",
+      "file_id": 188036,
+      "file_name": "Capital Windhelm Expansion - Normal-42990-1-3-1614298844.zip",
+      "mod_id": 42990,
+      "hash": "sha256-m61OFLKbwiiYg4QpaU/29ByqtoNMPQNerUY13ZCkdeA="
+    },
+    "type": "primary"
+  },
+  "Capital Windhelm Expansion - CRF": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.3",
+      "file_id": 188123,
+      "file_name": "Capital Windhelm Expansion - CRF-42990-1-3-1614324249.zip",
+      "mod_id": 42990,
+      "hash": "sha256-pYEfDZ523FtPWBMwia5twK0TgkS2nCq0JxYgA+Q95rU="
+    },
+    "type": "primary"
+  },
+  "AI OVERHAUL PATCH": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1",
+      "file_id": 188271,
+      "file_name": "AI OVERHAUL PATCH-42990-1-1-1614387908.zip",
+      "mod_id": 42990,
+      "hash": "sha256-B4LqQ4F9YkXB9X/aat5Xw1apVUXhz1cAsR2dUrjk6SI="
+    }
+  },
+  "CapitalWindhelmExpansion - Clockwork": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1",
+      "file_id": 190261,
+      "file_name": "CapitalWindhelmExpansion - Clockwork-42990-1-1615230688.zip",
+      "mod_id": 42990,
+      "hash": "sha256-7uAEcW0z7tWTcDVAxY9yipzFT2JhH0we3QJZeg/TySg="
+    }
+  },
+  "CapitalWindhelmExpansion - JKSkyrim": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1",
+      "file_id": 190266,
+      "file_name": "CapitalWindhelmExpansion - JKSkyrim-42990-1-1615230840.zip",
+      "mod_id": 42990,
+      "hash": "sha256-A9YWY6BLvYnmDWLvIiJIxmV1Tb2ltvy0Ohp4sKbNGt4="
+    }
+  },
+  "CapitalWindhelmExpansion - ICAIO": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1",
+      "file_id": 190267,
+      "file_name": "CapitalWindhelmExpansion - ICAIO-42990-1-1615230861.zip",
+      "mod_id": 42990,
+      "hash": "sha256-IIMn+F2YxaJfRdQEdj2q/sFXkhJzpmBrMEkL2AE/188="
+    }
+  },
+  "CapitalWindhelmExpansion - OutlawsRefuges": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1",
+      "file_id": 190268,
+      "file_name": "CapitalWindhelmExpansion - OutlawsRefuges-42990-1-1615230918.zip",
+      "mod_id": 42990,
+      "hash": "sha256-bebrQCEPVrEHjVMkYfSlCeGkT71v9kNbQZjWF6oV9gc="
+    }
+  },
+  "CapitalWindhelmExpansion - SkyrimSewers": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1",
+      "file_id": 190269,
+      "file_name": "CapitalWindhelmExpansion - SkyrimSewers-42990-1-1615230961.zip",
+      "mod_id": 42990,
+      "hash": "sha256-g+mEMwO7ktk3i4Za7h4ZnNf44+zzTh4L0LWFMUo7G9g="
+    }
+  },
+  "CapitalWindhelmExpansion - WindhelmGateFixes": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1",
+      "file_id": 190270,
+      "file_name": "CapitalWindhelmExpansion - WindhelmGateFixes-42990-1-1615231002.zip",
+      "mod_id": 42990,
+      "hash": "sha256-AcCdY0ABYFO5EjvbXmHvjrohlXemLIb0aqUqWTMGoaU="
+    }
+  },
+  "Capital Windhelm Expansion - USSEP": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1",
+      "file_id": 191575,
+      "file_name": "Capital Windhelm Expansion - USSEP-42990-1-1615772082.zip",
+      "mod_id": 42990,
+      "hash": "sha256-sizqVV0aSbckSqEAUicfa0+2YAoBmZ+J4yWuenIa2xc="
+    }
+  },
+  "Capital Windhelm HPNPC and KS Hair Patch JS": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1",
+      "file_id": 193375,
+      "file_name": "Capital Windhelm HPNPC and KS Hair Patch JS-42990-1-1616613176.zip",
+      "mod_id": 42990,
+      "hash": "sha256-W+LZWyprxSdkp+c4Msd1RubZT7mWXlrFi+xtVjc7dyk="
+    }
+  },
+  "HPNPC patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1",
+      "file_id": 198297,
+      "file_name": "HPNPC patch-42990-1-1618483073.7z",
+      "mod_id": 42990,
+      "hash": "sha256-ADXT8kVjC+gib/S4x5A4aQLF32AidkNMCchZjz+MoX4="
+    }
+  },
+  "Windhelm Bridge Tweaks - patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "3",
+      "file_id": 198584,
+      "file_name": "Windhelm Bridge Tweaks - patch-42990-3-1618606341.zip",
+      "mod_id": 42990,
+      "hash": "sha256-b79vuoCXUQ4KGdkX6XtvzDR+TfDB6bk7kd/HKkGAwMU="
+    }
+  },
+  "Capital Windhelm - Embers XD ESP-FE Patch for 2.2.3 and later": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1",
+      "file_id": 202019,
+      "file_name": "Capital Windhelm - Embers XD ESP-FE Patch for 2.2.3 and later-42990-1-1620323559.zip",
+      "mod_id": 42990,
+      "hash": "sha256-xXK5LASHYeG90xYmw3s54Q/eJ9sjR7fGj1d1i9Y3uS0="
+    }
+  },
+  "Dawn of Skyrim Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1",
+      "file_id": 205277,
+      "file_name": "Dawn of Skyrim Patch-42990-1-1621843037.rar",
+      "mod_id": 42990,
+      "hash": "sha256-no3by/GCNQH4k+7i4hwxd8BFnycDRyR0aU1ET+YoJJY="
+    }
+  }
+}

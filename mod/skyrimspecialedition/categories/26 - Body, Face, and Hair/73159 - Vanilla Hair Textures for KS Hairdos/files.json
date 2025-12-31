@@ -1,0 +1,24 @@
+{
+  "Vanilla Textures for KS Hairdos": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "0.5",
+      "file_id": 558770,
+      "file_name": "Vanilla Textures for KS Hairdos-73159-0-5-1730692850.7z",
+      "mod_id": 73159,
+      "hash": "sha256-o2dgdFVGK3NZ0qOQLWjZEV6TynydSM3sxUpMf9kC7uY="
+    },
+    "type": "primary"
+  },
+  "Vanilla Textures for KS Hairdos Lite": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 660631,
+      "file_name": "Vanilla Textures for KS Hairdos Lite-73159-1-0-1756555013.7z",
+      "mod_id": 73159,
+      "hash": "sha256-PzwEvAPvzDbCS1NM0BNucXn8IKAMkPGCRRsE/CCb4Hw="
+    },
+    "type": "primary"
+  }
+}

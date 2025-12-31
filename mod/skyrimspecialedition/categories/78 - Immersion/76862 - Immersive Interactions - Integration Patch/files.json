@@ -1,0 +1,23 @@
+{
+  "Goblet for Mead Barrel Animation": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.92",
+      "file_id": 421758,
+      "file_name": "Goblet for Mead Barrel Animation-76862-1-92-1693315516.7z",
+      "mod_id": 76862,
+      "hash": "sha256-Y1fN1iZwfiPtJVJYNSVC3B+KFMw9kxxls5fYkFmo+go="
+    }
+  },
+  "Immersive Interactions - Integration Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "2.2.2",
+      "file_id": 637081,
+      "file_name": "Immersive Interactions - Integration Patch-76862-2-2-2-1749740748.zip",
+      "mod_id": 76862,
+      "hash": "sha256-I6vdcyNUwjKxYAmScC2MJejr8q1VYNmvc1cFKaxYK3w="
+    },
+    "type": "primary"
+  }
+}

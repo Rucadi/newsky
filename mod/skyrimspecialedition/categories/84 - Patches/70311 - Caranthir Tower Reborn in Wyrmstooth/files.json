@@ -1,0 +1,33 @@
+{
+  "Caranthir Tower Reborn in Wyrmstooth - CoMap support Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 294670,
+      "file_name": "Caranthir Tower Reborn in Wyrmstooth - CoMap support Patch-70311-1-0-1656424206.rar",
+      "mod_id": 70311,
+      "hash": "sha256-t3JVNJxmG2BnN8NgI3+lhntFj4LLeMdCyAddZourZQo="
+    }
+  },
+  "CTR in WT - CTR Expanded": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1",
+      "file_id": 302098,
+      "file_name": "CTR in WT - CTR Expanded-70311-1-1-1658758351.7z",
+      "mod_id": 70311,
+      "hash": "sha256-ZvnqJj4P6xYvdbk+hf4giT3ozDHZ3YPcqxCslxs7+Jo="
+    }
+  },
+  "Caranthir Tower Reborn in Wyrmstooth": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.2.1",
+      "file_id": 511901,
+      "file_name": "Caranthir Tower Reborn in Wyrmstooth-70311-1-2-1-1718491723.7z",
+      "mod_id": 70311,
+      "hash": "sha256-Kh00FqPWfYwdIHnJUC0lzunH6/7zxuF2TL/mAVruPAk="
+    },
+    "type": "primary"
+  }
+}

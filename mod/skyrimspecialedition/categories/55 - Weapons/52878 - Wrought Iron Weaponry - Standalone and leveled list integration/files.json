@@ -1,0 +1,23 @@
+{
+  "Wrought Iron Weaponry": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1",
+      "file_id": 216988,
+      "file_name": "Wrought Iron Weaponry-52878-1-0-1627335061.7z",
+      "mod_id": 52878,
+      "hash": "sha256-OHHT5rtIUfhIkOdmJBwPZDYJWhNjISJ/WLdMk6m39XA="
+    }
+  },
+  "Wrought Iron Weaponry - Including Leveled Lists": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.2",
+      "file_id": 217101,
+      "file_name": "Wrought Iron Weaponry - Including Leveled Lists-52878-1-2-1627399891.7z",
+      "mod_id": 52878,
+      "hash": "sha256-Wvbwz6IfvIhKn735slR1E0U0OnbNYF2/XveB+3CSdtU="
+    },
+    "type": "primary"
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "0 CME - Constructible Obj. Custom Keyword System": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 653299,
+      "file_name": "CME - Constructible Obj. Custom Keyword System-73354-1-0-1754477019.zip",
+      "mod_id": 73354,
+      "hash": "sha256-5jahOe7eHYtGE26qW7bWtPhMFMQ9ssnQs3cxQZ0OGdg="
+    }
+  },
+  "1 CME - Integration Inv. Interface Info. Injector": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 653412,
+      "file_name": "CME - Integration Inv. Interface Info. Injector-73354-1-0-1754514322.zip",
+      "mod_id": 73354,
+      "hash": "sha256-zb9quodPsEICtn7P9g6dgX+LvtkB+IZcoP63qylAqPE="
+    }
+  },
+  "2 CME - Integration Go To Bed": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1",
+      "file_id": 654906,
+      "file_name": "2 CME - Integration Go To Bed-73354-1-1-1754978825.zip",
+      "mod_id": 73354,
+      "hash": "sha256-9jA9wRxhr2Qm+QtGYcU2TTnOvmq7H47Cr7yVc+dnyEY="
+    }
+  },
+  "Camping Modular Expansion 1.0.6": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0.6",
+      "file_id": 662116,
+      "file_name": "Camping Modular Expansion 1.0.6-73354-1-0-6-1756919947.zip",
+      "mod_id": 73354,
+      "hash": "sha256-6LWP+hR7PJjwnVwjaGIoUVFNbYtHDSzgYA8kXUVgago="
+    },
+    "type": "primary"
+  }
+}

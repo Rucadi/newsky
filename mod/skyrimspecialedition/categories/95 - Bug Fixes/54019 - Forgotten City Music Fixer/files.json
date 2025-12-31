@@ -1,0 +1,23 @@
+{
+  "The Forgotten City Music Bug Fixer - Version 2.2 (esl flagged)": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "2.2",
+      "file_id": 222082,
+      "file_name": "The Forgotten City Music Bug Fixer - Version 2.2 (esl flagged)-54019-2-2-1629298590.zip",
+      "mod_id": 54019,
+      "hash": "sha256-r4YOegHPSZfKxtNSET70Te9P1rDD4cs6BcyGwZfyPUI="
+    },
+    "type": "primary"
+  },
+  "Cassia's Plea Remover Addon": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "2.2",
+      "file_id": 222301,
+      "file_name": "Cassia's Plea Remover Addon-54019-2-2-1629400087.zip",
+      "mod_id": 54019,
+      "hash": "sha256-EWHPtIVOim+P1bmtQj9hzYS/fmyW3gLNb56rbbUSlkQ="
+    }
+  }
+}

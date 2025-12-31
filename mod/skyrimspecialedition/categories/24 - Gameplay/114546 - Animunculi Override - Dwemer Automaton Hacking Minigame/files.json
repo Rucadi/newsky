@@ -1,0 +1,43 @@
+{
+  "Ordinator Lockdown Perk Uses Animunculi Override": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0.0",
+      "file_id": 482702,
+      "file_name": "Ordinator Lockdown Perk Uses Animunculi Override-114546-1-0-0-1710989009.zip",
+      "mod_id": 114546,
+      "hash": "sha256-VTCilCss7CKY6Koi7QsyBTxmq5eIX1dgmjfKyh0olh4="
+    }
+  },
+  "Vokrii Lockdown Perk Uses Animunculi Override": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0.0",
+      "file_id": 482716,
+      "file_name": "Vokrii Lockdown Perk Uses Animunculi Override-114546-1-0-0-1710998161.zip",
+      "mod_id": 114546,
+      "hash": "sha256-mYuX1+z7nbM/tRY49662fmEoB878/ZhXdib7VgN98nw="
+    }
+  },
+  "Animunculi Override - Dwemer Automaton Hacking": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0.2",
+      "file_id": 484844,
+      "file_name": "Animunculi Override - Dwemer Automaton Hacking-114546-1-0-2-1711616493.zip",
+      "mod_id": 114546,
+      "hash": "sha256-Wkf5QLn2wLEgI/+8a0KzOfOvrYRZ90Zok0dM1V8ImKA="
+    },
+    "type": "primary"
+  },
+  "Animunculi Override - Custom Skills Framework": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0.2",
+      "file_id": 537444,
+      "file_name": "Animunculi Override - Custom Skills Framework-114546-1-0-2-1725164190.zip",
+      "mod_id": 114546,
+      "hash": "sha256-SSXzZSMZvzJwC5J6yfThXTXlmqsq9qOcS8NGfyAJUr4="
+    }
+  }
+}

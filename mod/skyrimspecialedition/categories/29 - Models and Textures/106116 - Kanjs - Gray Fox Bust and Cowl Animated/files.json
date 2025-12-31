@@ -1,0 +1,65 @@
+{
+  "Kanjs - Gray Fox Bust and Cowl Animated 4k": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1",
+      "file_id": 448560,
+      "file_name": "Kanjs - Gray Fox Bust and Cowl Animated 4k-106116-1-1-1701629009.zip",
+      "mod_id": 106116,
+      "hash": "sha256-xirZBXUDQATKzOguRSb+nDRbYW/nWozmRWeykiLrK+s="
+    },
+    "type": "primary"
+  },
+  "Kanjs - Gray Fox Bust and Cowl Animated 2k": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1",
+      "file_id": 448561,
+      "file_name": "Kanjs - Gray Fox Bust and Cowl Animated 2k-106116-1-1-1701629044.zip",
+      "mod_id": 106116,
+      "hash": "sha256-JR21OTx8Lit0Th16VzSUoPIhwRvr6SXwVUIk4IBOGw0="
+    },
+    "type": "primary"
+  },
+  "Kanjs - Gray Fox Bust and Cowl Animated 1k": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1",
+      "file_id": 448562,
+      "file_name": "Kanjs - Gray Fox Bust and Cowl Animated 1k-106116-1-1-1701629067.zip",
+      "mod_id": 106116,
+      "hash": "sha256-MAqPvoTBH7V6/000FSw2UBnP7hak18v1vZB2I0yMPpQ="
+    },
+    "type": "primary"
+  },
+  "Kanjs - Gray Fox Cowl Animated Fan mod version 4k": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1",
+      "file_id": 448630,
+      "file_name": "Kanjs - Gray Fox Cowl Animated Fan mod version 4k-106116-1-1-1701647199.zip",
+      "mod_id": 106116,
+      "hash": "sha256-WM8R244nEknzD557XRF/KMJqfa2yrVDfgwgmyS6jJiQ="
+    }
+  },
+  "Kanjs - Gray Fox Cowl Animated Fan mod version 2k": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1",
+      "file_id": 448631,
+      "file_name": "Kanjs - Gray Fox Cowl Animated Fan mod version 2k-106116-1-1701647214.zip",
+      "mod_id": 106116,
+      "hash": "sha256-hsPSLF6QI0YteQcRqcXiqTujz38/LlaKW8TwUxdVFs4="
+    }
+  },
+  "Kanjs - Gray Fox Cowl Animated Fan mod version 1k": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1",
+      "file_id": 448632,
+      "file_name": "Kanjs - Gray Fox Cowl Animated Fan mod version 1k-106116-1-1-1701647287.zip",
+      "mod_id": 106116,
+      "hash": "sha256-xQSj8rxsQXxeSa1/1W9fIN1V37QedFsz/ivvC4xwMH4="
+    }
+  }
+}

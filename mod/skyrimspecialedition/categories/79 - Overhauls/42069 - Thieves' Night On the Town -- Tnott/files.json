@@ -1,0 +1,43 @@
+{
+  "Tnott - Cities of the North-Dawnstar patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 195105,
+      "file_name": "Tnott - Cities of the North-Dawnstar patch-42069-1-0-1617253570.7z",
+      "mod_id": 42069,
+      "hash": "sha256-Z0H6Z3rHZ1fjqhf9GCzpPFeCZG68i737yCV5kTm1ZEE="
+    }
+  },
+  "Tnott - Better Innteriors patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0.1",
+      "file_id": 303992,
+      "file_name": "Tnott - Better Innteriors patch-42069-1-0-1-1659392119.7z",
+      "mod_id": 42069,
+      "hash": "sha256-0e+uP9qpaZzn9Bp3wwVj2/N/Msrn1Odk7HZYmJsRBEg="
+    }
+  },
+  "Tnott - JK's Skyrim patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0.3",
+      "file_id": 303993,
+      "file_name": "Tnott - JK's Skyrim patch-42069-1-0-3-1659392169.7z",
+      "mod_id": 42069,
+      "hash": "sha256-Sf1vfLbV29xJg9HxtzrUq5uxX0J0RefOIyPCGu6nAIw="
+    }
+  },
+  "Thieves Night On The Town": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0.8",
+      "file_id": 364996,
+      "file_name": "Thieves Night On The Town-42069-1-0-8-1677809861.zip",
+      "mod_id": 42069,
+      "hash": "sha256-GRKT0uKXXicmX/D2HkchN88tiZ/N2cTMUl8mkcaJ7Co="
+    },
+    "type": "primary"
+  }
+}

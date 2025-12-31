@@ -1,0 +1,83 @@
+{
+  "LeanWolfs Better-Shaped Dawnbreaker Greatsword SE": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.03",
+      "file_id": 19801,
+      "file_name": "LeanWolfs Better-Shaped Dawnbreaker Greatsword SE-2017-1-03.7z",
+      "mod_id": 2017,
+      "hash": "sha256-90RkL+GDWg/lgJxECV3/ekuf6K8tTe/nWI0jc0sl8FE="
+    }
+  },
+  "LeanWolfs BSW Dragonbling Gemling All Standalone SE": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.03",
+      "file_id": 19802,
+      "file_name": "LeanWolfs BSW Dragonbling Gemling All Standalone SE-2017-1-03.7z",
+      "mod_id": 2017,
+      "hash": "sha256-eJGruj/MKHmUmhQG1iYyuOlQWJJe9LXgssbgUcVExrc="
+    }
+  },
+  "LeanWolfs BSW Rudy HQ More Lights for ENB Arrows Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.00",
+      "file_id": 91537,
+      "file_name": "LeanWolfs BSW Rudy HQ More Lights for ENB Arrows Patch-2017-1-00-1557451094.7z",
+      "mod_id": 2017,
+      "hash": "sha256-kWOILUbrHxPeMRZBBCpdjqtBF6TwCr3NiPvddHDBiWE="
+    }
+  },
+  "LeanWolfs Better-Shaped Weapons Installer v2.1.03 SE": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "2.1.03",
+      "file_id": 131901,
+      "file_name": "LeanWolfs Better-Shaped Weapons Installer v2.1.03 SE-2017-2-1-03-1585765834.7z",
+      "mod_id": 2017,
+      "hash": "sha256-ulfFNvON7YfRLJ4oyAEWsc2ZpG0T6Ptyfn2Nr0EgqYM="
+    },
+    "type": "primary"
+  },
+  "LeanWolfs Better-Shaped Weapons SkyRealism-Shiny patch v2.1.03 SE": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "2.1.03",
+      "file_id": 131903,
+      "file_name": "LeanWolfs Better-Shaped Weapons SkyRealism-Shiny patch v2.1.03 SE-2017-2-1-03-1585766144.7z",
+      "mod_id": 2017,
+      "hash": "sha256-/v9Hs95BV2YvWXV16mnwlmOaUp8PKYNOYtqMtODMq0U="
+    }
+  },
+  "LeanWolfs Better-Shaped Runed Nordic Weapons - Standalone version patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.00",
+      "file_id": 140460,
+      "file_name": "LeanWolfs Better-Shaped Runed Nordic Weapons - Standalone version patch-2017-1-00-1589724476.7z",
+      "mod_id": 2017,
+      "hash": "sha256-1/yesqNCrSfjS1/gVhN8+Ht88kl2VjgGsBgNJQzyZGE="
+    }
+  },
+  "BSW Ancient Nord Stalhrim Swords": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1",
+      "file_id": 202947,
+      "file_name": "Ancient Nord Stalhrim Swords-2017-1-1-1620781896.7z",
+      "mod_id": 2017,
+      "hash": "sha256-OtAev2kFNNA7NDvVwzLAP9LVbtvSfu6QoDzo4inFvtY="
+    }
+  },
+  "BSW Dwemer Weapons Glowmapped 3 patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1",
+      "file_id": 482638,
+      "file_name": "BSW Dwemer Weapons Glowmapped 3 patch-2017-1-1-1710969978.7z",
+      "mod_id": 2017,
+      "hash": "sha256-q21YgRh/LggUzp1YEV1KITYji+lkPQOVuGxo9FuZT3M="
+    }
+  }
+}

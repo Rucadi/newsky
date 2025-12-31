@@ -1,0 +1,35 @@
+{
+  "Mysticism - I4 Addon": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 371243,
+      "file_name": "Mysticism - I4 Patch-87608-1-0-1679542534.zip",
+      "mod_id": 87608,
+      "hash": "sha256-gGB7En/m2uFhxAwal06Qg6YjzpGlYQFCM8djO1iBSII="
+    },
+    "type": "primary"
+  },
+  "Scion - I4 Addon": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 371244,
+      "file_name": "Scion - I4 Patch-87608-1-0-1679542553.zip",
+      "mod_id": 87608,
+      "hash": "sha256-R58WBGdGNdRd1aZhyDN6OfQ5hfotlQWmY5dvaZekYcY="
+    },
+    "type": "primary"
+  },
+  "Artificer - I4 Addon": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 427362,
+      "file_name": "Artificer - I4 Addon-87608-1-0-1695146516.zip",
+      "mod_id": 87608,
+      "hash": "sha256-7Eqw3E7I5iSpSSBqD+50r+azxPLrTKjRpQSS7nrqhSk="
+    },
+    "type": "primary"
+  }
+}

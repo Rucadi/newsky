@@ -1,0 +1,33 @@
+{
+  "Death Animations from Underdog": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 410378,
+      "file_name": "Death Animations from Underdog-96603-1-0-1690243236.zip",
+      "mod_id": 96603,
+      "hash": "sha256-8qLtyZ1MtGFNrvoBkaQUYLfIvwInamIsdBqp0FQn/o4="
+    },
+    "type": "primary"
+  },
+  "Death Animations - No Spinning Death Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 410381,
+      "file_name": "Death Animations - No Spinning Death Patch-96603-1-0-1690244184.zip",
+      "mod_id": 96603,
+      "hash": "sha256-7+v6vpp3gn/U+NxpLlRkwejKpyxJvvMi4OueqbOYUMM="
+    }
+  },
+  "Death Animations - Guaranted Death Animation": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 418212,
+      "file_name": "Death Animations - Guaranted Death Animation-96603-1-0-1692361947.zip",
+      "mod_id": 96603,
+      "hash": "sha256-AGcxsOEDdmw0cVfT6szzGsr0htgc/70EhPsBEJ1biR4="
+    }
+  }
+}

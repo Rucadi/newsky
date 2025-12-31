@@ -1,0 +1,23 @@
+{
+  "Confident Husky Anims SE DAR-OAR": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.2",
+      "file_id": 542259,
+      "file_name": "Confident Husky Anims SE DAR-OAR-128862-1-2-1726353242.zip",
+      "mod_id": 128862,
+      "hash": "sha256-wcjhH/SACE9GxWvTQMa2ziy1+MHZWa1ch5hCNc5tkns="
+    },
+    "type": "primary"
+  },
+  "Confident Husky Anims Vanilla Replacer SE": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.2",
+      "file_id": 542261,
+      "file_name": "Confident Husky Anims Vanilla Replacer SE-128862-1-2-1726353353.zip",
+      "mod_id": 128862,
+      "hash": "sha256-fw+3jBpSzs8w4KkIFHaMoU9TxBFPob6t7OQJX062eNM="
+    }
+  }
+}

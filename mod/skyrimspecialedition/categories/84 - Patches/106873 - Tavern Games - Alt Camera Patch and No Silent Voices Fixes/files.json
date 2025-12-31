@@ -1,0 +1,24 @@
+{
+  "Alt Camera Patch Updated NPCs": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 451390,
+      "file_name": "Alt Camera Patch Updated NPCs-106873-1-0-1702442798.7z",
+      "mod_id": 106873,
+      "hash": "sha256-RojRW4dR1hCQ74l8Bc+p7M7iaRAaA129l53+cC5b6mo="
+    },
+    "type": "primary"
+  },
+  "No Silent Voices for Alt Camera Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 451391,
+      "file_name": "No Silent Voices for Alt Camera Patch-106873-1-0-1702442836.7z",
+      "mod_id": 106873,
+      "hash": "sha256-Wrv2zyQcT/fDx162kQyueRSp8+Us48dSsTJdImYwm1Q="
+    },
+    "type": "primary"
+  }
+}

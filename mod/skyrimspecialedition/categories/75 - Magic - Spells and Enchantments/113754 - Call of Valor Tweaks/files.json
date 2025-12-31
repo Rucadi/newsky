@@ -1,0 +1,83 @@
+{
+  "Call of Valor - Tweaks - Dragonsouls Req": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 479746,
+      "file_name": "Call of Valor - Tweaks - Dragonsouls Req-113754-1-0-1710257485.7z",
+      "mod_id": 113754,
+      "hash": "sha256-1U0CEY91OiogOlpaQbrDV+vvZeOmx3yaxeWSS4D64eA="
+    }
+  },
+  "Call of Valor - Tweaks - Vanilla Outfits": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1",
+      "file_id": 479755,
+      "file_name": "Call of Valor - Tweaks - Vanilla Outfits-113754-1-1-1710260952.7z",
+      "mod_id": 113754,
+      "hash": "sha256-a8CadQ290Wemyr06O46ywcOrvUroB05roU89XnABqMY="
+    }
+  },
+  "Call of Valor - Tweaks - DS reqs - PQE Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1.1",
+      "file_id": 479782,
+      "file_name": "Call of Valor - Tweaks - DS reqs - PQE Patch-113754-1-1-1-1710264810.7z",
+      "mod_id": 113754,
+      "hash": "sha256-VrL6wSzc/mjT9NQWF124Ws8VtumLMN1pvdCxboNZhJg="
+    }
+  },
+  "Call of Valor - Tweaks - Stormcrown Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1.2",
+      "file_id": 479849,
+      "file_name": "Call of Valor - Tweaks - Stormcrown Patch-113754-1-1-2-1710277773.7z",
+      "mod_id": 113754,
+      "hash": "sha256-O4mZWuLq0+w+ydwpqtNdZwoznUWuOkWxf5bfd/y3cv0="
+    }
+  },
+  "Call of Valor - Tweaks - Heroes of Yore Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1.4",
+      "file_id": 519133,
+      "file_name": "Call of Valor - Tweaks - Heroes of Yore Patch-113754-1-1-4-1720474764.7z",
+      "mod_id": 113754,
+      "hash": "sha256-d2lHOFpgYWkqWnisyXQBTGqccva3x7wPocVXaxRdUCM="
+    }
+  },
+  "Call of Valor - Tweaks - Alduin's Bane Fix Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1.4",
+      "file_id": 519136,
+      "file_name": "Call of Valor - Tweaks - Alduin's Bane Fix Patch-113754-1-1-4-1720474817.7z",
+      "mod_id": 113754,
+      "hash": "sha256-BoEUPscKw0ZpO5MDOZ+nMpQ4mJ94DuiM9Zco+K/vRns="
+    }
+  },
+  "Call of Valor - Tweaks": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1.6",
+      "file_id": 698783,
+      "file_name": "Call of Valor - Tweaks-113754-1-1-6-1765932621.7z",
+      "mod_id": 113754,
+      "hash": "sha256-4paEv/fqQBSpCK3edi6JgcW4mkXB8UfjfsSHqTAjr3k="
+    },
+    "type": "primary"
+  },
+  "Call of Valor - Tweaks - USSEP Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1.6",
+      "file_id": 698784,
+      "file_name": "Call of Valor - Tweaks - USSEP Patch-113754-1-1-6-1765932657.7z",
+      "mod_id": 113754,
+      "hash": "sha256-+60n69iYbNhPBH8gkAQPN76ERw6G4KlCAk6vBYnuKMc="
+    }
+  }
+}

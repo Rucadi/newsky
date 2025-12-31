@@ -1,0 +1,34 @@
+{
+  "Wraithguard - Dwemer Armor Left Gauntlet ADM patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1",
+      "file_id": 351423,
+      "file_name": "Wraithguard - Dwemer Armor Left Gauntlet replacer by Xtudo - Ancient Dwemer Metal patch-83151-1-1674242394.7z",
+      "mod_id": 83151,
+      "hash": "sha256-PNtgy0e4c8/VtG2Wlgn9n1EQOqUVjrjs6IUhAlB7C94="
+    }
+  },
+  "Wraithguard - Dwemer Armor Left Gauntlet replacer": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.2",
+      "file_id": 634149,
+      "file_name": "Wraithguard - Dwemer Armor Left Gauntlet replacer-83151-1-2-1748951246.7z",
+      "mod_id": 83151,
+      "hash": "sha256-26QIT55lH52q4dh8NnbNkTMmExqHRTdO/6puPVBRdMg="
+    },
+    "type": "primary"
+  },
+  "Wraithguard - Dwemer Armor Left Gauntlet FULL VER": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.2",
+      "file_id": 634163,
+      "file_name": "Wraithguard - Dwemer Armor Left Gauntlet FULL VER-83151-1-3-1748955910.7z",
+      "mod_id": 83151,
+      "hash": "sha256-EPSyziuYTIPIFjHu+JaudwhUhmWHZnx68RFcol+BQgE="
+    },
+    "type": "primary"
+  }
+}

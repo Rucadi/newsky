@@ -1,0 +1,33 @@
+{
+  "Use Those Horses": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 262784,
+      "file_name": "Use Those Horses-63271-1-0-1644364346.rar",
+      "mod_id": 63271,
+      "hash": "sha256-0JuOMsg44Sxvf7rWtjJTAJvfPhPGg5oGnUf84F+MMys="
+    },
+    "type": "primary"
+  },
+  "Use Those Horses - Immersive Weapons patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 263136,
+      "file_name": "Use Those Horses - Immersive Weapons patch-63271-1-0-1644506363.rar",
+      "mod_id": 63271,
+      "hash": "sha256-nmfDemZgP2lItNJEVCcqWGF141+f/ESJbDJ2QpO/DVw="
+    }
+  },
+  "Use Those Horses - Shields": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 266264,
+      "file_name": "Use Those Horses - Shields-63271-1-0-1645593219.rar",
+      "mod_id": 63271,
+      "hash": "sha256-KIBOhwoq5PT4LHxB54n0Gb0gJBPgU8yM0nCDO/7MPRs="
+    }
+  }
+}

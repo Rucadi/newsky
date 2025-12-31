@@ -1,0 +1,23 @@
+{
+  "Assassin of Old - Remastered": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "v1.0",
+      "file_id": 530653,
+      "file_name": "Assassin of Old - Remastered-126561-v1-0-1723413055.rar",
+      "mod_id": 126561,
+      "hash": "sha256-M/OhUMvr1027Fy8m5jVRei4K0DlMef0zZH7Y8BT6bnQ="
+    },
+    "type": "primary"
+  },
+  "Assassin of Old - Praedy's HD Skeleton Mesh": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "v1.0",
+      "file_id": 622510,
+      "file_name": "Assassin of Old - Praedy's HD Skeleton Mesh-126561-v1-0-1746050323.rar",
+      "mod_id": 126561,
+      "hash": "sha256-zRe2PeRVG0eFLjOlgxVHvxKQLg+FH4OZAvIhSQTHUVI="
+    }
+  }
+}

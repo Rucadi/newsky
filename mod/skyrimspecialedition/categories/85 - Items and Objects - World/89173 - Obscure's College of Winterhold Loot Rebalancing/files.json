@@ -1,0 +1,33 @@
+{
+  "OCW Loot Rebalance": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 377975,
+      "file_name": "OCW Loot Rebalance-89173-1-0-1681415110.rar",
+      "mod_id": 89173,
+      "hash": "sha256-p4hXaRaayw79Q8wN/Fvr4xzAbZB930U2A7UULBhUrp8="
+    },
+    "type": "primary"
+  },
+  "OCW Loot Rebalance ICN Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 377976,
+      "file_name": "OCW Loot Rebalance ICN Patch-89173-1-0-1681415172.rar",
+      "mod_id": 89173,
+      "hash": "sha256-yXyIHZit+Oi2ICW0BJCiqTDIABzU5XwNofnUWXo3XXI="
+    }
+  },
+  "OCW Loot Rebalance BCS Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 377977,
+      "file_name": "OCW Loot Rebalance BCS Patch-89173-1-0-1681415253.rar",
+      "mod_id": 89173,
+      "hash": "sha256-OFQ3R1HKSrnyd5P9c4ocxg4wX+GxltAiSOAqAeXm5Cg="
+    }
+  }
+}

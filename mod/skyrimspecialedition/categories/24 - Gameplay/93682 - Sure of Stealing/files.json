@@ -1,0 +1,23 @@
+{
+  "Sure of Stealing - Immersive Interactions Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0.11",
+      "file_id": 409694,
+      "file_name": "Sure of Stealing - Immersive Interactions Patch-93682-1-0-11-1690074906.7z",
+      "mod_id": 93682,
+      "hash": "sha256-nN+KH1+MeLFDeNiBkIS8H3Xego+5094JugAsq6HV2uo="
+    }
+  },
+  "Sure of Stealing": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1.4",
+      "file_id": 498690,
+      "file_name": "Sure of Stealing-93682-1-1-4-1715065026.7z",
+      "mod_id": 93682,
+      "hash": "sha256-OULc8yCPjEjJrG5vLDf21Tn9HuynL7Onk5Wt1J3BCMM="
+    },
+    "type": "primary"
+  }
+}

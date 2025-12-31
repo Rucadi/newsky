@@ -1,0 +1,43 @@
+{
+  "Silent Bone Wolf audio replacer": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0.0",
+      "file_id": 435470,
+      "file_name": "Silent Bone Wolf-72336-1-0-0-1697819136.zip",
+      "mod_id": 72336,
+      "hash": "sha256-obReyGK15eLIkYx7UjYV7c8nuOCzFCBMFk05zRmH3V0="
+    }
+  },
+  "Silent Gladys the Corgi": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0.1",
+      "file_id": 460661,
+      "file_name": "Silent Gladys the corgi-72336-1-0-1-1705068011.zip",
+      "mod_id": 72336,
+      "hash": "sha256-UlU2DtVIK2HbAmK6eZmobM/opyIPX+gwAB+3Q9cfP94="
+    }
+  },
+  "Silent Merlin the Corgi": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0.0",
+      "file_id": 481790,
+      "file_name": "Silent Merlin the Corgi-72336-1-0-0-1710748771.zip",
+      "mod_id": 72336,
+      "hash": "sha256-w3O+QAxNRN6LXVOuqGECsonaW48TucikrV89qo+ndx0="
+    }
+  },
+  "Conditional Dog Barking (OAR)": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.2.1",
+      "file_id": 548959,
+      "file_name": "Conditional Dog Barking (OAR)-72336-1-2-1-1728051946.zip",
+      "mod_id": 72336,
+      "hash": "sha256-ocSU96cvd4MBlN+e7/ISczafCxw/ze/pwkHcFbRnLTg="
+    },
+    "type": "primary"
+  }
+}

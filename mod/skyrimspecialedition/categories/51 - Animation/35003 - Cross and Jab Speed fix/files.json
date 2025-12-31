@@ -1,0 +1,23 @@
+{
+  "Cross_and_Jab_speedfix_SSE": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1",
+      "file_id": 136380,
+      "file_name": "Cross_and_Jab_speedfix_SSE-35003-1-1-1587892303.rar",
+      "mod_id": 35003,
+      "hash": "sha256-8sg5FX5o9SpwImfRC/VuUie7zetv0TvITa71eGGBgbU="
+    },
+    "type": "primary"
+  },
+  "Bodyhook_speedfix_SSE": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1",
+      "file_id": 136381,
+      "file_name": "Bodyhook_speedfix_SSE-35003-1-1-1587892346.rar",
+      "mod_id": 35003,
+      "hash": "sha256-aIQepfnB1hyQc+fMcBPjnSYIp3vpPmnK+j+mL7kFG0Y="
+    }
+  }
+}

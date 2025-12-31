@@ -1,0 +1,23 @@
+{
+  "Hammet's Pack 2 - Unique SE by Xtudo - Rings": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.2",
+      "file_id": 435211,
+      "file_name": "Hammet's Pack 2 - Unique SE by Xtudo - Rings-102880-1-2-1697721032.7z",
+      "mod_id": 102880,
+      "hash": "sha256-gzA4elHTsKNCKJru919+y1fXQ/OIRPlCKsLQQd1XnAE="
+    }
+  },
+  "Hammet's Pack 2 - Unique Rewards SE by Xtudo": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.5",
+      "file_id": 544688,
+      "file_name": "Hammet's Pack 2 - Unique Rewards SE by Xtudo-102880-1-6-1726953824.7z",
+      "mod_id": 102880,
+      "hash": "sha256-6PBYZ1S0pBlM7XbKIEAyvrmS6ZmeAFcdvKS4WWM7oYI="
+    },
+    "type": "primary"
+  }
+}

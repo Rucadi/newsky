@@ -1,0 +1,33 @@
+{
+  "CC Pets Addon SSW - Echatere Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1.1",
+      "file_id": 488392,
+      "file_name": "CC Pets Addon SSW - Echatere Patch-83201-1-1-1-1712511543.7z",
+      "mod_id": 83201,
+      "hash": "sha256-+KPTilXL7/JX+Q6m6bVBmh7HsH5P6LTAx/KIFhWbKKA="
+    }
+  },
+  "CC Pets Addon SSW - Block_Poison Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1.2",
+      "file_id": 536414,
+      "file_name": "CC Pets Addon SSW - Block_Poison Patch-83201-1-1-2-1724932080.7z",
+      "mod_id": 83201,
+      "hash": "sha256-ALWLe0PRD5NkcuNvBgm07ml5bcyW8OzoUvKs7MBaz/4="
+    }
+  },
+  "CC Pets Addon - Spiders Spin Webs": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1.3",
+      "file_id": 698778,
+      "file_name": "CC Pets Addon - Spiders Spin Webs-83201-1-1-3-1765931256.7z",
+      "mod_id": 83201,
+      "hash": "sha256-/sdREsIV2BGMLNPFKYPyWSJznIQzfvuGhC1bqzG4HWI="
+    },
+    "type": "primary"
+  }
+}

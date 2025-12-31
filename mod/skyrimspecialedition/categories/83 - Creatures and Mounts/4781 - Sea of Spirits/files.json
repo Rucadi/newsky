@@ -1,0 +1,24 @@
+{
+  "Sea of Spirits v1.2": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "v1.2",
+      "file_id": 12174,
+      "file_name": "Sea of Spirits v1.2-4781-v1-2.zip",
+      "mod_id": 4781,
+      "hash": "sha256-Zw4TZzcii81+WaND+KQ+nuuSe2S9fRi1C+znZtIROt4="
+    },
+    "type": "primary"
+  },
+  "Sea of Spirits 1.2v BSA": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.2",
+      "file_id": 33245,
+      "file_name": "Sea of Spirits 1.2v Bsa-4781-1-2.zip",
+      "mod_id": 4781,
+      "hash": "sha256-TjWdHzB/3/dmHrG6wDuoiVa0qAeK7MxRNs3VpLufqzU="
+    },
+    "type": "primary"
+  }
+}

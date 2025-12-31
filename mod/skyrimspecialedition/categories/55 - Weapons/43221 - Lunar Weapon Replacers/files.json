@@ -1,0 +1,24 @@
+{
+  "Lunar Weapons Replacer": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.3.2",
+      "file_id": 543647,
+      "file_name": "Lunar Weapons Replacer-43221-1-3-2-1726689611.7z",
+      "mod_id": 43221,
+      "hash": "sha256-FqmYpsdLwSaWpYejIU1TovyUXF608KEWE2umjBx6sqk="
+    },
+    "type": "primary"
+  },
+  "Lunar Weapons Standalone": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.3.2",
+      "file_id": 543648,
+      "file_name": "Lunar Weapons Standalone-43221-1-3-2-1726689648.7z",
+      "mod_id": 43221,
+      "hash": "sha256-PwogBUGL8Vgc3vySepI9b9tPhLMciJo6rX/eQeoyvy4="
+    },
+    "type": "primary"
+  }
+}

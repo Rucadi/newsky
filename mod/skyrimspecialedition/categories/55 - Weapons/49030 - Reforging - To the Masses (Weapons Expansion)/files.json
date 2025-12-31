@@ -1,0 +1,33 @@
+{
+  "Reforging - To the Masses": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "2.1",
+      "file_id": 200073,
+      "file_name": "Reforging - To the Masses-49030-2-1-1619349008.7z",
+      "mod_id": 49030,
+      "hash": "sha256-Q7SYHVo+cF2gpEdGH/BZswCAsYR6oE2iiuniJZspjbg="
+    },
+    "type": "primary"
+  },
+  "Animated Armoury Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "AApatch1.1",
+      "file_id": 201517,
+      "file_name": "Animated Armoury Patch-49030-AApatch1-1-1620055870.7z",
+      "mod_id": 49030,
+      "hash": "sha256-qLOgbgpKKiLSWrBlXOkePIdGVPaW6az0Uh941/hbMks="
+    }
+  },
+  "Balance Tweaks for Open World Loot": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "OWLpatch1.2",
+      "file_id": 206158,
+      "file_name": "Balance Tweaks for Open World Loot-49030-OWLpatch1-2-1622275665.7z",
+      "mod_id": 49030,
+      "hash": "sha256-9lMdHR3An/Uo0SqRkg+BrzvqM/+CDR291p71HwKVYcs="
+    }
+  }
+}

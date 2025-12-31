@@ -1,0 +1,64 @@
+{
+  "More werewolf growling - SE": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1",
+      "file_id": 79557,
+      "file_name": "More werewolf growling-22878-1-1548409937.zip",
+      "mod_id": 22878,
+      "hash": "sha256-310d/I9fPcMhAActUZbnAP+nF28A7dhtw6zfnlEodqc="
+    }
+  },
+  "Moonlight Tales Duplicate Heads Fix SE": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1",
+      "file_id": 79561,
+      "file_name": "Moonlight Tales Duplicate Heads Fix-22878-1-1548414101.zip",
+      "mod_id": 22878,
+      "hash": "sha256-Cy5YlEPjMu6wCIX5UQWz28EzhGwWOo7ngmVxDzp50vQ="
+    }
+  },
+  "MFA Tail-less werewolves SE": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "2.5",
+      "file_id": 87849,
+      "file_name": "MFA Tail-less werewolves SE-22878-2-5-1554803073.zip",
+      "mod_id": 22878,
+      "hash": "sha256-RlPYz1NEj7UTs6CpE3VizpeSTbmQNjrVTQYqhOSY9xM="
+    }
+  },
+  "Werewolf head pack - SE": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "2.8",
+      "file_id": 88694,
+      "file_name": "Werewolf head pack - SE-22878-2-8-1555462489.zip",
+      "mod_id": 22878,
+      "hash": "sha256-qkrtZ8N5PkFPyC3Z9fQbI58rYoRQCo5Aafg+NypDuiM="
+    }
+  },
+  "Monster Lipsync SE - DWC": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "2.8b",
+      "file_id": 88698,
+      "file_name": "Monster Lipsync SE - DWC-22878-2-8b-1555466897.zip",
+      "mod_id": 22878,
+      "hash": "sha256-fRtbLMkIvEH0aGmas/1iQ4dMOSvZy7/3b3tyZ4EG1oM="
+    },
+    "type": "primary"
+  },
+  "Monster Lipsync SE - Vanilla": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "2.8b",
+      "file_id": 88699,
+      "file_name": "Monster Lipsync SE - Vanilla-22878-2-8b-1555466953.zip",
+      "mod_id": 22878,
+      "hash": "sha256-pPE/CHrEpx3vo+s97OQq7ttME2LK8llQdCXmfSCCDCk="
+    },
+    "type": "primary"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "Lux Orbis - Orc Strongholds - Dushnikh Yal Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "2.6Lux",
+      "file_id": 601444,
+      "file_name": "Lux Orbis - Orc Strongholds - Dushnikh Yal Patch-92485-2-6Lux-1741027125.7z",
+      "mod_id": 92485,
+      "hash": "sha256-0xtbfTpXmmg5Dr7oi5cHnorQYGMz9YqGDuFNwMxvJKI="
+    }
+  },
+  "Orc Strongholds - Dushnikh Yal": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "2.6.1",
+      "file_id": 601461,
+      "file_name": "Orc Strongholds - Dushnikh Yal-92485-2-6-1-1741030246.7z",
+      "mod_id": 92485,
+      "hash": "sha256-3OuRnmM8dYsnG0TpPR/MYobuPOiMpkXkxLiyLONGYjo="
+    },
+    "type": "primary"
+  }
+}

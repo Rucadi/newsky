@@ -1,0 +1,23 @@
+{
+  "Detailed NPCs - Blanket Scarves for NPCs (SPID)": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 265530,
+      "file_name": "Detailed NPCs - Blanket Scarves for NPCs (SPID)-63951-1-0-1645320343.7z",
+      "mod_id": 63951,
+      "hash": "sha256-2WA1BFHjiAVx2Xt8nHKXaNUwblj2f1TTEMbQVp0RMU4="
+    }
+  },
+  "Detailed NPCs - Blanket Scarves for NPCs (SPID 6.3.0)": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "2.0",
+      "file_id": 333084,
+      "file_name": "Detailed NPCs - Blanket Scarves for NPCs (SPID 6.1.0)-63951-1-0-1668903298.7z",
+      "mod_id": 63951,
+      "hash": "sha256-JhlV2U+UgiQ9jTSBe7ubYFSbUQ7p39WJDHXwoIX0TjA="
+    },
+    "type": "primary"
+  }
+}

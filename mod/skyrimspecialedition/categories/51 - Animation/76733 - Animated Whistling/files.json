@@ -1,0 +1,23 @@
+{
+  "Animated Whistling FNIS Nemesis Translation FOMOD": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1",
+      "file_id": 323486,
+      "file_name": "Animated Whistling FNIS Nemesis Translation FOMOD-76733-1-1-1665583435.zip",
+      "mod_id": 76733,
+      "hash": "sha256-1P3dsfyRCCU6rTtEz3Z1V5FYxVPAc6da+ZjpcVXRstE="
+    }
+  },
+  "Animated Whistling FNIS Nemesis": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.11",
+      "file_id": 376540,
+      "file_name": "Animated Whistling FNIS Nemesis-76733-1-11-1681012990.zip",
+      "mod_id": 76733,
+      "hash": "sha256-0/EtFHiI/R4DXrSWbNJONyaS0LJellNK/V79hT3J8hY="
+    },
+    "type": "primary"
+  }
+}

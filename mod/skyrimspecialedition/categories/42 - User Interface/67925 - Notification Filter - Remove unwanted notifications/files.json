@@ -1,0 +1,13 @@
+{
+  "Notification Filter": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.2.1",
+      "file_id": 326543,
+      "file_name": "Notification Filter-67925-1-2-1-1666720619.zip",
+      "mod_id": 67925,
+      "hash": "sha256-WTdZbaNbYSHoKzqzn/WrJyVDFoQeVgYYNk8c4wxJV1c="
+    },
+    "type": "primary"
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "Undead FX - SPID Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "2.2",
+      "file_id": 424301,
+      "file_name": "Undead FX - SPID Patch-71584-2-2-1694204401.zip",
+      "mod_id": 71584,
+      "hash": "sha256-Durvd6a2QrQS3honDjFcTPr/Ywm4k+GbhTiM71TBtFw="
+    },
+    "type": "primary"
+  },
+  "Undead FX - SPID Patch ESPFE": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "2.2",
+      "file_id": 424302,
+      "file_name": "Undead FX - SPID Patch ESPFE-71584-2-2-1694204422.zip",
+      "mod_id": 71584,
+      "hash": "sha256-xysVqIqWYx4O2dnzAPpFVW2o/zSFg1FYP57HOO2XND4="
+    },
+    "type": "primary"
+  }
+}

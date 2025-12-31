@@ -1,0 +1,35 @@
+{
+  "Vortex FOMOD Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1.0",
+      "file_id": 150704,
+      "file_name": "Vortex FOMOD Patch-36444-1-1-0-1594918990.zip",
+      "mod_id": 36444,
+      "hash": "sha256-BZ44aaw9gJdIqPvAOoKYpzhbRU+iLDCXue+ZEyt45Ng="
+    },
+    "type": "primary"
+  },
+  "Refined Auri - ESP ONLY": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.2.1",
+      "file_id": 568430,
+      "file_name": "Refined Auri - ESP ONLY-36444-1-2-1-1733181326.zip",
+      "mod_id": 36444,
+      "hash": "sha256-yvNqpDBwBADqo+lomTzMtbHHttxL6v7aGpWqIr7K5ng="
+    },
+    "type": "primary"
+  },
+  "Refined Auri SSE - Latest Update": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.2.1",
+      "file_id": 568442,
+      "file_name": "Refined Auri SSE - Latest Update-36444-1-2-1-1733186621.zip",
+      "mod_id": 36444,
+      "hash": "sha256-P+rGOWe1dxV1/LJZp++H8JMW+SgNL/jFiDGtE8Pvkf8="
+    },
+    "type": "primary"
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "ElSopa - Northern Roads Resculpted 2k": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1",
+      "file_id": 354433,
+      "file_name": "ElSopa - Potions Redone 2k-83792-1-1-1675036962.7z",
+      "mod_id": 83792,
+      "hash": "sha256-8dQVA3PvnLxXTDkk9oSkT5Dexxj8Xx4S268JCHcBBPI="
+    },
+    "type": "primary"
+  },
+  "ElSopa - Northern Roads Resculpted 4k-2k": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1",
+      "file_id": 354434,
+      "file_name": "ElSopa - Northern Roads Resculpted 4k-2k-83792-1-1-1675037140.7z",
+      "mod_id": 83792,
+      "hash": "sha256-T3cG0JcRUf9eJWJTToGspw7BYDD9QfjVRvw6xZkxDD8="
+    },
+    "type": "primary"
+  }
+}

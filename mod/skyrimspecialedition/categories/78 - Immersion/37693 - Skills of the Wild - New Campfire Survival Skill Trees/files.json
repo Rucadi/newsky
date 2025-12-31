@@ -1,0 +1,53 @@
+{
+  "Toggle Compass Hotkey - Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "2.03",
+      "file_id": 421157,
+      "file_name": "Toggle Compass Hotkey - Patch-37693-2-03-1693149056.zip",
+      "mod_id": 37693,
+      "hash": "sha256-3fscqjK1yYzT5bozZbkD6p3WYKGLTG6zHDeFkwLmjLc="
+    }
+  },
+  "RE-enable Map GPS (Visible Map Cursor)": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "2.04",
+      "file_id": 433535,
+      "file_name": "RE-enable Map GPS (Visible Map Cursor)-37693-2-04-1697188475.rar",
+      "mod_id": 37693,
+      "hash": "sha256-b9S6No+bh04rf9yKDOadcXNLR1woJH1hSiZs/7sjyFE="
+    }
+  },
+  "'Menagerie Creation Club Pet Overhaul' Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "2.10",
+      "file_id": 460343,
+      "file_name": "'Menagerie Creation Club Pet Overhaul' Patch-37693-2-10-1704998971.rar",
+      "mod_id": 37693,
+      "hash": "sha256-JL8nNfxp5rb+ywF2WimSlYsD1GdMIf+psMB7NMw5x0w="
+    }
+  },
+  "SOTW Inventory Injector Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "2.12",
+      "file_id": 540503,
+      "file_name": "SOTW Inventory Injector Patch-37693-2-12-1725909487.zip",
+      "mod_id": 37693,
+      "hash": "sha256-enZ2gQ20b9JoMDnWhjp0ouLDaTM1nZCuXrjNU4TrDoM="
+    }
+  },
+  "Skills of the Wild": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "2.17",
+      "file_id": 679104,
+      "file_name": "Skills of the Wild-37693-2-17-1761138798.rar",
+      "mod_id": 37693,
+      "hash": "sha256-J0D/lzyYE91qkxvf32hNLELgM2YZdBYSjQiaYVBKM5I="
+    },
+    "type": "primary"
+  }
+}

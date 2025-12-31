@@ -1,0 +1,23 @@
+{
+  "ISL - DESTified Main File": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.4.5",
+      "file_id": 325906,
+      "file_name": "ISL - DESTified Main File-45514-1-4-5-1666488099.7z",
+      "mod_id": 45514,
+      "hash": "sha256-t/Ztl9+1TFrFUNvJRQMckFb2NmUCp7zWBgj4uk3F6a0="
+    },
+    "type": "primary"
+  },
+  "ISL - DESTified 2.0 RC3": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "2.0.0",
+      "file_id": 359162,
+      "file_name": "ISL - DESTified 2.0 RC3-45514-2-0-0-1676227813.7z",
+      "mod_id": 45514,
+      "hash": "sha256-MsseDcIQqhBs31QjRSAuS5mnCUpUiPjtBe/aydtAXI4="
+    }
+  }
+}

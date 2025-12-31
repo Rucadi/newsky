@@ -1,0 +1,33 @@
+{
+  "Elegant Candlelight (FOMOD)": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.4",
+      "file_id": 281674,
+      "file_name": "Elegant Candlelight (FOMOD)-64435-1-4-1651763476.7z",
+      "mod_id": 64435,
+      "hash": "sha256-ycY4MK9bvx5qY2uo/BfZEk44cAbU7MDKo1tfkmNvbII="
+    },
+    "type": "primary"
+  },
+  "Elegant Candlelight - ODIN - BURP": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0.1",
+      "file_id": 620260,
+      "file_name": "Elegant Candlelight - ODIN - BURP-64435-1-0-1-1745353026.7z",
+      "mod_id": 64435,
+      "hash": "sha256-R6nH/1QaGPPk6FNWFjVa7cuNXAiPnt/f0NJd1KtOr34="
+    }
+  },
+  "Elegant Candlelight - Mysticism": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0.1",
+      "file_id": 620262,
+      "file_name": "Elegant Candlelight - Mysticism-64435-1-0-1-1745353115.7z",
+      "mod_id": 64435,
+      "hash": "sha256-jK7olKX5Nn/XCM1Ni+GdS5eA4CoAOcbxDpXySd95a8Y="
+    }
+  }
+}

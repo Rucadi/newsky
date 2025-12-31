@@ -1,0 +1,33 @@
+{
+  "Hammer and Whetstone - Harsher Penalty": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 381227,
+      "file_name": "Hammer and Whetstone - Harsher Penalty-89808-1-0-1682257703.zip",
+      "mod_id": 89808,
+      "hash": "sha256-1Bpzg7ivWcFXCO0O5i4rZdN2b9Pzws8vbryu1a/vWuQ="
+    }
+  },
+  "Hammer and Whetstone - No Animations": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 381229,
+      "file_name": "Hammer and Whetstone - No Animations-89808-1-0-1682257761.zip",
+      "mod_id": 89808,
+      "hash": "sha256-ZSJ7ibv2sMlEx7IJrrypxaOM2GB39NXnxZ2A/a9TEtw="
+    }
+  },
+  "Hammer and Whetstone": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1",
+      "file_id": 507671,
+      "file_name": "Hammer and Whetstone-89808-1-1-1717355732.zip",
+      "mod_id": 89808,
+      "hash": "sha256-mI5dQaXnmWUk0rkrSDi2ck3AeQoZWe/BXKzwocyNov0="
+    },
+    "type": "primary"
+  }
+}

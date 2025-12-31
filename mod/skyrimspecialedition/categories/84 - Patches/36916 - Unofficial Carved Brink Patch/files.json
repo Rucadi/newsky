@@ -1,0 +1,23 @@
+{
+  "Unofficial Carved Brink Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.3",
+      "file_id": 144565,
+      "file_name": "Unofficial Carved Brink Patch-36916-1-3-1591653183.zip",
+      "mod_id": 36916,
+      "hash": "sha256-GdW05J/ayxGwkU2K0ClSYGFI5FjHGEdFfKz0tkM0ZUo="
+    },
+    "type": "primary"
+  },
+  "Unofficial Carved Brink Patch Harder Bosses Version": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.4",
+      "file_id": 233700,
+      "file_name": "Unofficial Carved Brink Patch Harder Bosses Version-36916-1-4-1633794226.zip",
+      "mod_id": 36916,
+      "hash": "sha256-VIF9r2+TwUGVIaH89fCHV89CKxTTLWdpyA57MmRAyGk="
+    }
+  }
+}

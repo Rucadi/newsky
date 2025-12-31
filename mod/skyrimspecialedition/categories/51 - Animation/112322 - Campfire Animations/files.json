@@ -1,0 +1,23 @@
+{
+  "Campfire Animations - Camping CC": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.4",
+      "file_id": 591078,
+      "file_name": "Campfire Animations - Camping CC-112322-1-4-1738695904.zip",
+      "mod_id": 112322,
+      "hash": "sha256-JNFIJ4sg1iHApxJUZHmmFoF4zSNlB/bvHwUxQuSWVPE="
+    }
+  },
+  "Campfire Animations": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.5.1",
+      "file_id": 641108,
+      "file_name": "Campfire Animations-112322-1-5-1-1750709364.zip",
+      "mod_id": 112322,
+      "hash": "sha256-GJOaq0CHADRzDs4TvyPrHUVewjwm7eJUCwYWD6Hq5Jo="
+    },
+    "type": "primary"
+  }
+}

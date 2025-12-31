@@ -1,0 +1,43 @@
+{
+  "Darker Cathedral Grass": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.2",
+      "file_id": 271801,
+      "file_name": "Darker Cathedral Grass-63881-1-2-1647958591.7z",
+      "mod_id": 63881,
+      "hash": "sha256-UOb7QXTplGSaEzq5/hGlKHL7jvdRxy4Wv0sWKjakHCU="
+    },
+    "type": "primary"
+  },
+  "2k Textures Only": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.2",
+      "file_id": 271802,
+      "file_name": "2k Textures Only-63881-1-2-1647959084.7z",
+      "mod_id": 63881,
+      "hash": "sha256-u4R/d7tAQQLXtj4jFD2IrwguvEgg2TRUOMy5iK/n3YU="
+    }
+  },
+  "1k Textures Only": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.2",
+      "file_id": 271803,
+      "file_name": "1k Textures Only-63881-1-2-1647959483.7z",
+      "mod_id": 63881,
+      "hash": "sha256-zvRFAldX44G1DIiggMuQdv64euzB597jbbUMpPhO1/0="
+    }
+  },
+  "512 Textures Only": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.2",
+      "file_id": 271804,
+      "file_name": "512 Textures Only-63881-1-2-1647959749.7z",
+      "mod_id": 63881,
+      "hash": "sha256-LfdM6VONsmUhziousr8QoLpU+YrMFqTqrnTks9Qz5F8="
+    }
+  }
+}

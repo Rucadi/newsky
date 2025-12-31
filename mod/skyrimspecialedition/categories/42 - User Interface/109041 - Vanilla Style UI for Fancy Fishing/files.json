@@ -1,0 +1,33 @@
+{
+  "Smaller Fish": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0.0",
+      "file_id": 460377,
+      "file_name": "Smaller Fish-109041-1-0-0-1705008594.zip",
+      "mod_id": 109041,
+      "hash": "sha256-1PoUX1kiBP5YlmFj5eVmwgBuCWz1wl1BGbwnWg3GIt8="
+    }
+  },
+  "Bigger Fish": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0.0",
+      "file_id": 460381,
+      "file_name": "Bigger Fish-109041-1-0-0-1705009006.zip",
+      "mod_id": 109041,
+      "hash": "sha256-ED7Z7J9uxlPqnFcOV1BeQUDfhtmUI1Bi6/3NhYNCN7A="
+    }
+  },
+  "Vanilla Style UI for Fancy Fishing": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0.1",
+      "file_id": 460631,
+      "file_name": "Vanilla Style UI for Fancy Fishing-109041-1-0-1-1705064300.zip",
+      "mod_id": 109041,
+      "hash": "sha256-8V0F8mSzliL0aOt8UgRTxPHA3zkaU23Flx2UqgXC9bg="
+    },
+    "type": "primary"
+  }
+}

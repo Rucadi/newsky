@@ -1,0 +1,23 @@
+{
+  "Ring of Disrobing Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 263034,
+      "file_name": "Ring of Disrobing Patch-54573-1-0-1644468459.zip",
+      "mod_id": 54573,
+      "hash": "sha256-85vHa5OT2Rd5YgfiItQ1oX2gvauVDjSwEH07XY47PxU="
+    }
+  },
+  "Tempered Racial Textures": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1",
+      "file_id": 301767,
+      "file_name": "Tempered Racial Textures-54573-1-1-1658669215.zip",
+      "mod_id": 54573,
+      "hash": "sha256-2FYXAhulXS6gWg0C0CKDho3ul7lG3zfADZgshVnIl7Q="
+    },
+    "type": "primary"
+  }
+}

@@ -1,0 +1,63 @@
+{
+  "Poisonous Bear Traps": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0.0",
+      "file_id": 509561,
+      "file_name": "Poisonous Bear Traps-120964-1-0-0-1717840374.zip",
+      "mod_id": 120964,
+      "hash": "sha256-bQNDAXxCLRZccuiyDJcpjUCvXzTWi5dx3525svTausU="
+    },
+    "type": "primary"
+  },
+  "Poisonous Bear Traps - Ordinator Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0.0",
+      "file_id": 509563,
+      "file_name": "Poisonous Bear Traps - Ordinator Patch-120964-1-0-0-1717840526.zip",
+      "mod_id": 120964,
+      "hash": "sha256-jVwavLuAaMo+yvfQLngUze9rEkWbN2lIcc7ZCDGuvfU="
+    }
+  },
+  "Poisonous Bear Traps - Huntsman Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0.0",
+      "file_id": 509828,
+      "file_name": "Poisonous Bear Traps - Huntsman Patch-120964-1-0-0-1717914016.zip",
+      "mod_id": 120964,
+      "hash": "sha256-bra5Olzp886KiCsUkB1t9bMa0xYMZ93ousOEinFl5PM="
+    }
+  },
+  "Poisonous Bear Traps - Basic Camp Gear Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0.0",
+      "file_id": 510140,
+      "file_name": "Poisonous Bear Traps - Basic Camp Gear Patch-120964-1-0-0-1718000915.zip",
+      "mod_id": 120964,
+      "hash": "sha256-tdM40CsgT//nHeg9Tn/NlpDPWf0ToSVQu0jU7qsF8MU="
+    }
+  },
+  "Poisonous Bear Traps - Tinker's Forge Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0.0",
+      "file_id": 511125,
+      "file_name": "Poisonous Bear Traps - Tinker's Forge Patch-120964-1-0-0-1718272883.zip",
+      "mod_id": 120964,
+      "hash": "sha256-SMZjeaVxw6IQ4M3xWV7NtcRr3OqfxDaOB85+9JGK3I0="
+    }
+  },
+  "Immersive Interactions - Disabled for Bear Traps": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0.0",
+      "file_id": 626684,
+      "file_name": "Immersive Interactions - Disabled for Bear Traps-120964-1-0-0-1747128657.zip",
+      "mod_id": 120964,
+      "hash": "sha256-5jgrT9X6eotQJIGIs6iDQc273pMZ3VseYeRDO8737iA="
+    }
+  }
+}

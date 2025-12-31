@@ -1,0 +1,43 @@
+{
+  "Family-man Sinding SE": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.2.1",
+      "file_id": 574788,
+      "file_name": "Family-man Sinding SE-33517-1-2-1-1734834505.zip",
+      "mod_id": 33517,
+      "hash": "sha256-3MVlOLKomG6QZPaKY7XRwlZ36pm/yAL913Cfta8dzxM="
+    }
+  },
+  "Authentic Sinding Follower SE FOMOD": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "7.2.3",
+      "file_id": 578134,
+      "file_name": "Authentic Sinding Follower SE FOMOD-33517-7-2-3-1735675919.zip",
+      "mod_id": 33517,
+      "hash": "sha256-5bkkclPa27nDzok804td8hZxJ1Dgut5Fzm41gJCBdjE="
+    },
+    "type": "primary"
+  },
+  "Authentic Sinding CC Pets Collar": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "7.2.3",
+      "file_id": 581836,
+      "file_name": "Authentic Sinding CC Pets Collar-33517-7-2-3-1736567949.zip",
+      "mod_id": 33517,
+      "hash": "sha256-uEXn53/YVuBcriz9kRw4PmSnhqRjdTvfXs6aLVaaVvM="
+    }
+  },
+  "Authentic Sinding Fluffy Pack FIXED": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "7.2.1",
+      "file_id": 588150,
+      "file_name": "Authentic Sinding Fluffy Pack FIXED-33517-7-2-1-1738011288.zip",
+      "mod_id": 33517,
+      "hash": "sha256-xFx2NQkfvhwONCdALJlemBKUsNlCZzQNK9peEuLO1dw="
+    }
+  }
+}

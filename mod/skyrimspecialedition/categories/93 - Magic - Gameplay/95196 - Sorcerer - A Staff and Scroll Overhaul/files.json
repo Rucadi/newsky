@@ -1,0 +1,43 @@
+{
+  "Sorcerer - A Staff and Scroll Overhaul": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0.0",
+      "file_id": 404739,
+      "file_name": "Sorcerer - A Staff and Scroll Overhaul-95196-1-0-0-1688744197.7z",
+      "mod_id": 95196,
+      "hash": "sha256-EIDfkiq6W7HUUj+AyENUju3TKrJUmnkrvZRm4VgDLNM="
+    },
+    "type": "primary"
+  },
+  "Sorcerer - GIST Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0.0",
+      "file_id": 404740,
+      "file_name": "Sorcerer - GIST Patch-95196-1-0-0-1688744292.7z",
+      "mod_id": 95196,
+      "hash": "sha256-GTfreSgk6Qjnob5b5dCXkIsGoQb+wKvdvroGf23WHHY="
+    }
+  },
+  "Sorcerer - YASTM Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0.0",
+      "file_id": 404741,
+      "file_name": "Sorcerer - YASTM Patch-95196-1-0-0-1688744326.7z",
+      "mod_id": 95196,
+      "hash": "sha256-upTrMPwgCNZOcBA+VmXM/RvrYIzrcUTrrIRTkitRWTY="
+    }
+  },
+  "Sorcerers Eat Books": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0.0",
+      "file_id": 404742,
+      "file_name": "Sorcerers Eat Books-95196-1-0-0-1688744415.7z",
+      "mod_id": 95196,
+      "hash": "sha256-LR8nbZvBwcryrsRFRxWLQQhjD+JZfZI8V+BH6MXX6Xg="
+    }
+  }
+}

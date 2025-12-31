@@ -1,0 +1,45 @@
+{
+  "RUSTIC ANIMATED POTIONS and POISONS 1K": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1",
+      "file_id": 2979,
+      "file_name": "RUSTIC ANIMATED POTIONS and POISONS 1K-2276-1-1.rar",
+      "mod_id": 2276,
+      "hash": "sha256-My4fRwPrFIce4Ql1mHhyR257EFr7mE9nj6oxwBn10Bw="
+    },
+    "type": "primary"
+  },
+  "RUSTIC ANIMATED POTIONS and POISONS 2K": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1",
+      "file_id": 2981,
+      "file_name": "RUSTIC ANIMATED POTIONS and POISONS 2K-2276-1-1.rar",
+      "mod_id": 2276,
+      "hash": "sha256-RyBJsBN4+S/wWAXiP5LZCl4759zGH8lAjwtGsqXog2M="
+    },
+    "type": "primary"
+  },
+  "RUSTIC ANIMATED POTIONS and POISONS 2K-1K": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1",
+      "file_id": 2984,
+      "file_name": "RUSTIC ANIMATED POTIONS and POISONS 2K-1K-2276-1-1.rar",
+      "mod_id": 2276,
+      "hash": "sha256-3n06OFsgU8YZBRAq29+lYOefouLLoiO1CXdjSdGTFq4="
+    },
+    "type": "primary"
+  },
+  "Optional glow files": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1",
+      "file_id": 2986,
+      "file_name": "Optional glow files-2276-.rar",
+      "mod_id": 2276,
+      "hash": "sha256-bkIKrYZC+g4yMn2SOtWnWJKpo1unRARhatq7NH1uNjk="
+    }
+  }
+}

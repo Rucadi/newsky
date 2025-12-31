@@ -1,0 +1,54 @@
+{
+  "Wintersun patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 331838,
+      "file_name": "Wintersun patch-78772-1-0-1668445182.zip",
+      "mod_id": 78772,
+      "hash": "sha256-pzbov2OxZGDqntJRVBxhcGyqgTddjRIPM13bQRt8Qgk="
+    }
+  },
+  "Bat file": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 331903,
+      "file_name": "Bat file-78772-1-0-1668461137.zip",
+      "mod_id": 78772,
+      "hash": "sha256-LvqXomEPx00buUhsIu/j/gJ9Q7j3GM8DsjmhivOxfdo="
+    }
+  },
+  "Daedric Shrines - All in One  - 4K": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.02",
+      "file_id": 536018,
+      "file_name": "Daedric Shrines - All in One  - 4K-78772-1-02-1724805197.zip",
+      "mod_id": 78772,
+      "hash": "sha256-Og9SaXIL71tAicKEKXjPASUoYALxmFVvTFSyzJph92o="
+    },
+    "type": "primary"
+  },
+  "Daedric Shrines - All in One  - 2K": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.02",
+      "file_id": 536019,
+      "file_name": "Daedric Shrines - All in One  - 2K-78772-1-02-1724805261.zip",
+      "mod_id": 78772,
+      "hash": "sha256-jCowieyOjKvh1ZLbwBMU61OhiHulwtuTtPFGBjzcBCo="
+    },
+    "type": "primary"
+  },
+  "Daedric Shrines - No map markers (ESP)": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.02",
+      "file_id": 536023,
+      "file_name": "Daedric Shrines - No map markers (ESP)-78772-1-02-1724805708.zip",
+      "mod_id": 78772,
+      "hash": "sha256-tMdp9LodIjQC6DjrnsGB5xZVyB+EVf/nO/T6z79l3Wo="
+    }
+  }
+}

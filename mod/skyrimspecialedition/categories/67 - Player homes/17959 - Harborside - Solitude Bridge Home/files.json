@@ -1,0 +1,23 @@
+{
+  "Solitude Expansion Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.01",
+      "file_id": 57154,
+      "file_name": "Solitude Expansion Patch-17959-1-0.zip",
+      "mod_id": 17959,
+      "hash": "sha256-yqDg/gtKwg90akQERV9X7fK0A3oprRdmV6qpzNw2mxI="
+    }
+  },
+  "Harborside - Special Edition": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1",
+      "file_id": 58093,
+      "file_name": "Harborside - Special Edition-17959-1-1.zip",
+      "mod_id": 17959,
+      "hash": "sha256-l5oYz9IYBfW49jvkPEqYZ1UigSELCUhC2vU9TEL/fjs="
+    },
+    "type": "primary"
+  }
+}

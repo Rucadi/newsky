@@ -1,0 +1,34 @@
+{
+  "U Can't Touch Fish (Immersive Interactions)": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0.0",
+      "file_id": 410085,
+      "file_name": "U Can't Touch Fish (Immersive Interactions)-94605-1-0-0-1690172014.zip",
+      "mod_id": 94605,
+      "hash": "sha256-pu2a+Wh40618daV7AGMaJPtK9GLCREIAgDNpMzXTF3E="
+    }
+  },
+  "U Can't Touch Fish (Basic Edition)": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1.0",
+      "file_id": 534706,
+      "file_name": "U Can't Touch Fish (Basic Edition)-94605-1-1-0-1724480326.zip",
+      "mod_id": 94605,
+      "hash": "sha256-RqP8R8YNBz2WPNIXHLgLSD1KZF1IKOxkFG3ZbFewNaw="
+    },
+    "type": "primary"
+  },
+  "U Can't Touch Fish (Chance Edition)": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1.0",
+      "file_id": 534707,
+      "file_name": "U Can't Touch Fish (Chance Edition)-94605-1-1-0-1724480428.zip",
+      "mod_id": 94605,
+      "hash": "sha256-nlkcssHAvWlUpPPeE+JPbJnXlm9bWjDCtwGQSZlysYw="
+    },
+    "type": "primary"
+  }
+}

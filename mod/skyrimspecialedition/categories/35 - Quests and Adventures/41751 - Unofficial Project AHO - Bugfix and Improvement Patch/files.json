@@ -1,0 +1,23 @@
+{
+  "HD Dwemer Metal Textures": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 170171,
+      "file_name": "HD Dwemer Metal Textures-41751-1-0-1605438442.rar",
+      "mod_id": 41751,
+      "hash": "sha256-TnsmKR/bVrGE9ptIlXkHP4tqY+mp2MX3wbFcZGNckac="
+    }
+  },
+  "Project AHO Bugfix and Improvement Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.7.1",
+      "file_id": 170955,
+      "file_name": "Project AHO Bugfix and Improvement Patch-41751-1-7-1-1605911264.rar",
+      "mod_id": 41751,
+      "hash": "sha256-JfxR/g+XT+wyTvZlwkq5jd0xdibnnBzZoaULrcYJG7g="
+    },
+    "type": "primary"
+  }
+}

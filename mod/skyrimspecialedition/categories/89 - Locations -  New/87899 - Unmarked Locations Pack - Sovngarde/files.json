@@ -1,0 +1,33 @@
+{
+  "Unmarked Locations Pack - Sovngarde": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0.0",
+      "file_id": 374128,
+      "file_name": "Unmarked Locations Pack - Sovngarde-87899-1-0-0-1680382919.rar",
+      "mod_id": 87899,
+      "hash": "sha256-YtR+SSGJcZS57U5eIkA1A8WXAkejp0e+MN6Puo17HhY="
+    },
+    "type": "primary"
+  },
+  "ULPS For Full Downgrade Patcher": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 376283,
+      "file_name": "ULPS For Full Downgrade Patcher-87899-1-0-1680943596.rar",
+      "mod_id": 87899,
+      "hash": "sha256-rZEzhancI6+M7+B3+RH7dDjOSn73BTTbk3uT8Sc+Uys="
+    }
+  },
+  "ULPS - Happy Little Trees Patch (BOS)": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0a",
+      "file_id": 471496,
+      "file_name": "ULPS - Happy Little Trees Patch (BOS)-87899-1-0a-1708107538.rar",
+      "mod_id": 87899,
+      "hash": "sha256-vTiNJAjYjiSMfdRkl5YOuVllDch1vyYiW4noEgEkCIA="
+    }
+  }
+}

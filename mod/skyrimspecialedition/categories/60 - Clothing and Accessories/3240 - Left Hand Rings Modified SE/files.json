@@ -1,0 +1,43 @@
+{
+  "Imperious Racials Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "4.4",
+      "file_id": 9811,
+      "file_name": "Imperious Racials Patch-3240-4-2.zip",
+      "mod_id": 3240,
+      "hash": "sha256-zdx3R3GJ9KOSKOce8PMHTh9Y7F2h80V4W4FztvkcM38="
+    }
+  },
+  "Imperious Racials and Unofficial Skyrim SE Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "4.4",
+      "file_id": 28018,
+      "file_name": "Imperious Racials Patch-3240-4-4.zip",
+      "mod_id": 3240,
+      "hash": "sha256-Uv47BEis8Zjq6EF/+PL3ai4sythhCCzPwfj3dxsn7Nk="
+    }
+  },
+  "Left Hand Ring Icon for SkyUI SE": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "4.4",
+      "file_id": 68955,
+      "file_name": "Left Hand Ring Icon for SkyUI SE-3240-4-4.7z",
+      "mod_id": 3240,
+      "hash": "sha256-9mQLtfGzAZ9GoMTRqX/qhYBUVrEKwJY3PODy7Em6P+A="
+    }
+  },
+  "Left Hand Rings Modified SE": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "4.5",
+      "file_id": 72530,
+      "file_name": "Left Hand Rings Modified SE-3240-4-5-1542372710.7z",
+      "mod_id": 3240,
+      "hash": "sha256-0wlTQStyeUc/fgL0LnKq38XMmSQWrYmC9gnhl/WinRY="
+    },
+    "type": "primary"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "Campfire Dynamic Collisions (normal collisions)": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.3",
+      "file_id": 649148,
+      "file_name": "Campfire Dynamic Collisions (normal collisions)-125636-1-3-1753139902.7z",
+      "mod_id": 125636,
+      "hash": "sha256-1kA126aOiTcdKLbF1oiXUubZwr6qcAGmJfkwoV98bCk="
+    },
+    "type": "primary"
+  },
+  "Campfire Dynamic Collisions (no tents collisions)": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.3",
+      "file_id": 649149,
+      "file_name": "Campfire Dynamic Collisions (no tents collisions)-125636-1-3-1753139957.7z",
+      "mod_id": 125636,
+      "hash": "sha256-prnvXVeXXH1YRYUxWR3zjgd0Uwz8jU3sJBOM6HjokD4="
+    }
+  }
+}

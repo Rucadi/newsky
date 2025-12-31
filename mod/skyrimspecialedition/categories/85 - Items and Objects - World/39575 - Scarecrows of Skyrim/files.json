@@ -1,0 +1,97 @@
+{
+  "Scarecrows of Skyrim - Eli": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.5",
+      "file_id": 253991,
+      "file_name": "Scarecrows of Skyrim - Eli-39575-1-5-1641337459.7z",
+      "mod_id": 39575,
+      "hash": "sha256-fkO+puR0wP9txEEft3O1f0Ds2VogbCIex23bAubaD5Q="
+    },
+    "type": "primary"
+  },
+  "Scarecrows of Skyrim - Hat": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.5",
+      "file_id": 253993,
+      "file_name": "Scarecrows of Skyrim - Hat-39575-1-5-1641337545.7z",
+      "mod_id": 39575,
+      "hash": "sha256-ThuebwdLP8zJGB7Z5QrbTdTQmF0jz/Glp9wntavp70I="
+    },
+    "type": "primary"
+  },
+  "Scarecrows of Skyrim - Helmet": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.5",
+      "file_id": 253994,
+      "file_name": "Scarecrows of Skyrim - Helmet-39575-1-5-1641337606.7z",
+      "mod_id": 39575,
+      "hash": "sha256-cKK8pzfEJCLsm/AZSnupz25nXdyd6+/eJPY+ys9qLQE="
+    },
+    "type": "primary"
+  },
+  "Scarecrows of Skyrim - Jester": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.5",
+      "file_id": 253995,
+      "file_name": "Scarecrows of Skyrim - Jester-39575-1-5-1641337666.7z",
+      "mod_id": 39575,
+      "hash": "sha256-SkNx8Wzp6AJKx8YQtxGMt5mzlZxU3CA7yh1QCz0obO8="
+    },
+    "type": "primary"
+  },
+  "Scarecrows of Skyrim SoS Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 253997,
+      "file_name": "Scarecrows of Skyrim SoS Patch-39575-1-0-1641337816.7z",
+      "mod_id": 39575,
+      "hash": "sha256-qFLD28yjirDnIXDpc+p5rpXMPKLnk4W/IBZbTNjIwlw="
+    }
+  },
+  "Scarecrows of Skyrim - BOS": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.6",
+      "file_id": 403542,
+      "file_name": "Scarecrows of Skyrim - BOS-39575-1-6-1688429264.7z",
+      "mod_id": 39575,
+      "hash": "sha256-j2TioaezHTPrHA6DoKknJOB3EmCUIGUtKD6/Ip+rdMI="
+    },
+    "type": "primary"
+  },
+  "Scarecrows of Skyrim - BOS - SOS Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 403543,
+      "file_name": "Scarecrows of Skyrim - BOS - SOS Patch-39575-1-0-1688429461.7z",
+      "mod_id": 39575,
+      "hash": "sha256-tTHL8enOSvMrQ23Q+1hLdTDB/77XZicEJtG+U44zqes="
+    }
+  },
+  "Scarecrows of Skyrim Lively Farms Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 443360,
+      "file_name": "Scarecrows of Skyrim Lively Farms Patch-39575-1-0-1700241840.7z",
+      "mod_id": 39575,
+      "hash": "sha256-Xtkv7iu95VfqFXbUvSd71GnYCCcTLaugCRfZ+I8MiB0="
+    }
+  },
+  "Scarecrows of Skyrim - Navcuts": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 602699,
+      "file_name": "Scarecrows of Skyrim - Navcuts-39575-1-0-1741352837.7z",
+      "mod_id": 39575,
+      "hash": "sha256-4GQ1bR2DLIvxwWncNVi3xOp46vbD0DymcMOpbCGTDyo="
+    }
+  }
+}

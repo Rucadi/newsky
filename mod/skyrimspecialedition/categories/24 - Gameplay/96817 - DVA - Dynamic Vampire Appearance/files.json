@@ -1,0 +1,23 @@
+{
+  "Dynamic Vampire Appearance": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.3",
+      "file_id": 598624,
+      "file_name": "Dynamic Vampire Appearance-96817-1-3-1740414479.rar",
+      "mod_id": 96817,
+      "hash": "sha256-ejf863Hjl7pR4lFx2YRo5uhfV/aD0ZeoZqLiwG3YWJ0="
+    },
+    "type": "primary"
+  },
+  "DVA and Better Vampires Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 598625,
+      "file_name": "DVA and Better Vampires Patch-96817-1-0-1740414552.rar",
+      "mod_id": 96817,
+      "hash": "sha256-w01AXmOml1zohFqWIEunjzwlNqHuWkL6HO5mlGVOv7U="
+    }
+  }
+}

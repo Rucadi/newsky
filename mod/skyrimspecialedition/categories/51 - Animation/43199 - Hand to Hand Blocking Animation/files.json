@@ -1,0 +1,24 @@
+{
+  "Hand to Hand Combat Blocking Animation - D.A.R version": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 173782,
+      "file_name": "Hand to Hand Combat Blocking Animation - D.A.R version-43199-1-0-1607430734.7z",
+      "mod_id": 43199,
+      "hash": "sha256-jQwf39X8nDfXeA0ZrnW5fXSpseK4PAzzohcbMokr+Pw="
+    },
+    "type": "primary"
+  },
+  "Hand to Hand Combat Blocking Animation - Nemesis PCEA version": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 173783,
+      "file_name": "Hand to Hand Combat Blocking Animation - Nemesis PCEA version-43199-1-0-1607430760.7z",
+      "mod_id": 43199,
+      "hash": "sha256-qz4amhb6+D/ouvUNGYnnVDx3DaUy7788eNu9cM/eIbQ="
+    },
+    "type": "primary"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "Lux Orbis - Orc Strongholds - Mor Khazgur 2": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "2.1a",
+      "file_id": 569980,
+      "file_name": "Lux Orbis - Orc Strongholds - Mor Khazgur 2-94796-2-1a-1733593053.7z",
+      "mod_id": 94796,
+      "hash": "sha256-+rFX+lKbgkoQMfzUyU1ple1akK4utBJJSgOhH+lkr1I="
+    }
+  },
+  "Orc Strongholds - Mor Khazgur": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "2.0.3",
+      "file_id": 570318,
+      "file_name": "Orc Strongholds - Mor Khazgur-94796-2-0-3-1733664320.7z",
+      "mod_id": 94796,
+      "hash": "sha256-4kkjFQHi3y3BxWwjR8at/16df2rKJe8z56kpuLCK+9U="
+    },
+    "type": "primary"
+  }
+}

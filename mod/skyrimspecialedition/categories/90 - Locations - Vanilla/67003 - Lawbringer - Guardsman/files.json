@@ -1,0 +1,84 @@
+{
+  "lawbringer - guardsman - Ryn's Karthspire version": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0.25",
+      "file_id": 358769,
+      "file_name": "lawbringer - guardsman - Ryn's Karthspire version-67003-1-0-25-1676138157.rar",
+      "mod_id": 67003,
+      "hash": "sha256-v+s8ZuP5hkJISEfmdz7n3RN0+h1U6plRigbb7t957uQ="
+    }
+  },
+  "lawbringer - guardsman - Imperial Stone patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0.28",
+      "file_id": 361064,
+      "file_name": "lawbringer - guardsman - Imperial Stone patch-67003-1-0-28-1676751418.rar",
+      "mod_id": 67003,
+      "hash": "sha256-HMZ8ptzhlgJvql2K8tqZ+zohhBa5i17a9dNq//EjRjM="
+    }
+  },
+  "Lawbringer - Guardsman - KAIDAN2": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0.31",
+      "file_id": 383820,
+      "file_name": "Lawbringer - Guardsman - KAIDAN2-67003-1-0-31-1682970465.rar",
+      "mod_id": 67003,
+      "hash": "sha256-hgy30DIEynv+I9iFOQscYvkTehy2X0IlM5DUnVh1dxA="
+    }
+  },
+  "Lawbringer-guardsman - Mic's Whiterun Bandit Camp": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0.37",
+      "file_id": 614084,
+      "file_name": "Lawbringer-guardsman - Mic's Whiterun Bandit Camp-67003-1-0-37-1743854383.rar",
+      "mod_id": 67003,
+      "hash": "sha256-TW6OV2PPtqLg0cJ0YT9aYemb3QT/Pq/3cUXWXmvXZL8="
+    }
+  },
+  "Lawbringer - Guardsman - Ryn's Lund's Hut version": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0.37",
+      "file_id": 614085,
+      "file_name": "Lawbringer - Guardsman - Ryn's Lund's Hut version-67003-1-0-37-1743854426.rar",
+      "mod_id": 67003,
+      "hash": "sha256-BpYu5TPHf5YlRs72gbPqAP05dFMmwHBE4Yqnu4zbO20="
+    }
+  },
+  "Lawbringer - Guardsman - Atlas Version": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0.37V2",
+      "file_id": 615860,
+      "file_name": "Lawbringer - Guardsman - Atlas Version-67003-1-0-37V2-1744305882.rar",
+      "mod_id": 67003,
+      "hash": "sha256-O0YEROsds4gP4TRDoH73NbExnUlNg/YJ4xlWfxYp50o="
+    }
+  },
+  "Lawbringer - Guardsman": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0.37V3",
+      "file_id": 620460,
+      "file_name": "Lawbringer - Guardsman-67003-1-0-37V3-1745438031.rar",
+      "mod_id": 67003,
+      "hash": "sha256-rhzEaKggEX4rod9qu6nIPMLrHzu5DWZr6C8fE8qIW7I="
+    },
+    "type": "primary"
+  },
+  "Lawbringer - Guardsman - Fixes for 1.0.37": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0.37V3",
+      "file_id": 620461,
+      "file_name": "Lawbringer - Guardsman - Fixes for 1.0.37-67003-1-0-37V3-1745438056.rar",
+      "mod_id": 67003,
+      "hash": "sha256-fSIIeKPpWYk1z5TSAYvzeAdX74EYqedDZqdHbWRpX+8="
+    },
+    "type": "primary"
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "Flying Crows SSE 2.1": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "2.1a",
+      "file_id": 687566,
+      "file_name": "Flying Crows SSE 2.1-49270-2-1-1763178760.7z",
+      "mod_id": 49270,
+      "hash": "sha256-NFY4k+Qhby73mLIuApWKrY+UpyOl8uETB3877+z5I40="
+    },
+    "type": "primary"
+  },
+  "Flying Crows SSE 2.1 (No Interior Audio)": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "2.1b",
+      "file_id": 687680,
+      "file_name": "Flying Crows SSE 2.1 (No Interior Audio)-49270-2-1b-1763215114.7z",
+      "mod_id": 49270,
+      "hash": "sha256-YHwcwGc+Y5rPqBoUix2SUs+gp8B2C7+0g6n41Z3v8JE="
+    },
+    "type": "primary"
+  }
+}

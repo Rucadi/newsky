@@ -1,0 +1,44 @@
+{
+  "MfgFix VR": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0vr",
+      "file_id": 68879,
+      "file_name": "MfgFix-vr-11669-1-0vr.7z",
+      "mod_id": 11669,
+      "hash": "sha256-4Wf9M2tjM1eN20NLWSWovCb37pT/5ERRg5vLr+FBwMI="
+    },
+    "type": "primary"
+  },
+  "Patch for PC Head Tracking and Voice Type": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 143792,
+      "file_name": "MfgFix-PCHeadTracking-patch-11669-1-0-1591276799.7z",
+      "mod_id": 11669,
+      "hash": "sha256-aec56Cj6GGv45UPmyFigNRQv49gJUsk+rai+UIEutB4="
+    }
+  },
+  "MfgFix MCM": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.6.0",
+      "file_id": 250492,
+      "file_name": "MfgFix-MCM-ae-11669-1-6-0-1639994478.7z",
+      "mod_id": 11669,
+      "hash": "sha256-v7I7s0QnTIrr2RyNoTmTvYLGi+uFB64Z9W4aW87UDM4="
+    }
+  },
+  "MfgFix": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.6.1",
+      "file_id": 320400,
+      "file_name": "MfgFix-11669-1-6-1-1664520342.7z",
+      "mod_id": 11669,
+      "hash": "sha256-i+pBKDcxEeZGa76eAwWPZQL4J6WaB/QfwnJApeVaHUw="
+    },
+    "type": "primary"
+  }
+}

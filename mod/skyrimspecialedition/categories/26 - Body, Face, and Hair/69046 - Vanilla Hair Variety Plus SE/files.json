@@ -1,0 +1,24 @@
+{
+  "Vanilla Hair Variety Plus": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "8.1",
+      "file_id": 289474,
+      "file_name": "Vanilla Hair Variety Plus-69046-8-1-1654599420.zip",
+      "mod_id": 69046,
+      "hash": "sha256-kny0LozXkP92sqmtJoxPq8hUvMPM6yOM4xyM8oru6mc="
+    },
+    "type": "primary"
+  },
+  "Vanilla Hair Variety Plus - ESM": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "8.1",
+      "file_id": 289475,
+      "file_name": "Vanilla Hair Variety Plus - ESM-69046-8-1-1654599446.zip",
+      "mod_id": 69046,
+      "hash": "sha256-9j5sZzYndARpQVjKy60Oy6N5xeVdxA9F9g3IRsin6MY="
+    },
+    "type": "primary"
+  }
+}

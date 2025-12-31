@@ -1,0 +1,44 @@
+{
+  "Meg's Eversnow - 1K": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "2.1",
+      "file_id": 546678,
+      "file_name": "Meg's Eversnow - 1K-124398-2-1-1727433461.rar",
+      "mod_id": 124398,
+      "hash": "sha256-finUNge6zSYdBu7JMvcNaLVC4vive2x5LGGlyDhjflI="
+    },
+    "type": "primary"
+  },
+  "Meg's Eversnow - 2K": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "2.1",
+      "file_id": 546680,
+      "file_name": "Meg's Eversnow - 2K-124398-2-1-1727433585.rar",
+      "mod_id": 124398,
+      "hash": "sha256-hc6p9bdcex1A8U4PRMzGs5cmW0+yKs+x374WIeLtXh4="
+    },
+    "type": "primary"
+  },
+  "Meg's Eversnow - EAS": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "2.1",
+      "file_id": 546685,
+      "file_name": "Meg's Eversnow - EAS-124398-2-1-1727433717.rar",
+      "mod_id": 124398,
+      "hash": "sha256-h7uDnIJ+tZXTZngK9MSMJ1IHQnkCRwKKfyXBQa+XasA="
+    }
+  },
+  "Meg's Eversnow - UAPNG": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "2.1.1",
+      "file_id": 554514,
+      "file_name": "Meg's Eversnow - UAPNG-124398-2-1-1-1729582479.rar",
+      "mod_id": 124398,
+      "hash": "sha256-T36sgWeTJZE2gMkJOv324oj1Gk1jFtj5WRPOymMATxk="
+    }
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "Imperial Battlemage": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1",
+      "file_id": 404495,
+      "file_name": "Imperial Battlemage-95233-1-1688692915.7z",
+      "mod_id": 95233,
+      "hash": "sha256-cdq/c15Y8CaSpLKySpvM3vLK+3ipW4ulq0GvbBkTvts="
+    },
+    "type": "primary"
+  },
+  "Imperial Battlemage Esl Plugin": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1",
+      "file_id": 404506,
+      "file_name": "Imperial Battlemage Esl Plugin-95233-1-1688695418.7z",
+      "mod_id": 95233,
+      "hash": "sha256-xqVGJyZlyShVC/YsZYe9WePpJIBlbuiPGeJzesP8stk="
+    }
+  }
+}

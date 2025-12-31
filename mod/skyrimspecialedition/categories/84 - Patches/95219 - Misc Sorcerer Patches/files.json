@@ -1,0 +1,134 @@
+{
+  "Sorcerer - Praedystaves - 3DNPC": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1",
+      "file_id": 404776,
+      "file_name": "Sorcerer - Praedystaves - 3DNPC-95219-1-1-1688749932.7z",
+      "mod_id": 95219,
+      "hash": "sha256-Y/d/PH286HUQrDlRDeCgYU/mf0pWt9m5/Ef0D/uMJ8U="
+    },
+    "type": "primary"
+  },
+  "Sorcerer - Praedystaves - Abyss": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1",
+      "file_id": 404777,
+      "file_name": "Sorcerer - Praedystaves - Abyss-95219-1-1-1688749946.7z",
+      "mod_id": 95219,
+      "hash": "sha256-zB2pe400K82vIkxsk6HWH1viFMpnLuqKrm47wrY3GSc="
+    },
+    "type": "primary"
+  },
+  "Sorcerer - Praedystaves - Arclight": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1",
+      "file_id": 404779,
+      "file_name": "Sorcerer - Praedystaves - Arclight-95219-1-1-1688749958.7z",
+      "mod_id": 95219,
+      "hash": "sha256-co9iiSs5GXl/Vu8AlHhIunkBFnhnhBTREdX61ROHFU0="
+    },
+    "type": "primary"
+  },
+  "Sorcerer - Praedystaves - Bloodmoon": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1",
+      "file_id": 404780,
+      "file_name": "Sorcerer - Praedystaves - Bloodmoon-95219-1-1-1688749973.7z",
+      "mod_id": 95219,
+      "hash": "sha256-LTswXcZVBmNeKPvxcukCIpN+ee+Rc5/sd09lcMQpQpM="
+    },
+    "type": "primary"
+  },
+  "Sorcerer - Praedystaves - Flames of Coldharbour": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1",
+      "file_id": 404781,
+      "file_name": "Sorcerer - Praedystaves - Flames of Coldharbour-95219-1-1-1688749989.7z",
+      "mod_id": 95219,
+      "hash": "sha256-mUXqlJi4ECJMeghjiV/9eLh3MNGFlL/pZDTW1UcS/sA="
+    },
+    "type": "primary"
+  },
+  "Sorcerer - Praedystaves - Necrom": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1",
+      "file_id": 404782,
+      "file_name": "Sorcerer - Praedystaves - Necrom-95219-1-1-1688750001.7z",
+      "mod_id": 95219,
+      "hash": "sha256-IW6vp1c8xM1Jqv4ZOKaHrHWZyy7POJ7z8/5YLPRlvso="
+    },
+    "type": "primary"
+  },
+  "Sorcerer - Praedystaves - Vulcano": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1",
+      "file_id": 404783,
+      "file_name": "Sorcerer - Praedystaves - Vulcano-95219-1-1-1688750012.7z",
+      "mod_id": 95219,
+      "hash": "sha256-vMWCuoaUCzqRuuWdlcDU90B0Luxz/pyQUYZP1FYu47I="
+    },
+    "type": "primary"
+  },
+  "Sorcerer - Midden Expanded Lite": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1",
+      "file_id": 404784,
+      "file_name": "Sorcerer - Midden Expanded Lite-95219-1-1-1688750034.7z",
+      "mod_id": 95219,
+      "hash": "sha256-DJvLlvYVSQbaScht0B30/UvgXjlKD3zOk66LvHxLrQI="
+    },
+    "type": "primary"
+  },
+  "Sorcerer - Houses Shops and Inns - AIO": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.2",
+      "file_id": 404803,
+      "file_name": "Sorcerer - Houses Shops and Inns - AIO-95219-1-2-1688752997.7z",
+      "mod_id": 95219,
+      "hash": "sha256-oxuP5jALXbZqKw129TiVrIj0/KkdUJexq6xMVQpARdE="
+    },
+    "type": "primary"
+  },
+  "Sorcerer - Houses Shops and Inns - Inns Only": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.2",
+      "file_id": 404804,
+      "file_name": "Sorcerer - Houses Shops and Inns - Inns Only-95219-1-2-1688753008.7z",
+      "mod_id": 95219,
+      "hash": "sha256-dWVJdgpMsDywBFutLbiaE4M+LYndTkgetRFK9wfAz1s="
+    },
+    "type": "primary"
+  },
+  "Sorcerer - Praedystaves": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.3",
+      "file_id": 404900,
+      "file_name": "Sorcerer - Praedystaves-95219-1-3-1688770027.7z",
+      "mod_id": 95219,
+      "hash": "sha256-8ZfDJvyfuG2hHU4SgxeuJ2JyqqLBedLP7DkxcW+AaRg="
+    },
+    "type": "primary"
+  },
+  "Sorcerer - Praedystaves - Natura": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.4",
+      "file_id": 427724,
+      "file_name": "Sorcerer - Praedystaves - Natura-95219-1-4-1695267567.7z",
+      "mod_id": 95219,
+      "hash": "sha256-C4wkahkL0M0NWRDO+gWWH45haGVy/hSaxTROzSmZZs8="
+    },
+    "type": "primary"
+  }
+}

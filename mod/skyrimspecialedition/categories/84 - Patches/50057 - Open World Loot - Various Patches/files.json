@@ -1,0 +1,90 @@
+{
+  "OWL - NordwarUA Variants Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.2",
+      "file_id": 206463,
+      "file_name": "OWL - NordwarUA Variants Patch-50057-1-2-1622411906.rar",
+      "mod_id": 50057,
+      "hash": "sha256-wFlgu6S79rQ9Ku6Vo8TH12iMNM+236IGJ92YCZBA/dI="
+    },
+    "type": "primary"
+  },
+  "OWL - Unplayable Factions Armor Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 206600,
+      "file_name": "OWL - Unplayable Factions Armor Patch-50057-1-0-1622470301.rar",
+      "mod_id": 50057,
+      "hash": "sha256-1j4vXdM+QFB3p1NeqBJ7uoAyfzYrCRbUXuGe1+PtB1k="
+    },
+    "type": "primary"
+  },
+  "OWL - Katana Crafting Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 206609,
+      "file_name": "OWL - Katana Crafting Patch-50057-1-0-1622473821.rar",
+      "mod_id": 50057,
+      "hash": "sha256-VDQpBBOv5urJ04h4hv9pU5+cw2y75x90x9dkSJdKvIA="
+    },
+    "type": "primary"
+  },
+  "OWL - Lovely Longswords Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 206611,
+      "file_name": "OWL - Lovely Longswords Patch-50057-1-0-1622473887.rar",
+      "mod_id": 50057,
+      "hash": "sha256-sMY7fRe92RCb6kh+t5s4koL1gAvojnLKH/k0ZZWbVe0="
+    },
+    "type": "primary"
+  },
+  "Open World Loot - Jaysus Swords SE Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 206614,
+      "file_name": "Open World Loot - Jaysus Swords SE Patch-50057-1-0-1622475339.rar",
+      "mod_id": 50057,
+      "hash": "sha256-C/bpbsw/+yacbaJB1dgbHKxT3NTUbMPHX5SN+92N37g="
+    },
+    "type": "primary"
+  },
+  "OWL - Heavy Armory Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1",
+      "file_id": 224777,
+      "file_name": "OWL - Heavy Armory Patch-50057-1-1-1630276005.rar",
+      "mod_id": 50057,
+      "hash": "sha256-vGcNcafdN6CKCNPY6hUphlITtZcM7kuFkUeXyXe07J4="
+    },
+    "type": "primary"
+  },
+  "Open World Loot - Jaysus Swords SE Craft Only Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 224866,
+      "file_name": "Open World Loot - Jaysus Swords SE Craft Only Patch-50057-1-0-1630314856.7z",
+      "mod_id": 50057,
+      "hash": "sha256-YTMsCMBMSOApttQsNsjIYnPrN7QmdsFc6lpcwppRNJU="
+    },
+    "type": "primary"
+  },
+  "Open World Loot - Immersive Weapons Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 230644,
+      "file_name": "Open World Loot - Immersive Weapons Patch-50057-1-0-1632607904.rar",
+      "mod_id": 50057,
+      "hash": "sha256-4ynuaTcU0ejwRtGVLzrGkZuV65RAtBNdWTcdwQ1wfEE="
+    },
+    "type": "primary"
+  }
+}

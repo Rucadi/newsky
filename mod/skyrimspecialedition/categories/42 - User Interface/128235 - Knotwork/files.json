@@ -1,0 +1,33 @@
+{
+  "Alternate Dark Brotherhood Knotwork": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "2.0.1",
+      "file_id": 541528,
+      "file_name": "Alternate Dark Brotherhood Knotwork-128235-1-0-0-1726185764.zip",
+      "mod_id": 128235,
+      "hash": "sha256-KJ68v1Aun1eZE8jGc/WsNi6KW3m6TDlDVyTaeBk6XK4="
+    }
+  },
+  "Knotwork": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "2.0.1",
+      "file_id": 592652,
+      "file_name": "Knotwork-128235-2-0-1-1739103644.zip",
+      "mod_id": 128235,
+      "hash": "sha256-nlYeilraKgb/58U13fnFYbFeUaKRwPKTBcGbHyiQF5Y="
+    },
+    "type": "primary"
+  },
+  "Knotwork - Quest Journal Overhaul Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "2.0.1",
+      "file_id": 592742,
+      "file_name": "Knotwork - Quest Journal Overhaul Patch-128235-2-0-1-1739119561.zip",
+      "mod_id": 128235,
+      "hash": "sha256-vglyUDAjgs6OoQXknhRjLq45QUyxsxxNko2uqNaBw5E="
+    }
+  }
+}

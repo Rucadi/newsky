@@ -1,0 +1,23 @@
+{
+  "4K Spider Egg and Sacs": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 199197,
+      "file_name": "4K Spider Egg and Sacs-48802-1-0-1618921148.7z",
+      "mod_id": 48802,
+      "hash": "sha256-uYx6Quw1q+lo26QnpGklILPOTmXkETbzQDTPtb7pLeA="
+    },
+    "type": "primary"
+  },
+  "2K Spider Egg and Sacs": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 199198,
+      "file_name": "2K Spider Egg and Sacs-48802-1-0-1618921628.7z",
+      "mod_id": 48802,
+      "hash": "sha256-PZBvjBQ0G9vgNMEhaWazbzC9R0tGPO5Yv54maowJzsc="
+    }
+  }
+}

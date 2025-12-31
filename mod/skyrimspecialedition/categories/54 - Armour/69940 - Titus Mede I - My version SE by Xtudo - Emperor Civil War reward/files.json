@@ -1,0 +1,66 @@
+{
+  "Titus Mede I - My version SE-AE - NO CHAINS": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1",
+      "file_id": 292534,
+      "file_name": "Titus Mede I - My version SE-AE - NO CHAINS-69940-1-1-1655731775.7z",
+      "mod_id": 69940,
+      "hash": "sha256-8OLcfMv70tlZKI2lkJ3KvwEgPPkrIoAP/0GeSyzo1HQ="
+    }
+  },
+  "Titus Mede I - My version SE-AE - Emperor clothes replacer patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1",
+      "file_id": 294207,
+      "file_name": "Titus Mede I - My version SE-AE - Emperor clothes replacer patch-69940-1-1-1656249317.7z",
+      "mod_id": 69940,
+      "hash": "sha256-cfjfNvJTNQRGSXL6C74pZw7GE5JhncPNBQPqTbVyqu8="
+    }
+  },
+  "Titus Mede I - My version SE-AE - REWARD 2K": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.2",
+      "file_id": 586202,
+      "file_name": "Titus Mede I - My version SE-AE - REWARD 2K-69940-1-1737554059.7z",
+      "mod_id": 69940,
+      "hash": "sha256-KxoXhReKHW3FkJMgcnYgxaeKkA1KtO0AwzotIhSux4M="
+    },
+    "type": "primary"
+  },
+  "Titus Mede I - My version SE-AE - REWARD 4K": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.2",
+      "file_id": 586203,
+      "file_name": "Titus Mede I - My version SE-AE - REWARD 4K-69940-1-1737554079.7z",
+      "mod_id": 69940,
+      "hash": "sha256-iNMbYfQlHMBT206AK0CieUl++e55oJvtndamxYdjQNI="
+    },
+    "type": "primary"
+  },
+  "Titus Mede I - My version SE-AE - 2K": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.2",
+      "file_id": 586204,
+      "file_name": "Titus Mede I - My version SE-AE - 2K-69940-1-2-1737554805.7z",
+      "mod_id": 69940,
+      "hash": "sha256-IV2tMK8N8MyeRbsD1iUFjWS9I60cvn3DpBsmlq8G2WM="
+    },
+    "type": "primary"
+  },
+  "Titus Mede I - My version SE-AE - 4K": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.2",
+      "file_id": 586205,
+      "file_name": "Titus Mede I - My version SE-AE - 4K-69940-1-2-1737554823.7z",
+      "mod_id": 69940,
+      "hash": "sha256-nJTTfreLdHrIWK6vyTuiRtVUBHlL+87nclHD2wvbsPA="
+    },
+    "type": "primary"
+  }
+}

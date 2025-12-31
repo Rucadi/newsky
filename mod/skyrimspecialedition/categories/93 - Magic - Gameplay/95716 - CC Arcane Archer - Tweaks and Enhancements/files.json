@@ -1,0 +1,43 @@
+{
+  "AA - TE - Bound Quiver - Mysticism Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1.2",
+      "file_id": 475169,
+      "file_name": "AA - TE - Bound Quiver - Mysticism Patch-95716-1-1-2-1709059117.7z",
+      "mod_id": 95716,
+      "hash": "sha256-4jayRFvRC9JJc5YGZTtwOOVbcXsgtfUtwV8hKUWHD9E="
+    }
+  },
+  "AA - TE - Bound Quiver - Adamant Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1.2",
+      "file_id": 475171,
+      "file_name": "AA - TE - Bound Quiver - Adamant Patch-95716-1-1-2-1709059253.7z",
+      "mod_id": 95716,
+      "hash": "sha256-k9VNnBkrlNk3EEqDxtYxSnBxcpgyPQE5zYKR/C/KoUU="
+    }
+  },
+  "CC Arcane Archer - TE - Bound Quiver Tweaks": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1.3",
+      "file_id": 541694,
+      "file_name": "CC Arcane Archer - TE - Bound Quiver Tweaks-95716-1-1-3-1726236835.7z",
+      "mod_id": 95716,
+      "hash": "sha256-XpAPQKt8kzrSdzclbwlExj1W8oS7kr+3k3z1JaGs7qo="
+    }
+  },
+  "CC Arcane Archer - Tweaks and Enhancements": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.2",
+      "file_id": 649926,
+      "file_name": "CC Arcane Archer - Tweaks and Enhancements-95716-1-2-1753400242.7z",
+      "mod_id": 95716,
+      "hash": "sha256-JR3oBthO+E+/gC4RpSLBLmN7xJ+jjyFgDS37qXMTGsw="
+    },
+    "type": "primary"
+  }
+}

@@ -1,0 +1,73 @@
+{
+  "Daedric Voices - ZIA Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "0.4",
+      "file_id": 123009,
+      "file_name": "Daedric Voices - ZIA Patch-32090-0-4-1581056371.rar",
+      "mod_id": 32090,
+      "hash": "sha256-JbjB6zplI1jago7vINZdpw+Fbu8PNqxOPcBkhPYpebI="
+    }
+  },
+  "Daedric Voices - Hircine": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "0.5",
+      "file_id": 123761,
+      "file_name": "Daedric Voices - Hircine-32090-0-5-1581494877.rar",
+      "mod_id": 32090,
+      "hash": "sha256-fEJQev+A5XCtKh6E8NRQjF31R2Tnaza50vYkP+Imzf8="
+    },
+    "type": "primary"
+  },
+  "Daedric Voices - Artificer Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "0.5",
+      "file_id": 123762,
+      "file_name": "Daedric Voices - Artificer Patch-32090-0-5-1581494926.rar",
+      "mod_id": 32090,
+      "hash": "sha256-24huo0bYY1btqluSeT57b7RFOtFoT2V5QUQ2OQMBYB8="
+    }
+  },
+  "Daedric Voices - Growl Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "0.5",
+      "file_id": 123763,
+      "file_name": "Daedric Voices - Growl Patch-32090-0-5-1581495087.rar",
+      "mod_id": 32090,
+      "hash": "sha256-+R/bm1kFFTV0IE8zE+5YNnZS9uU/P4kF+xSjUjiAzl4="
+    }
+  },
+  "Daedric Voices - Fangs of Oblivion Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "0.5",
+      "file_id": 124823,
+      "file_name": "Daedric Voices - Fangs of Oblivion Patch-32090-0-5-1582171894.7z",
+      "mod_id": 32090,
+      "hash": "sha256-ncU7yCcCLojAcSlr2XbQoUNuQ4GrbPkc6hZE10M/XM8="
+    }
+  },
+  "Daedric Voice - Hircine Restoration Project Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "0.5",
+      "file_id": 392286,
+      "file_name": "Daedric Voice - Hircine Restoration Project Patch-32090-0-5-1685173872.rar",
+      "mod_id": 32090,
+      "hash": "sha256-3R7ZJkXkQ/fAqit82XNtobVIuSr1Fnw3LqsvE1Sswaw="
+    }
+  },
+  "Daedric Voice - Peryite Voice Replacer Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "0.5",
+      "file_id": 392287,
+      "file_name": "Daedric Voice - Peryite Voice Replacer Patch-32090-0-5-1685173984.rar",
+      "mod_id": 32090,
+      "hash": "sha256-QoeQqy4HL1A7LAGNs8h6itGWW0wBEde9V9ekH/wFViE="
+    }
+  }
+}

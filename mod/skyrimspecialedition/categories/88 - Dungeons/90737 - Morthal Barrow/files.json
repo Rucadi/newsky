@@ -1,0 +1,23 @@
+{
+  "Patch for Atlas Map Markers": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.2",
+      "file_id": 416997,
+      "file_name": "Patch for Atlas Map Markers-90737-1-2-1692018694.7z",
+      "mod_id": 90737,
+      "hash": "sha256-ZbNkhHMWNF554zTBHEofK5qedIc7eSiLm8rB8kXtKVU="
+    }
+  },
+  "Morthal Barrow": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.4",
+      "file_id": 580618,
+      "file_name": "Morthal Barrow-90737-1-4-1736296204.zip",
+      "mod_id": 90737,
+      "hash": "sha256-yu0aitX9fIIASL627RcurgRGi8noBAKLiijoFEXSDn0="
+    },
+    "type": "primary"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "CWE Taluri fix combined with the HP and KS": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "HPcombo",
+      "file_id": 400155,
+      "file_name": "CWE Taluri fix combined with the HP and KS-93778-HPcombo-1687536243.7z",
+      "mod_id": 93778,
+      "hash": "sha256-ZP3x2kNXslvdx0ZYfcy6HpEl317He9LzTUn9SMhuQJQ="
+    }
+  },
+  "CWE bug fixes": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.3.9hotfix",
+      "file_id": 674259,
+      "file_name": "CWE bug fixes-93778-1-3-9hotfix-1760102279.zip",
+      "mod_id": 93778,
+      "hash": "sha256-5Gdoqn9UiaPWLdd3fv7XKirUQjbiGS/r8Tbk48TR8T8="
+    },
+    "type": "primary"
+  }
+}

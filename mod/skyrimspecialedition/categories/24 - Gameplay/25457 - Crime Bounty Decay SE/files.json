@@ -1,0 +1,23 @@
+{
+  "Crime Bounty Decay SE": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1",
+      "file_id": 348839,
+      "file_name": "Crime Bounty Decay SE-25457-1-1-1673525259.rar",
+      "mod_id": 25457,
+      "hash": "sha256-yeihm/AU5H77IZu3TzA9NBdw1RgEnd6zwABeazZNArw="
+    },
+    "type": "primary"
+  },
+  "Crime Bounty Decay SE - Bruma Compatibility": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1",
+      "file_id": 663098,
+      "file_name": "Crime Bounty Decay SE - Bruma Compatibility-25457-1-1-1757213459.zip",
+      "mod_id": 25457,
+      "hash": "sha256-4N6QJ5ytr+Z3qufOJtl2FncKUPLv30CFu8rvTERtAGs="
+    }
+  }
+}

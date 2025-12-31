@@ -1,0 +1,53 @@
+{
+  "General Tullius' outfit replacer": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 222821,
+      "file_name": "Imperial Tullius' outfit replacer-54294-1-0-1629596429.rar",
+      "mod_id": 54294,
+      "hash": "sha256-Qfcv8z46klLVeLYLWPvg777a/K+dkpoFxgzyxLfJmDs="
+    }
+  },
+  "Feet Fix": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.2",
+      "file_id": 223082,
+      "file_name": "Feet Fix-54294--1-2-1629681801.rar",
+      "mod_id": 54294,
+      "hash": "sha256-vMYSz/C4KmG0+1YhsWMRIP5EYDsnEEz7XmGIDt3Olcg="
+    }
+  },
+  "Imperial Tribune Armor": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.26",
+      "file_id": 223559,
+      "file_name": "Imperial Tribune Armor-54294-1-26-1629843217.rar",
+      "mod_id": 54294,
+      "hash": "sha256-LUkVuO3pB/ErbBEgMnbvtBPehnHPcvORHKkYnZYRinQ="
+    },
+    "type": "primary"
+  },
+  "SMP Physics for the cape": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.26",
+      "file_id": 223560,
+      "file_name": "SMP Physics for the cape-54294-1-26-1629843286.zip",
+      "mod_id": 54294,
+      "hash": "sha256-1bXNJa/+gn8oDB8jnNF0zPLN7Cs07dz3KSNLzd//6Aw="
+    }
+  },
+  "ESL Plugin": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.26",
+      "file_id": 223561,
+      "file_name": "ESL Plugin-54294-1-26-1629843419.rar",
+      "mod_id": 54294,
+      "hash": "sha256-zXXSAayYgWNTdwYNE60b1Gk57zOOWab26N/s6mDOQH4="
+    }
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "Drunk animations classic movement.": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.6",
+      "file_id": 614776,
+      "file_name": "Drunk animatios classic movement.-62191-1-6-1744012036.zip",
+      "mod_id": 62191,
+      "hash": "sha256-HOZpOSZqtyK+P+DW0iABUPG+GRMCKh3OZ3IU6eOD3hM="
+    }
+  },
+  "Drunk animations": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.6.1",
+      "file_id": 624968,
+      "file_name": "Drunk animations-62191-1-6-1-1746713078.zip",
+      "mod_id": 62191,
+      "hash": "sha256-rMMHkqPtYUokueydaex/3Za4+TgihVmLBQ8ElQV6SLg="
+    },
+    "type": "primary"
+  },
+  "Drunk animations for Animated Inebriation": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.6.1",
+      "file_id": 624971,
+      "file_name": "Drunk animations for Animated Inebriation-62191-1-6-1-1746713374.zip",
+      "mod_id": 62191,
+      "hash": "sha256-/G9Wso5vxUYEfA1Mrb4ROa7L0w0zm3n1MbYaRudJqN0="
+    },
+    "type": "primary"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "WWwW - Savos Aren's Regrets Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0.0",
+      "file_id": 686860,
+      "file_name": "WWwW - Savos Aren's Regrets Patch-164328-1-0-0-1762991593.zip",
+      "mod_id": 164328,
+      "hash": "sha256-7CBQ9roBpQadYRUudVW0hcTPM1Mx2swfGSbt9LR7Tjw="
+    }
+  },
+  "Word Walls without Winterhold": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0.1",
+      "file_id": 699425,
+      "file_name": "Word Walls without Winterhold-164328-1-0-1-1766098696.zip",
+      "mod_id": 164328,
+      "hash": "sha256-K5wzrsTn5eb2IsZpE5VCN7dHMOd6p8U9lq3f7z0zor0="
+    },
+    "type": "primary"
+  }
+}

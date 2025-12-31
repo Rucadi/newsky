@@ -1,0 +1,33 @@
+{
+  "Firebrand Scarf": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1",
+      "file_id": 568639,
+      "file_name": "Firebrand Scarf-102467-1-1-1733247506.7z",
+      "mod_id": 102467,
+      "hash": "sha256-cp+aD8QMEe2Z8W3z8hk1suXuxG8t+rJXY2/yDIHcx1o="
+    },
+    "type": "primary"
+  },
+  "More Varied Clothes - Firebrand Scarf": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1",
+      "file_id": 568640,
+      "file_name": "More Varied Clothes - Firebrand Scarf-102467-1-1-1733247546.zip",
+      "mod_id": 102467,
+      "hash": "sha256-0hNp2Yu6DRHfSICyxdfQCOQ45vXFgDc6XtdnBhR37M4="
+    }
+  },
+  "More Varied Clothes - Firebrand Scarf SkyPatcher": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1",
+      "file_id": 568641,
+      "file_name": "More Varied Clothes - Firebrand Scarf SkyPatcher-102467-1-1-1733247601.zip",
+      "mod_id": 102467,
+      "hash": "sha256-YEUCp7BgLMkm5j5kI4AhZzbTvVIabZzKKRAAUEIHWiM="
+    }
+  }
+}

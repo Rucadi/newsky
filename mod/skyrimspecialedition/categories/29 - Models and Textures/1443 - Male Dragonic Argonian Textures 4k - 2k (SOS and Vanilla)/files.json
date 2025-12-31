@@ -1,0 +1,46 @@
+{
+  "2K SOS": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 1518,
+      "file_name": "2K SOS-1443-1-0.rar",
+      "mod_id": 1443,
+      "hash": "sha256-amEWh3I3qekrgK1JOrUheIMne/FVoYuF4o1zG55Ed/Y="
+    },
+    "type": "primary"
+  },
+  "4K SOS": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 1519,
+      "file_name": "4K SOS-1443-1-0.rar",
+      "mod_id": 1443,
+      "hash": "sha256-vJZ1HADP6awTn5zFPPXGYrFss9brDTCtwdeoj1mcdcg="
+    },
+    "type": "primary"
+  },
+  "2K Vanilla": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 1520,
+      "file_name": "2K Vanilla-1443-1-0.rar",
+      "mod_id": 1443,
+      "hash": "sha256-MleoS7JUq74HJzUzHq+qlhXEEXadDr6DzxZSFql8kQo="
+    },
+    "type": "primary"
+  },
+  "4K Vanilla": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 1522,
+      "file_name": "4K Vanilla-1443-1-0.rar",
+      "mod_id": 1443,
+      "hash": "sha256-Vc/x2EM5nFvsBFo+SFDJZHC9V5LGI4t71dP0+p5XP50="
+    },
+    "type": "primary"
+  }
+}

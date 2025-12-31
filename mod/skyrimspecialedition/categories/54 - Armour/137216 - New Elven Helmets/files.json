@@ -1,0 +1,24 @@
+{
+  "New Elven Helmets - ESP Version": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1",
+      "file_id": 575798,
+      "file_name": "New Elven Helmets-137216-1-1735082746.7z",
+      "mod_id": 137216,
+      "hash": "sha256-tznBGKFlp6xphL+0e002ScLwoggNv6O6C/+HJURGCG4="
+    },
+    "type": "primary"
+  },
+  "New Elven Helmets - ESL-Flagged": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.2",
+      "file_id": 576100,
+      "file_name": "New Elven Helmets - ESL-Flagged-137216-1-2-1735179123.7z",
+      "mod_id": 137216,
+      "hash": "sha256-Y+LLIKy8C8a3x5ae1Mxxy8LXn3miisSx0xcMsTycMDM="
+    },
+    "type": "primary"
+  }
+}

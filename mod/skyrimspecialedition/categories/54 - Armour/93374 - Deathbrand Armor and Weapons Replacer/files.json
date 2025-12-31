@@ -1,0 +1,34 @@
+{
+  "Deathbrand Armor Meshes for Outlandish Stalhrim": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1",
+      "file_id": 398248,
+      "file_name": "Deathbrand Armor Meshes for Outlandish Stalhrim-93374-1-1686905000.7z",
+      "mod_id": 93374,
+      "hash": "sha256-w1asMJ89r5IugIDCmVGFXpEmBu8XV0u7EBitMoLxGfQ="
+    }
+  },
+  "Deathbrand Armor and Weapons Replacer": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.5",
+      "file_id": 408706,
+      "file_name": "Deathbrand Armor and Weapons Replacer-93374-1-5-1689816454.7z",
+      "mod_id": 93374,
+      "hash": "sha256-2dKuGcDBYXLEbEX0M0Ahb+jc1w5cdP+NhOEmhfbCxVw="
+    },
+    "type": "primary"
+  },
+  "Deathbrand Armor and Weapons Replacer Refrozen": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.5",
+      "file_id": 408707,
+      "file_name": "Deathbrand Armor and Weapons Replacer Refrozen-93374-1-5-1689816494.7z",
+      "mod_id": 93374,
+      "hash": "sha256-UrRFYXX4mD6HxrHPGX4EiQ1JZ/GRjcyajkmx4VEz2n4="
+    },
+    "type": "primary"
+  }
+}

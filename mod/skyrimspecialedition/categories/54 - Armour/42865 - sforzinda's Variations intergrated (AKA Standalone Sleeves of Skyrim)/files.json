@@ -1,0 +1,33 @@
+{
+  "Standalone Sleeved Imperials": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0.0",
+      "file_id": 172810,
+      "file_name": "Standalone Sleeved Imperials-42865-1-0-0-1606959368.rar",
+      "mod_id": 42865,
+      "hash": "sha256-mPtlMpZFx9ITMjveF+mxw06L/lPjuVmyQcmwQrw/McA="
+    }
+  },
+  "Standalone Sleeves of Skyrim": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1",
+      "file_id": 172819,
+      "file_name": "Standalone Sleeved Imperials-42865-1-0-1-1606965658.rar",
+      "mod_id": 42865,
+      "hash": "sha256-fgcdrs4hTobRwJk8bDJu+x7gXppwN7Nhj/1a67lg/CU="
+    },
+    "type": "primary"
+  },
+  "SSoS- USSEP patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0.1",
+      "file_id": 175539,
+      "file_name": "SSoS- USSEP patch-42865-1-0-1-1608566477.rar",
+      "mod_id": 42865,
+      "hash": "sha256-xbcVXwYJlbckdvRqGhJ/HsJYwGRBJHXl7fEhl1H6v7Q="
+    }
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "Werewolf Hunger - Moonlight Tales Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "2.2.1",
+      "file_id": 107282,
+      "file_name": "Werewolf Hunger - Moonlight Tales Patch-28209-2-2-1-1568831340.7z",
+      "mod_id": 28209,
+      "hash": "sha256-jcGUQZJ3KXHK8f2iH2ikq4hdpIWlyztVHYixqbtChnc="
+    }
+  },
+  "Werewolf Hunger - Lupine Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "2.2.1",
+      "file_id": 107298,
+      "file_name": "Werewolf Hunger - Lupine Patch-28209-2-2-1-1568836411.7z",
+      "mod_id": 28209,
+      "hash": "sha256-cuem1hfEqxt9dGydTDLK/NwBqxk8wJ0qmjzAQTSVr/g="
+    }
+  },
+  "Werewolf Hunger": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "2.3.1",
+      "file_id": 111144,
+      "file_name": "Werewolf Hunger-28209-2-3-1-1571790377.7z",
+      "mod_id": 28209,
+      "hash": "sha256-/lWRFcW7AN9lxvIDcjfR3tubkJbvtGZpM4tdiZnMP64="
+    },
+    "type": "primary"
+  },
+  "Werewolf Hunger - Growl Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.3",
+      "file_id": 264874,
+      "file_name": "Werewolf Hunger - Growl Patch-28209-1-3-1645112683.7z",
+      "mod_id": 28209,
+      "hash": "sha256-BYNYoW+TsZJ2rOKGV/8okkCQsTolK94CDecJsbbe0HU="
+    }
+  }
+}

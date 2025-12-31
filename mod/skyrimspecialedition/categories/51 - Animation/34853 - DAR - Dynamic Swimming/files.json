@@ -1,0 +1,23 @@
+{
+  "DAR - Dynamic Swimming": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 134723,
+      "file_name": "DAR - Dynamic Swimming-34853-1-0-1587114447.rar",
+      "mod_id": 34853,
+      "hash": "sha256-UGL/p0lF2nQbMTt1QaVL+35k1SUQZV95ZlogZx2FONo="
+    },
+    "type": "primary"
+  },
+  "DAR - Dynamic Swimming - Argonian Mastery": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1-Optional",
+      "file_id": 135231,
+      "file_name": "DAR - Dynamic Swimming - Argonian Mastery-34853-1-1-Optional-1587367813.rar",
+      "mod_id": 34853,
+      "hash": "sha256-zmOOXgApZGnkwfuurBSj3S2tBh5Lawm/CeNHBS6lY6Y="
+    }
+  }
+}

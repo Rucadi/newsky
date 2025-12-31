@@ -1,0 +1,23 @@
+{
+  "Blood Horker": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1",
+      "file_id": 61794,
+      "file_name": "Blood Horker-13938-1-1.zip",
+      "mod_id": 13938,
+      "hash": "sha256-eslTcVo77u8pIOR5FC4QnDcxv/gHX6Wld6WlgVNbfXM="
+    },
+    "type": "primary"
+  },
+  "Dynamic Animal Variants patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1",
+      "file_id": 196569,
+      "file_name": "Dynamic Animal Variants patch-13938-1-1-1617757339.zip",
+      "mod_id": 13938,
+      "hash": "sha256-jtPuPRxmyT11sXx7+ISAONrXPvheUvCHw7+I9q5XtTI="
+    }
+  }
+}

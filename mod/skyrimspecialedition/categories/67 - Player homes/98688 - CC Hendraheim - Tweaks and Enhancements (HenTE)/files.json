@@ -1,0 +1,73 @@
+{
+  "Hendraheim - TnE - Homes Under the Warhammer Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 418705,
+      "file_name": "Hendraheim - TnE - Homes Under the Hammer Patch-98688-1-0-1692474804.7z",
+      "mod_id": 98688,
+      "hash": "sha256-sfjwxXmCTTUoTopkviMhj6c6p49FKXYfbQ/79Xr4/SI="
+    }
+  },
+  "Hendraheim - TnE - CC Fishing Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "2.0",
+      "file_id": 474772,
+      "file_name": "Hendraheim - TnE - CC Fishing Patch-98688-2-0-1708961263.7z",
+      "mod_id": 98688,
+      "hash": "sha256-nyFqy4KO3nsFEzh1Dk+q1CUz47aYgZISN/ZMRCAleic="
+    }
+  },
+  "Hendraheim - TnE - USCCP Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "2.1",
+      "file_id": 479240,
+      "file_name": "Hendraheim - TnE - USCCP Patch-98688-2-1-1710115658.7z",
+      "mod_id": 98688,
+      "hash": "sha256-a+T+rDxzK32z+l89r0rpG3yhM6MFPOWTOS7Kcmavl8s="
+    }
+  },
+  "Hendraheim - TnE - Eydvina Buff Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "2.1.1",
+      "file_id": 481303,
+      "file_name": "Hendraheim - TnE - Eydvina Buff Patch-98688-2-1-1-1710628449.7z",
+      "mod_id": 98688,
+      "hash": "sha256-aFzthcMiGbKedG+by/9EwCBKJdXmPdfacxfGLKHs8BE="
+    }
+  },
+  "Hendraheim - TnE - USCCP Seperate Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "2.1.4",
+      "file_id": 636789,
+      "file_name": "Hendraheim - TnE - USCCP Seperate Patch-98688-2-1-4-1749643326.7z",
+      "mod_id": 98688,
+      "hash": "sha256-YGg7Z4PJzV+A5Pq+sNtryl3qFE+MUpp1DTpINxz5wXM="
+    }
+  },
+  "Hendraheim - TnE - RAE Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "2.2.2",
+      "file_id": 695855,
+      "file_name": "Hendraheim - TnE - RAE Patch-98688-2-2-2-1765222193.7z",
+      "mod_id": 98688,
+      "hash": "sha256-yHYCSHepMbELKc13HfGxctXBe/p+ADG3aVrBjLXG6pA="
+    }
+  },
+  "CC Hendraheim - Tweaks and Enhancements": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "2.2.3",
+      "file_id": 703003,
+      "file_name": "CC Hendraheim - Tweaks and Enhancements-98688-2-2-3-1766952352.7z",
+      "mod_id": 98688,
+      "hash": "sha256-R6aiAWEdc9irwRWmA9xb0qVMasVPYd0PouROdN2oVbo="
+    },
+    "type": "primary"
+  }
+}

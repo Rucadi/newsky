@@ -1,0 +1,53 @@
+{
+  "Lux Orbis - Orc Strongholds Largashbur 2.0 Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "2.0a",
+      "file_id": 562174,
+      "file_name": "Lux Orbis - Orc Strongholds Largashbur 2.0 Patch-89354-2-0a-1731593663.7z",
+      "mod_id": 89354,
+      "hash": "sha256-VGk0mLhcYD8xZdeGA9bBEnwSSh2+8kF6TMM3T4TyUS4="
+    }
+  },
+  "Lux Via - Orc Strongholds - Largashbur 2.0 Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "2.0b",
+      "file_id": 562175,
+      "file_name": "Lux Via - Orc Strongholds - Largashbur 2.0 Patch-89354-2-0b-1731593734.7z",
+      "mod_id": 89354,
+      "hash": "sha256-/yj6dDPLzC1D7tYTN7F5okavzT+sEr8OcPNH4wsBwrk="
+    }
+  },
+  "Orc Strongholds - Largashbur 2 ESL": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "2.1.3",
+      "file_id": 562478,
+      "file_name": "Orc Strongholds - Largashbur 2 ESL-89354-2-1-3-1731668109.7z",
+      "mod_id": 89354,
+      "hash": "sha256-Aq07vArpT9+vPmJvmRoYIMB8HTftGD8ERkyv5Ksd7/U="
+    },
+    "type": "primary"
+  },
+  "Orc Strongholds - Largashbur 2.0 Folkvangr Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "2.0f",
+      "file_id": 562484,
+      "file_name": "Orc Strongholds - Largashbur 2.0 Folkvangr Patch-89354-2-0f-1731669243.7z",
+      "mod_id": 89354,
+      "hash": "sha256-LfUE3qbbFLO5sQm1ZQ264oFSvYiyXMGSHBEWIjqmMug="
+    }
+  },
+  "Orc Strongholds - EFPS Patch ESL": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0EFPS",
+      "file_id": 627968,
+      "file_name": "Orc Strongholds - EFPS Patch ESL-89354-1-0EFPS-1747472013.7z",
+      "mod_id": 89354,
+      "hash": "sha256-kWSLqyC6vqF1FzACUUm4Oo1UroxEyWQIl9GoxNi5OcA="
+    }
+  }
+}

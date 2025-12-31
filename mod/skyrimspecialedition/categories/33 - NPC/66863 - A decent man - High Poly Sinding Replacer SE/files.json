@@ -1,0 +1,75 @@
+{
+  "Cinnamew High Poly Sinding Replacer - HGHairdos SE": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "5.0",
+      "file_id": 364854,
+      "file_name": "Cinnamew High Poly Sinding Replacer - HGHairdos SE-66863-5-0-1677766850.zip",
+      "mod_id": 66863,
+      "hash": "sha256-ze5KE3ZLzefKTqhAHJKYuo0ADdxJ0z/jOJgRfPn8EBE="
+    },
+    "type": "primary"
+  },
+  "Cinnamew High Poly Sinding Replacer - KSHairdos SE": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "5.0",
+      "file_id": 364855,
+      "file_name": "Cinnamew High Poly Sinding Replacer - KSHairdos SE-66863-5-0-1677766954.zip",
+      "mod_id": 66863,
+      "hash": "sha256-oiV1rdKNVc/bTYkn5wSVTvWmmZdtsnKdZJFLVIvgduE="
+    },
+    "type": "primary"
+  },
+  "Cinnamew High Poly Sinding Replacer - Vanilla Hair Remake SE": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "5.0",
+      "file_id": 364856,
+      "file_name": "Cinnamew High Poly Sinding Replacer - Vanilla Hair Remake SE-66863-5-0-1677767162.zip",
+      "mod_id": 66863,
+      "hash": "sha256-xF3MCsTcS8PcU8RHsOr4mNVXQOIraYeOXANzub2RVKc="
+    },
+    "type": "primary"
+  },
+  "Cinnamew High Poly Sinding Replacer - HGHairdos - DIRT Patch SE": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "5.0",
+      "file_id": 364858,
+      "file_name": "Cinnamew High Poly Sinding Replacer - HGHairdos - DIRT Patch SE-66863-5-0-1677767338.zip",
+      "mod_id": 66863,
+      "hash": "sha256-nJIN8sinZmlbfvU4cVBxWSN1UC1BHU6n/DUiNS/4EBU="
+    }
+  },
+  "Cinnamew High Poly Sinding Replacer - KSHairdos - DIRT Patch SE": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "5.0",
+      "file_id": 364861,
+      "file_name": "Cinnamew High Poly Sinding Replacer - HGHairdos - DIRT Patch SE-66863-5-0-1677767414.zip",
+      "mod_id": 66863,
+      "hash": "sha256-c+xjPprjbxAbClvBZDywQ6hNwLsbpnRICUiXlTtYcJA="
+    }
+  },
+  "Cinnamew High Poly Sinding Replacer - Vanilla Hair Remake - DIRT patch SE": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "5.0",
+      "file_id": 364863,
+      "file_name": "Cinnamew High Poly Sinding Replacer - Vanilla Hair Remake - DIRT patch SE-66863-5-0-1677767514.zip",
+      "mod_id": 66863,
+      "hash": "sha256-OvyIC2WK9Bw0K3Vh9tIRStaRVlj0d3GjiZWBsp+riTk="
+    }
+  },
+  "Cinnamew High Poly Sinding Replacer - Faces of Oblivion patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "5.0",
+      "file_id": 364869,
+      "file_name": "Cinnamew High Poly Sinding Replacer - Faces of Oblivion patch-66863-5-0-1677767698.zip",
+      "mod_id": 66863,
+      "hash": "sha256-CsucNQaCuKS7SMMROrjAi75M5236dvy6vArvaFpfOMc="
+    }
+  }
+}

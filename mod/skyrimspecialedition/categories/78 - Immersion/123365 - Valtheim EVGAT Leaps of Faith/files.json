@@ -1,0 +1,24 @@
+{
+  "Valtheim EVGAT Leaps of Faith 2-Way": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 517703,
+      "file_name": "Valtheim EVGAT Leaps of Faith 2-Way-123365-1-0-1720118559.rar",
+      "mod_id": 123365,
+      "hash": "sha256-9Nagt4uvPPU5ooGb8krcl6aJ4TGd/jA461OWZ1qx/S4="
+    },
+    "type": "primary"
+  },
+  "Valtheim EVGAT Leaps of Faith 1-Way": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 517704,
+      "file_name": "Valtheim EVGAT Leaps of Faith 1-Way-123365-1-0-1720118735.rar",
+      "mod_id": 123365,
+      "hash": "sha256-N0kQ1afH48XNqvzmW7yEmdpWgjjhj37wI52XHsGBN/A="
+    },
+    "type": "primary"
+  }
+}

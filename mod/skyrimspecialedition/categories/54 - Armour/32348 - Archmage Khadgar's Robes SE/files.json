@@ -1,0 +1,24 @@
+{
+  "Archmage Khadgars Robes - Johnskyrim - 2k": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.4",
+      "file_id": 401937,
+      "file_name": "Archmage Khadgars Robes - Johnskyrim - 2k-32348-1-4-1687972058.7z",
+      "mod_id": 32348,
+      "hash": "sha256-LbfF0B2tWNi4CeodPybcF70Cm3D8+bQJwBm5/LgRp8w="
+    },
+    "type": "primary"
+  },
+  "Archmage Khadgars Robes - Johnskyrim - 4k": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.4",
+      "file_id": 401938,
+      "file_name": "Archmage Khadgars Robes - Johnskyrim - 4k-32348-1-4-1687972143.7z",
+      "mod_id": 32348,
+      "hash": "sha256-mT/bYzpXU2+7vX8QY0ZNmxkk63IMPtb6VwfyrcpDAc0="
+    },
+    "type": "primary"
+  }
+}

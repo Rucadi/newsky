@@ -1,0 +1,23 @@
+{
+  "Warmonger Armory - Unofficial Fixed SSE Port 1.1": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1",
+      "file_id": 56561,
+      "file_name": "Warmonger Armory - Unofficial Fixed SSE Port 1.1-17809-1-1.zip",
+      "mod_id": 17809,
+      "hash": "sha256-HJHGskYEm9K0CyMDr0OTkplUwkKqdqIUi32FXznxinA="
+    },
+    "type": "primary"
+  },
+  "Warmonger Armory - Unofficial Fixed SSE Port - NecroWarlock Robes 1.1": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1",
+      "file_id": 56585,
+      "file_name": "Warmonger Armory - Unofficial Fixed SSE Port - NecroWarlock Robes 1.1-17809-1-1.zip",
+      "mod_id": 17809,
+      "hash": "sha256-uzw80Z4Qzi7XQ39SwIE/E31CVh1o3TnJCJAc9+w244c="
+    }
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "VNLL - Radiant Requirements Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0.0",
+      "file_id": 609053,
+      "file_name": "VNLL - Radiant Requirements Patch-145593-1-0-0-1742776044.zip",
+      "mod_id": 145593,
+      "hash": "sha256-1D8pvT8o7TWFIhghlHHJe5QftkKby/pkV3bYLy4pg/M="
+    }
+  },
+  "VNLL - Mysticism Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0.0",
+      "file_id": 609054,
+      "file_name": "VNLL - Mysticism Patch-145593-1-0-0-1742776076.zip",
+      "mod_id": 145593,
+      "hash": "sha256-rCQKafbNJTpA7NdReovkE1n753guycYpZhn8REqn3Sc="
+    }
+  },
+  "VNLL - Radiant Requirements and Mysticism Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0.0",
+      "file_id": 609055,
+      "file_name": "VNLL - Radiant Requirements and Mysticism Patch-145593-1-0-0-1742776122.zip",
+      "mod_id": 145593,
+      "hash": "sha256-RotAackZLBmw8qfgQInVURnvSbMg5XP2v2o5dN7f9b8="
+    }
+  },
+  "VNLL - Reluctant Steward Delayed": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1.0",
+      "file_id": 684392,
+      "file_name": "VNLL - Reluctant Steward Delayed-145593-1-1-0-1762445734.zip",
+      "mod_id": 145593,
+      "hash": "sha256-CgpZLYE6ZAjVegd6l4I4i84L/2XBNizYjQUXTZen+zI="
+    },
+    "type": "primary"
+  }
+}

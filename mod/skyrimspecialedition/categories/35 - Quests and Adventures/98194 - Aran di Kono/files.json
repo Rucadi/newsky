@@ -1,0 +1,23 @@
+{
+  "AranDiKono.zip": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1",
+      "file_id": 416667,
+      "file_name": "AranDiKono.zip-98194-1-1-1691936325.zip",
+      "mod_id": 98194,
+      "hash": "sha256-592BEneKVyUoNmbrX44f3cUg7kTpkCXLezJAaWmy0rc="
+    },
+    "type": "primary"
+  },
+  "AranDiKonoESLified.zip": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1",
+      "file_id": 420133,
+      "file_name": "AranDiKonoESLified-98194-1-1-1692903025.zip",
+      "mod_id": 98194,
+      "hash": "sha256-z8BOynv8T5Cf4lz5GNQcyLG2TzX12INDOMzZyuIegGk="
+    }
+  }
+}

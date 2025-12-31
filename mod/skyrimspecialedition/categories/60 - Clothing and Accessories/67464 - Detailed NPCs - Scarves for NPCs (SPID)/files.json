@@ -1,0 +1,63 @@
+{
+  "Detailed NPCs - Scarves for NPCs AIO (SPID)": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 281238,
+      "file_name": "Detailed NPCs - Scarves for NPCs AIO (SPID)-67464-1-0-1651544687.7z",
+      "mod_id": 67464,
+      "hash": "sha256-3/XZRApNwkQS9sAuAKjv3zzQpNUbyUcAQbdO0SNzSVI="
+    }
+  },
+  "Detailed NPCs - Scarves for NPCs MUFFLER (SPID)": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 281239,
+      "file_name": "Detailed NPCs - Scarves for NPCs MUFFLER (SPID)-67464-1-0-1651544812.7z",
+      "mod_id": 67464,
+      "hash": "sha256-hlon9Y3+d6qm8mbcVl7e5yYvwIFai2qjfQu7vUw+bCk="
+    }
+  },
+  "Detailed NPCs - Scarves for NPCs LONG (SPID)": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 281240,
+      "file_name": "Detailed NPCs - Scarves for NPCs LONG (SPID)-67464-1-0-1651544969.7z",
+      "mod_id": 67464,
+      "hash": "sha256-85sb3TsxkEJ/4tipbJUnF7apKpHBlWDc16q9/OxHBV0="
+    }
+  },
+  "Detailed NPCs - Scarves for NPCs AIO (SPID 6.3.0)": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "2.0",
+      "file_id": 333063,
+      "file_name": "Detailed NPCs - Scarves for NPCs AIO (SPID 6.1.0)-67464-1-0-1668898299.7z",
+      "mod_id": 67464,
+      "hash": "sha256-ZoE4RQkrarkEjwVq7HtcdazxHzhkL3l74Xl4itGKYqI="
+    },
+    "type": "primary"
+  },
+  "Detailed NPCs - Scarves for NPCs MUFFLER (SPID 6.3.0)": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "2.0",
+      "file_id": 333067,
+      "file_name": "Detailed NPCs - Scarves for NPCs MUFFLER (SPID 6.1.0)-67464-1-0-1668899521.7z",
+      "mod_id": 67464,
+      "hash": "sha256-Y2VuFWtfqBkfwZV9Ha/knZicEwx8tNNB5G7oG7GoRoQ="
+    }
+  },
+  "Detailed NPCs - Scarves for NPCs LONG (SPID 6.3.0)": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "2.0",
+      "file_id": 333068,
+      "file_name": "Detailed NPCs - Scarves for NPCs LONG (SPID 6.1.0)-67464-1-0-1668899659.7z",
+      "mod_id": 67464,
+      "hash": "sha256-7C7gTR5ZLEU7yPI+/W0G9hqnpx7gOMbio+bWbYX/Zzk="
+    }
+  }
+}

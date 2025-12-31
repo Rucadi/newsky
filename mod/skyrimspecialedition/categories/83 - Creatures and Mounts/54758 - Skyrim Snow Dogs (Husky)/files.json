@@ -1,0 +1,24 @@
+{
+  "2. Skyrim Snow Dogs (Husky Only)": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1",
+      "file_id": 225282,
+      "file_name": "Skyrim Snow Dogs (Husky Only)-54758-1-1-1630449854.7z",
+      "mod_id": 54758,
+      "hash": "sha256-gf7/NCxf9YrPhntCxRQzeDrh06IYKGOeFHoghqHeVSg="
+    },
+    "type": "primary"
+  },
+  "1. Skyrim Snow Dogs": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.2",
+      "file_id": 239720,
+      "file_name": "1. Skyrim Snow Dogs-54758-1-2-1636320935.7z",
+      "mod_id": 54758,
+      "hash": "sha256-0bqyjkdsGiUTRWJz5TLF01EI/EJ3GtLio4FBQ2tA4jM="
+    },
+    "type": "primary"
+  }
+}

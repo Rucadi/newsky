@@ -1,0 +1,34 @@
+{
+  "Forsworn_Headdress_Variants": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1",
+      "file_id": 628912,
+      "file_name": "Forsworn_Headdress_Variants-136342-1-1-1747666548.zip",
+      "mod_id": 136342,
+      "hash": "sha256-qjU+EvAIDsfOemi0LDBlICHyrXk7FHfK//aA8JA6MHU="
+    },
+    "type": "primary"
+  },
+  "FAVAddon_NewBootsAndGauntletsForBriarheart": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "0.01",
+      "file_id": 628923,
+      "file_name": "FAVAddon_NewBootsAndGauntletsForBriarheart-136342-0-01-1747668203.zip",
+      "mod_id": 136342,
+      "hash": "sha256-2+H37zCK9N+0Z27MH9Q44DT9CEoEjogrqunLndCvfxQ="
+    }
+  },
+  "Forsworn_Armor_Variants": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "armor-1.11",
+      "file_id": 677059,
+      "file_name": "Forsworn_Armor_Variants-136342-armor-1-11-1760717927.zip",
+      "mod_id": 136342,
+      "hash": "sha256-uefeEIeENh0ucnLNP0iKRnHD4mcnwjqY/Vc1n4BRcxw="
+    },
+    "type": "primary"
+  }
+}

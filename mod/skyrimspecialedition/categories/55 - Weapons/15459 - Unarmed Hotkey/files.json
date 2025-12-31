@@ -1,0 +1,35 @@
+{
+  "Dual Unarmed": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 46817,
+      "file_name": "Dual Unarmed-15459-1-0.7z",
+      "mod_id": 15459,
+      "hash": "sha256-0lO1rf+6Q/j4ULcr2Yo8GCp9FsTrgO2ICJgdqctf/k8="
+    },
+    "type": "primary"
+  },
+  "Main Unarmed": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 46818,
+      "file_name": "Main Unarmed-15459-1-0.7z",
+      "mod_id": 15459,
+      "hash": "sha256-tgN2+X6v+gL1Ir1wWKF9BznN4T0xvqTNDIos9QWjE/Y="
+    },
+    "type": "primary"
+  },
+  "Off Unarmed": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 58537,
+      "file_name": "Off Unarmed-15459-1-0.7z",
+      "mod_id": 15459,
+      "hash": "sha256-trnSwYH5v2y9aMCJJUXbs2EQn7xD1HBGpgZDbBSZplI="
+    },
+    "type": "primary"
+  }
+}

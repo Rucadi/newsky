@@ -1,0 +1,24 @@
+{
+  "Creation Club - Adjustments Rebalancing and Variants Individual FOMOD": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.2",
+      "file_id": 331001,
+      "file_name": "Creation Club - Adjustments Rebalancing and Variants-59370-1-2-1668225356.rar",
+      "mod_id": 59370,
+      "hash": "sha256-mHIBzAVPmyIUg3ce5bjzDHntQ9vScZv2T7/4j12hWLo="
+    },
+    "type": "primary"
+  },
+  "Creation Club - Adjustments Rebalancing and Variants All in One": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 333052,
+      "file_name": "Creation Club - Adjustments Rebalancing and Variants All in One-59370-1-0-1668895260.rar",
+      "mod_id": 59370,
+      "hash": "sha256-R8f7I9/KPG0YsfFp4NQlUQm6f1teaWnGyuPzJTyymio="
+    },
+    "type": "primary"
+  }
+}

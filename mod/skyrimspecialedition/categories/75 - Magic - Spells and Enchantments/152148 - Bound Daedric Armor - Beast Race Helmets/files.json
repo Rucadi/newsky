@@ -1,0 +1,23 @@
+{
+  "Bound Armor - No Sound": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1",
+      "file_id": 639200,
+      "file_name": "Bound Armor - No Sound-152148-1-1750253669.zip",
+      "mod_id": 152148,
+      "hash": "sha256-d0jtQ4PRlPgHiey28lktjDe9/6hOvW50zXQsw+yDIHU="
+    }
+  },
+  "Bound Daedric Armor - Beast Race Helmets": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.2",
+      "file_id": 646113,
+      "file_name": "Bound Daedric Armor - Beast Race Helmets-152148-1-2-1752239627.7z",
+      "mod_id": 152148,
+      "hash": "sha256-RbhW6hF9sfIGwKwjY0iQ4ivYGpzpu3F5F5kDS2NpQ0o="
+    },
+    "type": "primary"
+  }
+}

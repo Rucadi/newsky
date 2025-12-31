@@ -1,0 +1,23 @@
+{
+  "Unmarked Locations Pack - Solstheim": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 458505,
+      "file_name": "Unmarked Locations Pack - Solstheim-108527-1-0-1704567519.rar",
+      "mod_id": 108527,
+      "hash": "sha256-pLx5eo2Do6PG/1v7YGtqHhA6Vpz4EFyCq4rPOUo5/Rk="
+    },
+    "type": "primary"
+  },
+  "ULPSOL - Frozen in Time Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0a",
+      "file_id": 471944,
+      "file_name": "ULPSOL - Frozen in Time Patch-108527-1-0a-1708206671.rar",
+      "mod_id": 108527,
+      "hash": "sha256-qvOeD4XWvXqwupRiVUKMhhJEJIfe0C4/Yq1lbsBJSNU="
+    }
+  }
+}

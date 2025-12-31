@@ -1,0 +1,23 @@
+{
+  "Kyne's Temple Consequences": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1.1",
+      "file_id": 157886,
+      "file_name": "Kyne's Temple Consequences-38260-1-1-1-1598541484.7z",
+      "mod_id": 38260,
+      "hash": "sha256-DUGpTW1dlRGvR3wTA/DUKEzHTkHBu8mp9lu4sWQwWdE="
+    },
+    "type": "primary"
+  },
+  "JK's Temple of Kynareth - Kyne Consequences Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0.1",
+      "file_id": 237272,
+      "file_name": "JK's Temple of Kynareth - Kyne Consequences Patch-38260-1-0-1-1635296861.7z",
+      "mod_id": 38260,
+      "hash": "sha256-L59PQWbxEM6jf2E7s4Erc9LmVqObCwrkeyPCmyifT9I="
+    }
+  }
+}

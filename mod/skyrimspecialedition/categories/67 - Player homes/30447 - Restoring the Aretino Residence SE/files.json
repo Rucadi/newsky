@@ -1,0 +1,64 @@
+{
+  "Restoring the Aretino Residence (With General Stores)": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1",
+      "file_id": 113933,
+      "file_name": "Restoring the Aretino Residence (With General Stores)-30447-1-1-1574302507.7z",
+      "mod_id": 30447,
+      "hash": "sha256-2AqTQjOo5ERUoFHOw8lssRrzlIEPb9Nhl7ouhDrl2U8="
+    },
+    "type": "primary"
+  },
+  "Restoring the Aretino Residence": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1",
+      "file_id": 113934,
+      "file_name": "Restoring the Aretino Residence-30447-1-1-1574302612.7z",
+      "mod_id": 30447,
+      "hash": "sha256-rHg3Z2RTQef4dPo2VDGXCDrgEa5NouJnKitBH50/xaw="
+    },
+    "type": "primary"
+  },
+  "RtAR - ELFX Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1",
+      "file_id": 113935,
+      "file_name": "RtAR - ELFX Patch-30447-1-1-1574302670.7z",
+      "mod_id": 30447,
+      "hash": "sha256-9q8mwFA1hB2noWNOJYNQwGieM+OHQr1hkk+VLW2GI4I="
+    }
+  },
+  "RtAR - RLO Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1",
+      "file_id": 113936,
+      "file_name": "RtAR - RLO Patch-30447-1-1-1574302908.7z",
+      "mod_id": 30447,
+      "hash": "sha256-Z5N/QxRvat+XKDqyCykYbSyILA8EcTHk++puvb/EboU="
+    }
+  },
+  "RtAR - Relighting Skyrim Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1",
+      "file_id": 113937,
+      "file_name": "RtAR - Relighting Skyrim Patch-30447-1-1-1574302999.7z",
+      "mod_id": 30447,
+      "hash": "sha256-4RifpcinMVegceJ33mhrYf4jtlGy47+ec+6LiJC6K8g="
+    }
+  },
+  "RtAR - LUX Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1",
+      "file_id": 272427,
+      "file_name": "RtAR - LUX Patch-30447-1-1-1648220843.7z",
+      "mod_id": 30447,
+      "hash": "sha256-AUZce5TznikeMMYQD/KzahnnQ0V7ue1Yk5wDxmJHDY8="
+    }
+  }
+}

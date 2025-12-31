@@ -1,0 +1,34 @@
+{
+  "CoverKhajiits 2K": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.3",
+      "file_id": 352569,
+      "file_name": "CoverKhajiits 2K-71067-1-3-1674574017.7z",
+      "mod_id": 71067,
+      "hash": "sha256-tPwyIWCUNKAYNXDcSjVOgd6RunUIGIKJVpbjsSLwnKQ="
+    },
+    "type": "primary"
+  },
+  "CoverKhajiits 1K": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.3",
+      "file_id": 352570,
+      "file_name": "CoverKhajiits 1K-71067-1-3-1674574019.7z",
+      "mod_id": 71067,
+      "hash": "sha256-THUm//dy6e/laAWKWMFSwm4SlG5k7cMrGVN+lHvZPZ0="
+    }
+  },
+  "CoverKhajiits 4K": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.3",
+      "file_id": 352571,
+      "file_name": "CoverKhajiits 4K-71067-1-3-1674574021.7z",
+      "mod_id": 71067,
+      "hash": "sha256-Hyd0FbsNc6U/habJfbYkSnujK37zb5rNbTdF2xPU5r0="
+    },
+    "type": "primary"
+  }
+}

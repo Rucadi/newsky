@@ -1,0 +1,23 @@
+{
+  "Guars SE": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "fsa2E",
+      "file_id": 153057,
+      "file_name": "Guars SE-38857-fsa2E-1596190308.7z",
+      "mod_id": 38857,
+      "hash": "sha256-sbYY/4KMpyrAG9B6qjWUaRNMJNt+7iPMIHPpzz7MV+k="
+    },
+    "type": "primary"
+  },
+  "Fixed .ESP by SarthesArai": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1",
+      "file_id": 153075,
+      "file_name": "Fixed .ESP by SarthesArai-38857-1-1596209462.7z",
+      "mod_id": 38857,
+      "hash": "sha256-IjwrkMhfZFVT5vNxo8uWXj6myf3nxLZDVxaPJuxlYfs="
+    }
+  }
+}

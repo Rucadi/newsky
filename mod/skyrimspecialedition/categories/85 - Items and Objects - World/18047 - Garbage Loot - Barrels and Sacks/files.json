@@ -1,0 +1,54 @@
+{
+  "Garbage Loot - Standalone": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "4.0",
+      "file_id": 365707,
+      "file_name": "Garbage Loot-18047-4-0-1678026971.7z",
+      "mod_id": 18047,
+      "hash": "sha256-tqBi5LL9xmOkk8kZY03iNqtjOl2l2WEPnNrxfY9LEVU="
+    },
+    "type": "primary"
+  },
+  "Garbage Loot - Last Seed Edition": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "4.0ls",
+      "file_id": 365740,
+      "file_name": "Garbage Loot - Last Seed Edition-18047-4-0ls-1678030726.7z",
+      "mod_id": 18047,
+      "hash": "sha256-Pl2qgA5171lOVKqlRYemkpfmwma1CuiZf09c8jc8gIg="
+    },
+    "type": "primary"
+  },
+  "CC Survival Patch - only needed for Standalone 4.0": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "4.0m",
+      "file_id": 396267,
+      "file_name": "CC Survival Patch - only for Standalone 4.0-18047-4-0m-1686311830.7z",
+      "mod_id": 18047,
+      "hash": "sha256-ktmzYMr4lCbc104UXkJLPdao+lNBVzY0BMysQPl2FWU="
+    }
+  },
+  "Garbage Loot Standalone - Destructible Skyrim": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1ds-st",
+      "file_id": 456415,
+      "file_name": "Garbage Loot Standalone - Destructible Skyrim-18047-1-1ds-st-1703951428.7z",
+      "mod_id": 18047,
+      "hash": "sha256-SkWlq9KjrgIUC6rJa42Mz228ZVeUEy205Hf47IaeKkg="
+    }
+  },
+  "Garbage Loot LS - Destructible Skyrim": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1ds-ls",
+      "file_id": 456416,
+      "file_name": "Garbage Loot LS - Destructible Skyrim-18047-1-1ds-ls-1703952099.7z",
+      "mod_id": 18047,
+      "hash": "sha256-h0tRzQg2qV+2V7qQaO5e8+ojqav9vvJLg4D6TNiSfMM="
+    }
+  }
+}

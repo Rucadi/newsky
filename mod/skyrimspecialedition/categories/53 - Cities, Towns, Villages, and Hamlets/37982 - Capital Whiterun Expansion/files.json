@@ -1,0 +1,54 @@
+{
+  "B. Whiterun Expansion 1.3 Exterior Compatibility Version": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.3",
+      "file_id": 157128,
+      "file_name": "B. Whiterun Expansion 1.3 Exterior Compatibility Version-37982-1-3-1598121752.zip",
+      "mod_id": 37982,
+      "hash": "sha256-wT9rsAPRE98AmK5Qqlu75U7jWg1Cz7X42L6P+1Ga4wI="
+    },
+    "type": "primary"
+  },
+  "RS Children Overhaul PATCH": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1",
+      "file_id": 159106,
+      "file_name": "Realistic RS Children Overhaul PATCH-37982-1-1599240248.7z",
+      "mod_id": 37982,
+      "hash": "sha256-u6SGZvZrPyEbuo1uzNUKtoVkEtg/L4xEmYt/Yt+I64E="
+    }
+  },
+  "JKs Skyrim PATCH": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1",
+      "file_id": 159427,
+      "file_name": "JKs Skyrim PATCH-37982-1-1599409356.zip",
+      "mod_id": 37982,
+      "hash": "sha256-FXDqSWn/KH0Akdft5q0m/n9qNdnyWtcDp4dfqMO2rmE="
+    }
+  },
+  "A. Whiterun Expansion 1.5 Normal Version": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.5",
+      "file_id": 192696,
+      "file_name": "A. Whiterun Expansion 1.5 Normal Version-37982-1-5-1616329047.zip",
+      "mod_id": 37982,
+      "hash": "sha256-xjePIr6Bt5bcciTCj0pJsWLTHE+MbsMAucP+5aFRbao="
+    },
+    "type": "primary"
+  },
+  "Whiterun Normal Version - Provincial Courier Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.5",
+      "file_id": 192697,
+      "file_name": "Whiterun Normal Version - Provincial Courier Patch-37982-1-5-1616329147.zip",
+      "mod_id": 37982,
+      "hash": "sha256-edwqmhW8qicKnndYA3Wb+aXKgTx0DGIQSGT/ZujCu+w="
+    }
+  }
+}

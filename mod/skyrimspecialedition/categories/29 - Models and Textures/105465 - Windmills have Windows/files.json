@@ -1,0 +1,77 @@
+{
+  "Windmills have Windows - Parallax": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1",
+      "file_id": 445867,
+      "file_name": "Windmills have Windows - Parallax-105465-1-1-1700910990.rar",
+      "mod_id": 105465,
+      "hash": "sha256-QLRAwnWR1ypHy8qCSTSf6hFyqvbi+TUWHY5EXogoVTI="
+    },
+    "type": "primary"
+  },
+  "Windmills have Windows - Non Parallax": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1",
+      "file_id": 445869,
+      "file_name": "Windmills have Windows - Non Parallax-105465-1-1-1700911184.rar",
+      "mod_id": 105465,
+      "hash": "sha256-C347tgJoXOXu/qljJXJEzfz478uLe4P6ejXw5/IU5jU="
+    },
+    "type": "primary"
+  },
+  "Windmills have Windows - R's Windmill": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 446523,
+      "file_name": "Windmills have Windows - R's Windmill-105465-1-0-1701049065.rar",
+      "mod_id": 105465,
+      "hash": "sha256-YTycoV6V6FvjeKbKBeMtESzPjoTWE8p/2/ny2OyxJEo="
+    },
+    "type": "primary"
+  },
+  "Windmills have Windows Solitude - New Window": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 448107,
+      "file_name": "Windmills have Windows Solitude - New Window-105465-1-0-1701519771.rar",
+      "mod_id": 105465,
+      "hash": "sha256-nGagLYTGWOD3mR+n85i6mBLG31Jq9ExSIIZbvdtiVSs="
+    },
+    "type": "primary"
+  },
+  "Windmills have Windows Solitude- Same as Whiterun": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 448111,
+      "file_name": "Windmills have Windows Solitude - Same as Whiterun-105465-1-0-1701520025.rar",
+      "mod_id": 105465,
+      "hash": "sha256-pLO+6bQ0D1lSD2boN/+4lZt8h1xAFAAgj/QKnzYIOLU="
+    }
+  },
+  "Windmills have Windows Solitude- Same as WR- Para": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 448112,
+      "file_name": "Windmills have Windows Solitude- Same as WR- Para-105465-1-0-1701520121.rar",
+      "mod_id": 105465,
+      "hash": "sha256-pLO+6bQ0D1lSD2boN/+4lZt8h1xAFAAgj/QKnzYIOLU="
+    }
+  },
+  "Windmills have Windows Solitude- New Window- Para": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1",
+      "file_id": 455955,
+      "file_name": "Windmills have Windows Solitude- New Window- Para-105465-1-1-1703817959.rar",
+      "mod_id": 105465,
+      "hash": "sha256-HW/Gtt4g5FF+o0cBfmjduNk27gLLPlUKL73SdO5vKZU="
+    },
+    "type": "primary"
+  }
+}

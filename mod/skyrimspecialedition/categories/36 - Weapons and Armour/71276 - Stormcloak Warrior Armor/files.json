@@ -1,0 +1,24 @@
+{
+  "Stormcloak Warrior Armor (Quality)": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1",
+      "file_id": 395530,
+      "file_name": "Stormcloak Warrior Armor (Quality)-71276-1-1-1686049268.rar",
+      "mod_id": 71276,
+      "hash": "sha256-QHU0HvgwzhRxorzXJsya9R0oV1OCR0YFGy7T2lrwxsY="
+    },
+    "type": "primary"
+  },
+  "Stormcloak Warrior Armor (Performance)": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1",
+      "file_id": 395533,
+      "file_name": "Stormcloak Warrior Armor (Performance)-71276-1-1-1686049336.rar",
+      "mod_id": 71276,
+      "hash": "sha256-du6HWtlWvPd0hrF/TseeOsSoFn0tEDToZWBVwlf8sUw="
+    },
+    "type": "primary"
+  }
+}

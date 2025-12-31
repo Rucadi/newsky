@@ -1,0 +1,43 @@
+{
+  "Cathedral - 3D Solstheim Grass": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1",
+      "file_id": 386175,
+      "file_name": "Cathedral - 3D Solstheim Grass-90945-1-1683589198.zip",
+      "mod_id": 90945,
+      "hash": "sha256-b5Bszp0hnrBYGh7sKFqtMgLnPFbh7IoaqPCHNdKuCPg="
+    },
+    "type": "primary"
+  },
+  "4k Textures": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1",
+      "file_id": 386178,
+      "file_name": "4k Textures-90945-1-1683589402.zip",
+      "mod_id": 90945,
+      "hash": "sha256-HbgXveUSVofuh6GyIY6M70MDP+PB+DFmj+ItRxg2hhI="
+    }
+  },
+  "4k complex textures for ENB": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1",
+      "file_id": 386239,
+      "file_name": "4k complex textures for ENB-90945-1-1683609506.zip",
+      "mod_id": 90945,
+      "hash": "sha256-qlArGZU0JcMBaecSTke+y3N7+N37TelaegUC/Rg5cdI="
+    }
+  },
+  "2K ENB Complex Textures": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1",
+      "file_id": 386241,
+      "file_name": "2K ENB Textures-90945-1-1683611373.zip",
+      "mod_id": 90945,
+      "hash": "sha256-14o0uh8bM0RS6kfpAXZ00Mw9j5FDHHIbc8iGEuLTZ2w="
+    }
+  }
+}

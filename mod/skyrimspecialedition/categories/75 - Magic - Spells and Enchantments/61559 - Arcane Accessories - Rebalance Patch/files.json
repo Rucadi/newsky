@@ -1,0 +1,24 @@
+{
+  "Adamant Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.6",
+      "file_id": 356945,
+      "file_name": "Adamant Patch-61559-1-6-1675645522.zip",
+      "mod_id": 61559,
+      "hash": "sha256-RMNZvk10WmKf1YoLIqHe2ZWY1a9fsJL05aFtf/8ziCU="
+    },
+    "type": "primary"
+  },
+  "Rebalance Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.6.1",
+      "file_id": 356964,
+      "file_name": "Rebalance Patch-61559-1-6-1-1675649041.zip",
+      "mod_id": 61559,
+      "hash": "sha256-jNHVxmp/oJz0ZLMuVIyk3lXs4NLa3m1xKLZkeJpDpQo="
+    },
+    "type": "primary"
+  }
+}

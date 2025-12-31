@@ -1,0 +1,24 @@
+{
+  "FYX - Nordic Doors and Traps Collisions": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 424558,
+      "file_name": "FYX - Nordic Doors and Traps Collisions-100295-1-0-1694293442.7z",
+      "mod_id": 100295,
+      "hash": "sha256-7lP8izt9SXJ0uJpqL197bUR7B7MG9JTjak1bI4optmw="
+    },
+    "type": "primary"
+  },
+  "FYX - Nordic Doors and Traps Collisions - Parallax": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 424613,
+      "file_name": "FYX - Nordic Doors and Traps Collisions - Parallax-100295-1-0-1694327124.7z",
+      "mod_id": 100295,
+      "hash": "sha256-kjnmySbaSQ2OAE96p7YqAss01lDfAPqVlBdOyaBKpNw="
+    },
+    "type": "primary"
+  }
+}

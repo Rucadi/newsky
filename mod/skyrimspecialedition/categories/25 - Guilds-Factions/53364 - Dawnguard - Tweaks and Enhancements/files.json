@@ -1,0 +1,93 @@
+{
+  "DTE - USSEP Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0.0",
+      "file_id": 489286,
+      "file_name": "DTE - USSEP Patch-53364-1-0-0-1712764338.7z",
+      "mod_id": 53364,
+      "hash": "sha256-FTagHl6rV4TzC9LRYQf3uTpJlRA1cAQgoKlvX1wywwI="
+    }
+  },
+  "DTE - AYOP Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0.3",
+      "file_id": 530340,
+      "file_name": "DTE - AYOP Patch-53364-1-0-3-1723327989.7z",
+      "mod_id": 53364,
+      "hash": "sha256-QfVrr0fby9jnOf0m7czvFF71tmgV/2g36y6979bfVKQ="
+    }
+  },
+  "DTE - Clue Scroll Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.2",
+      "file_id": 609032,
+      "file_name": "DTE - Clue Scroll Patch-53364-1-2-1742773433.7z",
+      "mod_id": 53364,
+      "hash": "sha256-r3wb4bGMiUdn5Ihnkewtu2e4iS1NzBBYe+FFiki7oFI="
+    }
+  },
+  "DTE - Less Radiant Quests": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.2",
+      "file_id": 609037,
+      "file_name": "DTE - Less Radiant Quests-53364-1-2-1742774677.7z",
+      "mod_id": 53364,
+      "hash": "sha256-FERDbTei2ajNwLYRWBCZs/TDaNmpGqYGwcJaDnfmvnY="
+    }
+  },
+  "DTE - More Radiant Quests and Forced Caches": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.2",
+      "file_id": 609038,
+      "file_name": "DTE - More Radiant Quests and Forced Caches-53364-1-2-1742774699.7z",
+      "mod_id": 53364,
+      "hash": "sha256-BbUUIVeNEeVasXTZzV1GPWS74yRmtlNWpyCbmKaBJiY="
+    }
+  },
+  "Dawnguard - Tweaks and Enhancements": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.2.4",
+      "file_id": 647037,
+      "file_name": "Dawnguard - Tweaks and Enhancements-53364-1-2-4-1752494142.7z",
+      "mod_id": 53364,
+      "hash": "sha256-2JioWB/tRKEQp5zp2N247YTb8mSUuTqG0sd4wJPHkPA="
+    },
+    "type": "primary"
+  },
+  "DTE - IFD Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.2.4",
+      "file_id": 647038,
+      "file_name": "DTE - IFD Patch-53364-1-2-4-1752494169.7z",
+      "mod_id": 53364,
+      "hash": "sha256-Hie3S1QjzwRvTEBZgWKAOQBBxVFYvzRN+7cRIGnUhqI="
+    }
+  },
+  "DTE - HHITPC Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.2.5",
+      "file_id": 667111,
+      "file_name": "DTE - HHITPC Patch-53364-1-2-5-1758226778.7z",
+      "mod_id": 53364,
+      "hash": "sha256-QN3oIhxA9vvTNq5PP2uFUqAd4zvdD7te2HsmTrXs2cg="
+    }
+  },
+  "DTE - Book Covers of Skyrim Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.2.6",
+      "file_id": 692627,
+      "file_name": "DTE - Book Covers of Skyrim Patch-53364-1-2-6-1764456222.7z",
+      "mod_id": 53364,
+      "hash": "sha256-VKjKympIj9EaX1BiLa2ecX5sD/W1qKLzmC8M/C2MVN0="
+    }
+  }
+}

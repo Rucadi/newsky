@@ -1,0 +1,24 @@
+{
+  "The Forgotten City Entrance": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "V1.0.4",
+      "file_id": 376376,
+      "file_name": "The Forgotten City Entrance-25730-V1-0-4-1680969504.zip",
+      "mod_id": 25730,
+      "hash": "sha256-SfNtzpRTBa9kYX4self/sHXIgSKi3ZFHDNjbMp42dfw="
+    },
+    "type": "primary"
+  },
+  "The Forgotten City Entrance Extended Version": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "V1.0.5",
+      "file_id": 397467,
+      "file_name": "The Forgotten City Entrance Extended Version-25730-V1-0-5-1686656270.zip",
+      "mod_id": 25730,
+      "hash": "sha256-xhresfdBf8HCY5c3ZGi/gPhmH/u5qoWJ6DBk50uBa+o="
+    },
+    "type": "primary"
+  }
+}

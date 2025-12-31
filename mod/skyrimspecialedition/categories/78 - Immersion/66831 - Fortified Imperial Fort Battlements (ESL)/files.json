@@ -1,0 +1,43 @@
+{
+  "Imperial Fort Battlements": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.2",
+      "file_id": 285325,
+      "file_name": "Imperial Fort Battlements-66831-1-2-1653100064.7z",
+      "mod_id": 66831,
+      "hash": "sha256-4s5+29MgWY79EQz6cV0mTMZo7QNM2aFvWdsEtcuEc8Q="
+    },
+    "type": "primary"
+  },
+  "Parallax Version Battlements": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.2",
+      "file_id": 285647,
+      "file_name": "Parallax Version Battlements-66831-1-2-1653211054.7z",
+      "mod_id": 66831,
+      "hash": "sha256-W+nJQEKGL5eaMQpt7DsIVViATVtcoQ6arKwgrecWZJU="
+    }
+  },
+  "T4's Underground Version Battlements": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.2",
+      "file_id": 286569,
+      "file_name": "T4's Underground Version Battlements-66831-1-2-1653535849.7z",
+      "mod_id": 66831,
+      "hash": "sha256-0wdQ0VAbX6vRW/CL4gHwNrrA7iWjWwTNmT3ZGn1kua4="
+    }
+  },
+  "LOD Files Addon": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.2",
+      "file_id": 288681,
+      "file_name": "LOD Files Addon-66831-1-2-1654317999.7z",
+      "mod_id": 66831,
+      "hash": "sha256-X3rV1pRBJ+ZM3ocwqk3wliTq0SP9Ep17y5CDzkfWILo="
+    }
+  }
+}

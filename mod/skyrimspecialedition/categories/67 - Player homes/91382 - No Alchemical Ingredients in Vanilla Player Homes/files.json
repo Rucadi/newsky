@@ -1,0 +1,24 @@
+{
+  "No Alchemical Ingredients in Vanilla Player Homes": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 388226,
+      "file_name": "No Alchemical Ingredients in Vanilla Player Homes-91382-1-0-1684108047.7z",
+      "mod_id": 91382,
+      "hash": "sha256-Untgh2dpb/8I23t/M1rxZ3jqxocdPjFApgNzhUUnOcM="
+    },
+    "type": "primary"
+  },
+  "No INGRs or SLGMs in Vanilla Homes": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1",
+      "file_id": 540356,
+      "file_name": "No INGRs or SLGMs in Vanilla Homes-91382-1-1-1725871989.7z",
+      "mod_id": 91382,
+      "hash": "sha256-KS0S2YhIAj7to+1H6tCA1rnwW83BEnOFdtmUnMnji0Q="
+    },
+    "type": "primary"
+  }
+}

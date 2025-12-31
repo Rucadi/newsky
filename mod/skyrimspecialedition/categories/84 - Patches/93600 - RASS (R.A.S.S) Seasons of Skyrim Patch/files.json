@@ -1,0 +1,33 @@
+{
+  "RASS Seasons of Skyrim Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "2",
+      "file_id": 398221,
+      "file_name": "RASS Seasons of Skyrim Patch-93600-2-1686897656.7z",
+      "mod_id": 93600,
+      "hash": "sha256-pNAqMKZWk1wptXyQRAEdTNS830QepthEW/j3PmLtUyw="
+    },
+    "type": "primary"
+  },
+  "RASS Seasons of Skyrim Patch Faster Seasons": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "2",
+      "file_id": 635918,
+      "file_name": "RASS Seasons of Skyrim Patch Faster Seasons-93600-2-1749399634.7z",
+      "mod_id": 93600,
+      "hash": "sha256-lQFnZl/Leqdjs95rv/EREk5hYU2VtzcpLozLMgjDfjc="
+    }
+  },
+  "RASS Seasons of Skyrim Patch Unfrozen": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1",
+      "file_id": 635921,
+      "file_name": "RASS Seasons of Skyrim Patch Unfrozen-93600-1-1749400088.7z",
+      "mod_id": 93600,
+      "hash": "sha256-ms4nc2XiuaLpIsKwKsLbjhzc3MhZDRjwTR9HyXdAfnA="
+    }
+  }
+}

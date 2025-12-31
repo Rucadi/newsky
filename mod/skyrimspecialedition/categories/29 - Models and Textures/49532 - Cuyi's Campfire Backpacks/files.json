@@ -1,0 +1,23 @@
+{
+  "Cuyi's Campfire Backpacks": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1",
+      "file_id": 201952,
+      "file_name": "Cuyi's Campfire Backpacks-49532-1-1-1620287034.7z",
+      "mod_id": 49532,
+      "hash": "sha256-4zUNG9cGwTr/W/xQ3ulkDENcOil94kbNfenMo572dDk="
+    },
+    "type": "primary"
+  },
+  "Backpacks Renamed": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1",
+      "file_id": 202505,
+      "file_name": "Backpacks Renamed-49532-1-2-1620559092.7z",
+      "mod_id": 49532,
+      "hash": "sha256-HgNywad5QrPki7WJT/Gm7JSQ+q0wZjhLHVvknblVuXs="
+    }
+  }
+}

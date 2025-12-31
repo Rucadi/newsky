@@ -1,0 +1,76 @@
+{
+  "Damaged Skeletons - Ancient Draugr Shield - Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 396199,
+      "file_name": "Damaged Skeletons - Ancient Draugr Shield - Patch-92930-1-0-1686287105.zip",
+      "mod_id": 92930,
+      "hash": "sha256-sJsXMGyptN6ooWzlbXMJq575fhsjGCPimPUe/9Qcg0s="
+    }
+  },
+  "Damaged Skeletons - Immersive Armors - Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 396201,
+      "file_name": "Damaged Skeletons - Immersive Armors - Patch-92930-1-0-1686287331.zip",
+      "mod_id": 92930,
+      "hash": "sha256-tqGwIQXDHBdN4gkKJkf4XL0qettafThQD6O+G0IxHLI="
+    }
+  },
+  "Damaged Skeletons - remove placed skeletons": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 396203,
+      "file_name": "Damaged Skeletons - remove placed skeletons-92930-1-0-1686287616.zip",
+      "mod_id": 92930,
+      "hash": "sha256-hkmGmqaTfMXQfO8YitwCWbVP7cDFuN4sbMrCCGs+9OA="
+    }
+  },
+  "Damaged Skeletons": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 396207,
+      "file_name": "Damaged Skeletons-92930-1-0-1686288809.zip",
+      "mod_id": 92930,
+      "hash": "sha256-+lYOWO6dRzdX2/dOWldCc2szAFYcELU9V7Kj3ybK0Os="
+    },
+    "type": "primary"
+  },
+  "Damaged Skeletons - Compatibility version": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 396208,
+      "file_name": "Damaged Skeletons - Compatibility version-92930-1-0-1686288945.zip",
+      "mod_id": 92930,
+      "hash": "sha256-E2RyPs68vLVMU+hJxznftVhaLC+LOp+W90w+bytZYL0="
+    },
+    "type": "primary"
+  },
+  "Damaged Skeletons - HLE -Compatibility version": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 396210,
+      "file_name": "Damaged Skeletons - Compatibility version HLE-92930-1-0-1686289191.zip",
+      "mod_id": 92930,
+      "hash": "sha256-ZyYUU59PCpZld5rmHBbBDljenbmaH2glZDudXNFwWZM="
+    },
+    "type": "primary"
+  },
+  "Damaged Skeletons - High Level Enemies": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1",
+      "file_id": 568169,
+      "file_name": "Damaged Skeletons - High Level Enemies-92930-1-1-1733112497.zip",
+      "mod_id": 92930,
+      "hash": "sha256-a/S2U4ABJdXCH43KXxmiewyTa/6nrgyI162P5soQ1NY="
+    },
+    "type": "primary"
+  }
+}

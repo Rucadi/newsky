@@ -1,0 +1,695 @@
+{
+  "Daedric Shrines - All in One - My Patches by Xtudo - NSUTR patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1",
+      "file_id": 331948,
+      "file_name": "Daedric Shrines - All in One - My Patches by Xtudo - NSUTR patch-78809-1-1668478567.7z",
+      "mod_id": 78809,
+      "hash": "sha256-+ZXmrAc29Mw0SBBY72UgULxOVg4l9q2tyutuC1lj6ag="
+    }
+  },
+  "Daedric Shrines - All in One - My Patches by Xtudo - Meridia HD pedestal": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1",
+      "file_id": 331949,
+      "file_name": "Daedric Shrines - All in One - My Patches by Xtudo - Meridia HD pedestal-78809-1-1668478696.7z",
+      "mod_id": 78809,
+      "hash": "sha256-qellFUXEmtAIV+c05/IXylb5qRXgPPChrvbNO21ts4k="
+    }
+  },
+  "Daedric Shrines - All in One - My Patches by Xtudo - VIGILANT patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1",
+      "file_id": 331950,
+      "file_name": "Daedric Shrines - All in One - My Patches by Xtudo - VIGILANT patch-78809-1-1668478741.7z",
+      "mod_id": 78809,
+      "hash": "sha256-5ZsmoRhmy+ogzl4neoaYerVUsXO1G7PnFz/zZ+KFvbU="
+    }
+  },
+  "Daedric Shrines - All in One - My Patches by Xtudo - Helgen Reborn patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.2",
+      "file_id": 332081,
+      "file_name": "Daedric Shrines - All in One - My Patches by Xtudo - Helgen Reborn patch-78809-1-2-1668527570.7z",
+      "mod_id": 78809,
+      "hash": "sha256-NCKlKQ8kStp9GQie3sagqhgiubJSbDTj6QsHR/CY9Ac="
+    }
+  },
+  "Daedric Shrines - All in One - My Patches by Xtudo - Teldryn Serious patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.3",
+      "file_id": 332147,
+      "file_name": "Daedric Shrines - All in One - My Patches by Xtudo - Teldryn Serious patch-78809-1-3-1668541947.7z",
+      "mod_id": 78809,
+      "hash": "sha256-DeEi0YHxHrfHCmR6jVpMyh6ibLfj5fR+BYWuWMGLtyY="
+    }
+  },
+  "Daedric Shrines - All in One - My Patches by Xtudo - The Only Cure patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.4",
+      "file_id": 332302,
+      "file_name": "Daedric Shrines - All in One - My Patches by Xtudo - The Only Cure patch-78809-1-4-1668600447.7z",
+      "mod_id": 78809,
+      "hash": "sha256-dmeUzBZmlskCaSLbXffHi+B6A9T65G1sDFQDcgmAsTQ="
+    }
+  },
+  "Daedric Shrines - All in One - My Patches by Xtudo - The Great City of Solitude patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.4",
+      "file_id": 332376,
+      "file_name": "Daedric Shrines - All in One - My Patches by Xtudo - The Great City of Solitude patch-78809-1-4-1668622905.7z",
+      "mod_id": 78809,
+      "hash": "sha256-K6HjX0WCmBzcyOCUQtye7fUOQxCDpzJe3a8RSgh+LvU="
+    }
+  },
+  "Daedric Shrines - All in One - My Patches by Xtudo - Namira Navmeshed patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.4",
+      "file_id": 332397,
+      "file_name": "Daedric Shrines - All in One - My Patches by Xtudo - Namira Navmeshed patch-78809-1-4-1668630738.7z",
+      "mod_id": 78809,
+      "hash": "sha256-V95S+yKAncd1nU3fESmgFGsLhvYee4TV7WCl9rmlNv0="
+    }
+  },
+  "Daedric Shrines - All in One - My Patches by Xtudo - Solitude Skyway patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.5",
+      "file_id": 332528,
+      "file_name": "Daedric Shrines - All in One - My Patches by Xtudo - Solitude Skyway patch-78809-1-5-1668688819.7z",
+      "mod_id": 78809,
+      "hash": "sha256-cwGOQAyHpl5OuZyzE5EP71BtekH8DwznlgVXDbPc/BM="
+    }
+  },
+  "Daedric Shrines - All in One - My Patches by Xtudo - Molag Bal - Not a replacer by Xtudo": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.6",
+      "file_id": 332608,
+      "file_name": "Daedric Shrines - All in One - My Patches by Xtudo - Molag Bal - Not a replacer by Xtudo-78809-1-6-1668713278.7z",
+      "mod_id": 78809,
+      "hash": "sha256-UaSXBXg5IJyMa+u6AwNrSZmLWsIt+teFFQ5uRcvvkXM="
+    }
+  },
+  "Daedric Shrines - All in One - My Patches by Xtudo - Azura Statue replacer": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.7",
+      "file_id": 332696,
+      "file_name": "Daedric Shrines - All in One - My Patches by Xtudo - Azura Statue replacer-78809-1-6-1668767949.7z",
+      "mod_id": 78809,
+      "hash": "sha256-tBF5IfsONq90+cAFHJX+xej6WSrUI4vAT35vadIcTtU="
+    }
+  },
+  "Daedric Shrines - All in One - My Patches by Xtudo - Helsmyrr Village patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.8",
+      "file_id": 333036,
+      "file_name": "Daedric Shrines - All in One - My Patches by Xtudo - Helsmyrr Village patch-78809-1-8-1668887618.7z",
+      "mod_id": 78809,
+      "hash": "sha256-7xFkmq6Hd5IcL8k7B3oE5JRF4boPnL62suMiL6OP6uQ="
+    }
+  },
+  "Daedric Shrines - All in One - My Patches by Xtudo - Opulent Thieves Guild patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.9",
+      "file_id": 333332,
+      "file_name": "Daedric Shrines - All in One - My Patches by Xtudo - Opulent Thieves Guild patch-78809-1-9-1668976244.7z",
+      "mod_id": 78809,
+      "hash": "sha256-0Vo+SclQhHwd0k3WLxtypQLjMTnXi+mGocj5aO3TiMU="
+    }
+  },
+  "Daedric Shrines - All in One - My Patches by Xtudo - Azura Statue replacer - Default size": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.9",
+      "file_id": 333470,
+      "file_name": "Daedric Shrines - All in One - My Patches by Xtudo - Azura Statue replacer - DEFAULT size-78809-1-9-1669031938.7z",
+      "mod_id": 78809,
+      "hash": "sha256-InZ2NzVoMjxOt86ovxySvB6XLFPJNoU1Z+vmw2Jx4Uc="
+    }
+  },
+  "Daedric Shrines - All in One - My Patches by Xtudo - LOTD Interior Statues replacer": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "2.0",
+      "file_id": 334156,
+      "file_name": "Daedric Shrines - All in One - My Patches by Xtudo - LOTD Interior Statues replacer-78809-2-0-1669299404.7z",
+      "mod_id": 78809,
+      "hash": "sha256-XS6gts+XHHp0w4Mro+SP/Wni9u5/WftOQOmLEtP58fs="
+    }
+  },
+  "Daedric Shrines - All in One - My Patches by Xtudo - Azura Shrine Temple SSE patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "2.1",
+      "file_id": 345984,
+      "file_name": "Daedric Shrines - All in One - My Patches by Xtudo - Azura Shrine Temple SSE patch-78809-2-1-1672683086.7z",
+      "mod_id": 78809,
+      "hash": "sha256-89uSzqAu3nPIyI5k2IVtqH86OrGVMvJBZ0Jro+fuHYI="
+    }
+  },
+  "Daedric Shrines - All in One - My Patches by Xtudo - Fists of Fury - Skyrim patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "2.2",
+      "file_id": 353951,
+      "file_name": "Daedric Shrines - All in One - My Patches by Xtudo - Fists of Fury - Skyrim patch-78809-2-2-1674934826.7z",
+      "mod_id": 78809,
+      "hash": "sha256-SG9QHjqb8BOtTLMzlpdBqHvKDVXEWsbcSAan7t7B0S0="
+    }
+  },
+  "Daedric Shrines - All in One - My Patches by Xtudo - JK's College of Winterhold patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "2.2",
+      "file_id": 353991,
+      "file_name": "Daedric Shrines - All in One - My Patches by Xtudo - JK's College of Winterhold patch-78809-2-2-1674939513.7z",
+      "mod_id": 78809,
+      "hash": "sha256-bqZO+6JK2eZ7cDiE40sp8mpzd7f3o6Z1KmSCaOSp5Bk="
+    }
+  },
+  "Daedric Shrines - All in One - My Patches by Xtudo - Death Mountain - Dark Tower patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "2.2",
+      "file_id": 353992,
+      "file_name": "Daedric Shrines - All in One - My Patches by Xtudo - Death Mountain - Dark Tower patch-78809-2-2-1674939541.7z",
+      "mod_id": 78809,
+      "hash": "sha256-N86pa3qMif3VEaHdFWRkfJmGjZk+YZak6qEP3gpRbNw="
+    }
+  },
+  "Daedric Shrines - All in One - My Patches by Xtudo - LOTD - Hall of Heroes - Wintersun - Nocturnal patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "2.3",
+      "file_id": 363684,
+      "file_name": "Daedric Shrines - All in One - My Patches by Xtudo - LOTD - Hall of Heroes - Wintersun - Nocturnal patch-78809-2-3-1677446870.7z",
+      "mod_id": 78809,
+      "hash": "sha256-35sy/DOmHbwLPVdCgDaxUxLoZxtw6PTARUAGBACEW3k="
+    }
+  },
+  "Daedric Shrines - All in One - My Patches by Xtudo - Azura Loading Screen": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "2.6",
+      "file_id": 383340,
+      "file_name": "Daedric Shrines - All in One - My Patches by Xtudo - Azura Loading Screen-78809-2-6-1682870852.7z",
+      "mod_id": 78809,
+      "hash": "sha256-rLZ7uUriU707dlmwGlnQY1hXqU6l1gIOSaja8+alIbg="
+    }
+  },
+  "Daedric Shrines AIO by Xtudo - BS Bruma - Namira": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "2.7",
+      "file_id": 394451,
+      "file_name": "Daedric Shrines AIO by Xtudo - BS Bruma - Namira-78809-2-7-1685747661.7z",
+      "mod_id": 78809,
+      "hash": "sha256-hHlTWyXz1bHC9MKbj3uz9nkqM8dRkE7tRKp9TFc10DM="
+    }
+  },
+  "Daedric Shrines AIO by Xtudo - Aemer's Refuge": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "2.8",
+      "file_id": 397074,
+      "file_name": "Daedric Shrines AIO by Xtudo - Aemer's Refuge-78809-2-8-1686520842.7z",
+      "mod_id": 78809,
+      "hash": "sha256-W1TpuoXIxFcAtss+uYT96JJvx9k5qzeeqPAwtPNs94s="
+    }
+  },
+  "Daedric Shrines AIO by Xtudo - GG's Thieves Guild": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "2.9",
+      "file_id": 398317,
+      "file_name": "Daedric Shrines AIO by Xtudo - GG's Thieves Guild-78809-2-9-1686923774.7z",
+      "mod_id": 78809,
+      "hash": "sha256-e4q7/c26I7lsTrQCoI+Fqw/gjRZUhar06OfyzXgwRoU="
+    }
+  },
+  "Daedric Shrines AIO by Xtudo - Nocturnal - No FB": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "3.0",
+      "file_id": 409981,
+      "file_name": "Daedric Shrines AIO by Xtudo - Nocturnal - No FB-78809-2-9-1690147550.7z",
+      "mod_id": 78809,
+      "hash": "sha256-wRgOY7p6XaWkxIMnzowM+bbPi7WXbslb96gsHtXf6VI="
+    }
+  },
+  "Daedric Shrines AIO by Xtudo - Antennaria patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "3.0",
+      "file_id": 410021,
+      "file_name": "Daedric Shrines AIO by Xtudo - Antennaria patch-78809-3-0-1690153522.7z",
+      "mod_id": 78809,
+      "hash": "sha256-eHQQBIJQah45xbOkZd88kS38uSv+Ug1HVi4q2bvv3Oc="
+    }
+  },
+  "Daedric Shrines AIO by Xtudo - Azura Replacer 2x": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "3.2",
+      "file_id": 422100,
+      "file_name": "Daedric Shrines AIO by Xtudo - Azura Replacer 2x-78809-3-2-1693427389.7z",
+      "mod_id": 78809,
+      "hash": "sha256-KUK5Rz66ku2604ru49pWRXlznS+eySdMztUrHmU3abw="
+    }
+  },
+  "Daedric Shrines AIO by Xtudo - The Evil Mansion": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "3.3",
+      "file_id": 457214,
+      "file_name": "Daedric Shrines AIO by Xtudo - The Evil Mansion-78809-3-3-1704206094.7z",
+      "mod_id": 78809,
+      "hash": "sha256-0p0E9UU07EaFbTHtLpMxhp7hCRQAU667EAS3oWaob7c="
+    }
+  },
+  "Daedric Shrines AIO by Xtudo - Enhanced Solitude": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "3.4",
+      "file_id": 462275,
+      "file_name": "Daedric Shrines AIO by Xtudo - Enhanced Solitude-78809-3-4-1705500490.7z",
+      "mod_id": 78809,
+      "hash": "sha256-9Zj35fyoX+WlPpY3QnHcqPnKzeK+WcDZGUjbQuZS4rc="
+    }
+  },
+  "Daedric Shrines AIO by Xtudo - Skyrim Cut Content": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "3.5",
+      "file_id": 475208,
+      "file_name": "Daedric Shrines AIO by Xtudo - Skyrim Cut Content-78809-3-5-1709070634.7z",
+      "mod_id": 78809,
+      "hash": "sha256-lpJaRhvPeUPifFAonVU6D+ec023n3mrHNsu+2g18FXA="
+    }
+  },
+  "Daedric Shrines AIO by Xtudo - Moon and Star Azura": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "3.6",
+      "file_id": 482799,
+      "file_name": "Daedric Shrines AIO by Xtudo - Moon and Star-78809-3-6-1711029519.7z",
+      "mod_id": 78809,
+      "hash": "sha256-uLs7SBimeoDmzkP/TlK4mVGrtDpl0+J0HoRJ/M6sRNQ="
+    }
+  },
+  "Daedric Shrines AIO by Xtudo - The Gray Cowl": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "3.7",
+      "file_id": 506625,
+      "file_name": "Daedric Shrines AIO by Xtudo - The Gray Cowl-78809-3-7-1717085005.7z",
+      "mod_id": 78809,
+      "hash": "sha256-Q7SoqaqQcfQ/kvxlxexT3tM0fYwrUNWODZ7mTJ8waH4="
+    }
+  },
+  "Daedric Shrines AIO by Xtudo - Wyrmstooth": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "3.8",
+      "file_id": 506870,
+      "file_name": "Daedric Shrines AIO by Xtudo - Wyrmstooth-78809-3-8-1717162735.7z",
+      "mod_id": 78809,
+      "hash": "sha256-TleTBu9Y0bGLTR0b4QL2uc8G6KX5NU7F4sL5HU6sIbM="
+    }
+  },
+  "Daedric Shrines AIO by Xtudo - HSPH - Honeyside": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "3.9",
+      "file_id": 509313,
+      "file_name": "Daedric Shrines AIO by Xtudo - HSPH - Honeyside-78809-3-9-1717768406.7z",
+      "mod_id": 78809,
+      "hash": "sha256-tauzczc8jcP7atPjWYWbLOLMHk0g8fo6PXE4RU2M77A="
+    }
+  },
+  "Daedric Shrines AIO by Xtudo - HSPH - Severin": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "3.9",
+      "file_id": 509314,
+      "file_name": "Daedric Shrines AIO by Xtudo - HSPH - Severin-78809-3-9-1717768474.7z",
+      "mod_id": 78809,
+      "hash": "sha256-rJ9apwUcoKSXpG+7NFRR3vGflANmy95nyaxja4KBMqc="
+    }
+  },
+  "Daedric Shrines AIO by Xtudo - Azura's Dawn": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "4.1",
+      "file_id": 514749,
+      "file_name": "Daedric Shrines AIO by Xtudo - Azura's Dawn-78809-4-1-1719319371.7z",
+      "mod_id": 78809,
+      "hash": "sha256-7LpA2ZNEeG0AKTTc0/wUTzDOWK/fl2T80Rp9Kf29Ml0="
+    }
+  },
+  "Daedric Shrines AIO by Xtudo - LKVM - As It Should": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "4.2",
+      "file_id": 534451,
+      "file_name": "Daedric Shrines AIO by Xtudo - LKVM - As It Should-78809-4-2-1724414604.7z",
+      "mod_id": 78809,
+      "hash": "sha256-OIYYfLx3KYPfzsvZjqeEu1dU1WV0Uopn32zqLFKZjdM="
+    }
+  },
+  "Daedric Shrines AIO by Xtudo - FIXES No Map Marker": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "4.3",
+      "file_id": 536108,
+      "file_name": "Daedric Shrines AIO by Xtudo - FIXES No Map Marker-78809-4-3-1724842945.7z",
+      "mod_id": 78809,
+      "hash": "sha256-g2gr0qEkA9Q5Ok/NVLDSqrkTF4+iIGj6OcomQDHO0xg="
+    },
+    "type": "primary"
+  },
+  "Daedric Shrines AIO by Xtudo - FIXES": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "4.3",
+      "file_id": 536110,
+      "file_name": "Daedric Shrines AIO by Xtudo - FIXES-78809-4-3-1724842973.7z",
+      "mod_id": 78809,
+      "hash": "sha256-5+IwgdDyVZQfZ2oVkpZJAXTcRcFcabIFmoLSvokw47o="
+    },
+    "type": "primary"
+  },
+  "Daedric Shrines AIO by Xtudo - Azura Default NSnow": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "4.3",
+      "file_id": 536120,
+      "file_name": "Daedric Shrines AIO by Xtudo - Azura Default NSnow-78809-4-3-1724846403.7z",
+      "mod_id": 78809,
+      "hash": "sha256-3Xu/oIbbP8Q+ECcRGwMtVysjWFxR1CH7pUNxCJFT3Iw="
+    }
+  },
+  "Daedric Shrines AIO by Xtudo - Leaf Rest": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "4.4",
+      "file_id": 546118,
+      "file_name": "Daedric Shrines AIO by Xtudo - Leaf Rest-78809-4-4-1727296053.7z",
+      "mod_id": 78809,
+      "hash": "sha256-HDjbH0oj4k4tC/43HY9LgLhD7b22st+l6SkH+Tn9X/c="
+    }
+  },
+  "Daedric Shrines AIO by Xtudo - Hermaeus Talos": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "4.5",
+      "file_id": 564216,
+      "file_name": "Daedric Shrines AIO by Xtudo - Hermaeus Talos-78809-4-5-1732107878.7z",
+      "mod_id": 78809,
+      "hash": "sha256-mK2nwb9jFtAMex1JoNLCNBlgkKx5ajvVPEBFxwPvFMg="
+    }
+  },
+  "Daedric Shrines AIO by Xtudo - Snazzy - Silus": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "4.6",
+      "file_id": 586185,
+      "file_name": "Daedric Shrines AIO by Xtudo - Snazzy - Silus-78809-4-6-1737548127.7z",
+      "mod_id": 78809,
+      "hash": "sha256-j6YZFsylLV1l4gSa4QDWz+DkhjkqxhuSQeD4Xg1AfRE="
+    }
+  },
+  "Daedric Shrines AIO by Xtudo - The Gray Cowl 10th": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "4.7",
+      "file_id": 594074,
+      "file_name": "Daedric Shrines AIO by Xtudo - The Gray Cowl 10th-78809-4-7-1739447254.7z",
+      "mod_id": 78809,
+      "hash": "sha256-Syj99dDXxBgNx2yQJTPWZLdpevPybzQ/XB2lbbS1i3M="
+    }
+  },
+  "Daedric Shrines AIO by Xtudo - Wr Underground Lair": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "4.8",
+      "file_id": 598329,
+      "file_name": "Daedric Shrines AIO by Xtudo - Wr Underground Lair-78809-4-8-1740341409.7z",
+      "mod_id": 78809,
+      "hash": "sha256-R+DOib4CDFno1tKOfwhRbp6Ya3L7f+TjUmUAAms5+Uk="
+    }
+  },
+  "Daedric Shrines AIO by Xtudo - Lakvan's Str Reborn": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "4.9",
+      "file_id": 609203,
+      "file_name": "Daedric Shrines AIO by Xtudo - Lakvan's Str Reborn-78809-4-9-1742815588.7z",
+      "mod_id": 78809,
+      "hash": "sha256-KeIwdhOCZIOg1ukXGwcTOmmpf8jdrK55IYaGFoj87+I="
+    }
+  },
+  "Daedric Shrines AIO by Xtudo - Dunmer Raven Rock": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "4.9",
+      "file_id": 609217,
+      "file_name": "Daedric Shrines AIO by Xtudo - Dunmer Settlements-78809-4-9-1742820028.7z",
+      "mod_id": 78809,
+      "hash": "sha256-EalMCK6F4bqnXkxHNBcsQCIPiBtuo2yFWWUq9ACkSG0="
+    }
+  },
+  "Daedric Shrines AI - JK's Obscure's College": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "5.0",
+      "file_id": 610005,
+      "file_name": "Daedric Shrines AI - JK's Obscure's College-78809-5-0-1742990880.7z",
+      "mod_id": 78809,
+      "hash": "sha256-hWUV7NgWzahChWe1HxQ1hnANqbcjAqT72/cT4aGm3qM="
+    }
+  },
+  "Daedric Shrines AIO by Xtudo - Dunmer of Solstheim": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "5.1",
+      "file_id": 612109,
+      "file_name": "Daedric Shrines AIO by Xtudo - Dunmer SolstheimESL-78809-5-1-1743428559.7z",
+      "mod_id": 78809,
+      "hash": "sha256-ia9c7A7zRcA9dQRy3pD8aWNKZ0Sf0v9PXbjE/xfyht4="
+    }
+  },
+  "Daedric Shrines AIO by Xtudo - Levelers Tower": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "5.3",
+      "file_id": 615218,
+      "file_name": "Daedric Shrines AIO by Xtudo - Levelers Tower-78809-5-3-1744123015.7z",
+      "mod_id": 78809,
+      "hash": "sha256-mySc2wp6oP9CMlxCR/xzWj+Kxztt6HRlJK9RuaMauzw="
+    }
+  },
+  "Daedric Shrines AIO by Xtudo - CC Gallows Hall": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "5.4",
+      "file_id": 615601,
+      "file_name": "Daedric Shrines AIO by Xtudo - CC Gallows Hall-78809-5-4-1744234482.7z",
+      "mod_id": 78809,
+      "hash": "sha256-Y7qH5nE2MEhp0bW+sU1TGqkVo9Obtsy9LaVuBkCi2Z8="
+    }
+  },
+  "Daedric Shrines AIO by Xtudo - Castle VR Molag Bal": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "5.5",
+      "file_id": 620491,
+      "file_name": "Daedric Shrines AIO by Xtudo - Castle VR Molag Bal-78809-5-5-1745443817.7z",
+      "mod_id": 78809,
+      "hash": "sha256-MYQ/onf+8fTwbe80Fl9LZbuHaQQhjgGgtY+Sp2CwIqg="
+    }
+  },
+  "Daedric Shrines AIO by Xtudo - Castle VR Mara": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "5.5",
+      "file_id": 620492,
+      "file_name": "Daedric Shrines AIO by Xtudo - Castle VR Mara-78809-5-5-1745443866.7z",
+      "mod_id": 78809,
+      "hash": "sha256-+Ww+BuWu7ypvgThHaY39NKug6t5dxnT3vjjzCroQ4iE="
+    }
+  },
+  "Daedric Shrines AIO by Xtudo - Kemelzuun": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "5.5",
+      "file_id": 620521,
+      "file_name": "Daedric Shrines AIO by Xtudo - Kemelzuun-78809-5-5-1745446825.7z",
+      "mod_id": 78809,
+      "hash": "sha256-NttnVwMT1VWXQmeE8DVVWUfg78dwysbrnAx0ogmSMG0="
+    }
+  },
+  "Daedric Shrines AIO by Xtudo - Hearthfire Shrines": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "5.6",
+      "file_id": 636219,
+      "file_name": "Daedric Shrines AIO by Xtudo - Hearthfire Shrines-78809-5-6-1749477359.7z",
+      "mod_id": 78809,
+      "hash": "sha256-8scVIAq4cc9xSVK+bSH1MAEf+BZa3Bftp6uvMcxZnNU="
+    }
+  },
+  "Daedric Shrines AIO by Xtudo - Elianora (EBO-3X)": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "5.6",
+      "file_id": 636325,
+      "file_name": "Daedric Shrines AIO by Xtudo - Elianora (EBO-3X)-78809-5-6-1749499163.7z",
+      "mod_id": 78809,
+      "hash": "sha256-gLJduPQMuthEY7dQWnZpQ7tqygyoTF+AkGLT5L7q5AA="
+    }
+  },
+  "Daedric Shrines AIO by Xtudo - Elianora (EBO-2X)": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "5.6",
+      "file_id": 636326,
+      "file_name": "Daedric Shrines AIO by Xtudo - Elianora (EBO-2X)-78809-5-6-1749499189.7z",
+      "mod_id": 78809,
+      "hash": "sha256-g2EHizwhUsz4H23xfy/3JaGsgybcSUzrJY0zF6enGlA="
+    }
+  },
+  "Daedric Shrines AIO by Xtudo - WINTERSUN Fixes": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "5.7",
+      "file_id": 636355,
+      "file_name": "Daedric Shrines AIO by Xtudo - WINTERSUN Fixes-78809-5-7-1749506921.7z",
+      "mod_id": 78809,
+      "hash": "sha256-xJ5fvWexqRtUG/aMCf/N9ZbkvvPndnsqYRJKF9kcg20="
+    },
+    "type": "primary"
+  },
+  "Daedric Shrines AIO by Xtudo - Volkihar Knight": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "5.8",
+      "file_id": 637366,
+      "file_name": "Daedric Shrines AIO by Xtudo - Volkihar Knight-78809-5-8-1749820910.7z",
+      "mod_id": 78809,
+      "hash": "sha256-yn4Q8nfj8t6gcVOWJ559GfrPwY/ihtLM/MnYa11W2Eo="
+    }
+  },
+  "Daedric Shrines AIO by Xtudo - Skyrim Cut Wintrsun": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "5.9",
+      "file_id": 651734,
+      "file_name": "Daedric Shrines AIO by Xtudo - Skyrim Cut Wintrsun-78809-5-9-1754001570.7z",
+      "mod_id": 78809,
+      "hash": "sha256-1/5807TdPGA4ekWC+ADiVWqozFA4VKbpb+l+0hNZ4MU="
+    }
+  },
+  "Daedric Shrines AIO by Xtudo - WoDP SolitudeSkyway": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "6.0",
+      "file_id": 655085,
+      "file_name": "Daedric Shrines AIO by Xtudo - WoDP SolitudeSkyway-78809-6-0-1755030203.7z",
+      "mod_id": 78809,
+      "hash": "sha256-CmpFh4XQiQm4TZFvWNHfX+oBPjBGPqi/qacX+49QQgc="
+    }
+  },
+  "Daedric Shrines AIO by Xtudo - WoDP Skyrim Cut": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "6.0",
+      "file_id": 655087,
+      "file_name": "Daedric Shrines AIO by Xtudo - WoDP Skyrim Cut-78809-6-0-1755030265.7z",
+      "mod_id": 78809,
+      "hash": "sha256-zRlZFLv1sCgO7mFUEKvjYrOO5Riv6QeCysxVdjVp5qk="
+    }
+  },
+  "Daedric Shrines AIO by Xtudo - Ebongrove": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "6.2",
+      "file_id": 659739,
+      "file_name": "Daedric Shrines AIO by Xtudo - Ebongrove-78809-6-2-1756298539.7z",
+      "mod_id": 78809,
+      "hash": "sha256-8VIgBmoc2koey5hhs6JxYLE/R0xKRahna/+wbR3kE+k="
+    }
+  },
+  "Daedric Shrines AIO by Xtudo - Skyrims Unique": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "6.4",
+      "file_id": 671479,
+      "file_name": "Daedric Shrines AIO by Xtudo - Skyrims Unique-78809-6-4-1759405544.7z",
+      "mod_id": 78809,
+      "hash": "sha256-JAIRRzkl5mSDE4JFVuo4B0EHB/rAhMEBcq9QzW4gZig="
+    }
+  },
+  "Daedric Shrines AIO by Xtudo - Skyrims Unique Gold": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "6.4",
+      "file_id": 671480,
+      "file_name": "Daedric Shrines AIO by Xtudo - Skyrims Unique Gold-78809-6-4-1759405572.7z",
+      "mod_id": 78809,
+      "hash": "sha256-Bh56IwwmzrctSC5HReCYikaYUCl1G7pWP4hD/kR2dz8="
+    }
+  },
+  "Daedric Shrines AIO by Xtudo - Dragonbrn Keep": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "6.5",
+      "file_id": 682575,
+      "file_name": "Daedric Shrines AIO by Xtudo - Dragonbrn Keep-78809-6-5-1761996795.7z",
+      "mod_id": 78809,
+      "hash": "sha256-NcSKERphMZu/EjRo/ho0vpThL3cmLANPfSL/cbmkwsE="
+    }
+  },
+  "Daedric Shrines AIO by Xtudo - There Is No Umbra": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "6.6",
+      "file_id": 683853,
+      "file_name": "Daedric Shrines AIO by Xtudo - There Is No Umbra-78809-6-6-1762290086.7z",
+      "mod_id": 78809,
+      "hash": "sha256-HEo9kKTfnEdMACApvLMaWwfANm8aDWNEVc+Kel49OOg="
+    }
+  },
+  "Daedric Shrines AIO by Xtudo - LOTD Entrance SR": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "6.7",
+      "file_id": 703027,
+      "file_name": "Daedric Shrines AIO by Xtudo - LOTD Entrance SR-78809-6-7-1766957987.7z",
+      "mod_id": 78809,
+      "hash": "sha256-brtvgQz9g03o2SOx+cV7Rz38+pyzYqN2GbxujTFSZf0="
+    }
+  },
+  "Daedric Shrines AIO by Xtudo - Children North Wind": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "6.8",
+      "file_id": 703224,
+      "file_name": "Daedric Shrines AIO by Xtudo -Children North Wind-78809-6-8-1767013813.7z",
+      "mod_id": 78809,
+      "hash": "sha256-LTpXquMNpardbyZJmzo4JFErVv6/EgaUCpd5VBStAfY="
+    }
+  }
+}

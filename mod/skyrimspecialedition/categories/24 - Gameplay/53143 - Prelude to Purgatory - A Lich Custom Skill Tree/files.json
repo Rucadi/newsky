@@ -1,0 +1,34 @@
+{
+  "Prelude to Purgatory - A Lich Custom Skill Tree": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "2.3.0",
+      "file_id": 269109,
+      "file_name": "Prelude to Purgatory - A Lich Custom Skill Tree-53143-2-3-0-1646862368.7z",
+      "mod_id": 53143,
+      "hash": "sha256-1Qqp4Z1F8IxcLGWkDl0bdFNRViaDRpHAuZllK6aIymI="
+    },
+    "type": "primary"
+  },
+  "Prelude to Purgatory - V3 Ascension Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "3.0.0",
+      "file_id": 548464,
+      "file_name": "Prelude to Purgatory - V3 Ascension Patch-53143-3-0-0-1727908704.7z",
+      "mod_id": 53143,
+      "hash": "sha256-XxVDoUAj38mSp3R/0ohAw7HZ6IFUOGKRRAjZCfef4VU="
+    }
+  },
+  "Prelude to Purgatory v3 beta": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "3.0.0.beta-6",
+      "file_id": 644684,
+      "file_name": "Prelude to Purgatory v3 beta-53143-3-0-0-beta-6-1751805079.7z",
+      "mod_id": 53143,
+      "hash": "sha256-HRe28JPM4dPZwavMKLfIWUQ8sMnl+pF46Elvaz7J9lQ="
+    },
+    "type": "primary"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "Soldier of Stendarr": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0.3",
+      "file_id": 415960,
+      "file_name": "Soldier of Stendarr-97984-1-0-3-1691724041.7z",
+      "mod_id": 97984,
+      "hash": "sha256-B5jB+DcbFIOB+d2BQSqk4xMmBMGPN6Zy+rKToWWvB0s="
+    },
+    "type": "primary"
+  },
+  "Soldier of Stendarr - No amulet Req patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0.0",
+      "file_id": 542710,
+      "file_name": "Soldier of Stendarr - No amulet Req patch-97984-1-0-0-1726451291.7z",
+      "mod_id": 97984,
+      "hash": "sha256-rY1pdmflFF4P4ecGGQ+atP9NqhcVhZmMlN4D0kRNeC0="
+    }
+  }
+}

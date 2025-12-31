@@ -1,0 +1,44 @@
+{
+  "Skyrim's Got Talent - Player Reactions Free Movement Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 331305,
+      "file_name": "Skyrim's Got Talent - Player Reactions Free Movement Patch-78629-1-0-1668303313.zip",
+      "mod_id": 78629,
+      "hash": "sha256-bHow2qjC8Xj4BmEqSu4pF+lETJFLHC6DIQGdqCVwIzM="
+    }
+  },
+  "SGT - Bards Reborn - Player Reactions Addon": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 370237,
+      "file_name": "Skyrim's Got Talent - Bards Reborn Patch - Player Reactions Addon-78629-1-0-1679296498.zip",
+      "mod_id": 78629,
+      "hash": "sha256-kRBekAISNyCi6qIVOOqW3FvJEkBFaJk7MYJqgWPOmKI="
+    }
+  },
+  "Skyrim's Got Talent - Player Reactions Addon": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.07",
+      "file_id": 514730,
+      "file_name": "Skyrim's Got Talent - Player Reactions Addon-78629-1-06-1719313248.zip",
+      "mod_id": 78629,
+      "hash": "sha256-E/N0h+Ia9ox2GVAoeUHt5QE9vYPSMIRFYAYoRzdxieQ="
+    },
+    "type": "primary"
+  },
+  "Skyrim's Got Talent - Player Reactions Addon (OMA)": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.07",
+      "file_id": 514732,
+      "file_name": "Skyrim's Got Talent - Player Reactions Addon (OMA)-78629-1-07-1719313344.zip",
+      "mod_id": 78629,
+      "hash": "sha256-rPukVqu35WZaJEqTpcHSDMHYFmHhlARVDrsiaXRXL78="
+    },
+    "type": "primary"
+  }
+}

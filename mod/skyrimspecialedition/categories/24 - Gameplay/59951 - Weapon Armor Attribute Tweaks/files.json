@@ -1,0 +1,33 @@
+{
+  "Weapon Armor Attribute Tweaks": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 248449,
+      "file_name": "Weapon Armor Attribute Tweaks-59951-1-0-1639296254.7z",
+      "mod_id": 59951,
+      "hash": "sha256-YJGfSEQqfALrqxUyOIU2DPPDjXaS2uZuNjC96XuGRp0="
+    },
+    "type": "primary"
+  },
+  "Weapon Armor Attribute Tweaks Lite": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 248451,
+      "file_name": "Weapon Armor Attribute Tweaks Lite-59951-1-0-1639296451.7z",
+      "mod_id": 59951,
+      "hash": "sha256-h7G8uxUof0ZQNTuImpMMaoSP1NscESWoVAz/Ljj2M1M="
+    }
+  },
+  "WAAT Custom Artifact Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 248452,
+      "file_name": "WAAT Custom Artifact Patch-59951-1-0-1639296555.7z",
+      "mod_id": 59951,
+      "hash": "sha256-IPyfxSXDOTm8EqZQVXS9bj8JJxdCaZf+th2c3DW/mbc="
+    }
+  }
+}

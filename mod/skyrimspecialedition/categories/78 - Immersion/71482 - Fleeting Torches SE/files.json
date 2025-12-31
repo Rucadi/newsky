@@ -1,0 +1,24 @@
+{
+  "Fleeting Torches (30 minutes)": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1",
+      "file_id": 299330,
+      "file_name": "Fleeting Torches (30 minutes)-71482-1-1657951451.7z",
+      "mod_id": 71482,
+      "hash": "sha256-6oKkpw4/OXcLylifhZb0JaF2mfpuKQaxsLEEDFzCve0="
+    },
+    "type": "primary"
+  },
+  "Fleeting Torches (1 Hour)": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1",
+      "file_id": 299331,
+      "file_name": "Fleeting Torches (1 Hour)-71482-1-1657951533.7z",
+      "mod_id": 71482,
+      "hash": "sha256-ux2Y2aTNzzdo6mkiX3tip3Tq/yj4VLMe/f9wPtmpFOg="
+    },
+    "type": "primary"
+  }
+}

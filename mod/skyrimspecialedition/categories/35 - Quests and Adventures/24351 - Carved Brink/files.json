@@ -1,0 +1,44 @@
+{
+  "Carved Brink (EN)": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1",
+      "file_id": 86891,
+      "file_name": "Carved Brink (EN)-24351-1-1-1553970071.rar",
+      "mod_id": 24351,
+      "hash": "sha256-eni64/03UhijtvbQGzojzTekuzOCpcb0XeOglRqne2M="
+    },
+    "type": "primary"
+  },
+  "Carved Brink (RU)": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1",
+      "file_id": 86892,
+      "file_name": "Carved Brink (RU)-24351-1-1-1553970265.rar",
+      "mod_id": 24351,
+      "hash": "sha256-uMw412+tQAUcFI0bohlPDDAyFj9Fb/wayRdGLlX70gE="
+    },
+    "type": "primary"
+  },
+  "Carved Brink Pillars Edition": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "Beta",
+      "file_id": 87368,
+      "file_name": "Carved Brink Pillars Edition-24351-Beta-1554388716.rar",
+      "mod_id": 24351,
+      "hash": "sha256-PjfL5Dc3dFPiLRg6DpQNydVxaeSfXLllWlZxdlLU068="
+    }
+  },
+  "Carved Brink ESM Flag Edition": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1",
+      "file_id": 87396,
+      "file_name": "Carved Brink ESM Flag Edition-24351-1-1-1554402436.rar",
+      "mod_id": 24351,
+      "hash": "sha256-hm5j5R3Rc9P/mTtmlc6DTsqcQkKfVP07XUXqUrs1pUg="
+    }
+  }
+}

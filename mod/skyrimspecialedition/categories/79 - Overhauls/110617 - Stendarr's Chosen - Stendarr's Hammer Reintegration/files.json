@@ -1,0 +1,43 @@
+{
+  "Possible Site Expansion -  Beyond Skyrim Bruma": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0.0",
+      "file_id": 590479,
+      "file_name": "Possible Site Expansion -  Beyond Skyrim Bruma-110617-1-0-0-1738565266.zip",
+      "mod_id": 110617,
+      "hash": "sha256-TEszTFnb5HkpIN3LMlVJ5q+ePccN/bYi23OxUOixXi4="
+    }
+  },
+  "Possible Site Expansion -  Wyrmstooth": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0.0",
+      "file_id": 590480,
+      "file_name": "Possible Site Expansion -  Wyrmstooth-110617-1-0-0-1738565308.zip",
+      "mod_id": 110617,
+      "hash": "sha256-aj9A9AxR99Oh9Dkx7xzt6ev0DTy3sNkQUZtbw1tg/yg="
+    }
+  },
+  "Stendarr's Chosen": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "2.0.0",
+      "file_id": 630705,
+      "file_name": "Stendarr's Chosen-110617-2-0-0-1748104863.zip",
+      "mod_id": 110617,
+      "hash": "sha256-l4SO981oY0i/dqZ9S3TxBKJ7YjFqtKHPx4hsdNOmovM="
+    },
+    "type": "primary"
+  },
+  "Disable Skyrim Sites": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "2.0.0",
+      "file_id": 630707,
+      "file_name": "Disable Skyrim Sites-110617-2-0-0-1748105402.zip",
+      "mod_id": 110617,
+      "hash": "sha256-uPni0nSOnxBETVt9xld6v5lzqUvDPYJJXkUQdavYUOA="
+    }
+  }
+}

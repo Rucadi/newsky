@@ -1,0 +1,68 @@
+{
+  "RS Children Patch- GTS Bruma Hotfix": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "5.0",
+      "file_id": 686404,
+      "file_name": "RS Children Patch- GTS Bruma Hotfix-164145-5-0-1762857155.rar",
+      "mod_id": 164145,
+      "hash": "sha256-hAQDiKwUW57LjfsRisIiyNx+PZSKpshijv71q9OuTs4="
+    },
+    "type": "primary"
+  },
+  "RS Children - Great Village of Mixwater Mill Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "5.0",
+      "file_id": 686406,
+      "file_name": "RS Children - Great Village of Mixwater Mill Patch-164145-5-0-1762857188.rar",
+      "mod_id": 164145,
+      "hash": "sha256-cmvBqWya4MRPCKoCN+uRiHq0a3OyUNohaIvqWM7zS8k="
+    },
+    "type": "primary"
+  },
+  "College of Winterhold Quest Expansion Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "5.0",
+      "file_id": 686409,
+      "file_name": "College of Winterhold Quest Expansion Patch-164145-5-0-1762857227.rar",
+      "mod_id": 164145,
+      "hash": "sha256-INCt9oKBHvEzRA2E2pwRpHqGAKOwnmIuGoAle6vtle8="
+    },
+    "type": "primary"
+  },
+  "Dac0da - RS Children Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "5.0",
+      "file_id": 686410,
+      "file_name": "Dac0da - RS Children Patch-164145-5-0-1762857252.rar",
+      "mod_id": 164145,
+      "hash": "sha256-zevEv5Ls00xk8YJKEyn5jQnjvdU5uReHxdb6asmC6tY="
+    },
+    "type": "primary"
+  },
+  "RS Children - Populating Falkreath Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "5.0",
+      "file_id": 690495,
+      "file_name": "RS Children - Populated Falkreath Patch-164145-1-0-1763925896.rar",
+      "mod_id": 164145,
+      "hash": "sha256-95rHKdJppKQRGN4ok2Tb3guP8jPyWKZS22foZs2yc2E="
+    },
+    "type": "primary"
+  },
+  "Citizens of Tamriel Mod by Craftian -EZPG Version": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 699252,
+      "file_name": "Citizens of Tamriel Mod by Craftian -EZPG Version-164145-1-0-1766057740.rar",
+      "mod_id": 164145,
+      "hash": "sha256-OX4NrfSL+CJbRNHSo/6JguGNDgj4N3V0YrIos7uxBBs="
+    },
+    "type": "primary"
+  }
+}

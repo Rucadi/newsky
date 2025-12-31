@@ -1,0 +1,24 @@
+{
+  "Akaviri History": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0.5",
+      "file_id": 519723,
+      "file_name": "Akaviri History-76804-1-0-4-1720637814.7z",
+      "mod_id": 76804,
+      "hash": "sha256-vIwxl1hiDCZyEDa8w+YddOhxq7NAfTdrB1Ad3OpuhfU="
+    },
+    "type": "primary"
+  },
+  "Akaviri History - CoMAP": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "0",
+      "file_id": 543416,
+      "file_name": "Akaviri History - CoMAP-76804-0-1726629264.7z",
+      "mod_id": 76804,
+      "hash": "sha256-JKo7NmM0o/2oR7f9i7U6ZrLXSfehzejNJtYYY89Lwcw="
+    },
+    "type": "primary"
+  }
+}

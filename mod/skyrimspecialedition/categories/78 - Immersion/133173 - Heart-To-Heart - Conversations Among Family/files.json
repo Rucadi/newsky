@@ -1,0 +1,23 @@
+{
+  "Heart-To-Heart - Conversations Among Family 1.1": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1",
+      "file_id": 614897,
+      "file_name": "Heart-To-Heart - Conversations Among Family 1.1-133173-1-1-1744042661.rar",
+      "mod_id": 133173,
+      "hash": "sha256-gmLra/TZo1FaFlgFzaIe43iGFF2Z1l5CqlV8OPTfxBs="
+    },
+    "type": "primary"
+  },
+  "Story Manager Kicker": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 644835,
+      "file_name": "Story Manager Kicker-133173-1-0-1751842921.rar",
+      "mod_id": 133173,
+      "hash": "sha256-NqX3IYvN4vie63uwTASmWhilJj8AYAgix3akwNPG/x0="
+    }
+  }
+}

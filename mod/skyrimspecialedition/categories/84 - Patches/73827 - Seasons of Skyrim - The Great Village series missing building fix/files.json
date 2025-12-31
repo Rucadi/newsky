@@ -1,0 +1,24 @@
+{
+  "Seasons of Skyrim - The Great Village of Kynesgrove fix": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 309507,
+      "file_name": "Seasons of Skyrim - The Great Village of Kynesgrove fix-73827-1-0-1661173220.rar",
+      "mod_id": 73827,
+      "hash": "sha256-uQlOxKiPWPFekgVot4X/Dh7BCOK8MRvq/4EA+7xdlGo="
+    },
+    "type": "primary"
+  },
+  "Seasons of Skyrim - The Great Village of Mixwater Mill fix": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 309508,
+      "file_name": "Seasons of Skyrim - The Great Village of Mixwater Mill fix-73827-1-0-1661173309.rar",
+      "mod_id": 73827,
+      "hash": "sha256-TpqndBhwML+QFSIiiPQOhFB+FWK0tG0mofbOlbt5bLY="
+    },
+    "type": "primary"
+  }
+}

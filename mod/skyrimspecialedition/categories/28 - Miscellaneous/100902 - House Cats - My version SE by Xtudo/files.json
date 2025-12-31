@@ -1,0 +1,84 @@
+{
+  "House Cats - My version SE by Xtudo - FluffyC 2K": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "2",
+      "file_id": 427275,
+      "file_name": "House Cats - My version SE by Xtudo - FluffyC 2K-100902-1-1-1695127785.7z",
+      "mod_id": 100902,
+      "hash": "sha256-p6mdXIH8vh8f5Y9vqW9kEqRGeBKI45fJmwIMCNWwqXM="
+    }
+  },
+  "House Cats - My version SE by Xtudo - FluffyC 1K": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "2",
+      "file_id": 427277,
+      "file_name": "House Cats - My version SE by Xtudo - FluffyC 1K-100902-1-1-1695127814.7z",
+      "mod_id": 100902,
+      "hash": "sha256-fP4PmkdXgl3InX87Fo1sTXddjLTCZK4qXlj/+53YfLc="
+    }
+  },
+  "House Cats - My version SE by Xtudo - PussInBoots": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "2",
+      "file_id": 428156,
+      "file_name": "House Cats - My version SE by Xtudo - PussInBoots-100902-2-1695409039.7z",
+      "mod_id": 100902,
+      "hash": "sha256-bjHhXto87mptfQEx6+Eu6afRj6EJiAnH44bWYzEEA+g="
+    }
+  },
+  "House Cats - My version SE by Xtudo - Pet the cats": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "2.1",
+      "file_id": 448976,
+      "file_name": "House Cats - My version SE by Xtudo - Pet the cats-100902-2-1-1701776799.7z",
+      "mod_id": 100902,
+      "hash": "sha256-WXLiyVGZYwoX9/hkylF0culK7IcQ6d3jpu4PrwNHxs4="
+    }
+  },
+  "House Cats - My version SE by Xtudo - Pet Ironclaw": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "2.1",
+      "file_id": 448977,
+      "file_name": "House Cats - My version SE by Xtudo - Pet Ironclaw-100902-2-1-1701776929.7z",
+      "mod_id": 100902,
+      "hash": "sha256-n40HqMSc/ZevcbSR2pV3OY1LAyaJvEk0nBvIjJNoWPA="
+    }
+  },
+  "House Cats - My version SE by Xtudo - No collars": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "2.2",
+      "file_id": 536794,
+      "file_name": "House Cats - My version SE by Xtudo - No collars-100902-2-2-1725022283.7z",
+      "mod_id": 100902,
+      "hash": "sha256-15iAOS5PKvEQd1uVyAAICxaWWWGRI3lDcz2wvNnI4ew="
+    }
+  },
+  "House Cats - My version SE by Xtudo - HeadT": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "2.4",
+      "file_id": 596896,
+      "file_name": "House Cats - My version SE by Xtudo - HeadT-100902-2-4-1740056932.7z",
+      "mod_id": 100902,
+      "hash": "sha256-trEP1puP8xTVTXStxeMhG8ahBwThfBHxGiLBpcxWLrE="
+    },
+    "type": "primary"
+  },
+  "House Cats - My version SE by Xtudo - No HeadT": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "2.4",
+      "file_id": 596897,
+      "file_name": "House Cats - My version SE by Xtudo - No HeadT-100902-2-4-1740056954.7z",
+      "mod_id": 100902,
+      "hash": "sha256-4tXoDnqQoaGPeKZimp75XBnzAfKF4MeJ5ckx3iWIZRU="
+    },
+    "type": "primary"
+  }
+}

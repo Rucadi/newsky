@@ -1,0 +1,43 @@
+{
+  "Administer Potions - Food Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "NotUsed",
+      "file_id": 200840,
+      "file_name": "Administer Potions - Food Patch-24127-NotUsed-1619732599.7z",
+      "mod_id": 24127,
+      "hash": "sha256-bxzshzykUu6aokFNcHvi3+RJLMK71MoGMkBUTOHU0iM="
+    }
+  },
+  "Administer Potions - The White Phial - TnE Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "3.1",
+      "file_id": 309163,
+      "file_name": "Administer Potions - The White Phial - TnE Patch-24127-3-1-1661086589.7z",
+      "mod_id": 24127,
+      "hash": "sha256-7W3gqHe6fFB0QfP9lHL3x+RtBZWZQFcQuToTKXsDmO0="
+    }
+  },
+  "Administer Potions - Apothecary Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "3.5.1",
+      "file_id": 648433,
+      "file_name": "Administer Potions - Apothecary Patch-24127-3-5-1-1752910780.7z",
+      "mod_id": 24127,
+      "hash": "sha256-9VypDG6tmJI9Ud8DRBLdST/lqStKl6/TYUpQGUEDHxk="
+    }
+  },
+  "Administer Potions (ADMP)": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "3.6",
+      "file_id": 702231,
+      "file_name": "Administer Potions (ADMP)-24127-3-6-1766753598.7z",
+      "mod_id": 24127,
+      "hash": "sha256-BxQg59XW9KNoULpV3Rqk8AMqc/7OGpjE4M59yTa/Yls="
+    },
+    "type": "primary"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "Truly Neutral Prisoners ESP VERSION": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "0.1.0",
+      "file_id": 309673,
+      "file_name": "Truly Neutral Prisoners ESP VERSION-73873-0-1-0-1661218970.rar",
+      "mod_id": 73873,
+      "hash": "sha256-c+rmFj7VFAelIQDc4pJDsmIHRNdWg/99p74l0uyrZbo="
+    }
+  },
+  "Truly Neutral Prisoners ESL - NO USSEP": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "0.1.1",
+      "file_id": 309697,
+      "file_name": "Truly Neutral Prisoners ESL - NO USSEP-73873-0-1-1-1661227795.rar",
+      "mod_id": 73873,
+      "hash": "sha256-tYchPAG3Sf4RHej2/sDMGiEUXwPAqoXTbXUO7UawGg4="
+    }
+  },
+  "Truly Neutral Prisoners": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "0.1.1",
+      "file_id": 309698,
+      "file_name": "Truly Neutral Prisoners-73873-0-1-1-1661227870.rar",
+      "mod_id": 73873,
+      "hash": "sha256-9bz9CA93WN/7Ia/wVZphnkaRcPG8axBCIQW8j34ieh0="
+    },
+    "type": "primary"
+  }
+}

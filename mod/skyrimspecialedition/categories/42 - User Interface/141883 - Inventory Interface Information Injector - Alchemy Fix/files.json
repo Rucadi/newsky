@@ -1,0 +1,24 @@
+{
+  "I4 Alchemy Fix (AE)": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1.0-AF",
+      "file_id": 594929,
+      "file_name": "Inventory Interface Information Injector (AE)-141883-1-1-0-AF-1739614494.zip",
+      "mod_id": 141883,
+      "hash": "sha256-kc5eCV4stMeQL+wQDCHYyQiztmCPzPMp5IpXgqwX7/4="
+    },
+    "type": "primary"
+  },
+  "I4 Alchemy Fix (VR)": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1.0-AF",
+      "file_id": 594932,
+      "file_name": "Inventory Interface Information Injector (VR)-141883-1-1-0-AF-1739615575.zip",
+      "mod_id": 141883,
+      "hash": "sha256-9atac+gYQk5rIFgQ3bW0KB+lyWNZkk2fTSPEyNO/DWU="
+    },
+    "type": "primary"
+  }
+}

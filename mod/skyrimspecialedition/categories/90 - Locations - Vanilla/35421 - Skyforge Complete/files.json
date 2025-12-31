@@ -1,0 +1,113 @@
+{
+  "SkyforgeJK (Jk's Skyrim or Jk's Whiterun)": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "2",
+      "file_id": 311164,
+      "file_name": "SkyforgeJK-35421-2-1661707598.7z",
+      "mod_id": 35421,
+      "hash": "sha256-/23V55Eaoo4Rb1Cih8hgym+wzMxA6Of3iwOj3uHqL2w="
+    }
+  },
+  "SkyforgeSAS (Sign And Seating)": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "2",
+      "file_id": 311165,
+      "file_name": "SkyforgeSAS-35421-2-1661707667.7z",
+      "mod_id": 35421,
+      "hash": "sha256-y4j+iNPh8BEzNkFgxBqcKNabrX1IQVumPtMJaWTLohI="
+    }
+  },
+  "SkyforgeOCS (Open Cities Skyrim)": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "2",
+      "file_id": 311166,
+      "file_name": "SkyforgeOCS-35421-2-1661707724.7z",
+      "mod_id": 35421,
+      "hash": "sha256-kWRXIiJYqeYpwt5N3o0w4ATCbID2kcB1MHAI6/bZX/Q="
+    }
+  },
+  "SkyforgeCWE (Capital Whiterun Expansion)": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "2",
+      "file_id": 311167,
+      "file_name": "SkyforgeCWE-35421-2-1661707781.7z",
+      "mod_id": 35421,
+      "hash": "sha256-rc/CZ3NY4bvSr9Hu7263CgT7a2raMkufRZpK2PS83rk="
+    }
+  },
+  "SkyforgeJKWNW (Jk's Whiterun)": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "2",
+      "file_id": 311168,
+      "file_name": "SkyforgeJKWNW-35421-2-1661707914.7z",
+      "mod_id": 35421,
+      "hash": "sha256-CniGbTowgUGmja0lE5EB+Wk1mX7Pb/+WoVvXHCI7wyk="
+    }
+  },
+  "SkyforgeJKSNW (Jk's Skyrim)": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "2",
+      "file_id": 311169,
+      "file_name": "SkyforgeJKSNW-35421-2-1661707970.7z",
+      "mod_id": 35421,
+      "hash": "sha256-p3NjegZAb9M/FpiA3Y/SuN0H+a1k7AZrRBtsiXjTKD0="
+    }
+  },
+  "SkyforgeComplete": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "2",
+      "file_id": 311172,
+      "file_name": "SkyforgeComplete-35421-2-1661708217.7z",
+      "mod_id": 35421,
+      "hash": "sha256-B18H+P76qcevpbA3pgjhUXZt1ufepfRmXLghgsJJ3IQ="
+    },
+    "type": "primary"
+  },
+  "SkyforgeCompleteEC (SR Exterior Cities Series)": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "2.24",
+      "file_id": 534960,
+      "file_name": "SkyforgeCompleteEC-35421-2-24-1724547357.7z",
+      "mod_id": 35421,
+      "hash": "sha256-ZwLoZzDj4JqUSD6USFrriMLdp/Y8GGdKVytDGfcjqQQ="
+    }
+  },
+  "SkyforgeCompleteJKS (Jk's Skyrim)": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "2.24",
+      "file_id": 534961,
+      "file_name": "SkyforgeCompleteJKS-35421-2-24-1724547498.7z",
+      "mod_id": 35421,
+      "hash": "sha256-zkHHl10+MgNf53Fx0CMr4NXNj7DkRG/u3rRrBQe5+f0="
+    }
+  },
+  "SkyforgeCompleteJKW (Jk's Whiterun)": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "2.24",
+      "file_id": 537769,
+      "file_name": "SkyforgeCompleteJKW-35421-2-24-1725231956.7z",
+      "mod_id": 35421,
+      "hash": "sha256-5gQHUPFs96KgrLPUY6NSviIT1Bu0dHmxUwd2eF8dNj4="
+    }
+  },
+  "SkyforgeSC (Spaghetti's Cities)": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "2.24",
+      "file_id": 631162,
+      "file_name": "SkyforgeSC (Spaghetti's Cities)-35421-2-24-1748201688.7z",
+      "mod_id": 35421,
+      "hash": "sha256-cAAmhlxnOKW7d9KNak27BcpzVJawRXK8xl2rFF2JGlk="
+    }
+  }
+}

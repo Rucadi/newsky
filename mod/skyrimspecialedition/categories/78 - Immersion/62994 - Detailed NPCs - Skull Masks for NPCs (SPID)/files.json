@@ -1,0 +1,23 @@
+{
+  "Detailed NPCs - Skull Masks for NPCs (SPID)": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1",
+      "file_id": 267412,
+      "file_name": "Detailed NPCs - Skull Masks for NPCs (SPID)-62994-1-1-1646091967.7z",
+      "mod_id": 62994,
+      "hash": "sha256-PKk+AzlyuXCi7q9gVlAh8e0ual9v/2agMrkWZYErbiE="
+    }
+  },
+  "Detailed NPCs - Skull Masks for NPCs (SPID 6.3.0)": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "2.0",
+      "file_id": 337539,
+      "file_name": "Detailed NPCs - Skull Masks for NPCs (SPID 6.3.0)-62994-1-0-1670174530.7z",
+      "mod_id": 62994,
+      "hash": "sha256-9Fx1I28YPs5b4xLC/Ind84LoHik9Y1LMHGEIjvlTsHE="
+    },
+    "type": "primary"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "The Practical Dwemechanic": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.2.4",
+      "file_id": 404955,
+      "file_name": "The Practical Dwemechanic-63619-1-2-4-1688787312.zip",
+      "mod_id": 63619,
+      "hash": "sha256-woL0z6tNN1JfmlEiXM29khbaVnGKkySqjCCybI4IDXk="
+    },
+    "type": "primary"
+  },
+  "PARTY PATCH patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.2.4",
+      "file_id": 404956,
+      "file_name": "PARTY PATCH patch-63619-1-2-4-1688787544.zip",
+      "mod_id": 63619,
+      "hash": "sha256-5EJEDgmlJ0s20VDH2wJpYOB1P5M8JKoHdEShCofNDLg="
+    }
+  }
+}

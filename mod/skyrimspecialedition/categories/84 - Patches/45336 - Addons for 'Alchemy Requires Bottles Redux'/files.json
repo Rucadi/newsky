@@ -1,0 +1,35 @@
+{
+  "Empty Bottle Model": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 184322,
+      "file_name": "Empty Bottle Patch - ESL-45336-1-0-1612599562.rar",
+      "mod_id": 45336,
+      "hash": "sha256-mcv8+DITAUGwSOJDHz7F6NJK41EMZ/PaYKzRHQbKTRg="
+    },
+    "type": "primary"
+  },
+  "Description for Potions": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1",
+      "file_id": 519296,
+      "file_name": "Description for Potions-45336-1-1-1720522613.rar",
+      "mod_id": 45336,
+      "hash": "sha256-dQ7d+ww7rR+DksZNRiK7dBo/CtlUzDJMb8K4sNhTliQ="
+    },
+    "type": "primary"
+  },
+  "Venom Requires Empty Bottles": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.12",
+      "file_id": 582506,
+      "file_name": "Venom Requires Empty Bottles-45336-1-12-1736687027.zip",
+      "mod_id": 45336,
+      "hash": "sha256-/CnRbnmhAwp0G5dcodCVnH47wOkaHOALQgP3g+b4Crw="
+    },
+    "type": "primary"
+  }
+}

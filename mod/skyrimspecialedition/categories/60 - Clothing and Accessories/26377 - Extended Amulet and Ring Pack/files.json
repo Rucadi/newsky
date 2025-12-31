@@ -1,0 +1,44 @@
+{
+  "Extended Amulet and Ring Pack": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.00",
+      "file_id": 95116,
+      "file_name": "Extended Amulet and Ring Pack-26377-1-00-1559919384.zip",
+      "mod_id": 26377,
+      "hash": "sha256-Vo07uJCJn474OEOMf4ovkbeBR5/oEtk0v3Kc2GprT4E="
+    },
+    "type": "primary"
+  },
+  "Extended Amulet and Ring Pack - Aetherial Traveller Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.00",
+      "file_id": 95119,
+      "file_name": "Extended Amulet and Ring Pack SSE - Aetherial Traveller Patch-26377-1-00-1559919450.zip",
+      "mod_id": 26377,
+      "hash": "sha256-+jS8/fmDmbHrJUz2OZPvCZCBX+bIQ7/PCeJoXQhZv0A="
+    }
+  },
+  "Extended Amulet and Ring Pack - SMIM Rings": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 183760,
+      "file_name": "Extended Amulet and Ring Pack - SMIM Rings-26377-1-0-1612368415.zip",
+      "mod_id": 26377,
+      "hash": "sha256-AoTZxk5qj5rlph70gMUFOC52yqi/TUPWe4cPlVKyASs="
+    }
+  },
+  "Extended Amulet and Ring Pack - ESL Flagged": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1",
+      "file_id": 553009,
+      "file_name": "Extended Amulet and Ring Pack - ESL Flagged-26377-1-1-1729186899.zip",
+      "mod_id": 26377,
+      "hash": "sha256-eRUA/CBYR59Ya30G2iuiyMXUkUEVBIbN2tGMzEjOlfc="
+    },
+    "type": "primary"
+  }
+}

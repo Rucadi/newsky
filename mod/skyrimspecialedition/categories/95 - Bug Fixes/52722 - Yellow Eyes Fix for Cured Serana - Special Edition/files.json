@@ -1,0 +1,23 @@
+{
+  "Only Eyes Color Replacer": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0.1",
+      "file_id": 306145,
+      "file_name": "Only Eyes Color Replacer-52722-1-0-1-1660083343.zip",
+      "mod_id": 52722,
+      "hash": "sha256-sfrAlpIXLaeu/ROduwk1vdVDZwFxbB9euzXAi8tFz5c="
+    }
+  },
+  "1. Yellow Eyes Fix for Cured Serana - Special Edition (Updated Options)": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1.4",
+      "file_id": 351797,
+      "file_name": "1. Yellow Eyes Fix for Cured Serana - Special Edition (Updated Options)-52722-1-1-4-1674340916.zip",
+      "mod_id": 52722,
+      "hash": "sha256-xsbQq9kCPAyCKvlSQGc4iSH8xSunjh6WUYHUBEHz3pE="
+    },
+    "type": "primary"
+  }
+}

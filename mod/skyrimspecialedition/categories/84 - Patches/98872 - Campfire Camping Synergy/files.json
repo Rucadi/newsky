@@ -1,0 +1,33 @@
+{
+  "Campfire Camping Sorcerer": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 419385,
+      "file_name": "Campfire Camping Sorcerer-98872-1-0-1692644162.zip",
+      "mod_id": 98872,
+      "hash": "sha256-HlsSnOTiTlgUwHY8xh3UA3S+PmPPL2ve8VG58mUyKNU="
+    }
+  },
+  "Campfire Camping": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1",
+      "file_id": 419491,
+      "file_name": "Campfire Camping-98872-1-1-1692686006.zip",
+      "mod_id": 98872,
+      "hash": "sha256-zKBvZFpXO4vKQhmncV5hqVwkd1Fw/MGTlLBu90RZOe8="
+    },
+    "type": "primary"
+  },
+  "Campfire_Camping_Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1",
+      "file_id": 497377,
+      "file_name": "Campfire_Camping_Patch-98872-1-0-1714744262.7z",
+      "mod_id": 98872,
+      "hash": "sha256-00qjMdx3Fio4D7xDehggyywustzmmUb9gihxMJe4x40="
+    }
+  }
+}

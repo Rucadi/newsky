@@ -1,0 +1,24 @@
+{
+  "Common Injuries V1.4": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.4",
+      "file_id": 596317,
+      "file_name": "Common Injuries V1.4-140466-1-4-1739902571.rar",
+      "mod_id": 140466,
+      "hash": "sha256-Zq0luZJumxsT/lbABH0fw9Ei99XYs2HeZkiVKFKmKHs="
+    },
+    "type": "primary"
+  },
+  "Common Injuries V1.4 NO BRUMA": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "V1.4",
+      "file_id": 597959,
+      "file_name": "Common Injuries V1.4 NO BRUMA-140466-V1-4-1740278994.7z",
+      "mod_id": 140466,
+      "hash": "sha256-QFxTgnJe/WkUubw5F/4OskQXFd2QxvDubk7OeYOv2Lw="
+    },
+    "type": "primary"
+  }
+}

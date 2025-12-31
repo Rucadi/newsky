@@ -1,0 +1,33 @@
+{
+  "Thaumaturgy - Jump Boots Addon": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0.1",
+      "file_id": 291897,
+      "file_name": "Thaumaturgy - Jump Boots Addon-57138-1-0-1-1655506379.7z",
+      "mod_id": 57138,
+      "hash": "sha256-ZUVcWKBCnlhfJfFB7+6IuqhLt4N9u4TNeEWgX01GO58="
+    }
+  },
+  "Thaumaturgy - An Enchanting Overhaul": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.4.5",
+      "file_id": 447819,
+      "file_name": "Thaumaturgy - An Enchanting Overhaul-57138-1-4-5-1701447165.7z",
+      "mod_id": 57138,
+      "hash": "sha256-Wh8CXPbMouz9HzqMJd0Rvd5S6lffDjpXAR8RlcFNZeY="
+    },
+    "type": "primary"
+  },
+  "Thaumaturgy - Weapon Enchantment XP Tweak": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1",
+      "file_id": 454557,
+      "file_name": "Thaumaturgy - Weapon Enchantment XP Tweak-57138-1-1-1703366128.7z",
+      "mod_id": 57138,
+      "hash": "sha256-A2j4M/JJwtWvaMyWTuUD5n6McHeVpSVhRITfC7ntr24="
+    }
+  }
+}

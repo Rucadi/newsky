@@ -1,0 +1,33 @@
+{
+  "Armor Distribution via Plugin": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 461595,
+      "file_name": "Armor Distribution via Plugin-109330-1-0-1705324991.7z",
+      "mod_id": 109330,
+      "hash": "sha256-gerHbaOGV7F2wMjuJGD+clpiITC0areroN2rF+4qToM="
+    }
+  },
+  "Armor Distribution via SPID": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 461597,
+      "file_name": "Armor Distribution via SPID-109330-1-0-1705325044.7z",
+      "mod_id": 109330,
+      "hash": "sha256-UB109aTyOft1vFoC7+UoxBPdUv4GvNkL1ufWD9WK43k="
+    }
+  },
+  "Main File": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 461599,
+      "file_name": "Main File-109330-1-0-1705325097.7z",
+      "mod_id": 109330,
+      "hash": "sha256-o8VlomJRfBdrAR1UmP+qxZb6mWhITsbqC6ZkOzJVTZs="
+    },
+    "type": "primary"
+  }
+}

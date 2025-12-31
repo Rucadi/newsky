@@ -1,0 +1,23 @@
+{
+  "Wormpie's Hagravens (SE)": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.05",
+      "file_id": 394934,
+      "file_name": "Wormpie's Hagravens (SE)-91607-1-05-1685875099.zip",
+      "mod_id": 91607,
+      "hash": "sha256-GctZShGgp5yetxtmEzRDSllazETttFTanMbSzrgLQS0="
+    },
+    "type": "primary"
+  },
+  "Wormpie's Hagravens (SE) - Spanish ESP": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.05",
+      "file_id": 414656,
+      "file_name": "Wormpie's Hagravens (SE) - Spanish ESP-91607-1-05-1691329050.rar",
+      "mod_id": 91607,
+      "hash": "sha256-FrlyLQL3IzQka1Eeq08sc1vXOWUu9iryOdm29r8ta3U="
+    }
+  }
+}

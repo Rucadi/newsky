@@ -1,0 +1,13 @@
+{
+  "Container Distribution Framework": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "3.0.2",
+      "file_id": 601042,
+      "file_name": "Container Distribution Framework-120152-3-0-2-1740934552.7z",
+      "mod_id": 120152,
+      "hash": "sha256-B11h7QYgwRZOXUlBRF5j2/KEcPKj9CFdKgAcRF4SSYs="
+    },
+    "type": "primary"
+  }
+}

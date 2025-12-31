@@ -1,0 +1,23 @@
+{
+  "Vanilla hair - Salt and Wind": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 183349,
+      "file_name": "Vanilla hair - Salt and Wind-45147-1-0-1612188024.zip",
+      "mod_id": 45147,
+      "hash": "sha256-gd4E1TS0rtNMtk/ApTDdjq31DrZjU6CaDT4YuS+SpLw="
+    },
+    "type": "primary"
+  },
+  "Salt and Wind edited texture resource": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 186607,
+      "file_name": "Salt and Wind edited texture resource-45147-1-0-1613666215.zip",
+      "mod_id": 45147,
+      "hash": "sha256-AMIT9BXRnzyxG9fqpm491AqHzEEX97FEqfYzCzjMUXM="
+    }
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "Eating Animations and Sounds - 1st Person": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.2.1",
+      "file_id": 690758,
+      "file_name": "Eating Animations and Sounds - 1st Person-133246-1-2-1-1763989453.zip",
+      "mod_id": 133246,
+      "hash": "sha256-YVpPditVy58k08B0DSSA2mhSqjBvn/7SsUU1q5ZHIOQ="
+    },
+    "type": "primary"
+  },
+  "Eating Animations and Sounds - Walk-Run CleanUp": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.2.1",
+      "file_id": 690759,
+      "file_name": "Eating Animations and Sounds - Walk-Run CleanUp-133246-1-2-1-1763989634.zip",
+      "mod_id": 133246,
+      "hash": "sha256-vgfjpwFM+cro6humXPLB5as+Q1jpQljWKH24cSNUS+w="
+    }
+  }
+}

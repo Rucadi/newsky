@@ -1,0 +1,23 @@
+{
+  "Face Masks of Skyrim": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1",
+      "file_id": 16096,
+      "file_name": "Face Masks of Skyrim-1953-1-1.7z",
+      "mod_id": 1953,
+      "hash": "sha256-mlwNPau5FBkFs3xARbbe3uJER8ec+awKFMpM3Q97tdw="
+    },
+    "type": "primary"
+  },
+  "Crafting Only": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1",
+      "file_id": 16097,
+      "file_name": "Crafting Only-1953-1-1.7z",
+      "mod_id": 1953,
+      "hash": "sha256-42vGJSgm3wIjkFb90ldifJaHrv3Ac+LAo08UBxWBWvE="
+    }
+  }
+}

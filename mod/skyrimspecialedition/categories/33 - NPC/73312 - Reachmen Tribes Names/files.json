@@ -1,0 +1,23 @@
+{
+  "Reachmen Tribes Names": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.2.0",
+      "file_id": 392842,
+      "file_name": "Reachmen Tribes Names-73312-1-2-0-1685311494.zip",
+      "mod_id": 73312,
+      "hash": "sha256-G6dVAsJ/SM0jlUP7NAsa1aFaxAiPTpeocqbEdsUIPGM="
+    },
+    "type": "primary"
+  },
+  "Forsworn Matriarchs": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.2.0",
+      "file_id": 392843,
+      "file_name": "Forsworn Matriarchs-73312-1-2-0-1685311541.zip",
+      "mod_id": 73312,
+      "hash": "sha256-gMovOr/GP9YL8IlK/VlThZs9tIbyX4dgrdvYvgHqWPU="
+    }
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "Get-Up": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 223127,
+      "file_name": "Get-Up-54368-1-0-1629698700.7z",
+      "mod_id": 54368,
+      "hash": "sha256-kGpaiPhq6k0sfiIsnmpcDqw6fJO4h7p54lalP6OYgmU="
+    },
+    "type": "primary"
+  },
+  "BadAss Get-Up Combat only Version": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 232444,
+      "file_name": "BadAss Get-Up Combat only Version-54368-1-0-1633305601.7z",
+      "mod_id": 54368,
+      "hash": "sha256-XLWWSzExNKdg0toQevGfazDGGZ0/m4vW/WKoz50MzOA="
+    },
+    "type": "primary"
+  }
+}

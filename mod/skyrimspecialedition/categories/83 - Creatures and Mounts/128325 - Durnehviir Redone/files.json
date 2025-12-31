@@ -1,0 +1,33 @@
+{
+  "Durnehviir Redone-Gameplay only": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "2.0",
+      "file_id": 650918,
+      "file_name": "Durnehviir Redone-Gameplay only-128325-2-0-1753723084.zip",
+      "mod_id": 128325,
+      "hash": "sha256-ZPvy+WPzDadxWBJWijDHYauDwndWgparPktmlw75kEU="
+    }
+  },
+  "Durnehviir Redone": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "2.1",
+      "file_id": 653006,
+      "file_name": "Durnehviir Redone-128325-2-1-1754378798.zip",
+      "mod_id": 128325,
+      "hash": "sha256-2ZYcKsk3tRR5OlImWDwGAblB3FpjyDplw4t3REuRv+I="
+    },
+    "type": "primary"
+  },
+  "Durnehviir Redone Graphics only": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "2.1",
+      "file_id": 653007,
+      "file_name": "Durnehviir Redone Graphics only-128325-2-1-1754378915.zip",
+      "mod_id": 128325,
+      "hash": "sha256-IHVASqyim6YZ0WNSULs+fPPpdRcsdBQ7NZ+ambFJlNM="
+    }
+  }
+}

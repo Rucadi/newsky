@@ -1,0 +1,23 @@
+{
+  "Teldryn Sero Dialogue Expansion- Unofficial Update": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0.0",
+      "file_id": 594914,
+      "file_name": "Teldryn Sero Dialogue Expansion- Unofficial Update-141729-1-0-0-1739612503.7z",
+      "mod_id": 141729,
+      "hash": "sha256-MjmklyYp83nKhk8QtdfGZAIMDXMdcKzAcg0bg68EjC0="
+    },
+    "type": "primary"
+  },
+  "TDE - Unofficial Update - RDO - RDO Updated Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0.0",
+      "file_id": 594918,
+      "file_name": "TDE - Unofficial Update - RDO - RDO Updated Patch-141729-1-0-0-1739612611.7z",
+      "mod_id": 141729,
+      "hash": "sha256-AtHS57RbhCbZM6RHNvNPseMKtdkXjnEvl9kT9VU3wTo="
+    }
+  }
+}

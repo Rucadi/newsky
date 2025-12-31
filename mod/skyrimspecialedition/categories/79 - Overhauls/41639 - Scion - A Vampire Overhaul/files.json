@@ -1,0 +1,23 @@
+{
+  "Scion Update - No ESL": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "2.2.0",
+      "file_id": 434609,
+      "file_name": "Scion Update - No ESL-41639-2-2-0-1697488885.7z",
+      "mod_id": 41639,
+      "hash": "sha256-5wVgwNAkkdEq6YAp2pEWEe2zNXNnolA+kD50+FzV77k="
+    }
+  },
+  "Scion - A Vampire Overhaul": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "2.2.2",
+      "file_id": 469383,
+      "file_name": "Scion - A Vampire Overhaul-41639-2-2-2-1707518011.7z",
+      "mod_id": 41639,
+      "hash": "sha256-+liCrqeA1PIycdJP1CbgW8VN5L+AwYk7HD4nejyJD04="
+    },
+    "type": "primary"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "Eating Animations - Fishing Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1",
+      "file_id": 330852,
+      "file_name": "Eating Animations - Fishing Patch-63309-1-1-1668183863.7z",
+      "mod_id": 63309,
+      "hash": "sha256-SeHKD9Ls8cEtDvvJ+bZPsdjRL0NicNj2S0EtmLr7mvA="
+    },
+    "type": "primary"
+  },
+  "Eating  Animations - Fishing - Apothecary Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 331994,
+      "file_name": "Eating  Animations - Fishing - Apothecary Patch-63309-1-0-1668503175.7z",
+      "mod_id": 63309,
+      "hash": "sha256-GpzRy7crsmSqdrZ1jfjZW2Ta2qVkK48ACaLIFz7fpBE="
+    }
+  }
+}

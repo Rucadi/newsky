@@ -1,0 +1,23 @@
+{
+  "Khajiit Overhaul Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1",
+      "file_id": 410094,
+      "file_name": "Khajiit Overhaul Patch-95969-1-1690177577.zip",
+      "mod_id": 95969,
+      "hash": "sha256-V0CfMvxNrpRxtYO2RLqwV/y2xwhM0ER0ApBNmNOuMO0="
+    }
+  },
+  "KCCE  - Khajiit Character Creation Extended v.1.2": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.2.",
+      "file_id": 469112,
+      "file_name": "KCCE  - Khajiit Character Creation Extended v.1.2-95969-1-2--1707447365.zip",
+      "mod_id": 95969,
+      "hash": "sha256-D1fZz3GY6AE56fTlQrii9gRbFK1PetrzMK3wxdWhPiY="
+    },
+    "type": "primary"
+  }
+}

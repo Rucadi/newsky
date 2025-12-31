@@ -1,0 +1,53 @@
+{
+  "KTA - Patches": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1",
+      "file_id": 159784,
+      "file_name": "KTA - Patches-40122-1-1599609576.7z",
+      "mod_id": 40122,
+      "hash": "sha256-GR83s0xhbh9IFjehwY3Sd4wb0IaxtQJg/dxjk9LqKdI="
+    }
+  },
+  "Khash and Caryalind Thallery Interactions": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1",
+      "file_id": 265955,
+      "file_name": "Khash and Caryalind Thallery Interactions-40122-1-1645474877.zip",
+      "mod_id": 40122,
+      "hash": "sha256-j0XLgXI4NPxIGkf7KaHB9iDnqm2R+IoKv10xKYCaEYU="
+    }
+  },
+  "Khash Racemenu Fix": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1",
+      "file_id": 273608,
+      "file_name": "Khash Racemenu Fix-40122-1-1648602817.7z",
+      "mod_id": 40122,
+      "hash": "sha256-Ny7Yblqcq2OtyfOBM8jds9C6mikooLnAaktlkypw2Wo="
+    }
+  },
+  "KTA": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.9.3.7",
+      "file_id": 279365,
+      "file_name": "KTA-40122-1-9-3-7-1650808614.zip",
+      "mod_id": 40122,
+      "hash": "sha256-HYpuVpajtXz0UkJkeN1J8NTmuaBCPv0ZGWkFk91wLcM="
+    },
+    "type": "primary"
+  },
+  "Khash Essential Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1",
+      "file_id": 417648,
+      "file_name": "Khash Essential Patch-40122-1-1692201595.7z",
+      "mod_id": 40122,
+      "hash": "sha256-lXFEywhlMvbMRKYUD5kVf/wFK9cS0fxKFHQkFD6oKZ8="
+    }
+  }
+}

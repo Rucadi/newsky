@@ -1,0 +1,33 @@
+{
+  "HDT-SMP Ulag's Legacy": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 605630,
+      "file_name": "HDT-SMP Ulag's Legacy-144728-1-0-1741984530.7z",
+      "mod_id": 144728,
+      "hash": "sha256-1R/WFzse0r3o5UBXKV1nLs8PQ7uN5BSSQTURBW7EpbU="
+    },
+    "type": "primary"
+  },
+  "HDT-SMP Ulag's Legacy - CBBE 3BA": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 605645,
+      "file_name": "HDT-SMP Ulag's Legacy - CBBE 3BA-144728-1-0-1741985752.7z",
+      "mod_id": 144728,
+      "hash": "sha256-Cpz/uMQLzFdpuhos2BGNx4+Q6sMJkBfex4eVEPWFkRE="
+    }
+  },
+  "HDT-SMP Ulag's Legacy - HIMBO": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 605646,
+      "file_name": "HDT-SMP Ulag's Legacy - HIMBO-144728-1-0-1741985777.7z",
+      "mod_id": 144728,
+      "hash": "sha256-mTQNmhEDwQRsxKNNoefUlz0CSG5uJL7AzEAXbinfgzA="
+    }
+  }
+}

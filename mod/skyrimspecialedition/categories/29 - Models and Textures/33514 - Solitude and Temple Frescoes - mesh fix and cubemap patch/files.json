@@ -1,0 +1,24 @@
+{
+  "Solitude Temple Frescoes 2019 - eye cubemap patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1",
+      "file_id": 128271,
+      "file_name": "Solitude Temple Frescoes 2019 - eye cubemap patch-33514-1-1-1584028874.7z",
+      "mod_id": 33514,
+      "hash": "sha256-LlGc/ja1y2YsvhTcGbFOqNlDEVCbrUVVYp20gdcWCX8="
+    },
+    "type": "primary"
+  },
+  "Solitude Temple Frescoes SSE - eye cubemap patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1",
+      "file_id": 128272,
+      "file_name": "Solitude Temple Frescoes SSE - eye cubemap patch-33514-1-1-1584028954.7z",
+      "mod_id": 33514,
+      "hash": "sha256-jxqZKFg4v0qkPF6uScwcotpCd21TkwU/SUevuqgG6HQ="
+    },
+    "type": "primary"
+  }
+}

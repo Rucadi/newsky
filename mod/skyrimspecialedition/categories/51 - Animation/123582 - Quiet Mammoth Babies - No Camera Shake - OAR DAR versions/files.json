@@ -1,0 +1,23 @@
+{
+  "Quiet Mammoth Babies - OAR version": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 518429,
+      "file_name": "Quiet Mammoth Babies - OAR version-123582-1-0-1720321822.zip",
+      "mod_id": 123582,
+      "hash": "sha256-293E2BMiKwf1nXZAvkJUNdYGfA42ZVeLARe/Y2GZf5U="
+    },
+    "type": "primary"
+  },
+  "Quiet Mammoth Babies - DAR version": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 518430,
+      "file_name": "Quiet Mammoth Babies - DAR version-123582-1-0-1720321928.zip",
+      "mod_id": 123582,
+      "hash": "sha256-CLmzlSAL/NqEireNlaSVWFdEj2rDU4Gvqd3i1KtWSPo="
+    }
+  }
+}

@@ -1,0 +1,53 @@
+{
+  "Legacy of the Dragonborn - Wyrmstooth - Brimstone and Wyrmstone Armory": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 317107,
+      "file_name": "Legacy of the Dragonborn - Wyrmstooth - Brimstone and Wyrmstone Armory (GM)-74671-1-0-1663460601.7z",
+      "mod_id": 74671,
+      "hash": "sha256-3yo3D7BBXtzaBVsDrCotJtblXqkurnbujnSsBHNupl8="
+    }
+  },
+  "Wyrmstooth - CC's Enhanced Ore Veins Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 317109,
+      "file_name": "Wyrmstooth - CC's Enhanced Ore Veins Patch (GM)-74671-1-0-1663460759.7z",
+      "mod_id": 74671,
+      "hash": "sha256-mznEU38CMIGRo14GMvrh36XffdIjDKakwHoSZ+u5ggw="
+    }
+  },
+  "Legacy of the Dragonborn - Wyrmstooth - Brimstone and Wyrmstone Armory - Alternate Location": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 317314,
+      "file_name": "Legacy of the Dragonborn - Wyrmstooth - Brimstone and Wyrmstone Armory - Alternate Location-74671-1-0-1663516986.7z",
+      "mod_id": 74671,
+      "hash": "sha256-iGY+6pWK0YmwOWwletmqnyKnBQGCsNbxFnhu04I9U5c="
+    }
+  },
+  "Wyrmstooth - Brimstone and Wyrmstone - MLU Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1",
+      "file_id": 487600,
+      "file_name": "Wyrmstooth - Brimstone and Wyrmstone - MLU Patch-74671-1-1-1712288195.7z",
+      "mod_id": 74671,
+      "hash": "sha256-LcszLhkEZwRidAvixgFh2Et6Yk+AUzMNeC5eAC91wcg="
+    }
+  },
+  "Wyrmstooth - Brimstone and Wyrmstone Armory": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.5",
+      "file_id": 651020,
+      "file_name": "Wyrmstooth - Brimstone and Wyrmstone Armory-74671-1-5-1753760014.7z",
+      "mod_id": 74671,
+      "hash": "sha256-C2S0w/sQVQyBU2uPTK9YODKHbjzm2JQQhGHbjFyDwCE="
+    },
+    "type": "primary"
+  }
+}

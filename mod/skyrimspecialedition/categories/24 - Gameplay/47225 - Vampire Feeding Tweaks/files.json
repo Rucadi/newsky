@@ -1,0 +1,23 @@
+{
+  "Requiem Patch - NPCs don't drop blood potions": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 273232,
+      "file_name": "Requiem Patch - NPCs don't drop blood potions-47225-1-0-1648458477.zip",
+      "mod_id": 47225,
+      "hash": "sha256-tHXqQFDMyjcNT6xCjE5kaOi8ZB16KIk6jW/YiO/Ojys="
+    }
+  },
+  "Vampire Feeding Tweaks": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.13",
+      "file_id": 579960,
+      "file_name": "Vampire Feeding Tweaks-47225-1-13-1736167313.zip",
+      "mod_id": 47225,
+      "hash": "sha256-3Tfw3CZHKBDo/rDMJvK8bxwQIWJSPJXGVu7cD0nLH9Q="
+    },
+    "type": "primary"
+  }
+}

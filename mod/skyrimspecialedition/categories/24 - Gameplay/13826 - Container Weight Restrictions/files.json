@@ -1,0 +1,23 @@
+{
+  "Container Weight Restrictions": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "4.2",
+      "file_id": 649884,
+      "file_name": "Container Weight Restrictions-13826-4-2-1753386359.7z",
+      "mod_id": 13826,
+      "hash": "sha256-vB3XejkVYc0mbrNIKvdOB7Lt4tBEA/eyqEDHUu0xFBc="
+    },
+    "type": "primary"
+  },
+  "CWR - LotD Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "4.3",
+      "file_id": 674036,
+      "file_name": "CWR - LotD Patch-13826-4-3-1760036025.7z",
+      "mod_id": 13826,
+      "hash": "sha256-ufWnoq5Qf/wunv0YuOi8ZCFFg1j07yySz2Ll0eNR2LA="
+    }
+  }
+}

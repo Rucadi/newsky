@@ -1,0 +1,34 @@
+{
+  "ECSS - Dylora's Reward - Mysticism Rebalance": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "2.01",
+      "file_id": 432964,
+      "file_name": "ECSS - Dylora's Reward - Mysticism Rebalance-81950-2-01-1696965297.zip",
+      "mod_id": 81950,
+      "hash": "sha256-FhRkJNfRXtvTti/6ShpMCJQ1mBbCjiGdGGgaIkN12Bw="
+    }
+  },
+  "Saints and Seducers - Mysticism Rebalance": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "2.1",
+      "file_id": 476388,
+      "file_name": "Saints and Seducers - M-81950-2-1-1709419155.zip",
+      "mod_id": 81950,
+      "hash": "sha256-GBu34lenMYjAzKmzqcaiMy6CPwB7QVncIeLuBgLQ1Xk="
+    },
+    "type": "primary"
+  },
+  "ECSS - Mysticism Rebalance": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "2.2",
+      "file_id": 504903,
+      "file_name": "ECSS - Mysticism Rebalance-81950-2-2-1716669154.zip",
+      "mod_id": 81950,
+      "hash": "sha256-CluHyOdwX1aeJWoUQZN91TCoP4m6pqCRur2RmIi/i8I="
+    },
+    "type": "primary"
+  }
+}

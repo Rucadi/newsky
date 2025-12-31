@@ -1,0 +1,23 @@
+{
+  "Shield animations (Captain America)": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 205128,
+      "file_name": "Shield animations (Captain America)-50299-1-0-1621775991.rar",
+      "mod_id": 50299,
+      "hash": "sha256-LZj1dSfPruF3a60XQDrefFN0wNTq5h6p0DVkvh1hx5g="
+    },
+    "type": "primary"
+  },
+  "Shield animations Attack Animations": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 205131,
+      "file_name": "Shield animations Attack Animations-50299-1-0-1621776171.rar",
+      "mod_id": 50299,
+      "hash": "sha256-jBZ3a1eKl6jA5jd0bhgl+wttmcsI3A/XO7FG8A6rhW0="
+    }
+  }
+}

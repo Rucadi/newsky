@@ -1,0 +1,33 @@
+{
+  "CWO Troop zEdit Patcher": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0.19",
+      "file_id": 409312,
+      "file_name": "CWO Troop zEdit Patcher-37906-1-0-19-1689990670.zip",
+      "mod_id": 37906,
+      "hash": "sha256-RgWXdhAIZfqMEZ3jukhiwUvyx4kv/fDVtA50aisjPIA="
+    }
+  },
+  "Civil War Logger": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1.1",
+      "file_id": 651483,
+      "file_name": "Civil War Logger-37906-1-1-1-1753913789.zip",
+      "mod_id": 37906,
+      "hash": "sha256-fqSL124C8rauFzFx4UZHjx7xsnU5+wCS9l/PH+uy13M="
+    }
+  },
+  "Civil War Overhaul": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1.1a",
+      "file_id": 651491,
+      "file_name": "Civil War Overhaul-37906-1-1-1a-1753916656.zip",
+      "mod_id": 37906,
+      "hash": "sha256-hudJY4yNhUcEA8dZuDg+jNO8WttVDQuXjgc0g6gGRuo="
+    },
+    "type": "primary"
+  }
+}

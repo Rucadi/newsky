@@ -1,0 +1,23 @@
+{
+  "Usable Skyrim Bandages 2.1": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "2.1",
+      "file_id": 593769,
+      "file_name": "Usable Skyrim Bandages 2.1-98659-2-1-1739375358.7z",
+      "mod_id": 98659,
+      "hash": "sha256-zNJagFRIBvO/IxbKz8qjuJMvZrPpXfYv8dxUottJU5U="
+    },
+    "type": "primary"
+  },
+  "Usable Skyrim Bandages Redressed 2.1 Healing": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "2.1",
+      "file_id": 593770,
+      "file_name": "Usable Skyrim Bandages Redressed 2.1-98659-2-1-1739375554.7z",
+      "mod_id": 98659,
+      "hash": "sha256-qPwI0Fk67FxLIoDq61tn3+33IfT6y92xy0WuIkLpAWc="
+    }
+  }
+}

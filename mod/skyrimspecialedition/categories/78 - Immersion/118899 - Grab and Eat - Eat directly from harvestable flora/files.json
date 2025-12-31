@@ -1,0 +1,23 @@
+{
+  "Grab and Eat": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 498988,
+      "file_name": "Grab and Eat-118899-1-0-1715140553.zip",
+      "mod_id": 118899,
+      "hash": "sha256-F+vAnmWpk1hseJvt9m6J30gOHi0UVkLgNmXdIexZ2TM="
+    },
+    "type": "primary"
+  },
+  "Dynamic Looting and Harvesting DAK Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 498989,
+      "file_name": "Dynamic Looting and Harvesting DAK Patch-118899-1-0-1715140597.zip",
+      "mod_id": 118899,
+      "hash": "sha256-WPwUvq7quVbk5ZuHcIlkKx5p8BnnORUG/kCJn7iHzuk="
+    }
+  }
+}

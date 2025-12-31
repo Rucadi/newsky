@@ -1,0 +1,121 @@
+{
+  "Wayfarer's Coat Rebalance": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 355925,
+      "file_name": "Wayfarer's Coat Rebalance-84100-1-0-1675445857.zip",
+      "mod_id": 84100,
+      "hash": "sha256-9yrYdcvtCiiFQdgYJqFDnBcxtRMBuRNvD0mBl69ROwc="
+    },
+    "type": "primary"
+  },
+  "Lunar Guard Armor Rebalance": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 355948,
+      "file_name": "Lunar Guard Armor Rebalance-84100-1-0-1675449340.zip",
+      "mod_id": 84100,
+      "hash": "sha256-Qkr59tBz+oadPLUMcKm52m6mMxLL40mr6MP6pxOUG90="
+    },
+    "type": "primary"
+  },
+  "Twilight Princess Armor Rebalance": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1",
+      "file_id": 355955,
+      "file_name": "Twilight Princess Armor Rebalance-84100-1-1-1675450720.zip",
+      "mod_id": 84100,
+      "hash": "sha256-2oUXai4mSdtLnm3ydug3+T/fRT64lpwC/bAZ9ospbOk="
+    },
+    "type": "primary"
+  },
+  "Moon Monk's Robes Rebalanced": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 355976,
+      "file_name": "Moon Monk's Robes Rebalanced-84100-1-0-1675456567.zip",
+      "mod_id": 84100,
+      "hash": "sha256-Hpy1Rhds2zv/jjHO/GCCC9DpP4Q2bOl2RSF4VJB2erA="
+    },
+    "type": "primary"
+  },
+  "Shadowscale Set Rebalanced": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1",
+      "file_id": 356188,
+      "file_name": "Shadowscale Set Rebalanced-84100-1-1-1675503945.zip",
+      "mod_id": 84100,
+      "hash": "sha256-xk2pnM9gBZXomgcs7SiJuDGvKHpk1IvuDMnrAZVpt48="
+    },
+    "type": "primary"
+  },
+  "Practical Pirate Outfit Rebalanced": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 356228,
+      "file_name": "Practical Pirate Outfit Rebalanced-84100-1-0-1675518103.zip",
+      "mod_id": 84100,
+      "hash": "sha256-Et0ZnFGI7JIisZH2y+WXp/2lDligPH4JhrZy3LXn0vQ="
+    },
+    "type": "primary"
+  },
+  "Toughened Traveler Outfit Rebalance": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 356229,
+      "file_name": "Toughened Traveler Outfit Rebalance-84100-1-0-1675518133.zip",
+      "mod_id": 84100,
+      "hash": "sha256-5Dk/u2sjI7xxxoifWx/Q1HLl2hQHTbdP5B5MlYCUR3k="
+    },
+    "type": "primary"
+  },
+  "Rugged Rogue Outfit Rebalance": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 356230,
+      "file_name": "Rugged Rogue Outfit Rebalance-84100-1-0-1675518161.zip",
+      "mod_id": 84100,
+      "hash": "sha256-KVkgSQD3gPeI1Zj6DMwizW+HN/TL+ipzVGycG9qI2+E="
+    },
+    "type": "primary"
+  },
+  "Wayfarer's Coat Rebalance-Adamant Version": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 356424,
+      "file_name": "Wayfarer's Coat Rebalance-Adamant Version-84100-1-0-1675548439.zip",
+      "mod_id": 84100,
+      "hash": "sha256-6N1sT2MXJTdDo4dV4E+PQQLf4D7Bc13LvByKrAlVH1o="
+    }
+  },
+  "Twilight Princess Armor Rebalance-Adamant Version": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 356425,
+      "file_name": "Twilight Princess Armor Rebalance-Adamant Version-84100-1-0-1675548512.zip",
+      "mod_id": 84100,
+      "hash": "sha256-eaUMUb8hgT3l+eTNbGxBjd2MXolNiuJs2iHtl9lvO5w="
+    }
+  },
+  "Lustmord Armor Rebalanced": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 361717,
+      "file_name": "Lustmord Armor Rebalanced-84100-1-0-1676915244.zip",
+      "mod_id": 84100,
+      "hash": "sha256-zYvgEotXsCMB7zyKm92Pt0O4+6EG9WE/Td3zkjSv/pQ="
+    },
+    "type": "primary"
+  }
+}

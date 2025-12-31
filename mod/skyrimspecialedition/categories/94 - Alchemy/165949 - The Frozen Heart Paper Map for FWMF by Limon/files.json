@@ -1,0 +1,24 @@
+{
+  "Frozen Heart Paper Map for FWMF (With Clouds)": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 693251,
+      "file_name": "Frozen Heart Paper Map for FWMF (With Clouds)-165949-1-0-1764589000.zip",
+      "mod_id": 165949,
+      "hash": "sha256-JZR6CnHZMlwQp9Cxwf/qQ+tdCcAT1TXugs1641aPFi0="
+    },
+    "type": "primary"
+  },
+  "Frozen Heart Paper Map for FWMF (Clear)": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 693252,
+      "file_name": "Frozen Heart Paper Map for FWMF (Clear)-165949-1-0-1764589034.zip",
+      "mod_id": 165949,
+      "hash": "sha256-U1JB0Agds28tgA+L8RxmVRyk9GvNMw8Oenh6ag/6CRY="
+    },
+    "type": "primary"
+  }
+}

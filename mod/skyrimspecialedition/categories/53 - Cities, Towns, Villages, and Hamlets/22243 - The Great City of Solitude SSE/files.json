@@ -1,0 +1,23 @@
+{
+  "The Great City of Solitude 2.02": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "2.02",
+      "file_id": 123645,
+      "file_name": "The Great City of Solitude 2.02-22243-2-02-1581429037.rar",
+      "mod_id": 22243,
+      "hash": "sha256-3yGOT8bGCt1vclINk0WAGftKq4Ocv/xyWKHZZqPHPAw="
+    },
+    "type": "primary"
+  },
+  "USSEP Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1",
+      "file_id": 123687,
+      "file_name": "USSEP Patch-22243-1-1581452931.rar",
+      "mod_id": 22243,
+      "hash": "sha256-Vu3sikoi37+uSXGUpbecndbHG0yM5U/KmCAgRbJqxHU="
+    }
+  }
+}

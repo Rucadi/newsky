@@ -1,0 +1,283 @@
+{
+  "DSQuestpack Occlusion addon": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 514648,
+      "file_name": "DSQuestpack Occlusion addon-122050-1-0-1719284539.zip",
+      "mod_id": 122050,
+      "hash": "sha256-jkzK6sZH7dT7C4Y8tdhKoN+yLpXdZ0vT1Lf4THOIZtc="
+    }
+  },
+  "Moon and Star Occlusion Addon": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 514650,
+      "file_name": "Moon and Star Occlusion Addon-122050-1-0-1719284575.zip",
+      "mod_id": 122050,
+      "hash": "sha256-MKqjX7acJOs3u6EA8LNcpeew9f7t2J7n0BBm53trK2Q="
+    }
+  },
+  "The Cause Occlusion addon": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 514651,
+      "file_name": "The Cause Occlusion addon-122050-1-0-1719284591.zip",
+      "mod_id": 122050,
+      "hash": "sha256-EC9x5mSqp9bW6ly/PdzsA4/Ad7cvPQdCjgVfuQrNUT4="
+    }
+  },
+  "Ghosts of the Tribunal Occlusion addon": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 514653,
+      "file_name": "Ghosts of the Tribunal Occlusion addon-122050-1-0-1719284648.zip",
+      "mod_id": 122050,
+      "hash": "sha256-McozWQJmDrjSPDpLppwfP7mJM8AUkB5sYYbxWnS47x4="
+    }
+  },
+  "Undeath Occlusion Addon": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 521213,
+      "file_name": "Undeath Occlusion Addon-122050-1-0-1720985767.zip",
+      "mod_id": 122050,
+      "hash": "sha256-WBvejX0JM803CYmgD8R9O3hvQceSQIgWSu1eDZ6NlRs="
+    }
+  },
+  "Meridia's Order Occlusion Addon": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 521687,
+      "file_name": "Meredia's Order Occlusion Addon-122050-1-0-1721094772.zip",
+      "mod_id": 122050,
+      "hash": "sha256-skW4qU/9Atd+O3hHiF2DooW9/I+xXXgpz9ZZqUQlEc4="
+    }
+  },
+  "Old Blood Occlusion Addon": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 523993,
+      "file_name": "Old Blood Occlusion Addon-122050-1-0-1721696588.zip",
+      "mod_id": 122050,
+      "hash": "sha256-TisOtDncw+jtlEPtNuLfOGJawqPn3vO4HWig9ztLSXw="
+    }
+  },
+  "Skyrim Sewers Occlusion Addon": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 524052,
+      "file_name": "Skyrim Sewers Occlusion Addon-122050-1-0-1721717593.zip",
+      "mod_id": 122050,
+      "hash": "sha256-fglqt1ICNb3JAsF9QZWUzbWYQUVR6WLoxbUv4OnaeUU="
+    }
+  },
+  "Wyrmstooth Occlusion Addon": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1.0",
+      "file_id": 542329,
+      "file_name": "Wyrmstooth Occlusion Addon-122050-1-1-0-1726370111.zip",
+      "mod_id": 122050,
+      "hash": "sha256-FM2ftOqE2YHg2hTQ4YTHb1quD39Hu7AdryNMdrxbh1s="
+    }
+  },
+  "Brotherhood of Old Occlusion Addon": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.2.0",
+      "file_id": 542700,
+      "file_name": "Brotherhood of Old Occlusion Addon-122050-1-2-0-1726447493.zip",
+      "mod_id": 122050,
+      "hash": "sha256-75HSbrhUpHHOGduFrc1P62+aMPUEKav4pFnK5zfaKS0="
+    }
+  },
+  "Lost Passages Occlusion Addon": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.2.0",
+      "file_id": 542701,
+      "file_name": "Lost Passages Occlusion Addon-122050-1-2-0-1726447511.zip",
+      "mod_id": 122050,
+      "hash": "sha256-LyPB1HczBCp+Ylcd+oeJV2vId5HBhw+3OpaUk0SwSvI="
+    }
+  },
+  "Fortune's Trade House Occlusion Addon": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.3.0",
+      "file_id": 544393,
+      "file_name": "Fortune's Trade House Occlusion Addon-122050-1-3-0-1726896404.zip",
+      "mod_id": 122050,
+      "hash": "sha256-1AE9hK/+K72B5ATHtvC3nCzIBdwhxT2vu94HlEYUb1c="
+    }
+  },
+  "Unfaltered Virtue Occlusion Addon": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.3.0",
+      "file_id": 544394,
+      "file_name": "Unfaltered Virtue Occlusion Addon-122050-1-3-0-1726896428.zip",
+      "mod_id": 122050,
+      "hash": "sha256-XV89LVaHV2iYOww0GS/VLXB5bxhZLzi4QBhwJlWKom8="
+    }
+  },
+  "Lost Passages Hidden Cities Occlusion addon": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.4.0",
+      "file_id": 544943,
+      "file_name": "Lost Passages Hidden Cities Occlusion addon-122050-1-4-0-1727008831.zip",
+      "mod_id": 122050,
+      "hash": "sha256-DHVICKQijwc0uAwQo41XaycdMOaO5sDjzb9r35qFRTM="
+    }
+  },
+  "Solstheim Dungeonpack Occlusion Addon": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.4.0",
+      "file_id": 544944,
+      "file_name": "Solstheim Dungeonpack Occlusion Addon-122050-1-4-0-1727008851.zip",
+      "mod_id": 122050,
+      "hash": "sha256-HMvS5iV6c7+ckgUa/RD4WV//YzEuYeJ97ie6mfwFiKQ="
+    }
+  },
+  "Solstheim Lost Levels Occlusion Addon": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.4.0",
+      "file_id": 544945,
+      "file_name": "Solstheim Lost Levels Occlusion Addon-122050-1-4-0-1727008882.zip",
+      "mod_id": 122050,
+      "hash": "sha256-iFpcCI54iD3GCpoMqgxGEr3jACfP+MumF7R7Oqo6E9A="
+    }
+  },
+  "Vigilant Occlusion Addon": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.5.0",
+      "file_id": 547586,
+      "file_name": "Vigilant Occlusion Addon-122050-1-5-0-1727655009.zip",
+      "mod_id": 122050,
+      "hash": "sha256-fOoGtB7B/M5J8qvQSHbRVxyUyWXfH+mqlHAPiRxP3Qw="
+    }
+  },
+  "Remiel Occlusion Addon": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.6.0",
+      "file_id": 570375,
+      "file_name": "Remiel Occlusion Addon-122050-1-6-0-1733678013.zip",
+      "mod_id": 122050,
+      "hash": "sha256-QGdId6ax5oSoUVIieU36RffrfrcuYNPMNCXpfgXTNYY="
+    }
+  },
+  "Sleepwalking Into A Nightmare Occlusion Addon": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.7.0",
+      "file_id": 592795,
+      "file_name": "Sleepwalking Into A Nightmare Occlusion Addon-122050-1-7-0-1739125991.zip",
+      "mod_id": 122050,
+      "hash": "sha256-WdL0D19VKXp8maY35B1s/QdUb9MGsUAAhq4UEKCLUJw="
+    }
+  },
+  "Heart of the Reach Occlusion Addon": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.8.0",
+      "file_id": 600531,
+      "file_name": "Heart of the Reach Occlusion Addon-122050-1-8-0-1740849341.zip",
+      "mod_id": 122050,
+      "hash": "sha256-oN17mOaUv5EkCseEwtFdREPYTlZsVm/jwjxWknffhIk="
+    }
+  },
+  "Demon of Dream Occlusion addon": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.8.0",
+      "file_id": 600533,
+      "file_name": "Demon of Dream Occlusion addon-122050-1-8-0-1740849439.zip",
+      "mod_id": 122050,
+      "hash": "sha256-RZ2WBKNtSxNQ/gCAPkey8FL/4xyOgFXeeiFibfd80yo="
+    }
+  },
+  "Lost Wonders of Mzark Occlusion Addon": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.9.0",
+      "file_id": 622722,
+      "file_name": "Lost Wonders of Mzark Occlusion Addon-122050-1-9-0-1746127542.zip",
+      "mod_id": 122050,
+      "hash": "sha256-G5GJBI3SevSkp8FPTy0jFA6dUjJwjQJVtpsVZOfZI20="
+    }
+  },
+  "Miasma Occlusion Addon": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.10.0",
+      "file_id": 641995,
+      "file_name": "Miasma Occlusion Addon-122050-1-10-0-1750981878.zip",
+      "mod_id": 122050,
+      "hash": "sha256-XbUMjDZscHG7TA61xTc9c0btR6r5EJzSUp6gt70P+jo="
+    }
+  },
+  "Auri Occlusion Addon": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.11.0",
+      "file_id": 685332,
+      "file_name": "Auri Occlusion Addon-122050-1-11-0-1762626173.zip",
+      "mod_id": 122050,
+      "hash": "sha256-mfEO9uf1x6rMhNzfy1++iX4BLkWOcgN4WpkdQ7/mj9c="
+    }
+  },
+  "FPS Boost for Quest Mods FOMOD": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.12.0",
+      "file_id": 693273,
+      "file_name": "FPS Boost for Quest Mods FOMOD-122050-1-12-0-1764595083.zip",
+      "mod_id": 122050,
+      "hash": "sha256-dEIqCtB7wcWBobAd17XYhRqHa0SCpVDjXHBoZ34nAqw="
+    },
+    "type": "primary"
+  },
+  "Identity Crisis Occlusion addon": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.12.0",
+      "file_id": 693275,
+      "file_name": "Identity Crisis Occlusion addon-122050-1-12-0-1764595319.zip",
+      "mod_id": 122050,
+      "hash": "sha256-0ElOL9eStPzka9ZfQs4hXmt4oeQYqcBSlIVjBX01cnQ="
+    }
+  },
+  "Siege at Icemoth Occlusion addon": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.12.0",
+      "file_id": 693276,
+      "file_name": "Siege at Icemoth Occlusion addon-122050-1-12-0-1764595349.zip",
+      "mod_id": 122050,
+      "hash": "sha256-qSB6T1f9DTWXoVvfjeMSoCJB1gupbWSJ9VRQum8e17E="
+    }
+  },
+  "The Noble Bones Occlusion Addon": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.12.0",
+      "file_id": 693277,
+      "file_name": "The Noble Bones Occlusion Addon-122050-1-12-0-1764595410.zip",
+      "mod_id": 122050,
+      "hash": "sha256-t4J/akFfssjeXk+IxdtqlGJg2D/lW46LGDL3uyZTsYo="
+    }
+  }
+}

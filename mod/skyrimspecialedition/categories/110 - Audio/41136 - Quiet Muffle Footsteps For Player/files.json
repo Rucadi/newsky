@@ -1,0 +1,33 @@
+{
+  "Quiet Muffle - AoS patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 164026,
+      "file_name": "Quiet Muffle - AoS patch-41136-1-0-1601905179.7z",
+      "mod_id": 41136,
+      "hash": "sha256-8Gm0SWwsjR8CFwyOclGG2zn5v/ntohDf92ZBVKHSc/o="
+    }
+  },
+  "Quiet Muffle for Player": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1",
+      "file_id": 166228,
+      "file_name": "Quiet Muffle for Player-41136-1-1-1603157518.7z",
+      "mod_id": 41136,
+      "hash": "sha256-UHHJscQkx4kIGMP/xhIXbnZXG2rtt89jyiJvw3/He0g="
+    },
+    "type": "primary"
+  },
+  "Quiet Muffle - ISC patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1",
+      "file_id": 166229,
+      "file_name": "Quiet Muffle - ISC patch-41136-1-1-1603157611.7z",
+      "mod_id": 41136,
+      "hash": "sha256-GS+43yhp6hj5jCYDUGuYcysWhkibSDIIFLoa2ZscMHQ="
+    }
+  }
+}

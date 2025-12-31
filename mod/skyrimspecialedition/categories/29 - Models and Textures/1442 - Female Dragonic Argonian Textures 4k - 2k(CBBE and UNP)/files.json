@@ -1,0 +1,45 @@
+{
+  "2K UNP": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "",
+      "file_id": 1512,
+      "file_name": "2K UNP-1442-.rar",
+      "mod_id": 1442,
+      "hash": "sha256-Z24pb5KA603V3MAZbeaJhTtFIf2kUeJsg5/SlXqIVDA="
+    }
+  },
+  "4k UNP": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 1513,
+      "file_name": "4k UNP-1442-1-0.rar",
+      "mod_id": 1442,
+      "hash": "sha256-yspiPuyjy84IdOgTOctSJ0+sO8H8Y2ofg7dlLK9ACUQ="
+    },
+    "type": "primary"
+  },
+  "2K CBBE": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 1515,
+      "file_name": "2K CBBE-1442-1-0.rar",
+      "mod_id": 1442,
+      "hash": "sha256-J83K7Z7fT4x2hDDCTcCdIAQKvFP3l5wvXvoQYdXxWqY="
+    },
+    "type": "primary"
+  },
+  "4k CBBE": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 1516,
+      "file_name": "4k CBBE-1442-1-0.rar",
+      "mod_id": 1442,
+      "hash": "sha256-/Lb9TBOugE3AHjVvGo/713eN6q4EJFiRofbwFjhBuqI="
+    },
+    "type": "primary"
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "Ulfr the Blind Head Mesh and Texture for SSE": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 193055,
+      "file_name": "Ulfr the Blind Head Mesh and Texture for SSE-33965-1-0-1616486880.rar",
+      "mod_id": 33965,
+      "hash": "sha256-6QpPGEP0f8k1PpAGeZtJGHcfAp/xn2kijM9FemP0Co8="
+    }
+  },
+  "Sorli Splice - Repaired Audio Line": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 579025,
+      "file_name": "Sorli Splice - Repaired Audio Line-33965-1-0-1735927740.rar",
+      "mod_id": 33965,
+      "hash": "sha256-AvlklTvMFaGDCAKr9qmBqjSVJKCcmY0CDu/qt5Rx194="
+    }
+  },
+  "Denizens of Morthal Version 1.5": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.5",
+      "file_id": 611494,
+      "file_name": "Denizens of Morthal Version 1.5-33965-1-5-1743293206.rar",
+      "mod_id": 33965,
+      "hash": "sha256-vhEVqMclYsAJe6EUKXhXRbgBERx0DiO63OwJBvFDRDU="
+    },
+    "type": "primary"
+  },
+  "Story Manager Kicker": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 644837,
+      "file_name": "Story Manager Kicker-33965-1-0-1751844523.rar",
+      "mod_id": 33965,
+      "hash": "sha256-NqX3IYvN4vie63uwTASmWhilJj8AYAgix3akwNPG/x0="
+    }
+  }
+}

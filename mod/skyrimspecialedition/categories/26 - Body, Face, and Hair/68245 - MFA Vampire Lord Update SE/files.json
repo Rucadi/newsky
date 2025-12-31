@@ -1,0 +1,33 @@
+{
+  "MFA Vampire Lord Upgrade SE": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 284619,
+      "file_name": "MFA Vampire Lord Upgrade-68245-1-0-1652869900.zip",
+      "mod_id": 68245,
+      "hash": "sha256-Yvd6e+SDGRHfYfsLeIr2iAwJegR1vJXchYfer/Hr1kw="
+    },
+    "type": "primary"
+  },
+  "MFA Alternate Vampire Lord Wings SE": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 284620,
+      "file_name": "MFA Alternate Vampire Lord Wings SE-68245-1-0-1652869966.zip",
+      "mod_id": 68245,
+      "hash": "sha256-XVRXbKlp0piPn3/T1B/skvyGYL2AljyYDQCpexItwR0="
+    }
+  },
+  "MFA Alternate Vampire Lord Eyes SE": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 284621,
+      "file_name": "MFA Alternate Vampire Lord Eyes SE-68245-1-0-1652870009.zip",
+      "mod_id": 68245,
+      "hash": "sha256-9wyjN5cKOJiAAp9RRIOazvHnYEPl+Os1kamviB+5SS0="
+    }
+  }
+}

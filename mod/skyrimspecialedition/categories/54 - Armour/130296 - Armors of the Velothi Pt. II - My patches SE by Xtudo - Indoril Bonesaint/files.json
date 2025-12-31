@@ -1,0 +1,54 @@
+{
+  "Velothi II - SE by Xtudo - Fixes": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.6",
+      "file_id": 679461,
+      "file_name": "Velothi II - SE by Xtudo - Fixes-130296-1-6-1761220089.7z",
+      "mod_id": 130296,
+      "hash": "sha256-bqaAMo/FPMaORTC6rFU/sIabBpsjduP7Kyx3349b2ik="
+    },
+    "type": "primary"
+  },
+  "Velothi II - SE by Xtudo - Fixes Crafted": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.6",
+      "file_id": 679462,
+      "file_name": "Velothi II - SE by Xtudo - Fixes Crafted-130296-1-6-1761220128.7z",
+      "mod_id": 130296,
+      "hash": "sha256-2EUhdDVs7NDvQdPetcjAgTA7qLhbdVEPNVmnNL3zEBE="
+    },
+    "type": "primary"
+  },
+  "Velothi II - SE by Xtudo - Optimized Textures 4K": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.6",
+      "file_id": 679463,
+      "file_name": "Velothi II - SE by Xtudo - Optimized Textures 4K-130296-1-6-1761220295.7z",
+      "mod_id": 130296,
+      "hash": "sha256-CmqSccnfvdGy+vQ1kpuSdCIgbeoAtY1NjcPiAkRfJ8U="
+    }
+  },
+  "Velothi II - SE by Xtudo - Optimized Textures 2K": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.6",
+      "file_id": 679465,
+      "file_name": "Velothi II - SE by Xtudo - Optimized Textures 2K-130296-1-6-1761220344.7z",
+      "mod_id": 130296,
+      "hash": "sha256-dyGSimSQKynMwEPluttnYsqEpMNnP3rdUp65VGIrO2c="
+    }
+  },
+  "Velothi II - SE by Xtudo - Optimized Textures 1K": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.6",
+      "file_id": 679466,
+      "file_name": "Velothi II - SE by Xtudo - Optimized Textures 1K-130296-1-6-1761220403.7z",
+      "mod_id": 130296,
+      "hash": "sha256-FtSb6UPqC3vUBfYU6Q8MAnAOds85+E1kKPj58GESXc0="
+    }
+  }
+}

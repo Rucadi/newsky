@@ -1,0 +1,34 @@
+{
+  "No breasts physics patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 290169,
+      "file_name": "No breasts physics patch-69394-1-0-1654869520.rar",
+      "mod_id": 69394,
+      "hash": "sha256-Mr6sQCTEcP+S9/W1ZdD6ocKTxa6Vg+eOgc6Etdibprs="
+    }
+  },
+  "Traveling Mage Cloth": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.3",
+      "file_id": 290646,
+      "file_name": "Traveling Mage Cloth-69394-1-3-1655047790.rar",
+      "mod_id": 69394,
+      "hash": "sha256-f5wuj9/Degm2Y1uOie+HEAQJMqdex2VG7XRawKE41CQ="
+    },
+    "type": "primary"
+  },
+  "Traveling Mage Light Armor": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.3",
+      "file_id": 290647,
+      "file_name": "Traveling Mage Light Armor-69394-1-3-1655047883.rar",
+      "mod_id": 69394,
+      "hash": "sha256-4Pnkfz/8FqvnsSw33+lf7bApnkPtogzY4tPgSHK2kKI="
+    },
+    "type": "primary"
+  }
+}

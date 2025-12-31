@@ -1,0 +1,23 @@
+{
+  "Cursed - An Alternate Death Mod": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "v2.4",
+      "file_id": 458670,
+      "file_name": "Cursed - An Alternate Death Mod-90800-v2-5-1704594598.rar",
+      "mod_id": 90800,
+      "hash": "sha256-5qL21/zDsFuJVZiXEFu9fANLsGFvaTtnrFKOsnAOpP4="
+    },
+    "type": "primary"
+  },
+  "Hybrid Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "v2.4",
+      "file_id": 458671,
+      "file_name": "Hybrid Patch-90800-v2-4-1704594666.rar",
+      "mod_id": 90800,
+      "hash": "sha256-TmU79Q3QRZbo3h47wWVzeIjVFpGkZELdWAbAQ+imqx8="
+    }
+  }
+}

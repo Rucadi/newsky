@@ -1,0 +1,24 @@
+{
+  "OWL - COIN": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 252250,
+      "file_name": "OWL - COIN-60889-1-0-1640710216.zip",
+      "mod_id": 60889,
+      "hash": "sha256-MSBMyl8ooJKoprmRhPK3eptSFgO+Go5A3RfTOUKkPpQ="
+    },
+    "type": "primary"
+  },
+  "OWL - artefakes": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 252251,
+      "file_name": "OWL - artefakes-60889-1-0-1640710247.zip",
+      "mod_id": 60889,
+      "hash": "sha256-8bPhWbJcP1zn6nfvAI7Bi0Meqn/C+CokEozHo4Y/G+0="
+    },
+    "type": "primary"
+  }
+}

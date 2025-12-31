@@ -1,0 +1,23 @@
+{
+  "Subtler Illusions": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0.1",
+      "file_id": 669723,
+      "file_name": "Subtler Illusions-127152-1-0-1-1758932558.zip",
+      "mod_id": 127152,
+      "hash": "sha256-ILY6uvjPaYSUs//M3sR1lL/5wqQbz+Pvt18fK6JaMLk="
+    },
+    "type": "primary"
+  },
+  "Subtler Conjurations": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0.0",
+      "file_id": 669724,
+      "file_name": "Subtler Conjurations-127152-1-0-0-1758932727.zip",
+      "mod_id": 127152,
+      "hash": "sha256-RU56+EIHTwhyLcMsd7TKcOWhzmS6yZjBn8o8KLPRGwo="
+    }
+  }
+}

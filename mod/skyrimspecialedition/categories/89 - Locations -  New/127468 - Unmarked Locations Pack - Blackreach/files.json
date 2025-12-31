@@ -1,0 +1,33 @@
+{
+  "Unmarked Locations Pack - Blackreach": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 534852,
+      "file_name": "Unmarked Locations Pack - Blackreach-127468-1-0-1724518230.rar",
+      "mod_id": 127468,
+      "hash": "sha256-OMjCRqbqLgiMWf+LbytwQci6A2weJ47S97T20aDue3I="
+    },
+    "type": "primary"
+  },
+  "ULPBR - Jk's Sinderion's Field Laboratory Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "Patch",
+      "file_id": 535115,
+      "file_name": "ULPBR - Jk's Sinderion's Field Laboratory Patch-127468-Patch-1724583906.rar",
+      "mod_id": 127468,
+      "hash": "sha256-K8faTBXYDyNHi/d+tvDbujZv7UYc5ODX5IGYuK53/+s="
+    }
+  },
+  "ULPBR - Blackreach Clockwork City Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "Patch",
+      "file_id": 538662,
+      "file_name": "ULPBR - Blackreach Clockwork City Patch-127468-Patch-1725461675.rar",
+      "mod_id": 127468,
+      "hash": "sha256-96XJiyG4+y3xiqKx7TuLzz/1cXjR+WEMJzeD7Q6VViA="
+    }
+  }
+}

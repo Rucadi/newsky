@@ -1,0 +1,24 @@
+{
+  "Seasonal Diverse Tundra Shrubs - Original Colours": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1",
+      "file_id": 548735,
+      "file_name": "Seasonal Diverse Tundra Shrubs - Original Colours-112882-1-1-1727976747.rar",
+      "mod_id": 112882,
+      "hash": "sha256-bJSaH8gGKvM4BB3+1RT9wkP5O/LhiV9HhsD/5Rs93ZQ="
+    },
+    "type": "primary"
+  },
+  "Seasonal Diverse Tundra Shrubs - Spring Greens": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1",
+      "file_id": 548738,
+      "file_name": "Seasonal Diverse Tundra Shrubs - Spring Greens-112882-1-1-1727977426.rar",
+      "mod_id": 112882,
+      "hash": "sha256-jzLex4/cvOilxFBHvjsiRNVH5SlL5cJF7RkmJHEy3VI="
+    },
+    "type": "primary"
+  }
+}

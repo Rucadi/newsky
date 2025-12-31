@@ -1,0 +1,45 @@
+{
+  "Cathedral - 3D Clovers - Uncompressed": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1",
+      "file_id": 287312,
+      "file_name": "Cathedral - 3D Clovers - Uncompressed-68793-1-1653788968.7z",
+      "mod_id": 68793,
+      "hash": "sha256-mkXYjkj6xYds/oMwebuJfLPBdMJ08c8cS9tsEFwqMKw="
+    }
+  },
+  "Cathedral - 3D Clovers - Full 3D": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "4",
+      "file_id": 466863,
+      "file_name": "Cathedral - 3D Clovers - Full 3D-68793-4-1706832772.zip",
+      "mod_id": 68793,
+      "hash": "sha256-3lQt2O8vqztnRUpmu4ecz57va2LlKgPSuyKKa7m6Ye8="
+    },
+    "type": "primary"
+  },
+  "Cathedral - 3D Clovers - Hybrid 3D": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "4",
+      "file_id": 466864,
+      "file_name": "Cathedral - 3D Clovers - Hybrid 3D-68793-4-1706832920.zip",
+      "mod_id": 68793,
+      "hash": "sha256-BLZf2NBWPD6Hqd1eRPv5THVNJZjWEGC7lj3P9++CEes="
+    },
+    "type": "primary"
+  },
+  "Cathedral - 3D Clovers - Full 3D PBR": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "4",
+      "file_id": 570812,
+      "file_name": "Cathedral - 3D Clovers - Full 3D PBR-68793-4-1733781193.zip",
+      "mod_id": 68793,
+      "hash": "sha256-vPn5/qsZWIR50Xt/mzy+iRB2SWmtC3nrFr4aXhc51i4="
+    },
+    "type": "primary"
+  }
+}

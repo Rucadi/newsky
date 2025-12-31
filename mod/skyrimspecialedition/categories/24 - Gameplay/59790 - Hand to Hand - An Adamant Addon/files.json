@@ -1,0 +1,43 @@
+{
+  "Hand to Hand - Locksmith Addon": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.2.0",
+      "file_id": 289821,
+      "file_name": "Hand to Hand - Locksmith Addon-59790-1-2-0-1654729807.7z",
+      "mod_id": 59790,
+      "hash": "sha256-sRI0ipPLhdP/m6HQT1n7ArJXhsBDt/g47sKXjtf5ZPU="
+    }
+  },
+  "Hand to Hand - Trainers and Skill Books Addon": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0.5",
+      "file_id": 312593,
+      "file_name": "Hand to Hand - Trainers and Skill Books Addon-59790-1-0-5-1662142266.7z",
+      "mod_id": 59790,
+      "hash": "sha256-sdpFqTSZG+SoIYM40vSXcWb+Da2Q+COHr5DEfBuIR78="
+    }
+  },
+  "Hand to Hand - Jump Perks Addon": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0.0",
+      "file_id": 355044,
+      "file_name": "Hand to Hand - Jump Perks Addon-59790-1-0-0-1675194866.7z",
+      "mod_id": 59790,
+      "hash": "sha256-a4e4COP6L7ju/NHHYm2265Nm84H6YMTfF5l8m8dnu5E="
+    }
+  },
+  "Hand to Hand - An Adamant Addon": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.5.8",
+      "file_id": 470493,
+      "file_name": "Hand to Hand - An Adamant Addon-59790-1-5-8-1707850577.7z",
+      "mod_id": 59790,
+      "hash": "sha256-pKQmTnFWs6AXCevYbpLbmxkLkAPipXq9wVkbxAfy8f4="
+    },
+    "type": "primary"
+  }
+}

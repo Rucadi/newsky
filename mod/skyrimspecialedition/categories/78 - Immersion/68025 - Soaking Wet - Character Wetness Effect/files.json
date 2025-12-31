@@ -1,0 +1,24 @@
+{
+  "Soaking Wet for 1.5.39 - 1.6.353": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.2.1",
+      "file_id": 450454,
+      "file_name": "Soaking Wet for 1.5.39 - 1.6.353-68025-1-2-1-1702210390.zip",
+      "mod_id": 68025,
+      "hash": "sha256-O2iSXEOuGHEzY9UsKeamYAmc+0VILNct6hLZWNaRgvM="
+    },
+    "type": "primary"
+  },
+  "Soaking Wet for 1.6.629 and newer": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.2.1",
+      "file_id": 450455,
+      "file_name": "Soaking Wet for 1.6.629 and newer-68025-1-2-1-1702210417.zip",
+      "mod_id": 68025,
+      "hash": "sha256-Yo5YMZIU4lrAonc6tVFtwgHBFaFsZboPCKhR4JmzuQQ="
+    },
+    "type": "primary"
+  }
+}

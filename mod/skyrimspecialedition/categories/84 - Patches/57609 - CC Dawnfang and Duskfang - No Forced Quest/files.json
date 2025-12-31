@@ -1,0 +1,23 @@
+{
+  "CC Dawnfang Duskfang - No Forced Quest": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1",
+      "file_id": 237585,
+      "file_name": "CC Dawnfang Duskfang - No Forced Quest-57609-1-1635449401.zip",
+      "mod_id": 57609,
+      "hash": "sha256-epxxaT3awg7u4Sw7dJvuMPEOKadRFqKJyGxBZYqeEfM="
+    },
+    "type": "primary"
+  },
+  "RAE - Quest Requirements Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1",
+      "file_id": 284835,
+      "file_name": "RAE - Quest Requirements Patch-57609-1-1-1652936524.zip",
+      "mod_id": 57609,
+      "hash": "sha256-uZq5M15qlJ4YEstr2252iMdxn2ZP/QaIuDrsbztCRYA="
+    }
+  }
+}

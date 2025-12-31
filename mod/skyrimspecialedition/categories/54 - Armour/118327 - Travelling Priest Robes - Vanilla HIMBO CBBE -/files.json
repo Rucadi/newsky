@@ -1,0 +1,63 @@
+{
+  "Travelling Priest Robes - SPID": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1",
+      "file_id": 497705,
+      "file_name": "Travelling Priest - SPID-118327-1-1-1714821985.rar",
+      "mod_id": 118327,
+      "hash": "sha256-DTfiMtMfUorM13pnoQhsetDdCE0HB1+Y1WNajwvcvzc="
+    }
+  },
+  "Travelling Priest Robes - Vanilla HIMBO CBBE": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "2.1",
+      "file_id": 635262,
+      "file_name": "Travelling Priest Robes - Vanilla HIMBO CBBE-118327-2-1-1749220095.rar",
+      "mod_id": 118327,
+      "hash": "sha256-G6blpSJyR/oskY7t+ytsK6p0xHVatf1fbkLZAysxnjQ="
+    },
+    "type": "primary"
+  },
+  "Travelling Priest Robes - ACE Addon": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "2.1",
+      "file_id": 635263,
+      "file_name": "Travelling Priest Robes - ACE Addon-118327-2-1-1749220151.rar",
+      "mod_id": 118327,
+      "hash": "sha256-F5le57UyEsK2pTqBtfMgOsUSaGklcHbvKAW7fHDGOJc="
+    }
+  },
+  "Travelling Priest Robes - Clothing Version": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "2.1",
+      "file_id": 635264,
+      "file_name": "Travelling Priest Robes - Clothing Version-118327-2-1-1749220192.rar",
+      "mod_id": 118327,
+      "hash": "sha256-qbDcCo/J/qizWbLdR0ceSyLlBk+44Vesl2zQm/owGwA="
+    }
+  },
+  "Travelling Priest Robes - ACE - Clothing Version": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "2.1",
+      "file_id": 635265,
+      "file_name": "Travelling Priest Robes - ACE - Clothing Version-118327-2-1-1749220228.rar",
+      "mod_id": 118327,
+      "hash": "sha256-ECh/Wzb7sWz/hgwFsO1tktppvllonIVqOkbXlHVCNC4="
+    }
+  },
+  "Travelling Priest Robes - HDT Vanilla Scarf": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1",
+      "file_id": 635267,
+      "file_name": "Travelling Priest Robes - HDT Vanilla Scarf-118327-1-1749220302.rar",
+      "mod_id": 118327,
+      "hash": "sha256-O2gT7wqvq5PwddpbwsB7gg3LaknCDtzAxB+7xsorSYM="
+    }
+  }
+}

@@ -1,0 +1,123 @@
+{
+  "GHTE - CC Fishing Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 685453,
+      "file_name": "GHTE - CC Fishing Patch-163783-1-0-1762647800.7z",
+      "mod_id": 163783,
+      "hash": "sha256-vnAYOmujHQTj1EzvYIPitfAl3aJZ+xZUmEsd5VMFIH8="
+    }
+  },
+  "GHTE - CC Necro Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 685456,
+      "file_name": "GHTE - CC Necro Patch-163783-1-0-1762647888.7z",
+      "mod_id": 163783,
+      "hash": "sha256-lWtznZJr3G2ohuBbl5zPAhoIncEewV4xVC7hdRQoI/Y="
+    }
+  },
+  "GHTE - CC Survival Mode Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 685459,
+      "file_name": "GHTE - CC Survival Mode Patch-163783-1-0-1762648006.7z",
+      "mod_id": 163783,
+      "hash": "sha256-60nqj4Lgii7OzV2KzNMqGLRIJUM1/S2RjRbrYsteoB8="
+    }
+  },
+  "GHTE - Homes Under the Warhammer Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 685461,
+      "file_name": "GHTE - Homes Under the Warhammer Patch-163783-1-0-1762648040.7z",
+      "mod_id": 163783,
+      "hash": "sha256-7JSIkFiMclvITQiNmlyuZPGWNmOpEl2roIgiSbMSZLw="
+    }
+  },
+  "GHTE - Lorkans Legacy Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 685463,
+      "file_name": "GHTE - Lorkans Legacy Patch-163783-1-0-1762648073.7z",
+      "mod_id": 163783,
+      "hash": "sha256-I4n2SNfreXd84QMJ3c/3QMDy25viRuLwF7bYKFYo2OI="
+    }
+  },
+  "GHTE - RAE Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 685464,
+      "file_name": "GHTE - RAE Patch-163783-1-0-1762648113.7z",
+      "mod_id": 163783,
+      "hash": "sha256-06Q6ZZoFLwWKbhoR7BUUD6cS5704TDq5n+XIW3ce9YA="
+    }
+  },
+  "GHTE - Sorcerer Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 685466,
+      "file_name": "GHTE - Sorcerer Patch-163783-1-0-1762648144.7z",
+      "mod_id": 163783,
+      "hash": "sha256-r9YfIG/Cz7pSa3jDGBpK6N4p722yuEkRXW4VKn1N/gQ="
+    }
+  },
+  "GHTE - Undeath Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 685468,
+      "file_name": "GHTE - Undeath Patch-163783-1-0-1762648181.7z",
+      "mod_id": 163783,
+      "hash": "sha256-TASDmkzehfG1iktu6shPfo4rfZ79KnWVw2VasK4URwI="
+    }
+  },
+  "GHTE - Wintersun Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 685469,
+      "file_name": "GHTE - Wintersun Patch-163783-1-0-1762648213.7z",
+      "mod_id": 163783,
+      "hash": "sha256-j+GU2DpR/L9G4/TjD3yH9udOLPC0BM6tkZ49SFOJqpE="
+    }
+  },
+  "GHTE - RoM Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0.1",
+      "file_id": 685739,
+      "file_name": "GHTE - RoM Patch-163783-1-0-1-1762699895.7z",
+      "mod_id": 163783,
+      "hash": "sha256-DBKbTdKPT9Wkxt3Us0ojFc+AW7DDKBnklUSn5mh6Zl4="
+    }
+  },
+  "GHTE - CC Gallows Hall - Tweaks and Enhancements": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0.3",
+      "file_id": 686192,
+      "file_name": "GHTE - CC Gallows Hall - Tweaks and Enhancements-163783-1-0-3-1762801422.7z",
+      "mod_id": 163783,
+      "hash": "sha256-3k7DcAIOU3eHOHDIldUVVUiEHTETOGNAWfMsWvF2fC4="
+    },
+    "type": "primary"
+  },
+  "GHTE - No Entry Reqs": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0.3",
+      "file_id": 686193,
+      "file_name": "GHTE - No Entry Reqs-163783-1-0-3-1762801451.7z",
+      "mod_id": 163783,
+      "hash": "sha256-75OXtEX9ZiEw9x+lHr5MmD6Z+EIJFZOi8EnqaozkUxk="
+    }
+  }
+}

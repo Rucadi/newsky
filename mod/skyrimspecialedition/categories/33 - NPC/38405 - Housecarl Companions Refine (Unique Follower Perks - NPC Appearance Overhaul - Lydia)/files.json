@@ -1,0 +1,24 @@
+{
+  "Housecarl Companions Refine (1.1.0)": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1.0",
+      "file_id": 287918,
+      "file_name": "Housecarl Companions Refine (1.1.0)-38405-1-1-0-1654025967.7z",
+      "mod_id": 38405,
+      "hash": "sha256-p1g/+0ik9fdw6YmQs9EjPf5if1AKc9vhY39X2H0JmNc="
+    },
+    "type": "primary"
+  },
+  "Housecarl Companions Refine Addon (1.1.0)": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1.0",
+      "file_id": 287919,
+      "file_name": "Housecarl Companions Refine Addon (1.1.0)-38405-1-1-0-1654026022.7z",
+      "mod_id": 38405,
+      "hash": "sha256-Yef124BEweFFg+nF8+3NDNH6uCWi+JwJn5KBCPXWWjI="
+    },
+    "type": "primary"
+  }
+}

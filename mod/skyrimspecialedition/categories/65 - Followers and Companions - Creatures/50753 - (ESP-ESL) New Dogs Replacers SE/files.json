@@ -1,0 +1,44 @@
+{
+  "(ESP) New Dogs Replacers SE with DLCs animals": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "2.6",
+      "file_id": 207354,
+      "file_name": "New Dogs Replacers SE with DLCs animals-50753-2-6-1622871133.7z",
+      "mod_id": 50753,
+      "hash": "sha256-sdXI0e7GYCX7OCx95Nw3bvgCXmvdD3EINkr+iOXo93g="
+    },
+    "type": "primary"
+  },
+  "(ESP) New Dogs Replacers SE No DLCs animals": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.2",
+      "file_id": 207467,
+      "file_name": "New Dogs Replacers SE No DLCs animals-50753-1-2-1622913706.7z",
+      "mod_id": 50753,
+      "hash": "sha256-w+h8r311UE4vNyaApqHyeIOqzxoUUchU1ljqM20xOH4="
+    },
+    "type": "primary"
+  },
+  "ESL for New Dogs Replacers SE 2.6": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "2.6",
+      "file_id": 207614,
+      "file_name": "ESL for New Dogs Replacers SE 2.6-50753-2-6-1622959958.7z",
+      "mod_id": 50753,
+      "hash": "sha256-beFsLIcfP/FOhQQ4LoHlQEnyXDTWLm49C07LYKAqW4g="
+    }
+  },
+  "ESL for New Dogs Replacers SE 1.2": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.2",
+      "file_id": 207616,
+      "file_name": "ESL for New Dogs Replacers SE 1.2-50753-1-2-1622960744.7z",
+      "mod_id": 50753,
+      "hash": "sha256-Ula0yQiS1V1r3uMyFnBMOQmTaonMDcc81DmIcSKYTvI="
+    }
+  }
+}

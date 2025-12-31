@@ -1,0 +1,44 @@
+{
+  "Happy Little Trees 3D LOD - Performance - HLT 1.01": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.03",
+      "file_id": 294149,
+      "file_name": "Happy Little Trees 3D LOD - Performance-56907-1-03-1656222607.7z",
+      "mod_id": 56907,
+      "hash": "sha256-4np30IVb4wuGDn/R/rUaISZhs8i7P4mVoq2mFwkTNio="
+    }
+  },
+  "Happy Little Trees 3D LOD - Quality - HLT 1.01": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.03",
+      "file_id": 294150,
+      "file_name": "Happy Little Trees 3D LOD - Quality-56907-1-03-1656222761.7z",
+      "mod_id": 56907,
+      "hash": "sha256-XUbj4XdRE7vNH63tTfEsu21UsAnPrwTSMnX9KNHnp68="
+    }
+  },
+  "Happy Little Trees 3D LOD - Performance": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "2.1.2",
+      "file_id": 607547,
+      "file_name": "Happy Little Trees 3D LOD - Performance-56907-2-1-2-1742443542.7z",
+      "mod_id": 56907,
+      "hash": "sha256-7i48+DPrk6rJ/UjufzofbtBDmYJ56Rk2ldTKQHT7/3Q="
+    },
+    "type": "primary"
+  },
+  "Happy Little Trees 3D LOD - Quality": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "2.1.2",
+      "file_id": 607548,
+      "file_name": "Happy Little Trees 3D LOD - Quality-56907-2-1-2-1742443601.7z",
+      "mod_id": 56907,
+      "hash": "sha256-uAA2L5yVvPBi4VlA9Eftmq1G9DS+Ti1RzL+Fwho9x4I="
+    },
+    "type": "primary"
+  }
+}

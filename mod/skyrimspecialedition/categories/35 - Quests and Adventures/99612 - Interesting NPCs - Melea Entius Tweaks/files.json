@@ -1,0 +1,33 @@
+{
+  "Melea Entius Tweaks": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 422108,
+      "file_name": "Melea Entius Tweaks-99612-1-0-1693430704.7z",
+      "mod_id": 99612,
+      "hash": "sha256-h2xZn0MaacP6qgDgFFI1NAcZSeFmnKk9eFPCsYXtl9s="
+    },
+    "type": "primary"
+  },
+  "COTN Falkreath Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 422141,
+      "file_name": "COTN Falkreath Patch-99612-1-0-1693438680.7z",
+      "mod_id": 99612,
+      "hash": "sha256-vD2HVci+cZzp3+MIVTUdX+Cy91NFIM7VVPL+o4JOA78="
+    }
+  },
+  "Simple Children Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 423345,
+      "file_name": "Simple Children Patch-99612-1-0-1693865317.7z",
+      "mod_id": 99612,
+      "hash": "sha256-Mf5MgC9xvrh4mxQekpvCU9WqQ/Cmz/I8xqyc4lDK0oE="
+    }
+  }
+}

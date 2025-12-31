@@ -1,0 +1,23 @@
+{
+  "Currency Swapper": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "2.0.0",
+      "file_id": 640164,
+      "file_name": "Currency Swapper-127686-2-0-0-1750508661.7z",
+      "mod_id": 127686,
+      "hash": "sha256-/Pwpo+Ulh6JJbw6Ipd5EmAaN83tDd8As6/BtqzAiMhQ="
+    },
+    "type": "primary"
+  },
+  "Currency Swapper - No Version Lock": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "0.0.0",
+      "file_id": 640317,
+      "file_name": "Currency Swapper - No Version Lock-127686-0-0-0-1750532457.7z",
+      "mod_id": 127686,
+      "hash": "sha256-Ku7zcTwrjUtgjoL8bhQS0ltnKRAsd5oUGFHs3ZAKrr0="
+    }
+  }
+}

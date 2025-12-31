@@ -1,0 +1,33 @@
+{
+  "High-Poly Inigo Replacer - FOMOD installer": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "3.0",
+      "file_id": 153610,
+      "file_name": "High-Poly Inigo Replacer - FOMOD installer-38860-3-0-1596500717.7z",
+      "mod_id": 38860,
+      "hash": "sha256-V40JgGfWkSJ55i4s4iQZuoItmDHH6g63nDxaGYYoTYg="
+    },
+    "type": "primary"
+  },
+  "High-Poly Inigo Racemenu Preset": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "3.0",
+      "file_id": 153750,
+      "file_name": "High-Poly Inigo Racemenu Preset-38860-3-0-1596556983.7z",
+      "mod_id": 38860,
+      "hash": "sha256-yEGW1bnhFM+4HRTKMmMNZzQSeQ1qCtLZJ2zEEMewu1c="
+    }
+  },
+  "High-Poly Inigo Replacer - Non-glowing eyes with custom hair": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "3.0",
+      "file_id": 158697,
+      "file_name": "High-Poly Inigo - Custom hair with non-glowing eyes-38860-3-0-1598949420.7z",
+      "mod_id": 38860,
+      "hash": "sha256-ryd/scFfBIcN4HiO39JYADneoRE5f3VusJ4rAT2mSkI="
+    }
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "Cathedral Snow and Glaciers (YALO T4R and RS) - Darker": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "4.3.2",
+      "file_id": 94257,
+      "file_name": "Cathedral Snow and Glaciers (YALO T4R and RS)-18033-4-3-2-1559277953.7z",
+      "mod_id": 18033,
+      "hash": "sha256-H6zQwlA+fqhqN7C6Es7ef2WauZTPGYoTXd/e2YQSF5g="
+    },
+    "type": "primary"
+  },
+  "Cathedral - Snow and Glaciers (YALO T4R and RS) - Brighter": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "4.6",
+      "file_id": 191403,
+      "file_name": "Cathedral - Snow and Glaciers (YALO T4R and RS)-18033-4-6-1615704772.7z",
+      "mod_id": 18033,
+      "hash": "sha256-/Kinymupv+vDY66qOsmmQxPFdbsab+vL9vxihNmmEKI="
+    },
+    "type": "primary"
+  }
+}

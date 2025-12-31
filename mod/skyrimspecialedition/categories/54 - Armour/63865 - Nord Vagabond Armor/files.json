@@ -1,0 +1,53 @@
+{
+  "Nord Vagabond Armor": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 265167,
+      "file_name": "Nord Vagabond Armor-63865-1-0-1645215671.zip",
+      "mod_id": 63865,
+      "hash": "sha256-u6AmFxLTTYuZnH0oqg5qUaLyQoxpvcZc5BcZv1Q8BWI="
+    },
+    "type": "primary"
+  },
+  "Nord Vagabond Armor - Blue": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 265354,
+      "file_name": "Nord Vagabond Armor - Blue-63865-1-0-1645286966.zip",
+      "mod_id": 63865,
+      "hash": "sha256-ZmtPanvGRfT1HxPOzOLaqq5Kz4sCn0w7EotVV//0z1A="
+    }
+  },
+  "Nord Vagabond Armor - Green": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 265355,
+      "file_name": "Nord Vagabond Armor - Green-63865-1-0-1645287015.zip",
+      "mod_id": 63865,
+      "hash": "sha256-mKUDhSKttzTA3/0ObKAXZqxgAvpZJpfa8omonRjdDMk="
+    }
+  },
+  "Nord Vagabond Armor - Red": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 265356,
+      "file_name": "Nord Vagabond Armor - Red-63865-1-0-1645287054.zip",
+      "mod_id": 63865,
+      "hash": "sha256-R/3DClUAo7YKNRGaez3m36+NBsvr2/NE4jksEPJ5Z3E="
+    }
+  },
+  "Nord Vagabond Armor - Purple": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 265357,
+      "file_name": "Nord Vagabond Armor - Purple-63865-1-0-1645287093.zip",
+      "mod_id": 63865,
+      "hash": "sha256-JN3ssaS3CLSLvlhhQHxS3wnTQVPDbdXQ+z11hB60QfA="
+    }
+  }
+}

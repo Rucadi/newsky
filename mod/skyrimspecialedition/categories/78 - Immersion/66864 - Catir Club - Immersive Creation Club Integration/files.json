@@ -1,0 +1,24 @@
+{
+  "Catir Club - Goldbrand 1.2": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.2",
+      "file_id": 460838,
+      "file_name": "Catir Club - Goldbrand 1.2-66864-1-2-1705109377.zip",
+      "mod_id": 66864,
+      "hash": "sha256-zNcNjlM4VhCS33rmZeYnBViUDsbNZyPMKu02Md/x+OI="
+    },
+    "type": "primary"
+  },
+  "Catir Club - The Contest 1.1": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1",
+      "file_id": 573514,
+      "file_name": "Catir Club - The Contest 1.1-66864-1-1-1734501160.zip",
+      "mod_id": 66864,
+      "hash": "sha256-FvwX6xqNt64FrY8tChWXArx1AyItfXr70o7iBTk86nM="
+    },
+    "type": "primary"
+  }
+}

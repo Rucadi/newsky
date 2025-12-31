@@ -1,0 +1,44 @@
+{
+  "SkyTEST Lite ESL - One With Nature Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "v4.0",
+      "file_id": 530546,
+      "file_name": "SkyTEST Lite ESL - One With Nature Patch-84539-v4-0-1723393679.rar",
+      "mod_id": 84539,
+      "hash": "sha256-utfVgzifAGu9ypSCTPpVCzlEjiNu1WozB98gYUid5W0="
+    }
+  },
+  "SkyTEST Lite ESL - Real Wildlife Improved Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "v4.0",
+      "file_id": 530547,
+      "file_name": "SkyTEST Lite ESL - Real Wildlife Improved Patch-84539-v4-0-1723393751.rar",
+      "mod_id": 84539,
+      "hash": "sha256-jeSijdqxBu2GWkqNQZCiDUCYND9xqOcvMuJ2sxNCoFg="
+    }
+  },
+  "vLegacy SkyTEST Realistic Animals and Predators": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "v4.0",
+      "file_id": 530633,
+      "file_name": "Legacy SkyTEST Realistic Animals and Predators-84539-v4-0-1723407306.rar",
+      "mod_id": 84539,
+      "hash": "sha256-tE+KaUurKje2lpXFOkSiZczbbr9u1wlzT0+HwD+iRdw="
+    },
+    "type": "primary"
+  },
+  "SkyTEST Realistic Animals - Lite ESL": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "v4.2",
+      "file_id": 549743,
+      "file_name": "SkyTEST Realistic Animals - Lite ESL-84539-v4-2-1728246244.rar",
+      "mod_id": 84539,
+      "hash": "sha256-KfrPMkcSfs6SGKrtoU2y/7CQN+mZDQY2+o7T3fp754g="
+    },
+    "type": "primary"
+  }
+}

@@ -1,0 +1,64 @@
+{
+  "Dead Marsh - High Poly Mushrooms": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 420263,
+      "file_name": "Dead Marsh - High Poly Mushrooms-99137-1-0-1692934212.zip",
+      "mod_id": 99137,
+      "hash": "sha256-xVVfFvqpSs1K9cZO3p1/Gqe9dGKUkkgwE/tRJezlyyU="
+    }
+  },
+  "Fabled Forests - Exclude Morthal Marsh - EL Dead": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "2.0",
+      "file_id": 420379,
+      "file_name": "Fabled Forests - Exclude Morthal Marsh-99137-2-0-1692973581.zip",
+      "mod_id": 99137,
+      "hash": "sha256-9n5E3Vdllz/2blupkHLgXxNvIV2783MXCix18N94x1c="
+    },
+    "type": "primary"
+  },
+  "Dead Marsh - Size Variation (BOS)": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 420471,
+      "file_name": "Dead Marsh - Size Variation (BOS)-99137-1-0-1692988702.zip",
+      "mod_id": 99137,
+      "hash": "sha256-kKn+KPj9GYGPGZvBtaw04WAFDtx3jlyt2o623l8LWuM="
+    }
+  },
+  "Fabled Forests - Exclude Morthal Marsh": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "2.0",
+      "file_id": 420542,
+      "file_name": "Fabled Forests - Exclude Morthal Marsh (Non-EL)-99137-2-0-1693001039.zip",
+      "mod_id": 99137,
+      "hash": "sha256-JgFeVcFVQ1DhDTsWZJVfwgLe3CEenZu+x7InqWZyDq0="
+    },
+    "type": "primary"
+  },
+  "Fabled Forests - Revert Reach Trees (AE)": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "2.0",
+      "file_id": 420550,
+      "file_name": "Fabled Forests - Revert Reach Trees (AE)-99137-2-0-1693002307.zip",
+      "mod_id": 99137,
+      "hash": "sha256-oijmgHIfI4kGYD2aBHUxbDPQHXaNVzjXXoAZLVjD568="
+    }
+  },
+  "Fabled Forests - Revert Reach Trees (SE)": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "2.0",
+      "file_id": 420554,
+      "file_name": "Fabled Forests - Revert Reach Trees (No AE)-99137-2-0-1693002708.zip",
+      "mod_id": 99137,
+      "hash": "sha256-sNLEUYaU+fhD6k9ZR8TAuNfqCzmAxxwlZClQq3OFTkc="
+    }
+  }
+}

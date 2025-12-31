@@ -1,0 +1,23 @@
+{
+  "InsanitySorrow's Silver Bow": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.4.1",
+      "file_id": 670837,
+      "file_name": "InsanitySorrow's Silver Bow-79302-1-4-1-1759249136.7z",
+      "mod_id": 79302,
+      "hash": "sha256-yQ2Ln3bxLEVmuIPpGaVi+5gkRxK5e7EPF7z8Mfv6bYg="
+    },
+    "type": "primary"
+  },
+  "OWL CC Crossbows Consistenc Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 676654,
+      "file_name": "OWL CC Crossbows Consistenc Patch-79302-1-0-1760628321.7z",
+      "mod_id": 79302,
+      "hash": "sha256-NnUY6K5wZ42PeJv4A4XAlYha3WQaKS/OFQ2mLYAy0Ww="
+    }
+  }
+}

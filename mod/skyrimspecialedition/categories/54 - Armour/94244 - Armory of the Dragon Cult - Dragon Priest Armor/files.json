@@ -1,0 +1,33 @@
+{
+  "Armory of the Dragon Cult - Dragon Priest Armor": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "2.0",
+      "file_id": 506924,
+      "file_name": "Armory of the Dragon Cult - Dragon Priest Armor-94244-2-0-1717171562.7z",
+      "mod_id": 94244,
+      "hash": "sha256-lYI3zkP9fYh0Tm0MJ7h7P4nwNt9W2RipCPtyTBC08r0="
+    },
+    "type": "primary"
+  },
+  "Armory of the Dragon Cult - Half Res": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "2.0",
+      "file_id": 506925,
+      "file_name": "Armory of the Dragon Cult - Half Res-94244-2-0-1717171834.7z",
+      "mod_id": 94244,
+      "hash": "sha256-z9vDqNTeFwcPd02kxqQDi/3Ci4GjjB/1QWSLj582IeY="
+    }
+  },
+  "Armory of the Dragon Cult - Low Res": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "2.0",
+      "file_id": 506927,
+      "file_name": "Armory of the Dragon Cult - Low Res-94244-2-0-1717171880.7z",
+      "mod_id": 94244,
+      "hash": "sha256-3ncpkS5aTzY6pTuClXeSecT4zRLQZj8ZXAeyBP+7CDU="
+    }
+  }
+}

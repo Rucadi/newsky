@@ -1,0 +1,23 @@
+{
+  "Optional Mar'so lines": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1",
+      "file_id": 676283,
+      "file_name": "Optional Mar'so lines-161442-1-1760554131.zip",
+      "mod_id": 161442,
+      "hash": "sha256-ODJIdtZ0jpITlsNUSthglwEDdcxO/JSUXOaPB8GNxuo="
+    }
+  },
+  "VIGILANT(missing lines) - ElevenLabs Voiced": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "180-1.4",
+      "file_id": 690804,
+      "file_name": "VIGILANT(missing lines) - ElevenLabs Voiced-161442-180-1-4-1764000932.zip",
+      "mod_id": 161442,
+      "hash": "sha256-ajtcMkwxACv0B93HQouS41I79kKafsv8ZfCCfT08zUQ="
+    },
+    "type": "primary"
+  }
+}

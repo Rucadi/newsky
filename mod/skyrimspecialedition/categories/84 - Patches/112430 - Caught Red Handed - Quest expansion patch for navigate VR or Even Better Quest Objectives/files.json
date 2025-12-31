@@ -1,0 +1,23 @@
+{
+  "Caught Red Handed Navigate VR patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 473942,
+      "file_name": "Caught Red Handed Navigate VR patch-112430-1-0-1708752114.7z",
+      "mod_id": 112430,
+      "hash": "sha256-KCg7++NABFtu3ucKQcZJIqWjBwWmDYeXRSUfcJuY5l8="
+    },
+    "type": "primary"
+  },
+  "Caught Red Handed Navigate VR patch for USSEP": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0a",
+      "file_id": 473943,
+      "file_name": "Caught Red Handed Navigate VR patch for USSEP-112430-1-0-1708752180.7z",
+      "mod_id": 112430,
+      "hash": "sha256-WAsf6ee2v102WJHZiz5ClvQdTcMj/KkYNDGsH+RfP1s="
+    }
+  }
+}

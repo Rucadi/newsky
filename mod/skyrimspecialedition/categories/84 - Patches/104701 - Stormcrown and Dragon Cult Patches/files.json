@@ -1,0 +1,57 @@
+{
+  "Stormcrown - Dragon Aspect Overhaul": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 442746,
+      "file_name": "Stormcrown - Dragon Aspect Overhaul-104701-1-0-1700023537.7z",
+      "mod_id": 104701,
+      "hash": "sha256-dLlUgga8JQbo7Wo9h1UKsAgYGaF0JT+F7ePoToM/RJk="
+    },
+    "type": "primary"
+  },
+  "Stormcrown - Wyrmstooth - Original Phantom Form": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 442747,
+      "file_name": "Stormcrown - Wyrmstooth - Original Phantom Form-104701-1-0-1700023609.7z",
+      "mod_id": 104701,
+      "hash": "sha256-a8/o8MBsS4EIDKBEX5uoKqm89UPvMccCV6moft160fk="
+    },
+    "type": "primary"
+  },
+  "Stormcrown - Wyrmstooth - DeltaRider Phantom Form": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 442748,
+      "file_name": "Stormcrown - Wyrmstooth - DeltaRider Phantom Form-104701-1-0-1700023668.7z",
+      "mod_id": 104701,
+      "hash": "sha256-IB87cml7/XZTPw416aQI2/qwgQDVIIsqrj4W8w4aEL4="
+    },
+    "type": "primary"
+  },
+  "Stormcrown - Iomaungandr Rising": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 442749,
+      "file_name": "Stormcrown - Iomaungandr Rising-104701-1-0-1700023749.7z",
+      "mod_id": 104701,
+      "hash": "sha256-XZ6Y1/48hosEDTF0i+wOIJqmiQUj0vZj0TGvEw0zbII="
+    },
+    "type": "primary"
+  },
+  "The Dragon Cult - Priesthood - Unborn Edition": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.02",
+      "file_id": 653640,
+      "file_name": "The Dragon Cult - Priesthood - Unborn Edition-104701-1-02-1754596500.7z",
+      "mod_id": 104701,
+      "hash": "sha256-j9pieYziMzBvt2wALKlVjIoTGDUIcSukfHCBXYBnGoo="
+    },
+    "type": "primary"
+  }
+}

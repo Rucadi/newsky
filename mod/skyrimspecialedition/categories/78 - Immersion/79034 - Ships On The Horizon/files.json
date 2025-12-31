@@ -1,0 +1,46 @@
+{
+  "Ships on the Horizon - Static": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1",
+      "file_id": 333455,
+      "file_name": "Ships on the Horizon - Main Version-79034-1-1-1669020659.rar",
+      "mod_id": 79034,
+      "hash": "sha256-3YqsA1ff3NEUvA5Dzriwtn2XOHaph6fp2aZIigZBZj0="
+    },
+    "type": "primary"
+  },
+  "Ships on the Horizon - Static Smaller Ships": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 333513,
+      "file_name": "Ships on the Horizon - Smaller Ships-79034-1-0-1669051720.rar",
+      "mod_id": 79034,
+      "hash": "sha256-8240Jgtig1OF1G+H01tUqXcx3lSaB2a7SHvFQsLq/hA="
+    },
+    "type": "primary"
+  },
+  "Ships on the Horizon - Animated": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.2",
+      "file_id": 471867,
+      "file_name": "Ships on the Horizon - Animated-79034-1-2-1708194056.rar",
+      "mod_id": 79034,
+      "hash": "sha256-HUilATbvncNA7T5HMdAoYISl7f+0dKF9iNN7R3w6ak8="
+    },
+    "type": "primary"
+  },
+  "Ships on the Horizon - Animated Smaller Ships": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.2",
+      "file_id": 471868,
+      "file_name": "Ships on the Horizon - Animated Smaller Ships-79034-1-2-1708194096.rar",
+      "mod_id": 79034,
+      "hash": "sha256-LBxQaOX5czZksRkBKkau6/DnKy6qGHYKi1Toj2hS1zU="
+    },
+    "type": "primary"
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "Parrying RPG": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "2.0.1",
+      "file_id": 346678,
+      "file_name": "Parrying RPG-81356-2-0-1-1672850940.zip",
+      "mod_id": 81356,
+      "hash": "sha256-1wObTb43AOnWAqoXLOyvZ5PLS5ugefvFigcMBf7jKCs="
+    },
+    "type": "primary"
+  },
+  "Parrying RPG (LeoneKingzz version)": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "3.2.0",
+      "file_id": 530526,
+      "file_name": "Parrying RPG (LeoneKingzz version)-81356-3-2-0-1723387891.zip",
+      "mod_id": 81356,
+      "hash": "sha256-m6lDHZErc4e9d9ISoHZ0kaQThW3C90RBlMzTIWPiCEo="
+    },
+    "type": "primary"
+  }
+}

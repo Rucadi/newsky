@@ -1,0 +1,53 @@
+{
+  "3BA Bodyslide": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1",
+      "file_id": 449855,
+      "file_name": "3BA Bodyslide-106305-1-0-1702053925.7z",
+      "mod_id": 106305,
+      "hash": "sha256-s9VGJBa4QFlmOLn9OI9wvT1gGkVnatroIrfvpA7ljMk="
+    }
+  },
+  "HIMBO Bodyslide": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1",
+      "file_id": 450298,
+      "file_name": "HIMBO Bodyslide-106305-1-0-1702168224.7z",
+      "mod_id": 106305,
+      "hash": "sha256-+KWq6tdutAqyr5G2P4+BrKl3MnkHKCyBMjDYSZakHsY="
+    }
+  },
+  "Fur-lined Steel Armor - 4k": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.2",
+      "file_id": 463817,
+      "file_name": "Fur-lined Steel Armor - 4k-106305-1-2-1705944356.7z",
+      "mod_id": 106305,
+      "hash": "sha256-pN9hcepvhjAj36AqP+18GVRrqaaEMb5jcynrVAbwvfM="
+    },
+    "type": "primary"
+  },
+  "Fur-lined Steel Armor - 2k": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.2",
+      "file_id": 463821,
+      "file_name": "Fur-lined Steel Armor - 2k-106305-1-2-1705944747.7z",
+      "mod_id": 106305,
+      "hash": "sha256-GpTwgSFmLvpi84SBMdEzWQJTH+H9SoPLpHvm673OH+s="
+    }
+  },
+  "Fur-lined Steel Armor - 1k": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.2",
+      "file_id": 463822,
+      "file_name": "Fur-lined Steel Armor - 1k-106305-1-2-1705944856.7z",
+      "mod_id": 106305,
+      "hash": "sha256-rnIPx9p5JF/2GFzFMPlHs+T4jZ9L53MBkWTKM0Z/cpE="
+    }
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "Nordic Northern Roads 4K": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "2.6",
+      "file_id": 619349,
+      "file_name": "Nordic Northern Roads 4K-79468-2-6-1745144770.zip",
+      "mod_id": 79468,
+      "hash": "sha256-IqIkM7lHgrQLF7ndPSqG9hwa76gryRO0NbItFbyqrK0="
+    },
+    "type": "primary"
+  },
+  "Nordic Northern Roads 2K": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "2.6",
+      "file_id": 619350,
+      "file_name": "Nordic Northern Roads 2K-79468-2-6-1745144846.zip",
+      "mod_id": 79468,
+      "hash": "sha256-q3M2SCsMnEkvdbXxYx3NrJjiSMThynXfz1+2kIl6N6g="
+    },
+    "type": "primary"
+  },
+  "Nordic Northern Roads 2K - Terrain Helper": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "2.6",
+      "file_id": 619353,
+      "file_name": "Nordic Northern Roads 2K - Terrain Helper-79468-2-6-1745145337.zip",
+      "mod_id": 79468,
+      "hash": "sha256-Erz4ZywGkeJBIDhlgxwkr4CCkBG/tSycs2rJ3pBAYjg="
+    },
+    "type": "primary"
+  },
+  "Nordic Northern Roads 4K - Terrain Helper": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "2.6",
+      "file_id": 619354,
+      "file_name": "Nordic Northern Roads 4K - Terrain Helper-79468-2-6-1745145558.zip",
+      "mod_id": 79468,
+      "hash": "sha256-P7cywHPZUK9KstOAMB9c1lkx/EK73a/WtbGWk2WEOIU="
+    },
+    "type": "primary"
+  }
+}

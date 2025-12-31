@@ -1,0 +1,23 @@
+{
+  "Vittorias Alternate Wedding - Award Perk Point": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.2",
+      "file_id": 259252,
+      "file_name": "Vittorias Alternate Wedding - Award Perk Point-62466-1-2-1643040027.7z",
+      "mod_id": 62466,
+      "hash": "sha256-HeiMJAmurwlP0iPwkAXGTmbbkfvLKFvqRL8OeIJa55g="
+    }
+  },
+  "Vittorias Alternate Wedding": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.3.3",
+      "file_id": 652522,
+      "file_name": "Vittorias Alternate Wedding-62466-1-3-3-1754249773.7z",
+      "mod_id": 62466,
+      "hash": "sha256-OFj4qSyl6MrerQB6oDFvapn4ABnYvI2VZLB6OuR52gw="
+    },
+    "type": "primary"
+  }
+}

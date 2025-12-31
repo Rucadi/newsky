@@ -1,0 +1,193 @@
+{
+  "BP Courtyard - JKs Blue Palace v1.4.1 Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.3",
+      "file_id": 549153,
+      "file_name": "Skyfalls BP Courtyard - JKs Blue Palace Patch-130890-1-0-1728107869.7z",
+      "mod_id": 130890,
+      "hash": "sha256-54h73e/3KNweQonKGQgOC7Dstn8Fx2cw2faP4Nw/be4="
+    }
+  },
+  "BP Courtyard - Enhanced Solitude SSE 2.71 Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.3",
+      "file_id": 549157,
+      "file_name": "Skyfalls BP Courtyard - Enhanced Solitude SSE Patc-130890-1-0-1728108045.7z",
+      "mod_id": 130890,
+      "hash": "sha256-QdK1uv1Hs5KqYije3dOTqYF6kH05LP1RBAEPt9VteJ4="
+    }
+  },
+  "BP Courtyard - Immersive Laundry Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.3",
+      "file_id": 549158,
+      "file_name": "Skyfalls BP Courtyard - Immersive Laundry Patch-130890-1-0-1728108085.7z",
+      "mod_id": 130890,
+      "hash": "sha256-7GxfMsFzW21ZlzaPAy5QwbKrLCMkkeqBccLy/lbKaO8="
+    }
+  },
+  "BP Courtyard - Spaghetti's Solitude Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.3",
+      "file_id": 549160,
+      "file_name": "Skyfalls BP Courtyard - Spaghetti's Solitude Patch-130890-1-0-1728108179.7z",
+      "mod_id": 130890,
+      "hash": "sha256-4fR7HGmwTtG8CJWii+JKtr6rOcbHhWdrKDZ9O9IooDc="
+    }
+  },
+  "BP Courtyard - JKs Skyrim Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.3",
+      "file_id": 549575,
+      "file_name": "BP Courtyard - JKs Skyrim Patch-130890-1-1-1728213253.7z",
+      "mod_id": 130890,
+      "hash": "sha256-cvq4i9IZg38+LvGdoUQ4ahn93I8ZddeUxeaGX42Vzm0="
+    }
+  },
+  "BP Courtyard - Another Solitude meshes patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.3",
+      "file_id": 551687,
+      "file_name": "Another Solitude - consistency meshes patch-130890-1-0-1728819144.7z",
+      "mod_id": 130890,
+      "hash": "sha256-z9+IoDPbKDV3xI0Qy91LsIw0FUcwX1IDsbJj0wgKCDE="
+    }
+  },
+  "BP Courtyard - JKs Blue Palace Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.3",
+      "file_id": 555592,
+      "file_name": "Skyfalls BP Courtyard - JKs Blue Palace Patch-130890-1-2-1729924729.7z",
+      "mod_id": 130890,
+      "hash": "sha256-BNOrmyyFrT0bbLb414nrLZUdynssIdr8D4RWUv0NHhk="
+    }
+  },
+  "Skyfalls Blue Palace Courtyard": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.3.1",
+      "file_id": 562112,
+      "file_name": "Skyfalls Blue Palace Courtyard-130890-1-3-1-1731582322.7z",
+      "mod_id": 130890,
+      "hash": "sha256-PcJ2okX+XPYZDyC6mBgNEbhxCh5m0xZatR95kxLlzrQ="
+    },
+    "type": "primary"
+  },
+  "BP Courtyard - Lux Orbis Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.3.1",
+      "file_id": 562113,
+      "file_name": "BP Courtyard - Lux Orbis Patch-130890-1-3-1-1731582388.7z",
+      "mod_id": 130890,
+      "hash": "sha256-9BSf0U8fTl4SQaO5cSGRWAkfiw6P2aOMZvb0sDy8ZUk="
+    }
+  },
+  "applicable Parallax Meshes": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.3.1",
+      "file_id": 562115,
+      "file_name": "applicable Parallax Meshes-130890-1-3-1-1731583257.7z",
+      "mod_id": 130890,
+      "hash": "sha256-XODkhWOwl+wHjwmjScgEp5UEjdyi4rFAX8HQKNaxE/8="
+    }
+  },
+  "BP Courtyard - ELFX Exteriors Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.3.1",
+      "file_id": 562415,
+      "file_name": "BP Courtyard - ELFX Exteriors Patch-130890-1-3-1-1731650049.7z",
+      "mod_id": 130890,
+      "hash": "sha256-0MBNHtZ7z8rSnD5LouNqZrd4WxCa0tOhTHPGAMgRUAU="
+    }
+  },
+  "applicable Complex Materials Meshes": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.3.1",
+      "file_id": 562422,
+      "file_name": "applicable Complex Materials Meshes-130890-1-3-1-1731651531.7z",
+      "mod_id": 130890,
+      "hash": "sha256-2Mw6af0QyqZHuEklIlJOnMBpJItwcPaqg09fJDIQmBM="
+    }
+  },
+  "BP Courtyard - Spaghetti's Cities AIO Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.3.1",
+      "file_id": 562438,
+      "file_name": "BP Courtyard - Spaghetti's Cities AIO Patch-130890-1-3-1-1731653176.7z",
+      "mod_id": 130890,
+      "hash": "sha256-IzLEQkxq+T7SoHe44f0e6wVmj7frXjIZi12YM+kPsPs="
+    }
+  },
+  "BP Courtyard - Dawn of Skyrim Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.3.1",
+      "file_id": 563153,
+      "file_name": "BP Courtyard - Dawn of Skyrim Patch-130890-1-3-1-1731826186.7z",
+      "mod_id": 130890,
+      "hash": "sha256-89R/RYpwTVWBzqDME3MAnweUHPBhVL63jS31MBGOFdU="
+    }
+  },
+  "BP Courtyard - LOS II Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.3.1",
+      "file_id": 563528,
+      "file_name": "BP Courtyard - LOS II Patch-130890-1-3-1-1731907423.7z",
+      "mod_id": 130890,
+      "hash": "sha256-urUZZK0hPeuLBWNm5a2W3JChnge4kfgfBzH4B4lEr+c="
+    }
+  },
+  "BP Courtyard - Imperial Mail Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.3.1",
+      "file_id": 563537,
+      "file_name": "BP Courtyard - Imperial Mail Patch-130890-1-3-1-1731909407.7z",
+      "mod_id": 130890,
+      "hash": "sha256-lx2XPjPVlyE1K8TPKEQqFGxHNAV49smkELoYopWoG3I="
+    }
+  },
+  "BP Courtyard - JKs Skyrim plus DoS Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.3.1",
+      "file_id": 563542,
+      "file_name": "BP Courtyard - JKs Skyrim plus DoS Patch-130890-1-3-1-1731911351.7z",
+      "mod_id": 130890,
+      "hash": "sha256-/ezq5iYoMZRaf12i4kzEEG+4VOwCoHW2Izmn1SzC9rg="
+    }
+  },
+  "BP Courtyard - JKs BPT patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 661316,
+      "file_name": "BP Courtyard - JKs BPT patch-130890-1-0-1756699777.7z",
+      "mod_id": 130890,
+      "hash": "sha256-bN6Ua8RdAbX/yNrGbf5YMtkAfLS2aNbw8yzIo3K9ip8="
+    }
+  },
+  "BP Courtyarrd - Drengins BP Terrace Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.01",
+      "file_id": 661317,
+      "file_name": "BP Courtyarrd - Drengins BP Terrace Patch-130890-1-01-1756701872.7z",
+      "mod_id": 130890,
+      "hash": "sha256-OTcAC4mNf82NMgI7V3lbq9gKIS89/zXWeD/qTa8Cnd0="
+    }
+  }
+}

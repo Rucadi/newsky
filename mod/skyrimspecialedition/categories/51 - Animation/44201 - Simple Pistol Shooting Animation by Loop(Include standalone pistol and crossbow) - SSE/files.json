@@ -1,0 +1,33 @@
+{
+  "For 'Gender specific animation' patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "3.0",
+      "file_id": 190641,
+      "file_name": "For 'Gender specific animation' patch-44201-3-0-1615395967.zip",
+      "mod_id": 44201,
+      "hash": "sha256-Mn7IirMvREZ3sSsa5yCvkLp/c55XOIOHP4AotsgBAn0="
+    }
+  },
+  "Simple Pistol Shooting Animation by loop 3.0 - SSE": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "3.0",
+      "file_id": 190642,
+      "file_name": "Simple Pistol Shooting Animation by loop 3.0 - SSE-44201-3-0-1615396030.zip",
+      "mod_id": 44201,
+      "hash": "sha256-4p0ejwMPbZjpqugnmvL1Wvlbm5I/lMmghXJuINf8yxg="
+    },
+    "type": "primary"
+  },
+  "Keyword Item Distributor ini file for -Flintlock Pistols for Adventurers-": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "0.1",
+      "file_id": 236588,
+      "file_name": "Keyword Item Distributor ini file for -Flintlock Pistols for Adventurers--44201-0-1-1634980278.zip",
+      "mod_id": 44201,
+      "hash": "sha256-0CTQGPc0voBC7IDZ/T/uVChcw+tMr3ZrYowFysjf4cs="
+    }
+  }
+}

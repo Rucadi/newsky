@@ -1,0 +1,33 @@
+{
+  "No Easter Egg Entry": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0.0",
+      "file_id": 565511,
+      "file_name": "No Easter Egg Entry-134739-1-0-0-1732434824.zip",
+      "mod_id": 134739,
+      "hash": "sha256-8qTNpMwUSp2HrvnFZ/5/e4KYs/hRZ9UchGwAaJZuf8c="
+    }
+  },
+  "The Dragonborn's Fishiary": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0.1",
+      "file_id": 571882,
+      "file_name": "The Dragonborn's Fishiary-134739-1-0-1-1734070177.zip",
+      "mod_id": 134739,
+      "hash": "sha256-5gqJ2dKqm2+4HYJfuJ/aCJcG3BQ7KzRJmP0f4pv0PDU="
+    },
+    "type": "primary"
+  },
+  "CACO Salmon Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0.1",
+      "file_id": 585666,
+      "file_name": "CACO Salmon Patch-134739-1-0-1-1737409030.zip",
+      "mod_id": 134739,
+      "hash": "sha256-5XsI5F0UdmvJHCKmBwvvGvXB4UhuOaZWLzXQRaTbNNA="
+    }
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "Extra Book In Dragonsreach": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 699946,
+      "file_name": "Extra Book In Dragonsreach-167166-1-0-1766236890.zip",
+      "mod_id": 167166,
+      "hash": "sha256-eYCKTjKgtBpha0YszpfxYoojWc1CGN8g/xFH822Vlnw="
+    }
+  },
+  "Alternate Debuff for Static Skill Levelling users": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.04",
+      "file_id": 701182,
+      "file_name": "Alternate Debuff for Static Skill Levelling users-167166-1-0-1766481260.zip",
+      "mod_id": 167166,
+      "hash": "sha256-a7waY4KZYX/AOlv4AlgioEIkTO0HcROLLEIPvNp9xA0="
+    }
+  },
+  "Why I Came to Skyrim - Origin Stories": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.04",
+      "file_id": 701183,
+      "file_name": "Why I Came to Skyrim - Origin Stories-167166-1-04-1766481290.zip",
+      "mod_id": 167166,
+      "hash": "sha256-5gZp4CA5BR39MUA2Sw33cv5ACK22eN8mQxexgwTd1iY="
+    },
+    "type": "primary"
+  }
+}

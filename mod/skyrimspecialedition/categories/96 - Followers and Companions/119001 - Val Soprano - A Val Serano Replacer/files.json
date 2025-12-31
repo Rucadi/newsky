@@ -1,0 +1,33 @@
+{
+  "Val Soprano - A Val Cuirass Replacer": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1",
+      "file_id": 543170,
+      "file_name": "Val Soprano - A Val Cuirass Replacer-119001-1-1-1726570353.zip",
+      "mod_id": 119001,
+      "hash": "sha256-TD6bXS+Nz1ADI0yE5uPOfyxy2I2E+BEN7xValHbd8HE="
+    }
+  },
+  "Val Soprano - A Val Serano Replacer": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1",
+      "file_id": 543171,
+      "file_name": "Val Soprano - A Val Serano Replacer-119001-1-1-1726570573.zip",
+      "mod_id": 119001,
+      "hash": "sha256-UxRsz+fvTqOsXhatd0kheXPzaM+9ncceXNnNgx5oTlM="
+    },
+    "type": "primary"
+  },
+  "Cuirass Replacer - Boots sliders": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1idk",
+      "file_id": 688328,
+      "file_name": "Cuirass Replacer - Boots sliders-119001-1-1idk-1763339630.zip",
+      "mod_id": 119001,
+      "hash": "sha256-JRCroU25wybXR1lS8RshfITBhtNQHA5692YOrXXGr+c="
+    }
+  }
+}

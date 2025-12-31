@@ -1,0 +1,23 @@
+{
+  "Racc's Headdress": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 619062,
+      "file_name": "Racc's Headdress-147060-1-0-1745080186.7z",
+      "mod_id": 147060,
+      "hash": "sha256-PTzylIwXF2blgjCRihXf1ZTHsP9AflFl6xoGUXobp/U="
+    },
+    "type": "primary"
+  },
+  "Racc's Headdress - Forsworn wear Fur Headdress": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 619068,
+      "file_name": "Racc's Headdress - Forsworn wear Fur Headdress-147060-1-0-1745081712.7z",
+      "mod_id": 147060,
+      "hash": "sha256-RBK/hf7HUfZmE7r76VnF6ob1UtsnoWC+be243fjDd4I="
+    }
+  }
+}

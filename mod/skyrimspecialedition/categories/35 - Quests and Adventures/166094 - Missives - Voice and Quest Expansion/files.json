@@ -1,0 +1,23 @@
+{
+  "Missives - Voice and Quest Expansion": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.5",
+      "file_id": 699933,
+      "file_name": "Missives - Voice and Quest Expansion-166094-1-5-1766235445.zip",
+      "mod_id": 166094,
+      "hash": "sha256-skXCzqzb2K9+vYNYg7mVJvxVLkWT8aHh5Wuu5F24suk="
+    },
+    "type": "primary"
+  },
+  "No Fishing Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.5",
+      "file_id": 699934,
+      "file_name": "No Fishing Patch-166094-1-5-1766235466.zip",
+      "mod_id": 166094,
+      "hash": "sha256-DmaeF7tumIoHbAHYTxAc+i2SmzWrrNRWths2vaNduBk="
+    }
+  }
+}

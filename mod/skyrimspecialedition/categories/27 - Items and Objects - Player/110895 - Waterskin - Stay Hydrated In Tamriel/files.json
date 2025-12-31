@@ -1,0 +1,43 @@
+{
+  "Waterskin": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 467809,
+      "file_name": "Waterskin-110895-1-0-1707085429.7z",
+      "mod_id": 110895,
+      "hash": "sha256-yxxoaxiDgBnwx7p1HkN7qnHekVowsMQ0VZzov0BIPeI="
+    },
+    "type": "primary"
+  },
+  "Waterskin Degradation Chance": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 467810,
+      "file_name": "Waterskin Degradation Chance-110895-1-0-1707085580.7z",
+      "mod_id": 110895,
+      "hash": "sha256-TkZRHM+MqgnAoOOXN4xpp1fv2vw7QiSaLK5jS3qc0/A="
+    }
+  },
+  "Gourmet Compatibility": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 467812,
+      "file_name": "Gourmet Compatibility-110895-1-0-1707085665.7z",
+      "mod_id": 110895,
+      "hash": "sha256-mnUmCZv+bQ/3hV5PsLXAUJqA6kZoN1cKu0vdslmwSUM="
+    }
+  },
+  "Immersive Equipment Display Preset": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 467816,
+      "file_name": "Immersive Equipment Display Preset-110895-1-0-1707085810.7z",
+      "mod_id": 110895,
+      "hash": "sha256-e3IevirokakGLB/tCJibkiRXIXSnE0KTH4Jxj9L76Yw="
+    }
+  }
+}

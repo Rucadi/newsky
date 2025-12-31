@@ -1,0 +1,23 @@
+{
+  "Collision Dialogue Overhaul MCM": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 555508,
+      "file_name": "Collision Dialogue Overhaul MCM-132325-1-0-1729895320.7z",
+      "mod_id": 132325,
+      "hash": "sha256-docQ4wp+kUMudGlVyiwq6GEoOUtR8hsc5dbtCcVKlUI="
+    }
+  },
+  "Collision Dialogue Overhaul": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.01",
+      "file_id": 558552,
+      "file_name": "Collision Dialogue Overhaul-132325-1-01-1730645540.7z",
+      "mod_id": 132325,
+      "hash": "sha256-MOA3nc/kt86cEmONPEjlyAjnBKTovvzMyiGErTYJndI="
+    },
+    "type": "primary"
+  }
+}

@@ -1,0 +1,64 @@
+{
+  "Eastern Dwemer Armour - 2k Textures": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1",
+      "file_id": 179982,
+      "file_name": "Eastern Dwemer Armour - 2k Textures-44443-1-1-1610856921.7z",
+      "mod_id": 44443,
+      "hash": "sha256-UcxSuI/VVEn2rJ/OgCkxWOe5IxkOO1EzXl6YCe2q9k4="
+    },
+    "type": "primary"
+  },
+  "Eastern Dwemer Armour - 4k Textures": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1",
+      "file_id": 179983,
+      "file_name": "Eastern Dwemer Armour - 4k Textures-44443-1-1-1610856999.7z",
+      "mod_id": 44443,
+      "hash": "sha256-8kAp9aFL8Bql7xUSjWUyNzijIM3UlI+myoyS8vvOaJc="
+    },
+    "type": "primary"
+  },
+  "Vanilla Dwarven Armor Replacer - 2k Textures": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1",
+      "file_id": 179984,
+      "file_name": "Vanilla Dwarven Armor Replacer - 2k Textures-44443-1-1-1-1610857065.7z",
+      "mod_id": 44443,
+      "hash": "sha256-drLoMYA1Nng9pDixekn+EVne8HGEFXJvRXqqY7TQhEM="
+    }
+  },
+  "Vanilla Dwarven Armor Replacer - 4k Textures": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1",
+      "file_id": 179985,
+      "file_name": "Vanilla Dwarven Armor Replacer - 4k Textures-44443-1-1610857195.7z",
+      "mod_id": 44443,
+      "hash": "sha256-+IWtAExiayUK4TS+fbhIOwZAfOnGEbTAoUHsLx1CaHU="
+    }
+  },
+  "Morrowind Dwemer Helmet Retexture - 2K Textures": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1",
+      "file_id": 179989,
+      "file_name": "Morrowind Dwemer Helmet Retexture - 2K Textures-44443-1-1610857454.7z",
+      "mod_id": 44443,
+      "hash": "sha256-h65C+44LPfYeDC4DHklfxgwIHFh3MdWPIuurJyn0EXI="
+    }
+  },
+  "Morrowind Dwemer Helmet Retexture - 4K Textures": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1",
+      "file_id": 179992,
+      "file_name": "Morrowind Dwemer Helmet Retexture - 4K Textures-44443-1-1610857565.7z",
+      "mod_id": 44443,
+      "hash": "sha256-FsQidnsHQdlK0+uBQPZeHTfqdp/+/4U1Ssn12n9EMUg="
+    }
+  }
+}

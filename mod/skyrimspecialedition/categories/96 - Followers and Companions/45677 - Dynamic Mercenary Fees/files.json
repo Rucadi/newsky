@@ -1,0 +1,23 @@
+{
+  "Dynamic Mercenary Fees": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "2.0",
+      "file_id": 461708,
+      "file_name": "Dynamic Mercenary Fees-45677-2-0-1705351225.rar",
+      "mod_id": 45677,
+      "hash": "sha256-0ga2u/7HEKNuuoUr+WT+aoleswYVFCJxyweWvIukNCk="
+    },
+    "type": "primary"
+  },
+  "Busy Follower Framework Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1",
+      "file_id": 539546,
+      "file_name": "Busy Follower Framework Patch-45677-1-1725693842.zip",
+      "mod_id": 45677,
+      "hash": "sha256-/F5VdAWYmGwXHlrpj9UJ7/We7IJbVbikfxJeNlIQAes="
+    }
+  }
+}

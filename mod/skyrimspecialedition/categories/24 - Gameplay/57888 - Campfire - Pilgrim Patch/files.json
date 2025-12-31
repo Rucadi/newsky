@@ -1,0 +1,23 @@
+{
+  "Campfire - Pilgrim Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 238857,
+      "file_name": "Campfire - Pilgrim Patch-57888-1-0-1635973505.7z",
+      "mod_id": 57888,
+      "hash": "sha256-T+J/+3DPTkNZuj10E/t4AkYTyE9jIawfA1JPEpcEckk="
+    },
+    "type": "primary"
+  },
+  "Campfire - Pilgrim Patch (Halved)": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 268732,
+      "file_name": "Campfire - Pilgrim Patch (Halved)-57888-1-0-1646690905.7z",
+      "mod_id": 57888,
+      "hash": "sha256-YXnZTbi8dizzU2huy9An1W7urgXJFeQ1+3J2gvsemd0="
+    }
+  }
+}

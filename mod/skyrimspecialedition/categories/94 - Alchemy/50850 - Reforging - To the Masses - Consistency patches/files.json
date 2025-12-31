@@ -1,0 +1,45 @@
+{
+  "RFM - Tempering": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1",
+      "file_id": 207629,
+      "file_name": "RFM - Tempering-50850-1-1-1622966179.rar",
+      "mod_id": 50850,
+      "hash": "sha256-DLA2LrGh+VQXzQaIbdMtbdgubfLWRInWhhezmpZO9kU="
+    },
+    "type": "primary"
+  },
+  "RFM - Iron club visual glitch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1",
+      "file_id": 207631,
+      "file_name": "RFM - Iron club visual glitch-50850-1-1-1622966240.rar",
+      "mod_id": 50850,
+      "hash": "sha256-oYv8HJfDTnLFmtD33V/EDKlpjIHUS9elV6FpBtf/WSc="
+    }
+  },
+  "RFM - Animated Armoury Consistency Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1",
+      "file_id": 207688,
+      "file_name": "RFM - Animated Armoury Consistency Patch-50850---1622981409.rar",
+      "mod_id": 50850,
+      "hash": "sha256-duhL0Mfve16XcbBKSt68FnS4p4Cpnor1mwzRpc2KF7g="
+    },
+    "type": "primary"
+  },
+  "RFM - Crafting": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1",
+      "file_id": 208304,
+      "file_name": "RFM - Crafting-50850-1-1623241609.rar",
+      "mod_id": 50850,
+      "hash": "sha256-gynQIjhz6wM/Awgnma3moO82zm6SqHQ8u0pM+OJ+DEU="
+    },
+    "type": "primary"
+  }
+}

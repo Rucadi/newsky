@@ -1,0 +1,43 @@
+{
+  "Lux Orbis - Orc Strongholds - Narzulbur 2.5": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "2.5a",
+      "file_id": 563777,
+      "file_name": "Lux Orbis - Orc Strongholds - Narzulbur 2.5-88809-2-5a-1731971556.7z",
+      "mod_id": 88809,
+      "hash": "sha256-lC0ghV0WckLXXIBbPec68u8DyrtPLkiutZvgGSDFFjU="
+    }
+  },
+  "EFPS - Orc Strongholds - Narzulbur 2.5": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "2.5b",
+      "file_id": 563778,
+      "file_name": "EFPS - Orc Strongholds - Narzulbur 2.5-88809-2-5b-1731971690.7z",
+      "mod_id": 88809,
+      "hash": "sha256-qWMxpo+ow3743/zMsN5TvdhXWlOUoJSCte1zeiGteag="
+    }
+  },
+  "Nature of The Wildlands  - Narzulbur Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "2.5c",
+      "file_id": 563780,
+      "file_name": "Nature of The Wildlands  - Narzulbur Patch-88809-2-5c-1731971872.7z",
+      "mod_id": 88809,
+      "hash": "sha256-iWp2DdgYrrxpibh5BRE1FaeGfimvvHfYUzqgXo1ynUU="
+    }
+  },
+  "Orc Strongholds - Narzulbur": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "2.5.4",
+      "file_id": 601878,
+      "file_name": "Orc Strongholds - Narzulbur-88809-2-5-4-1741131734.7z",
+      "mod_id": 88809,
+      "hash": "sha256-h0xEB1Qh+ZiwcdmoZBkXq6d53ezj1uyfdDl0Iblq/Es="
+    },
+    "type": "primary"
+  }
+}

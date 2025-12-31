@@ -1,0 +1,34 @@
+{
+  "Encounter Zones Unlocked VR": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.2.3-VR",
+      "file_id": 94403,
+      "file_name": "Encounter Zones Unlocked VR-19608-1-2-3-VR-1559396815.zip",
+      "mod_id": 19608,
+      "hash": "sha256-6Q5cM8kEYtKyra0avqKyR05ORBs+Wcf4XIHVQx+sR8w="
+    }
+  },
+  "Encounter Zones Unlocked (1.5.X)": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.4",
+      "file_id": 128125,
+      "file_name": "Encounter Zones Unlocked SE-19608-1-4-1583906933.zip",
+      "mod_id": 19608,
+      "hash": "sha256-lCNQ77cLtxivXf6fDMGR76h3WzWVMsoQwp7rVw5VS2I="
+    },
+    "type": "primary"
+  },
+  "Encounter Zones Unlocked (1.6.X)": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.5.4",
+      "file_id": 317381,
+      "file_name": "Encounter Zones Unlocked AE-19608-1-5-4-1663528547.zip",
+      "mod_id": 19608,
+      "hash": "sha256-nBoOo3z2W62jAk48Y7zR3/NH9BEIjFJfvUWJ/UZmwuw="
+    },
+    "type": "primary"
+  }
+}

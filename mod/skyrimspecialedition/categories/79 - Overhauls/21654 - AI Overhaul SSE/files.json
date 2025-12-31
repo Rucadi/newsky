@@ -1,0 +1,23 @@
+{
+  "AI Overhaul SE Only 1.8.7": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.8.7",
+      "file_id": 624198,
+      "file_name": "AI Overhaul SE Only 1.8.7-21654-1-8-7-1746511421.zip",
+      "mod_id": 21654,
+      "hash": "sha256-UltFjXLpJctWKdLb+BRleta0QvIwdyP5pAaXx5P7ChQ="
+    }
+  },
+  "AI Overhaul AE 1.8.7": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.8.7",
+      "file_id": 631256,
+      "file_name": "AI Overhaul AE 1.8.7-21654-1-8-7-1748219799.zip",
+      "mod_id": 21654,
+      "hash": "sha256-sOhL7Mo8sx5NOYV2gDtcvBN23yuhsVZD2BkLvXOVwHY="
+    },
+    "type": "primary"
+  }
+}

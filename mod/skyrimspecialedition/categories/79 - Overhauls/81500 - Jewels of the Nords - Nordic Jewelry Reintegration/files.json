@@ -1,0 +1,43 @@
+{
+  "Bruma Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0.0",
+      "file_id": 344192,
+      "file_name": "Bruma Patch-81500-1-0-0-1672234254.7z",
+      "mod_id": 81500,
+      "hash": "sha256-/VIH4o8c+IMHDigYATeORigZLOPaVa9ISwJEYYshLac="
+    }
+  },
+  "Modular Accessory Kit Vanilla Overhaul Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0.0",
+      "file_id": 344193,
+      "file_name": "Modular Accessory Kit Vanilla Overhaul Patch.-81500-1-0-0-1672234281.7z",
+      "mod_id": 81500,
+      "hash": "sha256-zmzZrxGQ5qQiovhz3nV+pa53Gp+PDr5laTLbehNUqIE="
+    }
+  },
+  "MAK Vanilla Overhaul and Bruma Combo Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0.0",
+      "file_id": 344196,
+      "file_name": "MAK Vanilla Overhaul and Bruma Patch.-81500-1-0-0-1672234358.7z",
+      "mod_id": 81500,
+      "hash": "sha256-/+wDOT/kRnKsoaP3ZCqOP1lV50qxT0mGTNv+AmE3h4Y="
+    }
+  },
+  "Jewels of the Nords": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0.1",
+      "file_id": 368880,
+      "file_name": "Jewels of the Nords-81500-1-0-1-1678920788.7z",
+      "mod_id": 81500,
+      "hash": "sha256-9xEMBSTgXm9D1LH9wCLFDE9101ybqKVshbBc61lN5p4="
+    },
+    "type": "primary"
+  }
+}

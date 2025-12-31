@@ -1,0 +1,33 @@
+{
+  "Werewolf Revert Effect SE FOMOD": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "2.5.0",
+      "file_id": 516012,
+      "file_name": "Werewolf Revert Effect SE FOMOD-76472-2-5-0-1719648990.zip",
+      "mod_id": 76472,
+      "hash": "sha256-DICI+Fwuceu2P915ljXZ3M1PQuY2+RrsAR+hOIIwjvg="
+    },
+    "type": "primary"
+  },
+  "Werewolf Revert Effect SE - WereCircle": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "2.5.0",
+      "file_id": 516013,
+      "file_name": "Werewolf Revert Effect SE - WereCircle-76472-2-5-0-1719649116.zip",
+      "mod_id": 76472,
+      "hash": "sha256-HAkhQkoMT8ZLwnR0lvIgKihJDUE82RJdWYfioUj11QY="
+    }
+  },
+  "Werewolf Revert Effect - Authentic Sinding v7.2.0": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "2.5.1",
+      "file_id": 569015,
+      "file_name": "Werewolf Revert Effect - Authentic Sinding v7.2.0-76472-2-5-1-1733346629.zip",
+      "mod_id": 76472,
+      "hash": "sha256-unaWj5yPCdCG8zJw0AffXSF0bpN4UfYDfcDsp66paOI="
+    }
+  }
+}

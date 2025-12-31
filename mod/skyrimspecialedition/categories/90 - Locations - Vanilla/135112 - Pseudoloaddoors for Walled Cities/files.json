@@ -1,0 +1,33 @@
+{
+  "Pseudoloaddoors for Walled Cities - JK Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 567127,
+      "file_name": "Pseudoloaddoors for Walled Cities - JK Patch-135112-1-0-1732839377.7z",
+      "mod_id": 135112,
+      "hash": "sha256-7NYluFR+yB7K9gGggREdMeGwxLH/RODphGUbD9/WNtE="
+    }
+  },
+  "Pseudoloaddoors for Walled Cities - LOTD Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 567128,
+      "file_name": "Pseudoloaddoors for Walled Cities - LOTD Patch-135112-1-0-1732839398.7z",
+      "mod_id": 135112,
+      "hash": "sha256-0uKjKR3hyvKLg2nt1vTnB3HRDkOSJws2diSma9F0agQ="
+    }
+  },
+  "Pseudoloaddoors for Walled Cities": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.4",
+      "file_id": 605272,
+      "file_name": "Pseudoloaddoors for Walled Cities-135112-1-4-1741900259.7z",
+      "mod_id": 135112,
+      "hash": "sha256-4pQhT2foR/37h5HUenxwx2X7FSWsInfDpikKaH3Rncg="
+    },
+    "type": "primary"
+  }
+}

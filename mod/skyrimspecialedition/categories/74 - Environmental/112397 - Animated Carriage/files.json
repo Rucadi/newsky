@@ -1,0 +1,23 @@
+{
+  "LE Models": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0.0",
+      "file_id": 473811,
+      "file_name": "LE Models-112397-1-0-0-1708712296.7z",
+      "mod_id": 112397,
+      "hash": "sha256-FBKmq52ltHtK68zA6eqnMwT8fK8Fcta4FTcQ1+o2lPM="
+    }
+  },
+  "Animated Carriage": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1.0",
+      "file_id": 510317,
+      "file_name": "Animated Carriage-112397-1-1-0-1718044068.7z",
+      "mod_id": 112397,
+      "hash": "sha256-sQ1ZUTtiEBHVTmR0J3il4/5yBUrTWExbahKJbWy4KSc="
+    },
+    "type": "primary"
+  }
+}

@@ -1,0 +1,53 @@
+{
+  "EFPS - Orc Exiles - The Cracked Tusk Keep Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0d",
+      "file_id": 562184,
+      "file_name": "EFPS - Orc Exiles - The Cracked Tusk Keep Patch-133489-1-0d-1731596314.7z",
+      "mod_id": 133489,
+      "hash": "sha256-ZcWdqaGVXdQ0xaZpBVL4fd4+6dxL2JFw9CvANamd/T0="
+    }
+  },
+  "Orc Exiles - The Cracked Tusk Keep": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.6",
+      "file_id": 594141,
+      "file_name": "Orc Exiles - The Cracked Tusk Keep-133489-1-6-1739463739.7z",
+      "mod_id": 133489,
+      "hash": "sha256-w2zEGYKGqKKMxiStQKynb5wlIWLUrsgZgDnxJxjikT0="
+    },
+    "type": "primary"
+  },
+  "Lux Orbis - Orc Exiles - The Cracked Tusk Keep": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.6Lux",
+      "file_id": 594145,
+      "file_name": "Lux Orbis - Orc Exiles - The Cracked Tusk Keep-133489-1-6Lux-1739464762.7z",
+      "mod_id": 133489,
+      "hash": "sha256-F42rofw5+Rq8/SrBxqVP3FDTNYMaInePSy0b+miKCZQ="
+    }
+  },
+  "Imperial castles patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.6.1Imperial",
+      "file_id": 594558,
+      "file_name": "Imperial castles patch-133489-1-6-1Imperial-1739545798.7z",
+      "mod_id": 133489,
+      "hash": "sha256-H7NhbdDtRIgVDBQjRs7sQHCNNEmHOLLlw5NigMUJs6A="
+    }
+  },
+  "Nature of the Wild Lands Patch 3.14": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.3.14",
+      "file_id": 673195,
+      "file_name": "Nature of the Wild Lands Patch 3.14-133489-1-3-14-1759834372.7z",
+      "mod_id": 133489,
+      "hash": "sha256-O/GgsQkyP4u9iMDrjhDsbTSsaJ7AudJ3rC4tpuF+47A="
+    }
+  }
+}

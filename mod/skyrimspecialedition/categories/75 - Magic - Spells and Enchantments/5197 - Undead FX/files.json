@@ -1,0 +1,35 @@
+{
+  "Undead No Glow": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 40767,
+      "file_name": "Undead No Glow-5197-1-0.zip",
+      "mod_id": 5197,
+      "hash": "sha256-RTObFEXXL0xTljh51Kg84dmt0mgGOFlDd0KgX1KNKLo="
+    },
+    "type": "primary"
+  },
+  "Undead FX 4": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "4",
+      "file_id": 118352,
+      "file_name": "Undead FX 4-5197-4-1577991875.7z",
+      "mod_id": 5197,
+      "hash": "sha256-P2wIKmAjmV9L/JEucTy+KiiK89DId6ANB3uzjO8Mazc="
+    },
+    "type": "primary"
+  },
+  "Undead FX 4.2": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "4.2",
+      "file_id": 131048,
+      "file_name": "Undead FX 4.2-5197-4-2-1585414108.7z",
+      "mod_id": 5197,
+      "hash": "sha256-KKuBZXxTVGNr5TDQNZb9DTidVA6eCtgFYWIh/8OHAtM="
+    },
+    "type": "primary"
+  }
+}

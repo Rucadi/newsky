@@ -1,0 +1,23 @@
+{
+  "Better Claws and Gauntlets SSE": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.2.3",
+      "file_id": 36651,
+      "file_name": "Better Claws And Gauntlets SSE.7z-12595-1-2-3.7z",
+      "mod_id": 12595,
+      "hash": "sha256-Yuc0Jl13gNwhp4ifraFPMalx35NeK7rmyhFVr5ovrkw="
+    },
+    "type": "primary"
+  },
+  "BCAGSSE Immersive Armors Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.2.3",
+      "file_id": 36652,
+      "file_name": "Better Claws And Gauntlets SSE (IA Patch).7z-12595-1-2-3.7z",
+      "mod_id": 12595,
+      "hash": "sha256-csCp5JtoY3J5tUltD93qbi1sbZDiSvMTjF4xR7YRubM="
+    }
+  }
+}

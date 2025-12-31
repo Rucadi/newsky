@@ -1,0 +1,73 @@
+{
+  "Snazzy Common Wardrobes - Base Object Swapper": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.2",
+      "file_id": 587332,
+      "file_name": "Snazzy Common Wardrobes - Base Object Swapper-92809-1-2-1737832612.7z",
+      "mod_id": 92809,
+      "hash": "sha256-Ki/J6rhHMx4KPCZ/M5L8aE8/WoaNNkBJpR5JMjF37kw="
+    },
+    "type": "primary"
+  },
+  "WACCF Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.2",
+      "file_id": 587340,
+      "file_name": "WACCF Patch-92809-1-2-1737833052.7z",
+      "mod_id": 92809,
+      "hash": "sha256-16AWsqBposEV94tzT6GmYPxHDN7hFSPE7mJtM4iY8q8="
+    }
+  },
+  "HQ Patch (vanilla furniture)": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.2",
+      "file_id": 587341,
+      "file_name": "HQ Patch (vanilla furniture)-92809-1-2-1737833121.7z",
+      "mod_id": 92809,
+      "hash": "sha256-pQ1NYXUpigi9VmSmqVcP1+jAxBTF6CZ/GOiSLD5VPlM="
+    }
+  },
+  "Skyrim 3D Furniture Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.21",
+      "file_id": 590397,
+      "file_name": "Skyrim 3D Furniture Patch-92809-1-21-1738542346.7z",
+      "mod_id": 92809,
+      "hash": "sha256-XomU592QJpiJ8JYpBu/q/N0VhmDWiadib0gQ1DyDmEo="
+    }
+  },
+  "Rally's Common Furniture Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.21",
+      "file_id": 594831,
+      "file_name": "Rally's Common Furniture Patch-92809-1-21-1739592201.7z",
+      "mod_id": 92809,
+      "hash": "sha256-gBseBsmgl1mhKqZdWZj8D78hv71mswPtz4P1siNiToo="
+    }
+  },
+  "Rally's Common Furniture - HQ Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.21",
+      "file_id": 594833,
+      "file_name": "Rally's Common Furniture - HQ Patch-92809-1-21-1739592247.7z",
+      "mod_id": 92809,
+      "hash": "sha256-uXYWpbefU7dNQr2nO3e3VGwTEDGqQO4QF7HMIF/zi44="
+    }
+  },
+  "Skyrim 3D Furniture - HQ Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.22",
+      "file_id": 597369,
+      "file_name": "Skyrim 3D Furniture - HQ Patch-92809-1-22-1740153685.7z",
+      "mod_id": 92809,
+      "hash": "sha256-dT00yrxv/JqVhmZpAxKkQ+KHQb2c7KwpmPH/DMRzGsU="
+    }
+  }
+}

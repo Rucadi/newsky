@@ -1,0 +1,23 @@
+{
+  "Holidays - Open Cities Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "",
+      "file_id": 5127,
+      "file_name": "Holidays - Open Cities Patch-1533-.7z",
+      "mod_id": 1533,
+      "hash": "sha256-MqE/u2ZsPRU9HteW4vzzEg0Kq2JYVuc8i4NmN4CQ0d0="
+    }
+  },
+  "Holidays v2_20 Alpha 1": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "2.20A1",
+      "file_id": 36459,
+      "file_name": "Holidays v2_20 Alpha 1-1533-2-20A1.7z",
+      "mod_id": 1533,
+      "hash": "sha256-gYK+vgI7GKW04LM8wpgsuqhuHa1XJUrEjosWoFtIQkc="
+    },
+    "type": "primary"
+  }
+}

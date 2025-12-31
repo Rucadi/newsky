@@ -1,0 +1,33 @@
+{
+  "Standalone Dwarven Sphere Elite": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 676013,
+      "file_name": "Standalone Dwarven Sphere Elite-161224-1-0-1760475816.rar",
+      "mod_id": 161224,
+      "hash": "sha256-qkHIeDoU4r/Qx5n+zKgEPkIFCvC0lEAZVTIcWII5++A="
+    }
+  },
+  "ESO Themed Dwemer Spider Animunculi Final-final": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "V.1.7",
+      "file_id": 695862,
+      "file_name": "ESO Themed Dwemer Spider Animunculi Final-final-161224-V-1-7-1765225489.7z",
+      "mod_id": 161224,
+      "hash": "sha256-K4jZ6X2cvXMZ8drU+zviN+iZvHkEYt2pRfTEVon/2aE="
+    },
+    "type": "primary"
+  },
+  "Standalone Dwarven Spider Elite": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "V.1.6",
+      "file_id": 695865,
+      "file_name": "Standalone Dwarven Spider Elite-161224-V-1-6-1765226028.7z",
+      "mod_id": 161224,
+      "hash": "sha256-wl/DvCLjO0JODJgvner1JoI31xiP1l5o45TMTIhvDRY="
+    }
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "Skyrim Bandit Expansion Patches": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.2.9",
+      "file_id": 676842,
+      "file_name": "Skyrim Bandit Expansion Patches-154352-1-2-9-1760670251.zip",
+      "mod_id": 154352,
+      "hash": "sha256-JrGi+WKCKQglwODxa2sLwxgN0wrxGUFM9B/CiRL19j8="
+    }
+  },
+  "Skyrim Bandit Expansion": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.3.1",
+      "file_id": 696377,
+      "file_name": "Skyrim Bandit Expansion-154352-1-3-1-1765354434.zip",
+      "mod_id": 154352,
+      "hash": "sha256-8rGrYr7SqPlAZ5VaOqdMEvhT68WjQegwYLMb+Qq/R9U="
+    },
+    "type": "primary"
+  },
+  "Skyrim Bandit Expansion (No Falkreath Camp)": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.3.1",
+      "file_id": 696378,
+      "file_name": "Skyrim Bandit Expansion (No Falkreath Camp)-154352-1-3-1-1765354997.zip",
+      "mod_id": 154352,
+      "hash": "sha256-fgggFSMUtS6mf+GKkqHY6q1p9MfoDBuBsVDOPS/i900="
+    }
+  }
+}

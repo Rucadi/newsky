@@ -1,0 +1,23 @@
+{
+  "Dawnguard - Hall of Vigilant Requirement": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 82513,
+      "file_name": "Dawnguard - Hall of Vigilant Requirement-23617-1-0-1550769159.7z",
+      "mod_id": 23617,
+      "hash": "sha256-+7ik6zfu2WK1HUeMJz322lq8J+Piu6SbLmZdSdxRU4w="
+    },
+    "type": "primary"
+  },
+  "DG HoV Req - DG Quest Prereq Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1",
+      "file_id": 514559,
+      "file_name": "DG HoV Req - DG Quest Prereq Patch-23617-1-1-1719257783.7z",
+      "mod_id": 23617,
+      "hash": "sha256-OEMT2E8eCr0kzze59MAcqF5zGnhBFVeu5el9H91WBeI="
+    }
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "FPA OAR customization folders": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0.1",
+      "file_id": 412624,
+      "file_name": "FPA OAR customization folders-85073-1-0-1-1690782719.zip",
+      "mod_id": 85073,
+      "hash": "sha256-0JYuSWa+p3MjPpFmmpX/thhWzTd4w4yAbgWulaqkvd4="
+    }
+  },
+  "FPA EVGCI OAR 1.51 patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1.0",
+      "file_id": 511534,
+      "file_name": "FPA EVGCI OAR 1.51 patch-85073-1-1-0-1718390507.zip",
+      "mod_id": 85073,
+      "hash": "sha256-bRqoNE1N4Acccac4Qph470T1AGVMoLdHOMKi31Fn06E="
+    }
+  },
+  "Female Player Animations (OAR)": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1.0",
+      "file_id": 522242,
+      "file_name": "Female Player Animations (OAR)-85073-1-1-0-1721248221.zip",
+      "mod_id": 85073,
+      "hash": "sha256-1gfXDzUT/BxWSOFPgiQTB+r/YMLqtlfUyAXGAA0LOnM="
+    },
+    "type": "primary"
+  },
+  "Female Player Animations (OAR) - shield patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1.0",
+      "file_id": 522243,
+      "file_name": "Female Player Animations (OAR) - shield patch-85073-1-1-0-1721248256.zip",
+      "mod_id": 85073,
+      "hash": "sha256-I7rIb4LQblGnqKUVHgB4aC7/RtBFyB2PdduHVMvFifE="
+    }
+  }
+}

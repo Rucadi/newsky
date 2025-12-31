@@ -1,0 +1,23 @@
+{
+  "Immersive Interactions - New Anims - EL Sopa": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 495503,
+      "file_name": "Immersive Interactions - New Anims - EL Sopa-117983-1-0-1714282487.zip",
+      "mod_id": 117983,
+      "hash": "sha256-8n0vFRls/ATWPIM/6u3VTkEq3MSVesFbIjD6dMjZQ74="
+    }
+  },
+  "Immersive Interactions - New Anims": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.4",
+      "file_id": 618760,
+      "file_name": "Immersive Interactions - New Anims-117983-1-4-1745006246.zip",
+      "mod_id": 117983,
+      "hash": "sha256-e7F7AtRa/KLNsd64n923c8a2kuWp37hKjU/MXb2bO+A="
+    },
+    "type": "primary"
+  }
+}

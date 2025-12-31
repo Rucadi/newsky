@@ -1,0 +1,33 @@
+{
+  "0.SRC - AIO - Elite Crossbows ONLY Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 491598,
+      "file_name": "SRC - AIO - Elite Crossbows ONLY Patch-26396-1-0-1713299356.zip",
+      "mod_id": 26396,
+      "hash": "sha256-LPGRwaGmVKgwKMhzROw/zD9AW0cgFDs/E0Jv6oS+VNw="
+    }
+  },
+  "1.Fort Takeovers Framework Replacer - 10 days wait": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 550446,
+      "file_name": "Fort Takeovers Framework Replacer - 10 days wait-26396-1-0-1728477322.zip",
+      "mod_id": 26396,
+      "hash": "sha256-MCISpnvHJTI6PLGtsx1fEmHshEL0oob/aqSuj9tbARA="
+    }
+  },
+  "SRC - All In one": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "0.76.1",
+      "file_id": 679883,
+      "file_name": "SRC - All In one-26396-0-76-1-1761312586.zip",
+      "mod_id": 26396,
+      "hash": "sha256-PTPITVGGERq6cRwxqzhYy7X5T52BYgrCE9IMb9Cg+iM="
+    },
+    "type": "primary"
+  }
+}

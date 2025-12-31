@@ -1,0 +1,43 @@
+{
+  "ULPSC - Kruziik Golzze Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1a",
+      "file_id": 436337,
+      "file_name": "ULPSC - Kruziik Golzze Patch-103028-1-1a-1698051874.rar",
+      "mod_id": 103028,
+      "hash": "sha256-Rrz0tElWQgfdIXiTd+EEvWmKZPeCPqiHg8g2O3+C62c="
+    }
+  },
+  "ULPSC - Custom Ruins in Soul Cairn Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1b",
+      "file_id": 436651,
+      "file_name": "ULPSC - Custom Ruins in Soul Cairn Patch-103028-1-1b-1698149720.rar",
+      "mod_id": 103028,
+      "hash": "sha256-BGJPXhMM4Us882DK3oS/CtzeGNQqq+2vaHl8pSJHUpo="
+    }
+  },
+  "ULPSC - Praedy's Soul Cairn - Soul Husks Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1c",
+      "file_id": 436954,
+      "file_name": "ULPSC - Praedy's Soul Cairn - Soul Husks Patch-103028-1-1c-1698244823.rar",
+      "mod_id": 103028,
+      "hash": "sha256-9ec/WVwbrXW8Tg6rf4qA12mPUiysbMyahRWhQCyXBpk="
+    }
+  },
+  "Unmarked Locations Pack - Soul Cairn": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.2",
+      "file_id": 465309,
+      "file_name": "Unmarked Locations Pack - Soul Cairn-103028-1-2-1706362561.rar",
+      "mod_id": 103028,
+      "hash": "sha256-nuwU99RJVyA10GR4KHnuxXqhb/z+J7koH2F2w6lS1Vo="
+    },
+    "type": "primary"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "Animated Ships": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.2.0",
+      "file_id": 476969,
+      "file_name": "Animated Ships-110260-1-2-0-1709576413.7z",
+      "mod_id": 110260,
+      "hash": "sha256-CD2PgOBQnAgaaT3Pm+KRxSM/02iD7gfzBK/OTWNWh60="
+    },
+    "type": "primary"
+  },
+  "LE Models For v120": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.2.0",
+      "file_id": 476971,
+      "file_name": "LE Models For v120-110260-1-2-0-1709576477.7z",
+      "mod_id": 110260,
+      "hash": "sha256-pYrjWn/K4GC0YPEi+XIRkYqFL28pFR4BtHm6Q2kSb0c="
+    }
+  }
+}

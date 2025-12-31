@@ -1,0 +1,23 @@
+{
+  "Proving Honor Companions Quest Progression Fix": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0.0",
+      "file_id": 275418,
+      "file_name": "Proving Honor Companions Quest Progression Fix-66128-1-0-0-1649323357.7z",
+      "mod_id": 66128,
+      "hash": "sha256-U6m4qi1CtZSu0MtsHm7cPQP1BuIRoefOs+8Ifp16NLo="
+    },
+    "type": "primary"
+  },
+  "Proving Honor Companions Quest Progression Fix for Open Cities": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0.0",
+      "file_id": 275419,
+      "file_name": "Proving Honor Companions Quest Progression Fix for Open Cities-66128-1-0-0-1649323401.7z",
+      "mod_id": 66128,
+      "hash": "sha256-VeMznNZ4k35VJA/1U49zuwgCGEMeotAWhu2oVA6vlYs="
+    }
+  }
+}

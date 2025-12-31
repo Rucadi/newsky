@@ -1,0 +1,108 @@
+{
+  "FITB - Bandits - EFM Version": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.00",
+      "file_id": 209011,
+      "file_name": "FITB - Bandits - EFM Version-51174-1-00-1623654277.7z",
+      "mod_id": 51174,
+      "hash": "sha256-HuXsFunDRZXfi3xEiB56otHII4/JJIkj/dW3KVBr4w0="
+    },
+    "type": "primary"
+  },
+  "FITB - Bandits - Vanilla Version": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.00",
+      "file_id": 209012,
+      "file_name": "FITB - Bandits - Vanilla Version-51174-1-00-1623654388.7z",
+      "mod_id": 51174,
+      "hash": "sha256-Dxh4JzTbMSWMydOgvoFNkvNHM3/6IEgwPnJCP9NrZqw="
+    },
+    "type": "primary"
+  },
+  "FITB - Townies - EFM Version": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.00",
+      "file_id": 209013,
+      "file_name": "FITB - Townies - EFM Version-51174-1-00-1623654462.7z",
+      "mod_id": 51174,
+      "hash": "sha256-miJJ4GoTYHHEf2TO0knSHI2r79tpCYUDblHVbFn+uDo="
+    },
+    "type": "primary"
+  },
+  "FITB - Townies - Vanilla Version": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.00",
+      "file_id": 209014,
+      "file_name": "FITB - Townies - Vanilla Version-51174-1-00-1623654524.7z",
+      "mod_id": 51174,
+      "hash": "sha256-94QpQ7QTiJBoL/G8J9zcOVY3rMqjRRJ1B+J3r0aWaSc="
+    },
+    "type": "primary"
+  },
+  "FITB Bandits - OBIS Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.00",
+      "file_id": 209018,
+      "file_name": "FITB Bandits - OBIS Patch-51174-1-00-1623654699.7z",
+      "mod_id": 51174,
+      "hash": "sha256-sDeEbjFUKOLgGywFTRo8aajSesv9N/+NS9uEqscUP0I="
+    }
+  },
+  "FITB Bandits - SRCEO Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.00",
+      "file_id": 209019,
+      "file_name": "FITB - SRCEO Patch-51174-1-00-1623654803.7z",
+      "mod_id": 51174,
+      "hash": "sha256-/xXXx7dNnoAoirLe5JZZKXtSaCJWPlKnGni9rZvnjEI="
+    }
+  },
+  "FITB Bandits - Improved Bandits Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.00",
+      "file_id": 209020,
+      "file_name": "FITB Bandits - Improved Bandits Patch-51174-1-00-1623654890.7z",
+      "mod_id": 51174,
+      "hash": "sha256-bwfVo41s+cK/GSosDWtxiL1JaZhsDhwexD5yGJDc6JQ="
+    }
+  },
+  "New Guard Recruits - Vanilla Version": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1",
+      "file_id": 214532,
+      "file_name": "New Guard Recruits - Vanilla Version-51174-1-1-1626246456.7z",
+      "mod_id": 51174,
+      "hash": "sha256-YGWMdNx2h8VJIQOsUHALvnmUUv0hDCeX0XTmF6agj+g="
+    },
+    "type": "primary"
+  },
+  "New Guard Recruits - EFM Version": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1",
+      "file_id": 214533,
+      "file_name": "New Guard Recruits - EFM Version-51174-1-1-1626246584.7z",
+      "mod_id": 51174,
+      "hash": "sha256-ClsAbRy9dQnwG54p5X35WCvAl0bDlUGM+5Wk2pzXBGs="
+    },
+    "type": "primary"
+  },
+  "FITB Townies - AI Overhaul Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.01",
+      "file_id": 218675,
+      "file_name": "FITB Townies - AI Overhaul Patch-51174-1-01-1628057652.7z",
+      "mod_id": 51174,
+      "hash": "sha256-0TWsRpUwewH9JtdMikF+ZNJJPkrGfRtg5Q2vhnfJn6M="
+    }
+  }
+}

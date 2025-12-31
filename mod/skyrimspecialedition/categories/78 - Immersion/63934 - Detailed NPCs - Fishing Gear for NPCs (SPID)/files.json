@@ -1,0 +1,23 @@
+{
+  "Detailed NPCs - Fishing Gear for NPCs (SPID)": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.2",
+      "file_id": 320836,
+      "file_name": "Detailed NPCs - Fishing Gear for NPCs (SPID)-63934-1-2-1664660184.7z",
+      "mod_id": 63934,
+      "hash": "sha256-nu0RynovA/VSKz1BTzvYTsl9XlZI0nPcdPjdG/43gUc="
+    }
+  },
+  "Detailed NPCs - Fishing Gear for NPCs (SPID 6.3.0)": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "2.0",
+      "file_id": 333089,
+      "file_name": "Detailed NPCs - Fishing Gear for NPCs (SPID 6.1.0)-63934-1-0-1668905080.7z",
+      "mod_id": 63934,
+      "hash": "sha256-q930q/OaNdbqJ+ANnqYAFPgpKKWru/+oW+fTIpl39v8="
+    },
+    "type": "primary"
+  }
+}

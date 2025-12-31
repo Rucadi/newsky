@@ -1,0 +1,79 @@
+{
+  "Project AHO - Classic Morag Tong Armor replacer": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 518571,
+      "file_name": "Project AHO - Classic Morag Tong Armor replacer-80969-1-0-1720355861.7z",
+      "mod_id": 80969,
+      "hash": "sha256-IHRacuylq7klsJo35sHVYpNWZhBHHwwdVsCEy7n7gQk="
+    },
+    "type": "primary"
+  },
+  "Project AHO - Misc Item Description": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 518573,
+      "file_name": "Project AHO - Misc Item Description-80969-1-0-1720355942.7z",
+      "mod_id": 80969,
+      "hash": "sha256-w/nfgZX0jo86EAP9VDkIEgKT57evarK6yeVqSQRXXs8="
+    },
+    "type": "primary"
+  },
+  "Project AHO - Playable Shanath's Robes": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 518574,
+      "file_name": "Project AHO - Playable Shanath's Robes-80969-1-0-1720356045.7z",
+      "mod_id": 80969,
+      "hash": "sha256-9uurWQerwDOTSdyMpoIoALMo8judbqVv5ZtR9xU1BTo="
+    },
+    "type": "primary"
+  },
+  "Project AHO - TrueHud Boss Bars": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 518575,
+      "file_name": "Project AHO - TrueHud Boss Bars-80969-1-0-1720356080.7z",
+      "mod_id": 80969,
+      "hash": "sha256-3+jwR6qXxpuN6uV7WwRZURH5NYb46DcZbmvRB/fkhD4="
+    },
+    "type": "primary"
+  },
+  "Project AHO - Armors of the Velothi Morag Tong": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 519020,
+      "file_name": "Project AHO - Armors of the Velothi Morag Tong-80969-1-0-1720449904.7z",
+      "mod_id": 80969,
+      "hash": "sha256-7IcbfTkiGG1FLBRhDrZrlv3SlNfKjIcBWtRdiMLRIMo="
+    },
+    "type": "primary"
+  },
+  "Project AHO - General Item Tweaks": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1Items",
+      "file_id": 522273,
+      "file_name": "Project AHO - General Item Tweaks-80969-1-1Items-1721261022.7z",
+      "mod_id": 80969,
+      "hash": "sha256-NFeMxgJOcnKbNKz/0lIhYyXEzVogD0dUy241YkDyzWU="
+    },
+    "type": "primary"
+  },
+  "Project AHO - The Dragonborn's Bestiary Addon": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.3Bestiary",
+      "file_id": 522356,
+      "file_name": "Project AHO - The Dragonborn's Bestiary Addon-80969-1-3Bestiary-1721283718.7z",
+      "mod_id": 80969,
+      "hash": "sha256-4ypSlNLOYd5qeaDq/EYR05CFDYU2ck9WSX/X9myowBs="
+    },
+    "type": "primary"
+  }
+}

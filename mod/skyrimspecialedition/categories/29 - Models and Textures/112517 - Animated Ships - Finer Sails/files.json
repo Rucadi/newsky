@@ -1,0 +1,24 @@
+{
+  "Animated Ships - Finer Sails": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.2",
+      "file_id": 475785,
+      "file_name": "Animated Ships - Finer Sails-112517-1-2-1709259137.zip",
+      "mod_id": 112517,
+      "hash": "sha256-kMhSh4i07DYH9/sNSEGoTUm9sYYfkV2e2SCQ+bOr5+w="
+    },
+    "type": "primary"
+  },
+  "Animated Ships - Finer Sails for Sigils of Skyrim": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.2",
+      "file_id": 475786,
+      "file_name": "Animated Ships - Finer Sails for Sigils of Skyrim-112517-1-2-1709259272.zip",
+      "mod_id": 112517,
+      "hash": "sha256-9lgCJmc2xzoQAxm1Agm/JjQ91JiV9HoSBmfZpxBy1bA="
+    },
+    "type": "primary"
+  }
+}

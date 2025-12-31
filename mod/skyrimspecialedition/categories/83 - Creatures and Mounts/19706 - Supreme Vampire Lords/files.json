@@ -1,0 +1,24 @@
+{
+  "SUPREME VAMPIRE LORDS SE": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1",
+      "file_id": 65088,
+      "file_name": "SUPREME VAMPIRE LORDS SE-19706-1-1.7z",
+      "mod_id": 19706,
+      "hash": "sha256-nsrHEJFkvtFqW6REhcZ87pYlwxr4IhSAHaa6rexwydM="
+    },
+    "type": "primary"
+  },
+  "Supreme Vampire Lords XP32 SE": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1",
+      "file_id": 66277,
+      "file_name": "Supreme Vampire Lords XP32 SE-19706-1-1.7z",
+      "mod_id": 19706,
+      "hash": "sha256-90MKcbTtNzWaGfZh+9QKCzG+6rz3hsnUwZ9Ga3MkPfk="
+    },
+    "type": "primary"
+  }
+}

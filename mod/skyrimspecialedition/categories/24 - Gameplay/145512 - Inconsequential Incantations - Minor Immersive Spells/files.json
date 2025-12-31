@@ -1,0 +1,54 @@
+{
+  "Inconsequential Incantations - Mysticism Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.3",
+      "file_id": 624841,
+      "file_name": "Inconsequential Incantations - Mysticism Patch-145512-1-3-1746680110.zip",
+      "mod_id": 145512,
+      "hash": "sha256-nAwfU+pRWrPZVhohoMI67FUzx6TbJON97ObPYoAp/ZQ="
+    }
+  },
+  "Inconsequential Incantations - Dirt and Blood addo": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "DIRT-1.1",
+      "file_id": 625245,
+      "file_name": "Inconsequential Incantations - Dirt and Blood addo-145512-1-1-1746792153.zip",
+      "mod_id": 145512,
+      "hash": "sha256-n0Y0qHcBokG4NN8K83uVIbG6RztargswjNn8wU7pGLs="
+    }
+  },
+  "Inconsequential Incantations - Survival Addon": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "SURV-1.1",
+      "file_id": 625246,
+      "file_name": "Inconsequential Incantations - Survival Addon-145512-1-1-1746792189.zip",
+      "mod_id": 145512,
+      "hash": "sha256-bjymqm51wj1+p1TWAOrWKnGARjSKlE80welEchVGvg8="
+    }
+  },
+  "BreadRim Keyword Controller": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 633071,
+      "file_name": "BreadRim Keyword Controller-145512-1-0-1748659924.zip",
+      "mod_id": 145512,
+      "hash": "sha256-wCd5Vy+XjVvrHnXI769uRHcplCzSCG+ZrVZO8csoxC4="
+    },
+    "type": "primary"
+  },
+  "Inconsequential Incantations - Minor Immersive Spe": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.3c",
+      "file_id": 633072,
+      "file_name": "Inconsequential Incantations - Minor Immersive Spe-145512-1-3c-1748659988.zip",
+      "mod_id": 145512,
+      "hash": "sha256-wcZUMZ2h9G3/fHpHWAUBQhbIIQwqNMm85WBQTl7R2kg="
+    },
+    "type": "primary"
+  }
+}

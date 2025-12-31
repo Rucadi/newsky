@@ -1,0 +1,23 @@
+{
+  "Patch for Immersive Interactions (Boxing)": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 205447,
+      "file_name": "Patch for Immersive Interactions (Boxing)-50371-1-0-1621943022.zip",
+      "mod_id": 50371,
+      "hash": "sha256-Kg7+tltKYrTtL/FzCwwJ5vMHrFf8JoU5JGDBt1XAoRY="
+    }
+  },
+  "Stay In Shape": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "2.01",
+      "file_id": 660774,
+      "file_name": "Stay In Shape-50371-2-01-1756572521.rar",
+      "mod_id": 50371,
+      "hash": "sha256-ReaNy5/JCgcAu2B2czGFchGlOAU1LbdlSEVFuFwAJW8="
+    },
+    "type": "primary"
+  }
+}

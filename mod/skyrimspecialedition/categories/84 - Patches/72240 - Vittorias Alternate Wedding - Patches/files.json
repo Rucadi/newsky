@@ -1,0 +1,23 @@
+{
+  "Vittoria's Alternate Wedding Patches - FOMOD": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.4",
+      "file_id": 589144,
+      "file_name": "Vittoria's Alternate Wedding Patches - FOMOD-72240-1-4-1738253414.7z",
+      "mod_id": 72240,
+      "hash": "sha256-2vn2zp2yTF1iVXwet8CT5j21D4GqvoRuoD9sfZXrNtc="
+    },
+    "type": "primary"
+  },
+  "Vittoria's Alternative Wedding - GDO Redux Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "0.1",
+      "file_id": 589145,
+      "file_name": "Vittoria's Alternative Wedding - GDO Redux Patch-72240-0-1-1738253514.7z",
+      "mod_id": 72240,
+      "hash": "sha256-bkbVEq4Yv2S8ePLZrUziR43zIyzp7fcyvZF8GQOnPrY="
+    }
+  }
+}

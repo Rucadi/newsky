@@ -1,0 +1,53 @@
+{
+  "Skyrim Reputation - Sacrosanct Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 170713,
+      "file_name": "Skyrim Reputation - Sacrosanct Patch-42538-1-0-1605778220.zip",
+      "mod_id": 42538,
+      "hash": "sha256-N3/HCrLFPn/y0OUqaCl3YJxiafsVmVrTQx1qxMnZwP8="
+    }
+  },
+  "Skyrim Reputation - Growl Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 170714,
+      "file_name": "Skyrim Reputation - Growl Patch-42538-1-0-1605778286.zip",
+      "mod_id": 42538,
+      "hash": "sha256-UdSwvcS/cOJ0CUGVoWwk4mVtHpsNyf5+2sB0/v8jE4I="
+    }
+  },
+  "Skyrim Reputation - Sacrilege Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 170727,
+      "file_name": "Skyrim Reputation - Sacrilege Patch-42538-1-0-1605788934.zip",
+      "mod_id": 42538,
+      "hash": "sha256-NrnKftTT92pPYXO74e9Ci9pCVTED+WC2d1T3zcH0qGA="
+    }
+  },
+  "Skyrim Reputation - Better Vampires Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 171937,
+      "file_name": "Skyrim Reputation - Better Vampires Patch-42538-1-0-1606541210.zip",
+      "mod_id": 42538,
+      "hash": "sha256-idjccTkbIwEals7FOLSEF0xpeizhFX+8m6LMlq72LD0="
+    }
+  },
+  "Skyrim Reputation - Unofficial Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.2",
+      "file_id": 176537,
+      "file_name": "Skyrim Reputation - Unofficial Patch-42538-1-2-1609181317.zip",
+      "mod_id": 42538,
+      "hash": "sha256-paesSuF9k/NDG3t2pbi7kvwZsaoZeiV+TqOnwsF5Lec="
+    },
+    "type": "primary"
+  }
+}

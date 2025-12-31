@@ -1,0 +1,33 @@
+{
+  "More Craftable Equipment - Vanilla Bodyslide": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0.0",
+      "file_id": 181279,
+      "file_name": "More Craftable Equipment - Vanilla Bodyslide-44666-1-0-0-1611411917.zip",
+      "mod_id": 44666,
+      "hash": "sha256-uJpl5Qn0FUAf9Vty1p+/axYYwrdHPmWwDJN6wtCSg+o="
+    }
+  },
+  "More Craftable Equipment - CBBE Bodyslide": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.2.0",
+      "file_id": 338437,
+      "file_name": "More Craftable Equipment - CBBE Bodyslide-44666-1-2-0-1670424095.zip",
+      "mod_id": 44666,
+      "hash": "sha256-ZSr/skvIpLcik4H/9ADQcaDm5p8d0sDANDvvlFHjKvs="
+    }
+  },
+  "More Craftable Equipment": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.4.0",
+      "file_id": 363683,
+      "file_name": "More Craftable Equipment-44666-1-4-0-1677446835.zip",
+      "mod_id": 44666,
+      "hash": "sha256-DTAf5A50mx/FLkYDcabEo3lgE8KRNTXutg0QbBiloT4="
+    },
+    "type": "primary"
+  }
+}

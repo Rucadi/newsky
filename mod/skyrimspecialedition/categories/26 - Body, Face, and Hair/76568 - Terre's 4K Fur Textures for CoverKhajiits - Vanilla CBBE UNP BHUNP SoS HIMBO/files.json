@@ -1,0 +1,114 @@
+{
+  "Vanilla 4K": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "2.0",
+      "file_id": 594792,
+      "file_name": "Vanilla 4K-76568-2-0-1739587996.7z",
+      "mod_id": 76568,
+      "hash": "sha256-33cUnbMLLqgBGAkT5VC4O8gxPFYpJq9Ae5IR+hhDAg0="
+    }
+  },
+  "Vanilla 2K": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "2.0",
+      "file_id": 594794,
+      "file_name": "Vanilla 2K-76568-2-0-1739588464.7z",
+      "mod_id": 76568,
+      "hash": "sha256-8o+EU249Jc6EwOXAnTg30KFjEeB6C2K8Oe/lJDkEK/w="
+    }
+  },
+  "Female Body - CBBE 4K": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "2.0",
+      "file_id": 594808,
+      "file_name": "Female Body - CBBE 4K-76568-2-0-1739590356.7z",
+      "mod_id": 76568,
+      "hash": "sha256-lTnSAsR4OjBqe80txkpqlTR2OHdhK3Yx0RCAi+ZqOLk="
+    }
+  },
+  "Female Body - CBBE 2K": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "2.0",
+      "file_id": 594812,
+      "file_name": "Female Body - CBBE 2K-76568-2-0-1739590848.7z",
+      "mod_id": 76568,
+      "hash": "sha256-Rocff90RZx5wJPFMOKOQ/V2ebMLtNHnbeejOFa67Dfo="
+    }
+  },
+  "Male Body - SoS-HIMBO 4K": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "2.0",
+      "file_id": 594834,
+      "file_name": "Male Body - SoS-HIMBO 4K-76568-2-0-1739592469.7z",
+      "mod_id": 76568,
+      "hash": "sha256-5u9X0H8AMmaXNd3nffxncX5kwjfO8XeF2xt/klrn6rw="
+    }
+  },
+  "Male Body - SoS-HIMBO 2K": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "2.0",
+      "file_id": 594835,
+      "file_name": "Male Body - SoS-HIMBO 2K-76568-2-0-1739592530.7z",
+      "mod_id": 76568,
+      "hash": "sha256-M3tKLNzvjnpI0A+pGtatqFJO5jby3wWbKYEwyJh0zRw="
+    }
+  },
+  "Terre's Body Fur Textures AIO - 2K": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "2.0",
+      "file_id": 595118,
+      "file_name": "Terre's Body Fur Textures AIO - 2K-76568-2-0-1739647122.7z",
+      "mod_id": 76568,
+      "hash": "sha256-X7M5vQKFhWbBg5h32k80yBlvU9bL0LXA2osvp0q/ThQ="
+    },
+    "type": "primary"
+  },
+  "Terre's Body Fur Textures AIO - 4K": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "2.0",
+      "file_id": 595120,
+      "file_name": "Terre's Body Fur Textures AIO - 4K-76568-2-0-1739647352.7z",
+      "mod_id": 76568,
+      "hash": "sha256-6gXD8n3z6GYd82ttcesx3SHzPeakfZ4bDI0wfmxHYF0="
+    },
+    "type": "primary"
+  },
+  "Female Body - UNP-BHUNP 2K": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "2.0",
+      "file_id": 595122,
+      "file_name": "Female Body - UNP-BHUNP 2K-76568-2-0-1739647403.7z",
+      "mod_id": 76568,
+      "hash": "sha256-6hGGwTudjcMHYvBTPZ5re11pQADw7diq/lRjmGebxLU="
+    }
+  },
+  "Female Body - UNP-BHUNP 4K": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "2.0",
+      "file_id": 595124,
+      "file_name": "Female Body - UNP-BHUNP 4K-76568-2-0-1739647453.7z",
+      "mod_id": 76568,
+      "hash": "sha256-q3GnpypHQ/Z0h17P4+68DwqJPZdDbnz5Dh8wvNNKE1E="
+    }
+  },
+  "Khajiit Paw Mod Texture Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "2.0",
+      "file_id": 607704,
+      "file_name": "Khajiit Paw Mod Texture Patch-76568-2-0-1742491646.7z",
+      "mod_id": 76568,
+      "hash": "sha256-bzv7srQvhTlOfOqUFaUZ6CMM86PjDgQSg8rfhn6yoRc="
+    }
+  }
+}

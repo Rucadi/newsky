@@ -1,0 +1,33 @@
+{
+  "Dapper Deliveries - A Courier Overhaul": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 266435,
+      "file_name": "Dapper Deliveries - A Courier Overhaul-64057-1-0-1645677635.zip",
+      "mod_id": 64057,
+      "hash": "sha256-Ij2rXt4JFjkyNpU+0ljN6iL8sSaU4TfVBzjFI51CuQM="
+    },
+    "type": "primary"
+  },
+  "Dark Face Fix BETA - Provincial Courier Service": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "BETA",
+      "file_id": 527977,
+      "file_name": "Dark Face Fix BETA - Provincial Courier Service-64057-BETA-1722727457.zip",
+      "mod_id": 64057,
+      "hash": "sha256-PL189nuO6z8WIs9zacWwvBGTTsWiw62bqsJuP3busjA="
+    }
+  },
+  "Dark Face Fix BETA - Vanilla": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "BETA",
+      "file_id": 527979,
+      "file_name": "Dark Face Fix BETA - Vanilla-64057-BETA-1722727497.zip",
+      "mod_id": 64057,
+      "hash": "sha256-TfobPYuERVdu8OHmtfR/FvPYXh39qF5Qy1m7rzVRA8s="
+    }
+  }
+}

@@ -1,0 +1,112 @@
+{
+  "OWL-Nordic Leather Armor Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 342162,
+      "file_name": "OWL-NordicLeatherArmor-81050-1-0-1671548653.7z",
+      "mod_id": 81050,
+      "hash": "sha256-I8k6lV5mwYlbl7Mfzsc6jxfYbKmL2Yr/qAQExpi71Jg="
+    },
+    "type": "primary"
+  },
+  "OWL-Nord Vagabond Armor Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 342164,
+      "file_name": "OWL-Nord Vagabond Armor-81050-1-0-1671548683.7z",
+      "mod_id": 81050,
+      "hash": "sha256-fADaw4N1pESKr8toOjGc1vYFTU30aTsbVzSCk754oiI="
+    },
+    "type": "primary"
+  },
+  "OWL-Nordic Carved Light Armor Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 342165,
+      "file_name": "OWL-Nordic Carved Light Armor Patch-81050-1-0-1671548731.7z",
+      "mod_id": 81050,
+      "hash": "sha256-rFQoj/OLVzrSmT9AKFw8orOTxh7GVF6JsXYZlejV5Eo="
+    },
+    "type": "primary"
+  },
+  "OWL-Dwarven Lite by norive Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 342166,
+      "file_name": "OWL-Dwarven Lite Patch-81050-1-0-1671548779.7z",
+      "mod_id": 81050,
+      "hash": "sha256-6w7xLAohDIn8aQSifNyah34cTyvbWuPq1SC/mOnoGjQ="
+    },
+    "type": "primary"
+  },
+  "OWL-Eastern Dwemer Armor Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 342167,
+      "file_name": "OWL-Eastern Dwemer Armor Patch-81050-1-0-1671548804.7z",
+      "mod_id": 81050,
+      "hash": "sha256-+1tSLaKXqTWf9ZcwXuBPrEM4RLmL4Fi8bsWVAicqpV4="
+    },
+    "type": "primary"
+  },
+  "OWL-Nord Raven Battlemage Armor Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 342169,
+      "file_name": "OWL-Nord Raven Battlemage Armor Patch-81050-1-0-1671548826.7z",
+      "mod_id": 81050,
+      "hash": "sha256-Ljp1arrAUTgnzLbawweX/uwqMqneFDlgZCYMIdr8lXc="
+    },
+    "type": "primary"
+  },
+  "OWL-Mercenary Light Iron Armor Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 342171,
+      "file_name": "OWL-Mercenary Light Iron Armor Patch-81050-1-0-1671548847.7z",
+      "mod_id": 81050,
+      "hash": "sha256-Cx418HUtKTi5G/LxcZIc4VCgtomJT3w+Gl27lLeHHv4="
+    },
+    "type": "primary"
+  },
+  "OWL-Black Bear Ancient Nord Armor Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 342172,
+      "file_name": "OWL-Black Bear Ancient Nord Armor Patch-81050-1-0-1671548873.7z",
+      "mod_id": 81050,
+      "hash": "sha256-8582oHTcLrs8bnsslVysG2Sbtb+2+dqv9tPSVcW1a/U="
+    },
+    "type": "primary"
+  },
+  "OWL-Nord Tribal Armor Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 342297,
+      "file_name": "OWL-Nord Tribal Armor Patch-81050-1-0-1671575696.7z",
+      "mod_id": 81050,
+      "hash": "sha256-epDcf2nu5O1SY0JJt1cPJCT+QG/x/Fjj6F0tWQHkkNg="
+    },
+    "type": "primary"
+  },
+  "OWL-Dwemer Armor SE by 4thUnknown Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 342509,
+      "file_name": "OWL-Dwemer Armor SE by 4thUnknown Patch-81050-1-0-1671634389.7z",
+      "mod_id": 81050,
+      "hash": "sha256-GluVt7ll0OxZnuUw30piKotZoC3q75ufbnk8P2u/1vw="
+    },
+    "type": "primary"
+  }
+}

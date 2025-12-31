@@ -1,0 +1,33 @@
+{
+  "Peryite's Fetid Dead": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 559635,
+      "file_name": "Peryite's Fetid Dead-133253-1-0-1730933588.zip",
+      "mod_id": 133253,
+      "hash": "sha256-NBR2CgoPGka9xMmwLhdivf3GEr7qRqeYCHaCMoIvyNQ="
+    },
+    "type": "primary"
+  },
+  "Praedy's Skeletons Patch (No Glow)": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 559850,
+      "file_name": "Praedy's Skeletons Patch-133253-1-0-1731005594.zip",
+      "mod_id": 133253,
+      "hash": "sha256-swFyOdFUQvWDzuPFrjoUhreXu9zPSxBtSBcaqAqmadE="
+    }
+  },
+  "Praedy's Skeletons Patch (Eye Glow)": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 559923,
+      "file_name": "Praedy's Skeletons Patch (Eye Glow)-133253-1-0-1731024025.zip",
+      "mod_id": 133253,
+      "hash": "sha256-eWveYrV6R2TbZrlo9+2Uuq1d+3C7eDpGUCw2ydFn2ZQ="
+    }
+  }
+}

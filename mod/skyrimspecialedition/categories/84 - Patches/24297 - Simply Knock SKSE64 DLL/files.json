@@ -1,0 +1,53 @@
+{
+  "SimplyKnockSE SKSEVR 2.0.10 DLL EXPERIMENTAL": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 114376,
+      "file_name": "SimplyKnockSE SKSEVR 2.0.10 DLL EXPERIMENTAL-24297-1-0-1574703916.7z",
+      "mod_id": 24297,
+      "hash": "sha256-oGmpHLvc9XuTy6MheD46r52ccOJuyqZLWyowL/lQ9d8="
+    }
+  },
+  "SimplyKnockSE SKSE64 2.2.3 DLL": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "5.4",
+      "file_id": 325200,
+      "file_name": "SimplyKnockSE SKSE64 2.2.3 DLL-24297-5-4-1666191843.7z",
+      "mod_id": 24297,
+      "hash": "sha256-rx71yHZEXCcLTy7RK2X7Tl0r3QDJJAOltYP2AQ1KFzk="
+    }
+  },
+  "SimplyKnockSE SKSE64 2.2.3 GOG DLL": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "5.4",
+      "file_id": 338131,
+      "file_name": "SimplyKnockSE SKSE64 2.2.3 GOG DLL-24297-5-4-1670332529.7z",
+      "mod_id": 24297,
+      "hash": "sha256-Sj/j2E+X4u68PA6HyI1GparqnaqlPXc4JEo9G/KligE="
+    }
+  },
+  "SimplyKnockSE SKSE64 2.2.4 DLL": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "5.5",
+      "file_id": 449309,
+      "file_name": "SimplyKnockSE SKSE64 2.2.4 DLL-24297-5-5-1701881079.7z",
+      "mod_id": 24297,
+      "hash": "sha256-iFfRMhk3cafhpOgMv6/4uWTLPZ7xCeGTggHV99GabQI="
+    }
+  },
+  "SimplyKnockSE SKSE64 2.2.6 DLL": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "5.6",
+      "file_id": 462957,
+      "file_name": "SimplyKnockSE SKSE64 2.2.6 DLL-24297-5-6-1705695281.7z",
+      "mod_id": 24297,
+      "hash": "sha256-xfnHlUZSuWsmNn+BvKV3KlKZnWtmJzBmng6JfW1Hogw="
+    },
+    "type": "primary"
+  }
+}

@@ -1,0 +1,53 @@
+{
+  "Vanilla Werewolf Sprint Fix": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "2.1.1",
+      "file_id": 89396,
+      "file_name": "Vanilla Werewolf Sprint Fix-23996-2-1-1-1556031743.7z",
+      "mod_id": 23996,
+      "hash": "sha256-fh/fxlJGp6f1RbBBMr/HXt5vN33GHqAjbezO8KeAgI4="
+    }
+  },
+  "Werewolf Feral Run": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "2.1.2",
+      "file_id": 89479,
+      "file_name": "Werewolf Feral Run-23996-2-1-2-1556070323.7z",
+      "mod_id": 23996,
+      "hash": "sha256-j2O/L93cSqNvcgSxnnCwjG/eU2bzveiLBqWrhy7PqY0="
+    },
+    "type": "primary"
+  },
+  "Human Werewolf Sprint": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "2.1.2",
+      "file_id": 89486,
+      "file_name": "Human Werewolf Sprint-23996-2-1-2-1556072059.7z",
+      "mod_id": 23996,
+      "hash": "sha256-IwGKtbPhaZXew5xdAIVIKGCOtwCegGeZvfSn5CY1yc8="
+    }
+  },
+  "Werewolf Feral Run for Oldrim": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "2.1.3",
+      "file_id": 99717,
+      "file_name": "Werewolf Feral Run for Oldrim-23996-2-1-3-1563479594.7z",
+      "mod_id": 23996,
+      "hash": "sha256-vpGSlUhAZJt/wqobLGj8OBbeivWKlY4h65odf+CsHSY="
+    }
+  },
+  "Faster Werewolves": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1",
+      "file_id": 114093,
+      "file_name": "Faster Werewolves-23996-1-1-1574440187.7z",
+      "mod_id": 23996,
+      "hash": "sha256-5mePo4i0+U/Rf4i2mb6L7sJrXxLlex2EdnwWtCinGHk="
+    }
+  }
+}

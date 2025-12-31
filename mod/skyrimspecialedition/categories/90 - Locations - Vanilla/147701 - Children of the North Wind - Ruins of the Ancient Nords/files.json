@@ -1,0 +1,65 @@
+{
+  "Complex Material Texture Addon": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 652516,
+      "file_name": "Complex Material Texture Addon-147701-1-0-1754248743.zip",
+      "mod_id": 147701,
+      "hash": "sha256-8w9fn3kNDEltWvfkKAT01kjquK3J8S4b2I56uuHFnCY="
+    }
+  },
+  "PBR Texture Addon": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 652517,
+      "file_name": "PBR Texture Addon-147701-1-0-1754248875.zip",
+      "mod_id": 147701,
+      "hash": "sha256-5eev7nPATiRdMEdLc/QhfbOrcUeBXiPk5UNTi8dn0HI="
+    }
+  },
+  "Children of the North Wind 6.8.1": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "6.8.1",
+      "file_id": 660948,
+      "file_name": "Children of the North Wind 6.8.1-147701-6-8-1-1756613081.zip",
+      "mod_id": 147701,
+      "hash": "sha256-Ll74hXCdDarT6yrwC/J4QIPgJHxB8/uGFYASHiMQeoQ="
+    },
+    "type": "primary"
+  },
+  "Children of the North Wind Patch Collection 6.8.1": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "6.8.1",
+      "file_id": 660949,
+      "file_name": "Children of the North Wind Patch Collection 6.8.1-147701-6-8-1-1756613120.zip",
+      "mod_id": 147701,
+      "hash": "sha256-p/wCepSL2UtkDZdA1S5k61yZyfSo5miqyFYNMtyuT9g="
+    },
+    "type": "primary"
+  },
+  "COTNW - Navigator Hotfix - QFix": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "6.8.1",
+      "file_id": 663535,
+      "file_name": "COTNW - Navigator Hotfix - QFix-147701-6-8-1-1757294617.7z",
+      "mod_id": 147701,
+      "hash": "sha256-2I/ZReRfHqu5zc4JuDcn93FmfDy0LRP7Faj0JfB8wFo="
+    }
+  },
+  "COTNW LITE": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "LITE-2.1",
+      "file_id": 680446,
+      "file_name": "COTNW LITE-147701-LITE-2-1-1761435579.zip",
+      "mod_id": 147701,
+      "hash": "sha256-vLL3xmKWJo0jKwdK8L3bPKmiOdeMYFA4/4HTkX1D6s0="
+    },
+    "type": "primary"
+  }
+}

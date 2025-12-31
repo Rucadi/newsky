@@ -1,0 +1,23 @@
+{
+  "Farmhouse Chimneys SE - USSEP Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0USSEP",
+      "file_id": 243226,
+      "file_name": "Farmhouse Chimneys SE - USSEP Patch-8766-4-1-1-1637503578.7z",
+      "mod_id": 8766,
+      "hash": "sha256-3rWM5Q8wEp5dvn5g6JQJrfD6hacW8VmO586yR4RJ/UY="
+    }
+  },
+  "Farmhouse Chimneys SE v4.2.1": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "4.2.1",
+      "file_id": 421626,
+      "file_name": "Farmhouse Chimneys SE v4.2.1-8766-4-2-1-1693263868.7z",
+      "mod_id": 8766,
+      "hash": "sha256-YRXCYjvI7mYkvFY4bKuASY2R1xiNvW69oyKk3hoCUqk="
+    },
+    "type": "primary"
+  }
+}

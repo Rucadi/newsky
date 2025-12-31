@@ -1,0 +1,343 @@
+{
+  "UniqueArcanist": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "2",
+      "file_id": 646468,
+      "file_name": "UniqueArcanist-154587-2-1752350369.7z",
+      "mod_id": 154587,
+      "hash": "sha256-F2ne8cS/i3S1aa3SFJyzBTll8y5U8+LCDxbMkCAJsk8="
+    },
+    "type": "primary"
+  },
+  "UniqueAncano": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "2",
+      "file_id": 646470,
+      "file_name": "UniqueAncano-154587-2-1752350467.7z",
+      "mod_id": 154587,
+      "hash": "sha256-HY1E9fOZ+/8LAWUFlWI7vsBCBGgSL5VmJEpr4NjHnJs="
+    },
+    "type": "primary"
+  },
+  "UniqueDreugh": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "2",
+      "file_id": 646471,
+      "file_name": "UniqueDreugh-154587-2-1752350548.7z",
+      "mod_id": 154587,
+      "hash": "sha256-JWmdNmx5E0J+jU3aAaanN2LiA7b4zVjC94pV37uSE8k="
+    },
+    "type": "primary"
+  },
+  "UniqueSheogorath": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "2",
+      "file_id": 646472,
+      "file_name": "UniqueSheogorath-154587-2-1752350597.7z",
+      "mod_id": 154587,
+      "hash": "sha256-K4BAMW/3Q2T8Z/DVyUtxq3HVjzWYZmy4B7Cry9Vf8zs="
+    },
+    "type": "primary"
+  },
+  "UniqueEGC9": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "2",
+      "file_id": 646473,
+      "file_name": "UniqueEGC9-154587-2-1752350650.7z",
+      "mod_id": 154587,
+      "hash": "sha256-+sJw7EwHBqpHgs6cuGEE6s5qQPzRqLMQ1AJ6dmAhjkQ="
+    },
+    "type": "primary"
+  },
+  "UniqueOYRSA": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "2",
+      "file_id": 646474,
+      "file_name": "UniqueOYRSA-154587-2-1752350705.7z",
+      "mod_id": 154587,
+      "hash": "sha256-9xInepqFYiodC5GLb+4B1zSSJlDAjq88c1v7MnYgjZU="
+    },
+    "type": "primary"
+  },
+  "UniqueSamon": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "2",
+      "file_id": 646476,
+      "file_name": "UniqueSamon-154587-2-1752350750.7z",
+      "mod_id": 154587,
+      "hash": "sha256-kQqWa3p8AczAqJ0TFq1slT+OqfgDqoa6MPXce8bKoR8="
+    },
+    "type": "primary"
+  },
+  "UniqueYngol": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "2",
+      "file_id": 646478,
+      "file_name": "UniqueYngol-154587-2-1752350790.7z",
+      "mod_id": 154587,
+      "hash": "sha256-R36tWkM8piQiT5yCvpacvIi4uvnGu/faXqXgsvI9cks="
+    },
+    "type": "primary"
+  },
+  "UniqueYngolAlternative": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "2",
+      "file_id": 646480,
+      "file_name": "UniqueYngolAlternative-154587-2-1752350821.7z",
+      "mod_id": 154587,
+      "hash": "sha256-L+h/+qvqHnsuYaQWvkpnV2Dxe6zIRzxM2VLd290pv4g="
+    },
+    "type": "primary"
+  },
+  "UniqueSload": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "2",
+      "file_id": 646481,
+      "file_name": "Sload-154587-2-1752350870.7z",
+      "mod_id": 154587,
+      "hash": "sha256-fbT8XFMvTh0IIY4jq9NBnn3U/rxgFOaMmRHyRgAuCE8="
+    },
+    "type": "primary"
+  },
+  "UniqueCrabbimarco": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "2",
+      "file_id": 646482,
+      "file_name": "UniqueCrabbimarco-154587-2-1752350921.7z",
+      "mod_id": 154587,
+      "hash": "sha256-YUjidi0RmAf9hHR/maM1dzXgHohJK3pKK2IsyBECrGA="
+    },
+    "type": "primary"
+  },
+  "FemaleChild": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "2",
+      "file_id": 646483,
+      "file_name": "FemaleChild-154587-2-1752350977.7z",
+      "mod_id": 154587,
+      "hash": "sha256-0amrkrg/1o/GZ4StvOQB21Y9+tHb/1E0wXNm09Hz34c="
+    },
+    "type": "primary"
+  },
+  "FemaleChildAlternative": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "2",
+      "file_id": 646484,
+      "file_name": "FemaleChildAlternative-154587-2-1752351011.7z",
+      "mod_id": 154587,
+      "hash": "sha256-onuQhvRw7hdJVgZMqHW+r/vJGI+GzpAj+dGAE8g8gbs="
+    },
+    "type": "primary"
+  },
+  "FemaleElfHaughty": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "2",
+      "file_id": 646485,
+      "file_name": "FemaleElfHaughty-154587-2-1752351044.7z",
+      "mod_id": 154587,
+      "hash": "sha256-8yx6M0vprzg0Q1zLdNvyhvvargFgngO1HlmHanBGP4g="
+    },
+    "type": "primary"
+  },
+  "FemaleElfHaughtyAlternative": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "2",
+      "file_id": 646488,
+      "file_name": "FemaleElfHaughtyAlternative-154587-2-1752351089.7z",
+      "mod_id": 154587,
+      "hash": "sha256-rF3C4AWU8KJV6sufJMGBUgkiDE4eLGBsJdx+T0+SVyI="
+    },
+    "type": "primary"
+  },
+  "FemaleEventoned": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "2",
+      "file_id": 646490,
+      "file_name": "FemaleEventoned-154587-2-1752351125.7z",
+      "mod_id": 154587,
+      "hash": "sha256-fXRr/iSz6+D8MzwIOKM2FlH9LrZwbokBcgW1MknerCI="
+    },
+    "type": "primary"
+  },
+  "MaleArgonian": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "2",
+      "file_id": 646492,
+      "file_name": "MaleArgonian-154587-2-1752351189.7z",
+      "mod_id": 154587,
+      "hash": "sha256-/08Ws06GGNpW8MTkWqWnrtdgyDwLoN/ww0FRot4HLuY="
+    },
+    "type": "primary"
+  },
+  "MaleBrute": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "2",
+      "file_id": 646493,
+      "file_name": "MaleBrute-154587-2-1752351219.7z",
+      "mod_id": 154587,
+      "hash": "sha256-zXO8MGzd9iXZWopvgO/PSt20mlXvvMnoPuvMfQWFvV0="
+    },
+    "type": "primary"
+  },
+  "MaleBruteAlternate": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "2",
+      "file_id": 646494,
+      "file_name": "MaleBruteAlternate-154587-2-1752351261.7z",
+      "mod_id": 154587,
+      "hash": "sha256-1PT0LprQzbKzZ2mYxUh9Z9zmFc1f6VSFR1rAYZ8lTo8="
+    },
+    "type": "primary"
+  },
+  "MaleChild": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "2",
+      "file_id": 646495,
+      "file_name": "MaleChild-154587-2-1752351297.7z",
+      "mod_id": 154587,
+      "hash": "sha256-1Kd+wsQ3MA05YS0rqBW5g7cTM7QwOf0POOtI3fJHc/k="
+    },
+    "type": "primary"
+  },
+  "MaleChildAlternate": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "2",
+      "file_id": 646496,
+      "file_name": "MaleChildAlternate-154587-2-1752351347.7z",
+      "mod_id": 154587,
+      "hash": "sha256-khfcJP5/1yDuJ+hLP5ETBkGglfGUM/To9uVx+mSqS1E="
+    },
+    "type": "primary"
+  },
+  "MaleCommander": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "2",
+      "file_id": 646497,
+      "file_name": "MaleCommander-154587-2-1752351388.7z",
+      "mod_id": 154587,
+      "hash": "sha256-zrG75Hq5XqTULC91iZ6tipDa0FZRSf32Co4nzIggL9I="
+    },
+    "type": "primary"
+  },
+  "MaleCommanderAlternate": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "2",
+      "file_id": 646499,
+      "file_name": "MaleCommanderAlternate-154587-2-1752351447.7z",
+      "mod_id": 154587,
+      "hash": "sha256-oUJ8zrRKJ433FzH5u+4mJHHl8trhOxhhv801gZaF+TA="
+    },
+    "type": "primary"
+  },
+  "MaleCoward": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "2",
+      "file_id": 646501,
+      "file_name": "MaleCoward-154587-2-1752351502.7z",
+      "mod_id": 154587,
+      "hash": "sha256-Y9oWrDB0iBvEagMxe+7W1QUT5IOb0o1OLppWgG43EGc="
+    },
+    "type": "primary"
+  },
+  "MaleCowardAlternate": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "2",
+      "file_id": 646502,
+      "file_name": "MaleCowardAlternate-154587-2-1752351541.7z",
+      "mod_id": 154587,
+      "hash": "sha256-jz889mKGoCZhvGVa3cIkLIip1d90DhNQo6oY8kV2IFU="
+    },
+    "type": "primary"
+  },
+  "MaleElfHaughty": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "2",
+      "file_id": 646504,
+      "file_name": "MaleElfHaughty-154587-2-1752351627.7z",
+      "mod_id": 154587,
+      "hash": "sha256-F1EmPP863AtR7CXqEdMkVCIMiabMw7FO6GN/l7kkZMo="
+    },
+    "type": "primary"
+  },
+  "MaleEventoned": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "2",
+      "file_id": 646505,
+      "file_name": "MaleEventoned-154587-2-1752351668.7z",
+      "mod_id": 154587,
+      "hash": "sha256-ctopP7RSyNSB7oHZrz6ESm5Bqm6sQWrVjMduEcKmI4E="
+    },
+    "type": "primary"
+  },
+  "UniqueTalkingSkull": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "2",
+      "file_id": 646506,
+      "file_name": "UniqueTalkingSkull-154587-2-1752351759.7z",
+      "mod_id": 154587,
+      "hash": "sha256-0MsLrRHDnBrZYsf3GieX+y9YPopmz2CyROjVYafeqGQ="
+    },
+    "type": "primary"
+  },
+  "UniqueTalkingSkullAccented": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "2",
+      "file_id": 646508,
+      "file_name": "UniqueTalkingSkullAccented-154587-2-1752351796.7z",
+      "mod_id": 154587,
+      "hash": "sha256-ypxS3tbL2t4IU8/mBxC1Z6dkYkOLEXC4GsnfVSa95sI="
+    },
+    "type": "primary"
+  },
+  "MaleKhajiit": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "2",
+      "file_id": 646509,
+      "file_name": "MaleKhajiit-154587-2-1752351842.7z",
+      "mod_id": 154587,
+      "hash": "sha256-EQq03k4wgYmK5ghDkjYs6QAE3fl3736rHImIBFKkHjg="
+    },
+    "type": "primary"
+  },
+  "MaleNord": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "2",
+      "file_id": 646510,
+      "file_name": "MaleNord-154587-2-1752351880.7z",
+      "mod_id": 154587,
+      "hash": "sha256-AdZ8RuaYootfjrKmP9QffocHcWTBsKmv04wUG0irqDA="
+    },
+    "type": "primary"
+  }
+}

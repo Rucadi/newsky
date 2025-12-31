@@ -1,0 +1,23 @@
+{
+  "Skyrim Spear Mechanic SE 3.0 DAR": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "3.0",
+      "file_id": 145670,
+      "file_name": "Skyrim Spear Mechanic SE 3.0 DAR-25146-3-0-1592152122.zip",
+      "mod_id": 25146,
+      "hash": "sha256-0ucUZF5ZzRwP9fYNLU93gtWx96r9UC1jUugLdHnj73M="
+    },
+    "type": "primary"
+  },
+  "Blender Animations 1sPerson": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 146731,
+      "file_name": "Blender Animations 1sPerson-25146-1-0-1592729872.7z",
+      "mod_id": 25146,
+      "hash": "sha256-nE1R2xIM7RgoXF/mVcHEFuxMzsbhb4v7LWVSUsot5a4="
+    }
+  }
+}

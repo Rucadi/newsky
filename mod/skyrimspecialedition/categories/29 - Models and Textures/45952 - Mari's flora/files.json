@@ -1,0 +1,35 @@
+{
+  "Mari's flora - High": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.2",
+      "file_id": 197654,
+      "file_name": "Mari's flora - High-45952-1-2-1618220726.7z",
+      "mod_id": 45952,
+      "hash": "sha256-2PtP3mHCXPSPGp4ae8EwrA9R1aImXhmK5kvzE4CYZN0="
+    },
+    "type": "primary"
+  },
+  "Mari's flora - Medium": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.2",
+      "file_id": 197655,
+      "file_name": "Mari's flora - Medium-45952-1-2-1618220800.7z",
+      "mod_id": 45952,
+      "hash": "sha256-qIbrwkuvFNZ9qU7E7BZQEeB0ZsOwiOpBG9XHO1SXveE="
+    },
+    "type": "primary"
+  },
+  "Mari's flora - Low": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.2",
+      "file_id": 197656,
+      "file_name": "Mari's flora - Low-45952-1-2-1618220838.7z",
+      "mod_id": 45952,
+      "hash": "sha256-PPFHm4DkDEq0g9melKzLhFwz7luWS4K4m5VytysyUs0="
+    },
+    "type": "primary"
+  }
+}

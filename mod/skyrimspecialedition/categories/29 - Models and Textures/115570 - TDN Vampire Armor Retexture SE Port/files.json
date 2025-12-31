@@ -1,0 +1,33 @@
+{
+  "Nightshade Vampire Armor Retexture": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 486307,
+      "file_name": "Nightshade Vampire Armor Retexture-115570-1-0-1711945158.rar",
+      "mod_id": 115570,
+      "hash": "sha256-FzsWDxTZ1Gm6xYLm/GA5irog/o8+aJIWi+wbLFPZTjk="
+    },
+    "type": "primary"
+  },
+  "Male Royal Vampire Armor without pauldrons": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 486605,
+      "file_name": "Male Royal Vampire Armor without pauldrons-115570-1-0-1712013192.rar",
+      "mod_id": 115570,
+      "hash": "sha256-jhOs40VfV+UuMNoQ13MQD1BxxtCTKsK7cYAg43LZTMI="
+    }
+  },
+  "Craftable Vampire Armor Optional Esp": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 486674,
+      "file_name": "Craftable Vampire Armor Optional Esp-115570-1-0-1712021639.rar",
+      "mod_id": 115570,
+      "hash": "sha256-3497PY2Z4Evbd2ZGrDBH76gcO+nyHqgDwx7xc+0QHqo="
+    }
+  }
+}

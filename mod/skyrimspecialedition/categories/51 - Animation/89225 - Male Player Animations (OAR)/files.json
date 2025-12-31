@@ -1,0 +1,43 @@
+{
+  "MPA OAR customization folders": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0.1",
+      "file_id": 412621,
+      "file_name": "MPA OAR customization folders-89225-1-0-1-1690782624.zip",
+      "mod_id": 89225,
+      "hash": "sha256-Sto0OY1zucD3ixBPun6HOq7nZrlWGQQ7FfzDylJlxA4="
+    }
+  },
+  "MPA EVGCI 1.51 OAR patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1.0",
+      "file_id": 511533,
+      "file_name": "MPA EVGCI 1.51 OAR patch-89225-1-1-0-1718390388.zip",
+      "mod_id": 89225,
+      "hash": "sha256-bRqoNE1N4Acccac4Qph470T1AGVMoLdHOMKi31Fn06E="
+    }
+  },
+  "Male Player Animations (OAR)": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1.0",
+      "file_id": 522239,
+      "file_name": "Male Player Animations (OAR)-89225-1-1-0-1721248068.zip",
+      "mod_id": 89225,
+      "hash": "sha256-4cu0HCnL9zyXw/LwqfU2EbFXi+cTQWFOnPP5ccm3t8c="
+    },
+    "type": "primary"
+  },
+  "Male Player Animations (OAR) - shield patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1.0",
+      "file_id": 522240,
+      "file_name": "Male Player Animations (OAR) - shield patch-89225-1-1-0-1721248145.zip",
+      "mod_id": 89225,
+      "hash": "sha256-PXedVVSTpciACf988q46/QTe8ElRgPwlooSjIttW9OY="
+    }
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "YASTM (FOMOD)": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "3.0.0",
+      "file_id": 367328,
+      "file_name": "YASTM (FOMOD)-56144-3-0-0-1678503366.7z",
+      "mod_id": 56144,
+      "hash": "sha256-tqhvSm7Xy0GOeT2EqycuFR0DFZLaIdI3yKlngO8FvyA="
+    },
+    "type": "primary"
+  },
+  "YASTM VR (FOMOD)": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "3.0.0",
+      "file_id": 367329,
+      "file_name": "YASTM VR (FOMOD)-56144-3-0-0-1678503401.7z",
+      "mod_id": 56144,
+      "hash": "sha256-zKu/iWKfs0YLxfp64x0yJSXSeH2beQoDVG6BQ0pwIQo="
+    },
+    "type": "primary"
+  }
+}

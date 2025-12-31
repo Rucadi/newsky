@@ -1,0 +1,33 @@
+{
+  "Rotols Additional Icons AIT Sunhelm Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0.0.5",
+      "file_id": 480546,
+      "file_name": "Rotols Additional Icons AIT Sunhelm Patch-113657-1-0-0-5-1710438962.7z",
+      "mod_id": 113657,
+      "hash": "sha256-xaeCjIzaLULH33Z4I9t6yj/WtSjNg3i1tKk7z1suNt8="
+    }
+  },
+  "Rotols More Icons Sacrosanct - Vampires of Skyrim": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0.1.1",
+      "file_id": 483637,
+      "file_name": "Rotols More Icons Sacrosanct - Vampires of Skyrim-113657-1-0-1-1-1711272514.7z",
+      "mod_id": 113657,
+      "hash": "sha256-HBRaAbQ6CkoFqys/+WXDn/NYn9s+rBEDcoREUSmE90A="
+    }
+  },
+  "Rotols More Icons": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0.10.0",
+      "file_id": 702816,
+      "file_name": "Rotols More Icons-113657-1-0-10-0-1766914081.7z",
+      "mod_id": 113657,
+      "hash": "sha256-SbMJYqafOg4fS/Vfjsw5pm2MRv3e6A/bfKx0Clzsis0="
+    },
+    "type": "primary"
+  }
+}

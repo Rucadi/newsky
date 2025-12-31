@@ -1,0 +1,43 @@
+{
+  "-For those not using KS Hairdo's- hair textures": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.5",
+      "file_id": 159931,
+      "file_name": "-For those not using KS Hairdo's- hair textures-40231-1-5-1599690359.7z",
+      "mod_id": 40231,
+      "hash": "sha256-XyYnkK8HLvBL2Ny1tBgWlgcyCYtkSUddZxJCeR2jXT0="
+    }
+  },
+  "My names for the children": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "2.0",
+      "file_id": 160324,
+      "file_name": "My names for the children-40231-2-0-1599903357.7z",
+      "mod_id": 40231,
+      "hash": "sha256-+oRs0DETV+lu92566EtrTjZuqfv38G6u4B5Wc0jW4tg="
+    }
+  },
+  "Alternate orc eyes": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "2.0",
+      "file_id": 160389,
+      "file_name": "Alternate orc eyes-40231-2-0-1599942911.7z",
+      "mod_id": 40231,
+      "hash": "sha256-fwuSYWhk7W6Eg1VuBLkX3C5N68ZVoUUk9tWMRW6gKHo="
+    }
+  },
+  "Realistic Elven Children": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "2.1",
+      "file_id": 163370,
+      "file_name": "Realistic Elven Children-40231-2-1-1601549618.7z",
+      "mod_id": 40231,
+      "hash": "sha256-4Qv8jwHKtwBPY+NE1id46VIMJdMEdVZ8RFoLuWIaYR4="
+    },
+    "type": "primary"
+  }
+}

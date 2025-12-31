@@ -1,0 +1,23 @@
+{
+  "Stormlord Armor Reshaped": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "2",
+      "file_id": 358553,
+      "file_name": "Stormlord Armor Reshaped-78223-2-1676072513.7z",
+      "mod_id": 78223,
+      "hash": "sha256-xdPw/wVM6NSf3IacHnbftBxdF0fnDrYHiebJH/7y2ZQ="
+    },
+    "type": "primary"
+  },
+  "Stormlord Reshape for NordWarUA's Guard Armor Replacer": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1",
+      "file_id": 363087,
+      "file_name": "Stormlord Reshape for NordWarUA's Guard Armor Replacer-78223-1-1677299268.7z",
+      "mod_id": 78223,
+      "hash": "sha256-8xYVdo3EDm0PWLWfS6HTxQ4XSJS3OQB1QufxrzEj1no="
+    }
+  }
+}

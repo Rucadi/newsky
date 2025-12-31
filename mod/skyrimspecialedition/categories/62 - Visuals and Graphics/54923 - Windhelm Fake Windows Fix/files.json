@@ -1,0 +1,53 @@
+{
+  "Icy Windhelm Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "2.1",
+      "file_id": 228543,
+      "file_name": "Icy Windhelm Patch-54923-2-1-1631712447.zip",
+      "mod_id": 54923,
+      "hash": "sha256-uUJB7VRs65G2R+IbtAe+3O6On+uXlTMMrxpo0ry/g/w="
+    }
+  },
+  "Snowy AF Windhelm Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "2.1",
+      "file_id": 230807,
+      "file_name": "Snowy AF Windhelm Patch-54923-2-1-1632674531.zip",
+      "mod_id": 54923,
+      "hash": "sha256-Zs7SvJh4IzsFOGAArGWe4H0WpUJRVZkJorNTLd6LFuM="
+    }
+  },
+  "JK's Skyrim Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "2.0",
+      "file_id": 236773,
+      "file_name": "JK's Skyrim Patch-54923-2-0-1635077827.zip",
+      "mod_id": 54923,
+      "hash": "sha256-TeuoUoLxnT5DaaAnE5XcNl1RUnELIRCamlt8QwMYXDM="
+    }
+  },
+  "Windhelm Fake Windows Fix - Capital Windhelm Expansion": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "2.3",
+      "file_id": 271760,
+      "file_name": "Windhelm Fake Windows Fix - Capital Windhelm Expansion-54923-2-3-1647941203.zip",
+      "mod_id": 54923,
+      "hash": "sha256-a1fs/GJEMx1X6INykynp/dUcmFfbCy0JZ8ajj1u7hfc="
+    }
+  },
+  "Windhelm Fake Windows Fix": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "2.31",
+      "file_id": 272135,
+      "file_name": "Windhelm Fake Windows Fix-54923-2-31-1648105032.zip",
+      "mod_id": 54923,
+      "hash": "sha256-Cg/w0PMvNJtIg/y7nouD772nM/4q4vh6uUk1p9K5aB8="
+    },
+    "type": "primary"
+  }
+}

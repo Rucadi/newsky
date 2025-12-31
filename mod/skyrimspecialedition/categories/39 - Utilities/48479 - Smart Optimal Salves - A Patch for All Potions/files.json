@@ -1,0 +1,23 @@
+{
+  "Smart Optimal Salves - Duration Patch - 0.1": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "0.1",
+      "file_id": 197844,
+      "file_name": "Smart Optimal Salves - Duration Patch-48479-1-0-1618293870.zip",
+      "mod_id": 48479,
+      "hash": "sha256-rY69et3aojqutO55i3dQIRRQT19PwuiTIoVONplDijs="
+    }
+  },
+  "Smart Optimal Salves - Duration Patch - 0.2": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "0.2",
+      "file_id": 198219,
+      "file_name": "Smart Optimal Salves - Duration Patch - 0.2-48479-0-2-1618441216.zip",
+      "mod_id": 48479,
+      "hash": "sha256-gIl6hYDdwqiFxq4qQS/ryXo+WLJd7F5YOShBq1/3a64="
+    },
+    "type": "primary"
+  }
+}

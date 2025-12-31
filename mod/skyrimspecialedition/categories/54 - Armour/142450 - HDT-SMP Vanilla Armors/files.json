@@ -1,0 +1,64 @@
+{
+  "HDT-SMP Vanilla - HIMBO Conversions": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1a",
+      "file_id": 604591,
+      "file_name": "HDT-SMP Vanilla - HIMBO Conversions-142450-1-1a-1741735801.7z",
+      "mod_id": 142450,
+      "hash": "sha256-FltcgMMmKMQ6wKTm1J04cW2VlOu69brS3dl3wtwYJrU="
+    }
+  },
+  "Player-exclusive HDT-SMP - HIMBO": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1a",
+      "file_id": 604594,
+      "file_name": "Player-exclusive HDT-SMP - HIMBO-142450-1-1a-1741736136.7z",
+      "mod_id": 142450,
+      "hash": "sha256-urPn23eQNJpb8+MHrgaLYFlh1N7yUKqJeoOjHvRY1co="
+    }
+  },
+  "Player-exclusive HDT-SMP Armors": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1a",
+      "file_id": 607076,
+      "file_name": "Player-exclusive HDT-SMP Armors-142450-1-1a-1742310282.7z",
+      "mod_id": 142450,
+      "hash": "sha256-onIj5Q27D36Jbno6mV+GVDKhH9vUxgYyGYsf7rGh0Ts="
+    },
+    "type": "primary"
+  },
+  "HDT-SMP Vanilla Armors": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1a",
+      "file_id": 623153,
+      "file_name": "HDT-SMP Vanilla Armors-142450-1-1a-1746252950.7z",
+      "mod_id": 142450,
+      "hash": "sha256-3/lfVYY3hthcntVwf1w4xjufDJcdI1GnOgfCMNaVcIQ="
+    },
+    "type": "primary"
+  },
+  "HDT-SMP Vanilla - CBBE 3BA Conversions": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1a",
+      "file_id": 623154,
+      "file_name": "HDT-SMP Vanilla - CBBE 3BA Conversions-142450-1-1a-1746253051.7z",
+      "mod_id": 142450,
+      "hash": "sha256-M7vqAwOqhLLOkTk9xxmrfD+NZco0KqNho0Iq7rkpE8A="
+    }
+  },
+  "Player-exclusive HDT-SMP - CBBE 3BA": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1a",
+      "file_id": 623155,
+      "file_name": "Player-exclusive HDT-SMP - CBBE 3BA-142450-1-1a-1746253100.7z",
+      "mod_id": 142450,
+      "hash": "sha256-+xq4W9xEKdZSRTpqVTIxmnY5ziGufOO9ClxezC3Zv74="
+    }
+  }
+}

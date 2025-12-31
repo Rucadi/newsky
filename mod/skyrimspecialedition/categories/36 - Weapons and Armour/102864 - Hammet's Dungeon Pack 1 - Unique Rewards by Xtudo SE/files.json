@@ -1,0 +1,75 @@
+{
+  "Hammet's Pack 1 - SE by Xtudo - SIC patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.8",
+      "file_id": 537917,
+      "file_name": "Hammet's Pack 1 - SE by Xtudo - SIC patch-102864-1-8-1725278503.7z",
+      "mod_id": 102864,
+      "hash": "sha256-WlOwOzK7cqWYKUef+6iaIp9VAMG7cbmpAlmDHLdDf3U="
+    }
+  },
+  "Hammet's Pack 1 - Unique SE by Xtudo - Weapons 1K": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "2.2",
+      "file_id": 647176,
+      "file_name": "Hammet's Pack 1 - Unique SE by Xtudo - Weapons 1K-102864-2-2-1752520642.7z",
+      "mod_id": 102864,
+      "hash": "sha256-GpNgo0Ii1+fWMO3J2RHeqnt8ol34nEvdTQoKp6EVNY8="
+    },
+    "type": "primary"
+  },
+  "Hammet's Pack 1 - Unique SE by Xtudo - Weapons 2K": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "2.2",
+      "file_id": 647177,
+      "file_name": "Hammet's Pack 1 - Unique SE by Xtudo - Weapons 2K-102864-2-2-1752520672.7z",
+      "mod_id": 102864,
+      "hash": "sha256-FOLuw7+9ct+NnKUqQt1zKf0eGxE3vdURE+KqVN3RZGA="
+    },
+    "type": "primary"
+  },
+  "Hammet's Pack 1 - Unique SE by Xtudo - Weapons 4K": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "2.2",
+      "file_id": 647178,
+      "file_name": "Hammet's Pack 1 - Unique SE by Xtudo - Weapons 4K-102864-2-2-1752520792.7z",
+      "mod_id": 102864,
+      "hash": "sha256-DL1G76KvsjKwc+sfyncoFv3CupM0lUlXTSSfLT1XZhM="
+    },
+    "type": "primary"
+  },
+  "Hammet's Pack 1 - SE by Xtudo - Darkmire Statue": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "2.2",
+      "file_id": 647180,
+      "file_name": "Hammet's Pack 1 - SE by Xtudo - Darkmire Statue-102864-2-2-1752520832.7z",
+      "mod_id": 102864,
+      "hash": "sha256-VS2ivztYJT4YF7IyQvXPtZKcXcd1CvGU+s5V2Oiqyzk="
+    }
+  },
+  "Hammet's Pack 1 - SE by Xtudo - Helm of Morvanyr": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "2.2",
+      "file_id": 647181,
+      "file_name": "Hammet's Pack 1 - SE by Xtudo - Helm of Morvanyr-102864-2-2-1752520905.7z",
+      "mod_id": 102864,
+      "hash": "sha256-18pqgdg/GTxsJvDd74G5hyIQMUWkU/+Kh2zsfiK6wRs="
+    }
+  },
+  "Hammet's Pack 1 - Unique SE by Xtudo - Arani": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "2.2",
+      "file_id": 647182,
+      "file_name": "Hammet's Pack 1 - Unique SE by Xtudo - Arani-102864-2-2-1752520944.7z",
+      "mod_id": 102864,
+      "hash": "sha256-w3NO4AWkQXMkhQU8OX+DaYZLGW9mHahfbv0pt3oHUWQ="
+    }
+  }
+}

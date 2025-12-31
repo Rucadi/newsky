@@ -1,0 +1,84 @@
+{
+  "VMHD - All Races - 2K": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 86254,
+      "file_name": "VMHD - All Races - 2K-24482-1-0-1553569440.7z",
+      "mod_id": 24482,
+      "hash": "sha256-mUK3graOOhjDAtmGoHofrpYMDdfuxChXiAJEBuqCrX0="
+    },
+    "type": "primary"
+  },
+  "VMHD - All Races - 4K": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 86255,
+      "file_name": "VMHD - All Races - 4K-24482-1-0-1553569721.7z",
+      "mod_id": 24482,
+      "hash": "sha256-hK2IbqTxK9SDE03JUVeHbN5ZoNhe1jrzcmpNWLBpKnE="
+    },
+    "type": "primary"
+  },
+  "VMHD - Beast Races - 2K": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 86256,
+      "file_name": "VMHD - Beast Races - 2K-24482-1-0-1553569807.7z",
+      "mod_id": 24482,
+      "hash": "sha256-Lv+Mv9H7MiinDsSmF1zZlfLMd4MdzEW2bbrSB64+E70="
+    }
+  },
+  "VMHD - Beast Races - 4K": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 86257,
+      "file_name": "VMHD - Beast Races - 4K-24482-1-0-1553569927.7z",
+      "mod_id": 24482,
+      "hash": "sha256-mjGX5Nswk6f4pKPlIWO8aDfmhYMI8FxLUZk8jUC048o="
+    }
+  },
+  "VMHD - Females - 2K": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 86258,
+      "file_name": "VMHD - Females - 2K-24482-1-0-1553569972.7z",
+      "mod_id": 24482,
+      "hash": "sha256-mePgDd0qbCi+FU9BBRHiNaFDJ5G6n9ya4t6ag+q/U2s="
+    }
+  },
+  "VMHD - Females - 4K": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 86259,
+      "file_name": "VMHD - Females - 4K-24482-1-0-1553570113.7z",
+      "mod_id": 24482,
+      "hash": "sha256-HrpRiywB3iZrHuquUeUCJbBxZ7/fot7iJxhEYCwTdq4="
+    }
+  },
+  "VMHD - Humans - 2K": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 86260,
+      "file_name": "VMHD - Humans - 2K-24482-1-0-1553570176.7z",
+      "mod_id": 24482,
+      "hash": "sha256-xCIA8dgS2vWANoZcy2SLWYJyPimbKgGDQUqXBfxsjm8="
+    }
+  },
+  "VMHD - Humans - 4K": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 86261,
+      "file_name": "VMHD - Humans - 4K-24482-1-0-1553570251.7z",
+      "mod_id": 24482,
+      "hash": "sha256-mSR9EE9SLAbRQ/3P/yJZax8PVY/i90EanfxKVFTXFUQ="
+    }
+  }
+}

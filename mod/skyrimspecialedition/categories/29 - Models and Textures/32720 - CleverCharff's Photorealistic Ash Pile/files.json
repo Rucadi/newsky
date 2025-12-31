@@ -1,0 +1,34 @@
+{
+  "Ash Pile 2K": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.3",
+      "file_id": 137523,
+      "file_name": "Ash Pile 2K-32720-1-3-1588397930.7z",
+      "mod_id": 32720,
+      "hash": "sha256-AKig+EzVDF/2skEfLuLie7SiD9jC+aH6mS7XO2mMcZk="
+    },
+    "type": "primary"
+  },
+  "Ash Pile no bones": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.3",
+      "file_id": 137524,
+      "file_name": "Ash Pile no bones-32720-1-3-1588397972.7z",
+      "mod_id": 32720,
+      "hash": "sha256-BXoP0XnI8fFJ3qkHgjR0+wd/JtQuiNsGTgXMtCRbqSg="
+    },
+    "type": "primary"
+  },
+  "Ash Pile 1K": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 143167,
+      "file_name": "Ash Pile 1K-32720-1-0-1590963395.7z",
+      "mod_id": 32720,
+      "hash": "sha256-zCLcJLwoTrvDLesDbuVVZEQZ4AqYl4PYb5pA/lNjGV8="
+    }
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "Ebony Warlock Hood Replacer": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1",
+      "file_id": 154598,
+      "file_name": "Ebony Warlock Hood Replacer-35899-1-1-1596974849.7z",
+      "mod_id": 35899,
+      "hash": "sha256-UU0/iIiSEZTOSVh+2ypEkLZ89WbtY17gUzm6UEula3c="
+    }
+  },
+  "Warmonger Armory Tweaks - Loremonger Edition": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.2",
+      "file_id": 154880,
+      "file_name": "Warmonger Armory Tweaks - Loremonger Edition-35899-1-2-1597067854.7z",
+      "mod_id": 35899,
+      "hash": "sha256-v8oAK//MWEFrSzCaQcSgvNKWDDR+Dp461QNnwNDBigg="
+    },
+    "type": "primary"
+  }
+}

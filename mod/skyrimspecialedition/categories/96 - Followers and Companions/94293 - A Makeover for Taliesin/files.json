@@ -1,0 +1,33 @@
+{
+  "A Makeover for Taliesin - Yellow Sclera": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1",
+      "file_id": 400957,
+      "file_name": "A Makeover for Taliesin - Yellow Sclera-94293-1-1687711357.zip",
+      "mod_id": 94293,
+      "hash": "sha256-uXMLqN8Yvz7xpzyk0G1hW0UgBRqiePeLg0xtuzVZ/HE="
+    }
+  },
+  "A Makeover for Taliesin": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.3",
+      "file_id": 487033,
+      "file_name": "A Makeover for Taliesin-94293-1-3-1712124375.zip",
+      "mod_id": 94293,
+      "hash": "sha256-4+xFLznBSaGabcnXLWGFg3R0GgwwurDmH5FBez0N4es="
+    },
+    "type": "primary"
+  },
+  "A Makeover for Taliesin - SOS Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1",
+      "file_id": 487034,
+      "file_name": "A Makeover for Taliesin - SOS Patch-94293-1-1712124464.zip",
+      "mod_id": 94293,
+      "hash": "sha256-MKHw9TdeMe9ORN+0B9HkcO/Wvs5DC5vNlf/cXHrY/io="
+    }
+  }
+}

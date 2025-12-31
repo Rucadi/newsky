@@ -1,0 +1,23 @@
+{
+  "Nibenay Trout Replacer": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0.0",
+      "file_id": 686059,
+      "file_name": "Nibenay Trout Replacer-152152-1-0-0-1762778400.zip",
+      "mod_id": 152152,
+      "hash": "sha256-qri2aJ6N8PDAqwlXQAey8GUogik6fbrCd0nknHXXMr4="
+    }
+  },
+  "Bruma Fishing Extension": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1.0",
+      "file_id": 692485,
+      "file_name": "Bruma Fishing Extension-152152-1-1-0-1764421548.zip",
+      "mod_id": 152152,
+      "hash": "sha256-I4hnXCBjOQa9FW6hAdov06Bu5XkmE+Osc4M8QUWr87c="
+    },
+    "type": "primary"
+  }
+}

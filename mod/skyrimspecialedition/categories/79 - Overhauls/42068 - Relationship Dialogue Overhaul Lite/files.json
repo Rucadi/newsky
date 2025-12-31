@@ -1,0 +1,33 @@
+{
+  "Improved Follower Dialogue - Lydia RDO Lite Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 179123,
+      "file_name": "Improved Follower Dialogue - Lydia RDO Lite Patch-42068-1-0-1610470291.7z",
+      "mod_id": 42068,
+      "hash": "sha256-fiDnraTuS5p5IqVQrTz/jOjTOsiCPZaITIeuIGcj8dk="
+    }
+  },
+  "AI overhaul Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 630711,
+      "file_name": "AI overhaul Patch-42068-1-0-1748106435.7z",
+      "mod_id": 42068,
+      "hash": "sha256-8I8iR9VQHVuGvlv5q6aCrA2Ns2rucK8Al/LAasAj9ic="
+    }
+  },
+  "Relationship Dialogue Overhaul Lite": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.69SE",
+      "file_id": 650221,
+      "file_name": "Relationship Dialogue Overhaul Lite-42068-1-69SE-1753500269.7z",
+      "mod_id": 42068,
+      "hash": "sha256-1Bt/XeTh+xFpP/nvFOqX9gzFUd7qjA5pZ0eOReDPx40="
+    },
+    "type": "primary"
+  }
+}

@@ -1,0 +1,84 @@
+{
+  "Haugbui - Extra Smithing": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "4.0",
+      "file_id": 239522,
+      "file_name": "Haugbui - Extra Smithing-26188-4-0-1636248038.7z",
+      "mod_id": 26188,
+      "hash": "sha256-J3cuDZa4TlYoTK+CFV1YbRxpJLosRuIWm7SMBwAo+P8="
+    },
+    "type": "primary"
+  },
+  "Haugbui - WACCF Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "4.0",
+      "file_id": 239525,
+      "file_name": "Haugbui - WACCF Patch-26188-4-0-1636248132.7z",
+      "mod_id": 26188,
+      "hash": "sha256-sG8su6j4nfw2MmzoMrbdJTMWdwU8USvZbUQxKXvXAr0="
+    }
+  },
+  "Haugbui - Ancient Nord Armo(u)ry EXTREME Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "4.0",
+      "file_id": 239526,
+      "file_name": "Haugbui - Ancient Nord Armo(u)ry EXTREME Patch-26188-4-0-1636248177.7z",
+      "mod_id": 26188,
+      "hash": "sha256-APbLWD1GLeLfjeaM3wN2o/LVmAhejjCFWiTg5E/2/VY="
+    }
+  },
+  "Haugbui - CC Fishing Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "4.0",
+      "file_id": 252867,
+      "file_name": "Haugbui - CC Fishing Patch-26188-4-0-1640964873.7z",
+      "mod_id": 26188,
+      "hash": "sha256-lvmS0l6fSIompuGMDLogm3UpZhFU6MZgcF7Wfx3/l/I="
+    }
+  },
+  "Haugbui - Cannibal Draugr Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "4.1",
+      "file_id": 254224,
+      "file_name": "Haugbui - Cannibal Draugr Patch-26188-4-1-1641418160.7z",
+      "mod_id": 26188,
+      "hash": "sha256-8VfTqbvxzo+1Z+lxmmtKeVxI6muzlm2HnlfyzbSU8yw="
+    }
+  },
+  "Haugbui - Legacy of the Dragonborn Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "4.1-DBM.2",
+      "file_id": 288148,
+      "file_name": "Haugbui - Legacy of the Dragonborn Patch-26188-4-1-DBM-2-1654112186.7z",
+      "mod_id": 26188,
+      "hash": "sha256-C6kILjedbwRvob8z5IbSxv2BfDnebs2F79gNaIpeHeI="
+    }
+  },
+  "Haugbui - A Draugr Overhaul": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "4.2",
+      "file_id": 300733,
+      "file_name": "Haugbui - A Draugr Overhaul-26188-4-2-1658357708.7z",
+      "mod_id": 26188,
+      "hash": "sha256-uwDJapytfZ7h4H5nl33skkV/N9yfoMX8WMGSke3k4gk="
+    },
+    "type": "primary"
+  },
+  "Haugbui - SimonRim Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "4.3",
+      "file_id": 328414,
+      "file_name": "Haugbui - SimonRim Patch-26188-4-3-1667401176.7z",
+      "mod_id": 26188,
+      "hash": "sha256-yVGkAcjAMVgfeflOeGAvPkJoYUWnvkBKdtqrfGzr7ZM="
+    }
+  }
+}

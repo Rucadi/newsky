@@ -1,0 +1,33 @@
+{
+  "Interesting NPCs Reimagined": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.4",
+      "file_id": 291493,
+      "file_name": "Interesting NPCs Reimagined-61669-1-4-1655356713.zip",
+      "mod_id": 61669,
+      "hash": "sha256-gDy7WM1rXkD73mGnEdKT0kFQKXbV1DbDVI2/D4OdAzE="
+    },
+    "type": "primary"
+  },
+  "1K FaceTints": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.4",
+      "file_id": 291495,
+      "file_name": "1K FaceTints-61669-1-4-1655357253.zip",
+      "mod_id": 61669,
+      "hash": "sha256-tFokFLtQyoIvliqvvPrg1ebDWE5TCe02kBG5nIKC9TQ="
+    }
+  },
+  "VR Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.4",
+      "file_id": 291496,
+      "file_name": "VR Patch-61669-1-4-1655358180.zip",
+      "mod_id": 61669,
+      "hash": "sha256-e8Y43/dW6rWeKWkVMZZJz+kKTSSo5LTeyC86xSWsRE0="
+    }
+  }
+}

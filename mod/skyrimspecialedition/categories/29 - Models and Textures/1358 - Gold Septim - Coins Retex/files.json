@@ -1,0 +1,23 @@
+{
+  "Septim Gold Coins HD": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1",
+      "file_id": 1379,
+      "file_name": "Septim Gold Coins HD-1358-1.zip",
+      "mod_id": 1358,
+      "hash": "sha256-9i+PIev2dyMI45LuqIcrDDA8Hms4/pkQozqUEqExosc="
+    },
+    "type": "primary"
+  },
+  "Septim Gold Coins Lq": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1",
+      "file_id": 1386,
+      "file_name": "Septim Gold Coins Lq-1358-1.zip",
+      "mod_id": 1358,
+      "hash": "sha256-/V320EGiSa/XFQQ3fjKBdclqvxUa2tVpvPt7SqWSvq4="
+    }
+  }
+}

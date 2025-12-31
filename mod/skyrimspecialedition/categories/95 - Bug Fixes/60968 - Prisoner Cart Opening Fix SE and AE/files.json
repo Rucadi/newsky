@@ -1,0 +1,53 @@
+{
+  "Prisoner Cart Opening Fix - Vanilla": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1",
+      "file_id": 252758,
+      "file_name": "Prisoner Cart Opening Fix - Vanilla-60968-1-1-1640902280.7z",
+      "mod_id": 60968,
+      "hash": "sha256-mc9oH9p9AAt+VRPXXeoqpZI1pAO3K0brKQzcWathktE="
+    },
+    "type": "primary"
+  },
+  "Prisoner Cart Opening Fix - SMIM 2.08 Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1",
+      "file_id": 252759,
+      "file_name": "Prisoner Cart Opening Fix - SMIM-60968-1-1-1640902364.7z",
+      "mod_id": 60968,
+      "hash": "sha256-vbiQCPRJIK8bjZvVYkBZu2vpJ1LljnbGkSJt2Ojr63o="
+    }
+  },
+  "Prisoner Cart Opening Fix - MMTT 1.0 Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1",
+      "file_id": 252764,
+      "file_name": "Prisoner Cart Opening Fix - MMTT-60968-1-1-1640902694.7z",
+      "mod_id": 60968,
+      "hash": "sha256-roAhbi9sOezHiAADihIEu8naU6Nw6gxWCS5wKS26pWg="
+    }
+  },
+  "Prisoner Cart Opening Fix - Carriages HD UHD 1.3 Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.2",
+      "file_id": 252964,
+      "file_name": "Prisoner Cart Opening Fix - Carriages HD UHD 1.3 Patch-60968-1-1-1640986385.7z",
+      "mod_id": 60968,
+      "hash": "sha256-blq0L/QtsuvKAjssSwSxXZ98R2Ta0Tk0JbB/Cdfuwvw="
+    }
+  },
+  "Prisoner Cart Opening Fix - Ruins Clutter Improved 3.2a Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.2",
+      "file_id": 252968,
+      "file_name": "Prisoner Cart Opening Fix - Ruins Clutter Improved 3.2a Patch-60968-1-2-1640986783.7z",
+      "mod_id": 60968,
+      "hash": "sha256-R1nR/AjO2udBvHkRvCw8gAJzojEHW52mGg8Pf21v5CY="
+    }
+  }
+}

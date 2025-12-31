@@ -1,0 +1,43 @@
+{
+  "Instant page turn animations": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1",
+      "file_id": 205340,
+      "file_name": "Instant page turn animations-50202-1-0-1621868852.zip",
+      "mod_id": 50202,
+      "hash": "sha256-1J8c9UaqZT2S2QNTLd1X3BVWlQKKq17d1aR6aTAeGAc="
+    }
+  },
+  "Convenient Reading": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1",
+      "file_id": 205659,
+      "file_name": "Convenient Reading-50202-1-1-1622046204.zip",
+      "mod_id": 50202,
+      "hash": "sha256-fo5XuiHyJHEGN9RvkqdvnPQhI+9AJWT1KemkaVpnUMU="
+    },
+    "type": "primary"
+  },
+  "Darker book text": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1",
+      "file_id": 205660,
+      "file_name": "Darker book text-50202-1-1-1622046229.zip",
+      "mod_id": 50202,
+      "hash": "sha256-IDOv9/YqW1zCiCzXca3TX39r4IgQWf2XlmtshnI4AZQ="
+    }
+  },
+  "Font Overhaul Compatibility Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1",
+      "file_id": 251815,
+      "file_name": "Font Overhaul Compatibility Patch-50202-1-1-1640504692.zip",
+      "mod_id": 50202,
+      "hash": "sha256-HIvggvoFskyN04vHCNa7+UfvnKE+GbU47zOD8pEmHZ0="
+    }
+  }
+}

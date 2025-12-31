@@ -1,0 +1,53 @@
+{
+  "Snazzy Upper Wardrobes - Base Object Swapper": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.2",
+      "file_id": 587389,
+      "file_name": "Snazzy Upper Wardrobes - Base Object Swapper-92752-1-2-1737839332.7z",
+      "mod_id": 92752,
+      "hash": "sha256-rlVlHbnX4I6HiYeOid4fw7tVx3pizV98oF0p2CqR+Ls="
+    },
+    "type": "primary"
+  },
+  "HQ Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.2",
+      "file_id": 587390,
+      "file_name": "HQ Patch-92752-1-2-1737839514.7z",
+      "mod_id": 92752,
+      "hash": "sha256-xn3BZ2K3f4wFoVUjE+qFNqFdOupTuPh16yL7bsIN+z0="
+    }
+  },
+  "Rally's Upper Furniture Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.2",
+      "file_id": 587391,
+      "file_name": "Rally's Upper Furniture Patch-92752-1-2-1737839566.7z",
+      "mod_id": 92752,
+      "hash": "sha256-4HvD/zPZp/F4Hx8sQJ4fF0OjU1hkEwUVIhcfZGHChxY="
+    }
+  },
+  "Rally's Upper Furniture - HQ Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.2",
+      "file_id": 587392,
+      "file_name": "Rally's Upper Furniture - HQ Patch-92752-1-2-1737839634.7z",
+      "mod_id": 92752,
+      "hash": "sha256-TUL/UAEmi0B5twaCtEZLuve0vsTqjSnN0bvJCqkFGbM="
+    }
+  },
+  "WACCF Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.2",
+      "file_id": 587393,
+      "file_name": "WACCF Patch-92752-1-2-1737839671.7z",
+      "mod_id": 92752,
+      "hash": "sha256-4E941qyY/f9ViLmjUjHvGhXKqT9r5L0dFJk84XkCvK4="
+    }
+  }
+}

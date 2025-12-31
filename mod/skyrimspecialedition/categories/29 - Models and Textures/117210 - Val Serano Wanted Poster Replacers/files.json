@@ -1,0 +1,57 @@
+{
+  "Val Serano Wanted Poster - Eeekie's Val": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1",
+      "file_id": 492789,
+      "file_name": "Val Serano Wanted Poster - Eeekie's Val-117210-1-1713594543.zip",
+      "mod_id": 117210,
+      "hash": "sha256-/h/TpMgWDLqzs9y+PFkQ0jCvsTQ6Rr//EazQF/0hKks="
+    },
+    "type": "primary"
+  },
+  "Val Serano Wanted Poster - Faye's Val": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1",
+      "file_id": 492790,
+      "file_name": "Val Serano Wanted Poster - Faye's Val-117210-1-1713594570.zip",
+      "mod_id": 117210,
+      "hash": "sha256-67c1mOt2nFlXENjq17VoB8D3ei6X/GeD33Sjqa1eWQw="
+    },
+    "type": "primary"
+  },
+  "Val Serano Wanted Poster - Hayd's Val": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1",
+      "file_id": 492791,
+      "file_name": "Val Serano Wanted Poster - Hayd's Val-117210-1-1713594621.zip",
+      "mod_id": 117210,
+      "hash": "sha256-jQ/PE+5xLvlUm//hf4lddcPPVS56j6mv9mqBQe3RRjA="
+    },
+    "type": "primary"
+  },
+  "Val Soprano Wanted Poster - AnnAccident's Val": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1",
+      "file_id": 518452,
+      "file_name": "Val Soprano Wanted Poster - AnnAccident's Val-117210-1-1720326795.zip",
+      "mod_id": 117210,
+      "hash": "sha256-hGbn1EjN3VjkmBFrdDB4DDXdTg3BPPgu4wVTW2hdlHA="
+    },
+    "type": "primary"
+  },
+  "Val Serano Wanted Poster - DementedLulu's Val": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1",
+      "file_id": 518454,
+      "file_name": "Val Serano Wanted Poster - DementedLulu's Val-117210-1-1720328196.zip",
+      "mod_id": 117210,
+      "hash": "sha256-Ci7RUSI9mQda1/G+trUINSmGi7Ly9whb1ynNma/6DCU="
+    },
+    "type": "primary"
+  }
+}

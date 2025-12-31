@@ -1,0 +1,145 @@
+{
+  "COTN - Falkreath Retexture and Consistency": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 671590,
+      "file_name": "COTN - Falkreath Retexture and Consistency - Meshe-160495-1-0-1759431838.7z",
+      "mod_id": 160495,
+      "hash": "sha256-+Zkvo7PY1RN89Nt3D6vczLRiLsR2gtxw1w4IRghRhOg="
+    },
+    "type": "primary"
+  },
+  "COTN - Morthal": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 671665,
+      "file_name": "COTN - Morthal-160495-1-0-1759447637.7z",
+      "mod_id": 160495,
+      "hash": "sha256-Nu4wtM/8g/mcz6ZfvbFoRzmNWfkU/vkmxPUqdlXZEis="
+    },
+    "type": "primary"
+  },
+  "Windhelm Bridge Revived - Icy Windhelm": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 671984,
+      "file_name": "Windhelm Bridge Revived - Icy Windhelm-160495-1-0-1759532900.zip",
+      "mod_id": 160495,
+      "hash": "sha256-1JKDdNuEmKLkhwtwrxfEps9KAZvjCh94pJhY/BagKqM="
+    },
+    "type": "primary"
+  },
+  "Vanilla Riften Meshes Optimized": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 672043,
+      "file_name": "Vanilla Riften Meshes Optimized-160495-1-0-1759549213.7z",
+      "mod_id": 160495,
+      "hash": "sha256-lduKjDSgABYzsreUYcY1kb7s3r6cbYoF7F+rYZicwVU="
+    },
+    "type": "primary"
+  },
+  "Valhalla Bridges - Fixed and Optimized Meshes": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 672571,
+      "file_name": "Valhalla Bridges - Fixed and Optimized Meshes-160495-1-0-1759675801.7z",
+      "mod_id": 160495,
+      "hash": "sha256-kJMgmN6kyFCyxPkjbH7Rh/NM16ztor57sSba0buQMpI="
+    },
+    "type": "primary"
+  },
+  "Diverse Witcher Missives Boards Optimized Meshes": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 676635,
+      "file_name": "Diverse Witcher Missives Boards Optimized Meshes-160495-1-0-1760623778.7z",
+      "mod_id": 160495,
+      "hash": "sha256-snjI/S4gskeEhW/hp0dMOfvA+0VDgFdZyGxDbgtxwnY="
+    },
+    "type": "primary"
+  },
+  "Windhelm Bridge Revived - Optimized Meshes": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 676706,
+      "file_name": "Windhelm Bridge Revived - Optimized Meshes-160495-1-0-1760642288.7z",
+      "mod_id": 160495,
+      "hash": "sha256-FrGRJVd3wxBwLrZkKRBtHZRZ+bxD8fw5ULzzJERsAs4="
+    },
+    "type": "primary"
+  },
+  "Northern Roads - Optimized Meshes": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0.3",
+      "file_id": 676823,
+      "file_name": "Northern Roads - Optimized Meshes-160495-1-0-3-1760665210.7z",
+      "mod_id": 160495,
+      "hash": "sha256-Rl0l1AEU4uFmCuM1D82ERajQmqeYFVdV/Xrf5h9cgu4="
+    },
+    "type": "primary"
+  },
+  "COTN - Dawnstar": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 677439,
+      "file_name": "COTN - Dawnstar-160495-1-0-1760810768.7z",
+      "mod_id": 160495,
+      "hash": "sha256-9kdeSXVpcCXN1Yc9UpxeXPaRfvOv5MACVWUeVyfvTTA="
+    },
+    "type": "primary"
+  },
+  "Medieval Markets - Optimized Meshes": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 678306,
+      "file_name": "Medieval Markets - Optimized Meshes-160495-1-0-1760926653.7z",
+      "mod_id": 160495,
+      "hash": "sha256-5t2ELwbEnHwm4IqH5FeJ2asNmpFdoORu7pxk4Rrx5Hs="
+    },
+    "type": "primary"
+  },
+  "COTN - Falkreath": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 679628,
+      "file_name": "COTN - Falkreath-160495-1-0-1761254405.7z",
+      "mod_id": 160495,
+      "hash": "sha256-zChEF67s9rQfFFB1s1ffcpitA/lPIo9Zk7QVudhjHZY="
+    },
+    "type": "primary"
+  },
+  "Capital Whiterun Expansion": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0Capital",
+      "file_id": 687401,
+      "file_name": "Capital Whiterun Expansion - Meshes Optimization P-160495-1-0Capital-1763138855.7z",
+      "mod_id": 160495,
+      "hash": "sha256-tGteIhsrfmj1JBFeJ4raXraetRvVbaD3InvhCKUTw08="
+    },
+    "type": "primary"
+  },
+  "Publican's Perch - Meshes Optimization Project": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0PublicanPerch",
+      "file_id": 700126,
+      "file_name": "Publican's Perch - Meshes Optimization Project-160495-1-0PublicanPerch-1766265252.7z",
+      "mod_id": 160495,
+      "hash": "sha256-+5cC10aM2ZG0uOpi/SUjL8Ddl85/l45T1FEi0sYVpB0="
+    },
+    "type": "primary"
+  }
+}
