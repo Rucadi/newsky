@@ -1,0 +1,23 @@
+{
+  "MOLES - Racemenu Overlay Collection": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0.1",
+      "file_id": 548107,
+      "file_name": "MOLES - Racemenu Overlay Collection-89299-1-0-1-1727803951.zip",
+      "mod_id": 89299,
+      "hash": "sha256-bG6PmJBWxGIWmbrqR0odBBZBhuqYAa9lB+QaFYWBssU="
+    },
+    "type": "primary"
+  },
+  "MOLES - Picky Expansion Pack": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0.1-EX",
+      "file_id": 548108,
+      "file_name": "MOLES - Picky Expansion Pack-89299-1-0-1-EX-1727803997.zip",
+      "mod_id": 89299,
+      "hash": "sha256-p9KyYU6fb2CkzTxQY7MfoHPyqLmf8w/y0cpgCz5r/3w="
+    }
+  }
+}

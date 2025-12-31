@@ -1,0 +1,24 @@
+{
+  "shadowman_taarie": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1",
+      "file_id": 402623,
+      "file_name": "shadowman_taarie-94734-1-1688170253.rar",
+      "mod_id": 94734,
+      "hash": "sha256-Qy+w4+G1mKphGaJWnNn4vWlfq0ys2wgzuMWRzXl7aPc="
+    },
+    "type": "primary"
+  },
+  "shadowman_taarie_fg": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1",
+      "file_id": 402624,
+      "file_name": "shadowman_taarie_fg-94734-1-1688170477.rar",
+      "mod_id": 94734,
+      "hash": "sha256-GP0FHTOnU4GJJD6iMZiF8qM+kt3QX/8jSgvDXb1sQO8="
+    },
+    "type": "primary"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "Shooting Stars SkyUI Fix": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0.0",
+      "file_id": 403582,
+      "file_name": "Shooting Stars SkyUI Fix-94972-1-0-0-1688441337.zip",
+      "mod_id": 94972,
+      "hash": "sha256-vCGQeJkYxPMLtmmMj5apiLXcIovLbUwhR3oPIulAVjA="
+    }
+  },
+  "Shooting Stars SE - Settings Loader": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0.1",
+      "file_id": 419081,
+      "file_name": "Shooting Stars SE - Settings Loader-94972-1-0-1-1692560540.zip",
+      "mod_id": 94972,
+      "hash": "sha256-NRZVg2oHOni5SAv1Wdb2pNNLuMpqdfw0yzjpBkfAbw4="
+    },
+    "type": "primary"
+  }
+}

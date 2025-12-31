@@ -1,0 +1,23 @@
+{
+  "Gourmet - EAS Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 416429,
+      "file_name": "Gourmet - Eating Animations and Sounds Patch-98185-1-0-1691858750.7z",
+      "mod_id": 98185,
+      "hash": "sha256-wa2qlK35ULFIhoz0V8Mk7DKXtaeex/rGKvThPYfzdFE="
+    }
+  },
+  "Gourmet - Eating Animations and Sounds Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "2.2",
+      "file_id": 434829,
+      "file_name": "Gourmet - Eating Animations and Sounds Patch-98185-2-2-1697574158.zip",
+      "mod_id": 98185,
+      "hash": "sha256-+QydAQW/eC4IwZLrc6YvIdkIBpdrfarO0I3eXbGS+3g="
+    },
+    "type": "primary"
+  }
+}

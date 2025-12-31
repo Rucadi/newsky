@@ -1,0 +1,24 @@
+{
+  "Even More Brows COtR": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1",
+      "file_id": 406615,
+      "file_name": "Even More Brows COtR-87305-1-1-1689244364.7z",
+      "mod_id": 87305,
+      "hash": "sha256-Lz2C6Jw8wRW6kSYR6LT4nLOpPkJ3kbYXDoNCdf+uSvs="
+    },
+    "type": "primary"
+  },
+  "Even More Brows HPH": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1",
+      "file_id": 406616,
+      "file_name": "Even More Brows HPH-87305-1-1-1689244489.7z",
+      "mod_id": 87305,
+      "hash": "sha256-Nyu2jDeXpJSAst8GOysu9QUOmBaPp0s6v9ugczF1gIc="
+    },
+    "type": "primary"
+  }
+}

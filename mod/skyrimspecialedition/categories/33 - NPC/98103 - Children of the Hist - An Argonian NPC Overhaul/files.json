@@ -1,164 +1,164 @@
 {
-    "CotH - USSEP Patch": {
-        "nexusmods": {
-            "game_name": "skyrimspecialedition",
-            "version": "2.0",
-            "file_id": 680638,
-            "file_name": "CotH - USSEP Patch-98103-2-0-1761492082.7z",
-            "mod_id": 98103,
-            "hash": "sha256-cM2621WwwRTFoXrFo3K/WYqQyODSI7IPB01Ho8laiTc="
-        }
-    },
-    "CotH - 1k Shared Textures": {
-        "nexusmods": {
-            "game_name": "skyrimspecialedition",
-            "version": "2.0",
-            "file_id": 680640,
-            "file_name": "CotH - 1k Shared Textures-98103-2-0-1761492249.7z",
-            "mod_id": 98103,
-            "hash": "sha256-IPXs9BbJ2e+BJ8HcEcbTojdRAf9q1gZWXA0ZRyg/jUY="
-        }
-    },
-    "CotH - CBBE 1k": {
-        "nexusmods": {
-            "game_name": "skyrimspecialedition",
-            "version": "2.0",
-            "file_id": 680642,
-            "file_name": "CotH - CBBE 1k-98103-2-0-1761492298.7z",
-            "mod_id": 98103,
-            "hash": "sha256-lM6tAWquJRT1tk6nfN8oBEjSwwhMw0NOS4bECYcM20g="
-        }
-    },
-    "CotH - CBBE 2k": {
-        "nexusmods": {
-            "game_name": "skyrimspecialedition",
-            "version": "2.0",
-            "file_id": 680643,
-            "file_name": "CotH - CBBE 2k-98103-2-0-1761492341.7z",
-            "mod_id": 98103,
-            "hash": "sha256-SvJlTiH4ZDoayVsMlQ0rgIoiimucJwcT1yVWfS+Am70="
-        }
-    },
-    "CotH - CBBE 4k": {
-        "nexusmods": {
-            "game_name": "skyrimspecialedition",
-            "version": "2.0",
-            "file_id": 680644,
-            "file_name": "CotH - CBBE 4k-98103-2-0-1761492374.7z",
-            "mod_id": 98103,
-            "hash": "sha256-kghEBkRX+LDO/LvMdQeRMXjOjgHqn84MijgRL5WK70I="
-        }
-    },
-    "CotH - SoS-HIMBO 1k": {
-        "nexusmods": {
-            "game_name": "skyrimspecialedition",
-            "version": "2.0",
-            "file_id": 680645,
-            "file_name": "CotH - SoS-HIMBO 1k-98103-2-0-1761492442.7z",
-            "mod_id": 98103,
-            "hash": "sha256-9LFZi8YO23syG2pD5blPluA87XVATXrJ5IMPnaEbssA="
-        }
-    },
-    "CotH - SoS-HIMBO 2k": {
-        "nexusmods": {
-            "game_name": "skyrimspecialedition",
-            "version": "2.0",
-            "file_id": 680646,
-            "file_name": "CotH - SoS-HIMBO 2k-98103-2-0-1761492497.7z",
-            "mod_id": 98103,
-            "hash": "sha256-pQEs4Fyg24I+QnvldJKuMpDG3neNZdD1U52o6ls5v3o="
-        }
-    },
-    "CotH - SoS-HIMBO 4k": {
-        "nexusmods": {
-            "game_name": "skyrimspecialedition",
-            "version": "2.0",
-            "file_id": 680647,
-            "file_name": "CotH - SoS-HIMBO 4k-98103-2-0-1761492562.7z",
-            "mod_id": 98103,
-            "hash": "sha256-R9I4utk8JKvxoBvOMnszfs5HCWVOyZKyCSt6m9HERhw="
-        }
-    },
-    "CotH - Vanilla Bodies 1k": {
-        "nexusmods": {
-            "game_name": "skyrimspecialedition",
-            "version": "2.0",
-            "file_id": 680648,
-            "file_name": "CotH - Vanilla Bodies 1k-98103-2-0-1761492614.7z",
-            "mod_id": 98103,
-            "hash": "sha256-YSGP0GvytigCkZ53a32mXXTiUhjmdWulYoHJN/74dBA="
-        }
-    },
-    "CotH - Vanilla Bodies 2k": {
-        "nexusmods": {
-            "game_name": "skyrimspecialedition",
-            "version": "2.0",
-            "file_id": 680649,
-            "file_name": "CotH - Vanilla Bodies 2k-98103-2-0-1761492673.7z",
-            "mod_id": 98103,
-            "hash": "sha256-3DDFKoBMjBNzxMa1Xfp+A0isXhEoy2di66t5Hqpkx1M="
-        }
-    },
-    "CotH - AI Overhaul Patch": {
-        "nexusmods": {
-            "game_name": "skyrimspecialedition",
-            "version": "2.0",
-            "file_id": 681182,
-            "file_name": "CotH - AI Overhaul Main Version Patch-98103-2-0-1761620967.7z",
-            "mod_id": 98103,
-            "hash": "sha256-C3huE8TMjm9onrs6bTArAq7CyU9pnvNYMUOptQVYGfc="
-        }
-    },
-    "CotH - AI Overhaul Scripted Patch": {
-        "nexusmods": {
-            "game_name": "skyrimspecialedition",
-            "version": "2.0",
-            "file_id": 681183,
-            "file_name": "CotH - AI Overhaul Scripted Patch-98103-2-0-1761621001.7z",
-            "mod_id": 98103,
-            "hash": "sha256-4Gaf9cVt7Qqgc9/KcJNFlPIemMiAJj43jXY+fXPPkDg="
-        }
-    },
-    "CotH - SkyPatcher Fishing CC Addon": {
-        "nexusmods": {
-            "game_name": "skyrimspecialedition",
-            "version": "2.01",
-            "file_id": 687038,
-            "file_name": "CotH - SkyPatcher Fishing CC Addon-98103-2-01-1763044819.7z",
-            "mod_id": 98103,
-            "hash": "sha256-qegoJUI+3wB5S2jNKawo61jv55rzMou0HG1Ljx1+/Y4="
-        }
-    },
-    "CotH - Fishing CC Addon": {
-        "nexusmods": {
-            "game_name": "skyrimspecialedition",
-            "version": "2.01",
-            "file_id": 687039,
-            "file_name": "CotH - Fishing CC Addon-98103-2-01-1763044853.7z",
-            "mod_id": 98103,
-            "hash": "sha256-At0RynOfVxAel+nqgaq8mL9myQyeouwzONOTyBRAz3Q="
-        }
-    },
-    "Children of the Hist": {
-        "nexusmods": {
-            "game_name": "skyrimspecialedition",
-            "version": "2.02",
-            "file_id": 694667,
-            "file_name": "Children of the Hist-98103-2-02-1764948576.7z",
-            "mod_id": 98103,
-            "hash": "sha256-KQxK6U1cpjEVGbiu6gDTM5aPq/ekSDGMLGosj4C6TCY="
-        },
-        "type": "primary"
-    },
-    "SkyPatcher - Children of the Hist": {
-        "nexusmods": {
-            "game_name": "skyrimspecialedition",
-            "version": "2.02",
-            "file_id": 694668,
-            "file_name": "SkyPatcher - Children of the Hist-98103-2-02-1764948624.7z",
-            "mod_id": 98103,
-            "hash": "sha256-LmzURFBMdEsM0XPE6QhqC/WyTvOwmm930k+qXhyIfhs="
-        },
-        "type": "primary"
+  "CotH - USSEP Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "2.0",
+      "file_id": 680638,
+      "file_name": "CotH - USSEP Patch-98103-2-0-1761492082.7z",
+      "mod_id": 98103,
+      "hash": "sha256-cM2621WwwRTFoXrFo3K/WYqQyODSI7IPB01Ho8laiTc="
     }
+  },
+  "CotH - 1k Shared Textures": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "2.0",
+      "file_id": 680640,
+      "file_name": "CotH - 1k Shared Textures-98103-2-0-1761492249.7z",
+      "mod_id": 98103,
+      "hash": "sha256-IPXs9BbJ2e+BJ8HcEcbTojdRAf9q1gZWXA0ZRyg/jUY="
+    }
+  },
+  "CotH - CBBE 1k": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "2.0",
+      "file_id": 680642,
+      "file_name": "CotH - CBBE 1k-98103-2-0-1761492298.7z",
+      "mod_id": 98103,
+      "hash": "sha256-lM6tAWquJRT1tk6nfN8oBEjSwwhMw0NOS4bECYcM20g="
+    }
+  },
+  "CotH - CBBE 2k": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "2.0",
+      "file_id": 680643,
+      "file_name": "CotH - CBBE 2k-98103-2-0-1761492341.7z",
+      "mod_id": 98103,
+      "hash": "sha256-SvJlTiH4ZDoayVsMlQ0rgIoiimucJwcT1yVWfS+Am70="
+    }
+  },
+  "CotH - CBBE 4k": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "2.0",
+      "file_id": 680644,
+      "file_name": "CotH - CBBE 4k-98103-2-0-1761492374.7z",
+      "mod_id": 98103,
+      "hash": "sha256-kghEBkRX+LDO/LvMdQeRMXjOjgHqn84MijgRL5WK70I="
+    }
+  },
+  "CotH - SoS-HIMBO 1k": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "2.0",
+      "file_id": 680645,
+      "file_name": "CotH - SoS-HIMBO 1k-98103-2-0-1761492442.7z",
+      "mod_id": 98103,
+      "hash": "sha256-9LFZi8YO23syG2pD5blPluA87XVATXrJ5IMPnaEbssA="
+    }
+  },
+  "CotH - SoS-HIMBO 2k": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "2.0",
+      "file_id": 680646,
+      "file_name": "CotH - SoS-HIMBO 2k-98103-2-0-1761492497.7z",
+      "mod_id": 98103,
+      "hash": "sha256-pQEs4Fyg24I+QnvldJKuMpDG3neNZdD1U52o6ls5v3o="
+    }
+  },
+  "CotH - SoS-HIMBO 4k": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "2.0",
+      "file_id": 680647,
+      "file_name": "CotH - SoS-HIMBO 4k-98103-2-0-1761492562.7z",
+      "mod_id": 98103,
+      "hash": "sha256-R9I4utk8JKvxoBvOMnszfs5HCWVOyZKyCSt6m9HERhw="
+    }
+  },
+  "CotH - Vanilla Bodies 1k": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "2.0",
+      "file_id": 680648,
+      "file_name": "CotH - Vanilla Bodies 1k-98103-2-0-1761492614.7z",
+      "mod_id": 98103,
+      "hash": "sha256-YSGP0GvytigCkZ53a32mXXTiUhjmdWulYoHJN/74dBA="
+    }
+  },
+  "CotH - Vanilla Bodies 2k": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "2.0",
+      "file_id": 680649,
+      "file_name": "CotH - Vanilla Bodies 2k-98103-2-0-1761492673.7z",
+      "mod_id": 98103,
+      "hash": "sha256-3DDFKoBMjBNzxMa1Xfp+A0isXhEoy2di66t5Hqpkx1M="
+    }
+  },
+  "CotH - AI Overhaul Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "2.0",
+      "file_id": 681182,
+      "file_name": "CotH - AI Overhaul Main Version Patch-98103-2-0-1761620967.7z",
+      "mod_id": 98103,
+      "hash": "sha256-C3huE8TMjm9onrs6bTArAq7CyU9pnvNYMUOptQVYGfc="
+    }
+  },
+  "CotH - AI Overhaul Scripted Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "2.0",
+      "file_id": 681183,
+      "file_name": "CotH - AI Overhaul Scripted Patch-98103-2-0-1761621001.7z",
+      "mod_id": 98103,
+      "hash": "sha256-4Gaf9cVt7Qqgc9/KcJNFlPIemMiAJj43jXY+fXPPkDg="
+    }
+  },
+  "CotH - SkyPatcher Fishing CC Addon": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "2.01",
+      "file_id": 687038,
+      "file_name": "CotH - SkyPatcher Fishing CC Addon-98103-2-01-1763044819.7z",
+      "mod_id": 98103,
+      "hash": "sha256-qegoJUI+3wB5S2jNKawo61jv55rzMou0HG1Ljx1+/Y4="
+    }
+  },
+  "CotH - Fishing CC Addon": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "2.01",
+      "file_id": 687039,
+      "file_name": "CotH - Fishing CC Addon-98103-2-01-1763044853.7z",
+      "mod_id": 98103,
+      "hash": "sha256-At0RynOfVxAel+nqgaq8mL9myQyeouwzONOTyBRAz3Q="
+    }
+  },
+  "Children of the Hist": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "2.02",
+      "file_id": 694667,
+      "file_name": "Children of the Hist-98103-2-02-1764948576.7z",
+      "mod_id": 98103,
+      "hash": "sha256-KQxK6U1cpjEVGbiu6gDTM5aPq/ekSDGMLGosj4C6TCY="
+    },
+    "type": "primary"
+  },
+  "SkyPatcher - Children of the Hist": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "2.02",
+      "file_id": 694668,
+      "file_name": "SkyPatcher - Children of the Hist-98103-2-02-1764948624.7z",
+      "mod_id": 98103,
+      "hash": "sha256-LmzURFBMdEsM0XPE6QhqC/WyTvOwmm930k+qXhyIfhs="
+    },
+    "type": "primary"
+  }
 }

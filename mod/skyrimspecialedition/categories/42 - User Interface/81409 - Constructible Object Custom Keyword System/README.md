@@ -2,6 +2,8 @@
 - Author: Parapets
 - Game: skyrimspecialedition
 - Mod Page: https://www.nexusmods.com/skyrimspecialedition/mods/81409
+
+
 [font=Times New Roman]OVERVIEW[/font]
   
 While SkyUI made many improvements from the vanilla interface, the Constructible Object Menu left much to be desired. The vanilla menu had 31 hardcoded categories, and SkyUI replaced these with its own 7 hardcoded categories, which would become very cluttered from having too many craftable items. This mod takes some inspiration from the vanilla categories, integrating a similar keyword-based system into the SkyUI menu design, and makes this system fully customizable and extensible. This means it can better support additional crafting types introduced by Creation Club and mods, as well as provide the same UI improvements to modded crafting stations.

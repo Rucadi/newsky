@@ -1,0 +1,23 @@
+{
+  "HDT SMP beast race tail 1.3.1": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.3.1",
+      "file_id": 390919,
+      "file_name": "HDT SMP beast race tail 1.3.1-91811-1-3-1-1684773869.zip",
+      "mod_id": 91811,
+      "hash": "sha256-fJ+pgySdl5LjkdNa46PDgeKzZTWHGjMkkiYg0iyNqZ4="
+    },
+    "type": "primary"
+  },
+  "HDT SMP beast race tail_khajiit only": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 501597,
+      "file_name": "HDT SMP beast race tail_khajiit only-91811-1-0-1715833061.7z",
+      "mod_id": 91811,
+      "hash": "sha256-s6TH93h77poirtRCFIDk30z1Dc5LVYJ0+kh98SmGdUQ="
+    }
+  }
+}

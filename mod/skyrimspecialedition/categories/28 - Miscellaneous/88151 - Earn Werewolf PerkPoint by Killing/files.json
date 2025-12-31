@@ -1,0 +1,23 @@
+{
+  "Earn Werewolf PerkPoint by Killing": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "0.0.1",
+      "file_id": 373564,
+      "file_name": "Earn Werewolf PerkPoint by Killing-88151-0-0-1-1680241071.zip",
+      "mod_id": 88151,
+      "hash": "sha256-Q35dIDn9RlRMAX8ML5Zta0HKQ/qlyxBDlx2VFtbKkKM="
+    },
+    "type": "primary"
+  },
+  "No Feed to Perk Points": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "0.0.1",
+      "file_id": 373567,
+      "file_name": "No Feed to Perk Points-88151-0-0-1-1680241204.zip",
+      "mod_id": 88151,
+      "hash": "sha256-suEUNXe8BRgx+k0O+fguO1Dxp9PMC/MmHuVAwk5Xj08="
+    }
+  }
+}

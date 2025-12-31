@@ -1,0 +1,34 @@
+{
+  "Smaller Torchbugs": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 356807,
+      "file_name": "Smaller Torchbugs-84046-1-0-1675626345.7z",
+      "mod_id": 84046,
+      "hash": "sha256-RaKtDquXp1086ljkZ7dUThqwvCdrH3IKYTE0uKPIOio="
+    }
+  },
+  "Rally's Torchbugs": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.3",
+      "file_id": 425450,
+      "file_name": "Rally's Torchbugs-84046-1-3-1694610936.7z",
+      "mod_id": 84046,
+      "hash": "sha256-3HeTRvb8sMYw8reAPp9WNIl0BmIeCEJ+93ujOqWtLw4="
+    },
+    "type": "primary"
+  },
+  "Rally's Sparkling Torchbugs": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.3",
+      "file_id": 425451,
+      "file_name": "Rally's Sparkling Torchbugs-84046-1-3-1694611148.7z",
+      "mod_id": 84046,
+      "hash": "sha256-rgjdKYsO+nJQvuD0uW7yjOwAt4mn0pXh3zuX3yOE2aY="
+    },
+    "type": "primary"
+  }
+}

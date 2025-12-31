@@ -1,0 +1,35 @@
+{
+  "COCO Pandora Box - COCOBody CBBE SE": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 398623,
+      "file_name": "COCO Pandora Box - COCOBody CBBE SE-93533-1-0-1687007812.7z",
+      "mod_id": 93533,
+      "hash": "sha256-jKZwyTczlXn/VdiDRV8Dxk86Zy1XtraRH/ngESP0TQ4="
+    },
+    "type": "primary"
+  },
+  "COCO Pandora Box - COCOBody UUNP SE": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 398624,
+      "file_name": "COCO Pandora Box - COCOBody UUNP SE-93533-1-0-1687008000.7z",
+      "mod_id": 93533,
+      "hash": "sha256-XRO6gkiyjVHEXnvYrR6smUXBWPtOQOGhA0+5bmlBWIQ="
+    },
+    "type": "primary"
+  },
+  "COCO Pandora Box - CBBE 3BA": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.2",
+      "file_id": 404656,
+      "file_name": "COCO Pandora Box - CBBE 3BA-93533-1-2-1688731098.7z",
+      "mod_id": 93533,
+      "hash": "sha256-lDBS6DAaLanWUw4JJ5eBHAXBWR4C0u5Ikb6ZfntQXNk="
+    },
+    "type": "primary"
+  }
+}

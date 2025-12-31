@@ -1,0 +1,23 @@
+{
+  "Environs - Abandoned Abodes": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0.4",
+      "file_id": 532990,
+      "file_name": "Environs - Abandoned Abodes-82410-1-0-4-1724046889.7z",
+      "mod_id": 82410,
+      "hash": "sha256-UcFhir8BSAGpMEJGKjZBqfgTK84/gcl9cW7sW/rh5RQ="
+    },
+    "type": "primary"
+  },
+  "Environs - Abandoned Abodes - Patch Collection": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0.4",
+      "file_id": 532991,
+      "file_name": "Environs - Abandoned Abodes - Patch Collection-82410-1-0-4-1724046938.7z",
+      "mod_id": 82410,
+      "hash": "sha256-m6YWAluAK3NqTneqpZvJGX2jWVC6loop9Ohfm7zaYNQ="
+    }
+  }
+}

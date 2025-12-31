@@ -15,7 +15,8 @@
       "version": "16.41",
       "file_id": 556604,
       "file_name": "Cathedral - 3D Landscapes-80687-16-41-1730160308.zip",
-      "mod_id": 80687
+      "mod_id": 80687,
+      "hash": "sha256-lwM5Y3R89VvsNr1dbMtHgS/swmil7YcgAp6zecPonIo="
     },
     "type": "primary"
   },
@@ -25,7 +26,8 @@
       "version": "16.51",
       "file_id": 591954,
       "file_name": "Cathedral - 3D Grass Library - Resource Textures-80687-16-51-1738912342.zip",
-      "mod_id": 80687
+      "mod_id": 80687,
+      "hash": "sha256-MPeGJjKHUBlx5G/Tm+QrWgPD/D+/5q3kEMYSFEUUgyo="
     }
   },
   "DrJacopo's - 3D Grass Library - Meshes": {
@@ -34,7 +36,8 @@
       "version": "16.53",
       "file_id": 689307,
       "file_name": "DrJacopo's - 3D Grass Library - Meshes-80687-16-53-1763626250.zip",
-      "mod_id": 80687
+      "mod_id": 80687,
+      "hash": "sha256-UCZgb6rityzHliQtvC4/E9CiITP5r6/m4qmnHsspjGg="
     },
     "type": "primary"
   }

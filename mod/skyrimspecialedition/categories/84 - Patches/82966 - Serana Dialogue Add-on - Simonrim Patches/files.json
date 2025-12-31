@@ -1,0 +1,24 @@
+{
+  "SDA - Mysticism Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0.0",
+      "file_id": 350610,
+      "file_name": "SDA - Mysticism Patch-82966-1-0-0-1674003188.zip",
+      "mod_id": 82966,
+      "hash": "sha256-X3fB/MtofHJaFEnZekaOoQ9fHYRqypq2Rin4cMgr5qU="
+    },
+    "type": "primary"
+  },
+  "SDA - Pilgrim Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0.0",
+      "file_id": 350611,
+      "file_name": "SDA - Pilgrim Patch-82966-1-0-0-1674003202.zip",
+      "mod_id": 82966,
+      "hash": "sha256-BtPfOg3ISEd9pW5LKk+l6iCtXq9QH1n2CAO/IW+1QOc="
+    },
+    "type": "primary"
+  }
+}

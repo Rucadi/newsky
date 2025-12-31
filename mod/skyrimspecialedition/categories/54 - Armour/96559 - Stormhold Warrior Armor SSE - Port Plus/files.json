@@ -1,0 +1,53 @@
+{
+  "2k Textures - Balanced": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 410417,
+      "file_name": "2k Textures - Performance-96559-1-0-1690255512.7z",
+      "mod_id": 96559,
+      "hash": "sha256-zPWUI7vzsbPoB0YQUS4hGL1LUYQu5t6wOp6pThsibVM="
+    }
+  },
+  "1k Textures - Performance": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 410419,
+      "file_name": "1k Textures - Performance-96559-1-0-1690255547.7z",
+      "mod_id": 96559,
+      "hash": "sha256-l7Uo/uroUDXoBu5mjSUsrsHU++CVUGuDISW++J1xPSQ="
+    }
+  },
+  "Stormhold Armor - CBBE Bodyslides": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.2",
+      "file_id": 458647,
+      "file_name": "Stormhold Armor - CBBE Bodyslides-96559-1-2-1704589881.7z",
+      "mod_id": 96559,
+      "hash": "sha256-mlm3ezY5jBTKoyVqQS0H5pEx66ojlmqmt1FzYIXKaOU="
+    }
+  },
+  "Stormhold Armor - Hands Redone - CBBE Bodyslides": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.2",
+      "file_id": 458650,
+      "file_name": "Stormhold Armor - Hands Redone - CBBE Bodyslides-96559-1-2-1704590054.7z",
+      "mod_id": 96559,
+      "hash": "sha256-9XLsHhIIySici+KHR5YPrM+097ggZtViXV348UPU8tk="
+    }
+  },
+  "Stormhold Warrior Armor": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.3",
+      "file_id": 551820,
+      "file_name": "Stormhold Warrior Armor-96559-1-2-1728837352.7z",
+      "mod_id": 96559,
+      "hash": "sha256-YD++MUQHe6eyADQZ25obKeBAoS/bt5B1XFV5xEAxaiA="
+    },
+    "type": "primary"
+  }
+}

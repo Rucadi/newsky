@@ -1,0 +1,44 @@
+{
+  "shadowman_illdi_SL": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1",
+      "file_id": 383925,
+      "file_name": "shadowman_illdi_SL-90510-1-1682988197.rar",
+      "mod_id": 90510,
+      "hash": "sha256-KDfA4sl4yWsHSjlSfM3p/SbgzwNacCc7ltRyqd/8Lms="
+    },
+    "type": "primary"
+  },
+  "shadowman_illdi_FG": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1",
+      "file_id": 383926,
+      "file_name": "shadowman_illdi_FG-90510-1-1682988239.rar",
+      "mod_id": 90510,
+      "hash": "sha256-2zhx5Q6TDKb7QFwl7vOz4+90Fv8ckbnXS37zpznthbo="
+    },
+    "type": "primary"
+  },
+  "illdi no bed teleport SL": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "A",
+      "file_id": 384218,
+      "file_name": "illdi no bed teleport SL-90510-A-1683069478.rar",
+      "mod_id": 90510,
+      "hash": "sha256-Wvi/bQgoeov2PQvXZxuzKX6ZsGmIHNQ9dBVPrmW5GYA="
+    }
+  },
+  "illdi no bed teleport FG": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "A",
+      "file_id": 384219,
+      "file_name": "illdi no bed teleport FG-90510-A-1683069507.rar",
+      "mod_id": 90510,
+      "hash": "sha256-cNiPN7ml1Gt7IhzkNWGeujTdC5DmdP7hOHEWtJDU5ts="
+    }
+  }
+}

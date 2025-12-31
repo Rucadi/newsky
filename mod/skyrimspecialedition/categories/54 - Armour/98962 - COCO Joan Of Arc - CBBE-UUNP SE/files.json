@@ -1,0 +1,35 @@
+{
+  "COCO Joan Of Arc - CBBE 3BA": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 420762,
+      "file_name": "COCO Joan Of Arc - CBBE 3BA-98962-1-0-1693049884.7z",
+      "mod_id": 98962,
+      "hash": "sha256-ENFXSmxKDTHSoEmN1TpZioxX34QufmD0akEEIMzwqxM="
+    },
+    "type": "primary"
+  },
+  "COCO Joan Of Arc - COCOBody UUNP SE": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 420763,
+      "file_name": "COCO Joan Of Arc - COCOBody UUNP SE-98962-1-0-1693050005.7z",
+      "mod_id": 98962,
+      "hash": "sha256-7p4g0D5ot4cU4U/Kl2yQTYoIAHRJl2g7FnfgBCoVKrY="
+    },
+    "type": "primary"
+  },
+  "COCO Joan Of Arc - COCOBody CBBE SE": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 420876,
+      "file_name": "COCO Joan Of Arc - COCOBody CBBE SE-98962-1-0-1693073198.7z",
+      "mod_id": 98962,
+      "hash": "sha256-J8FTvIobrvmjxMxYfU5/8PRRliVJtxhQ2kr8dVAN1tk="
+    },
+    "type": "primary"
+  }
+}

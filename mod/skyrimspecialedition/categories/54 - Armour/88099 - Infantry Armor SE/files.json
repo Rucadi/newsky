@@ -1,0 +1,33 @@
+{
+  "1fsse": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1",
+      "file_id": 373351,
+      "file_name": "1fsse-88099-1-1680188261.7z",
+      "mod_id": 88099,
+      "hash": "sha256-BxCvkmPbrwl5n5CUhMtIrG3ZjAYZzhEg10ay7X4afcc="
+    },
+    "type": "primary"
+  },
+  "Half Sized Textures": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1",
+      "file_id": 373356,
+      "file_name": "Half Sized Textures-88099-1-1680189287.7z",
+      "mod_id": 88099,
+      "hash": "sha256-esoYePhoQa5phTDoK7Cov+gcN1BDfbiFowvSE2Tg+Kc="
+    }
+  },
+  "Potato Sized Textures": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1",
+      "file_id": 373357,
+      "file_name": "Potato Sized Textures-88099-1-1680189686.7z",
+      "mod_id": 88099,
+      "hash": "sha256-Cm2KrzQdYn6hEug4gII5USm3rCfow9tnA5373f1wAyo="
+    }
+  }
+}

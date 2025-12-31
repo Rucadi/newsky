@@ -1,0 +1,56 @@
+{
+  "Stand still in RaceMenu OAR motionless": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0.0",
+      "file_id": 411686,
+      "file_name": "Stand still in RaceMenu OAR motionless-96970-1-0-0-1690611960.zip",
+      "mod_id": 96970,
+      "hash": "sha256-bRXzCK/F52dDEGa1PDitmTnsEk0PIgcoJhlHFUTIqOM="
+    },
+    "type": "primary"
+  },
+  "Stand still in RaceMenu OAR vanilla idle version": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0.0",
+      "file_id": 411687,
+      "file_name": "Stand still in RaceMenu OAR vanilla idle version-96970-1-0-0-1690612113.zip",
+      "mod_id": 96970,
+      "hash": "sha256-U4iDdcLGL/ShfhCDraNX018W/8abN2OuMVu4RTNbQUw="
+    },
+    "type": "primary"
+  },
+  "Stand still in RaceMenu OAR A-pose": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0.0",
+      "file_id": 412599,
+      "file_name": "Stand still in RaceMenu OAR A-pose-96970-1-0-0-1690774922.zip",
+      "mod_id": 96970,
+      "hash": "sha256-CPuenjwax/3KsevTe8T8D1SOXrSHw/zt/VFu1AoBkF8="
+    },
+    "type": "primary"
+  },
+  "Stand still in RaceMenu OAR hands on hips": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0.0",
+      "file_id": 413683,
+      "file_name": "Stand still in RaceMenu OAR hands on hips-96970-1-0-0-1691044756.zip",
+      "mod_id": 96970,
+      "hash": "sha256-agtDAQumPpN1Nqh6Pp4qH8+DujePLyTvKxOyhzl+Ux4="
+    },
+    "type": "primary"
+  },
+  "Stand still in InventoryMenu also OAR config": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0.0",
+      "file_id": 515455,
+      "file_name": "Stand still in InventoryMenu also OAR config-96970-1-0-0-1719509417.zip",
+      "mod_id": 96970,
+      "hash": "sha256-6Pfdosda3j0LDzPfy1In9RwN4F8Hdcx9u+ww2ujgtl8="
+    }
+  }
+}

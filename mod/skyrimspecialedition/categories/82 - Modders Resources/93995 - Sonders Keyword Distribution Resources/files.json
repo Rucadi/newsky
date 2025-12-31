@@ -1,0 +1,23 @@
+{
+  "User Heels Keyword Distribution": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1",
+      "file_id": 447572,
+      "file_name": "User Heels Keyword Distribution-93995-1-1-1701386222.zip",
+      "mod_id": 93995,
+      "hash": "sha256-9/jCJvhML+cq1r/CqWX58uHKFY8fE/fu7wMI7BspBy0="
+    }
+  },
+  "Sonders Keyword Distribution Resources": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "2.1",
+      "file_id": 703398,
+      "file_name": "Sonders Keyword Distribution Resources-93995-2-1-1767046402.zip",
+      "mod_id": 93995,
+      "hash": "sha256-y46FpmxU6zhuP7KXMzodwsMHYuSAsMdhAbaoK7ckDtk="
+    },
+    "type": "primary"
+  }
+}

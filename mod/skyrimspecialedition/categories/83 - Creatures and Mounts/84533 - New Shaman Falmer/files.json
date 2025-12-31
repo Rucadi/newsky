@@ -1,0 +1,44 @@
+{
+  "2-4k. New Shaman Falmer v1": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0.0",
+      "file_id": 357752,
+      "file_name": "2-4k. New Shaman Falmer v1-84533-1-0-0-1675872568.zip",
+      "mod_id": 84533,
+      "hash": "sha256-tpcNSp2H8SwmyURPUAqG69a4lVXDwAc4mPywJqR0pRs="
+    },
+    "type": "primary"
+  },
+  "2-4k. New Shaman Falmer v2": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0.0",
+      "file_id": 357753,
+      "file_name": "2-4k. New Shaman Falmer v2-84533-1-0-0-1675872621.zip",
+      "mod_id": 84533,
+      "hash": "sha256-B2Rpt3lgal16j0FErluqnCvCj23ZQHko+JsUHdgGXho="
+    },
+    "type": "primary"
+  },
+  "1-2k. New Shaman Falmer v1": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0.0",
+      "file_id": 357754,
+      "file_name": "1-2k. New Shaman Falmer v1-84533-1-0-0-1675872658.zip",
+      "mod_id": 84533,
+      "hash": "sha256-f8Vtri2PWR+yMZpnOhBgDXtHAxWjOatE+KlkezXpHnk="
+    }
+  },
+  "1-2k. New Shaman Falmer v2": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0.0",
+      "file_id": 357755,
+      "file_name": "1-2k. New Shaman Falmer v2-84533-1-0-0-1675872686.zip",
+      "mod_id": 84533,
+      "hash": "sha256-kAnJ3CiBGgVaEw0kF/lyh2nlWZHs59jJJEzK/LyaqwY="
+    }
+  }
+}

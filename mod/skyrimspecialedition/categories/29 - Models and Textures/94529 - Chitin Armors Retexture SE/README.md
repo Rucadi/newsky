@@ -2,6 +2,8 @@
 - Author: Xavbio
 - Game: skyrimspecialedition
 - Mod Page: https://www.nexusmods.com/skyrimspecialedition/mods/94529
+
+
 **CHITIN ARMORS RETEXTURE SE**
   
 "*The dunmer or Morrowind construct chitin armor out of the shells of native insects layered with resinous glues*"

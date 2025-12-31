@@ -1,0 +1,24 @@
+{
+  "Animated Armoury - Christmas Fantasy sword patch (ENG)": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 356231,
+      "file_name": "Animated Armoury - Christmas Fantasy sword patch (ENG)-84192-1-0-1675518357.7z",
+      "mod_id": 84192,
+      "hash": "sha256-GBN2AOVyiZg11vDzgAlMwIItyJ4tE6sUTpwfvsn6Oi8="
+    },
+    "type": "primary"
+  },
+  "Animated Armoury - Christmas Fantasy sword patch (RUS)": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 356232,
+      "file_name": "Animated Armoury - Christmas Fantasy sword patch (RUS)-84192-1-0-1675518377.7z",
+      "mod_id": 84192,
+      "hash": "sha256-jVCJwgMjFxs1fD/orbl6WibFl24PkxV+wzD3hOQzNO0="
+    },
+    "type": "primary"
+  }
+}

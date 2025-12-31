@@ -1,0 +1,23 @@
+{
+  "Drago's LTN For OStim Standalone FNIS Version": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1",
+      "file_id": 451245,
+      "file_name": "Drago's LTN For OStim Standalone FNIS Version-98348-1-1-1702404046.7z",
+      "mod_id": 98348,
+      "hash": "sha256-mZqI5qDGheL7pCxUVWUATkerNmHG5OrL5HTGCw7CiYs="
+    }
+  },
+  "Drago's Love Those Neighbours For OStim Standalone": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.9",
+      "file_id": 629312,
+      "file_name": "Drago's Love Those Neighbours For OStim Standalone-98348-1-9-1747773053.7z",
+      "mod_id": 98348,
+      "hash": "sha256-oFeCSQHV0kKidkddtoMprK6dTaZ0ezDNne/MXklV5Og="
+    },
+    "type": "primary"
+  }
+}

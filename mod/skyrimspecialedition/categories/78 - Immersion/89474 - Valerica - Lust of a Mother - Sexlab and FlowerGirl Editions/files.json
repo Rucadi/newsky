@@ -1,0 +1,44 @@
+{
+  "My Valerica 3BA Bodyslide Preset": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 382012,
+      "file_name": "My Valerica 3BA Bodyslide Preset-89474-1-0-1682459472.7z",
+      "mod_id": 89474,
+      "hash": "sha256-el7BhZOAYo30t9/No9xisTMKs6II2JQYil3v70p4gHo="
+    }
+  },
+  "Valerica Lust of a Mother Victorian Edition": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.2",
+      "file_id": 388245,
+      "file_name": "Valerica Lust of a Mother Victorian Edition-89474-1-2-1684112299.7z",
+      "mod_id": 89474,
+      "hash": "sha256-3DMPDtyc6S0gHnLrzkJaBimEqrStxL6QJg+ViewmCdc="
+    }
+  },
+  "Valerica Lust of a Mother 1.24 Slab Nexus Edition": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.24",
+      "file_id": 473409,
+      "file_name": "Valerica Lust of a Mother 1.24 Slab Nexus Edition-89474-1-24-1708577504.7z",
+      "mod_id": 89474,
+      "hash": "sha256-9FTlIeySwJZL0vdTeWN/Ax4OxWZ8tcUWOsaGGTYxOUo="
+    },
+    "type": "primary"
+  },
+  "Valerica Lust of a Mother 1.24 FG Nexus Edition": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.24",
+      "file_id": 473410,
+      "file_name": "Valerica Lust of a Mother 1.24 FG Nexus Edition-89474-1-24-1708577541.7z",
+      "mod_id": 89474,
+      "hash": "sha256-6mDmZCNLjlySYTasMdYeIbbJ29ynLYABSGEStqygJG8="
+    },
+    "type": "primary"
+  }
+}

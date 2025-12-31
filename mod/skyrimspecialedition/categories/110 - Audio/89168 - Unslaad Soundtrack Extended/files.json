@@ -1,0 +1,23 @@
+{
+  "UNSLAAD Music Extended": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 377943,
+      "file_name": "UNSLAAD Music Extended-89168-1-0-1681404649.7z",
+      "mod_id": 89168,
+      "hash": "sha256-NBBkm4IsW0plFBBv5Oaa4LRFuP+gEU9229XI+yUR3QU="
+    },
+    "type": "primary"
+  },
+  "UNSLAAD Music Remastered": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 377945,
+      "file_name": "UNSLAAD Music Remastered-89168-1-0-1681404823.7z",
+      "mod_id": 89168,
+      "hash": "sha256-muPPVeieK5Si4i0FVU1Dbz+goq0TVBr2klDpED16Hq4="
+    }
+  }
+}

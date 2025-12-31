@@ -1,0 +1,44 @@
+{
+  "2-4k. New Frost Atronach Female.v1": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0.0",
+      "file_id": 375955,
+      "file_name": "2-4k. New Frost Atronach Female.v1-88511-1-0-0-1680862252.zip",
+      "mod_id": 88511,
+      "hash": "sha256-yCAVKpf2+b3b6P1dHXxwAix/KEdCRoubXmb3x8D4NGk="
+    },
+    "type": "primary"
+  },
+  "2-4k. New Frost Atronach Female.v2": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0.0",
+      "file_id": 375957,
+      "file_name": "2-4k. New Frost Atronach Female.v2-88511-1-0-0-1680862319.zip",
+      "mod_id": 88511,
+      "hash": "sha256-mXvMVNf5d6YYcEjQ1wkjhRp64bIae2GZKzB2PbAD3xo="
+    },
+    "type": "primary"
+  },
+  "1-2k. New Frost Atronach Female.v1": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0.0",
+      "file_id": 375958,
+      "file_name": "1-2k. New Frost Atronach Female.v1-88511-1-0-0-1680862381.zip",
+      "mod_id": 88511,
+      "hash": "sha256-Z9ShpGTIz39ARHfnSO0Ww+PZJ/WBMBuzveiFhQ8tqb4="
+    }
+  },
+  "1-2k. New Frost Atronach Female.v2": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0.0",
+      "file_id": 375959,
+      "file_name": "1-2k. New Frost Atronach Female.v2-88511-1-0-0-1680862400.zip",
+      "mod_id": 88511,
+      "hash": "sha256-nvY0YQ31/9Q9eiaFUNo06eh4xaMQ+PmyH11Wn8L2Jfg="
+    }
+  }
+}

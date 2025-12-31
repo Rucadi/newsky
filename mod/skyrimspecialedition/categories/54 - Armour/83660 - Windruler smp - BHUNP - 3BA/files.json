@@ -1,0 +1,24 @@
+{
+  "Windruler smp - 3BA": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 353771,
+      "file_name": "Windruler smp - 3BA-83660-1-0-1674890432.zip",
+      "mod_id": 83660,
+      "hash": "sha256-s9YAkwXdClluyDT6GLXS4Jt4zmnyknmtdVo32y5HArA="
+    },
+    "type": "primary"
+  },
+  "Windruler SMP - BHUNP": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 355097,
+      "file_name": "Windruler SMP - BHUNP-83660-1-0-1675207900.zip",
+      "mod_id": 83660,
+      "hash": "sha256-eBxbfdjDhfqitWz8P+vFZf+1N+vuAh8tssLhl83CZqU="
+    },
+    "type": "primary"
+  }
+}

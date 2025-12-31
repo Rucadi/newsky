@@ -1,0 +1,34 @@
+{
+  "Lost Races of Nirn - Snow Elf Eyes": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.10",
+      "file_id": 416797,
+      "file_name": "LRoA - Snow Elf Eyes-90443-1-10-1691959390.7z",
+      "mod_id": 90443,
+      "hash": "sha256-fG9UKqh6IM0P9sGuy2rmn6G7NqN9P9u5Rj8gVA15uas="
+    }
+  },
+  "Lost Races of Nirn - Female Skin Textures 2K": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "2.1",
+      "file_id": 597015,
+      "file_name": "Lost Races of Nirn - Female Skin Textures 2K-90443-2-1-1740083098.7z",
+      "mod_id": 90443,
+      "hash": "sha256-Pnaf0XDhKnU9dQzn0tGZEdourQ9ijSHZwef3lWNZBtY="
+    },
+    "type": "primary"
+  },
+  "Lost Races of Nirn - Female Skin Textures 4K": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "2.1",
+      "file_id": 597017,
+      "file_name": "Lost Races of Nirn - Female Skin Textures 4K-90443-2-1-1740083588.7z",
+      "mod_id": 90443,
+      "hash": "sha256-pxMhSOKZi14RWa7XCZ9aEBihPuFx2kalXry6yjykJ7c="
+    },
+    "type": "primary"
+  }
+}

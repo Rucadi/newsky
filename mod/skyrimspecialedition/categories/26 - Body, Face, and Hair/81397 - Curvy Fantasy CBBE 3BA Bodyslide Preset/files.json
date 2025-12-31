@@ -1,0 +1,24 @@
+{
+  "Curvy Fantasy CBBE 3BA Bodyslide Preset": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 343757,
+      "file_name": "Curvy Fantasy CBBE 3BA Bodyslide Preset-81397-1-0-1672057654.7z",
+      "mod_id": 81397,
+      "hash": "sha256-Nf04AU9iZBE95/M3HJwvzXGME1QyGUh0RXEIn+/Lmuk="
+    },
+    "type": "primary"
+  },
+  "Curvy Fantasy Preset V2": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "2.0",
+      "file_id": 454620,
+      "file_name": "Curvy Fantasy Preset V2-81397-2-0-1703384260.7z",
+      "mod_id": 81397,
+      "hash": "sha256-CX68o9alIal/V15U3dXnEh2GvIwf2N88AcA0BDwjTtE="
+    },
+    "type": "primary"
+  }
+}

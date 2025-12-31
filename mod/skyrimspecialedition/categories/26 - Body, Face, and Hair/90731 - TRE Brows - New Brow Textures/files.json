@@ -1,0 +1,23 @@
+{
+  "Brows - TRE Brows": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0.1",
+      "file_id": 385094,
+      "file_name": "Brows - TRE Brows-90731-1-0-1-1683334119.zip",
+      "mod_id": 90731,
+      "hash": "sha256-vRhry+nXyBl/zWp9xyd/IOvyzB5IuzAhu7NzdVc17V4="
+    },
+    "type": "primary"
+  },
+  "Brows - TRE Brows - High Poly Head Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0.1",
+      "file_id": 385095,
+      "file_name": "Brows - TRE Brows - High Poly Head Patch-90731-1-0-1-1683334168.zip",
+      "mod_id": 90731,
+      "hash": "sha256-fbuWSJUhr/KVrMU1owsPShdknjJI6g7ju8u67fzH1nE="
+    }
+  }
+}

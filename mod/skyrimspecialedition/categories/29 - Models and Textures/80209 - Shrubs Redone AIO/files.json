@@ -38,7 +38,8 @@
       "version": "1.0",
       "file_id": 339372,
       "file_name": "Shrubs Redone AIO 4K-80209-1-0-1670692634.7z",
-      "mod_id": 80209
+      "mod_id": 80209,
+      "hash": "sha256-WqWcIx37y8yXQR5QSgbuEzkAmW2enHSrlXyxZdAu2HY="
     },
     "type": "primary"
   },
@@ -48,7 +49,8 @@
       "version": "1.0",
       "file_id": 339377,
       "file_name": "Shrubs Redone AIO 8K-4K-80209-1-0-1670693266.7z",
-      "mod_id": 80209
+      "mod_id": 80209,
+      "hash": "sha256-Sw2SGhs3B0iXuKO7HmSVbD/DbXBZ5RcfbSp70+eal2M="
     },
     "type": "primary"
   },
@@ -58,7 +60,8 @@
       "version": "1.0",
       "file_id": 339378,
       "file_name": "Shrubs Redone AIO Optional Snowy-80209-1-0-1670693548.7z",
-      "mod_id": 80209
+      "mod_id": 80209,
+      "hash": "sha256-v29Y6PO5pgr30BMwqkLGzjEk+ZVqjxgq63FyRoD+NeQ="
     }
   }
 }

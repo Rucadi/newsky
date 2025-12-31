@@ -1,0 +1,24 @@
+{
+  "shadowman_sybille": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1",
+      "file_id": 399233,
+      "file_name": "shadowman_sybille-93842-1-1687195522.rar",
+      "mod_id": 93842,
+      "hash": "sha256-vkwPmr1AdGav2RFXAutHUWUW6GGDTNrB7pR3x4tmv0Q="
+    },
+    "type": "primary"
+  },
+  "shadowman_sybille_FG": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1",
+      "file_id": 399234,
+      "file_name": "shadowman_sybille_FG-93842-1-1687195634.rar",
+      "mod_id": 93842,
+      "hash": "sha256-yRN9RZDms2XFkz7WA2qcVJgxGgyk0lTExqTdhhLUrcE="
+    },
+    "type": "primary"
+  }
+}

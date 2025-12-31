@@ -1,0 +1,24 @@
+{
+  "Matching Version": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.00",
+      "file_id": 390758,
+      "file_name": "Matching Version-91883-1-00-1684736345.zip",
+      "mod_id": 91883,
+      "hash": "sha256-NpOUYUQ+kpb4IEirGZ94Ywyoj3zLkRGQ/vyIZUbY8GI="
+    },
+    "type": "primary"
+  },
+  "Vanilla Version": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.00",
+      "file_id": 390760,
+      "file_name": "Vanilla Version-91883-1-00-1684736540.zip",
+      "mod_id": 91883,
+      "hash": "sha256-Kpru6LNS6Be6Fu/S25nGHU3pK6cHSxcftxQgP0pe6Gw="
+    },
+    "type": "primary"
+  }
+}

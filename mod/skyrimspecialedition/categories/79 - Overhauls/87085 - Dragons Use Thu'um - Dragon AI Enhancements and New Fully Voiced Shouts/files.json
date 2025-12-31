@@ -1,0 +1,23 @@
+{
+  "Dragons Use Thu'um": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "8.2",
+      "file_id": 701689,
+      "file_name": "Dragons Use Thu'um-87085-8-2-1766595637.7z",
+      "mod_id": 87085,
+      "hash": "sha256-EQ7DJPlI4vtTBVlkuDF0/jGXOXxjgXLq2/DoYzvqMIg="
+    },
+    "type": "primary"
+  },
+  "Dragons Use Thu'um Patch Collection": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "8.2",
+      "file_id": 701690,
+      "file_name": "Dragons Use Thu'um Patch Collection-87085-8-2-1766595696.7z",
+      "mod_id": 87085,
+      "hash": "sha256-ob/SdxoXgQEGdrZCiEjOpQYnkmRXvmhnZbYM3intRBs="
+    }
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "Tails of Troubles SE 1.7 Russian": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.7",
+      "file_id": 205313,
+      "file_name": "Tails of Troubles SE 1.7 Russian-9666-1-7-1621857107.zip",
+      "mod_id": 9666,
+      "hash": "sha256-SO4vrufyJjfHKFq2rv81rpwEjiS4AI7FoNHN+upHEaw="
+    }
+  },
+  "M'rissi's Tails of Troubles SE 1.7": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.7",
+      "file_id": 205314,
+      "file_name": "M'rissi's Tails of Troubles SE 1.7-9666-1-7-1621857507.zip",
+      "mod_id": 9666,
+      "hash": "sha256-dF9T0ODCB4xnhYwVX5cNlxWINeK7nQt/rQfP/ljbVd0="
+    },
+    "type": "primary"
+  },
+  "Walkthrough.docx": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.7",
+      "file_id": 205331,
+      "file_name": "Walkthrough.docx-9666-1-7-1621865879.zip",
+      "mod_id": 9666,
+      "hash": "sha256-TnX3+kH0+UOZF5mjSJbIfqASI4yJh4p3/QknKxxtXjw="
+    }
+  }
+}

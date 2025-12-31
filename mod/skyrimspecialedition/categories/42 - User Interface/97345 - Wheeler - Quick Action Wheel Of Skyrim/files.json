@@ -1,0 +1,23 @@
+{
+  "Style Preset - Reverse Wheel": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 413691,
+      "file_name": "Style Preset - Reverse Wheel-97345-1-0-1691048458.zip",
+      "mod_id": 97345,
+      "hash": "sha256-m6snt8nBLVvcUXzpO91mPOh9wCbYXIPmCfgEPKonqpI="
+    }
+  },
+  "Wheeler": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.2",
+      "file_id": 419926,
+      "file_name": "Wheeler-97345-1-2-1692836360.zip",
+      "mod_id": 97345,
+      "hash": "sha256-SlJeYNDnjeMrkYOiRBVKtlXLrWWvgZMoIpOmlF+BUJI="
+    },
+    "type": "primary"
+  }
+}

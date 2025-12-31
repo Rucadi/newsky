@@ -1,23 +1,23 @@
 {
-    "Paired Animation Improvements": {
-        "nexusmods": {
-            "game_name": "skyrimspecialedition",
-            "version": "1.0.2",
-            "file_id": 466426,
-            "file_name": "Paired Animation Improvements-99621-1-0-2-1706671876.7z",
-            "mod_id": 99621,
-            "hash": "sha256-QyHwq4KvTc7GKvn+tRPf4NNuIh5WMI+YMN6Y5iWuWfI="
-        },
-        "type": "primary"
+  "Paired Animation Improvements": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0.2",
+      "file_id": 466426,
+      "file_name": "Paired Animation Improvements-99621-1-0-2-1706671876.7z",
+      "mod_id": 99621,
+      "hash": "sha256-QyHwq4KvTc7GKvn+tRPf4NNuIh5WMI+YMN6Y5iWuWfI="
     },
-    "Horse Mount and Dismount Double Sound Fix": {
-        "nexusmods": {
-            "game_name": "skyrimspecialedition",
-            "version": "1.0.2",
-            "file_id": 466552,
-            "file_name": "Horse Mount and Dismount Double Sound Fix-99621-1-0-2-1706717975.7z",
-            "mod_id": 99621,
-            "hash": "sha256-x0YQRElCTaL3PFX6obitLxWN9StqOxT+npWA7sqw9HU="
-        }
+    "type": "primary"
+  },
+  "Horse Mount and Dismount Double Sound Fix": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0.2",
+      "file_id": 466552,
+      "file_name": "Horse Mount and Dismount Double Sound Fix-99621-1-0-2-1706717975.7z",
+      "mod_id": 99621,
+      "hash": "sha256-x0YQRElCTaL3PFX6obitLxWN9StqOxT+npWA7sqw9HU="
     }
+  }
 }

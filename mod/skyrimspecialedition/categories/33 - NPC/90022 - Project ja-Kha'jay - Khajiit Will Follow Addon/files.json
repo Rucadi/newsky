@@ -1,0 +1,73 @@
+{
+  "JKJ - KWF - Better Male Feet": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 383347,
+      "file_name": "JKJ - KWF - Better Male Feet-90022-1-0-1682871474.7z",
+      "mod_id": 90022,
+      "hash": "sha256-NPyFWz3cn+p80T1J8QX2Ap2NnOIDA6AhE7EhiHXhdTk="
+    }
+  },
+  "JKJ - KWF - Unique Perks Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 384428,
+      "file_name": "JKJ - KWF - Unique Perks Patch-90022-1-0-1683153144.7z",
+      "mod_id": 90022,
+      "hash": "sha256-9LhD/E9JvWadlQC5MjxMy8lPJELj2nW7iGpf0YHmPhw="
+    }
+  },
+  "JKJ - KWF - 1k Textures": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0.2",
+      "file_id": 400182,
+      "file_name": "JKJ - KWF - 1k Textures-90022-1-0-2-1687541649.7z",
+      "mod_id": 90022,
+      "hash": "sha256-T1ZIacr/KwflxDJ2EFQq4/S6ihM5cWAHBHh4l0l5ch0="
+    }
+  },
+  "JKJ - KWF - 4k Textures": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0.2",
+      "file_id": 400183,
+      "file_name": "JKJ - KWF - 4k Textures-90022-1-0-2-1687541677.7z",
+      "mod_id": 90022,
+      "hash": "sha256-96gqUdd9Km5wiHU+9hL4HpMAT1RxnWz/Q2zhD0H6m70="
+    }
+  },
+  "Project ja-Kha'jay - Khajiit Will Follow": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.03",
+      "file_id": 455836,
+      "file_name": "Project ja-Kha'jay - Khajiit Will Follow-90022-1-03-1703785585.7z",
+      "mod_id": 90022,
+      "hash": "sha256-5zgT8VbhFscHdsKA9phhhbnj3g3dP/vF9PScd5HRcSU="
+    },
+    "type": "primary"
+  },
+  "JKJ - KWF Vigilant Patch Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.03",
+      "file_id": 455838,
+      "file_name": "JKJ - KWF Vigilant Patch Patch-90022-1-03-1703785658.7z",
+      "mod_id": 90022,
+      "hash": "sha256-dNPeafhlSj+ykcSjx+GOuvnZhZdNH+XUzuXhewb9tTg="
+    }
+  },
+  "JKJ - KWF - No Eyeglow": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.03",
+      "file_id": 455840,
+      "file_name": "JKJ - KWF - No Eyeglow-90022-1-03-1703785966.7z",
+      "mod_id": 90022,
+      "hash": "sha256-zWAnUlA2jlOPHBKj+1qy5OiulQemDs0m6GlHqEjMV4c="
+    }
+  }
+}

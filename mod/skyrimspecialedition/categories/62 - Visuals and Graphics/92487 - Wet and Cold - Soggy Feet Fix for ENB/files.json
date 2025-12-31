@@ -1,0 +1,24 @@
+{
+  "Wet and Cold - Soggy Feet Fix for ENB": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.2",
+      "file_id": 449548,
+      "file_name": "Wet and Cold - Soggy Feet Fix for ENB-92487-1-2-1701959357.7z",
+      "mod_id": 92487,
+      "hash": "sha256-2J6WPHEZX7huvgh5+Cc4kac9Rm5/ex7rnKBiJqeJcZg="
+    },
+    "type": "primary"
+  },
+  "Wet and Cold - Soggy Feet Fix for ENB - Smaller": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.2",
+      "file_id": 507828,
+      "file_name": "Wet and Cold - Soggy Feet Fix for ENB - Smaller-92487-1-2-1717402325.7z",
+      "mod_id": 92487,
+      "hash": "sha256-neDCBZIx3pUq6pSszxUBPrAzmK7CuNZHK75pOhFjdOA="
+    },
+    "type": "primary"
+  }
+}

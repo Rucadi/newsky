@@ -1,0 +1,24 @@
+{
+  "Falmers - with 4k textures": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.01",
+      "file_id": 366723,
+      "file_name": "Falmers - with 4k textures-86338-1-01-1678336569.zip",
+      "mod_id": 86338,
+      "hash": "sha256-J4HH/M727mq6/oV1fTEBTiX3CkQCRjC5/f0kN5xnQa4="
+    },
+    "type": "primary"
+  },
+  "Falmers - with 2k textures": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.01",
+      "file_id": 366724,
+      "file_name": "Falmers - with 2k textures-86338-1-01-1678336611.zip",
+      "mod_id": 86338,
+      "hash": "sha256-BR/Xe7xZRashnMhvUYsBsHzZXQe1PUKdDBP5OkiXDEM="
+    },
+    "type": "primary"
+  }
+}

@@ -2,6 +2,8 @@
 - Author: Czasior
 - Game: skyrimspecialedition
 - Mod Page: https://www.nexusmods.com/skyrimspecialedition/mods/91642
+
+
 A collection of compatibility patches for [JK's Riften Outskirts](https://www.nexusmods.com/skyrimspecialedition/mods/90864). All patches are ESP flagged as ESL.
   
   

@@ -1,0 +1,44 @@
+{
+  "slightly Better Nordic Henges - Vanilla (V 1)": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 412548,
+      "file_name": "slightly Better Nordic Henges - Vanilla (V 1)-97162-1-0-1690764172.rar",
+      "mod_id": 97162,
+      "hash": "sha256-YL4ql4pXrS/pqSd4kf7cx/BAq//NehxBDBfWZqJwHXg="
+    }
+  },
+  "slightly Better Nordic Henges - Vanilla (V 2)": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 412551,
+      "file_name": "slightly Better Nordic Henges - Vanilla (V 2)-97162-1-0-1690764267.rar",
+      "mod_id": 97162,
+      "hash": "sha256-O2FoliyjaXTN+dD71+nrEXhiHY4aRTzSgntNDkdbo2o="
+    }
+  },
+  "slightly Better Nordic Henges - BOS": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.2",
+      "file_id": 674526,
+      "file_name": "slightly Better Nordic Henges - BOS-97162-1-2-1760177413.rar",
+      "mod_id": 97162,
+      "hash": "sha256-9M+S80fX3sTigdY+HymnZwmkMRLEnOt4u8jZ7toFCNg="
+    },
+    "type": "primary"
+  },
+  "slightly Better Nordic Henges - BOS - Parallax": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.2",
+      "file_id": 674527,
+      "file_name": "slightly Better Nordic Henges - BOS - Parallax-97162-1-2-1760177542.rar",
+      "mod_id": 97162,
+      "hash": "sha256-wRYqyPN2rifZrkn3/dzSUOzTt0QcVZ+1+Fi1HmuRzGc="
+    },
+    "type": "primary"
+  }
+}

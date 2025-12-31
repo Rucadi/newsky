@@ -2,6 +2,8 @@
 - Author: Pieter82
 - Game: skyrimspecialedition
 - Mod Page: https://www.nexusmods.com/skyrimspecialedition/mods/92768
+
+
 Alchemy Station Variants uses Base Object Swapper (BOS) to dynamically swap between four variants of the Alchemy Tables and four variants of the Mobile Alchemy Stations.
   
   

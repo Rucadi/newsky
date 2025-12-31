@@ -1,0 +1,45 @@
+{
+  "COCO Mysterious Mage - COCOBody CBBE SE": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 415766,
+      "file_name": "COCO Mysterious Mage - COCOBody CBBE SE-97906-1-0-1691673592.7z",
+      "mod_id": 97906,
+      "hash": "sha256-XLM8d/I42V/b+S9AmgdojnI+jEXG8WuqnKegY+hhVEo="
+    },
+    "type": "primary"
+  },
+  "COCO Mysterious Mage - COCOBody UUNP SE": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 415768,
+      "file_name": "COCO Mysterious Mage - COCOBody UUNP SE-97906-1-0-1691673677.7z",
+      "mod_id": 97906,
+      "hash": "sha256-VnY5t9P3YrK8NGMPkSyT9yh8MNrspdBK+gw6kE4MwL0="
+    },
+    "type": "primary"
+  },
+  "COCO Mysterious Mage - Clothing Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 415769,
+      "file_name": "COCO Mysterious Mage - Clothing Patch-97906-1-0-1691673750.7z",
+      "mod_id": 97906,
+      "hash": "sha256-3E4RyrYPfYLoFd3FhacFX/KAU7XArwI33fFOGx592wI="
+    }
+  },
+  "COCO Mysterious Mage - CBBE 3BA": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1",
+      "file_id": 419197,
+      "file_name": "COCO Mysterious Mage - CBBE 3BA-97906-1-1-1692579780.7z",
+      "mod_id": 97906,
+      "hash": "sha256-mQ4+OSgmZn6qdjpUUqz8006C6veLRLuJ2y8hYoJ39BE="
+    },
+    "type": "primary"
+  }
+}

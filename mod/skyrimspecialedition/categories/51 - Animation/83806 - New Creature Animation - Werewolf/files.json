@@ -1,0 +1,23 @@
+{
+  "Werewolf Animations 2.0 DAR": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "2.0",
+      "file_id": 583965,
+      "file_name": "Werewolf Animations 2.0-83806-2-0-1737023944.zip",
+      "mod_id": 83806,
+      "hash": "sha256-HXYjzOF7E95vbZi7vCctlfFvA+hfACOIxGKLt2jSPAM="
+    }
+  },
+  "Werewolf OAR 2.01": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "2.01",
+      "file_id": 595419,
+      "file_name": "Werewolf OAR 2.01-83806-2-01-1739713012.zip",
+      "mod_id": 83806,
+      "hash": "sha256-5zIJashnl0UbfR14q7N7BO1D3sftahXhb4SpKN9fw6U="
+    },
+    "type": "primary"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "Dawnguard Cute v03": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "v03",
+      "file_id": 418012,
+      "file_name": "Dawnguard Cute v03-98414-v03-1692300579.zip",
+      "mod_id": 98414,
+      "hash": "sha256-ZuTmPtxjaqZNXCRfoDOVfFhu1htFQYYBmJ5Ac9YYG/k="
+    },
+    "type": "primary"
+  },
+  "Dawnguard Cute Standalone v03": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "v03",
+      "file_id": 418014,
+      "file_name": "Dawnguard Cute Standalone v03-98414-v03-1692300671.zip",
+      "mod_id": 98414,
+      "hash": "sha256-0SQi8xRQGTdSlqj63ULLatUIj5VX7/71TPD+vMUIFOI="
+    }
+  },
+  "Sleeveless 1st person meshes": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "na",
+      "file_id": 419728,
+      "file_name": "Sleeveless 1st person meshes-98414-na-1692782767.zip",
+      "mod_id": 98414,
+      "hash": "sha256-uI+ZbBIQU86lktEc3zPT/9kwVsyL9VXcMSeziZnruag="
+    }
+  }
+}

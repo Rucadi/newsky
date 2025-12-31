@@ -1,0 +1,24 @@
+{
+  "The Beast Within - Diverse Wearwolf Patch FOMOD": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "v5.4",
+      "file_id": 532834,
+      "file_name": "The Beast Within - Diverse Wearwolf Patch FOMOD-91239-v5-4-1724013681.rar",
+      "mod_id": 91239,
+      "hash": "sha256-svRhbhJC9Bgwl+qfmhtpDwBnswtsu9+SEqafvUMcUGw="
+    },
+    "type": "primary"
+  },
+  "The Beast Within FOMOD": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "v5.4",
+      "file_id": 532837,
+      "file_name": "The Beast Within FOMOD-91239-v5-4-1724013815.rar",
+      "mod_id": 91239,
+      "hash": "sha256-D/zCt2dAZXpN/fzXJwqiftoq3xQpyhaTqROPMen52Nk="
+    },
+    "type": "primary"
+  }
+}

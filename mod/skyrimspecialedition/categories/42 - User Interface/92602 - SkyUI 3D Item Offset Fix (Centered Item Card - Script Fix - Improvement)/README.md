@@ -2,6 +2,8 @@
 - Author: SkyUI Team - Dylan James
 - Game: skyrimspecialedition
 - Mod Page: https://www.nexusmods.com/skyrimspecialedition/mods/92602
+
+
 **REQUIREMENTS**
   
 [SkyUI](https://www.nexusmods.com/skyrimspecialedition/mods/12604)

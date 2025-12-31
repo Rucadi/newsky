@@ -1,0 +1,23 @@
+{
+  "Andrealphus Papyrus Functions - Test": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.4.1",
+      "file_id": 367261,
+      "file_name": "ANDR_PapyrusFunctions - Test-85252-1-4-1-1678489571.7z",
+      "mod_id": 85252,
+      "hash": "sha256-nnBiL96higqyLdMWK5K5Dg5u+7oaxvaIkRu8ZZl05kQ="
+    }
+  },
+  "Andrealphus Papyrus Functions": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.6.1",
+      "file_id": 652570,
+      "file_name": "Andrealphus Papyrus Functions-85252-1-6-1-1754260725.7z",
+      "mod_id": 85252,
+      "hash": "sha256-CLheryYjHGQyCRQtRjJGATCMGToqYutXDmZgJGo+J8c="
+    },
+    "type": "primary"
+  }
+}

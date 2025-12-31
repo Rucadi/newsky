@@ -1,0 +1,23 @@
+{
+  "Falmer Animation 2.0 OAR - SCAR2.0": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "2.0",
+      "file_id": 608261,
+      "file_name": "Falmer Animation 2.0 OAR-83572-2-0-1742611604.zip",
+      "mod_id": 83572,
+      "hash": "sha256-R1IQM3K3eyd2Bl+exDfGv622GQmUqCGEnZLgTVJKRs4="
+    }
+  },
+  "Falmer Animation 2.0 DAR No SCAR Version": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 609188,
+      "file_name": "Falmer Animation 2.0 DAR No SCAR Version-83572-1-0-1742812385.zip",
+      "mod_id": 83572,
+      "hash": "sha256-eze6EbJ4P2mfawLbGSmV6iXu6W6XQxGkIjD6C/wqyfc="
+    },
+    "type": "primary"
+  }
+}

@@ -1,0 +1,64 @@
+{
+  "Steel Fashions": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 345257,
+      "file_name": "Steel Fashions-81531-1-0-1672502429.rar",
+      "mod_id": 81531,
+      "hash": "sha256-yaolEygFKxD9LyV6KLhfsFIFTHc7OTNpTC+l2uGYd98="
+    },
+    "type": "primary"
+  },
+  "Steel Fashions- HIMBO Bodyslide files": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 345263,
+      "file_name": "Steel Fashions- HIMBO Bodyslide files-81531-1-0-1672502790.rar",
+      "mod_id": 81531,
+      "hash": "sha256-eJPjuUA4bxiEiTxuyF5OahDFRY6/drGpmUsaWgefvuE="
+    }
+  },
+  "Steel Fashions- CBBE 3BA Bodyslide files": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 345373,
+      "file_name": "Steel Fashions- CBBE 3BA Bodyslide files-81531-1-0-1672525500.rar",
+      "mod_id": 81531,
+      "hash": "sha256-PsylOwBpXegSrt+P+hjC7R8jkLWkPVHbqtIBxB0Hq+I="
+    }
+  },
+  "Steel Fashions- Static CBBE Bodyslide files": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 345374,
+      "file_name": "Steel Fashions- Static CBBE Bodyslide files-81531-1-0-1672525565.rar",
+      "mod_id": 81531,
+      "hash": "sha256-HXlPqqTJ4e0/7fM/2bxh/gMzMEwoufi+CRy29YhHotM="
+    }
+  },
+  "Steel Fashions - No Textures": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 345568,
+      "file_name": "Steel Fashions - No Textures-81531-1-0-1672589416.7z",
+      "mod_id": 81531,
+      "hash": "sha256-hMSVyXT/uuFt2j01Mf8ctflD06BBHO53S7Hu4WCRFz0="
+    },
+    "type": "primary"
+  },
+  "Steel Fashions- BHUNP Bodyslide files": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1",
+      "file_id": 346676,
+      "file_name": "Steel Fashions- BHUNP Bodyslide files-81531-1-1-1672850435.zip",
+      "mod_id": 81531,
+      "hash": "sha256-aCXehRyik64qae60IpiaKRuTOWqq9Z2Susc/w40J58k="
+    }
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "Whitepeak Tower": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 391931,
+      "file_name": "Whitepeak Tower-92177-1-0-1685057852.rar",
+      "mod_id": 92177,
+      "hash": "sha256-Gfga/M5uPYLX2UzGAV4pZrRBq0minHsSKxyMqTBYOzU="
+    },
+    "type": "primary"
+  },
+  "Whitepeak Tower Vanilla Textures": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0a",
+      "file_id": 396916,
+      "file_name": "Whitepeak Tower Vanilla Textures-92177-1-0a-1686484766.rar",
+      "mod_id": 92177,
+      "hash": "sha256-BJUdlC5/sycKlG+DhE5FhXiYfNXjRkH8f4MhBRCgRrM="
+    }
+  }
+}

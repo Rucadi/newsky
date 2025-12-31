@@ -1,0 +1,34 @@
+{
+  "Subtle Feminine Stagger Animation SE by Xtudo": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "2.1",
+      "file_id": 399970,
+      "file_name": "Subtle Feminine Stagger Animation SE by Xtudo-93863-2-1-1687472382.7z",
+      "mod_id": 93863,
+      "hash": "sha256-M3/a3dQLQ/2HCrPZnLQHtoXfr7Q7EkfB4HQQzXMGYVc="
+    },
+    "type": "primary"
+  },
+  "Subtle Feminine Stagger Animation SE by Xtudo -OAR": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "2.1",
+      "file_id": 399971,
+      "file_name": "Subtle Feminine Stagger Animation SE by Xtudo -OAR-93863-2-1-1687472402.7z",
+      "mod_id": 93863,
+      "hash": "sha256-Aa0Lh78eD6zx3fChbMmzYoWZxq/p5n9V0n4Gu+L93Y0="
+    },
+    "type": "primary"
+  },
+  "Subtle Feminine Stagger Animation SE by Xtudo -DAR": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "2.1",
+      "file_id": 399972,
+      "file_name": "Subtle Feminine Stagger Animation SE by Xtudo -DAR-93863-2-1-1687472423.7z",
+      "mod_id": 93863,
+      "hash": "sha256-U8ldDryh07XVcPt4SeiaxDvGOuhYlqe36RvFfYlSI/c="
+    }
+  }
+}

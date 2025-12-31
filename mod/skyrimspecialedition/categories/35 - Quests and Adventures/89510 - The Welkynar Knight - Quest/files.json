@@ -1,13 +1,13 @@
 {
-    "The Welkynar Knight - Quest": {
-        "nexusmods": {
-            "game_name": "skyrimspecialedition",
-            "version": "0.4.1",
-            "file_id": 668345,
-            "file_name": "The Welkynar Knight - Quest-89510-0-4-1-1758544208.7z",
-            "mod_id": 89510,
-            "hash": "sha256-kLOoHCgCghKYzhSRkiO48SNXSpPGk+SRiMEHgRJ4YYE="
-        },
-        "type": "primary"
-    }
+  "The Welkynar Knight - Quest": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "0.4.1",
+      "file_id": 668345,
+      "file_name": "The Welkynar Knight - Quest-89510-0-4-1-1758544208.7z",
+      "mod_id": 89510,
+      "hash": "sha256-kLOoHCgCghKYzhSRkiO48SNXSpPGk+SRiMEHgRJ4YYE="
+    },
+    "type": "primary"
+  }
 }

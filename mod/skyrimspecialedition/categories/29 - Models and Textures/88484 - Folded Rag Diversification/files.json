@@ -1,0 +1,53 @@
+{
+  "Folded Rag Diversification - Holds - 100 Percent": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.3",
+      "file_id": 380630,
+      "file_name": "Folded Rag Diversification - Holds - 100 Percent-88484-1-4-1682111182.zip",
+      "mod_id": 88484,
+      "hash": "sha256-G8qGBR2+36c/9aQwmqh2iz4rQ36sKwBhn8u0jvqlhQc="
+    }
+  },
+  "Folded Rag Diversification - Holds - 75 Percent": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.3",
+      "file_id": 380631,
+      "file_name": "Folded Rag Diversification - Holds - 75 Percent-88484-1-4-1682111276.zip",
+      "mod_id": 88484,
+      "hash": "sha256-fo5YbI7ogYVbG8GRU7PyEBTOC9rZcuJJI07Ij26un0U="
+    }
+  },
+  "Folded Rag Diversification - Holds - 50 Percent": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.3",
+      "file_id": 380632,
+      "file_name": "Folded Rag Diversification - Holds - 50 Percent-88484-1-4-1682111390.zip",
+      "mod_id": 88484,
+      "hash": "sha256-U3VhkOXdGFHfJi+fWjABnReRUyTs8f7CfX3J0wOCzHw="
+    }
+  },
+  "Folded Rag Diversification": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.3.1",
+      "file_id": 403609,
+      "file_name": "Folded Rag Diversification-88484-1-3-1-1688457984.zip",
+      "mod_id": 88484,
+      "hash": "sha256-EMnpUMUuhyzEHZ3NdHs5AbVfjb7A/PfViDXxc8ScWp4="
+    },
+    "type": "primary"
+  },
+  "Folded Rag Diversification - AnimObj Addon": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.3.1",
+      "file_id": 542957,
+      "file_name": "Folded Rag Diversification - AnimObj Addon-88484-1-3-1-1726511093.zip",
+      "mod_id": 88484,
+      "hash": "sha256-eqFJ19MoJohRL2wsqiEie9Jv0P4jeZIqS2+WiiX+XXw="
+    }
+  }
+}

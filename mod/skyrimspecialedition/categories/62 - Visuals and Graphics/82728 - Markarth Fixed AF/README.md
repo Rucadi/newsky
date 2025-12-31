@@ -2,6 +2,8 @@
 - Author: GGUNIT
 - Game: skyrimspecialedition
 - Mod Page: https://www.nexusmods.com/skyrimspecialedition/mods/82728
+
+
 If you like my mods and want to support me, feel free to visit my Patreon. Even if you're not donating you can still download my next project beta for free and try it out before it's even released. Supporting existing mods and working on new ones as well is really time consuming so any kind of support is highly appreciated.
   
  ﻿ ﻿ ﻿ ﻿ ﻿ ﻿ ﻿ ﻿

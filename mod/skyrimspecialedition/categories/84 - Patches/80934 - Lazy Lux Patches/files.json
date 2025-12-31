@@ -38,7 +38,8 @@
       "version": "untested",
       "file_id": 341766,
       "file_name": "railroad UnLux Patch-80934-untested-1671413376.zip",
-      "mod_id": 80934
+      "mod_id": 80934,
+      "hash": "sha256-Dx8VDwZrR38MxG82DtL+BJPfJsAgWYjMwKjO1NQYYy4="
     },
     "type": "primary"
   },
@@ -48,7 +49,8 @@
       "version": "untested",
       "file_id": 341767,
       "file_name": "sneak tools UnLux Patch-80934-untested-1671413411.zip",
-      "mod_id": 80934
+      "mod_id": 80934,
+      "hash": "sha256-QayGHvTEL2dlw9tIDQAUTe2DI0Cx35T3XgQUyU4YngA="
     },
     "type": "primary"
   },
@@ -58,7 +60,8 @@
       "version": "untested",
       "file_id": 341768,
       "file_name": "Brotherhood of Old UnLux Patch-80934-untested-1671413435.zip",
-      "mod_id": 80934
+      "mod_id": 80934,
+      "hash": "sha256-xACRNINhHVgyLELRGEF+fHpqt2Zqhre2dNw+nwiBqGM="
     },
     "type": "primary"
   },
@@ -68,7 +71,8 @@
       "version": "1",
       "file_id": 344497,
       "file_name": "TreasureHunter - Lux Patch-80934-1-1672318931.zip",
-      "mod_id": 80934
+      "mod_id": 80934,
+      "hash": "sha256-GhGFpc3qRhQNytfOGo0fdNBmESPpCAXOg0hZkRXf2KQ="
     },
     "type": "primary"
   },
@@ -78,7 +82,8 @@
       "version": "1",
       "file_id": 344498,
       "file_name": "Dark Arts Un-Lux Patch-80934-1-1672318958.zip",
-      "mod_id": 80934
+      "mod_id": 80934,
+      "hash": "sha256-oBjAte09iv2G4E/naknkmX51yMlnmejNeNyZgGZWNc4="
     },
     "type": "primary"
   },
@@ -88,7 +93,8 @@
       "version": "1",
       "file_id": 344499,
       "file_name": "Remi UnLux Patch-80934-1-1672318976.zip",
-      "mod_id": 80934
+      "mod_id": 80934,
+      "hash": "sha256-D6quJF0eOx03QDeTVe8vCOXjmq/HmeimRC3kE1lIXZk="
     },
     "type": "primary"
   },
@@ -98,7 +104,8 @@
       "version": "1",
       "file_id": 344500,
       "file_name": "Nessa - UnLux Patch-80934-1-1672319023.zip",
-      "mod_id": 80934
+      "mod_id": 80934,
+      "hash": "sha256-VkrXQh1kYsPtT66Nbzs4dHWQO+idUeLYCf5PUg0qRHU="
     },
     "type": "primary"
   },
@@ -108,7 +115,8 @@
       "version": "1",
       "file_id": 344543,
       "file_name": "ImprovedDialogueLydia - UnLux-80934-1-1672321061.zip",
-      "mod_id": 80934
+      "mod_id": 80934,
+      "hash": "sha256-Xg9SDJZPv9JAjjiwjXzpJfvIlr8RG3L2TEfEHpsLYu0="
     },
     "type": "primary"
   },
@@ -118,7 +126,8 @@
       "version": "1",
       "file_id": 345458,
       "file_name": "SDA - UnLux-80934-1-1672551217.zip",
-      "mod_id": 80934
+      "mod_id": 80934,
+      "hash": "sha256-OFP3PdrvOLkv/ehWe3DNOwV2SLNcVEI1hRuEnusjaTY="
     },
     "type": "primary"
   }

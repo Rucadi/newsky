@@ -16,7 +16,8 @@
       "version": "2.3",
       "file_id": 341305,
       "file_name": "TB's HD Lanterns 8K Optimised SSE Version-80770-2-3-1671288941.zip",
-      "mod_id": 80770
+      "mod_id": 80770,
+      "hash": "sha256-PzYsHFvfSbdQrMuXUetTvPiqMo4LIZLPr7/alWLRVcs="
     },
     "type": "primary"
   },
@@ -26,7 +27,8 @@
       "version": "2.3",
       "file_id": 341306,
       "file_name": "TB's HD Lanterns 4K SSE Version-80770-2-3-1671288967.zip",
-      "mod_id": 80770
+      "mod_id": 80770,
+      "hash": "sha256-7vTObI9XMaHIrjj451B3J5RLoWpm/izre4Tmh2B0d/Q="
     },
     "type": "primary"
   },
@@ -36,7 +38,8 @@
       "version": "2.3",
       "file_id": 341307,
       "file_name": "TB's HD Lanterns 4K Optimised SSE Version-80770-2-3-1671288988.zip",
-      "mod_id": 80770
+      "mod_id": 80770,
+      "hash": "sha256-I38qJAW3VxX1taItjsfxkmgqsmJW9T85Mfb7kI77C3g="
     },
     "type": "primary"
   },
@@ -46,7 +49,8 @@
       "version": "2.3",
       "file_id": 341308,
       "file_name": "TB's HD Lanterns 2K SSE Version-80770-2-3-1671289007.zip",
-      "mod_id": 80770
+      "mod_id": 80770,
+      "hash": "sha256-FOwiRZMx7zAKPtTbZaXHjSDYYaGCrJvJqW5TaV/LT8o="
     },
     "type": "primary"
   },
@@ -56,7 +60,8 @@
       "version": "2.3",
       "file_id": 341309,
       "file_name": "TB's HD Lanterns 2K SSE Version-80770-2-3-1671289021.zip",
-      "mod_id": 80770
+      "mod_id": 80770,
+      "hash": "sha256-UpRGlFDx7y5+1iWiZcrh9Dn8GOf8xMGojRfpTu1XFyc="
     },
     "type": "primary"
   },
@@ -66,7 +71,8 @@
       "version": "2.3",
       "file_id": 341310,
       "file_name": "TB's HD Lanterns 1K SSE Version-80770-2-3-1671289046.zip",
-      "mod_id": 80770
+      "mod_id": 80770,
+      "hash": "sha256-HVFFdZvYuFIsvQYVnu+iGA6JAagbfQXrCXZXa5s7gtI="
     },
     "type": "primary"
   },
@@ -76,7 +82,8 @@
       "version": "2.3",
       "file_id": 341312,
       "file_name": "TB's HD Lanterns 1K Optimised SSE Version-80770-2-3-1671289069.zip",
-      "mod_id": 80770
+      "mod_id": 80770,
+      "hash": "sha256-WoovUCss+fjC1Yikv05x2yqAxE3J9df+8q/w3O4mCko="
     },
     "type": "primary"
   },
@@ -86,7 +93,8 @@
       "version": "2.4",
       "file_id": 341641,
       "file_name": "TB's Better Lanterns (Patches) - FOMOD-80770-2-4-1671395725.7z",
-      "mod_id": 80770
+      "mod_id": 80770,
+      "hash": "sha256-zwYmPpd2HjzGb44rpMg/CYbOaQhvrjGZLim8c+cp1ps="
     },
     "type": "primary"
   }

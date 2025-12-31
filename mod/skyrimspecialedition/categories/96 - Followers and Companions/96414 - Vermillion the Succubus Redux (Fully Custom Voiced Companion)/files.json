@@ -1,0 +1,63 @@
+{
+  "3BA Bodyslide Files": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "0.1",
+      "file_id": 410172,
+      "file_name": "3BA Bodyslide Files ( If you dont use Obody )-96414-0-1-1690209349.rar",
+      "mod_id": 96414,
+      "hash": "sha256-UZVmmZ86a4x5FVIhA8JcLZTbcLXlHY63wR3J/9aepnk="
+    }
+  },
+  "Vermillion the Succubus Heels Sound Addon": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 476650,
+      "file_name": "Vermillion the Succubus Heels Sound Addon-96414-1-0-1709488110.rar",
+      "mod_id": 96414,
+      "hash": "sha256-8SqJTHSx3TsLABIeI6Bg9x076Tjn47nk/ZtMJtMvYPk="
+    }
+  },
+  "Vokriinator Black Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 483363,
+      "file_name": "Vokriinator Black Patch-96414-1-0-1711200384.rar",
+      "mod_id": 96414,
+      "hash": "sha256-aAYIiIo5L8V/iFolbrUpng9lgPE/1gN5an3qNyPcFwk="
+    }
+  },
+  "Vermillion Redux Tweaked Looks": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "2.0",
+      "file_id": 663741,
+      "file_name": "Vermillion Redux Tweaked Looks-96414-2-0-1757352723.rar",
+      "mod_id": 96414,
+      "hash": "sha256-/E+4XSIhJcEcNC8WXwwcnQX4JJjy9BHYw/CHNq6kqqQ="
+    }
+  },
+  "Vermillion Redux Tweaked Optional": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "2.0",
+      "file_id": 663743,
+      "file_name": "Vermillion Redux Tweaked Optional-96414-2-0-1757352823.rar",
+      "mod_id": 96414,
+      "hash": "sha256-feiybe4hwIIbKZUmyloRaseyDOdBUETq8WvV8C6RCN0="
+    }
+  },
+  "Vermillion the Succubus Redux": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "2.0",
+      "file_id": 663744,
+      "file_name": "Vermillion the Succubus Redux-96414-2-0-1757353159.rar",
+      "mod_id": 96414,
+      "hash": "sha256-4hLYCwJ4j9GgjPOVQxxBVji5L1VNhQ702Cq29y9y3rM="
+    },
+    "type": "primary"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "Obi's Ghoul Armor 3BA Bodyslide Files": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1",
+      "file_id": 373629,
+      "file_name": "Obi's Ghoul Armor 3BA Bodyslide Files-88090-1-1-1680259651.zip",
+      "mod_id": 88090,
+      "hash": "sha256-SrucWvV86qhmI40IzNNUfJvg1ExS9oVq18RRtunpX8o="
+    }
+  },
+  "Obi's Ghoul Armor MAIN CBBE BodySlide": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.2",
+      "file_id": 373669,
+      "file_name": "Obi's Ghoul Armor MAIN CBBE BodySlide-88090-1-2-1680268710.zip",
+      "mod_id": 88090,
+      "hash": "sha256-wUWim7sfxWevI1QXObxIdULM0sUBl+Z5qJXGKnSea6s="
+    },
+    "type": "primary"
+  }
+}

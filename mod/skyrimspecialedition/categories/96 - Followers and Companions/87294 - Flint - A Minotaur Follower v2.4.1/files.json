@@ -1,0 +1,23 @@
+{
+  "Flint the Minotaur - TNG Patch 2.0": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "2.0",
+      "file_id": 656241,
+      "file_name": "Flint the Minotaur - TNG Patch 2.0-87294-2-0-1755361794.7z",
+      "mod_id": 87294,
+      "hash": "sha256-rxq7tT97CD12+gafh7aPVoAWKeZuqNLny8xrAiZMBJQ="
+    }
+  },
+  "Flint the Minotaur v2.4.1": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "2.4.1",
+      "file_id": 682670,
+      "file_name": "Flint the Minotaur v2.4.1-87294-2-4-1-1762018320.7z",
+      "mod_id": 87294,
+      "hash": "sha256-iZ0S3YVb5oer3F0AkgJN/4K68KS9eXkBgBJEp+5sgXE="
+    },
+    "type": "primary"
+  }
+}

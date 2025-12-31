@@ -1,0 +1,44 @@
+{
+  "Random Male Wall Leaning Animations - DAR": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.2",
+      "file_id": 402054,
+      "file_name": "Random Male Wall Leaning Animations - DAR-94030-1-2-1688003317.zip",
+      "mod_id": 94030,
+      "hash": "sha256-sFBkut5T1Df0WNQv4C4rR13fslvXtarkrMcS+Q7Rx0w="
+    },
+    "type": "primary"
+  },
+  "Random Male Wall Leaning Animations - OAR": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.2",
+      "file_id": 402056,
+      "file_name": "Random Male Wall Leaning Animations - OAR-94030-1-2-1688003336.zip",
+      "mod_id": 94030,
+      "hash": "sha256-zurk0S5z4LzIscrI5xYHMrMHbIgLRJjJTzMrBmCUVvY="
+    },
+    "type": "primary"
+  },
+  "RMWLA - Unisex Patch - DAR": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.2",
+      "file_id": 402057,
+      "file_name": "RMWLA - Unisex Patch - DAR-94030-1-2-1688003362.zip",
+      "mod_id": 94030,
+      "hash": "sha256-5/ySyVaWnyMWBLNBcUb5RUdVb3ebZByxXGtG/VSfM10="
+    }
+  },
+  "RMWLA - Unisex Patch - OAR": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.2",
+      "file_id": 402058,
+      "file_name": "RMWLA - Unisex Patch - OAR-94030-1-2-1688003387.zip",
+      "mod_id": 94030,
+      "hash": "sha256-Hrv7ZbPg06WDbGpjUGJ0sbpq5d5vZrvCsOyOoTaxBsY="
+    }
+  }
+}

@@ -1,0 +1,57 @@
+{
+  "Birds of Prey and Felsaad Terns - My patches SE by Xtudo - 2K textures": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1",
+      "file_id": 384047,
+      "file_name": "Birds of Prey and Felsaad Terns - My patches SE by Xtudo - 2K textures-90535-1-1683030350.7z",
+      "mod_id": 90535,
+      "hash": "sha256-oWaD9W6khUKf4Fx45J7N5Df1Ox/Ex0xpluv33k27m1A="
+    },
+    "type": "primary"
+  },
+  "Birds of Prey and Felsaad Terns - My patches SE by Xtudo - 1K textures": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1",
+      "file_id": 384048,
+      "file_name": "Birds of Prey and Felsaad Terns - My patches SE by Xtudo - 1K textures-90535-1-1683030380.7z",
+      "mod_id": 90535,
+      "hash": "sha256-qPfSwOAF8WDB/BLdKNMI3bxybC+rXS3MOlZaYqYkyz4="
+    },
+    "type": "primary"
+  },
+  "Birds of Prey and Felsaad Terns - My patches SE by Xtudo - No Sound patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1",
+      "file_id": 384049,
+      "file_name": "Birds of Prey and Felsaad Terns - My patches SE by Xtudo - No Sound patch-90535-1-1683030403.7z",
+      "mod_id": 90535,
+      "hash": "sha256-Fi+TQnCd0DJHnFzIlzvcsz6NmI4Z5beNNyNMFALDcrw="
+    },
+    "type": "primary"
+  },
+  "Birds of Prey and Felsaad Terns - My patches SE by Xtudo - USSEP version": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1",
+      "file_id": 384050,
+      "file_name": "Birds of Prey and Felsaad Terns - My patches SE by Xtudo - USSEP version-90535-1-1683030453.7z",
+      "mod_id": 90535,
+      "hash": "sha256-FPofO5NcIADtZ2XEjKt8XTSU1/QVWLFDAmT7s/2C450="
+    },
+    "type": "primary"
+  },
+  "Birds of Prey and Felsaad Terns - My patches SE by Xtudo - USSEP - Apothecary version": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1",
+      "file_id": 384077,
+      "file_name": "Birds of Prey and Felsaad Terns - My patches SE by Xtudo - USSEP - Apothecary version-90535-1-1683037964.7z",
+      "mod_id": 90535,
+      "hash": "sha256-Qjt/wOPLJOu4OqxqXR8V1zu5iso+CX52yY1bka1f7eA="
+    },
+    "type": "primary"
+  }
+}

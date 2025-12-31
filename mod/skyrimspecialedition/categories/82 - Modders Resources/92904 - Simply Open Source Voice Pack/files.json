@@ -1,0 +1,43 @@
+{
+  "SOSVoicePack-MFF-Experiment": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "0.1",
+      "file_id": 570439,
+      "file_name": "SOSVoicePack-MFF-Experiment-92904-0-1-1733692822.7z",
+      "mod_id": 92904,
+      "hash": "sha256-BVG80A0Tma4BqvFec1mQd39oE3hQszB7OrNhRSCLf10="
+    }
+  },
+  "SOSVoicePack-BFF-Experiment": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "0.1",
+      "file_id": 570949,
+      "file_name": "SOSVoicePack-BFF-Experiment-92904-0-1-1733818324.7z",
+      "mod_id": 92904,
+      "hash": "sha256-HR9sOFnBOv4SiK1RYwVbh1knFk80MFNUMgQ2QkcaxDI="
+    }
+  },
+  "SOSVoicePack": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "4.4.0",
+      "file_id": 671586,
+      "file_name": "SOSVoicePack-92904-4-4-0-1759431689.7z",
+      "mod_id": 92904,
+      "hash": "sha256-m5gqe0VtgCJk6bv1nfhufuDhAq+egvEC0pigBOk3kXc="
+    },
+    "type": "primary"
+  },
+  "SOSVoicePack-LazyFollowers-Experiment": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "0.2",
+      "file_id": 671589,
+      "file_name": "SOSVoicePack-LazyFollowers-Experiment-92904-0-2-1759431766.7z",
+      "mod_id": 92904,
+      "hash": "sha256-tb/JzOf6jddabsZ7lrprj067+WQsGhzvs1zT0HCbnn4="
+    }
+  }
+}

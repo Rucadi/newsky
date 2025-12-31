@@ -1,0 +1,57 @@
+{
+  "New Shaman Falmer Dressed V1 Brown Light Color": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0.0",
+      "file_id": 359028,
+      "file_name": "New Shaman Falmer Dressed Brown Light Color-84782-1-0-0-1676201597.zip",
+      "mod_id": 84782,
+      "hash": "sha256-/czZ7qQNIbsHhe1l+qeiCJcwKprnh/VySqpGGqbSB5U="
+    },
+    "type": "primary"
+  },
+  "New Shaman Falmer Dressed V2 Brown Dark COLOR": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0.0",
+      "file_id": 359029,
+      "file_name": "New Shaman Falmer Dressed v2 brown dark-84782-1-0-0-1676201646.zip",
+      "mod_id": 84782,
+      "hash": "sha256-P9op1CMR70ZurL8gA1SC2AEvxtUoktCf4J31dAtTV3o="
+    },
+    "type": "primary"
+  },
+  "New Shaman Falmer Dressed V3 Green Color": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0.0",
+      "file_id": 359030,
+      "file_name": "New Shaman Falmer Dressed v3 green color-84782-1-0-0-1676201759.zip",
+      "mod_id": 84782,
+      "hash": "sha256-iwdbcTeyhS9ZI6UV90PkE5ODRILOma40pqGkzZ1nf3s="
+    },
+    "type": "primary"
+  },
+  "New Shaman Falmer Dressed V4 Blue Color": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0.0",
+      "file_id": 359031,
+      "file_name": "New Shaman Falmer Dressed V4 BLUE COLOR-84782-1-0-0-1676201808.zip",
+      "mod_id": 84782,
+      "hash": "sha256-7Gv997Zf4+nAG9qXB32M3CNx5TyWvW8s+ICQrwJI9HY="
+    },
+    "type": "primary"
+  },
+  "New Shaman Falmer Dressed V5 Red Color": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0.0",
+      "file_id": 359033,
+      "file_name": "New Shaman Falmer Dressed V5 RED COLOR-84782-1-0-0-1676201852.zip",
+      "mod_id": 84782,
+      "hash": "sha256-nJuyY/Z5m/lQM8zYtDjjjA6iyp+f3PdgGjZnSn72kvk="
+    },
+    "type": "primary"
+  }
+}

@@ -1,0 +1,53 @@
+{
+  "Meridia Revised - A New Voice": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 366178,
+      "file_name": "Meridia Revised - A New Voice-86483-1-0-1678139613.zip",
+      "mod_id": 86483,
+      "hash": "sha256-lysusG/wW6N9noCPJuumAtuvGhMd71ygCG6klqCt/BQ="
+    },
+    "type": "primary"
+  },
+  "Meridia Revised - A New Voice Alt": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 366179,
+      "file_name": "Meridia Revised - A New Voice Alt-86483-1-0-1678139684.zip",
+      "mod_id": 86483,
+      "hash": "sha256-uQ4JFarGsBqIgxHIgv8bsqqlMFPDmupcKNfuRUQn3K4="
+    }
+  },
+  "Daedric Voices Meridia Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 520822,
+      "file_name": "Daedric Voices Meridia Patch-86483-1-0-1720893811.zip",
+      "mod_id": 86483,
+      "hash": "sha256-IFfJRSOPeFdzHDlTql+RCqspK7it4lh2r1w4XHvlmZQ="
+    }
+  },
+  "Aereleth Meridia Voice Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.01",
+      "file_id": 560720,
+      "file_name": "Aereleth Meridia Voice Patch-86483-1-01-1731216693.zip",
+      "mod_id": 86483,
+      "hash": "sha256-DNnVC5tEPE0BCA72TsoiKtzZGnqfCumcDOr71bX1A7Q="
+    }
+  },
+  "Meridia Revised - AFDI Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 619188,
+      "file_name": "Meridia Revised - A New Voice - AFDI Patch-86483-1-0-1745109218.zip",
+      "mod_id": 86483,
+      "hash": "sha256-d6KNRCV3lAN9bHRS9iCluCn961fBsH4M2lcVyprrI14="
+    }
+  }
+}

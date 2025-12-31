@@ -1,0 +1,83 @@
+{
+  "Cosplay Pack Underwear - hdt SMP (CBBE 3BA)": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.4",
+      "file_id": 460336,
+      "file_name": "Cosplay Pack Underwear - hdt SMP (CBBE 3BA)-90892-1-4-1704997352.7z",
+      "mod_id": 90892,
+      "hash": "sha256-tRq2Bnshlg4JjRsZAfZ985r8DdwBTJQ9NR3UiVt0sfI="
+    }
+  },
+  "Cosplay Pack - hdt SMP (CBBE 3BA)": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.4",
+      "file_id": 460355,
+      "file_name": "Cosplay Pack - hdt SMP (CBBE 3BA)-90892-1-4-1705004825.7z",
+      "mod_id": 90892,
+      "hash": "sha256-5wmGbl3E8abzPKSJSQ5YVAzL/0Da2ytckMcG8QLuQ4s="
+    },
+    "type": "primary"
+  },
+  "Cosplay Pack Bunnyclub - hdt SMP (CBBE 3BA)": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.4",
+      "file_id": 460368,
+      "file_name": "Cosplay Pack Bunnyclub - hdt SMP (CBBE 3BA)-90892-1-4-1705006876.7z",
+      "mod_id": 90892,
+      "hash": "sha256-R/PdxsO7VFau91w/PUglywPdbOnCxNH5RrUpiBvSAac="
+    }
+  },
+  "Cosplay Pack Ghosted - hdt SMP (CBBE 3BA)": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.4",
+      "file_id": 460369,
+      "file_name": "Cosplay Pack Ghosted - hdt SMP (CBBE 3BA)-90892-1-4-1705006951.7z",
+      "mod_id": 90892,
+      "hash": "sha256-r10am/MeZkA6HQwZb4OnpD5AQs+OHduZ4a7mFLabg60="
+    }
+  },
+  "Cosplay Pack Maid - hdt SMP (CBBE 3BA)": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.4",
+      "file_id": 460372,
+      "file_name": "Cosplay Pack Maid - hdt SMP (CBBE 3BA)-90892-1-4-1705007588.7z",
+      "mod_id": 90892,
+      "hash": "sha256-KFRu5xefK/OI7/oWLsMr0e8udCaicnNHxw3ie39a/Eo="
+    }
+  },
+  "Cosplay Pack Sportdays - hdt SMP (CBBE 3BA)": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.4",
+      "file_id": 460386,
+      "file_name": "Cosplay Pack Sportdays - hdt SMP (CBBE 3BA)-90892-1-4-1705010439.7z",
+      "mod_id": 90892,
+      "hash": "sha256-3qRkceomvaQyH3yqB6ghF1b8COi+yqxtCuxKwKne3m0="
+    }
+  },
+  "Cosplay Pack - Director's Cut": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.4",
+      "file_id": 460387,
+      "file_name": "Cosplay Pack - Director's Cut-90892-1-4-1705010522.7z",
+      "mod_id": 90892,
+      "hash": "sha256-i8IVOAu1SOuxwQiChP987Yhf4q8LOSuFwPfY1JusLEQ="
+    }
+  },
+  "Cosplay Pack Schooldays - hdt SMP (CBBE 3BA)": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.4",
+      "file_id": 462276,
+      "file_name": "Cosplay Pack Schooldays - hdt SMP (CBBE 3BA)-90892-1-4-1705500502.7z",
+      "mod_id": 90892,
+      "hash": "sha256-KfJxy3sXwlSG4EmEZPzs0R9U5bovauJJyWsMj/ExsDw="
+    }
+  }
+}

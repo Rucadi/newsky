@@ -1,64 +1,64 @@
 {
-    "Elven Armors and Weapons Retexture SE": {
-        "nexusmods": {
-            "game_name": "skyrimspecialedition",
-            "version": "2.0.0",
-            "file_id": 663689,
-            "file_name": "Elven Armors and Weapons Retexture SE-87283-2-0-0-1757337247.7z",
-            "mod_id": 87283,
-            "hash": "sha256-0g5ufmmZprQQJFmlYlVWrBBsVfC61EWbR3GX/ocSVzc="
-        },
-        "type": "primary"
+  "Elven Armors and Weapons Retexture SE": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "2.0.0",
+      "file_id": 663689,
+      "file_name": "Elven Armors and Weapons Retexture SE-87283-2-0-0-1757337247.7z",
+      "mod_id": 87283,
+      "hash": "sha256-0g5ufmmZprQQJFmlYlVWrBBsVfC61EWbR3GX/ocSVzc="
     },
-    "Elven Retexture No Consistency patches": {
-        "nexusmods": {
-            "game_name": "skyrimspecialedition",
-            "version": "2.0.0",
-            "file_id": 663691,
-            "file_name": "Elven Retexture No Consistency patches-87283-2-0-0-1757337416.7z",
-            "mod_id": 87283,
-            "hash": "sha256-Ax5Lh0FVWFHwR7f+r9y7QT1QdKKUN77JtynU9NO6kV8="
-        },
-        "type": "primary"
+    "type": "primary"
+  },
+  "Elven Retexture No Consistency patches": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "2.0.0",
+      "file_id": 663691,
+      "file_name": "Elven Retexture No Consistency patches-87283-2-0-0-1757337416.7z",
+      "mod_id": 87283,
+      "hash": "sha256-Ax5Lh0FVWFHwR7f+r9y7QT1QdKKUN77JtynU9NO6kV8="
     },
-    "Elven Armors and Weapons Retexture SE - Half Res": {
-        "nexusmods": {
-            "game_name": "skyrimspecialedition",
-            "version": "2.0.0",
-            "file_id": 663692,
-            "file_name": "Elven Armors and Weapons Retexture SE - Half Res-87283-2-0-0-1757337677.7z",
-            "mod_id": 87283,
-            "hash": "sha256-mp1PKGgkWlqcPrlHuWTTblvXWB6WMf3w0FD+iobK1wU="
-        }
-    },
-    "Elven Retexture No Consistency patches - Half Res": {
-        "nexusmods": {
-            "game_name": "skyrimspecialedition",
-            "version": "2.0.0",
-            "file_id": 663693,
-            "file_name": "Elven Retexture No Consistency patches - Half Res-87283-2-0-0-1757337809.7z",
-            "mod_id": 87283,
-            "hash": "sha256-97IerjJGiC9aILJOs8KI3+kQ20YkfCeyiLgcWucqME0="
-        }
-    },
-    "Elven Armors and Weapons Retexture SE - Low Res": {
-        "nexusmods": {
-            "game_name": "skyrimspecialedition",
-            "version": "2.0.0",
-            "file_id": 663694,
-            "file_name": "Elven Armors and Weapons Retexture SE - Low Res-87283-2-0-0-1757337902.7z",
-            "mod_id": 87283,
-            "hash": "sha256-Yx1oo7OmGSEEBMA+Y9TWPS/SjKbnicBn38wX8ybMfRY="
-        }
-    },
-    "Elven Retexture No Consistency patches - Low Res": {
-        "nexusmods": {
-            "game_name": "skyrimspecialedition",
-            "version": "2.0.0",
-            "file_id": 663695,
-            "file_name": "Elven Retexture No Consistency patches - Low Res-87283-2-0-0-1757337950.7z",
-            "mod_id": 87283,
-            "hash": "sha256-Q56MB4utlnucqo/mc41rh5iSXb8QxS92q7bj9RNB4y4="
-        }
+    "type": "primary"
+  },
+  "Elven Armors and Weapons Retexture SE - Half Res": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "2.0.0",
+      "file_id": 663692,
+      "file_name": "Elven Armors and Weapons Retexture SE - Half Res-87283-2-0-0-1757337677.7z",
+      "mod_id": 87283,
+      "hash": "sha256-mp1PKGgkWlqcPrlHuWTTblvXWB6WMf3w0FD+iobK1wU="
     }
+  },
+  "Elven Retexture No Consistency patches - Half Res": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "2.0.0",
+      "file_id": 663693,
+      "file_name": "Elven Retexture No Consistency patches - Half Res-87283-2-0-0-1757337809.7z",
+      "mod_id": 87283,
+      "hash": "sha256-97IerjJGiC9aILJOs8KI3+kQ20YkfCeyiLgcWucqME0="
+    }
+  },
+  "Elven Armors and Weapons Retexture SE - Low Res": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "2.0.0",
+      "file_id": 663694,
+      "file_name": "Elven Armors and Weapons Retexture SE - Low Res-87283-2-0-0-1757337902.7z",
+      "mod_id": 87283,
+      "hash": "sha256-Yx1oo7OmGSEEBMA+Y9TWPS/SjKbnicBn38wX8ybMfRY="
+    }
+  },
+  "Elven Retexture No Consistency patches - Low Res": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "2.0.0",
+      "file_id": 663695,
+      "file_name": "Elven Retexture No Consistency patches - Low Res-87283-2-0-0-1757337950.7z",
+      "mod_id": 87283,
+      "hash": "sha256-Q56MB4utlnucqo/mc41rh5iSXb8QxS92q7bj9RNB4y4="
+    }
+  }
 }

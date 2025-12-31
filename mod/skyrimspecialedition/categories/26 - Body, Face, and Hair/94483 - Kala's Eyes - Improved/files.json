@@ -1,0 +1,35 @@
+{
+  "Kala's Eyes - Improved 1k": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1.0",
+      "file_id": 439356,
+      "file_name": "Kala's Eyes - Improved 1k-94483-1-1-0-1698998790.7z",
+      "mod_id": 94483,
+      "hash": "sha256-rT72QvnPIAkxGVdtnZbb32GhG1OrCZ21IhCv5yNlkjg="
+    },
+    "type": "primary"
+  },
+  "Kala's Eyes - Improved 2k": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1.0",
+      "file_id": 439357,
+      "file_name": "Kala's Eyes - Improved 2k-94483-1-1-0-1698998854.7z",
+      "mod_id": 94483,
+      "hash": "sha256-r/Pys7AjcOj+yhRDWoB9ItCWq00kgUJipRhr4Bg0vyk="
+    },
+    "type": "primary"
+  },
+  "Kala's Eyes - Improved 4k": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1.0",
+      "file_id": 439358,
+      "file_name": "Kala's Eyes - Improved 4k-94483-1-1-0-1698999057.7z",
+      "mod_id": 94483,
+      "hash": "sha256-3rMUL31upd0Hy15qU0hMV62Ni+pZDGDTOmBhJp2BjLE="
+    },
+    "type": "primary"
+  }
+}

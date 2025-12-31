@@ -1,0 +1,33 @@
+{
+  "Candlehearth - Tavern AI Fix Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1.0",
+      "file_id": 415808,
+      "file_name": "Candlehearth - Tavern AI Fix Patch-97542-1-1-0-1691680299.7z",
+      "mod_id": 97542,
+      "hash": "sha256-oSp+JE/ICfSwRlkKbT1wzCsHtQATet65WBr/H/JXQCg="
+    }
+  },
+  "Candlehearth - USMP Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1.0",
+      "file_id": 415870,
+      "file_name": "Candlehearth - USMP Patch-97542-1-1-0-1691695117.7z",
+      "mod_id": 97542,
+      "hash": "sha256-24vTBJab36vRUkkSLAYiA286VgHSYOipTPP4w7/crpw="
+    }
+  },
+  "Candlehearth - An Inn Overhaul": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1.1",
+      "file_id": 419795,
+      "file_name": "Candlehearth - An Inn Overhaul-97542-1-1-1-1692799446.7z",
+      "mod_id": 97542,
+      "hash": "sha256-z0TIfUhyQP4qxzjySh9ZzPvE05ednfSHYf951DqN4gw="
+    },
+    "type": "primary"
+  }
+}

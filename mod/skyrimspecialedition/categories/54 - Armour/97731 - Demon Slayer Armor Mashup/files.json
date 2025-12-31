@@ -1,0 +1,44 @@
+{
+  "Demon Slayer Armor Mashup (ESL)": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "4.0",
+      "file_id": 566650,
+      "file_name": "Demon Slayer Armor Mashup (ESL)-97731-4-0-1732730000.rar",
+      "mod_id": 97731,
+      "hash": "sha256-tiHpi7uq7qbcKGKwPzS0HgcIFi0GVwUAnd3n2K7tEho="
+    },
+    "type": "primary"
+  },
+  "Demon Slayer Armor Mashup 2K Downscaled": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "4.0",
+      "file_id": 566651,
+      "file_name": "Demon Slayer Armor Mashup 2K Downscaled-97731-4-0-1732730176.rar",
+      "mod_id": 97731,
+      "hash": "sha256-olPb3kOJPF52sx8nvRZCE4zm7LD9pnncmoExzDKBtMY="
+    },
+    "type": "primary"
+  },
+  "Demon Slayer Armor Mashup LUX ESL": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "4.0",
+      "file_id": 566652,
+      "file_name": "Demon Slayer Armor Mashup LUX ESL-97731-4-0-1732730255.rar",
+      "mod_id": 97731,
+      "hash": "sha256-N6FpBgTv8ePRAMJ3xsaZcWKEdfUa4eG0r+tliaq2iRM="
+    }
+  },
+  "Demon Slayer Armor Mashup Without dungeon": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "4.0",
+      "file_id": 566653,
+      "file_name": "Demon Slayer Armor Mashup Without dungeon-97731-4-0-1732730373.rar",
+      "mod_id": 97731,
+      "hash": "sha256-Ld8iCiLtafnEWzrgmpQiRDQD6Jl+mKvTQsRwRMPk89Q="
+    }
+  }
+}

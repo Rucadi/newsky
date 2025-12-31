@@ -1,0 +1,100 @@
+{
+  "dae casting bar setting": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1",
+      "file_id": 572227,
+      "file_name": "dae casting bar setting-99737-1-1734160047.rar",
+      "mod_id": 99737,
+      "hash": "sha256-B7Vaxf4Fy7iNRVITIFpyRwuoyp02e9+E0uzK2/m7OZA="
+    }
+  },
+  "DOMAIN regular main menu 2k25 1.1": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1",
+      "file_id": 690273,
+      "file_name": "DOMAIN regular main menu 2k25 1.1-99737-1-1-1763879173.rar",
+      "mod_id": 99737,
+      "hash": "sha256-7A8P0S0zQAy6sZ9PZIHWNrX1F09zgCECak4Z5+ow9I0="
+    },
+    "type": "primary"
+  },
+  "DOMAIN - bodyslides 0.8": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "0.8",
+      "file_id": 699368,
+      "file_name": "DOMAIN - bodyslides 0.8-99737-0-8-1766083909.rar",
+      "mod_id": 99737,
+      "hash": "sha256-riGPvXm0w+5H1uRXhlt1Ik+JeH50SjhCJt3Aho0MWTY="
+    },
+    "type": "primary"
+  },
+  "DOMAIN - lodgen 1.1": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "lod1.1",
+      "file_id": 700027,
+      "file_name": "DOMAIN - lodgen 1.1-99737-lod1-1-1766249883.rar",
+      "mod_id": 99737,
+      "hash": "sha256-iRYKdmmgsYfHxiN4+iUk+znubay1jeCiPxbhyo7GIxk="
+    },
+    "type": "primary"
+  },
+  "DOMAIN DESTINY - texgen 1.1": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "tex1.1",
+      "file_id": 700046,
+      "file_name": "DOMAIN DESTINY - texgen 1.1-99737-tex1-1-1766252043.zip",
+      "mod_id": 99737,
+      "hash": "sha256-TYKn0pWxHfiv2IMQ+qR/Wpeb5+BS1oqokrwuodpY31o="
+    },
+    "type": "primary"
+  },
+  "DOMAIN - objgen 1.3": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.3",
+      "file_id": 700210,
+      "file_name": "DOMAIN - objgen 1.3-99737-1-3-1766283656.zip",
+      "mod_id": 99737,
+      "hash": "sha256-9zJVe/oQEc8lqksV/z3PDIpdUv3+kc/71PQsM1e2Hnk="
+    },
+    "type": "primary"
+  },
+  "domain synth patches 0.6": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "0.6",
+      "file_id": 700230,
+      "file_name": "domain synth patches 0.6-99737-0-6-1766287315.rar",
+      "mod_id": 99737,
+      "hash": "sha256-+Qh+/A6uWGEIt5g0aXJODuPpBTv+yHegfHxJVGqwh8A="
+    },
+    "type": "primary"
+  },
+  "DOMAIN pandora output 2.12": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "2.12",
+      "file_id": 700246,
+      "file_name": "DOMAIN pandora output 2.12-99737-2-12-1766288883.rar",
+      "mod_id": 99737,
+      "hash": "sha256-ZPbcVh2FRAP3NC5ZmfKpsEWE7PpR5IXUA7dX4CsiBp4="
+    },
+    "type": "primary"
+  },
+  "DOMAIN - inis and configs 1.77": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.77",
+      "file_id": 700563,
+      "file_name": "DOMAIN - inis and configs 1.77-99737-1-77-1766345290.rar",
+      "mod_id": 99737,
+      "hash": "sha256-Gfpx9l9PeZTte/DhNi1MEsbQQV24v7cRFDnO+uJYhL8="
+    },
+    "type": "primary"
+  }
+}

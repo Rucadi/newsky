@@ -1,197 +1,197 @@
 {
-    "GlassTile Texture Replacer": {
-        "nexusmods": {
-            "game_name": "skyrimspecialedition",
-            "version": "1.0",
-            "file_id": 407594,
-            "file_name": "GlassTile Texture Replacer-92768-1-0-1689508797.rar",
-            "mod_id": 92768,
-            "hash": "sha256-SgKRseEfM5zuNc+Xfr/7oMQdBLrPI70o6Ci3AtXR8wQ="
-        }
-    },
-    "Alchemy Station Variants - ElSopa Potions": {
-        "nexusmods": {
-            "game_name": "skyrimspecialedition",
-            "version": "1.4",
-            "file_id": 427074,
-            "file_name": "Alchemy Station Variants - ElSopa Potions-92768-1-4-1695065894.rar",
-            "mod_id": 92768,
-            "hash": "sha256-uxGz2PPp4uiRrtEOmfUHLqci+Ss9DH8r0HDeL/fZ+rY="
-        }
-    },
-    "Alchemy Station Variants - ElSopa Potions ENB": {
-        "nexusmods": {
-            "game_name": "skyrimspecialedition",
-            "version": "1.4",
-            "file_id": 427075,
-            "file_name": "Alchemy Station Variants - ElSopa Potions ENB-92768-1-4-1695065954.rar",
-            "mod_id": 92768,
-            "hash": "sha256-Hc8tf46sf09wpNML0Opyib1MDEJAt0FtpIQMpDrsPSw="
-        }
-    },
-    "Alchemy Station Variants - Less Clutter": {
-        "nexusmods": {
-            "game_name": "skyrimspecialedition",
-            "version": "1.4",
-            "file_id": 427076,
-            "file_name": "Alchemy Station Variants - Less Clutter-92768-1-4-1695065992.rar",
-            "mod_id": 92768,
-            "hash": "sha256-rpVLa/h7nJhH6HlsrRCRS70MWRGHdesKYIOdBMXGytg="
-        }
-    },
-    "Alchemy Station Variants - Less Clutter ENB": {
-        "nexusmods": {
-            "game_name": "skyrimspecialedition",
-            "version": "1.4",
-            "file_id": 427077,
-            "file_name": "Alchemy Station Variants - Less Clutter ENB-92768-1-4-1695066037.rar",
-            "mod_id": 92768,
-            "hash": "sha256-h6PVTicX6CTmqDjKv0RbJqv2Fs67dXZQiCfMCc7iIKo="
-        }
-    },
-    "Alchemy Station Variants - No Clutter": {
-        "nexusmods": {
-            "game_name": "skyrimspecialedition",
-            "version": "1.4",
-            "file_id": 427078,
-            "file_name": "Alchemy Station Variants - No Clutter-92768-1-4-1695066075.rar",
-            "mod_id": 92768,
-            "hash": "sha256-k3YARo+YxQb5BzwUy1VYy8segNhCASz6RLGxTBSR5XA="
-        }
-    },
-    "Alchemy Station Variants - No Clutter ENB": {
-        "nexusmods": {
-            "game_name": "skyrimspecialedition",
-            "version": "1.4",
-            "file_id": 427079,
-            "file_name": "Alchemy Station Variants - No Clutter ENB-92768-1-4-1695066138.rar",
-            "mod_id": 92768,
-            "hash": "sha256-hck+o60p81U/68OfjW4LOLAEnmxF/Io28zDzkHnsSdk="
-        }
-    },
-    "(1) Alchemy Station Variants - Continuous Swap": {
-        "nexusmods": {
-            "game_name": "skyrimspecialedition",
-            "version": "1.4.1",
-            "file_id": 460508,
-            "file_name": "(1) Alchemy Station Variants - Continuous Swap-92768-1-4-1-1705038318.rar",
-            "mod_id": 92768,
-            "hash": "sha256-z9EaThyP8p5Fu4NyhnplI2vCp2owqB7ZCoBw2r5TzAU="
-        },
-        "type": "primary"
-    },
-    "(3) Alchemy Station Variants - Persistent Swap": {
-        "nexusmods": {
-            "game_name": "skyrimspecialedition",
-            "version": "1.4.1",
-            "file_id": 460510,
-            "file_name": "(3) Alchemy Station Variants - Persistent Swap-92768-1-4-1-1705038397.rar",
-            "mod_id": 92768,
-            "hash": "sha256-m3ydz37FDcpt51srifa+O/6NWr8i8zfiSvQqabf9S2E="
-        },
-        "type": "primary"
-    },
-    "(2) Alchemy Station Variants - Continuous Swap ENB": {
-        "nexusmods": {
-            "game_name": "skyrimspecialedition",
-            "version": "1.4.1",
-            "file_id": 460512,
-            "file_name": "(2) Alchemy Station Variants - Continuous Swap ENB-92768-1-4-1-1705038504.rar",
-            "mod_id": 92768,
-            "hash": "sha256-pwlZT4qM39XipMiLuEXrOsV2qs/orsE3q+TQ5qQY2yw="
-        },
-        "type": "primary"
-    },
-    "(4) Alchemy Station Variants - Persistent Swap ENB": {
-        "nexusmods": {
-            "game_name": "skyrimspecialedition",
-            "version": "1.4.1",
-            "file_id": 460513,
-            "file_name": "(4) Alchemy Station Variants - Persistent Swap ENB-92768-1-4-1-1705038585.rar",
-            "mod_id": 92768,
-            "hash": "sha256-WdTX+VOfc4FV+nyyHRDm5oT0w0MLzmyz62ql9/3/PNY="
-        },
-        "type": "primary"
-    },
-    "Higher Poly Alchemy Table for Load Screen": {
-        "nexusmods": {
-            "game_name": "skyrimspecialedition",
-            "version": "1.0",
-            "file_id": 460514,
-            "file_name": "Higher Poly Alchemy Table for Load Screen-92768-1-0-1705038814.rar",
-            "mod_id": 92768,
-            "hash": "sha256-fhDB88SD+c5/Qpp/YslkFgU1jSkl8La841D8beb4VCE="
-        }
-    },
-    "Alchemy Station Variants - XxAwesome PotionsXx": {
-        "nexusmods": {
-            "game_name": "skyrimspecialedition",
-            "version": "1.4",
-            "file_id": 500201,
-            "file_name": "Alchemy Station Variants - XxAwesome PotionsXx-92768-1-4-1715453385.rar",
-            "mod_id": 92768,
-            "hash": "sha256-4PLCEQHF767d82KNr6xkIzDadadoKRsZP3iPz25lIrE="
-        }
-    },
-    "Alchemy Station Variants _ XxAwesome PotionsXx ENB": {
-        "nexusmods": {
-            "game_name": "skyrimspecialedition",
-            "version": "1.4",
-            "file_id": 500203,
-            "file_name": "Alchemy Station Variants _ XxAwesome PotionsXx ENB-92768-1-4-1715453455.rar",
-            "mod_id": 92768,
-            "hash": "sha256-EZ2Dqv6rQ6LXLSs7vAIlS1JZsNjJ3ugGvoCBT1EwtOo="
-        }
-    },
-    "Alchemy Station Variants - Unified Potions": {
-        "nexusmods": {
-            "game_name": "skyrimspecialedition",
-            "version": "1.4",
-            "file_id": 665568,
-            "file_name": "Alchemy Station Variants - Unified Potions-92768-1-4-1757833289.rar",
-            "mod_id": 92768,
-            "hash": "sha256-gZTeA/qRm+QiD1+MKboXLHmfx/MPTXZSeztLIlNvNYc="
-        }
-    },
-    "Alchemy Station Variants - Unified Potions ENB": {
-        "nexusmods": {
-            "game_name": "skyrimspecialedition",
-            "version": "1.4",
-            "file_id": 665569,
-            "file_name": "Alchemy Station Variants - Unified Potions ENB-92768-1-4-1757833362.rar",
-            "mod_id": 92768,
-            "hash": "sha256-KPSZTlyr+UwoFuQ6d4rdqFjNzPguZePFq/c6drf0u0M="
-        }
-    },
-    "Alchemy Station Variants - Tamriel Alchemy": {
-        "nexusmods": {
-            "game_name": "skyrimspecialedition",
-            "version": "1.0",
-            "file_id": 700414,
-            "file_name": "Alchemy Station Variants - Tamriel Alchemy-92768-1-0-1766321943.7z",
-            "mod_id": 92768,
-            "hash": "sha256-9+hBjJ/eO2grj/tr/IzBeU16FCR+CM3cEZYyqJDKDNw="
-        }
-    },
-    "Alchemy Station Variants - Tamriel Alchemy ENB": {
-        "nexusmods": {
-            "game_name": "skyrimspecialedition",
-            "version": "1.0",
-            "file_id": 700415,
-            "file_name": "Alchemy Station Variants - Tamriel Alchemy ENB-92768-1-0-1766321987.7z",
-            "mod_id": 92768,
-            "hash": "sha256-rXaSDt0hyzcPmJdWdbDXwlI+caIwZlI17kPgmkCPSlE="
-        }
-    },
-    "(0) Alchemy Station Variants - FOMOD": {
-        "nexusmods": {
-            "game_name": "skyrimspecialedition",
-            "version": "1.4.5",
-            "file_id": 700417,
-            "file_name": "(0) Alchemy Station Variants - FOMOD-92768-1-4-5-1766322052.7z",
-            "mod_id": 92768,
-            "hash": "sha256-FFRzq3gUgTopFubfhQa23VEzoQ4vW9glFge+gq/DeWo="
-        },
-        "type": "primary"
+  "GlassTile Texture Replacer": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 407594,
+      "file_name": "GlassTile Texture Replacer-92768-1-0-1689508797.rar",
+      "mod_id": 92768,
+      "hash": "sha256-SgKRseEfM5zuNc+Xfr/7oMQdBLrPI70o6Ci3AtXR8wQ="
     }
+  },
+  "Alchemy Station Variants - ElSopa Potions": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.4",
+      "file_id": 427074,
+      "file_name": "Alchemy Station Variants - ElSopa Potions-92768-1-4-1695065894.rar",
+      "mod_id": 92768,
+      "hash": "sha256-uxGz2PPp4uiRrtEOmfUHLqci+Ss9DH8r0HDeL/fZ+rY="
+    }
+  },
+  "Alchemy Station Variants - ElSopa Potions ENB": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.4",
+      "file_id": 427075,
+      "file_name": "Alchemy Station Variants - ElSopa Potions ENB-92768-1-4-1695065954.rar",
+      "mod_id": 92768,
+      "hash": "sha256-Hc8tf46sf09wpNML0Opyib1MDEJAt0FtpIQMpDrsPSw="
+    }
+  },
+  "Alchemy Station Variants - Less Clutter": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.4",
+      "file_id": 427076,
+      "file_name": "Alchemy Station Variants - Less Clutter-92768-1-4-1695065992.rar",
+      "mod_id": 92768,
+      "hash": "sha256-rpVLa/h7nJhH6HlsrRCRS70MWRGHdesKYIOdBMXGytg="
+    }
+  },
+  "Alchemy Station Variants - Less Clutter ENB": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.4",
+      "file_id": 427077,
+      "file_name": "Alchemy Station Variants - Less Clutter ENB-92768-1-4-1695066037.rar",
+      "mod_id": 92768,
+      "hash": "sha256-h6PVTicX6CTmqDjKv0RbJqv2Fs67dXZQiCfMCc7iIKo="
+    }
+  },
+  "Alchemy Station Variants - No Clutter": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.4",
+      "file_id": 427078,
+      "file_name": "Alchemy Station Variants - No Clutter-92768-1-4-1695066075.rar",
+      "mod_id": 92768,
+      "hash": "sha256-k3YARo+YxQb5BzwUy1VYy8segNhCASz6RLGxTBSR5XA="
+    }
+  },
+  "Alchemy Station Variants - No Clutter ENB": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.4",
+      "file_id": 427079,
+      "file_name": "Alchemy Station Variants - No Clutter ENB-92768-1-4-1695066138.rar",
+      "mod_id": 92768,
+      "hash": "sha256-hck+o60p81U/68OfjW4LOLAEnmxF/Io28zDzkHnsSdk="
+    }
+  },
+  "(1) Alchemy Station Variants - Continuous Swap": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.4.1",
+      "file_id": 460508,
+      "file_name": "(1) Alchemy Station Variants - Continuous Swap-92768-1-4-1-1705038318.rar",
+      "mod_id": 92768,
+      "hash": "sha256-z9EaThyP8p5Fu4NyhnplI2vCp2owqB7ZCoBw2r5TzAU="
+    },
+    "type": "primary"
+  },
+  "(3) Alchemy Station Variants - Persistent Swap": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.4.1",
+      "file_id": 460510,
+      "file_name": "(3) Alchemy Station Variants - Persistent Swap-92768-1-4-1-1705038397.rar",
+      "mod_id": 92768,
+      "hash": "sha256-m3ydz37FDcpt51srifa+O/6NWr8i8zfiSvQqabf9S2E="
+    },
+    "type": "primary"
+  },
+  "(2) Alchemy Station Variants - Continuous Swap ENB": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.4.1",
+      "file_id": 460512,
+      "file_name": "(2) Alchemy Station Variants - Continuous Swap ENB-92768-1-4-1-1705038504.rar",
+      "mod_id": 92768,
+      "hash": "sha256-pwlZT4qM39XipMiLuEXrOsV2qs/orsE3q+TQ5qQY2yw="
+    },
+    "type": "primary"
+  },
+  "(4) Alchemy Station Variants - Persistent Swap ENB": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.4.1",
+      "file_id": 460513,
+      "file_name": "(4) Alchemy Station Variants - Persistent Swap ENB-92768-1-4-1-1705038585.rar",
+      "mod_id": 92768,
+      "hash": "sha256-WdTX+VOfc4FV+nyyHRDm5oT0w0MLzmyz62ql9/3/PNY="
+    },
+    "type": "primary"
+  },
+  "Higher Poly Alchemy Table for Load Screen": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 460514,
+      "file_name": "Higher Poly Alchemy Table for Load Screen-92768-1-0-1705038814.rar",
+      "mod_id": 92768,
+      "hash": "sha256-fhDB88SD+c5/Qpp/YslkFgU1jSkl8La841D8beb4VCE="
+    }
+  },
+  "Alchemy Station Variants - XxAwesome PotionsXx": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.4",
+      "file_id": 500201,
+      "file_name": "Alchemy Station Variants - XxAwesome PotionsXx-92768-1-4-1715453385.rar",
+      "mod_id": 92768,
+      "hash": "sha256-4PLCEQHF767d82KNr6xkIzDadadoKRsZP3iPz25lIrE="
+    }
+  },
+  "Alchemy Station Variants _ XxAwesome PotionsXx ENB": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.4",
+      "file_id": 500203,
+      "file_name": "Alchemy Station Variants _ XxAwesome PotionsXx ENB-92768-1-4-1715453455.rar",
+      "mod_id": 92768,
+      "hash": "sha256-EZ2Dqv6rQ6LXLSs7vAIlS1JZsNjJ3ugGvoCBT1EwtOo="
+    }
+  },
+  "Alchemy Station Variants - Unified Potions": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.4",
+      "file_id": 665568,
+      "file_name": "Alchemy Station Variants - Unified Potions-92768-1-4-1757833289.rar",
+      "mod_id": 92768,
+      "hash": "sha256-gZTeA/qRm+QiD1+MKboXLHmfx/MPTXZSeztLIlNvNYc="
+    }
+  },
+  "Alchemy Station Variants - Unified Potions ENB": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.4",
+      "file_id": 665569,
+      "file_name": "Alchemy Station Variants - Unified Potions ENB-92768-1-4-1757833362.rar",
+      "mod_id": 92768,
+      "hash": "sha256-KPSZTlyr+UwoFuQ6d4rdqFjNzPguZePFq/c6drf0u0M="
+    }
+  },
+  "Alchemy Station Variants - Tamriel Alchemy": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 700414,
+      "file_name": "Alchemy Station Variants - Tamriel Alchemy-92768-1-0-1766321943.7z",
+      "mod_id": 92768,
+      "hash": "sha256-9+hBjJ/eO2grj/tr/IzBeU16FCR+CM3cEZYyqJDKDNw="
+    }
+  },
+  "Alchemy Station Variants - Tamriel Alchemy ENB": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 700415,
+      "file_name": "Alchemy Station Variants - Tamriel Alchemy ENB-92768-1-0-1766321987.7z",
+      "mod_id": 92768,
+      "hash": "sha256-rXaSDt0hyzcPmJdWdbDXwlI+caIwZlI17kPgmkCPSlE="
+    }
+  },
+  "(0) Alchemy Station Variants - FOMOD": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.4.5",
+      "file_id": 700417,
+      "file_name": "(0) Alchemy Station Variants - FOMOD-92768-1-4-5-1766322052.7z",
+      "mod_id": 92768,
+      "hash": "sha256-FFRzq3gUgTopFubfhQa23VEzoQ4vW9glFge+gq/DeWo="
+    },
+    "type": "primary"
+  }
 }

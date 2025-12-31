@@ -1,0 +1,34 @@
+{
+  "OAR Random Unarmed Workout Animations block versio": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1",
+      "file_id": 395991,
+      "file_name": "OAR Random Unarmed Workout Animations block versio-92912-1-1-1686221411.rar",
+      "mod_id": 92912,
+      "hash": "sha256-D54rRgqXiWDooKkTiVUK63Q+ZZqOotdyydpQSUqmtQ0="
+    }
+  },
+  "OAR Random Unarmed Workout Animations": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.2",
+      "file_id": 399508,
+      "file_name": "OAR Random Unarmed Workout Animations-92912-1-2-1687301172.rar",
+      "mod_id": 92912,
+      "hash": "sha256-q44K+cjzHftgm0WAxQvFGXuGoi0cqvnfJ1KvZxV8BNM="
+    },
+    "type": "primary"
+  },
+  "OAR Random Unarmed Workout Animations VARIANTS": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.2",
+      "file_id": 415178,
+      "file_name": "OAR Random Unarmed Workout Animations VARIANTS-92912-1-2-1691483134.rar",
+      "mod_id": 92912,
+      "hash": "sha256-SwbMbGdow57o02pSKpdxnZZSqzbHXb/3dUZnrj/5sfQ="
+    },
+    "type": "primary"
+  }
+}

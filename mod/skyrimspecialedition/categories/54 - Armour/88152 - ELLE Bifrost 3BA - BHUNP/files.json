@@ -1,0 +1,24 @@
+{
+  "Bifrost 3BA": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1",
+      "file_id": 373855,
+      "file_name": "Bifrost-88152-1-1-1680307451.rar",
+      "mod_id": 88152,
+      "hash": "sha256-gvkd9F+3RsZQWFFPF+7HD6nSAVFRhTldDKMbJO3z990="
+    },
+    "type": "primary"
+  },
+  "Bfrost BHUNP": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1",
+      "file_id": 385968,
+      "file_name": "Bfrost BHUNP-88152-1-1-1683543749.rar",
+      "mod_id": 88152,
+      "hash": "sha256-H/thcB0PUkyHAVQRm8g3pa34QwLxxJ99nvTiEvPx/f0="
+    },
+    "type": "primary"
+  }
+}

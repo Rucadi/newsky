@@ -1,0 +1,44 @@
+{
+  "Diverse Foods - Hearthfires Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.4",
+      "file_id": 391096,
+      "file_name": "Diverse Foods - Hearthfires Patch-91599-1-4-1684814527.rar",
+      "mod_id": 91599,
+      "hash": "sha256-jzqVrJAtY57Oy7hjQSrR2EppivUbzuAetbrOI5ALWhg="
+    },
+    "type": "primary"
+  },
+  "Diverse Foods - Survival Mode Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 449724,
+      "file_name": "Diverse Foods - Survival Mode Patch-91599-1-0-1702022611.rar",
+      "mod_id": 91599,
+      "hash": "sha256-I1lBhmreZn8t69sUrY2ViX6qjszV284QkQ58hmSCgUA="
+    }
+  },
+  "Diverse Breads - Survival Mode Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 459866,
+      "file_name": "Diverse Breads - CC Survival Patch-91599-1-0-1704882698.rar",
+      "mod_id": 91599,
+      "hash": "sha256-lkpO/+4rATN4D4Ja65XjJ10SiP1hx0qbqqu/QDOEFzk="
+    }
+  },
+  "Diverse Foods - Base Object Swapper": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.6",
+      "file_id": 552850,
+      "file_name": "Diverse Foods - Base Object Swapper-91599-1-6-1729133502.rar",
+      "mod_id": 91599,
+      "hash": "sha256-rrqhwPspCndPoX+jKEgxvVqArvWlIAd8K7MF6MyVypU="
+    },
+    "type": "primary"
+  }
+}

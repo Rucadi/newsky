@@ -1,0 +1,57 @@
+{
+  "IR - RER Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0.0",
+      "file_id": 386492,
+      "file_name": "IR - RER Patch-91010-1-0-0-1683676217.7z",
+      "mod_id": 91010,
+      "hash": "sha256-6Bnc6qwl1ySmrOK+kpYPijDcLF6IOTWpb/ICcQpzlss="
+    },
+    "type": "primary"
+  },
+  "IR - RER - HA - TD Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0.0",
+      "file_id": 386493,
+      "file_name": "IR - RER - HA - TD Patch-91010-1-0-0-1683676243.7z",
+      "mod_id": 91010,
+      "hash": "sha256-gImxQ8kSXz7e3hv/Pgmb4SPEO0aBm0oP0Xh3RuTPWe0="
+    },
+    "type": "primary"
+  },
+  "IR - RER - Lawless Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0.1",
+      "file_id": 388160,
+      "file_name": "IR - RER - Lawless Patch-91010-1-0-1-1684092377.7z",
+      "mod_id": 91010,
+      "hash": "sha256-zop58NNqKXTPfDMam8rcc7QamEnksSE2JDvUeuS/pxA="
+    },
+    "type": "primary"
+  },
+  "IR - RER - HA - Lawless - TD Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0.1",
+      "file_id": 388161,
+      "file_name": "IR - RER - HA - Lawless - TD Patch-91010-1-0-1-1684092392.7z",
+      "mod_id": 91010,
+      "hash": "sha256-fZKgh0d+8lOVbFNwtNescZHPyv7UVsCGhbYRlpjYfZ8="
+    },
+    "type": "primary"
+  },
+  "IR - RER - Lawless - TD Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0.0",
+      "file_id": 393152,
+      "file_name": "IR - RER - Lawless - TD Patch-91010-1-0-0-1685390323.7z",
+      "mod_id": 91010,
+      "hash": "sha256-do6mR9FxEZubyrB1bLxZOVxexHp/NbtS0SbaHSRrEVI="
+    },
+    "type": "primary"
+  }
+}

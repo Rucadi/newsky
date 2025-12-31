@@ -1,0 +1,46 @@
+{
+  "COCO Fairy Queen - CBBE 3BA": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.2",
+      "file_id": 348901,
+      "file_name": "COCO Fairy Queen - CBBE 3BA-82260-1-2-1673539220.7z",
+      "mod_id": 82260,
+      "hash": "sha256-5RttnfB10vk9bQbrkPXXkis5CYnb2tcxc3wCeOKfGf4="
+    },
+    "type": "primary"
+  },
+  "COCO Fairy Queen - COCOBody CBBE SE": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.2",
+      "file_id": 348909,
+      "file_name": "COCO Fairy Queen - COCOBody CBBE SE-82260-1-2-1673539529.7z",
+      "mod_id": 82260,
+      "hash": "sha256-79wmLzwxX2oLCRVI5m7GKgBvA0LCxotw5541rnFeWgQ="
+    },
+    "type": "primary"
+  },
+  "COCO Fairy Queen - COCOBody UUNP SE": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.2",
+      "file_id": 348912,
+      "file_name": "COCO Fairy Queen - COCOBody UUNP SE-82260-1-2-1673539835.7z",
+      "mod_id": 82260,
+      "hash": "sha256-N1LY+p8oFXJnGRjxnD1YgLdCRUNgNuuM14tK0lguKs0="
+    },
+    "type": "primary"
+  },
+  "COCO Fairy Queen - TBD SE": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.2",
+      "file_id": 348913,
+      "file_name": "COCO Fairy Queen - TBD SE-82260-1-2-1673540021.7z",
+      "mod_id": 82260,
+      "hash": "sha256-jaqXhAOc/hgcinM/gvfzJ+vT98JhWPMtEkznG2he0Fc="
+    },
+    "type": "primary"
+  }
+}

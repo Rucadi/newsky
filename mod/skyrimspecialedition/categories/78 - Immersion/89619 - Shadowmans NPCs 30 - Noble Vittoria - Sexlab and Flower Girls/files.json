@@ -1,0 +1,24 @@
+{
+  "shadowman_vittoria_SL": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1",
+      "file_id": 380102,
+      "file_name": "shadowman_vittoria_SL-89619-1-1681954328.rar",
+      "mod_id": 89619,
+      "hash": "sha256-YqIx79W9R5KskFlTqsWVKU/YeRxVY+K2/zweVI3O1fw="
+    },
+    "type": "primary"
+  },
+  "shadowman_vittoria_FG": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1",
+      "file_id": 380103,
+      "file_name": "shadowman_vittoria_FG-89619-1-1681954415.rar",
+      "mod_id": 89619,
+      "hash": "sha256-O70+teO0votF0DqlnldJVUVCSYdu3g66SAGN1pJNr1A="
+    },
+    "type": "primary"
+  }
+}

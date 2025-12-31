@@ -1,13 +1,13 @@
 {
-    "Splash Screen": {
-        "nexusmods": {
-            "game_name": "skyrimspecialedition",
-            "version": "1.0.1",
-            "file_id": 368788,
-            "file_name": "Splash Screen-83470-1-0-1-1678902363.7z",
-            "mod_id": 83470,
-            "hash": "sha256-zzfNxbjd9p3jDdMapUJwNyd5b5jDj9cemO/uH+05uD8="
-        },
-        "type": "primary"
-    }
+  "Splash Screen": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0.1",
+      "file_id": 368788,
+      "file_name": "Splash Screen-83470-1-0-1-1678902363.7z",
+      "mod_id": 83470,
+      "hash": "sha256-zzfNxbjd9p3jDdMapUJwNyd5b5jDj9cemO/uH+05uD8="
+    },
+    "type": "primary"
+  }
 }

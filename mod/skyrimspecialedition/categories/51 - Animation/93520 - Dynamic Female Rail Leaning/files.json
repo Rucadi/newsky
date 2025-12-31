@@ -1,0 +1,44 @@
+{
+  "Dynamic Female Rail Leaning - DAR Legacy": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 398121,
+      "file_name": "Dynamic Female Rail Leaning - DAR Legacy-93520-1-0-1686858532.zip",
+      "mod_id": 93520,
+      "hash": "sha256-1y8PWFotGWZF/m8YfHdHK4gb4USjpqLdQfjW7cbTvCQ="
+    }
+  },
+  "DFRL - Randomized Conditions - DAR Legacy": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 398122,
+      "file_name": "DFRL - Randomized Conditions - DAR Legacy-93520-1-0-1686858608.zip",
+      "mod_id": 93520,
+      "hash": "sha256-9Ri1LGm3+1+JnVI+GQvkjs31VWNXyEmOb+DpD6032DI="
+    }
+  },
+  "Dynamic Female Rail Leaning OAR - Randomized": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.2",
+      "file_id": 685916,
+      "file_name": "Dynamic Female Rail Leaning OAR - Randomized-93520-1-2-1762733848.zip",
+      "mod_id": 93520,
+      "hash": "sha256-WoG7PIxHjGZHA4kq9nkxAsOC/ZQCtEOltyZu71ABmJQ="
+    },
+    "type": "primary"
+  },
+  "Dynamic Female Rail Leaning OAR": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.2",
+      "file_id": 685917,
+      "file_name": "Dynamic Female Rail Leaning OAR-93520-1-2-1762733910.zip",
+      "mod_id": 93520,
+      "hash": "sha256-9l/49guAeexC4Hf0K2YgZyy3fLPd+qRWmf4kHGlQXJQ="
+    },
+    "type": "primary"
+  }
+}

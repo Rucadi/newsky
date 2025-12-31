@@ -2,6 +2,8 @@
 - Author: SlavicPotato
 - Game: skyrimspecialedition
 - Mod Page: https://www.nexusmods.com/skyrimspecialedition/mods/86631
+
+
 **The issue**
   
   

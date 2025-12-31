@@ -1,0 +1,23 @@
+{
+  "Spaghetti's Palaces - Blue Palace": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 392390,
+      "file_name": "Spaghetti's Palaces - Blue Palace-92284-1-0-1685200634.zip",
+      "mod_id": 92284,
+      "hash": "sha256-pyi4XdQbQQAkvZbohqSmOJh466fgkvn+oQapp4ysJlE="
+    },
+    "type": "primary"
+  },
+  "Lux Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 392403,
+      "file_name": "Lux Patch-92284-1-0-1685201493.zip",
+      "mod_id": 92284,
+      "hash": "sha256-sLi/7MobqDCItkGzgbfDPA+f55lDPzUGPn3Jc8WH4tA="
+    }
+  }
+}

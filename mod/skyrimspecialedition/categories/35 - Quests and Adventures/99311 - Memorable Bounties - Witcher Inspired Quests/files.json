@@ -1,0 +1,63 @@
+{
+  "COTN Falkreath Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0.2",
+      "file_id": 422126,
+      "file_name": "COTN Falkreath Patch-99311-1-0-2-1693434415.7z",
+      "mod_id": 99311,
+      "hash": "sha256-nex3pG2tzYf8Yr7CW7qZks4+es1ajbeJlkPFmIYbWdQ="
+    }
+  },
+  "COTN Winterhold Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0.2",
+      "file_id": 422129,
+      "file_name": "COTN Winterhold Patch-99311-1-0-2-1693434803.7z",
+      "mod_id": 99311,
+      "hash": "sha256-/16zqUxGr7bpsUGQRRFa4U8lEeiRbb7E5OxEtP0HJ7Q="
+    }
+  },
+  "Memorable Bounties - Great City of Winterhold": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0.2",
+      "file_id": 422343,
+      "file_name": "Memorable Bounties - Great City of Winterhold-99311-1-0-2-1693507402.7z",
+      "mod_id": 99311,
+      "hash": "sha256-Uk0Dbs/iYBHSjCT4zd2JFNIFhY6OgXgleLcqDW5kDlI="
+    }
+  },
+  "Memorable Bounties - Redbag Falkreath Patch ESL": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 444045,
+      "file_name": "Memorable Bounties - Redbag Falkreath Patch ESL-99311-1-0-1700417269.7z",
+      "mod_id": 99311,
+      "hash": "sha256-ZDDxJq3WeN6+JNHJQkNS65F6HwQz90yWUyPNHxzuQ/Y="
+    }
+  },
+  "Memorable Bounties - ClefJ Winterhold": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 509422,
+      "file_name": "Memorable Bounties - ClefJ Winterhold-99311-1-0-1717787791.7z",
+      "mod_id": 99311,
+      "hash": "sha256-8MuNUsOxE5CUlv17CkEFyb3XBpRnYyyFhC8JOf2wahs="
+    }
+  },
+  "Memorable Bountes - 1.0.4": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0.4",
+      "file_id": 619800,
+      "file_name": "Memorable Bountes - 1.0.4-99311-1-0-4-1745245813.7z",
+      "mod_id": 99311,
+      "hash": "sha256-5q6HAitxa44YNUg6xCqZJhSSM0VEb2sgZoBLt3hifIo="
+    },
+    "type": "primary"
+  }
+}

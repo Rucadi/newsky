@@ -1,0 +1,24 @@
+{
+  "Love Potion 3BA": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1",
+      "file_id": 412146,
+      "file_name": "Love Potion 3BA-97129-1-1690688701.7z",
+      "mod_id": 97129,
+      "hash": "sha256-O5m1c4MKspBOAqjohLhlv2r/zCNkspkP6LtK+wSl/AQ="
+    },
+    "type": "primary"
+  },
+  "Love Potion BHUNPV4": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1",
+      "file_id": 412147,
+      "file_name": "Love Potion BHUNPV4-97129-1-1690688876.7z",
+      "mod_id": 97129,
+      "hash": "sha256-po5fiFL/pMy6lprROqgJUTZ74e/cQC9JmL6cu/9DEhA="
+    },
+    "type": "primary"
+  }
+}

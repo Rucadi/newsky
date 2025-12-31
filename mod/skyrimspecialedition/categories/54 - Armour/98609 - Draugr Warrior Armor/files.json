@@ -1,0 +1,23 @@
+{
+  "Draugr  Warrior  Armor  4k": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 418303,
+      "file_name": "Draugr  Warrior  Armor  4k-98609-1-0-1692385634.rar",
+      "mod_id": 98609,
+      "hash": "sha256-d+bBPNgcH/nsfDWOaOC1ZNXSa2c46xc5jPSD5DxICns="
+    }
+  },
+  "Draugr Warrior Armor 2k": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1",
+      "file_id": 418308,
+      "file_name": "Draugr Warrior Armor 2k-98609-1-1-1692386572.rar",
+      "mod_id": 98609,
+      "hash": "sha256-tDRtN+aBi9Vdgr9reJwZn8RZT11OfwQaQMpbSNCn0Q4="
+    },
+    "type": "primary"
+  }
+}

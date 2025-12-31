@@ -2,6 +2,8 @@
 - Author: Everglaid
 - Game: skyrimspecialedition
 - Mod Page: https://www.nexusmods.com/skyrimspecialedition/mods/93608
+
+
 **modular SMP hairstyles**
   
 ![](https://staticdelivery.nexusmods.com/mods/1704/images/44449/44449-1704344714-1398968218.png)

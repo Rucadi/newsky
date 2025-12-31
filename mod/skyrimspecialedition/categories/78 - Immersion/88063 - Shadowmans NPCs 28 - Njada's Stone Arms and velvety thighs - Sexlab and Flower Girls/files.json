@@ -1,0 +1,44 @@
+{
+  "njada_noteleport_fg": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "A",
+      "file_id": 380601,
+      "file_name": "njada_noteleport_fg-88063-A-1682102827.rar",
+      "mod_id": 88063,
+      "hash": "sha256-VgWA9kPYEt6Uc0b4U16KewqUanoLyPrZisTC/CVjJ20="
+    }
+  },
+  "njada_noteleport_sl": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "A",
+      "file_id": 380602,
+      "file_name": "njada_noteleport_sl-88063-A-1682102853.rar",
+      "mod_id": 88063,
+      "hash": "sha256-ojyJdeZwmjnNwAZhQNhneQfcOBbIwr6r9eipqJhBmYs="
+    }
+  },
+  "shadowman_njadaSL": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.01",
+      "file_id": 477998,
+      "file_name": "shadowman_njadaSL-88063-1-01-1709843495.rar",
+      "mod_id": 88063,
+      "hash": "sha256-X2v5G8gdKC90Z1eKKXWq0iX7TkhAn07pbjBs8bnIFS8="
+    },
+    "type": "primary"
+  },
+  "shadowman_njadaFG": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.01",
+      "file_id": 477999,
+      "file_name": "shadowman_njadaFG-88063-1-01-1709843527.rar",
+      "mod_id": 88063,
+      "hash": "sha256-VBpBsiTn52nRnKvwt22m+HT7amGuZ0pbYB27D+NeeyA="
+    },
+    "type": "primary"
+  }
+}

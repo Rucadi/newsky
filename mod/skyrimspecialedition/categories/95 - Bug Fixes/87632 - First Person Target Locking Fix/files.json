@@ -1,0 +1,23 @@
+{
+  "First Person Target Locking Fix 1.5": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.5",
+      "file_id": 380780,
+      "file_name": "First Person Target Locking Fix 1.5-87632-1-5-1682156717.7z",
+      "mod_id": 87632,
+      "hash": "sha256-A2qQt6HKt23rWhxOkB+jnpRaEpjc9CEU9caxoGAzB3Y="
+    },
+    "type": "primary"
+  },
+  "Wolf Lock Target Body 1.5": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.5",
+      "file_id": 564870,
+      "file_name": "Wolf Lock Target Body 1.5-87632-1-5-1732276512.7z",
+      "mod_id": 87632,
+      "hash": "sha256-O/sB9qvwEy/jK+IZpx9p25+ntdRcPBdX0i0P98mIYhQ="
+    }
+  }
+}

@@ -1,0 +1,134 @@
+{
+  "SLFR - Flare Effect - Alpha": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0.Light",
+      "file_id": 355890,
+      "file_name": "SLFR - Flare Effect - Alpha-84049-1-0-ESL-1675438919.zip",
+      "mod_id": 84049,
+      "hash": "sha256-MPyfMX9mjUmZUt6/5R4ycMUrADXYJGAtOhq9e0YtNps="
+    },
+    "type": "primary"
+  },
+  "SLFR - Weathers - Cathedral Weathers": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0.Light",
+      "file_id": 355892,
+      "file_name": "SLFR - Weathers - Cathedral Weathers-84049-1-0-ESL-1675438975.zip",
+      "mod_id": 84049,
+      "hash": "sha256-vE4J16iWV75kTc2R8c/LXK+7ww5S5UMxfLKWJnf3IbQ="
+    },
+    "type": "primary"
+  },
+  "SLFR - Weathers - Obsidian Weathers": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0.Light",
+      "file_id": 355893,
+      "file_name": "SLFR - Weathers - Obsidian Weathers-84049-1-0-ESL-1675439082.zip",
+      "mod_id": 84049,
+      "hash": "sha256-fzqJT10Vm9fzz4lkjq4lZ9nBVAruTEhuNx8qEgYZFQQ="
+    },
+    "type": "primary"
+  },
+  "SLFR - Weathers - Azurite Weathers": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0.Light",
+      "file_id": 355926,
+      "file_name": "SLFR - Weathers - Azurite Weathers-84049-1-0-Light-1675445901.zip",
+      "mod_id": 84049,
+      "hash": "sha256-WvSObKoje4O0XRoPC23n2fpTTetoZ7Rr1QnKLz/GdZo="
+    },
+    "type": "primary"
+  },
+  "SLFR - Weathers - Vanilla Weathers": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0.Light",
+      "file_id": 356005,
+      "file_name": "SLFR - Weathers - Vanilla Weathers-84049-1-0-Light-1675461424.zip",
+      "mod_id": 84049,
+      "hash": "sha256-CjZg3pXSS4FeOTzrMc2U0y9DzHVMPmAkKpbPDsOpJJY="
+    },
+    "type": "primary"
+  },
+  "SLFR - Flare Effect - Beta": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.01",
+      "file_id": 356794,
+      "file_name": "SLFR - Flare Effect - Beta-84049-1-01-1675623925.zip",
+      "mod_id": 84049,
+      "hash": "sha256-0xtpVlAN3NOTV6xUFmTb5VVUqzNiWiWNpdleX9IiYGY="
+    },
+    "type": "primary"
+  },
+  "SLFR - Flare Effect - Gamma": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 356796,
+      "file_name": "SLFR - Flare Effect - Gamma-84049-1-0-1675624086.zip",
+      "mod_id": 84049,
+      "hash": "sha256-pzq/+K6DV8MeVwZBdko8WYuYeeYL4o0boTOdN6Vz99U="
+    },
+    "type": "primary"
+  },
+  "SLFR - Weathers - Scandinavian Seasons Extended": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 356923,
+      "file_name": "SLFR - Weathers - Scandinavian Seasons Extended-84049-1-0-1675642226.zip",
+      "mod_id": 84049,
+      "hash": "sha256-P/kLhvKdjLHFxMbi05wbjQjkNO0a6HOIjwIAiwGlLhM="
+    },
+    "type": "primary"
+  },
+  "SLFR - Weathers - Haze 2": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 356966,
+      "file_name": "SLFR - Weathers - Haze Weathers Seasons Atmosphere 2-84049-1-0-1675649153.zip",
+      "mod_id": 84049,
+      "hash": "sha256-c6y8ICbLNKBUC75mX9iwMCAeZ4sufbVJAbMw/Uu07Yg="
+    },
+    "type": "primary"
+  },
+  "SLFR - Weathers - NAT-ENB III": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 357145,
+      "file_name": "SLFR - Weathers - NAT-ENB III-84049-1-0-1675702863.zip",
+      "mod_id": 84049,
+      "hash": "sha256-K8r0IQayTbM1Mba8vdz6NgwxKz3aP7iSLoNq25JYnEo="
+    },
+    "type": "primary"
+  },
+  "SLFR - Weathers - Dolomite Weathers": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 357179,
+      "file_name": "SLFR - Weathers - Dolomite Weathers-84049-1-0-1675711202.zip",
+      "mod_id": 84049,
+      "hash": "sha256-QrmROsY8ooPIxM+I2RivX+D3NcwgKaWySjXchrJtdqA="
+    },
+    "type": "primary"
+  },
+  "SLFR - Weathers - RAID Weathers": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 357401,
+      "file_name": "SLFR - Weathers - RAID Weathers-84049-1-0-1675769194.zip",
+      "mod_id": 84049,
+      "hash": "sha256-L6gfh19q4r+SIgDyroY+NB8+ALQZC2jvxiw7X1asYps="
+    },
+    "type": "primary"
+  }
+}

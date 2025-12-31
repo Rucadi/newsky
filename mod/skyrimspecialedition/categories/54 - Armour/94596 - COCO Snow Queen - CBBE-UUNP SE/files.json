@@ -1,0 +1,45 @@
+{
+  "COCO Snow Queen - CBBE 3BA": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 403129,
+      "file_name": "COCO Snow Queen - CBBE 3BA-94596-1-0-1688313282.7z",
+      "mod_id": 94596,
+      "hash": "sha256-6r07uu/KzlkiJY1cYcDAfbAWVbXOiPSrk6QAIabi9ck="
+    },
+    "type": "primary"
+  },
+  "COCO Snow Queen - COCOBody CBBE SE": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 403130,
+      "file_name": "COCO Snow Queen - COCOBody CBBE SE-94596-1-0-1688313377.7z",
+      "mod_id": 94596,
+      "hash": "sha256-/9h4bqNB0Gnpo0Kk82qHRKMM/ieyJwFzPdQW7JnUbgE="
+    },
+    "type": "primary"
+  },
+  "COCO Snow Queen - COCOBody UUNP SE": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 403135,
+      "file_name": "COCO Snow Queen - COCOBody UUNP SE-94596-1-0-1688313832.7z",
+      "mod_id": 94596,
+      "hash": "sha256-C90upNJo4T6QZoyZoXy0gtwjflPZEzl7Y55s9hkP2x8="
+    },
+    "type": "primary"
+  },
+  "COCO Snow Queen - Clothing Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 404683,
+      "file_name": "COCO Snow Queen - Clothing Patch-94596-1-0-1688736329.7z",
+      "mod_id": 94596,
+      "hash": "sha256-edtWrG8d+0v7lWAe2sGFBXVqDs30SNFPEhC/KkmYf4M="
+    }
+  }
+}

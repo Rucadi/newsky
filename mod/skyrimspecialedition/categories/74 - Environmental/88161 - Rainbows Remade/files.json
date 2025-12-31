@@ -1,0 +1,53 @@
+{
+  "Rainbows Remade - 4K Version": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.2.0",
+      "file_id": 374391,
+      "file_name": "Rainbows Remade - 4K Version-88161-1-2-0-1680442649.zip",
+      "mod_id": 88161,
+      "hash": "sha256-XEzYlJGN+YCTStT4mzbT2Eu7l/5J7gVWEHyaf0zDNOQ="
+    },
+    "type": "primary"
+  },
+  "Rainbows Remade - 8K Version": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.2.0",
+      "file_id": 374392,
+      "file_name": "Rainbows Remade - 8K Version-88161-1-2-0-1680442953.zip",
+      "mod_id": 88161,
+      "hash": "sha256-T63XEKlwuBB7n0cIelwdaDxi1NKXzQyh4lo5+y40nV8="
+    }
+  },
+  "Rainbows Remade - 2K Version": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.2.0",
+      "file_id": 374393,
+      "file_name": "Rainbows Remade - 2K Version-88161-1-2-0-1680442991.zip",
+      "mod_id": 88161,
+      "hash": "sha256-ykwlaSv5giArQFmCdwJ5Xpoocafc0P58Kjq9xQsDkq8="
+    }
+  },
+  "Rainbows Remade - 1K Version": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.2.0",
+      "file_id": 374394,
+      "file_name": "Rainbows Remade - 1K Version-88161-1-2-0-1680443022.zip",
+      "mod_id": 88161,
+      "hash": "sha256-V4O30OF3qLA6lsxjP/0TLphfnnjDfPICLZkAOJmo/P4="
+    }
+  },
+  "No Initialization Notification Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.2.0",
+      "file_id": 374973,
+      "file_name": "No Initialization Notification Patch-88161-1-2-0-1680594637.zip",
+      "mod_id": 88161,
+      "hash": "sha256-/ZUipjoR9rAAJnL3WA3lMtvVWT00pZxtgeHzdA7lPDM="
+    }
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "Ginnungagap 3BA": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1",
+      "file_id": 415411,
+      "file_name": "Ginnungagap 3BA-97931-1-1691564982.rar",
+      "mod_id": 97931,
+      "hash": "sha256-0KOdp8DVrNKI87jzKmpLfHqT7JJeCLDxFZeCma30BlI="
+    },
+    "type": "primary"
+  },
+  "Ginnungagap BHUNPv4": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1",
+      "file_id": 415412,
+      "file_name": "Ginnungagap BHUNPv4-97931-1-1691565125.rar",
+      "mod_id": 97931,
+      "hash": "sha256-07Qh3+IgzwtT2shQ3ywebEuuIfGnfbeaBM7JSYZ6oLM="
+    },
+    "type": "primary"
+  }
+}

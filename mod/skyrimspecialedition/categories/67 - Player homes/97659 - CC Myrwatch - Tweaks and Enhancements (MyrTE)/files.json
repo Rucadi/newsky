@@ -1,0 +1,53 @@
+{
+  "CC Myrwatch - Tweaks and Enhancements": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.5.4",
+      "file_id": 664139,
+      "file_name": "CC Myrwatch - Tweaks and Enhancements-97659-1-5-4-1757447971.7z",
+      "mod_id": 97659,
+      "hash": "sha256-Eu9zcS7qyF7szPkMyiomxf3Fg32QUerAJp1M8NBYw/k="
+    },
+    "type": "primary"
+  },
+  "MyrTE - CC Fishing Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.5.4",
+      "file_id": 664140,
+      "file_name": "MyrTE - CC Fishing Patch-97659-1-5-4-1757448016.7z",
+      "mod_id": 97659,
+      "hash": "sha256-Bl1kwut0tNdnPjJG/Z9Csm4N7adNJcgj3TO0FC+hwCw="
+    }
+  },
+  "MyrTE - Sorcerer Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.5.4",
+      "file_id": 664141,
+      "file_name": "MyrTE - Sorcerer Patch-97659-1-5-4-1757448045.7z",
+      "mod_id": 97659,
+      "hash": "sha256-aBIEZ6g1qbUkPbGQkyQPvi6mELjqYm5rsymbk2j51Fc="
+    }
+  },
+  "MyrTE - USCCP Merged": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.5.4",
+      "file_id": 664142,
+      "file_name": "MyrTE - USCCP Merged-97659-1-5-4-1757448161.7z",
+      "mod_id": 97659,
+      "hash": "sha256-IZ18KG3+Kr7jo+dfWGCBKaY8399YMmaAqgyTuFkR83w="
+    }
+  },
+  "MyrTE - USCCP Myrwatch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.5.4",
+      "file_id": 664143,
+      "file_name": "MyrTE - USCCP Myrwatch-97659-1-5-4-1757448205.7z",
+      "mod_id": 97659,
+      "hash": "sha256-XKk7VGc+EmkyulQzsH07SJiKVyVn0xTCg4016hWAfj0="
+    }
+  }
+}

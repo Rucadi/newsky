@@ -1,0 +1,32 @@
+{
+  "Spellforge Libraries - Darenii": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.3D",
+      "file_id": 439053,
+      "file_name": "Spellforge Libraries - Darenii-94243-1-3D-1698901118.7z",
+      "mod_id": 94243,
+      "hash": "sha256-Q7XtmOYEySg/jZLa6keETSXTZKO/9uLz/bcSH0UpVXw="
+    }
+  },
+  "Spellforge Libraries - KittyTail": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.8KT",
+      "file_id": 646273,
+      "file_name": "Spellforge Libraries - KittyTail-94243-1-8KT-1752294323.7z",
+      "mod_id": 94243,
+      "hash": "sha256-NdVaVaURulngzkEnTpsfBkBp5WqWBhaCqIAasATzUKg="
+    }
+  },
+  "Spellforge Libraries - Miscellaneous": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.5M",
+      "file_id": 646274,
+      "file_name": "Spellforge Libraries - Miscellaneous-94243-1-5M-1752295758.7z",
+      "mod_id": 94243,
+      "hash": "sha256-bFf7CqSk2Qczz6wfZNZLGlefUWKfY0WngVXnDh2Qs5U="
+    }
+  }
+}

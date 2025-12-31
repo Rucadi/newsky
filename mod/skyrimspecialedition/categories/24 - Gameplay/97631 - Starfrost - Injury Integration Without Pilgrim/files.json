@@ -1,0 +1,24 @@
+{
+  "Starfrost - Injury Integration Without Pilgrim": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "2.0",
+      "file_id": 498311,
+      "file_name": "Starfrost - Injury Integration Without Pilgrim-97631-2-0-1714951616.7z",
+      "mod_id": 97631,
+      "hash": "sha256-grdml7ADhokLQlkvrebPgsYczQ8vC5dWxvwRFY+aOi8="
+    },
+    "type": "primary"
+  },
+  "Starfrost - Injury Integration Basic": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 610275,
+      "file_name": "Starfrost - Injury Integration Basic-97631-1-0-1743046333.7z",
+      "mod_id": 97631,
+      "hash": "sha256-KEApUOCZblYptZTppEoO8d/L+urDHJMGX2UgJ6mJjis="
+    },
+    "type": "primary"
+  }
+}

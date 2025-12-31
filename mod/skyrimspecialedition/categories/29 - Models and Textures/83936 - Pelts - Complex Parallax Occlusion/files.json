@@ -1,0 +1,35 @@
+{
+  "Pelts - Complex Parallax Occlusion 4k": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 354939,
+      "file_name": "Pelts - Complex Parallax Occlusion 4k-83936-1-0-1675170119.7z",
+      "mod_id": 83936,
+      "hash": "sha256-LjuaTcBN/V6WAw4f2lXv4Rs9WWQSVs9PiZIc1PQz44k="
+    },
+    "type": "primary"
+  },
+  "Pelts - Complex Parallax Occlusion 2k": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 354941,
+      "file_name": "Pelts - Complex Parallax Occlusion 2k-83936-1-0-1675170229.7z",
+      "mod_id": 83936,
+      "hash": "sha256-U0Vqn+qg4vSYDDdsbfleXWRrD7PR1/CMD9XD6rMuWvE="
+    },
+    "type": "primary"
+  },
+  "Pelts - Complex Parallax Occlusion 1k": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 354942,
+      "file_name": "Pelts - Complex Parallax Occlusion 1k-83936-1-0-1675170264.7z",
+      "mod_id": 83936,
+      "hash": "sha256-DpYyAW0T+SRgN+axC5RrNCtDBXutMtI0frb/5ZJCLyA="
+    },
+    "type": "primary"
+  }
+}

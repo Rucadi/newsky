@@ -2,6 +2,8 @@
 - Author: Enodoc
 - Game: skyrimspecialedition
 - Mod Page: https://www.nexusmods.com/skyrimspecialedition/mods/81523
+
+
 The Civil War military forts are initially occupied by bandits, Forsworn, warlocks or necromancers, but the Imperials or Stormcloaks would move in the first time you cleared the hostile enemies out. With this mod, the enemies will instead respawn indefinitely if you have not started the Civil War, and the Imperials and Stormcloaks will not garrison them. Or you can choose to claim the fort for the Hold, and allow the Jarl's guards to garrison the fort instead.
   
   

@@ -1,0 +1,34 @@
+{
+  "Maid - 3BA": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "2",
+      "file_id": 519844,
+      "file_name": "Maid - 3BA-86864-2-1720670739.rar",
+      "mod_id": 86864,
+      "hash": "sha256-NCey4eKW0BrVzd1PcmqwRj/bLiwoGzf4dV4dAS8CBU8="
+    },
+    "type": "primary"
+  },
+  "Maid - BHUNP": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "2",
+      "file_id": 519846,
+      "file_name": "Maid - BHUNP-86864-2-1720671380.rar",
+      "mod_id": 86864,
+      "hash": "sha256-8b1Kv9DnRRHy+ce1jkYTGBZ8B/YB2hNxBRcOragPdgc="
+    },
+    "type": "primary"
+  },
+  "Maid - 4K Textures": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1",
+      "file_id": 519850,
+      "file_name": "Maid - 4K Textures-86864-1-1720673027.rar",
+      "mod_id": 86864,
+      "hash": "sha256-AkAUfgE/tQQ8aB/PewLhJ31vjbBGVBI93dmlOn3W+v4="
+    }
+  }
+}

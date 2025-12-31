@@ -1,0 +1,24 @@
+{
+  "Solstheim Ash Storms with Glowing Embers - 1 - Replacer": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 378951,
+      "file_name": "Solstheim Ash Storms with Glowing Embers - Replacer-89384-1-0-1681678781.7z",
+      "mod_id": 89384,
+      "hash": "sha256-EsHF2oPyd4z1mZB07MWsYj8B42D8Hi+PIzuXjDmuFUE="
+    },
+    "type": "primary"
+  },
+  "Solstheim Ash Storms with Glowing Embers - 2 - Custom": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 378952,
+      "file_name": "Solstheim Ash Storms with Glowing Embers - Custom-89384-1-0-1681678925.7z",
+      "mod_id": 89384,
+      "hash": "sha256-0mvgF72mM9yi/zLdIhSPZojac2KcLLzS+1PZoalj2Uc="
+    },
+    "type": "primary"
+  }
+}

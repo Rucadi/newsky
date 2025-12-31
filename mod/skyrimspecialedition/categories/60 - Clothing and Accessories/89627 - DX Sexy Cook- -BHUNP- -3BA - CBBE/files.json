@@ -1,0 +1,35 @@
+{
+  "3BA SE - DX Sexy Little Cook": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 380762,
+      "file_name": "3BA SE - DX Sexy Little Cook-89627-1-0-1682152072.7z",
+      "mod_id": 89627,
+      "hash": "sha256-Kx2Uex/QT6chfIWNNWGonKLrB2T0I7OCEEp2hGlvXNI="
+    },
+    "type": "primary"
+  },
+  "BHUNP SE - DX Sexy Little Cook": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 380767,
+      "file_name": "BHUNP SE - DX Sexy Little Cook-89627-1-0-1682153383.7z",
+      "mod_id": 89627,
+      "hash": "sha256-Uf83O9lm+loTALBM512N3083w/HwiuAV8uBBim7clDI="
+    },
+    "type": "primary"
+  },
+  "CBBE SE - DX Sexy Little Cook": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 380773,
+      "file_name": "CBBE SE - DX Sexy Little Cook-89627-1-0-1682153839.7z",
+      "mod_id": 89627,
+      "hash": "sha256-YLQIVMBoqb6fKpbfQMFDzQStVEAQ3QrjWVycm1RiA2k="
+    },
+    "type": "primary"
+  }
+}

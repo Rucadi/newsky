@@ -1,0 +1,23 @@
+{
+  "owintersun": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.13",
+      "file_id": 492605,
+      "file_name": "owintersun-97774-1-13-1713546461.rar",
+      "mod_id": 97774,
+      "hash": "sha256-f9m601uX4nBiz27idXSNbcRSQmxv9R+BAEgLC8wrbNE="
+    },
+    "type": "primary"
+  },
+  "owintersun lite": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.13.1L",
+      "file_id": 545772,
+      "file_name": "owintersun lite-97774-1-13-1L-1727214060.rar",
+      "mod_id": 97774,
+      "hash": "sha256-BtIvPnXc9o3ILXcYdoUCX4fsfUEnZ08DR1mhzO0k/xI="
+    }
+  }
+}

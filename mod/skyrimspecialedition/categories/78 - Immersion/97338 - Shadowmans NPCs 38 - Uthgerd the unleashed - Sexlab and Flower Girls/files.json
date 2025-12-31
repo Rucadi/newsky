@@ -1,0 +1,24 @@
+{
+  "shadowman_Uthgerd_SL": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1",
+      "file_id": 412918,
+      "file_name": "shadowman_Uthgerd_SL-97338-1-1690860311.rar",
+      "mod_id": 97338,
+      "hash": "sha256-q3VRz0PYQBt6IinjDzBCsSMpOWGAAxt2XE/VPT/asNM="
+    },
+    "type": "primary"
+  },
+  "shadowman_Uthgerd_FG": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1",
+      "file_id": 412920,
+      "file_name": "shadowman_Uthgerd_FG-97338-1-1690860459.rar",
+      "mod_id": 97338,
+      "hash": "sha256-DSn3sK6F00fuUrqDPgG44zWDXQbuHp5VPy78nTUV+w8="
+    },
+    "type": "primary"
+  }
+}

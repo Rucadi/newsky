@@ -2,6 +2,8 @@
 - Author: Xavbio
 - Game: skyrimspecialedition
 - Mod Page: https://www.nexusmods.com/skyrimspecialedition/mods/87926
+
+
 **WOLF ARMOR AND WEAPONS RETEXTURE SE**
   
   

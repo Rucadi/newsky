@@ -2,6 +2,8 @@
 - Author: aljoxo - Vicn
 - Game: skyrimspecialedition
 - Mod Page: https://www.nexusmods.com/skyrimspecialedition/mods/92893
+
+
 **aljos VIGILANT Tweaks**
 
   

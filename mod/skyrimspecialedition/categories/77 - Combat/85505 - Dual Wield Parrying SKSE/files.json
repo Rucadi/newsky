@@ -1,0 +1,24 @@
+{
+  "Dual Wield Parrying SKSE": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.7.0",
+      "file_id": 407592,
+      "file_name": "Dual Wield Parrying SKSE-85505-1-7-0-1689508403.zip",
+      "mod_id": 85505,
+      "hash": "sha256-w47SPttsEXGqREixUz2tgRi+nZzUnVBjGVLC2L9tuP0="
+    },
+    "type": "primary"
+  },
+  "Dual Wield Parrying SKSE 1.6.1130 and above": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "2.0.1",
+      "file_id": 484090,
+      "file_name": "Dual Wield Parrying SKSE 1.6.1130 and above-85505-2-0-1-1711382756.zip",
+      "mod_id": 85505,
+      "hash": "sha256-BlUEYKGIiCgIA2iIE2bLSa6LyZOx8b4JLbA+qbJXM68="
+    },
+    "type": "primary"
+  }
+}

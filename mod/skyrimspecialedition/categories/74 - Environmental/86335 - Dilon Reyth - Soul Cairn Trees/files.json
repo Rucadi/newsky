@@ -1,0 +1,45 @@
+{
+  "Dilon Reyth Tall": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1",
+      "file_id": 365737,
+      "file_name": "Dilon Reyth Tall-86335-1-1678030199.7z",
+      "mod_id": 86335,
+      "hash": "sha256-lTNlDk4XAiBuy3KvUAVmqiVqwvfiprTf02vuGFUCfs4="
+    },
+    "type": "primary"
+  },
+  "Dilon Reyth Medium": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1",
+      "file_id": 365738,
+      "file_name": "Dilon Reyth Medium-86335-1-1678030244.7z",
+      "mod_id": 86335,
+      "hash": "sha256-uoCS7ztTEOP/plTVMo7AYLJkMaVrqkvgXGO9oA+wR4U="
+    },
+    "type": "primary"
+  },
+  "Dilon Reyth Small": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1",
+      "file_id": 365739,
+      "file_name": "Dilon Reyth Small-86335-1-1678030284.7z",
+      "mod_id": 86335,
+      "hash": "sha256-yCw2eG/MzxzJ3etywJjnFx5idh29bSkMxh0Jq971Zmc="
+    },
+    "type": "primary"
+  },
+  "Dilon Reyth Base Object Swapper Random Tree Scale": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1",
+      "file_id": 549425,
+      "file_name": "Dilon Reyth Base Object Swapper Random Tree Scale-86335-1-1728171711.7z",
+      "mod_id": 86335,
+      "hash": "sha256-74B2+aErBMg2PtVd7/7Tj7eJ7qZqBTy+ZdRW6lCcGEY="
+    }
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "TMD Jars of Skyrim for ENB": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.01",
+      "file_id": 356527,
+      "file_name": "TMD Jars of Skyrim for ENB-84235-1-01-1675568759.7z",
+      "mod_id": 84235,
+      "hash": "sha256-TPNglPT49jBNHhIpHjscTSGa6KhIxXjGEwzQ/RtsxKc="
+    },
+    "type": "primary"
+  },
+  "TMD Jars of Skyrim for Vanilla": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.01",
+      "file_id": 356529,
+      "file_name": "TMD Jars of Skyrim for Vanilla-84235-1-01-1675568800.7z",
+      "mod_id": 84235,
+      "hash": "sha256-/omWZhMrSpwCqLbXmUtcLjPqm+1hlUwE8NkLTRglsUY="
+    },
+    "type": "primary"
+  }
+}

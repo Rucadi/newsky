@@ -1,0 +1,44 @@
+{
+  "2-4k. New Dwarven Centurion Female V1 sfw": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0.0",
+      "file_id": 367043,
+      "file_name": "2-4k. New Dwarven Centurion Female V1 sfw-86707-1-0-0-1678435889.zip",
+      "mod_id": 86707,
+      "hash": "sha256-6IxRsWu9o0O9JhUoyy6UpKdjFbiGQOXvr1JJMkJCwls="
+    },
+    "type": "primary"
+  },
+  "2-4K. New Dwarven Centurion Female V2 sfw": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0.0",
+      "file_id": 367044,
+      "file_name": "2-4K. New Dwarven Centurion Female V2 sfw-86707-1-0-0-1678435931.zip",
+      "mod_id": 86707,
+      "hash": "sha256-k66xmP+0GlzP+nfsYxCEZQgN3WnK3onkbiti8AWOynM="
+    },
+    "type": "primary"
+  },
+  "1-2K. New Dwarven Centurion Female V1 sfw": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0.0",
+      "file_id": 367045,
+      "file_name": "1-2K. New Dwarven Centurion Female V1 sfw-86707-1-0-0-1678435966.zip",
+      "mod_id": 86707,
+      "hash": "sha256-RWUCWYneXCy3VWUF2gHZVyWvPnlnyQeK9xg91V9UXGg="
+    }
+  },
+  "1-2K. New Dwarven Centurion Female V2 sfw": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0.0",
+      "file_id": 367048,
+      "file_name": "1-2K. New Dwarven Centurion Female V2 sfw-86707-1-0-0-1678436184.zip",
+      "mod_id": 86707,
+      "hash": "sha256-P9nxWyjrGDKDZdSnEmYPPRvMiAVzMZMuPrZolkNAxGc="
+    }
+  }
+}

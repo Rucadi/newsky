@@ -1,0 +1,23 @@
+{
+  "Tonal Weapon Art": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 380206,
+      "file_name": "Tonal Weapon Art-89588-1-0-1681986553.7z",
+      "mod_id": 89588,
+      "hash": "sha256-KfbNKciIrueSXBTO5TCcqHtyDjQ9anX2mmSN4yMgHFE="
+    }
+  },
+  "Dwemer Tonal Weaponry": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "2.1",
+      "file_id": 605660,
+      "file_name": "Dwemer Tonal Weaponry-89588-2-1-1741987760.7z",
+      "mod_id": 89588,
+      "hash": "sha256-DUFXPBTJ63fP5CZIv52sLrFs4gZRk24wbEVNHB3kkr8="
+    },
+    "type": "primary"
+  }
+}

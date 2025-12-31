@@ -1,0 +1,73 @@
+{
+  "V1 AnimatedMountedCastingNoSpell (No Nemesis Patch)": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1",
+      "file_id": 343208,
+      "file_name": "AnimatedMountedCastingNoSpell-81270-1-1671859095.7z",
+      "mod_id": 81270,
+      "hash": "sha256-FQ0AivfmTXV2Tl6VpZezOUrKUPaF8pyJdC+5xoVPeZQ="
+    }
+  },
+  "V1 AnimatedMountedCasting (No Nemesis Patch)": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1",
+      "file_id": 343209,
+      "file_name": "AnimatedMountedCasting-81270-1-1671859226.7z",
+      "mod_id": 81270,
+      "hash": "sha256-jcNiZKPf4v1Vxav0xtJNExfcReuGHOWDMUoFfqc768o="
+    }
+  },
+  "AnimatedMountedCastingNoSpell": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "2.22",
+      "file_id": 343791,
+      "file_name": "AnimatedMountedCastingNoSpell-81270-2-22-1672071349.7z",
+      "mod_id": 81270,
+      "hash": "sha256-dZxF/oIdjtX8VC2FwgosITrCee/6CdXHdC4x+iBeBKA="
+    }
+  },
+  "AnimatedMountedCasting": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "2.22",
+      "file_id": 343792,
+      "file_name": "AnimatedMountedCasting-81270-2-22-1672071420.7z",
+      "mod_id": 81270,
+      "hash": "sha256-gySOpqDt6vedsXhx+fv3n4994YI2hmcGkde5uW+wyfM="
+    },
+    "type": "primary"
+  },
+  "AnimatedMountedCastingNoSpell LE (For Skyrim LE)": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "2.22",
+      "file_id": 344118,
+      "file_name": "AnimatedMountedCastingNoSpell LE-81270-2-22-1672195946.7z",
+      "mod_id": 81270,
+      "hash": "sha256-lIkUL6+rt40LVvRGMqbqjmVXcvnPnmonuqC1IPd1Vq0="
+    }
+  },
+  "AnimatedMountedCasting-JA (Jumping Attack)": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1",
+      "file_id": 345762,
+      "file_name": "AnimatedMountedCasting-JA-81270-1-1672628072.7z",
+      "mod_id": 81270,
+      "hash": "sha256-wi10W9r7q0YwLs8Vl2ed9vOua+2PGdAsJsS1cCOFARw="
+    }
+  },
+  "AnimatedMountedCasting-Horse": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1",
+      "file_id": 551281,
+      "file_name": "AnimatedMountedCasting-Horse-81270-1-1728703813.7z",
+      "mod_id": 81270,
+      "hash": "sha256-hOpEBcp/AZ2RMt+eCBX1UYSsCB4h9hjUJomCUied0oU="
+    }
+  }
+}

@@ -2,6 +2,8 @@
 - Author: Xavbio
 - Game: skyrimspecialedition
 - Mod Page: https://www.nexusmods.com/skyrimspecialedition/mods/96855
+
+
 **VAMPIRE ARMORS AND WEAPONS RETEXTURE SE**
   
 "*I offer you my blood. Take it, and you will walk as a lion among sheep. Men will tremble at your approach, and you will never fear death again.*"

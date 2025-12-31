@@ -2,6 +2,8 @@
 - Author: Enodoc
 - Game: skyrimspecialedition
 - Mod Page: https://www.nexusmods.com/skyrimspecialedition/mods/81541
+
+
 Military Fort Commanders are now more serious! They wear their faction's Officer armor, have a higher level than the other soldiers, and must be killed during "Battle for Fort" quests.
   
   

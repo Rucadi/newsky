@@ -1,0 +1,45 @@
+{
+  "Lore Friendly Wooden Sword": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.2",
+      "file_id": 420918,
+      "file_name": "Lore Friendly Wooden Sword-98823-1-2-1693079030.rar",
+      "mod_id": 98823,
+      "hash": "sha256-c8/DWx58dxP5Ydu+YOZcsioDi2sxv2EVc0g+slGDGms="
+    },
+    "type": "primary"
+  },
+  "Lore Friendly Wooden Sword(NORD)": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.2",
+      "file_id": 420919,
+      "file_name": "Lore Friendly Wooden Sword(NORD)-98823-1-2-1693079059.rar",
+      "mod_id": 98823,
+      "hash": "sha256-MdCON+anliRugVwbAl+mVYxOmS7WJi9Joixcn/uJxRc="
+    },
+    "type": "primary"
+  },
+  "Lore Friendly Wooden Sword(IMPERIAL)": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.2",
+      "file_id": 420922,
+      "file_name": "Lore Friendly Wooden Sword(IMPERIAL)-98823-1-2-1693079083.rar",
+      "mod_id": 98823,
+      "hash": "sha256-hfmKvq6G9zZ58pMIUC/bYZERaEiznsM+GkY3LM6llPY="
+    },
+    "type": "primary"
+  },
+  "WoodenSwordBOPVersion": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.2",
+      "file_id": 420923,
+      "file_name": "WoodenSwordBOPVersion-98823-1-2-1693079122.rar",
+      "mod_id": 98823,
+      "hash": "sha256-4W3e7Lwr9Dv5cvzjwuy3caBqjDXfF+mwvgs3kxinuzo="
+    }
+  }
+}

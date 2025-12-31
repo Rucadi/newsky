@@ -1,0 +1,23 @@
+{
+  "Giant Animation 2.0 Only Frost Giant Throw": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "2.0",
+      "file_id": 612963,
+      "file_name": "Giant Animation 2.0 Only Frost Giant Throw-83317-2-0-1743589621.zip",
+      "mod_id": 83317,
+      "hash": "sha256-JFkiF6vifx55l/uW2Ep8LpIVlQ17yRU2YZuOIpx9+Dk="
+    }
+  },
+  "Giant Animation 2.01": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "2.01",
+      "file_id": 613262,
+      "file_name": "Giant Animation 2.01-83317-2-01-1743658507.zip",
+      "mod_id": 83317,
+      "hash": "sha256-GOj7WAkKFuAcj86tHRPHoLBIMRdTAXl/BBmFHodqkdY="
+    },
+    "type": "primary"
+  }
+}

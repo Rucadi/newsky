@@ -1,0 +1,23 @@
+{
+  "Extra Encounters - Night Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1",
+      "file_id": 350672,
+      "file_name": "Extra Encounters - Night Patch-82976-1-1674025103.zip",
+      "mod_id": 82976,
+      "hash": "sha256-ZKO6ZM2MFIStVB2Z43iaNtJkDOIxlz16tVeAt1vNNgQ="
+    }
+  },
+  "Extra Encounters - Custom Spawn Points Version": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1",
+      "file_id": 356560,
+      "file_name": "Extra Encounters - Custom Spawn Points Version-82976-1-1-1675578365.zip",
+      "mod_id": 82976,
+      "hash": "sha256-0H9t7SBQtC4dPk19sltLS3D+kHrFC/0CLz/GGldRRa0="
+    },
+    "type": "primary"
+  }
+}

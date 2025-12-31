@@ -2,6 +2,8 @@
 - Author: Xavbio
 - Game: skyrimspecialedition
 - Mod Page: https://www.nexusmods.com/skyrimspecialedition/mods/82040
+
+
 **VIGILANT'S MOLAG BAL DRAGON RETEXTURE SE**
 
 This mod retextures the Molag Bal Dragon boss from [Vicn's Vigilant SE](https://www.nexusmods.com/skyrimspecialedition/mods/11849)﻿

@@ -1,0 +1,23 @@
+{
+  "RG Main File": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0.0.1",
+      "file_id": 423172,
+      "file_name": "RG Main File-99482-1-0-0-1-1693794412.7z",
+      "mod_id": 99482,
+      "hash": "sha256-Q4SRfLhX8RiPslv+IfHqMugdGgtykL6o2ZUdhHjAzqA="
+    },
+    "type": "primary"
+  },
+  "Rogue's Gallery PDB": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0.0.1",
+      "file_id": 423173,
+      "file_name": "Rogue's Gallery PDB-99482-1-0-0-1-1693794463.7z",
+      "mod_id": 99482,
+      "hash": "sha256-sEzZ8Nf/y7zTi3Ecp1nv8FGNgxo0nWNUGLwHiq/bbeg="
+    }
+  }
+}

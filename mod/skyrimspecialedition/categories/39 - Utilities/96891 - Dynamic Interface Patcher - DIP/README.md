@@ -2,6 +2,8 @@
 - Author: Cutleast
 - Game: skyrimspecialedition
 - Mod Page: https://www.nexusmods.com/skyrimspecialedition/mods/96891
+
+
 Description
   
 This is a tool that dynamically patches user interface mods like RaceMenu or MiniMap that have closed permissions.

@@ -1,0 +1,23 @@
+{
+  "Ghosts of Akavir Balance Tweaks": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.06",
+      "file_id": 585934,
+      "file_name": "Ghosts of Akavir Balance Tweaks-84032-1-06-1737476383.7z",
+      "mod_id": 84032,
+      "hash": "sha256-4BV1kLRedhMkAXR29aPQ9o+cbwv6TihuoaTv6jgW9jk="
+    },
+    "type": "primary"
+  },
+  "Ghosts of Akavir Balance - Animated Armoury Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.06",
+      "file_id": 585935,
+      "file_name": "Ghosts of Akavir Balance - Animated Armoury Patch-84032-1-06-1737476462.7z",
+      "mod_id": 84032,
+      "hash": "sha256-X2DYJUkBIJNnPLHLd79g6Vgylg2gYWO0X3VLvxoTKgo="
+    }
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "B.O.O.B.I.E.S (Immsersive Icons) 2.1.3": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "2.1.3",
+      "file_id": 557732,
+      "file_name": "B.O.O.B.I.E.S (Immsersive Icons) 2.1.3-89241-2-1-3-1730442940.zip",
+      "mod_id": 89241,
+      "hash": "sha256-mKtZgbV5IPNTQasviaxehbe+0pzO9HbhFgK23m65wMk="
+    },
+    "type": "primary"
+  },
+  "B.O.O.B.I.E.S - Elden Rim Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 614781,
+      "file_name": "B.O.O.B.I.E.S - Elden Rim Patch-89241-1-0-1744017073.zip",
+      "mod_id": 89241,
+      "hash": "sha256-76moomZw7GYfa4PHlfRxnB7ukV3hvkhtQKm6SBiJ/fA="
+    }
+  }
+}

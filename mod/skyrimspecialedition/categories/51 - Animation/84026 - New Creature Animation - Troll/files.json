@@ -1,0 +1,23 @@
+{
+  "Troll Animation - with Drop Kick": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 359874,
+      "file_name": "Troll Animation - with Drop Kick-84026-1-0-1676424441.7z",
+      "mod_id": 84026,
+      "hash": "sha256-IkcrhSx/HcFzMI3VLhepvBN9dTqGoAhKyK8+gG6DA6k="
+    }
+  },
+  "Troll Animation": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 359886,
+      "file_name": "Troll Animation-84026-1-0-1676427888.7z",
+      "mod_id": 84026,
+      "hash": "sha256-dUnqS4k4/i0dGQoi2hr8PAmcwxpW8pIkrwbUNkW6faM="
+    },
+    "type": "primary"
+  }
+}

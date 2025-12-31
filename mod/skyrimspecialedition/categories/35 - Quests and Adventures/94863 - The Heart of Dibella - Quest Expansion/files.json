@@ -1,23 +1,23 @@
 {
-    "The Heart of Dibella QE - RS Children patch": {
-        "nexusmods": {
-            "game_name": "skyrimspecialedition",
-            "version": "1.0",
-            "file_id": 406162,
-            "file_name": "The Heart of Dibella QE - RS Children patch-94863-1-0-1689079388.zip",
-            "mod_id": 94863,
-            "hash": "sha256-tMWvyXAdPkD0Zgp4U9ZHIYKzsP6kw0DjveKglcWca8U="
-        }
-    },
-    "The Heart of Dibella - Quest Expansion": {
-        "nexusmods": {
-            "game_name": "skyrimspecialedition",
-            "version": "1.07",
-            "file_id": 619527,
-            "file_name": "The Heart of Dibella - Quest Expansion-94863-1-07-1745181451.rar",
-            "mod_id": 94863,
-            "hash": "sha256-iXedFMCNqA8IOinmyFaCbMFhrSyLMifk53dARI5H8WI="
-        },
-        "type": "primary"
+  "The Heart of Dibella QE - RS Children patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 406162,
+      "file_name": "The Heart of Dibella QE - RS Children patch-94863-1-0-1689079388.zip",
+      "mod_id": 94863,
+      "hash": "sha256-tMWvyXAdPkD0Zgp4U9ZHIYKzsP6kw0DjveKglcWca8U="
     }
+  },
+  "The Heart of Dibella - Quest Expansion": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.07",
+      "file_id": 619527,
+      "file_name": "The Heart of Dibella - Quest Expansion-94863-1-07-1745181451.rar",
+      "mod_id": 94863,
+      "hash": "sha256-iXedFMCNqA8IOinmyFaCbMFhrSyLMifk53dARI5H8WI="
+    },
+    "type": "primary"
+  }
 }

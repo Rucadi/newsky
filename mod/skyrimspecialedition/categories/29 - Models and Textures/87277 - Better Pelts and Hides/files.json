@@ -1,0 +1,77 @@
+{
+  "1. Better Pelts and Hides.": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 369613,
+      "file_name": "Better Pelts and Hides.-87277-1-0-1679139899.rar",
+      "mod_id": 87277,
+      "hash": "sha256-kEao6P7VZCie154ge9Sw2TGfdNoKj06Ct8SItUI8rpk="
+    },
+    "type": "primary"
+  },
+  "2. Better Pelts and Hides Fluffy by SkySinclaire": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 371485,
+      "file_name": "Better Pelts and Hides Fluffy by SkySinclaire-87277-1-0-1679616559.7z",
+      "mod_id": 87277,
+      "hash": "sha256-+eeWqn2ylGxgDtHTXXsfJqvi6Nbu66zJGUsQgSzFINM="
+    },
+    "type": "primary"
+  },
+  "Better Pelts and Hides Vale Deer Pelt Leather Bindings": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 377224,
+      "file_name": "Better Pelts and Hides Vale Deer Pelt Leather Bindings-87277-1-0-1681184953.rar",
+      "mod_id": 87277,
+      "hash": "sha256-WEkfKPpehhnsX3eV3oPXiWC7a1TvwsF4GHce1v4K8o4="
+    },
+    "type": "primary"
+  },
+  "Better Pelts and Hides Vale Deer Pelt Rope Bindings": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 377225,
+      "file_name": "Better Pelts and Hides Vale Deer Pelt Rope Bindings-87277-1-0-1681185020.rar",
+      "mod_id": 87277,
+      "hash": "sha256-BAHNRCG4lYRj1HXuvFEu4j0kyFFEeI90kgo5AD1UgAM="
+    },
+    "type": "primary"
+  },
+  "Better Pelts and Hides Vale Deer Pelt Rope Bindings - No Fur": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 380260,
+      "file_name": "Better Pelts and Hides Vale Deer Pelt Rope Bindings - No Fur-87277-1-0-1681996628.rar",
+      "mod_id": 87277,
+      "hash": "sha256-qTyOwj18sCiIocAAwNBLpaAWJo9UeBL98ISNkrexql0="
+    }
+  },
+  "The Vale Deer Pelt - Non ENB version.": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 380263,
+      "file_name": "The Vale Deer Pelt - Non ENB version.-87277-1-0-1681997184.rar",
+      "mod_id": 87277,
+      "hash": "sha256-hCn3dZ0oKFwp+PRZrmXqRfMrElUmA/LS/u2ZaEVv9is="
+    },
+    "type": "primary"
+  },
+  "Better Pelts and Hides Vale Deer Pelt Leather Bindings - No Fur": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1",
+      "file_id": 380366,
+      "file_name": "Better Pelts and Hides Vale Deer Pelt Leather Bindings - No Fur-87277-1-1-1682028936.rar",
+      "mod_id": 87277,
+      "hash": "sha256-utSx1PQyv6+LK3y2MK9nB823n/e4S7yloAifOjn/EMM="
+    }
+  }
+}

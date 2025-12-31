@@ -1,0 +1,33 @@
+{
+  "Vanilla Body meshes": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1",
+      "file_id": 412979,
+      "file_name": "Vanilla Body meshes-97185-1-1690878354.zip",
+      "mod_id": 97185,
+      "hash": "sha256-v4IekESQ9AZP5zCduDUcsuTBTrl5vQ2W96T68+I440o="
+    }
+  },
+  "Vampire Clothing Expansion": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.4",
+      "file_id": 415832,
+      "file_name": "Vampire Clothing Expansion-97185-1-4-1691684722.zip",
+      "mod_id": 97185,
+      "hash": "sha256-P36FNu2J7i1fVEg3QnAVEU04fM/rQNIYxuI4UtxZfww="
+    },
+    "type": "primary"
+  },
+  "SPID distribution": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.2",
+      "file_id": 420000,
+      "file_name": "SPID distribution-97185-1-2-1692866269.zip",
+      "mod_id": 97185,
+      "hash": "sha256-TRmgDTwk3VXyO1q5IqhRwF2eqBw1qX2ChUi0CE5JH0Y="
+    }
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "Viridian Knight - Recolored - 2k Textures": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0.6",
+      "file_id": 467505,
+      "file_name": "Viridian Knight - Recolored - 2k Textures-85211-1-0-6-1707005865.7z",
+      "mod_id": 85211,
+      "hash": "sha256-cRmJkp1ES9s7L1SQCsoIvi19FI/InjDK1PCc+PsdI6g="
+    }
+  },
+  "Viridian Knight - Recolored - 4k Textures": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0.6",
+      "file_id": 467507,
+      "file_name": "Viridian Knight - Recolored - 4k Textures-85211-1-0-6-1707006091.7z",
+      "mod_id": 85211,
+      "hash": "sha256-pzfddSggfY+ZNRZ2/ULDMIXAH+jsoXCVlL+YSdqiZWY="
+    }
+  },
+  "Viridian Knight - Recolored - Main": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1.0",
+      "file_id": 689585,
+      "file_name": "Viridian Knight - Recolored - Main-85211-1-1-0-1763704438.7z",
+      "mod_id": 85211,
+      "hash": "sha256-0NcXSo0NOPKcK5Fr0CUb5xWVprF/tvMBrJXqVy19P7I="
+    },
+    "type": "primary"
+  }
+}

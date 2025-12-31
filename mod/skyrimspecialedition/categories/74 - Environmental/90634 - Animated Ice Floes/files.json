@@ -1,0 +1,23 @@
+{
+  "Animated Ice Floes - Vertex Colors Fixed": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1",
+      "file_id": 686774,
+      "file_name": "Animated Ice Floes - Vertex Colors Fixed-90634-1-1-1762966636.7z",
+      "mod_id": 90634,
+      "hash": "sha256-/s7M18Grcd1OUFHBgEIvvN59RW+hj/tWb8ug0NPTnkg="
+    }
+  },
+  "Animated Ice Floes": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "6.0",
+      "file_id": 690737,
+      "file_name": "Animated Ice Floes-90634-6-0-1763981682.7z",
+      "mod_id": 90634,
+      "hash": "sha256-ozPJTboSfw5BVPgwoZkaEjtGaQp1hbZTxLxJdju4UHk="
+    },
+    "type": "primary"
+  }
+}

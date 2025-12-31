@@ -1,0 +1,24 @@
+{
+  "Alchemy Vendor Inventory Changes": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 414054,
+      "file_name": "Alchemy Vendor Inventory Changes-97587-1-0-1691165712.zip",
+      "mod_id": 97587,
+      "hash": "sha256-Pvaugl2jA1x4FN7/XrkHeM7TkOAmW1yq8EPAnOzU1cg="
+    },
+    "type": "primary"
+  },
+  "Alchemy Vendor Inventory Changes - Simonrim patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 414055,
+      "file_name": "Alchemy Vendor Inventory Changes - Simonrim patch-97587-1-0-1691165825.zip",
+      "mod_id": 97587,
+      "hash": "sha256-AyNdyfoBil6mvZSSdRV4MmZ6qSe8/E//IJRVvyfSx/s="
+    },
+    "type": "primary"
+  }
+}

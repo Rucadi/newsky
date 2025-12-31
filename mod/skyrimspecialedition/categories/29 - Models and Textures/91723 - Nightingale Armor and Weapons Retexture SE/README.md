@@ -2,6 +2,8 @@
 - Author: Xavbio
 - Game: skyrimspecialedition
 - Mod Page: https://www.nexusmods.com/skyrimspecialedition/mods/91723
+
+
 **NIGHTINGALE ARMOR AND WEAPONS RETEXTURE SE**
   
 "*That armor... it's like nothing I've ever seen. Like forged midnight...*"

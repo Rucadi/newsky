@@ -1,0 +1,23 @@
+{
+  "Skeever Daumbra Patch.7z": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.6",
+      "file_id": 377678,
+      "file_name": "Skeever Daumbra Patch.7z-89089-1-6-1681325926.7z",
+      "mod_id": 89089,
+      "hash": "sha256-o2G6DVDJKwQ0DKjRvGhg8/uB+pys8Io/JP4f6AZshXE="
+    }
+  },
+  "FloatingSwordFollower.zip": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.12",
+      "file_id": 511886,
+      "file_name": "FloatingSwordFollower.zip-89089-1-12-1718488241.zip",
+      "mod_id": 89089,
+      "hash": "sha256-jYR7bh/c4u1lZeqUuSvOKicldCpjT2oe9Cfn/Of92uA="
+    },
+    "type": "primary"
+  }
+}

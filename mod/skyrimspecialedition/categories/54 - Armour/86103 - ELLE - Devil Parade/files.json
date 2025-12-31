@@ -1,0 +1,24 @@
+{
+  "Devil Parade 3BA": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "2",
+      "file_id": 517840,
+      "file_name": "Devil Parade 3BA-86103-2-1720164004.rar",
+      "mod_id": 86103,
+      "hash": "sha256-dW56qMS+wc+541J/8ciRob8cqQ4Jm/WSfEcVOKH0xIE="
+    },
+    "type": "primary"
+  },
+  "Devil Parade BHUNP": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "2",
+      "file_id": 517841,
+      "file_name": "Devil Parade BHUNP-86103-2-1720164040.rar",
+      "mod_id": 86103,
+      "hash": "sha256-wbkASn6sjczFHH3SKbWGWWrSOXB+wEZ2sIKpTf6cMkY="
+    },
+    "type": "primary"
+  }
+}

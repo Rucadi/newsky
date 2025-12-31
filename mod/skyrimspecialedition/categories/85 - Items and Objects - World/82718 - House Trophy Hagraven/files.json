@@ -1,0 +1,46 @@
+{
+  "House Trophy Hagraven Dressed": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0.0",
+      "file_id": 351333,
+      "file_name": "House Trophy Hagraven Dressed-82718-1-0-0-1674224979.zip",
+      "mod_id": 82718,
+      "hash": "sha256-4fEwzm1Qj73DeBKYQImQ7yU/SOwiF+Rq1VmoBYjHsPM="
+    },
+    "type": "primary"
+  },
+  "House Trophy Hagraven nude": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0.0",
+      "file_id": 351334,
+      "file_name": "House Trophy Hagraven nude-82718-1-0-0-1674225013.zip",
+      "mod_id": 82718,
+      "hash": "sha256-Q+Pphzoz6jbHIXOAzAtsgGMpCBv1wOo5U+1yDccCJk4="
+    },
+    "type": "primary"
+  },
+  "House Trophy Glenmoril Witch Nude": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0.0",
+      "file_id": 351335,
+      "file_name": "House Trophy Glenmoril Witch Nude-82718-1-0-0-1674225062.zip",
+      "mod_id": 82718,
+      "hash": "sha256-pMvCPTjFkrSFkTHqdzFzFphrSHM7Ir3VRIA2+Jlhp3c="
+    },
+    "type": "primary"
+  },
+  "House Trophy Glenmoril Witch Dressed": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0.0",
+      "file_id": 351336,
+      "file_name": "House Trophy Glenmoril Witch Dressed-82718-1-0-0-1674225093.zip",
+      "mod_id": 82718,
+      "hash": "sha256-XZBH6FTaYtACxP+Lm51v0PiM6MkKbO8Psz4d4iHpkIs="
+    },
+    "type": "primary"
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "Halo's Poser for Photo Mode - Split": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 404922,
+      "file_name": "Halo's Poser for Photo Mode - Split-95305-1-0-1688775463.zip",
+      "mod_id": 95305,
+      "hash": "sha256-+DeyQIf83NWfAUfprj/nKFI4v7yypvzTtzyqxaiXQgg="
+    },
+    "type": "primary"
+  },
+  "Halo's Poser for Photo Mode - Merged": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 404923,
+      "file_name": "Halo's Poser for Photo Mode - Merged-95305-1-0-1688775523.zip",
+      "mod_id": 95305,
+      "hash": "sha256-CxAWkDbeBqwPAPHEcZx/lJJCKzh053Kad6um1xb/ZpU="
+    },
+    "type": "primary"
+  }
+}

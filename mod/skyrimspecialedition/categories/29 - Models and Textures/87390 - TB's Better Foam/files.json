@@ -1,0 +1,46 @@
+{
+  "Better Foam 8K SSE Version": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0.2",
+      "file_id": 370106,
+      "file_name": "Better Foam 8K SSE Version-87390-1-0-2-1679259532.zip",
+      "mod_id": 87390,
+      "hash": "sha256-16AWldsj2Zt2Dw1lRl5zscZUmr+/6pmREvzT4LCpwEQ="
+    },
+    "type": "primary"
+  },
+  "Better Foam 4K SSE Version": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0.2",
+      "file_id": 370107,
+      "file_name": "Better Foam 4K SSE Version-87390-1-0-2-1679259592.zip",
+      "mod_id": 87390,
+      "hash": "sha256-2qazrNWXqt6PRgU1u9oDIB0M3efjUCuKpX2vpPfKI0o="
+    },
+    "type": "primary"
+  },
+  "Better Foam 2K SSE Version": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0.2",
+      "file_id": 370108,
+      "file_name": "Better Foam 2K SSE Version-87390-1-0-2-1679259614.zip",
+      "mod_id": 87390,
+      "hash": "sha256-2+7E0ZOxNbrW21PoqEZ8djM7iK8AKRcYds/wiy6HhxI="
+    },
+    "type": "primary"
+  },
+  "Better Foam 1K SSE Version": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0.2",
+      "file_id": 370109,
+      "file_name": "Better Foam 1K SSE Version-87390-1-0-2-1679259628.zip",
+      "mod_id": 87390,
+      "hash": "sha256-sd6tqGKd8mpE+70azLb8AUdU//HrKugtIANOh5uDApc="
+    },
+    "type": "primary"
+  }
+}

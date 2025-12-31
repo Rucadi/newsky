@@ -1,0 +1,97 @@
+{
+  "Diverse Candles - BOS ESL flagged ESP.": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.2",
+      "file_id": 409110,
+      "file_name": "Diverse Candles - BOS ESL flagged ESP.-94369-1-2-1689940002.rar",
+      "mod_id": 94369,
+      "hash": "sha256-MODpWCxAUF/QQXiMhHfvAnpVWcGi7+ODS7mAmJOf3KU="
+    },
+    "type": "primary"
+  },
+  "Diverse Candles  STAC - Base Object Swapper.": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.2",
+      "file_id": 410057,
+      "file_name": "Diverse Candles  STAC - Base Object Swapper.-94369-1-2-1690163352.rar",
+      "mod_id": 94369,
+      "hash": "sha256-ysQvUsCSdN73B16QS9ldjmRYBDBB6M5dju+3J+M/s2c="
+    },
+    "type": "primary"
+  },
+  "Diverse Candles - Base Object Swapper.": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.2b",
+      "file_id": 410059,
+      "file_name": "Diverse Candles - Base Object Swapper.-94369-1-2b-1690163729.rar",
+      "mod_id": 94369,
+      "hash": "sha256-hhimitULq/XSNyGvTNiVakoIXjg0mFTZMZ2Ztdqs+q0="
+    },
+    "type": "primary"
+  },
+  "Diverse Candles - BOS Rudy 102 Silverware Version": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.2",
+      "file_id": 413021,
+      "file_name": "Diverse Candles - BOS Rudy 102 Silverware Test-94369-1-2-1690889702.rar",
+      "mod_id": 94369,
+      "hash": "sha256-/GQWX5Mq00dho1PYbDJiIvgxxyexH9i/HvfHQdgG0g4="
+    },
+    "type": "primary"
+  },
+  "Diverse Candles STAC - BOS Rudy 102 Silverware": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.2",
+      "file_id": 413274,
+      "file_name": "Diverse Candles STAC - BOS Rudy 102 Silverware-94369-1-2-1690938336.rar",
+      "mod_id": 94369,
+      "hash": "sha256-nxAqN9flHHTn9QsVrTkGgeWM+PS0dF3JunZJDDkI+Ac="
+    },
+    "type": "primary"
+  },
+  "Optimised Meshes for ENB Light - DC BOS Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 455459,
+      "file_name": "Optimised Meshes for ENB Light - DC BOS Patch-94369-1-0-1703673407.zip",
+      "mod_id": 94369,
+      "hash": "sha256-gw6LJqU/ShnYyJiN31uqu3xFna1fclfL1fyRg83DV5Q="
+    }
+  },
+  "Optimised Meshes for ENB Light - Rudy Silver Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 455460,
+      "file_name": "Optimised Meshes for ENB Light - Rudy Silver Patch-94369-1-0-1703673592.zip",
+      "mod_id": 94369,
+      "hash": "sha256-rS0Jx1rsI92oE8tmfgWgb8gdOpo1CtugkQTTkkoGKSU="
+    }
+  },
+  "Diverse Candles GG's Silverware Add-on STAC": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 555852,
+      "file_name": "Diverse Candles GG's Silverware Add-on STAC-94369-1-0-1729982083.rar",
+      "mod_id": 94369,
+      "hash": "sha256-OUgWNl+YODpvRWo42YjJwcQ8N3NOfCPkZEzkocWY9tk="
+    }
+  },
+  "Diverse Candles GG's Silverware Add-on": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 555858,
+      "file_name": "Diverse Candles GG's Silverware Add-on-94369-1-0-1729982525.rar",
+      "mod_id": 94369,
+      "hash": "sha256-HhEmOLKJPyNAIFTCfwwj8hJLBeyvl9EdIZCvq9Dd0Sk="
+    }
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "VigilantArmor": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1",
+      "file_id": 393420,
+      "file_name": "VigilantArmor-84853-1-1-1685466595.7z",
+      "mod_id": 84853,
+      "hash": "sha256-nmZE0/JmFxtaBVPLk8X1iUjUAhv/zSOWrf7QoRTq1nE="
+    },
+    "type": "primary"
+  },
+  "VigilantArmor patch for 1.0": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 393423,
+      "file_name": "VigilantArmor patch for 1.0-84853-1-0-1685466704.7z",
+      "mod_id": 84853,
+      "hash": "sha256-YokVG/EkabsXTpmh8wzXsILxaSsmdWivDvsDlqGVqqg="
+    }
+  }
+}

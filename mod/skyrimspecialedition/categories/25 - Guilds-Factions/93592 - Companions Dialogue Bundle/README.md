@@ -2,6 +2,8 @@
 - Author: jakequery
 - Game: skyrimspecialedition
 - Mod Page: https://www.nexusmods.com/skyrimspecialedition/mods/93592
+
+
 The Companions is my favorite faction in the game. It's the first one you encounter and as someone who mainly plays warrior types, it's the natural choice. However, it does get a bit stale and after a few times visiting Jorrvaskr, you kind of stop caring. This mod probably doesn't solve that problem fully, but at least it makes an attempt. By adding more dialogue options, new dialogue from the various Companions, and fleshing out some of them, it makes the experience a bit fresh again.
   
   

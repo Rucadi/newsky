@@ -1,0 +1,23 @@
+{
+  "Organic Player Animations (OAR)": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "2.0.0",
+      "file_id": 537419,
+      "file_name": "Organic Player Animations (OAR)-99270-2-0-0-1725159968.zip",
+      "mod_id": 99270,
+      "hash": "sha256-dljnL+9XyFKkrOH2u5MSibk2jMkgJljA7AndQvw2Spw="
+    },
+    "type": "primary"
+  },
+  "OPA shield patch (OAR)": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "2.0.0",
+      "file_id": 537420,
+      "file_name": "OPA shield patch (OAR)-99270-2-0-0-1725160016.zip",
+      "mod_id": 99270,
+      "hash": "sha256-1xpBOcdfIis7T2LXlhbJlql1HWMZ9fSYo++8iDXLBII="
+    }
+  }
+}

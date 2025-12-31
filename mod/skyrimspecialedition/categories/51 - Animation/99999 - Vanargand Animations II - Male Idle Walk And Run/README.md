@@ -2,6 +2,8 @@
 - Author: Verolevi
 - Game: skyrimspecialedition
 - Mod Page: https://www.nexusmods.com/skyrimspecialedition/mods/99999
+
+
 Complete remake of the old [Vanargand Animations - Male Idle Walk and Run](https://www.nexusmods.com/skyrimspecialedition/mods/52488) on Kars' rig.
   
   

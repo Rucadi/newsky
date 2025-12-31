@@ -1,0 +1,35 @@
+{
+  "COCO Mulan - CBBE 3BA": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 381777,
+      "file_name": "COCO Mulan - CBBE 3BA-89916-1-0-1682400606.7z",
+      "mod_id": 89916,
+      "hash": "sha256-g2Y/l9WwcBG5MK6vLj/bOZ9Y+vpCXcPB7vMXGCEK2A8="
+    },
+    "type": "primary"
+  },
+  "COCO Mulan - COCOBody UUNP SE": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 382232,
+      "file_name": "COCO Mulan - COCOBody UUNP SE-89916-1-0-1682537953.7z",
+      "mod_id": 89916,
+      "hash": "sha256-oyFGqXzWtOmLKJLi6eNUQd2GHW7Ghz1tIh5z1GmYxvM="
+    },
+    "type": "primary"
+  },
+  "COCO Mulan - COCOBody CBBE SE": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 382234,
+      "file_name": "COCO Mulan - COCOBody CBBE SE-89916-1-0-1682538169.7z",
+      "mod_id": 89916,
+      "hash": "sha256-ijfvhY1Y1cdobne5HJaddxVTACakNJgcSmUcu3Nq/UE="
+    },
+    "type": "primary"
+  }
+}

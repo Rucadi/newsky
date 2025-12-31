@@ -1,0 +1,35 @@
+{
+  "COCO Gothic Babe - CBBE 3BA": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 413498,
+      "file_name": "COCO Gothic Babe - CBBE 3BA-97233-1-0-1690998079.7z",
+      "mod_id": 97233,
+      "hash": "sha256-p8E4EkHJsNQxRAPC5Etc8r6XzaPA4iJy0r/S5DDVFJk="
+    },
+    "type": "primary"
+  },
+  "COCO Gothic Babe - COCOBody CBBE SE": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 413499,
+      "file_name": "COCO Gothic Babe - COCOBody CBBE SE-97233-1-0-1690998125.7z",
+      "mod_id": 97233,
+      "hash": "sha256-FKkBey+GhJXPQ3A8va/zsFJRH7XdrETLqfTO6efyxPU="
+    },
+    "type": "primary"
+  },
+  "COCO Gothic Babe - COCOBody UUNP SE": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 413501,
+      "file_name": "COCO Gothic Babe - COCOBody UUNP SE-97233-1-0-1690998190.7z",
+      "mod_id": 97233,
+      "hash": "sha256-xLhpnmWoNNuBGXVsVzNNuO2rmfoQAGVbkveVdu3iSnE="
+    },
+    "type": "primary"
+  }
+}

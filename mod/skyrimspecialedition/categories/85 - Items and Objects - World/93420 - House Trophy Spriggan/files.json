@@ -1,0 +1,24 @@
+{
+  "Spriggan Trophy Nude": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0.0",
+      "file_id": 397426,
+      "file_name": "Spriggan Trophy Nude-93420-1-0-0-1686637634.zip",
+      "mod_id": 93420,
+      "hash": "sha256-D7xlgBJxFabvIgnj6121PFItxN6jIAxmgJlRUP9A6vA="
+    },
+    "type": "primary"
+  },
+  "Spriggan Trophy SFW": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0.0",
+      "file_id": 397427,
+      "file_name": "Spriggan Trophy SFW-93420-1-0-0-1686637662.zip",
+      "mod_id": 93420,
+      "hash": "sha256-jYvV0iuvYFceRWtIad29Ww2ebFoI5Sq4T3z38cVo4z4="
+    },
+    "type": "primary"
+  }
+}

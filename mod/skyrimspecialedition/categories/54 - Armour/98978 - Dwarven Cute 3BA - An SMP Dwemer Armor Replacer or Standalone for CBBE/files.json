@@ -1,0 +1,33 @@
+{
+  "Dwarven Cute v03": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "v03",
+      "file_id": 422069,
+      "file_name": "Dwarven Cute v03-98978-v03-1693419087.zip",
+      "mod_id": 98978,
+      "hash": "sha256-qVdFKFRRuyg6HaZMK66JbAhyHhAB6cDRjm0gNObgFGc="
+    },
+    "type": "primary"
+  },
+  "Dwarven Cute Standalone v03.1": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "v03.1",
+      "file_id": 502151,
+      "file_name": "Dwarven Cute Standalone v03.1-98978-v03-1-1715986102.zip",
+      "mod_id": 98978,
+      "hash": "sha256-3fVtdNVZMJB4WG6FqYNAczdTH1IybuL348NfcktZ/fc="
+    }
+  },
+  "Vanilla First Person Sleeveless Meshes": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "v03.1",
+      "file_id": 502155,
+      "file_name": "1st Person Sleeveless Meshes-98978-v03-1-1715986239.zip",
+      "mod_id": 98978,
+      "hash": "sha256-bzscou256ojvNsp6WEAcTO+YKVIhWjKumSQwY8k8ax4="
+    }
+  }
+}

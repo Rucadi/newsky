@@ -1,0 +1,66 @@
+{
+  "2k-1k Textures for Baked Potatoes": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 375489,
+      "file_name": "2k-1k Textures for Baked Potatoes-88599-1-0-1680737878.7z",
+      "mod_id": 88599,
+      "hash": "sha256-rR5sGHQGmRBhL5pbUNAxhj6oQn6cV34ObX441xS3ZHg="
+    }
+  },
+  "Bifrost Textures - 2K": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 375490,
+      "file_name": "Bifrost Textures - 2K-88599-1-0-1680737902.7z",
+      "mod_id": 88599,
+      "hash": "sha256-j/gRUudBPqUdjmFMFM2E04brwGcZQWMCHa0MqSCLbPQ="
+    },
+    "type": "primary"
+  },
+  "Bifrost Textures - 4k-2k": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 375491,
+      "file_name": "Bifrost Textures - 4k-2k-88599-1-0-1680737905.7z",
+      "mod_id": 88599,
+      "hash": "sha256-mEWoCk7WfXkZQoft5Qzv0B0dNnuvNyZI3I7iJPcJqH0="
+    },
+    "type": "primary"
+  },
+  "Bifrost Textures - 4K": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 375492,
+      "file_name": "Bifrost Textures - 4K-88599-1-0-1680737909.7z",
+      "mod_id": 88599,
+      "hash": "sha256-hesAFF3OQMAUumZiURrpYA08vDjG1gr2Wt/P8HtqzBQ="
+    },
+    "type": "primary"
+  },
+  "Bifrost Textures - 8K": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 375493,
+      "file_name": "Bifrost Textures - 8K-88599-1-0-1680737912.7z",
+      "mod_id": 88599,
+      "hash": "sha256-dUGGfgfynheQvJYAtfSZVPsM5GXIlXCdbOa1eF42Syc="
+    },
+    "type": "primary"
+  },
+  "1k-512 Textures for Mashed Potatoes": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 375506,
+      "file_name": "1k-512 Textures for Mashed Potatoes-88599-1-0-1680740714.7z",
+      "mod_id": 88599,
+      "hash": "sha256-fGJUtAlsOx7Htl0ikfzkk3gNN01U/EczPMCgxUWRJ2o="
+    }
+  }
+}

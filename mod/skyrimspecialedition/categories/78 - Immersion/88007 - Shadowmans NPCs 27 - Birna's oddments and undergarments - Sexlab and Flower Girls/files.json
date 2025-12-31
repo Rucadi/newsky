@@ -1,0 +1,64 @@
+{
+  "shadowman_birnaSl": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1",
+      "file_id": 372944,
+      "file_name": "shadowman_birnaSl-88007-1-1680047452.rar",
+      "mod_id": 88007,
+      "hash": "sha256-ZV7d/vauNu6cO0EL9w4kFtSN3/n1ZsQGDckskF1y7b4="
+    },
+    "type": "primary"
+  },
+  "shadowman_birnaFG": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1",
+      "file_id": 372945,
+      "file_name": "shadowman_birnaFG-88007-1-1680047730.rar",
+      "mod_id": 88007,
+      "hash": "sha256-1iWv9lJb/atRFG8CVqRgpprG0QABjsGlqnovKUjXUZk="
+    },
+    "type": "primary"
+  },
+  "no bed teleport SL": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "A",
+      "file_id": 378005,
+      "file_name": "no bed teleport SL-88007-A-1681420627.rar",
+      "mod_id": 88007,
+      "hash": "sha256-vUPCh1r2eJAo0XdysZbcG2HcVKjKazUMpb6HFhdCmsQ="
+    }
+  },
+  "no bed teleport FG": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "AA",
+      "file_id": 378006,
+      "file_name": "no bed teleport FG-88007-AA-1681420663.rar",
+      "mod_id": 88007,
+      "hash": "sha256-MHmFXQ3bKEmjTyVyCzsuIGvzH3dqToCK22Ejm626TrE="
+    }
+  },
+  "BirnaSL_noteleport_period": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "NO",
+      "file_id": 378617,
+      "file_name": "BirnaSL_noteleport_period-88007-NO-1681593910.rar",
+      "mod_id": 88007,
+      "hash": "sha256-EyEg1vLN61Oi/AC7NZXLSOHp/xYQHFa+m8mm91uUVSw="
+    }
+  },
+  "BirnaFG_noteleport_period": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "B",
+      "file_id": 412681,
+      "file_name": "BirnaFG_noteleport_period-88007-B-1690803907.rar",
+      "mod_id": 88007,
+      "hash": "sha256-pB8yHoNrXEuLgSYnJNnms4InXZ7zJE7xxpj/mRqcVkE="
+    }
+  }
+}

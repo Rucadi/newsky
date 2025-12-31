@@ -5,7 +5,8 @@
       "version": "1.0",
       "file_id": 342598,
       "file_name": "No Thieves Guild Grind Fixed 1-81130-1-0-1671656717.zip",
-      "mod_id": 81130
+      "mod_id": 81130,
+      "hash": "sha256-CBkWnqr3AqoHHLm2b60LOLSpWNyXHUii8EWnRZxnITY="
     },
     "type": "primary"
   },
@@ -15,7 +16,8 @@
       "version": "1.0",
       "file_id": 342599,
       "file_name": "No Thieves Guild Grind Fixed 2-81130-1-0-1671656759.zip",
-      "mod_id": 81130
+      "mod_id": 81130,
+      "hash": "sha256-CaShdgE1sOpEVEavKN2ksk1VQmwkJAg+jIH0xsd2BSA="
     }
   },
   "No Thieves Guild Grind Fixed 3": {
@@ -24,7 +26,8 @@
       "version": "1.0",
       "file_id": 342600,
       "file_name": "No Thieves Guild Grind Fixed 3-81130-1-0-1671656804.zip",
-      "mod_id": 81130
+      "mod_id": 81130,
+      "hash": "sha256-lpG7ToEkeQEERPPKXtJOC7TGJnVy2aXw4eSvZ2hPTRk="
     }
   },
   "No Thieves Guild Grind Fixed 4": {
@@ -33,7 +36,8 @@
       "version": "1.0",
       "file_id": 342601,
       "file_name": "No Thieves Guild Grind Fixed 4-81130-1-0-1671656840.zip",
-      "mod_id": 81130
+      "mod_id": 81130,
+      "hash": "sha256-yA7mCvqBU2UP7hcEP8hFvDkmMKknaF5o3KWSqMxwgnU="
     }
   }
 }

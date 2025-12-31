@@ -1,0 +1,23 @@
+{
+  "Anglerfish": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1",
+      "file_id": 443787,
+      "file_name": "Anglerfish-87250-1-1-1700347644.rar",
+      "mod_id": 87250,
+      "hash": "sha256-uA9R95Wn8gPxAIdo5CsMZtw7zk26kwfx8/0AjIuQg7s="
+    },
+    "type": "primary"
+  },
+  "Creation Club - Dead Man's Dread Addon": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 546556,
+      "file_name": "Creation Club - Dead Man's Dread Addon-87250-1-0-1727403657.rar",
+      "mod_id": 87250,
+      "hash": "sha256-TrmVZhD75TrQfgfvqRYU/waqNyLYxDhyXtcSN/Gvevc="
+    }
+  }
+}

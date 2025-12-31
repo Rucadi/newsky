@@ -1,0 +1,23 @@
+{
+  "Clockwork Tot Dwarven Lace": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1",
+      "file_id": 399801,
+      "file_name": "Clockwork Tot Dwarven Lace-90684-1-1-1687424845.7z",
+      "mod_id": 90684,
+      "hash": "sha256-lIZfO7b58BIt+TSj784DyO6siLYfSI48Hew45Cied7M="
+    },
+    "type": "primary"
+  },
+  "Clockwork Tot Dwarven Lace Skirt Sliders Fix Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 399802,
+      "file_name": "Clockwork Tot Dwarven Lace Skirt Sliders Fix Patch-90684-1-0-1687425020.7z",
+      "mod_id": 90684,
+      "hash": "sha256-zkqE74wfqGyFcb6A2S4NhveaIF8ZmDa8/6ElG0LvD1s="
+    }
+  }
+}

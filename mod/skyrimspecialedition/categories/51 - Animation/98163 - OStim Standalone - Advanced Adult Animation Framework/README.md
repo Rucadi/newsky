@@ -2,6 +2,8 @@
 - Author: Kannonfodder---VersuchDrei
 - Game: skyrimspecialedition
 - Mod Page: https://www.nexusmods.com/skyrimspecialedition/mods/98163
+
+
 ![](https://i.imgur.com/zi6ccT0.png)﻿
   
 **Important**: [Installation Guide and useful information](https://www.nexusmods.com/skyrimspecialedition/articles/5654)﻿﻿ | [Troubleshooting Guide - Frequent Issues](https://www.nexusmods.com/skyrimspecialedition/articles/5656)﻿﻿﻿

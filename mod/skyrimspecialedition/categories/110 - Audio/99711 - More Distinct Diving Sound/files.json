@@ -1,0 +1,24 @@
+{
+  "More Distinct Diving Sound": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0.1a",
+      "file_id": 422526,
+      "file_name": "More Distinct Diving Sound-99711-1-0-1-1693581752.rar",
+      "mod_id": 99711,
+      "hash": "sha256-Cv1OO7GIZQ982Ry+0H26Z2zbb/MVdBijZIH3mtXOeB4="
+    },
+    "type": "primary"
+  },
+  "More Distinct Diving Sound - Alternate Version": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0.0b",
+      "file_id": 422528,
+      "file_name": "More Distinct Diving Sound - Alternate Version-99711-1-0-0-1693581955.rar",
+      "mod_id": 99711,
+      "hash": "sha256-Fq5qKeb/pdZczuekYhUCpTdXAWXTsbWbnJwvcnRbC88="
+    },
+    "type": "primary"
+  }
+}

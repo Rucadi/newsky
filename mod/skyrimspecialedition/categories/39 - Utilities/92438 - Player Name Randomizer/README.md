@@ -2,6 +2,8 @@
 - Author: sasnikol
 - Game: skyrimspecialedition
 - Mod Page: https://www.nexusmods.com/skyrimspecialedition/mods/92438
+
+
 **Overview**
   
 How many times had you been stuck on Character creation menu trying to think of a lore friendly name for your character? Ever wished that someone would just suggest you a cool name that suits your specific character? Well, now there is someone - **Player Name Randomizer** :D

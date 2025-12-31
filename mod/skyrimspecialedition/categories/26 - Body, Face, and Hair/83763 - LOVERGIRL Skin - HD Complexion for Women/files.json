@@ -1,0 +1,64 @@
+{
+  "Lovergirl CBBE": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1",
+      "file_id": 354259,
+      "file_name": "Lovergirl CBBE-83763-1-1675006751.zip",
+      "mod_id": 83763,
+      "hash": "sha256-W8SKtl0VBAdjzgPqJionZsHDIKvoJ7i9Bj1jAAPw2ks="
+    },
+    "type": "primary"
+  },
+  "Alternative Bosmer texture": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1",
+      "file_id": 354383,
+      "file_name": "Alternative Bosmer texture-83763-1-1675029044.zip",
+      "mod_id": 83763,
+      "hash": "sha256-8dj0+bU80M/H4dM5W7u2Nd96YQBedTD0rz5ukY9P/x8="
+    }
+  },
+  "Matte Specular CBBE": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1",
+      "file_id": 354876,
+      "file_name": "CBBE Matte Specular-83763-1-1675151335.zip",
+      "mod_id": 83763,
+      "hash": "sha256-YT8+jLXtD2omOxtnkrnP6m7bfxjH2SVYPGPACcBNsHk="
+    }
+  },
+  "Muscle Map CBBE": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1",
+      "file_id": 354879,
+      "file_name": "Muscle Map CBBE-83763-1-1675151953.zip",
+      "mod_id": 83763,
+      "hash": "sha256-C4PW/0B3PoFS7E15UUc4jD4VIuz2aO9/skKpTogPKo4="
+    }
+  },
+  "Matte Specular UNP": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1",
+      "file_id": 355764,
+      "file_name": "Matte Specular UNP-83763-1-1675411007.zip",
+      "mod_id": 83763,
+      "hash": "sha256-a+zp3qyS0AxUHMZnFLM1yTO23CgEQ4aMOgRNBUscq6A="
+    }
+  },
+  "Lovergirl UNP": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1",
+      "file_id": 355803,
+      "file_name": "Lovergirl UNP-83763-1-1675418843.zip",
+      "mod_id": 83763,
+      "hash": "sha256-cvDDRma50+pezRaj+1TtzbR8QlKh2PLE9DzhrdimmsM="
+    },
+    "type": "primary"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "Berwhale Replacer": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 518411,
+      "file_name": "Berwhale Replacer-93413-1-0-1720318729.zip",
+      "mod_id": 93413,
+      "hash": "sha256-OJu9I+qerXi0mwJWsBX9/6Vqvuse+wj9rmpq385AKUI="
+    }
+  },
+  "Thalmor's Shadow": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.05",
+      "file_id": 691742,
+      "file_name": "Thalmor's Shadow-93413-1-05-1764250135.zip",
+      "mod_id": 93413,
+      "hash": "sha256-zVHF3S0kO5HS+oKr4FP5H/oD+dnnpzX16qsq0tZ1/FY="
+    },
+    "type": "primary"
+  }
+}

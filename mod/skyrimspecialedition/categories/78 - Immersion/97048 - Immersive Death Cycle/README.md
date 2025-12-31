@@ -2,6 +2,8 @@
 - Author: Naxmaardur - JaySerpa
 - Game: skyrimspecialedition
 - Mod Page: https://www.nexusmods.com/skyrimspecialedition/mods/97048
+
+
 [font=Trebuchet MS]**-IMMERSIVE DEATH CYCLE-**[/font]
 
 ***FEATURES***

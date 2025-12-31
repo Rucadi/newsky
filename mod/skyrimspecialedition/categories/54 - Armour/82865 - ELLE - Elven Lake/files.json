@@ -1,0 +1,24 @@
+{
+  "Elven Lake 3BA": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "2",
+      "file_id": 517827,
+      "file_name": "Elven Lake 3BA-82865-2-1720158466.rar",
+      "mod_id": 82865,
+      "hash": "sha256-gsBL+qugLtL0HBoSgGxBVT+vdvoMEs6MbKrTzhvz5X8="
+    },
+    "type": "primary"
+  },
+  "Elven Lake BHUNPV4": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "2",
+      "file_id": 517828,
+      "file_name": "Elven Lake BHUNPV4-82865-2-1720158516.rar",
+      "mod_id": 82865,
+      "hash": "sha256-xRDAHmfJ4nGNXid9KLRxAccb8H8a29FCOyxfjIWSc34="
+    },
+    "type": "primary"
+  }
+}

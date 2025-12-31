@@ -1,0 +1,24 @@
+{
+  "Lord Jabal - Dovahkiin and Friends Must Die": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1",
+      "file_id": 415474,
+      "file_name": "Lord Jabal - Dovahkiin and Friends Must Die-97932-1-1-1691592248.rar",
+      "mod_id": 97932,
+      "hash": "sha256-2z/+EugQUqEot4ZVW8uxlKOUciPme2MfytrMuaDAVzA="
+    },
+    "type": "primary"
+  },
+  "Lord Jabal - Normal": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1",
+      "file_id": 415478,
+      "file_name": "Lord Jabal - Normal-97932-1-1-1691592773.rar",
+      "mod_id": 97932,
+      "hash": "sha256-Qo0ZbRz/s288+nVdS+xzxSXoS1y1JBpRuX1WrL7GmUQ="
+    },
+    "type": "primary"
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "ElSopa - Quivers Resized 10 Percent": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1",
+      "file_id": 383217,
+      "file_name": "ElSopa - Quivers Resized-90350-1-1682844005.rar",
+      "mod_id": 90350,
+      "hash": "sha256-E4icjwTgS5ecK+IVEHVSjCu+qRBm1enyyi263g0ImYM="
+    },
+    "type": "primary"
+  },
+  "ElSopa - Quivers Resized 25 Percent": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1",
+      "file_id": 383764,
+      "file_name": "ElSopa - Quivers Resized 25 Percent-90350-1-1682960801.rar",
+      "mod_id": 90350,
+      "hash": "sha256-Wpy8N+oxfTduweehgme9Ud45SinzlQjPqKNJEdPhPH8="
+    },
+    "type": "primary"
+  }
+}

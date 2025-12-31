@@ -1,0 +1,7 @@
+# Improved Follower Dialogue - Lydia - INIGO (Minor Patch)
+- Author: ArcherMix - PunkRumble from Forum
+- Game: skyrimspecialedition
+- Mod Page: https://www.nexusmods.com/skyrimspecialedition/mods/81203
+
+
+Minor Pacth for [IFD-Lydia](https://www.nexusmods.com/skyrimspecialedition/mods/38473?tab=description) and [INIGO](https://www.nexusmods.com/skyrimspecialedition/mods/1461?tab=description),  without this patch, Inigo will start a dialogue with Lydia but she will be silent, this patch fix this but with original voice of Lydia. If you want the voice of the mod ([IFD-Lydia](https://www.nexusmods.com/skyrimspecialedition/mods/38473?tab=description)), you should talk with the author for made a patch for [INIGO](https://www.nexusmods.com/skyrimspecialedition/mods/1461?tab=description). What i did was simply rename the file from "FemaleEvenToned" ([INIGO](https://www.nexusmods.com/skyrimspecialedition/mods/1461?tab=description)) to  "FemaleUniqueLydia" ([IFD-Lydia](https://www.nexusmods.com/skyrimspecialedition/mods/38473?tab=description)). This is Loose files. I made this based on forum [Improved Follower Dialogue - Lydia -Nexus Forum](https://forums.nexusmods.com/index.php?/topic/8930363-improved-follower-dialogue-lydia/page-217#entry118259248)  (sorry if my english is bad :v)

@@ -1,0 +1,24 @@
+{
+  "shadowman_dibellaSL": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.01",
+      "file_id": 477995,
+      "file_name": "shadowman_dibellaSL-89092-1-01-1709843151.rar",
+      "mod_id": 89092,
+      "hash": "sha256-IVjhYsy83Wfn3jXAyJ6/bHGtjUJniyy81cktgZyRp6U="
+    },
+    "type": "primary"
+  },
+  "shadowman_dibellaFG": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.01",
+      "file_id": 477996,
+      "file_name": "shadowman_dibellaFG-89092-1-01-1709843200.rar",
+      "mod_id": 89092,
+      "hash": "sha256-zI6dp8AunqiRRHwZeojb799u/QX2Jc099zr6RZ1+Q5U="
+    },
+    "type": "primary"
+  }
+}

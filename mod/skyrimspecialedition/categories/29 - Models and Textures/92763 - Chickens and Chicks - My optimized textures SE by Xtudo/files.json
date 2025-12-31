@@ -1,0 +1,45 @@
+{
+  "Chickens and Chicks - My textures SE by Xtudo - 1K": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1",
+      "file_id": 394645,
+      "file_name": "Chickens and Chicks - My textures SE by Xtudo - 1K-92763-1-1685808427.7z",
+      "mod_id": 92763,
+      "hash": "sha256-NnSopX9JR8xwC04lhPvnKuXQUmntBw4HYbBW9fVc0aY="
+    },
+    "type": "primary"
+  },
+  "Chickens and Chicks - My textures SE by Xtudo - 2K": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1",
+      "file_id": 394646,
+      "file_name": "Chickens and Chicks - My textures SE by Xtudo - 2K-92763-1-1685808444.7z",
+      "mod_id": 92763,
+      "hash": "sha256-wvkvB6R3z17N1T2UPV7wXIEhj9H6mZLR0rLa9Ui65Yg="
+    },
+    "type": "primary"
+  },
+  "Chickens and Chicks - My textures SE by Xtudo - 4K": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1",
+      "file_id": 394647,
+      "file_name": "Chickens and Chicks - My textures SE by Xtudo - 4K-92763-1-1685808459.7z",
+      "mod_id": 92763,
+      "hash": "sha256-YKYt2gyozK2ehoq+7zSJym7IAoq9lOxdEpBo+BVo17s="
+    },
+    "type": "primary"
+  },
+  "Chickens and Chicks - My textures SE by Xtudo - FP": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1",
+      "file_id": 394648,
+      "file_name": "Chickens and Chicks - My textures SE by Xtudo - FP-92763-1-1685808486.7z",
+      "mod_id": 92763,
+      "hash": "sha256-KQ90d5dtStZdGBdKpXoNgfhJqtFZXFJHiGzOGu5Jidg="
+    }
+  }
+}

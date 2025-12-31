@@ -1,0 +1,33 @@
+{
+  "Yazakh - Visual Replacer": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 417334,
+      "file_name": "Yazakh - Visual Replacer-98398-1-0-1692114196.7z",
+      "mod_id": 98398,
+      "hash": "sha256-u0Merfx1xt7HoH27xC2fl63s8SIP8TPMhakJBzDIFds="
+    },
+    "type": "primary"
+  },
+  "Borbga - Standalone Follower": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 417335,
+      "file_name": "Borbga - Standalone Follower-98398-1-0-1692114330.7z",
+      "mod_id": 98398,
+      "hash": "sha256-2u/wZgsATu/qRJwUX5O4r307O6gat0NqllPmAt1t/kc="
+    }
+  },
+  "Borbga - Standalone Follower - Orc Voice": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 417503,
+      "file_name": "Borbga - Standalone Follower - Orc Voice-98398-1-0-1692146943.7z",
+      "mod_id": 98398,
+      "hash": "sha256-9FYo4HqvuZv+3YRJF0othtM1KTTzObKPsqJscQkXBVQ="
+    }
+  }
+}

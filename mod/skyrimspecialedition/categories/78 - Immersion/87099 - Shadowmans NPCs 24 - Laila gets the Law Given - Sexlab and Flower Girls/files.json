@@ -1,0 +1,24 @@
+{
+  "shadowman_lailaSL": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1",
+      "file_id": 369543,
+      "file_name": "shadowman_lailaSL-87099-1-1-1679110728.rar",
+      "mod_id": 87099,
+      "hash": "sha256-whBZa9KJ7PiMZypmAdWESv6kAzzHH6LSmXdRpyLTe78="
+    },
+    "type": "primary"
+  },
+  "shadowman_lailaFG": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1",
+      "file_id": 369544,
+      "file_name": "shadowman_lailaFG-87099-1-1-1679110819.rar",
+      "mod_id": 87099,
+      "hash": "sha256-IQdHSciAw5QelNvBHUv8vCEEjhMQdk3OvAjApxBXczo="
+    },
+    "type": "primary"
+  }
+}

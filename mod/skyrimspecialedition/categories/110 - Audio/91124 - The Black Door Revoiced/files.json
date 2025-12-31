@@ -1,0 +1,34 @@
+{
+  "The Black Door - A": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 387050,
+      "file_name": "The Black Door - A-91124-1-0-1683821909.zip",
+      "mod_id": 91124,
+      "hash": "sha256-+Y+PeeJUVnn3KDKLXGcDJ5GbnNYQh9BJw/dYhGwKQ7k="
+    },
+    "type": "primary"
+  },
+  "The Black Door - B": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 387053,
+      "file_name": "The Black Door - B-91124-1-0-1683821985.zip",
+      "mod_id": 91124,
+      "hash": "sha256-Qh5EtZzWaatvXrMaZpKsjjREK1/4OpgIZsR3vNp29pg="
+    },
+    "type": "primary"
+  },
+  "Female The Black Door Revoiced": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 460833,
+      "file_name": "Female The Black Door Revoiced-91124-1-0-1705107467.zip",
+      "mod_id": 91124,
+      "hash": "sha256-hdFhyxbnnZVYYX0JF7P5FEAil0X/V5pMqfyUFWscpz0="
+    }
+  }
+}

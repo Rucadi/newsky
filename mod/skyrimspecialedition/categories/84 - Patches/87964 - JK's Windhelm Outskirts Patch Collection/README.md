@@ -2,6 +2,8 @@
 - Author: Czasior
 - Game: skyrimspecialedition
 - Mod Page: https://www.nexusmods.com/skyrimspecialedition/mods/87964
+
+
 A collection of compatibility patches for [JK's Windhelm Outskirts](https://www.nexusmods.com/skyrimspecialedition/mods/86975). All patches are ESP flagged as ESL.
   
   

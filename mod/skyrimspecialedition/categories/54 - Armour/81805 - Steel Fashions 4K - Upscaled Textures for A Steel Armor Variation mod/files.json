@@ -1,0 +1,55 @@
+{
+  "Steel Fashions Textures 2K": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 345549,
+      "file_name": "Steel Fashions Textures 2K-81805-1-0-1672586667.7z",
+      "mod_id": 81805,
+      "hash": "sha256-BOYo1e4NuyG/fQC/IvgyzPMmlHIFj3aZYx6RtNknkxc="
+    },
+    "type": "primary"
+  },
+  "2k-1k Textures for Baked Potatoes": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 345552,
+      "file_name": "2k-1k Textures for Baked Potatoes-81805-1-0-1672587120.7z",
+      "mod_id": 81805,
+      "hash": "sha256-gTrL2qmnPkVI1o9mK/6uehfBivpCjcQdmfinhoQinSw="
+    }
+  },
+  "1k-512 Textures for Mashed Potatoes": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 345553,
+      "file_name": "1k-512 Textures for Mashed Potatoes-81805-1-0-1672587249.7z",
+      "mod_id": 81805,
+      "hash": "sha256-m5X05lcVMm3AeurOdxMDGC6oIeUvl+8GsEE9iblTjZQ="
+    }
+  },
+  "Steel Fashions Textures 4k-2k": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 345556,
+      "file_name": "Steel Fashions Textures 4k-2k-81805-1-0-1672587924.7z",
+      "mod_id": 81805,
+      "hash": "sha256-uZg4i8J4VdFUL6CRyTF/Dj4TYXQA2/CqyLmbBL86QOE="
+    },
+    "type": "primary"
+  },
+  "Steel Fashions Textures 4K": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 345557,
+      "file_name": "Steel Fashions Textures 4K-81805-1-0-1672587925.7z",
+      "mod_id": 81805,
+      "hash": "sha256-SAYGcoNbaffcx91qTh4n8Ku6muhfIX8RoSf9AL6xWLQ="
+    },
+    "type": "primary"
+  }
+}

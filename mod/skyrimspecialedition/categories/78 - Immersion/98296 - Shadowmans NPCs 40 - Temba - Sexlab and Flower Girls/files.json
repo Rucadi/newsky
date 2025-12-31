@@ -1,0 +1,24 @@
+{
+  "shadowman_temba_SL": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1",
+      "file_id": 416944,
+      "file_name": "shadowman_temba_SL-98296-1-1691999459.rar",
+      "mod_id": 98296,
+      "hash": "sha256-aSV8CUYa502KJ7cJ1Qeos0+BZSI5V9+61aQudlF97p8="
+    },
+    "type": "primary"
+  },
+  "shadowman_temba_FG": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1",
+      "file_id": 416945,
+      "file_name": "shadowman_temba_FG-98296-1-1691999482.rar",
+      "mod_id": 98296,
+      "hash": "sha256-qu6AOsntYx5GxfwwDLgdqesqevS6NllSU4cz5pdxpS8="
+    },
+    "type": "primary"
+  }
+}

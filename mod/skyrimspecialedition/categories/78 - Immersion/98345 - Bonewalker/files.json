@@ -1,0 +1,33 @@
+{
+  "bonewalker SMIM_FIX (more bones)": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 417257,
+      "file_name": "bonewalker SMIM_FIX-98345-1-0-1692092744.7z",
+      "mod_id": 98345,
+      "hash": "sha256-mk+GD5gUfkS7d8tQhw3il4mMINKYaKXabiXLMGlZebg="
+    }
+  },
+  "bonewalker SMIM_FIX": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 417261,
+      "file_name": "bonewalker SMIM_FIX-98345-1-0-1692093959.7z",
+      "mod_id": 98345,
+      "hash": "sha256-Yxqt7Odh0lQfc4v9q70vXWjtLW+Uh7VCEHWvU0UfXj8="
+    }
+  },
+  "bonewalker": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.04.1",
+      "file_id": 517612,
+      "file_name": "bonewalker-98345-1-04-1-1720100988.7z",
+      "mod_id": 98345,
+      "hash": "sha256-c/0fXaCBT0xk/QX2wJk1fT07odajBlQ0hBiPsFyqNfA="
+    },
+    "type": "primary"
+  }
+}

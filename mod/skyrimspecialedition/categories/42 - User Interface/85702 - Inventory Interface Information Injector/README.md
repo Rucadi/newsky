@@ -2,6 +2,8 @@
 - Author: Parapets and Jelidity
 - Game: skyrimspecialedition
 - Mod Page: https://www.nexusmods.com/skyrimspecialedition/mods/85702
+
+
 [font=Times New Roman]OVERVIEW[/font]
   
 This framework makes it possible to inject new information, including custom icons, into SkyUI's inventory and favorites menus without editing the SWF files. This means that many different mods can customize how their items should be displayed in the SkyUI interface while remaining compatible with each other.

@@ -1,0 +1,23 @@
+{
+  "Stormcaller Magic II - Instant Streak": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "ANY",
+      "file_id": 382084,
+      "file_name": "Stormcaller Magic II - Instant Streak-89643-ANY-1682482727.zip",
+      "mod_id": 89643,
+      "hash": "sha256-MK6BZxXPcbArIKNobyDSkt0FXOrgHYeOPDA0q3hdg7g="
+    }
+  },
+  "Stormcaller Magic II": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.52",
+      "file_id": 382085,
+      "file_name": "Stormcaller Magic II-89643-1-52-1682483386.zip",
+      "mod_id": 89643,
+      "hash": "sha256-zEiXp5j6w0yC8JvkyL4BcWwpfVy95z8QRkXA66ewyHU="
+    },
+    "type": "primary"
+  }
+}

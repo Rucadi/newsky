@@ -1,0 +1,23 @@
+{
+  "Akaviri Dragonguard- JK's Sky Haven Temple patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1",
+      "file_id": 363795,
+      "file_name": "Akaviri Dragonguard- JK's Sky Haven Temple patch-85900-1-1677469202.rar",
+      "mod_id": 85900,
+      "hash": "sha256-VKiDDl11sBOinh8ccUFcaS8R5g4BTC/t8OzBEfp3dyw="
+    }
+  },
+  "Akaviri Dragonguard Armor": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.01",
+      "file_id": 366222,
+      "file_name": "Akaviri Dragonguard Armor-85900-1-01-1678158490.rar",
+      "mod_id": 85900,
+      "hash": "sha256-c9P7zms45tky2dFWTmpvh+DLt/f1vtlq6WFGBjJ0rK8="
+    },
+    "type": "primary"
+  }
+}

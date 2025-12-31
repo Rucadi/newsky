@@ -1,0 +1,24 @@
+{
+  "shadowman21_camilla_sexlab": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "2",
+      "file_id": 359505,
+      "file_name": "shadowman21_camilla_sexlab-84592-2-1676321600.rar",
+      "mod_id": 84592,
+      "hash": "sha256-VcBlyg3jrjeqYqNFZ2iXXVrz+BnikujIr8f4l2ENbP8="
+    },
+    "type": "primary"
+  },
+  "shadowman21_camilla_flowergirls": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "2",
+      "file_id": 359506,
+      "file_name": "shadowman21_camilla_flowergirls-84592-2-1676321686.rar",
+      "mod_id": 84592,
+      "hash": "sha256-MrnBscA8DBCho/GheUf8Kh4PXE1q2PXNMjkMA68FeWE="
+    },
+    "type": "primary"
+  }
+}

@@ -15,7 +15,8 @@
       "version": "2.0",
       "file_id": 343927,
       "file_name": "Dwemer Armor - My patches and fixes by Xtudo SE - Ancient Dwemer Metal patch-81046-2-0-1672105009.7z",
-      "mod_id": 81046
+      "mod_id": 81046,
+      "hash": "sha256-b9Ujg078DwfV3Bh5+hNFgXnnq7Cz9oxff52qv3CiB/c="
     }
   },
   "Dwemer - SE by Xtudo - 1st Person No Pauldrons": {
@@ -24,7 +25,8 @@
       "version": "2.1",
       "file_id": 345376,
       "file_name": "Dwemer Armor - My patches and fixes by Xtudo SE - 1st Person No Pauldrons patches-81046-2-1-1672525917.7z",
-      "mod_id": 81046
+      "mod_id": 81046,
+      "hash": "sha256-0bW3bcqVs4qpcj55Cx/xmuyxiFvpd8zJvh+s3t85bSs="
     }
   },
   "Dwemer - SE by Xtudo - Color - OBSIDIAN": {
@@ -33,7 +35,8 @@
       "version": "2.2",
       "file_id": 345701,
       "file_name": "Dwemer Armor - My patches and fixes by Xtudo SE - Color - OBSIDIAN-81046-2-2-1672613277.7z",
-      "mod_id": 81046
+      "mod_id": 81046,
+      "hash": "sha256-RdfAZuwqHfaHBeqHd5BonxLcfxSPc9U73A6e7GX0W5w="
     }
   },
   "Dwemer Armor by Xtudo SE - GDPR Amethyst": {
@@ -42,7 +45,8 @@
       "version": "2.6",
       "file_id": 420027,
       "file_name": "Dwemer Armor by Xtudo SE - GDPR Amethyst-81046-2-6-1692879344.7z",
-      "mod_id": 81046
+      "mod_id": 81046,
+      "hash": "sha256-IKJCzWLFerce9QA6vlFfwsHITUZgiP/Qeq+3gqucHjM="
     }
   },
   "Dwemer - SE by Xtudo - Dwemer Colosseum patch": {
@@ -51,7 +55,8 @@
       "version": "2.6",
       "file_id": 420028,
       "file_name": "Dwemer Armor by Xtudo SE - Dwemer Colosseum patch-81046-2-6-1692880473.7z",
-      "mod_id": 81046
+      "mod_id": 81046,
+      "hash": "sha256-wQY+dVdR6K9X7Ym3hDbI2ypvv4yGxY0HnwLYTdkm8Xs="
     }
   },
   "Dwemer - SE by Xtudo - Fixes ESL": {
@@ -60,7 +65,8 @@
       "version": "3.2",
       "file_id": 629139,
       "file_name": "Dwemer - SE by Xtudo - Fixes ESL-81046-3-2-1747745390.7z",
-      "mod_id": 81046
+      "mod_id": 81046,
+      "hash": "sha256-jXGJb1TZH4bC6fZE3Iu/oHB8CimQ+p7dV4mGAD8dSyI="
     },
     "type": "primary"
   },
@@ -70,7 +76,8 @@
       "version": "3.2",
       "file_id": 629140,
       "file_name": "Dwemer - SE by Xtudo - Fixes ESP-81046-3-2-1747745409.7z",
-      "mod_id": 81046
+      "mod_id": 81046,
+      "hash": "sha256-DCiEFwavoBmU+grOb9tatC1htlv3pfpnR9mHW9MtKkE="
     },
     "type": "primary"
   },
@@ -80,7 +87,8 @@
       "version": "3.2",
       "file_id": 629141,
       "file_name": "Dwemer - SE by Xtudo - CC Dwarven Mail replacer-81046-3-2-1747745441.7z",
-      "mod_id": 81046
+      "mod_id": 81046,
+      "hash": "sha256-O01yi8uY9fR+O/Mb1maFA2GsDhAUuEU6CD56SvhhhD4="
     }
   },
   "Dwemer - SE by Xtudo - Dwarven Plate replacer": {
@@ -89,7 +97,8 @@
       "version": "3.2",
       "file_id": 629142,
       "file_name": "Dwemer - SE by Xtudo - Dwarven Plate replacer-81046-3-2-1747745475.7z",
-      "mod_id": 81046
+      "mod_id": 81046,
+      "hash": "sha256-IjJijHrk+8GnroY0A1nAc1S7pBz/U5Hy1bkgoO0bk4w="
     }
   },
   "Dwemer - SE by Xtudo - Heavy and Light Armor - ESL": {
@@ -98,7 +107,8 @@
       "version": "3.2",
       "file_id": 629143,
       "file_name": "Dwemer - SE by Xtudo - Heavy and Light Armor - ESL-81046-3-2-1747745508.7z",
-      "mod_id": 81046
+      "mod_id": 81046,
+      "hash": "sha256-ATLMjDLj5OUZtALBO7Ac2klvybKEUQ3MnWh857SYPf0="
     }
   },
   "Dwemer - SE by Xtudo - Heavy and Light Armor - ESP": {
@@ -107,7 +117,8 @@
       "version": "3.2",
       "file_id": 629144,
       "file_name": "Dwemer - SE by Xtudo - Heavy and Light Armor - ESP-81046-3-2-1747745527.7z",
-      "mod_id": 81046
+      "mod_id": 81046,
+      "hash": "sha256-kFureg8gdtGEhLhIMXD2BnL9YM+J2Fzcgb+dfKuS+EM="
     }
   },
   "Dwemer - SE by Xtudo - High Level Player - ESL": {
@@ -116,7 +127,8 @@
       "version": "3.2",
       "file_id": 629145,
       "file_name": "Dwemer - SE by Xtudo - High Level Player - ESL-81046-3-2-1747745560.7z",
-      "mod_id": 81046
+      "mod_id": 81046,
+      "hash": "sha256-xpbSFbvMwt6YNPB9WKsQNe4c2ivam3gpjuqFFEfy27A="
     }
   },
   "Dwemer - SE by Xtudo - High Level Player - ESP": {
@@ -125,7 +137,8 @@
       "version": "3.2",
       "file_id": 629146,
       "file_name": "Dwemer - SE by Xtudo - High Level Player - ESP-81046-3-2-1747745586.7z",
-      "mod_id": 81046
+      "mod_id": 81046,
+      "hash": "sha256-7tw+nY0/cxEJqQaxoQwIxhIlUCS1FMoHR7BOi0Jo6hs="
     }
   },
   "Dwemer - SE by Xtudo - The Forgotten City replacer": {
@@ -134,7 +147,8 @@
       "version": "3.2",
       "file_id": 629147,
       "file_name": "Dwemer - SE by Xtudo - The Forgotten City replacer-81046-3-2-1747745611.7z",
-      "mod_id": 81046
+      "mod_id": 81046,
+      "hash": "sha256-NH1T9w/YYLhU851VJEi2b925ck3+yqkFtRQ6ZAHJ/iU="
     }
   },
   "Dwemer - SE by Xtudo - Vanilla Dwarven replacer": {
@@ -143,7 +157,8 @@
       "version": "3.2",
       "file_id": 629148,
       "file_name": "Dwemer - SE by Xtudo - Vanilla Dwarven replacer-81046-3-2-1747745631.7z",
-      "mod_id": 81046
+      "mod_id": 81046,
+      "hash": "sha256-QPsvJSmsCJ1xDwe1HiZNs4YhS9MRsyDa77BkELt35Rs="
     }
   }
 }

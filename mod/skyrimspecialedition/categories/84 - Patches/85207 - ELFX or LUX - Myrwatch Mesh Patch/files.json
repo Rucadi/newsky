@@ -1,0 +1,44 @@
+{
+  "ELFX - Myrwatch Mesh Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 360794,
+      "file_name": "ELFX - Myrwatch Mesh Patch-85207-1-0-1676679686.7z",
+      "mod_id": 85207,
+      "hash": "sha256-aTqpGNItpEf1UonG1Y6gtrwoF3SEsJbFm8ZR0qvnckc="
+    },
+    "type": "primary"
+  },
+  "Lux - Myrwatch Mesh Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 360911,
+      "file_name": "Lux - Myrwatch Mesh Patch-85207-1-0-1676722667.7z",
+      "mod_id": 85207,
+      "hash": "sha256-qUGQBcp5/Ncy41T9DtHTvej/rwR/kv6K+b0IlfGLXDo="
+    },
+    "type": "primary"
+  },
+  "ELFX - Myrwatch Mesh - Tweaks and Enhancements": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 440986,
+      "file_name": "ELFX - Myrwatch Mesh - Tweaks and Enhancements-85207-1-0-1699451232.7z",
+      "mod_id": 85207,
+      "hash": "sha256-Ysl5OEaoEyU5RPrhqrrhypk4dd5R1TW1RXQskKJhcZc="
+    }
+  },
+  "Lux - Myrwatch Mesh - Tweaks and Enhancements": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 440989,
+      "file_name": "Lux - Myrwatch Mesh - Tweaks and Enhancements-85207-1-0-1699455762.7z",
+      "mod_id": 85207,
+      "hash": "sha256-r2vfWQMDMpPh3MpY7sZZizlpe3ShBd4Mb+lY5I2e5y8="
+    }
+  }
+}

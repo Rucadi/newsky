@@ -1,0 +1,24 @@
+{
+  "shadowman_alva_SL": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1",
+      "file_id": 381639,
+      "file_name": "shadowman_alva_SL-89955-1-1682361774.rar",
+      "mod_id": 89955,
+      "hash": "sha256-HBdQmRcFDvkjpQ6rKTcNnBlGAm44J/jKw4DWnZpHpZA="
+    },
+    "type": "primary"
+  },
+  "shadowman_alva_FG": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1",
+      "file_id": 381642,
+      "file_name": "shadowman_alva_FG-89955-1-1682361865.rar",
+      "mod_id": 89955,
+      "hash": "sha256-9I5AlgfHLn42PijPVDXrRzwqOE8KiDMgmxuFFFwAMaI="
+    },
+    "type": "primary"
+  }
+}

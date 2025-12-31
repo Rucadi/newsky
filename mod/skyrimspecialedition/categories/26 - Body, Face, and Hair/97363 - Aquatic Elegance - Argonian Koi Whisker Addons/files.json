@@ -1,0 +1,24 @@
+{
+  "Aquatic Elegance - Argonian Koi Whiskers HDT-SMP": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.3-HDT",
+      "file_id": 430946,
+      "file_name": "Aquatic Elegance - Argonian Koi Whiskers HDT-SMP-97363-1-3-HDT-1696358541.zip",
+      "mod_id": 97363,
+      "hash": "sha256-u8BitC6hI0aSgQZS1HP0jAhqRAADYkHVLp1X5nz+7cM="
+    },
+    "type": "primary"
+  },
+  "Aquatic Elegance - Argonian Koi Whiskers": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.3",
+      "file_id": 430947,
+      "file_name": "Aquatic Elegance - Argonian Koi Whiskers-97363-1-3-1696358581.zip",
+      "mod_id": 97363,
+      "hash": "sha256-VrU/zTnuCuKDjHycaix+1bq5Ag6b3/RV85zeoupjIKE="
+    },
+    "type": "primary"
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "Talkative Dragon Priests (se-ae)- ESP version": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1",
+      "file_id": 354103,
+      "file_name": "Talkative Dragon Priests (se-ae)-83735-1-1674960359.rar",
+      "mod_id": 83735,
+      "hash": "sha256-9psQ4/kSIXO64QR4tELlBQzjtsYHRlU94gkn2TCNHzw="
+    },
+    "type": "primary"
+  },
+  "Talkative Dragon Priests (se-ae) - ESL version": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1",
+      "file_id": 355548,
+      "file_name": "Talkative Dragon Priests (se-ae) - ESL version-83735-1-1675349918.rar",
+      "mod_id": 83735,
+      "hash": "sha256-BDPuzdUpPYktfEwYRkCMXj7dD41yB5endHZ/B7wNHzE="
+    },
+    "type": "primary"
+  }
+}

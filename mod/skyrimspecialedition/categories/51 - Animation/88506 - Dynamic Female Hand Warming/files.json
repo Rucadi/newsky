@@ -1,0 +1,24 @@
+{
+  "Dynamic Female Hand Warming": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.6",
+      "file_id": 403259,
+      "file_name": "Dynamic Female Hand Warming-88506-1-6-1688345968.zip",
+      "mod_id": 88506,
+      "hash": "sha256-nAvPeWiDvoJ1N9Z0AW+24hadHAsi6Pcnd85lH7lcEIg="
+    },
+    "type": "primary"
+  },
+  "Dynamic Female Hand Warming OAR - Randomized": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.6",
+      "file_id": 403260,
+      "file_name": "Dynamic Female Hand Warming OAR - Randomized-88506-1-6-1688346043.zip",
+      "mod_id": 88506,
+      "hash": "sha256-UAgt0nfsNJuwbXFusSd8wvpdVghEhz86VOhgPi32azo="
+    },
+    "type": "primary"
+  }
+}

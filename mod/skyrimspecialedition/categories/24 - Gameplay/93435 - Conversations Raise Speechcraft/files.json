@@ -1,0 +1,33 @@
+{
+  "Conversations Raises Speechcraft": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 397750,
+      "file_name": "Conversations Raises Speechcraft-93435-1-0-1686742184.7z",
+      "mod_id": 93435,
+      "hash": "sha256-e1awe1B3fXgLfZmCIXtSvtu4S8eA113YZQXLWs10Ed0="
+    },
+    "type": "primary"
+  },
+  "CRS - Forsworn Conspiracy Delayed Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1",
+      "file_id": 401268,
+      "file_name": "CRS - Forsworn Conspiracy Delayed Patch-93435-1-1-1687789726.7z",
+      "mod_id": 93435,
+      "hash": "sha256-brBAy77M1xgGUCVwsKzrs1GGWw0Pdrde3JrMadYvp2E="
+    }
+  },
+  "CRS - Blood On The Ice Delayed Start Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1a",
+      "file_id": 435255,
+      "file_name": "CRS - Blood On The Ice Delayed Start Patch-93435-1-1a-1697738036.7z",
+      "mod_id": 93435,
+      "hash": "sha256-r5oTYBlk0OAYHqzb2gmkEYzIOx9lwORHuiEZVhkQ2LY="
+    }
+  }
+}

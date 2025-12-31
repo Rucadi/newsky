@@ -1,0 +1,43 @@
+{
+  "Hokoron - Coven Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 378455,
+      "file_name": "Hokoron - Coven Patch-89212-1-0-1681563132.7z",
+      "mod_id": 89212,
+      "hash": "sha256-xWkOKzA52SpQDwCJJJabgJpBJD2oA623d3cRbMnlieU="
+    }
+  },
+  "Hokoron - Difficulty Addon": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 378456,
+      "file_name": "Hokoron - Difficulty Addon-89212-1-0-1681563210.7z",
+      "mod_id": 89212,
+      "hash": "sha256-NBEQEj3qmksVO+XFgsqKRpZrGuHM0UONhMV5e7KUtBo="
+    }
+  },
+  "Hokoron - Enemy Overhaul": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.3",
+      "file_id": 384273,
+      "file_name": "Hokoron - Enemy Overhaul-89212-1-3-1683083231.7z",
+      "mod_id": 89212,
+      "hash": "sha256-+OP6t8L7elKYt9595gCgWnmgSAl/SfVOx21czAs/IYs="
+    },
+    "type": "primary"
+  },
+  "Hokoron - SimonRim Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.3",
+      "file_id": 384274,
+      "file_name": "Hokoron - SimonRim Patch-89212-1-3-1683083270.7z",
+      "mod_id": 89212,
+      "hash": "sha256-WNbSiXbumNIXPukYmdYRGWHKLATTIF0eu8bs6/x4Uxw="
+    }
+  }
+}

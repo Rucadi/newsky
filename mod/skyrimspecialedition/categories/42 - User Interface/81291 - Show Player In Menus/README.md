@@ -2,6 +2,8 @@
 - Author: myztikrice
 - Game: skyrimspecialedition
 - Mod Page: https://www.nexusmods.com/skyrimspecialedition/mods/81291
+
+
 Description
   
 This SKSE mod rotates the player to face the camera, or the camera around to face the player, as well as offset them to the right of the screen, when opening enabled menus, with the additional option to rotate them using a mouse or controller thumbstick.

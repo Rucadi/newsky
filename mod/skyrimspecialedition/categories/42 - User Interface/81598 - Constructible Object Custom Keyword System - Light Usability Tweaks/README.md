@@ -2,6 +2,8 @@
 - Author: LoLzies
 - Game: skyrimspecialedition
 - Mod Page: https://www.nexusmods.com/skyrimspecialedition/mods/81598
+
+
 Changes Constructible Object Custom Keyword System's "Weapons & Armor" grouping into several smaller groups. Has support for weapon categories added by [Animated Armoury](http://www.nexusmods.com/skyrimspecialedition/mods/35978) but it's not required.
   
   

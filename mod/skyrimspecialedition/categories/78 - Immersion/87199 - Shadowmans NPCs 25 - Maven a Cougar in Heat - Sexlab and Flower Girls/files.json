@@ -1,0 +1,64 @@
+{
+  "SL_MavenisStingy": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "A",
+      "file_id": 369458,
+      "file_name": "SL_MavenisStingy-87199-A-1679084946.rar",
+      "mod_id": 87199,
+      "hash": "sha256-su1XBu7hqV3AwQxVHfUI/8Hzgub11HLdL+bE7SCFYmY="
+    }
+  },
+  "shadowman_maven_SL": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.11",
+      "file_id": 370372,
+      "file_name": "shadowman_maven_SL-87199-1-11-1679329559.rar",
+      "mod_id": 87199,
+      "hash": "sha256-5itbrzicaP4KGusM3QAH8JD6/39p05kizck7pbiVj1s="
+    },
+    "type": "primary"
+  },
+  "shadowman_maven_FG": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.11",
+      "file_id": 370374,
+      "file_name": "shadowman_maven_FG-87199-1-11-1679329658.rar",
+      "mod_id": 87199,
+      "hash": "sha256-/IUpr7dbCpILCxlYvh59f5BItfSq/TIBSSkigsuDxAc="
+    },
+    "type": "primary"
+  },
+  "Maven_SL_NoTeleport": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "B",
+      "file_id": 370464,
+      "file_name": "Maven_SL_NoTeleport-87199-B-1679351396.rar",
+      "mod_id": 87199,
+      "hash": "sha256-JMQJXZT7lRG1p1jXjkx1w5sIQOZ+OZBULQyuPVlkEl0="
+    }
+  },
+  "Maven_FG_NoTeleport": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "BB",
+      "file_id": 370465,
+      "file_name": "Maven_FG_NoTeleport-87199-BB-1679351435.rar",
+      "mod_id": 87199,
+      "hash": "sha256-Vp1ZaldX536U6ckzs+aNS6xatnFt6N17ucacff5A7hY="
+    }
+  },
+  "FG_MavenisStingy": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "G",
+      "file_id": 405872,
+      "file_name": "FG_MavenisStingy-87199-G-1688987948.rar",
+      "mod_id": 87199,
+      "hash": "sha256-dScLzMpJgfexBFqag9sRC75AGGqlMlKK3UD9IZCj2E0="
+    }
+  }
+}

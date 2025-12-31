@@ -1,0 +1,23 @@
+{
+  "Abyssal Wind Magic": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.4",
+      "file_id": 411378,
+      "file_name": "Abyssal Wind Magic-96352-1-4-1690531558.zip",
+      "mod_id": 96352,
+      "hash": "sha256-GiXZoGkcRGP9Gm9JGb5GHNlEkPLyJEUbfKdv7G1a92M="
+    },
+    "type": "primary"
+  },
+  "Dark Judgement - No Ring": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "ANY",
+      "file_id": 411381,
+      "file_name": "Dark Judgement - No Ring-96352-ANY-1690532146.zip",
+      "mod_id": 96352,
+      "hash": "sha256-ZUpose3zBhwr5H2Eyk9vfptVLXHRjKp7q0PLm8kGteA="
+    }
+  }
+}

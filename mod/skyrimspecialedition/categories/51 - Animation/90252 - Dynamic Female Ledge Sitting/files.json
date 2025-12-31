@@ -1,0 +1,34 @@
+{
+  "zCOTN - Winterhold Ledge Sit Marker": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1",
+      "file_id": 385458,
+      "file_name": "zCOTN - Winterhold Ledge Sit Marker-90252-1-1-1683411499.zip",
+      "mod_id": 90252,
+      "hash": "sha256-dbyixnl+l2vQ+G3OT3Er3uQgFqDgKQ+nWV7fkFCqRC8="
+    }
+  },
+  "Dynamic Female Ledge Sitting OAR": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.3",
+      "file_id": 403254,
+      "file_name": "Dynamic Female Ledge Sitting OAR-90252-1-3-1688343848.zip",
+      "mod_id": 90252,
+      "hash": "sha256-bezftcYOS7pE/g7kZI6aPL+egNw9SmowrpmKTPewjLg="
+    },
+    "type": "primary"
+  },
+  "Dynamic Female Ledge Sitting OAR - Randomized": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.3",
+      "file_id": 403255,
+      "file_name": "Dynamic Female Ledge Sitting OAR - Randomized-90252-1-3-1688343909.zip",
+      "mod_id": 90252,
+      "hash": "sha256-PlB+E6rto+Yyi7o5vQnlMMjvXr9mKVfKZpKfqDlE0Gc="
+    },
+    "type": "primary"
+  }
+}

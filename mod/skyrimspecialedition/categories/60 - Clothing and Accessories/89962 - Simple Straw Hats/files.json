@@ -1,0 +1,23 @@
+{
+  "Simple Straw Hats": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 381715,
+      "file_name": "Simple Straw Hats-89962-1-0-1682379020.rar",
+      "mod_id": 89962,
+      "hash": "sha256-e4+H4CHIELw6RKfBBuYZ0CgwapeTbRqo9OLFblwF51Q="
+    },
+    "type": "primary"
+  },
+  "Simple Straw Hats- Creation Club Integration patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 381716,
+      "file_name": "Simple Straw Hats- Creation Club Integration patch-89962-1-0-1682379115.rar",
+      "mod_id": 89962,
+      "hash": "sha256-jeq1DPm1zYspK840N3LF2bd/by5/6cQdCqptwL5wB60="
+    }
+  }
+}

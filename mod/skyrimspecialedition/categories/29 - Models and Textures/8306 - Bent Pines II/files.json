@@ -1,0 +1,53 @@
+{
+  "Navmesh .esp by CakeofHonor": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1",
+      "file_id": 145263,
+      "file_name": "Navmesh .esp by CakeofHonor-8306-1-1591953127.7z",
+      "mod_id": 8306,
+      "hash": "sha256-lHnfZ9dkSA5FvkEQtkzolwUuKwc5YrJNl2LsKg5MQqI="
+    }
+  },
+  "Bent Pines  II": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "2.02",
+      "file_id": 277570,
+      "file_name": "Bent Pines  II-8306-2-02-1650132645.7z",
+      "mod_id": 8306,
+      "hash": "sha256-gbecvGRwSJR2r8mc6ad0XVg038FxCgC8pdG2780M/wk="
+    },
+    "type": "primary"
+  },
+  "Bent Pines II 50 size": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "2.02",
+      "file_id": 277573,
+      "file_name": "Bent Pines II-8306-2-01-1650132828.7z",
+      "mod_id": 8306,
+      "hash": "sha256-JGl2sXOWcG/Oi10JwX4E/PZiLh5Hh4vquTWoVjteuD0="
+    }
+  },
+  "Bent Pines II 75 size": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "2.02",
+      "file_id": 277574,
+      "file_name": "Bent Pines II 75 size-8306-2-02-1650132917.7z",
+      "mod_id": 8306,
+      "hash": "sha256-jgA+Eu0qvinOH8Uor6UW/R+NK2OSJbAL7oW+joShH5k="
+    }
+  },
+  "Bent Pines No LOD needed version": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1",
+      "file_id": 506117,
+      "file_name": "Bent Pines No LOD needed version-8306-1-1716944213.zip",
+      "mod_id": 8306,
+      "hash": "sha256-AwX/oRd6A2CN5HFBaLNt9ebSjL/jof9uiwVIFkh4lM8="
+    }
+  }
+}

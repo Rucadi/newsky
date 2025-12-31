@@ -1,0 +1,74 @@
+{
+  "ALT - Crates - Dynamic Things Alternative PATCH": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 397728,
+      "file_name": "ALT - Crates - Dynamic Things Alternative PATCH-93482-1-0-1686737829.7z",
+      "mod_id": 93482,
+      "hash": "sha256-9bHP/LvUdPJe3t/TErsI/rv49Yn65lI2jB5M3mEtSOQ="
+    }
+  },
+  "ALT - Crates - BOS - DTA PATCH": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 397838,
+      "file_name": "ALT - Crates - BOS - DTA PATCH-93482-1-0-1686775569.7z",
+      "mod_id": 93482,
+      "hash": "sha256-OcQNpktoMJf+Z6XaFAATGwq5tmhWfMGSTwIHE9Xx0Sg="
+    }
+  },
+  "ALT - Crates": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0.1",
+      "file_id": 398369,
+      "file_name": "ALT - Crates-93482-1-0-1-1686933532.7z",
+      "mod_id": 93482,
+      "hash": "sha256-058jZZEbNNjzxmcU6a8Zr0VfcjcHXhPNzGFg1VcKtDA="
+    },
+    "type": "primary"
+  },
+  "ALT - Crates - 2K_1K Textures": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0.1",
+      "file_id": 398374,
+      "file_name": "ALT - Crates - 2K_1K Textures-93482-1-0-1-1686934586.7z",
+      "mod_id": 93482,
+      "hash": "sha256-SpVUGHiV6qaRfE1Ou1DtklAtoAhta9ZHRMwRo/3jS78="
+    }
+  },
+  "ALT - Crates - BOS - DIVERSITY": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0.1",
+      "file_id": 398695,
+      "file_name": "ALT - Crates - BOS - DIVERSITY-93482-1-0-1-1687020607.7z",
+      "mod_id": 93482,
+      "hash": "sha256-JT5phT+zn7wf+V0rLPoKrkX3tl95rn45pArsZZLdYeo="
+    }
+  },
+  "ALT - Crates - BOS": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0.1.2",
+      "file_id": 453933,
+      "file_name": "ALT - Crates - BOS-93482-1-0-1-2-1703188695.7z",
+      "mod_id": 93482,
+      "hash": "sha256-mbPRO54RV91dKY0LSv9ElnBjjoQ/Xi0vFXZHWWy5L4E="
+    },
+    "type": "primary"
+  },
+  "ALT - Crates - BOS - DIVERSITY - DTA PATCH": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0.1.2",
+      "file_id": 453934,
+      "file_name": "ALT - Crates - BOS - DIVERSITY - DTA PATCH-93482-1-0-1-2-1703188802.7z",
+      "mod_id": 93482,
+      "hash": "sha256-p7TsGRhW2enKmmDipNIG05frT6jFUTdm9Wr6iYFK7U8="
+    }
+  }
+}

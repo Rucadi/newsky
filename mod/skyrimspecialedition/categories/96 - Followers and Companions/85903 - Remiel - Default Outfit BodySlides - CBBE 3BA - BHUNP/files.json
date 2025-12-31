@@ -1,0 +1,24 @@
+{
+  "Remiel - Practical Pirate Outfit BodySlides - CBBE 3BA": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0.0",
+      "file_id": 363838,
+      "file_name": "Remiel - Practical Pirate Outfit BodySlides - CBBE 3BA-85903-1-0-0-1677486749.7z",
+      "mod_id": 85903,
+      "hash": "sha256-9UhjkThGqdDDpv9nX9VMatJZ2Jl3cuKKkAb+gBWWjEo="
+    },
+    "type": "primary"
+  },
+  "Remiel - Practical Pirate Outfit BodySlides - BHUNPv3": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0.0",
+      "file_id": 363840,
+      "file_name": "Remiel - Practical Pirate Outfit BodySlides - BHUNPv3-85903-1-0-0-1677486814.7z",
+      "mod_id": 85903,
+      "hash": "sha256-rKonEvO2wEBr3KCyaEMHWTL9K0BVQmkSZ3zwsc9MkaI="
+    },
+    "type": "primary"
+  }
+}

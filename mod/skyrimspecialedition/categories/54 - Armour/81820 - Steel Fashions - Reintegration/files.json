@@ -1,0 +1,23 @@
+{
+  "Steel Fashions - Reintegration - LACL Addon": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 345972,
+      "file_name": "Steel Fashions - Reintegration - LACL Addon-81820-1-0-1672681739.zip",
+      "mod_id": 81820,
+      "hash": "sha256-p/C72R6qtsF3m38F3caFxnWO0hM9DQyI0pY1UVe9oKA="
+    }
+  },
+  "Steel Fashions - Reintegration": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 345980,
+      "file_name": "Steel Fashions - Reintegration-81820-1-0-1672682580.zip",
+      "mod_id": 81820,
+      "hash": "sha256-Gq/bwCPULsGXmeMHwrkXuJYagNxDv8lmELCx0EZk03U="
+    },
+    "type": "primary"
+  }
+}

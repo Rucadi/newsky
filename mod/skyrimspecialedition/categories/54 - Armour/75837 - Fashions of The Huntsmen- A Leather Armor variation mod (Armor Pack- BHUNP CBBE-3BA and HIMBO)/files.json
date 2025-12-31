@@ -55,7 +55,8 @@
       "version": "2.0",
       "file_id": 345729,
       "file_name": "Fashions Of The Huntsmen- 4K-75837-2-0-1672619152.7z",
-      "mod_id": 75837
+      "mod_id": 75837,
+      "hash": "sha256-OTjAtK/xELXzer2utX8eIyibY90btSQJoc4mPU9cq4E="
     },
     "type": "primary"
   },
@@ -65,7 +66,8 @@
       "version": "2.0",
       "file_id": 345730,
       "file_name": "Fashions Of The Huntsmen- 4k2k-75837-1-0-1672619156.7z",
-      "mod_id": 75837
+      "mod_id": 75837,
+      "hash": "sha256-QlFf1wTSmge2zmtBPXgRvM1OtmkEQdivmqbZn+WJj48="
     },
     "type": "primary"
   },
@@ -75,7 +77,8 @@
       "version": "2.0",
       "file_id": 345731,
       "file_name": "1k-512 Textures for Mashed Potatoes-75837-2-0-1672619158.7z",
-      "mod_id": 75837
+      "mod_id": 75837,
+      "hash": "sha256-PAqP4WGqsYXq8OrmuFmvULcmVNXMApR4zQwnIC2UdXs="
     }
   },
   "Fashions Of The Huntsmen- 2K": {
@@ -84,7 +87,8 @@
       "version": "2.0",
       "file_id": 345732,
       "file_name": "Fashions Of The Huntsmen- 2K-75837-2-0-1672619165.7z",
-      "mod_id": 75837
+      "mod_id": 75837,
+      "hash": "sha256-S97aMsYMCE+pteITDWucVBzJvVsZPv589lpy4kgwiMA="
     },
     "type": "primary"
   },
@@ -94,7 +98,8 @@
       "version": "2.0",
       "file_id": 345733,
       "file_name": "2k-1k Textures for Baked Potatoes-75837-2-0-1672619168.7z",
-      "mod_id": 75837
+      "mod_id": 75837,
+      "hash": "sha256-ION/+yJ8RUevBTDGiHQDEOwGlWa+hdi6wAtB0zRcE/g="
     }
   }
 }

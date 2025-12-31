@@ -2,6 +2,8 @@
 - Author: AlmightySE
 - Game: skyrimspecialedition
 - Mod Page: https://www.nexusmods.com/skyrimspecialedition/mods/93694
+
+
 [font=Tahoma]
   
 Want to enjoy a meaningful conversation with an NPC without your followers talking about the weather?

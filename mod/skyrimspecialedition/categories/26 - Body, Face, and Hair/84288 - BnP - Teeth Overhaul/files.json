@@ -1,0 +1,24 @@
+{
+  "BnP - Teeth Overhaul 4k": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "2.0",
+      "file_id": 438393,
+      "file_name": "BnP - Teeth Overhaul 4k-84288-2-0-1698682602.7z",
+      "mod_id": 84288,
+      "hash": "sha256-8GwaKZ2J8Xyuvt8hE1A5PBPj5lFcOPXeTUK8wgEP61w="
+    },
+    "type": "primary"
+  },
+  "BnP - Teeth Overhaul 2k": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "2.0",
+      "file_id": 438395,
+      "file_name": "BnP - Teeth Overhaul 2k-84288-2-0-1698683287.7z",
+      "mod_id": 84288,
+      "hash": "sha256-fEe4IWwLR4BWi3aUBFTN1/IzCdyOzIdi1ACitvOxXVw="
+    },
+    "type": "primary"
+  }
+}

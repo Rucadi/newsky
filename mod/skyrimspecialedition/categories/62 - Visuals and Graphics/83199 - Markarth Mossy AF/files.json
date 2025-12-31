@@ -1,0 +1,53 @@
+{
+  "Markarth Mossy AF - JK's Skyrim patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 351684,
+      "file_name": "Markarth Mossy AF - JK's Skyrim patch-83199-1-0-1674318024.rar",
+      "mod_id": 83199,
+      "hash": "sha256-li8Lxwhz6KMdNH1Gvh4ylwLpVFDZsk87I08eG87SeWU="
+    }
+  },
+  "Markarth Mossy AF - Nature of the Wild Lands patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 351685,
+      "file_name": "Markarth Mossy AF - Nature of the Wild Lands patch-83199-1-0-1674318087.rar",
+      "mod_id": 83199,
+      "hash": "sha256-RQ3IdiVISzxYAoT663mHRZn0gJQ2Fcx6b4F0tgwmQFg="
+    }
+  },
+  "Markarth Moss AF - Custom moss shader": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1.2",
+      "file_id": 352257,
+      "file_name": "Markarth Moss AF - Custom moss shader-83199-1-1-2-1674474469.rar",
+      "mod_id": 83199,
+      "hash": "sha256-HPeHFRrIlMwNa64roenfbX+uHMAsMBvtjGpppKOo8LA="
+    }
+  },
+  "Markarth Mossy AF": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1.4",
+      "file_id": 360958,
+      "file_name": "Markarth Mossy AF-83199-1-1-4-1676733538.7z",
+      "mod_id": 83199,
+      "hash": "sha256-ByHxNcudPo4MWldijGu9fRKlJjCfziNwwZW3wUDIJ3M="
+    },
+    "type": "primary"
+  },
+  "Markarth Mossy AF - JK's Skyrim and NotWL": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1.4",
+      "file_id": 361027,
+      "file_name": "Markarth Mossy AF - JK's Skyrim and NotWL-83199-1-1-4-1676743492.rar",
+      "mod_id": 83199,
+      "hash": "sha256-UBEtjL11kY8fFKMAdyD/inKlx5ICh5FOLlu3ixpw3NA="
+    }
+  }
+}

@@ -2,6 +2,8 @@
 - Author: Foxfingers - JameStarker - Linext
 - Game: skyrimspecialedition
 - Mod Page: https://www.nexusmods.com/skyrimspecialedition/mods/90570
+
+
 **Please check out the original mod that this fix is made for [Amorous Adventures for Ostim](https://www.nexusmods.com/skyrimspecialedition/mods/48912)**
   
   

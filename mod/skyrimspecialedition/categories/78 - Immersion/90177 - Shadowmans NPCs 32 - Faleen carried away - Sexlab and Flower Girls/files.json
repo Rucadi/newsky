@@ -1,0 +1,44 @@
+{
+  "shadowman_faleenSL": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1",
+      "file_id": 382511,
+      "file_name": "shadowman_faleenSL-90177-1-1682629494.rar",
+      "mod_id": 90177,
+      "hash": "sha256-NTxCtoKGo1FCscTXjE3Ktl4HLsPgyKvm7rqofpKv/0Q="
+    },
+    "type": "primary"
+  },
+  "shadowman_faleenFG": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1",
+      "file_id": 382513,
+      "file_name": "shadowman_faleenFG-90177-1-1682629626.rar",
+      "mod_id": 90177,
+      "hash": "sha256-Bv8QTCbW/H7K12/eEnwSQLyh6nrB+XVrNMjYvlr7N0s="
+    },
+    "type": "primary"
+  },
+  "faleen_sl_noteleport": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "S",
+      "file_id": 399464,
+      "file_name": "faleen_sl_noteleport-90177-S-1687290807.rar",
+      "mod_id": 90177,
+      "hash": "sha256-aRhfxnJE2nHZ5Q9MvEyIIFcpcllRS4mTEevzUNmGczs="
+    }
+  },
+  "faleen_fg_noteleport": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "F",
+      "file_id": 399466,
+      "file_name": "faleen_fg_noteleport-90177-F-1687290834.rar",
+      "mod_id": 90177,
+      "hash": "sha256-1MDWfI3oYgPwyhzrOhAL2r9cl2Y+WDZBwnbbynGoS44="
+    }
+  }
+}

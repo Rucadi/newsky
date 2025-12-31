@@ -1,0 +1,44 @@
+{
+  "Optional. Diverse Catches - ALT Salmon": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 420626,
+      "file_name": "Diverse Catches - ALT Salmon-98989-1-0-1693020720.rar",
+      "mod_id": 98989,
+      "hash": "sha256-6yQ+NL8FuhKRonZTQ3VflERUhPrNN7CDHpsU4FqQdhw="
+    },
+    "type": "primary"
+  },
+  "Diverse Catches - Be gone weird fishpole thing": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 420627,
+      "file_name": "Diverse Catches - Be gone weird fishpole thing-98989-1-0-1693020835.rar",
+      "mod_id": 98989,
+      "hash": "sha256-NpnPH/SMDfNrSj0KBOBgIy7x4uUJ41J7JeDO5yHFdm0="
+    }
+  },
+  "Diverse Catches - Base Object Swapper": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.2",
+      "file_id": 421334,
+      "file_name": "Diverse Catches - Base Object Swapper-98989-1-2-1693186234.rar",
+      "mod_id": 98989,
+      "hash": "sha256-8qlK2wrZQ2CX/fbk0EYq1HTNR4x/6OEATd7Hz8JUSVs="
+    },
+    "type": "primary"
+  },
+  "Diverse Catches - Reduced Clutter by Riverbord": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 491982,
+      "file_name": "Diverse Catches - Reduce Clutter by Riverbord-98989-1-0-1713396584.rar",
+      "mod_id": 98989,
+      "hash": "sha256-HUJhUDRNDuX1aXRcNeWVbwvoGiZNLwVdcc18/r8xXCk="
+    }
+  }
+}

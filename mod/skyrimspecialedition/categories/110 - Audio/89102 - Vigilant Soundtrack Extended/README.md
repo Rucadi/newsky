@@ -2,6 +2,8 @@
 - Author: xPanchy
 - Game: skyrimspecialedition
 - Mod Page: https://www.nexusmods.com/skyrimspecialedition/mods/89102
+
+
 [﻿﻿Vigilant](https://www.nexusmods.com/skyrimspecialedition/mods/11849?tab=description)﻿ remains one of my favourite quest mods of all time, but it always bugged me how in some boss fights I could always hear the music stop as it reached the end of its track, followed by a couple seconds of silence and then start again, especially fights which were somewhat longer. It bugged me enough to go and edit some of the shorter tracks to try to make them loop better.
   
   

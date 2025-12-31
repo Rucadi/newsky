@@ -1,0 +1,56 @@
+{
+  "Melodic Bikini Armor - CBBE 3BA": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 355782,
+      "file_name": "Melodic Bikini Armor - CBBE 3BA-84029-1-0-1675415718.7z",
+      "mod_id": 84029,
+      "hash": "sha256-k6nyvkCa/L9RdQWoXbxIp/XHrFZVPcajsxzt2CuTd4c="
+    },
+    "type": "primary"
+  },
+  "Melodic Bikini Armor - COCOBody UUNP SE": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 355788,
+      "file_name": "Melodic Bikini Armor - COCOBody UUNP SE-84029-1-0-1675415911.7z",
+      "mod_id": 84029,
+      "hash": "sha256-dgbADU6JbkoGHWDrlW0UPwcDnIyl/EC0/xerA0eE4h8="
+    },
+    "type": "primary"
+  },
+  "Melodic Bikini Armor - COCOBody CBBE SE": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 355790,
+      "file_name": "Melodic Bikini Armor - COCOBody CBBE SE-84029-1-0-1675416115.7z",
+      "mod_id": 84029,
+      "hash": "sha256-3rtwCqrbl9S0TtnEL8xRIgg0i8evnG9TVQOEV5337e4="
+    },
+    "type": "primary"
+  },
+  "Melodic Bikini Armor - TBD SE": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 355791,
+      "file_name": "Melodic Bikini Armor -  TBD SE-84029-1-0-1675416273.7z",
+      "mod_id": 84029,
+      "hash": "sha256-ZDJvEar9rJZc1N+MWfN0ddp3gkgfSE/RuBbE9+M7+X8="
+    },
+    "type": "primary"
+  },
+  "Melodic Bikini Armor - Low Res Textures": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 355793,
+      "file_name": "Melodic Bikini Armor - Low Res Textures-84029-1-0-1675416447.zip",
+      "mod_id": 84029,
+      "hash": "sha256-dONmdQSWG7JWgC+1LLlsH+uRYLevedcUrnQwlEvhebo="
+    }
+  }
+}

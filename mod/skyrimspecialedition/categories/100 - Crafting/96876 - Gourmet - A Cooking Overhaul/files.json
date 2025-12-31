@@ -1,0 +1,74 @@
+{
+  "Gourmet - ECSS Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0.0",
+      "file_id": 412092,
+      "file_name": "Gourmet - ECSS Patch-96876-1-0-0-1690676776.7z",
+      "mod_id": 96876,
+      "hash": "sha256-n7CFxZzFCXBCqWjjksoE0lH8I0C061l52OLkH5mk9Gk="
+    }
+  },
+  "Gourmet - Simonrim Patches": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0.0",
+      "file_id": 412107,
+      "file_name": "Gourmet - Simonrim Patches-96876-1-0-0-1690681047.7z",
+      "mod_id": 96876,
+      "hash": "sha256-sjv3ilDvo4vDGprwpyBlOaCavNZMbPqBrqSu5OWTDnA="
+    }
+  },
+  "Gourmet - USSEP Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0.1",
+      "file_id": 415016,
+      "file_name": "Gourmet - USSEP Patch-96876-1-0-1-1691430505.7z",
+      "mod_id": 96876,
+      "hash": "sha256-qJ8skuP6qVWG/9nbczXegkKA/fIet2FF5oKy9Bp7KZU="
+    }
+  },
+  "Gourmet - Survival Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0.2",
+      "file_id": 415017,
+      "file_name": "Gourmet - Survival Patch-96876-1-0-2-1691430544.7z",
+      "mod_id": 96876,
+      "hash": "sha256-gRMWpg7hCpqTITyDLYiMcpSgk+zL60XjYbEseQm1H4I="
+    }
+  },
+  "Gourmet - Fishing Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0.3",
+      "file_id": 445665,
+      "file_name": "Gourmet - Fishing Patch-96876-1-0-3-1700866019.7z",
+      "mod_id": 96876,
+      "hash": "sha256-GvLz/9F5Z2UY5ALUFwHwF8zpr7WLTnRx8RP8Lf3Em5s="
+    }
+  },
+  "Gourmet - A Cooking Overhaul": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1.12",
+      "file_id": 498622,
+      "file_name": "Gourmet - A Cooking Overhaul-96876-1-1-12-1715039003.7z",
+      "mod_id": 96876,
+      "hash": "sha256-ATq/IN7IcP7gZdkJ2Xq+8zLlkECvmm11YzFrVeLo6Us="
+    },
+    "type": "primary"
+  },
+  "Gourmet - Cooking Pots and Baking Ovens": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.3.1",
+      "file_id": 563516,
+      "file_name": "Gourmet - Cooking Pots and Baking Ovens-96876-1-3-1-1731903252.7z",
+      "mod_id": 96876,
+      "hash": "sha256-IkJQl9pN5mQshrax/IXTwFNvhi+qCrn2NRPX5lxXlOY="
+    },
+    "type": "primary"
+  }
+}

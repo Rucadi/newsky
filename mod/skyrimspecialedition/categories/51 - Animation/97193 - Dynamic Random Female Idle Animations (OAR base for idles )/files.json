@@ -1,0 +1,23 @@
+{
+  "Dynamic Random Female idle animation": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "2.0",
+      "file_id": 530831,
+      "file_name": "Dynamic Random Female idle animation-97193-2-0-1723471590.rar",
+      "mod_id": 97193,
+      "hash": "sha256-lRBVeTu3w2tugUVyzKAy5sP6u4LxCVh0myDoOXQb3Lw="
+    },
+    "type": "primary"
+  },
+  "USER Dynamic Random Female idle animation": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "2.0",
+      "file_id": 530833,
+      "file_name": "USER Dynamic Random Female idle animation-97193-2-0-1723472059.rar",
+      "mod_id": 97193,
+      "hash": "sha256-hNCD5kTZ7k8vA4+K+YIAV19hOyzyeKylO2zO5XZPdL0="
+    }
+  }
+}

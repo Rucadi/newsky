@@ -1,0 +1,33 @@
+{
+  "skeleton patch for Player leg length": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0.0",
+      "file_id": 389039,
+      "file_name": "skeleton patch for Player leg length-91563-1-0-0-1684347041.7z",
+      "mod_id": 91563,
+      "hash": "sha256-DfUFLmqE5peThT1gCtUY4cXp5OwzlsZRfH+wJ99n08k="
+    }
+  },
+  "skeleton patch for 3BA-BHUNP": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0.0",
+      "file_id": 389453,
+      "file_name": "skeleton patch for 3BA-BHUNP-91563-1-0-0-1684430987.7z",
+      "mod_id": 91563,
+      "hash": "sha256-WLZok8fsT/WA1RlRmW6qrWAFKplh7WBmAE/i1Fd9J+U="
+    }
+  },
+  "Mu Skeleton Editor": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "0.6.3",
+      "file_id": 562241,
+      "file_name": "Mu Skeleton Editor-91563-0-6-3-1731607830.zip",
+      "mod_id": 91563,
+      "hash": "sha256-UOk8akQShihj/urIQdOl0tGM6Q30+gcGsJBDS1UvyK8="
+    },
+    "type": "primary"
+  }
+}

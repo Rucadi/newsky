@@ -1,0 +1,24 @@
+{
+  "Load Screen Shading Fix": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "0.4",
+      "file_id": 656199,
+      "file_name": "Load Screen Shading Fix-98647-0-4-1755354051.7z",
+      "mod_id": 98647,
+      "hash": "sha256-lFD46UOyMmQ0wOpojygDD7v2ZcUtapvpx6fNAtY+qWk="
+    },
+    "type": "primary"
+  },
+  "Optional Purple Argonian Barkeep": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "0.4",
+      "file_id": 656200,
+      "file_name": "Optional Purple Argonian Barkeep-98647-0-4-1755354070.7z",
+      "mod_id": 98647,
+      "hash": "sha256-ImRAwJA7Bj2W0St8jBSUd8ziBEzFzp8r01HwR9ek/IA="
+    },
+    "type": "primary"
+  }
+}

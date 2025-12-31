@@ -1,0 +1,24 @@
+{
+  "Knight Winds": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1",
+      "file_id": 381724,
+      "file_name": "Knight Winds-89980-1-1682381312.zip",
+      "mod_id": 89980,
+      "hash": "sha256-NcHf47iJDsOvbGgXl4mfr8V9c8eRW8KC2x9DeLy5SX4="
+    },
+    "type": "primary"
+  },
+  "Knight Winds BHUNP V4": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1",
+      "file_id": 385635,
+      "file_name": "Knight Winds BHUNP V4-89980-1-1-1683458275.rar",
+      "mod_id": 89980,
+      "hash": "sha256-6rLu3r1IPHzaiLz9zl9YpXz0u8IZ+EqSDbZzM8OqPaQ="
+    },
+    "type": "primary"
+  }
+}

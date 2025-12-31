@@ -1,0 +1,46 @@
+{
+  "Kanjs - Dugnagol Warhammer SE 1k": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1",
+      "file_id": 417853,
+      "file_name": "Kanjs - Dugnagol Warhammer SE 1k-98510-1-1692258624.zip",
+      "mod_id": 98510,
+      "hash": "sha256-6KcouFBy8Kcji4V0v/3Ae5p56F+44MJEIeljf1OA/TY="
+    },
+    "type": "primary"
+  },
+  "Kanjs - Dugnagol Warhammer SE 2k": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1",
+      "file_id": 417856,
+      "file_name": "Kanjs - Dugnagol Warhammer SE 2k-98510-1-1692258642.zip",
+      "mod_id": 98510,
+      "hash": "sha256-okvIUGlrIcBIVOhDn2CH455eWCklDp62XlSuWLSxcVA="
+    },
+    "type": "primary"
+  },
+  "Kanjs - Dugnagol Warhammer SE 4k": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1",
+      "file_id": 417857,
+      "file_name": "Kanjs - Dugnagol Warhammer SE 4k-98510-1-1692258652.zip",
+      "mod_id": 98510,
+      "hash": "sha256-e+F++ADdXoBlYhAxKhG2XSH7rQ5mi/qLNsZCJSPkt8Y="
+    },
+    "type": "primary"
+  },
+  "Kanjs - Dugnagol Warhammer SE ESL ONLY": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1",
+      "file_id": 417858,
+      "file_name": "Kanjs - Dugnagol Warhammer SE ESL ONLY-98510-1-1692258659.zip",
+      "mod_id": 98510,
+      "hash": "sha256-HyA3khILS8YFnZSxPOI1vaHlf8ejiN5MVJQ3JVnKwrE="
+    },
+    "type": "primary"
+  }
+}

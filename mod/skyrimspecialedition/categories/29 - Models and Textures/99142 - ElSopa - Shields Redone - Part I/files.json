@@ -1,0 +1,35 @@
+{
+  "ElSopa - Shields Redone - Part I 4K": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 420267,
+      "file_name": "ElSopa - Shields Redone - Part I 4K-99142-1-0-1692935948.rar",
+      "mod_id": 99142,
+      "hash": "sha256-TBw/uNH1yK8cyPrhli2LUKxpBFLXXz9YEylfGa//4zU="
+    },
+    "type": "primary"
+  },
+  "ElSopa - Shields Redone - Part I 2K": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 420268,
+      "file_name": "ElSopa - Shields Redone - Part I 2K-99142-1-0-1692936012.rar",
+      "mod_id": 99142,
+      "hash": "sha256-ffHqnVHEksz17CYA3xIRLoONrCM3AgsIRyVJxrlfVuY="
+    },
+    "type": "primary"
+  },
+  "ElSopa - Shields Redone - Part I 1K": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 420269,
+      "file_name": "ElSopa - Shields Redone - Part I 1K-99142-1-0-1692936036.rar",
+      "mod_id": 99142,
+      "hash": "sha256-8xlMg6yBtt/20q6SmKit998NAeQRMo7cWD1MmJlMgu0="
+    },
+    "type": "primary"
+  }
+}

@@ -105,7 +105,8 @@
       "version": "1.7",
       "file_id": 378460,
       "file_name": "Silver Armor - My version by Xtudo SE - ESL-80424-1-7-1681564149.7z",
-      "mod_id": 80424
+      "mod_id": 80424,
+      "hash": "sha256-k15wuy40Hmh74dujf4dBPj0uAyXhdxEo5F4lleklVx4="
     },
     "type": "primary"
   },
@@ -115,7 +116,8 @@
       "version": "1.7",
       "file_id": 378461,
       "file_name": "Silver Armor - My version by Xtudo SE - ESP-80424-1-7-1681564173.7z",
-      "mod_id": 80424
+      "mod_id": 80424,
+      "hash": "sha256-s7aNWjqyagGa9V0fRp8PUlPFhoEn4pz4ZQoDHI6FAZs="
     },
     "type": "primary"
   },
@@ -125,7 +127,8 @@
       "version": "1.7",
       "file_id": 378463,
       "file_name": "Silver Armor - My version by Xtudo SE - CC Alternative Armors - Silver replacer-80424-1-7-1681564274.7z",
-      "mod_id": 80424
+      "mod_id": 80424,
+      "hash": "sha256-eiBVPeG6n59BlvKwia4ViAa1IKdukwytcX55xtW4qq4="
     }
   },
   "Silver Armor - My version by Xtudo SE - CC Imperial Dragon Armor replacer": {
@@ -134,7 +137,8 @@
       "version": "1.7",
       "file_id": 378464,
       "file_name": "Silver Armor - My version by Xtudo SE - CC Imperial Dragon Armor replacer-80424-1-7-1681564306.7z",
-      "mod_id": 80424
+      "mod_id": 80424,
+      "hash": "sha256-eHFhLl6JwCTe1SqIXzyCUqntaGZ7emtx8wbk9MNM07c="
     }
   },
   "Silver Armor SE by Xtudo - Shinny Metal patch ALT": {
@@ -143,7 +147,8 @@
       "version": "1.8",
       "file_id": 509599,
       "file_name": "Silver Armor SE by Xtudo - Shinny Metal patch ALT-80424-1-8-1717850141.7z",
-      "mod_id": 80424
+      "mod_id": 80424,
+      "hash": "sha256-UX9dabdmzN6uwLDk3uwJQHtlpwBquPOCwHF3xQCyiow="
     }
   }
 }

@@ -2,6 +2,8 @@
 - Author: Xavbio
 - Game: skyrimspecialedition
 - Mod Page: https://www.nexusmods.com/skyrimspecialedition/mods/83222
+
+
 **DRAGON ARMORS AND WEAPONS RETEXTURE SE**
 
 ﻿"Is your armor made of... dragon bones? By the gods, what I wouldn't do for a set of that."

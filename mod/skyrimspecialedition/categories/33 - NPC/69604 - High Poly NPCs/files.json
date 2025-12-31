@@ -556,7 +556,8 @@
       "version": "1.0",
       "file_id": 290869,
       "file_name": "Full Random NPC Pack - KS Hairdos-69604-1-0-1655125808.7z",
-      "mod_id": 69604
+      "mod_id": 69604,
+      "hash": "sha256-g1qOmSGyXw9h/RZRnJi+gt++gmsXJ3o6aWQUuEdkMDU="
     }
   },
   "Full Random NPC Pack - Vanilla": {
@@ -565,7 +566,8 @@
       "version": "1.0",
       "file_id": 290870,
       "file_name": "Full Random NPC Pack - Vanilla-69604-1-0-1655125884.7z",
-      "mod_id": 69604
+      "mod_id": 69604,
+      "hash": "sha256-a/t+20xFsTlFtYtuqFYUeWuw+gT36Y7fwyIbvlr+KHM="
     }
   },
   "Gavrostead SE": {
@@ -574,7 +576,8 @@
       "version": "1.0",
       "file_id": 290871,
       "file_name": "Gavrostead SE-69604-1-0-1655125909.7z",
-      "mod_id": 69604
+      "mod_id": 69604,
+      "hash": "sha256-GeYHb25kuaRoRCz6GUaKGL+fd7G4zVXX/0/uWuM1n4I="
     },
     "type": "primary"
   },
@@ -584,7 +587,8 @@
       "version": "1.0",
       "file_id": 290872,
       "file_name": "Granite Hill-69604-1-0-1655125928.7z",
-      "mod_id": 69604
+      "mod_id": 69604,
+      "hash": "sha256-rYaFqDVSKgJ4+gJY/qXsCUmCZRPLSJmMyUajEUjRxto="
     },
     "type": "primary"
   },
@@ -594,7 +598,8 @@
       "version": "1.0",
       "file_id": 290873,
       "file_name": "Haafingar Expanded-69604-1-0-1655125945.7z",
-      "mod_id": 69604
+      "mod_id": 69604,
+      "hash": "sha256-EDyUDEE/1PZRfE+7RMVVPSx7oR+1+9KfEUACnn3Sp1s="
     },
     "type": "primary"
   },
@@ -604,7 +609,8 @@
       "version": "1.0",
       "file_id": 290874,
       "file_name": "Heritage - Reflexive Enemies-69604-1-0-1655126497.7z",
-      "mod_id": 69604
+      "mod_id": 69604,
+      "hash": "sha256-wNFeU7D2288wPu6whXc5PFftZl4CADEty0PEE1W2jE8="
     },
     "type": "primary"
   },
@@ -614,7 +620,8 @@
       "version": "1.0",
       "file_id": 290875,
       "file_name": "Immersive Fort Dawnguard-69604-1-0-1655126908.7z",
-      "mod_id": 69604
+      "mod_id": 69604,
+      "hash": "sha256-A6BNnXvs/r+DSPKQuf37L0DH9ZDA3Kkaqnrt9qZ5NPw="
     },
     "type": "primary"
   },
@@ -624,7 +631,8 @@
       "version": "1.0",
       "file_id": 290876,
       "file_name": "Immersive Patrols SE-69604-1-0-1655126933.7z",
-      "mod_id": 69604
+      "mod_id": 69604,
+      "hash": "sha256-bzBfGvdDVWxD1tZVn+3EoTb7Y+FDAtt/SIYmikzuy+s="
     },
     "type": "primary"
   },
@@ -634,7 +642,8 @@
       "version": "1.0",
       "file_id": 290877,
       "file_name": "Immersive Wenches-69604-1-0-1655127021.7z",
-      "mod_id": 69604
+      "mod_id": 69604,
+      "hash": "sha256-caa7QSf9H8LMGgOk7csKc0YW4zm/mxwESBWreFRvugQ="
     },
     "type": "primary"
   },
@@ -644,7 +653,8 @@
       "version": "1.0",
       "file_id": 290883,
       "file_name": "Improved Roads-69604-1-0-1655127806.7z",
-      "mod_id": 69604
+      "mod_id": 69604,
+      "hash": "sha256-jRuiNknqARL42iKIUNTiKNY4bc1gFIa4HYiK+LjRULU="
     },
     "type": "primary"
   },
@@ -654,7 +664,8 @@
       "version": "1.0",
       "file_id": 290884,
       "file_name": "Inns and Taverns SE - Default-69604-1-0-1655127850.7z",
-      "mod_id": 69604
+      "mod_id": 69604,
+      "hash": "sha256-HXxQDOEHt6fBhqFI7f6qOBlmcjqWhXBlHHnn5b/ecUA="
     }
   },
   "Inns and Taverns SE Modular - Heartwood Inn": {
@@ -663,7 +674,8 @@
       "version": "1.0",
       "file_id": 290885,
       "file_name": "Inns and Taverns SE Modular - Heartwood Inn-69604-1-0-1655127869.7z",
-      "mod_id": 69604
+      "mod_id": 69604,
+      "hash": "sha256-HSHp+rN0jGZXuFmgnU5Jae9nDourD5WjFO3qu0dDUPo="
     }
   },
   "Inns and Taverns SE Modular - The Ghostly View": {
@@ -672,7 +684,8 @@
       "version": "1.0",
       "file_id": 290886,
       "file_name": "Inns and Taverns SE Modular - The Ghostly View-69604-1-0-1655127922.7z",
-      "mod_id": 69604
+      "mod_id": 69604,
+      "hash": "sha256-C27z2jNw2Uv7zriCq6KCQQ6fBSrofqsZ4647m5vtP0A="
     }
   },
   "Interesting NPCs SE (3DNPC)": {
@@ -681,7 +694,8 @@
       "version": "1.0",
       "file_id": 290887,
       "file_name": "Interesting NPCs SE (3DNPC)-69604-1-0-1655128015.7z",
-      "mod_id": 69604
+      "mod_id": 69604,
+      "hash": "sha256-xQEvQ5698LPVLEf88XvXMStRCi5s/oIBh9ECV6/N/qs="
     },
     "type": "primary"
   },
@@ -691,7 +705,8 @@
       "version": "1.0",
       "file_id": 290888,
       "file_name": "Isle of Artaeum - Season 3 (SSE)-69604-1-0-1655128062.7z",
-      "mod_id": 69604
+      "mod_id": 69604,
+      "hash": "sha256-VKsxslajQIpjIoareBZW5rCiNs2WAF6i0cuzVJg1IXA="
     },
     "type": "primary"
   },
@@ -701,7 +716,8 @@
       "version": "1.0",
       "file_id": 290889,
       "file_name": "Knight's Rest SE-69604-1-0-1655128132.7z",
-      "mod_id": 69604
+      "mod_id": 69604,
+      "hash": "sha256-BNm0sAenzufSTywubxh7R75/uqwyw8aKmpEptqWJX24="
     },
     "type": "primary"
   },
@@ -711,7 +727,8 @@
       "version": "1.0",
       "file_id": 290893,
       "file_name": "Kyne's Temple Consequences-69604-1-0-1655128188.7z",
-      "mod_id": 69604
+      "mod_id": 69604,
+      "hash": "sha256-UHUMeWoKcTjuCHDp8b3ai83HmUubWaOIKJ6wrgPUfQc="
     },
     "type": "primary"
   },
@@ -721,7 +738,8 @@
       "version": "1.0",
       "file_id": 290894,
       "file_name": "Lake's End Retreat SSE-69604-1-0-1655128206.7z",
-      "mod_id": 69604
+      "mod_id": 69604,
+      "hash": "sha256-TaJ7ioUvq9ws0B1pUcnbh7qMpzjR7lh9H+LFXKcJiUg="
     },
     "type": "primary"
   },
@@ -731,7 +749,8 @@
       "version": "1.0",
       "file_id": 290896,
       "file_name": "Lakeview Extended-69604-1-0-1655128228.7z",
-      "mod_id": 69604
+      "mod_id": 69604,
+      "hash": "sha256-Wezu/yijc6TrwaxcCkqpx2hN5Ty0yw3EoedfMIf1gR0="
     },
     "type": "primary"
   },
@@ -741,7 +760,8 @@
       "version": "1.0",
       "file_id": 290897,
       "file_name": "Land of Vominheim-69604-1-0-1655128254.7z",
-      "mod_id": 69604
+      "mod_id": 69604,
+      "hash": "sha256-/BcdMsX1wMroi5rf/yDjqd1n3Erq0KyaQ5zSgxZ1bxk="
     },
     "type": "primary"
   },
@@ -751,7 +771,8 @@
       "version": "1.0",
       "file_id": 290898,
       "file_name": "LC_Build Your Noble House-69604-1-0-1655128320.7z",
-      "mod_id": 69604
+      "mod_id": 69604,
+      "hash": "sha256-CcO38+9NnQLFBC16vV8ePtETof1rgAZ3Xt6+GrRCupE="
     },
     "type": "primary"
   },
@@ -761,7 +782,8 @@
       "version": "1.0",
       "file_id": 290911,
       "file_name": "Maids II Deception-69604-1-0-1655129088.7z",
-      "mod_id": 69604
+      "mod_id": 69604,
+      "hash": "sha256-/Uky8k7SExSF/49ZGAkF5JdbFMPVFbSfYcH7kmTzlTo="
     },
     "type": "primary"
   },
@@ -771,7 +793,8 @@
       "version": "1.0",
       "file_id": 290912,
       "file_name": "Midwood Isle-69604-1-0-1655129126.7z",
-      "mod_id": 69604
+      "mod_id": 69604,
+      "hash": "sha256-Df+kwaGCegml0dr8iBA4aNnI4LpPbr3bYlh21kjtwhg="
     },
     "type": "primary"
   },
@@ -781,7 +804,8 @@
       "version": "1.0",
       "file_id": 290913,
       "file_name": "MINPCs (More Immersive NPCs)-69604-1-0-1655129143.7z",
-      "mod_id": 69604
+      "mod_id": 69604,
+      "hash": "sha256-QFZSywR7kO5645cwNtwlS/UuWrYyAWBAgxpRNgOkTK8="
     },
     "type": "primary"
   },
@@ -791,7 +815,8 @@
       "version": "1.0",
       "file_id": 290915,
       "file_name": "Monolith-69604-1-0-1655129166.7z",
-      "mod_id": 69604
+      "mod_id": 69604,
+      "hash": "sha256-Sp2fQCD56o9A/DwB64s0qnZQLs3mCDg0RxdR5HJC8Xg="
     },
     "type": "primary"
   },
@@ -801,7 +826,8 @@
       "version": "1.0",
       "file_id": 290916,
       "file_name": "Moon and Star-69604-1-0-1655129232.7z",
-      "mod_id": 69604
+      "mod_id": 69604,
+      "hash": "sha256-hJTfdirbMl/Pw4WfuzlpWOJFta82Ny2uQ1AjlgGz9xY="
     },
     "type": "primary"
   },
@@ -811,7 +837,8 @@
       "version": "1.0",
       "file_id": 290917,
       "file_name": "Moonstone Castle SE-69604-1-0-1655129252.7z",
-      "mod_id": 69604
+      "mod_id": 69604,
+      "hash": "sha256-2E5vJf2N8+MDVW7Ba9+qgWqDiRwxZaQNj1IYfri6neg="
     },
     "type": "primary"
   },
@@ -821,7 +848,8 @@
       "version": "1.0",
       "file_id": 290918,
       "file_name": "More Bandit Camps SSE-69604-1-0-1655129270.7z",
-      "mod_id": 69604
+      "mod_id": 69604,
+      "hash": "sha256-oQmO/SKBHilKDY/zFg6FvdEAjKeLf+Ya8aLJDr0Ugj0="
     },
     "type": "primary"
   },
@@ -831,7 +859,8 @@
       "version": "1.0",
       "file_id": 290919,
       "file_name": "M'rissi's Tails of Troubles SE-69604-1-0-1655129287.7z",
-      "mod_id": 69604
+      "mod_id": 69604,
+      "hash": "sha256-TqkXQn2kORbTCNu50V3wEMggNYP2/HZIUmomA4p2X84="
     },
     "type": "primary"
   },
@@ -841,7 +870,8 @@
       "version": "1.0",
       "file_id": 290920,
       "file_name": "Opulent Thieves Guild-69604-1-0-1655129303.7z",
-      "mod_id": 69604
+      "mod_id": 69604,
+      "hash": "sha256-gfkp4VDjUpaSRK1qX+vedYpJdalkWVM7SbSgl1asAlk="
     },
     "type": "primary"
   },
@@ -851,7 +881,8 @@
       "version": "1.0",
       "file_id": 290921,
       "file_name": "Ordinary Characters-69604-1-0-1655129326.7z",
-      "mod_id": 69604
+      "mod_id": 69604,
+      "hash": "sha256-f08bZY/TtMBMbkT4sQ1jg517ruoWeu5Nf/YgxwvmEeA="
     },
     "type": "primary"
   },
@@ -861,7 +892,8 @@
       "version": "1.0",
       "file_id": 290922,
       "file_name": "Outlaws and Revolutionaries-69604-1-0-1655129346.7z",
-      "mod_id": 69604
+      "mod_id": 69604,
+      "hash": "sha256-PcRBuWrw//9HtSe9/sguXuFzkAbnvFU8EeQEfzblcao="
     },
     "type": "primary"
   },
@@ -871,7 +903,8 @@
       "version": "1.0",
       "file_id": 290924,
       "file_name": "Outlaws Refuges-69604-1-0-1655129364.7z",
-      "mod_id": 69604
+      "mod_id": 69604,
+      "hash": "sha256-VoFODiWu4snkkLCmG2Qy1NyUSS3vOg9grI9EtVur71o="
     },
     "type": "primary"
   },
@@ -881,7 +914,8 @@
       "version": "1.0",
       "file_id": 290925,
       "file_name": "Path of The Revenant-69604-1-0-1655129380.7z",
-      "mod_id": 69604
+      "mod_id": 69604,
+      "hash": "sha256-DTmTrJ2yKL9rc9942xFA3/N7tkqxh95/7ChrScfwLig="
     },
     "type": "primary"
   },
@@ -891,7 +925,8 @@
       "version": "1.0",
       "file_id": 290928,
       "file_name": "Phenderix Magic World - Magic Evolved-69604-1-0-1655129411.7z",
-      "mod_id": 69604
+      "mod_id": 69604,
+      "hash": "sha256-R/7TjSh368d5eufN8ryNI1Szv54eRDOPb0P5z2xye5U="
     },
     "type": "primary"
   },
@@ -901,7 +936,8 @@
       "version": "1.0",
       "file_id": 290929,
       "file_name": "Populate Jorrvaskr-69604-1-0-1655129427.7z",
-      "mod_id": 69604
+      "mod_id": 69604,
+      "hash": "sha256-24i4fxRjVAHns/b6cYvS+tzjsPZjJbV3vuFg0P25Ej4="
     },
     "type": "primary"
   },
@@ -911,7 +947,8 @@
       "version": "1.0",
       "file_id": 290930,
       "file_name": "Populated Cities Towns Villages Lite - Default-69604-1-0-1655129507.7z",
-      "mod_id": 69604
+      "mod_id": 69604,
+      "hash": "sha256-GMVmkfAaQP4QFYD7OG38bqs6mIrASwJ4DTI831HaJkQ="
     }
   },
   "Populated Cities Towns Villages Lite - Open Cities": {
@@ -920,7 +957,8 @@
       "version": "1.0",
       "file_id": 290931,
       "file_name": "Populated Cities Towns Villages Lite - Open Cities-69604-1-0-1655129776.7z",
-      "mod_id": 69604
+      "mod_id": 69604,
+      "hash": "sha256-zqugwnpvyJzvPAx4Hkzf2GFqXhJKvFvV7T9tQNBtZnM="
     }
   },
   "Populated Cities Towns Villages SE Edition": {
@@ -929,7 +967,8 @@
       "version": "1.0",
       "file_id": 290934,
       "file_name": "Populated Cities Towns Villages SE Edition-69604-1-0-1655129988.7z",
-      "mod_id": 69604
+      "mod_id": 69604,
+      "hash": "sha256-7Rfmf7Q4xj+TtBO8K3CYKppVuzgamLiVyX6m9GkgEjs="
     },
     "type": "primary"
   },
@@ -939,7 +978,8 @@
       "version": "1.0",
       "file_id": 290937,
       "file_name": "Populated Lands Roads Paths - Legendary-69604-1-0-1655130693.7z",
-      "mod_id": 69604
+      "mod_id": 69604,
+      "hash": "sha256-U4WzhHQ5ns2tMAKbP/owWTfjS+V8i49E+CDx/y8mDFU="
     }
   },
   "Populated Lands Roads Paths - Mercenary": {
@@ -948,7 +988,8 @@
       "version": "1.0",
       "file_id": 290938,
       "file_name": "Populated Lands Roads Paths - Mercenary-69604-1-0-1655130779.7z",
-      "mod_id": 69604
+      "mod_id": 69604,
+      "hash": "sha256-yTL6o2JMG6U7vT4UBBstqxukXv9L9VlT6Yzph9tT6Lo="
     }
   },
   "Populated Skyrim HELL EDITION for OPEN CITIES": {
@@ -957,7 +998,8 @@
       "version": "1.0",
       "file_id": 290948,
       "file_name": "Populated Skyrim HELL EDITION for OPEN CITIES-69604-1-0-1655133236.7z",
-      "mod_id": 69604
+      "mod_id": 69604,
+      "hash": "sha256-IHSflU4BCKymNxtygs1VyiJiVJr9JK4EN85ebiouwYk="
     }
   },
   "Populated Skyrim HELL EDITION": {
@@ -966,7 +1008,8 @@
       "version": "1.0",
       "file_id": 290951,
       "file_name": "Populated Skyrim HELL EDITION-69604-1-0-1655133734.7z",
-      "mod_id": 69604
+      "mod_id": 69604,
+      "hash": "sha256-eTWRAlNLL0l6YUX/foi2YfdSqhlsyg7JXwRv5T06FGM="
     }
   },
   "Populated Skyrim Reborn SSE (Separate Modules) - Populated Forts Towers Places Reborn": {
@@ -975,7 +1018,8 @@
       "version": "1.0",
       "file_id": 290955,
       "file_name": "Populated Skyrim Reborn SSE (Separate Modules) - Populated Forts Towers Places Reborn-69604-1-0-1655134589.7z",
-      "mod_id": 69604
+      "mod_id": 69604,
+      "hash": "sha256-eP8ULPWNNj6dDrDAQODH++c5avc4M2Xg72Vmnae5GZU="
     },
     "type": "primary"
   },
@@ -985,7 +1029,8 @@
       "version": "1.0",
       "file_id": 290961,
       "file_name": "Project AHO-69604-1-0-1655135194.7z",
-      "mod_id": 69604
+      "mod_id": 69604,
+      "hash": "sha256-2k7danugxOrcoH3BFlX81eVWknFg8AwsYvm2fvJPUBo="
     },
     "type": "primary"
   },
@@ -995,7 +1040,8 @@
       "version": "1.0",
       "file_id": 290962,
       "file_name": "Race Followers Overhaul-69604-1-0-1655135212.7z",
-      "mod_id": 69604
+      "mod_id": 69604,
+      "hash": "sha256-lOFyzfgYRV7Ed4ytsiaq9rTZBpvK729KU4oG/QlwlrU="
     },
     "type": "primary"
   },
@@ -1005,7 +1051,8 @@
       "version": "1.0",
       "file_id": 290963,
       "file_name": "Ravengate - Riften Underground-69604-1-0-1655135232.7z",
-      "mod_id": 69604
+      "mod_id": 69604,
+      "hash": "sha256-P+vSfO4WJah0IvsF0x5pPDX369QhiUdYtEQVHH1aJOw="
     },
     "type": "primary"
   },
@@ -1015,7 +1062,8 @@
       "version": "1.0",
       "file_id": 290964,
       "file_name": "Riften Docks Overhaul-69604-1-0-1655135251.7z",
-      "mod_id": 69604
+      "mod_id": 69604,
+      "hash": "sha256-8DNSNzaQ4pyL7ToWzIwsgS22BpI5DvvAGFcaAXLwB3Y="
     },
     "type": "primary"
   },
@@ -1025,7 +1073,8 @@
       "version": "1.0",
       "file_id": 290965,
       "file_name": "Riverwood Keep SE-69604-1-0-1655135268.7z",
-      "mod_id": 69604
+      "mod_id": 69604,
+      "hash": "sha256-o9LOu3lSndRbRMC1bzWgXfdyl/VsDb2CKSDvbiIuXaI="
     },
     "type": "primary"
   },
@@ -1035,7 +1084,8 @@
       "version": "1.0",
       "file_id": 290966,
       "file_name": "Settlements Expanded-69604-1-0-1655135285.7z",
-      "mod_id": 69604
+      "mod_id": 69604,
+      "hash": "sha256-CYWcf1t8c+jUoBGhwq3oZQlFpo5Jz+TfyRn3LYZzddU="
     },
     "type": "primary"
   },
@@ -1045,7 +1095,8 @@
       "version": "1.0",
       "file_id": 290967,
       "file_name": "Sexy Mannequins Female Hearthfire SSE-69604-1-0-1655135303.7z",
-      "mod_id": 69604
+      "mod_id": 69604,
+      "hash": "sha256-JI0ZElY4zFBcIfcE/fa8j+4cRD2nowA1bkd75i62xpI="
     }
   },
   "Sexy Mannequins SSE": {
@@ -1054,7 +1105,8 @@
       "version": "1.0",
       "file_id": 290968,
       "file_name": "Sexy Mannequins SSE-69604-1-0-1655135323.7z",
-      "mod_id": 69604
+      "mod_id": 69604,
+      "hash": "sha256-lykvQ6oFAZab9gEiIj7wg6zSP+1uviQM0nWn4uuEFKo="
     }
   },
   "Shadowstar Castle SE": {
@@ -1063,7 +1115,8 @@
       "version": "1.0",
       "file_id": 290969,
       "file_name": "Shadowstar Castle SE-69604-1-0-1655135341.7z",
-      "mod_id": 69604
+      "mod_id": 69604,
+      "hash": "sha256-+wuLMHq0gY4IOTrGPq8yDxnTxpDqUk9JiO1yNCGsVrA="
     },
     "type": "primary"
   },
@@ -1073,7 +1126,8 @@
       "version": "1.0",
       "file_id": 290970,
       "file_name": "Sheep Flocks- Elements of Skyrim (MIHAIL SSE PORT)-69604-1-0-1655135356.7z",
-      "mod_id": 69604
+      "mod_id": 69604,
+      "hash": "sha256-Um4qg3wmjL0wercy13Zp3AV+7V81zuGTsod6abNK9kk="
     },
     "type": "primary"
   },
@@ -1083,7 +1137,8 @@
       "version": "1.0",
       "file_id": 290971,
       "file_name": "Skygerfall -- Daggerfall's Main Quest in TESV-69604-1-0-1655135382.7z",
-      "mod_id": 69604
+      "mod_id": 69604,
+      "hash": "sha256-Xzwpq/U2Ib9juhRQrMhXA+WtLp6aEDAzWT33PxFY7HM="
     },
     "type": "primary"
   },
@@ -1093,7 +1148,8 @@
       "version": "1.0",
       "file_id": 290972,
       "file_name": "Skyrim Belongs to the Nords-69604-1-0-1655135422.7z",
-      "mod_id": 69604
+      "mod_id": 69604,
+      "hash": "sha256-XSRnO6PiQM8reThEc6cRXpXsMVqr51pI6inU2og2qBs="
     },
     "type": "primary"
   },
@@ -1103,7 +1159,8 @@
       "version": "1.0",
       "file_id": 290973,
       "file_name": "Skyrim Sewers 4-69604-1-0-1655135444.7z",
-      "mod_id": 69604
+      "mod_id": 69604,
+      "hash": "sha256-YXpNPmFhYSChPHPwnkV2hBjcHeyC530qUVyB1X9Wgws="
     },
     "type": "primary"
   },
@@ -1113,7 +1170,8 @@
       "version": "1.0",
       "file_id": 290974,
       "file_name": "Skyrim Underground SSE - ESM-69604-1-0-1655135467.7z",
-      "mod_id": 69604
+      "mod_id": 69604,
+      "hash": "sha256-JzgBweaqdAMenthcwZlLi5h7OsdN/yHnOZqM+RX/NQ8="
     }
   },
   "Skyrim Underground SSE - ESP": {
@@ -1122,7 +1180,8 @@
       "version": "1.0",
       "file_id": 290975,
       "file_name": "Skyrim Underground SSE - ESP-69604-1-0-1655135492.7z",
-      "mod_id": 69604
+      "mod_id": 69604,
+      "hash": "sha256-gauCMNZAZftcbC13vD/uFFICyalt6PM3MzpAM4wO7oU="
     }
   },
   "Skystone Castle SE": {
@@ -1131,7 +1190,8 @@
       "version": "1.0",
       "file_id": 290976,
       "file_name": "Skystone Castle SE-69604-1-0-1655135511.7z",
-      "mod_id": 69604
+      "mod_id": 69604,
+      "hash": "sha256-M/Q3ZhmOe99GROzK17t1qHXdGDVftFe0lTVrxP5AbJM="
     },
     "type": "primary"
   },
@@ -1141,7 +1201,8 @@
       "version": "1.0",
       "file_id": 290977,
       "file_name": "Snow Elf Hut SE-69604-1-0-1655135525.7z",
-      "mod_id": 69604
+      "mod_id": 69604,
+      "hash": "sha256-GDAJ6WCGuNpQjZ8NIKQJrbmyGNqvoUo5DYUVS69rsCY="
     },
     "type": "primary"
   },
@@ -1151,7 +1212,8 @@
       "version": "1.0",
       "file_id": 290978,
       "file_name": "Snow Elf Palace SE-69604-1-0-1655135541.7z",
-      "mod_id": 69604
+      "mod_id": 69604,
+      "hash": "sha256-uo52h1YH3YL6J4hy1bWUspkgcTDeDod7NW6ca6UM8MQ="
     },
     "type": "primary"
   },
@@ -1161,7 +1223,8 @@
       "version": "1.0",
       "file_id": 290980,
       "file_name": "Solitude Expansion-69604-1-0-1655135831.7z",
-      "mod_id": 69604
+      "mod_id": 69604,
+      "hash": "sha256-9JSF2/SW17c5hgnq1jRF+JUReJl+3SDllbYDIOvauAY="
     },
     "type": "primary"
   },
@@ -1171,7 +1234,8 @@
       "version": "1.0",
       "file_id": 290981,
       "file_name": "Solstice Castle SE-69604-1-0-1655135901.7z",
-      "mod_id": 69604
+      "mod_id": 69604,
+      "hash": "sha256-dhvy+FosE2vDTcX81I1aNTnXHUQi4yiiuXXm4SLXRb0="
     },
     "type": "primary"
   },
@@ -1181,7 +1245,8 @@
       "version": "1.0",
       "file_id": 290982,
       "file_name": "Teldryn Serious - A Teldryn Sero Backstory Quest SSE-69604-1-0-1655135921.7z",
-      "mod_id": 69604
+      "mod_id": 69604,
+      "hash": "sha256-qeSLSrxJZCLYUtHzF7XhJ2LjX8vALD8Ro9Xo+F/xZg0="
     },
     "type": "primary"
   },
@@ -1191,7 +1256,8 @@
       "version": "1.0",
       "file_id": 290983,
       "file_name": "The Brotherhood of Old - SSE-69604-1-0-1655135948.7z",
-      "mod_id": 69604
+      "mod_id": 69604,
+      "hash": "sha256-H2cd6agDO1wNkZHVaYWWsoyCIsC6sBg/ki1hem8cfZ8="
     },
     "type": "primary"
   },
@@ -1201,7 +1267,8 @@
       "version": "1.0",
       "file_id": 290984,
       "file_name": "The Erotic Adventures of Misty Skye-69604-1-0-1655135969.7z",
-      "mod_id": 69604
+      "mod_id": 69604,
+      "hash": "sha256-3cum2coF7bJfpuzkdDv8Ior2jgoHqpllhTuiu3nUWdc="
     },
     "type": "primary"
   },
@@ -1211,7 +1278,8 @@
       "version": "1.0",
       "file_id": 290985,
       "file_name": "The Gray Cowl of Nocturnal SE-69604-1-0-1655135992.7z",
-      "mod_id": 69604
+      "mod_id": 69604,
+      "hash": "sha256-5FTkuwP4w/yiAYjrj+hNi1Fh0cbMCmL9IoZb8vHg4do="
     },
     "type": "primary"
   },
@@ -1221,7 +1289,8 @@
       "version": "1.0",
       "file_id": 290986,
       "file_name": "The Great Cities - Minor Cities and Towns SSE Edition-69604-1-0-1655136008.7z",
-      "mod_id": 69604
+      "mod_id": 69604,
+      "hash": "sha256-KEs1wCdObzEeY55HMcyy22/qpP3znSXaDe7lofPbZ58="
     },
     "type": "primary"
   },
@@ -1231,7 +1300,8 @@
       "version": "1.0",
       "file_id": 290987,
       "file_name": "The Last Refuge (Jerall Mountains Citadel II)-69604-1-0-1655136056.7z",
-      "mod_id": 69604
+      "mod_id": 69604,
+      "hash": "sha256-8E1idSvYuqpjEZz2kyUwV1iRc0tk3ds51nB3zg/k6yk="
     },
     "type": "primary"
   },
@@ -1241,7 +1311,8 @@
       "version": "1.0",
       "file_id": 290988,
       "file_name": "The Master's Trial - ULTIMATE EDITION-69604-1-0-1655136108.7z",
-      "mod_id": 69604
+      "mod_id": 69604,
+      "hash": "sha256-Pf2yDfkg0y+dowL4UkfwmxKdKexVu3a7PUYmcbiaGTY="
     },
     "type": "primary"
   },
@@ -1251,7 +1322,8 @@
       "version": "1.0",
       "file_id": 290989,
       "file_name": "The People of Skyrim 2 - Full-69604-1-0-1655136230.7z",
-      "mod_id": 69604
+      "mod_id": 69604,
+      "hash": "sha256-HDlDQJMJAnKr58/ySBxyxUzTuhzKHWH/p7AGtypSqeY="
     }
   },
   "The People of Skyrim 2 - Partial": {
@@ -1260,7 +1332,8 @@
       "version": "1.0",
       "file_id": 290990,
       "file_name": "The People of Skyrim 2 - Partial-69604-1-0-1655136275.7z",
-      "mod_id": 69604
+      "mod_id": 69604,
+      "hash": "sha256-IZGGgwW/65CU4j/A5gKa/wvfgd2g8LST6IuFRlmreYI="
     }
   },
   "The Republic of Maslea - Chapter one": {
@@ -1269,7 +1342,8 @@
       "version": "1.0",
       "file_id": 290991,
       "file_name": "The Republic of Maslea - Chapter one-69604-1-0-1655136305.7z",
-      "mod_id": 69604
+      "mod_id": 69604,
+      "hash": "sha256-QkJdinM3PXYHwKcz2WRTSVa1ezXvUMYYiSk9cQDuSlQ="
     },
     "type": "primary"
   },
@@ -1279,7 +1353,8 @@
       "version": "1.0",
       "file_id": 290992,
       "file_name": "The Second Great War-69604-1-0-1655136330.7z",
-      "mod_id": 69604
+      "mod_id": 69604,
+      "hash": "sha256-qx9ldklTst7s4+Fi3QuYyQ3fM3TnnpvgxcPlR3h3HH0="
     },
     "type": "primary"
   },
@@ -1289,7 +1364,8 @@
       "version": "1.0",
       "file_id": 290993,
       "file_name": "The Shadow of Meresis-69604-1-0-1655136354.7z",
-      "mod_id": 69604
+      "mod_id": 69604,
+      "hash": "sha256-IS/1aSW8yMyvA8LbEhPB/EzFEYSwW9qNjHRAY0TZWGI="
     },
     "type": "primary"
   },
@@ -1299,7 +1375,8 @@
       "version": "1.0",
       "file_id": 290994,
       "file_name": "The Shire SE-69604-1-0-1655136409.7z",
-      "mod_id": 69604
+      "mod_id": 69604,
+      "hash": "sha256-xk60pAKN813jtmn0UsPHCRYgYwz1ku7BwcRif/vTVEM="
     },
     "type": "primary"
   },
@@ -1309,7 +1386,8 @@
       "version": "1.0",
       "file_id": 290995,
       "file_name": "The Tools of Kagrenac-69604-1-0-1655136425.7z",
-      "mod_id": 69604
+      "mod_id": 69604,
+      "hash": "sha256-MiuXAKaatEHrz9zsIaADrZzKwBn1WtG3tGELJrSRah4="
     },
     "type": "primary"
   },
@@ -1319,7 +1397,8 @@
       "version": "1.0",
       "file_id": 290996,
       "file_name": "The Wheels of Lull SE-69604-1-0-1655136440.7z",
-      "mod_id": 69604
+      "mod_id": 69604,
+      "hash": "sha256-Qx/f7RfTi9jkciNUq2yvAO1X5LiWK6r9JxJyh3O7Ksg="
     },
     "type": "primary"
   },
@@ -1329,7 +1408,8 @@
       "version": "1.0",
       "file_id": 290997,
       "file_name": "Traveller's Inn - Player Home-69604-1-0-1655136457.7z",
-      "mod_id": 69604
+      "mod_id": 69604,
+      "hash": "sha256-yGBzl0mH6zBpj+HdWzEImDlpSBG78eK/rDsKFAQdqg4="
     },
     "type": "primary"
   },
@@ -1339,7 +1419,8 @@
       "version": "1.0",
       "file_id": 290998,
       "file_name": "Travellers of Skyrim - Light-69604-1-0-1655136475.7z",
-      "mod_id": 69604
+      "mod_id": 69604,
+      "hash": "sha256-z5GSVzRJaHuJszepldFXcHwp7bF3oCVaqc0IZIFVc24="
     }
   },
   "Travellers of Skyrim - Vanilla": {
@@ -1348,7 +1429,8 @@
       "version": "1.0",
       "file_id": 290999,
       "file_name": "Travellers of Skyrim - Vanilla-69604-1-0-1655136496.7z",
-      "mod_id": 69604
+      "mod_id": 69604,
+      "hash": "sha256-oum/4jf1sxwEBaT8PTheNfCHIt/Q4qRHp/Q0yjlsbjk="
     }
   },
   "Undeath Remastered": {
@@ -1357,7 +1439,8 @@
       "version": "1.0",
       "file_id": 291000,
       "file_name": "Undeath Remastered-69604-1-0-1655136513.7z",
-      "mod_id": 69604
+      "mod_id": 69604,
+      "hash": "sha256-YlMRsmEqo3eg4XO3UtOoebZOvIqX/cG4xMXQKhNXL/s="
     },
     "type": "primary"
   },
@@ -1367,7 +1450,8 @@
       "version": "1.0",
       "file_id": 291001,
       "file_name": "Underhanded Slavery- House Dres Operations pt.1 (MIHAIL SSE PORT)-69604-1-0-1655136530.7z",
-      "mod_id": 69604
+      "mod_id": 69604,
+      "hash": "sha256-Vnuu6V1HP4U+2dL6Zau3FI2N/ooUDUlJk1Iu/avtK+M="
     },
     "type": "primary"
   },
@@ -1377,7 +1461,8 @@
       "version": "1.0",
       "file_id": 291002,
       "file_name": "Unique Border Gates Fixes-69604-1-0-1655136554.7z",
-      "mod_id": 69604
+      "mod_id": 69604,
+      "hash": "sha256-SoEW9B/DmifUjGvV4bTQ74uYm8/xnMqkpQGmt1t0NTE="
     },
     "type": "primary"
   },
@@ -1387,7 +1472,8 @@
       "version": "1.0",
       "file_id": 291003,
       "file_name": "Unique Border Gates SE-69604-1-0-1655136577.7z",
-      "mod_id": 69604
+      "mod_id": 69604,
+      "hash": "sha256-izB8eaCtNvPLmfMUA/F0ybctg+33y7sRUZPUezznfNQ="
     },
     "type": "primary"
   },
@@ -1397,7 +1483,8 @@
       "version": "1.0",
       "file_id": 291004,
       "file_name": "Unslaad SE-69604-1-0-1655136587.7z",
-      "mod_id": 69604
+      "mod_id": 69604,
+      "hash": "sha256-TSDLscBCwjOZu6jJHeKkKxRSFJTo28+qSV/K5edZZGY="
     },
     "type": "primary"
   },
@@ -1407,7 +1494,8 @@
       "version": "1.0",
       "file_id": 291005,
       "file_name": "Valley of Outcasts (Jerall Mountains Citadel)-69604-1-0-1655136627.7z",
-      "mod_id": 69604
+      "mod_id": 69604,
+      "hash": "sha256-m0vk77Sdps0uQYlElEe++N2F+DzOHafpvyUOkAHd9RY="
     },
     "type": "primary"
   },
@@ -1417,7 +1505,8 @@
       "version": "1.0",
       "file_id": 291006,
       "file_name": "VIGILANT SE-69604-1-0-1655136648.7z",
-      "mod_id": 69604
+      "mod_id": 69604,
+      "hash": "sha256-YIEKRBZ2mkNMqwk9/gtuODzH5535wIPK0GTPfhSyEu0="
     },
     "type": "primary"
   },
@@ -1427,7 +1516,8 @@
       "version": "1.0",
       "file_id": 291007,
       "file_name": "Volthar Manor Revisited SE-69604-1-0-1655136667.7z",
-      "mod_id": 69604
+      "mod_id": 69604,
+      "hash": "sha256-itlNhLc4xU1vher7k8zbh4bDwlwOBsTCy2/0eppEakM="
     },
     "type": "primary"
   },
@@ -1437,7 +1527,8 @@
       "version": "1.0",
       "file_id": 291008,
       "file_name": "White Lighthouse-69604-1-0-1655136681.7z",
-      "mod_id": 69604
+      "mod_id": 69604,
+      "hash": "sha256-D2ciu3S+y3k5HItTYXV7bv4u4z6GUDkDWAXTVoT2+1U="
     },
     "type": "primary"
   },
@@ -1447,7 +1538,8 @@
       "version": "1.0",
       "file_id": 291009,
       "file_name": "Whiterun Battle Brothers-69604-1-0-1655136695.7z",
-      "mod_id": 69604
+      "mod_id": 69604,
+      "hash": "sha256-NpxQUlQQ8Lb027y4kEY0QxUj1AEXp9MtO63Qcs3H9fI="
     },
     "type": "primary"
   },
@@ -1457,7 +1549,8 @@
       "version": "1.0",
       "file_id": 291010,
       "file_name": "Winterstone Castle SE-69604-1-0-1655136712.7z",
-      "mod_id": 69604
+      "mod_id": 69604,
+      "hash": "sha256-OmIJfY+vsQD1rY6Va5nA35OfvF2VYOk/b4MKZwzjfR0="
     },
     "type": "primary"
   },
@@ -1467,7 +1560,8 @@
       "version": "1.0",
       "file_id": 291011,
       "file_name": "Wintersun - Faiths of Skyrim-69604-1-0-1655136724.7z",
-      "mod_id": 69604
+      "mod_id": 69604,
+      "hash": "sha256-FW11bO8qkDogbnUBJzN398eaatHJImm0/oWHqQEBrD0="
     },
     "type": "primary"
   },
@@ -1477,7 +1571,8 @@
       "version": "1.0",
       "file_id": 291012,
       "file_name": "Wulftur's Lodge - Mistress Kira's Fine Adornments Merged SE-69604-1-0-1655136756.7z",
-      "mod_id": 69604
+      "mod_id": 69604,
+      "hash": "sha256-2NqnWtHmcKzYmShGj60ID+aEZgQnPMhzUUM4fWW8CtQ="
     },
     "type": "primary"
   },
@@ -1487,7 +1582,8 @@
       "version": "1.0",
       "file_id": 291013,
       "file_name": "Wyrmstooth-69604-1-0-1655136776.7z",
-      "mod_id": 69604
+      "mod_id": 69604,
+      "hash": "sha256-JaXoXr8lFbWRZONjAltsBogxb0ozoYLHu8t7t9pGl+4="
     },
     "type": "primary"
   }

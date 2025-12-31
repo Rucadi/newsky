@@ -1,0 +1,35 @@
+{
+  "Vampire Falmer Overhaul - My optimized textures SE by Xtudo - 4K": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1",
+      "file_id": 375970,
+      "file_name": "Vampire Falmer Overhaul - My optimized textures SE by Xtudo - 4K-88691-1-1680866619.7z",
+      "mod_id": 88691,
+      "hash": "sha256-4m0m+j9hTh/pLfv7InpfjRdPxQHBmCt+NlZoEvZRa5U="
+    },
+    "type": "primary"
+  },
+  "Vampire Falmer Overhaul - My optimized textures SE by Xtudo - 2K": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1",
+      "file_id": 375971,
+      "file_name": "Vampire Falmer Overhaul - My optimized textures SE by Xtudo - 2K-88691-1-1680866632.7z",
+      "mod_id": 88691,
+      "hash": "sha256-XuZuZVfxIS4lAOG6MH8sH/nZq3C8xgdYterZ7Gj80xw="
+    },
+    "type": "primary"
+  },
+  "Vampire Falmer Overhaul - My optimized textures SE by Xtudo - 1K": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1",
+      "file_id": 375972,
+      "file_name": "Vampire Falmer Overhaul - My optimized textures SE by Xtudo - 1K-88691-1-1680866647.7z",
+      "mod_id": 88691,
+      "hash": "sha256-suIOXgduUvTvDbFzC4LWiscCJ9UbwuT6EFolAjxBpYc="
+    },
+    "type": "primary"
+  }
+}

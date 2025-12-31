@@ -2,6 +2,8 @@
 - Author: Xavbio
 - Game: skyrimspecialedition
 - Mod Page: https://www.nexusmods.com/skyrimspecialedition/mods/98561
+
+
 **THIEVES GUILD ARMORS RETEXTURE SE**
   
 "*I know Thieves Guild armor when I see it. You're not fooling anyone.*"

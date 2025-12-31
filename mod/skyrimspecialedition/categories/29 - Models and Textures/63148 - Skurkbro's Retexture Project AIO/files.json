@@ -26,7 +26,8 @@
       "version": "4.0",
       "file_id": 341052,
       "file_name": "SRP Architecture 2K-63148-4-0-1671204265.zip",
-      "mod_id": 63148
+      "mod_id": 63148,
+      "hash": "sha256-YFZpStl2FT2fwwv3o9ItzOs+7FW6SGg8x3BXWLuxpgc="
     },
     "type": "primary"
   },
@@ -36,7 +37,8 @@
       "version": "4.0",
       "file_id": 341053,
       "file_name": "SRP Architecture 1K-63148-4-0-1671204410.zip",
-      "mod_id": 63148
+      "mod_id": 63148,
+      "hash": "sha256-zswOrLhJeasVA6N2SIAja/U17fsHBh/M+K522io/R24="
     },
     "type": "primary"
   },
@@ -46,7 +48,8 @@
       "version": "4.0",
       "file_id": 341059,
       "file_name": "SRP Dungeons 4K-63148-4-0-1671205401.zip",
-      "mod_id": 63148
+      "mod_id": 63148,
+      "hash": "sha256-c88ru1YZwRHMZp78WFazJ53GZnJCv4v5MRBWuhH19gc="
     },
     "type": "primary"
   },
@@ -56,7 +59,8 @@
       "version": "4.0",
       "file_id": 341065,
       "file_name": "SRP Dungeons 2K-63148-4-0-1671205880.zip",
-      "mod_id": 63148
+      "mod_id": 63148,
+      "hash": "sha256-SjtR5R9ng+WK3KCzyKrudpuaAgIjaEfNqSx0Bznpk+Y="
     },
     "type": "primary"
   },
@@ -66,7 +70,8 @@
       "version": "4.0",
       "file_id": 341068,
       "file_name": "SRP Dungeons 1K-63148-4-0-1671206108.zip",
-      "mod_id": 63148
+      "mod_id": 63148,
+      "hash": "sha256-hfYFnLA4D0pnMbTV5XP1pmwGutf3tRbsfL2s3doO3yE="
     },
     "type": "primary"
   },
@@ -76,7 +81,8 @@
       "version": "4.0",
       "file_id": 341071,
       "file_name": "SRP Landscapes 4K-63148-4-0-1671206611.rar",
-      "mod_id": 63148
+      "mod_id": 63148,
+      "hash": "sha256-b6M9ESEcdx0yVuUkjFhMSiVAuZQpmP88wgKh5MqRtmc="
     },
     "type": "primary"
   },
@@ -86,7 +92,8 @@
       "version": "4.0",
       "file_id": 341072,
       "file_name": "SRP Landscapes 2K-63148-4-0-1671207049.zip",
-      "mod_id": 63148
+      "mod_id": 63148,
+      "hash": "sha256-7f75MzRlSMHLgZfT39Lo7vwy85M4g5T12Q7uF/lpN6M="
     },
     "type": "primary"
   },
@@ -96,7 +103,8 @@
       "version": "4.0",
       "file_id": 341075,
       "file_name": "SRP Landscapes 1K-63148-4-0-1671207396.zip",
-      "mod_id": 63148
+      "mod_id": 63148,
+      "hash": "sha256-SzDz2J3OI6SqGnOUsA1Zlu1zLtVaWXdcluPpWOz33Kc="
     },
     "type": "primary"
   },
@@ -106,7 +114,8 @@
       "version": "4.0",
       "file_id": 341080,
       "file_name": "SRP Misc 4K-63148-4-0-1671208325.zip",
-      "mod_id": 63148
+      "mod_id": 63148,
+      "hash": "sha256-lpduv3m1r06bUZDIApYSEhDoBzjkhwHwxbZlH9ndu7I="
     },
     "type": "primary"
   },
@@ -116,7 +125,8 @@
       "version": "4.0",
       "file_id": 341081,
       "file_name": "SRP Misc 2K-63148-4-0-1671208458.zip",
-      "mod_id": 63148
+      "mod_id": 63148,
+      "hash": "sha256-bC85Njdoqaf2j3/6/MPHoBFoFwS/l07Zkr4BvssBjOU="
     },
     "type": "primary"
   },
@@ -126,7 +136,8 @@
       "version": "4.0",
       "file_id": 341082,
       "file_name": "SRP Misc 1K-63148-4-0-1671208525.zip",
-      "mod_id": 63148
+      "mod_id": 63148,
+      "hash": "sha256-qCPEHOE/3b8ZMPBRsn+KCDpFety1eYQOyFA9Rq00UqY="
     },
     "type": "primary"
   }

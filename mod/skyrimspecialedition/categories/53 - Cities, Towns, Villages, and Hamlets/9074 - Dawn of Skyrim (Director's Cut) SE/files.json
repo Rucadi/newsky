@@ -1,0 +1,43 @@
+{
+  "Patch - Holidays": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "patch",
+      "file_id": 63737,
+      "file_name": "Patch - Holidays-9074-patch.7z",
+      "mod_id": 9074,
+      "hash": "sha256-cRezH+k9bUt+1emtxzq+6NK0XgqlW1OwnFT/Nqdq9wo="
+    }
+  },
+  "Patch - Storefront": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "patch",
+      "file_id": 63738,
+      "file_name": "Patch - Storefront-9074-patch.7z",
+      "mod_id": 9074,
+      "hash": "sha256-z4ZTvTdVP1y4vueHdLO2T42JZ/GvpEMOwPZtz2F17gQ="
+    }
+  },
+  "Dawn of Skyrim": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.5",
+      "file_id": 144970,
+      "file_name": "Dawn of Skyrim-9074-1-5-1591832820.7z",
+      "mod_id": 9074,
+      "hash": "sha256-w++si8IqfVsm6VOm3a+NbabbcwlOss6wE0bwkM7DYCQ="
+    },
+    "type": "primary"
+  },
+  "Update by KorruptkSwades": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.4a",
+      "file_id": 76006,
+      "file_name": "Update by KorruptkSwades-9074-1-4a-1545581318.7z",
+      "mod_id": 9074,
+      "hash": "sha256-vojzbJghrmy7aoe7/GfpYQ+54b4JGgoJ93+6LDwOweE="
+    }
+  }
+}

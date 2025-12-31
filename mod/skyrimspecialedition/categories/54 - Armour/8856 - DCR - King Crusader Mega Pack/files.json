@@ -1,0 +1,23 @@
+{
+  "Uncompressed 888 RGB .dds textures": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 22276,
+      "file_name": "Uncompressed 888 RGB .dds textures-8856-1-0.7z",
+      "mod_id": 8856,
+      "hash": "sha256-js41PYqCTiuxAwppdAVPLMGTX7yDCrHmPda4l2XrgB8="
+    }
+  },
+  "DCR_KingCrusaderMegaPack_SSE": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.6",
+      "file_id": 22538,
+      "file_name": "DCR_KingCrusaderMegaPack_SSE-8856-1-6.7z",
+      "mod_id": 8856,
+      "hash": "sha256-mS4lSg5eLxq11vXnwDe9u4C4iroKZL4bqxygkx4SbWI="
+    },
+    "type": "primary"
+  }
+}

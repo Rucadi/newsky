@@ -1,0 +1,83 @@
+{
+  "The Restless Dead SE v1.2.6": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.2.6",
+      "file_id": 572294,
+      "file_name": "The Restless Dead SE v1.2.6-94100-1-2-6-1734183378.7z",
+      "mod_id": 94100,
+      "hash": "sha256-hqx2ofgAk+O409yhiJIxO1bs2ljKFnlqGhFNEod242w="
+    },
+    "type": "primary"
+  },
+  "Patch - Even Better Quest Objectives": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.2.6",
+      "file_id": 587969,
+      "file_name": "Patch - Better Quest Objectives-94100-1-2-6-1737965092.7z",
+      "mod_id": 94100,
+      "hash": "sha256-yExL1QryWZQO03gBLNNbzLfLjSMvjZXjMduNH9hien8="
+    }
+  },
+  "Patch - King Priest": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.2.6",
+      "file_id": 591767,
+      "file_name": "Patch - King Priest-94100-1-2-6-1738855227.7z",
+      "mod_id": 94100,
+      "hash": "sha256-6hEHE/KxoWFnRwyj+TEKVxZGfCxPEA2jKmoZRMPseNU="
+    }
+  },
+  "Patch - Resident Evil Draugr": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.2.6",
+      "file_id": 595819,
+      "file_name": "Patch - Resident Evil Draugr-94100-1-2-6-1739794855.7z",
+      "mod_id": 94100,
+      "hash": "sha256-mxVddHH+WWwbqd3zufJoCZgh6ivx6DIP24ZxuIlxuTg="
+    }
+  },
+  "Patch - Resident Evil Draugr - Nightmare": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.2.6",
+      "file_id": 595821,
+      "file_name": "Patch - Resident Evil Draugr - Nightmare-94100-1-2-6-1739794920.7z",
+      "mod_id": 94100,
+      "hash": "sha256-oR/BNH03MrkL2P2mu8arGAyAD8OTCJcg2W7/Chwjcpw="
+    }
+  },
+  "Patch - At Your Own Pace - Main Quest": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.2.6.1",
+      "file_id": 624013,
+      "file_name": "Patch - At Your Own Pace - Main Quest-94100-1-2-6-1-1746463663.7z",
+      "mod_id": 94100,
+      "hash": "sha256-JCw7Vy5jC3jg3wkmORa6rxz8+iOv3XI2hsxB5UghnoY="
+    }
+  },
+  "Patch - Not So Fast - Main Quest": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.2.6.1",
+      "file_id": 635811,
+      "file_name": "Patch - Not So Fast - Main Quest-94100-1-2-6-1-1749369366.7z",
+      "mod_id": 94100,
+      "hash": "sha256-Iimug4XE2WdkQqCb9LiFrMRZRLwfEcYdDA2lt6rxk3E="
+    }
+  },
+  "Patch - Lux": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.2.6.1",
+      "file_id": 636161,
+      "file_name": "Patch - Lux-94100-1-1-2-1-1749462286.7z",
+      "mod_id": 94100,
+      "hash": "sha256-qI4Zo+Wyr6D1i4cgrnElOZMjUY+JAIxN65Gw92lDB4o="
+    }
+  }
+}

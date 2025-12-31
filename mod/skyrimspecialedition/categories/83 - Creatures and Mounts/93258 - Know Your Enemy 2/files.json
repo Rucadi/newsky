@@ -1,0 +1,23 @@
+{
+  "KYE2 CACO patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1.2",
+      "file_id": 397026,
+      "file_name": "KYE2 CACO patch-93258-1-0-0-1686512686.rar",
+      "mod_id": 93258,
+      "hash": "sha256-knnCsyr7cbTSAsbg1neIuxQUDXzx2BlUnC83coha95Q="
+    }
+  },
+  "Know Your Enemy 2": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "2.1.0",
+      "file_id": 703122,
+      "file_name": "Know Your Enemy 2-93258-2-1-0-1766976489.rar",
+      "mod_id": 93258,
+      "hash": "sha256-YdU9CGK7yUlASDp9/Uyy9R1EvPcTfxpnWYgBCN91uCg="
+    },
+    "type": "primary"
+  }
+}

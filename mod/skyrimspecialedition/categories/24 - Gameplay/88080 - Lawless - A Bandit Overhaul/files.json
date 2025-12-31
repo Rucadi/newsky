@@ -1,0 +1,55 @@
+{
+  "Lawless Temporary Tint Facegen Fix": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 414718,
+      "file_name": "Lawless Temporary Tint Facegen Fix-88080-1-0-1691343966.rar",
+      "mod_id": 88080,
+      "hash": "sha256-8qMu1q71x0jjLP9uCWgxpeUCpFcf96kEcWik+grhxaM="
+    }
+  },
+  "Lawless A Bandit Overhaul": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "2.1.0",
+      "file_id": 473978,
+      "file_name": "Lawless A Bandit Overhaul-88080-2-1-0-1708766738.rar",
+      "mod_id": 88080,
+      "hash": "sha256-tMfDDl/HeWf9I/NSy5H69hSQ6YjZXpjpQRfDLA3YjMg="
+    },
+    "type": "primary"
+  },
+  "Lawless Expanded Enemy Coverage Addon": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "2.1.0",
+      "file_id": 473980,
+      "file_name": "Lawless Expanded Enemy Coverage Addon-88080-2-1-0-1708766803.rar",
+      "mod_id": 88080,
+      "hash": "sha256-FxntrB1MjkIu9gkhaxbXphSe4PFZ+NG91t0kecU3GFo="
+    },
+    "type": "primary"
+  },
+  "Lawless Simonrim": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "2.1.0",
+      "file_id": 473981,
+      "file_name": "Lawless Simonrim-88080-2-1-0-1708766827.rar",
+      "mod_id": 88080,
+      "hash": "sha256-H3ERLW+wpTmGZt4kWlMtntZMVMm/5GvqB2m33kT9Au8="
+    },
+    "type": "primary"
+  },
+  "Lawless Patch FOMOD": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "2.1.0",
+      "file_id": 473986,
+      "file_name": "Lawless Patch FOMOD-88080-2-1-0-1708767091.rar",
+      "mod_id": 88080,
+      "hash": "sha256-YDY6Hwno/zIi59mbS/+xhEIWWo1k450RiYSH4aUWAvI="
+    }
+  }
+}

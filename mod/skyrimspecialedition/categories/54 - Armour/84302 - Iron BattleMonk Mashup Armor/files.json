@@ -1,0 +1,23 @@
+{
+  "Texture patch for Open helmet": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 373126,
+      "file_name": "Texture patch for Open helmet-84302-1-0-1680111971.7z",
+      "mod_id": 84302,
+      "hash": "sha256-NRNfUAAyzctZ9OJB+p2++LYNcWTkgIwKeFQm/R+nlzk="
+    }
+  },
+  "BattleMonk Armor 2.0": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "2.0",
+      "file_id": 377020,
+      "file_name": "BattleMonk Armor 2.0-84302-2-0-1681134206.7z",
+      "mod_id": 84302,
+      "hash": "sha256-+IcKplyR0WGh5Y84eqNrrlEJaMZI/w/Rw0OG5IEo914="
+    },
+    "type": "primary"
+  }
+}

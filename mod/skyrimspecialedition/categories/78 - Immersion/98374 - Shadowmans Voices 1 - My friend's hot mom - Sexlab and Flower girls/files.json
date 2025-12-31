@@ -1,0 +1,105 @@
+{
+  "friendsmom_Amy_FG": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "A",
+      "file_id": 417466,
+      "file_name": "friendsmom_Amy_FG-98374-A-1692136197.rar",
+      "mod_id": 98374,
+      "hash": "sha256-Q7cvuV69yURoO3qYpP08WwpCWCh0YtTXLCJCdsItLLY="
+    }
+  },
+  "shadowman_friendsmom_SL": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1",
+      "file_id": 417574,
+      "file_name": "shadowman_friendsmom_SL-98374-1-1-1692175753.rar",
+      "mod_id": 98374,
+      "hash": "sha256-4E3nbtIX3ZLZA8zF/Zy7vmg9Nsd/94NESPaJCmwER4E="
+    },
+    "type": "primary"
+  },
+  "shadowman_friendsmom_FG": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1",
+      "file_id": 417575,
+      "file_name": "shadowman_friendsmom_FG-98374-1-1-1692176062.rar",
+      "mod_id": 98374,
+      "hash": "sha256-qrAZn3/dL8tVrPDIThKZAYIxR26iCFzh5bWI64IbEwo="
+    },
+    "type": "primary"
+  },
+  "friendsmom_karin_sl": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "K",
+      "file_id": 423465,
+      "file_name": "friendsmom_karin_sl-98374-K-1693913486.rar",
+      "mod_id": 98374,
+      "hash": "sha256-8LA1peNHmAvePrzPHAx0YkijqGEB/jMnWJ4UP/Qk+f8="
+    }
+  },
+  "friendsmom_karin_fg": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "K",
+      "file_id": 426558,
+      "file_name": "friendsmom_karin_fg-98374-K-1694934418.rar",
+      "mod_id": 98374,
+      "hash": "sha256-8VtQL2DQNevCFgM9F1l9LOhyN8TbpGDVXM/Yg8WWjxQ="
+    }
+  },
+  "friendsmom_Shiva_sl": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "Sh",
+      "file_id": 427571,
+      "file_name": "friendsmom_Shiva_sl-98374-Sh-1695212836.rar",
+      "mod_id": 98374,
+      "hash": "sha256-29js0otyKKmPgCcNRrKsa+noZr/gyoKQTGpJyr8+9tE="
+    }
+  },
+  "friendsmom_celcia_sl": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "Ce",
+      "file_id": 430023,
+      "file_name": "friendsmom_celcia_sl-98374-Ce-1696076436.rar",
+      "mod_id": 98374,
+      "hash": "sha256-oBp1GpD5z0X5154Mo0q/+qxczZBwlYbDoV7PWRg0H6k="
+    }
+  },
+  "friendsmom_Deirdre_sl": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "D1",
+      "file_id": 449552,
+      "file_name": "friendsmom_Deirdre_sl-98374-D1-1701960057.rar",
+      "mod_id": 98374,
+      "hash": "sha256-jyyWUV7tqwNGQGa5+4oFsg/zKctPDzx3GKRppom5cXw="
+    }
+  },
+  "Friendsmom_nowarpaint": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "w",
+      "file_id": 450195,
+      "file_name": "Friendsmom_nowarpaint-98374-w-1702141745.rar",
+      "mod_id": 98374,
+      "hash": "sha256-2csvMr+/MZLPBGQQbcjalBMQdRYpm+0z+EIhv0MLQZY="
+    },
+    "type": "primary"
+  },
+  "friendsmom_Amy_SL": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "Am3",
+      "file_id": 450252,
+      "file_name": "friendsmom_Amy_SL-98374-Am3-1702155779.rar",
+      "mod_id": 98374,
+      "hash": "sha256-8/w7LheIRy6reyqiSaVe8CiE6dMM0Cn+0twSmz7exn4="
+    }
+  }
+}

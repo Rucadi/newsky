@@ -1,0 +1,23 @@
+{
+  "ahz Fleet Knight 1px Cubemap for ENB": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1",
+      "file_id": 411348,
+      "file_name": "ahz Fleet Knight 1px Cubemap for ENB-95009-1-1690517808.7z",
+      "mod_id": 95009,
+      "hash": "sha256-jmwt/sfQ7op798oLdyV8R71e+JhZsgiszZaPzTvqQcg="
+    }
+  },
+  "ahz Fleet Knight": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.2",
+      "file_id": 508498,
+      "file_name": "ahz Fleet Knight-95009-1-2-1717566267.7z",
+      "mod_id": 95009,
+      "hash": "sha256-UCvjqPep82Z6VluEAhBti78V+T4E9PrNHhLbbHmsmH4="
+    },
+    "type": "primary"
+  }
+}

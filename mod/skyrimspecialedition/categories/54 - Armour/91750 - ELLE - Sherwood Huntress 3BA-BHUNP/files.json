@@ -1,0 +1,24 @@
+{
+  "Sherwood Huntress 3BA": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1",
+      "file_id": 390097,
+      "file_name": "Sherwood Huntress 3BA-91750-1-1684578438.zip",
+      "mod_id": 91750,
+      "hash": "sha256-518nYSsTsqB4IVC32nBICgEXMAc5rFVcmBWJOqVkYjQ="
+    },
+    "type": "primary"
+  },
+  "Sherwood Huntress BHUNP V4": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.2",
+      "file_id": 390767,
+      "file_name": "Sherwood Huntress BHUNP V4-91750-1-2-1684739057.zip",
+      "mod_id": 91750,
+      "hash": "sha256-l+ykUau9qd2eeFr7S/n8x2hmSAjTT2qmHfaSNZbnQoQ="
+    },
+    "type": "primary"
+  }
+}

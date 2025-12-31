@@ -1,0 +1,24 @@
+{
+  "Eating Animations - Sweet and Such": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1",
+      "file_id": 406609,
+      "file_name": "Eating Animations - Sweet and Such-95746-1-1689243728.rar",
+      "mod_id": 95746,
+      "hash": "sha256-BKxeQtNL1me0H62eCV3bHT2uVgtLZkuX39GJ1gi+1wU="
+    },
+    "type": "primary"
+  },
+  "Eating Animations - Xelzaz": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1",
+      "file_id": 406611,
+      "file_name": "Eating Animations - Xelzaz-95746-1-1689243765.rar",
+      "mod_id": 95746,
+      "hash": "sha256-wMQdc1dK4jXYp8JQ43v9YEFTj1rw054vD7bAqt7Zc8s="
+    },
+    "type": "primary"
+  }
+}

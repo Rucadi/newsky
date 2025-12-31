@@ -1,0 +1,23 @@
+{
+  "Scaffolding Over Sovngarde": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 415330,
+      "file_name": "Scaffolding Over Sovngarde-97909-1-0-1691533748.rar",
+      "mod_id": 97909,
+      "hash": "sha256-OBqLpreAkxQfpifM6An/8zC232mAaYTMXtsoxu7S9nI="
+    },
+    "type": "primary"
+  },
+  "Scaffolding Over Sovngarde - High Poly": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.2",
+      "file_id": 415755,
+      "file_name": "Scaffolding Over Sovngarde - High Poly-97909-1-2-1691669896.rar",
+      "mod_id": 97909,
+      "hash": "sha256-g1uPRNYD6el/5JlrNcMyCDY6SoURYpEhUEMz1e43r0E="
+    }
+  }
+}

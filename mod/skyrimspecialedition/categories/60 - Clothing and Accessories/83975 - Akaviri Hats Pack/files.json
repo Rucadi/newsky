@@ -1,0 +1,24 @@
+{
+  "Akaviri Hats Pack - 2K": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1",
+      "file_id": 651407,
+      "file_name": "Akaviri Hats Pack - 2K-83975-1-1-1753899584.zip",
+      "mod_id": 83975,
+      "hash": "sha256-+qd8zXEvfGYeRLTWO2dWEzkdx8xFlapXI1Jl45g6TCU="
+    },
+    "type": "primary"
+  },
+  "Akaviri Hats Pack - 4K": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1",
+      "file_id": 651409,
+      "file_name": "Akaviri Hats Pack - 4K-83975-1-1-1753899647.zip",
+      "mod_id": 83975,
+      "hash": "sha256-NHoGVVBp5Sef5teB2fDPc4xDszJDYCVLYTjR7/ddmEE="
+    },
+    "type": "primary"
+  }
+}

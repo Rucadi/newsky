@@ -1,0 +1,55 @@
+{
+  "1k-512 Textures for Mashed Potatoes": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 355571,
+      "file_name": "1k-512 Textures for Mashed Potatoes-81987-1-0-1675357490.7z",
+      "mod_id": 81987,
+      "hash": "sha256-lb2IlYcjRmCuJeWA8AQsPGDVYCE1YowAYffW0a5f3CA="
+    }
+  },
+  "2k-1k Textures for Baked Potatoes": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 355580,
+      "file_name": "2k-1k Textures for Baked Potatoes-81987-1-0-1675360489.7z",
+      "mod_id": 81987,
+      "hash": "sha256-OA7gzBJBwAjcd7rwdmoDmXJl91PvmMMgaIMcUEAD9JQ="
+    }
+  },
+  "Pit Fighter Revamped Textures 2K": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 355588,
+      "file_name": "Pit Fighter Revamped Textures 2K-81987-1-0-1675363125.7z",
+      "mod_id": 81987,
+      "hash": "sha256-a0P94EZ2KGlBq0+4VxrKAtBW1aum9dOdgrz0Zt0tMLM="
+    },
+    "type": "primary"
+  },
+  "Pit Fighter Revamped Textures 4K": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 355660,
+      "file_name": "Pit Fighter Revamped Textures 4K-81987-1-0-1675385939.7z",
+      "mod_id": 81987,
+      "hash": "sha256-mO7YZtxly0iFaie7YS8+xqpujdlY/siMBJfzmzlqbYI="
+    },
+    "type": "primary"
+  },
+  "Pit Fighter Revamped Textures 4KPit Fighter Revamped Textures 4k-2k": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 355661,
+      "file_name": "Pit Fighter Revamped Textures 4KPit Fighter Revamped Textures 4k-2k-81987-1-0-1675385940.7z",
+      "mod_id": 81987,
+      "hash": "sha256-5w+m5jDDBVvKKoUKr9At/HnaFIwCuQQTLRB/ntHFQ8o="
+    },
+    "type": "primary"
+  }
+}

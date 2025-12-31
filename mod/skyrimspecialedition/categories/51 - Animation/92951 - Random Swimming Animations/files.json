@@ -1,0 +1,23 @@
+{
+  "Random Swimming Animations - With Vanilla": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.2",
+      "file_id": 407142,
+      "file_name": "Random Swimming Animations - With Vanilla-92951-1-2-1689392206.7z",
+      "mod_id": 92951,
+      "hash": "sha256-+Q1Z8W4B19dKTzezcqovJJSkytkdGhOmNSfcA/esf84="
+    }
+  },
+  "Random Swimming Animations - No Vanilla": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.2",
+      "file_id": 410020,
+      "file_name": "Random Swimming Animations - No Vanilla-92951-1-2-1690153508.7z",
+      "mod_id": 92951,
+      "hash": "sha256-eqIXWFMofLQuDZ9092Y4m2Qtb6QATM3p/exBO/ZdXLk="
+    },
+    "type": "primary"
+  }
+}

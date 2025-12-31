@@ -1,0 +1,23 @@
+{
+  "Immortal Remnant - NPC Armors (SPID)": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 401746,
+      "file_name": "Immortal Remnant - NPC Armors (SPID)-94500-1-0-1687920291.7z",
+      "mod_id": 94500,
+      "hash": "sha256-nVQIsC90IukMbrsNEr+bJMOanHA5sTeNYk2VSAqM2dQ="
+    },
+    "type": "primary"
+  },
+  "CB Remnant - Redguard Elite NPC Changes": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 401747,
+      "file_name": "CB Remnant - Redguard Elite NPC Changes-94500-1-0-1687920366.7z",
+      "mod_id": 94500,
+      "hash": "sha256-ClL47yZ1WZqKmYkNIuy6KkJ1cTG/9nCt/R4mK8SADvA="
+    }
+  }
+}

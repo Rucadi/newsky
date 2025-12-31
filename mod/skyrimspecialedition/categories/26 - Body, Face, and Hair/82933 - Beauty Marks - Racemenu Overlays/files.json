@@ -1,0 +1,35 @@
+{
+  "Beauty Marks 1K": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 351180,
+      "file_name": "Beauty Marks 1K-82933-1-0-1674180921.zip",
+      "mod_id": 82933,
+      "hash": "sha256-lryLZN1IMrjHr/J4NarlAbKx1WLzTZSeqrVVgd9jhEE="
+    },
+    "type": "primary"
+  },
+  "Beauty Marks 2K": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 351181,
+      "file_name": "Beauty Marks 2K-82933-1-0-1674180975.zip",
+      "mod_id": 82933,
+      "hash": "sha256-6OThjVA3XO82xQjUreHI+ECZg4/S9/yGLRmTnCNryyk="
+    },
+    "type": "primary"
+  },
+  "Beauty Marks 4K": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 351182,
+      "file_name": "Beauty Marks 4K-82933-1-0-1674181045.zip",
+      "mod_id": 82933,
+      "hash": "sha256-fmRPE277hCCoz94Y2nAlbHRPIV+g1FT0XT007ThhSiM="
+    },
+    "type": "primary"
+  }
+}

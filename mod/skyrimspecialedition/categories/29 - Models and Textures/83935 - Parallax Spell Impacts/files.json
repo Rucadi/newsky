@@ -1,0 +1,33 @@
+{
+  "Parallax Spell Impacts Voltage Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "2.0",
+      "file_id": 533217,
+      "file_name": "Parallax Spell Impacts Voltage Patch-83935-2-0-1724094610.7z",
+      "mod_id": 83935,
+      "hash": "sha256-cwQQkdPW8ldxwzb9nlU2OcTf6JRtz+gvZpu87XBgzDc="
+    }
+  },
+  "Parallax Spell Impacts Thunderbolt HD Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "2.0",
+      "file_id": 533219,
+      "file_name": "Parallax Spell Impacts Thunderbolt HD-83935-2-0-1724094824.7z",
+      "mod_id": 83935,
+      "hash": "sha256-vpi0uhiA/inzsYBxP4hHoPl9lFIbZ1NA+scRVn0QrfY="
+    }
+  },
+  "Parallax Spell Impacts": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "2.1",
+      "file_id": 537286,
+      "file_name": "Parallax Spell Impacts-83935-2-1-1725129756.7z",
+      "mod_id": 83935,
+      "hash": "sha256-r/RB2CFMMgfrLrw7ntjBV02iN44iqErQeU2eYEPj/QY="
+    },
+    "type": "primary"
+  }
+}

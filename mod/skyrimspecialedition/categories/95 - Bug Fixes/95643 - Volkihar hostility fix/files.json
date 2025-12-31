@@ -1,0 +1,23 @@
+{
+  "Volkihar hostility fix": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0.0",
+      "file_id": 406279,
+      "file_name": "Volkihar hostility fix-95643-1-0-0-1689111926.zip",
+      "mod_id": 95643,
+      "hash": "sha256-HsBYpQlj5mZmXqPxVw1IWbI9h07llqbKXLD8NPYYetw="
+    },
+    "type": "primary"
+  },
+  "Volkihar hostility fix - no quest": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0.0",
+      "file_id": 406487,
+      "file_name": "Volkihar hostility fix - no quest-95643-1-0-0-1689188962.zip",
+      "mod_id": 95643,
+      "hash": "sha256-dTrFYCTWgkxjCzfyEyY4AJw8Q8yXSXOSBv2Bi1QcxT4="
+    }
+  }
+}

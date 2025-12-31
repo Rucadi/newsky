@@ -1,0 +1,76 @@
+{
+  "2-4k. New Spriggans SFW V1": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0.0",
+      "file_id": 396828,
+      "file_name": "2-4k. New Spriggans SFW V1-93068-1-0-0-1686468488.zip",
+      "mod_id": 93068,
+      "hash": "sha256-Ou8hD8rCz6gb+TqiW0CFX4JGxd2AH4SbZ9xoHy7OK0E="
+    },
+    "type": "primary"
+  },
+  "2-4k. New Spriggans SFW V2": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0.0",
+      "file_id": 396830,
+      "file_name": "2-4k. New Spriggans SFW V2-93068-1-0-0-1686468522.zip",
+      "mod_id": 93068,
+      "hash": "sha256-jm/Egj67uudRq+xxEIMk6fv2AwAYbJQrGmAx+o2/ypc="
+    },
+    "type": "primary"
+  },
+  "2-4k. New Spriggans SFW V3": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0.0",
+      "file_id": 396832,
+      "file_name": "2-4k. New Spriggans SFW V3-93068-1-0-0-1686468555.zip",
+      "mod_id": 93068,
+      "hash": "sha256-rWgWYRGYrr23XCrZn3hyGbyI0+t39SDOpyaX1R9PJLw="
+    },
+    "type": "primary"
+  },
+  "1-2k. New Spriggans SFW V1": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0.0",
+      "file_id": 396833,
+      "file_name": "1-2k. New Spriggans SFW V1-93068-1-0-0-1686468590.zip",
+      "mod_id": 93068,
+      "hash": "sha256-+AfOma7v2laPpQwtOJ3J/g9KXc7CFmeqh7zJ2pLiDV4="
+    }
+  },
+  "1-2k. New Spriggans SFW V2": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0.0",
+      "file_id": 396834,
+      "file_name": "1-2k. New Spriggans SFW V2-93068-1-0-0-1686468615.zip",
+      "mod_id": 93068,
+      "hash": "sha256-0TeBVCo7Enj9vAvlTozdz0WubSg6IKDACSO9Xsktl0U="
+    }
+  },
+  "1-2k. New Spriggans SFW V3": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0.0",
+      "file_id": 396835,
+      "file_name": "1-2k. New Spriggans SFW V3-93068-1-0-0-1686468636.zip",
+      "mod_id": 93068,
+      "hash": "sha256-hEpqt6Fg2m/zKAPlG5WODQfWY9rad18MMALxihWushU="
+    }
+  },
+  "Optional. New Matron sfw": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0.0",
+      "file_id": 396836,
+      "file_name": "Optional. New Matron sfw-93068-1-0-0-1686468702.zip",
+      "mod_id": 93068,
+      "hash": "sha256-FZyIK5p4OUyLyTUuVaNaxVcj4xWdVYU0lMf5zXn5QLM="
+    },
+    "type": "primary"
+  }
+}

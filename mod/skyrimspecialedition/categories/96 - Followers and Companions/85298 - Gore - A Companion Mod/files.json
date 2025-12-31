@@ -1,0 +1,33 @@
+{
+  "Gore - Paarthurnax Quest Expansion Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1",
+      "file_id": 459771,
+      "file_name": "Gore - Paarthurnax Quest Expansion Patch-85298-1-1704845961.7z",
+      "mod_id": 85298,
+      "hash": "sha256-sVieC9IgO/V/0uLvQaRY4Q+MDKK9gJ5bGC0ZwZzgh1w="
+    }
+  },
+  "Gore - Sassy Salt and Wind Retexture": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1",
+      "file_id": 681712,
+      "file_name": "Gore - Sassy Salt and Wind Retexture-85298-1-1761771537.zip",
+      "mod_id": 85298,
+      "hash": "sha256-wlIci+1h+hwA0XSVwjknL32oW2RJ1k70QyAUNsm9nDw="
+    }
+  },
+  "Gore -  A Companion Mod": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.8.18",
+      "file_id": 702357,
+      "file_name": "Gore -  A Companion Mod-85298-1-8-18-1766791580.zip",
+      "mod_id": 85298,
+      "hash": "sha256-9pUzolGigB9ofterEljMV26m0shDiKyxBO1iJvo0ZnU="
+    },
+    "type": "primary"
+  }
+}

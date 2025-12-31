@@ -1,0 +1,44 @@
+{
+  "Moon Monk's Robes - CBBE Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 348507,
+      "file_name": "Moon Monk's Robes - CBBE Patch-82495-1-0-1673410526.zip",
+      "mod_id": 82495,
+      "hash": "sha256-xrYs1tdGvY1iu344sZrDMCdpzUq5bfOoMeEBu3Lk5Qo="
+    }
+  },
+  "Book Requirement Remover": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1",
+      "file_id": 563337,
+      "file_name": "Book Requirement Remover-82495-1-1-1731868802.zip",
+      "mod_id": 82495,
+      "hash": "sha256-EPTffQVXRsZnvFWsMNSMHbBNodJhC+ytsgOaFE8aMGk="
+    }
+  },
+  "Moon Monk's Robes - 4K": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.2",
+      "file_id": 563339,
+      "file_name": "Moon Monk's Robes - 4K-82495-1-2-1731868984.zip",
+      "mod_id": 82495,
+      "hash": "sha256-qte+7Xk8Er/SNAnPP5wDzDv+mFddeXi+p9Sd5VSG7bA="
+    },
+    "type": "primary"
+  },
+  "Moon Monk's Robes - 2K": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.2",
+      "file_id": 563342,
+      "file_name": "Moon Monk's Robes - 2K-82495-1-2-1731869060.zip",
+      "mod_id": 82495,
+      "hash": "sha256-K1W7fi0Ic8yMKaXZzk9FdN+UfW5+KlSyggtlDBUct2w="
+    },
+    "type": "primary"
+  }
+}

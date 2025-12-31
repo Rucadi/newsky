@@ -1,0 +1,24 @@
+{
+  "Vampire Clothing Expansion-3BA BodySlide-v3": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "v3",
+      "file_id": 529812,
+      "file_name": "Vampire Clothing Expansion-3BA BodySlide-v3-98772-v3-1723202481.rar",
+      "mod_id": 98772,
+      "hash": "sha256-S3/HRdnRcTNNx/O3fja1zMQOdM/+8Vbds7KXKji/enM="
+    },
+    "type": "primary"
+  },
+  "Vampire Armor Expansion-3BA BodySlide-v7": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "v7",
+      "file_id": 529813,
+      "file_name": "Vampire Armor Expansion-3BA BodySlide-v7-98772-v7-1723202545.rar",
+      "mod_id": 98772,
+      "hash": "sha256-OZzCXyHo83rlDSKWUH9nnShvnihBRVV0Owrv9G5R6bA="
+    },
+    "type": "primary"
+  }
+}

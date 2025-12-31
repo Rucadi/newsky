@@ -1,0 +1,54 @@
+{
+  "Sinding prison anims - Ring only": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.5.0.1",
+      "file_id": 412394,
+      "file_name": "Sinding prison anim - Ring only-96926-1-5-0-1-1690741100.zip",
+      "mod_id": 96926,
+      "hash": "sha256-4aFerJMv05lKp6S5PWXyMf1PGsOHn1/oF0ndGwlLDbI="
+    },
+    "type": "primary"
+  },
+  "Sinding prison anims - Main mod": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.5.1",
+      "file_id": 412415,
+      "file_name": "Sinding prison anims-96926-1-5-1-1690743610.zip",
+      "mod_id": 96926,
+      "hash": "sha256-aQXCpIZA+pbKtF3FD6Xe+a8htiMitAI4z30S3Y1f7qY="
+    },
+    "type": "primary"
+  },
+  "Ring of Hircine Replacer patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.5.1",
+      "file_id": 413202,
+      "file_name": "Ring of Hircine Replacer patch-96926-1-5-1-1690924403.zip",
+      "mod_id": 96926,
+      "hash": "sha256-grQHfCBCxeGCBXzpdH0yN361tYCpbGc3D912TJKLDwA="
+    }
+  },
+  "JS Unique Utopia Rings patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.5.1",
+      "file_id": 556135,
+      "file_name": "JS Unique Utopia Rings patch-96926-1-5-1-1730049869.zip",
+      "mod_id": 96926,
+      "hash": "sha256-mSf1bgKFt8So9Nu59CI32N7IOtaAFoiC+VW4cRCLzPc="
+    }
+  },
+  "Unique Voice for Sinding patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.5.2",
+      "file_id": 570173,
+      "file_name": "Unique Voice for Sinding patch-96926-1-5-2-1733624097.zip",
+      "mod_id": 96926,
+      "hash": "sha256-VjlR1NCs5GPrrKUjOFt/l/SHZ5cx+p9l5Xkrs+gSyHQ="
+    }
+  }
+}

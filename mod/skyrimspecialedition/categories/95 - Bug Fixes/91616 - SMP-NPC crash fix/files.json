@@ -1,13 +1,13 @@
 {
-    "SMP-NPC crash fix": {
-        "nexusmods": {
-            "game_name": "skyrimspecialedition",
-            "version": "1",
-            "file_id": 389370,
-            "file_name": "SMP-NPC crash fix-91616-1-1684409131.7z",
-            "mod_id": 91616,
-            "hash": "sha256-iHweSOWvJBxbdHnhpsPP/xS5hViKAAWGliFPWt8+RlQ="
-        },
-        "type": "primary"
-    }
+  "SMP-NPC crash fix": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1",
+      "file_id": 389370,
+      "file_name": "SMP-NPC crash fix-91616-1-1684409131.7z",
+      "mod_id": 91616,
+      "hash": "sha256-iHweSOWvJBxbdHnhpsPP/xS5hViKAAWGliFPWt8+RlQ="
+    },
+    "type": "primary"
+  }
 }

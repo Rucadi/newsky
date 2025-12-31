@@ -1,0 +1,33 @@
+{
+  "Favor Quests Separated - USSEP - SCW Finale Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0.4-FQS",
+      "file_id": 511604,
+      "file_name": "Favor Quests Separated - USSEP - SCW Finale Patch-81548-1-0-4-FQS-1718406597.zip",
+      "mod_id": 81548,
+      "hash": "sha256-26P/1CeWRK9ejTjd7LrE0fEHIZQxxKvsV7NROFfQiX0="
+    }
+  },
+  "Serious Civil War Finale Sieges": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0.5",
+      "file_id": 611398,
+      "file_name": "Serious Civil War Finale Sieges-81548-1-0-5-1743277043.zip",
+      "mod_id": 81548,
+      "hash": "sha256-5FEhFRcdSi8uDdkfDlSejBM3fNMtgIymyjjkRuSl/Xg="
+    },
+    "type": "primary"
+  },
+  "Clockwork - SCW Finale Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0.5",
+      "file_id": 611402,
+      "file_name": "Clockwork - SCW Finale Patch-81548-1-0-5-1743277122.zip",
+      "mod_id": 81548,
+      "hash": "sha256-kftKM4rNryKWkuNlo9m/EDNqizQI4i//967xou4QE7M="
+    }
+  }
+}

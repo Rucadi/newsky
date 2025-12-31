@@ -1,0 +1,35 @@
+{
+  "ElSopa - Skeleton Key Redone 4k": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 362066,
+      "file_name": "ElSopa - Skeleton Key Redone 4k-85504-1-0-1676996880.7z",
+      "mod_id": 85504,
+      "hash": "sha256-n+SLMDjP7B3BxV63MWUL7FkmvjvntbixubUvQS8DYQQ="
+    },
+    "type": "primary"
+  },
+  "ElSopa - Skeleton Key Redone 2k": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 362067,
+      "file_name": "ElSopa - Skeleton Key Redone 2k-85504-1-0-1676996898.7z",
+      "mod_id": 85504,
+      "hash": "sha256-uGeYMNtRrzvHwCA5L01mEmTU3u8hEDfglXSUgQcbTrY="
+    },
+    "type": "primary"
+  },
+  "ElSopa - Skeleton Key Redone 1k": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 362068,
+      "file_name": "ElSopa - Skeleton Key Redone 1k-85504-1-0-1676996919.7z",
+      "mod_id": 85504,
+      "hash": "sha256-NdY4vuwGzAt5avBpLEYMAqqGQZ1wdLS/GXe6KXh1ajQ="
+    },
+    "type": "primary"
+  }
+}

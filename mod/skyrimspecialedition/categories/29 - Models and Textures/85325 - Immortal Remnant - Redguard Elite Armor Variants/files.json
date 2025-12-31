@@ -1,0 +1,54 @@
+{
+  "Immortal Remnant - BC7 Vanilla Cube Maps": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.5",
+      "file_id": 398333,
+      "file_name": "Immortal Remnant - BC7 Vanilla Cube Maps-85325-1-5-1686928385.7z",
+      "mod_id": 85325,
+      "hash": "sha256-dcGMVCi5XwKchmSlt0YzaFBHWOjZF2aNysMHaVs2psk="
+    }
+  },
+  "Immortal Remnant - Redguard Elite Armor Replacer": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "2.0",
+      "file_id": 399754,
+      "file_name": "Immortal Remnant - Redguard Elite Armor Replacer-85325-2-0-1687401352.7z",
+      "mod_id": 85325,
+      "hash": "sha256-kY1/J5136Ps68Z3NUqswfLt19AcMIGoomxPRTc+JQFE="
+    },
+    "type": "primary"
+  },
+  "Immortal Remnant - Redguard Elite Armor Variants": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "2.1",
+      "file_id": 683393,
+      "file_name": "Immortal Remnant - Redguard Elite Armor Variants-85325-2-1-1762185792.7z",
+      "mod_id": 85325,
+      "hash": "sha256-FstFZntp12ZdmWkxLZjPwghlEEJ/6vFOVzuO30o9atc="
+    },
+    "type": "primary"
+  },
+  "Immortal Remnant - Remnant Armor Crafting Req": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "2.1",
+      "file_id": 683394,
+      "file_name": "Immortal Remnant - Remnant Armor Crafting Req-85325-2-1-1762186855.7z",
+      "mod_id": 85325,
+      "hash": "sha256-ToepzbR8K8aDhzVl+5i2HZ8uBPw/Oq87SDqmhtY6qfc="
+    }
+  },
+  "Immortal Remnant - Variants Crafting Req": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "2.1",
+      "file_id": 683395,
+      "file_name": "Immortal Remnant - Variants Crafting Req-85325-2-1-1762186931.7z",
+      "mod_id": 85325,
+      "hash": "sha256-VD9ALZ2BL0AMqaXS/uQ6AiTFbTw2Bu5Kf314E48N/d4="
+    }
+  }
+}

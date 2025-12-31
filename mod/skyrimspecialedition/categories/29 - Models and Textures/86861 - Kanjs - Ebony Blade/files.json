@@ -1,0 +1,35 @@
+{
+  "Kanjs - Ebony Blade 2k": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1",
+      "file_id": 367749,
+      "file_name": "Kanjs - Ebony Blade 2k-86861-1-1678600916.zip",
+      "mod_id": 86861,
+      "hash": "sha256-uqdHSt7s9KDXMaGLptpqc11ceQCG9EzVnLVyxvEt/OE="
+    },
+    "type": "primary"
+  },
+  "Kanjs - Ebony Blade 4k": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1",
+      "file_id": 367750,
+      "file_name": "Kanjs - Ebony Blade 4k-86861-1-1678600927.zip",
+      "mod_id": 86861,
+      "hash": "sha256-UZKQ0tcDgd/ZAmVVyHNZCMygTZ3NGjpcO0hW48aDfIo="
+    },
+    "type": "primary"
+  },
+  "Kanjs - Ebony Blade SE Meshe": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1",
+      "file_id": 367751,
+      "file_name": "Kanjs - Ebony Blade SE Meshe-86861-1-1678600941.zip",
+      "mod_id": 86861,
+      "hash": "sha256-bPqDBWf0yzRXELp727E7C5jdK9PsDfOR/RyZEqBYPog="
+    },
+    "type": "primary"
+  }
+}

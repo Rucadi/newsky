@@ -1,13 +1,13 @@
 {
-    "SPID - NFF - Add Ignore Token to CustomAI Follower": {
-        "nexusmods": {
-            "game_name": "skyrimspecialedition",
-            "version": "1.0.46",
-            "file_id": 615740,
-            "file_name": "SPID - NFF - Add Ignore Token to CustomAI Follower-82945-1-0-46-1744278201.zip",
-            "mod_id": 82945,
-            "hash": "sha256-1EE6vyL4woay4sTCIAqfh3P+4uoLuFyNIcRIr7dnzUw="
-        },
-        "type": "primary"
-    }
+  "SPID - NFF - Add Ignore Token to CustomAI Follower": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0.46",
+      "file_id": 615740,
+      "file_name": "SPID - NFF - Add Ignore Token to CustomAI Follower-82945-1-0-46-1744278201.zip",
+      "mod_id": 82945,
+      "hash": "sha256-1EE6vyL4woay4sTCIAqfh3P+4uoLuFyNIcRIr7dnzUw="
+    },
+    "type": "primary"
+  }
 }

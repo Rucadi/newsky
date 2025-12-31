@@ -1,0 +1,96 @@
+{
+  "ALT - Barrels - 4K": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0.2",
+      "file_id": 406372,
+      "file_name": "ALT - Barrels - 4K-95475-1-0-1-1689158373.7z",
+      "mod_id": 95475,
+      "hash": "sha256-oG9ziph2XKZSSyYEpCMXhSo/N9pJlKGEHe64rRQk0G8="
+    },
+    "type": "primary"
+  },
+  "ALT - Barrels - 2K": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0.2",
+      "file_id": 406374,
+      "file_name": "ALT - Barrels - 2K-95475-1-0-1-1689158705.7z",
+      "mod_id": 95475,
+      "hash": "sha256-vcqR/1TqvR2lR6WKarIj8wmLlVJSt9t5hXeKNPJQ0I4="
+    },
+    "type": "primary"
+  },
+  "ALT - Barrels - Meadery Logo - 4K": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0.1",
+      "file_id": 406375,
+      "file_name": "ALT - Barrels - Meadery Logo - 4K-95475-1-0-1-1689159217.7z",
+      "mod_id": 95475,
+      "hash": "sha256-Yj1TwsD5TwEJXaBd7hZICSzgGNsJ0Qf3cahKFCK/arw="
+    }
+  },
+  "ALT - Barrels - Meadery Logo - 2K": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0.1",
+      "file_id": 406376,
+      "file_name": "ALT - Barrels - Meadery Logo - 2K-95475-1-0-1-1689159292.7z",
+      "mod_id": 95475,
+      "hash": "sha256-LYX+BT/ympP2fbSiYEkvQm4nT9oC45Cx37JQJr7eIrM="
+    }
+  },
+  "ALT - Barrels - Diversity - BOS - DTA PATCH": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0.1",
+      "file_id": 406433,
+      "file_name": "ALT - Barrels - Diversity - BOS - DTA PATCH-95475-1-0-1-1689173303.7z",
+      "mod_id": 95475,
+      "hash": "sha256-tB60PU0bvQdijtNg+ff5D8Z8+4vm1RIiI0N7k3/6AwU="
+    }
+  },
+  "ALT - Barrels - Diversity - BOS - 4K": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0.2",
+      "file_id": 407228,
+      "file_name": "ALT - Barrels - Diversity - BOS - 4K-95475-1-0-2-1689416708.7z",
+      "mod_id": 95475,
+      "hash": "sha256-Fp/uzsgbMJFYRgtnIsZF3VhDq4cTIGKvUuwGx2R6Gkw="
+    },
+    "type": "primary"
+  },
+  "ALT - Barrels - Diversity - BOS - 2K": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0.2",
+      "file_id": 407229,
+      "file_name": "ALT - Barrels - Diversity - BOS - 2K-95475-1-0-2-1689416918.7z",
+      "mod_id": 95475,
+      "hash": "sha256-leDxt+0U0CBNAl05X+8tElkvytIYq/s8Q8flqmQRKIg="
+    },
+    "type": "primary"
+  },
+  "ALT - Barrels - Animated Meshes": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0.2",
+      "file_id": 426610,
+      "file_name": "ALT - Barrels - Animated Meshes-95475-1-0-2-1694950896.7z",
+      "mod_id": 95475,
+      "hash": "sha256-+YQ6uXEkRC76W1fDOhaKAh5MM88Vom1FEKUEQSbjobE="
+    }
+  },
+  "ALT - Barrels - Animated Meshes - Diversity": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0.2",
+      "file_id": 426611,
+      "file_name": "ALT - Barrels - Animated Meshes - Diversity-95475-1-0-2-1694950938.7z",
+      "mod_id": 95475,
+      "hash": "sha256-mjt8Eyg7z7TDvtK7BoUNLn5ANiNG/nTAbqw/mQnHfaA="
+    }
+  }
+}

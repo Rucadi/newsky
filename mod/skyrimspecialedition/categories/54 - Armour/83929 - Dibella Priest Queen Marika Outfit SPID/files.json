@@ -1,0 +1,44 @@
+{
+  "Queen Marika SPID": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1",
+      "file_id": 354927,
+      "file_name": "Queen Marika SPID-83929-1-1675167346.zip",
+      "mod_id": 83929,
+      "hash": "sha256-Dt24rzFJRDlBR0U3n+chhcmfK4nuFxDJSlqbAzpE15g="
+    },
+    "type": "primary"
+  },
+  "Queen Marika Outfit SFW": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1",
+      "file_id": 502961,
+      "file_name": "Queen Marika Outfit SFW-83929-1-1716174847.7z",
+      "mod_id": 83929,
+      "hash": "sha256-N43mt6dNJ29sVgytaPXsV5tRzg5by/w0QCCo9qYOwZw="
+    }
+  },
+  "Marika outfit-Armor and Clothing Extension Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1",
+      "file_id": 502963,
+      "file_name": "Marika outfit-Armor and Clothing Extension Patch-83929-1-1716174972.7z",
+      "mod_id": 83929,
+      "hash": "sha256-f2IG02DF1hSLaIMLaNyaVW/bMpF6jAAgZr4OqFHMBWM="
+    }
+  },
+  "Queen Marika Outfit Skypatcher version": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1",
+      "file_id": 502964,
+      "file_name": "Queen Marika Outfit Skypatcher version-83929-1-1716175090.7z",
+      "mod_id": 83929,
+      "hash": "sha256-jBmlviptEMHa+11VD+0wO5pvELpKi7sKJxplHs+gTBs="
+    },
+    "type": "primary"
+  }
+}

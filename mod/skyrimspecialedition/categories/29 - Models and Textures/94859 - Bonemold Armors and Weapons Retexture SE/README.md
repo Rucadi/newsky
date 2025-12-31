@@ -2,6 +2,8 @@
 - Author: Xavbio
 - Game: skyrimspecialedition
 - Mod Page: https://www.nexusmods.com/skyrimspecialedition/mods/94859
+
+
 **BONEMOLD ARMORS AND WEAPONS RETEXTURE SE**
   
 "*[i]What... never seen a Redoran Guard before?*[/i]"

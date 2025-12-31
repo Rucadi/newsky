@@ -2,6 +2,8 @@
 - Author: Hylios Sykes
 - Game: skyrimspecialedition
 - Mod Page: https://www.nexusmods.com/skyrimspecialedition/mods/83170
+
+
 [font=Cyrodiil]
 
 ﻿ **- Description -**

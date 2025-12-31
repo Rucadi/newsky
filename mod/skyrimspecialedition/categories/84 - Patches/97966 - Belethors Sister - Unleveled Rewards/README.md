@@ -2,6 +2,8 @@
 - Author: Ixion XVII
 - Game: skyrimspecialedition
 - Mod Page: https://www.nexusmods.com/skyrimspecialedition/mods/97966
+
+
 Previously the quest rewards and dividends were randomly distributed depending on player level. (scaling from level 1-40)
   
 The new values are distributed randomly between 5 values, regardless of player level.

@@ -1,0 +1,44 @@
+{
+  "Naz's Asset Collection - BHUNP": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1",
+      "file_id": 427489,
+      "file_name": "Naz's Asset Collection Bodyslides - BHUNP-91718-1-1-1695172787.rar",
+      "mod_id": 91718,
+      "hash": "sha256-iK3O71P5JtEWGzRT4Y5EFQddSmgezB67o84Up2Mbwdo="
+    },
+    "type": "primary"
+  },
+  "Naz's Asset Collection - 3BA": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1",
+      "file_id": 427490,
+      "file_name": "Naz's Asset Collection - 3BA-91718-1-1-1695172906.rar",
+      "mod_id": 91718,
+      "hash": "sha256-Xk4XV6emKUFwVDInPAoTvMIrT3Gcg9O/plgJUrDZKQM="
+    },
+    "type": "primary"
+  },
+  "Naz's Asset Collection Bodyslides - 3BA": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.2",
+      "file_id": 499885,
+      "file_name": "Naz's Asset Collection Bodyslides - 3BA-91718-1-2-1715376540.rar",
+      "mod_id": 91718,
+      "hash": "sha256-j0eEh+W507R4HcVKHR6EbMpIrewNihdjM7cK2HnIts8="
+    }
+  },
+  "Naz's Asset Collection Bodyslides - BHUNP": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.2",
+      "file_id": 499886,
+      "file_name": "Naz's Asset Collection Bodyslides - BHUNP-91718-1-2-1715376567.rar",
+      "mod_id": 91718,
+      "hash": "sha256-o2Jbq3TDS/zMfRtvPzcbGEsRJmfvs+YUOu2MTO+qkEA="
+    }
+  }
+}

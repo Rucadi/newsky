@@ -1,0 +1,24 @@
+{
+  "Milfactory Remastered - Serana": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.2FE",
+      "file_id": 453232,
+      "file_name": "Milfactory Remastered - Serana-92783-1-2FE-1702975395.zip",
+      "mod_id": 92783,
+      "hash": "sha256-TBVTtF7wCoLEBgpSz+93tyV1pAgdYYu/KEhSqaKUZyM="
+    },
+    "type": "primary"
+  },
+  "Milfactory Remastered - Valerica": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.2FE",
+      "file_id": 453233,
+      "file_name": "Milfactory Remastered - Valerica-92783-1-2FE-1702975422.zip",
+      "mod_id": 92783,
+      "hash": "sha256-qi20R450TvR7pbzf++htOcs8saJqqj4z/6Oi0kzug0M="
+    },
+    "type": "primary"
+  }
+}

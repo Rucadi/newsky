@@ -1,0 +1,24 @@
+{
+  "HDT Orc Helm": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "2.0",
+      "file_id": 356214,
+      "file_name": "HDT Orc Helm-84169-2-0-1675510967.7z",
+      "mod_id": 84169,
+      "hash": "sha256-z1C+27ZYCig2ynhGTZuoC/eM3LHkMkGgwyDL1EhY0C0="
+    },
+    "type": "primary"
+  },
+  "HDT Orc Helm Cathedral": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 429769,
+      "file_name": "HDT Orc Helm Cathedral-84169-1-0-1695984035.7z",
+      "mod_id": 84169,
+      "hash": "sha256-tjGLHwoxQqPhZMyy+Wd5TeomgATMWvfkiqGUJDlcIJ8="
+    },
+    "type": "primary"
+  }
+}

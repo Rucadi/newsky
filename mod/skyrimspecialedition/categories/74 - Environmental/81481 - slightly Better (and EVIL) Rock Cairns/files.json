@@ -1,0 +1,23 @@
+{
+  "Majestic Mountains Parallax Texture": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 368152,
+      "file_name": "Majestic Mountains Parallax Texture ALT - More subtle parallax-81481-1-0-1678705299.rar",
+      "mod_id": 81481,
+      "hash": "sha256-96mf59LJoIksLTHsvzXDjKLkfkQxbGJLBSkTYXwcX/0="
+    }
+  },
+  "slightly Better Rock Cairns AIO 2K": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.5",
+      "file_id": 641834,
+      "file_name": "slightly Better Rock Cairns AIO 2K-81481-1-5-1750938996.rar",
+      "mod_id": 81481,
+      "hash": "sha256-15cXqxILhcm010ScBcBwlHG+T+4X8zf8EfOQdA7YeP0="
+    },
+    "type": "primary"
+  }
+}

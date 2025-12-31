@@ -1,0 +1,33 @@
+{
+  "Conditional Expressions Extended": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "2.1.6",
+      "file_id": 650140,
+      "file_name": "Conditional Expressions Extended-91438-2-1-6-1753471986.zip",
+      "mod_id": 91438,
+      "hash": "sha256-nJ3IEb21UEkCQ+2t0wISTZmGxdQEDNw4xOzZQT+ovDA="
+    },
+    "type": "primary"
+  },
+  "Random emotions CEE patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0.0",
+      "file_id": 649777,
+      "file_name": "Random emotions CEE patch-91438-1-0-0-1753355396.zip",
+      "mod_id": 91438,
+      "hash": "sha256-FqLdJhVcN6t9/VSeWMY00IPIdFLMf1SZRJLusz27/R4="
+    }
+  },
+  "Random emotions followers CEE patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0.0",
+      "file_id": 649778,
+      "file_name": "Random emotions followers CEE patch-91438-1-0-0-1753355495.zip",
+      "mod_id": 91438,
+      "hash": "sha256-JRki/GDLQ1T0v4hsCefolsyTJ3q2K5/Qzgh1NWXV6Yk="
+    }
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "Subtle Feminine Carriage Sitting SE by Xtudo - DAR": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1",
+      "file_id": 405301,
+      "file_name": "Subtle Feminine Carriage Sitting SE by Xtudo - DAR-95413-1-1688858702.7z",
+      "mod_id": 95413,
+      "hash": "sha256-I/CbkAfUdB2JANwrxlgbofaBy8+KoXR7YguH/+kdnQY="
+    },
+    "type": "primary"
+  },
+  "Subtle Feminine Carriage Sitting SE by Xtudo - OAR": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1",
+      "file_id": 405302,
+      "file_name": "Subtle Feminine Carriage Sitting SE by Xtudo - OAR-95413-1-1688858721.7z",
+      "mod_id": 95413,
+      "hash": "sha256-G6WlsnCnUJeqYUZzCZYznik5xFgu1DrmTduUVS2/vhU="
+    },
+    "type": "primary"
+  },
+  "Subtle Carriage Sitting SE by Xtudo - Both Gen DAR": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1",
+      "file_id": 405500,
+      "file_name": "Subtle Carriage Sitting SE by Xtudo - Both Gen DAR-95413-1-1-1688906323.7z",
+      "mod_id": 95413,
+      "hash": "sha256-6u/xD631w+s/R5Bl0PHN3C3qcsscridjz8GZt7pCbd0="
+    }
+  },
+  "Subtle Carriage Sitting SE by Xtudo - Both Gen OAR": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1",
+      "file_id": 405501,
+      "file_name": "Subtle Carriage Sitting SE by Xtudo - Both Gen OAR-95413-1-1-1688906343.7z",
+      "mod_id": 95413,
+      "hash": "sha256-G6WlsnCnUJeqYUZzCZYznik5xFgu1DrmTduUVS2/vhU="
+    }
+  }
+}

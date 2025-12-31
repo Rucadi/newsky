@@ -1,0 +1,23 @@
+{
+  "Dawnguard Armors and Weapons Retexture SE": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 391867,
+      "file_name": "Dawnguard Armors and Weapons Retexture SE-92161-1-0-1685045655.rar",
+      "mod_id": 92161,
+      "hash": "sha256-MVy6JRd6c3Y6dX9MbFYtJGbjUtibD3/dNGCHsYv92hI="
+    },
+    "type": "primary"
+  },
+  "Dawnguard Armors and Weapons Retexture SE-Half Res": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 391871,
+      "file_name": "Dawnguard Armors and Weapons Retexture SE-Half Res-92161-1-0-1685046171.rar",
+      "mod_id": 92161,
+      "hash": "sha256-LtGjemDo4pFJd22ssHqmHKALpI7DZo5eeFsx5IU8i+c="
+    }
+  }
+}

@@ -2,6 +2,8 @@
 - Author: SlavicPotato
 - Game: skyrimspecialedition
 - Mod Page: https://www.nexusmods.com/skyrimspecialedition/mods/98308
+
+
 A SKSE64 plugin that adds new conditions to Open Animation Replacer for use with [Immersive Equipment Displays](https://www.nexusmods.com/skyrimspecialedition/mods/62001) and [Simple Dual Sheath](https://www.nexusmods.com/skyrimspecialedition/mods/50049). The main use case right now is playing different draw/sheathe animations based on where the gear is sheathed (style-fitting animations)
   
   

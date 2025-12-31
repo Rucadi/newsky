@@ -1,0 +1,23 @@
+{
+  "Dragonbroth Stew - Survival Mode": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0.0",
+      "file_id": 347671,
+      "file_name": "Dragonbroth Stew - Survival Mode-82297-1-0-0-1673126933.zip",
+      "mod_id": 82297,
+      "hash": "sha256-xin9kgA7fG3AsMD9ZRXHoyBX9Bak5tm+m1Rg8K3v/T8="
+    }
+  },
+  "Dragonbroth Stew": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0.1",
+      "file_id": 364214,
+      "file_name": "Dragonbroth Stew-82297-1-0-1-1677599464.zip",
+      "mod_id": 82297,
+      "hash": "sha256-L8H1LL4xqSZ/mOz+5Via7UrT3UjbeuZScNVNWlcrMSs="
+    },
+    "type": "primary"
+  }
+}

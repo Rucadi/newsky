@@ -1,0 +1,65 @@
+{
+  "The Night Mother Revoiced - Molly v3": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 395120,
+      "file_name": "The Night Mother Revoiced-92873-1-0-1685917128.zip",
+      "mod_id": 92873,
+      "hash": "sha256-4qIhs29i9ZTtBsbOFKIZ5wYO7rhT1oEmRhoSWQyC6Bg="
+    },
+    "type": "primary"
+  },
+  "The Night Mother Revoiced - Molly v4": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 395122,
+      "file_name": "The Night Mother Revoiced - Molly v4-92873-1-0-1685917232.zip",
+      "mod_id": 92873,
+      "hash": "sha256-OG//uItBMsNr+grv1EkCA+Vz6cA9XLjx/BwPCduwv+Y="
+    }
+  },
+  "The Night Mother Revoiced - Isabel v1": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 395123,
+      "file_name": "The Night Mother Revoiced - Isabel v1-92873-1-0-1685917326.zip",
+      "mod_id": 92873,
+      "hash": "sha256-q4zvmJZfpDSrFi7AqLYl4eszCCijgxGuQCJjZP8QgBU="
+    },
+    "type": "primary"
+  },
+  "The Night Mother Revoiced - Isabel v2": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 395124,
+      "file_name": "The Night Mother Revoiced - Isabel v2-92873-1-0-1685917373.zip",
+      "mod_id": 92873,
+      "hash": "sha256-OygwCe/Ejeb65tXr2JJ5tOBJfZ2Ow8EtQ6M4Sun66EM="
+    }
+  },
+  "The Night mother Revoiced - Molly v1": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 395125,
+      "file_name": "The Night mother Revoiced - Molly v1-92873-1-0-1685917428.zip",
+      "mod_id": 92873,
+      "hash": "sha256-dAuqPjMe0GFFzAjx5KiGP7wZR/7wX/Ygj55bpcpVAzc="
+    },
+    "type": "primary"
+  },
+  "The Night Mother Revoiced - Molly v2": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 395127,
+      "file_name": "The Night Mother Revoiced - Molly v2-92873-1-0-1685917465.zip",
+      "mod_id": 92873,
+      "hash": "sha256-doDTtKzftX6xiuYQM2swNBAMmPjTNUE7T3sEKE0rSBI="
+    }
+  }
+}

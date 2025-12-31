@@ -2,6 +2,8 @@
 - Author: Ixion XVII
 - Game: skyrimspecialedition
 - Mod Page: https://www.nexusmods.com/skyrimspecialedition/mods/87569
+
+
 **Fixes an issue with the mount gained from Devotee of Kynareth being unable to turn.
   
   

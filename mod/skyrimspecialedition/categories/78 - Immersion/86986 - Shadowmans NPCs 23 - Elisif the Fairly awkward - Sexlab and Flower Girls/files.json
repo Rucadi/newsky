@@ -1,0 +1,44 @@
+{
+  "shadowman_elisif_FG": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1",
+      "file_id": 368335,
+      "file_name": "shadowman_elisif_FG-86986-1-1678756618.rar",
+      "mod_id": 86986,
+      "hash": "sha256-a41QGNLeVBDgB+cdhu5jyuMsGdmRS+s2ttmLGXLzHqM="
+    },
+    "type": "primary"
+  },
+  "shadowman_elisif_SL": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1",
+      "file_id": 368571,
+      "file_name": "shadowman_elisif_SL-86986-1-1-1678825403.rar",
+      "mod_id": 86986,
+      "hash": "sha256-rQVQbHyRT+FNCdxqchQwGReGR3UDyGhkNIT1R0a7LBw="
+    },
+    "type": "primary"
+  },
+  "no bed teleport SL elisif": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "A",
+      "file_id": 378050,
+      "file_name": "no bed teleport SL elisif-86986-A-1681436252.rar",
+      "mod_id": 86986,
+      "hash": "sha256-TIGzEf13JB5CVMJGiGMB3D5la8FYbc2xRNAMCIHdTfQ="
+    }
+  },
+  "no bed teleport FG Elisif": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "A",
+      "file_id": 378051,
+      "file_name": "no bed teleport FG Elisif-86986-A-1681436300.rar",
+      "mod_id": 86986,
+      "hash": "sha256-SWv7OuXi4Er3jaOcB86QcpzdZhkZ7woOgm8PU0Sl9s4="
+    }
+  }
+}

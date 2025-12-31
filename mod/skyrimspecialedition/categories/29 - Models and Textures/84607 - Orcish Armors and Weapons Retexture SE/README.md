@@ -2,6 +2,8 @@
 - Author: Xavbio
 - Game: skyrimspecialedition
 - Mod Page: https://www.nexusmods.com/skyrimspecialedition/mods/84607
+
+
 **ORCISH ARMOR AND WEAPONS RETEXTURE SE**
   
   

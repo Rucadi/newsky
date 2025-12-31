@@ -1,0 +1,24 @@
+{
+  "Martianman686 Scripts - OStimNG": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1",
+      "file_id": 398425,
+      "file_name": "Martianman686 Scripts-89727-1-1686944188.rar",
+      "mod_id": 89727,
+      "hash": "sha256-J9l2EEtRg7j6klnPrNMU07yxK5afCnY4hoFMdUbvGRw="
+    },
+    "type": "primary"
+  },
+  "Martianman686 Scripts - OStim Standalone": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1",
+      "file_id": 420489,
+      "file_name": "Martianman686 Scripts - OStim Standalone-89727-1-1-1692991600.rar",
+      "mod_id": 89727,
+      "hash": "sha256-aB8rlLcTYtu1w8C3LtEX14kfG3pEf58VJawVZKR8aEQ="
+    },
+    "type": "primary"
+  }
+}

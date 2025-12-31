@@ -1,0 +1,73 @@
+{
+  "Font Pack - Not Vanilla": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.21",
+      "file_id": 509605,
+      "file_name": "Font Pack - Not Vanilla-97869-1-21-1717852841.rar",
+      "mod_id": 97869,
+      "hash": "sha256-cNRiFByzfU73xwVDyx17RXni1JcLw/AuFcn2uIGrAc0="
+    }
+  },
+  "Font Pack - Vanilla (AE)": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.21",
+      "file_id": 509606,
+      "file_name": "Font Pack - Vanilla-97869-1-21-1717852877.rar",
+      "mod_id": 97869,
+      "hash": "sha256-hoQvxquktlfkz8ypVXOIRtE8C47eWuhHWYhZj/wY0wY="
+    }
+  },
+  "Japanese Font Pack - Not Vanilla": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.21",
+      "file_id": 509607,
+      "file_name": "Japanese Font Pack - Not Vanilla-97869-1-21-1717852928.rar",
+      "mod_id": 97869,
+      "hash": "sha256-j0eLL4zPqvfX7rmzYGbMuR8Zc+FOUr/MaV/F8tPQbFI="
+    }
+  },
+  "Japanese Font Pack - Vanilla (AE)": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.21",
+      "file_id": 509608,
+      "file_name": "Japanese Font Pack - Vanilla-97869-1-21-1717852978.rar",
+      "mod_id": 97869,
+      "hash": "sha256-sOqLyjc9jBbSK9njbosN8eP50Z7RzFpzqZ4j+/7AUVg="
+    }
+  },
+  "Font Pack - Vanilla (SE)": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.22",
+      "file_id": 511966,
+      "file_name": "Font Pack - Vanilla (SE)-97869-1-22-1718510870.rar",
+      "mod_id": 97869,
+      "hash": "sha256-FTDJ/2Aq0qHepjhg2LwS0tNJUNPZ6DzLNGfYFvgohJE="
+    }
+  },
+  "Japanese Font Pack - Vanilla (SE)": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.22",
+      "file_id": 511967,
+      "file_name": "Japanese Font Pack - Vanilla (AE)-97869-1-22-1718510923.rar",
+      "mod_id": 97869,
+      "hash": "sha256-Bp6NnUEjAXWpWPHrlZHz7RLamcU5DHIxsCDaMV4uPJ8="
+    }
+  },
+  "Victory Screen and Fanfare": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.3",
+      "file_id": 536149,
+      "file_name": "Victory Screen and Fanfare-97869-1-3-1724853182.rar",
+      "mod_id": 97869,
+      "hash": "sha256-ZnmYBBkIbfC8R4SB+U1GM02vf9RL7u2MU/LaYyiLSj0="
+    },
+    "type": "primary"
+  }
+}

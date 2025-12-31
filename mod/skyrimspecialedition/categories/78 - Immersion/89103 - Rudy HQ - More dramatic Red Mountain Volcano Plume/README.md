@@ -2,6 +2,8 @@
 - Author: Rudy102
 - Game: skyrimspecialedition
 - Mod Page: https://www.nexusmods.com/skyrimspecialedition/mods/89103
+
+
 [font=Verdana]
   
 **This is some kind of a everlasting WIP project. At least until I get bored by this game ;)**[/font]

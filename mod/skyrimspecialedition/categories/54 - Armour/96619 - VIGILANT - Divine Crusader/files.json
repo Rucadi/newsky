@@ -1,0 +1,64 @@
+{
+  "VIGILANT - Divine Crusader Reshape Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1",
+      "file_id": 410735,
+      "file_name": "VIGILANT - Divine Crusader Reshape Patch-96619-1-1690345352.zip",
+      "mod_id": 96619,
+      "hash": "sha256-9zofPfxy+RzKbOSzmYRCvtJzb2S3QJl7BnDbO5PrNfk="
+    }
+  },
+  "Darker Original Crusader set and Chrysamere": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1",
+      "file_id": 410951,
+      "file_name": "Darker Original Crusader set and Chrysamere-96619-1-1690407265.zip",
+      "mod_id": 96619,
+      "hash": "sha256-tldEZbM/qk+zMYecC5xtjdXwqhkGiw3ZBweUbEw9Zn0="
+    }
+  },
+  "VIGILANT - Divine Crusader Integration": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.11",
+      "file_id": 517613,
+      "file_name": "VIGILANT - Divine Crusader Integration-96619-1-11-1720101028.zip",
+      "mod_id": 96619,
+      "hash": "sha256-fSlYB3Q+BPLF/gzun2t/EsJLhsZ5t7attqctF0BMRI8="
+    },
+    "type": "primary"
+  },
+  "VIGILANT - Divine Crusader Addon": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.11",
+      "file_id": 517615,
+      "file_name": "VIGILANT - Divine Crusader Addon-96619-1-11-1720101173.zip",
+      "mod_id": 96619,
+      "hash": "sha256-KVonyJItB3cTBpcVgdrVhCJsTmjOxyq95T1P4hcfbJM="
+    },
+    "type": "primary"
+  },
+  "VIGILANT - Divine Crusader Addon - Open Helmet": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1",
+      "file_id": 517616,
+      "file_name": "VIGILANT - Divine Crusader Addon - Open Helmet-96619-1-1720101241.zip",
+      "mod_id": 96619,
+      "hash": "sha256-fvpw5W2q2cmPdWrCw9n+VOYytDozGJPf6z8auJ1vOBw="
+    }
+  },
+  "VIGILANT - Divine Crusader Integration - Open Helm": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1",
+      "file_id": 517617,
+      "file_name": "VIGILANT - Divine Crusader Integration - Open Helm-96619-1-1720101274.zip",
+      "mod_id": 96619,
+      "hash": "sha256-6voWuM2NqD+uF1mkSMY7ZOc35Luvv1fI0x6ca/ibpWo="
+    }
+  }
+}

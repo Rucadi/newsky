@@ -1,33 +1,33 @@
 {
-    "OStim Tongues no SMP patch": {
-        "nexusmods": {
-            "game_name": "skyrimspecialedition",
-            "version": "1.0",
-            "file_id": 498355,
-            "file_name": "OStim Tongues no SMP patch-98163-1-0-1714975880.rar",
-            "mod_id": 98163,
-            "hash": "sha256-3xlQkOUGOxL1gW+qR3UlX7jZx+q4gvRcDQ4r75j/L90="
-        }
-    },
-    "OStim Lovense Add-On": {
-        "nexusmods": {
-            "game_name": "skyrimspecialedition",
-            "version": "1.2",
-            "file_id": 608505,
-            "file_name": "OStim Lovense Add-On-98163-1-2-1742670322.zip",
-            "mod_id": 98163,
-            "hash": "sha256-on056EB88+WBlz9PBaV81myQNpuM4lbbIlyM0tbzhtQ="
-        }
-    },
-    "OStim Standalone": {
-        "nexusmods": {
-            "game_name": "skyrimspecialedition",
-            "version": "7.3.5d",
-            "file_id": 684320,
-            "file_name": "OStim Standalone-98163-7-3-5d-1762425075.zip",
-            "mod_id": 98163,
-            "hash": "sha256-W7b7ORuhEp5D71sa3UaofpmfnA8YDqNva6d4nQtb0XI="
-        },
-        "type": "primary"
+  "OStim Tongues no SMP patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 498355,
+      "file_name": "OStim Tongues no SMP patch-98163-1-0-1714975880.rar",
+      "mod_id": 98163,
+      "hash": "sha256-3xlQkOUGOxL1gW+qR3UlX7jZx+q4gvRcDQ4r75j/L90="
     }
+  },
+  "OStim Lovense Add-On": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.2",
+      "file_id": 608505,
+      "file_name": "OStim Lovense Add-On-98163-1-2-1742670322.zip",
+      "mod_id": 98163,
+      "hash": "sha256-on056EB88+WBlz9PBaV81myQNpuM4lbbIlyM0tbzhtQ="
+    }
+  },
+  "OStim Standalone": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "7.3.5d",
+      "file_id": 684320,
+      "file_name": "OStim Standalone-98163-7-3-5d-1762425075.zip",
+      "mod_id": 98163,
+      "hash": "sha256-W7b7ORuhEp5D71sa3UaofpmfnA8YDqNva6d4nQtb0XI="
+    },
+    "type": "primary"
+  }
 }

@@ -1,0 +1,23 @@
+{
+  "Ill Met by Moonlight Fix": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "v1.0",
+      "file_id": 373861,
+      "file_name": "Ill Met by Moonlight Fix-88142-v1-0-1680309606.rar",
+      "mod_id": 88142,
+      "hash": "sha256-moXDBetjsHaTd+jjdzyp/FjWAmLobiU9U5dVNnvDP3Q="
+    },
+    "type": "primary"
+  },
+  "Moonlight Tales - Well Escape Animation Fix": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "v1.0",
+      "file_id": 414041,
+      "file_name": "Moonlight Tales - Well Escape Animation Fix-88142-v1-0-1691163381.rar",
+      "mod_id": 88142,
+      "hash": "sha256-yPS5wzYxL1igtRnr+ISRpjcS4tZeBoHpwFEiMjQqXWE="
+    }
+  }
+}

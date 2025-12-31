@@ -2,6 +2,8 @@
 - Author: Xavbio
 - Game: skyrimspecialedition
 - Mod Page: https://www.nexusmods.com/skyrimspecialedition/mods/84151
+
+
 **DAEDRIC ARMORS AND WEAPONS RETEXTURE SE﻿**
   
 *"The stories say that it should always be worked on at night..."*

@@ -1,0 +1,44 @@
+{
+  "Obi's Rogue Outfit 3BA 2k": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1",
+      "file_id": 422032,
+      "file_name": "Obi's Rogue Outfit 3BA 2k-99549-1-1-1693409162.zip",
+      "mod_id": 99549,
+      "hash": "sha256-ko0j6EYZqvjNDnNYkwhCFZ1WvCMroYS05AmPvtULTIY="
+    },
+    "type": "primary"
+  },
+  "White version": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.2",
+      "file_id": 423739,
+      "file_name": "White version-99549-1-2-1694004690.zip",
+      "mod_id": 99549,
+      "hash": "sha256-auPReqse0b2y9CKJ9jnPokySvWuB8ZYvPReV4rHKdU8="
+    }
+  },
+  "Shadows": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.2",
+      "file_id": 423754,
+      "file_name": "Shadows-99549-1-2-1694006790.zip",
+      "mod_id": 99549,
+      "hash": "sha256-P8zxDkqqWFgScRZzbKzbMCHDEWrebNVJpmVBv9OFsRc="
+    },
+    "type": "primary"
+  },
+  "Eyes only shadows": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.2",
+      "file_id": 423755,
+      "file_name": "Eyes only shadows-99549-1-2-1694006930.zip",
+      "mod_id": 99549,
+      "hash": "sha256-j5eZwimOCSz2mfpmkbl2cm93qAiGs6Z/xJe/8129g2w="
+    }
+  }
+}

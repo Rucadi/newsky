@@ -2,6 +2,8 @@
 - Author: Borgut1337
 - Game: skyrimspecialedition
 - Mod Page: https://www.nexusmods.com/skyrimspecialedition/mods/82774
+
+
 Optimised Scripts for XPMSSE
   
 [color=#00ffff]

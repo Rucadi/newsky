@@ -1,0 +1,24 @@
+{
+  "Lovely Makeup 2K": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 402036,
+      "file_name": "Lovely Makeup 2K-94271-1-0-1687994578.zip",
+      "mod_id": 94271,
+      "hash": "sha256-IoeUirAHNO+4ZCAvZRLZCvrH5nkWvuNn22Nf42+WCiw="
+    },
+    "type": "primary"
+  },
+  "Lovely Makeup 4K": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 402037,
+      "file_name": "Lovely Makeup 4K-94271-1-0-1687994612.zip",
+      "mod_id": 94271,
+      "hash": "sha256-dBUhNiS4Nl8GaQ5KUDg7XGnSSNrJeCu3B05NTKwYb6M="
+    },
+    "type": "primary"
+  }
+}

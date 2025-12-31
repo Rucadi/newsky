@@ -1,0 +1,23 @@
+{
+  "Custom Races - Patch Collection": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.5",
+      "file_id": 397037,
+      "file_name": "Custom Races - Patch Collection-91712-1-5-1686514121.zip",
+      "mod_id": 91712,
+      "hash": "sha256-W0iJl9K0CEcsoaMbmSIoBzhxmx+6xa09WJd47KkanyI="
+    },
+    "type": "primary"
+  },
+  "Ohmes-Raht - RBM - USMP - Left Hand Rings Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.5",
+      "file_id": 535525,
+      "file_name": "Ohmes-Raht - RBM - USMP - Left Hand Rings Patch-91712-1-5-1724679286.zip",
+      "mod_id": 91712,
+      "hash": "sha256-rd2h+S80bEcbukmcujR6ZSI7JYAlRLocnne0JK/yKzU="
+    }
+  }
+}

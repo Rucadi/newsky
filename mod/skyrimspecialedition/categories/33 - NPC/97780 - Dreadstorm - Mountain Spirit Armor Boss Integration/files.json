@@ -1,0 +1,35 @@
+{
+  "Dreadstorm - Normal": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 414872,
+      "file_name": "Dreadstorm - Normal-97780-1-0-1691386095.rar",
+      "mod_id": 97780,
+      "hash": "sha256-K+R94Kdlw4Vj0cOY7aCBvME3kP2LDlGRj3xpWKcuz1o="
+    },
+    "type": "primary"
+  },
+  "Dreadstorm - Normal Vanilla": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 414873,
+      "file_name": "Dreadstorm - Normal Vanilla-97780-1-0-1691386203.rar",
+      "mod_id": 97780,
+      "hash": "sha256-c8+Xo9/KC1UdHYJNDgHvta8znB187jImp7BtrXvUyV8="
+    },
+    "type": "primary"
+  },
+  "Dreadstorm - Dovahkiin and Friends Must Die": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 414874,
+      "file_name": "Dreadstorm - Dovahkiin and Friends Must Die-97780-1-0-1691386397.rar",
+      "mod_id": 97780,
+      "hash": "sha256-QOiEhfi2BmUIpewEAdysVxev1UhT0IcEHy1z9W4SasY="
+    },
+    "type": "primary"
+  }
+}

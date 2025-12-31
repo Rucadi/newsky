@@ -2,6 +2,8 @@
 - Author: Nightfallstorm
 - Game: skyrimspecialedition
 - Mod Page: https://www.nexusmods.com/skyrimspecialedition/mods/84909
+
+
   
 Inspired from [Learn Ingredients by MMX452](https://www.nexusmods.com/skyrimspecialedition/mods/80060), this mod takes an SKSE approach that works for all recipes with no need for patching!
   

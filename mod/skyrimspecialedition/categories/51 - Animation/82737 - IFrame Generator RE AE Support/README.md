@@ -2,6 +2,8 @@
 - Author: doodlum
 - Game: skyrimspecialedition
 - Mod Page: https://www.nexusmods.com/skyrimspecialedition/mods/82737
+
+
 **[b][size=3][b][size=3][Buy Maxsu a Coffee](https://ko-fi.com/maxsu2020)**
   
 [/size][/b]

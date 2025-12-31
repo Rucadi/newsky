@@ -1,0 +1,23 @@
+{
+  "Unfrozen - resources": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.10.4",
+      "file_id": 616625,
+      "file_name": "Unfrozen - resources-90846-1-10-4-1744516032.7z",
+      "mod_id": 90846,
+      "hash": "sha256-GGgbnIhOxnFEQa3++i3GqAmMD3i6Av4hQjt/Y5mM8Ys="
+    }
+  },
+  "Seasons - Additions": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.10.7",
+      "file_id": 651494,
+      "file_name": "Seasons - Additions-90846-1-10-7-1753918174.7z",
+      "mod_id": 90846,
+      "hash": "sha256-VPLOsLDIrHSaZ0MiLyOUzKF72SeRDQqRi7tM4wbTKI0="
+    },
+    "type": "primary"
+  }
+}

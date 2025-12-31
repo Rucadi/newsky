@@ -1,0 +1,24 @@
+{
+  "Broom of Magnificent Pixels - 2k": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1",
+      "file_id": 412503,
+      "file_name": "Broom of Magnificent Pixels - 2k-97220-1-1690756305.7z",
+      "mod_id": 97220,
+      "hash": "sha256-FctcyAyyJqkV5GLR/++CkyCIs885nCc5bcH8r4p0Utg="
+    },
+    "type": "primary"
+  },
+  "Broom of Magnificent Pixels - 4k": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1",
+      "file_id": 412504,
+      "file_name": "Broom of Magnificent Pixels - 4k-97220-1-1690756355.7z",
+      "mod_id": 97220,
+      "hash": "sha256-2GiqQtH5fYo2kRQxqqIe8VMS9cW1Uf8MZgjeCW5CxSw="
+    },
+    "type": "primary"
+  }
+}

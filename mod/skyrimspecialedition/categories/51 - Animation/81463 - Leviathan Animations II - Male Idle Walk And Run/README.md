@@ -2,6 +2,8 @@
 - Author: Verolevi
 - Game: skyrimspecialedition
 - Mod Page: https://www.nexusmods.com/skyrimspecialedition/mods/81463
+
+
 [size=3]Remake from scratch of [Leviathan Animations - Male Idle Walk And Run](https://www.nexusmods.com/skyrimspecialedition/mods/42590).
   
 This can be installed either as a simple replacer with no requirements, or as a "Conditional Armor Type Animations" addon which can be used alongside other CATA addons to change the actors' animations depending on their armor type, b[size=3]oth versions will affect both the player character and NPCs.

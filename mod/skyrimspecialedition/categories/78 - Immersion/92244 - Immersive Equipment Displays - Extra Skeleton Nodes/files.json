@@ -1,0 +1,33 @@
+{
+  "Extra Skeleton Nodes - CBPC": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 397304,
+      "file_name": "Extra Skeleton Nodes - CBPC-92244-1-0-1686599139.7z",
+      "mod_id": 92244,
+      "hash": "sha256-W67J9E1/JnVQg4E+2UaYUwaYjHuQeC0YMhY7dhX3cRE="
+    }
+  },
+  "Extra Skeleton Nodes - Physics for IED": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.2",
+      "file_id": 418709,
+      "file_name": "Extra Skeleton Nodes - Physics for IED-92244-1-2-1692474966.7z",
+      "mod_id": 92244,
+      "hash": "sha256-WYHlFKCCnwy0UQz5ovvhdhEAm4VCUPty5T56ym4j58I="
+    }
+  },
+  "Extra Skeleton Nodes": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.5",
+      "file_id": 523644,
+      "file_name": "Extra Skeleton Nodes-92244-1-5-1721618114.zip",
+      "mod_id": 92244,
+      "hash": "sha256-6OtfvuHAYa5bEUvUbDxtmZSCZT1P7/Q+GkvlgsOJhaI="
+    },
+    "type": "primary"
+  }
+}

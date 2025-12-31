@@ -2,6 +2,8 @@
 - Author: epinter
 - Game: skyrimspecialedition
 - Mod Page: https://www.nexusmods.com/skyrimspecialedition/mods/92948
+
+
 ***Media Keys Fix***
   
 ***The problem***

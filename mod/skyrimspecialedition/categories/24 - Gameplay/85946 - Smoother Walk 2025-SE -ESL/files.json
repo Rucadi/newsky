@@ -1,0 +1,24 @@
+{
+  "Smoother Walk": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 363969,
+      "file_name": "Smoother Walk-85946-1-0-1677529033.zip",
+      "mod_id": 85946,
+      "hash": "sha256-OJYbeKeal1Yv1/911hTfW00OdMZCpV1g6RNa+PMIB70="
+    },
+    "type": "primary"
+  },
+  "Smoother Walk -Skyrim Speeds (ESL)": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 538718,
+      "file_name": "Smoother Walk -Skyrim Speeds (ESL)-85946-1-0-1725474877.zip",
+      "mod_id": 85946,
+      "hash": "sha256-Z63pRtq/EZLgg8woLApAHiolcVSy9AT7jW3s0XQwLII="
+    },
+    "type": "primary"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "The Hidden Tomb of Hircine - USSEP Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1",
+      "file_id": 428854,
+      "file_name": "The Hidden Tomb of Hircine - USSEP Patch-99626-1-1-1695609799.7z",
+      "mod_id": 99626,
+      "hash": "sha256-qFIkL8nHxexCjuIEpMSFfyCLaeHFsX7WjHgEMfQEDsQ="
+    }
+  },
+  "The Hidden Tomb of Hircine": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.12",
+      "file_id": 545123,
+      "file_name": "The Hidden Tomb of Hircine-99626-1-12-1727043418.zip",
+      "mod_id": 99626,
+      "hash": "sha256-ZVf7swG2HfPyAvIwlJG5ann+EvUE6FDsIY1AEYVNczI="
+    },
+    "type": "primary"
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "Lod resource": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "2.5",
+      "file_id": 343301,
+      "file_name": "Lod resource-81277-1-0-1671900598.zip",
+      "mod_id": 81277,
+      "hash": "sha256-sS+Eq8GgaMqIfsYDUB8rOmVloFNMZBXrYsayRzE8JXs="
+    }
+  },
+  "Natural Forts -Custom ESL": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "2.5",
+      "file_id": 541263,
+      "file_name": "Natural Forts -Custom ESL-81277-2-5-1726112483.zip",
+      "mod_id": 81277,
+      "hash": "sha256-5EbiCZxiC8AMID1igirkz4sDtOibWpgYcLH0j6ugOhw="
+    },
+    "type": "primary"
+  },
+  "Natural Forts -Default ESL": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "2.5",
+      "file_id": 541266,
+      "file_name": "Natural Forts -Default ESL-81277-2-5-1726112944.zip",
+      "mod_id": 81277,
+      "hash": "sha256-sEZaEI5UPRRNxl5rtkt6YltBO9NBPM4arR66jXcOCkQ="
+    },
+    "type": "primary"
+  },
+  "Natural Forts -Ryns Broken Tower Redoubt": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "2.5",
+      "file_id": 563197,
+      "file_name": "Natural Forts -Ryns Broken Tower Redoubt-81277-2-5-1731840639.zip",
+      "mod_id": 81277,
+      "hash": "sha256-XH4/OgnaCy0PFNQclEDIBD/gHqIX80a+/nB6SFrMyGw="
+    }
+  }
+}
