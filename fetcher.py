@@ -122,7 +122,7 @@ def save_main_optional_files(files_data, folder_path, mod_id, game, mod_info):
 
     # Save JSON
     with open(output_file, "w", encoding="utf-8") as f:
-        json.dump(existing_files, f, indent=4, ensure_ascii=False)
+        json.dump(existing_files, f, indent=2, ensure_ascii=False)
 
     # Save markdown description
     mod_name = mod_info['name']
