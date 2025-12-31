@@ -72,6 +72,7 @@ let
         rename_if_exists SKSE
         rename_if_exists Docs
         rename_if_exists Interface
+        rename_if_exists Sources
         rename_if_exists textures
         rename_if_exists meshes
         rename_if_exists Scripts
