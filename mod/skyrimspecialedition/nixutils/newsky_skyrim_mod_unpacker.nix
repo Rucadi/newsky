@@ -40,6 +40,9 @@ let
 
           [ "$parent" = "." ] && parent=""
 
+          # If parent directory doesn't exist, do nothing
+          [ -n "$parent" ] && [ ! -d "$parent" ] && return 0
+
           search_dir="."
           [ -n "$parent" ] && search_dir="$parent"
 
@@ -49,6 +52,7 @@ let
             mv "$search_dir/$real_name" "$search_dir/$base"
           fi
         }
+
 
 
 
