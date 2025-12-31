@@ -1,0 +1,46 @@
+{
+  "Rally's Orc Furniture 4K": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 470168,
+      "file_name": "Rally's Orc Furniture 4K-111457-1-0-1707747042.7z",
+      "mod_id": 111457,
+      "hash": "sha256-xZ44EGlk/EhMCTJfRIc92JqZE1ppy2YhUWWliU4ju4E="
+    },
+    "type": "primary"
+  },
+  "Rally's Orc Furniture 4K Desaturated": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 470170,
+      "file_name": "Rally's Orc Furniture 4K Desaturated-111457-1-0-1707747166.7z",
+      "mod_id": 111457,
+      "hash": "sha256-1cpKWg5s8nOA6U8U8+bWWyE1T7xWtgzMSL6W74xU8q0="
+    },
+    "type": "primary"
+  },
+  "Rally's Orc Furniture 2K": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 483738,
+      "file_name": "Rally's Orc Furniture 2K-111457-1-0-1711296144.7z",
+      "mod_id": 111457,
+      "hash": "sha256-DzAE2O8q8Z34vS5pZ+EUMXD67YpJo7sp/DR56Rvxuzk="
+    },
+    "type": "primary"
+  },
+  "Rally's Orc Furniture 2K Desaturated": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 483739,
+      "file_name": "Rally's Orc Furniture 2K Desaturated-111457-1-0-1711296186.7z",
+      "mod_id": 111457,
+      "hash": "sha256-KogpUEhmzu9XHRYK33OoQ0SCAmdY4ajB2Y2FBZBPJwU="
+    },
+    "type": "primary"
+  }
+}

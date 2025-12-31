@@ -1,0 +1,33 @@
+{
+  "Priest Fashions - SKYPATCHER VERSION": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1",
+      "file_id": 494721,
+      "file_name": "SKYPATCHER VERSION-117729-1-1714070031.7z",
+      "mod_id": 117729,
+      "hash": "sha256-DelfKj62OvylcLeAlscv4eFfDeoz90RsS0Qpe3rWz6U="
+    },
+    "type": "primary"
+  },
+  "Priest Fashions - Vanilla Record Edit Version": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1",
+      "file_id": 494723,
+      "file_name": "Vanilla Record Edit Version-117729-1-1714070216.7z",
+      "mod_id": 117729,
+      "hash": "sha256-NBPRsHPx/E3+Bk43mpPIcl7FZsb2vKeB/Fk929nITmA="
+    }
+  },
+  "Priest Fashions - OPTIONAL ESP Compatibility": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1",
+      "file_id": 494724,
+      "file_name": "OPTIONAL ESP-117729-1-1714070302.7z",
+      "mod_id": 117729,
+      "hash": "sha256-BhrErLjuTbZTKOWPI395RQTUwKgNwegBJqh6CvE0XuM="
+    }
+  }
+}

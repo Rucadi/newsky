@@ -1,0 +1,23 @@
+{
+  "Kabu's Cathedral 3D Nightshade Redone Gold": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 576689,
+      "file_name": "Kabu's Cathedral 3D Nightshade Redone Gold-135836-1-0-1735333422.zip",
+      "mod_id": 135836,
+      "hash": "sha256-Ybh9UGaq3wGxv8Vx+p1QD2+Qi17fvF/lmT5gOhZO6Ss="
+    }
+  },
+  "Cathedral PBR plants": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "2.8",
+      "file_id": 702617,
+      "file_name": "Cathedral PBR plants-135836-2-8-1766859537.zip",
+      "mod_id": 135836,
+      "hash": "sha256-PMPpf6bQK+9isfWhfELjsbQHiGnaBI3/y6uXugwL2gk="
+    },
+    "type": "primary"
+  }
+}

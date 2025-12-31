@@ -1,0 +1,24 @@
+{
+  "Sons of Skyrim - HIMBO": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "2.0",
+      "file_id": 441210,
+      "file_name": "Sons of Skyrim - HIMBO-88218-2-0-1699552697.7z",
+      "mod_id": 88218,
+      "hash": "sha256-UzvgqO22hOz2dCFvUwNNAxyTcfuk4Y1oVWKVkyi0INQ="
+    },
+    "type": "primary"
+  },
+  "Sons of Skyrim v2.0 - 3BA": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "2.0",
+      "file_id": 454784,
+      "file_name": "Sons of Skyrim v2.0 - 3BA-88218-2-0-1703441740.7z",
+      "mod_id": 88218,
+      "hash": "sha256-Cjk38U+5GWiEOE8AFpAnYzGNSJJj6apUHkSkFG2t/RU="
+    },
+    "type": "primary"
+  }
+}

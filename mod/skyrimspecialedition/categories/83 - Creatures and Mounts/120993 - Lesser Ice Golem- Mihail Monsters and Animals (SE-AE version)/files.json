@@ -1,0 +1,33 @@
+{
+  "Lesser Ice Golem (se-ae)- 4k textures": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1",
+      "file_id": 507893,
+      "file_name": "Lesser Ice Golem (se-ae)- 4k textures-120993-1-1717424254.rar",
+      "mod_id": 120993,
+      "hash": "sha256-xzkIwYcVVv8AYI98cnJ/6ZSRhgO32/ign6k+ei/4jwA="
+    },
+    "type": "primary"
+  },
+  "Lesser Ice Golem (se-ae)- 2k textures": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1",
+      "file_id": 507894,
+      "file_name": "Lesser Ice Golem (se-ae)- 2k textures-120993-1-1717424298.rar",
+      "mod_id": 120993,
+      "hash": "sha256-ICvAMttDSzQ/+f7DWAIldXZIzl1amUbsy6rju4+CyOQ="
+    }
+  },
+  "Lesser Ice Golem (se-ae)- 1k textures": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1",
+      "file_id": 507895,
+      "file_name": "Lesser Ice Golem (se-ae)- 1k textures-120993-1-1717424343.rar",
+      "mod_id": 120993,
+      "hash": "sha256-2StYvLPJ1N88ZsbhZhnw55ZfyyBJSTo8qU2JPGcWNS0="
+    }
+  }
+}

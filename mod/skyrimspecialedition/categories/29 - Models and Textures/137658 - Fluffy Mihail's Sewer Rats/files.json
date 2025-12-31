@@ -1,0 +1,24 @@
+{
+  "Fluffy Mihail's Sewer Rats - 4K": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 577612,
+      "file_name": "Fluffy Mihail's Sewer Rats - 4K-137658-1-0-1735555090.rar",
+      "mod_id": 137658,
+      "hash": "sha256-acI0f6rLlaC8AkXtQDYwS+RhobW9tPU5d8PwQc86jMs="
+    },
+    "type": "primary"
+  },
+  "Fluffy Mihail's Sewer Rats - 2K": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 577614,
+      "file_name": "Fluffy Mihail's Sewer Rats - 2K-137658-1-0-1735555548.rar",
+      "mod_id": 137658,
+      "hash": "sha256-siZ800Z/AuOgk8/AbNcnWqURXx5rhallm/tjuRUJva8="
+    },
+    "type": "primary"
+  }
+}

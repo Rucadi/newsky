@@ -1,0 +1,23 @@
+{
+  "Unslaad Dragon Priest Mask Fix": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 232941,
+      "file_name": "Unslaad Dragon Priest Mask Fix-56647-1-0-1633488819.zip",
+      "mod_id": 56647,
+      "hash": "sha256-8lG/cdGTekj2yYbPI+TdQxKVpvoca5Ad9WoI5lhOKY8="
+    }
+  },
+  "Unslaad Unofficial Legacy Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.3",
+      "file_id": 435183,
+      "file_name": "Unslaad Unofficial Legacy Patch-56647-1-3-1697711315.7z",
+      "mod_id": 56647,
+      "hash": "sha256-oHGhWqkUs5KlGb66PZLoJgKUTsd6tCfGZTggu59DAvU="
+    },
+    "type": "primary"
+  }
+}

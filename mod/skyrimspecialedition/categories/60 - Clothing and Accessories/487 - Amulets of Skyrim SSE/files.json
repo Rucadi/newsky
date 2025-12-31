@@ -1,0 +1,53 @@
+{
+  "Lifted up meshes for female": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "4.061",
+      "file_id": 10850,
+      "file_name": "Lifted up meshes for female-487-4-061.zip",
+      "mod_id": 487,
+      "hash": "sha256-/e9JhFtIW+2Dw+YDNRVipRXJnXt2uSbx2NkmgLPOOS8="
+    }
+  },
+  "Lifted up meshes for male": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "4.061",
+      "file_id": 10851,
+      "file_name": "Lifted up meshes for male-487-4-061.zip",
+      "mod_id": 487,
+      "hash": "sha256-2nzQXYMcfS2MVA46r3OIt3OOgmaBmLP0vsxeIu9KtSM="
+    }
+  },
+  "Amulets of Skyrim SSE": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "4.061",
+      "file_id": 10861,
+      "file_name": "Amulets of Skyrim SSE-487-4-061.7z",
+      "mod_id": 487,
+      "hash": "sha256-6wgHcNplYOrKr6OQCbK4HVOsqFNjGRXrHjBbqxrIQp0="
+    },
+    "type": "primary"
+  },
+  "Patch for Better Vampire": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "",
+      "file_id": 10878,
+      "file_name": "Patch for Better Vampire-487-.zip",
+      "mod_id": 487,
+      "hash": "sha256-2Pje2yvYAHdvuEjcrNGkND0wAel3rZQGqVAHKAv5aL8="
+    }
+  },
+  "Outfit files": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "",
+      "file_id": 10882,
+      "file_name": "Outfit files-487-.zip",
+      "mod_id": 487,
+      "hash": "sha256-lRSURy0/ct9CfwtcU3OQ1jPbNT9misomoa0FFhKfiyo="
+    }
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "End Times Of Skyrim SE": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "4.3",
+      "file_id": 196500,
+      "file_name": "End Times Of Skyrim SE-47068-4-3-1617736138.zip",
+      "mod_id": 47068,
+      "hash": "sha256-v+4hNdslHNrqkvVwGw/OlRKEXyqYDxw2BIoQSMgsXv0="
+    },
+    "type": "primary"
+  },
+  "Summon Champion Power - ESL Light Plugin (Addon)": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "4.3",
+      "file_id": 196502,
+      "file_name": "Summon Champion Power - ESL Light Plugin (Addon)-47068-4-3-1617736180.zip",
+      "mod_id": 47068,
+      "hash": "sha256-HRjLa+rkrSurqxQ1/Ghc5/RB0PzM3XUmJwCGrQlKQqc="
+    }
+  }
+}

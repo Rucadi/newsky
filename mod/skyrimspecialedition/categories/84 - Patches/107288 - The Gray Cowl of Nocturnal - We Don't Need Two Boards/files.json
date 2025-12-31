@@ -1,0 +1,24 @@
+{
+  "We Don't Need Two Boards - Original": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 452946,
+      "file_name": "We Don't Need Two Boards-107288-1-0-1702904954.7z",
+      "mod_id": 107288,
+      "hash": "sha256-t6IiD5MdJQA1otuUD8Zpf4iABZ+EJwrkBjyFawuv0+g="
+    },
+    "type": "primary"
+  },
+  "We Don't Need Two Boards - 10th Anniversary": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 598495,
+      "file_name": "We Don't Need Two Boards - 10th Anniversary-107288-1-0-1740384601.7z",
+      "mod_id": 107288,
+      "hash": "sha256-sz7Inrhjjm8PHrVFO+2lq6eoQMzDci+49AfSSOVPhZY="
+    },
+    "type": "primary"
+  }
+}

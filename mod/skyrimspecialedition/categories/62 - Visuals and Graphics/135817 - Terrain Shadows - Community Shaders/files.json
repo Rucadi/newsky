@@ -1,0 +1,23 @@
+{
+  "Terrain Shadows - Heightmaps": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0.0",
+      "file_id": 570012,
+      "file_name": "Terrain Shadows - Heightmaps-135817-1-0-0-1733598206.7z",
+      "mod_id": 135817,
+      "hash": "sha256-wyIFATtX9YBrXSc7jrap8BXMxGkkX8kjuZchBi9QAO0="
+    }
+  },
+  "Terrain Shadows": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0.0",
+      "file_id": 570047,
+      "file_name": "Terrain Shadows-135817-1-0-0-1733602194.7z",
+      "mod_id": 135817,
+      "hash": "sha256-CYlfemVl2pYnfW9MaHgBXMOKykYHWmlcpL+sZllvqjY="
+    },
+    "type": "primary"
+  }
+}

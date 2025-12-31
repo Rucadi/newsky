@@ -1,0 +1,23 @@
+{
+  "Immersive Equipment Displays - Mura Presets - Potions on Back": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 258699,
+      "file_name": "Immersive Equipment Displays - Mura Presets - Potions on Back-62360-1-0-1642879793.7z",
+      "mod_id": 62360,
+      "hash": "sha256-How/MrbDxB/mGrI35fxi3LpbcC/uiAIsham6wn73k/E="
+    }
+  },
+  "Immersive Equipment Displays - Mura Presets": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1",
+      "file_id": 258710,
+      "file_name": "Immersive Equipment Displays - Mura Presets-62360-1-1-1642883189.7z",
+      "mod_id": 62360,
+      "hash": "sha256-OTfwO2p5eZkYoNuaOxucIuw6Uw4IPlNyzcdRc3CTwhw="
+    },
+    "type": "primary"
+  }
+}

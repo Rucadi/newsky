@@ -1,0 +1,93 @@
+{
+  "Camel Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 592764,
+      "file_name": "Camel Patch-141327-1-0-1739122191.rar",
+      "mod_id": 141327,
+      "hash": "sha256-l6ycTBUCaX5FtfLvLMYFl78biG3whRLv7H+djPZCT2U="
+    }
+  },
+  "Overbright": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 592765,
+      "file_name": "Overbright-141327-1-0-1739122231.rar",
+      "mod_id": 141327,
+      "hash": "sha256-2r/qkSND8U+0qws2oKfpKpE/eerIq1jkGvk8LwWLlPw="
+    }
+  },
+  "Spider replacer": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 592766,
+      "file_name": "Spider replacer-141327-1-0-1739122272.rar",
+      "mod_id": 141327,
+      "hash": "sha256-g7TbtcfP7G6GBPPnndTQzrRVThDG15zX/7LIfbPYNkU="
+    }
+  },
+  "House of the Thief": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 592769,
+      "file_name": "House of the Thief-141327-1-0-1739122369.rar",
+      "mod_id": 141327,
+      "hash": "sha256-4zljp1jR183WTaVGaCHtH1p7Lo4jpCP+RkIIJHi+5+8="
+    }
+  },
+  "Oblivion soundtracks": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.01",
+      "file_id": 593670,
+      "file_name": "Oblivion soundtracks-141327-1-01-1739356291.rar",
+      "mod_id": 141327,
+      "hash": "sha256-cCmgPiBxqZQJGY+pchtmx/0w3Q8oAaA+2DdDQD0Jik4="
+    }
+  },
+  "Map Markers": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.022",
+      "file_id": 595760,
+      "file_name": "Map Markers-141327-1-022-1739783415.rar",
+      "mod_id": 141327,
+      "hash": "sha256-IuHFbqyYuwG8+eGzbAquIEoyiyri8LROlJGJ0dq7wgk="
+    }
+  },
+  "Map Fix": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1",
+      "file_id": 602352,
+      "file_name": "Map Fix-141327-1-1-1741261159.rar",
+      "mod_id": 141327,
+      "hash": "sha256-P3fRcvf+S15FjG5lWf743V+TomvdxDYYeeVf3AoZkTE="
+    }
+  },
+  "Way of the Voice": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1.1",
+      "file_id": 610147,
+      "file_name": "Way of the Voice-141327-1-1-1-1743020113.rar",
+      "mod_id": 141327,
+      "hash": "sha256-EAGFHQr7jjKfQ77xjAR4E2vCSP/Sj6Wx7xe/EzcpKBg="
+    }
+  },
+  "The Gray Cowl of Nocturnal": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.4",
+      "file_id": 650130,
+      "file_name": "The Gray Cowl of Nocturnal-141327-1-4-1753466731.rar",
+      "mod_id": 141327,
+      "hash": "sha256-jpfwzxSONWp9FLs7YUWk9fb0o27PU9kNYFZkoP0teU0="
+    },
+    "type": "primary"
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "Beyond Skyrim - Bruma PBR": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 661945,
+      "file_name": "Beyond Skyrim - Bruma PBR-158330-1-0-1756868797.7z",
+      "mod_id": 158330,
+      "hash": "sha256-K1vEkHGghvFbTdYBvtKtbbLpsbFC1Z4TMytvJOrqPdU="
+    },
+    "type": "primary"
+  },
+  "Beyond Skyrim - Assets PBR": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 661956,
+      "file_name": "Beyond Skyrim - Assets PBR-158330-1-0-1756873481.7z",
+      "mod_id": 158330,
+      "hash": "sha256-7h9QoKsryR/uRRhc8jsp+DIJqMGSws7bnkmdvcwGxFE="
+    },
+    "type": "primary"
+  }
+}

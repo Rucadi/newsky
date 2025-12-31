@@ -1,0 +1,35 @@
+{
+  "Base": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 113850,
+      "file_name": "Base-30468-1-0-1574192977.7z",
+      "mod_id": 30468,
+      "hash": "sha256-cQiaNbHf/u++8vcWK2wCRpyzrQBbTXFMqNiIA3z7eNY="
+    },
+    "type": "primary"
+  },
+  "Textures HD": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 113851,
+      "file_name": "Textures HD-30468-1-0-1574193010.7z",
+      "mod_id": 30468,
+      "hash": "sha256-SbELYCOyEm8LEu+Yn4vC732/vNZYR9oVHe5KFM9hKZI="
+    },
+    "type": "primary"
+  },
+  "Textures Medium": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 113852,
+      "file_name": "Textures Medium-30468-1-0-1574193036.7z",
+      "mod_id": 30468,
+      "hash": "sha256-ctpT/QHZZv3uplf6xb8Dy7tCKYa4I1Aprn1NDDIla9U="
+    },
+    "type": "primary"
+  }
+}

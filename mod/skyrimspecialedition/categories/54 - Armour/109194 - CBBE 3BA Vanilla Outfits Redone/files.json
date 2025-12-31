@@ -1,0 +1,43 @@
+{
+  "Fur Shader Armors addon": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "4.1.8",
+      "file_id": 618316,
+      "file_name": "Fur Shader Armors addon-109194-4-1-8-1744916427.7z",
+      "mod_id": 109194,
+      "hash": "sha256-I8nV62BdvfCuXe6K0W/OLeAGyCpqtCmI5wMavfWVYYc="
+    }
+  },
+  "HDT-SMP Add-on (WIP)": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "4.1.8SMP",
+      "file_id": 618323,
+      "file_name": "HDT-SMP Add-on (WIP)-109194-4-1-8SMP-1744917170.7z",
+      "mod_id": 109194,
+      "hash": "sha256-eCOUKSlHwTuLoOggHh8OZxzoqVsyLvDgnVeI+pHFU80="
+    }
+  },
+  "Fur Shaders Redux (FSXRR) 3BBB Add-on": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "4.1.8",
+      "file_id": 620188,
+      "file_name": "Fur Shaders Redux (FSXRR) 3BBB Add-on-109194-4-1-8-1745332485.7z",
+      "mod_id": 109194,
+      "hash": "sha256-GfapmnZo4oLvN9GUGOf4Lgz0Pwj2nelCwqAvvZR0/TI="
+    }
+  },
+  "CBBE 3BA Vanilla Outfits Redone": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "5.0.0",
+      "file_id": 665821,
+      "file_name": "CBBE 3BA Vanilla Outfits Redone-109194-5-0-0-1757889098.7z",
+      "mod_id": 109194,
+      "hash": "sha256-qbwrOXP6bRxm9PpiPTpiG62v2wThwPIu30Fc9DDM2QU="
+    },
+    "type": "primary"
+  }
+}

@@ -1,0 +1,63 @@
+{
+  "Traveler's Armor Pack - Main File": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "v1",
+      "file_id": 396279,
+      "file_name": "Traveler's Armor Pack - Main File-93138-v1-1686315325.rar",
+      "mod_id": 93138,
+      "hash": "sha256-bszdPWdzX1eIvWeV1Cl22oHhiOShQ3lmJziNsx5yfTo="
+    },
+    "type": "primary"
+  },
+  "Traveler's Armor Pack - CBBE Bodyslide files": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "v1",
+      "file_id": 396280,
+      "file_name": "Traveler's Armor Pack - CBBE Bodyslide files-93138-v1-1686315413.rar",
+      "mod_id": 93138,
+      "hash": "sha256-Kaa03nZZVx+X4We0hXPli2vcvtwcQiUiyHlFNdPwrmc="
+    }
+  },
+  "Traveler's Armor Pack - ESL flagged plugin": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "v1",
+      "file_id": 396281,
+      "file_name": "Traveler's Armor Pack - ESL flagged plugin-93138-v1-1686315449.rar",
+      "mod_id": 93138,
+      "hash": "sha256-ZJ9Jt1uA4eqefY585BY0mcenOmFe3L3U5tM8k9LKkjM="
+    }
+  },
+  "Black Gambeson retexture": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "v1",
+      "file_id": 397793,
+      "file_name": "Black Gambeson retexture-93138-v1-1686762547.rar",
+      "mod_id": 93138,
+      "hash": "sha256-+4M7J1Gj8+HwHWQ+pfe35ZOmIUAuhiSMWkeM9SQZwdQ="
+    }
+  },
+  "Black Shirt retexture": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "v1",
+      "file_id": 397794,
+      "file_name": "Black Shirt retexture-93138-v1-1686762574.rar",
+      "mod_id": 93138,
+      "hash": "sha256-J0UjfuxIhZCqPHDElPbkiA43XLkoP34qyh6kgKWIcJU="
+    }
+  },
+  "Black Pants retexture": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "v1",
+      "file_id": 397795,
+      "file_name": "Black Pants retexture-93138-v1-1686762606.rar",
+      "mod_id": 93138,
+      "hash": "sha256-+3DM+beddOybZFmpW1a144Y4fd7UCwOHgQ+iP6uhKo8="
+    }
+  }
+}

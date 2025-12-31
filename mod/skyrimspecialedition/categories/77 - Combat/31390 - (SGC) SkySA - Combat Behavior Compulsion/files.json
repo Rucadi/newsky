@@ -1,0 +1,35 @@
+{
+  "(SGC) SkySA - Combat Behavior Compulsion": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.9.4",
+      "file_id": 203059,
+      "file_name": "(SGC) SkySA - Combat Behavior Compulsion-31390-1-9-4-1620832514.7z",
+      "mod_id": 31390,
+      "hash": "sha256-vEiqOQB4JzSGXrfh1IMPcD3LF9MOIDUD1oGR1GFkIo8="
+    },
+    "type": "primary"
+  },
+  "(SGC) SkySA - First Person View SSE": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.2",
+      "file_id": 207307,
+      "file_name": "(SGC) SkySA - First Person View SSE-31390-1-2-1622860102.zip",
+      "mod_id": 31390,
+      "hash": "sha256-sgbaIB346xNmbUEETyl7Pp6Mf3k6cEPtaDUo9DyjuwE="
+    },
+    "type": "primary"
+  },
+  "(SGC) SkySA - Intense Combat": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1",
+      "file_id": 221631,
+      "file_name": "(SGC) SkySA - Intense Combat-31390-1-1-1629123442.7z",
+      "mod_id": 31390,
+      "hash": "sha256-iErcY99RVyzYIZHd7vUbV6CXrP0YU0xuuzj1W8h4EHE="
+    },
+    "type": "primary"
+  }
+}

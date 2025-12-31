@@ -1,0 +1,24 @@
+{
+  "OSolo - Causes negative reactions": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1.0",
+      "file_id": 586407,
+      "file_name": "OSolo - Causes negative reactions-136712-1-1-0-1737608215.7z",
+      "mod_id": 136712,
+      "hash": "sha256-hTdJZbHZDIHw16aYxTGYYvKAo8XXndOcTVbuCpI74zU="
+    },
+    "type": "primary"
+  },
+  "OSolo - Does not cause negative reactions": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1.0",
+      "file_id": 586408,
+      "file_name": "OSolo - Does not cause negative reactions-136712-1-1-0-1737608239.7z",
+      "mod_id": 136712,
+      "hash": "sha256-tD4U9s1BEQpQ+f1Wtk7mITjHLzWGq4WndEVXmlyPL88="
+    },
+    "type": "primary"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "Dwemer Spectres Special Edition": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "4.1.2a",
+      "file_id": 485168,
+      "file_name": "Dwemer Spectres Special Edition-8016-4-1-2a-1711682779.7z",
+      "mod_id": 8016,
+      "hash": "sha256-qaiPMBg4unSNlSd+lvQFYMtEIPTZ/VqBmzPOhmS0TKo="
+    },
+    "type": "primary"
+  },
+  "Dwemer Spectres - Legendary Dungeons Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1",
+      "file_id": 543384,
+      "file_name": "Dwemer Spectres - Legendary Dungeons Patch-8016-1-1-1726617089.7z",
+      "mod_id": 8016,
+      "hash": "sha256-sUWUVGDfLTVMvbKifU+JW0TICPGL8htvJCQBwqCGTqU="
+    }
+  }
+}

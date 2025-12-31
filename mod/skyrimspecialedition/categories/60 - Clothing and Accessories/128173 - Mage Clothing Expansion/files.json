@@ -1,0 +1,43 @@
+{
+  "Shirtless Male Outfit 4": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.6.1",
+      "file_id": 538391,
+      "file_name": "Shirtless Male Outfit 4-128173-1-6-1-1725393517.zip",
+      "mod_id": 128173,
+      "hash": "sha256-YSc6TQgLjwD8V4vwqCsgUOppK7MCUupltZSYLB2TD40="
+    }
+  },
+  "Prebuilt modesty meshes": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "2",
+      "file_id": 545296,
+      "file_name": "Prebuilt modesty meshes-128173-2-1727091482.zip",
+      "mod_id": 128173,
+      "hash": "sha256-Wfckg7xTIkSYhFGVVnDC1Q6NA7HomEqF0AKDpkw11DA="
+    }
+  },
+  "Mage Clothing Expansion": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "2.0.1",
+      "file_id": 545408,
+      "file_name": "Mage Clothing Expansion-128173-2-0-1-1727108300.zip",
+      "mod_id": 128173,
+      "hash": "sha256-9vq2q68eBlT9+Ck19RUKmq0XRWqpymmD3kWvF35MSZw="
+    },
+    "type": "primary"
+  },
+  "SPID patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "2.0.1",
+      "file_id": 545409,
+      "file_name": "SPID patch-128173-2-0-1-1727108330.zip",
+      "mod_id": 128173,
+      "hash": "sha256-HyZO7qfExKdys2xAFGoLXB9G/38K5fZkdSPVmqkzkl4="
+    }
+  }
+}

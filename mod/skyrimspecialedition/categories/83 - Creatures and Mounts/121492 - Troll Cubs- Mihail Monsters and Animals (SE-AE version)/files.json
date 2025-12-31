@@ -1,0 +1,23 @@
+{
+  "Troll Cubs (se-ae)- 4k textures": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1",
+      "file_id": 509890,
+      "file_name": "Troll Cubs (se-ae)- 4k textures-121492-1-1717930684.rar",
+      "mod_id": 121492,
+      "hash": "sha256-dmp/Ysct95PqYfuNsSFuPHvy7q109wL/xWE/iuOQ68U="
+    },
+    "type": "primary"
+  },
+  "Troll Cubs (se-ae)- 2k textures": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1",
+      "file_id": 509891,
+      "file_name": "Troll Cubs (se-ae)- 2k textures-121492-1-1717930711.rar",
+      "mod_id": 121492,
+      "hash": "sha256-nGq7A0+s1iof88PdqXT9AlS0oduM6SaJl0XiBBWBsE8="
+    }
+  }
+}

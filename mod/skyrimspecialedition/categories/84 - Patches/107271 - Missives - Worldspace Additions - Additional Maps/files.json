@@ -1,0 +1,35 @@
+{
+  "Missives - Gray Cowl Map": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 452890,
+      "file_name": "Missives - Gray Cowl Map-107271-1-0-1702889622.7z",
+      "mod_id": 107271,
+      "hash": "sha256-cKGv3dTycJOtkJu8DdPRLmpI9Bsa1AXC3g8bY07SvPc="
+    },
+    "type": "primary"
+  },
+  "Missives - Northpoint Map": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 452891,
+      "file_name": "Missives - Northpoint Map-107271-1-0-1702889658.7z",
+      "mod_id": 107271,
+      "hash": "sha256-GTAwSKOVasZbc5iKg91QgA+vaYq9GKONhAX70BqvHGo="
+    },
+    "type": "primary"
+  },
+  "Missives - Beyond Reach Map": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 452943,
+      "file_name": "Missives - Beyond Reach Map-107271-1-0-1702903948.7z",
+      "mod_id": 107271,
+      "hash": "sha256-eos+lioO6EzLw6n4ZyxQPw5vHjWRejQoSrt6gs8FMkE="
+    },
+    "type": "primary"
+  }
+}

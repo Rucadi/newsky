@@ -1,0 +1,23 @@
+{
+  "SL-OStim Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0.0",
+      "file_id": 566279,
+      "file_name": "SL-OStim Patch-61479-1-0-0-1732641052.zip",
+      "mod_id": 61479,
+      "hash": "sha256-/FHuw2WaXfZgpGv1IwrIe9SOe/53qqeDG+SuA/7WU1o="
+    }
+  },
+  "Mu Joint Fix": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "2.1.2",
+      "file_id": 567659,
+      "file_name": "Mu Joint Fix-61479-2-1-2-1732985344.zip",
+      "mod_id": 61479,
+      "hash": "sha256-6JHNWZNavvkgSoIJSxcLzCZCEGuwVp8O8hZJI4Grci4="
+    },
+    "type": "primary"
+  }
+}

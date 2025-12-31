@@ -1,0 +1,122 @@
+{
+  "Unadulterated Bodyslide files": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "4",
+      "file_id": 679279,
+      "file_name": "Unadulterated Bodyslide files-110397-4-1761171595.7z",
+      "mod_id": 110397,
+      "hash": "sha256-8/N3sTPgpu7vlkLyFSMKH8BzIiK28kwssB/VKzvY5PI="
+    },
+    "type": "primary"
+  },
+  "Unadulterated PG files": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "4",
+      "file_id": 679280,
+      "file_name": "Unadulterated PG files-110397-4-1761171768.7z",
+      "mod_id": 110397,
+      "hash": "sha256-5Jwn/GV+KqHiYHHxH0IhxZ56xegXv6k6YbujaYGVtSI="
+    },
+    "type": "primary"
+  },
+  "Blood and Lust Bodyslide": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "38",
+      "file_id": 701977,
+      "file_name": "Blood and Lust Bodyslide-110397-38-1766670083.7z",
+      "mod_id": 110397,
+      "hash": "sha256-J9bzBHP+PvnR9owfJQTPIOrc2HdEBI0cKrn44D5q1aw="
+    },
+    "type": "primary"
+  },
+  "Blood and Lust collection settings": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "29",
+      "file_id": 701978,
+      "file_name": "Blood and Lust collection settings-110397-29-1766670119.7z",
+      "mod_id": 110397,
+      "hash": "sha256-laVCzioXwCkfBaV167R+s86PE2IB8Hf3imZ5Ywk/sU4="
+    },
+    "type": "primary"
+  },
+  "Blood and Lust Grass cache": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "28",
+      "file_id": 701984,
+      "file_name": "Blood and Lust Grass cache-110397-28-1766670828.7z",
+      "mod_id": 110397,
+      "hash": "sha256-Imp0Qk6um1zX8d3Vh4Qz8Sp0td7NO4ixwti0/ixYZ5M="
+    },
+    "type": "primary"
+  },
+  "Blood and Lust LODGen": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "32",
+      "file_id": 701985,
+      "file_name": "Blood and Lust LODGen-110397-32-1766671177.7z",
+      "mod_id": 110397,
+      "hash": "sha256-n4PPJ5r3rFgrKz0aWbPsypezEv8U1/exhFRgCgKN/5Y="
+    },
+    "type": "primary"
+  },
+  "Blood and Lust Dyndolod assets": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "61",
+      "file_id": 703436,
+      "file_name": "Blood and Lust Dyndolod assets-110397-61-1767051537.7z",
+      "mod_id": 110397,
+      "hash": "sha256-0X3zJEM0AzcIA+YrjeNMz3WUOsRROiZCvjM8CMPHXsg="
+    },
+    "type": "primary"
+  },
+  "Blood and Lust Generated Animations": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "26",
+      "file_id": 703437,
+      "file_name": "Blood and Lust Generated Animations-110397-26-1767051618.7z",
+      "mod_id": 110397,
+      "hash": "sha256-0J2xn0Vm0DPepRrBhPKCJslbXDS3ICE5wxxfdGg51nw="
+    },
+    "type": "primary"
+  },
+  "Blood and Lust PG assets": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "47",
+      "file_id": 703438,
+      "file_name": "Blood and Lust PG assets-110397-47-1767051852.7z",
+      "mod_id": 110397,
+      "hash": "sha256-X1kuuqtcVdZkE05E7CAakJjMsGlM4ICAjomiru28E/E="
+    },
+    "type": "primary"
+  },
+  "Blood and Lust TexGen Assets": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "61",
+      "file_id": 703439,
+      "file_name": "Blood and Lust TexGen Assets-110397-61-1767051906.7z",
+      "mod_id": 110397,
+      "hash": "sha256-O3guQ/7N5yCk/ykUae8hZ0Y4UccM8ndSsef3bz1Q/3g="
+    },
+    "type": "primary"
+  },
+  "Rev 193 userlist file": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "193",
+      "file_id": 703445,
+      "file_name": "Rev 193 userlist file-110397-193-1767055103.7z",
+      "mod_id": 110397,
+      "hash": "sha256-zsvGYMV4I/sbwy1AP+NfQwc0dbVsgIIQGyoRBb49Gxk="
+    }
+  }
+}

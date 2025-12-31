@@ -1,0 +1,46 @@
+{
+  "Detailed - Elegant Hairwolf (Fur only)": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.01",
+      "file_id": 587857,
+      "file_name": "Hairwolf (Fur only)-140125-1-01-1737934413.zip",
+      "mod_id": 140125,
+      "hash": "sha256-XN0OoHYCl0lPDZHpOkjXWf/q5cju1Dehv4Bpl/vflgs="
+    },
+    "type": "primary"
+  },
+  "Detailed - Elegant Hairwolf (Fur and Eyeshine)": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.01",
+      "file_id": 587859,
+      "file_name": "Elegant Hairwolf (Fur and Eyeshine)-140125-1-01-1737934461.zip",
+      "mod_id": 140125,
+      "hash": "sha256-C35C9woq44w6fCHzhBav930TWb3DnpuG/tfH1N3AFWk="
+    },
+    "type": "primary"
+  },
+  "Performance - Elegant Hairwolf (Fur and Eyeshine)": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.02",
+      "file_id": 601347,
+      "file_name": "Performance - Elegant Hairwolf (Fur and Eyeshine)-140125-1-01-1741009414.zip",
+      "mod_id": 140125,
+      "hash": "sha256-RVyo82tT+D5zL/zIEmHh+2LZMPrISXDBRKWDQJFgCiQ="
+    },
+    "type": "primary"
+  },
+  "Performance - Elegant Hairwolf (Fur only)": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.02",
+      "file_id": 601348,
+      "file_name": "Performance - Elegant Hairwolf (Fur only)-140125-1-01-1741009793.zip",
+      "mod_id": 140125,
+      "hash": "sha256-srw31Qhwll/BxoqNH6Wh69R6UT30xb4iPqdK50lMTQs="
+    },
+    "type": "primary"
+  }
+}

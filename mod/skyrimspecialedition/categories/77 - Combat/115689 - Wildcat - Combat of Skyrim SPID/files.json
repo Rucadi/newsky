@@ -1,0 +1,34 @@
+{
+  "Wildcat - Combat of Skyrim no spell config": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.015",
+      "file_id": 486788,
+      "file_name": "Wildcat - Combat of Skyrim no spell config-115689-1-0-1712061626.7z",
+      "mod_id": 115689,
+      "hash": "sha256-D6EHsSeQPlypUr5BBdCV3TEHkAkXq42cZGvrEwVMQ88="
+    }
+  },
+  "Wildcat - Combat of Skyrim SPID": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.015",
+      "file_id": 522297,
+      "file_name": "Wildcat - Combat of Skyrim SPID-115689-1-01-1721270374.7z",
+      "mod_id": 115689,
+      "hash": "sha256-0CxoQQEFjtWt4j5t5e3I4VeCFdIGisAvxnsxEEC3l0c="
+    },
+    "type": "primary"
+  },
+  "Wildcat - Combat of Skyrim SPID FixYourSave": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.015",
+      "file_id": 522524,
+      "file_name": "Wildcat - Combat of Skyrim SPID FixYourSave-115689-1-015-1721330147.7z",
+      "mod_id": 115689,
+      "hash": "sha256-MbpK8HwWJHtww16iQ4GA+bkwieNr/ZP9E9KMguNyHCI="
+    },
+    "type": "primary"
+  }
+}

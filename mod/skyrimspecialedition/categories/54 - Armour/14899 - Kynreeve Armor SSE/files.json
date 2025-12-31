@@ -1,0 +1,53 @@
+{
+  "Kynreeve Armor - Low Resolution Textures": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 44610,
+      "file_name": "Kynreeve Armor - Low Resolution Textures-14899-1-0.zip",
+      "mod_id": 14899,
+      "hash": "sha256-/VDd+YpOQWHF4cc0VrsQgvkSRPYEF5IMxolo1ystFUQ="
+    }
+  },
+  "Kynreeve Armor - 2k Normals": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 44612,
+      "file_name": "Kynreeve Armor - 2k Normals-14899-1-0.zip",
+      "mod_id": 14899,
+      "hash": "sha256-pDa7sf2F3ePeduS0q5cYRcZJ4lTCHfoycGPSCZ1284c="
+    }
+  },
+  "Kynreeve - Daedric Replacer - ESP Version": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 44613,
+      "file_name": "Kynreeve - Daedric Replacer - ESP Version-14899-1-0.zip",
+      "mod_id": 14899,
+      "hash": "sha256-iEDssNQgkQAdDZxL1b8F7nYD3ytn3Gt8ZxwktLPgHe4="
+    }
+  },
+  "Kynreeve - Daedric Replacer - Meshes Only": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 44614,
+      "file_name": "Kynreeve - Daedric Replacer - Meshes Only-14899-1-0.zip",
+      "mod_id": 14899,
+      "hash": "sha256-Bx76QsS6YS6GbzW6hVsORZGp0DIqUlE/2u/hBLg0VmA="
+    }
+  },
+  "Kynreeve Armor SSE": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.2",
+      "file_id": 56006,
+      "file_name": "Kynreeve Armor SSE-14899-1-2.zip",
+      "mod_id": 14899,
+      "hash": "sha256-2+lYwCr300VejkBi7Rvo4eTXD9BZWrT6vICffP9fMH8="
+    },
+    "type": "primary"
+  }
+}

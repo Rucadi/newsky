@@ -1,0 +1,33 @@
+{
+  "Immersive Horses": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "3.0",
+      "file_id": 55760,
+      "file_name": "Immersive Horses-13402-3-0.7z",
+      "mod_id": 13402,
+      "hash": "sha256-UgfAGZEpLqwa4KIGXjQe9yQw8Kwas4z8+shyH58fbdw="
+    },
+    "type": "primary"
+  },
+  "Immersive Horses 2K Horse Textures": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 55761,
+      "file_name": "Immersive Horses 2K Horse Textures-13402-1-0.7z",
+      "mod_id": 13402,
+      "hash": "sha256-NKEtWkJbAmwqxxnkUDoEyblAlQBFBqtQsFG3obaGBxU="
+    }
+  },
+  "Immersive Horses Vanilla Horses": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 55762,
+      "file_name": "Immersive Horses Vanilla Horses-13402-1-0.7z",
+      "mod_id": 13402,
+      "hash": "sha256-cpT9EzFkd2tX4+POxa/jOCP6FCvovQfMhvIcah9W4Sw="
+    }
+  }
+}

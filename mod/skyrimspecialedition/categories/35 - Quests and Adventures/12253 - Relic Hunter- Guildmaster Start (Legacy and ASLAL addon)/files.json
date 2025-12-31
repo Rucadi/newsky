@@ -1,0 +1,23 @@
+{
+  "RelicHunter_Grass_Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "2.0",
+      "file_id": 116476,
+      "file_name": "RelicHunter_Grass_Patch-12253-2-0-1576569829.7z",
+      "mod_id": 12253,
+      "hash": "sha256-lUcRFBepR8vTFJLmpMp4CN3XVftJi+jCOELm+mGC0oo="
+    }
+  },
+  "Relic Hunter- Guildmaster Start": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "3.0.0",
+      "file_id": 514019,
+      "file_name": "Relic Hunter- Guildmaster Start-12253-3-0-0-1719088637.7z",
+      "mod_id": 12253,
+      "hash": "sha256-d3qMThVQeVqK6SnUuLAId1aj0wDZ7R7ODxX+88f8VOQ="
+    },
+    "type": "primary"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "Vigilant-footprintsPatch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.00",
+      "file_id": 249862,
+      "file_name": "Vigilant-footprintsPatch-60239-1-00-1639759660.7z",
+      "mod_id": 60239,
+      "hash": "sha256-qzE9um0YFmBqlorbBwiqsdF1KRFqDYq8Y+yiV1/pHoU="
+    },
+    "type": "primary"
+  },
+  "Vigilant footprintsDISTR_ini": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.02",
+      "file_id": 356908,
+      "file_name": "Vigilant footprintsDISTR_ini-60239-1-02-1675639519.7z",
+      "mod_id": 60239,
+      "hash": "sha256-xogMnkXvGXnEqbaUZJ76EmPRa1YmgYo+DsEV2R953u4="
+    }
+  }
+}

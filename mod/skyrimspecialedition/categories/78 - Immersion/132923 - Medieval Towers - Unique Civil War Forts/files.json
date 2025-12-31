@@ -1,0 +1,23 @@
+{
+  "Medieval Towers of Skyrim FOMOD": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 559019,
+      "file_name": "Medieval Towers of Skyrim FOMOD-132923-1-0-1730758209.zip",
+      "mod_id": 132923,
+      "hash": "sha256-oJz2fztVe7Vfm7tzSPxsaCBWCVECvrUBjZUXONtqkS0="
+    },
+    "type": "primary"
+  },
+  "Imperial Castles of Skyrim Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 559020,
+      "file_name": "Medieval Castles Patch-132923-1-0-1730758285.zip",
+      "mod_id": 132923,
+      "hash": "sha256-qd4uSx+gS8isYPeu6Y8xH5Jm6UtyVTC1Vv1efbeRmfw="
+    }
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "Legacy of The Dragonborn Perk Menus - Classic": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "0.6",
+      "file_id": 270393,
+      "file_name": "Legacy of The Dragonborn Perk Menus-47028-0-6-1647380066.7z",
+      "mod_id": 47028,
+      "hash": "sha256-/vsFv2ddusz8noCCQzl7HByUcT6g9h1Llv7sN3NZyf4="
+    }
+  },
+  "Legacy of The Dragonborn Perk Menu": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "2.0",
+      "file_id": 402402,
+      "file_name": "Legacy of The Dragonborn Perk Menu-47028-2-0-1688109752.7z",
+      "mod_id": 47028,
+      "hash": "sha256-A5bfRf0JP67PrHQtoqgoQ/1rVlhevN8tussi+1XUHvU="
+    },
+    "type": "primary"
+  }
+}

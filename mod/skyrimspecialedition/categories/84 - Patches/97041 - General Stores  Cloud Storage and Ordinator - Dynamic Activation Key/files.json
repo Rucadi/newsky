@@ -1,0 +1,23 @@
+{
+  "GS Cloud Crafting DAK Patch (Standalone)": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.2",
+      "file_id": 413013,
+      "file_name": "GS Cloud Crafting DAK Patch (Standalone)-97041-1-2-1690887293.7z",
+      "mod_id": 97041,
+      "hash": "sha256-lT861RxuHRJgKbeblKDV3iQW5Gvr9nJhQFvPpH77Sis="
+    }
+  },
+  "GS Cloud Crafting and Ordinator DAK Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "2.0",
+      "file_id": 663212,
+      "file_name": "GS Cloud Crafting and Ordinator DAK Patch-97041-2-0-1757241839.7z",
+      "mod_id": 97041,
+      "hash": "sha256-9BnPMlcWCN1DuanZ5Fd0RuKniBHhC9eeL45D6AUmsm8="
+    },
+    "type": "primary"
+  }
+}

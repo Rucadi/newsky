@@ -1,0 +1,103 @@
+{
+  "SUDs RND (realistic needs and diseases) Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 366992,
+      "file_name": "SUDs RND (realistic needs and diseases) Patch-85824-1-0-1678417314.7z",
+      "mod_id": 85824,
+      "hash": "sha256-zx0kjq4+51hhzhI9/tmG5cefzf+Q2NKqhT9IsSif6r0="
+    }
+  },
+  "SUDS Complete Alchemy and Cooking Overhaul Patch ESL-fied": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1.1",
+      "file_id": 367208,
+      "file_name": "SUDS Complete Alchemy and Cooking Overhaul Patch ESL-fied-85824-1-1-1-1678476663.7z",
+      "mod_id": 85824,
+      "hash": "sha256-4RI7NFdG+UbvUFQRh87si2EWwR1lS6gFPkfzc68+nuE="
+    }
+  },
+  "Apothecary Food Addon Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 367263,
+      "file_name": "Apothecary Food Addon Patch-85824-1-0-1678490289.7z",
+      "mod_id": 85824,
+      "hash": "sha256-eooch67AnPl3vx2DgchZBfvQnmR1Mfvwh5JvW3w6q+E="
+    }
+  },
+  "SUDs Inn Soaps Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 369295,
+      "file_name": "SUDs Inn Soaps Patch-85824-1-0-1679028032.7z",
+      "mod_id": 85824,
+      "hash": "sha256-GWCuKrlxZxxBInYCYoBpcJulnRP4jL/UWIzZD8B+/S8="
+    }
+  },
+  "Skyrim's Unique Drinks": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1",
+      "file_id": 370504,
+      "file_name": "Skyrim's Unique Drinks-85824-1-1-1679359812.7z",
+      "mod_id": 85824,
+      "hash": "sha256-R+L9PuXW28v8Ecr5AwLMEcxtr1v4yaHEicKf3NHBtE0="
+    },
+    "type": "primary"
+  },
+  "SUDs Rodryk's Dragon Bridge Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "v1",
+      "file_id": 409549,
+      "file_name": "Rodryk's Dragon Bridge Patch-85824-v1-1690050321.7z",
+      "mod_id": 85824,
+      "hash": "sha256-lkXUOzKHoLouEDnOIKd5Iiu1jgc/7V42rH+PWMQuIR4="
+    }
+  },
+  "SUDs Ryn's Sleeping Giant Inn Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "v1",
+      "file_id": 409667,
+      "file_name": "Ryn's Sleeping Giant Inn Patch-85824-v1-1690068050.rar",
+      "mod_id": 85824,
+      "hash": "sha256-fJjm/BYsOebXORDg6XldhE1XhqqNG1lje+sGhfXaPYM="
+    }
+  },
+  "SUDs JK's Interiors of EEK's Whiterun": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "v1",
+      "file_id": 409668,
+      "file_name": "SUDs JK's Interiors of EEK's Whiterun-85824-v1-1690068192.rar",
+      "mod_id": 85824,
+      "hash": "sha256-15mXkq6T28leKF9BK5Xo1ht3uEixwKW3rrJNQj0WQ1A="
+    }
+  },
+  "SUDs Nightgate Inn Reimagined patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "v1",
+      "file_id": 409670,
+      "file_name": "SUDs Nightgate Inn Reimagined patch-85824-v1-1690068569.7z",
+      "mod_id": 85824,
+      "hash": "sha256-1F1qNJn+uKIsQPg9kSjU1T1J7HL78pGC2qsn0bX7fqo="
+    }
+  },
+  "SUDs Replacement ESP": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1",
+      "file_id": 601508,
+      "file_name": "SUDs Replacement ESP-85824-1-1-1741039424.7z",
+      "mod_id": 85824,
+      "hash": "sha256-1oSvk4ZvTXNyuJP8vMQr/XPsjvuQdyHQ18F0mId+iNI="
+    }
+  }
+}

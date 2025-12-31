@@ -1,0 +1,33 @@
+{
+  "Cania Body 74": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1",
+      "file_id": 499690,
+      "file_name": "Cania Body 74-119071-1-1715332865.rar",
+      "mod_id": 119071,
+      "hash": "sha256-gPZ1+WwoFuJ7RwlnBTIapbUixvgooCBZatiWpbBg8s4="
+    }
+  },
+  "OBody NG with CBBE HIMBO and TNG blacklist": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1",
+      "file_id": 618390,
+      "file_name": "OBody NG with CBBE HIMBO and TNG blacklist-119071-1-1-1744932841.rar",
+      "mod_id": 119071,
+      "hash": "sha256-FwU9Bjjpfzp3zgi9BES56y1GPqv9P/oaHTM50CnVoHg="
+    },
+    "type": "primary"
+  },
+  "OBody NG preset blacklist and no elder blacklist": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1",
+      "file_id": 618391,
+      "file_name": "OBody NG preset blacklist and no elder blacklist-119071-1-1-1744932975.rar",
+      "mod_id": 119071,
+      "hash": "sha256-b4nI3Y3k2pGPELckPbt+Z2rVxWGAoxIS4R48bVZsodM="
+    }
+  }
+}

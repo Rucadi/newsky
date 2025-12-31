@@ -1,0 +1,53 @@
+{
+  "4K Atronach Forge": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 409093,
+      "file_name": "4K Atronach Forge-96302-1-0-1689932675.7z",
+      "mod_id": 96302,
+      "hash": "sha256-XG2QsPPWaxz6LNxDzZdtvkr9+93meEh9LbvOqkcULo8="
+    },
+    "type": "primary"
+  },
+  "2K Atronach Forge": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 409094,
+      "file_name": "2K Atronach Forge-96302-1-0-1689932724.7z",
+      "mod_id": 96302,
+      "hash": "sha256-/5z6RVhsfrEQWLT45KtglqHQR7qBlgNGvqjTRY7FncM="
+    }
+  },
+  "4K Texture ONLY": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 409101,
+      "file_name": "4K Texture ONLY-96302-1-0-1689934591.7z",
+      "mod_id": 96302,
+      "hash": "sha256-JdsWxGBSFa+51B2tdkrUe3Mp8WYc46hOyjIhZVw5NDM="
+    }
+  },
+  "2K Texture ONLY": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 409102,
+      "file_name": "2K Texture ONLY-96302-1-0-1689934635.7z",
+      "mod_id": 96302,
+      "hash": "sha256-otWDR97MviDPY/UQAKCm/JP2FRP1g6YH8fholgbl0yw="
+    }
+  },
+  "Better Atronach Forge Offering Box Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1",
+      "file_id": 558912,
+      "file_name": "Better Atronach Forge Offering Box Patch-96302-1-1-1730737145.7z",
+      "mod_id": 96302,
+      "hash": "sha256-0aR0L5bQ2Iz9f7m0DPBWwayl3Zae5zqjGF/yHHnn6/U="
+    }
+  }
+}

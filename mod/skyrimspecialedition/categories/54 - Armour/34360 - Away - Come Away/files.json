@@ -1,0 +1,23 @@
+{
+  "Away - Come Away": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.2.1",
+      "file_id": 134290,
+      "file_name": "Away - Come Away-34360-1-2-1-1586880705.rar",
+      "mod_id": 34360,
+      "hash": "sha256-G4FFs+cK4SQyqCRWAP+CDHFPtQTDq7P2VoxXmDZOLBI="
+    },
+    "type": "primary"
+  },
+  "(Updated) Optional BodySlide slider support": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1.0",
+      "file_id": 136894,
+      "file_name": "(Updated) Optional BodySlide slider support-34360-1-1-0-1588123334.zip",
+      "mod_id": 34360,
+      "hash": "sha256-5qVjbCqXEkqOClZVxK0vhXiW+DxbdxXDFsmJLTIUZRA="
+    }
+  }
+}

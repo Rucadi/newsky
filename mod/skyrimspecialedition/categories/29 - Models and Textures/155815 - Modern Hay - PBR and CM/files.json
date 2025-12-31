@@ -1,0 +1,68 @@
+{
+  "Modern Hay PBR 4k": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1",
+      "file_id": 651164,
+      "file_name": "Modern Hay PBR 4k-155815-1-1753818078.7z",
+      "mod_id": 155815,
+      "hash": "sha256-pSmC2QH7Q3/gxLAcVMzdrDhLvR1XS/a7kvuz2Bctwj0="
+    },
+    "type": "primary"
+  },
+  "Modern Hay PBR 2k": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1",
+      "file_id": 651165,
+      "file_name": "Modern Hay PBR 2k-155815-1-1753818227.7z",
+      "mod_id": 155815,
+      "hash": "sha256-ikB1qh4RfkYxU+WPaHfTYzwilLVoIke5RB8wXWeOopw="
+    },
+    "type": "primary"
+  },
+  "Modern Hay PBR 1k": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1",
+      "file_id": 651166,
+      "file_name": "Modern Hay PBR 1k-155815-1-1753818457.7z",
+      "mod_id": 155815,
+      "hash": "sha256-VxNwETiSrwSzYZYTB9KEuYEBlQ7td6ao125cy8jX3sU="
+    },
+    "type": "primary"
+  },
+  "Modern Hay CM 4k": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1",
+      "file_id": 651191,
+      "file_name": "Modern Hay CM 4k-155815-1-1753823562.7z",
+      "mod_id": 155815,
+      "hash": "sha256-3gzaecHVD0pdhaViVQDPDghWZAN1ONW8jo53vDVxdyU="
+    },
+    "type": "primary"
+  },
+  "Modern Hay CM 2k": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "2",
+      "file_id": 651193,
+      "file_name": "Modern Hay CM 2k-155815-2-1753823708.7z",
+      "mod_id": 155815,
+      "hash": "sha256-Y+H8fG/8eE+NYIFSXQcsqvyUHbm9DldCqxnlNO8gFGQ="
+    },
+    "type": "primary"
+  },
+  "Modern Hay CM 1k": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1",
+      "file_id": 651194,
+      "file_name": "Modern Hay CM 1k-155815-1-1753823761.7z",
+      "mod_id": 155815,
+      "hash": "sha256-mT3K+GbXC+DSOHS3Za6hQOjzjPVhZniPpIy+vpKn9ks="
+    },
+    "type": "primary"
+  }
+}

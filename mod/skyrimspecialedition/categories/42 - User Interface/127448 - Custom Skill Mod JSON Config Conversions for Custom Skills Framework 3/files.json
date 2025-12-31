@@ -1,0 +1,77 @@
+{
+  "Unarmored Defence - CSF 3 JSON": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 534332,
+      "file_name": "Unarmored Defence - CSF 3 JSON-127448-1-0-1724378907.7z",
+      "mod_id": 127448,
+      "hash": "sha256-+otRNQZCNERwJV770bru85ZOiqHpStP0R1tuK5ohjqU="
+    },
+    "type": "primary"
+  },
+  "Prelude to Purgatory - CSF 3 JSON": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 534334,
+      "file_name": "Prelude to Purgatory - CSF 3 JSON-127448-1-0-1724378962.7z",
+      "mod_id": 127448,
+      "hash": "sha256-zSnsrrg1/TkUWLH5Vr3WmUfR4vTyOiNcw4rfR9Pb/kw="
+    },
+    "type": "primary"
+  },
+  "Hand to Hand - CSF 3 JSON": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 534338,
+      "file_name": "Hand to Hand - CSF 3 JSON-127448-1-0-1724381048.7z",
+      "mod_id": 127448,
+      "hash": "sha256-V3utY4vCC2DtqobCVK1A7OCO6Sbg585K4SJcHZfa27Q="
+    },
+    "type": "primary"
+  },
+  "VIGILANT - CSF 3 JSON": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1",
+      "file_id": 534590,
+      "file_name": "VIGILANT - CSF 3 JSON-127448-1-1-1724443321.7z",
+      "mod_id": 127448,
+      "hash": "sha256-E6sOxPzjQopFyGfxemsdJPDLKxrTkjW0LlxLOXrGMQ4="
+    },
+    "type": "primary"
+  },
+  "GLENMORIL - CSF 3 JSON": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 534600,
+      "file_name": "GLENMORIL - CSF 3 JSON-127448-1-0-1724445945.7z",
+      "mod_id": 127448,
+      "hash": "sha256-dEuEHcMU9lQgsVuxBLqBYzE8V+Bt8PaG0dyMxcWkEug="
+    },
+    "type": "primary"
+  },
+  "VIGIALNT - Placed Idol of Stendarr in Windpeak Inn": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 534623,
+      "file_name": "VIGIALNT - Placed Idol of Stendarr in Windpeak Inn-127448-1-0-1724450399.7z",
+      "mod_id": 127448,
+      "hash": "sha256-M912Lb0Xq2p/d1ymQdykDqFXKTCLad3aPK722cHiQn4="
+    }
+  },
+  "GLENMORIL - Placed Music Box next to Lalanoah": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 534625,
+      "file_name": "GLENMORIL - Placed Music Box next to Lalanoah-127448-1-0-1724450618.7z",
+      "mod_id": 127448,
+      "hash": "sha256-+oz9FbyhTD6xXcnwDrSCO1rdgiXSgPS+27v8UicjTF0="
+    }
+  }
+}

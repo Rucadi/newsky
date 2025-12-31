@@ -1,0 +1,23 @@
+{
+  "JS Ioun Stones SE - No ENB Light Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 308337,
+      "file_name": "JS Ioun Stones SE - No ENB Light Patch-50956-1-0-1660777367.7z",
+      "mod_id": 50956,
+      "hash": "sha256-dok4Xytn0Fus3yn+7L5lsPTdninSfPhEEIR0LA7hZsg="
+    }
+  },
+  "JS Ioun Stones SE": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1",
+      "file_id": 568172,
+      "file_name": "JS Ioun Stones SE-50956-1-1-1733113331.7z",
+      "mod_id": 50956,
+      "hash": "sha256-qlojFpvZg4hhYMR50pWU+qLS2j8qjPQ2FIjKFsTpxXI="
+    },
+    "type": "primary"
+  }
+}

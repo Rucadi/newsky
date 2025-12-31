@@ -1,0 +1,97 @@
+{
+  "DLC Clothes": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1",
+      "file_id": 527325,
+      "file_name": "DLC Clothes-125513-1-1722532381.7z",
+      "mod_id": 125513,
+      "hash": "sha256-9AQzNLgpzKCr0tbtq7xERKhumPsV5QESi5mvucA+ck0="
+    },
+    "type": "primary"
+  },
+  "PBR Vanilla Clothes v2 - Full Res": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "2.1",
+      "file_id": 575457,
+      "file_name": "PBR Vanilla Clothes v2 - Full Res-125513-2-1-1734994487.7z",
+      "mod_id": 125513,
+      "hash": "sha256-rUV5on1pM3KkbpXnP/CAtG1R4kU6Aqr4S7rjKLVySW0="
+    }
+  },
+  "PBR Vanilla Clothes v2 - Smaller": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "2",
+      "file_id": 575476,
+      "file_name": "PBR Vanilla Clothes v2 - Smaller-125513-2-1734996941.7z",
+      "mod_id": 125513,
+      "hash": "sha256-kLwd9DgMcldVJir3Zx/WIxIKxkcZZMQyZOL7F7FjW0A="
+    }
+  },
+  "PBR Vanilla Clothes v2 - Smallest": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "2",
+      "file_id": 575480,
+      "file_name": "PBR Vanilla Clothes v2 - Smallest-125513-2-1734997392.7z",
+      "mod_id": 125513,
+      "hash": "sha256-60niRkgylsP0qVZ+r6xHqEHfGixG1w7bVQ3umM/SGt0="
+    }
+  },
+  "Vanilla Clothes v1": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1",
+      "file_id": 575718,
+      "file_name": "Vanilla Clothes v1-125513-1-1-1735057538.7z",
+      "mod_id": 125513,
+      "hash": "sha256-F19m0s8nlP5++e/BCGrIi3ZPyu9bdjJ5LvnrCIVmGQA="
+    }
+  },
+  "PBR Vanilla Clothes v3 - Full Res": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "3",
+      "file_id": 576199,
+      "file_name": "PBR Vanilla Clothes v3 - Full Res-125513-3-1735224129.7z",
+      "mod_id": 125513,
+      "hash": "sha256-peu+PquTJd3OJFWnh/p0ZfFmXyZxCI1Yu+yhjsnTeE0="
+    },
+    "type": "primary"
+  },
+  "PBR Vanilla Clothes v3 - Full Res BC1": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "3",
+      "file_id": 576218,
+      "file_name": "PBR Vanilla Clothes v3 - Full Res BC1-125513-3-1735229854.7z",
+      "mod_id": 125513,
+      "hash": "sha256-yR5ReNi3sBN0TG8XBb4fzoID3V9oVycwWarQGwne/FU="
+    },
+    "type": "primary"
+  },
+  "PBR Vanilla Clothes v3 - Half Res": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "3",
+      "file_id": 576228,
+      "file_name": "PBR Vanilla Clothes v3 - Half Res-125513-3-1735231223.7z",
+      "mod_id": 125513,
+      "hash": "sha256-wYg/x2BDvsw0WasA1kwIV9nSxN/+rCQ58EOMvjto0BM="
+    },
+    "type": "primary"
+  },
+  "Handmade PBR Clothes": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.6",
+      "file_id": 628206,
+      "file_name": "Handmade PBR Clothes-125513-1-6-1747516926.7z",
+      "mod_id": 125513,
+      "hash": "sha256-OMYp1GkArvs/p4Kh58tlAf26u/r2fQyuPLoC70xuc1E="
+    },
+    "type": "primary"
+  }
+}

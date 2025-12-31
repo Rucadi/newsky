@@ -1,0 +1,35 @@
+{
+  "Skyking Hanging Moss - 4k": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 626829,
+      "file_name": "Skyking Hanging Moss - 4k-150002-1-0-1747159828.7z",
+      "mod_id": 150002,
+      "hash": "sha256-7fb8mkccITOvq3ZL5G1U1rRfr5aNY5lKxJdBb4ofSfE="
+    },
+    "type": "primary"
+  },
+  "Skyking Hanging Moss - 2k": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 626830,
+      "file_name": "Skyking Hanging Moss - 2k-150002-1-0-1747159852.7z",
+      "mod_id": 150002,
+      "hash": "sha256-Wq8llozuRTjgCr48vOcL/J3Tt2d0JtKVL37VRvVm4Vc="
+    },
+    "type": "primary"
+  },
+  "Skyking Hanging Moss - 1k": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 626831,
+      "file_name": "Skyking Hanging Moss - 1k-150002-1-0-1747159875.7z",
+      "mod_id": 150002,
+      "hash": "sha256-tAnTcBuL4hgoMT1RAUZmzrE6Mh3gpH3NmzVXRXnD6Xs="
+    },
+    "type": "primary"
+  }
+}

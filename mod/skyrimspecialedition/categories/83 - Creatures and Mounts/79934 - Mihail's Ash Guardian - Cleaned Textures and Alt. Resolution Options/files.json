@@ -1,0 +1,44 @@
+{
+  "Mihail's Ash Guardian - Textures 2K": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1",
+      "file_id": 371759,
+      "file_name": "Mihail's Ash Guardian - Textures 2K-79934-1-0-1679698788.7z",
+      "mod_id": 79934,
+      "hash": "sha256-QRjD7At7O+eU81U9UVa6Nwt8d7i+4cfoG5hhn3nklKI="
+    },
+    "type": "primary"
+  },
+  "Mihail's Ash Guardian - Textures 4K": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1",
+      "file_id": 371760,
+      "file_name": "Mihail's Ash Guardian - Textures 4K-79934-1-0-1679698791.7z",
+      "mod_id": 79934,
+      "hash": "sha256-CTpZriFDvVOFZ8BQQd+VHnA7S5+nfuzqtWXF4WOWeCE="
+    },
+    "type": "primary"
+  },
+  "2k-1k Textures for Baked Potatoes": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1",
+      "file_id": 371761,
+      "file_name": "2k-1k Textures for Baked Potatoes-79934-1-1-1679698843.7z",
+      "mod_id": 79934,
+      "hash": "sha256-h8bKpz1kvSwirhWUg2yoplqu58O0E2xKwVk2SefvvtY="
+    }
+  },
+  "1k-512 Textures for Mashed Potatoes": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1",
+      "file_id": 371762,
+      "file_name": "1k-512 Textures for Mashed Potatoes-79934-1-1-1679698906.7z",
+      "mod_id": 79934,
+      "hash": "sha256-cE+hWJUvokK89j8XcTBAM0SkJ6y1AtATSrBjj4aIRPE="
+    }
+  }
+}

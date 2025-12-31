@@ -1,0 +1,68 @@
+{
+  "Kvetchi Mercenary Set - PBR": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0.PBR",
+      "file_id": 617405,
+      "file_name": "Kvetchi Mercenary Set - PBR-147695-1-0-PBR-1744682853.7z",
+      "mod_id": 147695,
+      "hash": "sha256-BdSdUr6C255w3VA025ZbmB9VH59DUU9tAuTOXOoY2aM="
+    },
+    "type": "primary"
+  },
+  "Colovian Prince Set - PBR": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0.PBR",
+      "file_id": 617406,
+      "file_name": "Colovian Prince Set - PBR-147695-1-0-PBR-1744682892.7z",
+      "mod_id": 147695,
+      "hash": "sha256-btCAukWlpzM63FqbL5upe+Vqs2E0oEcISMRkeKJEaFU="
+    },
+    "type": "primary"
+  },
+  "Ferrum Nibenis - PBR": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0.PBR",
+      "file_id": 617407,
+      "file_name": "Ferrum Nibenis - PBR-147695-1-0-PBR-1744682965.7z",
+      "mod_id": 147695,
+      "hash": "sha256-o1OLt9yK75VQs9Wk52I/zP+0LYpVUKm0iROQhh3KUOs="
+    },
+    "type": "primary"
+  },
+  "Armor of Titus Mede I - PBR": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0.PBR",
+      "file_id": 617812,
+      "file_name": "Armor of Titus Mede I-147695-1-0-PBR-1744789176.7z",
+      "mod_id": 147695,
+      "hash": "sha256-6T6XFDBodqHxCrZJXQxmWVBYn/epTOIAX7gulYP9/Rc="
+    },
+    "type": "primary"
+  },
+  "Armors of the Velothi Pt. I - PBR": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0.PBR",
+      "file_id": 619921,
+      "file_name": "Armors of the Velothi Pt. I - PBR-147695-1-0-PBR-1745268292.7z",
+      "mod_id": 147695,
+      "hash": "sha256-TPSRm36Z3vI6MkXInl+Gwktu2q4SI9p21CreV0pGxtI="
+    },
+    "type": "primary"
+  },
+  "Woodland Wizard Robes - PBR": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0.PBR",
+      "file_id": 619952,
+      "file_name": "Woodland Wizard Robes - PBR-147695-1-0-PBR-1745276237.7z",
+      "mod_id": 147695,
+      "hash": "sha256-ARFH/RT28D+uvPxbhpIXwv9BSlxTFaJ4rKWg9SLdybU="
+    },
+    "type": "primary"
+  }
+}

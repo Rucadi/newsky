@@ -1,0 +1,33 @@
+{
+  "Remy_SkyChild_Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1",
+      "file_id": 571179,
+      "file_name": "Remy_Skychild_Patch-136098-1-1733874746.7z",
+      "mod_id": 136098,
+      "hash": "sha256-F4g+RZt4F+Zvr5TtF0LbbWBf3BUaTnp9bzZKMTl7B54="
+    },
+    "type": "primary"
+  },
+  "Remy_Alt1": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1",
+      "file_id": 574073,
+      "file_name": "Remy_Alt1-136098-1-1734655718.7z",
+      "mod_id": 136098,
+      "hash": "sha256-QcWxivsR5WQ0Kxd3keg23qThdTupFxSd1IwZGMdu+Ik="
+    }
+  },
+  "Remy_Alt2": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1",
+      "file_id": 574075,
+      "file_name": "Remy_Alt2-136098-1-1734655793.7z",
+      "mod_id": 136098,
+      "hash": "sha256-r4TFRCtkMkfDDAmOgs3Hr9QUvXkshUMyte2ZIf4db/s="
+    }
+  }
+}

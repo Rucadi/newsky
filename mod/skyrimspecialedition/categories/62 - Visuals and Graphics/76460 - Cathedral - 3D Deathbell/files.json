@@ -1,0 +1,23 @@
+{
+  "Cathedral - 3D Deathbell": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1",
+      "file_id": 321269,
+      "file_name": "Cathedral - 3D Deathbell-76460-1-1-1664789773.zip",
+      "mod_id": 76460,
+      "hash": "sha256-4SJgq2S6MvUfboGrk8P6QpTbrlO7JO/WQ38okRzFPd4="
+    },
+    "type": "primary"
+  },
+  "Cathedral - 3D Deathbell ENB-lights": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1b",
+      "file_id": 322917,
+      "file_name": "Cathedral - 3D Deathbell ENB-lights-76460-1-1b-1665365900.rar",
+      "mod_id": 76460,
+      "hash": "sha256-pUr9w7VHwakDIVuKOWq98lKwERA4V0OwON0+EBHRnLU="
+    }
+  }
+}

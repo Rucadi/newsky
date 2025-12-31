@@ -1,0 +1,43 @@
+{
+  "JaySuS Swords SE - German translation": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.7.3",
+      "file_id": 127134,
+      "file_name": "JaySuS Swords SE - German translation-29415-1-7-3-1583323648.7z",
+      "mod_id": 29415,
+      "hash": "sha256-s0rfd8CLKniSxB8raOrgMfqA2yAM75DZhKOZrEj+MNk="
+    }
+  },
+  "JaySuS Swords SE - All in one": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.8",
+      "file_id": 132280,
+      "file_name": "JaySuS Swords SE - All in one-29415-1-8-1585954085.7z",
+      "mod_id": 29415,
+      "hash": "sha256-TvRWJ45/8YMUee3kxWGkoc2Ykw1F1fI+QvvrTXPlUxE="
+    },
+    "type": "primary"
+  },
+  "Bigger legionaire sword blood hotfix": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 137653,
+      "file_name": "Bigger legionaire sword blood hotfix-29415-1-0-1588444550.7z",
+      "mod_id": 29415,
+      "hash": "sha256-XRadllGchqQiXX+B6r2MydUYau/AMUYtwo60Mkh+/T0="
+    }
+  },
+  "Baskethilt straps fix": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 176576,
+      "file_name": "Baskethilt straps fix-29415-1-0-1609201377.7z",
+      "mod_id": 29415,
+      "hash": "sha256-d0ahqkCafxwQK56berzLLHawpeY706HdTa575JUy8ng="
+    }
+  }
+}

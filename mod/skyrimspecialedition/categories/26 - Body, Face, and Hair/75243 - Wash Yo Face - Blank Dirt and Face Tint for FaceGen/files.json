@@ -1,0 +1,24 @@
+{
+  "Wash Yo Face - Blank Dirt": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 315768,
+      "file_name": "Wash Yo Face - Blank Dirt-75243-1-0-1663066346.7z",
+      "mod_id": 75243,
+      "hash": "sha256-SFZaplOY9/7n7gXvjU3ZdOJbyk8xorhmM+JxL5jUajs="
+    },
+    "type": "primary"
+  },
+  "Wash Yo Face - Blank Face Shaders": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 315770,
+      "file_name": "Wash Yo Face - Blank Face Shaders-75243-1-0-1663066410.7z",
+      "mod_id": 75243,
+      "hash": "sha256-FtAx2FY8MlPhi3bSeJVWqZo1i5LS+Y8hn9gm7Uf1hpg="
+    },
+    "type": "primary"
+  }
+}

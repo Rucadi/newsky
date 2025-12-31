@@ -1,0 +1,23 @@
+{
+  "Great Town of Ivarstead Patch Collection": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "3.3",
+      "file_id": 670539,
+      "file_name": "Great Town of Ivarstead Patch Collection-36380-3-3-1759168712.rar",
+      "mod_id": 36380,
+      "hash": "sha256-/QMmpdvy63+iy7mFRmLkpnldDUYK4yEV/Ssd/qHC8es="
+    },
+    "type": "primary"
+  },
+  "Great Town of Ivarstead - JK Diverse Chicken Coops": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "3.3",
+      "file_id": 685745,
+      "file_name": "Great Town of Ivarstead - JK Diverse Chicken Coops-36380-3-3-1762702209.rar",
+      "mod_id": 36380,
+      "hash": "sha256-nePj8R0wpOUYm47uXwUpgPRFkDEeUI9knx6P1Laz9QY="
+    }
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "Nocturnal's Favor": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1",
+      "file_id": 677504,
+      "file_name": "Nocturnal's Favor-145787-1-0-1760822913.rar",
+      "mod_id": 145787,
+      "hash": "sha256-g2r5YdWyIf+c8kqmQItEpoi0/sucO1UYwPuG6HLHfVU="
+    },
+    "type": "primary"
+  },
+  "Nocturnal's exchange patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1",
+      "file_id": 677505,
+      "file_name": "Nocturnal's exchange patch-145787-1-0-1760822957.rar",
+      "mod_id": 145787,
+      "hash": "sha256-vZX8+rnMxI01kR6lltvLqZn5LpR71pAt9upX7hEzq0s="
+    }
+  }
+}

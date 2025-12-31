@@ -1,0 +1,56 @@
+{
+  "Tomato's Riften PBR edge FIXER": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 657963,
+      "file_name": "Tomato's Riften PBR edge FIXER-157340-1-0-1755827580.7z",
+      "mod_id": 157340,
+      "hash": "sha256-wPdSCbI/IcHinLVRgSY3y+eEC7E3fEe/ynHcuprsdrw="
+    }
+  },
+  "Tomato's Riften Complex Parallax - 4K": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 658018,
+      "file_name": "Tomato's Riften Complex Parallax - 4K-157340-1-0-1755840346.7z",
+      "mod_id": 157340,
+      "hash": "sha256-BA/irRZos6XfpdQRG6sXz0z65AE06K1qdpbTE+9f6pQ="
+    },
+    "type": "primary"
+  },
+  "Tomato's Riften Complex Parallax - 2K": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 658019,
+      "file_name": "Tomato's Riften Complex Parallax - 2K-157340-1-0-1755840348.7z",
+      "mod_id": 157340,
+      "hash": "sha256-cO2ZYsof0OYB4C3q0ql3a+zYBQRWtwZTT1m85zPmRUU="
+    },
+    "type": "primary"
+  },
+  "Tomato's Riften PBR - 2k": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 658020,
+      "file_name": "Tomato's Riften PBR - 2k-157340-1-0-1755840351.7z",
+      "mod_id": 157340,
+      "hash": "sha256-ObXlLjsQPwPGY5uLncR1Ch0l2QOCgYnI8wpdMzzslqM="
+    },
+    "type": "primary"
+  },
+  "Tomato's Riften PBR - 4k": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 658021,
+      "file_name": "Tomato's Riften PBR - 4k-157340-1-0-1755840354.7z",
+      "mod_id": 157340,
+      "hash": "sha256-kdYJoEdZWW7InLc70FAlO3+xRGpEjo+dn97p1tNBKiw="
+    },
+    "type": "primary"
+  }
+}

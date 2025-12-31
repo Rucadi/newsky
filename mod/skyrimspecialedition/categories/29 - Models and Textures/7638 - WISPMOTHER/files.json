@@ -1,0 +1,34 @@
+{
+  "Wispmother.4x2k": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 18464,
+      "file_name": "Wispmother.4x2k-7638-1-0.7z",
+      "mod_id": 7638,
+      "hash": "sha256-NrcSp0CcRqPqfGQDktn9NXrVQSteg1BzAWotpyfq//M="
+    },
+    "type": "primary"
+  },
+  "Wispmother.2x1k": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 18465,
+      "file_name": "Wispmother.2x1k-7638-1-0.7z",
+      "mod_id": 7638,
+      "hash": "sha256-yaSndlLhreMwttb/1i7GpYCh48lqiVehZ+9pgGgKbr0="
+    },
+    "type": "primary"
+  },
+  "Wispmother.1kx512": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 18466,
+      "file_name": "Wispmother.1kx512-7638-1-0.7z",
+      "mod_id": 7638,
+      "hash": "sha256-coZfO0eLDhWJ62VpN3bVhPkyK7TMjcvv13iRAGP7e/w="
+    }
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "Vanilla Hair Flow Maps": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 653312,
+      "file_name": "Vanilla Hair Flow Maps-149011-1-0-1754485462.7z",
+      "mod_id": 149011,
+      "hash": "sha256-xY/3qPeipUxqjezrPbwy7lVFZhQ45TmFSKBWMaF9rwA="
+    }
+  },
+  "Hair Specular": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0.1",
+      "file_id": 669309,
+      "file_name": "Hair Specular-149011-1-0-1-1758811586.7z",
+      "mod_id": 149011,
+      "hash": "sha256-WREl2pPTlytPj/Y5tluJE/lyrG0ZyzdcEbXJC/PwCzw="
+    },
+    "type": "primary"
+  }
+}

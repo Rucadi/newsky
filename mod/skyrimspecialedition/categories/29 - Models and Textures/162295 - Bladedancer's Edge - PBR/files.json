@@ -1,0 +1,24 @@
+{
+  "Bladedancer's Edge - PBR": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "2.0",
+      "file_id": 682606,
+      "file_name": "Bladedancer's Edge - PBR v2-162295-2-0-1762004421.7z",
+      "mod_id": 162295,
+      "hash": "sha256-/DpYFKFXEPWnux8bsRQ9zTwLlOH5d/TsmlpyOR2fKTM="
+    },
+    "type": "primary"
+  },
+  "Bladedancer's Edge - PBR v2 - Half Res": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "2.0",
+      "file_id": 682607,
+      "file_name": "Bladedancer's Edge - PBR v2 - Half Res-162295-2-0-1762004577.7z",
+      "mod_id": 162295,
+      "hash": "sha256-Tt42TDqhg9+EVqb2KtLxfPz9nFcZ5Tqd0BtBBHkd+0c="
+    },
+    "type": "primary"
+  }
+}

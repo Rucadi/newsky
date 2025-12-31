@@ -1,0 +1,35 @@
+{
+  "Vanilla hair remake  - patches": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "3.2",
+      "file_id": 552400,
+      "file_name": "Vanilla hair remake  - patches-117861-3-2-1729014404.zip",
+      "mod_id": 117861,
+      "hash": "sha256-IS071bBwu1gkgTWvCzaMlEMxrwqt7HkkkKH5JcaWCBQ="
+    },
+    "type": "primary"
+  },
+  "Vanilla hair remake unlocked addon - SMP (physics)": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "3.4",
+      "file_id": 674296,
+      "file_name": "Vanilla hair remake unlocked addon - SMP (physics)-117861-3-4-1760116238.zip",
+      "mod_id": 117861,
+      "hash": "sha256-/9xWlWll/A31cSkp0JZ1RDU5iDzZb+TXRtDBBOREnZw="
+    },
+    "type": "primary"
+  },
+  "Vanilla hair remake unlocked addon - STATIC": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "3.4",
+      "file_id": 686485,
+      "file_name": "Vanilla hair remake unlocked addon - STATIC-117861-3-4-1762880890.zip",
+      "mod_id": 117861,
+      "hash": "sha256-OMw0eo3bnv/Or2lTrQOs94XMfuo4CVbNusOfQPpqeAw="
+    },
+    "type": "primary"
+  }
+}

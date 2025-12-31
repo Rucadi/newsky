@@ -1,0 +1,23 @@
+{
+  "Quest Journal Overhaul": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.3",
+      "file_id": 608018,
+      "file_name": "Quest Journal Overhaul-141295-1-3-1742568550.zip",
+      "mod_id": 141295,
+      "hash": "sha256-th2orxbyP/4Sg2Oqx3dxjWglKnqBydH8BpkJC2QP8yw="
+    },
+    "type": "primary"
+  },
+  "Widescreen Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.3",
+      "file_id": 608020,
+      "file_name": "Widescreen Patch-141295-1-3-1742568588.zip",
+      "mod_id": 141295,
+      "hash": "sha256-/eOnWyN3yhf5cbMIczfAYnpKB0upvvdn09wv98RX0bk="
+    }
+  }
+}

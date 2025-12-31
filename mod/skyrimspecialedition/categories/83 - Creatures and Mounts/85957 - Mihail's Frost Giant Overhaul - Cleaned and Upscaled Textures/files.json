@@ -1,0 +1,55 @@
+{
+  "Mihail's Frost Giants Textures 8K": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 364040,
+      "file_name": "Mihail's Frost Giants Textures 8K-85957-1-0-1677545041.7z",
+      "mod_id": 85957,
+      "hash": "sha256-LkmKc3NshBcCqhqUsIaGuDKP679JRfS/xq4BPpQZZ2M="
+    },
+    "type": "primary"
+  },
+  "Mihail's Frost Giants Textures 4K": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 364041,
+      "file_name": "Mihail's Frost Giants Textures 4K-85957-1-0-1677545043.7z",
+      "mod_id": 85957,
+      "hash": "sha256-A5g+W7EeOuW+4xZTQHSlDAOxSiRwuiQEwEp3wJPN5/c="
+    },
+    "type": "primary"
+  },
+  "Mihail's Frost Giants Textures 2K": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 364042,
+      "file_name": "Mihail's Frost Giants Textures 82K-85957-1-0-1677545098.7z",
+      "mod_id": 85957,
+      "hash": "sha256-KVQq8ah1C/4d1xnp4nqtOeIJxsdEQec/wI8AB+hO55g="
+    },
+    "type": "primary"
+  },
+  "1k-512 Textures for Mashed Potatoes": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 364043,
+      "file_name": "1k-512 Textures for Mashed Potatoes-85957-1-0-1677545119.7z",
+      "mod_id": 85957,
+      "hash": "sha256-BruedRb2GwfbcClfY+ONU5arZ+rr312X33Uvg1glvws="
+    }
+  },
+  "2k-1k Textures for Baked Potatoes": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 364044,
+      "file_name": "2k-1k Textures for Baked Potatoes-85957-1-0-1677545121.7z",
+      "mod_id": 85957,
+      "hash": "sha256-AHgWocpFVV97Voo8fK+jDMo1KTD1M7JEU8xZWtPlYa4="
+    }
+  }
+}

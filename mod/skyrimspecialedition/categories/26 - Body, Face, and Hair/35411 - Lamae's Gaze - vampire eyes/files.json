@@ -1,0 +1,43 @@
+{
+  "PAN_Lamae's Gaze - vanilla vampires": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1",
+      "file_id": 251661,
+      "file_name": "PAN_Lamae's Gaze - vanilla vampires-35411-1-0-1640443933.rar",
+      "mod_id": 35411,
+      "hash": "sha256-TsirA5nhxu6J2ZkT/jjz9TCvYLwvYY1/+t36OUbI9Vc="
+    }
+  },
+  "PAN_Lamae's Gaze - RS Children patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1",
+      "file_id": 325883,
+      "file_name": "PAN_Lamae's Gaze - RS Children patch-35411-1-1-1666478270.rar",
+      "mod_id": 35411,
+      "hash": "sha256-+XLZiq9LkmzdXfJSuHrNwDO529OunkAb7hO68dd5juU="
+    }
+  },
+  "PAN_LamaesGaze SE": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "2.0",
+      "file_id": 466988,
+      "file_name": "PAN_LamaesGaze SE-35411-2-0-1706880680.rar",
+      "mod_id": 35411,
+      "hash": "sha256-fQ6xwMT5DfOS5KGPGnHs3pGIG/aEbUueOIkCdnNU/1M="
+    },
+    "type": "primary"
+  },
+  "Lamae's Gaze - Pandorable's vampires customization": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "2.0.1",
+      "file_id": 494160,
+      "file_name": "Lamae's Gaze - Pandorable's vampires customization-35411-2-0-1-1713914444.rar",
+      "mod_id": 35411,
+      "hash": "sha256-TqwtwpXeXOFnqAbYr3fH5HhHdKxWy7kBs8YX0fUUJUM="
+    }
+  }
+}

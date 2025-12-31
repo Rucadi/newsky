@@ -1,0 +1,64 @@
+{
+  "Boudiana Ravenscorn - No Warpaint": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 623858,
+      "file_name": "Boudiana Ravenscorn - No Warpaint-149254-1-0-1746428613.rar",
+      "mod_id": 149254,
+      "hash": "sha256-gd/FihHK+wvToe++jdkR0LGts62QCk7/pfK6nEqeIAg="
+    }
+  },
+  "Boudiana Ravenscorn - Uncompressed Audio WAV": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 623860,
+      "file_name": "Boudiana Ravenscorn - Uncompressed Audio WAV-149254-1-0-1746428698.rar",
+      "mod_id": 149254,
+      "hash": "sha256-jhKv9K1ArWiaoYOefdPWRUrF+WhjxYKdI1EMWufKhyU="
+    }
+  },
+  "Boudiana Ravenscorn - Wig Addon": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 623863,
+      "file_name": "Boudiana Ravenscorn - Wig Addon-149254-1-0-1746428844.rar",
+      "mod_id": 149254,
+      "hash": "sha256-qqKASK+WktbKMDhbv8t8NjHOR3dDEMfQNdDrDEvCYe8="
+    }
+  },
+  "Boudiana Ravenscorn - CBBE 3BA": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.02",
+      "file_id": 626003,
+      "file_name": "Boudiana Ravenscorn - CBBE 3BA-149254-1-02-1746963151.rar",
+      "mod_id": 149254,
+      "hash": "sha256-qmjzVkXaXEN0HxoHgKe7mTa65SLuDpQSBeRvvcLzvDw="
+    },
+    "type": "primary"
+  },
+  "Boudiana Ravenscorn - UNP BHUNP": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.02",
+      "file_id": 626004,
+      "file_name": "Boudiana Ravenscorn - UNP BHUNP-149254-1-02-1746963187.rar",
+      "mod_id": 149254,
+      "hash": "sha256-MHImiu1NQ6YWmSdjxlWCPjX689MilJ7iCwwWyExPCkY="
+    },
+    "type": "primary"
+  },
+  "Boudiana Ravenscorn - RSV Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 641420,
+      "file_name": "Boudiana Ravenscorn - RSV Patch-149254-1-0-1750817847.rar",
+      "mod_id": 149254,
+      "hash": "sha256-PxlmDSqhTuWPGpf10gcsrtJZhKAy6EjZySJSSuUNIks="
+    }
+  }
+}

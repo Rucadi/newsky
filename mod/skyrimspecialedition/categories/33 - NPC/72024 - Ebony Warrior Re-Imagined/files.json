@@ -1,0 +1,23 @@
+{
+  "Ebony Warrior Re-Imagined": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "2.0",
+      "file_id": 302060,
+      "file_name": "Ebony Warrior Re-Imagined-72024-2-0-1658746966.zip",
+      "mod_id": 72024,
+      "hash": "sha256-GhWbVEI1FLu6Ulw3JnXY6j3jrwmWd6u3Kwsm0Ex3K1E="
+    },
+    "type": "primary"
+  },
+  "Ryn's Last Vigil Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 321116,
+      "file_name": "Ryn's Last Vigil Patch-72024-1-0-1664730338.zip",
+      "mod_id": 72024,
+      "hash": "sha256-OtuZIchXq3nzVH0HUVRbeIup6y08WtJOURTgwmcqRj4="
+    }
+  }
+}

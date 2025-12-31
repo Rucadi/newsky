@@ -1,0 +1,23 @@
+{
+  "LOTD Load Screen Replacer - Spinning (AE-SE)": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "3.0",
+      "file_id": 303860,
+      "file_name": "LOTD Load Screen Replacer - Spinning (AE-SE)-31480-3-0-1659354741.7z",
+      "mod_id": 31480,
+      "hash": "sha256-vX6LIchg/QUX9UmsGhMgCkn9iEZkNGvgpJkBlqO8bDY="
+    },
+    "type": "primary"
+  },
+  "LOTD Load Screen Replacer - Stationary (AE-SE)": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "3.0",
+      "file_id": 303861,
+      "file_name": "LOTD Load Screen Replacer - Stationary (AE-SE)-31480-3-0-1659354881.7z",
+      "mod_id": 31480,
+      "hash": "sha256-DarDlW9SDVXFAomDBodZAJn2wGuFJTgKDXBl+fMgcG0="
+    }
+  }
+}

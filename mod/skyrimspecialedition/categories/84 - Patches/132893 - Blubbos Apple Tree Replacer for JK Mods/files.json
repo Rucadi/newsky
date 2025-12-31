@@ -1,0 +1,53 @@
+{
+  "Blubbo_Apple_Trees_for_JK_Skyrim_and_Outskirts.zip": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 557989,
+      "file_name": "Blubbo_Apple_Trees_for_JK_Skyrim_and_Outskirts.zip-132893-1-0-1730499504.zip",
+      "mod_id": 132893,
+      "hash": "sha256-WxvfTE3YtJDbIqrBEvjjO1gElE0++AV4fIU4Rsj5Yi8="
+    },
+    "type": "primary"
+  },
+  "Blubbos_Apple_trees_JK_3D_Lods.zip": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 558001,
+      "file_name": "Blubbos_Apple_trees_JK_3D_Lods.zip-132893-1-0-1730501697.zip",
+      "mod_id": 132893,
+      "hash": "sha256-V8E3zLHwUijtRcrMoRtDJQwmDhexI9FkHrO6+aHk7EQ="
+    }
+  },
+  "Blubbo_Apple_Trees_growable_plants.zip": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 558247,
+      "file_name": "Blubbo_Apple_Trees_growable_plants.zip-132893-1-0-1730561756.zip",
+      "mod_id": 132893,
+      "hash": "sha256-M2VGibMAYWWvi5HooIa3kRUC+9s7mT9mO+aH9splQjY="
+    }
+  },
+  "Blubbo_Apple_tree_kaidan2.zip": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 558477,
+      "file_name": "Blubbo_Apple_tree_kaidan2.zip-132893-1-0-1730629176.zip",
+      "mod_id": 132893,
+      "hash": "sha256-QHSlUqeqN5xnY6NsJ9ZzyewrS6oc3ozoCD1D1Dgh3lw="
+    }
+  },
+  "Blubbos_apple_trees_for_CACO.zip": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 558884,
+      "file_name": "Blubbos_apple_trees_for_CACO.zip-132893-1-0-1730726519.zip",
+      "mod_id": 132893,
+      "hash": "sha256-5RWFT20H5c1zNrS2K/YEW494eXmjSzYShQq9kuPCTnA="
+    }
+  }
+}

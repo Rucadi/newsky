@@ -1,0 +1,73 @@
+{
+  "Legacy of the Dragonborn - Vanilla Player Homes Displays - Elianora's Breezehome Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 264692,
+      "file_name": "Legacy of the Dragonborn - Vanilla Player Homes Displays - Elianora's Breezehome Patch-63706-1-0-1645053886.7z",
+      "mod_id": 63706,
+      "hash": "sha256-m+2tNUW3fsbJioQ2tUUBS0yPvMGhjjMVWYdBEkPbA8I="
+    }
+  },
+  "Legacy of the Dragonborn - Vanilla Player Homes Displays - Breezehome TNF Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 264693,
+      "file_name": "Legacy of the Dragonborn - Vanilla Player Homes Displays - Breezehome TNF Patch-63706-1-0-1645053945.7z",
+      "mod_id": 63706,
+      "hash": "sha256-GPL1Qh5ZaI7H/xZPuGncTxyjL8pl6QPtaF1uX85mFBk="
+    }
+  },
+  "Legacy of the Dragonborn - Vanilla Player Homes Displays - The Ravens Breezehome Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 264694,
+      "file_name": "Legacy of the Dragonborn - Vanilla Player Homes Displays - The Ravens Breezehome Patch-63706-1-0-1645053996.7z",
+      "mod_id": 63706,
+      "hash": "sha256-q16zreem6h3KjFlmO+jGgl971nsI8h5XD5TBPio9+jk="
+    }
+  },
+  "Legacy of the Dragonborn - Vanilla Player Homes Displays - Wind District Breezehome Reborn": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 264784,
+      "file_name": "Legacy of the Dragonborn - Vanilla Player Homes Displays - Wind District Breezehome Reborn-63706-1-0-1645082773.7z",
+      "mod_id": 63706,
+      "hash": "sha256-JtXA40j5fabNFImYoZLOo9ALZaCBxqmGe2b+0olamKY="
+    }
+  },
+  "Legacy of The Dragonborn - Cathedral 3D Mountain Flowers - Player Homes Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 285330,
+      "file_name": "Legacy of The Dragonborn - Cathedral 3D Mountain Flowers - Player Homes Patch-63706-1-0-1653102665.7z",
+      "mod_id": 63706,
+      "hash": "sha256-fc2d7rqlJLSvyzxeunf1smpHRXcTVq0DALntK2GYZqM="
+    }
+  },
+  "Legacy of the Dragonborn - Vanilla Player Homes Displays -TCC Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 292221,
+      "file_name": "Legacy of the Dragonborn - Vanilla Player Homes Displays -TCC Patch-63706-1-0-1655613922.7z",
+      "mod_id": 63706,
+      "hash": "sha256-tHpg+YBA43GlvwcIAUepuVcz9g/Jg5JM8VEYPzPw+dA="
+    }
+  },
+  "Legacy of the Dragonborn - Player Homes Displays": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1",
+      "file_id": 514363,
+      "file_name": "Legacy of the Dragonborn - Player Homes Displays-63706-1-1-1719196173.7z",
+      "mod_id": 63706,
+      "hash": "sha256-ErXRiwdoto28QSlSr0a5aXGP6oEU3L5OpocWNEfmy74="
+    },
+    "type": "primary"
+  }
+}

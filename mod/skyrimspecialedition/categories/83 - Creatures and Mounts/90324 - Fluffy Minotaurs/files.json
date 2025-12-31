@@ -1,0 +1,35 @@
+{
+  "Fluffy Minotaurs": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1",
+      "file_id": 383090,
+      "file_name": "Fluffy Minotaurs-90324-1-1682807950.7z",
+      "mod_id": 90324,
+      "hash": "sha256-EBV3wyIOOyFAzbDwVsgbSh8b75YsaePm3nDpGSJv+Rs="
+    },
+    "type": "primary"
+  },
+  "Fluffy High Minotaurs": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1",
+      "file_id": 383094,
+      "file_name": "Fluffy High Minotaurs-90324-1-1682808326.7z",
+      "mod_id": 90324,
+      "hash": "sha256-c39tmxJNd/6Ayu2cayYaiHKTVNwFeDF4N19SZsVLlYg="
+    },
+    "type": "primary"
+  },
+  "Fluffy Cyrodilic Minotaurs": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1",
+      "file_id": 383095,
+      "file_name": "Fluffy Cyrodilic Minotaurs-90324-1-1682808462.7z",
+      "mod_id": 90324,
+      "hash": "sha256-XqbiNR3LJzlwYF6G0pXOmAo+WkA2yq8AcDg5otUT/Cg="
+    },
+    "type": "primary"
+  }
+}

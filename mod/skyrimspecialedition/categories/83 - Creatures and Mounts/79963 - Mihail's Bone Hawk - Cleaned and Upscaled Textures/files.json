@@ -1,0 +1,44 @@
+{
+  "1k-512 Textures for Mashed Potatoes": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1",
+      "file_id": 363278,
+      "file_name": "1k-512 Textures for Mashed Potatoes-79963-1-1-1677345236.7z",
+      "mod_id": 79963,
+      "hash": "sha256-+gonx8lgo3znidO8+1MaCzBxjXpxnrxmm2J0zaGoqZY="
+    }
+  },
+  "Mihail's Bone Hawk - 2k1k": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1",
+      "file_id": 363279,
+      "file_name": "Mihail's Bone Hawk - 2k1k-79963-1-1-1677345237.7z",
+      "mod_id": 79963,
+      "hash": "sha256-f3JiRKo8Joe8OtHUp8hwzuAAo7ukOQui1FwI93nSlrw="
+    }
+  },
+  "Mihail's Bone Hawk - 2K": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1",
+      "file_id": 363280,
+      "file_name": "Mihail's Bone Hawk - 2K-79963-1-1-1677345239.7z",
+      "mod_id": 79963,
+      "hash": "sha256-wzn8nbPGj7HIWRLpvsiRSb1Srnb8cTBAZ96r2nb7hV8="
+    },
+    "type": "primary"
+  },
+  "Mihail's Bone Hawk - 4K": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1",
+      "file_id": 363281,
+      "file_name": "Mihail's Bone Hawk - 4K-79963-1-1-1677345241.7z",
+      "mod_id": 79963,
+      "hash": "sha256-MHfD2YxjbXyOeCJUYhLrAAbqF+Car+CsV3fjWo65D9Q="
+    },
+    "type": "primary"
+  }
+}

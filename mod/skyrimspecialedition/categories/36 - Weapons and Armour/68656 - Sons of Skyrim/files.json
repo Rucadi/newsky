@@ -1,0 +1,43 @@
+{
+  "HD Textures": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "2.0",
+      "file_id": 439728,
+      "file_name": "HD Textures-68656-2-0-1699099837.7z",
+      "mod_id": 68656,
+      "hash": "sha256-T6n4lRPUNkpu/fyQIJ5YY69Uh/6R9KbKdVmhROVEfs4="
+    }
+  },
+  "Stormcloaks only": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "2.0.2",
+      "file_id": 448128,
+      "file_name": "Stormcloaks only-68656-2-0-2-1701526361.7z",
+      "mod_id": 68656,
+      "hash": "sha256-XnMDL8twT7Y7tnxNoL3LRijRm8jlO0n3p5LYF7tjbsY="
+    }
+  },
+  "Only in blacksmithing": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "2.0.2",
+      "file_id": 448129,
+      "file_name": "Only in blacksmithing-68656-2-0-2-1701526396.7z",
+      "mod_id": 68656,
+      "hash": "sha256-66RwhnKzFuC/2oWNx7r7qMFtoC+OV5kPTQ9oysuPUmc="
+    }
+  },
+  "Main Files": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "2.0.2",
+      "file_id": 448133,
+      "file_name": "Main Files-68656-2-0-2-1701526801.7z",
+      "mod_id": 68656,
+      "hash": "sha256-PsZi6V1UFXh+oX5EJuqX4JTJ8qKMvtOTNZR7KHUAMGE="
+    },
+    "type": "primary"
+  }
+}

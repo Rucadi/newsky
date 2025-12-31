@@ -1,0 +1,95 @@
+{
+  "Animated Armoury - Rebalance": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "7.0",
+      "file_id": 567719,
+      "file_name": "Animated Armoury - Rebalance-47213-7-0-1733000947.zip",
+      "mod_id": 47213,
+      "hash": "sha256-zymhiAb6zkcGjuDxSUOnMI4XeXBgzSeEju8iRCgCubo="
+    },
+    "type": "primary"
+  },
+  "Animated Armoury Enchantments - Summermyst Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "7.0",
+      "file_id": 569688,
+      "file_name": "Animated Armoury - Enchantments - Summermyst Patch-47213-7-0-1733527764.zip",
+      "mod_id": 47213,
+      "hash": "sha256-UKq8V7f4oBQFMSkyY8QMRHklgCicTbdjJQ1j0K3ozLM="
+    }
+  },
+  "Animated Armoury Enchantments - Thaumaturgy Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "7.0",
+      "file_id": 569689,
+      "file_name": "Animated Armoury Enchantments - Thaumaturgy Patch-47213-7-0-1733527793.zip",
+      "mod_id": 47213,
+      "hash": "sha256-tuXU7GaXGjHgnfKjGn60z3qKuvwmmY/oDTycnOvs0zI="
+    }
+  },
+  "Animated Armoury Enchantments - EDMR": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "7.0",
+      "file_id": 569690,
+      "file_name": "Animated Armoury Enchantments - EDMR-47213-7-0-1733527820.zip",
+      "mod_id": 47213,
+      "hash": "sha256-5gP2wUrF9C8wD+KHEcjBFW6vYPstf62rx0LY04INsR4="
+    }
+  },
+  "Animated Armoury Enchantments - WACCF Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "7.0",
+      "file_id": 569691,
+      "file_name": "Animated Armoury - Enchantments - WACCF Patch-47213-7-0-1733527881.zip",
+      "mod_id": 47213,
+      "hash": "sha256-V4w26qiVbrHls8zNVC5EfI5dbUGLmV6mmEZeRJOPjeY="
+    }
+  },
+  "Animated Armoury - WACCF Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "8.1",
+      "file_id": 608287,
+      "file_name": "Animated Armoury - WACCF Patch-47213-8-1-1742621170.zip",
+      "mod_id": 47213,
+      "hash": "sha256-iVh/qOok8lyi5LdOgQFupDaDv0q8d5er94UTeRdS5OU="
+    }
+  },
+  "Animated Armoury - Enchantments": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "8.2",
+      "file_id": 613143,
+      "file_name": "Animated Armoury - Enchantments-47213-8-2-1743624081.zip",
+      "mod_id": 47213,
+      "hash": "sha256-l1mvbWcSkQu+gintfp6vlfXL/jrvdCsXi8GSrhgTC4I="
+    },
+    "type": "primary"
+  },
+  "Animated Armoury - SkyPatched and Fixes": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "8.2.1",
+      "file_id": 625097,
+      "file_name": "Animated Armoury - SkyPatched and Fixes-47213-8-2-1-1746752317.zip",
+      "mod_id": 47213,
+      "hash": "sha256-/3hPlldQtr0YlhC7shTFZmFNqE3Qy5uk3BfmPQgYSKc="
+    },
+    "type": "primary"
+  },
+  "Animated Armoury - Oblivion Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "8.2.1",
+      "file_id": 625098,
+      "file_name": "Animated Armoury - Oblivion Patch-47213-8-2-1-1746752361.zip",
+      "mod_id": 47213,
+      "hash": "sha256-Lgr8PqBlm8/yUhP9zmoRbswWK19cWAl/Dv8eO6CUryg="
+    }
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "Disable Havok Script Tweak Resource - Standalone": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1",
+      "file_id": 397471,
+      "file_name": "Disable Havok Script Tweak Resource - Standalone-93426-1-1-1686658457.zip",
+      "mod_id": 93426,
+      "hash": "sha256-EgtnS/i44TJlY0HoV7KEv/YpNjoQzubzNCXyAqQk/X4="
+    },
+    "type": "primary"
+  },
+  "Disable Havok Script Tweak Resource replacer": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.2",
+      "file_id": 589424,
+      "file_name": "Disable Havok Script Tweak Resource replacer-93426-1-2-1738324317.7z",
+      "mod_id": 93426,
+      "hash": "sha256-zGcSIX8gTgHmeJoWXSM6F6lEt5RSSDPVyXPGLOwIGy0="
+    },
+    "type": "primary"
+  }
+}

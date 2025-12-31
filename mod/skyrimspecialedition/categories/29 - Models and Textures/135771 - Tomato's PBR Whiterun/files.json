@@ -1,0 +1,55 @@
+{
+  "PBR Talos": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0.PBR",
+      "file_id": 573151,
+      "file_name": "PBR Talos-135771-1-0-PBR-1734394726.7z",
+      "mod_id": 135771,
+      "hash": "sha256-PrXSRLvfJGYowmmc6/pjfIotEVi+TtBfMQGTgOtFPRI="
+    }
+  },
+  "Tomato's Whiterun PBR 1k": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.2.PBR",
+      "file_id": 636661,
+      "file_name": "Tomato's Whiterun PBR 1k-135771-1-2-PBR-1749601674.7z",
+      "mod_id": 135771,
+      "hash": "sha256-1TSYH+agwJJ1KuKzdNnIVvCiydxmThQ5CvmAwMn3zfk="
+    },
+    "type": "primary"
+  },
+  "Tomato's Whiterun PBR 2k": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.2.PBR",
+      "file_id": 636662,
+      "file_name": "Tomato's Whiterun PBR 2k-135771-1-2-PBR-1749601678.7z",
+      "mod_id": 135771,
+      "hash": "sha256-gBzSalw+u4ilU9iG2kZb5gpP04/QrFdukllVoNfCtf0="
+    },
+    "type": "primary"
+  },
+  "Tomato's Whiterun PBR 4k": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.2.PBR",
+      "file_id": 636663,
+      "file_name": "Tomato's Whiterun PBR 4k-135771-1-2-PBR-1749602023.7z",
+      "mod_id": 135771,
+      "hash": "sha256-CHmFsS7doHBd6/VBHtCff4CBTPLl7gyDwdufND62i2E="
+    },
+    "type": "primary"
+  },
+  "Improved Dragon Carvings": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "beta",
+      "file_id": 650973,
+      "file_name": "Improved Dragon Carvings-135771-beta-1753738000.7z",
+      "mod_id": 135771,
+      "hash": "sha256-MjwdG7WoAbcCofgoS0blSVjRL+OD8O0DSOLvrzSSmWU="
+    }
+  }
+}

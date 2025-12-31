@@ -1,0 +1,63 @@
+{
+  "Seaside Library patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1",
+      "file_id": 132727,
+      "file_name": "Seaside Library patch-33777-1-1-1586171534.zip",
+      "mod_id": 33777,
+      "hash": "sha256-0hqUHIbpuyRtl4rKfIgkGK9VDPv5zqfYLz6/kSKm0Fc="
+    }
+  },
+  "Hearthfire Extended Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 149249,
+      "file_name": "Hearthfire Extended Patch-33777-1-0-1594132320.zip",
+      "mod_id": 33777,
+      "hash": "sha256-oo3tahRHpwKy/GHE4FA6VI6QIW+Vvb9OyCj2P3YZiYM="
+    }
+  },
+  "Hunters World Patch (by Aglorius)": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 150666,
+      "file_name": "Hunters World Patch (by Aglorius)-33777-1-0-1594904618.zip",
+      "mod_id": 33777,
+      "hash": "sha256-8SAxNH2XjLhaHzb0DITyllog7mbQQ6eR6vItUeJMP3I="
+    }
+  },
+  "Better Docks Patch (by Aglorius)": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 150667,
+      "file_name": "Better Docks Patch-33777-1-0-1594904645.zip",
+      "mod_id": 33777,
+      "hash": "sha256-QMsC8Hvarrveqo/Jeniu791j8beFJmqegLHNDjMK/Qw="
+    }
+  },
+  "Solitude Docks - LFW patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 488986,
+      "file_name": "Solitude Docks - LFW patch-33777-1-0-1712669214.zip",
+      "mod_id": 33777,
+      "hash": "sha256-Ij4opLdBm6/s0dW3lJ9mxp659RHC5qxtYh5Tk8BeUGA="
+    }
+  },
+  "Solitude Docks": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "3.2c",
+      "file_id": 511162,
+      "file_name": "Solitude Docks-33777-3-2c-1718284401.zip",
+      "mod_id": 33777,
+      "hash": "sha256-IrlVOEM1yyU2JQdbiIZesOYvVATSbaSOs9ClgceyFYE="
+    },
+    "type": "primary"
+  }
+}

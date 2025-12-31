@@ -1,0 +1,44 @@
+{
+  "BnP eye pack 2k": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "2.0",
+      "file_id": 439108,
+      "file_name": "BnP eye pack 2k-76567-2-0-1698927489.7z",
+      "mod_id": 76567,
+      "hash": "sha256-tXOxMbIs2nUf8td+hTXfKW2wgog57P0bxIPUMsA41ng="
+    },
+    "type": "primary"
+  },
+  "BnP eye pack 1k": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "2.0",
+      "file_id": 439109,
+      "file_name": "BnP eye pack 1k-76567-2-0-1698927624.7z",
+      "mod_id": 76567,
+      "hash": "sha256-12GDamD0eAkBF5jQuxc/x5UI4EyGG/W1cPhv4sDzT54="
+    },
+    "type": "primary"
+  },
+  "Additional dremora faces BnP eye patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "2.0",
+      "file_id": 439110,
+      "file_name": "Additional dremora faces BnP eye patch-76567-2-0-1698927704.7z",
+      "mod_id": 76567,
+      "hash": "sha256-FnAmOhNkj3ckDnSvSv+FhRc2eT47489bCgohGDRQYdQ="
+    }
+  },
+  "BnP creationclub eyes patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "2.0",
+      "file_id": 439111,
+      "file_name": "BnP creationclub eyes patch-76567-2-0-1698927772.7z",
+      "mod_id": 76567,
+      "hash": "sha256-cXd8Ja+5DAtOiAt5CtVygrht8Do1GGL+1mTyID68uvs="
+    }
+  }
+}

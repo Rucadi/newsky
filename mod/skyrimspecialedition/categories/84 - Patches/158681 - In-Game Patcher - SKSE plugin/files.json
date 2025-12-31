@@ -1,0 +1,13 @@
+{
+  "In-Game Patcher": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.4.2",
+      "file_id": 669293,
+      "file_name": "In-Game Patcher-158681-1-4-2-1758808150.7z",
+      "mod_id": 158681,
+      "hash": "sha256-0XYE/pvBjpLnCLL2mmryl0TT1QnhXzuP4DK4hm5KGDU="
+    },
+    "type": "primary"
+  }
+}

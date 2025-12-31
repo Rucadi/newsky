@@ -1,0 +1,45 @@
+{
+  "Hall of the Dead Tree to Flowers Replacer - Both": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 653459,
+      "file_name": "Hall of the Dead Tree to Flowers Replacer - Both-156384-1-0-1754532350.7z",
+      "mod_id": 156384,
+      "hash": "sha256-MdKuXteSaDwhAdjo9/Ubznk6JzVofr3aWZq/RC4TqL8="
+    },
+    "type": "primary"
+  },
+  "Hall of the Dead Tree to Flowers Replacer - Red": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 653460,
+      "file_name": "Hall of the Dead Tree to Flowers Replacer - Red-156384-1-0-1754532403.7z",
+      "mod_id": 156384,
+      "hash": "sha256-lEDpwGpMU7A5Cta2buue0fjyRjLJ9M4YrJyfMYxrhpA="
+    },
+    "type": "primary"
+  },
+  "Hall of the Dead Tree to Flowers Replacer - Blue": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 653461,
+      "file_name": "Hall of the Dead Tree to Flowers Replacer - Blue-156384-1-0-1754532439.7z",
+      "mod_id": 156384,
+      "hash": "sha256-22k+sz8ihqrEaOqDv4/u6OYaIsNqrVxCk37c7KBy28c="
+    },
+    "type": "primary"
+  },
+  "Hall of the Dead Tree to Flowers Replacer - Death": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 654498,
+      "file_name": "Hall of the Dead Tree to Flowers Replacer - Death-156384-1-0-1754844499.7z",
+      "mod_id": 156384,
+      "hash": "sha256-qekoWuuZJCQdCHnfRiRvSEJEOAFb+qQvnX6UNfleybI="
+    }
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "Witcher Hedges in Whiterun": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1",
+      "file_id": 561734,
+      "file_name": "Witcher Hedges in Whiterun-133639-1-1-1731474165.7z",
+      "mod_id": 133639,
+      "hash": "sha256-5TpLhDneqRkw5yiab/h2nLnRaqY2D/Y8Lyy4b1iG+Xw="
+    },
+    "type": "primary"
+  },
+  "Witcher Hedges in Whiterun (permanent Autumn)": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1",
+      "file_id": 561739,
+      "file_name": "Witcher Hedges in Whiterun (permanent Autumn)-133639-1-1-1731474846.7z",
+      "mod_id": 133639,
+      "hash": "sha256-r+3rQI45uWaZFqQDu8hQA1FwsqJ1nYESVuMkmnQESDg="
+    },
+    "type": "primary"
+  }
+}

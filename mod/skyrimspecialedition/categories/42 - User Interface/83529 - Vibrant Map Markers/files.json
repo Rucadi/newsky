@@ -1,0 +1,43 @@
+{
+  "Vibrant Map Markers": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1",
+      "file_id": 359260,
+      "file_name": "Vibrant Map Markers-83529-1-1-1676245445.7z",
+      "mod_id": 83529,
+      "hash": "sha256-VhFdaj7vvBJKN+jjF9E2WOFnESlbXSjZ3Q6umiy4GQ8="
+    },
+    "type": "primary"
+  },
+  "Vibrant Map Markers - Dear Diary Dark Mode Compass": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1",
+      "file_id": 363216,
+      "file_name": "Vibrant Map Markers - Dear Diary Dark Mode Compass-83529-1-1-1677337415.7z",
+      "mod_id": 83529,
+      "hash": "sha256-kEP/dMqcp00dpZukcOoDgeoEB9lLrJ3a+zNhrxuOE/k="
+    }
+  },
+  "Vibrant Map Markers - Dragonbreaker UI Compass": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1",
+      "file_id": 363503,
+      "file_name": "Vibrant Map Markers - Dragonbreaker UI Compass-83529-1-1-1677409498.7z",
+      "mod_id": 83529,
+      "hash": "sha256-JBvQLP7D2hLsEzwZo9Xq6MdL60rx57IYqmNbYWlFhXE="
+    }
+  },
+  "Vibrant Map Markers - Untarnished UI Compass": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1",
+      "file_id": 363856,
+      "file_name": "Vibrant Map Markers - Untarnished UI Compass-83529-1-1-1677495332.7z",
+      "mod_id": 83529,
+      "hash": "sha256-qP67gjl0puaxwykoM8zJ5Os7n1+ET+G020o6CBg4ygo="
+    }
+  }
+}

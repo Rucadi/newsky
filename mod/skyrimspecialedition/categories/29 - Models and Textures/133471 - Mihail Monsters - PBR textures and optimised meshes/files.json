@@ -1,0 +1,110 @@
+{
+  "Chicken PBR": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "2.0",
+      "file_id": 648206,
+      "file_name": "Chicken PBR-133471-2-0-1752855053.zip",
+      "mod_id": 133471,
+      "hash": "sha256-vvu8enEfDEgpYonVZf5OslZTNEh5WE+AyAtdLwe1rsY="
+    },
+    "type": "primary"
+  },
+  "Roosters-PBR": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "2.0",
+      "file_id": 648207,
+      "file_name": "Roosters-PBR-133471-2-0-1752855106.zip",
+      "mod_id": 133471,
+      "hash": "sha256-uPFucXA7EU/5NB7LnSALRZ/u/Qo4172d2V3y2UFK+a4="
+    },
+    "type": "primary"
+  },
+  "Sewer Rats PBR": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "2.0",
+      "file_id": 648220,
+      "file_name": "Sewer Rats PBR-133471-2-0-1752858481.zip",
+      "mod_id": 133471,
+      "hash": "sha256-3iYDbTOCD0k5NDvQlKHlFZUc9u6LBODe8d4heYS3R4w="
+    },
+    "type": "primary"
+  },
+  "Sewer Rats - Fewer rats": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 648222,
+      "file_name": "Sewer Rats - Fewer rats-133471-1-0-1752858535.zip",
+      "mod_id": 133471,
+      "hash": "sha256-cWhk7e16b6NU7/TlrsiGffx88JQLGaLHKLunVImOJVw="
+    }
+  },
+  "Sewer Rats - Smaller rats": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 648223,
+      "file_name": "Sewer Rats - Smaller rats-133471-1-0-1752858575.zip",
+      "mod_id": 133471,
+      "hash": "sha256-LwdfDjTL15UJwu2D4OihGuKtlCGY2DlE7XKhjU0oJRE="
+    }
+  },
+  "Birds of Prey and Felsaad Terns PBR": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "2.0",
+      "file_id": 648677,
+      "file_name": "Birds of Prey and Felsaad Terns PBR-133471-2-0-1753013312.zip",
+      "mod_id": 133471,
+      "hash": "sha256-k+eHdTNxujPBe4xrgWlN6jIc8VmGNkq0s5Re/JRSb5I="
+    },
+    "type": "primary"
+  },
+  "Bone Hawk Replacer PBR": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "2.0",
+      "file_id": 648860,
+      "file_name": "Bone Hawk Replacer PBR-133471-2-0-1753050978.zip",
+      "mod_id": 133471,
+      "hash": "sha256-Ve5CYrMdB0na3w/9+KK/rhAosJkgKSy4g86bLobAi30="
+    },
+    "type": "primary"
+  },
+  "Fiendroth Beetles PBR": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "2.1",
+      "file_id": 649121,
+      "file_name": "Fiendroth Beetles PBR-133471-2-1-1753129972.zip",
+      "mod_id": 133471,
+      "hash": "sha256-Wa1eRvKTfztkdIECwMy9Aa7hLiHhTwclSc64/tt1cSM="
+    },
+    "type": "primary"
+  },
+  "Sea Witches PBR": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "2.0",
+      "file_id": 649394,
+      "file_name": "Sea Witches PBR-133471-2-0-1753214231.zip",
+      "mod_id": 133471,
+      "hash": "sha256-OrqKrXwvGB40+j7Z+jEUHySHlJBgTSipG0JKgwKFAfc="
+    },
+    "type": "primary"
+  },
+  "Crows and Ravens PBR": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "2.3",
+      "file_id": 686731,
+      "file_name": "Crows and Ravens PBR-133471-2-3-1762957503.zip",
+      "mod_id": 133471,
+      "hash": "sha256-f2Bi+gcMwiAUau8AEUmDdS+AUkpDjEhbY90zuZrqm/U="
+    },
+    "type": "primary"
+  }
+}

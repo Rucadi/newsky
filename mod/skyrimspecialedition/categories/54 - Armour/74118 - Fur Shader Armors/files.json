@@ -1,0 +1,33 @@
+{
+  "Fur Shader Armors - Female Hands Redone Bodyslides": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.13",
+      "file_id": 563013,
+      "file_name": "Fur Shader Armors - Hands Redone Bodyslides-74118-1-13-1731780998.rar",
+      "mod_id": 74118,
+      "hash": "sha256-/PiCWFkr7To/0M6QZkgiZ1kEDenvIa+3ERMwx89kNkQ="
+    }
+  },
+  "Fur Shader Armors": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.2",
+      "file_id": 617909,
+      "file_name": "Fur Shader Armors-74118-1-2-1744821207.rar",
+      "mod_id": 74118,
+      "hash": "sha256-FDkMwB/pIu2BuDnOG4zNhOxYaKFuB7jTH6tb1uClcoA="
+    },
+    "type": "primary"
+  },
+  "SMP Vanilla Armors Fur": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.20.1",
+      "file_id": 692129,
+      "file_name": "SMP Vanilla Armors Fur-74118-1-2-1-1764331167.rar",
+      "mod_id": 74118,
+      "hash": "sha256-1MHbxv51v6v+2IQ4YMAi4/s30IDwoBVETtNjycRtEXA="
+    }
+  }
+}

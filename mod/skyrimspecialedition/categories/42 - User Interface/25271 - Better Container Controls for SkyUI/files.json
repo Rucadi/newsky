@@ -1,0 +1,33 @@
+{
+  "BCC_Config_Example": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "3.0",
+      "file_id": 89364,
+      "file_name": "BCC_Config_Example-25271-3-0-1555999543.7z",
+      "mod_id": 25271,
+      "hash": "sha256-e6sAIfRSJpnH2eJNSqNvVrEgCwrdJq00ZiyzSSSNlMA="
+    }
+  },
+  "BCC-SkyUI-v31": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "3.1",
+      "file_id": 244865,
+      "file_name": "BCC-SkyUI-v31-25271-3-1-1638044447.7z",
+      "mod_id": 25271,
+      "hash": "sha256-L4piKkgQRMJhmATXLVTiV7Ki39lmpCV0ro4VZoJde1E="
+    },
+    "type": "primary"
+  },
+  "BCC-SkyUI-ESL-v31": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "3.1",
+      "file_id": 244867,
+      "file_name": "BCC-SkyUI-ESL-v31-25271-3-1-1638044938.7z",
+      "mod_id": 25271,
+      "hash": "sha256-NMHUog/wsz3tDmOkYdgYoL+Kf3iNyV87fcrNDQ0ZTao="
+    }
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "Lore Friendly Guardian Stones": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 630691,
+      "file_name": "Lore Friendly Guardian Stones-150897-1-0-1748101587.zip",
+      "mod_id": 150897,
+      "hash": "sha256-VEoh6+0ldhcEWH4Ter3HMUNH29dPlXxePnR6GfxEr1k="
+    },
+    "type": "primary"
+  },
+  "NOTWL Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 632701,
+      "file_name": "NOTWL Patch-150897-1-0-1748560087.zip",
+      "mod_id": 150897,
+      "hash": "sha256-S4ZmtDpD767ovmy0Va1LbWzyjEyrs8VSJ5GzV1dyC+o="
+    }
+  }
+}

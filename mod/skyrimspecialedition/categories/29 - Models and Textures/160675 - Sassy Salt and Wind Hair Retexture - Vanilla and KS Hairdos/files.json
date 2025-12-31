@@ -1,0 +1,111 @@
+{
+  "Sassy SnW Hair Retexture - Vanilla 2k-1k": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 674344,
+      "file_name": "Sassy SnW Hair Retexture - Vanilla-160675-1-0-1760129980.7z",
+      "mod_id": 160675,
+      "hash": "sha256-DY5KQ5i/cXFDuXJuwjvDWDYcIPVT5+fhuk/nBqyLiSY="
+    },
+    "type": "primary"
+  },
+  "Sassy SnW Hair Retexture - Vanilla 1k-1k": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 674346,
+      "file_name": "Sassy SnW Hair Retexture - Vanilla 1k-1k-160675-1-0-1760130357.7z",
+      "mod_id": 160675,
+      "hash": "sha256-i0qFmyfX5cS+rj3bX1JeZloH1gXZ7AO8C1NmbCZk6BM="
+    },
+    "type": "primary"
+  },
+  "Sassy SnW Retexture - Khajiit Hair by Saerileth": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 674347,
+      "file_name": "Sassy SnW -Khajiit Hair by Saerileth-160675-1-0-1760130512.7z",
+      "mod_id": 160675,
+      "hash": "sha256-ViWvyOn/YVdrXaekB6qssoYlU1HU40T/CR/OFrjThH8="
+    },
+    "type": "primary"
+  },
+  "Sassy SnW - Vanilla - Braid Shine Decreased": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 674397,
+      "file_name": "Sassy SnW - Vanilla - Braid Shine Decreased-160675-1-0-1760147776.7z",
+      "mod_id": 160675,
+      "hash": "sha256-Zm1/RkF4r3aEMbEzo/4jdP8eyVn5q2NmMac1Zes+bmM="
+    }
+  },
+  "Sassy SnW Retexture - KS Hairdos Full": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.02",
+      "file_id": 674433,
+      "file_name": "Sassy SnW Retexture - KS Hairdos-160675-1-02-1760152471.7z",
+      "mod_id": 160675,
+      "hash": "sha256-qMzrI5yFn9cjPNqMNHEzCqAoiqYzdepTZ4mgdC6gRaE="
+    },
+    "type": "primary"
+  },
+  "Sassy SnW - PARTIAL KS Hairdos pt 1": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.02",
+      "file_id": 674606,
+      "file_name": "Sassy SnW - PARTIAL KS Hairdos pt 1-160675-1-02-1760197088.7z",
+      "mod_id": 160675,
+      "hash": "sha256-mu6H+KZKDfYlcyN7JwuWkTmOgoYdIkUOxzayHSjmwl0="
+    },
+    "type": "primary"
+  },
+  "Sassy SnW - PARTIAL KS Hairdos pt 2": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.02",
+      "file_id": 674607,
+      "file_name": "Sassy SnW - PARTIAL KS Hairdos pt 2-160675-1-02-1760197210.7z",
+      "mod_id": 160675,
+      "hash": "sha256-bhr0pqZTJJf24+b2YauHZACSUcUr/4P6bzv8GJ8UY7U="
+    },
+    "type": "primary"
+  },
+  "Sassy SnW - PARTIAL KS Hairdos pt 3": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.02",
+      "file_id": 674608,
+      "file_name": "Sassy SnW - PARTIAL KS Hairdos pt 3-160675-1-02-1760197278.7z",
+      "mod_id": 160675,
+      "hash": "sha256-C3I3htWAtiueMHgRTpLGjojNq8PJKLqvBP4tLN34TjM="
+    },
+    "type": "primary"
+  },
+  "Sassy SnW Retexture - KS Hairdos HDT": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.02.1",
+      "file_id": 674609,
+      "file_name": "Sassy SnW Retexture - KS Hairdos HDT-160675-1-02-1-1760197382.7z",
+      "mod_id": 160675,
+      "hash": "sha256-f+VrUL5cPFLnYk2Bs72DLrapyh4fududsReAe5nY5Fs="
+    },
+    "type": "primary"
+  },
+  "Sassy SnW - Hair Colors Tweaked": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 684413,
+      "file_name": "Sassy SnW - Hair Colors Tweaked-160675-1-0-1762450632.7z",
+      "mod_id": 160675,
+      "hash": "sha256-H48DSN3qHCxaXeRBAudz9mQB3c3ajAXhNHXkBBlYge8="
+    },
+    "type": "primary"
+  }
+}

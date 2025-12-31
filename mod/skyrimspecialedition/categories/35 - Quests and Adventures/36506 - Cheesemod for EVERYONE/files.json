@@ -1,0 +1,24 @@
+{
+  "Cheesemod for Everyone - Loose Assets": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.01",
+      "file_id": 170199,
+      "file_name": "Cheesemod for Everyone - Loose Assets-36506-1-01-1605455295.7z",
+      "mod_id": 36506,
+      "hash": "sha256-+orAo1COf7rBzCC6tAQUhUniknWdla+Y6JinHQkkCLQ="
+    },
+    "type": "primary"
+  },
+  "Cheesemod for Everyone - Archived": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.01",
+      "file_id": 170201,
+      "file_name": "Cheesemod for Everyone - Archived-36506-1-01-1605456041.7z",
+      "mod_id": 36506,
+      "hash": "sha256-Y6Rma4pjsOdArrkCOVOUapZZsvOZiJpG8xa1Wj5upfU="
+    },
+    "type": "primary"
+  }
+}

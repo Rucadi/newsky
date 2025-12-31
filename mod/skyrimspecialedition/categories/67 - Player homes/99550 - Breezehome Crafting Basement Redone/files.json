@@ -1,0 +1,93 @@
+{
+  "Breezehome Crafting Basement Redone - iNeed addons": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0.0",
+      "file_id": 421874,
+      "file_name": "Breezehome Crafting Basement Redone - iNeed addons-99550-1-0-0-1693342989.7z",
+      "mod_id": 99550,
+      "hash": "sha256-F7z5Pj50Sy2z4T2BrrToWAkvjNDGQE+f+qHrUNQBfUI="
+    }
+  },
+  "Breezehome Basement Redone - Spinning Wheel addon": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0.1",
+      "file_id": 424819,
+      "file_name": "Breezehome Basement Redone - Spinning Wheel addon-99550-1-0-1-1694386522.7z",
+      "mod_id": 99550,
+      "hash": "sha256-sPgsocA9XNU0F9UV5D5pVrGNFZbON2E1l3zdZpT/3as="
+    }
+  },
+  "Breezehome Basement Redone - Spinning Wheel-ITA": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0.1",
+      "file_id": 424989,
+      "file_name": "Breezehome Basement Redone - Spinning Wheel-ITA-99550-1-0-1-1694450994.7z",
+      "mod_id": 99550,
+      "hash": "sha256-t+71GEhKMI1pmUtsgZSNvaTUot6qQYCl5R0+xF3dBn4="
+    }
+  },
+  "Breezehome Crafting Basement Redone - iNeed-ITA": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0.0",
+      "file_id": 424992,
+      "file_name": "Breezehome Crafting Basement Redone - iNeed-ITA-99550-1-0-0-1694451303.7z",
+      "mod_id": 99550,
+      "hash": "sha256-dfIy9T8QVeXLYXqp28x/slLzjf0L4hD47HLnk/y34IY="
+    }
+  },
+  "Breezehome Crafting Basement Redone - Paper addon": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0.0",
+      "file_id": 424994,
+      "file_name": "Paper Crafting addon-99550-1-0-0-1694451615.7z",
+      "mod_id": 99550,
+      "hash": "sha256-kDphpvderdqs4blHudMGqt32mw6QU1lczD7umoEyAJc="
+    }
+  },
+  "Breezehome Basement Redone - Tailoring Workbench": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0.1",
+      "file_id": 430956,
+      "file_name": "Breezehome Basement Redone - Tailoring Workbench-99550-1-0-1-1696361276.7z",
+      "mod_id": 99550,
+      "hash": "sha256-flJUoSZsxoKwy4v3aCwVaZ9B9u7v0PeIZSxh8M+tPjI="
+    }
+  },
+  "Breezehome Basement Redone - Tailoring-ITA": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0.1",
+      "file_id": 430957,
+      "file_name": "Breezehome Basement Redone - Tailoring-ITA-99550-1-0-1-1696361505.7z",
+      "mod_id": 99550,
+      "hash": "sha256-Bxja48nsW83C7r7GAfkmioMM3uyytwd4vOYR+GNykFk="
+    }
+  },
+  "Breezehome Crafting Basement Redone": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "4.3.3",
+      "file_id": 633937,
+      "file_name": "Breezehome Crafting Basement Redone-99550-4-3-3-1748887805.7z",
+      "mod_id": 99550,
+      "hash": "sha256-SNNFr9IjRacPXHdTm4hdcC5/zEaqNxWGiswrJN/qaKk="
+    },
+    "type": "primary"
+  },
+  "Breezehome Crafting Basement Redone-ITA": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "4.3.3",
+      "file_id": 633940,
+      "file_name": "Breezehome Crafting Basement Redone-ITA-99550-4-3-3-1748887971.7z",
+      "mod_id": 99550,
+      "hash": "sha256-B39CarUC4zOab5X/8bPzztDydL5oZ6XYSZjUaXk1nn8="
+    }
+  }
+}

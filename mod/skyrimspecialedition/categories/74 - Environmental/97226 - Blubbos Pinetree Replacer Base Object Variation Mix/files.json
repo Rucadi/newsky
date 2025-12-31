@@ -1,0 +1,23 @@
+{
+  "BlubboPineReplacer_V3_BaseObjectSwapperMix.zip": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.2",
+      "file_id": 412658,
+      "file_name": "BlubboPineReplacer_V3_BaseObjectSwapperMix.zip-97226-1-2-1690795429.zip",
+      "mod_id": 97226,
+      "hash": "sha256-Z0D8QKM+oJTG4O0aTEnJHrNBsQcTDGqydp5VacNd3Bg="
+    },
+    "type": "primary"
+  },
+  "BlubboPineReplacer_V3_BOSMix_3DLODs.zip": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 414296,
+      "file_name": "BlubboPineReplacer_V3_BOSMix_3DLODs.zip-97226-1-0-1691225562.zip",
+      "mod_id": 97226,
+      "hash": "sha256-S7QlFCxlWd1lSpZAl4bBfBO4CtXMvM6AcTEst9kB9lw="
+    }
+  }
+}

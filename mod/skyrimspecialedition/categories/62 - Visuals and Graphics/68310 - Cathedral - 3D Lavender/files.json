@@ -1,0 +1,54 @@
+{
+  "Cathedral - 3D Lavender - XL": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.3",
+      "file_id": 285175,
+      "file_name": "Cathedral - 3D Lavender-68310-1-3-1653068402.7z",
+      "mod_id": 68310,
+      "hash": "sha256-uxRibo80En4QALWdWAUgQ5pD55XJZW89KM2dtihvNXU="
+    },
+    "type": "primary"
+  },
+  "Cathedral - 3D Lavender - Vanilla Size": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.3",
+      "file_id": 285641,
+      "file_name": "Cathedral - 3D Lavender - Vanilla Size-68310-1-3-1653203946.7z",
+      "mod_id": 68310,
+      "hash": "sha256-1VEUn+0vTHnftFuH/tqykprNQ3HneSOVEO0v+hAvaJU="
+    },
+    "type": "primary"
+  },
+  "Cathedral - 3D Lavender - Small Size": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.3",
+      "file_id": 289998,
+      "file_name": "Cathedral - 3D Lavender - Small Size-68310-1-3-1654802689.7z",
+      "mod_id": 68310,
+      "hash": "sha256-YXVALrSUMYTv0vq+2rc17gV0nPMoRzLcXcUQ+CLMSik="
+    }
+  },
+  "Cathedral - 3D Lavender - Desaturated Texture": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.3",
+      "file_id": 290000,
+      "file_name": "Cathedral - 3D Lavender - Desaturated Texture-68310-1-3-1654802880.7z",
+      "mod_id": 68310,
+      "hash": "sha256-nNP0PnzbZLvQtHOLjKBCF4FiRTR16twELBIzqEBec/w="
+    }
+  },
+  "Cathedral - 3D Lavender - PBR textures": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 571463,
+      "file_name": "Cathedral - 3D Lavender - PBR textures-68310-1-0-1733955651.zip",
+      "mod_id": 68310,
+      "hash": "sha256-aB3W6SbAxL1bBJeac3SZiC/nJk9SFD9BhcwXRfQRcxY="
+    }
+  }
+}

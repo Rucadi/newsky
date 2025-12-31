@@ -1,0 +1,45 @@
+{
+  "Shellbug Textures 2K": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 345018,
+      "file_name": "Shellbug Textures 2K-81683-1-0-1672429558.7z",
+      "mod_id": 81683,
+      "hash": "sha256-RkkZDmZ/IA5et3on8ygMmNweM2oCQLQT2Vv37RVKG30="
+    },
+    "type": "primary"
+  },
+  "Shellbug Textures 4K": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 345019,
+      "file_name": "Shellbug Textures 4K-81683-1-0-1672429575.7z",
+      "mod_id": 81683,
+      "hash": "sha256-srgxQCpHn0+pmOJP0gqUCL+UwwAXZVvGGVLbj7TH8pQ="
+    },
+    "type": "primary"
+  },
+  "1k-512 Textures for Mashed Potatoes": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 345020,
+      "file_name": "1k-512 Textures for Mashed Potatoes-81683-1-0-1672429580.7z",
+      "mod_id": 81683,
+      "hash": "sha256-ml8jRL5nNWmJ2b7iS0lRJmTNFouZ6m/QBQCkyDTlhVc="
+    }
+  },
+  "Shellbug Textures 2k1k": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 345021,
+      "file_name": "Shellbug Textures 2k1k-81683-1-0-1672429582.7z",
+      "mod_id": 81683,
+      "hash": "sha256-xgQfdxUfRUIJkPa4+t1rdzoMYN/8J/UsZvFN8jOHx6M="
+    },
+    "type": "primary"
+  }
+}

@@ -1,0 +1,73 @@
+{
+  "Addon for Severin Manor in Raven Rock - Dragonborn DLC": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 49619,
+      "file_name": "Addon for Severin Manor in Dragonborn DLC-4322-1-0.zip",
+      "mod_id": 4322,
+      "hash": "sha256-URVGmVCS3P4RFgTqYYxS1t0VCt/5twdB3IOELPPyEOo="
+    }
+  },
+  "Crafting Bench Resource Transfer for General Stores": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "2.5RT",
+      "file_id": 52319,
+      "file_name": "Crafting Bench Resource Transfer for General Stores-4322-2-5RT.zip",
+      "mod_id": 4322,
+      "hash": "sha256-9d0FQFZF58OqLVqi97QJSMFe5dMEgORzICwFIj999nc="
+    }
+  },
+  "Craftable Cloud Storage": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "2.5CCS",
+      "file_id": 52322,
+      "file_name": "Craftable Cloud Storage-4322-2-5CCS.zip",
+      "mod_id": 4322,
+      "hash": "sha256-8Gvv4RTMPTRNSALkQ5QA+6BKvP33UwDMuVYXRUZ5aEU="
+    }
+  },
+  "Crafting Bench Script update-Idontevenknow": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "TestScriptGS",
+      "file_id": 173470,
+      "file_name": "Crafting Bench Resource Script update by Idontevenknow-4322-TestScriptGS-1607301020.7z",
+      "mod_id": 4322,
+      "hash": "sha256-kst+LE8q2kcaVhi5Ck1dN0LPKXSCHNW7uDrgkQcdxig="
+    }
+  },
+  "Hearthfire General Stores Addon": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1HFA",
+      "file_id": 250604,
+      "file_name": "Hearthfire General Stores Addon-4322-1-1HFA-1640030670.zip",
+      "mod_id": 4322,
+      "hash": "sha256-Z7YI6BPWfF0SeS58U+1h8HoapbZuObm35illhM2DBmU="
+    }
+  },
+  "Anvil mesh fix for ElSopa - HD Medieval Anvil SE": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "AnvilFIX",
+      "file_id": 407033,
+      "file_name": "Anvil mesh fix for ElSopa - HD Medieval Anvil SE-4322-AnvilFIX-1689371849.zip",
+      "mod_id": 4322,
+      "hash": "sha256-cZr/KvdYWkBqn0ugAjTzPbiT+WNWNHsw2BU3zNJ4o5M="
+    }
+  },
+  "General Stores SSE Main Files 2.5bSE Reupload": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "2.5bSEREUPLOAD",
+      "file_id": 407104,
+      "file_name": "General Stores SSE Main Files 2.5bSE Reupload-4322-2-5bSEREUPLOAD-1689376870.zip",
+      "mod_id": 4322,
+      "hash": "sha256-/kVYdPGby7oe/yEcCPV0srUNm/tCrPbKyvMt33+xt4w="
+    },
+    "type": "primary"
+  }
+}

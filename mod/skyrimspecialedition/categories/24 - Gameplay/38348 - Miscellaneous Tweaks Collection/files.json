@@ -1,0 +1,122 @@
+{
+  "Misc Tweaks - Better Ancient Knowledge Perk": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 154618,
+      "file_name": "Misc Tweaks - Better Ancient Knowledge Perk-38348-1-0-1596980500.zip",
+      "mod_id": 38348,
+      "hash": "sha256-zya7Wp+S6xqhWaSe+Sby6vhTbpwj2c5sfXooWN84uQ4="
+    },
+    "type": "primary"
+  },
+  "Misc Tweaks - Outfit Tweaks": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 154625,
+      "file_name": "Misc Tweaks - Outfit Tweaks-38348-1-0-1596981267.zip",
+      "mod_id": 38348,
+      "hash": "sha256-NM0XdE1HeMrhk1hF0Uv3QF6B3MH4dEjQFi/OexZOfI4="
+    },
+    "type": "primary"
+  },
+  "Misc Tweaks - Night Eye Redux": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "2.0.1",
+      "file_id": 168323,
+      "file_name": "Misc Tweaks - Night Eye Redux-38348-2-0-1-1604339947.rar",
+      "mod_id": 38348,
+      "hash": "sha256-Nwgo/k6aTmpTJfaSoychFGfjpUTh5cLtbkXVO/JgZQM="
+    },
+    "type": "primary"
+  },
+  "Misc Tweaks - More Realistic Animal Loot": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1",
+      "file_id": 177838,
+      "file_name": "Misc Tweaks - More Realistic Animal Loot-38348-1-1-1609854823.rar",
+      "mod_id": 38348,
+      "hash": "sha256-yQkXclK5Hskd3aQ9OGqADEoTyYlv8t8CO0aOakPiZX0="
+    },
+    "type": "primary"
+  },
+  "Misc Tweaks - More Expensive Player Homes": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1",
+      "file_id": 181495,
+      "file_name": "Misc Tweaks - More Expensive Player Homes-38348-1-1-1611497191.7z",
+      "mod_id": 38348,
+      "hash": "sha256-U/Af9Cvf2pn8psp0sUT591H5x7Xq5HqNeFIMqgt630M="
+    },
+    "type": "primary"
+  },
+  "Misc Tweaks - More Expensive Inns": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 191996,
+      "file_name": "Misc Tweaks - More Expensive Inns-38348-1-0-1616005981.7z",
+      "mod_id": 38348,
+      "hash": "sha256-Xt9LSSRQO675fOWueXkZQKbRkda9/g7gV76OMqdiky8="
+    },
+    "type": "primary"
+  },
+  "Misc Tweaks - Better Horses": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.3",
+      "file_id": 192657,
+      "file_name": "Misc Tweaks - Better Horses-38348-1-3-1616315484.7z",
+      "mod_id": 38348,
+      "hash": "sha256-YtInAqYKvFTM0+hxG3A9Q7FdN6eARfMix4obQh2FaMo="
+    },
+    "type": "primary"
+  },
+  "Misc Tweaks - Night Eye Redux - ENB Fix": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 195448,
+      "file_name": "Misc Tweaks - Night Eye Redux - ENB Fix-38348-1-0-1617375840.7z",
+      "mod_id": 38348,
+      "hash": "sha256-zsqrCWwyMUozkpOtABAn4c3eK2Mpw87Kst5BdeEb5gk="
+    }
+  },
+  "Misc Tweaks - Shrines Don't Cure Diseases": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.9",
+      "file_id": 222865,
+      "file_name": "Misc Tweaks - Shrines Don't Cure Diseases-38348-1-9-1629620871.7z",
+      "mod_id": 38348,
+      "hash": "sha256-nVYkCIF1bh/ewlaRvKE/9vP9geDSYTo29AN51RydLDc="
+    },
+    "type": "primary"
+  },
+  "Misc Tweaks - Decluttered Crafting Menus": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 251674,
+      "file_name": "Misc Tweaks - Decluttered Crafting Menus-38348-1-0-1640445793.7z",
+      "mod_id": 38348,
+      "hash": "sha256-R6s6DHvaV9Az0w+ckga5edCy10Xubteaafisqo2YCyQ="
+    },
+    "type": "primary"
+  },
+  "Misc Tweaks - No Starting Spells": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.2",
+      "file_id": 261999,
+      "file_name": "Misc Tweaks - No Starting Spells-38348-1-2-1644090700.7z",
+      "mod_id": 38348,
+      "hash": "sha256-2aa77SoLXxACcaP9wTrj8sjhgGIC8x/HyX2/63i5znQ="
+    },
+    "type": "primary"
+  }
+}

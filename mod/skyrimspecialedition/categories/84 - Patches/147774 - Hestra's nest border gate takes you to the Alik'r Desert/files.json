@@ -1,0 +1,66 @@
+{
+  "SE version 1.00": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.00.1",
+      "file_id": 617629,
+      "file_name": "SE version-147774-1-00-1744744899.zip",
+      "mod_id": 147774,
+      "hash": "sha256-jXGMTCuTcSk56J5yyTwOL0LD+GDQOa28uwP9mGFdFW8="
+    }
+  },
+  "10nth anniversary version 1.00": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.00.2",
+      "file_id": 617632,
+      "file_name": "10nth anniversary version-147774-1-00-1744745110.zip",
+      "mod_id": 147774,
+      "hash": "sha256-EgWvdbHyRbP8Fr8hYNrYFgm0d4EmfpaDfgsP3KX6zKg="
+    }
+  },
+  "10nth anniverary version": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.02.2",
+      "file_id": 618652,
+      "file_name": "10nth anniverary version-147774-1-02-2-1744989105.zip",
+      "mod_id": 147774,
+      "hash": "sha256-LDfeyByLoqJmr2Fl+suWxEX0//2mY3k6HCtYyo1H7VU="
+    },
+    "type": "primary"
+  },
+  "SE version": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.02.1",
+      "file_id": 618668,
+      "file_name": "SE version-147774-1-02-1-1744990469.zip",
+      "mod_id": 147774,
+      "hash": "sha256-xr22sG1HilPF7eOfQ5xfDxlFEjg5xJ0SvmpSa/sF4kQ="
+    },
+    "type": "primary"
+  },
+  "SE version ESL flagged": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.02.12",
+      "file_id": 618670,
+      "file_name": "ESL flagged SE version-147774-1-02-12-1744990741.zip",
+      "mod_id": 147774,
+      "hash": "sha256-en4rFJ0p1d4WXLgdUi9iXyMprQsQEuhYD14MHs40jBA="
+    },
+    "type": "primary"
+  },
+  "10nth anniversary version ESL flagged": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.02.22",
+      "file_id": 621873,
+      "file_name": "10nth anniversary version ESL flagged-147774-1-02-22-1745851668.zip",
+      "mod_id": 147774,
+      "hash": "sha256-xd5hp85WJ6+nyfJaWcPoCtwC+4z/sKTHUYwPWNtxs3s="
+    },
+    "type": "primary"
+  }
+}

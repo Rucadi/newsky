@@ -1,0 +1,23 @@
+{
+  "Some More SkyChild Patches": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "2.2a",
+      "file_id": 629614,
+      "file_name": "Some More SkyChild Patches-129242-2-2a-1747850199.7z",
+      "mod_id": 129242,
+      "hash": "sha256-GWh/bTqlEumVPUXG4m0h4kDWmU1AIj18hDGvPOHVWTQ="
+    },
+    "type": "primary"
+  },
+  "RedBags Morthal - AIO Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "2.2a",
+      "file_id": 636101,
+      "file_name": "RedBags Morthal - AIO Patch-129242-2-2a-1749446197.zip",
+      "mod_id": 129242,
+      "hash": "sha256-Scu/jJE8xjwnMHiSG/RyBXeqxgJpa+UhPiEStbYR8LA="
+    }
+  }
+}

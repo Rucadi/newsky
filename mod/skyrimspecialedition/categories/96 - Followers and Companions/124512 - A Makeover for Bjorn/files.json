@@ -1,0 +1,73 @@
+{
+  "A Makeover for Bjorn": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1",
+      "file_id": 521986,
+      "file_name": "A Makeover for Bjorn-124512-1-1721172411.zip",
+      "mod_id": 124512,
+      "hash": "sha256-H+/SPntBZieU4sGBLZrJNTJHh+YUHZbYpL8P/3QG7JU="
+    },
+    "type": "primary"
+  },
+  "A Makeover for Bjorn - No arm tattoos": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1",
+      "file_id": 521988,
+      "file_name": "A Makeover for Bjorn - No arm tattoos-124512-1-1721172537.zip",
+      "mod_id": 124512,
+      "hash": "sha256-htiKV5ICaXfzIcCOSMfbcs4x/t5xR86gUETUu6orkFk="
+    }
+  },
+  "A Makeover for Bjorn - Face tattoo 1": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1",
+      "file_id": 521992,
+      "file_name": "A Makeover for Bjorn - Face tattoo 1-124512-1-1721172782.zip",
+      "mod_id": 124512,
+      "hash": "sha256-mmWlytHrR+1YRHo/8uOTvrN55HSNHoselUiMoOt9KMo="
+    }
+  },
+  "A Makeover for Bjorn - Face tattoo 2": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1",
+      "file_id": 521993,
+      "file_name": "A Makeover for Bjorn - Face tattoo 2-124512-1-1721172830.zip",
+      "mod_id": 124512,
+      "hash": "sha256-FCTwDMjCRPBIhjPBj/yZ0m5ZwZzBhvrgzStI9Hn+aog="
+    }
+  },
+  "A Makeover for Bjorn - Warpaint": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1",
+      "file_id": 521994,
+      "file_name": "A Makeover for Bjorn - Warpaint-124512-1-1721172866.zip",
+      "mod_id": 124512,
+      "hash": "sha256-H0bvCTiTTXGCILGlWdNkdzPNR8jmcssVeO/Ha0GsVvA="
+    }
+  },
+  "A Makeover for Bjorn - SOS patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1",
+      "file_id": 522556,
+      "file_name": "A Makeover for Bjorn - SOS patch-124512-1-1-1721337016.zip",
+      "mod_id": 124512,
+      "hash": "sha256-Kpcq+vnu3IQGgSDPwkc2FNywj6Fuz4pRkcL5euL1p3I="
+    }
+  },
+  "A Makeover for Bjorn - SOS patch - no arm tattoos": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1",
+      "file_id": 522558,
+      "file_name": "A Makeover for Bjorn - SOS patch - no arm tattoos-124512-1-1-1721337096.zip",
+      "mod_id": 124512,
+      "hash": "sha256-7Uz/Ekff23cnTMLA3C7xlaVmnrgtEelfT5vyNu+Kx1E="
+    }
+  }
+}

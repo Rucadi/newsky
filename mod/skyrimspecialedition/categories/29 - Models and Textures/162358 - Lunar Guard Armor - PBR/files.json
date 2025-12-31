@@ -1,0 +1,35 @@
+{
+  "Lunar Guard Armor - Default - PBR": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 678874,
+      "file_name": "Lunar Guard Armor - Default - PBR-162358-1-0-1761075451.zip",
+      "mod_id": 162358,
+      "hash": "sha256-d+FyEW/EiF4cPhA0H1ky7aPuXmNgMsLDxF03CXYNoxw="
+    },
+    "type": "primary"
+  },
+  "Lunar Guard Armor - Silver - PBR": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 678875,
+      "file_name": "Lunar Guard Armor - Silver - PBR-162358-1-0-1761075504.zip",
+      "mod_id": 162358,
+      "hash": "sha256-DpDPRAODfvCJKzY14FiSKvK0giCv8YC/JeQzmtdQ1hE="
+    },
+    "type": "primary"
+  },
+  "Lunar Guard Armor - Default and Silver - PBR": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 678876,
+      "file_name": "Lunar Guard Armor - Default and Silver - PBR-162358-1-0-1761075573.zip",
+      "mod_id": 162358,
+      "hash": "sha256-bHfATnAaAkmWHEgk82mjSLG20VuzBjBLqNm04xv3GZk="
+    },
+    "type": "primary"
+  }
+}

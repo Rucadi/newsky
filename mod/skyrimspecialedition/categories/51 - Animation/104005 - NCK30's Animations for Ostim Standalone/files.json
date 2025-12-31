@@ -1,0 +1,33 @@
+{
+  "NCK30's Animations for Ostim Standalone": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.2",
+      "file_id": 448932,
+      "file_name": "NCK30's Animations for Ostim Standalone-104005-1-2-1701754446.zip",
+      "mod_id": 104005,
+      "hash": "sha256-mVecSNTjq6MoescyEjgb1WqbiM7PY5dVfNIxA+SpUyM="
+    },
+    "type": "primary"
+  },
+  "Furniture Alignment JSON": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.2",
+      "file_id": 448933,
+      "file_name": "Alignment JSON-104005-1-2-1701754545.zip",
+      "mod_id": 104005,
+      "hash": "sha256-2HTQWDBgLE95Cf9kBwoi1T4slEkS+QzTybSaM7VtCX8="
+    }
+  },
+  "Non Fomod Version": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1",
+      "file_id": 689322,
+      "file_name": "Non Fomod Version-104005-1-1763630748.7z",
+      "mod_id": 104005,
+      "hash": "sha256-Yv6lC1JotDQ1fcj7JM+oU+D5PjNz8QqQ4CqbSN5PEPQ="
+    }
+  }
+}

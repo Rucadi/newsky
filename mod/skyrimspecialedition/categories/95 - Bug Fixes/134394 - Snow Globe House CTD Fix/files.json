@@ -1,0 +1,23 @@
+{
+  "Snow Globe House AE CTD Fix": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1",
+      "file_id": 564029,
+      "file_name": "Snow Globe House AE.esp-134394-1-1732042748.zip",
+      "mod_id": 134394,
+      "hash": "sha256-VfJf+9bgt1zJqHf81ksmyQVCL9r+AfFf5aujD4KHQ6I="
+    },
+    "type": "primary"
+  },
+  "Snow Globe House SE CTD Fix": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1",
+      "file_id": 564670,
+      "file_name": "Snow Globe House SE CTD Fix-134394-1-1732221385.zip",
+      "mod_id": 134394,
+      "hash": "sha256-W6BncL87TjvGKPLrf3zW2Y9/whut23/qUZLCy0xIaN0="
+    }
+  }
+}

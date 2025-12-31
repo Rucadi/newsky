@@ -1,0 +1,46 @@
+{
+  "GLENMORIL - No Stormcloak Volunteers": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 532390,
+      "file_name": "GLENMORIL - No Stormcloak Volunteers-126849-1-0-1723916044.7z",
+      "mod_id": 126849,
+      "hash": "sha256-oYX8HLM862G9V01MxgbWC9anwrMn75PB4vHDSqJPxZM="
+    },
+    "type": "primary"
+  },
+  "GLENMORIL - Misc Items Descriptions": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 538185,
+      "file_name": "GLENMORIL - Misc Items Descriptions-126849-1-0-1725340258.zip",
+      "mod_id": 126849,
+      "hash": "sha256-kL/2tDvcTQbkaAOY/DrgcqehcRic+/j3pyBE5kJ/b6Y="
+    },
+    "type": "primary"
+  },
+  "GLENMORIL - Vigil Enforcer Armor Distribution": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 538187,
+      "file_name": "GLENMORIL - Vigil Enforcer Armor Distribution-126849-1-0-1725340419.zip",
+      "mod_id": 126849,
+      "hash": "sha256-4NvXPHZZAS31BxYcphONlR77OxrMHwTudYpIkuilts4="
+    },
+    "type": "primary"
+  },
+  "GLENMORIL - The Dragonborn's Bestiary Addon": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1-BESTIARY",
+      "file_id": 538859,
+      "file_name": "GLENMORIL - The Dragonborn's Bestiary Addon-126849-1-1-BESTIARY-1725516733.7z",
+      "mod_id": 126849,
+      "hash": "sha256-ogI3d3Mn1BS9Axh6yWNz+oQGe0yA90iytVJC5Daddh4="
+    },
+    "type": "primary"
+  }
+}

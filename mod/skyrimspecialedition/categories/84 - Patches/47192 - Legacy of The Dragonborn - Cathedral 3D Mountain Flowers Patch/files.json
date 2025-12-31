@@ -1,0 +1,23 @@
+{
+  "Legacy of The Dragonborn - Cathedral 3D Mountain Flowers Patch - shitty non Base Object Swapper version": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "0.1",
+      "file_id": 192392,
+      "file_name": "Legacy of The Dragonborn - Cathedral 3D Mountain Flowers Patch-47192-0-1-1616193531.7z",
+      "mod_id": 47192,
+      "hash": "sha256-4U2812WJ5dE7gX43yi1VjEKHsQxDsXJX46HrZJiw/Fo="
+    }
+  },
+  "Legacy of The Dragonborn - Cathedral 3D Mountain Flowers Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "0.2",
+      "file_id": 325339,
+      "file_name": "Legacy of The Dragonborn - Cathedral 3D Mountain Flowers Patch-47192-0-2-1666253358.7z",
+      "mod_id": 47192,
+      "hash": "sha256-PeaIsm1lksdb3KHK1RnDmAJZs/M2EVlYtyJbwo/RTBY="
+    },
+    "type": "primary"
+  }
+}

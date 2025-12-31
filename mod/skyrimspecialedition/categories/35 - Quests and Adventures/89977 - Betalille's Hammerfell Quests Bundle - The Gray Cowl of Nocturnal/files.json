@@ -1,0 +1,24 @@
+{
+  "Patch for the 10th Anniversary Version": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0.4",
+      "file_id": 616134,
+      "file_name": "Patch for the 10th Anniversary Version-89977-1-0-4-1744381222.zip",
+      "mod_id": 89977,
+      "hash": "sha256-kKppSTyPz/AWlx5C20/bAUQ1XBbTNVBQPkHd7y75hh4="
+    },
+    "type": "primary"
+  },
+  "Betalille's Hammerfell Quests Bundle": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0.4",
+      "file_id": 616928,
+      "file_name": "Betalille's Hammerfell Quests Bundle-89977-1-0-4-1744566401.zip",
+      "mod_id": 89977,
+      "hash": "sha256-2rWDQJiBZzOEyupfUcqMK1MfUlUEORJBKz3n5xb1/Ys="
+    },
+    "type": "primary"
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "Woodland Wizard Robes - 3BA": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.2",
+      "file_id": 681323,
+      "file_name": "Woodland Wizard Robes - 3BA-148012-1-2-1761664454.rar",
+      "mod_id": 148012,
+      "hash": "sha256-1w/h61/CA01YxnM1ZvNxUS3chnR/AH0z5YHNBiMZK0g="
+    },
+    "type": "primary"
+  },
+  "Woodland Wizard Robe - HIMBO": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.2",
+      "file_id": 681324,
+      "file_name": "Woodland Wizard Robe - HIMBO-148012-1-2-1761664558.rar",
+      "mod_id": 148012,
+      "hash": "sha256-LvS2LiLWF8W2NYQjdXXfrSAPoSu3kEeWw18BibXLHCk="
+    },
+    "type": "primary"
+  }
+}

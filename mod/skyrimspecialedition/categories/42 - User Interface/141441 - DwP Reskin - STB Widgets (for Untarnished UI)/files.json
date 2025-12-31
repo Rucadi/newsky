@@ -1,0 +1,24 @@
+{
+  "DwP Reskin - STB Widgets for Untarnished UI": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 593095,
+      "file_name": "DwP Reskin - STB Widgets for Untarnished UI-141441-1-0-1739209922.rar",
+      "mod_id": 141441,
+      "hash": "sha256-GPdk4EHYSVSf8OCLRbHk21/hZrMsj70EmPOcHfwAtd4="
+    },
+    "type": "primary"
+  },
+  "DwP Reskin - STB Widgets (no icon frames)": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 593401,
+      "file_name": "DwP Reskin - STB Widgets (no icon frames)-141441-1-0-1739291498.rar",
+      "mod_id": 141441,
+      "hash": "sha256-DrnLP1i0xHLCfYdzr+He0+vjzMCY0eg+m4WwVcawiWg="
+    },
+    "type": "primary"
+  }
+}

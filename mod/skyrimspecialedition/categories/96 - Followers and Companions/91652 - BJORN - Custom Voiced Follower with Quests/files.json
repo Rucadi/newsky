@@ -1,0 +1,53 @@
+{
+  "Patch - Snow Storm - Witcher Horse Expansion V1": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 429594,
+      "file_name": "Snow Storm - Witcher Horse Expansion V1 (Darker)-91652-1-0-1695901081.zip",
+      "mod_id": 91652,
+      "hash": "sha256-sDkH4ASfUCur+lrk4g9shBgyrXL3U195rfDPLAhFv2A="
+    }
+  },
+  "Patch - Snow Storm - Witcher Horse Expansion V2": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 429596,
+      "file_name": "Patch - Snow Storm - Witcher Horse Expansion V2-91652-1-0-1695901183.zip",
+      "mod_id": 91652,
+      "hash": "sha256-t6pYAdoTudAXdzgxgIuBy4mhIAP6PHLH4ZszIU3IgRE="
+    }
+  },
+  "Patch - Barni - RS Children Overhaul": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 555056,
+      "file_name": "Barni Patch - RS Children Overhaul-91652-1-0-1729767695.rar",
+      "mod_id": 91652,
+      "hash": "sha256-4NPH0QEQArBYb6KfP1bXkg3EX426w+n5xj53v4bA64o="
+    }
+  },
+  "Patch - Romance Bjorn": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 608239,
+      "file_name": "Patch - Romance Bjorn-91652-1-0-1742608401.zip",
+      "mod_id": 91652,
+      "hash": "sha256-bg71cDybDUp2+HXZPxjcVacErHZS6TfM3d033dKPJVU="
+    }
+  },
+  "BJORN - Custom Voiced Follower with Quests": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.42.7",
+      "file_id": 697779,
+      "file_name": "BJORN - Custom Voiced Follower with Quests-91652-1-42-7-1765684358.zip",
+      "mod_id": 91652,
+      "hash": "sha256-bsvXZ00cimDDIR1x4wHlFGghn5bticpf27mY0rbvs48="
+    },
+    "type": "primary"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "Additional Hearthfire Dolls SE 2.1 Merged": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "2.1",
+      "file_id": 196971,
+      "file_name": "Additional Hearthfire Dolls SE 2.1 Merged-46930-2-1-1617917544.zip",
+      "mod_id": 46930,
+      "hash": "sha256-yZ2L4OFrhmFUJmSEwEcKGg3v03FrW7nhuXXlecqeRdY="
+    }
+  },
+  "Additional Hearthfire Dolls SE 3.0 Separate": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "3.0",
+      "file_id": 274528,
+      "file_name": "Additional Hearthfire Dolls SE 3.0 Separate-46930-3-0-1648968839.7z",
+      "mod_id": 46930,
+      "hash": "sha256-ks/6FLneAxUyrAeIxMmeMqfZsZYjk/WSHjt/NNW/5gk="
+    },
+    "type": "primary"
+  }
+}

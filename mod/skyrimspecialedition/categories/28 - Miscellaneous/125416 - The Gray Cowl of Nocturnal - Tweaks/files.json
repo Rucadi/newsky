@@ -1,0 +1,46 @@
+{
+  "Gray Cowl of Nocturnal - Alt Umbra Scabbard": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 525858,
+      "file_name": "The Gray Cowl of Nocturnal - Alt Umbra Scabbard-125416-1-0-1722162586.7z",
+      "mod_id": 125416,
+      "hash": "sha256-dm2NUchpPwp2fiHuaScaLKbP091FX/Xte6uRbwckXg0="
+    },
+    "type": "primary"
+  },
+  "Gray Cowl of Nocturnal - Umbra Sword Tweaks": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 525860,
+      "file_name": "he Gray Cowl of Nocturnal - Umbra Sword Tweaks-125416-1-0-1722162695.7z",
+      "mod_id": 125416,
+      "hash": "sha256-2xZWqFZORFOdBF+e5JPl9vxPuDd2z3MIU2kxPsNQ+GM="
+    },
+    "type": "primary"
+  },
+  "Gray Cowl of Nocturnal - Misc Item Description": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 525920,
+      "file_name": "Gray Cowl of Nocturnal - Misc Item Description-125416-1-0-1722173733.7z",
+      "mod_id": 125416,
+      "hash": "sha256-m85xAOhkvKpM89kqvsW2w3JDBloMm7jQipeWjLxQhTA="
+    },
+    "type": "primary"
+  },
+  "Gray Cowl of Nocturnal - The Dragonborn's Bestiary": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 525922,
+      "file_name": "Gray Cowl of Nocturnal - The Dragonborn's Bestiary-125416-1-0-1722173839.7z",
+      "mod_id": 125416,
+      "hash": "sha256-IukfxuyfjiFrMqqZ0/t4HXwrOquoXGxyWF7zwECM7Ho="
+    },
+    "type": "primary"
+  }
+}

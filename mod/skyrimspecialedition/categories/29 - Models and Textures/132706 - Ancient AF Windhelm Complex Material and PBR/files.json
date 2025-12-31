@@ -1,0 +1,24 @@
+{
+  "Ancient AF Windhelm Complex Material": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0.0",
+      "file_id": 603909,
+      "file_name": "Ancient AF Windhelm Complex Material-132706-1-0-0-1741594426.rar",
+      "mod_id": 132706,
+      "hash": "sha256-+e2grNBlxToZqaYEQEX+9FFQ2w09Uej9spMclsZ3znc="
+    },
+    "type": "primary"
+  },
+  "Ancient AF Windhelm PBR": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0.0",
+      "file_id": 696026,
+      "file_name": "Ancient AF Windhelm PBR-132706-1-0-0-1765269897.7z",
+      "mod_id": 132706,
+      "hash": "sha256-qnARud+eREw9356nxLp9gIbDqyvfrgRxS5fSPB6Xz7Q="
+    },
+    "type": "primary"
+  }
+}

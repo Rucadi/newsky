@@ -1,0 +1,90 @@
+{
+  "Daedric Shrines - Meridia - My patches by Xtudo SE - USSEP fixes": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1",
+      "file_id": 330364,
+      "file_name": "Daedric Shrines - Meridia - My fixes by Xtudo SE - USSEP fixes-78462-1-1668000884.7z",
+      "mod_id": 78462,
+      "hash": "sha256-vLntD+muSF5137BfOwlXJ0itRy+b/d9CyrMnpT98z1Y="
+    },
+    "type": "primary"
+  },
+  "Daedric Shrines - Meridia - My patches by Xtudo SE - HD Pedestal": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1",
+      "file_id": 330549,
+      "file_name": "Daedric Shrines - Meridia - My patches by Xtudo SE - HD pedestal texture-78462-1-1-1668082656.7z",
+      "mod_id": 78462,
+      "hash": "sha256-qellFUXEmtAIV+c05/IXylb5qRXgPPChrvbNO21ts4k="
+    },
+    "type": "primary"
+  },
+  "Daedric Shrines - Meridia - My patches by Xtudo SE - VIGILANT patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1",
+      "file_id": 330589,
+      "file_name": "Daedric Shrines - Meridia - My patches by Xtudo SE - VIGILANT patch-78462-1-1-1668089961.7z",
+      "mod_id": 78462,
+      "hash": "sha256-5ZsmoRhmy+ogzl4neoaYerVUsXO1G7PnFz/zZ+KFvbU="
+    },
+    "type": "primary"
+  },
+  "Daedric Shrines - Meridia - My patches by Xtudo SE - No Snow Under The Roof patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.2",
+      "file_id": 330627,
+      "file_name": "Daedric Shrines - Meridia - My patches by Xtudo SE - No Snow Under The Roof patch-78462-1-2-1668104431.7z",
+      "mod_id": 78462,
+      "hash": "sha256-S9ZtiS4/wQsKGigllHjtYHbLrvyI1Pq2JRyu9JZpXss="
+    },
+    "type": "primary"
+  },
+  "Daedric Shrines - Meridia - My patches by Xtudo SE - VIGILANT Standalone patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.3",
+      "file_id": 363692,
+      "file_name": "Daedric Shrines - Meridia - My patches by Xtudo SE - VIGILANT Standalone patch-78462-1-3-1677447729.7z",
+      "mod_id": 78462,
+      "hash": "sha256-s7hKwpE/bqEle7+CjGrz6i71s+V051pDfm7ng3AjcnM="
+    },
+    "type": "primary"
+  },
+  "Meridia by Xtudo SE - Lux - VIGILANT patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.4",
+      "file_id": 401260,
+      "file_name": "Meridia by Xtudo SE - Lux - VIGILANT patch-78462-1-4-1687787964.7z",
+      "mod_id": 78462,
+      "hash": "sha256-L5jTTJNMlTdYoV8IkPqaasloKmtonrLbTM5VLjV0xcU="
+    },
+    "type": "primary"
+  },
+  "Meridia by Xtudo SE - Lux - VIGILANT standalone": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.4",
+      "file_id": 401261,
+      "file_name": "Meridia by Xtudo SE - Lux - VIGILANT standalone-78462-1-4-1687788014.7z",
+      "mod_id": 78462,
+      "hash": "sha256-s4q7pYeBRyGrqFTWxnukPu/knGnM4ioUXUwX2b2O/v0="
+    },
+    "type": "primary"
+  },
+  "Meridia by Xtudo SE - Rayeks end the mORISs end": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.5",
+      "file_id": 637388,
+      "file_name": "Meridia by Xtudo SE - Rayeks end the mORISs end-78462-1-5-1749824902.7z",
+      "mod_id": 78462,
+      "hash": "sha256-7+d2G0Cbi2CzHVG8yCUvLPklSKo7r1rjMj+id3+Xupk="
+    },
+    "type": "primary"
+  }
+}

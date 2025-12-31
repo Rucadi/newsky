@@ -1,0 +1,23 @@
+{
+  "ColdSun's Visions - NPCs SkyPatched - Pack 2": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 637472,
+      "file_name": "ColdSun's Visions - NPCs SkyPatched - Pack 2-152524-1-0-1749844533.zip",
+      "mod_id": 152524,
+      "hash": "sha256-iZtiHLmXYbdFDfPcfidaAaJUET0zzGUJyT65WPI7Jv8="
+    },
+    "type": "primary"
+  },
+  "NPCs SkyPatched - Pack 2 - ColdSun's Choice": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 637474,
+      "file_name": "NPCs SkyPatched - Pack 2 - ColdSun's Choice-152524-1-0-1749845082.zip",
+      "mod_id": 152524,
+      "hash": "sha256-wq2ur00jUES+SOqI3THtM2riC2rU5jTGcwXlTfsSdOY="
+    }
+  }
+}

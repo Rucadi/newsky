@@ -1,0 +1,66 @@
+{
+  "Opt. 1 - Wider MCM Menu for SkyUI": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.2",
+      "file_id": 112004,
+      "file_name": "Opt. 1 - Wider MCM Menu for SkyUI-22825-1-2-1572528130.zip",
+      "mod_id": 22825,
+      "hash": "sha256-ao7I/2g4tuWVKI6B/utNDBSe+SYba1ONwAfFMJ1NlBo="
+    },
+    "type": "primary"
+  },
+  "Opt. 2 - Even Wider Rescaled MCM Menu for SkyUI": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.2",
+      "file_id": 112005,
+      "file_name": "Opt. 2 - Even Wider Rescaled MCM Menu for SkyUI-22825-1-2-1572528179.zip",
+      "mod_id": 22825,
+      "hash": "sha256-82t0uvkReweu6DXzvxjHkEnuYJ0jxCPgP5Hnmw2ghf0="
+    },
+    "type": "primary"
+  },
+  "Opt. 3 - Larger MCM Menu for SkyUI": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.2",
+      "file_id": 112006,
+      "file_name": "Opt. 3 - Larger MCM Menu for SkyUI-22825-1-2-1572528248.zip",
+      "mod_id": 22825,
+      "hash": "sha256-MqrSP+XTw5dgu4K/yLhtRR6WAYcjahUs/keP7yoK3YE="
+    },
+    "type": "primary"
+  },
+  "Opt. 4 - Full-screen MCM Menu for SkyUI": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.2",
+      "file_id": 112007,
+      "file_name": "Opt. 4 - Full-screen MCM Menu for SkyUI-22825-1-2-1572528295.zip",
+      "mod_id": 22825,
+      "hash": "sha256-IR4zqXUJCNYh3seIYzjp3w7NEkYFcJiGXrDyOJOprz0="
+    },
+    "type": "primary"
+  },
+  "Opt. 6 - Even Wider Rescaled MCM Menu for SkyUI (old)": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.2",
+      "file_id": 112008,
+      "file_name": "Opt. 6 - Even Wider Rescaled MCM Menu for SkyUI (old)-22825-1-2-1572528378.zip",
+      "mod_id": 22825,
+      "hash": "sha256-vj2iNpVnQ/mu/i4BcWFSfYqshSBbh6KZTxuAdHgvrcE="
+    }
+  },
+  "Opt. 5 - Wider MCM Menu for SkyUI (old)": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.2",
+      "file_id": 112009,
+      "file_name": "Opt. 5 - Wider MCM Menu for SkyUI (old)-22825-1-2-1572528425.zip",
+      "mod_id": 22825,
+      "hash": "sha256-Cbok2CgZF1Y8oC3ZQy/cwIxlXIRfiNomEPH4W6dzjnI="
+    }
+  }
+}

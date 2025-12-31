@@ -1,0 +1,35 @@
+{
+  "Cathedral - 3D Snow Berries - Green and Variegated": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 292317,
+      "file_name": "Cathedral - 3D Snow Berries - Green and Variegated-69415-1-0-1655653694.7z",
+      "mod_id": 69415,
+      "hash": "sha256-GmmU+k/yGZtkcFQ8oxpkoafI+3ORT7kc1MiL9sWV6i0="
+    },
+    "type": "primary"
+  },
+  "Cathedral - 3D Snow Berries - Variegated": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 292318,
+      "file_name": "Cathedral - 3D Snow Berries - Variegated-69415-1-0-1655653885.7z",
+      "mod_id": 69415,
+      "hash": "sha256-07DcnHExNAiwrYgTGTgsCkukj/5gdrhWwA60WxL+pB4="
+    },
+    "type": "primary"
+  },
+  "Cathedral - 3D Snow Berries - Green": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 292319,
+      "file_name": "Cathedral - 3D Snow Berries - Green-69415-1-0-1655654042.7z",
+      "mod_id": 69415,
+      "hash": "sha256-9xYP8U0sxKkvHPD/AFIjIygskhAQVzX8NeGRi/HupR8="
+    },
+    "type": "primary"
+  }
+}

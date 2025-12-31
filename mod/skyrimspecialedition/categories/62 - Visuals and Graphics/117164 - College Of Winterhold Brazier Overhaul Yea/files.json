@@ -1,0 +1,57 @@
+{
+  "COWBOY - Vanilla Skyrim": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1",
+      "file_id": 492659,
+      "file_name": "COWBOY - Vanilla Skyrim-117164-1-1-1713560274.zip",
+      "mod_id": 117164,
+      "hash": "sha256-T8SezxeHOVS908W6Dc79q1eEhX3rIy4qiJJ7drhCDe4="
+    },
+    "type": "primary"
+  },
+  "COWBOY - JK's College": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1",
+      "file_id": 492669,
+      "file_name": "COWBOY - JK's College-117164-1-1-1713562482.zip",
+      "mod_id": 117164,
+      "hash": "sha256-vQuP5my9Y7e+EXW42U8lDD5TkY2dt118bbz1Y+lCLp0="
+    },
+    "type": "primary"
+  },
+  "COWBOY - Ultimate College": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1",
+      "file_id": 493827,
+      "file_name": "COWBOY - Ultimate College-117164-1-1-1713840114.zip",
+      "mod_id": 117164,
+      "hash": "sha256-0Qish/ZQH3kh15/TsFdgwpJIrXfaeqBGwWXBn1eAMQo="
+    },
+    "type": "primary"
+  },
+  "COWBOY - Obscure College": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1",
+      "file_id": 493830,
+      "file_name": "COWBOY - Obscure College-117164-1-1-1713840665.zip",
+      "mod_id": 117164,
+      "hash": "sha256-JKf0WI4p+8cS1e1jmeK0qwvfiSR5Ii2j1P9lqyoFK0E="
+    },
+    "type": "primary"
+  },
+  "COWBOY - Immersive College": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.2",
+      "file_id": 493838,
+      "file_name": "COWBOY - Immersive College-117164-1-2-1713841720.zip",
+      "mod_id": 117164,
+      "hash": "sha256-rhCbX/XbUmgkqIjhxJRr4IErM1tVKx2NTwYGbaEvThs="
+    },
+    "type": "primary"
+  }
+}

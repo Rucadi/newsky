@@ -1,0 +1,23 @@
+{
+  "Everdamned DLL debug symbols": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0.4",
+      "file_id": 700560,
+      "file_name": "Everdamned DLL debug symbols-162489-1-0-4-1766345053.zip",
+      "mod_id": 162489,
+      "hash": "sha256-6bIiYLhu2iPKUiqoGK+NB6f2x2l/PI8ABrj+BlNkidk="
+    }
+  },
+  "Everdamned Main File": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.2.2",
+      "file_id": 703785,
+      "file_name": "Everdamned Main File-162489-1-2-2-1767136224.zip",
+      "mod_id": 162489,
+      "hash": "sha256-TUKOxaS/Va6Vdrby5KvmXrHet0PN9iuWAtas0jLyhCk="
+    },
+    "type": "primary"
+  }
+}

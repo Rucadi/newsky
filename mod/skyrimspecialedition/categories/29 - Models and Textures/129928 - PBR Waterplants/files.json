@@ -1,0 +1,68 @@
+{
+  "PBR Waterplants": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 552459,
+      "file_name": "PBR Waterplants-129928-1-0-1729025177.zip",
+      "mod_id": 129928,
+      "hash": "sha256-XN8xYJDM/DhXRrbz5R3LunOhVrHBdFQ9s6uAUJk6BkE="
+    },
+    "type": "primary"
+  },
+  "Flora Additions Waterplants PBR": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0.3",
+      "file_id": 619875,
+      "file_name": "Flora Additions Waterplants PBR-129928-1-0-3-1745258347.zip",
+      "mod_id": 129928,
+      "hash": "sha256-pPxsjmRit8Z04soNGaKym8I2mjbMCSuCSs23WoMmf58="
+    },
+    "type": "primary"
+  },
+  "TMD The Rift Leaves PBR 2k": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 623528,
+      "file_name": "TMD The Rift Leaves PBR 2k-129928-1-0-1746354384.zip",
+      "mod_id": 129928,
+      "hash": "sha256-eznW9TrUv1iCDtgJ3hz+1W0W8QWtQ4UpIc4Fj8lRjo0="
+    },
+    "type": "primary"
+  },
+  "TMD The Rift Leaves PBR 4k": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 623529,
+      "file_name": "TMD The Rift Leaves PBR 4k-129928-1-0-1746354405.zip",
+      "mod_id": 129928,
+      "hash": "sha256-6CqlzGLCC7ucbwybdkyfLqdw052Cp0XT1A7bKkR6gNw="
+    },
+    "type": "primary"
+  },
+  "A PBR Nirnroot - 2k": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 627769,
+      "file_name": "A PBR Nirnroot - 2k-129928-1-0-1747424708.zip",
+      "mod_id": 129928,
+      "hash": "sha256-Yo9VFR/ig/0ZtGmJWYyNmKcoPZE2Z6uoHFMPZUZFFrE="
+    },
+    "type": "primary"
+  },
+  "A PBR Nirnroot - 4k": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 627770,
+      "file_name": "A PBR Nirnroot - 4k-129928-1-0-1747424728.zip",
+      "mod_id": 129928,
+      "hash": "sha256-v1kEXZr6T0H/YGl260Ppd6ACGMbUTc6/sT8/UtFmPfg="
+    },
+    "type": "primary"
+  }
+}

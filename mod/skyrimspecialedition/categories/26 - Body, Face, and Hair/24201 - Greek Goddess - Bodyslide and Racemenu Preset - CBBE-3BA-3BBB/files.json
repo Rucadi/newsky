@@ -1,0 +1,24 @@
+{
+  "Greek Goddess - Bodyslide Preset": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "5.0",
+      "file_id": 652402,
+      "file_name": "Greek Goddess - Bodyslide Preset 5.0-24201-5-0-1754218526.7z",
+      "mod_id": 24201,
+      "hash": "sha256-bnxPSA6+NlrWF5/bNbRmNIE4MgPySJtsCAICrTHE6k0="
+    },
+    "type": "primary"
+  },
+  "Greek Goddess - Racemenu": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "5.0",
+      "file_id": 652403,
+      "file_name": "Greek Goddess - Racemenu-24201-5-0-1754219140.7z",
+      "mod_id": 24201,
+      "hash": "sha256-WsHHwU5aeDav4TrKMAryCYvxAig8K6fsSbkIK6GW6gM="
+    },
+    "type": "primary"
+  }
+}

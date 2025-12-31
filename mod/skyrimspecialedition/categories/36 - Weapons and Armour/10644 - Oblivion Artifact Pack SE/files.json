@@ -1,0 +1,23 @@
+{
+  "Oblivion Artifact Pack V3": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "V3",
+      "file_id": 163870,
+      "file_name": "Oblivion Artifact Pack V3-10644-V3-1601811081.rar",
+      "mod_id": 10644,
+      "hash": "sha256-je2GZT+u82ol7KI0WysVLfNAeeKZnk/qyJlM7ynSHBM="
+    },
+    "type": "primary"
+  },
+  "Cleaned and Upscaled Textures": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1",
+      "file_id": 229184,
+      "file_name": "Cleaned and Upscaled Textures-10644-1-1-1631986699.rar",
+      "mod_id": 10644,
+      "hash": "sha256-UsMCMDUkcsPw0vPyZOCGfaXYS/SmL05CDJsTMYFASIc="
+    }
+  }
+}

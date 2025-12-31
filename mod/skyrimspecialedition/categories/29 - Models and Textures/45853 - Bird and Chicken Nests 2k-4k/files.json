@@ -1,0 +1,64 @@
+{
+  "Hawk nest Hearthfire 4k": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 186534,
+      "file_name": "Hawk nest Hearthfire 4k-45853-1-0-1613627332.zip",
+      "mod_id": 45853,
+      "hash": "sha256-H7q3SfkYbICfhotrOo+8KVq0StZuofYDeS9tnHXkEto="
+    }
+  },
+  "Hawk nest Hearthfire 2k": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 186535,
+      "file_name": "Hawk nest Hearthfire 2k-45853-1-0-1613627366.zip",
+      "mod_id": 45853,
+      "hash": "sha256-kcFwJLKZfz/nvUa4qqBykWMm6M0wzCXrdLZ5TnQramg="
+    }
+  },
+  "Bird Hawk Chicken Nests and eggs 2k": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1",
+      "file_id": 186948,
+      "file_name": "Bird Hawk Chicken Nests and eggs 2k-45853-1-1-1613809916.zip",
+      "mod_id": 45853,
+      "hash": "sha256-9P1AQlX1bjUNxGLQkprP3R39TLjOPY2cGxIpGYtq37k="
+    },
+    "type": "primary"
+  },
+  "Bird Hawk Chicken Nests and eggs 4k": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1",
+      "file_id": 186949,
+      "file_name": "Bird Hawk Chicken Nests and eggs 4k-45853-1-1-1613810037.zip",
+      "mod_id": 45853,
+      "hash": "sha256-wDE9d1hJlqQ4+H0itwkfyvRFgJ4G8+hJRdGzduvzAjg="
+    },
+    "type": "primary"
+  },
+  "Keep old eggs but get new smoother normal maps for eggs 2k": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 186950,
+      "file_name": "Keep old eggs but get new smoother normal maps for eggs 2k-45853-1-0-1613810162.zip",
+      "mod_id": 45853,
+      "hash": "sha256-ApNTclmGEZt0MychVy+mJGuX9t9WzUKTm1igha58jog="
+    }
+  },
+  "Keep old eggs but get new smoother normal maps for eggs 4k": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 186951,
+      "file_name": "Keep old eggs but get new smoother normal maps for eggs 4k-45853-1-0-1613810412.zip",
+      "mod_id": 45853,
+      "hash": "sha256-ZGbhaJtjnDfw1QKLU0HJbbDjxLtczFCweN0N20kPKFo="
+    }
+  }
+}

@@ -1,0 +1,187 @@
+{
+  "Making SkyChild Patches": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 540556,
+      "file_name": "Making SkyChild Patches-128781-1-0-1725918937.zip",
+      "mod_id": 128781,
+      "hash": "sha256-GfWt3IXfyIo4JOXU+wDdDxzDvdxCS7MDwUPdKWjexkY="
+    }
+  },
+  "Beyond Skyrim Bruma SkyChild Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1",
+      "file_id": 541859,
+      "file_name": "Beyond Skyrim Bruma SkyChild Patch-128781-1-1-1726278262.7z",
+      "mod_id": 128781,
+      "hash": "sha256-V8EFMgF2OsuG0lPYzXmtO2OzLmvK1ksV8qTaF5E1p/M="
+    },
+    "type": "primary"
+  },
+  "College Of Winterhold Expansion SkyChild Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1",
+      "file_id": 541861,
+      "file_name": "College Of Winterhold Expansion SkyChild Patch-128781-1-1-1726278389.7z",
+      "mod_id": 128781,
+      "hash": "sha256-aXsp+L0tHNKMZYhV3QT6c/TMyTeqiS9h+oznK5Tj+Vs="
+    },
+    "type": "primary"
+  },
+  "Cutting Room Floor SkyChild Patch SE": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1",
+      "file_id": 541862,
+      "file_name": "Cutting Room Floor SkyChild Patch-128781-1-1-1726278456.7z",
+      "mod_id": 128781,
+      "hash": "sha256-F5nhxZG7+EB3m6Ihbxcvmp2yyv7CPqz3R+BKSWLYD+Q="
+    },
+    "type": "primary"
+  },
+  "ETAC - Complete v0.7 SkyChild Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1",
+      "file_id": 541865,
+      "file_name": "ETAC - Complete v0.7 SkyChild Patch-128781-1-1-1726278870.7z",
+      "mod_id": 128781,
+      "hash": "sha256-0eEJK+QA18M0DEEVYjjh1ff+ZWF1DH+9lXgHH7ORQ0s="
+    },
+    "type": "primary"
+  },
+  "Falskaar SkyChild Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1",
+      "file_id": 541866,
+      "file_name": "Falskaar SkyChild Patch-128781-1-1-1726278935.7z",
+      "mod_id": 128781,
+      "hash": "sha256-46/6t4d5iha6s0e1UcJ6rJvTckZ/0BK7y2oT8v7BMKU="
+    },
+    "type": "primary"
+  },
+  "Inconsequential NPCs SkyChild Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1",
+      "file_id": 541867,
+      "file_name": "Inconsequential NPCs SkyChild Patch-128781-1-1-1726278990.7z",
+      "mod_id": 128781,
+      "hash": "sha256-5aKTFadNRmXOQ1VWeuEhg67Wl4gkwGsDN/qJv/aivQ8="
+    },
+    "type": "primary"
+  },
+  "Interesting NPCs SkyChild Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1",
+      "file_id": 541868,
+      "file_name": "Interesting NPCs SkyChild Patch-128781-1-1-1726279043.7z",
+      "mod_id": 128781,
+      "hash": "sha256-2aJeAboK2tg+ZViWi9gTAesdNwpEnyV1sI2FAvVj8vk="
+    },
+    "type": "primary"
+  },
+  "Oakwood SkyChild Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1",
+      "file_id": 541871,
+      "file_name": "Oakwood SkyChild Patch-128781-1-1-1726279099.7z",
+      "mod_id": 128781,
+      "hash": "sha256-d7me8X0UDDmp2XY/eP1W+ToRKaLas8fxyQSjIk2a39Q="
+    },
+    "type": "primary"
+  },
+  "Rigmor of Bruma SkyChild Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1",
+      "file_id": 541872,
+      "file_name": "Rigmor of Bruma SkyChild Patch-128781-1-1-1726279152.7z",
+      "mod_id": 128781,
+      "hash": "sha256-h1i1V2/wbtXFatbi3GZmWpTe/FJwXtlII8H2R3eHk74="
+    },
+    "type": "primary"
+  },
+  "Wyrmstooth SkyChild Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1",
+      "file_id": 541875,
+      "file_name": "Wyrmstooth SkyChild Patch-128781-1-1-1726279201.7z",
+      "mod_id": 128781,
+      "hash": "sha256-JFlH1HYRJ3VxyZyVTu3AG38/cjVYo7GqBLBIpz5pdQI="
+    },
+    "type": "primary"
+  },
+  "Rigmor of Cyrodiil Skychild Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1",
+      "file_id": 542792,
+      "file_name": "Rigmor of Cyrodiil Skychild Patch-128781-1-1-1726478824.7z",
+      "mod_id": 128781,
+      "hash": "sha256-WRZuejgzh34KEBA3IDOjm5X9CbgBe03g8o7Rx4aIakw="
+    },
+    "type": "primary"
+  },
+  "Rigmor of Cyrodiil SkyChild Patch Sorella Edition": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1",
+      "file_id": 543080,
+      "file_name": "Rigmor of Cyrodiil SkyChild Patch Sorella Edition-128781-1-1-1726543029.7z",
+      "mod_id": 128781,
+      "hash": "sha256-Lrv8Tlmkbl6fn32H/4mjBWH1CjVzFTuFTWA+44QNOf8="
+    },
+    "type": "primary"
+  },
+  "SkyChild Faces": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "2.0",
+      "file_id": 544050,
+      "file_name": "SkyChild Faces-128781-2-0-1726810553.7z",
+      "mod_id": 128781,
+      "hash": "sha256-qaBJsYtrlUtW6C+OuWdZMV+2D0KHKLJRWARY6FjR36o="
+    }
+  },
+  "Cutting Room Floor SkyChild Patch AE": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "2.0",
+      "file_id": 544365,
+      "file_name": "Cutting Room Floor SkyChild Patch-128781-2-0-1726887106.7z",
+      "mod_id": 128781,
+      "hash": "sha256-g21MoMsbHXW8jSDHsELzUb1gXPexBTd0z5JNh0Vs6aA="
+    },
+    "type": "primary"
+  },
+  "Carlotta Valentina Happy Ending SkyChild Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 563389,
+      "file_name": "Carlotta Valentina Happy Ending SkyChild Patch-128781-1-0-1731876999.7z",
+      "mod_id": 128781,
+      "hash": "sha256-VV4RBAX4rzIkVGcPAPHZkQddlmvQ+y/KllpHKOn1c+w="
+    },
+    "type": "primary"
+  },
+  "Keld-Nar SkyChild Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1",
+      "file_id": 647156,
+      "file_name": "Keld-Nar SkyChild Patch-128781-1-1-1752517656.7z",
+      "mod_id": 128781,
+      "hash": "sha256-ZzgoZIX4FurIEJUlOGR87ItK9bdGO3runBdxAoRXW+Q="
+    },
+    "type": "primary"
+  }
+}

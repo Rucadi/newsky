@@ -1,0 +1,24 @@
+{
+  "JS Helm of Yngol SE - 2k": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1",
+      "file_id": 544239,
+      "file_name": "JS Helm of Yngol SE - 2k-51346-1-1-1726854278.7z",
+      "mod_id": 51346,
+      "hash": "sha256-cjOEMsnOHZGRZKPAny7x+mzQ7vk8IANXEB8oJ+b7da8="
+    },
+    "type": "primary"
+  },
+  "JS Helm of Yngol SE - 4k": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1",
+      "file_id": 544240,
+      "file_name": "JS Helm of Yngol SE - 4k-51346-1-1-1726854314.7z",
+      "mod_id": 51346,
+      "hash": "sha256-08+b8CkfwiqSTLbTZI3VkovQAJvFShP+uYtJsUnMkks="
+    },
+    "type": "primary"
+  }
+}

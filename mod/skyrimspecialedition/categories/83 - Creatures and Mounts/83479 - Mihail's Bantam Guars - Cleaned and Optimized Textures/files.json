@@ -1,0 +1,55 @@
+{
+  "Mihail's Dead Bantam Guars - Textures 4K": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 352950,
+      "file_name": "Mihail's Dead Bantam Guars - Textures 4K-83479-1-0-1674660933.7z",
+      "mod_id": 83479,
+      "hash": "sha256-ZLSRxNmpMSUa3auX/OWaoPEEk2r0cU2UbzphUhG9B0s="
+    },
+    "type": "primary"
+  },
+  "Mihail's Dead Bantam Guars - Textures 2K": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 352951,
+      "file_name": "Mihail's Dead Bantam Guars - Textures 2K-83479-1-0-1674660935.7z",
+      "mod_id": 83479,
+      "hash": "sha256-/iU7UE5pPQBSkDGZmiRsJf4Lck3wKFMoiJo4vnNFHLQ="
+    },
+    "type": "primary"
+  },
+  "1k-512 Textures for Mashed Potatoes": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 352952,
+      "file_name": "1k-512 Textures for Mashed Potatoes-83479-1-0-1674661016.7z",
+      "mod_id": 83479,
+      "hash": "sha256-6xF+tHVtqH6Gn10SDO/Ip+gFnOlz6ViNrkcraHbJhxE="
+    }
+  },
+  "2k-1k Textures for Baked Potatoes": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 352953,
+      "file_name": "2k-1k Textures for Baked Potatoes-83479-1-0-1674661020.7z",
+      "mod_id": 83479,
+      "hash": "sha256-3KcIHI0LRZQgSdBE68jUBlwpz+7m/5jOvS0Bt9Ni8uQ="
+    }
+  },
+  "Mihail's Live bantam Guars- Repathed Meshes": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 355544,
+      "file_name": "Mihail's Live bantam Guars- Repathed Meshes-83479-1-0-1675348469.7z",
+      "mod_id": 83479,
+      "hash": "sha256-Y3lQ2ghd+eXqNjktLZRLocXixKQ+tszB9i9Btfdc1fo="
+    },
+    "type": "primary"
+  }
+}

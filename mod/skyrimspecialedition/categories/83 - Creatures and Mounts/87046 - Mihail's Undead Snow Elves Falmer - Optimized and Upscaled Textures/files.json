@@ -1,0 +1,55 @@
+{
+  "Snow Elves Textures - 4K": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 368606,
+      "file_name": "Snow Elves Textures - 4K-87046-1-0-1678835544.7z",
+      "mod_id": 87046,
+      "hash": "sha256-JeF0g7v/fc66rrJSAIXzys9lfH1j5U0vhZMYjLYiqgw="
+    },
+    "type": "primary"
+  },
+  "2k-1k Textures for Baked Potatoes": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 368609,
+      "file_name": "2k-1k Textures for Baked Potatoes-87046-1-0-1678835755.7z",
+      "mod_id": 87046,
+      "hash": "sha256-htuqxBGJPcKLEfMKFugWCmMhKiiJ4xMe4x3mFNWmeHQ="
+    }
+  },
+  "1k-512 Textures for Mashed Potatoes": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 368610,
+      "file_name": "1k-512 Textures for Mashed Potatoes-87046-1-0-1678835917.7z",
+      "mod_id": 87046,
+      "hash": "sha256-JU6FpafZefH8o8mx1TVdRc5FT/DQguilSZQ82ALffKE="
+    }
+  },
+  "Snow Elves Textures - 8k4k": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 368611,
+      "file_name": "Snow Elves Textures - 8k4k-87046-1-0-1678835919.7z",
+      "mod_id": 87046,
+      "hash": "sha256-dKMXLwD0sXdEEuRh7Lodr3SlR0YMay9im9hqUOt4E58="
+    },
+    "type": "primary"
+  },
+  "Snow Elves Textures - 4k2k": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 368612,
+      "file_name": "Snow Elves Textures - 4k2k-87046-1-0-1678835921.7z",
+      "mod_id": 87046,
+      "hash": "sha256-tCePVXcjLd5QET/vrclSqCdzgHdPrY8mrbbwyFpReeQ="
+    },
+    "type": "primary"
+  }
+}

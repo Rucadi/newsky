@@ -1,0 +1,33 @@
+{
+  "TRD - Xtudo's Glowing Eyes": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 520661,
+      "file_name": "TRD - Xtudo's Glowing Eyes-124166-1-0-1720870168.zip",
+      "mod_id": 124166,
+      "hash": "sha256-DRQRrjQBqT5l2c2YxijXYbHnQ8qObe7EEQfxeWnjxwU="
+    }
+  },
+  "2K Textures": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 520662,
+      "file_name": "2K Textures-124166-1-0-1720870217.zip",
+      "mod_id": 124166,
+      "hash": "sha256-AsTVxYU5qoRFNYuQqhUEV5ZBHdtpGBj8marI7c031gg="
+    }
+  },
+  "The Restless Dead - Mandragorasprouts' Draugrs": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.4",
+      "file_id": 572380,
+      "file_name": "The Restless Dead - Mandragorasprouts' Draugrs-124166-1-4-1734198725.zip",
+      "mod_id": 124166,
+      "hash": "sha256-YmYhtR+RsJzecIEm56Vf5t8V3M/PhYWlNhT4Et8opKs="
+    },
+    "type": "primary"
+  }
+}

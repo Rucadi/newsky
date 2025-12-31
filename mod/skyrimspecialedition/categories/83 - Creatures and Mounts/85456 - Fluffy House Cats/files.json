@@ -1,0 +1,35 @@
+{
+  "Fluffy House Cats 4k": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1",
+      "file_id": 361869,
+      "file_name": "Fluffy House Cats 4k-85456-1-1676942389.7z",
+      "mod_id": 85456,
+      "hash": "sha256-saN7KMWfHfFNqdWncH1dv1qCatUo4PehKn3O+J8lq0c="
+    },
+    "type": "primary"
+  },
+  "Fluffy House Cats 2k": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1",
+      "file_id": 361871,
+      "file_name": "Fluffy House Cats 2k-85456-1-1676942475.7z",
+      "mod_id": 85456,
+      "hash": "sha256-275ODyUXsNJ+0Zb8JataJjGGn/VEc/blSDV5h6yqhvo="
+    },
+    "type": "primary"
+  },
+  "Fluffy House Cats 1k": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1",
+      "file_id": 361872,
+      "file_name": "Fluffy House Cats 1k-85456-1-1676942505.7z",
+      "mod_id": 85456,
+      "hash": "sha256-E/wOJr4ZkUzkHcxYypDZrPpr6gjgc5tFflXa9zOu9LA="
+    },
+    "type": "primary"
+  }
+}

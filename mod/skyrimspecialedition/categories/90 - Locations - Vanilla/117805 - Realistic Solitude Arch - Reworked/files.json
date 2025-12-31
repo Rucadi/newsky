@@ -1,0 +1,44 @@
+{
+  "Realistic Solitude Arch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.2",
+      "file_id": 494926,
+      "file_name": "Realistic Solitude Arch-117805-1-0-1714129206.7z",
+      "mod_id": 117805,
+      "hash": "sha256-bqJK6lVwlE/lmlrDt8AvNPgml0XI+YuPmy/BtKeEKFA="
+    },
+    "type": "primary"
+  },
+  "Realistic Solitude Arch - Solitude Docks Version": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.2",
+      "file_id": 495006,
+      "file_name": "Realistic Solitude Arch - Solitude Docks Version-117805-1-0-1714148614.7z",
+      "mod_id": 117805,
+      "hash": "sha256-LtG+AUasFU2AUqIcB5NeXbmbCMKkEpRroNMgH6YUH48="
+    },
+    "type": "primary"
+  },
+  "Realistic Solitude Arch with LOD": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.2",
+      "file_id": 496072,
+      "file_name": "Realistic Solitude Arch with LOD-117805-1-2-1714408459.7z",
+      "mod_id": 117805,
+      "hash": "sha256-cwj0SEiuUVdQ9Y8MfprYU2vjje6ZVi/lEiPf3tZ16/4="
+    }
+  },
+  "Realistic Solitude Arch - SD Version with LOD": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.2",
+      "file_id": 496084,
+      "file_name": "Realistic Solitude Arch - SD Version with LOD-117805-1-2-1714412734.7z",
+      "mod_id": 117805,
+      "hash": "sha256-NTU8sAZCNfl8ki27tF+9o8jWOQEh+jsU+TE/nCNjyzg="
+    }
+  }
+}

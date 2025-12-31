@@ -1,0 +1,33 @@
+{
+  "Blubbo_Gildergreen_2023_FullLOD.zip": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 413178,
+      "file_name": "Blubbo_Gildergreen_2023_FullLOD.zip-97396-1-0-1690920913.zip",
+      "mod_id": 97396,
+      "hash": "sha256-7P56GkN+4l+tq7iErazROAmjE7mGy7PqgRY09W1DRS0="
+    },
+    "type": "primary"
+  },
+  "Blubbo_Gildergreen_2023_always green_Patch.zip": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 413179,
+      "file_name": "Blubbo_Gildergreen_2023_always green_Patch.zip-97396-1-0-1690920999.zip",
+      "mod_id": 97396,
+      "hash": "sha256-fAS2+HhfeD8zCJwvEzbaujmV4XybpNctOIQne8KJjms="
+    }
+  },
+  "Blubbo_Gildergreen_2023_3D_Lod_Patch.zip": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 414300,
+      "file_name": "Blubbo_Gildergreen_2023_3D_Lod_Patch.zip-97396-1-0-1691227817.zip",
+      "mod_id": 97396,
+      "hash": "sha256-z3NPE3cfEo40zr7Oe1NNJ58c8MZUZDKrprZYo7KVAHw="
+    }
+  }
+}

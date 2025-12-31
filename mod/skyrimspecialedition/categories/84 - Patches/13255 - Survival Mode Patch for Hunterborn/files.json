@@ -1,0 +1,24 @@
+{
+  "Hunterborn Survival Patch Vanilla": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 37778,
+      "file_name": "Hunterborn Survival Vanilla Patch.7z-13255-1-0.7z",
+      "mod_id": 13255,
+      "hash": "sha256-zYcBW/Rp3ctM2PeL6PqqrlE273qimZZU47XyyK8+lbk="
+    },
+    "type": "primary"
+  },
+  "Hunterborn Survival Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0.1",
+      "file_id": 37779,
+      "file_name": "Hunterborn Survival Patch.7z-13255-1-0-1.7z",
+      "mod_id": 13255,
+      "hash": "sha256-jDR5PuCTgeZMpxPDfGw3+k9pG5inyi7uPMdjLAyhTGg="
+    },
+    "type": "primary"
+  }
+}

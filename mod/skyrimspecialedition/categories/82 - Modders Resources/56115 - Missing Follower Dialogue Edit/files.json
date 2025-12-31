@@ -1,0 +1,63 @@
+{
+  "Missing Follower Dialogue Edit - Make Follower BAT": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "2.0.1",
+      "file_id": 472540,
+      "file_name": "Missing Follower Dialogue Edit - Make Follower BAT-56115-2-0-1-1708355722.7z",
+      "mod_id": 56115,
+      "hash": "sha256-tBVpnjQiXUo486L+c3reYWVarbjhGUYZ2q9R3HpV5nU="
+    }
+  },
+  "Missing Follower Dialogue Fix - RDO Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "2.4.1",
+      "file_id": 627420,
+      "file_name": "Missing Follower Dialogue Fix - RDO Patch-56115-2-4-1-1747324394.7z",
+      "mod_id": 56115,
+      "hash": "sha256-tKfK5gznheewaq4Vz3ENGflaf0A45mUjTzo/4CH2ygs="
+    }
+  },
+  "Missing Follower Dialogue Fix - USSEP Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "2.4.2",
+      "file_id": 631010,
+      "file_name": "Missing Follower Dialogue Fix - USSEP Patch-56115-2-4-2-1748175923.7z",
+      "mod_id": 56115,
+      "hash": "sha256-DmTYG2Oz/d6pDKrAWfgLmcmGHjQvLgr3shHpJwlIAu4="
+    }
+  },
+  "Missing Follower Dialogue Fix - AYOP TG Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "2.4.4",
+      "file_id": 646243,
+      "file_name": "Missing Follower Dialogue Fix - AYOP TG Patch-56115-2-4-4-1752276113.7z",
+      "mod_id": 56115,
+      "hash": "sha256-6v9tX6YaRMdx0rEdW8w/IU4NMAsNqJUpppBcdo0V4ak="
+    }
+  },
+  "MFMD - Missing Follower Dialogue Edit": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "2.4.6",
+      "file_id": 672667,
+      "file_name": "MFMD - Missing Follower Dialogue Edit-56115-2-4-6-1759703490.7z",
+      "mod_id": 56115,
+      "hash": "sha256-HxAC8RF7/jLhXFtuHBEmyAU/DC3osiUwAP/FmMFWgWs="
+    },
+    "type": "primary"
+  },
+  "Missing Follower Dialogue Fix - RDO Lite Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "2.4.6",
+      "file_id": 672668,
+      "file_name": "Missing Follower Dialogue Fix - RDO Lite Patch-56115-2-4-6-1759703524.7z",
+      "mod_id": 56115,
+      "hash": "sha256-Tnx5rkkXdXz72+vDrlTwyQpi2i6tuBHcXW5KBQajZ5c="
+    }
+  }
+}

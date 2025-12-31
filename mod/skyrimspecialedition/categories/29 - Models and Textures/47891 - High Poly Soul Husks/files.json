@@ -1,0 +1,23 @@
+{
+  "High Poly Soul Husks": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "0.2.1",
+      "file_id": 195157,
+      "file_name": "High Poly Soul Husks-47891-0-2-1617274845.7z",
+      "mod_id": 47891,
+      "hash": "sha256-PWgN+l0XkLqKNoCdwFazNAufU07+fJrgEG4O4cqWHiw="
+    },
+    "type": "primary"
+  },
+  "High Poly Soul Husks for cunny1975's textures": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "0.2.1",
+      "file_id": 195241,
+      "file_name": "High Poly Soul Husks for cunny1975's textures-47891-0-2-1617301553.7z",
+      "mod_id": 47891,
+      "hash": "sha256-eqEE28hVywCwtyjkKHfCbWXmKLAl98OFMiWtD3DKPPE="
+    }
+  }
+}

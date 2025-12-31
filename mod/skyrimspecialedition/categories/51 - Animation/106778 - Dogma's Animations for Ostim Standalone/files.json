@@ -1,0 +1,34 @@
+{
+  "Dogma Animations for Ostim Standalone": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1",
+      "file_id": 451096,
+      "file_name": "Dogma Animations for Ostim Standalone-106778-1-1702361765.zip",
+      "mod_id": 106778,
+      "hash": "sha256-cGnZKE5B8bfMx7PLwFwxuaOAKucODH30C0HV9zAj074="
+    },
+    "type": "primary"
+  },
+  "Alignment JSON": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1",
+      "file_id": 451097,
+      "file_name": "Alignment JSON-106778-1-1702361820.zip",
+      "mod_id": 106778,
+      "hash": "sha256-gsrUJiGSCqcvJPRqj0jb1Q+xqxsIvMzqnUXUQcakwOw="
+    },
+    "type": "primary"
+  },
+  "Question Icon instead of black Icon": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1",
+      "file_id": 451131,
+      "file_name": "Question Icon instead of black Icon-106778-1-1702381068.zip",
+      "mod_id": 106778,
+      "hash": "sha256-+75441BcafnzzeQ5/eUyxBAOF19WHWzpaAH037pfLi0="
+    }
+  }
+}

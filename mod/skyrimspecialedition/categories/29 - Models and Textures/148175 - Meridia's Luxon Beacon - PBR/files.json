@@ -1,0 +1,24 @@
+{
+  "Meridia's Luxon Beacon - PBR - Turquoise": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 619145,
+      "file_name": "Meridia's Luxon Beacon - PBR - Turquoise-148175-1-0-1745099680.zip",
+      "mod_id": 148175,
+      "hash": "sha256-JcEP30rlNJ8kQ8fPVkfCZ8a/JApkCxqL7pmwQily3PE="
+    },
+    "type": "primary"
+  },
+  "Meridia's Luxon Beacon - PBR - Grey": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 619146,
+      "file_name": "Meridia's Luxon Beacon - PBR - Grey-148175-1-0-1745099731.zip",
+      "mod_id": 148175,
+      "hash": "sha256-CKAFjGMxeQxmU4rx6jA27/Clfvwpz1JrqFIMpqnZAyw="
+    },
+    "type": "primary"
+  }
+}

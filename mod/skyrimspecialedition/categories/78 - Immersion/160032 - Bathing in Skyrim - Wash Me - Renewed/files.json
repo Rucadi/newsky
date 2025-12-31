@@ -1,0 +1,23 @@
+{
+  "Bathing in Skyrim - Wash Me": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.2",
+      "file_id": 682663,
+      "file_name": "Bathing in Skyrim - Wash Me-160032-1-2-1762017205.7z",
+      "mod_id": 160032,
+      "hash": "sha256-/lx9gV7k7W6FZT+7GzM6/Nm5vyUxXoSyPxI9u9HjVrU="
+    },
+    "type": "primary"
+  },
+  "Dirt and Blood - Wash Me": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.2",
+      "file_id": 682707,
+      "file_name": "Dirt and Blood - Wash Me-160032-1-2-1762024454.7z",
+      "mod_id": 160032,
+      "hash": "sha256-ATJf70lCgubECuXLNnOaXsv9MaaKri+vSP3+RfEj76o="
+    }
+  }
+}

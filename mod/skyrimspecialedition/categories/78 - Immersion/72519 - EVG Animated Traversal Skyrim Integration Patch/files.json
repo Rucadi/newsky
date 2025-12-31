@@ -1,0 +1,23 @@
+{
+  "EVGAT Skyrim Integration Patch-Mfvicli EVGAT AIO Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.2.1-b",
+      "file_id": 314526,
+      "file_name": "EVGAT Skyrim Integration Patch-Mfvicli EVGAT AIO Patch-72519-1-2-1-b-1662712260.7z",
+      "mod_id": 72519,
+      "hash": "sha256-ipkeMIwbT/fQ4RaoucvlMOlYxoGUpeHXugcMpPxY5rM="
+    }
+  },
+  "EVGAT Skyrim Integration Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.2.3",
+      "file_id": 357001,
+      "file_name": "EVGAT Skyrim Integration Patch-72519-1-2-3-1675657674.7z",
+      "mod_id": 72519,
+      "hash": "sha256-3BdIRzFU/SK7wMYpfCNmTCMNH+hZmbiHIjWKAm1jzEU="
+    },
+    "type": "primary"
+  }
+}

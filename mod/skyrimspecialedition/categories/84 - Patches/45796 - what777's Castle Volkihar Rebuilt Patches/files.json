@@ -1,0 +1,46 @@
+{
+  "Castle Volkihar Rebuilt - Relationship Dialogue Overhaul Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 186256,
+      "file_name": "Castle Volkihar Rebuilt - Relationship Dialogue Overhaul Patch-45796-1-0-1613481868.7z",
+      "mod_id": 45796,
+      "hash": "sha256-bsiiEhs0BGJKMtfRo5Vy6qLphff1XlA8BTGk/KQFgek="
+    },
+    "type": "primary"
+  },
+  "Castle Volkihar Rebuilt - Serana Dialogue Edit Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 186258,
+      "file_name": "Castle Volkihar Rebuilt - Serana Dialogue Edit Patch-45796-1-0-1613481934.7z",
+      "mod_id": 45796,
+      "hash": "sha256-/0kJcuhsc73dqhNjBiICzTiT59bzbYQ05QRXriwvgtk="
+    },
+    "type": "primary"
+  },
+  "Castle Volkihar Rebuilt - Enhanced Lights and FX Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0.1",
+      "file_id": 186271,
+      "file_name": "Castle Volkihar Rebuilt - Enhanced Lights and FX Patch-45796-1-0-1-1613490314.7z",
+      "mod_id": 45796,
+      "hash": "sha256-s2InZgqCFHYwUUihMHetg5xNi0c/6zTuD3B7bTINrbQ="
+    },
+    "type": "primary"
+  },
+  "Castle Volkihar Rebuilt - Snazzy Furniture and Clutter Overhaul Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.2",
+      "file_id": 188972,
+      "file_name": "Castle Volkihar Rebuilt - Snazzy Furniture and Clutter Overhaul Patch-45796-1-2-1614699230.7z",
+      "mod_id": 45796,
+      "hash": "sha256-qPVqhwqmJsz+zAIcFut2wyRYfbdfvDbasM+yk/4d0Zc="
+    },
+    "type": "primary"
+  }
+}

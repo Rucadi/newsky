@@ -1,0 +1,563 @@
+{
+  "COTN Dawnstar - ICOW Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 280949,
+      "file_name": "COTN Dawnstar - ICOW Patch-67358-1-0-1651465483.7z",
+      "mod_id": 67358,
+      "hash": "sha256-xqZcUaKjg7zIJD1umtQfn8/9/GiTF/Dw665yt6EJRPE="
+    }
+  },
+  "COTN Morthal - ICOW Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 280950,
+      "file_name": "COTN Morthal - ICOW Patch-67358-1-0-1651465498.7z",
+      "mod_id": 67358,
+      "hash": "sha256-8HoM2L8td5kadcL9yVlzvP6gUQFvDhZ8y+h2fJ2SAfw="
+    }
+  },
+  "COTN Falkreath - ICOW Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 280951,
+      "file_name": "COTN Falkreath - ICOW Patch-67358-1-0-1651465512.7z",
+      "mod_id": 67358,
+      "hash": "sha256-sQYW8byDXwfCUyv9QzSNb3QVY9bK+e6vQ+AiNsX6uLo="
+    }
+  },
+  "COTN Winterhold - ICOW Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 280952,
+      "file_name": "COTN Winterhold - ICOW Patch-67358-1-0-1651465526.7z",
+      "mod_id": 67358,
+      "hash": "sha256-jdC43K3J6jl6jFD1CXT0rIRgDz2KpFVAq+ht/1QH9o8="
+    }
+  },
+  "ICOW - 3D Mountain Flowers Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 280953,
+      "file_name": "ICOW - 3D Mountain Flowers Patch-67358-1-0-1651465542.7z",
+      "mod_id": 67358,
+      "hash": "sha256-89fYVppOb2Uzh1jkdPmiDRTWoiEY5tqIvtQM2cf+wNE="
+    }
+  },
+  "ICOW - 3DNPC Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 280954,
+      "file_name": "ICOW - 3DNPC Patch-67358-1-0-1651465555.7z",
+      "mod_id": 67358,
+      "hash": "sha256-SuJSXUgWMCj03+lg8JIpIiqPS/2iGM2p1zgN78PIEt0="
+    }
+  },
+  "ICOW - Amorous Adventures Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 280955,
+      "file_name": "ICOW - Amorous Adventures Patch-67358-1-0-1651465568.7z",
+      "mod_id": 67358,
+      "hash": "sha256-aUKqeFcoUzU6vDU0o5Xte5YGOTa731JWPqw+ReMGIIs="
+    }
+  },
+  "ICOW - WACCF Armor and Clothing Extension Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 280956,
+      "file_name": "ICOW - WACCF Armor and Clothing Extension Patch-67358-1-0-1651465588.7z",
+      "mod_id": 67358,
+      "hash": "sha256-RtNs7iRwsJsMUlNGtO1CtgMBT8rPC/NjTA5h5fsu2/4="
+    }
+  },
+  "ICOW - Additional Hearthfire Dolls Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 280957,
+      "file_name": "ICOW - Additional Hearthfire Dolls Patch-67358-1-0-1651465604.7z",
+      "mod_id": 67358,
+      "hash": "sha256-EfW/Yj0l6abuUTczMkpVs9BmuxE2LE7UIpq/mL35wqY="
+    }
+  },
+  "ICOW - AI Overhaul - Special Edition Followers Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 280958,
+      "file_name": "ICOW - AI Overhaul - Special Edition Followers Patch-67358-1-0-1651465628.7z",
+      "mod_id": 67358,
+      "hash": "sha256-Q4kRhlmMh7hYPi4XXCm3AvKtLmP6FKikMRZG1zCFN/g="
+    }
+  },
+  "ICOW - AI Overhaul Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 280959,
+      "file_name": "ICOW - AI Overhaul Patch-67358-1-0-1651465642.7z",
+      "mod_id": 67358,
+      "hash": "sha256-02Qq6oDUWHDlABD5HcWJn/CdzULuqK9uRycrjoJ1L74="
+    }
+  },
+  "ICOW - Amulets of Skyrim Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 280960,
+      "file_name": "ICOW - Amulets of Skyrim Patch-67358-1-0-1651465658.7z",
+      "mod_id": 67358,
+      "hash": "sha256-JUxkFYpRCox+mJ8gEmzLu11IKoASEjYxY1EVRKTnbdg="
+    }
+  },
+  "ICOW - Animated Armory Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 280961,
+      "file_name": "ICOW - Animated Armory Patch-67358-1-0-1651465675.7z",
+      "mod_id": 67358,
+      "hash": "sha256-odHg3I0jLk4IAkQdO1WLjb0MmOLT3aXy497GOj1IJBw="
+    }
+  },
+  "ICOW - BGCollectables Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 280962,
+      "file_name": "ICOW - BGCollectables Patch-67358-1-0-1651465772.7z",
+      "mod_id": 67358,
+      "hash": "sha256-1Oplw+ZAguipxztIA8uAANRcRp9oWilStGIEa4C+5OY="
+    }
+  },
+  "ICOW - CC - Wild Horses Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 280963,
+      "file_name": "ICOW - CC - Wild Horses Patch-67358-1-0-1651465791.7z",
+      "mod_id": 67358,
+      "hash": "sha256-3HF+wod3JpUh0IlhXn5CKHFE/m67kARqPW8E2djTT9E="
+    }
+  },
+  "ICOW - Cassandra Frost Witch Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 280964,
+      "file_name": "ICOW - Cassandra Frost Witch Patch-67358-1-0-1651465812.7z",
+      "mod_id": 67358,
+      "hash": "sha256-6BtmGPmGLtBMb+IZd8JNsqCZyxDq3ftSaGowyYHURfk="
+    }
+  },
+  "ICOW - Cheesemod Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 280965,
+      "file_name": "ICOW - Cheesemod Patch-67358-1-0-1651465828.7z",
+      "mod_id": 67358,
+      "hash": "sha256-ctD02XUx9XOLULyvRMajj8mp9KJ3iKugIDP9ghFOA54="
+    }
+  },
+  "ICOW - Containers and Levelled List Fixes - Tamrielic Culture Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 280966,
+      "file_name": "ICOW - Containers and Levelled List Fixes - Tamrielic Culture Patch-67358-1-0-1651465853.7z",
+      "mod_id": 67358,
+      "hash": "sha256-tTJLkcjrEA4lXmY6i+kyfSBXKvG5Qe9DFWw8gpUZIHQ="
+    }
+  },
+  "ICOW - Containers and Levelled List Fixes Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 280967,
+      "file_name": "ICOW - Containers and Levelled List Fixes Patch-67358-1-0-1651465865.7z",
+      "mod_id": 67358,
+      "hash": "sha256-jPEICfP+++AXJSYWrQNHKedzUB13A8JgbnqVlmtVMnM="
+    }
+  },
+  "ICOW - Cloaks Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 280968,
+      "file_name": "ICOW - Cloaks Patch-67358-1-0-1651465877.7z",
+      "mod_id": 67358,
+      "hash": "sha256-fhMK2I6Km7yjUW8Lm3hWHyNo8yv+3CU36617nBbUoU0="
+    }
+  },
+  "ICOW - Improved College Entry Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 280969,
+      "file_name": "ICOW - Improved College Entry Patch-67358-1-0-1651465893.7z",
+      "mod_id": 67358,
+      "hash": "sha256-v8ZFBGYLgUSUy8V08cImZGIQ6hsCmaAhu8LvAuDppAk="
+    }
+  },
+  "ICOW - Your Choices Matter Dark Brotherhood Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 280970,
+      "file_name": "ICOW - Your Choices Matter Dark Brotherhood Patch-67358-1-0-1651465911.7z",
+      "mod_id": 67358,
+      "hash": "sha256-iO0Vw0JqisEefoCxeSbmqzWNLk1Ud/B46hm2Mbueiv4="
+    }
+  },
+  "ICOW - Enhanced Landscapes Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 280971,
+      "file_name": "ICOW - Enhanced Landscapes Patch-67358-1-0-1651465926.7z",
+      "mod_id": 67358,
+      "hash": "sha256-a1GKbafL5znxuC3RaIdxTg05DcdJ1uUpBZ6htmcwn9I="
+    }
+  },
+  "ICOW - ESO Imports Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 280972,
+      "file_name": "ICOW - ESO Imports Patch-67358-1-0-1651465943.7z",
+      "mod_id": 67358,
+      "hash": "sha256-JTqtPxFll0r2iSmBqad5DyAQ3JoZVa+boCIgK4Dm338="
+    }
+  },
+  "ICOW - MCWT - Governable Gatekeeper Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 280973,
+      "file_name": "ICOW - MCWT - Governable Gatekeeper Patch-67358-1-0-1651465961.7z",
+      "mod_id": 67358,
+      "hash": "sha256-f5Zzva++ZKIvKAmFuXOIWHnXC+yLLT/LU3hEkyGUO18="
+    }
+  },
+  "ICOW - Khajiit Will Follow Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 280975,
+      "file_name": "ICOW - Khajiit Will Follow Patch-67358-1-0-1651466000.7z",
+      "mod_id": 67358,
+      "hash": "sha256-pGH8Jhd1wecx7CiYqgjElvSwQOkN8cKiBI+PkLB9dMc="
+    }
+  },
+  "ICOW - Lanterns of Skyrim II Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 280976,
+      "file_name": "ICOW - Lanterns of Skyrim II Patch-67358-1-0-1651466016.7z",
+      "mod_id": 67358,
+      "hash": "sha256-sdFnVpopBAOPQ3hj915WGd3Xr6fayF4/+InIUjwLFDw="
+    }
+  },
+  "ICOW - Marshlands Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 280977,
+      "file_name": "ICOW - Marshlands Patch-67358-1-0-1651466032.7z",
+      "mod_id": 67358,
+      "hash": "sha256-tzPVT3HCzyEzzu/iwWxnmKdlrjY4nALY71A/4PRBMA8="
+    }
+  },
+  "ICOW - Morrowloot Miscellania - Item Distribution Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 280978,
+      "file_name": "ICOW - Morrowloot Miscellania - Item Distribution Patch-67358-1-0-1651466050.7z",
+      "mod_id": 67358,
+      "hash": "sha256-/asHl3qpexxTCDt4483Du2yMlXnYG/zBs6njycHcWVo="
+    }
+  },
+  "ICOW - Morrowloot Ultimate Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 280979,
+      "file_name": "ICOW - Morrowloot Ultimate Patch-67358-1-0-1651466068.7z",
+      "mod_id": 67358,
+      "hash": "sha256-jmEP/r7bL9WrEqR17BxCZpLiHoCrxJKXqPm+FB2nxlY="
+    }
+  },
+  "ICOW - Mystic Condenser Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 280980,
+      "file_name": "ICOW - Mystic Condenser Patch-67358-1-0-1651466082.7z",
+      "mod_id": 67358,
+      "hash": "sha256-vBguTittRw96l/NGsX9rWsvgDc9L4DK8TpVRbeZOrSs="
+    }
+  },
+  "ICOW - Not So Fast Mage's Guild Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 280981,
+      "file_name": "ICOW - Not So Fast Mage's Guild Patch-67358-1-0-1651466101.7z",
+      "mod_id": 67358,
+      "hash": "sha256-A4uTRApudiG/8k4wALrrLlBw6oL0GzuPEnpCukJt/4U="
+    }
+  },
+  "ICOW - Quaint Raven Rock Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 280982,
+      "file_name": "ICOW - Quaint Raven Rock Patch-67358-1-0-1651466130.7z",
+      "mod_id": 67358,
+      "hash": "sha256-PNKvDAguKGP5aYCBdmBHaBjG2nXIHPHds5ZX6PMmBzQ="
+    }
+  },
+  "ICOW - Radiance Locations Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 280983,
+      "file_name": "ICOW - Radiance Locations Patch-67358-1-0-1651466153.7z",
+      "mod_id": 67358,
+      "hash": "sha256-4wMzbP4g+jwq0MlSk+9WpIbzkcET0CiiUBL9H7tGy90="
+    }
+  },
+  "ICOW - Royal Armory Tweaks Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 280985,
+      "file_name": "ICOW - Royal Armory Tweaks Patch-67358-1-0-1651466169.7z",
+      "mod_id": 67358,
+      "hash": "sha256-ly7LBUnqM+PaYtfsqOsziiwU6DcTECuiSc4mxxZI6bY="
+    }
+  },
+  "ICOW - Special Edition Followers Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 280986,
+      "file_name": "ICOW - Special Edition Followers Patch-67358-1-0-1651466184.7z",
+      "mod_id": 67358,
+      "hash": "sha256-qYx0rMdNqMtOBrQa1Ekuc8jAnE4MWsGgn1e5Ge4Z89k="
+    }
+  },
+  "ICOW - Sepolcri Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 280987,
+      "file_name": "ICOW - Sepolcri Patch-67358-1-0-1651466235.7z",
+      "mod_id": 67358,
+      "hash": "sha256-tErUmgz1rfFBPQP823sycsoNYUIrW8n+xKf2R++9A14="
+    }
+  },
+  "ICOW - Skyrim Immersive Creatures Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 280988,
+      "file_name": "ICOW - Skyrim Immersive Creatures Patch-67358-1-0-1651466258.7z",
+      "mod_id": 67358,
+      "hash": "sha256-3IiBS+gCzTYRyx7G1NLA7mTeC6mxSjw7waSJfxNvrrc="
+    }
+  },
+  "ICOW - Skyrim Revamped Complete Enemy Overhaul - Morrowloot Ultimate Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 280989,
+      "file_name": "ICOW - Skyrim Revamped Complete Enemy Overhaul - Morrowloot Ultimate Patch-67358-1-0-1651466284.7z",
+      "mod_id": 67358,
+      "hash": "sha256-7N9Th3TT/cNQMcuFe7Vtpk0ghxNJibOBvxU/Pc7rnc0="
+    }
+  },
+  "ICOW - Skyrim Revamped Complete Enemy Overhaul Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 280990,
+      "file_name": "ICOW - Skyrim Revamped Complete Enemy Overhaul Patch-67358-1-0-1651466296.7z",
+      "mod_id": 67358,
+      "hash": "sha256-zdilUuLO8+7AiquW4zJJmcMbiE8QQ6GGOCBi5FJL9JA="
+    }
+  },
+  "ICOW - Skyrims Unique Treasures Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 280991,
+      "file_name": "ICOW - Skyrims Unique Treasures Patch-67358-1-0-1651466325.7z",
+      "mod_id": 67358,
+      "hash": "sha256-BValEomH2zFd9htGU020weI+lhisyuFPDy4efREJ4sU="
+    }
+  },
+  "ICOW - Tamrielic Culture Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 280992,
+      "file_name": "ICOW - Tamrielic Culture Patch-67358-1-0-1651466340.7z",
+      "mod_id": 67358,
+      "hash": "sha256-rTUzdD5tDmf9yGAbCXFVVY1OseYQ52B2UY5oCNXdJ8Y="
+    }
+  },
+  "ICOW - Tools of Kagrenac Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 280993,
+      "file_name": "ICOW - Tools of Kagrenac Patch-67358-1-0-1651466354.7z",
+      "mod_id": 67358,
+      "hash": "sha256-uuXkdg8w1JSclKg7y5T8TEs5iIiVEslD2ObVmOzR/og="
+    }
+  },
+  "ICOW - Weapons Armor Clothing and Clutter Fixes Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 280994,
+      "file_name": "ICOW - Weapons Armor Clothing and Clutter Fixes Patch-67358-1-0-1651466375.7z",
+      "mod_id": 67358,
+      "hash": "sha256-PCOPy3RE9NymwGeDAgCbqxYJqbDyGGHqovToTD9ecG8="
+    }
+  },
+  "ICOW Unofficial Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 280995,
+      "file_name": "ICOW Unofficial Patch-67358-1-0-1651466390.7z",
+      "mod_id": 67358,
+      "hash": "sha256-2U2fP6N8EAPI2SpnnidRtDcwZ+IjeeiYm+fWfTENTNo="
+    }
+  },
+  "JKs Blue Palace - ICOW Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 280996,
+      "file_name": "JKs Blue Palace - ICOW Patch-67358-1-0-1651466406.7z",
+      "mod_id": 67358,
+      "hash": "sha256-ZhK+ulpvac4jLGUm//oVZ0EhsD8vD30pmhbBi2Y8bHw="
+    }
+  },
+  "Palaces and Castles Enhanced - ICOW Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 280997,
+      "file_name": "Palaces and Castles Enhanced - ICOW Patch-67358-1-0-1651466423.7z",
+      "mod_id": 67358,
+      "hash": "sha256-q70GcvVSm8qKf17iPi0k+PjUG201YeV2172s8Hp8HIU="
+    }
+  },
+  "ICOW - Artifacts of Skyrim Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 281200,
+      "file_name": "ICOW - Artifacts of Skyrim Patch-67358-1-0-1651533937.7z",
+      "mod_id": 67358,
+      "hash": "sha256-z6oI1uTRKE4eKoUIwFAhviwIDA08EnOxnvjVmV1EHIU="
+    }
+  },
+  "ICOW - Konahrik Accoutrements Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 281202,
+      "file_name": "ICOW - Konahrik Accoutrements Patch-67358-1-0-1651533991.7z",
+      "mod_id": 67358,
+      "hash": "sha256-fBT0eLcR+l46LIcd1TgaZgB5xmPSnZWVDFZ6Oy6cpe8="
+    }
+  },
+  "ICOW - Mysticism Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 281203,
+      "file_name": "ICOW - Mysticism Patch-67358-1-0-1651534008.7z",
+      "mod_id": 67358,
+      "hash": "sha256-EC8LJfK58l3GNbYNWMkGRfL1iSZaT6C2YxQgO0FKEu4="
+    }
+  },
+  "ICOW - Tamrielic Culture - Mysticism Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 281204,
+      "file_name": "ICOW - Tamrielic Culture - Mysticism Patch-67358-1-0-1651534036.7z",
+      "mod_id": 67358,
+      "hash": "sha256-VeN98s+q+3OqDeb+J/Xh3T4nvhmKuZ/AMqFkjfNBEKY="
+    }
+  },
+  "ICOW - CLLF - Tamrielic Culture - Mysticism Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 281205,
+      "file_name": "ICOW - CLLF - Tamrielic Culture - Mysticism Patch-67358-1-0-1651534056.7z",
+      "mod_id": 67358,
+      "hash": "sha256-wJXJNxtFg2DiUdzYjDITg0TWrr0c2QHdbLzsqF1iUOA="
+    }
+  },
+  "ICOW - CLLF - Mysticism Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 281206,
+      "file_name": "ICOW - CLLF - Mysticism Patch-67358-1-0-1651534074.7z",
+      "mod_id": 67358,
+      "hash": "sha256-/fLC/wEL0+7rr2JTAobxGaN41HF9iyMRSU2OqdYVn0Q="
+    }
+  },
+  "Immersive College of Winterhold Patch Collection": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1.1",
+      "file_id": 320925,
+      "file_name": "Immersive College of Winterhold Patch Collection-67358-1-1-1-1664682210.7z",
+      "mod_id": 67358,
+      "hash": "sha256-kRLtlThR76AcklbWCl9zWW9IkJKKAojXJH1kRk/cgAA="
+    },
+    "type": "primary"
+  },
+  "ICOW - JKs Skyrim Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1",
+      "file_id": 320926,
+      "file_name": "ICOW - JKs Skyrim Patch-67358-1-1-1664682237.7z",
+      "mod_id": 67358,
+      "hash": "sha256-b/yL5aqzBkELvWR8fIu5KqPyduz7vLQtqinVUdjNjP0="
+    }
+  },
+  "ICOW - CC - Gray Cowl Returns Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1",
+      "file_id": 320927,
+      "file_name": "ICOW - CC - Gray Cowl Returns Patch-67358-1-1-1664682262.7z",
+      "mod_id": 67358,
+      "hash": "sha256-zeIkxaYuzU3v1oIrAw+ZYpMQTHVJ5zuSS6lcYIB9xWc="
+    }
+  }
+}

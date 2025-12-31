@@ -1,0 +1,43 @@
+{
+  "1MorrowindCreaturesSE": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "2",
+      "file_id": 205678,
+      "file_name": "1MorrowindCreaturesSE-50435-2-1622050589.7z",
+      "mod_id": 50435,
+      "hash": "sha256-1Tp09tAuBe99jmAKZUJUkO+rv/WOkfxbRxu2YBLr3Lk="
+    },
+    "type": "primary"
+  },
+  "Fixes by Xtudo": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "2",
+      "file_id": 205795,
+      "file_name": "Fixes by Xtudo-50435-2-1622098190.7z",
+      "mod_id": 50435,
+      "hash": "sha256-K/gQdZHALXXw0qn1p/kcw/ALOGP/KAIQ04zRq0Mm95c="
+    }
+  },
+  "Nix 4k": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1",
+      "file_id": 205979,
+      "file_name": "Nix 4k-50435-1-1622200753.7z",
+      "mod_id": 50435,
+      "hash": "sha256-mA3JK/UQwV6LXCizTUkh6NV9mCLRbQT42eBKJynvZUQ="
+    }
+  },
+  "NixHoundCCPatch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1",
+      "file_id": 205989,
+      "file_name": "NixHoundCCPatch-50435-1-1622203121.7z",
+      "mod_id": 50435,
+      "hash": "sha256-sFxN51sIYhgdUnyBLOiBhwHIEW+6P1yY9LtHkT5nksI="
+    }
+  }
+}

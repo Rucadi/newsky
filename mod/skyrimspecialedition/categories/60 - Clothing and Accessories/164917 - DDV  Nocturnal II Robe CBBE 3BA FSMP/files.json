@@ -1,0 +1,53 @@
+{
+  "DDV - Nocturnal Robe II by Vergi 4k textures": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "2.5a",
+      "file_id": 689055,
+      "file_name": "DDV - Nocturnal Robe II by Vergi-164917-2-5a-1763552581.rar",
+      "mod_id": 164917,
+      "hash": "sha256-5YPNxXr9ee5+In8iGdMf26um+cYRirOjNZ2Nd367bCY="
+    }
+  },
+  "DDV - Nocturnal Robe II by Vergi v2.9": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "2.9",
+      "file_id": 689754,
+      "file_name": "DDV - Nocturnal Robe II by Vergi v2.9-164917-2-9-1763753471.rar",
+      "mod_id": 164917,
+      "hash": "sha256-CN0vkV5aOkf9D1jvasav6IkLWlYTwD8NO+FNVprOyR4="
+    },
+    "type": "primary"
+  },
+  "DDV - Nocturnal Robe II by Vergi (Replecer Black)": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "2.9.1",
+      "file_id": 689755,
+      "file_name": "DDV - Nocturnal Robe II by Vergi (Replecer Black)-164917-2-9-1-1763753505.rar",
+      "mod_id": 164917,
+      "hash": "sha256-xH4EFZ8Edba/SLqeu7VBJ/DtM53mx9y1pfdR8F8g/ss="
+    }
+  },
+  "DDV - Nocturnal Robe II by Vergi (Replecer Gold)": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "2.9.2",
+      "file_id": 689757,
+      "file_name": "DDV - Nocturnal Robe II by Vergi (Replecer Gold)-164917-2-9-2-1763753550.rar",
+      "mod_id": 164917,
+      "hash": "sha256-Ux71wEn5vngCKqs6kck00DYWVO60AG4+1TwfvnTSEXU="
+    }
+  },
+  "DDV - Nocturnal Robe II by Vergi (Replecer Green)": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "2.9.3",
+      "file_id": 689758,
+      "file_name": "DDV - Nocturnal Robe II by Vergi (Replecer Green)-164917-2-9-3-1763753598.rar",
+      "mod_id": 164917,
+      "hash": "sha256-6o6X5Ow6UAsQUb3nSiZZJai/u5KSMHdX239/CLoo3c4="
+    }
+  }
+}

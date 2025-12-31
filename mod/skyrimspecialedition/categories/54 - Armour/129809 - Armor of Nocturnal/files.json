@@ -1,0 +1,23 @@
+{
+  "Armor of Nocturnal (Render Version)": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1",
+      "file_id": 545034,
+      "file_name": "Armor of Nocturnal-129809-1-1-1727024356.zip",
+      "mod_id": 129809,
+      "hash": "sha256-C5QnadzLRZKoX0uA57vaEvHf3iEsqG311VD7HpiNVSo="
+    },
+    "type": "primary"
+  },
+  "Render 2K": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1",
+      "file_id": 545498,
+      "file_name": "Render 2K-129809-1-1-1727131720.zip",
+      "mod_id": 129809,
+      "hash": "sha256-DKxkkXdMbCDAutApM5zDFqlZRBjC5nwes598ZYk28fg="
+    }
+  }
+}

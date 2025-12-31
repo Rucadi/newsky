@@ -1,0 +1,23 @@
+{
+  "Cathedral - 3D Sword Ferns": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "4",
+      "file_id": 399785,
+      "file_name": "Cathedral - 3D Sword Ferns-82978-4-1687418487.zip",
+      "mod_id": 82978,
+      "hash": "sha256-pI1s7Vlvhll/MVsbsAyqVHMoTWUd/fkpOln39/gC/8k="
+    },
+    "type": "primary"
+  },
+  "Cathedral - 3D Sw": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "2",
+      "file_id": 350670,
+      "file_name": "Cathedral - 3D Sw-82978-2-1674024665.zip",
+      "mod_id": 82978,
+      "hash": "sha256-gUGERj7fvLMOwTz+2LwnuPBMNuKEKTMysu+2GqUoC2E="
+    }
+  }
+}

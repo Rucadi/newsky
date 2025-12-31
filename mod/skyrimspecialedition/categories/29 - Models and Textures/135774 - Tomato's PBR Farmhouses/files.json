@@ -1,0 +1,45 @@
+{
+  "Tomato's PBR Farmhouses 4K": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.2PBR",
+      "file_id": 569775,
+      "file_name": "Tomato's PBR Farmhouses 4K-135774-1-2PBR-1733545147.7z",
+      "mod_id": 135774,
+      "hash": "sha256-6+ZScoY2/VlR1yF2UVhdok9bd1chS4KCIZ+ONkodFB4="
+    },
+    "type": "primary"
+  },
+  "Tomato's PBR Farmhouses 2K": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.2PBR",
+      "file_id": 569780,
+      "file_name": "Tomato's PBR Farmhouses 2K-135774-1-2PBR-1733545702.7z",
+      "mod_id": 135774,
+      "hash": "sha256-jpMSsJULOU9t+M3CdSJ38RjMh4FFRJdVPnzSqFpGDF8="
+    },
+    "type": "primary"
+  },
+  "Tomato's PBR Farmhouse - Brown": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.4.PBR",
+      "file_id": 619916,
+      "file_name": "Tomato's PBR Farmhouse - Brown-135774-1-4-PBR-1745267982.7z",
+      "mod_id": 135774,
+      "hash": "sha256-+8sBlkqymgaQwOiZJBB57mPsQ3Br40m5TtmQXPcp9sY="
+    },
+    "type": "primary"
+  },
+  "WSU PBR Farmhouse windows patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.4.PBR",
+      "file_id": 629825,
+      "file_name": "WSU PBR Farmhouse windows patch-135774-1-4-PBR-1747909242.7z",
+      "mod_id": 135774,
+      "hash": "sha256-T/JlyCEh3wyp+tdx1iuFfxx17i9ciiG+6p2xozG7wt4="
+    }
+  }
+}

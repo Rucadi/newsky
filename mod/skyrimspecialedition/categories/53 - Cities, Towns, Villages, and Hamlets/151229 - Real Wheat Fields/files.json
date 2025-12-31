@@ -1,0 +1,114 @@
+{
+  "Real Wheat Fields Option A": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1",
+      "file_id": 632048,
+      "file_name": "Real Wheat Fields-151229-1-1748414569.zip",
+      "mod_id": 151229,
+      "hash": "sha256-vROxx/XZepXEoAynJnktwNY5TRqWm3ONksqsmffWnXk="
+    },
+    "type": "primary"
+  },
+  "Real Wheat Fields Immersive Farms Editon": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "2",
+      "file_id": 633086,
+      "file_name": "Real Wheat Fields Immersive Farms Editon-151229-2-1748662113.zip",
+      "mod_id": 151229,
+      "hash": "sha256-7iBIzzgK/208G2AU45EAqIQstXIdHtABbBqFJHiq2rU="
+    }
+  },
+  "Real Wheat Fields of Skyrim Ryn Farms Edition": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "2",
+      "file_id": 633087,
+      "file_name": "Real Wheat Fields of Skyrim Ryn Farms Edition-151229-2-1748662190.zip",
+      "mod_id": 151229,
+      "hash": "sha256-rI1F74WBO2QJasPQOyS064qit4dStv4OBwjtc0uOXIc="
+    }
+  },
+  "Real Wheat Fields TheGreatCityOfRorikstead Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1",
+      "file_id": 633234,
+      "file_name": "Real Wheat Fields TheGreatCityOfRorikstead Patch-151229-1-1748706746.zip",
+      "mod_id": 151229,
+      "hash": "sha256-V+nVrNTCa9woLoH94ZIjCJdxaJD7m/splSBXtds5/4Q="
+    }
+  },
+  "Real Wheat Fields Option B": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1",
+      "file_id": 633336,
+      "file_name": "Real Wheat Fields Option B-151229-1-1748730007.zip",
+      "mod_id": 151229,
+      "hash": "sha256-PamgvVzIeHX86YQoGAT9V1obgO8vhFTc5MvvOzlsQns="
+    },
+    "type": "primary"
+  },
+  "Real Wheat Fields RedbagsRorikstead Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1",
+      "file_id": 633352,
+      "file_name": "RealWheatFields RedbagsRorikstead Patch-151229-1-1748733440.zip",
+      "mod_id": 151229,
+      "hash": "sha256-bonvZ9Q+4uKtjy31JpNbDKoVJIO8F/WXfTj6dZ+Y85w="
+    }
+  },
+  "Real Wheat Fields ImmersiveCitizen Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1",
+      "file_id": 633611,
+      "file_name": "RealWheatField ImmersiveCitizen Patch-151229-1-1748791934.zip",
+      "mod_id": 151229,
+      "hash": "sha256-cL+rJ8QDYikREeDT/XXWolI3eXO5/uCKJWM4nArfwRg="
+    }
+  },
+  "Real Wheat Fields TheGreatCityOfIvarstead Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1",
+      "file_id": 635362,
+      "file_name": "Real Wheat Fields TheGreatCityOfIvarstead Patch-151229-1-1749242921.zip",
+      "mod_id": 151229,
+      "hash": "sha256-2R+Q4OLWgYov4o0jDvLogTRNY0YkTYd3kinmuHFwugQ="
+    }
+  },
+  "Wheat Field JKsRiftenOutskirt Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1",
+      "file_id": 637196,
+      "file_name": "Wheat Field JKsRiftenOutskirtPatch-151229-1-1749762393.zip",
+      "mod_id": 151229,
+      "hash": "sha256-XN5stqQbpLzcvgxhT55DhO0SaZ78GNkqyjgpYix7bPI="
+    }
+  },
+  "Real Wheat Fields RoriksteadRevitalized Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1",
+      "file_id": 647760,
+      "file_name": "Rorikstead Revitalized Real Wheat Fields Patch-151229-1-1752679570.zip",
+      "mod_id": 151229,
+      "hash": "sha256-O/b9N1SaVd4ABNddVoDQ8Llhb3vneJuMjxc7cxm8A3s="
+    }
+  },
+  "Real Wheat Fields JKSkyrim Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1",
+      "file_id": 692892,
+      "file_name": "Real Wheat Fields JKSkyrim Patch-151229-1-1764505377.zip",
+      "mod_id": 151229,
+      "hash": "sha256-GfYizMcYt4NQz/dVnuKFHM2KIOvXLu52m0J2X94ePLQ="
+    }
+  }
+}

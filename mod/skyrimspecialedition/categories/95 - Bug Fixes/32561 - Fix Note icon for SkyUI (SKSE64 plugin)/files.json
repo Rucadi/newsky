@@ -1,0 +1,85 @@
+{
+  "FixNotesForSkyUI Skyrim SE 1.5.97": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.2.1",
+      "file_id": 126933,
+      "file_name": "FixNotesForSkyUI SKSE64 2.0.17-32561-1-2-1-1583205405.zip",
+      "mod_id": 32561,
+      "hash": "sha256-SuDpvYBX5dL4bjIBprzpvzaLzZjk6gNEboTKE3g/X0s="
+    },
+    "type": "primary"
+  },
+  "FixNotesForSkyUI SKSE64 2.0.12": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.2.1",
+      "file_id": 126934,
+      "file_name": "FixNotesForSkyUI SKSE64 2.0.12-32561-1-2-1-1583205466.zip",
+      "mod_id": 32561,
+      "hash": "sha256-XSGeizyeMBUjqWShQvJRhZiqQpSHA9p87aTvZa2JHAI="
+    }
+  },
+  "FixNotesForSkyUI SKSE64 2.0.15": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.2.1",
+      "file_id": 126935,
+      "file_name": "FixNotesForSkyUI SKSE64 2.0.15-32561-1-2-1-1583205544.zip",
+      "mod_id": 32561,
+      "hash": "sha256-5h/mGiIEz0oAfOUpkKJB3BHl52JL5XbqwjqX0R6qNdE="
+    }
+  },
+  "FixNotesForSkyUI SKSE64 2.0.16": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.2.1",
+      "file_id": 126936,
+      "file_name": "FixNotesForSkyUI SKSE64 2.0.16-32561-1-2-1-1583205619.zip",
+      "mod_id": 32561,
+      "hash": "sha256-b76KFrPTCUaKqjEU8p03Ee0FcujahhFQAgqYVE5xog0="
+    }
+  },
+  "FixNotesForSkyUI SKSE64 2.0.7": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.2.1",
+      "file_id": 126937,
+      "file_name": "FixNotesForSkyUI SKSE64 2.0.7-32561-1-2-1-1583205688.zip",
+      "mod_id": 32561,
+      "hash": "sha256-f6GkGZBbqR4mBFm5t+zDEGNZ93Y7qdgV3r0z2OIjVAo="
+    }
+  },
+  "FixNotesForSkyUI SKSEVR 2.0.10": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.2.1",
+      "file_id": 126938,
+      "file_name": "FixNotesForSkyUI SKSEVR 2.0.10-32561-1-2-1-1583205751.zip",
+      "mod_id": 32561,
+      "hash": "sha256-4AMrsXE4srLOg4CLM2GuAdumLiH97Df7pATp6KqGOlk="
+    }
+  },
+  "FixNotesForSkyUI Skyrim AE 1.6.353": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.2.5",
+      "file_id": 255198,
+      "file_name": "FixNotesForSkyUI Skyrim AE-32561-1-2-5-1641699377.zip",
+      "mod_id": 32561,
+      "hash": "sha256-/HAxh3kK575eSQAmBL1uibwricLZwa2oK8emU75/JKc="
+    },
+    "type": "primary"
+  },
+  "FixNotesForSkyUI Skyrim AE": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.2.6",
+      "file_id": 318422,
+      "file_name": "FixNotesForSkyUI Skyrim AE-32561-1-2-6-1663815583.zip",
+      "mod_id": 32561,
+      "hash": "sha256-spK4nfT5cyShPh7N6w/4Qhw1BDQMsQDGUVKnHnfbht0="
+    },
+    "type": "primary"
+  }
+}

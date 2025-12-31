@@ -1,0 +1,64 @@
+{
+  "Extra options 4k SOS full": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "2.1",
+      "file_id": 432666,
+      "file_name": "Extra options 4k SOS full-65402-2-0-1696864555.7z",
+      "mod_id": 65402,
+      "hash": "sha256-qH02ca78vGMZMkJClXiFHkuo0QJUXl8UBivmTvGUJMM="
+    }
+  },
+  "Extra options 2k SOS full": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "2.1",
+      "file_id": 432670,
+      "file_name": "Extra options 2k SOS full-65402-2-0-1696865994.7z",
+      "mod_id": 65402,
+      "hash": "sha256-+y08oaEJlsACfHBXgUkC3ImdU2Rvu1B/6MaJwxFS6fg="
+    }
+  },
+  "BnP male SOS full pube option 4k (extra opt)": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "2.1",
+      "file_id": 443612,
+      "file_name": "BnP male SOS full-TNG pube option 4k (extra opt)-65402-2-0-1700318452.7z",
+      "mod_id": 65402,
+      "hash": "sha256-o10/5LRMiNWt+GOpC1kp9FpGsdATQZb4D/wdXCxR2Vw="
+    }
+  },
+  "BnP male SOS full pube option 2k (extra opt)": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "2.1",
+      "file_id": 443616,
+      "file_name": "BnP male SOS full-TNG pube option 2k (extra opt)-65402-2-0-1700318945.7z",
+      "mod_id": 65402,
+      "hash": "sha256-M9xQV50kL6e70TeyNRW1MELzKNxSpJhhds5+2a3WSNA="
+    }
+  },
+  "BnP male skin 4k (SOS full Player Replacer)": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "2.1",
+      "file_id": 456740,
+      "file_name": "BnP male skin 4k (SOS full Player Replacer)-65402-2-1-1704038091.7z",
+      "mod_id": 65402,
+      "hash": "sha256-wwofKo7ziTC0+1n3IXtt6h+C7qxUvg/CG/G8g98thQ4="
+    },
+    "type": "primary"
+  },
+  "BnP male skin 2k (SOS full Player Replacer)": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "2.1",
+      "file_id": 456747,
+      "file_name": "BnP male skin 2k (SOS full Player Replacer)-65402-2-1-1704039187.7z",
+      "mod_id": 65402,
+      "hash": "sha256-6b3PnJVVnTw+Gnd6X5s1qNj94C78YpA5h2zYbin3NQ8="
+    },
+    "type": "primary"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "Optional Lock Retexture": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 214696,
+      "file_name": "Optional Lock Retexture-52423-1-0-1626351806.7z",
+      "mod_id": 52423,
+      "hash": "sha256-dmTySo68mI7fr+Gjb3828+96HcmESRi/gH5/32FOhGw="
+    }
+  },
+  "Hearthfire Crafting Retextures": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1",
+      "file_id": 214759,
+      "file_name": "Hearthfire Crafting Retextures-52423-1-1-1626377631.7z",
+      "mod_id": 52423,
+      "hash": "sha256-2mpSP3qBdpIxbz6Cl+U4b+gpRV7LUoNqg0Q4/aGUFH8="
+    },
+    "type": "primary"
+  }
+}

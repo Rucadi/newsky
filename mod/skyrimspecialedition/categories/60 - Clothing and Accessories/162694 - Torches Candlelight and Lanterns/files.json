@@ -1,0 +1,85 @@
+{
+  "Hunterborn TorchesCandlelightLanterns": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0.HB",
+      "file_id": 681442,
+      "file_name": "TorchesCandlelightLanternsHunterborn-162694-1-0-hb-1761698089.zip",
+      "mod_id": 162694,
+      "hash": "sha256-45Aj6bf23CQsCPxK/uHTUtHWAQMZzDbJvlawq2Z62Is="
+    }
+  },
+  "Brightness TorchesCandlelightLanterns": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 683401,
+      "file_name": "TorchesCandlelightLanterns Brightness-162694-1-0-1762187874.zip",
+      "mod_id": 162694,
+      "hash": "sha256-Wl0BCa5C0XgvzFmyniGmjsOa3mAlyLOPYRHGmCK/wVA="
+    }
+  },
+  "ENB Light TorchesCandlelightLanterns Test File": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "0.1",
+      "file_id": 687888,
+      "file_name": "TorchesCandlelightLanterns ENB Light Test File-162694-0-1-1763238805.zip",
+      "mod_id": 162694,
+      "hash": "sha256-ysamUrmXgdPwdWqMDbBoC3GG6UIWzyYf2iQUdHvh1sA="
+    }
+  },
+  "SWLR TorchesCandlelightLanterns": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.30.SWLR",
+      "file_id": 696506,
+      "file_name": "SWLR TorchesCandlelightLanterns-162694-1-30-SWLR-1765386492.zip",
+      "mod_id": 162694,
+      "hash": "sha256-+YsbUINoJB3FCLZb5KactcXmLSy6GMmaOJw/IQLjF4A="
+    }
+  },
+  "Torchlight TorchesCandlelightLanterns": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.33",
+      "file_id": 698765,
+      "file_name": "Torchlight TorchesCandlelightLanterns-162694-1-33-1765925920.zip",
+      "mod_id": 162694,
+      "hash": "sha256-kQ3VpsBk+iMcxgrefPFyoV7CCWsQBg7po2OJEAEsb9w="
+    }
+  },
+  "Main TorchesCandlelightLanterns": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.41",
+      "file_id": 702437,
+      "file_name": "Main TorchesCandlelightLanterns-162694-1-41-1766811592.zip",
+      "mod_id": 162694,
+      "hash": "sha256-iIfTLGoN9dzP5KLTWmdcFKkQ1CF/PKyd5KqQXPXax1A="
+    },
+    "type": "primary"
+  },
+  "SMP TorchesCandlelightLanterns ESP": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.41",
+      "file_id": 702438,
+      "file_name": "SMP TorchesCandlelightLanterns ESP-162694-1-41-1766811670.zip",
+      "mod_id": 162694,
+      "hash": "sha256-pGfOM7KFMtq6iyvHnrl4Ivi8fURXpF1cxl327sjvxm0="
+    },
+    "type": "primary"
+  },
+  "SMP TorchesCandlelightLanterns SkyPatcher": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.41",
+      "file_id": 702441,
+      "file_name": "SMP TorchesCandlelightLanterns SkyPatcher-162694-1-41-1766812681.zip",
+      "mod_id": 162694,
+      "hash": "sha256-m2O7ZE9/aUmw2WXZmE6DGlsH9fPeWT+5m6p02brV6pc="
+    },
+    "type": "primary"
+  }
+}

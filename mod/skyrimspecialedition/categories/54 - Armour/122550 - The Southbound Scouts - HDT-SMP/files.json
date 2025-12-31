@@ -1,0 +1,23 @@
+{
+  "HD Textures": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 529293,
+      "file_name": "HD Textures-122550-1-0-1723075749.7z",
+      "mod_id": 122550,
+      "hash": "sha256-3LPFZ0fkWmXsFcOghKPxavh5iPUL8cJ49C3B8+rAvAw="
+    }
+  },
+  "The Southbound Scouts - HDT-SMP": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.01",
+      "file_id": 532539,
+      "file_name": "The Southbound Scouts - HDT-SMP-122550-1-01-1723951184.7z",
+      "mod_id": 122550,
+      "hash": "sha256-MSGaVyuP0N8v2ZrWyCJaYLZDYT7OR+YiDyrddmQSB3g="
+    },
+    "type": "primary"
+  }
+}

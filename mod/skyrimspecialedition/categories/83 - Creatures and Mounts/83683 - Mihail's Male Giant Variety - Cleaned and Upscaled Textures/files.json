@@ -1,0 +1,55 @@
+{
+  "Male Giant Textures 4K": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1",
+      "file_id": 375128,
+      "file_name": "Male Giant Textures 4K-83683-1-1-1680644233.7z",
+      "mod_id": 83683,
+      "hash": "sha256-05lC00fMwGXbyeSf+PyPcYwX0QSv40HuSapG1E/kUhM="
+    },
+    "type": "primary"
+  },
+  "Male Giant Textures 2K": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1",
+      "file_id": 375129,
+      "file_name": "Male Giant Textures 2K-83683-1-1-1680644234.7z",
+      "mod_id": 83683,
+      "hash": "sha256-UZLIAPq/VLJE0BblYUFCN4cdU3oy/r4FWprn50erUTU="
+    },
+    "type": "primary"
+  },
+  "1k-512 Textures for Mashed Potatoes": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1",
+      "file_id": 375130,
+      "file_name": "1k-512 Textures for Mashed Potatoes-83683-1-1-1680644237.7z",
+      "mod_id": 83683,
+      "hash": "sha256-i7WffwhyFYyTu8XjoPFZUtFwbtQ2WT4uYdN4bKCsdBk="
+    }
+  },
+  "2k-1k Textures for Baked Potatoes": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1",
+      "file_id": 375131,
+      "file_name": "2k-1k Textures for Baked Potatoes-83683-1-1-1680644240.7z",
+      "mod_id": 83683,
+      "hash": "sha256-k6VRHHjMI0BBVErdxiFVFncDrS4kbt9b+CL9uQChtWA="
+    }
+  },
+  "Male Giant Textures 8K": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1",
+      "file_id": 375132,
+      "file_name": "Male Giant Textures 8K-83683-1-0-1680644376.7z",
+      "mod_id": 83683,
+      "hash": "sha256-pNLKh9dg/cILvYe9eN3Z7c80vJ7pM+28Qp4gmMasrHU="
+    },
+    "type": "primary"
+  }
+}

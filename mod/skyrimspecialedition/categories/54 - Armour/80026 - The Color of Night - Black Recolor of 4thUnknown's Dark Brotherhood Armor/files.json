@@ -1,0 +1,83 @@
+{
+  "Color of Night - DB Armor Black Recolor (Red Hand Version)": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 337609,
+      "file_name": "Color of Night - DB Armor Black Recolor (Red Hand Version)-80026-1-0-1670184762.zip",
+      "mod_id": 80026,
+      "hash": "sha256-l3v0B4xK2rBUAmFjTpa1dFoCtt08QFQ3tRDAHXLGPrQ="
+    },
+    "type": "primary"
+  },
+  "Color of Night - DB Armor Black Recolor (Grey Hand Version)": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 337612,
+      "file_name": "Color of Night - DB Armor Black Recolor (Grey Hand Version)-80026-1-0-1670184898.zip",
+      "mod_id": 80026,
+      "hash": "sha256-AIDtvfr5xxXDNs0hJ4KNRcs9gJsIzOrMtOHwEg+qBAw="
+    }
+  },
+  "Color of Night - DB Armor Black Recolor (Red Hand Version) 2K Resolution": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 337636,
+      "file_name": "Color of Night - DB Armor Black Recolor (Red Hand Version) 2K Resolution-80026-1-0-1670188897.zip",
+      "mod_id": 80026,
+      "hash": "sha256-thlR+qbsAIM6kLsEby6LUrHREgwrLFtiogrOimInrKg="
+    }
+  },
+  "Color of Night - DB Armor Black Recolor (Grey Hand Version) 2K Resolution": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 337637,
+      "file_name": "Color of Night - DB Armor Black Recolor (Grey Hand Version) 2K Resolution-80026-1-0-1670189025.zip",
+      "mod_id": 80026,
+      "hash": "sha256-+X3BZhHTvKkaMcDRg2OzU6COnGbqh+H5ktTA4opSvds="
+    }
+  },
+  "Color of Night - DB Armor Black Recolor (Red Hand Version) 1K Resolution": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 337640,
+      "file_name": "Color of Night - DB Armor Black Recolor (Red Hand Version) 1K Resolution-80026-1-0-1670189760.zip",
+      "mod_id": 80026,
+      "hash": "sha256-hpRrn/GWnIiHtuDBeutuYe46kMheqEbrBPsHDdhwWi0="
+    }
+  },
+  "Color of Night - DB Armor Black Recolor (Grey Hand Version) 1K Resolution": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 337641,
+      "file_name": "Color of Night - DB Armor Black Recolor (Grey Hand Version) 1K Resolution-80026-1-0-1670189858.zip",
+      "mod_id": 80026,
+      "hash": "sha256-AA1X5GmXgMvFA4OnF2K20a9DTA7Qs8iQ1VCLYkVHZBs="
+    }
+  },
+  "Color of Night - DB Armor Black Recolor - Standalone Patch  (Grey Hand Version)": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 338181,
+      "file_name": "Color of Night - Standalone DB Armor Black Recolor  (Grey Hand Version)-80026-1-0-1670347298.zip",
+      "mod_id": 80026,
+      "hash": "sha256-mGFn8QO2G+AIPKi/rWpdCD+mVakvfeU3oXDUrikAITI="
+    }
+  },
+  "Color of Night - DB Armor Black Recolor - Standalone Patch  (Red Hand Version)": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 338183,
+      "file_name": "Color of Night - Standalone DB Armor Black Recolor  (Red Hand Version)-80026-1-0-1670347446.zip",
+      "mod_id": 80026,
+      "hash": "sha256-oAY715BPNPRzZAtz4ICNxUv3Jt9guKUld4ydA46pT7U="
+    }
+  }
+}

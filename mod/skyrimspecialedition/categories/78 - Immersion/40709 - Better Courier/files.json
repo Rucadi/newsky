@@ -1,0 +1,23 @@
+{
+  "Better Courier - Don't Bother Me I'm Fishing": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 273777,
+      "file_name": "Better Courier - Don't Bother Me I'm Fishing-40709-1-0-1648686914.7z",
+      "mod_id": 40709,
+      "hash": "sha256-wUxQTTbPinehHEUjeiM9nxNAGKUKp4dTFRr5xohtbEI="
+    }
+  },
+  "Better Courier": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "2.1.1",
+      "file_id": 460467,
+      "file_name": "Better Courier-40709-2-1-1-1705024775.7z",
+      "mod_id": 40709,
+      "hash": "sha256-b0J8FkWUwEr0HhW9AshUEIM6QeDn2ckZttnBUzYb2Tg="
+    },
+    "type": "primary"
+  }
+}

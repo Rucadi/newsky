@@ -1,0 +1,63 @@
+{
+  "Practical Necromancy": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.9.1",
+      "file_id": 695953,
+      "file_name": "Practical Necromancy-29834-1-9-1-1765254527.zip",
+      "mod_id": 29834,
+      "hash": "sha256-CmhSDFaExXb6VG06ZcetfuM7MdWWFg3ymdCDKNeId5g="
+    },
+    "type": "primary"
+  },
+  "Practical Necromancy - Bone Wolf Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.9.1",
+      "file_id": 695957,
+      "file_name": "Practical Necromancy - Bone Wolf Patch-29834-1-9-1-1765255046.zip",
+      "mod_id": 29834,
+      "hash": "sha256-GB51jIkMhdUhQhD4JYM9WcqDjqQARC+e+kdxYevkaW0="
+    }
+  },
+  "Practical Necromancy - SPID Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.9.1",
+      "file_id": 695959,
+      "file_name": "Practical Necromancy - SPID Patch-29834-1-9-1-1765255669.zip",
+      "mod_id": 29834,
+      "hash": "sha256-3f50fguCT+9orSXSOg/SrdKxboi8nLIS/kIHt2f9gs4="
+    }
+  },
+  "Practical Necromancy - KID Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.9.1",
+      "file_id": 695960,
+      "file_name": "Practical Necromancy - KID Patch-29834-1-9-1-1765255919.zip",
+      "mod_id": 29834,
+      "hash": "sha256-p7Nwp1UvtmINB37dFVyXk8RtBgfwl5joqu7NfN062D4="
+    }
+  },
+  "Practical Necromancy - CSF Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.9.1",
+      "file_id": 695966,
+      "file_name": "Practical Necromancy - CSF Patch-29834-1-9-1-1765256249.zip",
+      "mod_id": 29834,
+      "hash": "sha256-WXJUyQfslwyHK2OQk2fGMqrubbjtmSYSdzlvLrG4Os4="
+    }
+  },
+  "Practical Necromancy - SHO Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.9.1",
+      "file_id": 696919,
+      "file_name": "Practical Necromancy - SHO Patch-29834-1-9-1-1765484735.zip",
+      "mod_id": 29834,
+      "hash": "sha256-1bqYQ+QsMpQuxtbpHTXC1Ogvad7f3RQqcPBwji4fRNU="
+    }
+  }
+}

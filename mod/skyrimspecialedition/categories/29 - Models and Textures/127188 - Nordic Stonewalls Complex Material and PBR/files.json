@@ -1,0 +1,24 @@
+{
+  "Nordic Stonewalls PBR": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0.0",
+      "file_id": 702446,
+      "file_name": "Nordic Stonewalls PBR-127188-1-0-0-1766814442.7z",
+      "mod_id": 127188,
+      "hash": "sha256-ehfiYufgz9r6tJzU2RTyeJm8elYAWDIZKj9s9Rmktfs="
+    },
+    "type": "primary"
+  },
+  "Nordic Stonewalls Complex Material": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0.0",
+      "file_id": 702450,
+      "file_name": "Nordic Stonewalls Complex Material-127188-1-0-0-1766814955.7z",
+      "mod_id": 127188,
+      "hash": "sha256-9itUoPXMt4BU5fR/nX6Vyybp3klZ7ydS/SYWZRYz7r8="
+    },
+    "type": "primary"
+  }
+}

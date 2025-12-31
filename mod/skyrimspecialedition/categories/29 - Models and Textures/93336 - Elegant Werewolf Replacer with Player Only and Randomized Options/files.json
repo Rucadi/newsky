@@ -1,0 +1,86 @@
+{
+  "Elegant Werewolf Replacer 2K": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.8",
+      "file_id": 608131,
+      "file_name": "Elegant Werewolf Replacer 2K-93336-1-8-1742592107.7z",
+      "mod_id": 93336,
+      "hash": "sha256-qz4SeMBSUcXFID+sEexZQqIThcORBwbUx4BNsvnF8oI="
+    },
+    "type": "primary"
+  },
+  "Elegant Werewolf Replacer 4K": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.8",
+      "file_id": 608139,
+      "file_name": "Elegant Werewolf Replacer 4K-93336-1-8-1742594257.7z",
+      "mod_id": 93336,
+      "hash": "sha256-Dmz4/EjxwBndI7YoYbtK7AK4n+K8XuN9XJOIcHegdqY="
+    },
+    "type": "primary"
+  },
+  "Trimmed Elegant Werewolf Replacer 2K": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.8",
+      "file_id": 608141,
+      "file_name": "Trimmed Elegant Werewolf Replacer 2K-93336-1-8-1742594547.7z",
+      "mod_id": 93336,
+      "hash": "sha256-vs3gVcpmCEJEZ+TVO3rBNcppnF7G6pnEKtulF5viQbM="
+    },
+    "type": "primary"
+  },
+  "Trimmed Elegant Werewolf Replacer 4K": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.8",
+      "file_id": 608145,
+      "file_name": "Trimmed Elegant Werewolf Replacer 4K-93336-1-8-1742595331.7z",
+      "mod_id": 93336,
+      "hash": "sha256-4eu+IPR0ktwoqzGpqnwj+1OL5PshJgBnVwZw0/CMX9s="
+    },
+    "type": "primary"
+  },
+  "Base Replacer Addon 2K": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.8",
+      "file_id": 608148,
+      "file_name": "Base Replacer Addon 2K-93336-1-8-1742595489.7z",
+      "mod_id": 93336,
+      "hash": "sha256-RNbkDyc841/5SFPInYUoDOaojUiqEfW2u1cyCLeXgKA="
+    }
+  },
+  "Base Replacer Addon 4K": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.8",
+      "file_id": 608151,
+      "file_name": "Base Replacer Addon 4K-93336-1-8-1742595876.7z",
+      "mod_id": 93336,
+      "hash": "sha256-NtOfpLaVpQR6wambGk730tvQIOP7K3qqlS+Gp9Ll+Ec="
+    }
+  },
+  "Elegant Werewolf Patches and Addons 4K": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.8",
+      "file_id": 608168,
+      "file_name": "Elegant Werewolf Addons 4K-93336-1-8-1742596775.7z",
+      "mod_id": 93336,
+      "hash": "sha256-LEG7skF/dqRlEcmwE0EiMCQk8jXU4PmrC5njZ67nQ1A="
+    }
+  },
+  "Elegant Werewolf Patches and Addons 2K": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.8",
+      "file_id": 608174,
+      "file_name": "Elegant Werewolf Addons 2K-93336-1-8-1742596988.7z",
+      "mod_id": 93336,
+      "hash": "sha256-D1zfKDk+MtEI5MSK+nWxZl996mklw7iAuvK1EGhXc+Y="
+    }
+  }
+}

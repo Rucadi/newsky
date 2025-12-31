@@ -1,0 +1,44 @@
+{
+  "Troll.4k": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 9402,
+      "file_name": "Troll.4k-4682-1-0.7z",
+      "mod_id": 4682,
+      "hash": "sha256-+JWH1AUATqN66OUTP8gyXZu0RgBDZwAzk5A+rvotRqs="
+    },
+    "type": "primary"
+  },
+  "Troll.4k-2k": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 9408,
+      "file_name": "Troll.4k-2k-4682-1-0.7z",
+      "mod_id": 4682,
+      "hash": "sha256-jGPOE0YlbZksdROAyuC0pJR0HSE4/VW88k1e+CJSG8U="
+    },
+    "type": "primary"
+  },
+  "Troll.2k": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 9411,
+      "file_name": "Troll.2k-4682-1-0.7z",
+      "mod_id": 4682,
+      "hash": "sha256-4TowpIu8QtYADJ5DMTBS9Ids1oJ9gaYLMtphiqyUI0s="
+    }
+  },
+  "Troll.1k": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 9413,
+      "file_name": "Troll.1k-4682-1-0.7z",
+      "mod_id": 4682,
+      "hash": "sha256-ihoUf2N+8otPp6tFBJYjF0tRitsqMKYw5mz8hcdbPvA="
+    }
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "Glasses Pack Vol. 1 - SPID Distribution FULL": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "2.0",
+      "file_id": 509240,
+      "file_name": "Glasses Pack Vol. 1 - SPID Distribution FULL-119554-2-0-1717749328.rar",
+      "mod_id": 119554,
+      "hash": "sha256-6iF67O5DGXbq3RY+hqOHXp6kQ5NwLQzYo2Vu9NVVol4="
+    },
+    "type": "primary"
+  },
+  "Glasses Pack Vol. 1 - SPID Distribution F": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "2.0",
+      "file_id": 509246,
+      "file_name": "Glasses Pack Vol. 1 - SPID Distribution F-119554-2-0-1717749947.rar",
+      "mod_id": 119554,
+      "hash": "sha256-H4hfBNNq3OQfJZ7eDJvkS1o+Hm6xpLg7sxLmT7hYuKw="
+    },
+    "type": "primary"
+  }
+}

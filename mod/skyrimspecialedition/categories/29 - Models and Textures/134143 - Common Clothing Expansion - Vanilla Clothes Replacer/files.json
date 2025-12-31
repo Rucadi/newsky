@@ -1,0 +1,33 @@
+{
+  "Common Clothing - Farm Clothes Replacer Skypatch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 563116,
+      "file_name": "Common Clothing - Farm Clothes Replacer Skypatch-134143-1-0-1731815897.zip",
+      "mod_id": 134143,
+      "hash": "sha256-TYvw1mskSyullhg+EVbM9RzRelvmQxYJ+n2EDlpZXAs="
+    },
+    "type": "primary"
+  },
+  "Common Clothing - Darker Textures": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 563117,
+      "file_name": "Common Clothing - Darker Textures-134143-1-0-1731816008.zip",
+      "mod_id": 134143,
+      "hash": "sha256-WXxNew6BXuIVCXzlWa+BhhzJyLTAdq6MrNQmaK6P0rc="
+    }
+  },
+  "Common Clothing - Even Darker Textures": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 563118,
+      "file_name": "Common Clothing - Even Darker Textures-134143-1-0-1731816063.zip",
+      "mod_id": 134143,
+      "hash": "sha256-6cBTvtiipKr91HhQymq3FW50HGLP7RPKm14HC+akZq4="
+    }
+  }
+}

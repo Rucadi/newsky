@@ -1,0 +1,35 @@
+{
+  "Textures - 4K": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "2.0.0",
+      "file_id": 332940,
+      "file_name": "4K textures-37929-2-0-0-1668861076.7z",
+      "mod_id": 37929,
+      "hash": "sha256-Muhrimc/YLUsc9SImeRqgQSnWV3N2L+sMhCkmEzMhYQ="
+    },
+    "type": "primary"
+  },
+  "Textures - 2K": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "2.1.0",
+      "file_id": 334219,
+      "file_name": "2K textures-37929-2-1-0-1669308905.7z",
+      "mod_id": 37929,
+      "hash": "sha256-EkBmWbXoICKk9+rNVdyi84IVp/nnv43eWQGCJ9TeKJ4="
+    },
+    "type": "primary"
+  },
+  "TESL - Loading Screens - ESP and Meshes": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "2.1.1",
+      "file_id": 395973,
+      "file_name": "TESL - Loading Screens - ESP and Meshes-37929-2-1-1-1686215335.7z",
+      "mod_id": 37929,
+      "hash": "sha256-++jPzdS8Wmh1AnE+68471Tb84YbOlZVwOc8bO9ZuyRg="
+    },
+    "type": "primary"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "Roosters (se-ae) 4k textures": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1",
+      "file_id": 534095,
+      "file_name": "Roosters (se-ae) 4k textures-127387-1-1724323871.rar",
+      "mod_id": 127387,
+      "hash": "sha256-rFgNU6srB3SnjzgRrz0pVIRvWut3gmuQgArbN9cp9dc="
+    },
+    "type": "primary"
+  },
+  "Roosters (se-ae) 2k textures": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1",
+      "file_id": 534096,
+      "file_name": "Roosters (se-ae) 2k textures-127387-1-1724323904.rar",
+      "mod_id": 127387,
+      "hash": "sha256-z+ITJ6A9184eQ9M0WcgRD9/QIttT20u9266QujN5FtA="
+    }
+  }
+}

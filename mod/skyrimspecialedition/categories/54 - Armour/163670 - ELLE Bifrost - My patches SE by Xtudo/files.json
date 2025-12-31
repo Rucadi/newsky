@@ -1,0 +1,90 @@
+{
+  "Bifrost - SE by Xtudo - My Tweaks": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1",
+      "file_id": 684173,
+      "file_name": "Bifrost - SE by Xtudo - My Tweaks-163670-1-1762369168.7z",
+      "mod_id": 163670,
+      "hash": "sha256-k4Fjxrl3jwamGk9ZpX2xbGsyVaLYlUyl/Eo9e7Dxy0M="
+    },
+    "type": "primary"
+  },
+  "Bifrost - SE by Xtudo - My Tweaks CBBE": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1",
+      "file_id": 684174,
+      "file_name": "Bifrost - SE by Xtudo - My Tweaks CBBE-163670-1-1762369241.7z",
+      "mod_id": 163670,
+      "hash": "sha256-43DfETIrav/MS/LdRNFb8PrZBcRMrBGO63mLXXuedh0="
+    },
+    "type": "primary"
+  },
+  "Bifrost - SE by Xtudo - My Tweaks UNP": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1",
+      "file_id": 684175,
+      "file_name": "Bifrost - SE by Xtudo - My Tweaks UNP-163670-1-1762369261.7z",
+      "mod_id": 163670,
+      "hash": "sha256-1wVYZWIOwLLr+qw03GHyNGMzsVl94bSXp1+6rp2N0U0="
+    },
+    "type": "primary"
+  },
+  "Bifrost - SE by Xtudo - Textures 2K": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1",
+      "file_id": 684176,
+      "file_name": "Bifrost - SE by Xtudo - Textures 2K-163670-1-1762369293.7z",
+      "mod_id": 163670,
+      "hash": "sha256-BPnac0h0aly6EtrkrJSqXtEZCAa7Q0gRHzsCZS2rvB8="
+    },
+    "type": "primary"
+  },
+  "Bifrost - SE by Xtudo - Textures 1K": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1",
+      "file_id": 684177,
+      "file_name": "Bifrost - SE by Xtudo - Textures 1K-163670-1-1762369307.7z",
+      "mod_id": 163670,
+      "hash": "sha256-EJj6aAuZtKrc1i8zYHfrMBO0LsbVbAbqxXhUGJtAaNg="
+    },
+    "type": "primary"
+  },
+  "Bifrost - SE by Xtudo - Non-HDT patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1",
+      "file_id": 684178,
+      "file_name": "Bifrost - SE by Xtudo - Non-HDT patch-163670-1-1762369360.7z",
+      "mod_id": 163670,
+      "hash": "sha256-M9mRWXrPTtbfMguUfZnjJX3xSB4btg2vI50WUBjgVUQ="
+    },
+    "type": "primary"
+  },
+  "Bifrost - SE by Xtudo - Heels Sound patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1",
+      "file_id": 684179,
+      "file_name": "Bifrost - SE by Xtudo - Heels Sound patch-163670-1-1762369380.7z",
+      "mod_id": 163670,
+      "hash": "sha256-I/pYh0eEOmvz+JEWWVAzpKptFeBAubl8hMP/poBqoaI="
+    },
+    "type": "primary"
+  },
+  "Bifrost - SE by Xtudo - Pauldrons reduced size": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1",
+      "file_id": 684428,
+      "file_name": "Bifrost - SE by Xtudo - Pauldrons reduced size-163670-1-1-1762453988.7z",
+      "mod_id": 163670,
+      "hash": "sha256-Aj5lgbl6BjMIxvp1sW1JoAAm4yHnSl9/QGfZO5S/vLM="
+    },
+    "type": "primary"
+  }
+}

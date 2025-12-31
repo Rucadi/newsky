@@ -1,0 +1,23 @@
+{
+  "JH Combat Animation Pack SE": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "0.81a",
+      "file_id": 240612,
+      "file_name": "JH Combat Animation Pack SE-48500-0-81a-1636658702.7z",
+      "mod_id": 48500,
+      "hash": "sha256-1/1kapsscujXi4yJ2xN8o2OPB2NIJHCrIGFxim5UOcU="
+    },
+    "type": "primary"
+  },
+  "JH Combat Animation Pack Female SE": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "0.81a",
+      "file_id": 240613,
+      "file_name": "JH Combat Animation Pack Female SE-48500-0-81a-1636658832.7z",
+      "mod_id": 48500,
+      "hash": "sha256-BXUye0ibA8oOEFMEIhZX15RRCaKykURleA2/M2s5yE0="
+    }
+  }
+}

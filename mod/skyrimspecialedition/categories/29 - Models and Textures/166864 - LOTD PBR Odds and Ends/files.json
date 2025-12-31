@@ -1,0 +1,24 @@
+{
+  "LOTD PBR Odds and Ends 2K": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "0.1",
+      "file_id": 697723,
+      "file_name": "LOTD PBR Odds and Ends 2K-166864-0-1-1765672316.7z",
+      "mod_id": 166864,
+      "hash": "sha256-AYTX5Le7nZAKYut9iuflNOvb+FVu4FYAJH51ISo1Idc="
+    },
+    "type": "primary"
+  },
+  "LOTD PBR Odds and Ends 4K": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "0.1",
+      "file_id": 697724,
+      "file_name": "LOTD PBR Odds and Ends 4K-166864-0-1-1765672380.7z",
+      "mod_id": 166864,
+      "hash": "sha256-kIB7bzmSkW7NsRcsgvEcJe2DatJ+8+qegTzsKSWdSvI="
+    },
+    "type": "primary"
+  }
+}

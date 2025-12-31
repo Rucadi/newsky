@@ -1,0 +1,74 @@
+{
+  "Blubbos_Whiterun_2022_JKs_TheBanneredMarePatch.zip": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 271358,
+      "file_name": "Blubbos_Whiterun_2022_JKs_TheBanneredMarePatch.zip-65232-1-0-1647767882.zip",
+      "mod_id": 65232,
+      "hash": "sha256-ZkiE5RQnsCnavlibIwi4NUwYtjqfpTM5EeLTcaKvJUo="
+    }
+  },
+  "Blubbos_Whiterun_2022_NoPinesPatch.zip": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 271359,
+      "file_name": "Blubbos_Whiterun_2022_NoPinesPatch.zip-65232-1-0-1647767975.zip",
+      "mod_id": 65232,
+      "hash": "sha256-28NcQiFX0HsgHH8dHoOG+75jjuNrxcW1VAFL/jcWmWg="
+    }
+  },
+  "Blubbos_Whiterun_2022_YourPinesPatch.zip": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.2",
+      "file_id": 345265,
+      "file_name": "Blubbos_Whiterun_2022_YourPinesPatch.zip-65232-1-2-1672503197.zip",
+      "mod_id": 65232,
+      "hash": "sha256-iaj7jQr96o0JYUDxKOzM/6Qb3cYFjTH9+/OetFc6+nE="
+    }
+  },
+  "Blubbos_Whiterun_2022.zip": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.2",
+      "file_id": 345267,
+      "file_name": "Blubbos_Whiterun_2022.zip-65232-1-2-1672503779.zip",
+      "mod_id": 65232,
+      "hash": "sha256-be02O+Cuzu/1RpItDfshxOqnKtQISvg/EhyeAHMJNrs="
+    },
+    "type": "primary"
+  },
+  "Blubbo_Whiterun_2022_MoreTrees.zip": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 345274,
+      "file_name": "Blubbo_Whiterun_2022_MoreTrees.zip-65232-1-0-1672504235.zip",
+      "mod_id": 65232,
+      "hash": "sha256-7TmKTg+TbQMSOAt5St2upnrXYcB715CXwBAng/SXPkI="
+    }
+  },
+  "Blubbos_Whiterun_2023_V2.zip": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.31",
+      "file_id": 416638,
+      "file_name": "Blubbos_Whiterun_2023_V2.zip-65232-1-31-1691929228.zip",
+      "mod_id": 65232,
+      "hash": "sha256-R4G7WY1eggM0NB2i5pojkpvIdvvQwnL0hloF+R1oAdw="
+    },
+    "type": "primary"
+  },
+  "Blubbos_Whiterun_2023V2esl_patch.zip": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.31",
+      "file_id": 416806,
+      "file_name": "Blubbos_Whiterun_2023V2esl_patch.zip-65232-1-31-1691961783.zip",
+      "mod_id": 65232,
+      "hash": "sha256-AfJYoVSVtaR6Ist8jivmJjVhtHiU6xYwz69/Q6Gs5H4="
+    }
+  }
+}

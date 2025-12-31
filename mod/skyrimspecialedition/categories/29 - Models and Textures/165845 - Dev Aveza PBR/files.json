@@ -1,0 +1,24 @@
+{
+  "Dev Aveza PBR - 4K": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 693149,
+      "file_name": "Dev Aveza PBR - 4K-165845-1-0-1764552002.7z",
+      "mod_id": 165845,
+      "hash": "sha256-0+5RTIPb+1ao540pA/GOwsu1a3QpYOnV+bdvMSQtwF8="
+    },
+    "type": "primary"
+  },
+  "Dev Aveza PBR - 2K": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 693150,
+      "file_name": "Dev Aveza PBR - 2K-165845-1-0-1764552032.7z",
+      "mod_id": 165845,
+      "hash": "sha256-hb1y/P40XXBbIfkK0i3jKPsKqw0TRHv1/GVn66bjrfg="
+    },
+    "type": "primary"
+  }
+}

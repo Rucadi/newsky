@@ -1,0 +1,46 @@
+{
+  "EmbersXD - Campfire Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.3",
+      "file_id": 245557,
+      "file_name": "EmbersXD - Campfire Patch-50883-1-3-1638287753.rar",
+      "mod_id": 50883,
+      "hash": "sha256-SVICi8JG6XIF0SuGZgRlVJCMRTtzlxBKcXuM5z/3hk4="
+    },
+    "type": "primary"
+  },
+  "EmbersXD - InnCredible Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "2.4",
+      "file_id": 296925,
+      "file_name": "EmbersXD - InnCredible Patch-50883-2-4-1657219172.rar",
+      "mod_id": 50883,
+      "hash": "sha256-j0Gk1rE38hSuFU3eW2lu0nwEsjU/s1xPL5E0uya9FRo="
+    },
+    "type": "primary"
+  },
+  "EmbersXD - Fall of Granite Hill Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1",
+      "file_id": 307548,
+      "file_name": "EmbersXD - Fall of Granite Hill Patch-50883-1-1-1660506729.rar",
+      "mod_id": 50883,
+      "hash": "sha256-afGGyMG3z1ndgmC56jwISltG9KKAzMHkByvBQEG4g6c="
+    },
+    "type": "primary"
+  },
+  "EmbersXD - Farmhouse Inns Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 332071,
+      "file_name": "EmbersXD - Farmhouse Inns Patch-50883-1-0-1668524914.rar",
+      "mod_id": 50883,
+      "hash": "sha256-bglUdFW7FeDw6tCaf5aX0Wb05yUEPhhk9cetEOupazk="
+    },
+    "type": "primary"
+  }
+}

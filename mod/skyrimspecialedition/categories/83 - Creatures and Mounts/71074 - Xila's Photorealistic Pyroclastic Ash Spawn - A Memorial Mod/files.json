@@ -1,0 +1,34 @@
+{
+  "Pyroclastic Ash Spawn Retexture - 4K": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 297648,
+      "file_name": "Pyroclastic Ash Spawn Retexture - 4K-71074-1-0-1657410924.7z",
+      "mod_id": 71074,
+      "hash": "sha256-rC1tnxxUGSKUUlaATcSS2OGPT6rtCHyPjdhRRckvA1A="
+    },
+    "type": "primary"
+  },
+  "Pyroclastic Ash Spawn Retexture - 2K": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 297651,
+      "file_name": "Pyroclastic Ash Spawn Retexture - 2K-71074-1-0-1657411425.7z",
+      "mod_id": 71074,
+      "hash": "sha256-GGLCuXvVE1mV2nbyeiU/9hmKssmq6rcwNLkrZkMqVCg="
+    },
+    "type": "primary"
+  },
+  "Pyroclastic Ash Spawn Retexture - 1K": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 297653,
+      "file_name": "Pyroclastic Ash Spawn Retexture - 1K-71074-1-0-1657411607.7z",
+      "mod_id": 71074,
+      "hash": "sha256-VOG2dXEfklHlRzGh95Ku/7VRgo59rwgKhqvtWh6ymYY="
+    }
+  }
+}

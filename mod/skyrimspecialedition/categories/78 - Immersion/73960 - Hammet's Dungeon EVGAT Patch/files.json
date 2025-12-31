@@ -1,0 +1,23 @@
+{
+  "EVGAT Hammet Dungeon": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1",
+      "file_id": 310008,
+      "file_name": "EVGAT Hammet Dungeon-73960-1-1661335069.7z",
+      "mod_id": 73960,
+      "hash": "sha256-h6sw57Uxq2+x06jaJVM0tyj1wr48VlRVUPVkYoftWaE="
+    }
+  },
+  "EVGAT Hammet Dungeon (Non toggleable light marker version)": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "2.0",
+      "file_id": 321304,
+      "file_name": "EVGAT Hammet Dungeon (Non toggleable light marker version)-73960-2-0-1664809209.zip",
+      "mod_id": 73960,
+      "hash": "sha256-aCdm/j6N7q5QW4DbXp+ikxTRh3FL9l/ladcPrmH72nI="
+    },
+    "type": "primary"
+  }
+}

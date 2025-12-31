@@ -1,0 +1,35 @@
+{
+  "Tomato's Imperial Forts PBR 1k": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1.PBR",
+      "file_id": 580139,
+      "file_name": "Tomato's Imperial Forts PBR 1k-134372-1-1-PBR-1736199136.7z",
+      "mod_id": 134372,
+      "hash": "sha256-TsUMESCDILMgP4DUYMzOekD+GJ5J4KLO7vUh5JsJZzQ="
+    },
+    "type": "primary"
+  },
+  "Tomato's Imperial Forts PBR 2k": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1.PBR",
+      "file_id": 580140,
+      "file_name": "Tomato's Imperial Forts PBR 2k-134372-1-1-PBR-1736199140.7z",
+      "mod_id": 134372,
+      "hash": "sha256-UleWp6C1bTYGP9CjDt/OKLrJIM42ykOeGOO0l+obxwU="
+    },
+    "type": "primary"
+  },
+  "Tomato's Imperial Forts PBR 4k": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1.PBR",
+      "file_id": 580141,
+      "file_name": "Tomato's Imperial Forts PBR 4k-134372-1-1-PBR-1736199299.7z",
+      "mod_id": 134372,
+      "hash": "sha256-1Ge3fnxCRj252J8zWjl8/YNBGzuHd5UK9CrZj9j9QzE="
+    },
+    "type": "primary"
+  }
+}

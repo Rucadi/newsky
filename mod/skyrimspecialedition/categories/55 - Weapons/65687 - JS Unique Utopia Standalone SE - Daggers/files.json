@@ -1,0 +1,45 @@
+{
+  "JS Unique Utopia Standalone SE - Daggers - 1k": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0.1",
+      "file_id": 442247,
+      "file_name": "JS Unique Utopia Standalone SE - Daggers - 1k-65687-1-0-1-1699875265.7z",
+      "mod_id": 65687,
+      "hash": "sha256-y5JIFgVW6abuc1BzbiT7u07aXuFeR9R2CdmD0jrQwUk="
+    },
+    "type": "primary"
+  },
+  "JS Unique Utopia Standalone SE - Daggers - 2k": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0.1",
+      "file_id": 442248,
+      "file_name": "JS Unique Utopia Standalone SE - Daggers - 2k-65687-1-0-1-1699875380.7z",
+      "mod_id": 65687,
+      "hash": "sha256-JIFMlcCDTE1u4cRHRgwWz8u5Y030NiGznZtYFzfyjns="
+    },
+    "type": "primary"
+  },
+  "JS Unique Utopia Standalone SE - Daggers - 4k": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0.1",
+      "file_id": 442252,
+      "file_name": "JS Unique Utopia Standalone SE - Daggers - 4k-65687-1-0-1-1699875689.7z",
+      "mod_id": 65687,
+      "hash": "sha256-a2RexXOzREVcOZS0cW8tAx3RmMvY0KFOyJezYrayJVg="
+    },
+    "type": "primary"
+  },
+  "JS Unique Utopia Standalone SE - No Textures": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0.1",
+      "file_id": 442278,
+      "file_name": "JS Unique Utopia Standalone SE - No Textures-65687-1-0-1-1699883352.7z",
+      "mod_id": 65687,
+      "hash": "sha256-MA625t6FwoyLOlJi2JouNii88h/Hd9XMv4SCeSA1Rs4="
+    }
+  }
+}

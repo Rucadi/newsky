@@ -1,0 +1,24 @@
+{
+  "Ayasato Animations for Ostim Standalone": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1",
+      "file_id": 449752,
+      "file_name": "Ayasato Animations for Ostim Standalone-106438-1-1702029309.zip",
+      "mod_id": 106438,
+      "hash": "sha256-23TvARADMGgD+bidEkiSVbZFMSAo+GDvn+lOTv6NMsw="
+    },
+    "type": "primary"
+  },
+  "Alignment JSON": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1",
+      "file_id": 449753,
+      "file_name": "Alignment JSON-106438-1-1702029370.zip",
+      "mod_id": 106438,
+      "hash": "sha256-lkpLYNEHQTdXY50XXh5ZGAPou/8txRuUfjB+t8Xl4SQ="
+    },
+    "type": "primary"
+  }
+}

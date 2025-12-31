@@ -1,0 +1,42 @@
+{
+  "Smaller Map Markers for SkyUI 5.2 - 50 percent size": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 150470,
+      "file_name": "Smaller Map Markers for SkyUI 5.2 - 50 percent size-38308-1-0-1594779253.7z",
+      "mod_id": 38308,
+      "hash": "sha256-s2xbqvFctB8HDWLLnU+sjDLhKNOAIyyIsvayJ65P5cI="
+    }
+  },
+  "Smaller Map Markers for SkyUI 5.2 - 75 percent size": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 150472,
+      "file_name": "Smaller Map Markers for SkyUI 5.2 - 75 percent size-38308-1-0-1594779322.7z",
+      "mod_id": 38308,
+      "hash": "sha256-KpzJ/dfOXBjSVE6IyMpbGlVqnaeIRO0IM/w/TP3BPwY="
+    }
+  },
+  "Smaller Map Markers for SkyUI 5.2 - WIDESCREEN FIX - 75 percent size": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 150607,
+      "file_name": "Smaller Map Markers for SkyUI 5.2 - WIDESCREEN FIX - 75 percent size-38308-1-0-1594851655.7z",
+      "mod_id": 38308,
+      "hash": "sha256-8+KgBrBxQzgbDH/70rMKhW/2eejuPBdgUSq1E+wcRUI="
+    }
+  },
+  "Smaller Map Markers for SkyUI 5.2 - WIDESCREEN FIX - 50 percent size": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.01",
+      "file_id": 150853,
+      "file_name": "Smaller Map Markers for SkyUI 5.2 - WIDESCREEN FIX - 50 percent size-38308-1-01-1595008016.7z",
+      "mod_id": 38308,
+      "hash": "sha256-DPxYYyXT3LNAs9GrS46wh1Ba6tzzx9UqQzQkUKDKQ2k="
+    }
+  }
+}

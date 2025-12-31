@@ -1,0 +1,34 @@
+{
+  "Sons of Skyrim - HDT Physics Complex Material": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 582517,
+      "file_name": "Sons of Skyrim - HDT Physics Complex Material-137807-1-0-1736692006.rar",
+      "mod_id": 137807,
+      "hash": "sha256-ACEjEXMo/Y9DEDOZ778VflQf6m3q3VOxcHe3w9OSNvI="
+    }
+  },
+  "Sons of Skyrim Complex Material": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1.0",
+      "file_id": 659343,
+      "file_name": "Sons of Skyrim Complex Material-137807-1-1-0-1756190967.7z",
+      "mod_id": 137807,
+      "hash": "sha256-MLM93Lk40n8ceOuU7j/tX2jZFLN+1NXR++Qhtqpacug="
+    },
+    "type": "primary"
+  },
+  "Sons of Skyrim PBR": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1.0",
+      "file_id": 659344,
+      "file_name": "Sons of Skyrim PBR-137807-1-1-0-1756191037.7z",
+      "mod_id": 137807,
+      "hash": "sha256-D2cJ8ZUZGCrT062INT6J/xIDpYWKVS1RYa3ZIyTGm5Y="
+    },
+    "type": "primary"
+  }
+}

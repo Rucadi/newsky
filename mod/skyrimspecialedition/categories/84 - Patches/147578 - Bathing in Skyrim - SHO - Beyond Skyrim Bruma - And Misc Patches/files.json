@@ -1,0 +1,34 @@
+{
+  "Bathing Renewed - Bruma - Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 616938,
+      "file_name": "Bathing Renewed - Bruma - Patch-147578-1-0-1744569470.7z",
+      "mod_id": 147578,
+      "hash": "sha256-0kzzQQ2Z3r59gItbMVwA7eHpGTss0l4x3n3R5WcIzk4="
+    },
+    "type": "primary"
+  },
+  "Beyond Skyrim - Bruma - False Save Corruption Fix": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 617109,
+      "file_name": "Beyond Skyrim - Bruma - False Save Corruption Fix-147578-1-0-1744613105.7z",
+      "mod_id": 147578,
+      "hash": "sha256-2tgBB1Lnieb/fjjzUEeQp5SSce+AFtC4IQgpy/ph8hg="
+    }
+  },
+  "Bathing-Simple Hunting patch.v2.9": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "2.9",
+      "file_id": 621821,
+      "file_name": "Bathing-Simple Hunting patch.v2.9-147578-2-9-1745836322.7z",
+      "mod_id": 147578,
+      "hash": "sha256-w+SlDxfvhyYgHSICjz/162g6DctaaYvydN8Lv5IO/zY="
+    },
+    "type": "primary"
+  }
+}

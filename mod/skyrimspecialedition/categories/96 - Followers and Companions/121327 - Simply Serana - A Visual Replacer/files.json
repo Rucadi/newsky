@@ -1,0 +1,33 @@
+{
+  "Queen of the Damned - Simply Serana patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 509492,
+      "file_name": "Queen of the Damned - Simply Serana patch-121327-1-0-1717808806.rar",
+      "mod_id": 121327,
+      "hash": "sha256-nnxF7vJKyBTXzvou+QNL2C5dXN0wlXL6wf0+l0swYNk="
+    }
+  },
+  "Hood Plus Hair - Simply Serana Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0.1",
+      "file_id": 510109,
+      "file_name": "Hood Plus Hair - Simply Serana Patch-121327-1-0-1-1717986159.rar",
+      "mod_id": 121327,
+      "hash": "sha256-WxY+QDHzrMWgJTBCa4/uJ2xgteaCL4B6zeYKpugoaNU="
+    }
+  },
+  "Simply Serana - A Visual Replacer": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0.3",
+      "file_id": 511379,
+      "file_name": "Simply Serana - A Visual Replacer-121327-1-0-3-1718338870.rar",
+      "mod_id": 121327,
+      "hash": "sha256-e0+0JzPY0DthMm+ztDWPTWh0l0zehuLx6raNyGoMCeg="
+    },
+    "type": "primary"
+  }
+}

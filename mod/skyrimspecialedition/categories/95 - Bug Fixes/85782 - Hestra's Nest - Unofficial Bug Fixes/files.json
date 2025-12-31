@@ -1,0 +1,23 @@
+{
+  "More to do in Hestra's Nest - Plugin Replacer": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.2.2",
+      "file_id": 544185,
+      "file_name": "More to do in Hestra's Nest - Plugin Replacer-85782-1-2-2-1726842677.7z",
+      "mod_id": 85782,
+      "hash": "sha256-uT1VxRn53vqPmyLCU/2yURA7KsF/JcPKoZipsWkJsc4="
+    }
+  },
+  "Hestra's Nest - Unofficial Bug Fixes": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.7",
+      "file_id": 589219,
+      "file_name": "Hestra's Nest - Unofficial Bug Fixes-85782-1-7-1738267596.7z",
+      "mod_id": 85782,
+      "hash": "sha256-smPt7/L8zna+mahPyd3H3pTXFGldQuP0Xb1c+qFWr68="
+    },
+    "type": "primary"
+  }
+}

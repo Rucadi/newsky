@@ -1,0 +1,23 @@
+{
+  "Andromeda - CCB Compatibility Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "",
+      "file_id": 45553,
+      "file_name": "Andromeda - CCB Compatibility Patch-14910-.zip",
+      "mod_id": 14910,
+      "hash": "sha256-W1D9P5WRgjxM/Wpiyak/BtPQbJ8b5zxhQzhEnXKZjVQ="
+    }
+  },
+  "Andromeda 1.1.2": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1.2",
+      "file_id": 125471,
+      "file_name": "Andromeda 1.1.2-14910-1-1-2-1582458812.zip",
+      "mod_id": 14910,
+      "hash": "sha256-F4px6UFxRiPLeBI/CMKiMpH8aCOVSWui5fnjiHDa2n4="
+    },
+    "type": "primary"
+  }
+}

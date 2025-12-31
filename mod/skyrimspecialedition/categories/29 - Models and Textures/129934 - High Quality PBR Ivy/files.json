@@ -1,0 +1,24 @@
+{
+  "Fabled Forests - PBR Ivy on Trees": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 677440,
+      "file_name": "Fabled Forests - PBR Ivy on Trees-129934-1-0-1760810794.zip",
+      "mod_id": 129934,
+      "hash": "sha256-M+thpMZDwtMz5gXllQrnUhCdI27vffrxKlH5i+A+ceM="
+    },
+    "type": "primary"
+  },
+  "High Quality PBR Ivy": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.5",
+      "file_id": 680996,
+      "file_name": "High Quality PBR Ivy-129934-1-5-1761575391.zip",
+      "mod_id": 129934,
+      "hash": "sha256-S8DhwYVGB4PSvq0FNt/hj+IjXG7qPWUWk2fFBUVZy9c="
+    },
+    "type": "primary"
+  }
+}

@@ -1,0 +1,65 @@
+{
+  "Scuttlers - My textures SE by Xtudo - 4K": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1",
+      "file_id": 443013,
+      "file_name": "Scuttlers - My textures SE by Xtudo - 4K-104862-1-1700135051.7z",
+      "mod_id": 104862,
+      "hash": "sha256-b5MPZYusnYHld3We5brBaJjn7vYAyXiZv5JTS57wB5E="
+    },
+    "type": "primary"
+  },
+  "Scuttlers - My textures SE by Xtudo - 2K": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1",
+      "file_id": 443014,
+      "file_name": "Scuttlers - My textures SE by Xtudo - 2K-104862-1-1700135066.7z",
+      "mod_id": 104862,
+      "hash": "sha256-NhK5Clp+YE5/bJMg70jEZto9WWSthh3eYbPZ2wJZKCk="
+    },
+    "type": "primary"
+  },
+  "Scuttlers - My textures SE by Xtudo - 1K": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1",
+      "file_id": 443015,
+      "file_name": "Scuttlers - My textures SE by Xtudo - 1K-104862-1-1700135076.7z",
+      "mod_id": 104862,
+      "hash": "sha256-LYfyRVwtPNkZXIBWLH69DkgM/UvleIxG2RQOTNkItWI="
+    },
+    "type": "primary"
+  },
+  "Scuttlers - Skyrim Addon SE by Xtudo": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1",
+      "file_id": 443028,
+      "file_name": "Scuttlers - Skyrim Addon by Xtudo-104862-1-1-1700139857.7z",
+      "mod_id": 104862,
+      "hash": "sha256-s0xc4mRKptzNhNXIFC6824Y9ah5A/WgR7CQbKnMl364="
+    }
+  },
+  "Scuttlers - Pet Addon SE by Xtudo": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1",
+      "file_id": 443029,
+      "file_name": "Scuttlers - Pet Addon by Xtudo-104862-1-1-1700139883.7z",
+      "mod_id": 104862,
+      "hash": "sha256-TDFuIaTuukuydFahUoDmgn/Nrnh7a/GCFVLIt4DRkWQ="
+    }
+  },
+  "Scuttlers - Companions Pet Addon SE by Xtudo": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.2",
+      "file_id": 443144,
+      "file_name": "Scuttlers - Companions Pet Addon SE by Xtudo-104862-1-2-1700173684.7z",
+      "mod_id": 104862,
+      "hash": "sha256-0Mbl4xSnRFfutFQRYh+OOXgtVhkNJRi4pVlnukZytJ0="
+    }
+  }
+}

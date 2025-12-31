@@ -1,0 +1,73 @@
+{
+  "Texture Patch for Cathedral PBR Landscapes": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 592097,
+      "file_name": "Texture Patch for Cathedral PBR Landscapes-140780-1-0-1738953778.zip",
+      "mod_id": 140780,
+      "hash": "sha256-bRJaReIohI8+8evzCjRP7Dju1dyNV3M02y7lG+G6GHw="
+    }
+  },
+  "Texture Patch for ATHEUZZ Landscapes": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.2",
+      "file_id": 597679,
+      "file_name": "Texture Patch for ATHEUZZ Landscapes-140780-1-2-1740221188.zip",
+      "mod_id": 140780,
+      "hash": "sha256-nSj8Mj6FedHNrJ7o+ffUZVuFsBBZkYDQCH7DTxjeytI="
+    }
+  },
+  "Texture Patch for Skyland Landscapes": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 598102,
+      "file_name": "Texture Patch for Skyland Landscapes-140780-1-0-1740301566.zip",
+      "mod_id": 140780,
+      "hash": "sha256-beN+fgmC9YUv90tzDzyR6krfEQO3n/l60lZi0hTDnXE="
+    }
+  },
+  "Realistic PBR Footprints": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.2",
+      "file_id": 600912,
+      "file_name": "Realistic PBR Footprints-140780-1-2-1740915055.zip",
+      "mod_id": 140780,
+      "hash": "sha256-qTU0B4v1IA4dt2dcQOsJnSwi/RNfW7fPyB1aov1PYgA="
+    },
+    "type": "primary"
+  },
+  "Texture Patch for Fantasia Landscape": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 602320,
+      "file_name": "Texture Patch for Fantasia Landscape-140780-1-0-1741250467.zip",
+      "mod_id": 140780,
+      "hash": "sha256-1zSKZTlF8Q2+8fc+J4Gkn/NhNJ5Dc0gLvVGztlj42tQ="
+    }
+  },
+  "Texture Patch for Northvale Landscapes": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 616746,
+      "file_name": "Texture Patch for Northvale Landscapes-140780-1-0-1744537939.zip",
+      "mod_id": 140780,
+      "hash": "sha256-pfXm+PWsNlpYI6OfS/HIgYEuC9Ni92Ma1RpGtEYtEy0="
+    }
+  },
+  "Texture Patch for Vanaheimr PBR Landscapes": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 655124,
+      "file_name": "Texture Patch for Vanaheimr PBR Landscapes-140780-0-1a-1755042898.zip",
+      "mod_id": 140780,
+      "hash": "sha256-LFvzgP9EjWg4ZWeoGnQ7/7864ybrW5x5z8NlsiABp0Q="
+    }
+  }
+}

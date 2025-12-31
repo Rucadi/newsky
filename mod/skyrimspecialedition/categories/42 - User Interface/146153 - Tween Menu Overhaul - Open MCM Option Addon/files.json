@@ -1,0 +1,24 @@
+{
+  "Tween Menu Ovehaul - MCM Addon": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 611244,
+      "file_name": "Tween Menu Ovehaul - MCM Addon-146153-1-0-1743236976.zip",
+      "mod_id": 146153,
+      "hash": "sha256-88I+9eSMYCbzcWhK4XHPnaZYSAklKLmNCyHfZEwEjCo="
+    },
+    "type": "primary"
+  },
+  "Tween Menu Overhual - MCM Addon (Reuploaded)": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 618191,
+      "file_name": "Tween Menu Overhual - MCM Addon (Reuploaded)-146153-1-0-1744893203.rar",
+      "mod_id": 146153,
+      "hash": "sha256-fCskqqzSiULozI+sNKq80yVsp9iTf+51hwHoskIcL0A="
+    },
+    "type": "primary"
+  }
+}

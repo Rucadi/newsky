@@ -1,0 +1,23 @@
+{
+  "sm_cc_AEcompletev11": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "11",
+      "file_id": 556535,
+      "file_name": "sm_cc_AEcompletev11-58880-11-1730148487.rar",
+      "mod_id": 58880,
+      "hash": "sha256-7XefY1tUigINx7KPUGtHpN5/rx3MTWYiVm4bPmpZgNI="
+    },
+    "type": "primary"
+  },
+  "sm_GP_AEBSv11": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "11",
+      "file_id": 556541,
+      "file_name": "sm_GP_AEBSv11-58880-11-1730149567.rar",
+      "mod_id": 58880,
+      "hash": "sha256-KDzJFxLFsrPDv5/IKxNEJ4jeuRSLWMiLXX6Joq2wS/A="
+    }
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "(Place at game folder) imgui.dll": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "2.0.0",
+      "file_id": 544819,
+      "file_name": "(Place at game folder) imgui.dll-65958-2-0-0-1726987006.7z",
+      "mod_id": 65958,
+      "hash": "sha256-1+avxI340sxz7iTkSO/D0PWfhOGO7GnpDJUGUftEnC8="
+    },
+    "type": "primary"
+  },
+  "CatMenu": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "2.0.1",
+      "file_id": 545591,
+      "file_name": "CatMenu-65958-2-0-1-1727170372.7z",
+      "mod_id": 65958,
+      "hash": "sha256-8vGnUPKqmNytufczvYIKh5SfnoFEhNYW3SidNwERt1E="
+    },
+    "type": "primary"
+  }
+}

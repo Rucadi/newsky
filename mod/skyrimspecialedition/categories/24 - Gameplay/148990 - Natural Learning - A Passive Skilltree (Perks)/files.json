@@ -1,0 +1,45 @@
+{
+  "Natural Learning": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1.0",
+      "file_id": 624978,
+      "file_name": "Natural Learning-148990-1-1-0-1746718632.zip",
+      "mod_id": 148990,
+      "hash": "sha256-V83dyBayRVaZsELwDcjy6mNRL4SyUg6KoFSHHWTQoks="
+    },
+    "type": "primary"
+  },
+  "Natural Learning - NPC Addon": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1.0",
+      "file_id": 624979,
+      "file_name": "Natural Learning - NPC Addon-148990-1-1-0-1746718661.zip",
+      "mod_id": 148990,
+      "hash": "sha256-Y7MF9X4k3sFmnpMzEC2zLF3XjDxYeY7240Cj2KphAaU="
+    },
+    "type": "primary"
+  },
+  "Natural Learning - NPC Standalone": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1.0",
+      "file_id": 625287,
+      "file_name": "Natural Learning - NPC Standalone-148990-1-1-0-1746804263.zip",
+      "mod_id": 148990,
+      "hash": "sha256-hEHyVoCyEqNx0MQgrXScg0SY9AQB2Wg6pLlQdO1T3DM="
+    }
+  },
+  "Natural Learning - Book Vendor Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1.0",
+      "file_id": 625301,
+      "file_name": "Natural Learning - Book Vendor Patch-148990-1-1-0-1746807019.zip",
+      "mod_id": 148990,
+      "hash": "sha256-V+B4tz9dwW49YMvUYMfvmp+yBVujhaeBS2MV6Sz6+6c="
+    },
+    "type": "primary"
+  }
+}

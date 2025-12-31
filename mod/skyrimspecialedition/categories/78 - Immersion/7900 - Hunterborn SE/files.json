@@ -1,0 +1,53 @@
+{
+  "Hunterborn": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.6.2",
+      "file_id": 24181,
+      "file_name": "Hunterborn-7900-1-6-2.7z",
+      "mod_id": 7900,
+      "hash": "sha256-5u0W+BJ09B/L+rGmfpL/e+uKYHSh0qMr3oujUt581Gw="
+    },
+    "type": "primary"
+  },
+  "Dragonborn's Bestiary Hunterborn Loot (NO FAT)": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 518822,
+      "file_name": "Dragonborn's Bestiary - Hunterborn Loot (NO FAT)-7900-1-0-1720405226.7z",
+      "mod_id": 7900,
+      "hash": "sha256-ZVGEB7Io5WlcahosgUR0NEdpNcR9sd629/LtdkU00ec="
+    }
+  },
+  "Dragonborn's Bestiary Hunterborn Loot (ANIMAL FAT)": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 518823,
+      "file_name": "Dragonborn's Bestiary - Hunterborn Loot (ANIM FAT)-7900-1-0-1720405315.7z",
+      "mod_id": 7900,
+      "hash": "sha256-xt30crBYMtmqOw8O/sJ3+w9MbZzEkF7n+pJZkGB6WDA="
+    }
+  },
+  "Dragonborn's Bestiary Loot - Corporeal Dragons": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 518824,
+      "file_name": "Dragonborn's Bestiary HB Loot - Corporeal Dragons-7900-1-0-1720405399.7z",
+      "mod_id": 7900,
+      "hash": "sha256-VBWtrtu+HMKsIU0rqZuLCPMK7KCY8R5Xp/X/LAjH0es="
+    }
+  },
+  "Hunterborn - Soups and Stews - ESL-Flagged": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 652890,
+      "file_name": "Hunterborn - Soups and Stews - ESL-Flagged-7900-1-0-1754334427.7z",
+      "mod_id": 7900,
+      "hash": "sha256-FW/v2uBdfxdcZXWCjq8vrbjLTZFKo/JAmXs4on4JiX0="
+    }
+  }
+}

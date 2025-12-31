@@ -1,0 +1,33 @@
+{
+  "Sewer Rats (SE-AE)- 4k textures": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1",
+      "file_id": 577348,
+      "file_name": "Sewer Rats (SE-AE) v4- 4k textures-137591-1-1735479081.rar",
+      "mod_id": 137591,
+      "hash": "sha256-l4oSbOLx58pDsC7YDHBSEvVgJ20juqbBkON0ePstEi8="
+    },
+    "type": "primary"
+  },
+  "Sewer Rats (SE-AE)- 2k textures": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1",
+      "file_id": 577349,
+      "file_name": "Sewer Rats (SE-AE) v4- 2k textures-137591-1-1735479112.rar",
+      "mod_id": 137591,
+      "hash": "sha256-xtS6ULVAwDUHSckDUS0Evr/FOkgdsZRYfquhWJ3IEw8="
+    }
+  },
+  "Sewer Rats (SE-AE)- 1k textures": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1",
+      "file_id": 577350,
+      "file_name": "Sewer Rats (SE-AE) v4- 1k textures-137591-1-1735479138.rar",
+      "mod_id": 137591,
+      "hash": "sha256-PnndCK28TKvZDRmV/bsz64wJtEYZEXzxe+8S4s/BH/g="
+    }
+  }
+}

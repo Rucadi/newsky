@@ -1,0 +1,23 @@
+{
+  "Redguard Armor": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 299505,
+      "file_name": "Redguard Armor-71505-1-0-1657991062.rar",
+      "mod_id": 71505,
+      "hash": "sha256-nEX/8ranbQnhnTDKJsyluv/qQSItSgUn4ZGoJnjYoYo="
+    },
+    "type": "primary"
+  },
+  "Redguards of Skyrim": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 299506,
+      "file_name": "Redguards of Skyrim-71505-1-0-1657991107.rar",
+      "mod_id": 71505,
+      "hash": "sha256-DOK45LeVj9DuPuQZBR+x8CIZ1IuqTJVjTOZbB4XqmkI="
+    }
+  }
+}

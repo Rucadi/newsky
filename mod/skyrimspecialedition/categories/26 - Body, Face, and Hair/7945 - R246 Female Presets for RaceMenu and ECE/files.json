@@ -1,0 +1,23 @@
+{
+  "R246 RaceMenu Presets": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "2.5",
+      "file_id": 141730,
+      "file_name": "R246 RaceMenu Presets-7945-2-5-1590298164.7z",
+      "mod_id": 7945,
+      "hash": "sha256-+P99AsqLe0twu2+TLI0VlBWBmbhwi6Uwy5DstSXvN/M="
+    },
+    "type": "primary"
+  },
+  "R246 Even Lewder Body 3BAv2": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "5.0",
+      "file_id": 224691,
+      "file_name": "R246 Even Lewder Body 3BAv2-7945-5-0-1630258194.7z",
+      "mod_id": 7945,
+      "hash": "sha256-CH9cOtFPPDDpWLXVOpLzgdmRhzKWFKnLIJtDM/IWgd4="
+    }
+  }
+}

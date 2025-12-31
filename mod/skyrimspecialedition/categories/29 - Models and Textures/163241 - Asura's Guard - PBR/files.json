@@ -1,0 +1,34 @@
+{
+  "Asura's Guard - PBR": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 682306,
+      "file_name": "Asura's Guard - PBR-163241-1-0-1761934729.7z",
+      "mod_id": 163241,
+      "hash": "sha256-+Sgls5tIEXPP/C5D3K9WPvVO90PBj3AbACO25soAZM8="
+    },
+    "type": "primary"
+  },
+  "Asura's Guard - PBR - Half Resolution": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 682504,
+      "file_name": "Asura's Guard - PBR - Half Resolution-163241-1-0-1761981714.7z",
+      "mod_id": 163241,
+      "hash": "sha256-fSPmGBCHTWNJxpC/pcI8dYpSQiOv1SjloWegqzjS7sE="
+    },
+    "type": "primary"
+  },
+  "Transparent v4 Bottoms": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1",
+      "file_id": 683382,
+      "file_name": "Transparent v4 Bottoms-163241-1-1-1762182155.7z",
+      "mod_id": 163241,
+      "hash": "sha256-gx0PUytOqR2+36/DJpFmEEiakHOReZkkfighzTW0gxw="
+    }
+  }
+}

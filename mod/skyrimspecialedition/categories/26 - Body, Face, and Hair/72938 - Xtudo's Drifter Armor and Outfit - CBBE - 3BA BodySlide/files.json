@@ -1,0 +1,24 @@
+{
+  "Drifter Armor Xtudo - 3BBB 3BA": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.2",
+      "file_id": 307863,
+      "file_name": "Drifter Armor Xtudo - 3BBB 3BA-72938-1-2-1660613649.zip",
+      "mod_id": 72938,
+      "hash": "sha256-SJxhjURNRGb/4V39F4PWXJoBu4VICQT8KGusBubavdE="
+    },
+    "type": "primary"
+  },
+  "Drifter Armor Xtudo - CBBE": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.2",
+      "file_id": 307864,
+      "file_name": "Drifter Armor Xtudo - CBBE-72938-1-2-1660613754.zip",
+      "mod_id": 72938,
+      "hash": "sha256-jumsf3NJVm57A1EMqV77rEpSbFfmEuX/b3eGORQc3Dg="
+    },
+    "type": "primary"
+  }
+}

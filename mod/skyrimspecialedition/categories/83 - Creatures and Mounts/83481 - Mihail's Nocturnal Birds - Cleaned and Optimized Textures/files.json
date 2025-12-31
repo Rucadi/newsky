@@ -1,0 +1,44 @@
+{
+  "Nocturnal Bird Textures 4K": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 352962,
+      "file_name": "Nocturnal Bird Textures 4K-83481-1-0-1674662025.7z",
+      "mod_id": 83481,
+      "hash": "sha256-OjE+MXnIB7sHBlfNvuO8INWbDDzSCzqW3zhR1VuX98k="
+    },
+    "type": "primary"
+  },
+  "Nocturnal Bird Textures 2K": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 352963,
+      "file_name": "Nocturnal Bird Textures 2K-83481-1-0-1674662052.7z",
+      "mod_id": 83481,
+      "hash": "sha256-n3gmj4GaZaVIKN5SGsYB7TIPUKx6xTTVX5Kd+/Hr5p4="
+    },
+    "type": "primary"
+  },
+  "2k-1k Textures for Baked Potatoes": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 352964,
+      "file_name": "2k-1k Textures for Baked Potatoes-83481-1-0-1674662075.7z",
+      "mod_id": 83481,
+      "hash": "sha256-ZaCE8pYjiTSt95/wGWhskKBnI5m4rmcD9PnutQlcbX8="
+    }
+  },
+  "1k-512 Textures for Mashed Potatoes": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 352965,
+      "file_name": "1k-512 Textures for Mashed Potatoes-83481-1-0-1674662120.7z",
+      "mod_id": 83481,
+      "hash": "sha256-yy+JZ1ub2t+jG0f33p3ZbegFqPI1FQY0HsS1sGLm9Ag="
+    }
+  }
+}

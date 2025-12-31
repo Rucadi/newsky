@@ -1,0 +1,578 @@
+{
+  "Faultier's PBR College of Winterhold 4k": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "2.0",
+      "file_id": 620152,
+      "file_name": "Faultier's PBR College of Winterhold-125308-2-0-1745326005.7z",
+      "mod_id": 125308,
+      "hash": "sha256-dZb15xJuYuuedFUbXhb9w9PA90ulCommhETqAnYr15w="
+    }
+  },
+  "Faultier's PBR DLC01 architecture 4k": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "2.0",
+      "file_id": 620155,
+      "file_name": "Faultier's PBR DLC01 architecture-125308-2-0-1745326227.7z",
+      "mod_id": 125308,
+      "hash": "sha256-Av7UhyWw4ZUyeOL94SE1GTTkUK9s0mYhjgiOJSR2j+s="
+    }
+  },
+  "Faultier's PBR DLC02 architecture 4k": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "2.0",
+      "file_id": 620157,
+      "file_name": "Faultier's PBR DLC02 architecture-125308-2-0-1745326649.7z",
+      "mod_id": 125308,
+      "hash": "sha256-g06Jl82gp+kuObvTFAFn/8lIakVNDN8o2Zdqvo9ZJH4="
+    }
+  },
+  "Faultier's PBR Nordic Ruins 4k": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "2.0",
+      "file_id": 620164,
+      "file_name": "Faultier's PBR Nordic Ruins-125308-2-0-1745328637.7z",
+      "mod_id": 125308,
+      "hash": "sha256-p+lGijOGR2dSwFeThcVPUpgeEBpeczET3CQVBezY4r4="
+    }
+  },
+  "Faultier's PBR ShacksStockadesMines 4k": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "2.0",
+      "file_id": 620165,
+      "file_name": "Faultier's PBR ShacksStockadesMines-125308-2-0-1745328920.7z",
+      "mod_id": 125308,
+      "hash": "sha256-KSsqjCcsXcHh+3VSOY7JrSevYCvBiJOillRCzpMy9JM="
+    }
+  },
+  "Faultier's PBR Ships 4k": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "2.0",
+      "file_id": 620166,
+      "file_name": "Faultier's PBR Ships-125308-2-0-1745329070.7z",
+      "mod_id": 125308,
+      "hash": "sha256-QOPfd6CpjvM1SQshxKr6Ajb6yc4FmeU5zqmC46Bzq8o="
+    }
+  },
+  "Faultier's PBR High Hrothgar 4k": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "2.0",
+      "file_id": 620170,
+      "file_name": "Faultier's PBR High Hrothgar-125308-2-0-1745329573.7z",
+      "mod_id": 125308,
+      "hash": "sha256-t64SjOXA7uhujFW7x8o27qF6asfqqur5DgCOHJUPTzA="
+    }
+  },
+  "Faultier's PBR orc architecture 4k": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "2.0",
+      "file_id": 620171,
+      "file_name": "Faultier's PBR orc architecture-125308-2-0-1745329631.7z",
+      "mod_id": 125308,
+      "hash": "sha256-0PEcnQYRFIyB9mJPQ+38hwrWFRCp4Fv6NnQQTJWJ0h0="
+    }
+  },
+  "Faultier's PBR Skyhaven 4k": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "2.0",
+      "file_id": 620173,
+      "file_name": "Faultier's PBR Skyhaven-125308-2-0-1745329809.7z",
+      "mod_id": 125308,
+      "hash": "sha256-UZM9LIsW5BB/kJzkBfNce65eg3h6P2BEJXD+1+CP6Sk="
+    }
+  },
+  "Faultier's PBR Sovngarde 4k": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "2.0",
+      "file_id": 620175,
+      "file_name": "Faultier's PBR Sovngarde-125308-2-0-1745330148.7z",
+      "mod_id": 125308,
+      "hash": "sha256-wAcEE02WP77zIL/PEXMGNwK9r/YxGKwETGxPwWRXSDY="
+    }
+  },
+  "Faultier's PBR Windhelm 4k": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "2.0",
+      "file_id": 620177,
+      "file_name": "Faultier's PBR Windhelm-125308-2-0-1745330642.7z",
+      "mod_id": 125308,
+      "hash": "sha256-KIotW4uS2LJfozByrj+671L+NAwTUDTk3zr5XniVneE="
+    }
+  },
+  "Faultier's PBR Landscapes 1k": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "2.0.2",
+      "file_id": 637039,
+      "file_name": "Faultier's PBR Landscapes 1k-125308-2-0-2-1749729994.7z",
+      "mod_id": 125308,
+      "hash": "sha256-cLyVAN4bKLybRnyB36i/Lxr3prCL+5/7iI2WoWpyd6o="
+    },
+    "type": "primary"
+  },
+  "Faultier's PBR Landscapes 4k": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "2.0.2",
+      "file_id": 637042,
+      "file_name": "Faultier's PBR Landscapes 4k-125308-2-0-2-1749731426.7z",
+      "mod_id": 125308,
+      "hash": "sha256-0Om99rKt96S9xTPpGX0wFnCv9KK4sWfAYhizZ6DXfis="
+    },
+    "type": "primary"
+  },
+  "Faultier's PBR Dwemer Ruins and Markarth 4k": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "2.0.3",
+      "file_id": 643530,
+      "file_name": "Faultier's PBR Dwemer Ruins and Markarth-125308-2-0-1-1751467613.7z",
+      "mod_id": 125308,
+      "hash": "sha256-RMY4TECxRPsexEYI+lINuh49NFRufvmWoGwbyTn8k3A="
+    }
+  },
+  "Faultier's PBR Solitude 4k": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "2.0.3",
+      "file_id": 643532,
+      "file_name": "Faultier's PBR Solitude-125308-2-0-1-1751468814.7z",
+      "mod_id": 125308,
+      "hash": "sha256-HB6nftiR6sxbx5m++rkhPDPZlgmugybrmQZACkBY8A8="
+    }
+  },
+  "Faultier's PBR Skyrim AIO 4k": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "2.0.4",
+      "file_id": 644643,
+      "file_name": "Faultier's PBR Skyrim AIO 4k-125308-2-0-4-1751795081.7z",
+      "mod_id": 125308,
+      "hash": "sha256-VMAswkxmh3se5Ol1b5IFwOIFnAQPBCZ0//OJ5/FsKr0="
+    },
+    "type": "primary"
+  },
+  "Faultier's PBR Landscapes 2k": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "2.0.2",
+      "file_id": 644663,
+      "file_name": "Faultier's PBR Landscapes 2k-125308-2-0-2-1751799808.7z",
+      "mod_id": 125308,
+      "hash": "sha256-71+AkaZOVsVfgvGrm2i+hLMH7MN367Yhb+SXZ3rqDZc="
+    },
+    "type": "primary"
+  },
+  "Faultier's PBR Skyrim AIO 2k": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "2.0.4",
+      "file_id": 644669,
+      "file_name": "Faultier's PBR Skyrim AIO 2k-125308-2-0-4-1751801188.7z",
+      "mod_id": 125308,
+      "hash": "sha256-iljk4K9bcqnZkB8rPMuwds4TTfDSLCSG4ExxCFaB/Vo="
+    },
+    "type": "primary"
+  },
+  "Faultier's PBR Skyrim AIO 1k": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "2.0.4",
+      "file_id": 644676,
+      "file_name": "Faultier's PBR Skyrim AIO 1k-125308-2-0-4-1751804204.7z",
+      "mod_id": 125308,
+      "hash": "sha256-FslBD+eEC3wGkb+WaXx9M2XQQBHPOd10Utk9sKwvsag="
+    },
+    "type": "primary"
+  },
+  "Faultier's PBR Clutter high res": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "2.0.4",
+      "file_id": 644692,
+      "file_name": "Faultier's PBR Clutter-125308-2-0-4-1751806750.7z",
+      "mod_id": 125308,
+      "hash": "sha256-XOmNq69ASp7nx8/FZhmDa0+2YDKMZPS70EDtqnFaoR4="
+    }
+  },
+  "Faultier's PBR Clutter medium res": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "2.0.4",
+      "file_id": 692789,
+      "file_name": "Faultier's PBR Clutter medium res-125308-2-0-4-1764490658.7z",
+      "mod_id": 125308,
+      "hash": "sha256-4fPntyZHv+EmG52DcV+TOXn1UzPPp8P7OU9QoQ9a1cM="
+    }
+  },
+  "Faultier's PBR Clutter low res": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "2.0.4",
+      "file_id": 692793,
+      "file_name": "Faultier's PBR Clutter low res-125308-2-0-4-1764491245.7z",
+      "mod_id": 125308,
+      "hash": "sha256-NByU8AWcafTdMsS7zgKa6FsUkkuFf8W5ktjyUxp/xMY="
+    }
+  },
+  "Faultier's PBR College of Winterhold 2k": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "2.0",
+      "file_id": 692794,
+      "file_name": "Faultier's PBR College of Winterhold 2k-125308-2-0-1764491317.7z",
+      "mod_id": 125308,
+      "hash": "sha256-lTWmxV6l8S5AsU4EiIrRs6XRXFf13+oKyLUkW9Ia8nA="
+    }
+  },
+  "Faultier's PBR College of Winterhold 1k": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "2.0",
+      "file_id": 692795,
+      "file_name": "Faultier's PBR College of Winterhold 1k-125308-2-0-1764491347.7z",
+      "mod_id": 125308,
+      "hash": "sha256-+VWzNqqMlGX4qlMk6RKou5YIj9b2Dl/uJ1FYyFtXvAs="
+    }
+  },
+  "Faultier's PBR DLC01 architecture 2k": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "2.0",
+      "file_id": 692796,
+      "file_name": "Faultier's PBR DLC01 architecture 2k-125308-2-0-1764491463.7z",
+      "mod_id": 125308,
+      "hash": "sha256-VjU9oJfdoMFXKIdsfPd5ClYFalB7oHC/g0QAOHhAAVE="
+    }
+  },
+  "Faultier's PBR DLC01 architecture 1k": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "2.0",
+      "file_id": 692797,
+      "file_name": "Faultier's PBR DLC01 architecture 1k-125308-2-0-1764491509.7z",
+      "mod_id": 125308,
+      "hash": "sha256-W/B45KmM0bB+FOTxIQ6s5ioh/w+Nc5IpkBsqnSHCUgg="
+    }
+  },
+  "Faultier's PBR DLC02 architecture 2k": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "2.0",
+      "file_id": 692798,
+      "file_name": "Faultier's PBR DLC02 architecture 2k-125308-2-0-1764491669.7z",
+      "mod_id": 125308,
+      "hash": "sha256-OgW01lKB1gTP61jlUbYNLlMd3Zm8QXOibR6tAVVaDs8="
+    }
+  },
+  "Faultier's PBR DLC02 architecture 1k": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "2.0",
+      "file_id": 692799,
+      "file_name": "Faultier's PBR DLC02 architecture 1k-125308-2-0-1764491801.7z",
+      "mod_id": 125308,
+      "hash": "sha256-PkAliRUz5Qor5Bfmwy9P1hcdjog6Mw3PUjjEgr1VUH0="
+    }
+  },
+  "Faultier's PBR Dwemer Ruins and Markarth 2k": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "2.0.3",
+      "file_id": 692806,
+      "file_name": "Faultier's PBR Dwemer Ruins and Markarth 2k-125308-2-0-3-1764494310.7z",
+      "mod_id": 125308,
+      "hash": "sha256-/Z329l/PPTV8HRJucdVvs4fCweQ6XPXz6KGiTO9Z6yQ="
+    }
+  },
+  "Faultier's PBR Dwemer Ruins and Markarth 1k": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "2.0.3",
+      "file_id": 692807,
+      "file_name": "Faultier's PBR Dwemer Ruins and Markarth 1k-125308-2-0-3-1764494419.7z",
+      "mod_id": 125308,
+      "hash": "sha256-RmDvtZ+Y/BYslgCC+BuQIBIzUhYK6qOFFBqa+xTPa1w="
+    }
+  },
+  "Faultier's PBR High Hrothgar 2k": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "2.0",
+      "file_id": 692808,
+      "file_name": "Faultier's PBR High Hrothgar 2k-125308-2-0-1764494461.7z",
+      "mod_id": 125308,
+      "hash": "sha256-vQjmcFfP0qS27shF8gvqjod7abQjWAYxFyv+3Kc4PE4="
+    }
+  },
+  "Faultier's PBR High Hrothgar 1k": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "2.0",
+      "file_id": 692809,
+      "file_name": "Faultier's PBR High Hrothgar 1k-125308-2-0-1764494503.7z",
+      "mod_id": 125308,
+      "hash": "sha256-hz0fQv+r7taJiTWcO9wuF66Yf2giiC1bGBDAr+lqIEI="
+    }
+  },
+  "Faultier's PBR Nordic Ruins 2k": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "2.0",
+      "file_id": 692816,
+      "file_name": "Faultier's PBR Nordic Ruins 2k-125308-2-0-1764495483.7z",
+      "mod_id": 125308,
+      "hash": "sha256-eESlNQJhsWayxxNoJaSvjzeMQWenRjGZuFiKE+uRy6s="
+    }
+  },
+  "Faultier's PBR Nordic Ruins 1k": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "2.0",
+      "file_id": 692817,
+      "file_name": "Faultier's PBR Nordic Ruins 1k-125308-2-0-1764495535.7z",
+      "mod_id": 125308,
+      "hash": "sha256-F1gZ1dA2onsenjIyDEyN2hCB7jDQDWp1tfrnvd8f7uo="
+    }
+  },
+  "Faultier's PBR orc architecture 2k": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "2.0",
+      "file_id": 692818,
+      "file_name": "Faultier's PBR orc architecture 2k-125308-2-0-1764495584.7z",
+      "mod_id": 125308,
+      "hash": "sha256-pcUu2MJ6T5iTEGRgS1NHAY4IKbOTLNLRuuxrvIKWDKk="
+    }
+  },
+  "Faultier's PBR orc architecture 1k": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "2.0",
+      "file_id": 692819,
+      "file_name": "Faultier's PBR orc architecture 1k-125308-2-0-1764495614.7z",
+      "mod_id": 125308,
+      "hash": "sha256-dDftQg4J/tHVMrL+0QibAEA2ecDJzbvlN3BzDd29OLs="
+    }
+  },
+  "Faultier's PBR ShacksStockadesMines 2k": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "2.0",
+      "file_id": 692820,
+      "file_name": "Faultier's PBR ShacksStockadesMines 2k-125308-2-0-1764495706.7z",
+      "mod_id": 125308,
+      "hash": "sha256-odqVmGdJuzYfjXs0eIxvN+wnaNRKrDqf+OooFQ/VQ24="
+    }
+  },
+  "Faultier's PBR ShacksStockadesMines 1k": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "2.0",
+      "file_id": 692821,
+      "file_name": "Faultier's PBR ShacksStockadesMines 1k-125308-2-0-1764495736.7z",
+      "mod_id": 125308,
+      "hash": "sha256-XVRbWCcJ/K4kCpyUbuB4EUxNS3/ZqKAJlRAX08aTr1g="
+    }
+  },
+  "Faultier's PBR Ships 2k": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "2.0",
+      "file_id": 692822,
+      "file_name": "Faultier's PBR Ships 2k-125308-2-0-1764495839.7z",
+      "mod_id": 125308,
+      "hash": "sha256-HoLaKkOI4Lhajp5v9DszPo3nRjEEgdIxFs9mLkaFkUk="
+    }
+  },
+  "Faultier's PBR Ships 1k": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "2.0",
+      "file_id": 692823,
+      "file_name": "Faultier's PBR Ships 1k-125308-2-0-1764495862.7z",
+      "mod_id": 125308,
+      "hash": "sha256-QdGwoaLKn5Ht9cHIyzixaNgt3QpFZUMWKi2ByQiaXy0="
+    }
+  },
+  "Faultier's PBR Skyhaven 2k": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "2.0",
+      "file_id": 692824,
+      "file_name": "Faultier's PBR Skyhaven 2k-125308-2-0-1764495935.7z",
+      "mod_id": 125308,
+      "hash": "sha256-T4Y72vjeCB29vNkxGP2FVqkppAwn+lIA8l/Svq1nAHg="
+    }
+  },
+  "Faultier's PBR Skyhaven 1k": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "2.0",
+      "file_id": 692825,
+      "file_name": "Faultier's PBR Skyhaven 1k-125308-2-0-1764495962.7z",
+      "mod_id": 125308,
+      "hash": "sha256-RIy6lWp2jDlszy/3vd07w6tHHDbqHpFDv0SoUeJcsuU="
+    }
+  },
+  "Faultier's PBR Solitude 2k": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "2.0.3",
+      "file_id": 692826,
+      "file_name": "Faultier's PBR Solitude 2k-125308-2-0-3-1764496166.7z",
+      "mod_id": 125308,
+      "hash": "sha256-ExYEIk1T9cUK7PIZa1rC2hvcYFMN0iFq9W1T1VTrRN0="
+    }
+  },
+  "Faultier's PBR Solitude 1k": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "2.0.3",
+      "file_id": 692827,
+      "file_name": "Faultier's PBR Solitude 1k-125308-2-0-3-1764496205.7z",
+      "mod_id": 125308,
+      "hash": "sha256-kXORem6cdPQQEl/++Xwk7KG7wr8bNo06LfcsZRavHT0="
+    }
+  },
+  "Faultier's PBR Soul Cairn 4k": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "2.0",
+      "file_id": 692830,
+      "file_name": "Faultier's PBR Soul Cairn 4k-125308-2-0-1764496911.7z",
+      "mod_id": 125308,
+      "hash": "sha256-DzWyyj3UZY+5cf8QVRbFw/P9jP+Db2G1n+kECglHuJQ="
+    }
+  },
+  "Faultier's PBR Soul Cairn 2k": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "2.0",
+      "file_id": 692836,
+      "file_name": "Faultier's PBR Soul Cairn 2k-125308-2-0-1764497348.7z",
+      "mod_id": 125308,
+      "hash": "sha256-JO1CQIL7FtfaH3RijU7QQZIBO9mNG6MJnFIcbLMrYrA="
+    }
+  },
+  "Faultier's PBR Soul Cairn 1k": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "2.0",
+      "file_id": 692838,
+      "file_name": "Faultier's PBR Soul Cairn 1k-125308-2-0-1764497373.7z",
+      "mod_id": 125308,
+      "hash": "sha256-QDhxfC/t64P1fyvmvYYNB0Qkg+KAoT6bT4yeLdK3uxQ="
+    }
+  },
+  "Faultier's PBR Sovngarde 2k": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "2.0",
+      "file_id": 692840,
+      "file_name": "Faultier's PBR Sovngarde 2k-125308-2-0-1764497436.7z",
+      "mod_id": 125308,
+      "hash": "sha256-i7JWfdFvo9p/eTEkxuCptPkZqqensUoDZu3SJ50ZjPE="
+    }
+  },
+  "Faultier's PBR Sovngarde 1k": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "2.0",
+      "file_id": 692841,
+      "file_name": "Faultier's PBR Sovngarde 1k-125308-2-0-1764497458.7z",
+      "mod_id": 125308,
+      "hash": "sha256-+PMBG0AFxbUB0sWP40obFa23K/C8zM4XxOzlSIY8IK0="
+    }
+  },
+  "Faultier's PBR Windhelm 2k": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "2.0",
+      "file_id": 692844,
+      "file_name": "Faultier's PBR Windhelm 2k-125308-2-0-1764497696.7z",
+      "mod_id": 125308,
+      "hash": "sha256-skNW11+2VM4MS14eMOltS+wgyfn2iaKvTB1Og9WVfE4="
+    }
+  },
+  "Faultier's PBR Windhelm 1k": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "2.0",
+      "file_id": 692846,
+      "file_name": "Faultier's PBR Windhelm 1k-125308-2-0-1764497741.7z",
+      "mod_id": 125308,
+      "hash": "sha256-Tzs+VmtytqQvKAWFAcs4eiCtD8NTZPRNs9iPLApbKVU="
+    }
+  },
+  "Faultier's PBR Landscapes - Dawnguard only 4k": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "2.0.2",
+      "file_id": 692861,
+      "file_name": "Faultier's PBR Landscapes - Dawnguard only 4k-125308-2-0-2-1764500335.7z",
+      "mod_id": 125308,
+      "hash": "sha256-ABbS0CT2HcD8Vh5l7Duqcim92SYI0m31IHzrm8V7PgM="
+    }
+  },
+  "Faultier's PBR Landscapes - Dawnguard only 2k": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "2.0.2",
+      "file_id": 692862,
+      "file_name": "Faultier's PBR Landscapes - Dawnguard only 2k-125308-2-0-2-1764500369.7z",
+      "mod_id": 125308,
+      "hash": "sha256-xOQo17mbIKgMqn+/MIO2jE4ubhPVXin6zSBeXr04SqE="
+    }
+  },
+  "Faultier's PBR Landscapes - Dawnguard only 1k": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "2.0.2",
+      "file_id": 692863,
+      "file_name": "Faultier's PBR Landscapes - Dawnguard only 1k-125308-2-0-2-1764500389.7z",
+      "mod_id": 125308,
+      "hash": "sha256-cWsPPXu8vsgOE0iFQNhx7IL6ZbmFl1nwRerx/5OY4lc="
+    }
+  },
+  "Faultier's PBR Landscapes - Dragonborn only 4k": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "2.0.2",
+      "file_id": 692864,
+      "file_name": "Faultier's PBR Landscapes - Dragonborn only 4k-125308-2-0-2-1764500491.7z",
+      "mod_id": 125308,
+      "hash": "sha256-ZqWXYqbLcMYZ0F2cVOeIimsK5js4JZOUOFA/k1Iuaow="
+    }
+  },
+  "Faultier's PBR Landscapes - Dragonborn only 2k": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "2.0.2",
+      "file_id": 692865,
+      "file_name": "Faultier's PBR Landscapes - Dragonborn only 2k-125308-2-0-2-1764500559.7z",
+      "mod_id": 125308,
+      "hash": "sha256-ITF72cugkMLaHcNUhNrNHPjxk5qKDTtwJZpnhGzBrgo="
+    }
+  },
+  "Faultier's PBR Landscapes - Dragonborn only 1k": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "2.0.2",
+      "file_id": 692866,
+      "file_name": "Faultier's PBR Landscapes - Dragonborn only 1k-125308-2-0-2-1764500578.7z",
+      "mod_id": 125308,
+      "hash": "sha256-ht2Ng3jjqU3HxQXDHR2HdTvXbVbPVGtRI+J6nyeF64I="
+    }
+  }
+}

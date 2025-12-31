@@ -1,0 +1,23 @@
+{
+  "Configurable Notification Messages": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.4.0",
+      "file_id": 413846,
+      "file_name": "Configurable Notification Messages-65573-1-4-0-1691096353.zip",
+      "mod_id": 65573,
+      "hash": "sha256-on4OUcKnRuPEY38X1bWpbDYgTsgrQefX/ZZymViwPuQ="
+    },
+    "type": "primary"
+  },
+  "Configurable Notification Messages- New Game Delay": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.4.1",
+      "file_id": 606102,
+      "file_name": "Configurable Notification Messages- New Game Delay-65573-1-4-1-1742079356.zip",
+      "mod_id": 65573,
+      "hash": "sha256-Z1nFCgy+HzqlDlg24I9CrVYklPB5908E/fyXQdtMytM="
+    }
+  }
+}

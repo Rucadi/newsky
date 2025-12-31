@@ -1,0 +1,56 @@
+{
+  "BadGremlins LotD Fairies": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "SE1",
+      "file_id": 45300,
+      "file_name": "BadGremlins LotD Addon-15092-SE1.7z",
+      "mod_id": 15092,
+      "hash": "sha256-OT1GtL9DPyeX6eZfNdXEy47n5bKX4L+JW+0iik067Lo="
+    },
+    "type": "primary"
+  },
+  "Jars": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "SE1",
+      "file_id": 45301,
+      "file_name": "Jars-15092-SE1.7z",
+      "mod_id": 15092,
+      "hash": "sha256-2P4RxafyYVhE7g7UnN1opCS8p9f06fkTvodVJ/PX6Gg="
+    },
+    "type": "primary"
+  },
+  "Fishys": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "SE1",
+      "file_id": 45302,
+      "file_name": "Fishys-15092-SE1.7z",
+      "mod_id": 15092,
+      "hash": "sha256-G7dmPMnJFo4ZsxR4Tm/4xKkN0YoiPQxiVanOhgBY3LE="
+    },
+    "type": "primary"
+  },
+  "Trophy Heads": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "SE1",
+      "file_id": 45303,
+      "file_name": "Trophy Heads-15092-SE1.7z",
+      "mod_id": 15092,
+      "hash": "sha256-bv5nixhUOsZpFlTOGPs2QbfxDHhYnHd93ZeIOicnoW8="
+    },
+    "type": "primary"
+  },
+  "MERGED ALL 4 BSA VERSION": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "SE1",
+      "file_id": 46133,
+      "file_name": "MERGED ALL 4 BSA VERSION-15092-SE1.7z",
+      "mod_id": 15092,
+      "hash": "sha256-7O70N2aBMM4hlAA6hN0df4ZuFxR0+RM1NxYGuofzCeY="
+    }
+  }
+}

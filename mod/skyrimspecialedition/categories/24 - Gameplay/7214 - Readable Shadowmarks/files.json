@@ -1,0 +1,44 @@
+{
+  "Readable Shadowmarks - Main": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1",
+      "file_id": 17208,
+      "file_name": "Readable Shadowmarks - Main-7214-1-1.rar",
+      "mod_id": 7214,
+      "hash": "sha256-vfyqFSabTT6s1TuVJgK1p8cpdUS1/gB2soHHVhqKz4o="
+    },
+    "type": "primary"
+  },
+  "Readable Shadowmarks - Name only": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1",
+      "file_id": 17210,
+      "file_name": "Readable Shadowmarks - Name only-7214-1-1.rar",
+      "mod_id": 7214,
+      "hash": "sha256-Prz/XgAPbhA5foJFi7aCvN/MK7wHSWa8uxpMMzK7JwY="
+    },
+    "type": "primary"
+  },
+  "Readable Shadowmarks - Open Cities - Main": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1",
+      "file_id": 17296,
+      "file_name": "Readable Shadowmarks - Open Cities - Main-7214-1-1.rar",
+      "mod_id": 7214,
+      "hash": "sha256-Ss7OUOR+41OCu92oDoJHc8bSafAZlkRM4VpF12ptU9M="
+    }
+  },
+  "Readable Shadowmarks - Open Cities - Name only": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1",
+      "file_id": 17299,
+      "file_name": "Readable Shadowmarks - Open Cities - Name only-7214-1-1.rar",
+      "mod_id": 7214,
+      "hash": "sha256-j4ddQJ58PTB8Bca37nydT76/oeNg2B3LjjDqhTrpu7E="
+    }
+  }
+}

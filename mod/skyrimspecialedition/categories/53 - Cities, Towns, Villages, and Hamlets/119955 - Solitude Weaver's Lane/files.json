@@ -1,0 +1,103 @@
+{
+  "Solitude Weaver's Lane - AI Overhaul": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 503440,
+      "file_name": "Solitude Weaver's Lane - AI Overhaul-119955-1-0-1716289167.rar",
+      "mod_id": 119955,
+      "hash": "sha256-4KxTC9G1E4B3mu3fzrpsEEmzW6L5ioNVkP/RhrmqAa4="
+    }
+  },
+  "Solitude Weaver's Lane - Ulvenwald": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 503445,
+      "file_name": "Solitude Weaver's Lane - Ulvenwald-119955-1-0-1716289300.rar",
+      "mod_id": 119955,
+      "hash": "sha256-ICNWx2lFWwTSpwkBo3jW1FlBwq/eku7LhPOLm5DiKTY="
+    }
+  },
+  "Solitude Weaver's Lane - USSEP Tree Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 503475,
+      "file_name": "Solitude Weaver's Lane - USSEP Tree Patch-119955-1-0-1716294838.rar",
+      "mod_id": 119955,
+      "hash": "sha256-cse7itiT2rwsydGiiRovZrPFmSOsCbPVGMja86ILb4A="
+    }
+  },
+  "Solitude Weaver's Lane - Blubbo's Solitude": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 503495,
+      "file_name": "Solitude Weaver's Lane - Blubbo's Solitude-119955-1-0-1716299139.rar",
+      "mod_id": 119955,
+      "hash": "sha256-C2KkWt5s6cfs9qfQeqsQ8OJdT6TfFGT74rZUhMWOMTQ="
+    }
+  },
+  "Solitude Weaver's Lane - Vanilla Hair": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 503528,
+      "file_name": "Solitude Weaver's Lane - Vanilla Hair-119955-1-0-1716305538.rar",
+      "mod_id": 119955,
+      "hash": "sha256-d1dRwWvmznnZoyCBrZ/l4NiIjsnj3XWXLYVAa9I7T6s="
+    }
+  },
+  "Solitude Weaver's Lane - Vanilla Hair AI Overhaul": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 503530,
+      "file_name": "Solitude Weaver's Lane - Vanilla Hair AI Overhaul-119955-1-0-1716305604.rar",
+      "mod_id": 119955,
+      "hash": "sha256-Z2vKMNF+g2WJmoCsxu/hmZRXR4zAgJ46DFMr9taRhT4="
+    }
+  },
+  "Solitude Weaver's Lane - Sol. Decorative Buildings": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 503578,
+      "file_name": "Solitude Weaver's Lane - Sol. Decorative Buildings-119955-1-0-1716311555.rar",
+      "mod_id": 119955,
+      "hash": "sha256-OLfvpj/KVaGZC4QkOkHZKCNfjg68/JAV0+F3iaAFp+0="
+    }
+  },
+  "Solitude Weaver's Lane - More Horses": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 505791,
+      "file_name": "Solitude Weaver's Lane - More Horses-119955-1-0-1716871519.rar",
+      "mod_id": 119955,
+      "hash": "sha256-2txbnJeb8b4U//w/SblJcmMv/PJRdlw3zM0DqW+IcyY="
+    }
+  },
+  "Solitude Weaver's Lane - ELFX Exteriors": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 506478,
+      "file_name": "Solitude Weaver's Lane - ELFX Exteriors-119955-1-0-1717038140.rar",
+      "mod_id": 119955,
+      "hash": "sha256-2wX7sqitBYXtowm1HtIVvTehQ1oFHkkqxxGGBru6mS4="
+    }
+  },
+  "Solitude Weaver's Lane": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.04",
+      "file_id": 643196,
+      "file_name": "Solitude Weaver's Lane-119955-1-04-1751362082.rar",
+      "mod_id": 119955,
+      "hash": "sha256-hB7k6a9XaQNpF1pdiSw4lHwmBso92yxhnBVJxq4H0n8="
+    },
+    "type": "primary"
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "Higher Poly Whiterun Guard Tower Spikes": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.3",
+      "file_id": 373631,
+      "file_name": "Higher Poly Whiterun Guard Tower Spikes SE V1_3-81970-1-3-1680260034.rar",
+      "mod_id": 81970,
+      "hash": "sha256-VcEGvTRIySkHsHQEeZauM5JOKoqaSSHvnGBQzuC42Ns="
+    },
+    "type": "primary"
+  },
+  "Higher Poly Whiterun Guard Tower Spikes - Parallax": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.3",
+      "file_id": 672515,
+      "file_name": "Higher Poly Whiterun Guard Tower Spikes - Parallax-81970-1-3-1759661834.rar",
+      "mod_id": 81970,
+      "hash": "sha256-nXiIzRjEAlu2sRuIxom62yWzssrXrN1wXgAuVbNyRvc="
+    },
+    "type": "primary"
+  }
+}

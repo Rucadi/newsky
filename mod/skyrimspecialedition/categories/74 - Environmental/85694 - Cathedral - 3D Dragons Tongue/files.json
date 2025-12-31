@@ -1,0 +1,76 @@
+{
+  "Cathedral - 3D Dragons Tongue - Uncompressed Resource": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 362903,
+      "file_name": "Cathedral - 3D Dragons Tongue - Uncompressed Resource-85694-1-0-1677253306.zip",
+      "mod_id": 85694,
+      "hash": "sha256-kc+3KV5GSjv9PVydRR8PrVKN2lwKq2QT8G1bm5V/CFo="
+    }
+  },
+  "Cathedral - 3D Dragons Tongue - White": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 362912,
+      "file_name": "Cathedral - 3D Dragons Tongue-85694-1-0-1677253894.zip",
+      "mod_id": 85694,
+      "hash": "sha256-n9yLf+CAq3JiD4/MVWGDLAt5x3AsSmpb7rRl0STcZrU="
+    },
+    "type": "primary"
+  },
+  "Cathedral - 3D Dragons Tongue - Orange -  Uncompressed Resource": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1",
+      "file_id": 363165,
+      "file_name": "Cathedral - 3D Dragons Tongue - Orange -  Uncompressed Resource-85694-1-1-1677323114.zip",
+      "mod_id": 85694,
+      "hash": "sha256-Tn5BntyVgYZfmfWK3eGgT5wR+a49VWB7YlqqNmeIhrc="
+    }
+  },
+  "Cathedral - 3D Dragons Tongue - Orange": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1",
+      "file_id": 363168,
+      "file_name": "Cathedral - 3D Dragons Tongue - Orange-85694-1-1-1677323407.zip",
+      "mod_id": 85694,
+      "hash": "sha256-d0LEeyaift6XhTri4Bg2d8YOmABt+CZ6m25n6AZgt14="
+    },
+    "type": "primary"
+  },
+  "Cathedral - 3D Dragons Tongue -  Dark Orange - Uncompressed": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.2",
+      "file_id": 363179,
+      "file_name": "Cathedral - 3D Dragons Tongue -  Dark Orange - Uncompressed-85694-1-2-1677328274.zip",
+      "mod_id": 85694,
+      "hash": "sha256-FmN7E25PLeyDdRyVClW8PjeNIPHY/WTp2p8D8vIQeTk="
+    }
+  },
+  "Cathedral - 3D Dragons Tongue - Dark Orange": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.2",
+      "file_id": 363180,
+      "file_name": "Cathedral - 3D Dragons Tongue - Dark Orange-85694-1-2-1677328513.zip",
+      "mod_id": 85694,
+      "hash": "sha256-1RvrnIfTVZAstgqh9r3uAjw9Q7ZlzKcnOQmNndbw2Rs="
+    },
+    "type": "primary"
+  },
+  "Cathedral - 3D Dragons Tongue - White Violet": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.3",
+      "file_id": 363189,
+      "file_name": "Cathedral - 3D Dragons Tongue - White Violet-85694-1-3-1677329495.zip",
+      "mod_id": 85694,
+      "hash": "sha256-IaBEKJmN4Vt6N4n9OJK7PLfVkrZMQdC10uuWyqvO60E="
+    },
+    "type": "primary"
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "Court Fashions - Optional ESP": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.02",
+      "file_id": 489123,
+      "file_name": "Optional ESP-116231-1-02-1712702257.7z",
+      "mod_id": 116231,
+      "hash": "sha256-YP9cJP+JfH4ZZKvjmmNwVKqDEcIZEQ5whMrAEl4ZWeE="
+    }
+  },
+  "Court Fashions - SPID Version": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.02",
+      "file_id": 489596,
+      "file_name": "Court Fashions-116231-1-02-1712842628.7z",
+      "mod_id": 116231,
+      "hash": "sha256-y7He4c9ArzWgzrPc84GJo+zcA1GQ/SFmPsR1jzXcOO4="
+    },
+    "type": "primary"
+  },
+  "Court FashVANILLA VERSION - main file not required": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.02",
+      "file_id": 489894,
+      "file_name": "VANILLA VERSION - main file not required-116231-1-02-1712923090.7z",
+      "mod_id": 116231,
+      "hash": "sha256-oI2/KTeJKEkT3nqLlgPUsElYy3duZZXcycHgoWPlD0k="
+    }
+  },
+  "Court Fashions - Skypatcher Version": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "2",
+      "file_id": 497735,
+      "file_name": "Skypatcher Version-116231-2-1714829658.7z",
+      "mod_id": 116231,
+      "hash": "sha256-G14DNR21PNqA1STmgNlx2LOMcN+cQNfziaJHjOANmrw="
+    },
+    "type": "primary"
+  }
+}

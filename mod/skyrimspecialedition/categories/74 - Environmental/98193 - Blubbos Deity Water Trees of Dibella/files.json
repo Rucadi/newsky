@@ -1,0 +1,32 @@
+{
+  "Blubbos_Deity_Water_Trees_of_Dibella_FullLOD.zip": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 416654,
+      "file_name": "Blubbos_Deity_Water_Trees_of_Dibella_FullLOD.zip-98193-1-0-1691934700.zip",
+      "mod_id": 98193,
+      "hash": "sha256-EIg4L/O4zeDMAlNQY8LPFi3HkvZzLwH/nL4wIZbvnqc="
+    }
+  },
+  "Blubbos_Deity_Water_Trees_of_Dibella.zip": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 416655,
+      "file_name": "Blubbos_Deity_Water_Trees_of_Dibella.zip-98193-1-0-1691934791.zip",
+      "mod_id": 98193,
+      "hash": "sha256-MBBXeFthnqYNEwpf1Q/y5c4sLqrCfIWCOIx3D1dmkWc="
+    }
+  },
+  "Blubbos_Deity_Water_ToD_Esl_patch.zip": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1",
+      "file_id": 416805,
+      "file_name": "Blubbos_Deity_Water_ToD_Esl_patch.zip-98193-1-1-1691961441.zip",
+      "mod_id": 98193,
+      "hash": "sha256-CV03+fbu/5te85jdFSaO9LJPPbJ3U1IJgNaCX0SbaF0="
+    }
+  }
+}

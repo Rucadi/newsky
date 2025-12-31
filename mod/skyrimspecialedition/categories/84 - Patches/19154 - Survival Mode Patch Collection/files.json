@@ -1,0 +1,145 @@
+{
+  "Survival Mode Patch 08 - ETAC OLD 14.3.1": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1",
+      "file_id": 63295,
+      "file_name": "Survival Mode Patch 08 - ETAC OLD 14.3.1-19154-1-1.rar",
+      "mod_id": 19154,
+      "hash": "sha256-mJCypjSwG+69auqPIP0u4ogIIIEkRj+se0tfXKHEwM0="
+    },
+    "type": "primary"
+  },
+  "Survival Mode Patch 12 - Be a Milk Drinker": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 66084,
+      "file_name": "Survival Mode Patch 11 - Be a Milk Drinker-19154-1-0.zip",
+      "mod_id": 19154,
+      "hash": "sha256-PmOEwI/v2S2QKfxNg58/thVi050JSu81PnYZzHr1yI4="
+    },
+    "type": "primary"
+  },
+  "Survival Mode Patch 06 - Morrowloot Ultimate": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 66086,
+      "file_name": "Survival Mode Patches - Morrowloot Ultimate-19154-1-0.zip",
+      "mod_id": 19154,
+      "hash": "sha256-6Wvd2SQ34JF6uvIf/lp6M4doYY67sdf6PA+i+FFhftA="
+    },
+    "type": "primary"
+  },
+  "Survival Mode Patch 05 - Zim Artifacts": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 66087,
+      "file_name": "Survival Mode Patches - Zim Artifacts-19154-1-0.zip",
+      "mod_id": 19154,
+      "hash": "sha256-0PTqP51CpenFnN0ZhztYBBpaqyAhO9HXFJkcJF6QVcg="
+    },
+    "type": "primary"
+  },
+  "Survival Mode Patch 10 - Riften Fish Market": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 66088,
+      "file_name": "Survival Mode Patch 5 - Riften Fish Market-19154-1-0.zip",
+      "mod_id": 19154,
+      "hash": "sha256-yWSztFa4Cya7V3iw7H0Xh1QDbVQ4yCs3s2dkOCVCtkY="
+    },
+    "type": "primary"
+  },
+  "Survival Mode Patch 09 - Amidianborn Content Addon": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 66089,
+      "file_name": "Survival Mode Patch 09 - Amidianborn Content Addon-19154-1-0.zip",
+      "mod_id": 19154,
+      "hash": "sha256-i21pPFn0wibBswl5MSBoqHB5JPjTjkpiw7tJkuCvyJQ="
+    },
+    "type": "primary"
+  },
+  "Survival Mode Patch 04  - Beasts of Tamriel": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 66090,
+      "file_name": "Survival Mode Patch 04  - Beasts of Tamriel-19154-1-0.zip",
+      "mod_id": 19154,
+      "hash": "sha256-Pex+ou+IifoUvhNxRJs10P7DhFMT27M2GCjSPFMaG8Y="
+    },
+    "type": "primary"
+  },
+  "Survival Mode Patch 07 - MLU and Zim Artifacts": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 66091,
+      "file_name": "Survival Mode Patch 07 - MLU and Zim Artifacts-19154-1-0.zip",
+      "mod_id": 19154,
+      "hash": "sha256-UI7uq96YTdLHYnQpqbU5o7qa7e79qOm1KRm/Xf0RUJA="
+    },
+    "type": "primary"
+  },
+  "Survival Mode Patch 01 - Cloaks Of Skyrim": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 66092,
+      "file_name": "Survival Mode Patch 01 - Cloaks Of Skyrim-19154-1-0.zip",
+      "mod_id": 19154,
+      "hash": "sha256-taVkNDDY3HzF6/GLHB+cfoYYu+2BFreTh0LGl/VV/O0="
+    },
+    "type": "primary"
+  },
+  "Survival Mode Patch 02 - Winter Is Coming": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 66093,
+      "file_name": "Survival Mode Patch 2 - Winter Is Coming0-19154-1-0.zip",
+      "mod_id": 19154,
+      "hash": "sha256-oIePiIWICzMo9FGrMN/04UdZ6aEdhUgSZ6ydeZrJHGA="
+    },
+    "type": "primary"
+  },
+  "Survival Mode Patch 13 - Google's ESO Provisioning": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 66095,
+      "file_name": "Survival Mode Patch 13 - Google's ESO Provisioning-19154-1-0.zip",
+      "mod_id": 19154,
+      "hash": "sha256-0mUbns+KOSxJn3SXRnb67Ey7f5Oj2XdVYRglP3PlxGA="
+    },
+    "type": "primary"
+  },
+  "Survival Mode Patch 03 - Campfire": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 66101,
+      "file_name": "Survival Mode Patch 03 - Campfire-19154-1-0.zip",
+      "mod_id": 19154,
+      "hash": "sha256-pcH8yjcq2wBcpERY2QFHcqKtptdXjYFCSU7Kzp207gc="
+    },
+    "type": "primary"
+  },
+  "Survival Mode Patch 14 - HDT WIC and Cloaks of Skyrim": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 349444,
+      "file_name": "Survival Mode Patch 14 - HDT WIC and Cloaks of Skyrim-19154-1-0-1673712741.rar",
+      "mod_id": 19154,
+      "hash": "sha256-NUPqMBUXq78BHDFA1xUV1SwoDrLvI5/BU4GYu+r/wzc="
+    },
+    "type": "primary"
+  }
+}

@@ -1,0 +1,64 @@
+{
+  "Enhanced Ore Veins - 2K - 9.0.1": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "9.0.1",
+      "file_id": 246044,
+      "file_name": "Enhanced Ore Veins - 2K - 9.0.1-1306-9-0-1-1638445071.7z",
+      "mod_id": 1306,
+      "hash": "sha256-i+zw3ll5hLe8xZSfuRdCaXeFZf+9S3vSTsW+g2rpExE="
+    },
+    "type": "primary"
+  },
+  "Enhanced Ore Veins - 4K - 9.0.1": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "9.0.1",
+      "file_id": 246045,
+      "file_name": "Enhanced Ore Veins - 4K - 9.0.1-1306-9-0-1-1638445445.7z",
+      "mod_id": 1306,
+      "hash": "sha256-FvGteFbTIRLfyWk8WOAMl5djLF1/TAwURZTFE/ZswpU="
+    },
+    "type": "primary"
+  },
+  "Enhanced Ore Veins - Legacy - 4K - 8.0": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "8.0",
+      "file_id": 246980,
+      "file_name": "Enhanced Ore Veins - Legacy - 4K - 8.0-1306-8-0-1638771511.7z",
+      "mod_id": 1306,
+      "hash": "sha256-BSipqb+/RVHJCh/+VXDl/cw8s1zvypCohePCYVtVpKc="
+    }
+  },
+  "Enhanced Ore Veins - Legacy - 2K - 8.0": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "8.0",
+      "file_id": 246981,
+      "file_name": "Enhanced Ore Veins - Legacy - 2K - 8.0-1306-8-0-1638771592.7z",
+      "mod_id": 1306,
+      "hash": "sha256-94ZOC0RqjFYADRlSO4S0Jm4+AjRDddU1uwNgz74NBzE="
+    }
+  },
+  "Enhanced Ore Veins - Legacy - 2K - 8.0.2 - Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "8.0.2",
+      "file_id": 247093,
+      "file_name": "Enhanced Ore Veins - Legacy - 2K - 8.0.2 - Patch-1306-8-0-2-1638824103.7z",
+      "mod_id": 1306,
+      "hash": "sha256-gi6xxsBx7kayjBSYg21iNBZ57cPLwXxDMVtLd124vPU="
+    }
+  },
+  "Enhanced Ore Veins - Legacy - 4K - 8.0.2 - Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "8.0.2",
+      "file_id": 247094,
+      "file_name": "Enhanced Ore Veins - Legacy - 4K - 8.0.2 - Patch-1306-8-0-2-1638824263.7z",
+      "mod_id": 1306,
+      "hash": "sha256-/Yhr6hNSoFQoBojRv9qNZ9nTngGdkFsCaZ7rpdHGHCk="
+    }
+  }
+}

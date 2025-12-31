@@ -1,0 +1,34 @@
+{
+  "Break The Lock - Explosive Barrel - OIF": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1",
+      "file_id": 647459,
+      "file_name": "Break The Lock - Explosive Barrel - OIF-154901-1-1-1752592484.7z",
+      "mod_id": 154901,
+      "hash": "sha256-dSBzlxAdN9k8Phl6YnQb62rJ84jU50Wljflr5XTFU3s="
+    }
+  },
+  "Break The Lock - OIF - Zhitsak Version": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.3",
+      "file_id": 659254,
+      "file_name": "Break The Lock - OIF - Zhitsak Version-154901-1-3-1756167529.7z",
+      "mod_id": 154901,
+      "hash": "sha256-PiGwKRZbotNSl9pwDj8ag0aTDoogpCelYshcZNmR/R0="
+    },
+    "type": "primary"
+  },
+  "Break The Lock - OIF": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.3.1",
+      "file_id": 660397,
+      "file_name": "Break The Lock - OIF-154901-1-3-1-1756491645.7z",
+      "mod_id": 154901,
+      "hash": "sha256-gv0p3SwrJBf6+7LEgPE+7+/tnd94Wd9xcKpEXk0XhU4="
+    },
+    "type": "primary"
+  }
+}

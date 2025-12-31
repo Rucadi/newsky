@@ -1,0 +1,46 @@
+{
+  "Stendarr Rising - Obscure Magic - Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 464915,
+      "file_name": "Stendarr Rising - Obscure Magic - Patch-110135-1-0-1706254553.zip",
+      "mod_id": 110135,
+      "hash": "sha256-KzXeD6Se3vkrucM/400CDO4EhpPb+Obx6apuyPF7xvM="
+    },
+    "type": "primary"
+  },
+  "Stendarr Rising - CACO - Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 465646,
+      "file_name": "Stendarr Rising - CACO - Patch-110135-1-0-1706447505.zip",
+      "mod_id": 110135,
+      "hash": "sha256-/PvBftiiL7GlgKm8odjWJIr0MedSMZdPOiYr/oDncFE="
+    },
+    "type": "primary"
+  },
+  "Stendarr Rising - Obscure Magic - CACO - Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 465647,
+      "file_name": "Stendarr Rising - Obscure Magic - CACO - Patch-110135-1-0-1706447524.zip",
+      "mod_id": 110135,
+      "hash": "sha256-8k6kmif90I0F5zXZgzrVojrLw3PwbUtmhCIVcyDJLIk="
+    },
+    "type": "primary"
+  },
+  "Stendarr Rising - Undeath - Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 465649,
+      "file_name": "Stendarr Rising - Undeath - Patch-110135-1-0-1706447568.zip",
+      "mod_id": 110135,
+      "hash": "sha256-NVM9is0U962hiVhVvEYklCjNKACN2DmlCHsI6bvkG84="
+    },
+    "type": "primary"
+  }
+}

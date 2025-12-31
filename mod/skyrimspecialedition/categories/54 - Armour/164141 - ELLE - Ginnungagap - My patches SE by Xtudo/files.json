@@ -1,0 +1,65 @@
+{
+  "Ginnungagap - SE by Xtudo - My Tweaks": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1",
+      "file_id": 686071,
+      "file_name": "Ginnungagap - SE by Xtudo - My Tweaks-164141-1-1762780342.7z",
+      "mod_id": 164141,
+      "hash": "sha256-ZQN+hRPtJeQOrFVs+kyGebnBJmEvD6Ew4jvvPSrCk60="
+    },
+    "type": "primary"
+  },
+  "Ginnungagap - SE by Xtudo - My Tweaks CBBE": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1",
+      "file_id": 686072,
+      "file_name": "Ginnungagap - SE by Xtudo - My Tweaks CBBE-164141-1-1762780359.7z",
+      "mod_id": 164141,
+      "hash": "sha256-uT5BH+X0gynzAWKXLo5uMdy9W4v2z3AKObc+EUQ50ks="
+    },
+    "type": "primary"
+  },
+  "Ginnungagap - SE by Xtudo - My Tweaks UNP": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1",
+      "file_id": 686073,
+      "file_name": "Ginnungagap - SE by Xtudo - My Tweaks UNP-164141-1-1762780375.7z",
+      "mod_id": 164141,
+      "hash": "sha256-WWn9oqVvmlPgw1U45d54IFAXmhoxF6Nc+I82uxLg6EA="
+    },
+    "type": "primary"
+  },
+  "Ginnungagap - SE by Xtudo - Textures 2K": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1",
+      "file_id": 686074,
+      "file_name": "Ginnungagap - SE by Xtudo - Textures 2K-164141-1-1762780397.7z",
+      "mod_id": 164141,
+      "hash": "sha256-TUGl7b9F0TYD+mvEIfUhnEJMXf2UFtUVEqqe/e+Six8="
+    }
+  },
+  "Ginnungagap - SE by Xtudo - Textures 1K": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1",
+      "file_id": 686076,
+      "file_name": "Ginnungagap - SE by Xtudo - Textures 1K-164141-1-1762780409.7z",
+      "mod_id": 164141,
+      "hash": "sha256-IZ7E/PP2WPu0QsqcKd3mtSsqpWWGOikldQaZ1Wzwa3M="
+    }
+  },
+  "Ginnungagap - SE by Xtudo - Heels Sound patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1",
+      "file_id": 686077,
+      "file_name": "Ginnungagap - SE by Xtudo - Heels Sound patch-164141-1-1762780429.7z",
+      "mod_id": 164141,
+      "hash": "sha256-FvAJoN/4pP01/i50Yvna8JwkEli8AKQwHvgmdUkPLrE="
+    }
+  }
+}

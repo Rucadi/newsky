@@ -1,0 +1,365 @@
+{
+  "Improved Dwemer Glass PBR": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 586770,
+      "file_name": "Improved Dwemer Glass PBR-139889-1-0-1737709053.rar",
+      "mod_id": 139889,
+      "hash": "sha256-5+odlDu+8OO38n2HA4uStj/ekq3C38l5XNKJ1zGLd0g="
+    },
+    "type": "primary"
+  },
+  "Lavatera Armor PBR": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 586780,
+      "file_name": "Lavatera Armor PBR-139889-1-0-1737711868.rar",
+      "mod_id": 139889,
+      "hash": "sha256-3pug7FpuAoWQsxB6YOgc7fsX8rxFpGpdcDZoVRCWkIw="
+    },
+    "type": "primary"
+  },
+  "Thrones Expanded PBR": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 586797,
+      "file_name": "Thrones Expanded PBR-139889-1-0-1737716989.rar",
+      "mod_id": 139889,
+      "hash": "sha256-ihfqKkOI/v2hzk/2d4wMf96x/aBl52PTTwDpSxIqj6U="
+    },
+    "type": "primary"
+  },
+  "Lollygaggin' PBR": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 590895,
+      "file_name": "Lollygaggin' PBR-139889-1-0-1738651460.rar",
+      "mod_id": 139889,
+      "hash": "sha256-8UJA6CqSGMZOO+3bXZGCpQn3MXEoyHcGImNZe01kQbo="
+    },
+    "type": "primary"
+  },
+  "Art's Solitude Streets PBR": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 596190,
+      "file_name": "Art's Solitude Streets PBR-139889-1-0-1739864681.rar",
+      "mod_id": 139889,
+      "hash": "sha256-qQFPXiEsFz8aDHD0AnkUfwzTLy3AUvJD5dK5UMmtJBA="
+    },
+    "type": "primary"
+  },
+  "Praedy's Skeleton Replacer HD PBR": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 597195,
+      "file_name": "Praedys Skeleton Replacer HD PBR-139889-1-0-1740118841.rar",
+      "mod_id": 139889,
+      "hash": "sha256-xDJWMkGediDfuCZk96NF1ySfpP+VmsC4nl1JqX7R4lA="
+    },
+    "type": "primary"
+  },
+  "Underground PBR": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 600314,
+      "file_name": "Underground PBR-139889-1-0-1740805956.7z",
+      "mod_id": 139889,
+      "hash": "sha256-WqipjwODc1KqV5Mym22WbSNcrft9CoCSe2PtrZI3AY4="
+    },
+    "type": "primary"
+  },
+  "Scale Nord Armor PBR": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 607288,
+      "file_name": "Scale Nord Armor PBR-139889-1-0-1742357076.7z",
+      "mod_id": 139889,
+      "hash": "sha256-ftaFNqqAAWvJ0AF5iVSlJG0wYYJaNg+FNuNnnFqr3YA="
+    },
+    "type": "primary"
+  },
+  "Detailed Rugs PBR": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 612336,
+      "file_name": "Detailed Rugs PBR-139889-1-0-1743468014.7z",
+      "mod_id": 139889,
+      "hash": "sha256-saWCHbgfPfmZtjJ0rcnfsg9tpk+UetM6FTElcKMGOuI="
+    },
+    "type": "primary"
+  },
+  "Northern Roads PBR": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0.2",
+      "file_id": 613937,
+      "file_name": "Northern Roads PBR-139889-1-0-2-1743811212.7z",
+      "mod_id": 139889,
+      "hash": "sha256-seQlYfUltvGyZsCC69Yt9Fm3HPxKL2xhB5aSjGh3vtM="
+    },
+    "type": "primary"
+  },
+  "Bellyache's Animal and Creature Pack PBR": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0.1",
+      "file_id": 619770,
+      "file_name": "Bellyache's Animal and Creature Pack PBR-139889-1-0-1-1745243932.7z",
+      "mod_id": 139889,
+      "hash": "sha256-sfLPZagP7zv6kgHSxCUB1tqE6GpC2HZU59H4hrtWVkQ="
+    },
+    "type": "primary"
+  },
+  "Embers XD PBR": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0.0",
+      "file_id": 635042,
+      "file_name": "Embers XD PBR-139889-1-0-0-1749170069.7z",
+      "mod_id": 139889,
+      "hash": "sha256-+pszrvH5zO//20YRuHMKiRVPxgl+zrMPGkUSTJaQHwM="
+    },
+    "type": "primary"
+  },
+  "Peacekeeper Armour PBR": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0.1",
+      "file_id": 644715,
+      "file_name": "Peacekeeper Armour PBR-139889-1-0-1-1751811897.7z",
+      "mod_id": 139889,
+      "hash": "sha256-FtlI1HQtgNnQwK30PTO4NhguWu/GwfYEpncm0jXcGrs="
+    },
+    "type": "primary"
+  },
+  "Reinforced Civil War Camps PBR": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0.2",
+      "file_id": 646303,
+      "file_name": "Reinforced Civil War Camps PBR-139889-1-0-2-1752308452.7z",
+      "mod_id": 139889,
+      "hash": "sha256-OaAARS3nbN9vNXb7yvW/FRnbdxfnIMCi2NL3Vo4Ov4k="
+    },
+    "type": "primary"
+  },
+  "Iconic Statues PBR": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0.0",
+      "file_id": 648969,
+      "file_name": "Iconic Statues PBR-139889-1-0-0-1753082403.7z",
+      "mod_id": 139889,
+      "hash": "sha256-PNUtXSVIf5sJRixJiY+wuEjA/WdGUY+3hbCDRBS9Bm4="
+    },
+    "type": "primary"
+  },
+  "Steel Battleaxe Of Fiery Souls PBR": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0.0",
+      "file_id": 649213,
+      "file_name": "Steel Battleaxe Of Fiery Souls PBR-139889-1-0-0-1753167355.7z",
+      "mod_id": 139889,
+      "hash": "sha256-fdDkhptMq7KLpHC1No0PV+q0PPoSfngzxtivdvLuelI="
+    },
+    "type": "primary"
+  },
+  "Daedric Shrines PBR": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0.3",
+      "file_id": 649798,
+      "file_name": "Daedric Shrines PBR-139889-1-0-3-1753358796.7z",
+      "mod_id": 139889,
+      "hash": "sha256-V0HOq2ztYQQhqdKp7DT1vRmCCc6dFuVh+CIgCoOnlro="
+    },
+    "type": "primary"
+  },
+  "Dibella Statue PBR": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0.3",
+      "file_id": 649799,
+      "file_name": "Dibella Statue PBR-139889-1-0-3-1753358849.7z",
+      "mod_id": 139889,
+      "hash": "sha256-K/FcmQVUCYWwlqfFxU7Z0Bwnd1TOryNtHpfi1l1qx8Q="
+    },
+    "type": "primary"
+  },
+  "Statue of Kynareth PBR": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0.3",
+      "file_id": 649800,
+      "file_name": "Statue of Kynareth PBR-139889-1-0-3-1753358895.7z",
+      "mod_id": 139889,
+      "hash": "sha256-zi/aG7tTxz7M/S1N6SWnV3LO8e1cdN0njDfrHVYQcjI="
+    },
+    "type": "primary"
+  },
+  "Statue of Mara PBR": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0.3",
+      "file_id": 649801,
+      "file_name": "Statue of Mara PBR-139889-1-0-3-1753358921.7z",
+      "mod_id": 139889,
+      "hash": "sha256-umASutcTpFtQS2dEiv89iVtDf0jt0+5vbYysSwkyI+g="
+    },
+    "type": "primary"
+  },
+  "Ebony Knight Armor PBR": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0.0",
+      "file_id": 655531,
+      "file_name": "Ebony Knight Armor PBR-139889-1-0-0-1755186763.7z",
+      "mod_id": 139889,
+      "hash": "sha256-mfOVo6SsVcatxipehaNHJcbk8quqjCtBYrHI47AW0nk="
+    },
+    "type": "primary"
+  },
+  "Elite Wolf Armor PBR": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0.0",
+      "file_id": 655532,
+      "file_name": "Elite Wolf Armor PBR-139889-1-0-0-1755186797.7z",
+      "mod_id": 139889,
+      "hash": "sha256-+EMcoJnt+ZCbkZk0VE1BUi6S8+dmH87Kpdfk1nQfnsU="
+    },
+    "type": "primary"
+  },
+  "The Southbound Scouts PBR": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0.0",
+      "file_id": 656076,
+      "file_name": "The Southbound Scouts PBR-139889-1-0-0-1755325215.7z",
+      "mod_id": 139889,
+      "hash": "sha256-t7tKA53/fHdLGRFF3q3jpFAWM5e7xdJ/9uPc2HhDnfo="
+    },
+    "type": "primary"
+  },
+  "Freehand Armour PBR": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0.0",
+      "file_id": 656629,
+      "file_name": "Freehand Armour PBR-139889-1-0-0-1755450966.7z",
+      "mod_id": 139889,
+      "hash": "sha256-H+ji98wiE/CuO/PV31q7pjRFFshewe5gylFTSR3rz9s="
+    },
+    "type": "primary"
+  },
+  "Praedy's College of Winterhold PBR": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1.0",
+      "file_id": 657763,
+      "file_name": "Praedys College of Winterhold PBR-139889-1-1-0-1755771455.7z",
+      "mod_id": 139889,
+      "hash": "sha256-CbmVtQDypXVJdCafw2Rik1JsARH27LGge5kZBrhY3Wo="
+    },
+    "type": "primary"
+  },
+  "Praedy's Soul Cairn - PBR": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0.1",
+      "file_id": 658045,
+      "file_name": "Praedy's Soul Cairn - PBR-139889-1-0-1-1755847073.7z",
+      "mod_id": 139889,
+      "hash": "sha256-k634hF6HerUprCKvofCXfmdDuFQwUZ4CLXUVYbp8IWw="
+    },
+    "type": "primary"
+  },
+  "DX Dark Knight Armor PBR": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0.0",
+      "file_id": 662884,
+      "file_name": "DX Dark Knight Armor PBR-139889-1-0-0-1757168670.7z",
+      "mod_id": 139889,
+      "hash": "sha256-lrxaJ/u9egqmmRrZFLA+9Nu8KGZcQH5BJbpovrL9+VY="
+    },
+    "type": "primary"
+  },
+  "BS Bruma - Adamantium PBR": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0.0",
+      "file_id": 663253,
+      "file_name": "BS Bruma - Adamantium PBR-139889-1-0-0-1757246828.7z",
+      "mod_id": 139889,
+      "hash": "sha256-jxmy1Q8/Pl0QEcR3sRp+hrsgHPTcyoLy93nACSIy+Yk="
+    },
+    "type": "primary"
+  },
+  "Praedy's Castle Volkihar - PBR": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0.0",
+      "file_id": 666386,
+      "file_name": "Praedy's Castle Volkihar - PBR-139889-1-0-0-1758034459.7z",
+      "mod_id": 139889,
+      "hash": "sha256-gWCyuLl4VdYrNqglYJHuT+7K1g7M2cLHtlCtZ8fVhdM="
+    },
+    "type": "primary"
+  },
+  "Praedy's Fort Dawnguard - PBR": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0.0",
+      "file_id": 666387,
+      "file_name": "Praedy's Fort Dawnguard - PBR-139889-1-0-0-1758034483.7z",
+      "mod_id": 139889,
+      "hash": "sha256-i7iRC+//wZWBze/pjWo3XpKrIyUtSaslopS/l1kBAug="
+    },
+    "type": "primary"
+  },
+  "Golden Dwemer Pipeworks PBR": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0.0",
+      "file_id": 673904,
+      "file_name": "Golden Dwemer Pipeworks PBR-139889-1-0-0-1760009574.7z",
+      "mod_id": 139889,
+      "hash": "sha256-neQj4Sks1oCc/huZnPN767kJ3o4snL4GWlYD/lfXlvI="
+    },
+    "type": "primary"
+  },
+  "Praedy's Apocrypha - PBR": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0.0",
+      "file_id": 674132,
+      "file_name": "Praedy's Apocrypha - PBR-139889-1-0-0-1760070026.7z",
+      "mod_id": 139889,
+      "hash": "sha256-ORge8z60h9xupYPQzOMRNL0LV0xX+P7Jc9neXT+yZXU="
+    },
+    "type": "primary"
+  },
+  "Praedy's Chantry of Auriel - PBR": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0.0",
+      "file_id": 701600,
+      "file_name": "Praedy's Chantry of Auriel - PBR-139889-1-0-0-1766575240.7z",
+      "mod_id": 139889,
+      "hash": "sha256-PK4nZf70bgftnBO4YpYFytP7Iam6XbP7NihZb0eBuLE="
+    },
+    "type": "primary"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "Wildcat - Realistic Damage Plugin": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "",
+      "file_id": 19515,
+      "file_name": "Wildcat - Realistic Damage Plugin-1368-.zip",
+      "mod_id": 1368,
+      "hash": "sha256-2IYvvoCq2mc5jvTvN8pPxOfdy3mbQFhtTeDMCLyUFjs="
+    }
+  },
+  "Wildcat 7.1.0": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "7.1.0",
+      "file_id": 460920,
+      "file_name": "Wildcat 7.1.0-1368-7-1-0-1705146846.zip",
+      "mod_id": 1368,
+      "hash": "sha256-NDjOLRiIJnA9ACZvcUc3wivDrmb88M4RRMWikX/0kpo="
+    },
+    "type": "primary"
+  }
+}

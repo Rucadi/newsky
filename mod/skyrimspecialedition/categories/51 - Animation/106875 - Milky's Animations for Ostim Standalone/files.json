@@ -1,0 +1,24 @@
+{
+  "Wall furniture alignment json": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1",
+      "file_id": 451406,
+      "file_name": "Wall furniture alignment json-106875-1-1702460627.zip",
+      "mod_id": 106875,
+      "hash": "sha256-DsKrhsZse6KJzxs3Afzo02v1pklzQc9+RWMRJrAxnYc="
+    },
+    "type": "primary"
+  },
+  "Milky's Animations for Ostim Standalone": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1",
+      "file_id": 451415,
+      "file_name": "Milky's Animations for Ostim Standalone-106875-1-1702468653.zip",
+      "mod_id": 106875,
+      "hash": "sha256-HvcsfvDDo2HIDYJapQhtxYjBmy9xz9QKxcNZGOEakSk="
+    },
+    "type": "primary"
+  }
+}

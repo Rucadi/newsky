@@ -1,0 +1,43 @@
+{
+  "radiant raiment merchant list": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1",
+      "file_id": 564608,
+      "file_name": "radiant raiment merchant list-134088-1-1-1732208003.zip",
+      "mod_id": 134088,
+      "hash": "sha256-WJmZRd7Ntc8ekfAyDbe9gqx8dIyrDeJB/d855/5Gs1k="
+    }
+  },
+  "Crafting recipes": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.2",
+      "file_id": 564972,
+      "file_name": "Crafting recipes-134088-1-2-1732305443.7z",
+      "mod_id": 134088,
+      "hash": "sha256-zjXVI/KOOH4iURARPSO6NZwNkrDhPtf+xsFNd9IRMiM="
+    }
+  },
+  "SPID distribution": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1",
+      "file_id": 565673,
+      "file_name": "SPID distribution-134088-1-1-1732474758.zip",
+      "mod_id": 134088,
+      "hash": "sha256-n0uXWAdEUD7RVvaRPRLaAVthJVrP33Jhha0ACPWiiMQ="
+    }
+  },
+  "Common Clothing Expansion": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.7",
+      "file_id": 574611,
+      "file_name": "Common Clothing Expansion-134088-1-7-1734795059.zip",
+      "mod_id": 134088,
+      "hash": "sha256-Y7nK5UhvQSdfFsuYWgWj+MkGC3czvpPb5pt+XxnB1HA="
+    },
+    "type": "primary"
+  }
+}

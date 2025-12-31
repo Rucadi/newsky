@@ -1,0 +1,23 @@
+{
+  "Blood Wraiths  2K": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 108179,
+      "file_name": "Blood Wraiths  2K-29254-1-0-1569415400.zip",
+      "mod_id": 29254,
+      "hash": "sha256-1AmiEI5IZ0bKlHpWooCjr4eAlyFFZdscxCg49uqVAq8="
+    }
+  },
+  "Ice Wraiths 2K": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 108180,
+      "file_name": "Ice Wraiths 2K-29254-1-0-1569416227.zip",
+      "mod_id": 29254,
+      "hash": "sha256-vqlasc9apvGEMVjGEtqvHsywgECuysfWFFMa2Rxbahg="
+    },
+    "type": "primary"
+  }
+}

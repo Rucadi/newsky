@@ -1,0 +1,23 @@
+{
+  "HD Bees and Honeycombs": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 131275,
+      "file_name": "HD Bees and Honeycombs-34163-1-0-1585505303.rar",
+      "mod_id": 34163,
+      "hash": "sha256-pbsAAXl0dhPZA4y1vkDtsodPXveQEYE7rBT5Lm4jDeQ="
+    },
+    "type": "primary"
+  },
+  "Tiny Bees": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 132643,
+      "file_name": "Tiny Bees-34163-1-0-1586124688.rar",
+      "mod_id": 34163,
+      "hash": "sha256-Qm59L8K3WZOulKNTwo/c2AbLODkl053d+IHVG3G0faQ="
+    }
+  }
+}

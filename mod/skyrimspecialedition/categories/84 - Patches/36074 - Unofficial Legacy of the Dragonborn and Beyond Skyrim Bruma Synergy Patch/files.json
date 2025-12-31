@@ -1,0 +1,53 @@
+{
+  "Unofficial LotD and BSB Synergy Patch - Standalone": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.13",
+      "file_id": 521652,
+      "file_name": "Unofficial LotD and BSB Synergy Patch - Standalone-36074-1-13-1721080992.7z",
+      "mod_id": 36074,
+      "hash": "sha256-HwtAtFzaYo581+G/tWTeBs6j0qHkDoBztn8hfIwAEJQ="
+    }
+  },
+  "Unofficial LotD and BSB Synergy Patch - TCC": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.13",
+      "file_id": 521654,
+      "file_name": "Unofficial LotD and BSB Synergy Patch - TCC-36074-1-13-1721081098.7z",
+      "mod_id": 36074,
+      "hash": "sha256-hdNSr6NcSxS5saIpEKu9morvYnurQqbmttn0XrpHnl0="
+    }
+  },
+  "Unofficial LotD and BSB Synergy Patch - HoF": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.13.1",
+      "file_id": 522885,
+      "file_name": "Unofficial LotD and BSB Synergy Patch - HoF-36074-1-13-1-1721432374.7z",
+      "mod_id": 36074,
+      "hash": "sha256-7NNRyMpaVW0GztQcZCkIxrSN9SoRZKz+u6J3W1f7BqE="
+    }
+  },
+  "Unofficial LotD and BSB Synergy Patch - TCC - HoF": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.13.1",
+      "file_id": 522886,
+      "file_name": "Unofficial LotD and BSB Synergy Patch - TCC - HoF-36074-1-13-1-1721432438.7z",
+      "mod_id": 36074,
+      "hash": "sha256-WcFj5mcMHNCMT1izWzVEdS0fh8dSjywSpEopkqwhi2E="
+    }
+  },
+  "Unofficial LotD and BSB Synergy Patch - Main": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.13.2",
+      "file_id": 667108,
+      "file_name": "Unofficial LotD and BSB Synergy Patch - Main-36074-1-13-2-1758226331.7z",
+      "mod_id": 36074,
+      "hash": "sha256-Ru2lHNrVxokQthQQ8yCVvzd7Me1R21/bEOGWY+TSWP0="
+    },
+    "type": "primary"
+  }
+}

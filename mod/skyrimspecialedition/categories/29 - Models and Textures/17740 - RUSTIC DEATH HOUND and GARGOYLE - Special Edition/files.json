@@ -1,0 +1,68 @@
+{
+  "RUSTIC DEATH HOUND AND GARGOYLE SSE - 2K": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1",
+      "file_id": 56352,
+      "file_name": "RUSTIC DEATH HOUND AND GARGOYLE SSE - 2K-17740-1-1.7z",
+      "mod_id": 17740,
+      "hash": "sha256-g29S54PAhWEG+ubJQ10JWERkLJ12ubUy6byAeTFeW8M="
+    },
+    "type": "primary"
+  },
+  "RUSTIC DEATH HOUND AND GARGOYLE SSE - 4K": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1",
+      "file_id": 56353,
+      "file_name": "RUSTIC DEATH HOUND AND GARGOYLE SSE - 4K-17740-1-1.7z",
+      "mod_id": 17740,
+      "hash": "sha256-4DFyRA1P0HQmCubpgGYXam3EpHo1fFD7sFgxmdwz5PA="
+    },
+    "type": "primary"
+  },
+  "RUSTIC DEATH HOUND AND GARGOYLE SSE - DARK - 4K": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1",
+      "file_id": 56354,
+      "file_name": "RUSTIC DEATH HOUND AND GARGOYLE SSE - DARK - 4K-17740-1-1.7z",
+      "mod_id": 17740,
+      "hash": "sha256-TN1qc34G7rOTkXn1Uocif9qPdSF8b13czj7Ez3cGZRw="
+    },
+    "type": "primary"
+  },
+  "RUSTIC DEATH HOUND AND GARGOYLE SSE - DARK - 2K": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1",
+      "file_id": 56355,
+      "file_name": "RUSTIC DEATH HOUND AND GARGOYLE SSE - DARK - 2K-17740-1-1.7z",
+      "mod_id": 17740,
+      "hash": "sha256-b0BsEeEuvSIAzikZxirNQ0cY7huUrVr/4yF0NW3Ki28="
+    },
+    "type": "primary"
+  },
+  "RUSTIC DEATH HOUND AND GARGOYLE SSE - 4K-2K": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1",
+      "file_id": 56356,
+      "file_name": "RUSTIC DEATH HOUND AND GARGOYLE SSE - 4K-2K-17740-1-1.7z",
+      "mod_id": 17740,
+      "hash": "sha256-8vccMZTmWSr3vMaeWVq3hmQ2cpScM+YTN0O/1HfuN9M="
+    },
+    "type": "primary"
+  },
+  "RUSTIC DEATH HOUND AND GARGOYLE SSE - DARK - 4K-2K": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1",
+      "file_id": 56357,
+      "file_name": "RUSTIC DEATH HOUND AND GARGOYLE SSE - DARK - 4K-2K-17740-1-1.7z",
+      "mod_id": 17740,
+      "hash": "sha256-8j7SJ1LeJVNY+0wgap1rlXBCMJ43hRuSUVsdTqgNy+k="
+    },
+    "type": "primary"
+  }
+}

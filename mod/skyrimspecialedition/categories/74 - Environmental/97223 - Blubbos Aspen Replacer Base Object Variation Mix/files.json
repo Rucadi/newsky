@@ -1,0 +1,33 @@
+{
+  "BlubboAspenReplacer_BaseObjectSwapperMix.zip": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.2",
+      "file_id": 412664,
+      "file_name": "BlubboAspenReplacer_BaseObjectSwapperMix.zip-97223-1-2-1690796085.zip",
+      "mod_id": 97223,
+      "hash": "sha256-l2OlSZMQPeom93FhofrJFU023nR1lM+zrmW2FYMJ63k="
+    },
+    "type": "primary"
+  },
+  "BlubboAspen_Mix_Patch_more_First_Aspens.zip": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.21",
+      "file_id": 413460,
+      "file_name": "BlubboAspen_Mix_Patch_more_First_Aspens.zip-97223-1-21-1690991426.zip",
+      "mod_id": 97223,
+      "hash": "sha256-LzqK+aJSca9iRW+Nvn25q8RoPKjiZJ+jGl3D5z2o7R8="
+    }
+  },
+  "BlubboAspen_Mix_Patch_more_First_Aspens_noVT.zip": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.21",
+      "file_id": 413461,
+      "file_name": "BlubboAspen_Mix_Patch_more_First_Aspens_noVT.zip-97223-1-21-1690991535.zip",
+      "mod_id": 97223,
+      "hash": "sha256-lnfdTVl+wIgz3KwM3prX463Xxj4y4xZ3j0NZg2YqDKs="
+    }
+  }
+}

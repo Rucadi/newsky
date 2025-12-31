@@ -1,0 +1,46 @@
+{
+  "Survival Mode Improved Hunger Widget": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 390730,
+      "file_name": "Survival Mode Improved Hunger Widget-91878-1-0-1684729013.zip",
+      "mod_id": 91878,
+      "hash": "sha256-5IyvQR4/Wh62SqXXLm9uUP4RNtjVVthlqcczmHqi8AM="
+    },
+    "type": "primary"
+  },
+  "Survival Mode Improved Exhaustion Widget": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 390731,
+      "file_name": "Survival Mode Improved Exhaustion Widget-91878-1-0-1684729092.zip",
+      "mod_id": 91878,
+      "hash": "sha256-xxmnsrC4lwknNZa03SQ9FIDES2y45YtJ0JefTyKJesw="
+    },
+    "type": "primary"
+  },
+  "Survival Mode Improved Warmth Widget": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 390732,
+      "file_name": "Survival Mode Improved Warmth Widget-91878-1-0-1684729172.zip",
+      "mod_id": 91878,
+      "hash": "sha256-BIjEUrQd3jCzPZ/T+UeMmAufr2izKJ8KqewTM9MVavw="
+    },
+    "type": "primary"
+  },
+  "Encumbrance Widget (No SMI Required)": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.11",
+      "file_id": 391745,
+      "file_name": "Encumbrance Widget (No SMI Required)-91878-1-11-1685023171.zip",
+      "mod_id": 91878,
+      "hash": "sha256-n/Pa/pokspiqndtMgqUuqUn27mATcx6IaSZGZK82mkI="
+    },
+    "type": "primary"
+  }
+}
