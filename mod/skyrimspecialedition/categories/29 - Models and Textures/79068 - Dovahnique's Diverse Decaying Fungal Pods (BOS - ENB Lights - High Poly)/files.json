@@ -1,0 +1,64 @@
+{
+  "Dovahnique's Diverse Decaying Fungal Pods - (ENB - BOS)": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1",
+      "file_id": 333133,
+      "file_name": "Dovahnique's Diverse Decaying Fungal Pods - (ENB - BOS)-79068-1-1668930854.zip",
+      "mod_id": 79068,
+      "hash": "sha256-BcSSGPGOeccgTGMgHhsjscnQIJTR4ekHGO/8mz5HevM="
+    },
+    "type": "primary"
+  },
+  "Dovahnique's Diverse Decaying Fungal Pods - (Non ENB Meshes)": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1",
+      "file_id": 333134,
+      "file_name": "Dovahnique's Diverse Decaying Fungal Pods - (Non-ENB Meshes)-79068-1-1668931002.zip",
+      "mod_id": 79068,
+      "hash": "sha256-qEBP3txPLGKudF8JgleMzyWnTFKLoS/cnTdPavj5sGw="
+    }
+  },
+  "Dovahnique's Diverse Decaying Fungal Pods - CACO Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1",
+      "file_id": 333135,
+      "file_name": "Dovahnique's Diverse Decaying Fungal Pods - CACO Patch-79068-1-1668931084.zip",
+      "mod_id": 79068,
+      "hash": "sha256-dIJixuPYU4e3NpZjKDIoHt6+V4mhuldioL6DTabMrlw="
+    }
+  },
+  "Dovahnique's Diverse Decaying Fungal Pods - (Toned Down)": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1",
+      "file_id": 333364,
+      "file_name": "Dovahnique's Diverse Decaying Fungal Pods - (Toned Down)-79068-1-1668981943.zip",
+      "mod_id": 79068,
+      "hash": "sha256-EUAPiabWwgobimQHYY7UobHWDkCOJQYrO0TT3zgqT6M="
+    },
+    "type": "primary"
+  },
+  "Dovahnique's Diverse Decaying Fungal Pods - (Toned Down - Non ENB Meshes)": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1",
+      "file_id": 333366,
+      "file_name": "Dovahnique's Diverse Decaying Fungal Pods - (Toned Down - Non ENB Meshes))-79068-1-1668982040.zip",
+      "mod_id": 79068,
+      "hash": "sha256-M4B75dMOocDJzq/xHf0tMDBqoZxhOEENTj/sMMexFls="
+    }
+  },
+  "Dovahnique's Fungal Pods - Brighter ENB Meshes": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1",
+      "file_id": 334073,
+      "file_name": "Dovahnique's Fungal Pods - Brighter ENB Meshes-79068-1-1669264198.zip",
+      "mod_id": 79068,
+      "hash": "sha256-gHF3aqNgv5cK7TCLl9D5fVp1KCXI5gptNqFKKS855nQ="
+    }
+  }
+}

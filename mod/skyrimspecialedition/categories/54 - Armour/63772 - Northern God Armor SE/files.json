@@ -1,0 +1,43 @@
+{
+  "1NGarmorSE": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1",
+      "file_id": 264812,
+      "file_name": "1NGarmorSE-63772-1-1645091465.7z",
+      "mod_id": 63772,
+      "hash": "sha256-X639B9UOI3tLVbufEvyz/SJfqXs13e5iNnsane1bN2E="
+    },
+    "type": "primary"
+  },
+  "Fixes by Xtudo": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1",
+      "file_id": 264834,
+      "file_name": "Fixes by Xtudo-63772-1-1645097187.7z",
+      "mod_id": 63772,
+      "hash": "sha256-8simH/JKw8z1VoHXUOX+JLrUg8h59178/Jj2dNaQ2gQ="
+    }
+  },
+  "Without-a-fur-cape": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1",
+      "file_id": 558428,
+      "file_name": "hout a fur cape-63772-1-1730617501.7z",
+      "mod_id": 63772,
+      "hash": "sha256-/3VIC1nP1TPiDlsEZ/AJ+ANaq+Xy1nzAG48oyQ22dwo="
+    }
+  },
+  "Without-a-fur-cape hdt-SMP": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1",
+      "file_id": 558430,
+      "file_name": "Without-a-fur-cape hdt-SMP-63772-1-1730617625.7z",
+      "mod_id": 63772,
+      "hash": "sha256-XFegPuU10JFTQ2OSNPnc7EOqK1mae0oga4K9ONfRdNk="
+    }
+  }
+}

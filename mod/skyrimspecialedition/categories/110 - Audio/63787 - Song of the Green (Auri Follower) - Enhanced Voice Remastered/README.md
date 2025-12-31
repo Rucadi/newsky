@@ -2,6 +2,8 @@
 - Author: TheVoidKnight
 - Game: skyrimspecialedition
 - Mod Page: https://www.nexusmods.com/skyrimspecialedition/mods/63787
+
+
 (Yes, I know. There is no way this can be considered a "remaster." I just put a lot of work into it and want to feel good, okay?!)
   
   

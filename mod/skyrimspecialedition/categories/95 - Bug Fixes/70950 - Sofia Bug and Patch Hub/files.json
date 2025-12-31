@@ -1,0 +1,204 @@
+{
+  ".esp replacer": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1",
+      "file_id": 297684,
+      "file_name": ".esp replacer-70950-1-1657418363.rar",
+      "mod_id": 70950
+    },
+    "type": "primary"
+  },
+  "Sofia - AI Overhaul Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1",
+      "file_id": 298042,
+      "file_name": "Sofia - AI Overhaul Patch-70950-1-1657529194.zip",
+      "mod_id": 70950,
+      "hash": "sha256-EBYYDbOzwg/y3mszr8OK/P2ezKmxRsg1eCreg8SitRA="
+    }
+  },
+  "Sofia - Immersive Citizens AI Overhaul Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1",
+      "file_id": 298044,
+      "file_name": "Sofia - Immersive Citizens AI Overhaul Patch-70950-1-1657529245.zip",
+      "mod_id": 70950,
+      "hash": "sha256-6dhiQgxtvpK560lNKMx/O9wT1vVz0ujLOvBXwNlMNAg="
+    }
+  },
+  "Immersive Sofia Start": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1.0",
+      "file_id": 298175,
+      "file_name": "Immersive Sofia Start-70950-1-1-0-1657567747.zip",
+      "mod_id": 70950,
+      "hash": "sha256-1p9UwdBUav5RJEKPLrlRZLF/KO8ZqJlijuuTQ1mjMjU="
+    }
+  },
+  "Sofia - At Your Own Pace Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1",
+      "file_id": 298176,
+      "file_name": "Sofia - At Your Own Pace Patch-70950-1-1657567935.zip",
+      "mod_id": 70950,
+      "hash": "sha256-Fyc8i2ASQMk5+qVJEBegIMEgq1wBSAeHpxMT47Htzpw="
+    }
+  },
+  "Sofia - Use Custom Skin Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1",
+      "file_id": 298180,
+      "file_name": "Sofia - Use Custom Skin Patch-70950-1-1657568745.zip",
+      "mod_id": 70950,
+      "hash": "sha256-E17TLzWLwYntEgIxyoqCu9j8/3tvYm0FY17osBpi57w="
+    }
+  },
+  "No Bump Dialogue": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1",
+      "file_id": 298293,
+      "file_name": "No Bump Dialogue-70950-1-1657604377.zip",
+      "mod_id": 70950,
+      "hash": "sha256-rIhF8ZMMxg62RFLoIa6eEap4jIOFKRrDIaOJr7qxBOI="
+    }
+  },
+  "Sofia - CDAA No Chairs Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1",
+      "file_id": 298310,
+      "file_name": "Sofia - CDAA No Chairs Patch-70950-1-1657611622.zip",
+      "mod_id": 70950,
+      "hash": "sha256-2JjgXeY7GoiqyxIrohIE5Nf7g4QFi2ma1Kk9WmNExj0="
+    }
+  },
+  "SkyUI - BSA Replacer": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1",
+      "file_id": 299798,
+      "file_name": "SkyUI - BSA Replacer-70950-1-1658093188.zip",
+      "mod_id": 70950,
+      "hash": "sha256-mh1dc0Uby+kvKfacKpHb5Ly2EXNRoION/xKejAuJ0UI="
+    }
+  },
+  "Hide Sofia Tracking Marker": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1",
+      "file_id": 449729,
+      "file_name": "Hide Sofia Tracking Marker-70950-1-1702023344.7z",
+      "mod_id": 70950,
+      "hash": "sha256-jVnZfz5DkZ+CpdsvGibKNMRkIHnpbm+9agBhEHb3vBY="
+    }
+  },
+  "Sofia Bugs Section - Document": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1",
+      "file_id": 545541,
+      "file_name": "Sofia Bugs Section - Documen-70950-1-1727146435.zip",
+      "mod_id": 70950,
+      "hash": "sha256-Akc1UqJ5v5Z29IfEPkusJ8oab4vQo/njOkF+4RCx+VY="
+    },
+    "type": "primary"
+  },
+  "Sofia Distance Extended": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 546738,
+      "file_name": "Sofia Distance Extended-70950-1-0-1727447506.zip",
+      "mod_id": 70950,
+      "hash": "sha256-mKLsoMjRHwruV6u3tkWI7Odao1aDNf/PFvEUK+QldYc="
+    }
+  },
+  "Immersive Sofia Start with are you alright dialog": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1",
+      "file_id": 549853,
+      "file_name": "Immersive Sofia Start with are you alright dialog-70950-1-1728282225.zip",
+      "mod_id": 70950,
+      "hash": "sha256-CnzRJLmqTiOTvSTXIpR8EBFtNsbUQbRW28dLXzZ6+sM="
+    }
+  },
+  "Sofia - RDO Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1",
+      "file_id": 549857,
+      "file_name": "Sofia - RDO Patch-70950-1-1728283393.zip",
+      "mod_id": 70950,
+      "hash": "sha256-kamszWIqo/RsVEKk3rr0hcAK52qwwRNlC2NxSUG1UWg="
+    }
+  },
+  "Sofia - GDO Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1",
+      "file_id": 549858,
+      "file_name": "Sofia - GDO Patch-70950-1-1728284278.zip",
+      "mod_id": 70950,
+      "hash": "sha256-N/7iD0DegvcATHsx7hYdXACIj+LYugjelAYo+sR215c="
+    }
+  },
+  "Sofia - Guard Dialogue Overhaul MCM Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1",
+      "file_id": 549859,
+      "file_name": "Guard Dialogue Overhaul MCM Patch-70950-1-1728284288.zip",
+      "mod_id": 70950,
+      "hash": "sha256-knJkft/H5KLXr18glHrDtCz/vnVcSHOFhYUnXMcwbvc="
+    }
+  },
+  "Sofia - USSEP and Hearthfires Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1",
+      "file_id": 549860,
+      "file_name": "Sofia - USSEP and Hearthfires Patch-70950-1-1728284728.zip",
+      "mod_id": 70950,
+      "hash": "sha256-PhqDVzT4zfoikAJrQPI2I7rrYPGc7Kp1pi1J1SbvUCo="
+    }
+  },
+  "Sofia Raw Page Data - txt file": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1",
+      "file_id": 550115,
+      "file_name": "Sofia Raw Page Data - txt file-70950-1-1728358287.zip",
+      "mod_id": 70950,
+      "hash": "sha256-MfAoFqv6Tl1L1aljnpeeC5BH6se9lNo3IPW+HR38epM="
+    },
+    "type": "primary"
+  },
+  "Sofia - Catch Up Exclusions": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 697111,
+      "file_name": "Sofia - Catch Up Exclusions-70950-1-0-1765529465.zip",
+      "mod_id": 70950,
+      "hash": "sha256-OmPcE2Oer2Hz3bU07zZoQ36Z5KjtPfrffRaqQ+4E11Q="
+    }
+  },
+  "Sofia - ICAIO No Table Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1",
+      "file_id": 701097,
+      "file_name": "Sofia - ICAIO No Table Patch-70950-1-1-1766456672.zip",
+      "mod_id": 70950,
+      "hash": "sha256-O9kqkYnuhbQJQk1JRTe0IvX3yaaVrK1X8uK4t7RWuig="
+    }
+  }
+}

@@ -1,13 +1,13 @@
 {
-    "Papyrus Ini Manipulator": {
-        "nexusmods": {
-            "game_name": "skyrimspecialedition",
-            "version": "1.9.7",
-            "file_id": 541531,
-            "file_name": "Papyrus Ini Manipulator-65634-1-9-7-1726186850.zip",
-            "mod_id": 65634,
-            "hash": "sha256-tg1SgjFQHjsanzHRlW4Fdlz0fTSH9TgdgQwHVhy8fyQ="
-        },
-        "type": "primary"
-    }
+  "Papyrus Ini Manipulator": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.9.7",
+      "file_id": 541531,
+      "file_name": "Papyrus Ini Manipulator-65634-1-9-7-1726186850.zip",
+      "mod_id": 65634,
+      "hash": "sha256-tg1SgjFQHjsanzHRlW4Fdlz0fTSH9TgdgQwHVhy8fyQ="
+    },
+    "type": "primary"
+  }
 }

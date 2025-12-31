@@ -1,0 +1,43 @@
+{
+  "WiZkiD Riften and Ratway 4k": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.2",
+      "file_id": 218398,
+      "file_name": "WiZkiD Riften and Ratway 4k-53179-1-2-1627924362.7z",
+      "mod_id": 53179,
+      "hash": "sha256-EEavOjd51N46zpxsH90Z29/ac0ZGmaYoKAtT2oRLMcI="
+    }
+  },
+  "WiZkiD Riften and Ratway 2k Parallax": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.2",
+      "file_id": 218401,
+      "file_name": "WiZkiD Riften and Ratway 2k Parallax-53179-1-2-1627925125.7z",
+      "mod_id": 53179,
+      "hash": "sha256-vTTu/HHo7+4xI583osRP9Dn1UwpHRO86a4qnz3Txy98="
+    }
+  },
+  "WiZkiD Riften and Ratway 4k Parallax": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.2",
+      "file_id": 218407,
+      "file_name": "WiZkiD Riften and Ratway 4k Parallax-53179-1-2-1627926548.7z",
+      "mod_id": 53179,
+      "hash": "sha256-ybXF1kseFKpq/SfebBOUzxWk/St/VrbqpVaOnLXB0V4="
+    },
+    "type": "primary"
+  },
+  "WiZkiD Riften and Ratway 2k": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.2",
+      "file_id": 239017,
+      "file_name": "WiZkiD Riften and Ratway 2k-53179-1-2-1636047507.7z",
+      "mod_id": 53179,
+      "hash": "sha256-4JiYTvfRn+2zH5Vj+LkEn1sDtr87aZhJkVf1XXIxg0o="
+    }
+  }
+}

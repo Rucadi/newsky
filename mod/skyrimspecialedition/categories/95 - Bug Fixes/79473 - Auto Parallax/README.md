@@ -2,6 +2,8 @@
 - Author: doodlum
 - Game: skyrimspecialedition
 - Mod Page: https://www.nexusmods.com/skyrimspecialedition/mods/79473
+
+
 **OVERVIEW**
   
  **﻿SKSE plugin which automatically disables parallax on meshes which have missing height textures or conflict with single-pass shaders.

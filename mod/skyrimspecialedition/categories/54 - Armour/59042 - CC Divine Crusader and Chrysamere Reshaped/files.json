@@ -1,0 +1,23 @@
+{
+  "Optional Recolor": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1",
+      "file_id": 244351,
+      "file_name": "Optional Recolor-59042-1-1637874406.7z",
+      "mod_id": 59042,
+      "hash": "sha256-IjPO7eoX2TxS9trdGkqQhP/FPIDHSY2g+yy9P87dPxE="
+    }
+  },
+  "Reshaped Divine Crusader and Chrysamere": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "2",
+      "file_id": 362582,
+      "file_name": "Reshaped Divine Crusader and Chrysamere-59042-2-1677157958.7z",
+      "mod_id": 59042,
+      "hash": "sha256-UtxAo60uAzL3O/xEUWZz/ezQ+2WXGENh74jlAvFgWJg="
+    },
+    "type": "primary"
+  }
+}

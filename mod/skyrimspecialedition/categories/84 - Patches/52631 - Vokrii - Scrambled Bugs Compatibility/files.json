@@ -1,0 +1,23 @@
+{
+  "Vokrii Rebalance Patch Edition": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "0.9",
+      "file_id": 244939,
+      "file_name": "Vokrii Rebalance Patch Edition-52631-0-9-1638051693.zip",
+      "mod_id": 52631,
+      "hash": "sha256-b3oG9xPJqYAR72qzGhieiVTcudP8QULWOuDBPurqeqQ="
+    }
+  },
+  "Vokrii - Scrambled Bugs Compatibility": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0.0",
+      "file_id": 258516,
+      "file_name": "Vokrii - Scrambled Bugs Compatibility-52631-1-0-0-1642799286.zip",
+      "mod_id": 52631,
+      "hash": "sha256-bBrrDEsvnmT8/Np7mtzw7DxPn+kAZMqOSPyHFI/gezg="
+    },
+    "type": "primary"
+  }
+}

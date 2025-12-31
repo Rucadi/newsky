@@ -1,0 +1,24 @@
+{
+  "Misty Skye - Sexlab_Addon_V4": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "4",
+      "file_id": 360267,
+      "file_name": "Misty Skye - Sexlab_Addon_V4-71639-4-1676551271.rar",
+      "mod_id": 71639,
+      "hash": "sha256-dDFjOOVkc/Udbm7gIrevJ8tzEYvt49y6fyb+Yfozmag="
+    },
+    "type": "primary"
+  },
+  "Misty Skye - Flowergirls_Addon_": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "4",
+      "file_id": 482141,
+      "file_name": "Misty Skye - Flowergirls_Addon_-71639-4-1710849353.rar",
+      "mod_id": 71639,
+      "hash": "sha256-VGDC5+bgUOM7HJhaxqrSyHxkti0ZuKA7oxVfCEip0VA="
+    },
+    "type": "primary"
+  }
+}

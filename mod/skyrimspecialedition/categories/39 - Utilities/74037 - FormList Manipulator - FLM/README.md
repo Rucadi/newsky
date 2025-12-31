@@ -2,6 +2,8 @@
 - Author: MaskedRPGFan
 - Game: skyrimspecialedition
 - Mod Page: https://www.nexusmods.com/skyrimspecialedition/mods/74037
+
+
 > If you are a user and not a modder, just install this mod like any other SKSE plugin and you're done. The whole description and explanation of use is for modders.
 
   

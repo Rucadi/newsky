@@ -1,0 +1,35 @@
+{
+  "(1) Sharkish Piercings - BHUNP - Base": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.01",
+      "file_id": 235337,
+      "file_name": "(1) Sharkish Piercings - BHUNP - Base-57131-1-01-1634463636.7z",
+      "mod_id": 57131,
+      "hash": "sha256-wCZm5DFWea8BfGhx9rxHwkPpq9GSLHu3Ch+50eXpZCk="
+    },
+    "type": "primary"
+  },
+  "(2) Sharkish Piercings - 3BA - Base": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.01",
+      "file_id": 235340,
+      "file_name": "(2) Sharkish Piercings - 3BA - Base-57131-1-01-1634464044.7z",
+      "mod_id": 57131,
+      "hash": "sha256-owsN97hpMQGWp0vLi/DxDHCl/g9bynxeOzvEOHGWxYc="
+    },
+    "type": "primary"
+  },
+  "(3) Sharkish Piercings - BHUNP - Base and Selachii": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.01",
+      "file_id": 235341,
+      "file_name": "(3) Sharkish Piercings - BHUNP - Base and Selachii-57131-1-01-1634464155.7z",
+      "mod_id": 57131,
+      "hash": "sha256-KMeg9HXcFh6XssPfsjTaUCQqhkjY2lGEgrlSJhkydgU="
+    },
+    "type": "primary"
+  }
+}

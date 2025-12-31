@@ -1,0 +1,24 @@
+{
+  "Amorous Adventures PLUS Content Warning": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1",
+      "file_id": 336290,
+      "file_name": "Amorous Adventures PLUS Content Warning-79693-1-1-1669875488.7z",
+      "mod_id": 79693,
+      "hash": "sha256-lnsCnV/AoMuhRoukoFN6DchVbWk1GU+9uRmTwrixfiA="
+    },
+    "type": "primary"
+  },
+  "Amorous Adventures Content Warning": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 336291,
+      "file_name": "Amorous Adventures Content Warning-79693-1-0-1669875554.7z",
+      "mod_id": 79693,
+      "hash": "sha256-wsdh4QiBtDbl8MswQk0X7GPYJQPte6XL9Bzpj004TEU="
+    },
+    "type": "primary"
+  }
+}

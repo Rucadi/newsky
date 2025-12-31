@@ -1,0 +1,73 @@
+{
+  "Arctic Frost Effects Redux ISC Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1",
+      "file_id": 236924,
+      "file_name": "Arctic Frost Effects Redux ISC Patch-57465-1-1635152077.7z",
+      "mod_id": 57465,
+      "hash": "sha256-OqRDw/A6JPIUE+Ekm0YEb4JAanUUW3+a9PIxo4ow7aw="
+    }
+  },
+  "LethalTraps AOS Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1",
+      "file_id": 236957,
+      "file_name": "LethalTraps AOS Patch-57465-1-1635169035.7z",
+      "mod_id": 57465,
+      "hash": "sha256-PKgMvhWzVOvHdZphBds3wrlqhxV11ewHW/uaVU9sKjg="
+    }
+  },
+  "LethalTraps Smilodon AOS Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1",
+      "file_id": 236958,
+      "file_name": "AOS LethalTrapsSmilodon Patch-57465-1-1635169100.7z",
+      "mod_id": 57465,
+      "hash": "sha256-Lnb+3ypWxe4uTC35QlXLGz8TgtLgM/lOPqVDDJ3M2+E="
+    }
+  },
+  "No Force for Illusion Spells ISC Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1",
+      "file_id": 613756,
+      "file_name": "No Force for Illusion Spells ISC Patch-57465-1-1743768851.7z",
+      "mod_id": 57465,
+      "hash": "sha256-RiZ+usS3ql9xNN2prPhx9x1aLTekwHeX0CbTT2Jnmr4="
+    }
+  },
+  "MLPsoulGems ISC Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1",
+      "file_id": 613758,
+      "file_name": "MLPsoulGems ISC Patch-57465-1-1743768953.7z",
+      "mod_id": 57465,
+      "hash": "sha256-2fzYYP1popzfMp2GTy7x4vQypmxx6jLzZfDOORZg1Mk="
+    }
+  },
+  "Arctic Frost Effects Redux ISC DPI Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1",
+      "file_id": 613761,
+      "file_name": "Arctic Frost Effects Redux ISC DPI Patch-57465-1-1743769212.7z",
+      "mod_id": 57465,
+      "hash": "sha256-CxGtV1rniZt03PyaMmruabvhpa4fZXzbmseKQoDFfik="
+    }
+  },
+  "DSI AOS ISC Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1",
+      "file_id": 613858,
+      "file_name": "DSI AOS ISC Patch-57465-1-1-1743792639.7z",
+      "mod_id": 57465,
+      "hash": "sha256-SXuiV0XPyWeTJUPxSvcca4/kzSBSdv/yjMGRAGFogtI="
+    },
+    "type": "primary"
+  }
+}

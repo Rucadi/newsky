@@ -1,0 +1,45 @@
+{
+  "Don't Stay in The Water - VR": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "VR",
+      "file_id": 214907,
+      "file_name": "Don't Stay in The Water - VR-52164-4-1-1626445959.zip",
+      "mod_id": 52164,
+      "hash": "sha256-5jvSDJ89dxz893UNW/pIBYX0/2x6I1ATyk2poRWkG6Q="
+    }
+  },
+  "NPC Water AI Fix for SkyrimSE": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "5.1",
+      "file_id": 384868,
+      "file_name": "NPC Water AI Fix for SkyrimSE-52164-5-1-1683279754.zip",
+      "mod_id": 52164,
+      "hash": "sha256-YSGqTA89UiBk/nmDlVpDsW3mKQbfOW6jXtY7dPFXpyE="
+    },
+    "type": "primary"
+  },
+  "NPC Water AI Fix for SkyrimAE (1.6.318 - 1.6.353)": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "5.1",
+      "file_id": 384869,
+      "file_name": "NPC Water AI Fix for SkyrimAE-52164-5-1-1683279804.zip",
+      "mod_id": 52164,
+      "hash": "sha256-z3hEwbI11cXuGIw8foSl5c0P852du47/cPV5yUF5Kmk="
+    },
+    "type": "primary"
+  },
+  "NPC Water AI Fix for SkyrimAE 1.6.629 and newer": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "5.1",
+      "file_id": 384872,
+      "file_name": "NPC Water AI Fix for SkyrimAE 1.6.629 and newer-52164-5-1-1683280042.zip",
+      "mod_id": 52164,
+      "hash": "sha256-Zkbf91s+GUY/HllssdzvFy1zf+VRFPAvWeWbFP9j94M="
+    },
+    "type": "primary"
+  }
+}

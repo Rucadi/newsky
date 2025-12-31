@@ -1,0 +1,56 @@
+{
+  "COCO Scarlet Rose - CBBE 3BA": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "3.0",
+      "file_id": 386219,
+      "file_name": "COCO Scarlet Rose - CBBE 3BA-65109-2-0-1683602148.7z",
+      "mod_id": 65109,
+      "hash": "sha256-eXtdU1V7xViCU3UIe5TOEKuut5RZA/V6muGU9fl5u/k="
+    },
+    "type": "primary"
+  },
+  "COCO Scarlet Rose - COCOBody CBBE SE": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "3.0",
+      "file_id": 386220,
+      "file_name": "COCO Scarlet Rose - COCOBody CBBE SE-65109-3-0-1683602344.7z",
+      "mod_id": 65109,
+      "hash": "sha256-QyxSslGPV0ipBaJ+Omduk7X/X6y8Cer91gO2MXZxsbs="
+    },
+    "type": "primary"
+  },
+  "COCO Scarlet Rose - COCOBody UUNP SE": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "3.0",
+      "file_id": 386221,
+      "file_name": "COCO Scarlet Rose - COCOBody UUNP SE-65109-3-0-1683602527.7z",
+      "mod_id": 65109,
+      "hash": "sha256-mJauosFDsqD9QHApBM0Vcw6sLz4zqKgm/ArhdkA8XfA="
+    },
+    "type": "primary"
+  },
+  "COCO Scarlet Rose - TBD SE": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "3.0",
+      "file_id": 386222,
+      "file_name": "COCO Scarlet Rose - TBD SE-65109-3-0-1683602761.7z",
+      "mod_id": 65109,
+      "hash": "sha256-/s+247S6rDxGNP4DxvQdvHYyOkE5IdVtrf9mNhMC6Yo="
+    },
+    "type": "primary"
+  },
+  "COCO Scarlet Rose - Clothing Version": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "3.0",
+      "file_id": 386223,
+      "file_name": "COCO Scarlet Rose - Clothing Version-65109-3-0-1683602797.7z",
+      "mod_id": 65109,
+      "hash": "sha256-dnRBqh4Qv/SvMii38K20/FIlK2BQGehVbckIKOcDb4E="
+    }
+  }
+}

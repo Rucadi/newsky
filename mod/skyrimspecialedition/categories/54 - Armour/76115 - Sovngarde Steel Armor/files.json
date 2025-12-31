@@ -1,0 +1,75 @@
+{
+  "Sovngarde Steel Armor 4K": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 319405,
+      "file_name": "Sovngarde Steel Armor-76115-1-0-1664137732.zip",
+      "mod_id": 76115,
+      "hash": "sha256-bpQ1ZHLZfKDGEqf8z02NQ//jDtrYwpzoNgAylz8G/MA="
+    },
+    "type": "primary"
+  },
+  "Sovngarde Steel Armor 3BA bodyslides": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1",
+      "file_id": 320130,
+      "file_name": "Sovngarde Steel Armor 3BA bodyslides-76115-1-1-1664403139.7z",
+      "mod_id": 76115,
+      "hash": "sha256-7dU2Xzd0mJnIVfq4r4VQj4cS8gxPyyVGcnIuN93nzuM="
+    }
+  },
+  "Sovngarde Steel Purple Sword Fix": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 320579,
+      "file_name": "Sovngarde Steel Purple Sword Fix-76115-1-0-1664572600.zip",
+      "mod_id": 76115,
+      "hash": "sha256-yiws8cgnNOh/mJz4kMC/QzE0c8pffdy36ttHVNQOg10="
+    }
+  },
+  "Sovngarde Steel Armor Original Texture Resolution 1K": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 320733,
+      "file_name": "Sovngarde Steel Armor Original Texture Resolution (1K)-76115-1-0-1664626720.zip",
+      "mod_id": 76115,
+      "hash": "sha256-NsM04Rpzd0az1qwCQrmbOP8NvSqztj9qB2oqwIvR21M="
+    }
+  },
+  "Sovngarde Steel Armor 2K": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 320877,
+      "file_name": "Sovngarde Steel Armor 2K-76115-1-0-1664667827.7z",
+      "mod_id": 76115,
+      "hash": "sha256-opPuiYiuhTWJpTa8RY4eU81Or/cpGnxp2lrfYyYzjOw="
+    },
+    "type": "primary"
+  },
+  "Sovngarde Steel Armor ESP-FE": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 321061,
+      "file_name": "Sovngarde Steel Armor ESP-FE-76115-1-0-1664714393.zip",
+      "mod_id": 76115,
+      "hash": "sha256-1MBwNQ+lDiWsyZRF4xl1Ibk9XjT4/rieykVQMqL4Y9w="
+    }
+  },
+  "Sovngarde Steel Armor Complete": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 321526,
+      "file_name": "Sovngarde Steel Armor Complete-76115-1-0-1664872996.zip",
+      "mod_id": 76115,
+      "hash": "sha256-2UG/5QC+qcoeEm0drO5idB/MRd6EZHtkIR0V5fr+xjs="
+    },
+    "type": "primary"
+  }
+}

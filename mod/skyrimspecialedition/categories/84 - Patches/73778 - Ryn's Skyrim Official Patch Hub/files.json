@@ -1,0 +1,35 @@
+{
+  "Whiterun City Limits_Bleakwind Basin PATCH": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1",
+      "file_id": 317866,
+      "file_name": "Whiterun City Limits_Bleakwind Basin PATCH-73778-1-1-1663659617.rar",
+      "mod_id": 73778,
+      "hash": "sha256-EQSxxg76qbpsnw+PeEzFHPZjwV/nQB+P4gxAaMcAemo="
+    },
+    "type": "primary"
+  },
+  "Robber's Gorge_Crabber's Shanty PATCH": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1",
+      "file_id": 317868,
+      "file_name": "Robber's Gorge_Crabber's Shanty PATCH-73778-1-1-1663659674.rar",
+      "mod_id": 73778,
+      "hash": "sha256-b2isouTsrrG+aDiVtDUtqSRmncOIKgItK4xqCDwKJFI="
+    },
+    "type": "primary"
+  },
+  "Ryn's Whiterun City LimitsHalted Stream Camp PATCH": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1",
+      "file_id": 434613,
+      "file_name": "Ryn's Whiterun City LimitsHalted Stream Camp PATCH-73778-1-1-1697489273.rar",
+      "mod_id": 73778,
+      "hash": "sha256-S18JlJO3AcCTcUtT0dM7fz5U6ojv44n5m1rV5a5RFFk="
+    },
+    "type": "primary"
+  }
+}

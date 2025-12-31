@@ -1,0 +1,23 @@
+{
+  "Vitrium": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "12.4.2",
+      "file_id": 299367,
+      "file_name": "Vitrium-57242-12-4-2-1657967155.zip",
+      "mod_id": 57242,
+      "hash": "sha256-ue7r4GnmP7U/z3xEH3egN6oYiOi1WmDm946iaZdbLK4="
+    },
+    "type": "primary"
+  },
+  "Vitrium Texture Pack": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "12.4.2",
+      "file_id": 304607,
+      "file_name": "Vitrium Texture Pack-57242-12-4-2-1659634948.zip",
+      "mod_id": 57242,
+      "hash": "sha256-FqZv29TP0BA8kUg/mXURVsv0XKIrwTmqX/SA+7fRPNM="
+    }
+  }
+}

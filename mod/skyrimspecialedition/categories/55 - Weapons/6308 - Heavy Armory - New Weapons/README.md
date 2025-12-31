@@ -2,6 +2,8 @@
 - Author: PrivateEye
 - Game: skyrimspecialedition
 - Mod Page: https://www.nexusmods.com/skyrimspecialedition/mods/6308
+
+
 [﻿](https://next.nexusmods.com/users/34739755/mods)﻿![](http://i.imgur.com/8GVn3.jpg)
 
   

@@ -1,0 +1,46 @@
+{
+  "Nimira's Ring Vampire Feed Proxy - Vanilla": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1",
+      "file_id": 305831,
+      "file_name": "Nimira's Ring Vampire Feed Proxy - Vanilla-72964-1-1659998476.rar",
+      "mod_id": 72964,
+      "hash": "sha256-RO1tufrEk5hPxcxdLG5ctJgX1+ztw3C7MlU2NMNaYKg="
+    },
+    "type": "primary"
+  },
+  "Nimira's Ring Vampire Feed Proxy - Daedric Voices": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1",
+      "file_id": 305832,
+      "file_name": "Nimira's Ring Vampire Feed Proxy - Daedric Voices-72964-1-1659998520.rar",
+      "mod_id": 72964,
+      "hash": "sha256-Cx3rTrBtDJrRzjdOr0yF6K2foG9wd2WAYDFzVzNI8gI="
+    },
+    "type": "primary"
+  },
+  "Nimira's Ring Vampire Feed Proxy - ROM": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1",
+      "file_id": 305833,
+      "file_name": "Nimira's Ring Vampire Feed Proxy - ROM-72964-1-1659998584.rar",
+      "mod_id": 72964,
+      "hash": "sha256-TfMegPBxd/kI+Gxg0o5OWoJUxSDQXA5Dd6PLqObgzn8="
+    },
+    "type": "primary"
+  },
+  "Nimira's Ring Vampire Feed Proxy - ROM - Deadric Voices": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1",
+      "file_id": 305834,
+      "file_name": "Nimira's Ring Vampire Feed Proxy - ROM - Deadric Voices-72964-1-1659998622.rar",
+      "mod_id": 72964,
+      "hash": "sha256-EScgoc0YTiuhlm6yWoxaGSWkSYf9atRAfyvF4vygV/w="
+    },
+    "type": "primary"
+  }
+}

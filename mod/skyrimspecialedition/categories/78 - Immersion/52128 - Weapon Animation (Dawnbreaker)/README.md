@@ -2,6 +2,8 @@
 - Author: saltmaxwellpshk
 - Game: skyrimspecialedition
 - Mod Page: https://www.nexusmods.com/skyrimspecialedition/mods/52128
+
+
 Add an animation to Dawnbreaker.
   
 Works with anime events.

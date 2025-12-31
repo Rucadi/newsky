@@ -1,0 +1,63 @@
+{
+  "Environs - The Western Watchower - Alpine Forest of Whiterun Valley Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.00",
+      "file_id": 364139,
+      "file_name": "Environs - The Western Watchower - Alpine Forest of Whiterun Valley Patch-76261-1-00-1677574213.7z",
+      "mod_id": 76261,
+      "hash": "sha256-o3hhgrNeZfBjy5kvZlLu9mIiViv5BcnKk+lIWp/ibPk="
+    }
+  },
+  "Environs - The Western Watchower - Great Forest of Whiterun Hold Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.00",
+      "file_id": 364140,
+      "file_name": "Environs - The Western Watchower - Great Forest of Whiterun Hold Patch-76261-1-00-1677574268.7z",
+      "mod_id": 76261,
+      "hash": "sha256-en7qhNsC/ONc+7Yj4RsD3Rz74VQBl3qjIwU78lb9/nI="
+    }
+  },
+  "Environs - The Western Watchower - Northern Roads": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.00",
+      "file_id": 364141,
+      "file_name": "Environs - The Western Watchower - Northern Roads-76261-1-00-1677574437.7z",
+      "mod_id": 76261,
+      "hash": "sha256-T8fOAs8O28W1M5nLJ4/755hH1zGnGckI2hdyQt88AYA="
+    }
+  },
+  "Environs - The Western Watchower - Lux Orbis": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.00",
+      "file_id": 364142,
+      "file_name": "Environs - The Western Watchower - Lux Orbis-76261-1-00-1677574510.7z",
+      "mod_id": 76261,
+      "hash": "sha256-50bcrXrWA5yPSdkrKherAK+KxFCTnsQhkWcSTgFUgzY="
+    }
+  },
+  "Whiterun Watchtower Doesn't Start Broken - Siberpunk's Cut": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.00",
+      "file_id": 364789,
+      "file_name": "Whiterun Watchtower Doesn't Start Broken - Siberpunk's Cut-76261-1-00-1677743579.7z",
+      "mod_id": 76261,
+      "hash": "sha256-W0JfNEFh/QyNHTTHXfptfKQuF6Qw07sPKHHUqa/ArDM="
+    }
+  },
+  "Environs - The Western Watchtower": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "3.00",
+      "file_id": 392875,
+      "file_name": "Environs - The Western Watchtower-76261-3-00-1685320188.7z",
+      "mod_id": 76261,
+      "hash": "sha256-4dEuPIwOW3YLTuWQ53fz2wnemCh/hXTfQGXiSwWDQE4="
+    },
+    "type": "primary"
+  }
+}

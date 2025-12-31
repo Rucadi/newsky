@@ -1,0 +1,24 @@
+{
+  "Koralina's Eyebrows HQ": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 268533,
+      "file_name": "Koralina's Eyebrows-64497-1-0-1646602522.zip",
+      "mod_id": 64497,
+      "hash": "sha256-UGUGyFdllFac/pGkrfY+lS2UaAgW6t/9k3ZB1SXJlGI="
+    },
+    "type": "primary"
+  },
+  "Koralina's Eyebrows": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 268535,
+      "file_name": "Koralina's Eyebrows-64497-1-0-1646602920.zip",
+      "mod_id": 64497,
+      "hash": "sha256-tlxjIQhTDgqr7ldtShBiZeqrBwllcYWvWYHBdUEf4DU="
+    },
+    "type": "primary"
+  }
+}

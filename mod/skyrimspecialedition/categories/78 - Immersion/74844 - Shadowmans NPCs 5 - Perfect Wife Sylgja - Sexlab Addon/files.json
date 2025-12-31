@@ -1,0 +1,23 @@
+{
+  "Shadowman Sylgja No marriage version": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1",
+      "file_id": 316341,
+      "file_name": "Shadowman Sylgja No marriage version-74844-1-1663258918.rar",
+      "mod_id": 74844,
+      "hash": "sha256-IAHh54/dzUNz56bPxf7WA4BnWZoQqoV7soH6D8y41O4="
+    }
+  },
+  "shadowman_sylgjaSL": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "2",
+      "file_id": 362009,
+      "file_name": "shadowman_sylgjaSL-74844-2-1676986636.rar",
+      "mod_id": 74844,
+      "hash": "sha256-lANuKuoG7/mCYUpSN9AvVqwQ/h211sD088WeaVt04hg="
+    },
+    "type": "primary"
+  }
+}

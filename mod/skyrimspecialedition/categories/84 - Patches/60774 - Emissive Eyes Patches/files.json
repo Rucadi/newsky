@@ -1,0 +1,56 @@
+{
+  "Emissive Eyes - Various Patches": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 251767,
+      "file_name": "Emissive Eyes - Various Patches-60774-1-0-1640481666.7z",
+      "mod_id": 60774,
+      "hash": "sha256-qNnQywF1SrRS+mAfs7GyxwqQEVLrFoJ1n5LMVxLVr0I="
+    },
+    "type": "primary"
+  },
+  "Emissive Eyes - Cannibal Draugr": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1",
+      "file_id": 263018,
+      "file_name": "Emissive Eyes - Cannibal Draugr-60774-1-1-1644463211.7z",
+      "mod_id": 60774,
+      "hash": "sha256-de9nhDQo5maV1fm2GeidhXsPd4SLrWfzOCDih1fd6hc="
+    },
+    "type": "primary"
+  },
+  "Emissive Eyes - Draugr Upgrades and Improvements": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1",
+      "file_id": 263019,
+      "file_name": "Emissive Eyes - Draugr Upgrades and Improvements-60774-1-1-1644463238.7z",
+      "mod_id": 60774,
+      "hash": "sha256-dKvtc4uul9dKZS1EW4+uzlpuxLfL+AmzEzvIvsMyDQw="
+    },
+    "type": "primary"
+  },
+  "Emissive Eyes - Restless Dead": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 429627,
+      "file_name": "Emissive Eyes - Restless Dead-60774-1-0-1695914486.7z",
+      "mod_id": 60774,
+      "hash": "sha256-usp08iwi0yqIIkPKfG+CaNeGKCa/sQzZ0qnxUs8Msas="
+    },
+    "type": "primary"
+  },
+  "Draugrs - New models and textures Excusion": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 601128,
+      "file_name": "Draugrs - New models and textures Excusion-60774-1-0-1740948610.7z",
+      "mod_id": 60774,
+      "hash": "sha256-o1mF9tLz2OnigpQ39mX1LI3Vd6q3WP9XCGVMfPqqt20="
+    }
+  }
+}

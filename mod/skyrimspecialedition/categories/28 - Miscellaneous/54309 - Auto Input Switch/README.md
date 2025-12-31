@@ -2,6 +2,8 @@
 - Author: Parapets
 - Game: skyrimspecialedition
 - Mod Page: https://www.nexusmods.com/skyrimspecialedition/mods/54309
+
+
 This mod makes it possible to switch between gamepad and keyboard/mouse control on the fly. Similar to many other games, it will simply detect when you switch between devices and update the UI accordingly.
   
   

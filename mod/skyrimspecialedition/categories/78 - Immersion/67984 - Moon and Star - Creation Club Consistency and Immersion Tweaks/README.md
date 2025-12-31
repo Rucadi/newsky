@@ -2,6 +2,8 @@
 - Author: G The Generous
 - Game: skyrimspecialedition
 - Mod Page: https://www.nexusmods.com/skyrimspecialedition/mods/67984
+
+
 Moon and Star by GanXingpa is a short but sweet and very polished quest mod that brought some Morrowind nostalgia to Skyrim. As the mod was made years before the release of Creation Club contents, there are now some conflicting lore and items between the mod and the CC contents, which can be bothersome to immersion. With this small add-on for the mod, I hope to improve this immersion problem by separating Moon and Star items from CC items and make use of the new assets from CC for better art and consistency.
   
   

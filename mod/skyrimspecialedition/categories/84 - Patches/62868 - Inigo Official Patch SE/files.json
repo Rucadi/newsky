@@ -1,0 +1,23 @@
+{
+  "Inigo Official Patch SE": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "2.0.0",
+      "file_id": 549240,
+      "file_name": "Inigo Official Patch SE-62868-2-0-0-1728131052.zip",
+      "mod_id": 62868,
+      "hash": "sha256-ZI+Mm8vEiRp3AOh1huDf/Nm+QIg/ldGoMhFKAsp/UqE="
+    },
+    "type": "primary"
+  },
+  "Inigo Official Patch SE (ESPFE)": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "2.0.0fe",
+      "file_id": 549241,
+      "file_name": "Inigo Official Patch SE (ESPFE)-62868-2-0-0fe-1728131550.zip",
+      "mod_id": 62868,
+      "hash": "sha256-nTSRjkyIihT5WtTqIeCuHG2xQ5PUgTEz+x+4uen47Cg="
+    }
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "Immersive Load Screen Message Overhaul": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.3",
+      "file_id": 400354,
+      "file_name": "Immersive Load Screen Message Overhaul-67293-1-3-1687582413.7z",
+      "mod_id": 67293,
+      "hash": "sha256-AIRFDfJ0UsiObKjAV08HlrkEz20RR9Tw7cCtIizN9QM="
+    },
+    "type": "primary"
+  },
+  "Non-USSEP Immersive Load Screen Message Overhaul": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.3",
+      "file_id": 400355,
+      "file_name": "Non-USSEP Immersive Load Screen Message Overhaul-67293-1-3-1687582458.7z",
+      "mod_id": 67293,
+      "hash": "sha256-TiV6UyesA0w7gL3Ue8hFeTf688EhKII4dYV8sNyfE1w="
+    },
+    "type": "primary"
+  }
+}

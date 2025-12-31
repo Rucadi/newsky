@@ -1,0 +1,23 @@
+{
+  "BOTI Redux Voiced 1-1": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1",
+      "file_id": 223349,
+      "file_name": "BOTI Redux Voiced 1-1-54417-1-1-1629766248.zip",
+      "mod_id": 54417,
+      "hash": "sha256-d4SlRqpDsxVm/MUT8rrjG4HbiyUdFvr2twsL1u7LPGQ="
+    },
+    "type": "primary"
+  },
+  "BOTIExtra Voiced 1-1": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1",
+      "file_id": 223350,
+      "file_name": "BOTIExtra Voiced 1-1-54417-1-1-1629766324.zip",
+      "mod_id": 54417,
+      "hash": "sha256-0+10VjinJRKygxqroRUrNcuM0Yp3E7gpo525jSJoyGk="
+    }
+  }
+}

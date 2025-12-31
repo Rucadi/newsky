@@ -1,0 +1,23 @@
+{
+  "1WRSE": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1",
+      "file_id": 252075,
+      "file_name": "1WRSE-60842-1-1640622692.7z",
+      "mod_id": 60842,
+      "hash": "sha256-LGAnLOtc32HD/t3ZKbOAn81AMLnD9oSwVNioqxi21yI="
+    },
+    "type": "primary"
+  },
+  "Fixes by Xtudo": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1",
+      "file_id": 252192,
+      "file_name": "Fixes by Xtudo-60842-1-1640671195.7z",
+      "mod_id": 60842,
+      "hash": "sha256-RHkjaGXMGM2VlnL/9jFaYF27ZCPw/J+UVPpAnKkVFVA="
+    }
+  }
+}

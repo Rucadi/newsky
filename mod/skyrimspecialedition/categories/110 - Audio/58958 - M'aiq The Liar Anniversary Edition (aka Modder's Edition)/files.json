@@ -1,0 +1,23 @@
+{
+  "Maiq Anniversary Edition (aka Modder's Edition)": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1",
+      "file_id": 243886,
+      "file_name": "Maiq Anniversary Edition (aka Modder's Edition)-58958-1-1637709442.7z",
+      "mod_id": 58958,
+      "hash": "sha256-Ojcv7QLBAQqILXONIPoJ9EnYh3ZxRVBPG32X+9NaGIo="
+    },
+    "type": "primary"
+  },
+  "ESL-flagged file with converted .fuz files": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1",
+      "file_id": 244122,
+      "file_name": "ESL-flagged file with converted .fuz files-58958-1-1-1637784795.7z",
+      "mod_id": 58958,
+      "hash": "sha256-lyflbOFWJNsfYHgAzfLilsOd9Q0KXnIPskKSj0LAk5c="
+    }
+  }
+}

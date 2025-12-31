@@ -1,0 +1,23 @@
+{
+  "HD Moons And Stars v081": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "0.81",
+      "file_id": 340931,
+      "file_name": "HD Moons And Stars v081-80706-0-81-1671160876.rar",
+      "mod_id": 80706,
+      "hash": "sha256-41Q4fsyvBkr/nk6VeC4HLWwyLqStWA+w6hGdiHdzHkE="
+    },
+    "type": "primary"
+  },
+  "HD Moons Without Stars": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "0.81",
+      "file_id": 340932,
+      "file_name": "HD Moons Without Stars-80706-0-81-1671161012.rar",
+      "mod_id": 80706,
+      "hash": "sha256-xZdX0UhXGJap+rinx/ZZfNHhFokzgAiv1SSFQOGd864="
+    }
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "Katana - Raven Replacer": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1.2RR",
+      "file_id": 619394,
+      "file_name": "Katana - Raven Replacer-69622-1-1-2RR-1745154874.7z",
+      "mod_id": 69622,
+      "hash": "sha256-x7mgnbgJ8i4G7KRKecQj7+UmvziLHRRmGUtujAfoV9M="
+    }
+  },
+  "Katana - Raven Replacer - No Rifle": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1NR",
+      "file_id": 619398,
+      "file_name": "Katana - Raven Replacer - No Rifle-69622-1-1NR-1745155217.7z",
+      "mod_id": 69622,
+      "hash": "sha256-8yoHdODP6R3SdJ9Y6Ozy+T9TAyRONna17RbKE0qpZMg="
+    }
+  },
+  "Requiem - Katana - Raven Replacer": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.3REQ",
+      "file_id": 619399,
+      "file_name": "Requiem - Katana - Raven Replacer-69622-1-3REQ-1745155323.7z",
+      "mod_id": 69622,
+      "hash": "sha256-imn6yR6ThRH1kp63vmeHka77VWOchOJKKkZ6/VbncLg="
+    }
+  },
+  "Katana - Journey in the Shadows": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "3.0.5",
+      "file_id": 620250,
+      "file_name": "Katana - Journey in the Shadows-69622-3-0-5-1745351776.7z",
+      "mod_id": 69622,
+      "hash": "sha256-FyHWM3xGOW1A5KHjKYjZofIHnaiPV9U0UoJTstU/mhw="
+    },
+    "type": "primary"
+  }
+}

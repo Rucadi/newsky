@@ -1,0 +1,23 @@
+{
+  "Viridian Knight Armor - 4k Textures Addon": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "2.0",
+      "file_id": 302988,
+      "file_name": "Viridian Armor - 4k Textures Addon-71568-2-0-1659057351.7z",
+      "mod_id": 71568,
+      "hash": "sha256-xH9Lsw9oHciDeK8GosuBpttrvFHcYfvoX3+n7ogetxI="
+    }
+  },
+  "Viridian Knight Armor - Main File - 1K 2K Textures": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "5.3",
+      "file_id": 697454,
+      "file_name": "Viridian Knight Armor - Main File - 1K 2K Textures-71568-5-3-1765602261.7z",
+      "mod_id": 71568,
+      "hash": "sha256-Z1yW8J6Pj22yTFqOZqj4jR/nwsi7VR7rCIywVGEJDQA="
+    },
+    "type": "primary"
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "Spirit of Saturalia - Evening Star Start": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "0.11",
+      "file_id": 696440,
+      "file_name": "Spirit of Saturalia - Evening Star Start-81167-0-11-1765369009.7z",
+      "mod_id": 81167
+    }
+  },
+  "Spirit of Saturalia - A Christmas Quest": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "0.12.2",
+      "file_id": 702289,
+      "file_name": "Spirit of Saturalia - A Christmas Quest-81167-0-12-2-1766770225.7z",
+      "mod_id": 81167
+    },
+    "type": "primary"
+  }
+}

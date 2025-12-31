@@ -1,0 +1,23 @@
+{
+  "footprints-heelsAddon_iniForKiD": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.01",
+      "file_id": 348417,
+      "file_name": "footprints-heelsAddon_iniForKiD-72854-1-01-1673383703.7z",
+      "mod_id": 72854,
+      "hash": "sha256-WLRDntNLT4iYTJKz40SMLc8hZx+PMetbu+AligQGXcM="
+    }
+  },
+  "footprints-heelsAddon_SPID_v1.07": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.07",
+      "file_id": 412791,
+      "file_name": "footprints-heelsAddon_SPID_v1.07-72854-1-07-1690832619.7z",
+      "mod_id": 72854,
+      "hash": "sha256-oCuHFH3XNhAqqltFhDsha2byA1HidYuboLalLQAK1BA="
+    },
+    "type": "primary"
+  }
+}

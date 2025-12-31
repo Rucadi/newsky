@@ -1,0 +1,33 @@
+{
+  "EGIL Battle Queen Crown Hotfix": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "2022.b",
+      "file_id": 326540,
+      "file_name": "EGIL Battle Queen Crown Hotfix-77509-2022-b-1666719816.7z",
+      "mod_id": 77509,
+      "hash": "sha256-qqz1jJ+X/oEvVhaAtPvxC9KFpfFwFrlzD8HKtC+OOU0="
+    }
+  },
+  "EGIL Battle Queen 2K Textures": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "2022.b",
+      "file_id": 326600,
+      "file_name": "EGIL Battle Queen 2K Textures-77509-2022-c-1666745212.7z",
+      "mod_id": 77509,
+      "hash": "sha256-a3Nd8t6FV4iAipknpBMk9im1zTPChnqLgjvnn6q1fJE="
+    }
+  },
+  "BHUNP EGIL Battle Queen": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "2022.e",
+      "file_id": 327772,
+      "file_name": "BHUNP EGIL Battle Queen-77509-2022-e-1667170662.7z",
+      "mod_id": 77509,
+      "hash": "sha256-e3WzGJbB+QsTcGO+p7qpn/nDYkpOsH1xt+hQZk1QAe4="
+    },
+    "type": "primary"
+  }
+}

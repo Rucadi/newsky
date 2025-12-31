@@ -2,6 +2,8 @@
 - Author: PraedythXVI
 - Game: skyrimspecialedition
 - Mod Page: https://www.nexusmods.com/skyrimspecialedition/mods/52073
+
+
 [left]![](https://live.staticflickr.com/65535/54430421320_a04823a02a_o.png)﻿
   
 Replaces models and textures for:[/left]-The Ancient Traveller skull.

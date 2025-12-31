@@ -1,0 +1,24 @@
+{
+  "dTry's Key Utils AE": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1",
+      "file_id": 292793,
+      "file_name": "dTry's Key Utils AE-69944-1-1-1655790332.7z",
+      "mod_id": 69944,
+      "hash": "sha256-/6s3jaVxMdcevi57M77v8OHrN0o0cSWsB6ilBGY7gZY="
+    },
+    "type": "primary"
+  },
+  "dTry's Key Utils SE": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1",
+      "file_id": 292794,
+      "file_name": "dTry's Key Utils SE-69944-1-1-1655790357.7z",
+      "mod_id": 69944,
+      "hash": "sha256-lTisuihs2z26s/K3SCZfVFG1MMTnUTHp9XhI597ITAo="
+    },
+    "type": "primary"
+  }
+}

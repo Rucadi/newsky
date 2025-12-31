@@ -2,6 +2,8 @@
 - Author: zhongjiedong
 - Game: skyrimspecialedition
 - Mod Page: https://www.nexusmods.com/skyrimspecialedition/mods/68402
+
+
 So I've been using mods or patchers that make weapons have a more realistic range but then ran into this issue: certain enemies like Trolls and Lurkers have huge hitboxes so they cannot be hit from the front by shorter-range weapons.
   
   

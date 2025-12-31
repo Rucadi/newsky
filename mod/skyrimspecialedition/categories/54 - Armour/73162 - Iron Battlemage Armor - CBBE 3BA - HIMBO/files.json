@@ -1,0 +1,33 @@
+{
+  "Iron Battlemage - Immersive Sounds - Compendium Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 306718,
+      "file_name": "Iron Battlemage - Immersive Sounds - Compendium Patch-73162-1-0-1660265313.7z",
+      "mod_id": 73162,
+      "hash": "sha256-CRGZEQjJ9nk41uLS0bjEV7Di6OlzGuxIWHGOjP/Ki28="
+    }
+  },
+  "Iron Battlemage Vanilla Body Meshes": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 306756,
+      "file_name": "Iron Battlemage-73162-1-1-1660275848.7z",
+      "mod_id": 73162,
+      "hash": "sha256-xAgjTzg0tfNhZOfRf9kRELccxHYLC59+B6JzO2vKaPc="
+    }
+  },
+  "Iron Battlemage": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.2.2",
+      "file_id": 679010,
+      "file_name": "Iron Battlemage-73162-1-2-2-1761115105.7z",
+      "mod_id": 73162,
+      "hash": "sha256-h0xEbIpKTQUSBFEgZ81z82ap5a+HsZkWYHZLl3G3/vw="
+    },
+    "type": "primary"
+  }
+}

@@ -2,6 +2,8 @@
 - Author: mnikjom Waribiki EnaiSiaion
 - Game: skyrimspecialedition
 - Mod Page: https://www.nexusmods.com/skyrimspecialedition/mods/71616
+
+
 [font=Times New Roman]AURI - WINTERSUN PATCH[/font]
 
   

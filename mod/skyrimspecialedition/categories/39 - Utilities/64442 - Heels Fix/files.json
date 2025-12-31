@@ -1,0 +1,33 @@
+{
+  "Sit Anywhere HF Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 287782,
+      "file_name": "Sit Anywhere HF Patch-64442-1-0-1653955886.7z",
+      "mod_id": 64442,
+      "hash": "sha256-0CZvxL6VbyRBG/mhtLhamtbmQ7Ddmsqz3ISTVcyHjdY="
+    }
+  },
+  "HeelsFix": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.9",
+      "file_id": 562563,
+      "file_name": "HeelsFix-64442-1-9-1731692494.7z",
+      "mod_id": 64442,
+      "hash": "sha256-QcBHKwnuSfYou/rY7qKjndWUUffg/VHwRVpEutBd5bM="
+    },
+    "type": "primary"
+  },
+  "HeelsFix_SimpleSit": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 619889,
+      "file_name": "HeelsFix_SimpleSit-64442-1-0-1745261256.7z",
+      "mod_id": 64442,
+      "hash": "sha256-haogob+XJgh2rzcx7TsUbjJpl4cM3UaQLmScx3L6+34="
+    }
+  }
+}

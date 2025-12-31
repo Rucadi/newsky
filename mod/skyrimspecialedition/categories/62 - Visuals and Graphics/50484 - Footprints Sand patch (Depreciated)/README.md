@@ -2,6 +2,8 @@
 - Author: hexabit modal1 and Vai1lyn
 - Game: skyrimspecialedition
 - Mod Page: https://www.nexusmods.com/skyrimspecialedition/mods/50484
+
+
 [font=Lucida Sans Unicode]\*\*\*\*\*\*\*\*\*This patch is now depreciated. Please use [**Footprints - Alternative Design**](https://www.nexusmods.com/skyrimspecialedition/mods/109544) by **[ArtistoMods](https://www.nexusmods.com/skyrimspecialedition/users/109526598)[font=Lucida Sans Unicode][color=#ffff00]\*\*\*\*\*\*\*\*\***[/font]
   
   

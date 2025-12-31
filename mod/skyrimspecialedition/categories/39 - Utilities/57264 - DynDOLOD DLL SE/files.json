@@ -1,0 +1,35 @@
+{
+  "2 - DynDOLOD DLL SE - Steam - 1.6.1170": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "2.45",
+      "file_id": 462396,
+      "file_name": "DynDOLOD DLL SE - SKSE64 Plugin - SSE 1.6.1170-57264-2-45-1705525988.7z",
+      "mod_id": 57264,
+      "hash": "sha256-hECLRn2LlUYT5yjBJmBYYXaSaKTXHy9/PmEG2m9uq/8="
+    },
+    "type": "primary"
+  },
+  "2- DynDOLOD DLL SE - GOG - 1.6.1179": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "2.45",
+      "file_id": 476212,
+      "file_name": "DynDOLOD DLL SE - GOG - 1.6.1179-57264-2-45-1709379728.7z",
+      "mod_id": 57264,
+      "hash": "sha256-yTfXEEdhDSHrhAmi2FUVSmLNBnKZq3PbIymtvVm7CQs="
+    },
+    "type": "primary"
+  },
+  "1 - DynDOLOD DLL SE - Scripts": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "2.82.9",
+      "file_id": 495330,
+      "file_name": "1 - DynDOLOD DLL SE - Scripts-57264-2-82-9-1714234014.7z",
+      "mod_id": 57264,
+      "hash": "sha256-3xwTExqzaAT5Wv3JpPvvnd7pBritOelb9UMzutV4z0Y="
+    },
+    "type": "primary"
+  }
+}

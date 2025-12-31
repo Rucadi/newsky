@@ -2,6 +2,8 @@
 - Author: lilebonymace
 - Game: skyrimspecialedition
 - Mod Page: https://www.nexusmods.com/skyrimspecialedition/mods/61123
+
+
 **Description**
   
 This mod makes farmers, miners and fishermen of Skyrim vendors.

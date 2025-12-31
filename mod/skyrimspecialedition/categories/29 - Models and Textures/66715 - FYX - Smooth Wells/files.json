@@ -1,96 +1,96 @@
 {
-    "FYX - Smooth Wells - Imperial Well": {
-        "nexusmods": {
-            "game_name": "skyrimspecialedition",
-            "version": "1.0",
-            "file_id": 277978,
-            "file_name": "FYX - Smooth Wells - Imperial Well-66715-1-0-1650268462.7z",
-            "mod_id": 66715,
-            "hash": "sha256-wbYQ8PT+ew4hZaOEUCBhRQeTj5jAYk9ACiFUNjhoCcc="
-        }
-    },
-    "FYX - Smooth Wells - Water in Wells - Imperial Well": {
-        "nexusmods": {
-            "game_name": "skyrimspecialedition",
-            "version": "1.0",
-            "file_id": 277980,
-            "file_name": "FYX - Smooth Wells - Water in Wells - Imperial Well-66715-1-0-1650268547.7z",
-            "mod_id": 66715,
-            "hash": "sha256-2sgVo20J3Tlg64WYduQf4V0oAux+QnM89in3Cdzk9xM="
-        }
-    },
-    "FYX - Smooth Wells - Imperial Well - Parallax": {
-        "nexusmods": {
-            "game_name": "skyrimspecialedition",
-            "version": "1.0",
-            "file_id": 277983,
-            "file_name": "FYX - Smooth Wells - Imperial Well - Parallax-66715-1-0-1650269786.7z",
-            "mod_id": 66715,
-            "hash": "sha256-qLFEFLd1m+8y3dz8j39c5WcLD5SipVDGUAdotkmbzJg="
-        }
-    },
-    "FYX - Smooth Wells - Water in Wells - Imperial Well - Parallax": {
-        "nexusmods": {
-            "game_name": "skyrimspecialedition",
-            "version": "1.0",
-            "file_id": 277984,
-            "file_name": "FYX - Smooth Wells - Water in Wells - Imperial Well - Parallax-66715-1-0-1650269843.7z",
-            "mod_id": 66715,
-            "hash": "sha256-6LPcWJU/K1wUluuYC1UXJ18N9qEdpLZdDRNJwSFjD6U="
-        }
-    },
-    "FYX - Smooth Wells - CotN Falkreath": {
-        "nexusmods": {
-            "game_name": "skyrimspecialedition",
-            "version": "1.0.1",
-            "file_id": 278607,
-            "file_name": "FYX - Smooth Wells - CotN Falkreath-66715-1-0-1-1650518348.7z",
-            "mod_id": 66715,
-            "hash": "sha256-DhQ/yi1H2asynFZ8Lm99br83wHWI/aaCBbrYCqNcR4k="
-        }
-    },
-    "FYX - Smooth Wells": {
-        "nexusmods": {
-            "game_name": "skyrimspecialedition",
-            "version": "1.0.5",
-            "file_id": 287678,
-            "file_name": "FYX - Smooth Wells-66715-1-0-5-1653925275.7z",
-            "mod_id": 66715,
-            "hash": "sha256-rYynkGeK2SNHUGOHVEToVO2OdHrhFuMf0UrLjv/3fX0="
-        },
-        "type": "primary"
-    },
-    "FYX - Smooth Wells - Parallax": {
-        "nexusmods": {
-            "game_name": "skyrimspecialedition",
-            "version": "1.0.5",
-            "file_id": 287679,
-            "file_name": "FYX - Smooth Wells - Parallax-66715-1-0-5-1653925325.7z",
-            "mod_id": 66715,
-            "hash": "sha256-vVv2MDgm1QOH4GSqng8rbd7AkujkDqRBiHULKEyJW4A="
-        },
-        "type": "primary"
-    },
-    "FYX - Smooth Wells - Water in Wells": {
-        "nexusmods": {
-            "game_name": "skyrimspecialedition",
-            "version": "1.0.5",
-            "file_id": 287682,
-            "file_name": "FYX - Smooth Wells - Water in Wells-66715-1-0-5-1653925402.7z",
-            "mod_id": 66715,
-            "hash": "sha256-Rp/NYERM0k/Os3fwWdTUwsAtcOyEWKRMDRIJfhQQwIA="
-        },
-        "type": "primary"
-    },
-    "FYX - Smooth Wells - Water in Wells - Parallax": {
-        "nexusmods": {
-            "game_name": "skyrimspecialedition",
-            "version": "1.0.5",
-            "file_id": 287683,
-            "file_name": "FYX - Smooth Wells - Water in Wells - Parallax-66715-1-0-5-1653925457.7z",
-            "mod_id": 66715,
-            "hash": "sha256-4Lx3/mfYn0OhZ1pWY8cLMhiwk7WLLvW4CIimne2D4KQ="
-        },
-        "type": "primary"
+  "FYX - Smooth Wells - Imperial Well": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 277978,
+      "file_name": "FYX - Smooth Wells - Imperial Well-66715-1-0-1650268462.7z",
+      "mod_id": 66715,
+      "hash": "sha256-wbYQ8PT+ew4hZaOEUCBhRQeTj5jAYk9ACiFUNjhoCcc="
     }
+  },
+  "FYX - Smooth Wells - Water in Wells - Imperial Well": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 277980,
+      "file_name": "FYX - Smooth Wells - Water in Wells - Imperial Well-66715-1-0-1650268547.7z",
+      "mod_id": 66715,
+      "hash": "sha256-2sgVo20J3Tlg64WYduQf4V0oAux+QnM89in3Cdzk9xM="
+    }
+  },
+  "FYX - Smooth Wells - Imperial Well - Parallax": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 277983,
+      "file_name": "FYX - Smooth Wells - Imperial Well - Parallax-66715-1-0-1650269786.7z",
+      "mod_id": 66715,
+      "hash": "sha256-qLFEFLd1m+8y3dz8j39c5WcLD5SipVDGUAdotkmbzJg="
+    }
+  },
+  "FYX - Smooth Wells - Water in Wells - Imperial Well - Parallax": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 277984,
+      "file_name": "FYX - Smooth Wells - Water in Wells - Imperial Well - Parallax-66715-1-0-1650269843.7z",
+      "mod_id": 66715,
+      "hash": "sha256-6LPcWJU/K1wUluuYC1UXJ18N9qEdpLZdDRNJwSFjD6U="
+    }
+  },
+  "FYX - Smooth Wells - CotN Falkreath": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0.1",
+      "file_id": 278607,
+      "file_name": "FYX - Smooth Wells - CotN Falkreath-66715-1-0-1-1650518348.7z",
+      "mod_id": 66715,
+      "hash": "sha256-DhQ/yi1H2asynFZ8Lm99br83wHWI/aaCBbrYCqNcR4k="
+    }
+  },
+  "FYX - Smooth Wells": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0.5",
+      "file_id": 287678,
+      "file_name": "FYX - Smooth Wells-66715-1-0-5-1653925275.7z",
+      "mod_id": 66715,
+      "hash": "sha256-rYynkGeK2SNHUGOHVEToVO2OdHrhFuMf0UrLjv/3fX0="
+    },
+    "type": "primary"
+  },
+  "FYX - Smooth Wells - Parallax": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0.5",
+      "file_id": 287679,
+      "file_name": "FYX - Smooth Wells - Parallax-66715-1-0-5-1653925325.7z",
+      "mod_id": 66715,
+      "hash": "sha256-vVv2MDgm1QOH4GSqng8rbd7AkujkDqRBiHULKEyJW4A="
+    },
+    "type": "primary"
+  },
+  "FYX - Smooth Wells - Water in Wells": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0.5",
+      "file_id": 287682,
+      "file_name": "FYX - Smooth Wells - Water in Wells-66715-1-0-5-1653925402.7z",
+      "mod_id": 66715,
+      "hash": "sha256-Rp/NYERM0k/Os3fwWdTUwsAtcOyEWKRMDRIJfhQQwIA="
+    },
+    "type": "primary"
+  },
+  "FYX - Smooth Wells - Water in Wells - Parallax": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0.5",
+      "file_id": 287683,
+      "file_name": "FYX - Smooth Wells - Water in Wells - Parallax-66715-1-0-5-1653925457.7z",
+      "mod_id": 66715,
+      "hash": "sha256-4Lx3/mfYn0OhZ1pWY8cLMhiwk7WLLvW4CIimne2D4KQ="
+    },
+    "type": "primary"
+  }
 }

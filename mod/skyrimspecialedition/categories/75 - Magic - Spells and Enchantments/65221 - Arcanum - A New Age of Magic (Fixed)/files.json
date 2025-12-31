@@ -1,0 +1,24 @@
+{
+  "Arcanum Base Files (Part 1)": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.4",
+      "file_id": 460856,
+      "file_name": "Arcanum Base Files (Part 1)-65221-1-3-1705114286.7z",
+      "mod_id": 65221,
+      "hash": "sha256-cZRoeKC8IKoFbVEtSIZxP+anHrY9e8Go5Fopp1j5vkU="
+    },
+    "type": "primary"
+  },
+  "Arcanum ESP (Part 2)": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.4",
+      "file_id": 460919,
+      "file_name": "Arcanum ESP (Part 2)-65221-1-4-1705146402.zip",
+      "mod_id": 65221,
+      "hash": "sha256-22qT8Ys79yFm4laNTk2vzDpVRLB7PjUv552Za+7BVUE="
+    },
+    "type": "primary"
+  }
+}

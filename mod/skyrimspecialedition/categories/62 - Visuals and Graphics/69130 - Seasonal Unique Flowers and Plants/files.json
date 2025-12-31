@@ -1,0 +1,24 @@
+{
+  "Seasonal Unique Flowers and Plants - for ESM or ESP": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 288901,
+      "file_name": "Seasonal Unique Flowers and Plants-69130-1-0--1654423073.zip",
+      "mod_id": 69130,
+      "hash": "sha256-C8uQ1y/3DsDwhXvk9KuGyI+G3PxsKQBsX+zB9X1YokY="
+    },
+    "type": "primary"
+  },
+  "Seasonal Unique Flowers and Plants - for ESL": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1",
+      "file_id": 353943,
+      "file_name": "Seasonal Unique Flowers and Plants - ESL Version-69130-1-1-1674932571.zip",
+      "mod_id": 69130,
+      "hash": "sha256-Boiea5BcYDpoYHRK+RwtKqTWbSLdrisWDzU1FiImIY8="
+    },
+    "type": "primary"
+  }
+}

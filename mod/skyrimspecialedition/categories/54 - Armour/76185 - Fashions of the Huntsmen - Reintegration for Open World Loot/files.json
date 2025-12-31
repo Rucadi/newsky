@@ -1,0 +1,34 @@
+{
+  "Fashions of the Huntsmen - Reintegration for Open World Loot - SPID": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.02",
+      "file_id": 345674,
+      "file_name": "Fashions of the Huntsmen - Reintegration for Open World Loot - SPID-76185-1-02-1672609908.zip",
+      "mod_id": 76185,
+      "hash": "sha256-EMuGKR8IeZRCYYpgdbUv4Vu+XlLNYinW3NncM+Yu0Wc="
+    },
+    "type": "primary"
+  },
+  "Fashions of the Huntsmen - Reintegration for Open World Loot": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.02",
+      "file_id": 345675,
+      "file_name": "Fashions of the Huntsmen - Reintegration for Open World Loot-76185-1-02-1672609946.zip",
+      "mod_id": 76185,
+      "hash": "sha256-9WTtxgibHcKAmWgJUzEMQwMcTc6ZHf5WTHOVy3OX6n8="
+    },
+    "type": "primary"
+  },
+  "Fashions of the Huntsmen - Reintegration for Open World Loot - LACL Addon": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 345688,
+      "file_name": "Fashions of the Huntsmen - Reintegration for Open World Loot - LACL Addon-76185-1-0-1672611073.zip",
+      "mod_id": 76185,
+      "hash": "sha256-xlEIS9wniqlIAwm2glTPDGFJp+drkamIC6hWfDfL5TQ="
+    }
+  }
+}

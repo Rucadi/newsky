@@ -1,0 +1,24 @@
+{
+  "Loyal Maid Sexlab v3": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "3",
+      "file_id": 356617,
+      "file_name": "Loyal Maid Sexlab v3-80603-3-1675596165.rar",
+      "mod_id": 80603,
+      "hash": "sha256-wfbOQflLK6vVKv0SFYW75GjTgAHwcNOqGBCqAuKki7E="
+    },
+    "type": "primary"
+  },
+  "Loyal maid FG V3": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "3",
+      "file_id": 356618,
+      "file_name": "Loyal maid FG V3-80603-3-1675596454.rar",
+      "mod_id": 80603,
+      "hash": "sha256-ovevuCff79Rv1/VpoZZa8d1gjFAH+gwt1UDTpqvl8Ao="
+    },
+    "type": "primary"
+  }
+}

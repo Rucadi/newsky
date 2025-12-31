@@ -1,0 +1,55 @@
+{
+  "Mrissi_sexlab": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "2",
+      "file_id": 359116,
+      "file_name": "Mrissi_sexlab-79550-2-1676220629.rar",
+      "mod_id": 79550,
+      "hash": "sha256-DEJfJlE/6Qq+nDBfrlg99aKKounUcG1l1b9Ne4oONP4="
+    },
+    "type": "primary"
+  },
+  "Mrissi_FG": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "2",
+      "file_id": 359118,
+      "file_name": "Mrissi_FG-79550-2-1676220720.rar",
+      "mod_id": 79550,
+      "hash": "sha256-K8Q6tBCPuzK7d9Q8WvIlWJU76/eCZ/w+Bbe3vUXQ6C4="
+    },
+    "type": "primary"
+  },
+  "Mrissi_OSTIM": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "2",
+      "file_id": 413203,
+      "file_name": "Mrissi_OSTIM-79550-2-1690924645.rar",
+      "mod_id": 79550,
+      "hash": "sha256-MLiRr9VLXp5H1OrZKWbgUaYpIUtWuJFfn7EKaIKVXV0="
+    },
+    "type": "primary"
+  },
+  "Shadowman_Mrissi_Ostim_OnlyMarriage": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "O",
+      "file_id": 416974,
+      "file_name": "Shadowman_Mrissi_Ostim_OnlyMarriage-79550-O-1692008051.rar",
+      "mod_id": 79550,
+      "hash": "sha256-i6uwqQRYPbPxFlORdGfox2coHRWp8PxunIwWPEMRrGw="
+    }
+  },
+  "Mrissi_OSTIM_Standalone": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "S",
+      "file_id": 417596,
+      "file_name": "Mrissi_OSTIM_Standalone-79550-S-1692181307.rar",
+      "mod_id": 79550,
+      "hash": "sha256-OLX/Qkm80WoCfSfCUQoayHfwmljmwbWiSz+mbSpFjPA="
+    }
+  }
+}

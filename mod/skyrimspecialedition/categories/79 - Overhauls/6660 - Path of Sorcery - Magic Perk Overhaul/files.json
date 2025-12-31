@@ -1,0 +1,33 @@
+{
+  "Path of Sorcery 3.2": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "3.2",
+      "file_id": 587862,
+      "file_name": "Path of Sorcery 3.2-6660-3-2-1737936287.zip",
+      "mod_id": 6660,
+      "hash": "sha256-tQt3mTU3j+92p09MDFeAZ/2zi0SpSe+WAQnuskXdssY="
+    },
+    "type": "primary"
+  },
+  "Patch for Anniversary Edition 1.1": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1",
+      "file_id": 587863,
+      "file_name": "Patch for Anniversary Edition 1.1-6660-1-1-1737936341.zip",
+      "mod_id": 6660,
+      "hash": "sha256-5FNWnDp4RUSQTVQ8GrqIi5Kanc/KCpjv8k83PRKaE9E="
+    }
+  },
+  "Patch for Blood and Snow": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 605588,
+      "file_name": "Patch for Blood and Snow-6660-1-0-1741977597.rar",
+      "mod_id": 6660,
+      "hash": "sha256-Dt59tcLtk6oL16NFiWlgV0/1DfnT6TUtIDuZxPthJc8="
+    }
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "Road Signs Fast Travel": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "3.3",
+      "file_id": 415024,
+      "file_name": "Road Signs Fast Travel-71147-3-3-1691432234.zip",
+      "mod_id": 71147,
+      "hash": "sha256-75Y8wMdBp3ndADunXV3FCIijyX74KV8OMi85KKJB2kQ="
+    },
+    "type": "primary"
+  },
+  "Road Signs Fast Travel - Custom Spawn": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "3.3",
+      "file_id": 415025,
+      "file_name": "Road Signs Fast Travel - Custom Spawn-71147-3-3-1691432263.zip",
+      "mod_id": 71147,
+      "hash": "sha256-s4/FXsuayze9rpU0CveWJww8xa6zwQd1hjZ+nC29xvg="
+    }
+  },
+  "Road Signs Fast Travel - First Person Messages": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "3.3",
+      "file_id": 415026,
+      "file_name": "Road Signs Fast Travel - First Person Messages-71147-3-3-1691432286.zip",
+      "mod_id": 71147,
+      "hash": "sha256-CEdl7RQ3qdp2TABj3YqLGmyBJ2P2IkEmo7p+hNrPJSI="
+    }
+  },
+  "Road Signs Fast Travel - Travel Shrines": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "3.3",
+      "file_id": 415027,
+      "file_name": "Road Signs Fast Travel - Travel Shrines-71147-3-3-1691432336.zip",
+      "mod_id": 71147,
+      "hash": "sha256-xfN2Z/Bix3s6UdgatwwjJVLSiTErHJiEMkwq9PzpW2c="
+    }
+  }
+}

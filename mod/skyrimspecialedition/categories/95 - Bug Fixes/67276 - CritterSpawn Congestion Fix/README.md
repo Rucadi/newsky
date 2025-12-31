@@ -2,6 +2,8 @@
 - Author: Excinerus
 - Game: skyrimspecialedition
 - Mod Page: https://www.nexusmods.com/skyrimspecialedition/mods/67276
+
+
 CritterSpawn is the script responsible for spawning critters in your game, that's Moths, Butteflies, Torchbugs, Bees, DragonFlies and Fish.
   
   

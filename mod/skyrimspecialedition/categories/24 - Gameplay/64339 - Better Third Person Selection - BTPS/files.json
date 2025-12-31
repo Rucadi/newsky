@@ -1,13 +1,13 @@
 {
-    "Better Third Person Selection (AE - SE)": {
-        "nexusmods": {
-            "game_name": "skyrimspecialedition",
-            "version": "0.8.9",
-            "file_id": 635566,
-            "file_name": "Better Third Person Selection (AE - SE)-64339-0-8-9-1749297418.7z",
-            "mod_id": 64339,
-            "hash": "sha256-oT2BhZz6Kg16P+QPoakMWlBtSV4xNgnGZ8DsTgtby2k="
-        },
-        "type": "primary"
-    }
+  "Better Third Person Selection (AE - SE)": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "0.8.9",
+      "file_id": 635566,
+      "file_name": "Better Third Person Selection (AE - SE)-64339-0-8-9-1749297418.7z",
+      "mod_id": 64339,
+      "hash": "sha256-oT2BhZz6Kg16P+QPoakMWlBtSV4xNgnGZ8DsTgtby2k="
+    },
+    "type": "primary"
+  }
 }

@@ -1,0 +1,23 @@
+{
+  "TAWOBA Remastered Easier Books_SPID": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "2.1",
+      "file_id": 414651,
+      "file_name": "TAWOBA Remastered Easier Books_SCALED-77246-2-1-1691327196.zip",
+      "mod_id": 77246,
+      "hash": "sha256-ty9pkZk+lozT98lSoqeblGd2kKyzyPS316KDznNTjeM="
+    }
+  },
+  "TAWOBA Easier Books_CID": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "3.1",
+      "file_id": 583258,
+      "file_name": "TAWOBA Easier Books_CID-77246-3-1-1736863780.7z",
+      "mod_id": 77246,
+      "hash": "sha256-n/CMniAlHxwKUW2+iKLoacBavlBXnamSVGM5UCWxLuA="
+    },
+    "type": "primary"
+  }
+}

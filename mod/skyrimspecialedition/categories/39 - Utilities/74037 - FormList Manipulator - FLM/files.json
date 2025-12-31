@@ -1,23 +1,23 @@
 {
-    "SSEEdit Scripts - Copy EditorIDs": {
-        "nexusmods": {
-            "game_name": "skyrimspecialedition",
-            "version": "1.7.0",
-            "file_id": 396026,
-            "file_name": "SSEEdit Script - Copy EditorIDs-74037-1-7-0-1686235698.zip",
-            "mod_id": 74037,
-            "hash": "sha256-uYoYTfKqM/X6qZDV5BXJUFHEGor/A70dgl1d5CEUa/o="
-        }
-    },
-    "FormList Manipulator - FLM": {
-        "nexusmods": {
-            "game_name": "skyrimspecialedition",
-            "version": "1.8.1",
-            "file_id": 546948,
-            "file_name": "FormList Manipulator - FLM-74037-1-8-1-1727507011.zip",
-            "mod_id": 74037,
-            "hash": "sha256-s/euCCA1ZYV0So9qNmOnHjaFoifg9n9PMpnbGizZXWE="
-        },
-        "type": "primary"
+  "SSEEdit Scripts - Copy EditorIDs": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.7.0",
+      "file_id": 396026,
+      "file_name": "SSEEdit Script - Copy EditorIDs-74037-1-7-0-1686235698.zip",
+      "mod_id": 74037,
+      "hash": "sha256-uYoYTfKqM/X6qZDV5BXJUFHEGor/A70dgl1d5CEUa/o="
     }
+  },
+  "FormList Manipulator - FLM": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.8.1",
+      "file_id": 546948,
+      "file_name": "FormList Manipulator - FLM-74037-1-8-1-1727507011.zip",
+      "mod_id": 74037,
+      "hash": "sha256-s/euCCA1ZYV0So9qNmOnHjaFoifg9n9PMpnbGizZXWE="
+    },
+    "type": "primary"
+  }
 }

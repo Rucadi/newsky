@@ -1,93 +1,93 @@
 {
-    "Xelzaz Follower Wyrmstooth Patch": {
-        "nexusmods": {
-            "game_name": "skyrimspecialedition",
-            "version": "1.0.0",
-            "file_id": 309601,
-            "file_name": "Xelzaz Follower Wyrmstooth Patch-62893-1-0-0-1661198775.zip",
-            "mod_id": 62893,
-            "hash": "sha256-q4ItytSfD5ap/HHXfUSesCQ0reLhbKJvMi3ASe5jSDY="
-        }
-    },
-    "Xelzaz Follower Tel Jerdein Patch": {
-        "nexusmods": {
-            "game_name": "skyrimspecialedition",
-            "version": "1.0.0",
-            "file_id": 357655,
-            "file_name": "Xelzaz Follower Tel Jerdein Patch-62893-1-0-0-1675837749.zip",
-            "mod_id": 62893,
-            "hash": "sha256-EnP6XepQ+gG00sdtsv4dcpjKviulBjNdWnV2MA5zWwA="
-        }
-    },
-    "Xelzaz Follower April Fools Patch 1.1.1 (2023)": {
-        "nexusmods": {
-            "game_name": "skyrimspecialedition",
-            "version": "1.1.1",
-            "file_id": 383219,
-            "file_name": "Xelzaz Follower April Fools Patch 1.1.1 (2023)-62893-1-1-1-1682844188.zip",
-            "mod_id": 62893,
-            "hash": "sha256-gn0cSDX+8bCfARgYb23mDOTQxhF6xCJQqx82rGQLUAc="
-        }
-    },
-    "Xelzaz Anniversary Edition Plugin 1.12.0": {
-        "nexusmods": {
-            "game_name": "skyrimspecialedition",
-            "version": "1.12.0",
-            "file_id": 545964,
-            "file_name": "Xelzaz Anniversary Edition Plugin 1.12.0-62893-1-12-0-1727265686.zip",
-            "mod_id": 62893,
-            "hash": "sha256-9r4f8uhGWkhFXnUeyaGyYiiZJNT2aDBIrgEgC7/Xjlk="
-        }
-    },
-    "Xelzaz Follower HD Texture Pack 1.13.0": {
-        "nexusmods": {
-            "game_name": "skyrimspecialedition",
-            "version": "1.13.0",
-            "file_id": 589736,
-            "file_name": "Xelzaz Follower HD Texture Pack 1.13.0-62893-1-13-0-1738404443.zip",
-            "mod_id": 62893,
-            "hash": "sha256-s9/ast7C4xmF8/Z8x8BdYAkpy4MLnnnANJ+udClexus="
-        }
-    },
-    "Xelzaz Sirenroot Patch": {
-        "nexusmods": {
-            "game_name": "skyrimspecialedition",
-            "version": "1.0.2",
-            "file_id": 589737,
-            "file_name": "Xelzaz Sirenroot Patch-62893-1-0-2-1738404524.zip",
-            "mod_id": 62893,
-            "hash": "sha256-8CNqIzcGk7TdQQcDGTi33Twoy/roxE1IAMQANnYaKDU="
-        }
-    },
-    "Xelzaz HS New Gnisis Cornerclub Patch": {
-        "nexusmods": {
-            "game_name": "skyrimspecialedition",
-            "version": "1.0.0",
-            "file_id": 592984,
-            "file_name": "Xelzaz HS New Gnisis Cornerclub Patch-62893-1-0-0-1739174071.zip",
-            "mod_id": 62893,
-            "hash": "sha256-hZofZ91Nn86hvLeXkph2LER0UQ0+hmEHQ9867T1g3jc="
-        }
-    },
-    "Xelzaz JK's New Gnisis Cornerclub Patch": {
-        "nexusmods": {
-            "game_name": "skyrimspecialedition",
-            "version": "1.0.0",
-            "file_id": 606745,
-            "file_name": "Xelzaz JK's New Gnisis Cornerclub Patch-62893-1-0-0-1742233506.zip",
-            "mod_id": 62893,
-            "hash": "sha256-xUVXJc8wVjZQjMlJwWR7r/ytbDXkjKor7CoUsg5nsbk="
-        }
-    },
-    "Xelzaz Follower Core 1.13.2": {
-        "nexusmods": {
-            "game_name": "skyrimspecialedition",
-            "version": "1.13.2",
-            "file_id": 668058,
-            "file_name": "Xelzaz Follower Core 1.13.2-62893-1-13-2-1758472848.zip",
-            "mod_id": 62893,
-            "hash": "sha256-imhOQ6AQWP+ajLIoGMrYsRhDhfl9Qk2OHrfQqQRpyVI="
-        },
-        "type": "primary"
+  "Xelzaz Follower Wyrmstooth Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0.0",
+      "file_id": 309601,
+      "file_name": "Xelzaz Follower Wyrmstooth Patch-62893-1-0-0-1661198775.zip",
+      "mod_id": 62893,
+      "hash": "sha256-q4ItytSfD5ap/HHXfUSesCQ0reLhbKJvMi3ASe5jSDY="
     }
+  },
+  "Xelzaz Follower Tel Jerdein Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0.0",
+      "file_id": 357655,
+      "file_name": "Xelzaz Follower Tel Jerdein Patch-62893-1-0-0-1675837749.zip",
+      "mod_id": 62893,
+      "hash": "sha256-EnP6XepQ+gG00sdtsv4dcpjKviulBjNdWnV2MA5zWwA="
+    }
+  },
+  "Xelzaz Follower April Fools Patch 1.1.1 (2023)": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1.1",
+      "file_id": 383219,
+      "file_name": "Xelzaz Follower April Fools Patch 1.1.1 (2023)-62893-1-1-1-1682844188.zip",
+      "mod_id": 62893,
+      "hash": "sha256-gn0cSDX+8bCfARgYb23mDOTQxhF6xCJQqx82rGQLUAc="
+    }
+  },
+  "Xelzaz Anniversary Edition Plugin 1.12.0": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.12.0",
+      "file_id": 545964,
+      "file_name": "Xelzaz Anniversary Edition Plugin 1.12.0-62893-1-12-0-1727265686.zip",
+      "mod_id": 62893,
+      "hash": "sha256-9r4f8uhGWkhFXnUeyaGyYiiZJNT2aDBIrgEgC7/Xjlk="
+    }
+  },
+  "Xelzaz Follower HD Texture Pack 1.13.0": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.13.0",
+      "file_id": 589736,
+      "file_name": "Xelzaz Follower HD Texture Pack 1.13.0-62893-1-13-0-1738404443.zip",
+      "mod_id": 62893,
+      "hash": "sha256-s9/ast7C4xmF8/Z8x8BdYAkpy4MLnnnANJ+udClexus="
+    }
+  },
+  "Xelzaz Sirenroot Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0.2",
+      "file_id": 589737,
+      "file_name": "Xelzaz Sirenroot Patch-62893-1-0-2-1738404524.zip",
+      "mod_id": 62893,
+      "hash": "sha256-8CNqIzcGk7TdQQcDGTi33Twoy/roxE1IAMQANnYaKDU="
+    }
+  },
+  "Xelzaz HS New Gnisis Cornerclub Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0.0",
+      "file_id": 592984,
+      "file_name": "Xelzaz HS New Gnisis Cornerclub Patch-62893-1-0-0-1739174071.zip",
+      "mod_id": 62893,
+      "hash": "sha256-hZofZ91Nn86hvLeXkph2LER0UQ0+hmEHQ9867T1g3jc="
+    }
+  },
+  "Xelzaz JK's New Gnisis Cornerclub Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0.0",
+      "file_id": 606745,
+      "file_name": "Xelzaz JK's New Gnisis Cornerclub Patch-62893-1-0-0-1742233506.zip",
+      "mod_id": 62893,
+      "hash": "sha256-xUVXJc8wVjZQjMlJwWR7r/ytbDXkjKor7CoUsg5nsbk="
+    }
+  },
+  "Xelzaz Follower Core 1.13.2": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.13.2",
+      "file_id": 668058,
+      "file_name": "Xelzaz Follower Core 1.13.2-62893-1-13-2-1758472848.zip",
+      "mod_id": 62893,
+      "hash": "sha256-imhOQ6AQWP+ajLIoGMrYsRhDhfl9Qk2OHrfQqQRpyVI="
+    },
+    "type": "primary"
+  }
 }

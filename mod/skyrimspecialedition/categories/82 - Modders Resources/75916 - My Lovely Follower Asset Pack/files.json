@@ -1,0 +1,24 @@
+{
+  "My Lovely Hair Color - USSEP": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.3",
+      "file_id": 348768,
+      "file_name": "My Lovely Hair Color - USSEP-75916-1-3-1673496130.zip",
+      "mod_id": 75916,
+      "hash": "sha256-uYiBVuHQ9Ct0SDKp2OZzPJzJwLSqfff8UlMwE0YwIdU="
+    },
+    "type": "primary"
+  },
+  "My Lovely Hair Color - USSEP x High Poly Head Vampire Fix": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.3",
+      "file_id": 348769,
+      "file_name": "My Lovely Hair Color - USSEP x High Poly Head Vampire Fix-75916-1-3-1673496171.zip",
+      "mod_id": 75916,
+      "hash": "sha256-ucRwEu4shlingrrZeLWGEZxBmjTzEy2NL8Yhy/StvRQ="
+    },
+    "type": "primary"
+  }
+}

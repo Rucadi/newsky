@@ -2,6 +2,8 @@
 - Author: alexsylex
 - Game: skyrimspecialedition
 - Mod Page: https://www.nexusmods.com/skyrimspecialedition/mods/74484
+
+
 The compass in Skyrim is... well... a bit underwhelming. For each type of marker, they look the same. So, for example, when you have several quests enabled, it becomes impossible to know what quest are you facing just by looking at the compass. You find yourself again opening the map, trying to guess which one of them is the match. Well, no more!
   
   

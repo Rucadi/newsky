@@ -1,0 +1,24 @@
+{
+  "Minedoors Redone - My version SE - 2K": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1",
+      "file_id": 460923,
+      "file_name": "Minedoors Redone - My version SE - 2K-76278-1-1-1705147441.7z",
+      "mod_id": 76278,
+      "hash": "sha256-tL6sxcPFaOXnRPkUnbaBVSTGXVw12I2r0E09hpsy2L4="
+    },
+    "type": "primary"
+  },
+  "Minedoors Redone - My version SE - 4K": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1",
+      "file_id": 460925,
+      "file_name": "Minedoors Redone - My version SE - 4K-76278-1-1-1705147467.7z",
+      "mod_id": 76278,
+      "hash": "sha256-B7ZC2pHwBSwRUwj4iRg8Yr3ep603uRZyysDOO2dgmKs="
+    },
+    "type": "primary"
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "Spiders of Solstheim - ENB Light - Scrambled Bugs version": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "0.4.1",
+      "file_id": 274978,
+      "file_name": "Spiders of Solstheim - ENB Light - Scrambled Bugs version-64818-0-4-1-1649147144.7z",
+      "mod_id": 64818,
+      "hash": "sha256-MOuIOpKHOvAGKv5ODNvRh31Hj6kO42Rt/fGj/ox+UtM="
+    },
+    "type": "primary"
+  },
+  "Spiders of Solstheim - ENB Light - Non-Scrambled Bugs Version": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "0.4.1",
+      "file_id": 274979,
+      "file_name": "Spiders of Solstheim - ENB Light - Non-Scrambled Bugs Version-64818-0-4-1-1649147171.7z",
+      "mod_id": 64818,
+      "hash": "sha256-4sYC83MGpxl49eCvuDq7L3FD4tZ1fFPgyDnhy26cQKk="
+    },
+    "type": "primary"
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "Custom Skill Menu Basic Icon Pack": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 258865,
+      "file_name": "Custom Skill Menu Basic Icon Pack-62423-1-0-1642939412.zip",
+      "mod_id": 62423,
+      "hash": "sha256-V/ofbpcGu+oF/VFm1/BAuJPyEzZz9HAqAlc1G1ifVcQ="
+    },
+    "type": "primary"
+  },
+  "Custom Skill Menu Dear Diary Dark Mode Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.3",
+      "file_id": 266231,
+      "file_name": "Custom Skill Menu Dear Diary Dark Mode Patch-62423-1-3-1645585614.zip",
+      "mod_id": 62423,
+      "hash": "sha256-Z/V12bVYaZP1+liXPE/U4Z4A5THqNYHGdoAe08sn5XM="
+    }
+  },
+  "Custom Skill Menu Dear Diary Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.3",
+      "file_id": 266232,
+      "file_name": "Custom Skill Menu Dear Diary Patch-62423-1-3-1645585648.zip",
+      "mod_id": 62423,
+      "hash": "sha256-mLUWbHwTtzfwTKrg/uUtA8rjM9Jmq1gG07fxmj8Ujd8="
+    }
+  },
+  "Custom Skill Menu": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1.7",
+      "file_id": 403347,
+      "file_name": "Custom Skill Menu-62423-1-1-7-1688378925.zip",
+      "mod_id": 62423,
+      "hash": "sha256-oSOwJ/W8INp/JPS+PPnM5BJPEzLFlikf0z5e9UGh91g="
+    },
+    "type": "primary"
+  }
+}

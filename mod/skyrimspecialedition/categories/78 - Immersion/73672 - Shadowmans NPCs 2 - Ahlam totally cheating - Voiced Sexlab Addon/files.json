@@ -1,0 +1,24 @@
+{
+  "Shadowman_ahlam_sexlab": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "2.01",
+      "file_id": 478046,
+      "file_name": "Shadowman_ahlam_sexlab-73672-2-01-1709848917.rar",
+      "mod_id": 73672,
+      "hash": "sha256-2J0y8dIFao/lY6dBbEWo7xr2mRs0u6Bk5A6vYOMsVXM="
+    },
+    "type": "primary"
+  },
+  "Shadoman_ahlam_sexlab_noCRF": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "2.01",
+      "file_id": 478047,
+      "file_name": "Shadoman_ahlam_sexlab_noCRF-73672-2-01-1709848944.rar",
+      "mod_id": 73672,
+      "hash": "sha256-WReunQthw2hZKcaeXRQ2w4onYQoQPM2gPoIzGTUQ7SE="
+    },
+    "type": "primary"
+  }
+}

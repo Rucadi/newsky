@@ -1,0 +1,65 @@
+{
+  "Colovian Leather Armor and Outfit 3BA": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "3.1",
+      "file_id": 347693,
+      "file_name": "Colovian Leather Armor and Outfit 3BA-50683-3-1-1673134226.7z",
+      "mod_id": 50683,
+      "hash": "sha256-SOrw6ccSNPDTfcsaxfJWXgxB2w/09duaprSTvqnDohM="
+    },
+    "type": "primary"
+  },
+  "Colovian Leather Armor and Outfit BHUNP": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "3.1",
+      "file_id": 347696,
+      "file_name": "Colovian Leather Armor and Outfit BHUNP-50683-3-1-1673134390.7z",
+      "mod_id": 50683,
+      "hash": "sha256-1fWeh+lXw5+BMef73bm7Do+YemGQYXl8GyuhVML7tWM="
+    },
+    "type": "primary"
+  },
+  "Colovian Leather Armor and Outfit CBBE": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "3.1",
+      "file_id": 347697,
+      "file_name": "Colovian Leather Armor and Outfit CBBE-50683-3-1-1673134463.7z",
+      "mod_id": 50683,
+      "hash": "sha256-9ARcZJQw8K7IO6Zhdyt2WUujsmTybx6PTlZ8knkhl2o="
+    },
+    "type": "primary"
+  },
+  "Colovian Hide and Leather Armor Replacer 3BA": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "3.1",
+      "file_id": 347698,
+      "file_name": "Colovian Hide and Leather Armor Replacer 3BA-50683-3-1-1673134614.7z",
+      "mod_id": 50683,
+      "hash": "sha256-8i/u7GSypFNu6IZHXXs6Gn2ljN0KvO6kUnzruDRCow4="
+    }
+  },
+  "Colovian Hide and Leather Armor Replacer BHUNP": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "3.1",
+      "file_id": 347699,
+      "file_name": "Colovian Hide and Leather Armor Replacer BHUNP-50683-3-1-1673134857.7z",
+      "mod_id": 50683,
+      "hash": "sha256-YXoF0H1xs5SHOu4XG6l+pAVkD8zc7TJ74vIYdt6jTI8="
+    }
+  },
+  "Colovian Hide and Leather Armor Replacer CBBE": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "3.1",
+      "file_id": 347700,
+      "file_name": "Colovian Hide and Leather Armor Replacer CBBE-50683-3-1-1673134948.7z",
+      "mod_id": 50683,
+      "hash": "sha256-gM/4C4LbhijCWuJuQkeQDWqS082B3oqjJtPKZbwAY3g="
+    }
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "Crystal Mudcrabs - SkyTEST Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0.1",
+      "file_id": 220755,
+      "file_name": "Crystal Mudcrabs - SkyTEST Patch-52981-1-0-1-1628817438.rar",
+      "mod_id": 52981,
+      "hash": "sha256-NLbO3iZQfz8U+9dMKTlLnBI3SUTYwlfjmGTx4FtMhwk="
+    }
+  },
+  "Crystal Mudcrabs": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0.2",
+      "file_id": 239976,
+      "file_name": "Crystal Mudcrabs-52981-1-0-2-1636421039.7z",
+      "mod_id": 52981,
+      "hash": "sha256-YMypeUwawZEAiFhH5iUo7hkLnGqBM9nZaAUjut8PJzw="
+    },
+    "type": "primary"
+  }
+}

@@ -2,6 +2,8 @@
 - Author: RemmyKun
 - Game: skyrimspecialedition
 - Mod Page: https://www.nexusmods.com/skyrimspecialedition/mods/64690
+
+
 If you use [ENB Light](https://www.nexusmods.com/skyrimspecialedition/mods/22574) and an interior lighting overhaul mod… you will notice that there are some fire spouts casting enough light.
   
 But the trap mechanisms in this mod are separated from all of that... and their fire FX looks sad…

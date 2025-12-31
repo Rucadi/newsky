@@ -2,6 +2,8 @@
 - Author: RemmyKun
 - Game: skyrimspecialedition
 - Mod Page: https://www.nexusmods.com/skyrimspecialedition/mods/52335
+
+
 This mod contains SMIM meshes and textures.
   
 [size=5]**These candles already had a slight glow... but I feel that it was too slight. So, I made this for those who want more intensity heheh**

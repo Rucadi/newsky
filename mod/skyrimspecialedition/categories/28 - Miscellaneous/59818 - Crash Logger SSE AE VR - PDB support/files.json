@@ -1,33 +1,33 @@
 {
-    "SkyrimSSE 1.5.97.0": {
-        "nexusmods": {
-            "game_name": "skyrimspecialedition",
-            "version": "2024.07.21",
-            "file_id": 523641,
-            "file_name": "SkyrimSSE 1.5.97.0-59818-2024-07-21-1721615756.7z",
-            "mod_id": 59818,
-            "hash": "sha256-jL3kqmZ5rraANkKVINUbrlJJ5se/62YqIJo3ASb8ttc="
-        }
-    },
-    "SkyrimVR PDB": {
-        "nexusmods": {
-            "game_name": "skyrimspecialedition",
-            "version": "2024.07.21",
-            "file_id": 523642,
-            "file_name": "SkyrimVR PDB-59818-2024-07-21-1721615789.7z",
-            "mod_id": 59818,
-            "hash": "sha256-UEKRFMrq6XHgisgqCMBON9qDlxyQpYJAxhn3/vtCXPM="
-        }
-    },
-    "CrashLogger": {
-        "nexusmods": {
-            "game_name": "skyrimspecialedition",
-            "version": "1.16.0",
-            "file_id": 673149,
-            "file_name": "CrashLogger-59818-1-16-0-1759821888.7z",
-            "mod_id": 59818,
-            "hash": "sha256-7/sgwXfMMTckN9b2TfjqcmbHeYvCZ14NCMZGdCN6fME="
-        },
-        "type": "primary"
+  "SkyrimSSE 1.5.97.0": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "2024.07.21",
+      "file_id": 523641,
+      "file_name": "SkyrimSSE 1.5.97.0-59818-2024-07-21-1721615756.7z",
+      "mod_id": 59818,
+      "hash": "sha256-jL3kqmZ5rraANkKVINUbrlJJ5se/62YqIJo3ASb8ttc="
     }
+  },
+  "SkyrimVR PDB": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "2024.07.21",
+      "file_id": 523642,
+      "file_name": "SkyrimVR PDB-59818-2024-07-21-1721615789.7z",
+      "mod_id": 59818,
+      "hash": "sha256-UEKRFMrq6XHgisgqCMBON9qDlxyQpYJAxhn3/vtCXPM="
+    }
+  },
+  "CrashLogger": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.16.0",
+      "file_id": 673149,
+      "file_name": "CrashLogger-59818-1-16-0-1759821888.7z",
+      "mod_id": 59818,
+      "hash": "sha256-7/sgwXfMMTckN9b2TfjqcmbHeYvCZ14NCMZGdCN6fME="
+    },
+    "type": "primary"
+  }
 }

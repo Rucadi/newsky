@@ -1,0 +1,113 @@
+{
+  "PCS - Shellbug Follower Interactions Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 319456,
+      "file_name": "Baby Shellbugs and Shellbug Follower Commentary and Interactions Patch-73441-1-0-1664159724.rar",
+      "mod_id": 73441,
+      "hash": "sha256-9yK8oNiBlcX0pG07Gz9C7Tt3HeaPq+R+FMpbAb0BCaI="
+    }
+  },
+  "Redcap EVG Animated Traversal Addon (ESL flagged)": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1",
+      "file_id": 330766,
+      "file_name": "Redcap EVG Animated Traversal Addon (ESL flagged)-73441-1-1-1668154145.rar",
+      "mod_id": 73441,
+      "hash": "sha256-3NWwZ99bb8+D6tShXjml6H/TAof+JSgyg79WLwix/Ow="
+    }
+  },
+  "CC Goblins Commentary and Gogh Interactions": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1",
+      "file_id": 390684,
+      "file_name": "Redcap CC Goblins Commentary and Gogh Interactions-73441-1-1-1684716268.rar",
+      "mod_id": 73441,
+      "hash": "sha256-iRyn+h9bQMvqrJF9H9fBkR26PYwW27qRJlNL/+qlQC0="
+    }
+  },
+  "PCS - Dreughs Commentary Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 434394,
+      "file_name": "Dreughs - Fathoms Creature Series Commentary Patch-73441-1-0-1697413099.rar",
+      "mod_id": 73441,
+      "hash": "sha256-eunRC8mJz2cQCqABkxs9Z5AJmH3lii4+ymHYnfaplWs="
+    }
+  },
+  "Redcap Description Framework Addon": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.4.5",
+      "file_id": 451006,
+      "file_name": "Redcap Description Framework Addon-73441-1-4-5-1702331706.rar",
+      "mod_id": 73441,
+      "hash": "sha256-4DDrDA8wog54OUADw2+tkF8tuCdtsLxGe+QypbMRJTg="
+    }
+  },
+  "PCS - Gingerbread Atronachs Interactions Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1",
+      "file_id": 459347,
+      "file_name": "FCS - Gingerbread Atronachs Interactions Patch-73441-1-1-1704756707.rar",
+      "mod_id": 73441,
+      "hash": "sha256-V78Dbe7G+7Pf/RZZRrOU32Mgjoo/DGTw+Z/crIM4Mo4="
+    }
+  },
+  "PCS - Anglerfish Commentary and Interactions Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 546557,
+      "file_name": "PCS - Anglerfish Commentary and Interactions Patch-73441-1-0-1727404200.rar",
+      "mod_id": 73441,
+      "hash": "sha256-3cnjHuWInEL7v3G4YYHh1MNY3b4ZCNzmXnBlVXH29QI="
+    }
+  },
+  "CS or ENB Parallax Helmet Fix": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 595552,
+      "file_name": "Community Shaders or ENB Helmet Fix-73441-1-0-1739735823.rar",
+      "mod_id": 73441,
+      "hash": "sha256-pemJ0PbQawHffLUho47xRl2Zv248T2LZPvngHDUhkw0="
+    }
+  },
+  "Redcap Pride Month Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.5",
+      "file_id": 596250,
+      "file_name": "Redcap Pride Month Patch-73441-1-5-1739882325.rar",
+      "mod_id": 73441,
+      "hash": "sha256-w3uaA1jpdnRPYvkiIfZWuH8XvU3ZE1hiBFQ7xJsZxjw="
+    }
+  },
+  "VC A Tale of Blood and Snow Compatibility Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 640431,
+      "file_name": "VC A Tale of Blood and Snow Compatibility Patch-73441-1-0-1750550500.rar",
+      "mod_id": 73441,
+      "hash": "sha256-J52PlRl085z0o/ykjR3+VZIs/gD84k/hTddSWSaz/+I="
+    }
+  },
+  "Redcap": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.4.20",
+      "file_id": 700625,
+      "file_name": "Redcap-73441-1-4-20-1766358173.rar",
+      "mod_id": 73441,
+      "hash": "sha256-AdbqFnQ4Bs4niUJK13LdNDtFa95ADaSBziXn82i7cs8="
+    },
+    "type": "primary"
+  }
+}

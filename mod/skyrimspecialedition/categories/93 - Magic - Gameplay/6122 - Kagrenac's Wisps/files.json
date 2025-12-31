@@ -1,0 +1,23 @@
+{
+  "Kagrenac's Wisps 1.06": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.06",
+      "file_id": 22248,
+      "file_name": "Kagrenac's Wisps 1.06-6122-1-06.zip",
+      "mod_id": 6122,
+      "hash": "sha256-/CBOwr9C6MvTNV4mn47ZsZ87QvYnyDwqvoD3XBY3ANQ="
+    },
+    "type": "primary"
+  },
+  "Kagrenac's Wisps 1.06 - Casting shadows": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.06OP",
+      "file_id": 22255,
+      "file_name": "Kagrenac's Wisps 1.06 - Casting shadows-6122-1-06OP.rar",
+      "mod_id": 6122,
+      "hash": "sha256-xBYSAUe3w23g2Pb//sKErLnna2NCL+CDT3gcgnctYcs="
+    }
+  }
+}

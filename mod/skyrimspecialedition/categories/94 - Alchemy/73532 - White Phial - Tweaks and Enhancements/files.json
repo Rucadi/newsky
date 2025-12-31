@@ -1,0 +1,53 @@
+{
+  "The White Phial - Tweaks and Enhancements - Reliquary of Myth Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "2.0",
+      "file_id": 309154,
+      "file_name": "The White Phial - Tweaks and Enhancements - Reliquary of Myth Patch-73532-2-0-1661083122.7z",
+      "mod_id": 73532,
+      "hash": "sha256-4V3jETAnsUJ6/WjtFdjTCyvGQliIQxafRE2ZALnoMhU="
+    }
+  },
+  "The White Phial - Tweaks and Enhancements - Vanilla Liquids Manually Assigned": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "2.0.1",
+      "file_id": 310803,
+      "file_name": "The White Phial - Tweaks and Enhancements - Vanilla Liquids Manually Assigned-73532-2-0-1-1661610089.7z",
+      "mod_id": 73532,
+      "hash": "sha256-zALrH8t20NymxwzB/yMCHFN4i8coMM6GDefePhe/DdQ="
+    }
+  },
+  "TWP - TnE - WhitePhialBetterAlignments": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "2.2a",
+      "file_id": 488165,
+      "file_name": "TWP - TnE - WhitePhialBetterAlignments-73532-2-2a-1712442227.7z",
+      "mod_id": 73532,
+      "hash": "sha256-hUvRC6BbFt3p/39Rl60n+EDiPDEhrZWUHBT7yPOysGU="
+    }
+  },
+  "TWP - TnE - Artificer Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "2.2.1",
+      "file_id": 491175,
+      "file_name": "TWP - TnE - Artificer Patch-73532-2-2-1-1713210250.7z",
+      "mod_id": 73532,
+      "hash": "sha256-ArTzJBlvH1FOXPYnbSDuww8nr1MKwRN8txCHRP5uIqU="
+    }
+  },
+  "The White Phial - Tweaks and Enhancements": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "2.3.1",
+      "file_id": 667665,
+      "file_name": "The White Phial - Tweaks and Enhancements-73532-2-3-1-1758377705.7z",
+      "mod_id": 73532,
+      "hash": "sha256-VQ+qy9S8HRLQruu8bFyyq+7U6RNRE0toFZSb+z/hz2Y="
+    },
+    "type": "primary"
+  }
+}

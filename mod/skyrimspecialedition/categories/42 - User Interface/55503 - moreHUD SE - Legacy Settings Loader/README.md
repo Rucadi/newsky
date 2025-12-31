@@ -2,6 +2,8 @@
 - Author: MaskedRPGFan
 - Game: skyrimspecialedition
 - Mod Page: https://www.nexusmods.com/skyrimspecialedition/mods/55503
+
+
 This is QoL type mod. Automatically loads the user config file of the "[moreHUD SE](https://www.nexusmods.com/skyrimspecialedition/mods/12688)" mod after you start NEW GAME or install this mod, so you don't have to spend time in MCM again with each new game. NO PLUGIN.
   
   

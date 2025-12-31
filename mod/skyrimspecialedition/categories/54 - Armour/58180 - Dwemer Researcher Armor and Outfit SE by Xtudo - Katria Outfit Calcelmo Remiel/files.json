@@ -1,0 +1,94 @@
+{
+  "Dwemer Researcher Armor and Outfit SE - 2K": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1",
+      "file_id": 240169,
+      "file_name": "Dwemer Researcher Armor and Outfit SE - 2K-58180-1-1636483054.7z",
+      "mod_id": 58180,
+      "hash": "sha256-5KLCOnJVpfyNcsh77FrsVof7Ls8bXU6Wb0s7O61zrJ0="
+    },
+    "type": "primary"
+  },
+  "Dwemer Researcher Armor and Outfit SE - 4K": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1",
+      "file_id": 240170,
+      "file_name": "Dwemer Researcher Armor and Outfit SE - 4K-58180-1-1636483158.7z",
+      "mod_id": 58180,
+      "hash": "sha256-K8bBPVgPI+b71f5y7WNImalRvxWaLtPM/8Zsq+bdY0k="
+    },
+    "type": "primary"
+  },
+  "Dwemer Researcher Armor and Outfit SE - SMITHING PERK": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1",
+      "file_id": 240172,
+      "file_name": "Dwemer Researcher Armor and Outfit SE - SMITHING PERK-58180-1-1636483191.7z",
+      "mod_id": 58180,
+      "hash": "sha256-0jk1iUrQ8eaLZBp5o53NHTsZwtCcqozUgQGvV1PuDns="
+    }
+  },
+  "Dwemer Researcher Armor and Outfit SE - Armor Covered Waist": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1",
+      "file_id": 242247,
+      "file_name": "Dwemer Researcher Armor and Outfit SE - Armor Covered Waist-58180-1-1637165949.7z",
+      "mod_id": 58180,
+      "hash": "sha256-udoGXRcIUXOtcZVbdvq6g0G7z6NRisnrswlco07Gb/k="
+    }
+  },
+  "Dwemer Researcher Armor and Outfit SE - Celcelmo sells it - Patch by Xtudo": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1",
+      "file_id": 366308,
+      "file_name": "Dwemer Researcher Armor and Outfit SE - Celcelmo sells it - Patch by Xtudo-58180-1-1-1678196892.7z",
+      "mod_id": 58180,
+      "hash": "sha256-pGdPVuDnOgDG4mYd9xb4BhpJHxSBTYe72T2f5n2zt7Y="
+    }
+  },
+  "Dwemer Researcher - SE by Xtudo - Katria Outfit": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.2",
+      "file_id": 562512,
+      "file_name": "Dwemer Researcher - SE by Xtudo - Katria Outfit-58180-1-2-1731676641.7z",
+      "mod_id": 58180,
+      "hash": "sha256-3WsrM7BHCsicxzs06BtgnXM1hywHMqTqkHX9uBNDI6A="
+    }
+  },
+  "Dwemer Researcher - SE by Xtudo - Katria Outfit SM": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.2",
+      "file_id": 562525,
+      "file_name": "Dwemer Researcher - SE by Xtudo - Katria Outfit SM-58180-1-2-1731677974.7z",
+      "mod_id": 58180,
+      "hash": "sha256-+wscji18uUoKtWbv2wyAlds7KKO7myXSknSx9oDv6hs="
+    }
+  },
+  "Dwemer Researcher - SE by Xtudo - Remiel Outfit 2K": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.3",
+      "file_id": 615017,
+      "file_name": "Dwemer Researcher - SE by Xtudo - Remiel Outfit 2K-58180-1-3-1744066587.7z",
+      "mod_id": 58180,
+      "hash": "sha256-yI4WvcNpQmfimbzXeuYp8D8+eW82jk+cuITnM6kUV8s="
+    }
+  },
+  "Dwemer Researcher - SE by Xtudo - Remiel Outfit 4K": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.3",
+      "file_id": 615019,
+      "file_name": "Dwemer Researcher - SE by Xtudo - Remiel Outfit 4K-58180-1-3-1744066618.7z",
+      "mod_id": 58180,
+      "hash": "sha256-cpXgMLAqSh4TtJXRGgNx4oBENXmOUpRYzOLaUQ13JCo="
+    }
+  }
+}

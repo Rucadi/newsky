@@ -1,0 +1,24 @@
+{
+  "Akatosh Devotee Armor 4K": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.00",
+      "file_id": 289090,
+      "file_name": "Akatosh Devotee Armor 4K-54363-1-00-1654484021.zip",
+      "mod_id": 54363,
+      "hash": "sha256-8CwWDytdC6tB1Uhgsc861BOgRlS4urSMsxtQyytyVbs="
+    },
+    "type": "primary"
+  },
+  "Akatosh Devotee Armor 1K": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.00",
+      "file_id": 289091,
+      "file_name": "Akatosh Devotee Armor 1K-54363-1-00-1654484131.zip",
+      "mod_id": 54363,
+      "hash": "sha256-y2r0m2NVBLOKzQ2KLNgoHD5RXE58UYqcpFv3MYVJz24="
+    },
+    "type": "primary"
+  }
+}

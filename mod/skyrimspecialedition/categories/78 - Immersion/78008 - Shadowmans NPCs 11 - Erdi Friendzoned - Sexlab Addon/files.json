@@ -1,0 +1,33 @@
+{
+  "shadowman11_Erdi_Sexlab_Alternative": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "A",
+      "file_id": 330085,
+      "file_name": "shadowman11_Erdi_Sexlab_Alternative-78008-A-1667873722.rar",
+      "mod_id": 78008,
+      "hash": "sha256-cFttHH9O39chUHkpLMhQgyG+dab20btaUJbTC/L6Hys="
+    }
+  },
+  "Erdi Alternate ESP by Shardoom": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1",
+      "file_id": 334255,
+      "file_name": "Erdi Alternate ESP by Shardoom-78008-1-1669317574.rar",
+      "mod_id": 78008,
+      "hash": "sha256-cBQC6L8GuEtgzQYNzvoJppSqGIF77lTRVTQSl2JPxG8="
+    }
+  },
+  "shadowman11_erdi": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "2",
+      "file_id": 363727,
+      "file_name": "shadowman11_erdi-78008-2-1677453422.rar",
+      "mod_id": 78008,
+      "hash": "sha256-j07SmU2xVoy+0aMP3l4D6Ig2mOoRubGWj0AOxO9rzGM="
+    },
+    "type": "primary"
+  }
+}

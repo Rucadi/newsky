@@ -1,0 +1,24 @@
+{
+  "Caught Red Handed - OStim Patch - Haelga's Bedroom": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "2.2A",
+      "file_id": 408371,
+      "file_name": "Caught Red Handed - OStim Patch - Haelga's Bedroom-69711-2-2A-1689719618.zip",
+      "mod_id": 69711,
+      "hash": "sha256-xzYQizsvWliYSRvxJT9XvD/Prfsj13z46ApmlpidlLs="
+    },
+    "type": "primary"
+  },
+  "Caught Red Handed - OStim Patch - Random Locations": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "2.2B",
+      "file_id": 408372,
+      "file_name": "Caught Red Handed - OStim Patch - Random Locations-69711-2-2B-1689719719.zip",
+      "mod_id": 69711,
+      "hash": "sha256-ijaKzTjbo2JOTcTt8FYOojJfLGZtDfhmx3n6zpz9BBg="
+    },
+    "type": "primary"
+  }
+}

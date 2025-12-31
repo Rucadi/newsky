@@ -2,6 +2,8 @@
 - Author: Jkrojmal
 - Game: skyrimspecialedition
 - Mod Page: https://www.nexusmods.com/skyrimspecialedition/mods/68154
+
+
 [![](https://i.imgur.com/wY0Fdo2.jpg?1)
   
   

@@ -1,0 +1,54 @@
+{
+  "2-4k. New Female Draugr V1": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0.0",
+      "file_id": 338354,
+      "file_name": "2-4k. New Female Draugr V1-79915-1-0-0-1670407950.zip",
+      "mod_id": 79915,
+      "hash": "sha256-Fc4yJZHu+4CEr4RCPxk3ssHOnd7YM+D1jkMM7gGSIDU="
+    },
+    "type": "primary"
+  },
+  "2-4K. New Female Draugr V2 - Nude": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0.0",
+      "file_id": 338355,
+      "file_name": "2-4K. New Female Draugr V2 - Nude-79915-1-0-0-1670408018.zip",
+      "mod_id": 79915,
+      "hash": "sha256-TKpM8lZtv08haxqnhINTg25bi8BoaxmLMwYpFF3wwvg="
+    },
+    "type": "primary"
+  },
+  "1-2k. New Female Draugr V1": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0.0",
+      "file_id": 338356,
+      "file_name": "1-2k. New Female Draugr V1-79915-1-0-0-1670408056.zip",
+      "mod_id": 79915,
+      "hash": "sha256-oC+cI0VtJeceZtccwLEED6hZM+3mp1sR6/jStaENYOA="
+    }
+  },
+  "1-2k. New Female Draugr V2 - Nude": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0.0",
+      "file_id": 338358,
+      "file_name": "1-2k. New Female Draugr V2 - Nude-79915-1-0-0-1670408143.zip",
+      "mod_id": 79915,
+      "hash": "sha256-OUflZabXjWoAzBLX3QacHDsG8RSPbU+/K7fOTR/jz7w="
+    }
+  },
+  "Optional. Remove Eye Glow": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0.0",
+      "file_id": 338359,
+      "file_name": "Optional. Remove Eye Glow-79915-1-0-0-1670408200.zip",
+      "mod_id": 79915,
+      "hash": "sha256-zcfJLtJxKoMvk3wah07+29WWBeyjjqUbrJ2n9xPMiJY="
+    }
+  }
+}

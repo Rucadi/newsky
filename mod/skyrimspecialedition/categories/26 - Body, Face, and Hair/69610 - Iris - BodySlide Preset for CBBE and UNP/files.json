@@ -1,0 +1,44 @@
+{
+  "s4rMs' - Iris -3BA-": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1",
+      "file_id": 290945,
+      "file_name": "s4rMs' - Iris -3BA--69610-1-1655133179.rar",
+      "mod_id": 69610,
+      "hash": "sha256-UOqb11lQ8k1vc+WAGnwRZhnE/WWEF3CzcxMwugik16c="
+    },
+    "type": "primary"
+  },
+  "s4rMs' - Iris -BHUNP-": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1",
+      "file_id": 290946,
+      "file_name": "s4rMs' - Iris -BHUNP--69610-1-1655133203.rar",
+      "mod_id": 69610,
+      "hash": "sha256-dZn/61Pcw6iTNjv6zGG5pVbisZn6ZalXw4mAZp0uIXM="
+    },
+    "type": "primary"
+  },
+  "Extra Bodyslides -3BA-": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1",
+      "file_id": 290947,
+      "file_name": "Extra Bodyslides -3BA--69610-1-1655133226.rar",
+      "mod_id": 69610,
+      "hash": "sha256-JGz2ABU/CD/TOCJDZzXNoqMxh9CvAwSSjBWz/dBkNnI="
+    }
+  },
+  "Extra Bodyslides -BHUNP-": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1",
+      "file_id": 290949,
+      "file_name": "Extra Bodyslides -BHUNP--69610-1-1655133247.rar",
+      "mod_id": 69610,
+      "hash": "sha256-IMSv5HpsxeNFvNK1KUTDEqr4s+RN3hmpYI/KdXh/Nqs="
+    }
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "BOTIXtra": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "",
+      "file_id": 14064,
+      "file_name": "BOTIXtra-6126-.7z",
+      "mod_id": 6126,
+      "hash": "sha256-ztzrTGb+uMncdNnbY+9fkhupbU/0VrKlC0A9Kx00HFA="
+    }
+  },
+  "BOTI v2_1_1": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "2.1.1",
+      "file_id": 14312,
+      "file_name": "BOTI v2_1_1-6126-2-1-1.7z",
+      "mod_id": 6126,
+      "hash": "sha256-KnBiPWnAbEucb6/1zccxZozsR0ojaqDmp4c7fedG9xc="
+    },
+    "type": "primary"
+  },
+  "BOTI v2_1_1 patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "",
+      "file_id": 31251,
+      "file_name": "BOTI v2_1_1 patch-6126-.7z",
+      "mod_id": 6126,
+      "hash": "sha256-xQWgqAkc6O+ML7yibIXd+RSJ2kdXzCiKtFlk80TqnUs="
+    },
+    "type": "primary"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "Multicolored KS Hairdos Standalone - Female Only": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0.0",
+      "file_id": 339482,
+      "file_name": "Multicolored KS Hairdos Standalone - Female Only-80425-1-0-0-1670718290.7z",
+      "mod_id": 80425,
+      "hash": "sha256-wXpTpSte3q+3vvN14V6LgJU0jIiZcZZ5b74svA32tmg="
+    },
+    "type": "primary"
+  },
+  "Multicolored KS Hairdos Standalone - HDT-SMP": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0.0",
+      "file_id": 339781,
+      "file_name": "Multicolored KS Hairdos Standalone - HDT-SMP-80425-1-0-0-1670794836.7z",
+      "mod_id": 80425,
+      "hash": "sha256-pB3DXfOsbb93EZvxneTzAkgJjSTAgiI4827bL0hLZOU="
+    },
+    "type": "primary"
+  },
+  "Multicolored KS Hairdos Standalone - Male": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0.0",
+      "file_id": 339782,
+      "file_name": "Multicolored KS Hairdos Standalone - Male-80425-1-0-0-1670794873.7z",
+      "mod_id": 80425,
+      "hash": "sha256-Ih/DzsgnieWwpbV9laiW4wjNa0kuJzXc9tH1/JsjM7w="
+    },
+    "type": "primary"
+  }
+}

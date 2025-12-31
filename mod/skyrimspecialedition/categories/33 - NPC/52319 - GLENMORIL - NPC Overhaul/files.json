@@ -1,0 +1,23 @@
+{
+  "Glenmoril - Sweetrolls Replacer": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 329871,
+      "file_name": "Glenmoril - Sweetrolls Replacer-52319-1-0-1667814143.zip",
+      "mod_id": 52319,
+      "hash": "sha256-DYOh4o1C1ydcCJEobgFWpwlJmgpW7Xho/Zu3Nw+WgpE="
+    }
+  },
+  "Glenmoril - NPC Overhaul": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.5.1",
+      "file_id": 639717,
+      "file_name": "Glenmoril - NPC Overhaul-52319-1-5-1750411999.zip",
+      "mod_id": 52319,
+      "hash": "sha256-Gv3k5oanAnrOzRqUOkWPKVq4Uh79Fi/Rlwyvq89iCJs="
+    },
+    "type": "primary"
+  }
+}

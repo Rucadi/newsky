@@ -1,0 +1,882 @@
+{
+  "ProjectedDiffuse Patch - Cathedral Landscapes": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 237800,
+      "file_name": "ProjectedDiffuse Patch - Cathedral Landscapes-57643-1-0-1635539045.rar",
+      "mod_id": 57643,
+      "hash": "sha256-fL1IGXaowRhufcTzgoTujfT6G06Q4RGP642BA4LeI6c="
+    },
+    "type": "primary"
+  },
+  "ProjectedDiffuse Patch - Fluffy Snow 2k": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 237802,
+      "file_name": "ProjectedDiffuse Patch - Fluffy Snow-57643-1-0-1635539127.rar",
+      "mod_id": 57643,
+      "hash": "sha256-yplG9eyvYv8yS0DXLBg6OmTXHUqE1DrgSRl/exatpA0="
+    },
+    "type": "primary"
+  },
+  "ProjectedDiffuse Patch - Majestic Landscapes 1.02": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 237803,
+      "file_name": "ProjectedDiffuse Patch - Majestic Landscapes-57643-1-0-1635539175.rar",
+      "mod_id": 57643,
+      "hash": "sha256-QmlbV2B3R5AfbthWZaNvzreb28T9RyUWJkU5cBdAs8o="
+    },
+    "type": "primary"
+  },
+  "ProjectedDiffuse Patch - Skyrim Realistic Overhaul": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 237807,
+      "file_name": "ProjectedDiffuse Patch - Skyrim Realistic Overhaul-57643-1-0-1635539421.rar",
+      "mod_id": 57643,
+      "hash": "sha256-hSgErccJQICpnajyyn1R+c/1EkL3R4p+0FX1QWB5Sko="
+    },
+    "type": "primary"
+  },
+  "ProjectedDiffuse Patch - Tamriel Reloaded HD": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 237808,
+      "file_name": "ProjectedDiffuse Patch - Tamriel Reloaded HD-57643-1-0-1635539463.rar",
+      "mod_id": 57643,
+      "hash": "sha256-j6WiG9ecWrPW7CaVaScyXJOy3HVAADhHNXOsTgxS/98="
+    },
+    "type": "primary"
+  },
+  "ProjectedDiffuse Patch - Tamriel Reloaded HD BC7": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 237809,
+      "file_name": "ProjectedDiffuse Patch - Tamriel Reloaded HD BC7-57643-1-0-1635539629.rar",
+      "mod_id": 57643,
+      "hash": "sha256-x8E46MJiuUcLsB7UZQRlIVnkr0Il3PuJnduqqoU1cL4="
+    },
+    "type": "primary"
+  },
+  "ProjectedDiffuse Patch - Skyrim 3D Landscapes 4k": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 237812,
+      "file_name": "ProjectedDiffuse Patch - Skyrim 3D Landscapes 4k-57643-1-0-1635540493.rar",
+      "mod_id": 57643,
+      "hash": "sha256-e4w5bloWl2Cf1HVHKSh1oT7aZ2f6JvXhkvLAECzjvss="
+    },
+    "type": "primary"
+  },
+  "ProjectedDiffuse Patch - Cathedral Snow Brighter": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 237939,
+      "file_name": "ProjectedDiffuse Patch - Cathedral Snow Light-57643-1-0-1635605185.rar",
+      "mod_id": 57643,
+      "hash": "sha256-41rQe9skpLj52w+zmz8iJmU556qVcB/JuPh3YRFCnfk="
+    },
+    "type": "primary"
+  },
+  "ProjectedDiffuse Patch - Cathedral Snow Darker": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 237940,
+      "file_name": "ProjectedDiffuse Patch - Cathedral Snow Dark-57643-1-0-1635605229.rar",
+      "mod_id": 57643,
+      "hash": "sha256-eHEhum64ng5OQrq0FGksyW5kB36YL1DHbChF5YdNVbc="
+    },
+    "type": "primary"
+  },
+  "ProjectedDiffuse Patch - Hyperborean Snow 2k": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 238600,
+      "file_name": "ProjectedDiffuse Patch - Hyperborean Snow 2k-57643-1-0-1635865898.rar",
+      "mod_id": 57643,
+      "hash": "sha256-7QGOGEeUPq97GLSO3AkopeqQQLoTrSSAVQdNTnIUdow="
+    },
+    "type": "primary"
+  },
+  "ProjectedDiffuse Patch - Hyperborean Snow 4k": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 238601,
+      "file_name": "ProjectedDiffuse Patch - Hyperborean Snow 4k-57643-1-0-1635865971.rar",
+      "mod_id": 57643,
+      "hash": "sha256-SJxFe60uhdSZxMX3K6r5EtjcTdrEqYudEqhIZUyEHoQ="
+    },
+    "type": "primary"
+  },
+  "ProjectedDiffuse Patch - Hyperborean Snow 8k": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 238602,
+      "file_name": "ProjectedDiffuse Patch - Hyperborean Snow 8k-57643-1-0-1635866194.rar",
+      "mod_id": 57643,
+      "hash": "sha256-o1WpWhK6APTbJsGgXLSS1XTuzO1JEgRvZ9UiUANnZ/E="
+    },
+    "type": "primary"
+  },
+  "ProjectedDiffuse Patch - Noble Skyrim": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 238604,
+      "file_name": "ProjectedDiffuse Patch - Noble Skyrim-57643-1-0-1635869012.rar",
+      "mod_id": 57643,
+      "hash": "sha256-tUt4SL/idJuqHGvrFQEixlI6n3eTF7JqNclTdsyNDwg="
+    },
+    "type": "primary"
+  },
+  "ProjectedDiffuse Patch - Tamrielic Textures 1k": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 238634,
+      "file_name": "ProjectedDiffuse Patch - Tamrielic Textures 1k-57643-1-0-1635880072.rar",
+      "mod_id": 57643,
+      "hash": "sha256-JCw36yBO6/fWX3oc7OfpAj7YdEGtT1jizJRyndjJUSg="
+    },
+    "type": "primary"
+  },
+  "ProjectedDiffuse Patch - Tamrielic Textures 1k-2k": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 238635,
+      "file_name": "ProjectedDiffuse Patch - Tamrielic Textures 1k-2k-57643-1-0-1635880118.rar",
+      "mod_id": 57643,
+      "hash": "sha256-WgP0fNWyQpu6Zd1x0VJBEdST8Yyli2ONKp0XXxndFUk="
+    },
+    "type": "primary"
+  },
+  "ProjectedDiffuse Patch - Tamrielic Textures 2k": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 238636,
+      "file_name": "ProjectedDiffuse Patch - Tamrielic Textures 2k-57643-1-0-1635880162.rar",
+      "mod_id": 57643,
+      "hash": "sha256-I6rcYty3vLgAEO9GFKtobyTputv2Kt3yZCcThvgFj/I="
+    },
+    "type": "primary"
+  },
+  "ProjectedDiffuse Patch - Tamrielic Textures 2k-4k": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 238638,
+      "file_name": "ProjectedDiffuse Patch - Tamrielic Textures 2k-4k-57643-1-0-1635880224.rar",
+      "mod_id": 57643,
+      "hash": "sha256-EDnR6FCQF63kaxOvhw5SnxKko8VooN0FlUfuKscy3d8="
+    },
+    "type": "primary"
+  },
+  "ProjectedDiffuse Patch - Glacies 2k": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 239655,
+      "file_name": "ProjectedDiffuse Patch - Glacies 2k-57643-1-0-1636293981.rar",
+      "mod_id": 57643,
+      "hash": "sha256-Y3hjH/VNbvyh75zAiXfgiEkuL3qDDCTVtaVZYV6Bv9o="
+    },
+    "type": "primary"
+  },
+  "ProjectedDiffuse Patch - Glacies 4k": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 239656,
+      "file_name": "ProjectedDiffuse Patch - Glacies 4k-57643-1-0-1636294059.rar",
+      "mod_id": 57643,
+      "hash": "sha256-Y9Freg8oRJAmHbsOC2261ZwPTz7wG2jcNSGY2RQaYe0="
+    },
+    "type": "primary"
+  },
+  "ProjectedDiffuse Patch - Skyrim 202X Terrain Parallax 8k4k": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 242942,
+      "file_name": "ProjectedDiffuse Patch - Skyrim 2020 Terrain Parallax 8k4k-57643-1-0-1637423743.rar",
+      "mod_id": 57643,
+      "hash": "sha256-2VH9JGTBx1bGZs7r3vgmCxev7mTEhpsc9ncc97iYXTM="
+    },
+    "type": "primary"
+  },
+  "ProjectedDiffuse Patch - Project Clarity Half Res": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 244824,
+      "file_name": "ProjectedDiffuse Patch - Project Clarity Half Res-57643-1-0-1638032756.rar",
+      "mod_id": 57643,
+      "hash": "sha256-8AFHS5DyCiAZPZFZRdC/U3c3shTVneJ4HXyTEEOv4S8="
+    },
+    "type": "primary"
+  },
+  "ProjectedDiffuse Patch - Project Clarity Full Res": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1",
+      "file_id": 251092,
+      "file_name": "ProjectedDiffuse Patch - Project Clarity Full Res-57643-1-1-1640241618.rar",
+      "mod_id": 57643,
+      "hash": "sha256-/SLPJq5KK3+eSSniuZS4CNZzTapCLehqhrrKGUFpmZw="
+    },
+    "type": "primary"
+  },
+  "ProjectedDiffuse Patch - MystiriousDawn's HD Skyrim Overhaul - Mid Quality": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 254272,
+      "file_name": "ProjectedDiffuse - MystiriousDawn's HD Skyrim Overhaul - Mid Quality-57643-1-0-1641440115.rar",
+      "mod_id": 57643,
+      "hash": "sha256-yRhn/hf67HxamuCB4GHj4dpvtJDXjJHtm8Q5/z4C9yo="
+    },
+    "type": "primary"
+  },
+  "ProjectedDiffuse Patch - MystiriousDawn's HD Skyrim Overhaul - High Quality": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 254273,
+      "file_name": "ProjectedDiffuse Patch - MystiriousDawn's HD Skyrim Overhaul - High Quality-57643-1-0-1641440234.rar",
+      "mod_id": 57643,
+      "hash": "sha256-zAa/dMcXPywnbGdGnR/V7DjzIE9nFrrcAXgOoMMzV2w="
+    },
+    "type": "primary"
+  },
+  "ProjectedDiffuse Patch - Vivid Landscapes - Snow 4k": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1",
+      "file_id": 265102,
+      "file_name": "ProjectedDiffuse Patch - Vivid Landscapes - Snow 4k-57643-1-1-1645198861.rar",
+      "mod_id": 57643,
+      "hash": "sha256-5M6D+eXdpFrAZhUp7+3cNJNzNp4WnoaystbtJExUMTU="
+    },
+    "type": "primary"
+  },
+  "ProjectedDiffuse Patch - Vivid Landscapes - Snow 2k": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1",
+      "file_id": 265104,
+      "file_name": "ProjectedDiffuse Patch - Vivid Landscapes - Snow 2k-57643-1-1-1645199121.rar",
+      "mod_id": 57643,
+      "hash": "sha256-RiTC4GJH0X2IsNzSt9/Ys1VPn6MEAp1VnrEjIhnf2P8="
+    },
+    "type": "primary"
+  },
+  "ProjectedDiffuse Patch - Skyrim 202X Snow Alternative": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 266130,
+      "file_name": "ProjectedDiffuse Patch - Skyrim 2020 Terrain Parallax Snow Alternative 1-57643-1-0-1645554439.rar",
+      "mod_id": 57643,
+      "hash": "sha256-wLoYSjmhHOI6Fm9FB3aZOv95Ip6U0/CufPDxP6onVes="
+    },
+    "type": "primary"
+  },
+  "ProjectedDiffuse Patch - Nordic Snow": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1",
+      "file_id": 270422,
+      "file_name": "ProjectedDiffuse Patch - Nordic Snow-57643-1-1-1647392633.rar",
+      "mod_id": 57643,
+      "hash": "sha256-dcDrncFl+/Gfkf8URuoRQeY5nrzDOgXEuEFAPUseeLI="
+    },
+    "type": "primary"
+  },
+  "ProjectedDiffuse Patch - Skyrim HD SE": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 277593,
+      "file_name": "ProjectedDiffuse Patch - Skyrim HD SE-57643-1-0-1650136078.rar",
+      "mod_id": 57643,
+      "hash": "sha256-9WNWOdoMixbrD3XvSS3UVB56kL1y/QbdP5SGJ4/AvS8="
+    },
+    "type": "primary"
+  },
+  "ProjectedDiffuse Patch - Y.A.L.O. SE 1k": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 309240,
+      "file_name": "ProjectedDiffuse Patch - Y.A.L.O. SE 1k-57643-1-0-1661106148.rar",
+      "mod_id": 57643,
+      "hash": "sha256-FR+Vu5ZpNWKcyY/nEHA7TSnLqpY6XCLHiNHpAytsp8g="
+    },
+    "type": "primary"
+  },
+  "ProjectedDiffuse Patch - Y.A.L.O. SE 2k": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 309241,
+      "file_name": "ProjectedDiffuse Patch - Y.A.L.O. SE 2k-57643-1-0-1661106191.rar",
+      "mod_id": 57643,
+      "hash": "sha256-dRpsC3J0Ww0/tIVQtmNOFOV9xBnC8w/oE3iy3OnUoxw="
+    },
+    "type": "primary"
+  },
+  "ProjectedDiffuse Patch - Y.A.L.O. SE 4k": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 309242,
+      "file_name": "ProjectedDiffuse Patch - Y.A.L.O. SE 4k-57643-1-0-1661106234.rar",
+      "mod_id": 57643,
+      "hash": "sha256-JkgTJ0rqVtX3iySlDWNDkRJedH9z56qW+SUj+Mm1u+A="
+    },
+    "type": "primary"
+  },
+  "ProjectedDiffuse Patch - aMidianBorn Buildings and Landscapes with Snow": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 313534,
+      "file_name": "ProjectedDiffuse Patch - aMidianBorn Buildings and Landscapes with Snow-57643-1-0-1662387643.rar",
+      "mod_id": 57643,
+      "hash": "sha256-Zrzxc8jMxYS1joeOpZ+DLubXjrsoQP/yzA+bxyuZdv0="
+    },
+    "type": "primary"
+  },
+  "ProjectedDiffuse Patch - Tamrielic Textures 4k": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 321287,
+      "file_name": "ProjectedDiffuse Patch - Tamrielic Textures 4k-57643-1-0-1664800527.rar",
+      "mod_id": 57643,
+      "hash": "sha256-Jr9zF/4M6tC5uw6CvPm0cmxbftHNqoSLSLhR5quPEXY="
+    },
+    "type": "primary"
+  },
+  "ProjectedDiffuse Patch - Vanilla Skyrim": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 323283,
+      "file_name": "ProjectedDiffuse Patch - Vanilla Skyrim-57643-1-0-1665493795.rar",
+      "mod_id": 57643,
+      "hash": "sha256-euhaH/CKIoTg2KJ6yJDQu6JTlrvH7UpHDQFY+WXBnRU="
+    },
+    "type": "primary"
+  },
+  "ProjectedDiffuse Patch - Skyrim 3D Landscapes 2k": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1",
+      "file_id": 327078,
+      "file_name": "ProjectedDiffuse Patch - Skyrim 3D Landscapes 2k-57643-1-1-1666961958.rar",
+      "mod_id": 57643,
+      "hash": "sha256-B5dRqa34dB1Up+ZE46r/AzWYd0bifxOI8GOzOWennxc="
+    },
+    "type": "primary"
+  },
+  "ProjectedDiffuse Patch - Skyrim 3D Landscapes 1k": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 327079,
+      "file_name": "ProjectedDiffuse Patch - Skyrim 3D Landscapes 1k-57643-1-0-1666962009.rar",
+      "mod_id": 57643,
+      "hash": "sha256-7Zh55emcZu1o3VQzfFAV/e6EcdcRC3XTUKr+B0cp2Rw="
+    },
+    "type": "primary"
+  },
+  "ProjectedDiffuse Patch - Skyrim 202X Terrain Parallax 4k2k": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1",
+      "file_id": 338417,
+      "file_name": "ProjectedDiffuse Patch - Skyrim 2020 Terrain Parallax 4k2k-57643-1-1-1670421227.rar",
+      "mod_id": 57643,
+      "hash": "sha256-0mVLPoUdasQajJBXD6VXlEyiph05r4fDvmC4dmrae6o="
+    },
+    "type": "primary"
+  },
+  "ProjectedDiffuse Patch - Vivid Landscapes Parallax Snow 2k": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 341325,
+      "file_name": "ProjectedDiffuse Patch - Vivid Landscapes Parallax Snow 2k-57643-1-0-1671293614.rar",
+      "mod_id": 57643,
+      "hash": "sha256-2uXIzJIodnLLQAUN047IFAG/ntG2gYToMFWvzmt1Ues="
+    },
+    "type": "primary"
+  },
+  "ProjectedDiffuse Patch - Vivid Landscapes Parallax Snow 4k": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 341329,
+      "file_name": "ProjectedDiffuse Patch - Vivid Landscapes Parallax Snow 4k-57643-1-0-1671293751.rar",
+      "mod_id": 57643,
+      "hash": "sha256-CFLA9VnYD91be6iFK7hh0msqHH3vqjB79xbjQ8QONdc="
+    },
+    "type": "primary"
+  },
+  "ProjectedDiffuse Patch - Fluffy Snow 1k": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 342774,
+      "file_name": "ProjectedDiffuse Patch - Fluffy Snow 1k-57643-1-0-1671721105.rar",
+      "mod_id": 57643,
+      "hash": "sha256-+jayyg+DgvfRFyKK3bJ814rRwJ0QF4DCJxZeHMxcAh8="
+    },
+    "type": "primary"
+  },
+  "ProjectedDiffuse Patch - Vivid Landscapes Complex Parallax Snow 2k": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1",
+      "file_id": 345255,
+      "file_name": "ProjectedDiffuse Patch - Vivid Landscapes Complex Parallax Snow 2k-57643-1-1-1672502336.rar",
+      "mod_id": 57643,
+      "hash": "sha256-2QU+zElja8BGl0XChobqTvG0H10cgB8uf2qYY264OUA="
+    },
+    "type": "primary"
+  },
+  "ProjectedDiffuse Patch - Vivid Landscapes Complex Parallax Snow 4k": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1",
+      "file_id": 345256,
+      "file_name": "ProjectedDiffuse Patch - Vivid Landscapes Complex Parallax Snow 4k-57643-1-1-1672502398.rar",
+      "mod_id": 57643,
+      "hash": "sha256-B4pAEWaApg3vCoR4Usz7w+0dQQSsOwrooeLKn0lvGHs="
+    },
+    "type": "primary"
+  },
+  "ProjectedDiffuse Patch - Vivid Landscapes Complex Parallax Snow 1k": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 345259,
+      "file_name": "ProjectedDiffuse Patch - Vivid Landscapes Complex Parallax Snow 1k-57643-1-0-1672502463.rar",
+      "mod_id": 57643,
+      "hash": "sha256-IEXbltYZOXE3kleFy03DlNZtSIFYj+AqOtGumtauWxs="
+    },
+    "type": "primary"
+  },
+  "ProjectedDiffuse Patch - SRP Landscapes Complex Terrain Parallax 1k": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1",
+      "file_id": 345260,
+      "file_name": "ProjectedDiffuse Patch - SRP Landscapes Complex Terrain Parallax 1k-57643-1-1-1672502542.rar",
+      "mod_id": 57643,
+      "hash": "sha256-CFtodM4hMyFSeIwBgfQmcaNS4kzo7hGW8vDm1L7utPA="
+    },
+    "type": "primary"
+  },
+  "ProjectedDiffuse Patch - SRP Landscapes Complex Terrain Parallax 2k": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1",
+      "file_id": 345261,
+      "file_name": "ProjectedDiffuse Patch - SRP Landscapes Complex Terrain Parallax 2k-57643-1-1-1672502597.rar",
+      "mod_id": 57643,
+      "hash": "sha256-M5gm9Yd/lsldv6BerlWLa7fEaljb9NnnGxUinKdjoeM="
+    },
+    "type": "primary"
+  },
+  "ProjectedDiffuse Patch - SRP Landscapes Complex Terrain Parallax 4k": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1",
+      "file_id": 345264,
+      "file_name": "ProjectedDiffuse Patch - SRP Landscapes Complex Terrain Parallax 4k-57643-1-1-1672502791.rar",
+      "mod_id": 57643,
+      "hash": "sha256-4XEnEn+uVVrbnSvaYBYA5TwJpelbz11xtquHQYkIJMQ="
+    },
+    "type": "primary"
+  },
+  "ProjectedDiffuse Patch - Skyrim 202X": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1",
+      "file_id": 345292,
+      "file_name": "ProjectedDiffuse Patch - Skyrim 202X-57643-1-1-1672508079.rar",
+      "mod_id": 57643,
+      "hash": "sha256-3qGuBrbhISYnQ/cfx9UfZqaA3SXTH1qG1gG6H+Mbmos="
+    },
+    "type": "primary"
+  },
+  "ProjectedDiffuse Patch - Skyrim 202X 1k": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 345295,
+      "file_name": "ProjectedDiffuse Patch - Skyrim 202X 1k-57643-1-0-1672508598.rar",
+      "mod_id": 57643,
+      "hash": "sha256-Z4bOFL6mcZ0YNEFhmP2Pv+1Lwq15M4rfoZl+fIa3HvM="
+    },
+    "type": "primary"
+  },
+  "ProjectedDiffuse Patch - Skyrim 202X 2k": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 345297,
+      "file_name": "ProjectedDiffuse Patch - Skyrim 202X 2k-57643-1-0-1672508676.rar",
+      "mod_id": 57643,
+      "hash": "sha256-vaE96hgjuzIZjwnA8ijqDWu57nir6nWb0hrd5OcUI40="
+    },
+    "type": "primary"
+  },
+  "ProjectedDiffuse Patch - Skyrim 202X 4k": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 345298,
+      "file_name": "ProjectedDiffuse Patch - Skyrim 202X 4k-57643-1-0-1672508724.rar",
+      "mod_id": 57643,
+      "hash": "sha256-Rs00RUv40PkkWONJJGXb+8d0/gNO9sCthCt/vF0gvd0="
+    },
+    "type": "primary"
+  },
+  "ProjectedDiffuse Patch - Skyrim 202X Snow Alternative 1k": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 345299,
+      "file_name": "ProjectedDiffuse Patch - Skyrim 202X Snow Alternative 1k-57643-1-0-1672508775.rar",
+      "mod_id": 57643,
+      "hash": "sha256-oDSTydMzCzRkSzwj6p3RgXqlB5AabFHcJuzOOoPeV74="
+    },
+    "type": "primary"
+  },
+  "ProjectedDiffuse Patch - Skyrim 202X Snow Alternative 2k": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 345300,
+      "file_name": "ProjectedDiffuse Patch - Skyrim 202X Snow Alternative 2k-57643-1-0-1672508859.rar",
+      "mod_id": 57643,
+      "hash": "sha256-YMVqVTx3xrBPmYa5/tkUDDENpylLd6iQ7n6fWdMUhFk="
+    },
+    "type": "primary"
+  },
+  "ProjectedDiffuse Patch - Skyrim 202X Snow Alternative 4k": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 345301,
+      "file_name": "ProjectedDiffuse Patch - Skyrim 202X Snow Alternative 4k-57643-1-0-1672508950.rar",
+      "mod_id": 57643,
+      "hash": "sha256-RYKVgW0oBGZCioMHB1AD8JYo4/Z8GaAO7FaiGlCNKo0="
+    },
+    "type": "primary"
+  },
+  "ProjectedDiffuse Patch - Snow HD Texture Replacer with Parallax 2k": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 351329,
+      "file_name": "ProjectedDiffuse Patch - Snow HD Texture Replacer with Parallax 2k-57643-1-0-1674223772.rar",
+      "mod_id": 57643,
+      "hash": "sha256-3zTDTl4rkP4QcGljK8gGxHIuQ4Mcd3u91963l8qxjnc="
+    },
+    "type": "primary"
+  },
+  "ProjectedDiffuse Patch - Snow HD Texture Replacer with Parallax 4k": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 351330,
+      "file_name": "ProjectedDiffuse Patch - Snow HD Texture Replacer with Parallax 4k-57643-1-0-1674223913.rar",
+      "mod_id": 57643,
+      "hash": "sha256-41Ss3Sj1J7vQy95E3Xad3lhDQJ71vFTCwf8adP1iyWI="
+    },
+    "type": "primary"
+  },
+  "ProjectedDiffuse Patch - Snow HD Texture Replacer with Parallax Less Bright 2k": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 351331,
+      "file_name": "ProjectedDiffuse Patch - Snow HD Texture Replacer with Parallax Less Bright 2k-57643-1-0-1674223993.rar",
+      "mod_id": 57643,
+      "hash": "sha256-lFFfWH03zYhASH9rGEykks+53yOczC9k53QpbTW47zA="
+    },
+    "type": "primary"
+  },
+  "ProjectedDiffuse Patch - Snow HD Texture Replacer with Parallax Less Bright 4k": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 351337,
+      "file_name": "ProjectedDiffuse Patch - Snow HD Texture Replacer with Parallax Less Bright 4k-57643-1-0-1674225107.rar",
+      "mod_id": 57643,
+      "hash": "sha256-B2NCAOejca7Lpi8YvdD8Raq5/GrrJ9d3WSsSe/1CwpY="
+    },
+    "type": "primary"
+  },
+  "ProjectedDiffuse Patch - Atlantean Landscape Snow 4k": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 356244,
+      "file_name": "ProjectedDiffuse Patch - Atlantean Landscape Snow - 4k-57643-1-0-1675520504.rar",
+      "mod_id": 57643,
+      "hash": "sha256-xtCWDg3N2kClefcmr4Bv2A+oJ286Ve66OvhfrmefMOg="
+    },
+    "type": "primary"
+  },
+  "ProjectedDiffuse Patch - Atlantean Landscape Snow 2k": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 356245,
+      "file_name": "ProjectedDiffuse Patch - Atlantean Landscape Snow - 2k-57643-1-0-1675520566.rar",
+      "mod_id": 57643,
+      "hash": "sha256-P1BUIM/F25RLBqB+PuK8dd5Wp6sLy8HMJQ9a+D9E3A4="
+    },
+    "type": "primary"
+  },
+  "ProjectedDiffuse Patch - Skyland Landscapes Parallax": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 369355,
+      "file_name": "ProjectedDiffuse Patch - Skyland Landscapes Parallax-57643-1-0-1679054298.rar",
+      "mod_id": 57643,
+      "hash": "sha256-9yu9TzxVTRM+LEmCt9lg5GfajpmSgZ7KySQwsKSKJrg="
+    },
+    "type": "primary"
+  },
+  "ProjectedDiffuse Patch - Majestic Landscapes 2.0": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 373690,
+      "file_name": "ProjectedDiffuse Patch - Majestic Landscapes 2.0-57643-1-0-1680277560.rar",
+      "mod_id": 57643,
+      "hash": "sha256-wYoid1vkxcLmr4MNsKqDFtZY5JN8wQFm69Aklfw7CYg="
+    },
+    "type": "primary"
+  },
+  "ProjectedDiffuse Patch - Snoblind Complex Material": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 414541,
+      "file_name": "ProjectedDiffuse Patch - Snoblind Complex Material-57643-1-0-1691289280.7z",
+      "mod_id": 57643,
+      "hash": "sha256-Q6ghGfAuXP9Vi6A8HQjQhhgwmaoM88wYRVAvqblXOOU="
+    },
+    "type": "primary"
+  },
+  "ProjectedDiffuse Patch - Skyland": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.3",
+      "file_id": 428955,
+      "file_name": "ProjectedDiffuse Patch - Skyland-57643-1-3-1695666383.7z",
+      "mod_id": 57643,
+      "hash": "sha256-z2gZeq5kQ1F/Ur15XPkCYmALTzXspYVUYypDKb2QZs4="
+    },
+    "type": "primary"
+  },
+  "ProjectedDiffuse Patch - Skyland 1k": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.2",
+      "file_id": 428956,
+      "file_name": "ProjectedDiffuse Patch - Skyland 1k-57643-1-2-1695666457.7z",
+      "mod_id": 57643,
+      "hash": "sha256-U41/Mrpl9whAtwcchWxVem6+a7hC2C9ImAU+n/yDyGc="
+    },
+    "type": "primary"
+  },
+  "ProjectedDiffuse Patch - Atlantean Majestic 2k": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 452332,
+      "file_name": "ProjectedDiffuse Patch - Atlantean Majestic 2k-57643-1-0-1702724536.7z",
+      "mod_id": 57643,
+      "hash": "sha256-jnXSgB2uOTM0IsVdpd5kTtTgjGRlK9EdPTpa+IN9KMY="
+    },
+    "type": "primary"
+  },
+  "ProjectedDiffuse Patch - Atlantean Majestic 4k": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 452334,
+      "file_name": "ProjectedDiffuse Patch - Atlantean Majestic 4k-57643-1-0-1702724594.7z",
+      "mod_id": 57643,
+      "hash": "sha256-eyxeK6h4Xqf61ZkgyxIrawuahg/SGegJtlNgA5g6oSQ="
+    },
+    "type": "primary"
+  },
+  "ProjectedDiffuse Patch - Tomato's Landscapes 1k": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 470159,
+      "file_name": "ProjectedDiffuse Patch - Tomato's Landscapes 1k-57643-1-0-1707745880.7z",
+      "mod_id": 57643,
+      "hash": "sha256-MaVCJbrhSHh0fmf4oWkAdIcFSgBKpOxg22jyg54k9+s="
+    },
+    "type": "primary"
+  },
+  "ProjectedDiffuse Patch - Tomato's Landscapes 2k": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 470160,
+      "file_name": "ProjectedDiffuse Patch - Tomato's Landscapes 2k-57643-1-0-1707745977.7z",
+      "mod_id": 57643,
+      "hash": "sha256-LDpd9bbNNxSI4mFyPk+1I5his1JdXwkQr+z+6YwdDTQ="
+    },
+    "type": "primary"
+  },
+  "ProjectedDiffuse Patch - Tomato's Landscapes 4k": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 470161,
+      "file_name": "ProjectedDiffuse Patch - Tomato's Landscapes 4k-57643-1-0-1707746075.7z",
+      "mod_id": 57643,
+      "hash": "sha256-1lnADYOT7nqNpjZMuoKOMkDdvgUz6spFax7IZlPLDSA="
+    },
+    "type": "primary"
+  },
+  "ProjectedDiffuse Patch - Fantasia 1k": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 488958,
+      "file_name": "ProjectedDiffuse Patch - Fantasia 1k-57643-1-0-1712663449.7z",
+      "mod_id": 57643,
+      "hash": "sha256-q20lJmHRd/8RCpfZDsmOCTobBLKFmsGjdhQnxCX8DNY="
+    },
+    "type": "primary"
+  },
+  "ProjectedDiffuse Patch - Fantasia 2k": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 488959,
+      "file_name": "ProjectedDiffuse Patch - Fantasia 2k-57643-1-0-1712663510.7z",
+      "mod_id": 57643,
+      "hash": "sha256-3qsdfzgjEQBMOVLpDyDayv5SaJLJAGSDcxgmEOJQBew="
+    },
+    "type": "primary"
+  },
+  "ProjectedDiffuse Patch - Fantasia 4k": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 488960,
+      "file_name": "ProjectedDiffuse Patch - Fantasia 4k-57643-1-0-1712663605.7z",
+      "mod_id": 57643,
+      "hash": "sha256-NP0Lsk2oQ01AsE9GTzgRh+gh95E6v2mjKb6YAgm99Vg="
+    },
+    "type": "primary"
+  },
+  "ProjectedDiffuse Patch - Fantasia Parallax 1k": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 488961,
+      "file_name": "ProjectedDiffuse Patch - Fantasia Parallax 1k-57643-1-0-1712663676.7z",
+      "mod_id": 57643,
+      "hash": "sha256-K7Hgnm8laX6oF98cosERNu1IdnGkpJ8OnZEaHZoeqVc="
+    },
+    "type": "primary"
+  },
+  "ProjectedDiffuse Patch - Fantasia Parallax 2k": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 488962,
+      "file_name": "ProjectedDiffuse Patch - Fantasia Parallax 2k-57643-1-0-1712663730.7z",
+      "mod_id": 57643,
+      "hash": "sha256-c2zLlVwCtRLeJ3BQo8A6Wp+XnGpZ1o3X/WsgqCnaWhY="
+    },
+    "type": "primary"
+  },
+  "ProjectedDiffuse Patch - Fantasia Parallax 4k": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 488963,
+      "file_name": "ProjectedDiffuse Patch - Fantasia Parallax 4k-57643-1-0-1712663816.7z",
+      "mod_id": 57643,
+      "hash": "sha256-EMlqlN/ZiEhY/3Dw5w7YnP+64jNBG0khCETriBZPjVI="
+    },
+    "type": "primary"
+  },
+  "ProjectedDiffuse Patch - Real Ice and Snow": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1",
+      "file_id": 494915,
+      "file_name": "ProjectedDiffuse Patch - Real Ice and Snow-57643-1-1-1714126743.7z",
+      "mod_id": 57643,
+      "hash": "sha256-BrrDS3A/dnUXa7BVfCpy5k9f06n6Js0US1Pifmn/dkg="
+    },
+    "type": "primary"
+  },
+  "ProjectedDiffuse Patch - Snoblind": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1",
+      "file_id": 495303,
+      "file_name": "ProjectedDiffuse Patch - Snoblind-57643-1-1-1714229995.7z",
+      "mod_id": 57643,
+      "hash": "sha256-FFk9utsTcKOc0c7/5qLyJdxHFMHDp5ztZOdu14XEuVo="
+    },
+    "type": "primary"
+  },
+  "ProjectedDiffuse Patch - Cathedral Landscapes PBR": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 601339,
+      "file_name": "ProjectedDiffuse Patch - Cathedral Landscapes PBR-57643-1-0-1741008316.7z",
+      "mod_id": 57643,
+      "hash": "sha256-xX0KeERZ+LlI2Vg+IDJKjOnncYQHOlOYF9QGCqb8Mdc="
+    },
+    "type": "primary"
+  },
+  "ProjectedDiffuse Patch - Fluffy Snow Parallax": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1",
+      "file_id": 603626,
+      "file_name": "ProjectedDiffuse Patch - Fluffy Snow Parallax-57643-1-1-1741531783.7z",
+      "mod_id": 57643,
+      "hash": "sha256-gyP4ffar2uKdH7LIE/9nGQsz7XZDnm5a8IpKWYr7hd0="
+    },
+    "type": "primary"
+  }
+}

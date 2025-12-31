@@ -1,0 +1,24 @@
+{
+  "Morag Tong Grandmaster ESL": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.3",
+      "file_id": 219381,
+      "file_name": "Morag Tong Grandmaster ESL-53330-1-3-1628298920.rar",
+      "mod_id": 53330,
+      "hash": "sha256-1PsGkJ1fbsTsBDPywvxbI2ELji70t2fwZnmz13wCs8Y="
+    },
+    "type": "primary"
+  },
+  "Morag Tong Grandmaster": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.3",
+      "file_id": 219383,
+      "file_name": "Morag Tong Grandmaster-53330-1-3-1628299101.rar",
+      "mod_id": 53330,
+      "hash": "sha256-ZtchGWE6W1wpR4LGZznb+Ptgm3bym95Xg7F6BZA7LrA="
+    },
+    "type": "primary"
+  }
+}

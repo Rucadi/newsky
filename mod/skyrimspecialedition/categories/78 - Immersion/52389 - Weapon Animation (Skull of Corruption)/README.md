@@ -2,6 +2,8 @@
 - Author: saltmaxwellpshk
 - Game: skyrimspecialedition
 - Mod Page: https://www.nexusmods.com/skyrimspecialedition/mods/52389
+
+
 Add an animation to Skull of Corruption.
   
 Works with anime events.

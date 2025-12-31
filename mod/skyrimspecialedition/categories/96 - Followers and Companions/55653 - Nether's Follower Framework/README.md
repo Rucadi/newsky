@@ -2,6 +2,8 @@
 - Author: Netherworks
 - Game: skyrimspecialedition
 - Mod Page: https://www.nexusmods.com/skyrimspecialedition/mods/55653
+
+
 **﻿[b][color=#f6b26b][size=5]NETHER'S FOLLOWER FRAMEWORK**[/size][/color][/b]
   
 Looking for a multi-follower framework that is easy on game resources and gives you the choice between animal or humanoid companions, with as little as one or as many as 10 at a time? How about a system that also provides a wealth of interesting features, both immersive and quality-of-life, to allow you to tailor the framework to your own style of gameplay?

@@ -1,0 +1,24 @@
+{
+  "Power of Creation - Creation Club Overhaul": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.4f",
+      "file_id": 250704,
+      "file_name": "Power of Creation - Creation Club Overhaul-58689-1-4f-1640061085.zip",
+      "mod_id": 58689,
+      "hash": "sha256-A5jwDihnRsYwV/+hNfGxZpVjvQ9eZq4Zi+KCocp/e4w="
+    },
+    "type": "primary"
+  },
+  "Power of Creation - Creation Club Overhaul ESL": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.4f",
+      "file_id": 250705,
+      "file_name": "Power of Creation - Creation Club Overhaul ESL-58689-1-4f-1640061319.zip",
+      "mod_id": 58689,
+      "hash": "sha256-Irjxf9bYR2GuwupXhv7r5LjHKJytKphmuA/dAnQFpaM="
+    },
+    "type": "primary"
+  }
+}

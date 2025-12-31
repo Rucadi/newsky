@@ -1,0 +1,68 @@
+{
+  "Explore Night 01 - Kyne's Peace": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0.0",
+      "file_id": 301389,
+      "file_name": "Explore Night 1-71952-1-0-0-1658557921.7z",
+      "mod_id": 71952,
+      "hash": "sha256-VvvYMbZGNuRWALSUBWjk9gzA1H2FoylTkdCvOWZygYo="
+    },
+    "type": "primary"
+  },
+  "Explore Night 02 - Secunda": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0.0",
+      "file_id": 301391,
+      "file_name": "Explore Night 2-71952-1-0-0-1658557997.7z",
+      "mod_id": 71952,
+      "hash": "sha256-cQPQjNe710D49feNb/yh2vdgkzxdynRl2LKjt5ygREE="
+    },
+    "type": "primary"
+  },
+  "Explore Night 03 - Masser": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0.0",
+      "file_id": 301393,
+      "file_name": "Explore Night 3-71952-1-0-0-1658558055.7z",
+      "mod_id": 71952,
+      "hash": "sha256-gb3nrgi+PJJPJ9zZGKMjWk6J/XD5o7HuTj4T+QMsRfE="
+    },
+    "type": "primary"
+  },
+  "Explore Night 04 - Solitude": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0.0",
+      "file_id": 301394,
+      "file_name": "Explore Night 4-71952-1-0-0-1658558129.7z",
+      "mod_id": 71952,
+      "hash": "sha256-7eggUXzJ1FPOW3le6UBZ4En3z45AG6NzSMDIDqyXtb4="
+    },
+    "type": "primary"
+  },
+  "Explore Night 05 - Aurora": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0.0",
+      "file_id": 301395,
+      "file_name": "Explore Night 5-71952-1-0-0-1658558189.7z",
+      "mod_id": 71952,
+      "hash": "sha256-2/wd+WYJAUpkF5E+xu9DhrrXJar5qQMcTjjZz/bixEE="
+    },
+    "type": "primary"
+  },
+  "Explore Night 06 - Standing Stones": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0.0",
+      "file_id": 301396,
+      "file_name": "Explore Night 06-71952-1-0-0-1658558289.7z",
+      "mod_id": 71952,
+      "hash": "sha256-BX2GakGoGuZwNQv5LN+1o5QnnZXqrJIhJ92tMZK2eic="
+    },
+    "type": "primary"
+  }
+}

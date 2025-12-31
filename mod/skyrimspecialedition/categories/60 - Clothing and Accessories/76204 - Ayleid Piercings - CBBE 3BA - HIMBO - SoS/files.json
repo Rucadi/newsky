@@ -1,0 +1,23 @@
+{
+  "Ayleid Stone Piercings": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.6.4",
+      "file_id": 634238,
+      "file_name": "Ayleid Stone Piercings-76204-1-6-4-1748970168.7z",
+      "mod_id": 76204,
+      "hash": "sha256-q5LxSBsjIK1SaR6LQQyZ6m3Jluozjqq7feayydYWBLk="
+    },
+    "type": "primary"
+  },
+  "Ayleid Stone Piercings - Slot 60 Nipples Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.6.4",
+      "file_id": 634239,
+      "file_name": "Ayleid Stone Piercings - Slot 60 Nipples Patch-76204-1-6-4-1748970202.7z",
+      "mod_id": 76204,
+      "hash": "sha256-/9Ossq0lRgl+u7Od3wYV0KjeJRA+TLiRja6w+ntwhVY="
+    }
+  }
+}

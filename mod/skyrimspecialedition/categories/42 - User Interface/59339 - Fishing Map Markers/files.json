@@ -1,0 +1,24 @@
+{
+  "FishingMapMarkers": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.04",
+      "file_id": 247437,
+      "file_name": "FishingMapMarkers-59339-1-04-1638931978.7z",
+      "mod_id": 59339,
+      "hash": "sha256-8MaJaOkMuJrPs+c83v5cpIrAymGnRjSsaeVFs5mBuhc="
+    },
+    "type": "primary"
+  },
+  "FishingMapMarkers - Fishing Spot": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.04a",
+      "file_id": 247438,
+      "file_name": "FishingMapMarkers - Fishing Spot-59339-1-04a-1638932035.7z",
+      "mod_id": 59339,
+      "hash": "sha256-cDc+KUam+syKP1pPBH1OcxKwU0iOeS05AjHlO+nMxW4="
+    },
+    "type": "primary"
+  }
+}

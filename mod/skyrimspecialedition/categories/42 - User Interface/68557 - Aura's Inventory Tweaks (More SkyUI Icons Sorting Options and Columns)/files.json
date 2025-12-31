@@ -1,0 +1,23 @@
+{
+  "Aura's Inventory Tweaks": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "4.5.0",
+      "file_id": 494229,
+      "file_name": "Aura's Inventory Tweaks-68557-4-5-0-1713935718.zip",
+      "mod_id": 68557,
+      "hash": "sha256-cRCLMfKP+zLn8BdWqFqhxWIxwrnfryXum+0gbUGrpvU="
+    },
+    "type": "primary"
+  },
+  "Aura's Translation Tweaks": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "4.5.0",
+      "file_id": 494231,
+      "file_name": "Aura's Translation Tweaks-68557-4-5-0-1713935946.zip",
+      "mod_id": 68557,
+      "hash": "sha256-M9JWnStgFM8Wf03fUoy24WkEnjygisWntm5TPRJZCBE="
+    }
+  }
+}

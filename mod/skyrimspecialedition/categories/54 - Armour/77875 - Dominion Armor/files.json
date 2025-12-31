@@ -1,0 +1,43 @@
+{
+  "Dominion Armor": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 327490,
+      "file_name": "Dominion Armor-77875-1-0-1667088855.zip",
+      "mod_id": 77875,
+      "hash": "sha256-W/JS5tea9XU9UWnhDe41/xPMQJuGh1isEbWlPdeTWbQ="
+    },
+    "type": "primary"
+  },
+  "3BA Bodyslide - By MrYeet21": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 328253,
+      "file_name": "3BA Bodyslide - By MrYeet21-77875-1-0-1667326211.7z",
+      "mod_id": 77875,
+      "hash": "sha256-z7Hz+ycuZDJfYike76byKSFj2At2+0F5XTJu3DJWJ0M="
+    }
+  },
+  "Helmet Eye Rune Textures": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "2.0",
+      "file_id": 340046,
+      "file_name": "Helmet Eye Rune Textures-77875-2-0-1670863180.zip",
+      "mod_id": 77875,
+      "hash": "sha256-Bahvh4od0TYelMrUGOoLLXxoe0+GgwC6zLnt/yU49u4="
+    }
+  },
+  "Helmet Eye Rune Textures (Brighter)": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "2.0",
+      "file_id": 340049,
+      "file_name": "Helmet Eye Rune Textures (Brighter)-77875-2-0-1670863233.zip",
+      "mod_id": 77875,
+      "hash": "sha256-E8Y1ZODYS1A03mFa1RGF3YcjXNUa0gMpezuOBc6uWlU="
+    }
+  }
+}

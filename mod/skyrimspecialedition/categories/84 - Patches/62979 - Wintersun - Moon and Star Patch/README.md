@@ -2,6 +2,8 @@
 - Author: aragonit
 - Game: skyrimspecialedition
 - Mod Page: https://www.nexusmods.com/skyrimspecialedition/mods/62979
+
+
 Whenever I see a Statue of Azura, I want her blessings. But the one in Little Vivec doesn't give one, so I changed it. It is a very minor thing, but it doesn't make sense for Bal Ran to have her statue in his hut if he can't get her blessings.
   
   

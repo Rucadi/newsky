@@ -1,0 +1,107 @@
+{
+  "Xtudo's Dark Knight HIMBO Addon": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 236402,
+      "file_name": "Xtudo's Dark Knight HIMBO Addon-56914-1-0-1634900748.7z",
+      "mod_id": 56914,
+      "hash": "sha256-kjKLgcxwpBPtcDymhttnNNfrWW1YA3sCpCrThfsxCZI="
+    }
+  },
+  "Xtudo's Dark Knight HIMBO": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0a",
+      "file_id": 236842,
+      "file_name": "Xtudo's Dark Knight HIMBO-56914-1-0a-1635105532.7z",
+      "mod_id": 56914,
+      "hash": "sha256-e0D/q9g7ksIfyieI/tnqpG2Nqei7sT3s3fJ4ttrvEo0="
+    },
+    "type": "primary"
+  },
+  "Xtudo's Dark Knight 3BA": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "2.0",
+      "file_id": 266233,
+      "file_name": "Xtudo's Dark Knight 3BA-56914-2-0-1645586792.7z",
+      "mod_id": 56914,
+      "hash": "sha256-Dvp0ObaPdwXPuMj0hV4I7EeTRRh/cOYSPkh38QOuT0k="
+    },
+    "type": "primary"
+  },
+  "Xtudo's Dark Knight BHUNP": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "2.0",
+      "file_id": 266234,
+      "file_name": "Xtudo's Dark Knight BHUNP-56914-2-0-1645587613.7z",
+      "mod_id": 56914,
+      "hash": "sha256-2P6RdHLO0tvmsj7xdEfPqi8nsjeGAI8ZklRrH6kAsYI="
+    },
+    "type": "primary"
+  },
+  "Xtudo's Dark Knight CBBE": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "2.0",
+      "file_id": 266235,
+      "file_name": "Xtudo's Dark Knight CBBE-56914-2-0-1645587809.7z",
+      "mod_id": 56914,
+      "hash": "sha256-vud9Kh1h1GXIy3DbQs4aRJut/6NIfIAYTN1vJ1Aszg0="
+    },
+    "type": "primary"
+  },
+  "Xtudo's Dark Knight UUNP": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "2.0",
+      "file_id": 266239,
+      "file_name": "Xtudo's Dark Knight UUNP-56914-2-0-1645588392.7z",
+      "mod_id": 56914,
+      "hash": "sha256-qG6dGBDfl0RV35Zx1L/mCuiGssGukGZsscWn+8Imo3U="
+    },
+    "type": "primary"
+  },
+  "Xtudo's Dark Knight 3BA Addon": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "2.0",
+      "file_id": 266241,
+      "file_name": "Xtudo's Dark Knight 3BA Addon-56914-2-0-1645588780.7z",
+      "mod_id": 56914,
+      "hash": "sha256-ht5Z2uEdoBXJ0i/dnDn9jYY53hVkPwenoTohDtEW7/s="
+    }
+  },
+  "Xtudo's Dark Knight BHUNP Addon": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "2.0",
+      "file_id": 266242,
+      "file_name": "Xtudo's Dark Knight BHUNP Addon-56914-2-0-1645589281.7z",
+      "mod_id": 56914,
+      "hash": "sha256-oni3WczN7tNxHx0FB+dsgq3kdoDbSXyJCWxJR0CmPWI="
+    }
+  },
+  "Xtudo's Dark Knight CBBE Addon": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "2.0",
+      "file_id": 266243,
+      "file_name": "Xtudo's Dark Knight CBBE Addon-56914-2-0-1645590125.7z",
+      "mod_id": 56914,
+      "hash": "sha256-TsjaCw6t+tqD8XpWaRyOQsE7rxoCxRcBYJ8qQKiony4="
+    }
+  },
+  "Xtudo's Dark Knight UUNP Addon": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "2.0",
+      "file_id": 266251,
+      "file_name": "Xtudo's Dark Knight UUNP Addon-56914-2-0-1645590910.7z",
+      "mod_id": 56914,
+      "hash": "sha256-7LqZaooFVKsYVlYhzUYylrRP9e+jwMXXGTNV/imCq5M="
+    }
+  }
+}

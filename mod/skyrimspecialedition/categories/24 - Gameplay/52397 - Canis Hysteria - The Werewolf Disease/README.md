@@ -2,6 +2,8 @@
 - Author: Tate Taylor and VictorF
 - Game: skyrimspecialedition
 - Mod Page: https://www.nexusmods.com/skyrimspecialedition/mods/52397
+
+
 ﻿﻿﻿﻿﻿﻿﻿﻿[size=3]![](https://raw.githubusercontent.com/PierreDespereaux/PierreDespereaux/master/assets/images/banners/Canis Hysteria.png)
   
 Also available on [Bethesda.net](https://creations.bethesda.net/en/skyrim/details/24507/Canis_Hysteria___The_Werewolf_Disease)﻿﻿﻿.[/size]

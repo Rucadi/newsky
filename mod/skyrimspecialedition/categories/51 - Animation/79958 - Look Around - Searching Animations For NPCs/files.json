@@ -1,0 +1,24 @@
+{
+  "Look Around - Searching Animations For NPCs - DAR": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 338889,
+      "file_name": "Look Around - Searching Animations For NPCs-79958-1-0-1670543214.zip",
+      "mod_id": 79958,
+      "hash": "sha256-OiJElxGPKrnHRNJC/1serlruhvx2GXxqNSuwfHpJrDE="
+    },
+    "type": "primary"
+  },
+  "Look Around - Searching Animations for NPC - OAR": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1",
+      "file_id": 398776,
+      "file_name": "Look Around - Searching Animations for NPC - OAR-79958-1-1-1687041934.zip",
+      "mod_id": 79958,
+      "hash": "sha256-bs+sQVM5yBAJR3R2WiwQ1u+yCQDRkymhBXkEf89nq7Q="
+    },
+    "type": "primary"
+  }
+}

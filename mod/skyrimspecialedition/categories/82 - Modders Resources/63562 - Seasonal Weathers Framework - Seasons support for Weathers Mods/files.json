@@ -1,0 +1,183 @@
+{
+  "Seasonal Weathers Framework - 1.01": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.01",
+      "file_id": 264127,
+      "file_name": "Seasonal Weathers Framework - 1.01-63562-1-01-1644859098.zip",
+      "mod_id": 63562,
+      "hash": "sha256-LK1GT2HqMf5SRfmvG2Mf/0xwb5ZLG1peDT6O7nw+I/U="
+    },
+    "type": "primary"
+  },
+  "Seasonal Weathers Framework - Mythical Ages": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "MythicalAges",
+      "file_id": 264652,
+      "file_name": "Seasonal Weathers Framework - Mythical Ages-63562-MythicalAges-1645044173.zip",
+      "mod_id": 63562,
+      "hash": "sha256-0bFcy9XYPonUjU31nxPDCjTWiYF3jztVoSfnRm3H4Aw="
+    }
+  },
+  "Seasonal Weathers Framework - Obsidian Weathers": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "ObsidianWeathers",
+      "file_id": 264654,
+      "file_name": "Seasonal Weathers Framework - Obsidian Weathers-63562-ObsidianWeathers-1645044299.zip",
+      "mod_id": 63562,
+      "hash": "sha256-UyWzmpOgnaImHMtPhQV0HVh4Rx/dHSPm4j0PDMAwkn4="
+    }
+  },
+  "Seasonal Weathers Framework - Picturesque Weathers": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "PicturesqueWeathers",
+      "file_id": 264655,
+      "file_name": "Seasonal Weathers Framework - Picturesque Weathers-63562-PicturesqueWeathers-1645044423.zip",
+      "mod_id": 63562,
+      "hash": "sha256-mR+1oCIpNqAKYfbmTt5AsFo6TAboAGiOzk7VTKznjN8="
+    }
+  },
+  "Seasonal Weathers Framework - Rustic Weathers": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "RusticWeathers",
+      "file_id": 264657,
+      "file_name": "Seasonal Weathers Framework - Rustic Weathers-63562-RusticWeathers-1645044505.zip",
+      "mod_id": 63562,
+      "hash": "sha256-Ya20vnexwyiyFdEZDRRdtlbrCJ8EzTdEfVZW7HXJEI4="
+    }
+  },
+  "Seasonal Weathers Framework - SOLAS Weathers and ENB": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "SOLASENB",
+      "file_id": 264658,
+      "file_name": "Seasonal Weathers Framework - SOLAS Weathers and ENB-63562-SOLASENB-1645044539.zip",
+      "mod_id": 63562,
+      "hash": "sha256-BNcOEubXX3HLiG1CZBr5TgLLApdBdKwZqIWlh4FyT4c="
+    }
+  },
+  "Seasonal Weathers Framework - Vanilla - Azurite Weathers": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "Vanilla",
+      "file_id": 264659,
+      "file_name": "Seasonal Weathers Framework - Vanilla - Azurite Weathers-63562-Vanilla-1645044582.zip",
+      "mod_id": 63562,
+      "hash": "sha256-JBiGGwnATwW79bpvgSrlDrshQ2vznvVLCbJqPNeS5hY="
+    }
+  },
+  "Seasonal Weathers Framework - Vivid Weathers": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "VividWeathers",
+      "file_id": 264660,
+      "file_name": "Seasonal Weathers Framework - Vivid Weathers-63562-VividWeathers-1645044618.zip",
+      "mod_id": 63562,
+      "hash": "sha256-KIPa/4+ye5OrQGzqsrIzi/rurZrpVucGZIcyrFAG00E="
+    }
+  },
+  "Seasonal Weathers Framework - True Storms": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "TrueStorms",
+      "file_id": 264948,
+      "file_name": "Seasonal Weathers Framework - True Storms-63562-TrueStorms-1645126007.zip",
+      "mod_id": 63562,
+      "hash": "sha256-lT0KUpuRmhfZ8Huz4LW/EikMFrz2Q236wGN0tdVLgfA="
+    }
+  },
+  "Seasonal Weathers Framework - Wander - A Weather Mod": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "Wander",
+      "file_id": 264949,
+      "file_name": "Seasonal Weathers Framework - Wander - A Weather Mod-63562-Wander-1645126101.zip",
+      "mod_id": 63562,
+      "hash": "sha256-O0E6fQ+Hy+O1fzVS1YXZlK/owZay82FIAJNmE3lj0k4="
+    }
+  },
+  "Seasonal Weathers Framework - Kyne's Weathers and Seasons": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "KynesWeathersAndSeasons",
+      "file_id": 264967,
+      "file_name": "Seasonal Weathers Framework - Kyne's Weathers and Seasons-63562-KynesWeathersAndSeasons-1645132677.zip",
+      "mod_id": 63562,
+      "hash": "sha256-HkapcRycFwaQ2FAI4vr8nSfekEZC3w7tezqW2tNaA18="
+    }
+  },
+  "Seasonal Weathers Framework - NLA": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "NLAkojak747",
+      "file_id": 265424,
+      "file_name": "Seasonal Weathers Framework - NLA-63562-NLA-1645299758.zip",
+      "mod_id": 63562,
+      "hash": "sha256-uhkWLQPa+yRtScsN2Lie5YHQic3Jv1TuLP8s4euyP/k="
+    }
+  },
+  "Seasonal Weathers Framework - Cathedral Weathers and Seasons": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "Cathedral",
+      "file_id": 265710,
+      "file_name": "Seasonal Weathers Framework - Cathedral Weathers and Seasons-63562-Cathedral-1645387371.zip",
+      "mod_id": 63562,
+      "hash": "sha256-hNb8e2Bg1WhwQ/qBv/NFnPSTVslNgMxEoSVnJROuGaE="
+    }
+  },
+  "Seasonal Weathers Framework - Climates Of Tamriel": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "COT",
+      "file_id": 269044,
+      "file_name": "Seasonal Weathers Framework - Climates Of Tamriel-63562-COT-1646824639.zip",
+      "mod_id": 63562,
+      "hash": "sha256-8ewQGWdTouBoM9qzs/lCBlZZvc2G3Tv4UUp8cEe94Mc="
+    }
+  },
+  "Seasonal Weathers Framework - NAT": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "NAT",
+      "file_id": 269854,
+      "file_name": "Seasonal Weathers Framework - NAT-63562-NAT-1647170453.zip",
+      "mod_id": 63562,
+      "hash": "sha256-lMHYxJifoP68MhW4KcQjowGQYoNfaFyHixurRnBl6FU="
+    }
+  },
+  "Seasonal Weathers Framework - RAID Weathers": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "RAIDWeathers2.0",
+      "file_id": 302218,
+      "file_name": "Seasonal Weathers Framework - RAID Weathers-63562-RAIDWeathers2-1658787752.zip",
+      "mod_id": 63562,
+      "hash": "sha256-Svv0ZsQI6kdxZ+7eRwvB3fkVbzvRxXw2xbvoLDjAH6A="
+    }
+  },
+  "Seasonal Weathers Framework - Natural Lighting and Atmospherics SE": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "NLAL00",
+      "file_id": 325815,
+      "file_name": "Seasonal Weathers Framework - Natural Lighting and Atmospherics SE-63562-NLAL00-1666458270.zip",
+      "mod_id": 63562,
+      "hash": "sha256-2lPxsSzrazZZqLc1GFA8M/R1asBxlDQFH2vl6NqIvu0="
+    }
+  },
+  "Seasonal Weathers Framework - NAT-ENB III - 3.1.1C": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "NATENBIII-3.1.1C",
+      "file_id": 416703,
+      "file_name": "Seasonal Weathers Framework - NAT-ENB III - 3.1.1C-63562-NATENBIII-3-1-1C-1691945733.zip",
+      "mod_id": 63562,
+      "hash": "sha256-wapnwgwbt03uGGF3SAV1MXqGwX+fJqEUPhSLsj0zc5E="
+    }
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "Exotic Ordinator Performance": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 207902,
+      "file_name": "Exotic Ordinator Performance-50913-1-0-1623052794.zip",
+      "mod_id": 50913,
+      "hash": "sha256-Cf5NCByuLS3nKk8VfEXaRM6q5dxlq82+43wxpC4RZ2U="
+    },
+    "type": "primary"
+  },
+  "Exotic Ordinator Performance - FNIS": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0a",
+      "file_id": 209480,
+      "file_name": "Exotic Ordinator Performance - FNIS-50913-1-0a-1623878217.zip",
+      "mod_id": 50913,
+      "hash": "sha256-xDS4m8ZgMT+z8bQ/LhLpfXw7a1nssSPmaipI0yvO8TE="
+    }
+  }
+}

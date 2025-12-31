@@ -2,6 +2,8 @@
 - Author: Aelarr
 - Game: skyrimspecialedition
 - Mod Page: https://www.nexusmods.com/skyrimspecialedition/mods/57961
+
+
 ﻿![](http://i.imgur.com/jiMiUJu.png?1)
 
 [VIGILANT](https://www.nexusmods.com/skyrimspecialedition/mods/11849/?) is a large quest mod in which you join the Vigil of Stendarr and hunt down the Daedra, witches, and vampires wreaking havoc across Skyrim until a certain Daedric Prince takes a very personal interest in your actions. 

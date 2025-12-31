@@ -1,0 +1,45 @@
+{
+  "JK's Riverfall Cottage - LOS II Patch And Addon": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1",
+      "file_id": 573058,
+      "file_name": "JK's Riverfall Cottage - LOS II Patch And Addon-75468-1-1-1734372984.7z",
+      "mod_id": 75468,
+      "hash": "sha256-4eby3TwvbezSM0IvfwXb8sJeOvaImsrP3eVfHxowUr8="
+    },
+    "type": "primary"
+  },
+  "Riverfall Cottage - Nature of the Wild Lands Addon": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 573060,
+      "file_name": "Riverfall Cottage - Nature of the Wild Lands Addon-75468-1-0-1734373123.7z",
+      "mod_id": 75468,
+      "hash": "sha256-nsT62dUIY2b2n7Er+bS3E9hqpFfQB3WuB4O/efVfils="
+    },
+    "type": "primary"
+  },
+  "JK's Riverfall Cottage - Witcher Plants Addon": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 573061,
+      "file_name": "JK's Riverfall Cottage - Witcher Plants Addon-75468-1-0-1734373196.zip",
+      "mod_id": 75468,
+      "hash": "sha256-hUHoBl6t0M/WGng6I55SZ/XB48fAla4EAZgFxJjw+0w="
+    },
+    "type": "primary"
+  },
+  "Riverfall Cottage - NOTL And Witcher Plants Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 573063,
+      "file_name": "Riverfall Cottage - NOTL And Witcher Plants Patch-75468-1-0-1734373308.7z",
+      "mod_id": 75468,
+      "hash": "sha256-OLwI5AxaNT6437lb9meNY1MFy4Cc2IVwjCFf/MykCzU="
+    }
+  }
+}

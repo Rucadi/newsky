@@ -1,0 +1,24 @@
+{
+  "Reanimated NPC Animations - DAR OAR": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.2",
+      "file_id": 370511,
+      "file_name": "Reanimated NPC Animations-79079-1-2-1679362339.zip",
+      "mod_id": 79079,
+      "hash": "sha256-etn8tfJDwsiCeo/nWoQZmPPB4cQU1kKMkbV3xtY/+EY="
+    },
+    "type": "primary"
+  },
+  "Reanimated NPC Animations - OAR": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.21",
+      "file_id": 470025,
+      "file_name": "Reanimated NPC Animations - OAR-79079-1-21-1707709298.zip",
+      "mod_id": 79079,
+      "hash": "sha256-I/VXAWtCDev2U6maAMSrxApAxmIpH8G6rb+sSmYRIlg="
+    },
+    "type": "primary"
+  }
+}

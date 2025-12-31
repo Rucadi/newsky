@@ -1,0 +1,24 @@
+{
+  "There Is No (CC) Umbra - Model Swap": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 290578,
+      "file_name": "There Is No (CC) Umbra - Model Swap-69553-1-0-1655024288.7z",
+      "mod_id": 69553,
+      "hash": "sha256-MRzJPdh+hvr80+jOpY1GaywNPo5TCCrBsOmjpnlBmiA="
+    },
+    "type": "primary"
+  },
+  "There Is No (CC) Umbra": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.01",
+      "file_id": 387144,
+      "file_name": "There Is No (CC) Umbra-69553-1-01-1683842589.7z",
+      "mod_id": 69553,
+      "hash": "sha256-IFmjxLdD5seVLPjhsSvY5455QizyHgCGhs+ZEzqOxGA="
+    },
+    "type": "primary"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "Scripts with undressing": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1",
+      "file_id": 317715,
+      "file_name": "Scripts with undressing-75751-1-1663612741.rar",
+      "mod_id": 75751,
+      "hash": "sha256-Pcxg5lUXMS3utBY6LEV4nkvOqIlArH8kHd2ZW+UGV7U="
+    }
+  },
+  "Vex Femdom Goddess SL": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "2",
+      "file_id": 363521,
+      "file_name": "Vex Femdom Goddess SL-75751-2-1677412156.rar",
+      "mod_id": 75751,
+      "hash": "sha256-uwM61ue+oLuq5RftH7gvXRZgP5/voz34S7dy1MUUgVU="
+    },
+    "type": "primary"
+  }
+}

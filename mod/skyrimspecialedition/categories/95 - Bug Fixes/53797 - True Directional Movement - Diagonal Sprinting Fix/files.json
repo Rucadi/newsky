@@ -1,0 +1,24 @@
+{
+  "TDM Diagonal Sprinting Fix": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1",
+      "file_id": 673331,
+      "file_name": "TDM Diagonal Sprinting Fix-53797-1-1-1759861241.7z",
+      "mod_id": 53797,
+      "hash": "sha256-f55A/MdD87I/n+7zZeMdCtyu1mS9pqS3A6fs6gKcElQ="
+    },
+    "type": "primary"
+  },
+  "TDM Diagonal Sprinting Fix - GSO": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1",
+      "file_id": 673332,
+      "file_name": "TDM Diagonal Sprinting Fix-53797-1-1-1759861275.7z",
+      "mod_id": 53797,
+      "hash": "sha256-nTDCmHjKYLTbKS+r75EQE+BW47tJINPu8RBbnaN+aho="
+    },
+    "type": "primary"
+  }
+}

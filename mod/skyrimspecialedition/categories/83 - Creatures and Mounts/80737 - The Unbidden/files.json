@@ -1,0 +1,73 @@
+{
+  "The Unbidden - Adventurer's Backpack": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.07",
+      "file_id": 366420,
+      "file_name": "The Unbidden - Adventurer's Backpack-80737-1-06-1678231798.7z",
+      "mod_id": 80737,
+      "hash": "sha256-H0ruMyNjQtBIVCUYMO+nHWO5rTmo9jzInQGFg7Oo2tc="
+    }
+  },
+  "The Unbidden - Bone Wolf": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.07",
+      "file_id": 366422,
+      "file_name": "The Unbidden - Bone Wolf-80737-1-06-1678232129.7z",
+      "mod_id": 80737,
+      "hash": "sha256-zICdbopDDa0sEVWSSfoYeRmQfDSyqhdYJ+qwtCraUFA="
+    }
+  },
+  "The Unbidden - Dead Man's Dread": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.07",
+      "file_id": 366429,
+      "file_name": "The Unbidden - Dead Man's Dread-80737-1-06-1678232362.7z",
+      "mod_id": 80737,
+      "hash": "sha256-VBPn6oPnmrRlQNd5us5cGN4XpuAjFonBeVSUUMQUOgk="
+    }
+  },
+  "The Unbidden": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.07",
+      "file_id": 366432,
+      "file_name": "The Unbidden-80737-1-07-1678232930.7z",
+      "mod_id": 80737,
+      "hash": "sha256-rzggq0t7p4GQTdItb5vR6Dyia+tiLNAgwDIYgnitxUU="
+    },
+    "type": "primary"
+  },
+  "The Unbidden - Corpses of Skyrim": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.07",
+      "file_id": 370508,
+      "file_name": "The Unbidden - Corpses of Skyrim-80737-1-07-1679361440.7z",
+      "mod_id": 80737,
+      "hash": "sha256-soQT9JYqAMEUuAiUIKIlVJ4laXkIvWvUVQYVosGKKfg="
+    }
+  },
+  "Unbidden - WACCF": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.01",
+      "file_id": 444389,
+      "file_name": "Unbidden - WACCF-80737-1-01-1700503903.7z",
+      "mod_id": 80737,
+      "hash": "sha256-7VY20UdEh5zHTJQy3no/AoQqmEtlVe2IYm7wbA3r1Qg="
+    }
+  },
+  "Unbidden - WACCF Patch (Titanbass1)": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 447328,
+      "file_name": "Unbidden - WACCF Patch (Titanbass1)-80737-1-0-1701318760.7z",
+      "mod_id": 80737,
+      "hash": "sha256-R5Hvd454SqoGmluJZjU1HAgFh3Cwvk6bvtEabimRVMQ="
+    }
+  }
+}

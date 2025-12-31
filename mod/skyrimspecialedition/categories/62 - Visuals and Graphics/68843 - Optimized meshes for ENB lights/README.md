@@ -2,6 +2,8 @@
 - Author: Oz3
 - Game: skyrimspecialedition
 - Mod Page: https://www.nexusmods.com/skyrimspecialedition/mods/68843
+
+
 This mod works by adding a separate version of the candle flame mesh and removes the ENB light effect from it. New addon-nodes have been created which are only responsible for adding ENB light, one for each tier of strength (representing 2, 3, 4, 6, and 8 candles). The more flames the brighter the lights will be and the radius also gets increased. Hopefully this will have a positive impact on performance as well.
   
   

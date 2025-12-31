@@ -1,0 +1,53 @@
+{
+  "Woodcutting Tweaks - Override Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 220034,
+      "file_name": "Woodcutting Tweaks - Override Patch-53538-1-0-1628537735.7z",
+      "mod_id": 53538,
+      "hash": "sha256-1kIHRWTFBn7K4rAfPwMkkOWQ4mdoWhSJq5BXcTCgXFM="
+    }
+  },
+  "Woodcutting Tweaks": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1",
+      "file_id": 220041,
+      "file_name": "Woodcutting Tweaks-53538-1-1-1628539303.7z",
+      "mod_id": 53538,
+      "hash": "sha256-cuj9AJVF1RsZohl/w6aRtiVk6QnEq3BlgVf65IiLQtQ="
+    },
+    "type": "primary"
+  },
+  "Woodcutting Tweaks - Campfire Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 241753,
+      "file_name": "Woodcutting Tweaks - Campfire Patch-53538-1-0-1637000551.7z",
+      "mod_id": 53538,
+      "hash": "sha256-xR4NSBmCppLgABR+Y8YySI281kLjulgD2OO/DhiGx8A="
+    }
+  },
+  "Woodcutting Tweaks - Skyrim Flora Overhaul Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1a",
+      "file_id": 442653,
+      "file_name": "Woodcutting Tweaks - Skyrim Flora Overhaul Patch-53538-1-1a-1699994580.7z",
+      "mod_id": 53538,
+      "hash": "sha256-5P8EuF5osv/0kV+JCI4irKcsivrlamJGSqKd5vd8J2g="
+    }
+  },
+  "Woodcutting Tweaks - OAR meshes": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1b",
+      "file_id": 489129,
+      "file_name": "Woodcutting Tweaks - OAR meshes-53538-1-1b-1712703578.zip",
+      "mod_id": 53538,
+      "hash": "sha256-eSFA0K3YaRPWLzd0JH29f/RYda0RDZbSioSq9T3YNNo="
+    }
+  }
+}

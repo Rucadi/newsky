@@ -1,0 +1,398 @@
+{
+  "Redguard Noble Armor": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0.0",
+      "file_id": 205900,
+      "file_name": "Redguard Noble Armor-50491-1-0-0-1622148949.7z",
+      "mod_id": 50491,
+      "hash": "sha256-kuRYxawUDu8/kW5OlUYAKQLzd0BKMluu4KPFudNOi+A="
+    },
+    "type": "primary"
+  },
+  "Scoped Bows": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0.1",
+      "file_id": 206204,
+      "file_name": "Scoped Bows-50491-1-0-1-1622300418.7z",
+      "mod_id": 50491,
+      "hash": "sha256-xIqgGaLSPOzIc8W7sg04QABzIFi3uJHjhwDj9zYg3XA="
+    },
+    "type": "primary"
+  },
+  "Guards Armor Replacer": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0.0",
+      "file_id": 206368,
+      "file_name": "Guards Armor Replacer-50491-1-0-0-1622380533.7z",
+      "mod_id": 50491,
+      "hash": "sha256-DQRhFrQgEvqq9CP3GDW5LvRed7F3jAVISNXANkoiZNQ="
+    },
+    "type": "primary"
+  },
+  "Dane Axe Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0.0",
+      "file_id": 206499,
+      "file_name": "Dane Ax Patch-50491-1-0-0-1622422443.7z",
+      "mod_id": 50491,
+      "hash": "sha256-Esskta5b3m2uvzfgnPT9brJ34hOzNbL1ejdNchaWNAs="
+    },
+    "type": "primary"
+  },
+  "Viking Ax Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0.0",
+      "file_id": 206500,
+      "file_name": "Viking Ax Patch-50491-1-0-0-1622422490.7z",
+      "mod_id": 50491,
+      "hash": "sha256-cOHt48UJVDWU66JQvZtmSLHPjJwqBbwq1dZix4Yxzjk="
+    },
+    "type": "primary"
+  },
+  "Templar Longsword Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0.0",
+      "file_id": 206501,
+      "file_name": "Templar Longsword Patch-50491-1-0-0-1622422519.7z",
+      "mod_id": 50491,
+      "hash": "sha256-IppdIK8M+gUUD7OoA0q9olQWGyVCnWH+RXdqe/2UiPI="
+    },
+    "type": "primary"
+  },
+  "Axes Retextured Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0.0",
+      "file_id": 206526,
+      "file_name": "Axes Retextured Patch-50491-1-0-0-1622427626.7z",
+      "mod_id": 50491,
+      "hash": "sha256-cZzcN8bi6dwyej/zPQaFHXSD5n52tierPJ1auczS0jo="
+    },
+    "type": "primary"
+  },
+  "Bat Winged Axe Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0.0",
+      "file_id": 206527,
+      "file_name": "Bat Winged Axe Patch-50491-1-0-0-1622427645.7z",
+      "mod_id": 50491,
+      "hash": "sha256-wbgTYzfDzq/A3Rh/ISt+xBwvPmEyZrA2R5ImkN5B3gg="
+    },
+    "type": "primary"
+  },
+  "Executioner Sword": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0.0",
+      "file_id": 206528,
+      "file_name": "Executioner Sword-50491-1-0-0-1622427667.7z",
+      "mod_id": 50491,
+      "hash": "sha256-kRFaTt1Pdam23Upa7/2qwjcIjAgQxdLqz2g7DYrdiyU="
+    },
+    "type": "primary"
+  },
+  "Historically Accurate Executioner Sword": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0.0",
+      "file_id": 206529,
+      "file_name": "Historically Accurate Executioner Sword-50491-1-0-0-1622427694.7z",
+      "mod_id": 50491,
+      "hash": "sha256-g11czFXxz84qeTlvNdO84INWhLJZ+bN+hxkCWI7HkUQ="
+    },
+    "type": "primary"
+  },
+  "Knightly Longsword": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0.0",
+      "file_id": 206530,
+      "file_name": "Knightly Longsword-50491-1-0-0-1622427712.7z",
+      "mod_id": 50491,
+      "hash": "sha256-UDP+VQTQTchmN+htq7PClM6sHNwzj7YDowTW9b7WA4k="
+    },
+    "type": "primary"
+  },
+  "Norse Pack": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0.0",
+      "file_id": 206531,
+      "file_name": "Norse Pack-50491-1-0-0-1622427729.7z",
+      "mod_id": 50491,
+      "hash": "sha256-9wOgnkLM36eBNcbpP5FDe9JC6igQabJv/h3F79cQRxk="
+    },
+    "type": "primary"
+  },
+  "RTR Armory": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0.0",
+      "file_id": 206532,
+      "file_name": "RTR Armory-50491-1-0-0-1622427750.7z",
+      "mod_id": 50491,
+      "hash": "sha256-rAx7HwkYu5x88DQ5/1SPwbdUihLXvKj1cmMCJH1EAxM="
+    },
+    "type": "primary"
+  },
+  "Shinshinto Katana and Wakizashi": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0.0",
+      "file_id": 206533,
+      "file_name": "Shinshinto Katana and Wakizashi-50491-1-0-0-1622427789.7z",
+      "mod_id": 50491,
+      "hash": "sha256-GFpylpUEfORVk+MiePLcB0d+k7kKKMNHxaoQwvUjunE="
+    },
+    "type": "primary"
+  },
+  "Smoll Axe Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0.0",
+      "file_id": 206534,
+      "file_name": "Smoll Axe Patch-50491-1-0-0-1622427808.7z",
+      "mod_id": 50491,
+      "hash": "sha256-6AGhGo/nfxxntw6ogb+w9PIoOzehGRgq1g0+RliBP6c="
+    },
+    "type": "primary"
+  },
+  "Vanilla Weapon Mash-Ups(Reapers Metalworks)": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0.0",
+      "file_id": 206535,
+      "file_name": "Vanilla Weapon Mash-Ups(Reapers Metalworks)-50491-1-0-0-1622427840.7z",
+      "mod_id": 50491,
+      "hash": "sha256-k+pu1EWRAoZn4ai40qFWgIzUx+sFms3M7aT6iCJN0mg="
+    },
+    "type": "primary"
+  },
+  "Warmonger Armory": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0.0",
+      "file_id": 206669,
+      "file_name": "Warmonger Armory-50491-1-0-0-1622497999.7z",
+      "mod_id": 50491,
+      "hash": "sha256-pdQ9DWdMVlfcc8N9aKYrBrhAQlDK4KrqkAzVnTzQGfg="
+    },
+    "type": "primary"
+  },
+  "Strider's Sword": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0.0",
+      "file_id": 206694,
+      "file_name": "Strider's Sword-50491-1-0-0-1622511783.7z",
+      "mod_id": 50491,
+      "hash": "sha256-K84GQJz+HzXE/mW7A14pD+n+oGtm+56r8ObyCj84Lbc="
+    },
+    "type": "primary"
+  },
+  "Knight's Pack (Reaper's Metalworks)": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0.0",
+      "file_id": 211559,
+      "file_name": "Knight's Pack (Reaper's Metalworks)-50491-1-0-0-1624897983.7z",
+      "mod_id": 50491,
+      "hash": "sha256-XZwIcKynhqGsXp5SAv/et36FbCur8m0PXx92BeciwnI="
+    },
+    "type": "primary"
+  },
+  "Stiletto Collection": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0.0",
+      "file_id": 211565,
+      "file_name": "Stiletto Collection-50491-1-0-0-1624900787.7z",
+      "mod_id": 50491,
+      "hash": "sha256-B3d1R0L9nM8Iy+MvZhu0SeXyiHw3KXW3JfIbwlL26uk="
+    },
+    "type": "primary"
+  },
+  "Scoped and Real Bows": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0.2",
+      "file_id": 212175,
+      "file_name": "Scoped and Real Bows-50491-1-0-2-1625181123.7z",
+      "mod_id": 50491,
+      "hash": "sha256-o/CaL+ARwFPkwRReF/s+ZHCKw8qaTK+q8q64DXwyoJQ="
+    },
+    "type": "primary"
+  },
+  "Expanded Skyrim Weaponry": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0.0",
+      "file_id": 213131,
+      "file_name": "Expanded Skyrim Weaponry-50491-1-0-0-1625619354.7z",
+      "mod_id": 50491,
+      "hash": "sha256-rtpNYypkPeHqdOOjU28OHyj11KZUsEoR+DayZr2+fog="
+    },
+    "type": "primary"
+  },
+  "Expanded Skyrim Weaponry WACCF Balanced": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0.2",
+      "file_id": 218232,
+      "file_name": "Expanded Skyrim Weaponry WACCF Balanced-50491-1-0-2-1627865936.7z",
+      "mod_id": 50491,
+      "hash": "sha256-KicyTD87lVYLwmFLp43O57wh6RkeDnFmcpFmcsjoZhs="
+    },
+    "type": "primary"
+  },
+  "Soulsborne Themed Collection": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0.0",
+      "file_id": 218353,
+      "file_name": "Soulsborne Themed Collection-50491-1-0-0-1627913964.7z",
+      "mod_id": 50491,
+      "hash": "sha256-kfE3toiW6u440eT2wvAfpuk9CAVoMP1QZns+3GzfCTM="
+    },
+    "type": "primary"
+  },
+  "Stiletto Collection WACCF Balanced": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0.0",
+      "file_id": 218604,
+      "file_name": "Stiletto Collection WACCF Balanced-50491-1-0-0-1628032555.7z",
+      "mod_id": 50491,
+      "hash": "sha256-den7HtVRk3k9hUxLRuwnGL7ETPGH4j7zZRPs0kjSDjc="
+    },
+    "type": "primary"
+  },
+  "Mithrodin Sword": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0.0",
+      "file_id": 219582,
+      "file_name": "Mithrodin Sword-50491-1-0-0-1628383214.7z",
+      "mod_id": 50491,
+      "hash": "sha256-Yx9/Qnm5rMkUOBGYI6DS+oFh0TmQc/RoSM2mWn9chTc="
+    },
+    "type": "primary"
+  },
+  "Guards Armor Replacer - Heavy Armory patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0.0",
+      "file_id": 221655,
+      "file_name": "Guards Armor Replacer - Heavy Armory patch-50491-1-0-0-1629131140.7z",
+      "mod_id": 50491,
+      "hash": "sha256-mWxRYDgs7OJKnjh6TeqCBQJI1rT/oi6NxZDGNwWmXyI="
+    },
+    "type": "primary"
+  },
+  "Daedric Armor and Weapon Improvement": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0.0",
+      "file_id": 245197,
+      "file_name": "Daedric Armor and Weapon Improvement-50491-1-0-0-1638129131.7z",
+      "mod_id": 50491,
+      "hash": "sha256-0e9W+4hvie6uS5InUhObCEPeW2DjB8xIeNZUUBi8jhA="
+    },
+    "type": "primary"
+  },
+  "OWL - SPOA Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "2.0.1",
+      "file_id": 249717,
+      "file_name": "OWL - SPOA Patch-50491-2-0-1-1639703557.7z",
+      "mod_id": 50491,
+      "hash": "sha256-LJ5BDwM7NslJ0dWfPz1I43B59ZBL/pEy0KBXW60PwRk="
+    },
+    "type": "primary"
+  },
+  "OWL - Fireglass Armory Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "3.0.0",
+      "file_id": 251253,
+      "file_name": "OWL - Fireglass Armory Patch-50491-3-0-0-1640290446.7z",
+      "mod_id": 50491,
+      "hash": "sha256-dZQ7WzkUPXnguWtZwUDfui+/tW6tihRbJJhkhsrmI0o="
+    },
+    "type": "primary"
+  },
+  "OWL - Dawnguard Arsenal Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1.0",
+      "file_id": 252771,
+      "file_name": "OWL - Dawnguard Arsenal Patch-50491-1-1-0-1640905152.7z",
+      "mod_id": 50491,
+      "hash": "sha256-KnyvzlAKkWq2LhMIVxH/AaBeJTqXneAqpcQ+d2eYTiY="
+    },
+    "type": "primary"
+  },
+  "OWL - Animated Armoury Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "2.0.2",
+      "file_id": 258659,
+      "file_name": "OWL - Animated Armoury Patch-50491-2-0-2-1642865968.zip",
+      "mod_id": 50491,
+      "hash": "sha256-KfxrYElmjGwqdLBrtq9ocw2o2uODMR16RXR5Xxq0bCY="
+    },
+    "type": "primary"
+  },
+  "OWL - Animated Armoury Patch - 4x Rarer": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0.0",
+      "file_id": 263862,
+      "file_name": "OWL - Animated Armoury Patch - 4x Rarer-50491-1-0-0-1644764098.zip",
+      "mod_id": 50491,
+      "hash": "sha256-ButoJU2ghXVlvTEC10e21aTxaDGeK5Sj5E0AJn570vI="
+    },
+    "type": "primary"
+  },
+  "OWL - Tale of Two Mer Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0.0",
+      "file_id": 269527,
+      "file_name": "OWL - Tale of Two Mer Patch-50491-1-0-0-1647056480.zip",
+      "mod_id": 50491,
+      "hash": "sha256-9qGCFGEQ/lQ+QZGcBxC9XzUiBEelbofC/EDbJzhBFk4="
+    },
+    "type": "primary"
+  },
+  "OWL - Legendary Skyrim Crossbows and Bows Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "2.0.2",
+      "file_id": 269633,
+      "file_name": "OWL - Legendary Skyrim Crossbows and Bows Patch-50491-2-0-2-1647097883.zip",
+      "mod_id": 50491,
+      "hash": "sha256-1r3fUrrgE/sxn+TROU82B2429XSFQEZg0cpo+IYeGaU="
+    },
+    "type": "primary"
+  },
+  "OWL - Heavy Armory Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "3.0.1",
+      "file_id": 377087,
+      "file_name": "OWL - Heavy Armory Patch-50491-3-0-1-1681147256.zip",
+      "mod_id": 50491,
+      "hash": "sha256-E3QbddO02paL7yGrl1gRmhHtwkhVJdc4S6rBrFmSvuA="
+    },
+    "type": "primary"
+  }
+}

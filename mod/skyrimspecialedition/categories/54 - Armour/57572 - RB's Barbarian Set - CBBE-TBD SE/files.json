@@ -1,0 +1,24 @@
+{
+  "RB's Barbarian Set - CBBE 3BA": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "2.5",
+      "file_id": 239215,
+      "file_name": "RB's Barbarian Set - CBBE 3BA-57572-1-0-1636135709.7z",
+      "mod_id": 57572,
+      "hash": "sha256-twj5nDVYZ8RxJtMzwpjbgTEEwQ6isP3YaSXvShshFlk="
+    },
+    "type": "primary"
+  },
+  "RB's Barbarian Set - TBD SE": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "2.5",
+      "file_id": 239216,
+      "file_name": "RB's Barbarian Set - TBD SE-57572-2-5-1636135813.7z",
+      "mod_id": 57572,
+      "hash": "sha256-6u13iUPYq0iX5xLJ3+fxFxTckAlaz+842R21mWlPJqc="
+    },
+    "type": "primary"
+  }
+}

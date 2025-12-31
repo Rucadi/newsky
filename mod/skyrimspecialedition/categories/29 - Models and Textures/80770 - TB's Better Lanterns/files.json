@@ -1,0 +1,93 @@
+{
+  "TB's HD Lanterns 8K SSE Version": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "2.3",
+      "file_id": 341304,
+      "file_name": "TB's HD Lanterns 8K SSE Version-80770-2-3-1671288896.zip",
+      "mod_id": 80770,
+      "hash": "sha256-goCfasHFPYe3FkbkW7zc4dzgTn/axBBKWBCdQZMNDXY="
+    },
+    "type": "primary"
+  },
+  "TB's HD Lanterns 8K Optimised SSE Version": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "2.3",
+      "file_id": 341305,
+      "file_name": "TB's HD Lanterns 8K Optimised SSE Version-80770-2-3-1671288941.zip",
+      "mod_id": 80770
+    },
+    "type": "primary"
+  },
+  "TB's HD Lanterns 4K SSE Version": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "2.3",
+      "file_id": 341306,
+      "file_name": "TB's HD Lanterns 4K SSE Version-80770-2-3-1671288967.zip",
+      "mod_id": 80770
+    },
+    "type": "primary"
+  },
+  "TB's HD Lanterns 4K Optimised SSE Version": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "2.3",
+      "file_id": 341307,
+      "file_name": "TB's HD Lanterns 4K Optimised SSE Version-80770-2-3-1671288988.zip",
+      "mod_id": 80770
+    },
+    "type": "primary"
+  },
+  "TB's HD Lanterns 2K SSE Version": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "2.3",
+      "file_id": 341308,
+      "file_name": "TB's HD Lanterns 2K SSE Version-80770-2-3-1671289007.zip",
+      "mod_id": 80770
+    },
+    "type": "primary"
+  },
+  "TB's HD Lanterns 2K Optimised SSE Version": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "2.3",
+      "file_id": 341309,
+      "file_name": "TB's HD Lanterns 2K SSE Version-80770-2-3-1671289021.zip",
+      "mod_id": 80770
+    },
+    "type": "primary"
+  },
+  "TB's HD Lanterns 1K SSE Version": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "2.3",
+      "file_id": 341310,
+      "file_name": "TB's HD Lanterns 1K SSE Version-80770-2-3-1671289046.zip",
+      "mod_id": 80770
+    },
+    "type": "primary"
+  },
+  "TB's HD Lanterns 1K Optimised SSE Version": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "2.3",
+      "file_id": 341312,
+      "file_name": "TB's HD Lanterns 1K Optimised SSE Version-80770-2-3-1671289069.zip",
+      "mod_id": 80770
+    },
+    "type": "primary"
+  },
+  "TB's Better Lanterns (Patches) - FOMOD": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "2.4",
+      "file_id": 341641,
+      "file_name": "TB's Better Lanterns (Patches) - FOMOD-80770-2-4-1671395725.7z",
+      "mod_id": 80770
+    },
+    "type": "primary"
+  }
+}

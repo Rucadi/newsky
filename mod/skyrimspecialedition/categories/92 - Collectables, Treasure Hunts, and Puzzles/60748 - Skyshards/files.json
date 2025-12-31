@@ -1,0 +1,23 @@
+{
+  "Skyshards v1.6.0": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.6.0",
+      "file_id": 251721,
+      "file_name": "Skyshards v1.6.0-60748-1-6-0-1640462572.7z",
+      "mod_id": 60748,
+      "hash": "sha256-3rzW8616JhEKWPsdN/KJy94s9snZKMCbn/HPqAG7lvA="
+    },
+    "type": "primary"
+  },
+  "Skyshards Christmas Addon": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0.0",
+      "file_id": 251723,
+      "file_name": "Skyshards Christmas Addon-60748-1-0-0-1640463438.7z",
+      "mod_id": 60748,
+      "hash": "sha256-Zk2rHO0KSgy5nEsM3VpFu85YD2qfwiao1Ofm3bexVSc="
+    }
+  }
+}

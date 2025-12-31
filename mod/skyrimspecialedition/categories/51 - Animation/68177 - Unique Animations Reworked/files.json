@@ -1,13 +1,13 @@
 {
-    "Unique Animations Reworked": {
-        "nexusmods": {
-            "game_name": "skyrimspecialedition",
-            "version": "1.0",
-            "file_id": 284314,
-            "file_name": "Unique Animations Reworked-68177-1-0-1652735301.rar",
-            "mod_id": 68177,
-            "hash": "sha256-sTqSNbpXoXaGA3B0dQltgMo6v238j599zKgdlRLY/XE="
-        },
-        "type": "primary"
-    }
+  "Unique Animations Reworked": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 284314,
+      "file_name": "Unique Animations Reworked-68177-1-0-1652735301.rar",
+      "mod_id": 68177,
+      "hash": "sha256-sTqSNbpXoXaGA3B0dQltgMo6v238j599zKgdlRLY/XE="
+    },
+    "type": "primary"
+  }
 }

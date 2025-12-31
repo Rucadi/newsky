@@ -1,0 +1,54 @@
+{
+  "Jk's Candlehearth Hall Downstairs Room Rental": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1",
+      "file_id": 284876,
+      "file_name": "Jk's Candlehearth Hall Downstairs Room Rental-68232-1-1652942001.zip",
+      "mod_id": 68232,
+      "hash": "sha256-biYVoDscw9OVhOc8IYWhV8HaojyIm0Wr5U6Tu8hCig8="
+    },
+    "type": "primary"
+  },
+  "Jk's Sleeping Giant Inn Downstairs Room Rental": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1",
+      "file_id": 284878,
+      "file_name": "Jk's Sleeping Giant Inn Downstairs Room Rental-68232-1-1652942027.zip",
+      "mod_id": 68232,
+      "hash": "sha256-z10gHyM+IWz0GX4bFYPVbo3g7Gos+VG7OuCWogvgQ6Q="
+    },
+    "type": "primary"
+  },
+  "Stop Following Me Delphine": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1",
+      "file_id": 285503,
+      "file_name": "Stop Following Me Delphine-68232-1-1653158925.zip",
+      "mod_id": 68232,
+      "hash": "sha256-R0de75fZHjYVh4yVVCzlxTn8vDtNxdKnfcycexnqids="
+    }
+  },
+  "JKs Candlehearth Hall DSRR - Candlehearth Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1",
+      "file_id": 417353,
+      "file_name": "JKs Candlehearth Hall DSRR - Candlehearth Patch-68232-1-1692122698.zip",
+      "mod_id": 68232,
+      "hash": "sha256-TIsm5WLgT1oTQFy91MhThE+nHvS0RmEp4cYMpC4mvZI="
+    }
+  },
+  "JKs Sleeping Giant Inn DSRR - Candlehearth Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1",
+      "file_id": 417354,
+      "file_name": "JKs Sleeping Giant Inn DSRR - Candlehearth Patch-68232-1-1692122725.zip",
+      "mod_id": 68232,
+      "hash": "sha256-MwhexHt4hAp7epfqPUycfsMQAyfsasEWJa8vA5o6Fks="
+    }
+  }
+}

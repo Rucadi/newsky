@@ -1,0 +1,33 @@
+{
+  "Coelacanth Add-on": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "2.1.0",
+      "file_id": 460598,
+      "file_name": "Coelacanth Add-on-59313-2-1-0-1705058829.zip",
+      "mod_id": 59313,
+      "hash": "sha256-zgj7dAceRJYaW69n+mTQCDK5ngjbIx7vWuNtbeen+j8="
+    }
+  },
+  "The Dragonborn's Aquarium": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "2.1.1",
+      "file_id": 533862,
+      "file_name": "The Dragonborn's Aquarium-59313-2-1-1-1724259621.zip",
+      "mod_id": 59313,
+      "hash": "sha256-tNiIlRiFeUVlYlNj9JlNpvpp0fNxuClR2kRWi3FZsm0="
+    },
+    "type": "primary"
+  },
+  "Catching Clockwork - Wheels of Lull Add-On": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "2.1.1",
+      "file_id": 533866,
+      "file_name": "Catching Clockwork - Wheels of Lull Add-On-59313-2-1-1-1724260215.zip",
+      "mod_id": 59313,
+      "hash": "sha256-yyza1HtE+j1pr6+MrZPbPUTgUgLQkaCFXRTp0FLjdaI="
+    }
+  }
+}

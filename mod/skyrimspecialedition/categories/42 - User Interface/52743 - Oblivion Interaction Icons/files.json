@@ -1,0 +1,33 @@
+{
+  "Quick Loot EE and RE Patch Installer": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "2.3",
+      "file_id": 516822,
+      "file_name": "Quick Loot EE and RE Patch Installer-52743-2-3-1719870862.7z",
+      "mod_id": 52743,
+      "hash": "sha256-gqV1nuQGCd+bEeuY6jjlIuGnyF915GcDtGo4eZVrEJo="
+    }
+  },
+  "Experimental 'Extra-Warm' Theme": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "2.55a",
+      "file_id": 542552,
+      "file_name": "Experimental-52743-2-55a-1726422089.7z",
+      "mod_id": 52743,
+      "hash": "sha256-Ph2mZKpEi5PKhUDLtfGIDUnD03JnQbdOJEkjzHpQt/U="
+    }
+  },
+  "Oblivion Interaction Icons - DSD": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "2.60",
+      "file_id": 591593,
+      "file_name": "Oblivion Interaction Icons - DSD-52743-2-6-1738818732.7z",
+      "mod_id": 52743,
+      "hash": "sha256-NKWR/Kvxvr7VYwtvCtj7QKZjxyKLH/1PrT/dCdKrkdk="
+    },
+    "type": "primary"
+  }
+}

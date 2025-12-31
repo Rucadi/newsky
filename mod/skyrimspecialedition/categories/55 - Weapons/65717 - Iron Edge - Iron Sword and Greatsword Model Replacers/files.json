@@ -1,0 +1,73 @@
+{
+  "Iron Edge - Variant 1": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 273685,
+      "file_name": "Iron Edge - Variant 1-65717-1-0-1648651706.7z",
+      "mod_id": 65717,
+      "hash": "sha256-QrrwTCe6EIE9YshOSrNraXKljt5T+Zi9S7+c+HbkR64="
+    }
+  },
+  "Iron Edge - Variant 2": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 273686,
+      "file_name": "Iron Edge - Variant 2-65717-1-0-1648651726.7z",
+      "mod_id": 65717,
+      "hash": "sha256-33f5w3NLSxEKaZMeCuG3MLUoXOU+6sXs2btZdvJhoOM="
+    }
+  },
+  "Iron Edge - Variant 3": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 273687,
+      "file_name": "Iron Edge - Variant 3-65717-1-0-1648651753.7z",
+      "mod_id": 65717,
+      "hash": "sha256-013mg0PGxTBxf8SSb6Ipd3oa3/6ypcZDLKbnIaIZ3x0="
+    }
+  },
+  "Iron Edge - Variant 4": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 273688,
+      "file_name": "Iron Edge - Variant 4-65717-1-0-1648651772.7z",
+      "mod_id": 65717,
+      "hash": "sha256-BxhTzXVwMGx531hXzGOzOKFHIrfVXyQrGDVrgs6xjD8="
+    }
+  },
+  "Iron Edge - Variant 5": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 273689,
+      "file_name": "Iron Edge - Variant 5-65717-1-0-1648651795.7z",
+      "mod_id": 65717,
+      "hash": "sha256-CnjZNVkqpgco/H7eYXRsKHB9yqG6hOoQ8lVkK6FdydU="
+    }
+  },
+  "Iron Edge - FOMOD": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 278223,
+      "file_name": "Iron Edge - FOMOD-65717-1-0-1650360832.7z",
+      "mod_id": 65717,
+      "hash": "sha256-nmaUjpqQMF2e4dUEBSppC8/XG+jetzgE7mLdnOScA+A="
+    },
+    "type": "primary"
+  },
+  "Iron Edge - Standalone": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 278224,
+      "file_name": "Iron Edge - Standalone-65717-1-0-1650361115.7z",
+      "mod_id": 65717,
+      "hash": "sha256-PhQpLpcWBPqG5FI8WJPIVMalEmWu5dKgvx6KvnwJz8U="
+    }
+  }
+}

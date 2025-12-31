@@ -1,0 +1,33 @@
+{
+  "Dynamic Arrays Example": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "2.2",
+      "file_id": 288854,
+      "file_name": "Dynamic Arrays Example-65410-2-2-1654391612.zip",
+      "mod_id": 65410,
+      "hash": "sha256-+GvU8Q6luPhMMlSTiaT88Bq0zhysIXQX/ex7XEQTdhI="
+    }
+  },
+  "Game.psc for LE.": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 300507,
+      "file_name": "Game.psc for LE.-65410-1-0-1658298138.zip",
+      "mod_id": 65410,
+      "hash": "sha256-YThhd6Bx6TLGlpyjn1dAE97AwnKT7oyHmF1a1Vwb/wk="
+    }
+  },
+  "DbMiscFunctions": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "10.2",
+      "file_id": 645093,
+      "file_name": "DbMiscFunctions-65410-10-2-1751914858.zip",
+      "mod_id": 65410,
+      "hash": "sha256-luBP++ecVhv3efGAhAaiSdxX0DiGabmabFMS5dJk0jQ="
+    },
+    "type": "primary"
+  }
+}

@@ -1,0 +1,75 @@
+{
+  "Snuggly Laydown - Replacer Only": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 202901,
+      "file_name": "Snuggly Laydown - Replacer Only-49717-1-0-1620757585.zip",
+      "mod_id": 49717,
+      "hash": "sha256-Enk+9JvQGiQ5K6bNJ2fkj/3O3n93Ve0z1epB2UhYvh8="
+    }
+  },
+  "Snuggly Laydown - Male Player Version": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 202982,
+      "file_name": "Snuggly Laydown - Male Player Version-49717-1-0-1620799693.zip",
+      "mod_id": 49717,
+      "hash": "sha256-0le998lNI+keqJHzo2GQe2xHRCTOOH9obUnqUhFT8QQ="
+    },
+    "type": "primary"
+  },
+  "Snuggly Laydown - Bed Add-On BETA": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 203101,
+      "file_name": "Snuggly Laydown - Bed Add-On BETA-49717-1-0-1620849240.zip",
+      "mod_id": 49717,
+      "hash": "sha256-M+DDOm2duL/yrknJg6BPas0xL34KpWKoHWuXkdMJfd0="
+    }
+  },
+  "Snuggly Laydown - Campfire Spooning Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 203444,
+      "file_name": "Snuggly Laydown - Campfire Spooning Patch-49717-1-0-1621009813.zip",
+      "mod_id": 49717,
+      "hash": "sha256-QvvRpzfZqf/c+isROmELIWD+kVjcy8xflAON+uNr1S0="
+    }
+  },
+  "Snuggly Laydown - Simple Single Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 223227,
+      "file_name": "Snuggly Laydown - Simple Single Patch-49717-1-0-1629733768.zip",
+      "mod_id": 49717,
+      "hash": "sha256-wTJwiVoQ9h+8Of9fOCTwNwbHfb0AcCXTmNa4QgXyX8E="
+    }
+  },
+  "Snuggly Laydown - FULL": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.11",
+      "file_id": 435154,
+      "file_name": "Snuggly Laydown - FULL-49717-1-11-1697701511.zip",
+      "mod_id": 49717,
+      "hash": "sha256-XM1meSzq7h1SDlvKsobwJwFTjqueJi7sHT6gw7LFSEE="
+    },
+    "type": "primary"
+  },
+  "Snuggly Laydown - Variance Only": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1",
+      "file_id": 435156,
+      "file_name": "Snuggly Laydown - Variance Only-49717-1-1-1697701732.zip",
+      "mod_id": 49717,
+      "hash": "sha256-Mk9wgZihLe3cY1lOnZGS9EFQCJ5PL465nC1WgFy/hMM="
+    },
+    "type": "primary"
+  }
+}

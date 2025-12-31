@@ -1,0 +1,233 @@
+{
+  "High Level Enemies SIC SE": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "v7",
+      "file_id": 225459,
+      "file_name": "1) High Level Enemies SIC SE-54930-v7-1630533011.7z",
+      "mod_id": 54930,
+      "hash": "sha256-9g1IWni6Kdy6RqaQMmmbAij3sKWGH+FPgCrC/iuebHU="
+    },
+    "type": "primary"
+  },
+  "ENB Particle Light": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "v7",
+      "file_id": 225464,
+      "file_name": "3) ENB Particle Light-54930-v7-1630533465.7z",
+      "mod_id": 54930,
+      "hash": "sha256-usGpDRcmD+44otrdYxJiAMM4lXMsiLv/k54d6BIQkAE="
+    },
+    "type": "primary"
+  },
+  "Creation Club Nixhound Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "v7",
+      "file_id": 225465,
+      "file_name": "5) Creation Club Nixhound Patch-54930-v7-1630533518.7z",
+      "mod_id": 54930,
+      "hash": "sha256-qXs2fEE2QyZpnDFnPuuGYZgGy8M77KAhv/CTLd3yhK4="
+    },
+    "type": "primary"
+  },
+  "Creation Club Saints and Seducer Integration": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "v7",
+      "file_id": 225466,
+      "file_name": "4) Creation Club Saints and Seducer Integration-54930-v7-1630533568.7z",
+      "mod_id": 54930,
+      "hash": "sha256-3rS8ITr7V7XUPKNSQpm8JV6O2V/Vxx60yKbUMj+RFto="
+    },
+    "type": "primary"
+  },
+  "Complete Crafting Overhaul Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "2.2",
+      "file_id": 225902,
+      "file_name": "7) Complete Crafting Overhaul Patch-54930-v7a-1630696506.7z",
+      "mod_id": 54930,
+      "hash": "sha256-y1rkydfCLgFx+a/yPCeb4KmK+2Ctec4e8KOGbUVWwu0="
+    },
+    "type": "primary"
+  },
+  "Improved Closefaced Helmets": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.58",
+      "file_id": 225904,
+      "file_name": "8) Improved Closefaced Helmets-54930-v7a-1630696612.7z",
+      "mod_id": 54930,
+      "hash": "sha256-SxuExu4dBAK9Sn3dWd+pPPviayorrlYiLpsrjzYFdSo="
+    },
+    "type": "primary"
+  },
+  "aMidianBorn BoS Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.9.1",
+      "file_id": 227157,
+      "file_name": "4) aMidianBorn BoS Patch-54930-1-9-1-1631184662.7z",
+      "mod_id": 54930,
+      "hash": "sha256-bKmq6wCjC86ATToSlV918wzOx25bgIGdm15m7k5nLuQ="
+    },
+    "type": "primary"
+  },
+  "Even Better Quest Objectives": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.8.4",
+      "file_id": 227160,
+      "file_name": "10) SIC Even Better Quest Objectives-54930-1-8-4-1631185216.7z",
+      "mod_id": 54930,
+      "hash": "sha256-C5ImsmPTifirnjPxDVojfJcwqSITJR2X28D8tiPzk5Q="
+    },
+    "type": "primary"
+  },
+  "Revenge Of the Enemies 2016 Modified SE": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "2.20dSE",
+      "file_id": 227245,
+      "file_name": "Revenge Of the Enemies 2016 Modified SE-54930-2-20dSE-1631211182.7z",
+      "mod_id": 54930,
+      "hash": "sha256-BBv10QxUGaF4flW33IRHzEaRVlFnGJPeLoJehLmO2Ds="
+    },
+    "type": "primary"
+  },
+  "Open World Loot - Encounter Zone and Loot Overhaul": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.3.0",
+      "file_id": 228066,
+      "file_name": "All games     Skyrim Special Edition     Mods     Overhauls     Open World Loot - Encounter Zone and Loot Overhaul  Open World Loot - Encounter Zone and Loot Overhaul-54930-1-3-0-1631523424.7z",
+      "mod_id": 54930,
+      "hash": "sha256-smy1JDBzHAFF/mJKetKyR1w5Li+/nCyOflWgAW3RY9I="
+    },
+    "type": "primary"
+  },
+  "SkyTest Integration": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.65.02",
+      "file_id": 228161,
+      "file_name": "SkyTest Integration-54930-1-65-02-1631555223.7z",
+      "mod_id": 54930,
+      "hash": "sha256-DUZ0iDKdwZJ+mIYCTGL+/q2iFfSElVcPMJE6A76Wyiw="
+    },
+    "type": "primary"
+  },
+  "Experience": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.2.0",
+      "file_id": 232583,
+      "file_name": "Experience-54930-1-2-0-1633362027.7z",
+      "mod_id": 54930,
+      "hash": "sha256-pwbeXEFqP8BOeBOxu3ny3ieedRKz3VViw0JoAsbL3hg="
+    },
+    "type": "primary"
+  },
+  "SkyTest Mortal Enemies Interoperability": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.65.02",
+      "file_id": 232591,
+      "file_name": "SkyTest Mortal Enemies Interoperability-54930-1-65-02-1633367502.7z",
+      "mod_id": 54930,
+      "hash": "sha256-ScNDzvMQAB8nDdvPVhy7Nou5GcO2nDK9JRoaMJxl930="
+    },
+    "type": "primary"
+  },
+  "Mortal Enemies SE": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.05",
+      "file_id": 232593,
+      "file_name": "Mortal Enemies SE-54930-1-05-1633367556.7z",
+      "mod_id": 54930,
+      "hash": "sha256-+V0BKPbcWOG3VGu3cFT9PNcSsiXnpNo5Km82GpNeE/o="
+    },
+    "type": "primary"
+  },
+  "Cathedral - Armory Integration": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "3.16",
+      "file_id": 232642,
+      "file_name": "Cathedral - Armory Integration-54930-3-16-1633385315.7z",
+      "mod_id": 54930,
+      "hash": "sha256-B0xb1eQRdW5En/T3ZDeWZI3MFQm58rfMM1DCMq7BysM="
+    },
+    "type": "primary"
+  },
+  "Skyrim Revamped - Complete Enemy Overhaul": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "2.3",
+      "file_id": 235423,
+      "file_name": "Skyrim Revamped - Complete Enemy Overhaul-54930-2-3-1634495880.7z",
+      "mod_id": 54930,
+      "hash": "sha256-lR4YY8wxXkCfp+lDXSX8zAhyy5LAVdIrArdqNjIUbH8="
+    },
+    "type": "primary"
+  },
+  "Immersive Sound Integration (fixed)": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "3.0",
+      "file_id": 236452,
+      "file_name": "Immersive Sound Integration (fixed)-54930-3-0-1634919486.7z",
+      "mod_id": 54930,
+      "hash": "sha256-pL42FWnaxYlV5Yiw//hZOprnc3mQhyMQ5neKu0mui1c="
+    },
+    "type": "primary"
+  },
+  "MorrowLoot Ultimate": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.57",
+      "file_id": 236992,
+      "file_name": "MorrowLoot Ultimate-54930-1-57-1635181639.7z",
+      "mod_id": 54930,
+      "hash": "sha256-C/XCljKSEYDWNJKGjSp26pymTdGDSgg9t+W6MbuuAG8="
+    },
+    "type": "primary"
+  },
+  "KS Dragon Overhaul 2": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "2.54",
+      "file_id": 243223,
+      "file_name": "KS Dragon Overhaul 2-54930-2-54-1637500961.7z",
+      "mod_id": 54930,
+      "hash": "sha256-YY1pVk3KdzeW8JAsYJqQyOJWuNCB6nt2vlrjplD8uxM="
+    },
+    "type": "primary"
+  },
+  "T3nd0's Skyrim SE Redone": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.3.12SE",
+      "file_id": 243268,
+      "file_name": "T3nd0's Skyrim SE Redone-54930-1-3-12SE-1637518157.7z",
+      "mod_id": 54930,
+      "hash": "sha256-zkAhAvAxRK5OsOF6HvFuo1ZgWnbSM7Yf5wTqlYb3gIY="
+    },
+    "type": "primary"
+  },
+  "Draugr Upgrades and Improvements (latest)": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "2.4.2",
+      "file_id": 248256,
+      "file_name": "Draugr Upgrades and Improvements (latest)-54930-2-4-2-1639244041.7z",
+      "mod_id": 54930,
+      "hash": "sha256-ncgT6cngbfs+773QRcGJbJFb1RSCNo+cfAr0EJdDgkg="
+    },
+    "type": "primary"
+  }
+}

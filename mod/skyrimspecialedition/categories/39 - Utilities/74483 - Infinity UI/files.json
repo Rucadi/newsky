@@ -1,13 +1,13 @@
 {
-    "Infinity UI": {
-        "nexusmods": {
-            "game_name": "skyrimspecialedition",
-            "version": "2.0.3",
-            "file_id": 556134,
-            "file_name": "Infinity UI-74483-2-0-3-1730049690.rar",
-            "mod_id": 74483,
-            "hash": "sha256-K/FFF41oIeLVqatSd932YILVfA1ys0IJkSM14YfaZjg="
-        },
-        "type": "primary"
-    }
+  "Infinity UI": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "2.0.3",
+      "file_id": 556134,
+      "file_name": "Infinity UI-74483-2-0-3-1730049690.rar",
+      "mod_id": 74483,
+      "hash": "sha256-K/FFF41oIeLVqatSd932YILVfA1ys0IJkSM14YfaZjg="
+    },
+    "type": "primary"
+  }
 }

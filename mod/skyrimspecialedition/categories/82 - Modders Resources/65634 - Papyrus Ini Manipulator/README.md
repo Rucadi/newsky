@@ -2,6 +2,8 @@
 - Author: Meridiano
 - Game: skyrimspecialedition
 - Mod Page: https://www.nexusmods.com/skyrimspecialedition/mods/65634
+
+
 "Papyrus Ini Manipulator" is a SKSE64 plugin that adds some Papyrus functions to read and write ini files with correct structure - unique sections within a file, unique keys within a section and so on. Regular ini files in sum.
   
   

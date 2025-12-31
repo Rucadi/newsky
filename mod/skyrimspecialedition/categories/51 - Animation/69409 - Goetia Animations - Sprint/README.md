@@ -2,6 +2,8 @@
 - Author: Verolevi
 - Game: skyrimspecialedition
 - Mod Page: https://www.nexusmods.com/skyrimspecialedition/mods/69409
+
+
 Can be installed either as a simple replacer or as a "Conditional Armor Type Animations" addon which can be used alongside other CATA addons to change the actors' animations depending on their armor type and, in the case of Goetia, their mage criteria:
   
   

@@ -1,0 +1,64 @@
+{
+  "Fashions Of Forsworn CBBE 3BA Bodyslides": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 277786,
+      "file_name": "Fashions Of Forsworn CBBE 3BA Bodyslides-66673-1-0-1650205151.rar",
+      "mod_id": 66673,
+      "hash": "sha256-oTRMENEPAU6dxNfmMIo1A0bFfjIxGQMDU7k8CQLsQOo="
+    }
+  },
+  "Fashions Of Forsworn HIMBO bodyslide Files": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 277787,
+      "file_name": "Fashions Of Forsworn HIMBO bodyslide Files-66673-1-0-1650205231.rar",
+      "mod_id": 66673,
+      "hash": "sha256-rMacfRTqYD+9a5nyXLksRbA0GEtcIGqLnoNHP99HgpE="
+    }
+  },
+  "Fashions Of Forsworn": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1",
+      "file_id": 287190,
+      "file_name": "Fashions Of Forsworn-66673-1-1-1653762392.rar",
+      "mod_id": 66673,
+      "hash": "sha256-xuSeGEzR1ERLJa5Y4ejZwFN+2TvBNpzbwz+BlUCVTHE="
+    },
+    "type": "primary"
+  },
+  "Fashions Of Forsworn Static CBBE bodyslides": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 287197,
+      "file_name": "Fashions Of Forsworn Static CBBE bodyslides-66673-1-0-1653763364.rar",
+      "mod_id": 66673,
+      "hash": "sha256-Tm7kH4fOariwHJquUnIU94F/cqMa5qsgsTnHWWx29S4="
+    }
+  },
+  "Fashions of Forsworn - No Textures": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1",
+      "file_id": 345703,
+      "file_name": "Fashions of Forsworn - No Textures-66673-1-1-1672613306.7z",
+      "mod_id": 66673,
+      "hash": "sha256-Y5ulBmSL5h1ZPmFOdcNr22Fb97I65WzbyvyVnT4kBE0="
+    },
+    "type": "primary"
+  },
+  "Forsworn Fashions- BHUNP bodyslides": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.01",
+      "file_id": 345747,
+      "file_name": "Forsworn Fashions- BHUNP bodyslides-66673-1-01-1672621662.7z",
+      "mod_id": 66673,
+      "hash": "sha256-ogttky8Y8xkq++iOZY4zLGuV/+gr79wVRX72cpLEfeQ="
+    }
+  }
+}

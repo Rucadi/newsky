@@ -2,6 +2,8 @@
 - Author: powerofthree
 - Game: skyrimspecialedition
 - Mod Page: https://www.nexusmods.com/skyrimspecialedition/mods/67613
+
+
 Magic Sneak Attacks
   
   

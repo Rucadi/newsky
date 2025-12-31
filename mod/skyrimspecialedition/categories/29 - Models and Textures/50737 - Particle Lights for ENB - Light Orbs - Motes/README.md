@@ -2,6 +2,8 @@
 - Author: RemmyKun
 - Game: skyrimspecialedition
 - Mod Page: https://www.nexusmods.com/skyrimspecialedition/mods/50737
+
+
 Clarification: Vanilla game has these light orbs (for those who haven’t play enough to find them) I didn’t add the orbs themselves; I just added ENB Particle Lights to them.[size=3]
   
   

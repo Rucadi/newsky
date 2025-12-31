@@ -1,0 +1,24 @@
+{
+  "Thur Vonun Sanctum SE": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "2.2",
+      "file_id": 507450,
+      "file_name": "Thur Vonun Sanctum SE-71283-2-2-1717303317.rar",
+      "mod_id": 71283,
+      "hash": "sha256-7oZw9X5TrI8i3q2B1a9kQYl6vwkTvZPE7AS/shaP/sA="
+    },
+    "type": "primary"
+  },
+  "Thur Vonun Sanctum SE - Masterbed Prompt Hotfix": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "2.2.HF",
+      "file_id": 652006,
+      "file_name": "Thur Vonun Sanctum SE - Masterbed Prompt Hotfix-71283-2-2-HF-1754096865.7z",
+      "mod_id": 71283,
+      "hash": "sha256-JzOoiGcYO/3RJEx4D3togQTfdlfNddjE+xBKrKOEOeg="
+    },
+    "type": "primary"
+  }
+}

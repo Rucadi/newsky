@@ -1,43 +1,43 @@
 {
-    "SDA IFD Lydia Patch": {
-        "nexusmods": {
-            "game_name": "skyrimspecialedition",
-            "version": "IFDPatchTest",
-            "file_id": 464241,
-            "file_name": "SDA IFD Lydia Patch-70782-IFDPatchTest-1706046910.7z",
-            "mod_id": 70782,
-            "hash": "sha256-1iuH1yyuK7G8Ob7K/WzWPaq9enlLjh6XvCIpIZcUMe0="
-        }
-    },
-    "SDA Crimson Blood 3BA Patch": {
-        "nexusmods": {
-            "game_name": "skyrimspecialedition",
-            "version": "CrimsonBloodPatch3BATest",
-            "file_id": 466656,
-            "file_name": "SDA Crimson Blood Patch 3BA-70782-CrimsonBloodPatch3BATest-1706756236.7z",
-            "mod_id": 70782,
-            "hash": "sha256-JXvoo9oKmbXd0f6x2sf+I/lzdGYAf892DYhN2NDJwwY="
-        }
-    },
-    "SDA OStim Standalone Patch": {
-        "nexusmods": {
-            "game_name": "skyrimspecialedition",
-            "version": "OstimPatchStandaloneTest",
-            "file_id": 466704,
-            "file_name": "SDA OStim Standalone Patch-70782-OstimPatchStandaloneTest-1706778687.7z",
-            "mod_id": 70782,
-            "hash": "sha256-f6ooc1K1KAR9D1MzFm4WW3wlXegeiGgrdsIh/V4BO2U="
-        }
-    },
-    "SDA Patch Hub SE": {
-        "nexusmods": {
-            "game_name": "skyrimspecialedition",
-            "version": "2.9.6",
-            "file_id": 642058,
-            "file_name": "SDA Patch Hub SE-70782-2-9-6-1751010134.7z",
-            "mod_id": 70782,
-            "hash": "sha256-q6EEYJOgFxRZItbzsvZzvrYyxV6daWGgi/ia2HdLp+U="
-        },
-        "type": "primary"
+  "SDA IFD Lydia Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "IFDPatchTest",
+      "file_id": 464241,
+      "file_name": "SDA IFD Lydia Patch-70782-IFDPatchTest-1706046910.7z",
+      "mod_id": 70782,
+      "hash": "sha256-1iuH1yyuK7G8Ob7K/WzWPaq9enlLjh6XvCIpIZcUMe0="
     }
+  },
+  "SDA Crimson Blood 3BA Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "CrimsonBloodPatch3BATest",
+      "file_id": 466656,
+      "file_name": "SDA Crimson Blood Patch 3BA-70782-CrimsonBloodPatch3BATest-1706756236.7z",
+      "mod_id": 70782,
+      "hash": "sha256-JXvoo9oKmbXd0f6x2sf+I/lzdGYAf892DYhN2NDJwwY="
+    }
+  },
+  "SDA OStim Standalone Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "OstimPatchStandaloneTest",
+      "file_id": 466704,
+      "file_name": "SDA OStim Standalone Patch-70782-OstimPatchStandaloneTest-1706778687.7z",
+      "mod_id": 70782,
+      "hash": "sha256-f6ooc1K1KAR9D1MzFm4WW3wlXegeiGgrdsIh/V4BO2U="
+    }
+  },
+  "SDA Patch Hub SE": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "2.9.6",
+      "file_id": 642058,
+      "file_name": "SDA Patch Hub SE-70782-2-9-6-1751010134.7z",
+      "mod_id": 70782,
+      "hash": "sha256-q6EEYJOgFxRZItbzsvZzvrYyxV6daWGgi/ia2HdLp+U="
+    },
+    "type": "primary"
+  }
 }

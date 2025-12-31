@@ -2,6 +2,8 @@
 - Author: bombasticmori
 - Game: skyrimspecialedition
 - Mod Page: https://www.nexusmods.com/skyrimspecialedition/mods/63012
+
+
 ﻿**Wintersun - Tribunal Integration****Note: This mod is functionally dead. I had an update almost finished back in February, but was simultaneously doing a computer upgrade.  The files were stored on an SSD that I did not expect to give up the ghost, but it did, effectively meaning I'd have to recreate the entire update from scratch. My Skyrim install was also on the drive, and my motivation has tanked.  Full permission is given for anyone who may want to pick it up again, and if anyone is interested DM me and I can try to help you get things sorted the best I can.  Sorry, everyone.**
 
 **Description**I'm a big Morrowind fan, and when I saw the Ghosts of the Tribunal announcement in AE I was pretty hype.  As I had just been playing a run in Morrowind at the time as a member of the Temple, I wanted to also have the ability for my Dunmer characters to worship the Tribunal.  This mod first started as a quick edit to the blessings the shrines of the tribunal give to fix some minor incompatibilities with Wintersun and give a blessing more similar to the ones in Morrowind (which I published as a mod in the now obsolete patch [here](https://www.nexusmods.com/skyrimspecialedition/mods/58988)). It quickly ballooned into this project, which quickly got out of control.  I had to cut it back a lot, because I ran into no end of issues with the scripting, but what I have here now is **functional** and still useful at the very least, if a bit less interesting.

@@ -1,0 +1,23 @@
+{
+  "Satisfactory Facial Piercings fomod": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "0.5.1",
+      "file_id": 411743,
+      "file_name": "Satisfactory Facial Piercings fomod-76879-0-5-1-1690628085.zip",
+      "mod_id": 76879,
+      "hash": "sha256-egyCEsfAl97N+1rs6wJZVE8cPyCORUY40wAAK/7TBJ0="
+    },
+    "type": "primary"
+  },
+  "Satisfactory Facial Piercings Dev-Files": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "0.5.1",
+      "file_id": 411748,
+      "file_name": "Satisfactory Facial Piercings Dev-Files-76879-0-5-1-1690628337.zip",
+      "mod_id": 76879,
+      "hash": "sha256-5C4cYK9p8mNG63spy2CvjK6ZrQ3jKIYUUweLt1gPIaE="
+    }
+  }
+}

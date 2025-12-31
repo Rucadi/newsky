@@ -1,0 +1,35 @@
+{
+  "ER Twinblades SCAR": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.2",
+      "file_id": 301005,
+      "file_name": "ER Twinblades SCAR-71864-1-2-1658452361.rar",
+      "mod_id": 71864,
+      "hash": "sha256-hwjZhcMnUJ6wJBrzTORKaUlIpnjtLVxTgK/OBHUfIV0="
+    },
+    "type": "primary"
+  },
+  "ER twinblade SCAR Precision 1.X": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.3",
+      "file_id": 302527,
+      "file_name": "ER twinblade SCAR Precision 0.5-71864-1-3-1658891784.rar",
+      "mod_id": 71864,
+      "hash": "sha256-9fSbKaWnAMwYHEJqVwTNGwpkxGF6H9tDkm0SbkPTbas="
+    },
+    "type": "primary"
+  },
+  "BFCO ER Twinblades": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.3BFCO",
+      "file_id": 568267,
+      "file_name": "BFCO ER Twinblades-71864-1-3BFCO-1733146120.rar",
+      "mod_id": 71864,
+      "hash": "sha256-kt9v0OT8/+pkAy35Wb3Iv8yobma7XfdytocZJ6rxmnM="
+    },
+    "type": "primary"
+  }
+}

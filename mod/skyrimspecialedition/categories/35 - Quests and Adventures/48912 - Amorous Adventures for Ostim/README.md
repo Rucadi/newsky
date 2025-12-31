@@ -2,6 +2,8 @@
 - Author: Foxfingers JameStarker
 - Game: skyrimspecialedition
 - Mod Page: https://www.nexusmods.com/skyrimspecialedition/mods/48912
+
+
 **It is better to read the [OStim Help Center (Tutorial and AE Files including OBody)](https://www.nexusmods.com/skyrimspecialedition/mods/61685) before you use the mod.**
   
   

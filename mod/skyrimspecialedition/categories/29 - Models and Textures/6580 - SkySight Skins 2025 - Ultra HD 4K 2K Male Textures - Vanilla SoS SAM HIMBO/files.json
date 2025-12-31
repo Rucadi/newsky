@@ -1,0 +1,75 @@
+{
+  "02 - Skysight Skins GRAB N GO (HIGH)": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "2.0.1",
+      "file_id": 627013,
+      "file_name": "02 - Skysight Skins GRAB N GO (HIGH)-6580-2-0-1-1747215402.rar",
+      "mod_id": 6580,
+      "hash": "sha256-f4MwDpS9QobfAoq5m59t8r96FtPt1S/43c36M24CEY0="
+    }
+  },
+  "03 - Skysight Skins GRAB N GO (PERFORMANCE)": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "2.0.1",
+      "file_id": 627014,
+      "file_name": "03 - Skysight Skins GRAB N GO (PERFORMANCE)-6580-2-0-1-1747215463.rar",
+      "mod_id": 6580,
+      "hash": "sha256-mD6egYCOHatawqHjvqeX1eWt5kzTBKACrVpbuskRfnk="
+    }
+  },
+  "01 - Skysight Skins GRAB N GO (ULTRA)": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "2.0.1",
+      "file_id": 627016,
+      "file_name": "01 - Skysight Skins GRAB N GO (ULTRA)-6580-2-0-1-1747215633.rar",
+      "mod_id": 6580,
+      "hash": "sha256-JZeJsfmxUjBBvMa2lf1LU+D5SrqNmRIgxn4Q9XDrwiI="
+    }
+  },
+  "02 - Skysight Skins HIGH - FOMOD Installer": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "2.0.2",
+      "file_id": 631260,
+      "file_name": "02 - Skysight Skins HIGH - FOMOD Installer-6580-2-0-2-1748220311.rar",
+      "mod_id": 6580,
+      "hash": "sha256-7rHJPma/1UfwNArOHPNFai5KZSZsJWpjrdCt4TZaWdc="
+    },
+    "type": "primary"
+  },
+  "03 - Skysight Skins PERFORMANCE - FOMOD Installer": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "2.0.2",
+      "file_id": 631261,
+      "file_name": "03 - Skysight Skins PERFORMANCE - FOMOD Installer-6580-2-0-2-1748220446.rar",
+      "mod_id": 6580,
+      "hash": "sha256-12qoo9Yx0zTDtpASI9aCu04xovJT+Q9OyefXY+BvnPM="
+    },
+    "type": "primary"
+  },
+  "01 - Skysight Skins ULTRA - FOMOD Installer": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "2.0.2",
+      "file_id": 631385,
+      "file_name": "01 - Skysight Skins ULTRA - FOMOD Installer-6580-2-0-2-1748249727.rar",
+      "mod_id": 6580,
+      "hash": "sha256-XXKXZYKisy2639Sb+/j0VuEGK9L758RX0trhiayow+s="
+    },
+    "type": "primary"
+  },
+  "Fur Shader Armors Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 632070,
+      "file_name": "Fur Shader Armors Patch-6580-1-0-1748420487.rar",
+      "mod_id": 6580,
+      "hash": "sha256-Pg0e+wEU9jMLnNntyFpNWOvo/xHOR07odplIzYGz62k="
+    }
+  }
+}

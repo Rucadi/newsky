@@ -1,0 +1,23 @@
+{
+  "Bleeding Edge - Audio Overhaul Daggers Skypatched": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.7",
+      "file_id": 514562,
+      "file_name": "Bleeding Edge - Audio Overhaul Daggers Skypatched-77384-1-7-1719258763.zip",
+      "mod_id": 77384,
+      "hash": "sha256-/gDdoAiMBd11zbRT6/eM9YeRVEnW8mVk7ft4xLXMx88="
+    }
+  },
+  "Bleeding Edge 2.0 Revamp WIP": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "2.0",
+      "file_id": 568965,
+      "file_name": "Bleeding Edge 2.0 Revamp WIP-77384-2-0-1733334649.zip",
+      "mod_id": 77384,
+      "hash": "sha256-HIMQG5eWiofyVr1t69d1GIr1BGrbYhWk7xYfSOkhbQg="
+    },
+    "type": "primary"
+  }
+}

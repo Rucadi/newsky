@@ -1,0 +1,23 @@
+{
+  "Shroom Beetles (Creature Series pt.6) SE_with .esl": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 291873,
+      "file_name": "Shroom Beetles (Creature Series pt.6)-69828-1-0-1655498622.zip",
+      "mod_id": 69828,
+      "hash": "sha256-e6o8yTlTd0wDojH3OEpkMOBHR4DLHbNLdkdhCZRzq7w="
+    },
+    "type": "primary"
+  },
+  "Shroom Beetles (Creature Series pt.6) SE_no .esl": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 291958,
+      "file_name": "Shroom Beetles (Creature Series pt.6) SE No .esl-69828-1-0-1655528157.zip",
+      "mod_id": 69828,
+      "hash": "sha256-Rl7eVhQURzHj6pitCl70NGmyfAqKr92kbkdsL00dKOU="
+    }
+  }
+}

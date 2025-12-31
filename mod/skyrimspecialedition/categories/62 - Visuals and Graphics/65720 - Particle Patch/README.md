@@ -2,6 +2,8 @@
 - Author: mindflux
 - Game: skyrimspecialedition
 - Mod Page: https://www.nexusmods.com/skyrimspecialedition/mods/65720
+
+
 *Particle Patch, Particle Patch
   
 Doing the things a particle can

@@ -2,6 +2,8 @@
 - Author: Parapets
 - Game: skyrimspecialedition
 - Mod Page: https://www.nexusmods.com/skyrimspecialedition/mods/53000
+
+
 About
   
 MCM Helper is a framework for simplifying the creation of Mod Configuration Menus for [SkyUI](https://www.nexusmods.com/skyrimspecialedition/mods/12604). It is heavily inspired by [Mod Configuration Menu for Fallout 4 (F4MCM)](https://www.nexusmods.com/fallout4/mods/21497).

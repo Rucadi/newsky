@@ -1,0 +1,22 @@
+{
+  "Immersive Armors Retexture and Mesh Fixes SE": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.6",
+      "file_id": 371454,
+      "file_name": "Immersive Armors Retexture and Mesh Fixes SE-75891-1-6-1679607226.rar",
+      "mod_id": 75891,
+      "hash": "sha256-UHGAMiWl/Eh66L2e15D3uKg9RN6M/BpoEQ4Rt1Iz9g8="
+    },
+    "type": "primary"
+  },
+  "Immersive Armors Retexture and Mesh Fixes-Half Res": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.61",
+      "file_id": 402562,
+      "file_name": "Immersive Armors Retexture and Mesh Fixes-Half Res-75891-1-61-1688153191.rar",
+      "mod_id": 75891
+    }
+  }
+}

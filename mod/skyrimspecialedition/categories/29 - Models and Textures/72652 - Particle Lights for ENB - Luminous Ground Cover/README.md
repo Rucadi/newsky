@@ -2,6 +2,8 @@
 - Author: RemmyKun
 - Game: skyrimspecialedition
 - Mod Page: https://www.nexusmods.com/skyrimspecialedition/mods/72652
+
+
 These plants have super cool animated glow in vanilla Skyrim... but of course they cast no light in vanilla. And I didn't add ENB light to them before!!! WHAT'S WRONG WITH ME??!! FLARK!!!...
   
   

@@ -1,0 +1,86 @@
+{
+  "4k Executioner's Block": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 261166,
+      "file_name": "4k Executioner's Block-62963-1-0-1643785808.zip",
+      "mod_id": 62963,
+      "hash": "sha256-YAC6TH/I7H8Wn8SRU7k848/fN35pawYXiO8EqtwQp7M="
+    },
+    "type": "primary"
+  },
+  "2k Executioner's Block": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 261167,
+      "file_name": "2k Executioner's Block-62963-1-0-1643785845.zip",
+      "mod_id": 62963,
+      "hash": "sha256-wsW5VkxBymNbDkO/ufbl7Ep+NpdCW4HaL6PgxOuyMvw="
+    },
+    "type": "primary"
+  },
+  "4k Executioner's Block Dry Faded Blood": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 261449,
+      "file_name": "4k Executioner's Block Dry Faded Blood-62963-1-0-1643874281.zip",
+      "mod_id": 62963,
+      "hash": "sha256-2AL5L8AiFjbXSmSmaYqHhpVXNU1s7Vkxj2YFQZHf8XE="
+    }
+  },
+  "2k Executioner's Block Dry Faded Blood": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 261450,
+      "file_name": "2k Executioner's Block Dry Faded Blood-62963-1-0-1643874328.zip",
+      "mod_id": 62963,
+      "hash": "sha256-t7hJMpCSSUkADSrTYiYRe8PcSJFgDFlp+sNEpYdAcE4="
+    }
+  },
+  "4k Executioner's Block Darker Blood": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 261452,
+      "file_name": "4k Executioner's Block Darker Blood-62963-1-0-1643875458.zip",
+      "mod_id": 62963,
+      "hash": "sha256-8Lpz42LjFgx68cuQszJHv++ZKEkOm0lvCo4g/lOghMo="
+    }
+  },
+  "2k Executioner's Block Darker Blood": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 261453,
+      "file_name": "2k Executioner's Block Darker Blood-62963-1-0-1643875506.zip",
+      "mod_id": 62963,
+      "hash": "sha256-ydTGQoS5chxwPMC2HimORXRv7xV7kfTJ1JZcfOxkP3o="
+    }
+  },
+  "4k Executioner's Block Less Saturation": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 261455,
+      "file_name": "4k Executioner's Block Less Saturation-62963-1-0-1643876808.zip",
+      "mod_id": 62963,
+      "hash": "sha256-Fbg4LemqvIeR+G4QVQ9nUvPLKfsl6N3i+D1Vs8+AA08="
+    },
+    "type": "primary"
+  },
+  "2k Executioner's Block Less Saturation": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 261457,
+      "file_name": "2k Executioner's Block Less Saturation-62963-1-0-1643876844.zip",
+      "mod_id": 62963,
+      "hash": "sha256-O82m5kCrjVgyx1gzTO8t/hPvhZjD17M4+lQT64PBO9c="
+    },
+    "type": "primary"
+  }
+}

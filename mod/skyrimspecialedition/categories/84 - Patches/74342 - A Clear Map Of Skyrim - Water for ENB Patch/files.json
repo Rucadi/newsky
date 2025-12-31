@@ -1,0 +1,23 @@
+{
+  "ACMOS - Water for ENB Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 311737,
+      "file_name": "ACMOS - Water for ENB Patch-74342-1-0-1661870326.zip",
+      "mod_id": 74342,
+      "hash": "sha256-7xksWAlfuFZdhqAYdz1sJ4n2v2F0VAmYQmZ7tN6ak40="
+    },
+    "type": "primary"
+  },
+  "ACMOS and Wyrmstooth - Water for ENB Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 311738,
+      "file_name": "ACMOS and Wyrmstooth - Water for ENB Patch-74342-1-0-1661870372.zip",
+      "mod_id": 74342,
+      "hash": "sha256-fhap/19Ex4EQZl7u6WW2+WZ8q5NUxp8FbFjcJOmifik="
+    }
+  }
+}

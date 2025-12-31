@@ -1,0 +1,23 @@
+{
+  "Rustic UI Sounds": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.3",
+      "file_id": 552994,
+      "file_name": "Rustic UI Sounds-76410-1-3-1729185145.zip",
+      "mod_id": 76410,
+      "hash": "sha256-EPujVkYb09iAc4zROImUjMt1oDTL1di1Wtsh6LVe6QY="
+    },
+    "type": "primary"
+  },
+  "Rustic UI Sounds -Paper UI": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.3",
+      "file_id": 553068,
+      "file_name": "Rustic UI Sounds -Paper UI-76410-1-3-1729199564.zip",
+      "mod_id": 76410,
+      "hash": "sha256-o0b+uekNQsV8qNhTr3/KUJH/xendrUnXSIuC8nUzrDY="
+    }
+  }
+}

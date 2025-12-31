@@ -1,0 +1,43 @@
+{
+  "Not so Fast Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "0.9.1",
+      "file_id": 204874,
+      "file_name": "Not so Fast Patch-50244-0-9-1-1621659723.zip",
+      "mod_id": 50244,
+      "hash": "sha256-Owsmml/h9aR31HpWkHbn37UXkf9wROaaxG0QcWq85I4="
+    }
+  },
+  "Cutting Room Floor compatibility Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "0.9.1",
+      "file_id": 204876,
+      "file_name": "Cutting Room Floor compatibility Patch-50244-0-9-1-1621659816.zip",
+      "mod_id": 50244,
+      "hash": "sha256-6WJjKQokJTm57D7BuF2q9NXwyh8dmZxt82/AJ2ijJVc="
+    }
+  },
+  "Display Spell Tome Level Compatibility Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "0.9.1",
+      "file_id": 204877,
+      "file_name": "Display Spell Tome Level Compatibility Patch-50244-0-9-1-1621659935.zip",
+      "mod_id": 50244,
+      "hash": "sha256-vt80cOgI+GL1yggfOHOUlq+Q6yAc+fAqlBgYVql2zH4="
+    }
+  },
+  "Book Cover Vs Scribe of Skyrim": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "0.9.3",
+      "file_id": 206388,
+      "file_name": "Book Cover Vs Scribe of Skyrim-50244-0-9-3-1622386470.zip",
+      "mod_id": 50244,
+      "hash": "sha256-iWzciLRKtwCVX0p6RVjvLalP9+lZG2sbbhXFYgssnxc="
+    },
+    "type": "primary"
+  }
+}

@@ -2,6 +2,8 @@
 - Author: Nightfallstorm
 - Game: skyrimspecialedition
 - Mod Page: https://www.nexusmods.com/skyrimspecialedition/mods/76867
+
+
 **How to Install**Install with your preferred mod manager like any other mod!
   
   

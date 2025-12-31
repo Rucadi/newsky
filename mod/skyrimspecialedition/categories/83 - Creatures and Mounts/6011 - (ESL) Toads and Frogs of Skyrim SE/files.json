@@ -1,0 +1,23 @@
+{
+  "(ESL) Toads and Frogs of Skyrim SE NO COMPANIONS": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "3.5.1",
+      "file_id": 288922,
+      "file_name": "(ESL) Toads and Frogs of Skyrim SE NO COMPANIONS-6011-3-5-1-1654433575.7z",
+      "mod_id": 6011,
+      "hash": "sha256-SIsc3S+k9qstHEirlIe9h3NrVA7AkHoHukPdRlzR16o="
+    },
+    "type": "primary"
+  },
+  "ESL version Fr. pour Toads and Frogs SE NO COMPANIONS": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "3.5.1",
+      "file_id": 288924,
+      "file_name": "ESL version Fr. pour Toads and Frogs SE NO COMPANIONS-6011-3-5-1-1654433761.7z",
+      "mod_id": 6011,
+      "hash": "sha256-xwJsNCu3aRase44dC360VB5lS4PSHnZcQDBHTmZtlFU="
+    }
+  }
+}

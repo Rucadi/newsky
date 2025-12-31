@@ -16,7 +16,8 @@
       "version": "4.0",
       "file_id": 332186,
       "file_name": "Vigilant Armors and Weapons Retexture SE - Mid Res 2k-1k (recommended)-45735-4-0-1668558775.rar",
-      "mod_id": 45735
+      "mod_id": 45735,
+      "hash": "sha256-iOxw4nHXP+JTFpBOfxTson8BdaDJtu5dbJ2XHmkKV8M="
     },
     "type": "primary"
   },
@@ -26,7 +27,8 @@
       "version": "4.0",
       "file_id": 332187,
       "file_name": "Vigilant Armors and Weapons Retexture SE - Low res 1k-512-45735-4-0-1668558958.rar",
-      "mod_id": 45735
+      "mod_id": 45735,
+      "hash": "sha256-0KQ53gAnEKcdOPULyZqSBoHB/L5S6YeyaI9aBYtZtO8="
     },
     "type": "primary"
   }

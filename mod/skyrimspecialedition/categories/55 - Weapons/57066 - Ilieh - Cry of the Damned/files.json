@@ -1,0 +1,23 @@
+{
+  "Ilieh Cry of the damned": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "V1.8",
+      "file_id": 237957,
+      "file_name": "Ilieh Cry of the damned-57066-V1-8-1635611438.rar",
+      "mod_id": 57066,
+      "hash": "sha256-lfEt248aMOTUwuyqPN8stZjbLHs9srynnqL83l1wl1Q="
+    },
+    "type": "primary"
+  },
+  "Ilieh - Cry of the Damned No Hit FX": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "V1.8",
+      "file_id": 237958,
+      "file_name": "Ilieh - Cry of the Damned No Hit FX-57066-V1-8-1635611482.rar",
+      "mod_id": 57066,
+      "hash": "sha256-Lk/8irW2QvhsS7JETg7TjDzWmq7kaHf50bhy5uPYes4="
+    }
+  }
+}

@@ -1,0 +1,53 @@
+{
+  "Kreiste's Samurai Outfit (Animated Armoury Patch)": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1",
+      "file_id": 255484,
+      "file_name": "Kreiste's Samurai Outfit (Animated Armoury Patch)-61664-1-1-1641761408.7z",
+      "mod_id": 61664,
+      "hash": "sha256-WZya2Aj8rvGLBvM/4V8yOZ1kYx9uDt7HZS4z2Yft6hc="
+    }
+  },
+  "Kreiste's Samurai Outfit (Kaidan Addon)": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1",
+      "file_id": 255485,
+      "file_name": "Kreiste's Samurai Outfit (Kaidan Addon)-61664-1-1-1641761545.7z",
+      "mod_id": 61664,
+      "hash": "sha256-IzoZOXK6X/0vcOeb8ZgcQ95zmoQmlSOrahG/aeoos34="
+    }
+  },
+  "Kreiste's Samurai Outfit (4k Textures)": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1",
+      "file_id": 255488,
+      "file_name": "Kreiste's Samurai Outfit (4k Textures)-61664-1-1-1641761913.7z",
+      "mod_id": 61664,
+      "hash": "sha256-f3sG5cDUNrcatJrhyi8YFCsths9C76z3Tl5chwveJB0="
+    }
+  },
+  "Kreiste's Samurai Outfit (2k Textures)": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1",
+      "file_id": 255491,
+      "file_name": "Kreiste's Samurai Outfit (2k Textures)-61664-1-1-1641762156.7z",
+      "mod_id": 61664,
+      "hash": "sha256-t+pz9qVu/gHz0GT0EVz7G2/XH7pzzVtbycz2vg0pMv8="
+    }
+  },
+  "Kreiste's Samurai Outfit (BHUNP - CBBE - HIMBO)": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.5",
+      "file_id": 267532,
+      "file_name": "Kreiste's Samurai Outfit (BHUNP - CBBE - HIMBO)-61664-1-5-1646164687.7z",
+      "mod_id": 61664,
+      "hash": "sha256-f6zqFX7mAP+riw7yYo7L4g4nvj9FrtAAzSSyTxIq+vI="
+    },
+    "type": "primary"
+  }
+}

@@ -1,0 +1,85 @@
+{
+  "EGIL Srikandi Default Textures": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "2022.a",
+      "file_id": 316263,
+      "file_name": "EGIL Srikandi Default Textures-75402-2022-a-1663242293.7z",
+      "mod_id": 75402,
+      "hash": "sha256-FYqLTEYfq9+FH0vJ6L1AdpdTS0GuDvq7cODnZZT5Izs="
+    },
+    "type": "primary"
+  },
+  "EGIL Srikandi Compressed Textures": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "2022.a",
+      "file_id": 316266,
+      "file_name": "EGIL Srikandi Compressed Textures-75402-2022-a-1663242714.7z",
+      "mod_id": 75402,
+      "hash": "sha256-DKgmXmKr5zRMWhdjrbVZLdGmoN1JOe+pAlQZll415Y8="
+    }
+  },
+  "EGIL Srikandi 2K Textures": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "2022.a",
+      "file_id": 316268,
+      "file_name": "EGIL Srikandi 2K Textures-75402-2022-a-1663242855.7z",
+      "mod_id": 75402,
+      "hash": "sha256-X2T+UTTCvLgymz8GxBA+WbcbVU2S+hilJQdzp+L46RE="
+    }
+  },
+  "EGIL Srikandi Darker Texture": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "2022.a",
+      "file_id": 317140,
+      "file_name": "EGIL Srikandi Darker Texture-75402-2022-a-1663470000.7z",
+      "mod_id": 75402,
+      "hash": "sha256-OeUvk/BMzKUyqX7tZRb/5bFahQW+aPJFHmB3T9ykOI4="
+    }
+  },
+  "EGIL Srikandi Darker Texture Compressed": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "2022.a",
+      "file_id": 317142,
+      "file_name": "EGIL Srikandi Darker Texture Compressed-75402-2022-a-1663470377.7z",
+      "mod_id": 75402,
+      "hash": "sha256-CkQRHgy56GxhTUszjy5j0AytwFnZvRFdPYP1h3i01Is="
+    }
+  },
+  "EGIL Srikandi Darker Textures 2K": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "2022.a",
+      "file_id": 317143,
+      "file_name": "EGIL Srikandi Darker Textures 2K-75402-2022-a-1663470505.7z",
+      "mod_id": 75402,
+      "hash": "sha256-BYFkJ3InvhNDbWlUIDR+2GX9XcYlKKd7RHNtcs/0uIs="
+    }
+  },
+  "BHUNP - EGIL Srikandi Main File": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "2022.a",
+      "file_id": 317155,
+      "file_name": "BHUNP - EGIL Srikandi Main File-75402-2022-a-1663478231.7z",
+      "mod_id": 75402,
+      "hash": "sha256-rrpa5v1qaiBQQ9BPqueimNvmPr2kBsWkU6ovaH3Yb0g="
+    },
+    "type": "primary"
+  },
+  "EGIL Srikandi COCO Body UUNP SE by Daymarr": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "2022.a",
+      "file_id": 317193,
+      "file_name": "EGIL Srikandi COCO Body UUNP SE by Daymarr-75402-2022-a-1663491204.7z",
+      "mod_id": 75402,
+      "hash": "sha256-/RuyCbilxH8i2Rejwvvgo5jJCNtlZdPRRY24e00yqtE="
+    },
+    "type": "primary"
+  }
+}

@@ -1,0 +1,125 @@
+{
+  "Aethernautics UnLux Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "untested",
+      "file_id": 341763,
+      "file_name": "Aethernautics UnLux Patch-80934-untested-1671413291.zip",
+      "mod_id": 80934,
+      "hash": "sha256-cvugOPuhmXQ3h3VShaPKIXzC8POUl3G7XwkMdTv02h0="
+    },
+    "type": "primary"
+  },
+  "FryManor UnLux Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "untested",
+      "file_id": 341764,
+      "file_name": "FryManor UnLux Patch-80934-untested-1671413326.zip",
+      "mod_id": 80934,
+      "hash": "sha256-nngJd5xFF5+uDwvweUTi/0y6VhKhWq/VxMh309k8KZc="
+    },
+    "type": "primary"
+  },
+  "GrayFox UnLux Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "untested",
+      "file_id": 341765,
+      "file_name": "GrayFox UnLux Patch-80934-untested-1671413345.zip",
+      "mod_id": 80934,
+      "hash": "sha256-9/stBuDwSXyP2T/0ObrJHxUsfQOD3myU4Frk7snXeQY="
+    },
+    "type": "primary"
+  },
+  "railroad UnLux Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "untested",
+      "file_id": 341766,
+      "file_name": "railroad UnLux Patch-80934-untested-1671413376.zip",
+      "mod_id": 80934
+    },
+    "type": "primary"
+  },
+  "sneak tools UnLux Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "untested",
+      "file_id": 341767,
+      "file_name": "sneak tools UnLux Patch-80934-untested-1671413411.zip",
+      "mod_id": 80934
+    },
+    "type": "primary"
+  },
+  "Brotherhood of Old UnLux Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "untested",
+      "file_id": 341768,
+      "file_name": "Brotherhood of Old UnLux Patch-80934-untested-1671413435.zip",
+      "mod_id": 80934
+    },
+    "type": "primary"
+  },
+  "TreasureHunter - Lux Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1",
+      "file_id": 344497,
+      "file_name": "TreasureHunter - Lux Patch-80934-1-1672318931.zip",
+      "mod_id": 80934
+    },
+    "type": "primary"
+  },
+  "Dark Arts Un-Lux Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1",
+      "file_id": 344498,
+      "file_name": "Dark Arts Un-Lux Patch-80934-1-1672318958.zip",
+      "mod_id": 80934
+    },
+    "type": "primary"
+  },
+  "Remi UnLux Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1",
+      "file_id": 344499,
+      "file_name": "Remi UnLux Patch-80934-1-1672318976.zip",
+      "mod_id": 80934
+    },
+    "type": "primary"
+  },
+  "Nessa - UnLux Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1",
+      "file_id": 344500,
+      "file_name": "Nessa - UnLux Patch-80934-1-1672319023.zip",
+      "mod_id": 80934
+    },
+    "type": "primary"
+  },
+  "ImprovedDialogueLydia - UnLux": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1",
+      "file_id": 344543,
+      "file_name": "ImprovedDialogueLydia - UnLux-80934-1-1672321061.zip",
+      "mod_id": 80934
+    },
+    "type": "primary"
+  },
+  "SDA - UnLux": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1",
+      "file_id": 345458,
+      "file_name": "SDA - UnLux-80934-1-1672551217.zip",
+      "mod_id": 80934
+    },
+    "type": "primary"
+  }
+}

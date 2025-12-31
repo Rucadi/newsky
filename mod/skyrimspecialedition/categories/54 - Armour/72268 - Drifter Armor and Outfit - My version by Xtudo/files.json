@@ -1,0 +1,34 @@
+{
+  "Drifter Armor and Outfit - My version by Xtudo - Less shinny steel version": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1",
+      "file_id": 302852,
+      "file_name": "Drifter Armor and Outfit - My version by Xtudo - Less shinny steel version-72268-1-1659016717.7z",
+      "mod_id": 72268,
+      "hash": "sha256-VCxV6/iZ72zsaniZoQ0WkeALQJExjbrKgxH3DT8DEYo="
+    }
+  },
+  "Drifter Armor and Outfit - My version by Xtudo - 2K": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1",
+      "file_id": 353203,
+      "file_name": "Drifter Armor and Outfit - My version by Xtudo - 2K-72268-1-1-1674732964.7z",
+      "mod_id": 72268,
+      "hash": "sha256-aCuv77v3asDBhIizWilYh7HBCCWQcN5Dm6vWWLsEd6c="
+    },
+    "type": "primary"
+  },
+  "Drifter Armor and Outfit - My version by Xtudo - 4K": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1",
+      "file_id": 353204,
+      "file_name": "Drifter Armor and Outfit - My version by Xtudo - 4K-72268-1-1-1674733001.7z",
+      "mod_id": 72268,
+      "hash": "sha256-dJzVBwA/dyO+dVxKL7k2DF2i9PTlR3XP/CBkycncyRY="
+    },
+    "type": "primary"
+  }
+}

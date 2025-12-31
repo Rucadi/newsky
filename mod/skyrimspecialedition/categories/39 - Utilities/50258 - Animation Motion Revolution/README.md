@@ -2,6 +2,8 @@
 - Author: alexsylex
 - Game: skyrimspecialedition
 - Mod Page: https://www.nexusmods.com/skyrimspecialedition/mods/50258
+
+
 Animation Motion Revolution solves the issue where movement in animations was driven by a bunch of preset values and animations were just window dressing. 10 years from the release of this game, players can finally have a system to customize the true displacement of actors... for each animation individually.
   
   

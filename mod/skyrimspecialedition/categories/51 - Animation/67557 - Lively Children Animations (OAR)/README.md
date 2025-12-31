@@ -2,6 +2,8 @@
 - Author: CHIMgarden
 - Game: skyrimspecialedition
 - Mod Page: https://www.nexusmods.com/skyrimspecialedition/mods/67557
+
+
 This mod adds more interesting idles, neutral and angry dialogue gestures and other animation variants specifically to children. Also some animations added to Narfi and Cicero, but not Babette or Skuli. To the extent it was possible by reusing vanilla assets, I tried to make them appear more curious and playful - like kids supposed to be.
   
   

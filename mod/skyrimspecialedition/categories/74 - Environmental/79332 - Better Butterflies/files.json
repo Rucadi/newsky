@@ -1,0 +1,44 @@
+{
+  "Better Butterflies Monarch in a Jar": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1",
+      "file_id": 334363,
+      "file_name": "Better Butterflies Monarch in a Jar-79332-1-1669334972.rar",
+      "mod_id": 79332,
+      "hash": "sha256-pw6jbZ6H3aOQ2n2m7FT/d0ndORLaW7bgjkYoRQFPKAM="
+    }
+  },
+  "Better Butterflies Monarch in a TMD Jar": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 356991,
+      "file_name": "Better Butterflies Monarch in a TMD Jar-79332-1-0-1675655518.rar",
+      "mod_id": 79332,
+      "hash": "sha256-LvjdcZZpXlpD4kvI+Hqi8BXGVvHtEfoR4ur+DtYqru4="
+    }
+  },
+  "Better Butterflies - 2K version": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1",
+      "file_id": 544775,
+      "file_name": "Better Butterflies - 2K version-79332-1-1-1726973568.rar",
+      "mod_id": 79332,
+      "hash": "sha256-p4RwPONdT7YWAvqUXso0XBnCe2mibW432TPajX3S5VU="
+    },
+    "type": "primary"
+  },
+  "Better Butterflies - 1K version": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1",
+      "file_id": 544776,
+      "file_name": "Better Butterflies - 1K version-79332-1-1-1726973780.rar",
+      "mod_id": 79332,
+      "hash": "sha256-4cRczX6baqQMDs4TX6N2lZyEwJuDfffkc6o3N3lqpJ4="
+    },
+    "type": "primary"
+  }
+}

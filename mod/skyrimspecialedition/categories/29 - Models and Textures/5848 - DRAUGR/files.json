@@ -1,0 +1,44 @@
+{
+  "Draugr.4k": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1",
+      "file_id": 13154,
+      "file_name": "Draugr.4k-5848-1-1.7z",
+      "mod_id": 5848,
+      "hash": "sha256-Mj7H3VwEMgSKrOrO2jwDpeRB4pJpYlVIzYW+T4sg8D8="
+    },
+    "type": "primary"
+  },
+  "Draugr.4k-2k": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1",
+      "file_id": 13159,
+      "file_name": "Draugr.4k-2k-5848-1-1.7z",
+      "mod_id": 5848,
+      "hash": "sha256-pNjs+cJ+SdOy8JHFnztY0fDre1SZqzivHhUAEr8T8t4="
+    },
+    "type": "primary"
+  },
+  "Draugr.2k": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1",
+      "file_id": 13160,
+      "file_name": "Draugr.2k-5848-1-1.7z",
+      "mod_id": 5848,
+      "hash": "sha256-Q5LHA07Fdx7Yeximi1WuW3s55Ghggj6tdoSHEGakalQ="
+    }
+  },
+  "Draugr.1k": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1",
+      "file_id": 13162,
+      "file_name": "Draugr.1k-5848-1-1.7z",
+      "mod_id": 5848,
+      "hash": "sha256-Ig6lbKYpu5WGi6VnmEO2ywK9tUp7zFjnJ93UhyZ1lD8="
+    }
+  }
+}

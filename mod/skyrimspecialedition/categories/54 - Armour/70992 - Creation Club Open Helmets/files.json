@@ -1,0 +1,23 @@
+{
+  "Creation Club Open Helmets 2.0": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "2.4.1",
+      "file_id": 671999,
+      "file_name": "Creation Club Open Helmets 2.0-70992-2-4-1-1759535927.7z",
+      "mod_id": 70992,
+      "hash": "sha256-n64McJzt6GHm7lbf1IsoeH3IGGqoRVgKzdqRVh0kMjg="
+    },
+    "type": "primary"
+  },
+  "Creation Club Open Helmets 2.0 Patches": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "Patches.2.8.1",
+      "file_id": 688654,
+      "file_name": "Creation Club Open Helmets 2.0 Patches-70992-Patches-2-8-1-1763431169.7z",
+      "mod_id": 70992,
+      "hash": "sha256-WSp4LUu35vbi4UkwtH+Vhm5dV97de3SSintdF3tLv8U="
+    }
+  }
+}

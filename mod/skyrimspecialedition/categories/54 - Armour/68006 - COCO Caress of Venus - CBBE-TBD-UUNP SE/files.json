@@ -1,0 +1,56 @@
+{
+  "COCO Caress of Venus - COCOBody UUNP": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 283798,
+      "file_name": "COCO Caress of Venus - COCOBody UUNP-68006-1-0-1652583115.7z",
+      "mod_id": 68006,
+      "hash": "sha256-Vv1MBAY5mfJsP4d+uOwWadkfE4GiPCM/yPVlEIC+hLw="
+    },
+    "type": "primary"
+  },
+  "COCO Caress of Venus - COCOBody CBBE": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 283802,
+      "file_name": "COCO Caress of Venus - COCOBody CBBE-68006-1-0-1652583665.7z",
+      "mod_id": 68006,
+      "hash": "sha256-ww5SFYpAhvnNYPFCKbmqpVp0G+r2IB5Ds5rGh1Mpeck="
+    },
+    "type": "primary"
+  },
+  "COCO Caress of Venus - CBBE 3BA": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 283878,
+      "file_name": "COCO Caress of Venus - CBBE 3BA-68006-1-0-1652595767.7z",
+      "mod_id": 68006,
+      "hash": "sha256-UzivptmwaTFINiHNYXcSwCffumn6CEMwYcY5ESmlF5I="
+    },
+    "type": "primary"
+  },
+  "COCO Caress of Venus - TBD SE": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1",
+      "file_id": 284192,
+      "file_name": "COCO Caress of Venus - TBD SE-68006-1-1-1652688017.7z",
+      "mod_id": 68006,
+      "hash": "sha256-lgiQikk+XYa5USxWPFDix+JtNv/5HWCgNUaHwmDVVPo="
+    },
+    "type": "primary"
+  },
+  "Alt Collision Xml": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 294137,
+      "file_name": "Alt Collision Xml-68006-1-0-1656216006.7z",
+      "mod_id": 68006,
+      "hash": "sha256-NmdMFCCWDRkehAcgYnto83SYjZhyqwSZpRTAgMDo+RA="
+    }
+  }
+}

@@ -1,0 +1,650 @@
+{
+  "Animated Armoury - Lore Weapon Expansion Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 254000,
+      "file_name": "Animated Armoury - Lore Weapon Expansion Patch-61296-1-0-1641338682.7z",
+      "mod_id": 61296,
+      "hash": "sha256-Bvp8pUdbBKFi9rjdjkN/aigVHQR+Qr/+x90vznkz+HU="
+    },
+    "type": "primary"
+  },
+  "Animated Armoury - InsanitySorrow Weapons Pack Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.01",
+      "file_id": 254005,
+      "file_name": "Animated Armoury - InsanitySorrow Weapons Pack Patch-61296-1-01-1641339434.7z",
+      "mod_id": 61296,
+      "hash": "sha256-0+zOAmxhAJHOqph5rZx+eckxOnk3iEKcW+WmMTo2L2A="
+    },
+    "type": "primary"
+  },
+  "Animated Armoury - Colorful Magic Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 257004,
+      "file_name": "Animated Armoury - Colorful Magic Patch-61296-1-0-1642277307.zip",
+      "mod_id": 61296,
+      "hash": "sha256-6BalbEBGBvYOXW7Mtk0+x6/R76haYfe3+C32tQcXm+4="
+    },
+    "type": "primary"
+  },
+  "Animated Armoury - Ryan Reos Dark Elf Blader Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.01",
+      "file_id": 257005,
+      "file_name": "Animated Armoury - Ryan Reos Dark Elf Blader Patch-61296-1-01-1642277405.zip",
+      "mod_id": 61296,
+      "hash": "sha256-2p/wisDJLIrCYFxoOZsmP7z2/+g6fnCIHj5GytceAPI="
+    },
+    "type": "primary"
+  },
+  "Animated Armoury - Japanese Weapons Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 257338,
+      "file_name": "Animated Armoury - Japanese Weapons Patch-61296-1-0-1642371902.zip",
+      "mod_id": 61296,
+      "hash": "sha256-tBgs6Qw4UYHcvjFa88w4gj0Dkj9bwKYQfOWbB48x1xg="
+    },
+    "type": "primary"
+  },
+  "Animated Armoury - Blades Samurai Armor and Kimonos V2": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 258044,
+      "file_name": "Animated Armoury - Blades Samurai Armor and Kimonos V2-61296-1-0-1642680587.zip",
+      "mod_id": 61296,
+      "hash": "sha256-Mk6SgL0uT6tEPLXGL7niObucLu4+k4NyXyhpx1p7QRk="
+    },
+    "type": "primary"
+  },
+  "Animated Armoury - The Hidden Blades Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.01",
+      "file_id": 258780,
+      "file_name": "Animated Armoury - The Hidden Blades Patch-61296-1-01-1642899010.zip",
+      "mod_id": 61296,
+      "hash": "sha256-JwCUJGqp4iiV71pSeIFy+/GaXxGTQFziOZpZAk892FA="
+    },
+    "type": "primary"
+  },
+  "Animated Armoury - The Akaviri Collection": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 259224,
+      "file_name": "Animated Armoury - The Akaviri Collection-61296-1-0-1643030995.zip",
+      "mod_id": 61296,
+      "hash": "sha256-G4MSxBj1eCXpbiv6cJOTn8X9HgKmBbqv8ibYGNbJU20="
+    },
+    "type": "primary"
+  },
+  "Animated Armoury - Kazeshini Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 260471,
+      "file_name": "Animated Armoury - Kazeshini Patch-61296-1-0-1643548800.zip",
+      "mod_id": 61296,
+      "hash": "sha256-/QrpFZh/MD5Dupkmxm2upHY6hC5C/DTzGRJGoCyxbAk="
+    },
+    "type": "primary"
+  },
+  "Animated Armoury - Asaruludu Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 260739,
+      "file_name": "Animated Armoury - Asaruludu Patch-61296-1-0-1643650300.zip",
+      "mod_id": 61296,
+      "hash": "sha256-TBEYsKkzuZBwSluYR1oxBItMrvGKCWLL+LbrvbK2gwQ="
+    },
+    "type": "primary"
+  },
+  "Animated Armoury - HF Blade Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 260740,
+      "file_name": "Animated Armoury - HF Blade Patch-61296-1-0-1643650364.zip",
+      "mod_id": 61296,
+      "hash": "sha256-otE9VIV+xoWgKg2ZXHXtgIpi7OtY1vjKlmeURq7eHes="
+    },
+    "type": "primary"
+  },
+  "Animated Armoury - HF Muramasa Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 260742,
+      "file_name": "Animated Armoury - HF Muramasa Patch-61296-1-0-1643650414.zip",
+      "mod_id": 61296,
+      "hash": "sha256-x8tiqgg+lDaI18u1mFi1ZLDkeaNcG6SgbQJThPFCn/w="
+    },
+    "type": "primary"
+  },
+  "Animated Armoury - Masamune Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 260743,
+      "file_name": "Animated Armoury - Masamune Patch-61296-1-0-1643650447.zip",
+      "mod_id": 61296,
+      "hash": "sha256-NRSTU1c/Xx1GOinKZV/Ntmuov1LBz5dc2DIbqQDL+XA="
+    },
+    "type": "primary"
+  },
+  "Animated Armoury - Obsidian Katana Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 260744,
+      "file_name": "Animated Armoury - Obsidian Katana Patch-61296-1-0-1643650467.zip",
+      "mod_id": 61296,
+      "hash": "sha256-M+ySFV+7EAEg3bFRYVd3OMvhOtWD2JW6gFHgVsrnxHM="
+    },
+    "type": "primary"
+  },
+  "Animated Armoury -  Rengoku Katana Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 260745,
+      "file_name": "Animated Armoury -  Rengoku Katana Patch-61296-1-0-1643650482.zip",
+      "mod_id": 61296,
+      "hash": "sha256-6yEtrwpdfLMvHkMHl0sGuZHrrCNO3LFqbunfz9v+CEE="
+    },
+    "type": "primary"
+  },
+  "Animated Armoury - Tetsuyama Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 260746,
+      "file_name": "Animated Armoury - Tetsuyama Patch-61296-1-0-1643650496.zip",
+      "mod_id": 61296,
+      "hash": "sha256-RdiV02X6kAh0GPtepYe+BBUTIuspDyZ/OjgTtPhN4TE="
+    },
+    "type": "primary"
+  },
+  "Animated Armoury - WK-27 Katana Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 260747,
+      "file_name": "Animated Armoury - WK-27 Katana Patch-61296-1-0-1643650513.zip",
+      "mod_id": 61296,
+      "hash": "sha256-nYKw1wDiBqB132Lzd58bTcO2O/zhTyVHEUbX5SBfhAM="
+    },
+    "type": "primary"
+  },
+  "Animated Armoury - Yamato WK27 Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 260748,
+      "file_name": "Animated Armoury - Yamato WK27 Patch-61296-1-0-1643650527.zip",
+      "mod_id": 61296,
+      "hash": "sha256-oJLKzCvV/EOrL7jQQbcyULZXtWMoiU2TwQIrfnC8OZ0="
+    },
+    "type": "primary"
+  },
+  "Animated Armoury - Yasutsuna Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 260749,
+      "file_name": "Animated Armoury - Yasutsuna Patch-61296-1-0-1643650544.zip",
+      "mod_id": 61296,
+      "hash": "sha256-2CtFDEGJEWnqo1UVf15FDDT7V7ZGXjoOIqqcl1qqWro="
+    },
+    "type": "primary"
+  },
+  "Animated Armoury - True Flame Sakitama Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 263928,
+      "file_name": "Animated Armoury - True Flame Sakitama Patch-61296-1-0-1644786516.zip",
+      "mod_id": 61296,
+      "hash": "sha256-DmlnU96CLT+dT+L/1oQ14kduCWd85PRxk7wU7aNSvP8="
+    },
+    "type": "primary"
+  },
+  "Animated Armoury - Akavir. The Curse of the Immortals Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 264090,
+      "file_name": "Animated Armoury - Akavir. The Curse of the Immortals Patch-61296-1-0-1644850104.7z",
+      "mod_id": 61296,
+      "hash": "sha256-Hw4ecjb68P7Stxj/7ef0J1We5uCcKf3jJ7HOwMWbshk="
+    },
+    "type": "primary"
+  },
+  "Animated Armoury - Nichirin Katana Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 270468,
+      "file_name": "Animated Armoury - Nichirin Katana Patch-61296-1-0-1647417935.7z",
+      "mod_id": 61296,
+      "hash": "sha256-uBFDPtg5c2HOr7luobducnO0IIvReUqWLK0N6hnYIwU="
+    },
+    "type": "primary"
+  },
+  "Animated Armoury - Dragon Katanas Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 270470,
+      "file_name": "Animated Armoury - Dragon Katanas Patch-61296-1-0-1647418135.zip",
+      "mod_id": 61296,
+      "hash": "sha256-v6Hb5iA/wt+Pi8dMyNeGvMcLeMFe046+OH29gf1+UzU="
+    },
+    "type": "primary"
+  },
+  "Animated Armoury - Lux and Noctis Katanas Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 270471,
+      "file_name": "Animated Armoury - Lux and Noctis Katanas Patch-61296-1-0-1647418207.zip",
+      "mod_id": 61296,
+      "hash": "sha256-KJrxVA88Dq+a4IW5qAI/ySJLwtAWYkv3Otn+m0jm5Kk="
+    },
+    "type": "primary"
+  },
+  "Animated Armoury - Fudou Myouou Katanas and Tachi Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 270472,
+      "file_name": "Animated Armoury - Fudou Myouou Katanas and Tachi Patch-61296-1-0-1647418284.zip",
+      "mod_id": 61296,
+      "hash": "sha256-/xt5pwaZLOPTS6gSKv7Kj93IZn4896xD9sY5YbdkUi0="
+    },
+    "type": "primary"
+  },
+  "Animated Armoury - Sugaruya Katana SE Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 270473,
+      "file_name": "Animated Armoury - Sugaruya Katana SE Patch-61296-1-0-1647418347.7z",
+      "mod_id": 61296,
+      "hash": "sha256-9HeKN1o33/K9tOSlDj+qeXe3fdWT53KpjwFVzDk1GCo="
+    },
+    "type": "primary"
+  },
+  "Animated Armoury - Insanitys Celtic Katana SSE Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 270474,
+      "file_name": "Animated Armoury - Insanitys Celtic Katana SSE Patch-61296-1-0-1647418415.zip",
+      "mod_id": 61296,
+      "hash": "sha256-28s7Bc+ON0XThgP3aSJUyS7xNvXctsZoyDKEttt4v5o="
+    },
+    "type": "primary"
+  },
+  "Animated Armoury - DemonSlayer Katana's SSE Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 270475,
+      "file_name": "Animated Armoury - DemonSlayer Katana's SSE Patch-61296-1-0-1647418474.zip",
+      "mod_id": 61296,
+      "hash": "sha256-U139PQWbl9hOrvjpa3WdqmJ8a+ZZM9P774erJC+5p2Y="
+    },
+    "type": "primary"
+  },
+  "Animated Armoury - Standalone katanas Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 270476,
+      "file_name": "Animated Armoury - Standalone katanas Patch-61296-1-0-1647418540.zip",
+      "mod_id": 61296,
+      "hash": "sha256-81iD5nCpjjF/k3MJ3G+zrhUkcOUlA/mlDLI/ctN8z28="
+    },
+    "type": "primary"
+  },
+  "Animated Armoury - Nagamaki Gaijin SE (katanas) Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 270477,
+      "file_name": "Animated Armoury - Nagamaki Gaijin SE (katanas) Patch-61296-1-0-1647418618.zip",
+      "mod_id": 61296,
+      "hash": "sha256-BhkOCl0LhrciBupr9MhJFyTOzb0/LPCo5khV1RnFt+4="
+    },
+    "type": "primary"
+  },
+  "Animated Armoury - Blademaster's Katana Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 270478,
+      "file_name": "Animated Armoury - Blademaster's Katana Patch-61296-1-0-1647418685.zip",
+      "mod_id": 61296,
+      "hash": "sha256-xHyAHFlQZxq3MFy4KV9KIneISq/98WQePaG07K0dCv0="
+    },
+    "type": "primary"
+  },
+  "Animated Armoury - Unique Items Tweaks Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 275432,
+      "file_name": "Animated Armoury - Unique Items Tweaks Patch-61296-1-0-1649326593.zip",
+      "mod_id": 61296,
+      "hash": "sha256-DWQDVqfnspjdizik9QXfMXdgEO84zLUO53MUZSusDmQ="
+    },
+    "type": "primary"
+  },
+  "Animated Armoury - Kanjs - High-Frequency Blade Murasama Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 280135,
+      "file_name": "Animated Armoury - Kanjs - High-Frequency Blade Murasama Patch-61296-1-0-1651148252.zip",
+      "mod_id": 61296,
+      "hash": "sha256-cmGtRm3YNfT5G+JVBrPizM3D7QqLfF3C1s1I/1EI9qM="
+    },
+    "type": "primary"
+  },
+  "Animated Armoury - Ancient Blades Weapons Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 291524,
+      "file_name": "Animated Armoury - Ancient Blades Weapons Patch-61296-1-0-1655380042.zip",
+      "mod_id": 61296,
+      "hash": "sha256-rf+c2qxzSd3kcF3mPH0HShLQOyg7idnIyv7BoFFce3E="
+    },
+    "type": "primary"
+  },
+  "Animated Armoury - immyneedscake Shinobu Katana Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 294509,
+      "file_name": "Animated Armoury - immyneedscake Shinobu Katana Patch-61296-1-0-1656360970.zip",
+      "mod_id": 61296,
+      "hash": "sha256-tu3LjdSrCGF3E4p/MHHEJgwsm8piHrI7CKfwxADodpQ="
+    },
+    "type": "primary"
+  },
+  "Animated Armoury - Maguro Kiri Bocho Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 294511,
+      "file_name": "Animated Armoury - Maguro Kiri Bocho Patch-61296-1-0-1656361232.zip",
+      "mod_id": 61296,
+      "hash": "sha256-5ABl8s1dBvlm6lg7rROcaIR5ztDd/9eG0jt1hCPinHo="
+    },
+    "type": "primary"
+  },
+  "Animated Armoury - Calamity Queller Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1",
+      "file_id": 294517,
+      "file_name": "Animated Armoury - Calamity Queller Patch-61296-1-1-1656363733.zip",
+      "mod_id": 61296,
+      "hash": "sha256-uDMT8KeakKCaHR/VALou/ID7/39r978++2ONJ+cEydU="
+    },
+    "type": "primary"
+  },
+  "Animated Armoury - Narukami Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1",
+      "file_id": 294519,
+      "file_name": "Animated Armoury - Narukami Patch-61296-1-1-1656364472.zip",
+      "mod_id": 61296,
+      "hash": "sha256-KTS+ugKbjZRFSOsqZkhZUu8W4FSC4PTuUiAY/c0ysxo="
+    },
+    "type": "primary"
+  },
+  "Animated Armoury - Unique Uniques SE Re-Ported Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1",
+      "file_id": 295406,
+      "file_name": "Animated Armoury - Unique Uniques SE Re-Ported Patch-61296-1-1-1656687387.zip",
+      "mod_id": 61296,
+      "hash": "sha256-gkVBQvmvmJGslQC1uMRq5ZPVmySCbxsNRvPwW1ms8+I="
+    },
+    "type": "primary"
+  },
+  "Animated Armoury - CC Goldbrand Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 304130,
+      "file_name": "Animated Armoury - CC Goldbrand Patch-61296-1-0-1659449680.zip",
+      "mod_id": 61296,
+      "hash": "sha256-BeOwj1XnZHmHhjzpmDszijqvIxBI4hvc59nE1g/kY3M="
+    },
+    "type": "primary"
+  },
+  "Animated Armoury - EGIL Shadow of Akavir Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 306600,
+      "file_name": "Animated Armoury - EGIL Shadow of Akavir Patch-61296-1-0-1660236004.zip",
+      "mod_id": 61296,
+      "hash": "sha256-v557USuvMZXcUixfdZov9Wj7LlNFUidVQUa39TbEQuA="
+    },
+    "type": "primary"
+  },
+  "Animated Armoury - Artifacts - The Tournament of the ten Bloods Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 310072,
+      "file_name": "Animated Armoury - Artifacts - The Tournament of the ten Bloods Patch-61296-1-0-1661359831.zip",
+      "mod_id": 61296,
+      "hash": "sha256-SH7aavaYfdRahHSMrKnye/o1hB5lzVUwB1BdkzPtEEE="
+    },
+    "type": "primary"
+  },
+  "Animated Armoury - Reforging - To The Masses Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 310076,
+      "file_name": "Animated Armoury - Reforging - To The Masses Patch-61296-1-0-1661360841.zip",
+      "mod_id": 61296,
+      "hash": "sha256-tRQQZXA7aIu24ilkY7JWno4XaxpYZOtvAxM84WFKiTo="
+    },
+    "type": "primary"
+  },
+  "Animated Armoury - Weapons of the Third Era Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1",
+      "file_id": 311730,
+      "file_name": "Animated Armoury - Weapons of the Third Era Patch-61296-1-1-1661868966.zip",
+      "mod_id": 61296,
+      "hash": "sha256-LdZEVfLWg9+aB5jP5v4CMkJaLv/c5yr3TzxwKnYWfcg="
+    },
+    "type": "primary"
+  },
+  "Animated Armoury - Gecko Katana Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 313961,
+      "file_name": "Animated Armoury - Gecko Katana Patch-61296-1-0-1662552453.zip",
+      "mod_id": 61296,
+      "hash": "sha256-UO45x5Cm0miUMXaf9bmhgeq+K/v1mo243mxE/d6pV/I="
+    },
+    "type": "primary"
+  },
+  "Animated Armoury - COCO Ronin Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1",
+      "file_id": 319879,
+      "file_name": "Animated Armoury - COCO Ronin Patch-61296-1-1-1664316987.zip",
+      "mod_id": 61296,
+      "hash": "sha256-hhaFSSd+n5Y3gNZMJTiPa3wGyEJMRu7QtG6B7CqUIwc="
+    },
+    "type": "primary"
+  },
+  "Animated Armoury - Legacy of the Dragonborn Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 319889,
+      "file_name": "Animated Armoury - Legacy of the Dragonborn Patch-61296-1-0-1664320580.zip",
+      "mod_id": 61296,
+      "hash": "sha256-6C5wtMnieNzUuRgQGTnlEeatXva6nESQkd03hW1taUk="
+    },
+    "type": "primary"
+  },
+  "Animated Armoury - DX Crimson Blood Armor Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 323705,
+      "file_name": "Animated Armoury - DX Crimson Blood Armor Patch-61296-1-0-1665665322.zip",
+      "mod_id": 61296,
+      "hash": "sha256-89teX5fcFWcPnabIxh4dDY/DYwIWOrVwKACGOYR6Fdo="
+    },
+    "type": "primary"
+  },
+  "Animated Armoury - YoRHa 2B Attire - TBD Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 329930,
+      "file_name": "Animated Armoury - YoRHa 2B Attire - TBD Patch-61296-1-0-1667830528.zip",
+      "mod_id": 61296,
+      "hash": "sha256-55uCORstiiEMik4UagO0AA/NyQztCZuwcpOogsWUKUY="
+    },
+    "type": "primary"
+  },
+  "Animated Armoury AIO KID": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 330188,
+      "file_name": "Animated Armoury AIO KID-61296-1-0-1667927191.zip",
+      "mod_id": 61296,
+      "hash": "sha256-Aysq8GPm/tRxSeezxjN72+J7SJyOZ5G3tQpFKEtmmPY="
+    }
+  },
+  "Animated Armoury - Silverthorn Weaponry Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 338187,
+      "file_name": "Animated Armoury - Silverthorn Weaponry Patch-61296-1-0-1670349144.zip",
+      "mod_id": 61296,
+      "hash": "sha256-h3usZSXn2dTsbBPrFwOiwpXspq2M1sPqQz17aUmE5GQ="
+    },
+    "type": "primary"
+  },
+  "Animated Armoury - Twilight Princess Armor Mashup Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1",
+      "file_id": 339109,
+      "file_name": "Animated Armoury - Twilight Princess Armor Mashup Patch-61296-1-1-1670618118.zip",
+      "mod_id": 61296,
+      "hash": "sha256-+BipeDkqnk9t8yBCCGyQwqxillF4V/79PXcCtvjwP4I="
+    },
+    "type": "primary"
+  },
+  "Animated Armoury - YoRHa 2B Attire Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 356250,
+      "file_name": "Animated Armoury - YoRHa 2B Attire Patch-61296-1-0-1675521767.zip",
+      "mod_id": 61296,
+      "hash": "sha256-SHKYycXt8rAfo+no0Ggw1A7Gh3DnUcOHwnlwP1xpnsI="
+    },
+    "type": "primary"
+  },
+  "Animated Armoury - Royal Armory - New Artifacts Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 356252,
+      "file_name": "Animated Armoury - Royal Armory - New Artifacts Patch-61296-1-0-1675522287.zip",
+      "mod_id": 61296,
+      "hash": "sha256-EIGwrxRWkI4/1nPPSKTFy1nyVpC4lVC3VbB54AvC+40="
+    },
+    "type": "primary"
+  },
+  "Animated Armoury - Death Mountain Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "10",
+      "file_id": 356258,
+      "file_name": "Animated Armoury - Death Mountain Patch-61296-10-1675523375.zip",
+      "mod_id": 61296,
+      "hash": "sha256-7ADEZDpEAZddvOvUZDqDh9nllHiKVlxvAUfEHK9A7s0="
+    },
+    "type": "primary"
+  },
+  "Animated Armoury - Better Vampire Weapons Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 357441,
+      "file_name": "Animated Armoury - Better Vampire Weapons Patch-61296-1-0-1675779892.zip",
+      "mod_id": 61296,
+      "hash": "sha256-55S2GdCSHyym91EwaFf4p9CK2D6naIjUN8IyQTGrY7I="
+    },
+    "type": "primary"
+  },
+  "Animated Armoury - Katana Crafting Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "3.4.1",
+      "file_id": 365471,
+      "file_name": "Animated Armoury - Katana Crafting Patch-61296-3-4-1-1677954818.zip",
+      "mod_id": 61296,
+      "hash": "sha256-CTTDiS0kE9ZDyOzrRIUJsEgxzpwispJAKu+42j8STGI="
+    },
+    "type": "primary"
+  },
+  "Animated Armoury - Katana Crafting No Creation Club Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "3.4.1",
+      "file_id": 365473,
+      "file_name": "Animated Armoury - Katana Crafting No Creation Club Patch-61296-3-4-1-1677955114.zip",
+      "mod_id": 61296,
+      "hash": "sha256-BDgDZqrge2JUuMn44vpyPdmVYIqzhqqelWUHXjhFNSw="
+    },
+    "type": "primary"
+  },
+  "Animated Armoury - Reliquary of Myth Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.2",
+      "file_id": 418366,
+      "file_name": "Animated Armoury - Reliquary of Myth Patch-61296-1-2-1692401418.zip",
+      "mod_id": 61296,
+      "hash": "sha256-dAR9Bv55Drbu9IqnudGQncINUzwjRtGzww2g1uVhJSk="
+    },
+    "type": "primary"
+  }
+}

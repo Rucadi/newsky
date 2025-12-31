@@ -2,6 +2,8 @@
 - Author: powerofthree and wSkeever
 - Game: skyrimspecialedition
 - Mod Page: https://www.nexusmods.com/skyrimspecialedition/mods/73336
+
+
 [![](https://i.imgur.com/HGKHlJW.png)](https://www.patreon.com/bePatron?u=8408266)﻿[![](https://i.imgur.com/L4G5as4.png)](https://www.patreon.com/wSkeever)
 
   

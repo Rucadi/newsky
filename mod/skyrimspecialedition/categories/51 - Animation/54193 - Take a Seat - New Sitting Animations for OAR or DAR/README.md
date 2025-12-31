@@ -2,6 +2,8 @@
 - Author: JaySerpa
 - Game: skyrimspecialedition
 - Mod Page: https://www.nexusmods.com/skyrimspecialedition/mods/54193
+
+
 **[![](https://i.imgur.com/Pvfeiqq.png)](https://www.nexusmods.com/users/5201727?tab=user+files&BH=2)﻿  [![](https://i.imgur.com/NQIZcnZ.png)](https://www.twitch.tv/jayserpa)﻿  [![](https://i.imgur.com/uGltkW7.png)](https://www.patreon.com/JaySerpa)
 
 ![](https://i.imgur.com/jlR3e5o.jpeg)

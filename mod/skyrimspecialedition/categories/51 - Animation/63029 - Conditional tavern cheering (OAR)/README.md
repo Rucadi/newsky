@@ -2,6 +2,8 @@
 - Author: CHIMgarden
 - Game: skyrimspecialedition
 - Mod Page: https://www.nexusmods.com/skyrimspecialedition/mods/63029
+
+
 [left]This mod adds variety to animations of cheering and applause![/left]
 
   

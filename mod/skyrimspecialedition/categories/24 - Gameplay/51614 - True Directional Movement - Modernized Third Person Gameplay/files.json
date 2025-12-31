@@ -1,13 +1,13 @@
 {
-    "True Directional Movement": {
-        "nexusmods": {
-            "game_name": "skyrimspecialedition",
-            "version": "2.2.6",
-            "file_id": 539468,
-            "file_name": "True Directional Movement-51614-2-2-6-1725670168.7z",
-            "mod_id": 51614,
-            "hash": "sha256-zuMl5/38u5RbOorBmZXRK2smU2h4kRFnL4kNV9WTIwM="
-        },
-        "type": "primary"
-    }
+  "True Directional Movement": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "2.2.6",
+      "file_id": 539468,
+      "file_name": "True Directional Movement-51614-2-2-6-1725670168.7z",
+      "mod_id": 51614,
+      "hash": "sha256-zuMl5/38u5RbOorBmZXRK2smU2h4kRFnL4kNV9WTIwM="
+    },
+    "type": "primary"
+  }
 }

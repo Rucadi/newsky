@@ -1,0 +1,23 @@
+{
+  "Colorful Bound Weapons SE ENB Light": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "3.6",
+      "file_id": 294611,
+      "file_name": "Colorful Bound Weapons SE ENB Light-51911-3-6-1656396937.7z",
+      "mod_id": 51911,
+      "hash": "sha256-2YpAWG8N8RnI/yARlSrFH4WusWA1U9QyZhp4+w6uUD0="
+    },
+    "type": "primary"
+  },
+  "Colorful Bound Weapons - I4 Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "I43.6",
+      "file_id": 570956,
+      "file_name": "Colorful Bound Weapons - I4 Patch-51911-I43-6-1733821279.7z",
+      "mod_id": 51911,
+      "hash": "sha256-t5LHZMNYt7Rj2fPfE9zUGMKf6+fIDSUexOqxniA+mqE="
+    }
+  }
+}

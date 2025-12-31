@@ -1,23 +1,23 @@
 {
-    "MCM SDK": {
-        "nexusmods": {
-            "game_name": "skyrimspecialedition",
-            "version": "1.3.0",
-            "file_id": 223749,
-            "file_name": "MCM SDK-53000-1-3-0-1629918647.zip",
-            "mod_id": 53000,
-            "hash": "sha256-egviDrCEOdaXJJ3HcUzOIh7owS6R+kU3LPdvN/Vz0ys="
-        }
-    },
-    "MCM Helper": {
-        "nexusmods": {
-            "game_name": "skyrimspecialedition",
-            "version": "1.5.0",
-            "file_id": 452755,
-            "file_name": "MCM Helper-53000-1-5-0-1702843613.7z",
-            "mod_id": 53000,
-            "hash": "sha256-WSBMt7dEIv39/uR9O/pr2ixww1zGZWVgEPueHCxMAeM="
-        },
-        "type": "primary"
+  "MCM SDK": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.3.0",
+      "file_id": 223749,
+      "file_name": "MCM SDK-53000-1-3-0-1629918647.zip",
+      "mod_id": 53000,
+      "hash": "sha256-egviDrCEOdaXJJ3HcUzOIh7owS6R+kU3LPdvN/Vz0ys="
     }
+  },
+  "MCM Helper": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.5.0",
+      "file_id": 452755,
+      "file_name": "MCM Helper-53000-1-5-0-1702843613.7z",
+      "mod_id": 53000,
+      "hash": "sha256-WSBMt7dEIv39/uR9O/pr2ixww1zGZWVgEPueHCxMAeM="
+    },
+    "type": "primary"
+  }
 }

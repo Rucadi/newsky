@@ -1,0 +1,23 @@
+{
+  "Milfactory Asset Hub - BHUNP - UNP -  UUNP": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "2.2",
+      "file_id": 516454,
+      "file_name": "Milfactory Asset Hub - BHUNP - UNP -  UUNP-80819-2-2-1719780236.zip",
+      "mod_id": 80819,
+      "hash": "sha256-CDdIUVdPzAXcKhGomq+SyB0Xui56nlfi2w0zC1+H2+g="
+    },
+    "type": "primary"
+  },
+  "Milfactory Asset Hub - CBBE - CBBE Special - 3BA": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "2.2",
+      "file_id": 516456,
+      "file_name": "Milfactory Asset Hub - CBBE - CBBE Special - 3BA-80819-2-2-1719780310.zip",
+      "mod_id": 80819
+    },
+    "type": "primary"
+  }
+}

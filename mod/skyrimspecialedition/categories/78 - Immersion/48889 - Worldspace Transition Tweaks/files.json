@@ -5,7 +5,8 @@
       "version": "0.2c",
       "file_id": 344940,
       "file_name": "WTT - No Plume-48889-0-2c-1672416348.7z",
-      "mod_id": 48889
+      "mod_id": 48889,
+      "hash": "sha256-VDEkymf6qEs7tpvLIvQ+/YsmhBOxIYkH0x2cjPvv8Sg="
     }
   },
   "WTT - Skyrim To Solstheim": {
@@ -14,7 +15,8 @@
       "version": "0.2.4",
       "file_id": 627779,
       "file_name": "WTT - Skyrim To Solstheim-48889-0-2-4-1747427608.7z",
-      "mod_id": 48889
+      "mod_id": 48889,
+      "hash": "sha256-hBwlK+uBKKDD6W2ZpqOm72XFrVaFIWwSyJ7wGg3SEqw="
     },
     "type": "primary"
   },
@@ -24,7 +26,8 @@
       "version": "0.2.5",
       "file_id": 700518,
       "file_name": "WTT - SSELodgen Output For Empty Load Order-48889-0-2-5-1766339404.7z",
-      "mod_id": 48889
+      "mod_id": 48889,
+      "hash": "sha256-zm9iFnl2mPnTKr8BtC0hEJNlIpndVEXKUkb1HqS9PN8="
     }
   }
 }

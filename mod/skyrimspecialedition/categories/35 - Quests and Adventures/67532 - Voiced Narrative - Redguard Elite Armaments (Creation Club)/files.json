@@ -1,13 +1,13 @@
 {
-    "Redguard Elite Armaments - Voiced Narrative": {
-        "nexusmods": {
-            "game_name": "skyrimspecialedition",
-            "version": "2.1",
-            "file_id": 667503,
-            "file_name": "Redguard Elite Armaments - Voiced Narrative-67532-2-1-1758338082.zip",
-            "mod_id": 67532,
-            "hash": "sha256-MaaWiA0kC+qlzR7egj7jqu4JXyKvHdVc+7ihKm6fz8Q="
-        },
-        "type": "primary"
-    }
+  "Redguard Elite Armaments - Voiced Narrative": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "2.1",
+      "file_id": 667503,
+      "file_name": "Redguard Elite Armaments - Voiced Narrative-67532-2-1-1758338082.zip",
+      "mod_id": 67532,
+      "hash": "sha256-MaaWiA0kC+qlzR7egj7jqu4JXyKvHdVc+7ihKm6fz8Q="
+    },
+    "type": "primary"
+  }
 }

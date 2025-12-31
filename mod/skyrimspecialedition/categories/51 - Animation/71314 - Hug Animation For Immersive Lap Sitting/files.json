@@ -1,0 +1,23 @@
+{
+  "For male teammates (Recommended for female player)": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1",
+      "file_id": 303868,
+      "file_name": "For male teammates (Recommended for female player)-71314-1-1-1659357423.zip",
+      "mod_id": 71314,
+      "hash": "sha256-G+v2q1CFaCXw4cDGa6Vlkm3O16etgbdatzZgZJ+JytE="
+    },
+    "type": "primary"
+  },
+  "For player (Recommended for female)": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.2",
+      "file_id": 467597,
+      "file_name": "For player (Recommended for female)-71314-1-2-1707035280.zip",
+      "mod_id": 71314,
+      "hash": "sha256-hk4L2EeEhPp+l2TRs+hUPaTrUddvcoeLCBm2mbtcOwc="
+    }
+  }
+}

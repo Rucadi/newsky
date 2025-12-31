@@ -1,0 +1,23 @@
+{
+  "Stalhrim Bikini Bodyslide files": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "NA",
+      "file_id": 210100,
+      "file_name": "Stalhrim Bikini Bodyslide files-51410-NA-1624158542.zip",
+      "mod_id": 51410,
+      "hash": "sha256-yL9u/nT0adHirn/XLR6/uPCt4AWd0G3lBwAJzO0xXHY="
+    }
+  },
+  "Stalhrim Bikini CBBE SSE": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.5",
+      "file_id": 298275,
+      "file_name": "Stalhrim Bikini CBBE SSE-51410-1-5-1657596795.7z",
+      "mod_id": 51410,
+      "hash": "sha256-RKAmtoD5bFA6dQEg7bFg9Ka1o6IrZDQtWk6hqwEKWvk="
+    },
+    "type": "primary"
+  }
+}

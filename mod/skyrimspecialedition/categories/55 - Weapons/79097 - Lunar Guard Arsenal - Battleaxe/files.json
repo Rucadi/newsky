@@ -1,0 +1,68 @@
+{
+  "Lunar Guard Battleaxe - 1k textures": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1",
+      "file_id": 365348,
+      "file_name": "Lunar Guard Battleaxe - 1k textures-79097-1-1-1677930044.zip",
+      "mod_id": 79097,
+      "hash": "sha256-04KHF3cWMjj2LkXPViQwunzBwjTPiy/0oaOLZajBvpA="
+    },
+    "type": "primary"
+  },
+  "Lunar Guard Battleaxe - 2k textures": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1",
+      "file_id": 365349,
+      "file_name": "Lunar Guard Battleaxe - 2k textures-79097-1-1-1677930073.zip",
+      "mod_id": 79097,
+      "hash": "sha256-sXn9o4S4dS9XCe9152PBLXcyo+KwXiDxa0MWCKSRIss="
+    },
+    "type": "primary"
+  },
+  "Lunar Guard Battleaxe - 4k textures": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1",
+      "file_id": 365350,
+      "file_name": "Lunar Guard Battleaxe - 4k textures-79097-1-1-1677930097.zip",
+      "mod_id": 79097,
+      "hash": "sha256-3Qd3GttiURAUFOEVl5V1pPNuYAzrZzzYa1wDkrAFfKc="
+    },
+    "type": "primary"
+  },
+  "Lunar Guard Battleaxe - No glow - 1k textures": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1",
+      "file_id": 365351,
+      "file_name": "Lunar Guard Battleaxe - No glow - 1k textures-79097-1-1-1677930145.zip",
+      "mod_id": 79097,
+      "hash": "sha256-wvUUfxhKRlxylwPiZLkd/PKxp0EW/OLxbtFg/buYwBA="
+    },
+    "type": "primary"
+  },
+  "Lunar Guard Battleaxe - No glow - 2k textures": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1",
+      "file_id": 365353,
+      "file_name": "Lunar Guard Battleaxe - No glow - 2k textures-79097-1-1-1677930182.zip",
+      "mod_id": 79097,
+      "hash": "sha256-MU/IBp3YilmYL2wm3A97HGSD+Wyn1CETdsl/sSN7zwk="
+    },
+    "type": "primary"
+  },
+  "Lunar Guard Battleaxe - No glow - 4k textures": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1",
+      "file_id": 365354,
+      "file_name": "Lunar Guard Battleaxe - No glow - 4k textures-79097-1-1-1677930215.zip",
+      "mod_id": 79097,
+      "hash": "sha256-SQD4YKoMkPgJdmDiLpTNKwZIhUkf9JmuXaxr/5fZ+3g="
+    },
+    "type": "primary"
+  }
+}

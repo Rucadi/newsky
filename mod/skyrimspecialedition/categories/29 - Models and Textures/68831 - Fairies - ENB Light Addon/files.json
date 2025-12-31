@@ -1,0 +1,24 @@
+{
+  "Fairies ENB Light": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1",
+      "file_id": 498830,
+      "file_name": "Fairies ENB Light-68831-1-1-1715103360.zip",
+      "mod_id": 68831,
+      "hash": "sha256-nw16ebxnKYOoFVn7rXg5hpGN02qbFLG/DjncOdd1SZE="
+    },
+    "type": "primary"
+  },
+  "Fairies ENB Light - Subtle": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1",
+      "file_id": 498831,
+      "file_name": "Fairies ENB Light - Subtle-68831-1-1-1715103376.zip",
+      "mod_id": 68831,
+      "hash": "sha256-kDDUupAc9W2Lym07ioH+3gWdyAveZLqlPmWtGZDx2Uk="
+    },
+    "type": "primary"
+  }
+}

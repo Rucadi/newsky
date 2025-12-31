@@ -2,6 +2,8 @@
 - Author: Loki-ArcEarth
 - Game: skyrimspecialedition
 - Mod Page: https://www.nexusmods.com/skyrimspecialedition/mods/73293
+
+
 Casting arbitrary spells at animation events. Support SE/AE/VR builds (include AE 1.6.629+).
   
  Supercharged Loki's [DynamicAnimationCasting](https://www.nexusmods.com/skyrimspecialedition/mods/65512?tab=description) mod with LOT of optimization and new features.

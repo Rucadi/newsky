@@ -1,13 +1,13 @@
 {
-    "FYX Smooth Wells Compatibility Tweaks - FOMOD": {
-        "nexusmods": {
-            "game_name": "skyrimspecialedition",
-            "version": "1.5.0",
-            "file_id": 655326,
-            "file_name": "FYX Smooth Wells Compatibility Tweaks - FOMOD-67277-1-5-0-1755120604.7z",
-            "mod_id": 67277,
-            "hash": "sha256-I6Ku0wkJEzb/I7tUZ8LbFMzLCAkmqLWfvm4n1xdC/i8="
-        },
-        "type": "primary"
-    }
+  "FYX Smooth Wells Compatibility Tweaks - FOMOD": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.5.0",
+      "file_id": 655326,
+      "file_name": "FYX Smooth Wells Compatibility Tweaks - FOMOD-67277-1-5-0-1755120604.7z",
+      "mod_id": 67277,
+      "hash": "sha256-I6Ku0wkJEzb/I7tUZ8LbFMzLCAkmqLWfvm4n1xdC/i8="
+    },
+    "type": "primary"
+  }
 }

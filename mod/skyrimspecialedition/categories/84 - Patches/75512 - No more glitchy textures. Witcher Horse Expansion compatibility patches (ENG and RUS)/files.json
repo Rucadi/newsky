@@ -1,0 +1,403 @@
+{
+  "Kaidan 2 compability patch (RUS)": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 316704,
+      "file_name": "Witcher Horse Expansion - Kaidan 2 compability patch (RUS)-75512-1-0-1663367949.7z",
+      "mod_id": 75512,
+      "hash": "sha256-bFs2gACw+S6j+dylJCuphiYjDM4hQx23qpWsRPHqonM="
+    }
+  },
+  "Sofia compability patch (RUS)": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 316705,
+      "file_name": "Witcher Horse Expansion - Sofia compability patch (RUS)-75512-1-0-1663367992.7z",
+      "mod_id": 75512,
+      "hash": "sha256-1amKWsvVngVxNXwDIjtkggIBHQQ02SUSqAUH7FH/KXs="
+    }
+  },
+  "Vilja compability patch (RUS)": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 316707,
+      "file_name": "Witcher Horse Expansion - Vilja compability patch (RUS)-75512-1-0-1663368047.7z",
+      "mod_id": 75512,
+      "hash": "sha256-AXZzHmIDtZP2dkkxldZN+PmZSakpq/9uLJbQOEOjFxg="
+    }
+  },
+  "Serana Dialogue Add-On compability patch (RUS)": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.18.5",
+      "file_id": 426535,
+      "file_name": "Serana Dialogue Add-On compability patch (RUS)-75512-1-18-5-1694930976.7z",
+      "mod_id": 75512,
+      "hash": "sha256-3r11JzSxv8VfHguXSbJNT/nljIwLJzqKgzeJOfGErO8="
+    }
+  },
+  "Recorder compability patch (RUS)": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 316797,
+      "file_name": "Witcher Horse Expansion - Recorder compability patch (RUS)-75512-1-0-1663400593.7z",
+      "mod_id": 75512,
+      "hash": "sha256-CWEfPRirBoBiyS8UWT6T2VZ/sSthhj9rquvX9GDT7JI="
+    }
+  },
+  "Khajiit Will Follow compability patch (RUS)": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 318309,
+      "file_name": "Witcher Horse Expansion - Khajiit Will Follow compability patch (RUS)-75512-1-0-1663778522.7z",
+      "mod_id": 75512,
+      "hash": "sha256-vx5xi7O3qDVTkAUCXFb4HdJni7WDNE0XtXqA9/FXHo4="
+    }
+  },
+  "SkyTEST compability patch (RUS)": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 324252,
+      "file_name": "Witcher Horse Expansion - SkyTEST compability patch (RUS) 1.0-75512-1-0-1665857573.7z",
+      "mod_id": 75512,
+      "hash": "sha256-M9lw25dCdgSi+zoUb4Vm9NCY7u3kNzU67WdAbUfGsZU="
+    }
+  },
+  "Immersive Citizens compability patch (RUS)": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 331564,
+      "file_name": "Witcher Horse Expansion - Immersive Citizens compability patch (RUS) 1.0-75512-1-0-1668365080.7z",
+      "mod_id": 75512,
+      "hash": "sha256-xtb/XmKuKIL39R6Nk8/xKNNMuGmbkRjKDitWux/J+CQ="
+    }
+  },
+  "SkyTEST 2022 Redux compability patch (RUS)": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 337395,
+      "file_name": "Witcher Horse Expansion - SkyTEST 2022 Redux (RUS)-75512-1-0-1670143674.7z",
+      "mod_id": 75512,
+      "hash": "sha256-GbFJPI2VF6xbfZBOrexpPbA1mPTnzVLWWwm8Zm5kMN0="
+    }
+  },
+  "Selene Kate compability patch (RUS)": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 340324,
+      "file_name": "Witcher Horse Expansion - Selene Kate compability patch (RUS)-75512-1-0-1670964092.7z",
+      "mod_id": 75512,
+      "hash": "sha256-BW+Z9miiTyW+FgtzSpAKe3n3BibBJGYbKTO6QuvvjxI="
+    }
+  },
+  "Palaces Castles Enhanced compability patch (RUS)": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 340325,
+      "file_name": "Witcher Horse Expansion - Palaces Castles Enhanced compability patch (RUS)-75512-1-0-1670964128.7z",
+      "mod_id": 75512,
+      "hash": "sha256-yW9G0aPB4T3CmRR4MjYT77MJyLGihdBZOfpt2U5zj50="
+    }
+  },
+  "Shor's Stone compability patch (RUS)": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 340326,
+      "file_name": "Witcher Horse Expansion - Shor's Stone compability patch (RUS)-75512-1-0-1670964152.7z",
+      "mod_id": 75512,
+      "hash": "sha256-Dkqjc5HW/ReiRk0Q9J7WasXQrmfvP/EDmaCtxsKAoXk="
+    }
+  },
+  "Detailed Carriages compability patch (RUS)": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 344976,
+      "file_name": "Witcher Horse Expansion - Detailed Carriages compability patch (RUS)-75512-1-0-1672426251.7z",
+      "mod_id": 75512,
+      "hash": "sha256-GLRIhkGGGDuLyhR2Uxf8V7VNck8+eNytfdznpL/YqSY="
+    }
+  },
+  "Remiel compability patch (RUS)": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 347169,
+      "file_name": "Witcher Horse Expansion - Remiel compability patch (RUS)-75512-1-0-1673000657.7z",
+      "mod_id": 75512,
+      "hash": "sha256-cSbhB/cIzZ2os0oCtMeqPRW8WYPsib3OoutEPtGVgDs="
+    }
+  },
+  "Mirai compability patch (RUS)": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 354544,
+      "file_name": "Witcher Horse Expansion - Mirai compability patch (RUS)-75512-1-0-1675074076.7z",
+      "mod_id": 75512,
+      "hash": "sha256-Y++k2UYGdlXm2TchfqbdcYiCMQdsHaj5sRwXMwpAn9k="
+    }
+  },
+  "Civil War Aftermath compability patch (RUS)": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 364899,
+      "file_name": "Witcher Horse Expansion - Civil War Aftermath compability patch (RUS)-75512-1-0-1677781556.7z",
+      "mod_id": 75512,
+      "hash": "sha256-9tsAvAvDRfNHOUuVq1Wxit6ikr/LUG2XN+QATiiNbn0="
+    }
+  },
+  "Immersive World Encounters compability patch (RUS)": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 364900,
+      "file_name": "Witcher Horse Expansion - Immersive World Encounters compability patch (RUS)-75512-1-0-1677781577.7z",
+      "mod_id": 75512,
+      "hash": "sha256-TyqX5jEGXY1WOBjJgWt1FhZ1LUkJbljnx060G//2Oxc="
+    }
+  },
+  "Witcher Horse Expansion - Populated Lands Roads Paths Reborn compability patch (RUS)": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 379663,
+      "file_name": "Witcher Horse Expansion - Populated Lands Roads Paths Reborn compability patch (RUS)-75512-1-0-1681833283.7z",
+      "mod_id": 75512,
+      "hash": "sha256-TMuN+r6xsiaE06EPNzMAGr0Fy9UAeoOmG/FR+nTAlrk="
+    }
+  },
+  "Witcher Horse Expansion - Populated Forts Towers Places Reborn compability patch (RUS)": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 379664,
+      "file_name": "Witcher Horse Expansion - Populated Forts Towers Places Reborn compability patch (RUS)-75512-1-0-1681833304.7z",
+      "mod_id": 75512,
+      "hash": "sha256-nbdr4pAeQ0Y430NyDmIsB3apgOQhGyb0rGfWUd6oOKM="
+    }
+  },
+  "Daegon compability patch (RUS)": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.18.5",
+      "file_id": 426537,
+      "file_name": "Daegon compability patch (RUS)-75512-1-18-5-1694931054.7z",
+      "mod_id": 75512,
+      "hash": "sha256-N7e4bfqWYuJZzSZDVyUj6NqJxZqrSJcaDad1u05iwhE="
+    }
+  },
+  "The Gray Cowl of Nocturnal compability patch (RUS)": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 392780,
+      "file_name": "The Gray Cowl of Nocturnal compability patch (RUS)-75512-1-0-1685298590.7z",
+      "mod_id": 75512,
+      "hash": "sha256-GkIzmuYxAeKCT9KxZTYnvHhr8wQ9RX4WDdp11ah2jEU="
+    }
+  },
+  "Riders of Whiterun compability patch (RUS)": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 392781,
+      "file_name": "Riders of Whiterun compability patch (RUS)-75512-1-0-1685298621.7z",
+      "mod_id": 75512,
+      "hash": "sha256-hliELwFkp/qFQBZ8CWSvfED5BkPef/sT2SetoRB3kC0="
+    }
+  },
+  "Aurlyn compability patch (RUS)": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 394690,
+      "file_name": "Aurlyn compability patch (RUS)-75512-1-0-1685817250.7z",
+      "mod_id": 75512,
+      "hash": "sha256-4dVeKxYH1nvFt6hTkhB1hvneBfE4uVy1X+1B/BLvzbA="
+    }
+  },
+  "Anna NPCs compability patch (RUS)": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 394692,
+      "file_name": "Anna NPCs compability patch (RUS)-75512-1-0-1685817277.7z",
+      "mod_id": 75512,
+      "hash": "sha256-pL81hg47s9wS+5ZQCn+hI+ICiUPWvJVZHok/3Uh3Ui8="
+    }
+  },
+  "Silverstead compability patch (RUS)": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 412240,
+      "file_name": "Silverstead compability patch (RUS)-75512-1-0-1690713032.7z",
+      "mod_id": 75512,
+      "hash": "sha256-BsDRcq8mfq888k1InEK5nmy3JRw2NhUH1dDVhKXcx+g="
+    }
+  },
+  "Nethers Follower Framework compability patch (RUS)": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 418488,
+      "file_name": "Nethers Follower Framework compability patch (RUS)-75512-1-0-1692441718.7z",
+      "mod_id": 75512,
+      "hash": "sha256-GroclxTPeXRjr7rizoR3jlVw4czagXjRY+DWjbhOBIU="
+    }
+  },
+  "Lydia Redefined compability patch (RUS)": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 426539,
+      "file_name": "Lydia Redefined compability patch (RUS)-75512-1-0-1694931116.7z",
+      "mod_id": 75512,
+      "hash": "sha256-VFo+u5nL92p8zm2B1VW30oCDXOWsucnwfK2jMVh/zrY="
+    }
+  },
+  "Hold Riders compability patch (RUS)": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 432230,
+      "file_name": "Hold Riders compability patch (RUS)-75512-1-0-1696764553.7z",
+      "mod_id": 75512,
+      "hash": "sha256-oGlVLuRWe4Yx/eVafONb/TUqsErwq9c/eheW6PrhVQM="
+    }
+  },
+  "Taliesin compability patch (RUS)": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.19.6",
+      "file_id": 445814,
+      "file_name": "Taliesin compability patch (RUS)-75512-1-19-6-1700895326.7z",
+      "mod_id": 75512,
+      "hash": "sha256-3suWVMs4t5ujihWkXaWqtoplepqWDoTwVp9Q3+qzKOw="
+    }
+  },
+  "Lyssia compability patch (RUS)": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 455538,
+      "file_name": "Lyssia compability patch (RUS)-75512-1-0-1703695645.7z",
+      "mod_id": 75512,
+      "hash": "sha256-fM9jHieA2HEEJFZZOl4fNieAdqVEZoxp7mGxcZGnFig="
+    }
+  },
+  "Skyfall Estate compability patch (RUS)": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 457672,
+      "file_name": "Skyfall Estate compability patch (RUS)-75512-1-0-1704358197.7z",
+      "mod_id": 75512,
+      "hash": "sha256-O8jUYktixyvSYRkSUc9RmLzN2K6sMq3DCupnnzSw3Yo="
+    }
+  },
+  "Horse Rider Patrols Hold compability patch (RUS)": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 463430,
+      "file_name": "Horse Rider Patrols Hold compability patch (RUS)-75512-1-0-1705826051.7z",
+      "mod_id": 75512,
+      "hash": "sha256-H1NWyfpn38JW0c+rYxqhDlEKdWyzF6hVgCWl8hXgqdM="
+    }
+  },
+  "Horse Rider Patrols Holds (No Creation Club) (RUS)": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 463431,
+      "file_name": "Horse Rider Patrols Holds (No Creation Club) (RUS)-75512-1-0-1705826154.7z",
+      "mod_id": 75512,
+      "hash": "sha256-/gd2/l50PpmImxJIxzBK2kucHkVKwxBb6ipmkb4ORVM="
+    }
+  },
+  "NPCs And Horses compability patch (RUS)": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 463432,
+      "file_name": "NPCs And Horses compability patch (RUS)-75512-1-0-1705826175.7z",
+      "mod_id": 75512,
+      "hash": "sha256-OkKmiqL6EufPnhZmUQNjh0gFjREj856Zz8Dwy5Bj600="
+    }
+  },
+  "Heljarchen Farm compability patch (RUS)": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 472090,
+      "file_name": "Heljarchen Farm compability patch (RUS)-75512-1-0-1708248830.7z",
+      "mod_id": 75512,
+      "hash": "sha256-6rlwUgxllwuLFkrEc0c5uTCpbGVb0jsiw8/oiSysMfc="
+    }
+  },
+  "Anaka compability patch (RUS)": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 475424,
+      "file_name": "Anaka compability patch (RUS)-75512-1-0-1709144989.7z",
+      "mod_id": 75512,
+      "hash": "sha256-T6mqlD5gCvoEt2uL1Xth7NIlgHypd4+U95qvacodDPw="
+    }
+  },
+  "Dragonstone compability patch (RUS)": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 534818,
+      "file_name": "Dragonstone compability patch (RUS)-75512-1-0-1724507720.7z",
+      "mod_id": 75512,
+      "hash": "sha256-SAqfpk7AuaoXsko2c/zygHc0u7q8md1a42yaBTObPy4="
+    }
+  },
+  "New Horses of Chanterelle compability patch (RUS)": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 534821,
+      "file_name": "New Horses of Chanterelle compability patch (RUS)-75512-1-0-1724507773.7z",
+      "mod_id": 75512,
+      "hash": "sha256-zNW43XE8zE9pokGf7/rm+QHwtN7j1ALnnhs9TSIciiY="
+    }
+  },
+  "Stendarr Rising compability patch (RUS)": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 544450,
+      "file_name": "Stendarr Rising compability patch (RUS)-75512-1-0-1726907504.7z",
+      "mod_id": 75512,
+      "hash": "sha256-VT9wHxYNVhjNxhMs9cwUT70+hb5WB1tZsWBra8he2y4="
+    }
+  },
+  "Witcher Horse Expansion patches (FOMOD ENG)": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.26.6",
+      "file_id": 544546,
+      "file_name": "Witcher Horse Expansion patches (FOMOD ENG)-75512-1-26-6-1726925934.7z",
+      "mod_id": 75512,
+      "hash": "sha256-mYhUJ6fAmwsp3uM4lP2i310nyiEE6mmyvJAkMbM46sY="
+    },
+    "type": "primary"
+  }
+}

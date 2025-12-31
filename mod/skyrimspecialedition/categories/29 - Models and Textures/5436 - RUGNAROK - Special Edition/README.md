@@ -2,6 +2,8 @@
 - Author: Gamwich
 - Game: skyrimspecialedition
 - Mod Page: https://www.nexusmods.com/skyrimspecialedition/mods/5436
+
+
 **RUGNAROK** is my attempt to do for rugs what my **[PELTAPALOOZA](http://www.nexusmods.com/skyrimspecialedition/mods/5442/)** mod did for pelts. Rugs aren't merely clutter items in Skyrim, despite their classification. They also serve as artwork in the game, and in some locations such as Dragonsreach, they have a very large visual presence.
   
    

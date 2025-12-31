@@ -1,0 +1,55 @@
+{
+  "WHorns-1K": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 226385,
+      "file_name": "WHorns-1K-54531-1-0-1630868441.7z",
+      "mod_id": 54531,
+      "hash": "sha256-bMe1Et1Hf6Ygif5GZulCR1i2e5Zy/fni+nvC6dFlRNg="
+    },
+    "type": "primary"
+  },
+  "WHorns-2K": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 226386,
+      "file_name": "WHorns-2K-54531-1-0-1630868538.7z",
+      "mod_id": 54531,
+      "hash": "sha256-+OK5Kr4fU+QoVM3Jya9sp5RI4+Y+kxbbfTojc/HaSpw="
+    },
+    "type": "primary"
+  },
+  "WHorns-4K": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 226387,
+      "file_name": "WHorns-4K-54531-1-0-1630868793.7z",
+      "mod_id": 54531,
+      "hash": "sha256-5kbdHITdad/kzlHAjLOrBJadMa1WvXUNdiGWCiWShZU="
+    },
+    "type": "primary"
+  },
+  "WHorns- Nocrafting Esp": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 226388,
+      "file_name": "WHorns- Nocrafting Esp-54531-1-0-1630868829.7z",
+      "mod_id": 54531,
+      "hash": "sha256-UwrEMK2cQ1mISDY+JfZb318WMsifMHkSasP9g7KdXqg="
+    }
+  },
+  "WHorns- Nocrafting Espfe": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 226389,
+      "file_name": "WHorns- Nocrafting Espfe-54531-1-0-1630868850.7z",
+      "mod_id": 54531,
+      "hash": "sha256-OFRRRAKnaxVPA7/ba7V9Z+0C9kO/1cElRJYjT6RJASM="
+    }
+  }
+}

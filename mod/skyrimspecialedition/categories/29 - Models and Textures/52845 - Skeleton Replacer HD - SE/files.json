@@ -1,0 +1,86 @@
+{
+  "Skeleton Replacer HD 4K SE": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1",
+      "file_id": 217701,
+      "file_name": "Skeleton Replacer HD 4K SE-52845-1-1-1627666043.7z",
+      "mod_id": 52845,
+      "hash": "sha256-v2zEPmnXYgp/Hx+m8mF4z4aSnPaPt6hqtsQBOb9K6mM="
+    },
+    "type": "primary"
+  },
+  "Skeleton Replacer HD 2K SE": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1",
+      "file_id": 217702,
+      "file_name": "Skeleton Replacer HD 2K SE-52845-1-1-1627666084.7z",
+      "mod_id": 52845,
+      "hash": "sha256-Eb7YkEK/lgwZHFx9kFX5RZIaxDIV12//eZZkbgs/EwM="
+    },
+    "type": "primary"
+  },
+  "Skeleton Replacer HD 1K SE": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1",
+      "file_id": 217703,
+      "file_name": "Skeleton Replacer HD 1K SE-52845-1-1-1627666117.7z",
+      "mod_id": 52845,
+      "hash": "sha256-py0dRL0icyVPWztIUfoTfMqkmBgb+OBI+kpz8HTc4TI="
+    },
+    "type": "primary"
+  },
+  "Skeleton Replacer HD 8K SE": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1",
+      "file_id": 217704,
+      "file_name": "Skeleton Replacer HD 8K SE-52845-1-1-1627666381.7z",
+      "mod_id": 52845,
+      "hash": "sha256-myVOAgcoKxSUZJLejM/nstNsnvDffBcejS8etgV+iTY="
+    },
+    "type": "primary"
+  },
+  "Skeleton Replacer HD 1K SE - Desaturated": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1",
+      "file_id": 217705,
+      "file_name": "Skeleton Replacer HD 1K SE - Desaturated-52845-1-1-1627666513.7z",
+      "mod_id": 52845,
+      "hash": "sha256-v9uHHU2v6lr90Hs6cfyyU7Dihd/TjGTteuAn+RjQnxE="
+    }
+  },
+  "Skeleton Replacer HD 2K SE - Desaturated": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1",
+      "file_id": 217706,
+      "file_name": "Skeleton Replacer HD 2K SE - Desaturated-52845-1-1-1627666586.7z",
+      "mod_id": 52845,
+      "hash": "sha256-KozPtUQATGUPqJhPeZgLavO/qr4F7pO/UJadZ5uKyUQ="
+    }
+  },
+  "Skeleton Replacer HD 4K SE - Desaturated": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1",
+      "file_id": 217707,
+      "file_name": "Skeleton Replacer HD 4K SE - Desaturated-52845-1-1-1627666615.7z",
+      "mod_id": 52845,
+      "hash": "sha256-riAGRow7BQ5PKB56VDm6Ne3zXfC+kEczHMjl0fESu/c="
+    }
+  },
+  "Skeleton Replacer HD 8K SE - Desaturated": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1",
+      "file_id": 217709,
+      "file_name": "Skeleton Replacer HD 8K SE - Desaturated-52845-1-1-1627666712.7z",
+      "mod_id": 52845,
+      "hash": "sha256-dD2uANcUBgjNSy53WR7cE/iBku27zjp2ElkJw010EBY="
+    }
+  }
+}

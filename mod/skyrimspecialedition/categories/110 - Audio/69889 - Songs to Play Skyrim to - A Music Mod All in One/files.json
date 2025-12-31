@@ -1,0 +1,24 @@
+{
+  "Songs to Play Skyrim to 1.1": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1",
+      "file_id": 300692,
+      "file_name": "Songs to Play Skyrim to 1.1-69889-1-1-1658349307.rar",
+      "mod_id": 69889,
+      "hash": "sha256-tjQoMo8vzoS1hnQcYu4h0XqZN3O0tGQFo40lE2b0jhE="
+    },
+    "type": "primary"
+  },
+  "Songs to Play Skyrim 1.1 ESPFE": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1",
+      "file_id": 301022,
+      "file_name": "Songs to Play Skyrim 1.1 ESPFE-69889-1-1-1658456047.rar",
+      "mod_id": 69889,
+      "hash": "sha256-MrSmi9r+7TPIRYl6ZJKWPnEfNgm8hqwlC5LFeuQJYIg="
+    },
+    "type": "primary"
+  }
+}

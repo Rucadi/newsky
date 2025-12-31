@@ -1,0 +1,55 @@
+{
+  "Useful Elder Scrolls SE 1K": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 208798,
+      "file_name": "Useful Elder Scrolls SE 1K-51115-1-0-1623522613.7z",
+      "mod_id": 51115,
+      "hash": "sha256-zZZWqReg8VxXmsh4Leh+2nkB41WnF/r0mLQSWkvLAz4="
+    },
+    "type": "primary"
+  },
+  "Useful Elder Scrolls SE 2K": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 208799,
+      "file_name": "Useful Elder Scrolls SE 2K-51115-1-0-1623522628.7z",
+      "mod_id": 51115,
+      "hash": "sha256-yj9qTUcvEvSMHgGBA092TFIsS5ZlDxlmO+XHHqm372Y="
+    },
+    "type": "primary"
+  },
+  "Useful Elder Scrolls SE 4K": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 208800,
+      "file_name": "Useful Elder Scrolls SE 4K-51115-1-0-1623522642.7z",
+      "mod_id": 51115,
+      "hash": "sha256-zyyEJnLi3vCrNe884E1ZP/qufJbNVMJVQ6goJNRtG1I="
+    },
+    "type": "primary"
+  },
+  "UES Form 44 Plugin": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 208891,
+      "file_name": "UES Form 44 Plugin-51115-1-0-1623575343.7z",
+      "mod_id": 51115,
+      "hash": "sha256-qXCHFwKXenUNcX7jDU4tW+bJY+gAk6DOXUlFy5TNKEw="
+    }
+  },
+  "UES ESPFE Plugin": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 208892,
+      "file_name": "UES ESPFE Plugin-51115-1-0-1623575367.7z",
+      "mod_id": 51115,
+      "hash": "sha256-tTlNM+mucAeu3yve/c9jc1DeQGN/hYTrNQCDBSwriSs="
+    }
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "BFCO ER Mixed Scythe": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1BFCO",
+      "file_id": 568268,
+      "file_name": "BFCO ER Mixed Scythe-76480-1-1BFCO-1733146229.rar",
+      "mod_id": 76480,
+      "hash": "sha256-ElmvsN0hF+ZZFIpG+DC8DIbDkro5OtlucxoHSlPAy+k="
+    },
+    "type": "primary"
+  },
+  "mixed scythe(scar)": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 579927,
+      "file_name": "mixed scythe(scar)-76480-1-0-1736159124.rar",
+      "mod_id": 76480,
+      "hash": "sha256-xGli6JCdinBjpOwxT+KSQETkAmzbsu2uUYnG8mw0jBw="
+    },
+    "type": "primary"
+  }
+}

@@ -1,0 +1,101 @@
+{
+  "01 - Orc Brow Horns Retexture": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 291614,
+      "file_name": "Orc Brow Horns Texture Replacement-69773-1-0-1655418868.7z",
+      "mod_id": 69773,
+      "hash": "sha256-127tUT2tEXoUspccuXnbCbdIwCyArK2X53/Qe+HF3eY="
+    },
+    "type": "primary"
+  },
+  "02 - Orc Brow Horns as Scars": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 291616,
+      "file_name": "Orc Brow Horns as Scars-69773-1-0-1655419003.7z",
+      "mod_id": 69773,
+      "hash": "sha256-jZA9Uek94qAPqTgQn8Wrtec2m7YRdycOCWffuxDW1+s="
+    },
+    "type": "primary"
+  },
+  "01 - Orc Brow Horns Retexture - Slightly Darker": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 291777,
+      "file_name": "Orc Brow Horns Texture Replacement - Slightly Darker-69773-1-0-1655470461.7z",
+      "mod_id": 69773,
+      "hash": "sha256-AOcAIXKECEKAxcX2YmMUW+eUgRD/fs311fsSZqU2MmA="
+    },
+    "type": "primary"
+  },
+  "Orc Brow Horns as Scars - for Orc Horns Extra": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 291913,
+      "file_name": "Orc Brow Horns as Scars - for Orc Horns Extra-69773-1-0-1655515069.7z",
+      "mod_id": 69773,
+      "hash": "sha256-1cJHDIA4Lk0UkwIyZX6zZqYqIqPOscCi3Lf3NXNR+tU="
+    },
+    "type": "primary"
+  },
+  "02 - Orc Brow Horns as Scars - for High Poly Heads": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1",
+      "file_id": 294365,
+      "file_name": "Orc Brow Horns as Scars - for High Poly Heads-69773-1-1-1656292889.7z",
+      "mod_id": 69773,
+      "hash": "sha256-zWpJCxEtbHQJyuwiOxFdxbjUqAftRNREVH6S4LNp7ZI="
+    },
+    "type": "primary"
+  },
+  "0 - Orc Brow Horns Don't Change Color": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1",
+      "file_id": 323208,
+      "file_name": "Orc Brow Horns Don't Change Color-69773-1-1-1665453366.7z",
+      "mod_id": 69773,
+      "hash": "sha256-m8H8ovKchPAowl4zkIAbHZpi8fFyw/XZJ+3uuxYRsF0="
+    },
+    "type": "primary"
+  },
+  "Orc Brow Horns Don't Change Color - for Orc Horns Extra Addon": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1",
+      "file_id": 323209,
+      "file_name": "Orc Brow Horns Don't Change Color - for Orc Horns Extra Addon-69773-1-1-1665453418.7z",
+      "mod_id": 69773,
+      "hash": "sha256-h3RMEJ6liK+OeubSnSnZfLZdkim/9WpF7Pm7j/0srSU="
+    },
+    "type": "primary"
+  },
+  "01 - Orc Brow Horns Retexture - 1k": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 333642,
+      "file_name": "Orc Brow Horns Texture Replacement - 1k-69773-1-0-1669085475.7z",
+      "mod_id": 69773,
+      "hash": "sha256-bob/2qhuW0xg1cp2cyNW/I0+a7/PLqAlfSYicXrbLRc="
+    },
+    "type": "primary"
+  },
+  "0 - Orc Brow Horns Don't Change Color - HPH": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1",
+      "file_id": 643404,
+      "file_name": "Orc Brow Horns Don't Change Color - HPH-69773-1-1-1751422326.7z",
+      "mod_id": 69773,
+      "hash": "sha256-PBGianQoJr4wVbRfiWadpHfsCMQQCQCvSbzHbt6X6eY="
+    },
+    "type": "primary"
+  }
+}

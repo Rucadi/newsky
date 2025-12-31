@@ -1,0 +1,41 @@
+{
+  "Ultralite Tundra Grass on Steroids": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "15.2",
+      "file_id": 499556,
+      "file_name": "Ultralite Tundra Grass on Steroids-80687-15-2-1715289249.zip",
+      "mod_id": 80687,
+      "hash": "sha256-twJKpo+wMHcdj1csNsdYIQxdhN752jVWcKnV7wqk9yI="
+    }
+  },
+  "Cathedral - 3D Landscapes": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "16.41",
+      "file_id": 556604,
+      "file_name": "Cathedral - 3D Landscapes-80687-16-41-1730160308.zip",
+      "mod_id": 80687
+    },
+    "type": "primary"
+  },
+  "Cathedral - 3D Grass Library - Resource Textures": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "16.51",
+      "file_id": 591954,
+      "file_name": "Cathedral - 3D Grass Library - Resource Textures-80687-16-51-1738912342.zip",
+      "mod_id": 80687
+    }
+  },
+  "DrJacopo's - 3D Grass Library - Meshes": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "16.53",
+      "file_id": 689307,
+      "file_name": "DrJacopo's - 3D Grass Library - Meshes-80687-16-53-1763626250.zip",
+      "mod_id": 80687
+    },
+    "type": "primary"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "Honorhall Orphanage Framework Example Script": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.00",
+      "file_id": 281136,
+      "file_name": "Honorhall Orphanage Framework Example Script-66955-1-00-1651510932.zip",
+      "mod_id": 66955,
+      "hash": "sha256-L+QxXxId25aGPldH9iGwmZVVzTd8J6T4Mn5SaCwymCw="
+    }
+  },
+  "Mixwater - A Home for Orphans": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.03",
+      "file_id": 283546,
+      "file_name": "Mixwater - A Home for Orphans-66955-1-03-1652498750.zip",
+      "mod_id": 66955,
+      "hash": "sha256-1ZrAwGuHz5zmytWcxCfqu1ShcDkDsK8nvU4fzBtIgGA="
+    }
+  },
+  "Honorhall Orphanage Bugfixes and Expansion": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "2.03",
+      "file_id": 432514,
+      "file_name": "Honorhall Orphanage Bugfixes and Expansion-66955-2-03-1696828926.zip",
+      "mod_id": 66955,
+      "hash": "sha256-ApPdPsen+eva+Z6MZ+aVBM25W0Pg0e7YalXRq9mNTwY="
+    },
+    "type": "primary"
+  }
+}

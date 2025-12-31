@@ -1,0 +1,64 @@
+{
+  "flash_script_gs13": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "A",
+      "file_id": 364507,
+      "file_name": "flash_script_gs13-79483-A-1677682866.rar",
+      "mod_id": 79483,
+      "hash": "sha256-dv8zxnDrw+mDGjKH9EfnRmdfdI3r/n20badoEslIBz8="
+    }
+  },
+  "flash_script_gs16": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "A",
+      "file_id": 364508,
+      "file_name": "flash_script_gs16-79483-A-1677682896.rar",
+      "mod_id": 79483,
+      "hash": "sha256-lk6JA1/4fu9oTeLWA6sqF7ob70808FUgzAhuEcK4M3k="
+    }
+  },
+  "flash_script_gs20": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "A",
+      "file_id": 364509,
+      "file_name": "flash_script_gs20-79483-A-1677682926.rar",
+      "mod_id": 79483,
+      "hash": "sha256-t79d6t1MEu8EU7pRNNd/ObWouzDOfCM6ER/+Xo5lZYU="
+    }
+  },
+  "flash_script_RHZ": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "A",
+      "file_id": 364510,
+      "file_name": "flash_script_RHZ-79483-A-1677682974.rar",
+      "mod_id": 79483,
+      "hash": "sha256-dNRVmIQD0Nkqa8M0Ed6/r0ayAz0D+Dx61jtJQBrdOwQ="
+    }
+  },
+  "shadowman14_grelkaSL": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "2.01",
+      "file_id": 478036,
+      "file_name": "shadowman14_grelkaSL-79483-2-01-1709847352.rar",
+      "mod_id": 79483,
+      "hash": "sha256-zWGGVSZizO7W5Z/8joGN0nHlFNPFqAgNZmw9RnH+5qQ="
+    },
+    "type": "primary"
+  },
+  "shadowman_grelka14_FG": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "2.01",
+      "file_id": 478037,
+      "file_name": "shadowman_grelka14_FG-79483-2-01-1709847374.rar",
+      "mod_id": 79483,
+      "hash": "sha256-fA44EbCM5sd9x3OuL0LP/AzjQbKEpixxmlGdHh8bL7M="
+    },
+    "type": "primary"
+  }
+}

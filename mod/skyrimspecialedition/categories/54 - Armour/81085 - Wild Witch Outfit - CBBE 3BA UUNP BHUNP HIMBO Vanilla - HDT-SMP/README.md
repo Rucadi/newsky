@@ -2,6 +2,8 @@
 - Author: Kreiste - wSkeever - tatururutia
 - Game: skyrimspecialedition
 - Mod Page: https://www.nexusmods.com/skyrimspecialedition/mods/81085
+
+
 [Kreiste's Ko-fi](https://ko-fi.com/kreiste) | [wSkeever's Patreon](https://www.patreon.com/wSkeever) | [tatururutia's Patreon](https://www.patreon.com/tatururutia)
 
   

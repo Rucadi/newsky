@@ -1,0 +1,39 @@
+{
+  "No Thieves Guild Grind Fixed 1": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 342598,
+      "file_name": "No Thieves Guild Grind Fixed 1-81130-1-0-1671656717.zip",
+      "mod_id": 81130
+    },
+    "type": "primary"
+  },
+  "No Thieves Guild Grind Fixed 2": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 342599,
+      "file_name": "No Thieves Guild Grind Fixed 2-81130-1-0-1671656759.zip",
+      "mod_id": 81130
+    }
+  },
+  "No Thieves Guild Grind Fixed 3": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 342600,
+      "file_name": "No Thieves Guild Grind Fixed 3-81130-1-0-1671656804.zip",
+      "mod_id": 81130
+    }
+  },
+  "No Thieves Guild Grind Fixed 4": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 342601,
+      "file_name": "No Thieves Guild Grind Fixed 4-81130-1-0-1671656840.zip",
+      "mod_id": 81130
+    }
+  }
+}

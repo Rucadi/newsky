@@ -2,6 +2,8 @@
 - Author: Maughlin the Armorer
 - Game: skyrimspecialedition
 - Mod Page: https://www.nexusmods.com/skyrimspecialedition/mods/62871
+
+
 Armor forged from metal mined at the edge of the world. 
   
 Light and durable, they faithfully served the retired falconer.

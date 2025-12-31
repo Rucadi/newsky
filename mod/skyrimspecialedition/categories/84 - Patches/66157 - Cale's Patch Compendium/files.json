@@ -1,0 +1,354 @@
+{
+  "Riverwood Trader Is A Mess - Silence is Golden Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 301056,
+      "file_name": "Riverwood Trader Is A Mess - Silence is Golden Patch-66157-1-0-1658471116.7z",
+      "mod_id": 66157,
+      "hash": "sha256-/QnKjqEB6Dw9qe+9F4eFSAbUzpWohntGefNDFdQgZqo="
+    },
+    "type": "primary"
+  },
+  "Become A Whiterun Guard - GAR Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0.1",
+      "file_id": 301067,
+      "file_name": "Become A Whiterun Guard - GAR Patch-66157-1-0-1-1658475971.7z",
+      "mod_id": 66157,
+      "hash": "sha256-Ycr+atPb9C9pf/xNPL+Ik2rJaxSjZslKoBmdU/yFnMs="
+    },
+    "type": "primary"
+  },
+  "The Stone of Snow-Throat - Hidden Map Marker": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 306351,
+      "file_name": "The Stone of Snow-Throat - Hidden Map Marker-66157-1-0-1660148081.7z",
+      "mod_id": 66157,
+      "hash": "sha256-fwmxWyTNh3beDiXuJkfgangnqpAWuH5WSLl2hiI31Jw="
+    },
+    "type": "primary"
+  },
+  "Blood and Silver - Cidhna Mine Expansion - Vanilla Hair": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 307398,
+      "file_name": "Blood and Silver - Cidhna Mine Expansion - Vanilla Hair-66157-1-0-1660469783.7z",
+      "mod_id": 66157,
+      "hash": "sha256-818VvOT+yHU9dSf20Vvij19du2OIsB4U//Es3qcMZBQ="
+    },
+    "type": "primary"
+  },
+  "Draconic Legion Fixed": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 307668,
+      "file_name": "Draconic Legion Fixed-66157-1-0-1660552040.7z",
+      "mod_id": 66157,
+      "hash": "sha256-gZnAna8JRldpRjUU+xZM+18T37Y2KZxFPPJy6Sy0dOg="
+    },
+    "type": "primary"
+  },
+  "The Temple of Black Rock - Hidden Map Marker": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 307881,
+      "file_name": "The Temple of Black Rock - Hidden Map Marker-66157-1-0-1660617807.7z",
+      "mod_id": 66157,
+      "hash": "sha256-6KzxPZNU1iMb+LBI9GbDgrFeI6ef8YUGoQS5cVfgR4Q="
+    },
+    "type": "primary"
+  },
+  "The Secret of Dragonhead - Hidden Map Marker": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 307882,
+      "file_name": "The Secret of Dragonhead - Hidden Map Marker-66157-1-0-1660617834.7z",
+      "mod_id": 66157,
+      "hash": "sha256-v79JysJI2c5FC26IQZ5+7oPyAwS3sHiP0GqojD6xq0w="
+    },
+    "type": "primary"
+  },
+  "The Midden Expanded - Hidden Map Marker": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 307914,
+      "file_name": "The Midden Expanded - Hidden Map Marker-66157-1-0-1660629767.7z",
+      "mod_id": 66157,
+      "hash": "sha256-o/YcQOq0TBkPFlwshK5RBVevBvZGaRTKktgw1V7h60w="
+    },
+    "type": "primary"
+  },
+  "The Midden Expanded Lite - Hidden Map Marker": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 307915,
+      "file_name": "The Midden Expanded Lite - Hidden Map Marker-66157-1-0-1660629799.7z",
+      "mod_id": 66157,
+      "hash": "sha256-ZcanpbAfUzVe22NNkv2yNbsZYdgXHstjsZ1KQ0KBp4k="
+    },
+    "type": "primary"
+  },
+  "Solstheim Lighthouse Interior Fixes": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 316671,
+      "file_name": "Solstheim Lighthouse Interior Fixes-66157-1-0-1663363482.7z",
+      "mod_id": 66157,
+      "hash": "sha256-vtri65iQVRUAVP9DrqmMMfWEO4zLdgcfbwbABkloRe8="
+    },
+    "type": "primary"
+  },
+  "Balthazars Books - AI Overhaul Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0.3",
+      "file_id": 318210,
+      "file_name": "Balthazars Books - AI Overhaul Patch-66157-1-0-3-1663728763.7z",
+      "mod_id": 66157,
+      "hash": "sha256-Zhs93T5SEMAaIabo1KUTQkF9IqX2G4TQDIUa3Tv4K8o="
+    },
+    "type": "primary"
+  },
+  "Kruziik Missing Textures Fix": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 355623,
+      "file_name": "Kruziik Missing Textures Fix-66157-1-0-1675374413.zip",
+      "mod_id": 66157,
+      "hash": "sha256-2uOPdLuzbrpM4DDZu0OwN54Ug4A2wKWawx4bzoz93Vw="
+    },
+    "type": "primary"
+  },
+  "Rodryk's Dragon Bridge - Great Cities Patch - Edit": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 394885,
+      "file_name": "Rodryk's Dragon Bridge - Great Cities Patch - cale-66157-1-0-1685864818.zip",
+      "mod_id": 66157,
+      "hash": "sha256-cdxuR+weiUN3q4qlmYB5P2cjhClmxY055Bu0V8rSWdM="
+    },
+    "type": "primary"
+  },
+  "Assorted Mesh Fixes - Improved Dwemer Glass Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 395604,
+      "file_name": "Assorted Mesh Fixes - Improved Dwemer Glass Patch-66157-1-0-1686076752.zip",
+      "mod_id": 66157,
+      "hash": "sha256-+N9phzhtqUXAsjhdhBrucs35PrSXv1l4bfS+g66+dfM="
+    },
+    "type": "primary"
+  },
+  "Caryalind Thallery - Delayed": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 417668,
+      "file_name": "Caryalind Thallery - Delayed-66157-1-0-1692203140.7z",
+      "mod_id": 66157,
+      "hash": "sha256-ZfT6/yla5FYejIv4brOTJkEt1dvyuAQalgUNKNpcOZ0="
+    },
+    "type": "primary"
+  },
+  "JK's and Redbag's Dragonsreach Patch - Edit": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 420223,
+      "file_name": "JK's and Redbag's Dragonsreach Patch - Edit-66157-1-0-1692925946.zip",
+      "mod_id": 66157,
+      "hash": "sha256-bDBYud/lqWtFDwFSPxcrdck9SuTaaTCsTzEA73DqMVE="
+    },
+    "type": "primary"
+  },
+  "Irileth In Chitin - SPID": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 421036,
+      "file_name": "Irileth In Chitin - SPID-66157-1-0-1693112566.zip",
+      "mod_id": 66157,
+      "hash": "sha256-3Tv+wU0N7LsJ8r86zCEih5G948cZIGLxVvlldszyXTw="
+    },
+    "type": "primary"
+  },
+  "Simple Tolls - LotD Addon": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 424747,
+      "file_name": "Simple Tolls - LotD Addon-66157-1-0-1694365593.zip",
+      "mod_id": 66157,
+      "hash": "sha256-gdqWU9ol6tJErhoHlebXbh6cm8Qyt+CXgPW6CaDypaQ="
+    },
+    "type": "primary"
+  },
+  "The city of Bromjunaar - Hidden Map Marker": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 565909,
+      "file_name": "The city of Bromjunaar - Hidden Map Marker-66157-1-0-1732538792.zip",
+      "mod_id": 66157,
+      "hash": "sha256-eyg217KaztF1YBskTM9PfO8psUZxdttHiSPaVbQ/bQ4="
+    },
+    "type": "primary"
+  },
+  "Become A Whiterun Guard - Sons of Skyrim Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0.8",
+      "file_id": 565925,
+      "file_name": "Become A Whiterun Guard - Sons of Skyrim Patch-66157-1-0-8-1732541731.zip",
+      "mod_id": 66157,
+      "hash": "sha256-E6HW8i+cdrWjVVc3NKMJSJ2w2kytkKfzFwAsVAdw/lo="
+    },
+    "type": "primary"
+  },
+  "The DoubtSuspended Quest Pack - Myrwatch Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0.9",
+      "file_id": 565941,
+      "file_name": "The DoubtSuspended Quest Pack - Myrwatch Patch-66157-1-0-9-1732546122.zip",
+      "mod_id": 66157,
+      "hash": "sha256-gwz5ThT0q2WTI0rsIEQ2zr6xqcIlvlSKGzVQYULVXoM="
+    },
+    "type": "primary"
+  },
+  "Faithful Faces - Become A Whiterun Guard": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 627320,
+      "file_name": "Faithful Faces - Become A Whiterun Guard-66157-1-0-1747304384.zip",
+      "mod_id": 66157,
+      "hash": "sha256-1RJ/D1/wWeG8mRtnY+5vFYmEU+IQTvUHzpick2y909c="
+    },
+    "type": "primary"
+  },
+  "Faithful Faces - Better Courier": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 627321,
+      "file_name": "Faithful Faces - Better Courier-66157-1-0-1747304443.zip",
+      "mod_id": 66157,
+      "hash": "sha256-aBUn5QUCHa3bTbsNBa+XArEp25NVQWimVTvQZ9RuBq4="
+    },
+    "type": "primary"
+  },
+  "Faithful Faces - Bees' Extra NPCs": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 627323,
+      "file_name": "Faithful Faces - Bees' Extra NPCs-66157-1-0-1747304501.zip",
+      "mod_id": 66157,
+      "hash": "sha256-JHx/Ay6Ei5triOW/yVAoOQLccxe/YgWTe2ZqAoio/hk="
+    },
+    "type": "primary"
+  },
+  "Faithful Faces - New Guard Recruits": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 627324,
+      "file_name": "Faithful Faces - New Guard Recruits-66157-1-0-1747304810.zip",
+      "mod_id": 66157,
+      "hash": "sha256-YEbAk7Mcu7WEtB1xCHyffIV3YzQriYOLOqa7SvnSDrw="
+    },
+    "type": "primary"
+  },
+  "Lollygaggin' - Less Helmets": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 627347,
+      "file_name": "Lollygaggin' - Less Helmets-66157-1-0-1747309895.zip",
+      "mod_id": 66157,
+      "hash": "sha256-7uTH/aE+kidrCoq23/6SowWnj9iBOL+mR5NI5FrFDc4="
+    },
+    "type": "primary"
+  },
+  "Faithful Faces - Granite Hill": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 633742,
+      "file_name": "Faithful Faces - Granite Hill-66157-1-0-1748821689.zip",
+      "mod_id": 66157,
+      "hash": "sha256-Xg5Db8REP0alq4bwfcUFrAqynIZ4K6KKP6CzEdoabf0="
+    },
+    "type": "primary"
+  },
+  "Faithful Faces - Cut Content Restoration": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 633743,
+      "file_name": "Faithful Faces - Cut Content Restoration-66157-1-0-1748821720.zip",
+      "mod_id": 66157,
+      "hash": "sha256-C0dQKaFEUA5odh2IoSh8B6sRNUAmvfBvVIk+MN5Y6NU="
+    },
+    "type": "primary"
+  },
+  "Become A Whiterun Guard - Lollygaggin Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 633744,
+      "file_name": "Become A Whiterun Guard - Lollygaggin Patch-66157-1-0-1748822066.zip",
+      "mod_id": 66157,
+      "hash": "sha256-Il/4od0DHshFbBEZQ24BAs4tY7BD88ZFtaXLzef7s6c="
+    },
+    "type": "primary"
+  },
+  "Faithful Faces - Morrowind Mint": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 635467,
+      "file_name": "Faithful Faces - Morrowind Mint-66157-1-0-1749276317.zip",
+      "mod_id": 66157,
+      "hash": "sha256-iv0MK5s0GzDyf6HxXaAVZDYlbhxXAYjGUS+fG+oeecY="
+    },
+    "type": "primary"
+  },
+  "Faithful Faces - Skyrim Silver": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 635468,
+      "file_name": "Faithful Faces - Skyrim Silver-66157-1-0-1749276342.zip",
+      "mod_id": 66157,
+      "hash": "sha256-+zuJAKVOlep3crp04sTQ29xLY/90++jCEX/BYcbAet0="
+    },
+    "type": "primary"
+  },
+  "Faithful Faces - Grand Solitude": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 663127,
+      "file_name": "Faithful Faces - Grand Solitude-66157-1-0-1757218503.zip",
+      "mod_id": 66157,
+      "hash": "sha256-th8WJvtHBBG//IRBZT7BOcYPzUdszIZAfoO/XAOjUDo="
+    },
+    "type": "primary"
+  }
+}

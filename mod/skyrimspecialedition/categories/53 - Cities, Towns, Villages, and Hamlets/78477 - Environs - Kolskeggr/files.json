@@ -1,23 +1,23 @@
 {
-    "Environs - Kolskeggr": {
-        "nexusmods": {
-            "game_name": "skyrimspecialedition",
-            "version": "3.03",
-            "file_id": 528100,
-            "file_name": "Environs - Kolskeggr-78477-3-03-1722760456.7z",
-            "mod_id": 78477,
-            "hash": "sha256-09JRH1s9CNYblLd8aRSJkO1BpxC4s4fADXSHUHY4q74="
-        },
-        "type": "primary"
+  "Environs - Kolskeggr": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "3.03",
+      "file_id": 528100,
+      "file_name": "Environs - Kolskeggr-78477-3-03-1722760456.7z",
+      "mod_id": 78477,
+      "hash": "sha256-09JRH1s9CNYblLd8aRSJkO1BpxC4s4fADXSHUHY4q74="
     },
-    "Environs - Kolskeggr - Patch Collection": {
-        "nexusmods": {
-            "game_name": "skyrimspecialedition",
-            "version": "3.02",
-            "file_id": 528102,
-            "file_name": "Environs - Kolskeggr - Patch Collection-78477-3-02-1722760506.7z",
-            "mod_id": 78477,
-            "hash": "sha256-df6rs6VzhOe6QvvSRrDav6MIjMXj/YO6XaEbwvRpNxM="
-        }
+    "type": "primary"
+  },
+  "Environs - Kolskeggr - Patch Collection": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "3.02",
+      "file_id": 528102,
+      "file_name": "Environs - Kolskeggr - Patch Collection-78477-3-02-1722760506.7z",
+      "mod_id": 78477,
+      "hash": "sha256-df6rs6VzhOe6QvvSRrDav6MIjMXj/YO6XaEbwvRpNxM="
     }
+  }
 }

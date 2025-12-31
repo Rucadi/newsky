@@ -1,13 +1,13 @@
 {
-    "Papyrus Tweaks 4.1.1": {
-        "nexusmods": {
-            "game_name": "skyrimspecialedition",
-            "version": "4.1.1",
-            "file_id": 678973,
-            "file_name": "Papyrus Tweaks 4.1.1-77779-4-1-1-1761101872.rar",
-            "mod_id": 77779,
-            "hash": "sha256-C/dIIqvj9aw7OC2qMxXBBNPVr1Wq2dyj9wuukCk3EbU="
-        },
-        "type": "primary"
-    }
+  "Papyrus Tweaks 4.1.1": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "4.1.1",
+      "file_id": 678973,
+      "file_name": "Papyrus Tweaks 4.1.1-77779-4-1-1-1761101872.rar",
+      "mod_id": 77779,
+      "hash": "sha256-C/dIIqvj9aw7OC2qMxXBBNPVr1Wq2dyj9wuukCk3EbU="
+    },
+    "type": "primary"
+  }
 }

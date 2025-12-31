@@ -1,0 +1,35 @@
+{
+  "Vanilla Wolf Texture Upscaled 8k": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1",
+      "file_id": 324112,
+      "file_name": "Vanilla Wolf Texture Upscaled-77132-1-0-1665797776.rar",
+      "mod_id": 77132,
+      "hash": "sha256-HFaEZ2SZuosjRoIBcrC6a0ZVn5AKnfSETitZKNMSleg="
+    },
+    "type": "primary"
+  },
+  "Vanilla Wolf Texture Upscaled 2k": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1",
+      "file_id": 484763,
+      "file_name": "Vanilla Wolf Texture Upscaled 2k-77132-1-1711586438.rar",
+      "mod_id": 77132,
+      "hash": "sha256-Xkeh02ayZONtnxOJCnGdbOZr3HFfAAq8L4k8VDSEKZU="
+    },
+    "type": "primary"
+  },
+  "Vanilla Wolf Texture Upscaled 4k": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1",
+      "file_id": 484765,
+      "file_name": "Vanilla Wolf Texture Upscaled 4k-77132-1-1711586969.rar",
+      "mod_id": 77132,
+      "hash": "sha256-qTHknjxSmMP+Nf5nefqlU/NQPbdnLNxfwGiGa9L0TUg="
+    },
+    "type": "primary"
+  }
+}

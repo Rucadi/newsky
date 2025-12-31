@@ -2,6 +2,8 @@
 - Author: V-Holder aka mistaabushido
 - Game: skyrimspecialedition
 - Mod Page: https://www.nexusmods.com/skyrimspecialedition/mods/65377
+
+
 Everyone who uses any mod-added weapons with custom types is likely using [SkyUI Weapons Pack](https://www.nexusmods.com/skyrimspecialedition/mods/37231) by Ashingda by now. As cool as it is, it usually has the side effect of having to either know which perks each weapon type uses by memory or refer to the mod's description, since few of these weapon mods are accompanied by perks, using instead the same perks as one of the vanilla weapon types, which only refer to said vanilla weapon type in their descriptions. This patch neatly integrates my favorite custom weapon mod, [Animated Armoury](https://www.nexusmods.com/skyrimspecialedition/mods/35978) by NickaNak, with my favorite perk mod, EnaiSiaion's [Ordinator](https://www.nexusmods.com/skyrimspecialedition/mods/1137) and its perk descriptions. **ESL-flagged!****This is strictly a UI consistency patch!** Animated Armoury is fully compatible with Ordinator's perks out of the box. This patch only makes the descriptions reflect the fact.﻿﻿
   
   

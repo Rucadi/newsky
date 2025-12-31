@@ -2,6 +2,8 @@
 - Author: Enai Siaion
 - Game: skyrimspecialedition
 - Mod Page: https://www.nexusmods.com/skyrimspecialedition/mods/6285
+
+
 Skyrim Legendary Edition version available [here](https://www.nexusmods.com/skyrim/mods/80918)
   
 Discuss this mod on the Posts tab, [/r/EnaiRim](http://www.reddit.com/r/EnaiRim) or [the Enairim Discord](https://discord.gg/GfYzjPm)

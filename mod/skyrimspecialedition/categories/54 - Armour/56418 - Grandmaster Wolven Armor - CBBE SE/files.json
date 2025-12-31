@@ -1,0 +1,24 @@
+{
+  "Grandmaster Wolven Armor - CBBE 3BA SE": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1",
+      "file_id": 233233,
+      "file_name": "Grandmaster Wolven Armor - CBBE 3BA SE-56418-1-1-1633610209.7z",
+      "mod_id": 56418,
+      "hash": "sha256-/S+qBhpNeIdhIPHjLQQUPvdh6lTD0l3Jn+0rFZsCnLA="
+    },
+    "type": "primary"
+  },
+  "Grandmaster Wolven Armor - CBBE SE": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1",
+      "file_id": 233234,
+      "file_name": "Grandmaster Wolven Armor - CBBE SE-56418-1-1-1633610256.7z",
+      "mod_id": 56418,
+      "hash": "sha256-MUHaAVuBDdiDl7Mo4v1+2X/iB7z3r2Aw0cwvpplBzqs="
+    },
+    "type": "primary"
+  }
+}

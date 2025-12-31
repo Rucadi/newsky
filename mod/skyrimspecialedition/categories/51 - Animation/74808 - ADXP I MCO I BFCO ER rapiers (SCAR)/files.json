@@ -1,0 +1,24 @@
+{
+  "ER Rapier(SCAR)": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 313963,
+      "file_name": "ER Rapier(SCAR)-74808-1-0-1662554276.rar",
+      "mod_id": 74808,
+      "hash": "sha256-U2n2q4wvT7y0h8E74j03kABclu5xE7YVv2ym9sb6W5w="
+    },
+    "type": "primary"
+  },
+  "BFCO ER Rapiers": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0BFCO",
+      "file_id": 568270,
+      "file_name": "BFCO ER Rapiers-74808-1-0BFCO-1733146298.rar",
+      "mod_id": 74808,
+      "hash": "sha256-6hIPELV2JMkCa1LiCFYrxp1WpeXiMF0z29R+Wo7DMiM="
+    },
+    "type": "primary"
+  }
+}

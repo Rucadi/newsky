@@ -1,0 +1,86 @@
+{
+  "Uncompressed CBBE Textures": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "v1.1",
+      "file_id": 286129,
+      "file_name": "OMF - Uncompressed CBBE Textures-68355-v1-1-1653398536.7z",
+      "mod_id": 68355,
+      "hash": "sha256-IQtr14+sTR7LUBbJFKN5cLp0ap59atqrdvLUVHg3VDE="
+    }
+  },
+  "Standalone Bodyslide Presets": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "v1.1",
+      "file_id": 287301,
+      "file_name": "OMF - Standalone Bodyslide Presets-68355-v1-1-1653785499.7z",
+      "mod_id": 68355,
+      "hash": "sha256-WEtYHY7dixBPAyD5j+e99gUXLWsPy/atMVxoPP6SrZ8="
+    }
+  },
+  "Uncompressed BHUNP Textures": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "v1.2",
+      "file_id": 287305,
+      "file_name": "OMF - Uncompressed BHUNP Textures-68355-v1-2-1653785759.7z",
+      "mod_id": 68355,
+      "hash": "sha256-OgXkpiEt/jN+CMv4N+wb3mhNnekZEWynQpycY8n3dIw="
+    }
+  },
+  "OMF - Onasha Maki Follower ESP": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "v1.6.2",
+      "file_id": 300452,
+      "file_name": "OMF - Onasha Maki Follower ESP-68355-v1-6-2-1658282802.7z",
+      "mod_id": 68355,
+      "hash": "sha256-oJYLSW6Q1VH+XHTag1MJbDaMHo2tNxxSaOtppgMEp6Q="
+    },
+    "type": "primary"
+  },
+  "OMF - Onasha Maki Follower ESPFE": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "v1.6.2",
+      "file_id": 300453,
+      "file_name": "OMF - Onasha Maki Follower ESPFE-68355-v1-6-2-1658282804.7z",
+      "mod_id": 68355,
+      "hash": "sha256-7lj5kcRzqNb8p0Zs+egQASJc7kmS9fQ1xTGtjFF1DZo="
+    },
+    "type": "primary"
+  },
+  "OMF - Onasha Maki Follower ESPFE -  NoFOMOD 3BA": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "v1.6.2",
+      "file_id": 300454,
+      "file_name": "OMF - Onasha Maki Follower ESPFE -  NoFOMOD 3BA-68355-v1-6-2-1658282809.7z",
+      "mod_id": 68355,
+      "hash": "sha256-wG3wCzkSaYPIip/DbvlEbv8uqUTKk3B9t2Owmx7xNZQ="
+    },
+    "type": "primary"
+  },
+  "OMF - Onasha Maki Follower ESPFE -  NoFOMOD BHUNP": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "v1.6.2",
+      "file_id": 300455,
+      "file_name": "OMF - Onasha Maki Follower ESPFE -  NoFOMOD BHUNP-68355-v1-6-2-1658282812.7z",
+      "mod_id": 68355,
+      "hash": "sha256-FYshRZMuYSgJi5mLC+VTxakLNbUKgnBls4VABBhnVC4="
+    },
+    "type": "primary"
+  },
+  "OMF - Racemenu Preset": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "v1.0",
+      "file_id": 338309,
+      "file_name": "OMF - Racemenu Preset-68355-v1-0-1670384354.7z",
+      "mod_id": 68355,
+      "hash": "sha256-vLmdULYsis0y7cDSo2B/GhEqOgSKInp+BvKXs+KINdc="
+    }
+  }
+}

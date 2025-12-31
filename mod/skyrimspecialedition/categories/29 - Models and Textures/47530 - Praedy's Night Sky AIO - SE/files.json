@@ -5,7 +5,8 @@
       "version": "2.0",
       "file_id": 321143,
       "file_name": "Praedys night sky 8K-47530-2-0-1664739328.7z",
-      "mod_id": 47530
+      "mod_id": 47530,
+      "hash": "sha256-hbybSN+rmpER2rIAFU7+Ie+ko1S6iTZrVrL1GEw+ygw="
     }
   },
   "Praedys night sky 4K": {
@@ -14,7 +15,8 @@
       "version": "2.0",
       "file_id": 321145,
       "file_name": "Praedys night sky 4K-47530-2-0-1664739363.7z",
-      "mod_id": 47530
+      "mod_id": 47530,
+      "hash": "sha256-BDGD2XlSb7QoR8QeLQk5eESUDU9kY+7+ZP+KBuPlW94="
     }
   },
   "Praedys night sky 2K": {
@@ -23,7 +25,8 @@
       "version": "2.0",
       "file_id": 321147,
       "file_name": "Praedys night sky 2K-47530-2-0-1664739393.7z",
-      "mod_id": 47530
+      "mod_id": 47530,
+      "hash": "sha256-xDmYXqedRqIzPFiT9rYMM4/2t+YHpGiIhSvwggNYWeE="
     }
   },
   "Praedys night sky 1K": {
@@ -32,7 +35,8 @@
       "version": "2.0",
       "file_id": 321148,
       "file_name": "Praedys night sky 1K-47530-2-0-1664739413.7z",
-      "mod_id": 47530
+      "mod_id": 47530,
+      "hash": "sha256-W6ps3uoTgxjWTKIrU5m0bwW/TMyb3LpRbfT5x8r6k1M="
     }
   },
   "Praedys masser and secunda moons 2K 4K": {
@@ -41,7 +45,8 @@
       "version": "2.0",
       "file_id": 321152,
       "file_name": "Praedys masser and secunda moons 2K 4K-47530-2-0-1664739510.7z",
-      "mod_id": 47530
+      "mod_id": 47530,
+      "hash": "sha256-KztI48JtInwcRIrZhCQR6qziEeBzitTpXI4ikz2x56I="
     }
   },
   "Praedys masser and secunda moons 2K": {
@@ -50,7 +55,8 @@
       "version": "2.0",
       "file_id": 321153,
       "file_name": "Praedys masser and secunda moons 2K-47530-2-0-1664739540.7z",
-      "mod_id": 47530
+      "mod_id": 47530,
+      "hash": "sha256-SNzBFR+ExKV71XaZTGxNK974Ac0u+r2Deq/oVy/c5PY="
     }
   },
   "Praedys masser and secunda moons 1K": {
@@ -59,7 +65,8 @@
       "version": "2.0",
       "file_id": 321155,
       "file_name": "Praedys masser and secunda moons 1K-47530-2-0-1664739576.7z",
-      "mod_id": 47530
+      "mod_id": 47530,
+      "hash": "sha256-OdUX/z5Sfq5XkFA9UjTlj2CvDCjOR3V0EIFgK/rtVpc="
     }
   },
   "Praedys Sky AIO 1K": {
@@ -68,7 +75,8 @@
       "version": "2.1",
       "file_id": 622392,
       "file_name": "Praedys Sky AIO 1K-47530-2-1-1746020745.7z",
-      "mod_id": 47530
+      "mod_id": 47530,
+      "hash": "sha256-FRLQbBK8E3wiZZ//Z/C6DJ+bBUHwwLa3W24/Zrm3hU0="
     },
     "type": "primary"
   },
@@ -78,7 +86,8 @@
       "version": "2.1",
       "file_id": 622393,
       "file_name": "Praedys Sky AIO 2K-47530-2-1-1746020770.7z",
-      "mod_id": 47530
+      "mod_id": 47530,
+      "hash": "sha256-ertjYCQ39vP12gx6tNc6jHqNr3Hph4CCxKbxIunu99E="
     },
     "type": "primary"
   },
@@ -88,7 +97,8 @@
       "version": "2.1",
       "file_id": 622394,
       "file_name": "Praedys Sky AIO 4K-47530-2-1-1746020814.7z",
-      "mod_id": 47530
+      "mod_id": 47530,
+      "hash": "sha256-sIzZ3k+cBmqR8VebCKw6djTHKmOmrPzzjLVNXgvvmaM="
     },
     "type": "primary"
   },
@@ -98,7 +108,8 @@
       "version": "2.1",
       "file_id": 622395,
       "file_name": "Praedys Sky AIO 8K-47530-2-1-1746020902.7z",
-      "mod_id": 47530
+      "mod_id": 47530,
+      "hash": "sha256-iHl38PCLadCvatPGBJf2Tkgwr+lm4b915KMmkG9QrYk="
     },
     "type": "primary"
   },
@@ -108,7 +119,8 @@
       "version": "2.1",
       "file_id": 622396,
       "file_name": "Praedys auroras-47530-2-1-1746020920.7z",
-      "mod_id": 47530
+      "mod_id": 47530,
+      "hash": "sha256-PFZuapLD8lCKZaED0F44CId5U+m6wUsBLopJ8FDxJxA="
     }
   }
 }

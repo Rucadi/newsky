@@ -1,13 +1,13 @@
 {
-    "JK's Palace of the Kings": {
-        "nexusmods": {
-            "game_name": "skyrimspecialedition",
-            "version": "1.2.0",
-            "file_id": 244454,
-            "file_name": "JK's Palace of the Kings-48902-1-2-0-1637911630.7z",
-            "mod_id": 48902,
-            "hash": "sha256-62WfIn7mPTtHA6Nt8kHJfK0V1zJ4hbhMFGXau4KZYJc="
-        },
-        "type": "primary"
-    }
+  "JK's Palace of the Kings": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.2.0",
+      "file_id": 244454,
+      "file_name": "JK's Palace of the Kings-48902-1-2-0-1637911630.7z",
+      "mod_id": 48902,
+      "hash": "sha256-62WfIn7mPTtHA6Nt8kHJfK0V1zJ4hbhMFGXau4KZYJc="
+    },
+    "type": "primary"
+  }
 }

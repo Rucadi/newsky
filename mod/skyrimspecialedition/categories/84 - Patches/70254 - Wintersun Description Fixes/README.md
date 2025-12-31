@@ -2,6 +2,8 @@
 - Author: Ixion XVII
 - Game: skyrimspecialedition
 - Mod Page: https://www.nexusmods.com/skyrimspecialedition/mods/70254
+
+
 Fixes an issue with descriptions while choosing a god.
   
   

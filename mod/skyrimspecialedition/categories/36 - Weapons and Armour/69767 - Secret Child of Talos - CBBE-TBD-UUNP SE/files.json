@@ -1,0 +1,46 @@
+{
+  "Secret Child of Talos - CBBE 3BA": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 291794,
+      "file_name": "Secret Child of Talos - CBBE 3BA-69767-1-0-1655477095.7z",
+      "mod_id": 69767,
+      "hash": "sha256-sM+Q8/p6PE6TpCfrmI5cNO910NKkxO6sjQ+UFXH3QOg="
+    },
+    "type": "primary"
+  },
+  "Secret Child of Talos - TBD SE": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 291796,
+      "file_name": "Secret Child of Talos - TBD SE-69767-1-0-1655477342.7z",
+      "mod_id": 69767,
+      "hash": "sha256-XYCA7MofZud4PXaA8bfZ7V11QDhuXPHVEySi7tvofyc="
+    },
+    "type": "primary"
+  },
+  "Secret Child of Talos - COCOBody UUNP": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 291797,
+      "file_name": "Secret Child of Talos - COCOBody UUNP-69767-1-0-1655477658.7z",
+      "mod_id": 69767,
+      "hash": "sha256-qbGF6PizyTveRFDXoc4v/mIKI2tTachDEAmWDc3E59M="
+    },
+    "type": "primary"
+  },
+  "Secret Child of Talos - COCOBody CBBE": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 291798,
+      "file_name": "Secret Child of Talos - COCOBody CBBE-69767-1-0-1655477939.7z",
+      "mod_id": 69767,
+      "hash": "sha256-8J4/jzgwIYbAfvKf4PRYK3tu9CK1ine8P11jBp/+ETs="
+    },
+    "type": "primary"
+  }
+}

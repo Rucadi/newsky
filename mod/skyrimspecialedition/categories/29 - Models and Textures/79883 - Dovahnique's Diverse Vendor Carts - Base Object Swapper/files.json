@@ -1,0 +1,23 @@
+{
+  "Dovahnique's Diverse Vendor Carts - Base Object Swapper": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1",
+      "file_id": 337693,
+      "file_name": "Dovahnique's Diverse Vendor Carts - Base Object Swapper-79883-1-1670198399.zip",
+      "mod_id": 79883,
+      "hash": "sha256-wDk2MjGDThvwLMuUGo7j2P16+WH+/wb5KRoWMwqFbCE="
+    },
+    "type": "primary"
+  },
+  "Dovahnique's Vendor Carts - 2K Textures": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1",
+      "file_id": 347975,
+      "file_name": "Dovahnique's Vendor Carts - 2K Textures-79883-1-1673214664.zip",
+      "mod_id": 79883,
+      "hash": "sha256-lddgBVbLAVmkBYJ33dEWtm44UUJ2GG4yl+MtzcTR9aE="
+    }
+  }
+}

@@ -1,0 +1,68 @@
+{
+  "Crystalwind Estate V5": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "5.0",
+      "file_id": 318677,
+      "file_name": "Crystalwind Estate V5-62955-5-0-1663918682.zip",
+      "mod_id": 62955,
+      "hash": "sha256-hpJY041EnLIX1cp1MbRb3TWCicjNWTV16b5oa6cK+mE="
+    },
+    "type": "primary"
+  },
+  "Crystalwind Estate V5.1 No Ghost": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "5.1",
+      "file_id": 322519,
+      "file_name": "Crystalwind Estate V5.1 No Ghost-62955-5-1-1665253967.zip",
+      "mod_id": 62955,
+      "hash": "sha256-H3y67Xs4UxLHDF9YQDE4bFL7S4F+y+7GCRsCBvYsyyc="
+    },
+    "type": "primary"
+  },
+  "Crystalwind Estate V6": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "6",
+      "file_id": 549179,
+      "file_name": "Crystalwind Estate V6-62955-6-1728110816.7z",
+      "mod_id": 62955,
+      "hash": "sha256-UQliaUaNNrrnr3JiVx31rYdPleZYgKDHGE11pnXrPds="
+    },
+    "type": "primary"
+  },
+  "Crystalwind Estate V6.1 No Ghost": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "6.1",
+      "file_id": 549180,
+      "file_name": "Crystalwind Estate V6.1-62955-6-1-1728110896.7z",
+      "mod_id": 62955,
+      "hash": "sha256-g3bbW6qWz+y+ChYbpO8XCdL65GVOtJxYR0fGEwhxcxE="
+    },
+    "type": "primary"
+  },
+  "Crystalwind Estate V7": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "7.0",
+      "file_id": 681894,
+      "file_name": "Crystalwind Estate V7-62955-7-0-1761828884.zip",
+      "mod_id": 62955,
+      "hash": "sha256-508akozDd+USaJVner3FfSRAv9FmMmt3Nh3wbK/Did0="
+    },
+    "type": "primary"
+  },
+  "Crystalwind Estate V7.1 No Ghost": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "7.1",
+      "file_id": 681895,
+      "file_name": "Crystalwind Estate V7.1 No Ghost-62955-7-1-1761829012.zip",
+      "mod_id": 62955,
+      "hash": "sha256-Lecssihp+iLZ4eiUHoXcQJFhHmjmeND2a7NFC7e2z3o="
+    },
+    "type": "primary"
+  }
+}

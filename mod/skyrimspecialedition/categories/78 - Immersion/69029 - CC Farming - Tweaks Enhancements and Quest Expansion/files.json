@@ -1,103 +1,103 @@
 {
-    "CC Farming - TnE - Rins Corpse Replaced": {
-        "nexusmods": {
-            "game_name": "skyrimspecialedition",
-            "version": "1.2.3",
-            "file_id": 369193,
-            "file_name": "CC Farming - TnE - Rins Corpse Replaced-69029-1-2-3-1679002793.7z",
-            "mod_id": 69029,
-            "hash": "sha256-D6ShqkZx15hzC5mLmcxgjPVXnABHmP1z9o/qtR9AKcU="
-        }
-    },
-    "CC Farming - TnE - No Extra Plots": {
-        "nexusmods": {
-            "game_name": "skyrimspecialedition",
-            "version": "1.3",
-            "file_id": 401005,
-            "file_name": "CC Farming - TnE - No Extra Plots-69029-1-3-1687718612.7z",
-            "mod_id": 69029,
-            "hash": "sha256-Iip0JK9zU5jFgIY1ducD72sO8aU/+LGr8EJeMMuSjFw="
-        }
-    },
-    "CC Farming - TnE - No Respawn Patch Patch": {
-        "nexusmods": {
-            "game_name": "skyrimspecialedition",
-            "version": "1.3.2",
-            "file_id": 446991,
-            "file_name": "CC Farming - TnE - No Respawn Patch Patch-69029-1-3-2-1701223132.7z",
-            "mod_id": 69029,
-            "hash": "sha256-zBxXIoZIbNC8iHo5RTkejmFUMx+wRazYw7OwQtN7cgo="
-        }
-    },
-    "CC Farming - TnE - Bathhouse Patch": {
-        "nexusmods": {
-            "game_name": "skyrimspecialedition",
-            "version": "1.3.3",
-            "file_id": 460991,
-            "file_name": "CC Farming - TnE - Bathhouse Patch-69029-1-3-3-1705166750.7z",
-            "mod_id": 69029,
-            "hash": "sha256-cmQALmdzdr7rzr19QT+PpZELvCp7N6sCTe65iMsS7WM="
-        }
-    },
-    "CC Farming - TnE - No Chimneys Outside": {
-        "nexusmods": {
-            "game_name": "skyrimspecialedition",
-            "version": "1.4",
-            "file_id": 479243,
-            "file_name": "CC Farming - TnE - No Chimneys Outside-69029-1-4-1710116246.7z",
-            "mod_id": 69029,
-            "hash": "sha256-IN9oNfastNswKSMEaCqxeZctv5Ge7Ae8WNkGcYuIGwk="
-        }
-    },
-    "CC Farming - TnE - MCM": {
-        "nexusmods": {
-            "game_name": "skyrimspecialedition",
-            "version": "1.4.5",
-            "file_id": 591020,
-            "file_name": "CC Farming - TnE - MCM-69029-1-4-5-1738682731.7z",
-            "mod_id": 69029,
-            "hash": "sha256-Hb9bMi5na50132fu7I9Df/Pb+qDsmh+RYkC0M/jaRqw="
-        }
-    },
-    "CC Farming - TnE - CC Fishing Patch": {
-        "nexusmods": {
-            "game_name": "skyrimspecialedition",
-            "version": "1.5",
-            "file_id": 608775,
-            "file_name": "CC Farming - TnE - CC Fishing Patch-69029-1-5-1742724312.7z",
-            "mod_id": 69029,
-            "hash": "sha256-0xDCufBbCLDMxdZPgSqj9qcj4F8IDRAfoNp8K+7NHdA="
-        }
-    },
-    "CC Farming - TnE - RIS Patch": {
-        "nexusmods": {
-            "game_name": "skyrimspecialedition",
-            "version": "1.5.2",
-            "file_id": 645044,
-            "file_name": "CC Farming - TnE - RIS Patch-69029-1-5-2-1751909576.7z",
-            "mod_id": 69029,
-            "hash": "sha256-cA1Uwz0Uey2Q48NQ4LauNjVHGFq61iHxY5lVS+Qcdno="
-        }
-    },
-    "CC Farming - TnE - SLAWF Farming Patch": {
-        "nexusmods": {
-            "game_name": "skyrimspecialedition",
-            "version": "1.5.3",
-            "file_id": 646355,
-            "file_name": "CC Farming - TnE - SLAWF Farming Patch-69029-1-5-3-1752323033.7z",
-            "mod_id": 69029,
-            "hash": "sha256-t4KKRyNK5yrKxNOs/+mO1LROq5ZW7P1aRovCFJ/M34w="
-        }
-    },
-    "CC Farming - Tweaks and Enhancements": {
-        "nexusmods": {
-            "game_name": "skyrimspecialedition",
-            "version": "1.5.5",
-            "file_id": 693730,
-            "file_name": "CC Farming - Tweaks and Enhancements-69029-1-5-5-1764701175.7z",
-            "mod_id": 69029,
-            "hash": "sha256-73SaeEqk4Q6P7oRkHmjTRhppkSVurn+7Srql7YcgoEc="
-        },
-        "type": "primary"
+  "CC Farming - TnE - Rins Corpse Replaced": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.2.3",
+      "file_id": 369193,
+      "file_name": "CC Farming - TnE - Rins Corpse Replaced-69029-1-2-3-1679002793.7z",
+      "mod_id": 69029,
+      "hash": "sha256-D6ShqkZx15hzC5mLmcxgjPVXnABHmP1z9o/qtR9AKcU="
     }
+  },
+  "CC Farming - TnE - No Extra Plots": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.3",
+      "file_id": 401005,
+      "file_name": "CC Farming - TnE - No Extra Plots-69029-1-3-1687718612.7z",
+      "mod_id": 69029,
+      "hash": "sha256-Iip0JK9zU5jFgIY1ducD72sO8aU/+LGr8EJeMMuSjFw="
+    }
+  },
+  "CC Farming - TnE - No Respawn Patch Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.3.2",
+      "file_id": 446991,
+      "file_name": "CC Farming - TnE - No Respawn Patch Patch-69029-1-3-2-1701223132.7z",
+      "mod_id": 69029,
+      "hash": "sha256-zBxXIoZIbNC8iHo5RTkejmFUMx+wRazYw7OwQtN7cgo="
+    }
+  },
+  "CC Farming - TnE - Bathhouse Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.3.3",
+      "file_id": 460991,
+      "file_name": "CC Farming - TnE - Bathhouse Patch-69029-1-3-3-1705166750.7z",
+      "mod_id": 69029,
+      "hash": "sha256-cmQALmdzdr7rzr19QT+PpZELvCp7N6sCTe65iMsS7WM="
+    }
+  },
+  "CC Farming - TnE - No Chimneys Outside": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.4",
+      "file_id": 479243,
+      "file_name": "CC Farming - TnE - No Chimneys Outside-69029-1-4-1710116246.7z",
+      "mod_id": 69029,
+      "hash": "sha256-IN9oNfastNswKSMEaCqxeZctv5Ge7Ae8WNkGcYuIGwk="
+    }
+  },
+  "CC Farming - TnE - MCM": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.4.5",
+      "file_id": 591020,
+      "file_name": "CC Farming - TnE - MCM-69029-1-4-5-1738682731.7z",
+      "mod_id": 69029,
+      "hash": "sha256-Hb9bMi5na50132fu7I9Df/Pb+qDsmh+RYkC0M/jaRqw="
+    }
+  },
+  "CC Farming - TnE - CC Fishing Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.5",
+      "file_id": 608775,
+      "file_name": "CC Farming - TnE - CC Fishing Patch-69029-1-5-1742724312.7z",
+      "mod_id": 69029,
+      "hash": "sha256-0xDCufBbCLDMxdZPgSqj9qcj4F8IDRAfoNp8K+7NHdA="
+    }
+  },
+  "CC Farming - TnE - RIS Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.5.2",
+      "file_id": 645044,
+      "file_name": "CC Farming - TnE - RIS Patch-69029-1-5-2-1751909576.7z",
+      "mod_id": 69029,
+      "hash": "sha256-cA1Uwz0Uey2Q48NQ4LauNjVHGFq61iHxY5lVS+Qcdno="
+    }
+  },
+  "CC Farming - TnE - SLAWF Farming Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.5.3",
+      "file_id": 646355,
+      "file_name": "CC Farming - TnE - SLAWF Farming Patch-69029-1-5-3-1752323033.7z",
+      "mod_id": 69029,
+      "hash": "sha256-t4KKRyNK5yrKxNOs/+mO1LROq5ZW7P1aRovCFJ/M34w="
+    }
+  },
+  "CC Farming - Tweaks and Enhancements": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.5.5",
+      "file_id": 693730,
+      "file_name": "CC Farming - Tweaks and Enhancements-69029-1-5-5-1764701175.7z",
+      "mod_id": 69029,
+      "hash": "sha256-73SaeEqk4Q6P7oRkHmjTRhppkSVurn+7Srql7YcgoEc="
+    },
+    "type": "primary"
+  }
 }

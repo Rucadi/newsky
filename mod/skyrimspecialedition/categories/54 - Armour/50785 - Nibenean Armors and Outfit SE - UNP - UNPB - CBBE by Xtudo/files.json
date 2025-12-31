@@ -1,0 +1,63 @@
+{
+  "Nibenean Armors and Outfit SE by Xtudo - 4K textures": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "3",
+      "file_id": 207210,
+      "file_name": "Nibenean Armors and Outfit by Xtudo SE - 4K textures-50785-1-1622818044.7z",
+      "mod_id": 50785,
+      "hash": "sha256-75Nz6CVvsrpngOaquHfQIKFXeBBxHRANmWA75JXMfQA="
+    }
+  },
+  "Nibenean Armors and Outfit SE by Xtudo": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "3",
+      "file_id": 208599,
+      "file_name": "Nibenean Armors and Outfit SE by Xtudo-50785-3-1623417069.7z",
+      "mod_id": 50785,
+      "hash": "sha256-anqg32GrrjMs34iJejbK3qTJ2hmiH4Rmk3KwSxkCHec="
+    },
+    "type": "primary"
+  },
+  "Nibenean Armors and Outfit SE by Xtudo - No dagger": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "3",
+      "file_id": 208600,
+      "file_name": "Nibenean Armors and Outfit SE by Xtudo - No dagger-50785-3-1623417154.7z",
+      "mod_id": 50785,
+      "hash": "sha256-2E/lG/oxMVxQCQbz3vS4cAQdoMh7SPgnjLMf3615cUA="
+    }
+  },
+  "Nibenean Armors and Outfit SE by Xtudo - Tempereable hood": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "3",
+      "file_id": 246273,
+      "file_name": "Nibenean Armors and Outfit SE by Xtudo - Tempereable hood-50785-3-1638534349.7z",
+      "mod_id": 50785,
+      "hash": "sha256-wxW7osoSXyCZ66rjALksNsdRNbsO7tleVILAxBdZLnw="
+    }
+  },
+  "Nibenean Armors and Outfit SE by Xtudo HIGH LEVEL VERSION v1.1": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "3",
+      "file_id": 249898,
+      "file_name": "Nibenean Armors and Outfit SE by Xtudo HIGH LEVEL VERSION v1.1-50785-3-1639768165.7z",
+      "mod_id": 50785,
+      "hash": "sha256-KVt3Uexro3TU4zz9UufnllfWT9tC+4sB3p2f/2VGOWI="
+    }
+  },
+  "Nibenean Armor - SE by Xtudo - DLH patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "3.1",
+      "file_id": 677106,
+      "file_name": "Nibenean Armor - SE by Xtudo - DLH patch-50785-3-1-1760729031.7z",
+      "mod_id": 50785,
+      "hash": "sha256-gIGQFNOjwFOlAH53fsRUqAMo5at1SiP94iwKXBauObs="
+    }
+  }
+}

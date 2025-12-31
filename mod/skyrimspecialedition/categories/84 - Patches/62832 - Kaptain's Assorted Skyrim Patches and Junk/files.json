@@ -1,0 +1,508 @@
+{
+  "JK's Skyrim - Simple Property Investment Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 260545,
+      "file_name": "JK's Skyrim - Simple Property Investment Patch - ESPFE-62832-1-0-1643570167.7z",
+      "mod_id": 62832,
+      "hash": "sha256-/wCvLsdCGIGAD6Ow+GjTGa48UDCHZk3tktCCMXAKzlI="
+    },
+    "type": "primary"
+  },
+  "Visual Animated Enchants - Thaumaturgy Patch - ESPFE": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 261048,
+      "file_name": "Visual Animated Enchants - Thaumaturgy Patch - ESPFE-62832-1-0-1643747014.7z",
+      "mod_id": 62832,
+      "hash": "sha256-TETW4LVNeoOS5wcxauTrRqV81m035bVWH96ZIA5zBpo="
+    },
+    "type": "primary"
+  },
+  "Visual Animated Enchants - Dawnguard Rune Axe Bug Fix Patch - ESPFE": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 261049,
+      "file_name": "Visual Animated Enchants - Dawnguard Rune Axe Bug Fix Patch-62832-1-0-1643747386.7z",
+      "mod_id": 62832,
+      "hash": "sha256-lIFc/7LSCyza0ad4Ek9vj/dFB0VvJrHBrTjCNvAeKBs="
+    },
+    "type": "primary"
+  },
+  "ENB Light - Mysticism and Adamant Patch - ESPFE": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 261050,
+      "file_name": "ENB Light - Mysticism and Adamant Patch - ESPFE-62832-1-0-1643747647.7z",
+      "mod_id": 62832,
+      "hash": "sha256-h/Ua5+YdnW67Is8b+oABNu2VJobomWa/HLFS4V99RUE="
+    },
+    "type": "primary"
+  },
+  "Skyrim 3D Trees and Plants - Survival Mode CC Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 335877,
+      "file_name": "Skyrim 3D Trees and Plants - Survival Mode Patch-62832-1-0-1669732381.7z",
+      "mod_id": 62832,
+      "hash": "sha256-k5Bh2PUD0y/Hn0UUj6Ez7Iy6G/CqklICb+oNcoKzDpU="
+    },
+    "type": "primary"
+  },
+  "Skyrim 3D Trees and Plants - skyBirds Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 335880,
+      "file_name": "Skyrim 3D Trees and Plants - skyBirds Patch-62832-1-0-1669732808.7z",
+      "mod_id": 62832,
+      "hash": "sha256-zEHQWI0sZoQ1z9h4frKDQyJaqFyyb5Pt3/upDVcxeRA="
+    },
+    "type": "primary"
+  },
+  "Modernize (SMP) - USSEP Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 337229,
+      "file_name": "Modernize (SMP) - USSEP Patch-62832-1-0-1670103521.7z",
+      "mod_id": 62832,
+      "hash": "sha256-CDyVJ3X5DsJX6VZ5STEEBI+ViqotmLD1GPF7gqC362I="
+    },
+    "type": "primary"
+  },
+  "Cloaks of Skyrim - Player Only - Survival CC Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 340589,
+      "file_name": "Cloaks of Skyrim - Player Only - Survival CC Patch-62832-1-0-1671044106.7z",
+      "mod_id": 62832,
+      "hash": "sha256-aGK0lCWOFnZ9ZIEvtX4o/CemGGaX39tbseXTbKqUbLw="
+    },
+    "type": "primary"
+  },
+  "Cloaks of Skyrim - Player Only - Survival CC Patch (with Tail)": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 340625,
+      "file_name": "Cloaks of Skyrim - Player Only - Survival CC Patch (with Tail)-62832-1-0-1671059000.7z",
+      "mod_id": 62832,
+      "hash": "sha256-JkTX6dhDZULiU9UB7B/gnY7F2uIDz0pV1AB9bF7ju3c="
+    },
+    "type": "primary"
+  },
+  "Realistic Horse Breeds by KrittaKitty - Realistic and Balanced Horses Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 341869,
+      "file_name": "Realistic Horse Breeds by KrittaKitty - Realistic and Balanced Horses Patch-62832-1-0-1671448035.7z",
+      "mod_id": 62832,
+      "hash": "sha256-espkF9j5K42mk295pRIHJANjGWlFbe9n2s/Wm0S7ILg="
+    },
+    "type": "primary"
+  },
+  "Dawn of Skyrim - AI Overhaul Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 485941,
+      "file_name": "Dawn of Skyrim - AI Overhaul Patch-62832-1-0-1711863507.7z",
+      "mod_id": 62832,
+      "hash": "sha256-yj5oELLQ9N2kNXqutBLRGkY0Y37lzgUSuAMoUsAf0q8="
+    },
+    "type": "primary"
+  },
+  "Hearthfire No Material Requirements - USSEP Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 485943,
+      "file_name": "Hearthfire No Material Requirements - USSEP Patch-62832-1-0-1711863747.7z",
+      "mod_id": 62832,
+      "hash": "sha256-8+4Losv5yjKEuc5oRGyhbU3SgdGOn1KkQuqTkFhN2zs="
+    },
+    "type": "primary"
+  },
+  "Unplayable Faction Armors - OBIS SE Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.3",
+      "file_id": 485957,
+      "file_name": "Unplayable Faction Armors - OBIS SE Patch-62832-1-0-1711866879.7z",
+      "mod_id": 62832,
+      "hash": "sha256-wY3xr5BmNd0LUhXyboS1tXJP/D/DslLXktdnXDTYm6w="
+    },
+    "type": "primary"
+  },
+  "Unplayable Faction Armors - Vigilant SE Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.4",
+      "file_id": 485959,
+      "file_name": "Unplayable Faction Armors - Vigilant SE Patch-62832-1-4-1711867048.7z",
+      "mod_id": 62832,
+      "hash": "sha256-aSBG8XBKIz/j6Wj4wk8GTUpa9AIjaPFCxt99T8EcGYk="
+    },
+    "type": "primary"
+  },
+  "Unplayable Faction Armors - KCS Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1",
+      "file_id": 485960,
+      "file_name": "Unplayable Faction Armors - KCS Patch-62832-1-1-1711867180.7z",
+      "mod_id": 62832,
+      "hash": "sha256-ieFBBSf9agQUFbJ2V477Jh5+pe1f7ED9f186roFM58M="
+    },
+    "type": "primary"
+  },
+  "Authentic Legion - USSEP Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 485962,
+      "file_name": "Authentic Legion - USSEP Patch-62832-1-0-1711867387.7z",
+      "mod_id": 62832,
+      "hash": "sha256-n+0jkQ/GwrdOc82ldweBgmv3AopLnn9s/aH69IRuF7o="
+    },
+    "type": "primary"
+  },
+  "Authentic Legion - USSEP and WACCF Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 485963,
+      "file_name": "Authentic Legion - USSEP and WACCF Patch-62832-1-0-1711867461.7z",
+      "mod_id": 62832,
+      "hash": "sha256-6SoGeBepnb0N6f9yrBzyf1XyYDatTzj8Qt3rqYWzebg="
+    },
+    "type": "primary"
+  },
+  "Unplayable Faction Armors - Heritage 2 Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "2.1",
+      "file_id": 485966,
+      "file_name": "Unplayable Faction Armors - Heritage 2 Patch-62832-2-1-1711868108.7z",
+      "mod_id": 62832,
+      "hash": "sha256-4DcuHD0I/8jE1+jzrWJC0WiV7ueSHJ7672hsi3yG9MY="
+    },
+    "type": "primary"
+  },
+  "Unplayable Faction Armors - Heritage 1 Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "2.1",
+      "file_id": 485967,
+      "file_name": "Unplayable Faction Armors - Heritage 1 Patch-62832-2-1-1711868210.7z",
+      "mod_id": 62832,
+      "hash": "sha256-ljBOJmSmroiq0Rvr4CrRQt+u0wLl9lASOEKpC9khL1c="
+    },
+    "type": "primary"
+  },
+  "Survival Mode Patch for Hunterborn - Addendum": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 492654,
+      "file_name": "Survival Mode Patch for Hunterborn - Addendum-62832-1-0-1713559609.7z",
+      "mod_id": 62832,
+      "hash": "sha256-TyM99t73Wm/4N/3RX5UCbgfQaCvUmFs5DK9MrVQRDBg="
+    },
+    "type": "primary"
+  },
+  "VSDCC - Scion Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 492754,
+      "file_name": "VSDCC - Scion Patch-62832-1-0-1713585444.7z",
+      "mod_id": 62832,
+      "hash": "sha256-UchDERr7mazfoSy7gkkWbPToMoNfs+mYSGiXLJe7NWE="
+    },
+    "type": "primary"
+  },
+  "SimplestHorses - KrittaKittyHorsesForSSE Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 592494,
+      "file_name": "SimplestHorses - KrittaKittyHorsesForSSE Patch-62832-1-0-1739063228.7z",
+      "mod_id": 62832,
+      "hash": "sha256-X7SdeTddSML+i9joYj2nI1xbT5N1Mq5d35WhTxtIFmo="
+    },
+    "type": "primary"
+  },
+  "Aetherius - EEO Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 593165,
+      "file_name": "Aetherius - EEO Patch-62832-1-0-1739227207.7z",
+      "mod_id": 62832,
+      "hash": "sha256-sxI2MxA0+xLv5RTnIHy5da1xtD9aXWYoYI3YAAYZyQw="
+    },
+    "type": "primary"
+  },
+  "M'rissi - EEO Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 593166,
+      "file_name": "M'rissi - EEO Patch-62832-1-0-1739227330.7z",
+      "mod_id": 62832,
+      "hash": "sha256-P5SvOYDSJLNEqfeEv89FiWc+N3LO8kCmAl8wuPk3pa4="
+    },
+    "type": "primary"
+  },
+  "Fantasy Forest Overhaul - USSEP Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 595237,
+      "file_name": "Fantasy Forest Overhaul - USSEP Patch-62832-1-0-1739665653.7z",
+      "mod_id": 62832,
+      "hash": "sha256-m9/AQGkVJV/lj6kRr8m0YCDhKnNNiXNaxpWumRRmDTo="
+    },
+    "type": "primary"
+  },
+  "Gourmet - Ogres SE Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 595288,
+      "file_name": "Gourmet - Ogres SE Patch-62832-1-0-1739678964.7z",
+      "mod_id": 62832,
+      "hash": "sha256-mRbecwWCbt41lr5p2x81iHEf+mcpCjFN766Fn6ZBKuQ="
+    },
+    "type": "primary"
+  },
+  "Gourmet - Morrowind Creatures SE": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 595289,
+      "file_name": "Gourmet - Morrowind Creatures SE-62832-1-0-1739679016.7z",
+      "mod_id": 62832,
+      "hash": "sha256-j9RZj19aJ/53C4navUujMFj87Dam3DjZNzYoelUOmXE="
+    },
+    "type": "primary"
+  },
+  "Improved Closefaced Helmets Fixes - MCE Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 596174,
+      "file_name": "Improved Closefaced Helmets Fixes - MCE Patch-62832-1-0-1739857221.7z",
+      "mod_id": 62832,
+      "hash": "sha256-npDZa9I+emfzV7+q9gNa+X9DtJEKtWtJSHZHDpSuMfI="
+    },
+    "type": "primary"
+  },
+  "Improved Closefaced Helmets Fixes -Artificer Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 596176,
+      "file_name": "Improved Closefaced Helmets Fixes -Artificer Patch-62832-1-0-1739857350.7z",
+      "mod_id": 62832,
+      "hash": "sha256-wU5eZ8cHm5Ph1ajN4JKVF+QCg4/Gmh5c2zzK9fpU2q8="
+    },
+    "type": "primary"
+  },
+  "Artificer - Daedric Voices Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 596757,
+      "file_name": "Artificer - Daedric Voices Patch-62832-1-0-1740012696.7z",
+      "mod_id": 62832,
+      "hash": "sha256-KvkT3R3mHrJn8l4Ynl8P0oZXO1PIGNyZho9nXc/P1t0="
+    },
+    "type": "primary"
+  },
+  "Project ja-Kha'jay - FabulousFollowersAIO Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 601232,
+      "file_name": "Project ja-Kha'jay - FabulousFollowersAIO Patch-62832-1-0-1740975172.7z",
+      "mod_id": 62832,
+      "hash": "sha256-SF7RRSTvZSQFolS4byZ6R49lra3tWeavKDjWwkf7D5Q="
+    },
+    "type": "primary"
+  },
+  "BUVARP - FabulousFollowersAIO Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 601234,
+      "file_name": "BUVARP - FabulousFollowersAIO Patch-62832-1-0-1740977098.7z",
+      "mod_id": 62832,
+      "hash": "sha256-EMc0KojH0ipYFEJeyKyluRxbOdE5au+/zqTgMIhvmdI="
+    },
+    "type": "primary"
+  },
+  "BUVARP - Artificer Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 601236,
+      "file_name": "BUVARP - Artificer Patch-62832-1-0-1740977181.7z",
+      "mod_id": 62832,
+      "hash": "sha256-ZCmcFdpvzCEnuWu9L4aUxOSip/T9GooAbX0ZX/88zHA="
+    },
+    "type": "primary"
+  },
+  "Project ja-Kha'jay - HDT SMP fluffy tail Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 601263,
+      "file_name": "Project ja-Kha'jay - HDT SMP fluffy tail Patch-62832-1-0-1740990607.7z",
+      "mod_id": 62832,
+      "hash": "sha256-s6DHFhJ2/yPHlLOcVcNadLsYUuSZHi2DFdI9SdUXyp8="
+    },
+    "type": "primary"
+  },
+  "Project ja-Kha'jay - Tamriel Dist. MM LG Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1",
+      "file_id": 602962,
+      "file_name": "Project ja-Kha'jay - Tamriel Dist. MM LG Patch-62832-1-1-1741405944.7z",
+      "mod_id": 62832,
+      "hash": "sha256-GiMJGHVdY97RGj04r4g3jna5jHj0kw5Fln8Sgb6059U="
+    },
+    "type": "primary"
+  },
+  "Better Vampires - USSEP Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 605436,
+      "file_name": "Better Vampires - USSEP Patch-62832-1-0-1741939664.7z",
+      "mod_id": 62832,
+      "hash": "sha256-2u16JilfarRF6fESDZZ7AojpK9jz4tr+wNMNUkOv8jA="
+    },
+    "type": "primary"
+  },
+  "Aetherius - High Poly Head Vampire Fix Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 607546,
+      "file_name": "Aetherius - High Poly Head Vampire Fix Patch-62832-1-0-1742438186.7z",
+      "mod_id": 62832,
+      "hash": "sha256-vuJ36k8fzZ5Jpey+A25WxERz+elMuySCn828LwGqTu0="
+    },
+    "type": "primary"
+  },
+  "Gourmet - Vilja in Skyrim": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 668306,
+      "file_name": "Gourmet - Vilja in Skyrim-62832-1-0-1758537627.7z",
+      "mod_id": 62832,
+      "hash": "sha256-GmBQJS5Wo/GWjZsZdl+UokdoauD0KQI6Qng42BRndCo="
+    },
+    "type": "primary"
+  },
+  "Gourmet - Immersive World Encounters": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 668310,
+      "file_name": "Gourmet - Immersive World Encounters-62832-1-0-1758538093.7z",
+      "mod_id": 62832,
+      "hash": "sha256-Q/mHOhJKw2bTawweeXh82MNL4UhEKnM7D8QuP9QCXxw="
+    },
+    "type": "primary"
+  },
+  "Gourmet - Khajiit Will Follow": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 668312,
+      "file_name": "Gourmet - Khajiit Will Follow-62832-1-0-1758538124.7z",
+      "mod_id": 62832,
+      "hash": "sha256-zKVSKMUx/Z0kWG/EJ+/y/57PScwekAHHuMAl54qgyOk="
+    },
+    "type": "primary"
+  },
+  "Gourmet - MarkarthHelpTheWarrens": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 668313,
+      "file_name": "Gourmet - MarkarthHelpTheWarrens-62832-1-0-1758538161.7z",
+      "mod_id": 62832,
+      "hash": "sha256-17YZyM9KMWLStvj4YaIQdr7nSYBzAO9Wca0+8sx9Tj0="
+    },
+    "type": "primary"
+  },
+  "Gourmet - Heart of Ice Astrid": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 668314,
+      "file_name": "Gourmet - Heart of Ice Astrid-62832-1-0-1758538196.7z",
+      "mod_id": 62832,
+      "hash": "sha256-0za2SHVYklC0EPql60FEKc18gsi/eTabgAdWUWv4QSE="
+    },
+    "type": "primary"
+  },
+  "Gourmet - Sa'chil": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 668316,
+      "file_name": "Gourmet - Sa'chil-62832-1-0-1758538275.7z",
+      "mod_id": 62832,
+      "hash": "sha256-/vOCx4B9YfSjFXNfRAS7yCbBksrE5kfVQEQsrW4FW6k="
+    },
+    "type": "primary"
+  },
+  "Scion - SimplyVampireToAshpile": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 669220,
+      "file_name": "Scion - SimplyVampireToAshpile-62832-1-0-1758784128.7z",
+      "mod_id": 62832,
+      "hash": "sha256-HrIaAJeIgWB9zg83tG/PRJxskeVYi6LQFTuNC6Iay/g="
+    },
+    "type": "primary"
+  },
+  "VAER - Artificer": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 672459,
+      "file_name": "VAER - Artificer-62832-1-0-1759647826.7z",
+      "mod_id": 62832,
+      "hash": "sha256-lMwudjYeUQcC6pmywt6cdzXoJJNk1JE8NMYHfMmLXw4="
+    },
+    "type": "primary"
+  },
+  "Gourmet - Little Witch Taeka Elixi": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0.0.1",
+      "file_id": 686790,
+      "file_name": "Gourmet - Little Witch Taeka Elixi-62832-1-0-0-1-1762972695.7z",
+      "mod_id": 62832,
+      "hash": "sha256-5Q50CgTFS0LKrUVvxWBUhES1MQ7h613+rM12neQ1ekI="
+    },
+    "type": "primary"
+  }
+}

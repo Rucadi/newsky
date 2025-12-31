@@ -1,0 +1,23 @@
+{
+  "Elisif Quest Starter Dialogue Only in Blue Palace": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 307900,
+      "file_name": "Elisif Quest Starter Dialogue Only in Blue Palace-73249-1-0-1660622461.zip",
+      "mod_id": 73249,
+      "hash": "sha256-uAjZifBgVi/GG0FDxvWpYyNkk6XgoGoTgnaEaGZ+6Ts="
+    }
+  },
+  "AA Text and Player Dialogue Revision": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.3",
+      "file_id": 316430,
+      "file_name": "Amorous Adventures Text and Player Dialogue Revision-73249-1-3-1663280896.zip",
+      "mod_id": 73249,
+      "hash": "sha256-Ey4xlalwUZcZ7k/+S7x7IdsvXPptmLxBDadI8uGzo6g="
+    },
+    "type": "primary"
+  }
+}

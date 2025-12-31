@@ -1,0 +1,23 @@
+{
+  "Sekiro Combat S - Timed Block Adjustment": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "2.02",
+      "file_id": 334429,
+      "file_name": "Sekiro Combat S - Timed Block Adjustment-79206-2-02-1669361038.zip",
+      "mod_id": 79206,
+      "hash": "sha256-62wps6q/73NRhXnKMt/kJE+M/e4GVRfb5IEf3mDKUZI="
+    }
+  },
+  "Sekiro Combat S": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "2.2",
+      "file_id": 338023,
+      "file_name": "Sekiro Combat S-79206-2-2-1670284252.zip",
+      "mod_id": 79206,
+      "hash": "sha256-WkbWWKoDvyBsB88HfYbxSCF1GET0KC5DbexM8k+V7dk="
+    },
+    "type": "primary"
+  }
+}

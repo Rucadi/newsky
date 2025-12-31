@@ -2,6 +2,8 @@
 - Author: Preeum
 - Game: skyrimspecialedition
 - Mod Page: https://www.nexusmods.com/skyrimspecialedition/mods/52153
+
+
 **SEAGULLS OF SKYRIM**
 
   

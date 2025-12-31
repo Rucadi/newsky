@@ -2,6 +2,8 @@
 - Author: wankingSkeever
 - Game: skyrimspecialedition
 - Mod Page: https://www.nexusmods.com/skyrimspecialedition/mods/52322
+
+
 > **Embers XD often changes its texture paths, which breaks existing compatibility patches. This mod is compatible with latest embers XD [color=#e06666][size=6][b]as of** v2.8.6+. If you encounter issues, you might need to update your embers XD.
 >   
 >   

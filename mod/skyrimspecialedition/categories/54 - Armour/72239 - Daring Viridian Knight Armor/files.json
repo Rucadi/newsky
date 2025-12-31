@@ -1,0 +1,67 @@
+{
+  "Daring Viridian Knight 3BA": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1",
+      "file_id": 302684,
+      "file_name": "Daring Viridian Knight 3BA-72239-1-1658956314.7z",
+      "mod_id": 72239,
+      "hash": "sha256-dyHFgXgqdRj3kJL8j2R9pQb5kvFC8iqPqbBgCwcdvrg="
+    },
+    "type": "primary"
+  },
+  "Daring Viridian Knight BHUNP": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1",
+      "file_id": 302685,
+      "file_name": "Daring Viridian Knight BHUNP-72239-1-1658956494.7z",
+      "mod_id": 72239,
+      "hash": "sha256-LKvy2KWGNkCpElnRViEjrNptwiOlkDYcuxIxNiwZl7Q="
+    },
+    "type": "primary"
+  },
+  "Daring Viridian Knight Optional Cubemap": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1",
+      "file_id": 302876,
+      "file_name": "Daring Viridian Knight Optional Cubemap-72239-1-1659020915.7z",
+      "mod_id": 72239,
+      "hash": "sha256-X4d4NQw1/YIEFDv+NTuzWTSgcz7zM1kJXgq6NY128Jw="
+    }
+  },
+  "Daring Viridian Knight CBBE": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1",
+      "file_id": 302938,
+      "file_name": "Daring Viridian Knight CBBE-72239-1-1659034753.7z",
+      "mod_id": 72239,
+      "hash": "sha256-YTpTXrICIFKOnvoBOS6LNOrs7Bk5WA9T0BRA4UuSdgo="
+    },
+    "type": "primary"
+  },
+  "Daring Viridian Knight 3BA Standalone": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1",
+      "file_id": 303649,
+      "file_name": "Daring Viridian Knight 3BA Standalone-72239-1-1659286386.7z",
+      "mod_id": 72239,
+      "hash": "sha256-lidtciSo9vIAYO0JTlx8cqQkBvWtZ0uxgMjewIxhbWQ="
+    },
+    "type": "primary"
+  },
+  "Daring Viridian Knight 3BA StndAln - Realistic Option": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1",
+      "file_id": 309569,
+      "file_name": "Daring Viridian Knight 3BA StndAln - Realistic Option-72239-1-1661192359.7z",
+      "mod_id": 72239,
+      "hash": "sha256-IRQzwn0BBIoqg816SaWZQuBqtsBHVqAUfoTxksK7Y4k="
+    },
+    "type": "primary"
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "More Ferries - Windhelm Alt Position": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0.2",
+      "file_id": 322482,
+      "file_name": "More Ferries - Windhelm Alt Position-73363-1-0-1665243293.zip",
+      "mod_id": 73363,
+      "hash": "sha256-Vb+QKl2iZjjsAjvni7ojElLBjIhMVIzY0jDfv0iq/BM="
+    }
+  },
+  "More Ferries": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1",
+      "file_id": 361380,
+      "file_name": "More Ferries-73363-1-1-1676836278.zip",
+      "mod_id": 73363,
+      "hash": "sha256-1ex4ABUANj6ZHdgpbfTVwMHOsNjrFtA4ESiGd+Wu75Q="
+    },
+    "type": "primary"
+  },
+  "More Ferries - RBB Row Boats (BOS)": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1",
+      "file_id": 361382,
+      "file_name": "More Ferries - RBB Row Boats (BOS)-73363-1-1-1676836415.zip",
+      "mod_id": 73363,
+      "hash": "sha256-87wd9O6d9/hFz3DqUCKu0LqnrB1t9y5NiMZuvpoMDAk="
+    }
+  },
+  "More Ferries - Less Lights": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1",
+      "file_id": 395365,
+      "file_name": "More Ferries - Less Lights-73363-1-1-1685990545.zip",
+      "mod_id": 73363,
+      "hash": "sha256-N4L5XX/5ugunV3166zfC39lywbKvoU0rG4eCekYRYY0="
+    }
+  }
+}

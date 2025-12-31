@@ -1,23 +1,23 @@
 {
-    "SMIM SE 2-08": {
-        "nexusmods": {
-            "game_name": "skyrimspecialedition",
-            "version": "2.08",
-            "file_id": 59069,
-            "file_name": "SMIM SE 2-08-659-2-08.7z",
-            "mod_id": 659,
-            "hash": "sha256-u2w7tbP3qK7vvBQJjjJl0nLn9FSpj4nqwwWaPwzGAwA="
-        },
-        "type": "primary"
+  "SMIM SE 2-08": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "2.08",
+      "file_id": 59069,
+      "file_name": "SMIM SE 2-08-659-2-08.7z",
+      "mod_id": 659,
+      "hash": "sha256-u2w7tbP3qK7vvBQJjjJl0nLn9FSpj4nqwwWaPwzGAwA="
     },
-    "SMIM SE 'Farming Creation Club' Patch": {
-        "nexusmods": {
-            "game_name": "skyrimspecialedition",
-            "version": "1.0",
-            "file_id": 595607,
-            "file_name": "SMIM SE 'Farming Creation Club' Patch-659-1-0-1739741945.7z",
-            "mod_id": 659,
-            "hash": "sha256-yQz0l7ao1v7qzqRqPJwZ12wD/y2SAleGCqgOxF0O2R8="
-        }
+    "type": "primary"
+  },
+  "SMIM SE 'Farming Creation Club' Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 595607,
+      "file_name": "SMIM SE 'Farming Creation Club' Patch-659-1-0-1739741945.7z",
+      "mod_id": 659,
+      "hash": "sha256-yQz0l7ao1v7qzqRqPJwZ12wD/y2SAleGCqgOxF0O2R8="
     }
+  }
 }

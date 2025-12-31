@@ -1,0 +1,23 @@
+{
+  "Feminize - Turning": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "0.9",
+      "file_id": 305423,
+      "file_name": "Feminize - Turning-72738-0-9-1659890780.7z",
+      "mod_id": 72738,
+      "hash": "sha256-r0C8JLdjd0C6iMf4vWYjXNgL2sB2vpcIX56QUmg+uh8="
+    },
+    "type": "primary"
+  },
+  "Feminize - Turning Idle": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "0.9",
+      "file_id": 305424,
+      "file_name": "Feminize - Turning Idle-72738-0-9-1659890840.7z",
+      "mod_id": 72738,
+      "hash": "sha256-I96tXO1MujWw4NEOrCNTwQlR9LNNoixzVvgV5GuzJL4="
+    }
+  }
+}

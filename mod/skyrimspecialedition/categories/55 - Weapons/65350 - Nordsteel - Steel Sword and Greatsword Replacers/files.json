@@ -1,0 +1,89 @@
+{
+  "Nordsteel - Standalone": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 271794,
+      "file_name": "Nordsteel - Standalone-65350-1-0-1647956901.7z",
+      "mod_id": 65350,
+      "hash": "sha256-xp7Fqcmaez8+UqxJwJeaJFCyIixZn3HjwbIMCxsi0PY="
+    }
+  },
+  "Nordsteel Sword and Greatsword Replacer - Variant 1": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 271795,
+      "file_name": "Nordsteel Sword and Greatsword Replacer - Variant 1-65350-1-0-1647957138.7z",
+      "mod_id": 65350,
+      "hash": "sha256-6k59SzL0Y8TNTX3BBl4rR5fbQBCaISsa4bXBR/7MtQY="
+    },
+    "type": "primary"
+  },
+  "Nordsteel Sword and Greatsword Replacer - Variant 2": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 271796,
+      "file_name": "Nordsteel Sword and Greatsword Replacer - Variant 2-65350-1-0-1647957246.7z",
+      "mod_id": 65350,
+      "hash": "sha256-FNqlbKCbBh8DPT7OiZy2XAwA3Iitu3r2rkg6eGYwxKM="
+    },
+    "type": "primary"
+  },
+  "Nordsteel Sword and Greatsword Replacer - Variant 3": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 271797,
+      "file_name": "noNordsteel Sword and Greatsword Replacer - Variant 3-65350-1-0-1647957273.7z",
+      "mod_id": 65350,
+      "hash": "sha256-vrdNnyIBodqN+f3LpjlcjqCeL8BpBs+ByHXxXO+AYwc="
+    },
+    "type": "primary"
+  },
+  "Nordsteel Sword and Greatsword Replacer - Variant 4": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 271798,
+      "file_name": "Nordsteel Sword and Greatsword Replacer - Variant 4-65350-1-0-1647957292.7z",
+      "mod_id": 65350,
+      "hash": "sha256-/PmklEKWdwif02CKWnlV+tVmqkm6Wd6teGuPNJrh43w="
+    },
+    "type": "primary"
+  },
+  "Nordsteel Sword and Greatsword Replacer - Variant 5": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 271799,
+      "file_name": "Nordsteel Sword and Greatsword Replacer - Variant 5-65350-1-0-1647957344.7z",
+      "mod_id": 65350,
+      "hash": "sha256-7t8nOOPM9GiLEYffClxDQ5Akm7xjuv6ecx3WsmyuniY="
+    },
+    "type": "primary"
+  },
+  "Nordsteel - FOMOD": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 274496,
+      "file_name": "Nordsteel - FOMOD-65350-1-0-1648959390.7z",
+      "mod_id": 65350,
+      "hash": "sha256-lIBJA84wBLBcYRnMTt61MEMuEYrXrblAWITxk50yEBI="
+    },
+    "type": "primary"
+  },
+  "Nordsteel - Standalone with Leveled-List": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 274497,
+      "file_name": "Nordsteel - Standalone with Leveled-List-65350-1-0-1648959622.7z",
+      "mod_id": 65350,
+      "hash": "sha256-O9SqUnLa4pLej0YhjcEF7zttNQxgTa4g2MqP45KGLgQ="
+    },
+    "type": "primary"
+  }
+}

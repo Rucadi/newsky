@@ -1,0 +1,44 @@
+{
+  "Northern Roads - Overgrowing Grass Remover": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0.0alt",
+      "file_id": 532197,
+      "file_name": "Northern Roads - Overgrowing Grass Remover-77893-1-0-0alt-1723852929.7z",
+      "mod_id": 77893,
+      "hash": "sha256-7dSV2vwd3ZSXLT5m8rZcGuF2JEVzIgBbneq5CiyGtk0="
+    }
+  },
+  "Northern Roads - Overgrowing Grass Remover xEdit": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0.0alt",
+      "file_id": 532198,
+      "file_name": "Northern Roads - Overgrowing Grass Remover xEdit-77893-1-0-0alt-1723852987.7z",
+      "mod_id": 77893,
+      "hash": "sha256-OulO+7aVcPYIWpN7l7Iu+G7zPvUWyN+jXeatj5ImfsA="
+    }
+  },
+  "Northern Roads - Patches Compendium": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "7.5.2",
+      "file_id": 702933,
+      "file_name": "Northern Roads - Patches Compendium-77893-7-5-2-1766939500.7z",
+      "mod_id": 77893,
+      "hash": "sha256-cdYiSLKrWOM6JL9ik3i54rrN2TvvxHACLtmI4jFHrXQ="
+    },
+    "type": "primary"
+  },
+  "Northern Roads - Fixes and Optimization": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "7.5.2",
+      "file_id": 702938,
+      "file_name": "Northern Roads - Fixes and Optimization-77893-7-5-2-1766940508.7z",
+      "mod_id": 77893,
+      "hash": "sha256-D+p/cmfS1AZGpH/W6s4Q5l9P7E8DslwdwtD8s9g0+Bs="
+    },
+    "type": "primary"
+  }
+}

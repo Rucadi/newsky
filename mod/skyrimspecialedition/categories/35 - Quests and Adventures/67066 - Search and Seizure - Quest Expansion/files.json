@@ -1,0 +1,23 @@
+{
+  "Search and Seizure - Quest Expansion - BUVARP Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 279503,
+      "file_name": "Search and Seizure - Quest Expansion - BUVARP Patch-67066-1-0-1650853394.7z",
+      "mod_id": 67066,
+      "hash": "sha256-0jfpuMVdyjCC+9rbR86Oqh+WB8/l81OVdEmAV5PBqHc="
+    }
+  },
+  "Search and Seizure - Quest Expansion": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.2",
+      "file_id": 358574,
+      "file_name": "Search and Seizure - Quest Expansion-67066-1-2-1676080037.7z",
+      "mod_id": 67066,
+      "hash": "sha256-vYf5pmGNR0VixMVwnHrpzhtV4jYTtGQQRKICowzpHc0="
+    },
+    "type": "primary"
+  }
+}

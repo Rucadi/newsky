@@ -1,0 +1,23 @@
+{
+  "Natura": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "4.0.5",
+      "file_id": 432959,
+      "file_name": "Natura-77826-4-0-5-1696964402.7z",
+      "mod_id": 77826,
+      "hash": "sha256-FIT/RMZ6+QVCz3N7wWgm8gUWYgQSAKuLSRQ5El4fjhc="
+    },
+    "type": "primary"
+  },
+  "Natura - Hive Staff": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0.0",
+      "file_id": 478410,
+      "file_name": "Natura - Hive Staff-77826-1-0-0-1709930121.7z",
+      "mod_id": 77826,
+      "hash": "sha256-76Bj4rgA9YVHApacPe7gkK2UM9pUILXp3fwbDwIzHNs="
+    }
+  }
+}

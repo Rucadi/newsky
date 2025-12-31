@@ -1,0 +1,46 @@
+{
+  "Mysterious Knight - CBBE 3BA": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 301671,
+      "file_name": "Mysterious Knight - CBBE 3BA-71925-1-0-1658633792.7z",
+      "mod_id": 71925,
+      "hash": "sha256-0jQskfL0LxIIzJO7/scjr1uGRyxfvsrbf/2bR7YdrkY="
+    },
+    "type": "primary"
+  },
+  "Mysterious Knight - COCOBody UUNP SE": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 301675,
+      "file_name": "Mysterious Knight - COCOBody UUNP SE-71925-1-0-1658634372.7z",
+      "mod_id": 71925,
+      "hash": "sha256-hd7z2MoB9lgDeptURt+OjMDIlTdVZqcrsJsAIL/Ax+w="
+    },
+    "type": "primary"
+  },
+  "Mysterious Knight - COCOBody CBBE SE": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 301678,
+      "file_name": "Mysterious Knight - COCOBody CBBE SE-71925-1-0-1658635219.7z",
+      "mod_id": 71925,
+      "hash": "sha256-G7LbNOjrNd3qg517dn6T+5llmgTlU/ifcghMx4HxGSs="
+    },
+    "type": "primary"
+  },
+  "Mysterious Knight - TBD SE": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1",
+      "file_id": 302144,
+      "file_name": "Mysterious Knight - TBD SE-71925-1-1-1658771247.7z",
+      "mod_id": 71925,
+      "hash": "sha256-FDjBKIHbQjbU9m4xgKufA1PYyQFDRHfFtvfogxPNTG4="
+    },
+    "type": "primary"
+  }
+}

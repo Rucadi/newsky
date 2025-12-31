@@ -1,0 +1,24 @@
+{
+  "Lion's mane": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1",
+      "file_id": 302388,
+      "file_name": "Lion's mane-72166-1-1658849720.7z",
+      "mod_id": 72166,
+      "hash": "sha256-p3UQVfbS321mPpYwYVpzhTJW6EnWe+lnfmKsA69YBKc="
+    },
+    "type": "primary"
+  },
+  "Lion's mane SMP": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1",
+      "file_id": 302389,
+      "file_name": "Lion's mane SMP-72166-1-1658849757.7z",
+      "mod_id": 72166,
+      "hash": "sha256-jQUDVD5UErtR/7VfEZIxiD6UwITSum4IDvHg4zFBy2A="
+    },
+    "type": "primary"
+  }
+}

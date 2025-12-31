@@ -1,0 +1,23 @@
+{
+  "Spouses Can Live Everywhere (SCLE)": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 267256,
+      "file_name": "Spouses Can Live Everywhere (SCLE)-64318-1-0-1646035619.rar",
+      "mod_id": 64318,
+      "hash": "sha256-TKEkQgwjGRQNawo0yUiXWHAVGuXOl34e1gbvw7vH6FM="
+    },
+    "type": "primary"
+  },
+  "Spouses Can Live Everywhere (SCLE) PATCH - AI Overhaul": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 270409,
+      "file_name": "Spouses Can Live Everywhere (SCLE) PATCH - AI Overhaul-64318-1-0-1647385441.rar",
+      "mod_id": 64318,
+      "hash": "sha256-IfIcygu9FAU4rBCPbSIITX0549lrlB1VxBudTo2Lz0g="
+    }
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "Niohoggr Warpaints": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 267191,
+      "file_name": "Niohoggr Warpaints-64277-1-0-1645998085.zip",
+      "mod_id": 64277,
+      "hash": "sha256-qNvLvDTuNAUeJYmKTsfRN+HwRLiL0ar0C0Ndz2c2+n0="
+    },
+    "type": "primary"
+  },
+  "Niohoggr Warpaints and Facepaints": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.4",
+      "file_id": 269655,
+      "file_name": "Niohoggr Warpaints and Facepaints-64277-1-4-1647103209.zip",
+      "mod_id": 64277,
+      "hash": "sha256-EON5/KZKXF7KeBsT+hJM4M5nhWhmC6mnawVnfK7Ek8Q="
+    },
+    "type": "primary"
+  },
+  "Niohoggr Warpaints - All in one": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "2.0",
+      "file_id": 313871,
+      "file_name": "Niohoggr Warpaints - All in one-64277-2-0-1662503577.zip",
+      "mod_id": 64277,
+      "hash": "sha256-EhK83qJjEQDemoRQZSiCoFMP1veRsx97A0bQ2zgX2XM="
+    },
+    "type": "primary"
+  }
+}

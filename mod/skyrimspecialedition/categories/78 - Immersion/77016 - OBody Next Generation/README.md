@@ -2,6 +2,8 @@
 - Author: Aietos - Noname365 - Sairion350
 - Game: skyrimspecialedition
 - Mod Page: https://www.nexusmods.com/skyrimspecialedition/mods/77016
+
+
 ![](https://i.imgur.com/hjML8lf.png)﻿
 
   

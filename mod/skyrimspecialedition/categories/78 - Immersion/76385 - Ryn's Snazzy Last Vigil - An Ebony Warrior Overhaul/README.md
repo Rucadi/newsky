@@ -2,6 +2,8 @@
 - Author: Ryn and Gutmaw
 - Game: skyrimspecialedition
 - Mod Page: https://www.nexusmods.com/skyrimspecialedition/mods/76385
+
+
 [font=Georgia]The Largest Ebony Warrior Expansion on The Nexus
   
 By: Gutmaw and Ryn2g.

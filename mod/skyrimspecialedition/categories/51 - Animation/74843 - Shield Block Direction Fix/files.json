@@ -1,0 +1,23 @@
+{
+  "Shield Block Direction Fix": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "2.0",
+      "file_id": 425717,
+      "file_name": "Shield Block Direction Fix-74843-2-0-1694694627.zip",
+      "mod_id": 74843,
+      "hash": "sha256-NwuzW3h9DJSgl4bWnHPtFDgJKOoQqP72roPRbYG5xyA="
+    },
+    "type": "primary"
+  },
+  "Bash Speed Fix": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "2.0",
+      "file_id": 425718,
+      "file_name": "Bash Speed Fix-74843-2-0-1694694669.zip",
+      "mod_id": 74843,
+      "hash": "sha256-vqn30eFnwfybPStYA5Nj65qwuf4mFrrcbBFkSSFMWEI="
+    }
+  }
+}

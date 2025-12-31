@@ -1,0 +1,63 @@
+{
+  "Balance Adjustments by IgnotsP": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.05",
+      "file_id": 475077,
+      "file_name": "Balance Adjustments by IgnotsP-55647-1-05-1709043480.7z",
+      "mod_id": 55647,
+      "hash": "sha256-ycDs/H7/QkC9X86uVqOvx/wox7n9EiyuhU4nHEaR0xg="
+    }
+  },
+  "Enhanced Standing Stones - Convenient Horses Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.05",
+      "file_id": 475079,
+      "file_name": "Enhanced Standing Stones - Convenient Horses Patch-55647-1-05-1709043607.7z",
+      "mod_id": 55647,
+      "hash": "sha256-6rTLmrjG6wCQcUmfMbl5/H2ri/0B/Rk/NI/gUSQE01Y="
+    }
+  },
+  "Enhanced Standing Stones - Mysticism and EDM Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.05",
+      "file_id": 475084,
+      "file_name": "Enhanced Standing Stones - Mysticism and EDM Patch-55647-1-05-1709045173.7z",
+      "mod_id": 55647,
+      "hash": "sha256-/NUFAFJ7mBesxmZzEC2XVXoOFrI5ArmyDzEkqBHdNEA="
+    }
+  },
+  "Enhanced Standing Stones - USSEP Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.07",
+      "file_id": 487000,
+      "file_name": "Enhanced Standing Stones - USSEP Patch-55647-1-07-1712105740.7z",
+      "mod_id": 55647,
+      "hash": "sha256-r8x8jQIivWslWsop6l+pfWyZtTa++lCpQDln/kyFO4s="
+    }
+  },
+  "Enhanced Standing Stones - EDM Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.07",
+      "file_id": 487001,
+      "file_name": "Enhanced Standing Stones - EDM Patch-55647-1-07-1712105781.7z",
+      "mod_id": 55647,
+      "hash": "sha256-scdZ9Xtn5rAgRlvX/z2hPyYIthz8Yn/LOq9OkW65czQ="
+    }
+  },
+  "Enhanced Standing Stones": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.10",
+      "file_id": 661017,
+      "file_name": "Enhanced Standing Stones-55647-1-10-1756632128.7z",
+      "mod_id": 55647,
+      "hash": "sha256-43RNDSKFV0hZvi4l1+j5sxy/oFDqSeVPEgj6S4kFZbY="
+    },
+    "type": "primary"
+  }
+}

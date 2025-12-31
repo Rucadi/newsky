@@ -1,0 +1,23 @@
+{
+  "Open Cities Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1",
+      "file_id": 289081,
+      "file_name": "Open Cities Patch-53839-1-1-1654482236.rar",
+      "mod_id": 53839,
+      "hash": "sha256-6CxPxSaC/QSm2oVwRpEHQZXg0RnJB0+BHO5cogkvddk="
+    }
+  },
+  "Emberbrand Cellar 1.3": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.3",
+      "file_id": 588652,
+      "file_name": "Emberbrand Cellar 1.3-53839-1-3-1738131415.7z",
+      "mod_id": 53839,
+      "hash": "sha256-P7yS5W2VW+mrafXqhUn1BddUcoVZeZ+6wfYFIZvIQwM="
+    },
+    "type": "primary"
+  }
+}

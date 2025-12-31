@@ -2,6 +2,8 @@
 - Author: colinswrath
 - Game: skyrimspecialedition
 - Mod Page: https://www.nexusmods.com/skyrimspecialedition/mods/78244
+
+
 ![](https://raw.githubusercontent.com/colinswrath/ModdingImages/main/SMI-Menu2.png)
   
   

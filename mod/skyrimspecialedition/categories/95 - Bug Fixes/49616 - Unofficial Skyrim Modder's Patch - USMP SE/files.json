@@ -1,0 +1,53 @@
+{
+  "AE - All Game Arrows no weight German": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 355054,
+      "file_name": "AE - All Game Arrows no weight German-49616-1-0-1675197619.7z",
+      "mod_id": 49616,
+      "hash": "sha256-geLnE08cPvd86pbVCW1tqRE4fTWhZ+ktPl8UspCZ7og="
+    }
+  },
+  "Unofficial Skyrim Modder's Patch (No added Mstr) G": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "2.6.6",
+      "file_id": 652148,
+      "file_name": "Unofficial Skyrim Modder's Patch (No added Mstr) G-49616-2-6-6-1754150671.7z",
+      "mod_id": 49616,
+      "hash": "sha256-p0zIFVcmvL9h3ACuUtsN9Jgdlu/9AXuKUmJwlCAOqSM="
+    }
+  },
+  "Unofficial Skyrim Modder's Patch - USMP SE German": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "2.6.6",
+      "file_id": 652149,
+      "file_name": "Unofficial Skyrim Modder's Patch - USMP SE German-49616-2-6-6-1754150765.7z",
+      "mod_id": 49616,
+      "hash": "sha256-+RN2ZFKI0gZI0u7qPcaII4/DrBHiaS3GYl+Hs2jZDn8="
+    }
+  },
+  "Vanilla Torch Mesh": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1",
+      "file_id": 656746,
+      "file_name": "Vanilla Torch Mesh-49616-1-1-1755480734.7z",
+      "mod_id": 49616,
+      "hash": "sha256-jTEFjwIKPBnah1HXB0ymhvuVOfvGCchTR3jBv4yaC6E="
+    }
+  },
+  "Unofficial Skyrim Modder's Patch - USMP SE 2.6.7": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "2.6.7",
+      "file_id": 691454,
+      "file_name": "Unofficial Skyrim Modder's Patch - USMP SE 2.6.7-49616-2-6-7-1764166812.7z",
+      "mod_id": 49616,
+      "hash": "sha256-AGNebZi5Qc+LpjnU/CYB+//E8/2T4MZ0TV0pAXL8W/c="
+    },
+    "type": "primary"
+  }
+}

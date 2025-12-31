@@ -1,0 +1,23 @@
+{
+  "Constance_Sexlab_Spanking": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "A",
+      "file_id": 327996,
+      "file_name": "Constance_Sexlab_Spanking-77871-A-1667237003.rar",
+      "mod_id": 77871,
+      "hash": "sha256-HWRb/iIZICbglzCfGrIhy12mkeCLwzAW7ANEOwiA0sI="
+    }
+  },
+  "shadowman10_constanceSL": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "2",
+      "file_id": 362005,
+      "file_name": "shadowman10_constanceSL-77871-2-1676984681.rar",
+      "mod_id": 77871,
+      "hash": "sha256-c8HFtzPMA1AKcWXYkwihobVg/5q1PpE4V9JJyMb+GDo="
+    },
+    "type": "primary"
+  }
+}

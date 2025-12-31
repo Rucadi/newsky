@@ -1,0 +1,88 @@
+{
+  "BnP child skin (RS children) 4k": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "2.0",
+      "file_id": 437097,
+      "file_name": "BnP child skin (RS children) 4k-78536-2-0-1698273637.7z",
+      "mod_id": 78536,
+      "hash": "sha256-2XJypAWID84XOhJq7LmkgBUvh8+JsKsppBKE6Hf+/2E="
+    },
+    "type": "primary"
+  },
+  "BnP child skin (RS children) 2k": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "2.0",
+      "file_id": 437098,
+      "file_name": "BnP child skin (RS children) 2k-78536-2-0-1698273728.7z",
+      "mod_id": 78536,
+      "hash": "sha256-ZEOmF/BD4lQjW/3Xh47dSbE+iHSmhLcjwipvICFInVY="
+    },
+    "type": "primary"
+  },
+  "BnP child skin (Simple children) 4k": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "2.0",
+      "file_id": 437099,
+      "file_name": "BnP child skin (Simple children) 4k-78536-2-0-1698273874.7z",
+      "mod_id": 78536,
+      "hash": "sha256-YD4H++JneiJn1VdHnYqy19AF9J+Le0OJkVhaakuEonY="
+    },
+    "type": "primary"
+  },
+  "BnP child skin (Simple children) 2k": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "2.0",
+      "file_id": 437100,
+      "file_name": "BnP child skin (Simple children) 2k-78536-2-0-1698273919.7z",
+      "mod_id": 78536,
+      "hash": "sha256-DhwpDRMaUi16Y9m2HwkHxeekgtWJqm/LTFailtie0qw="
+    },
+    "type": "primary"
+  },
+  "BnP child skin (TKAA) 4k": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "2.0",
+      "file_id": 437102,
+      "file_name": "BnP child skin (TKAA) 4k-78536-2-0-1698274331.7z",
+      "mod_id": 78536,
+      "hash": "sha256-3Yi6b2BW/YiCP5a5owDuFDr7FLqcssI5sDczYhfmVK4="
+    },
+    "type": "primary"
+  },
+  "BnP child skin (TKAA) 2k": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "2.0",
+      "file_id": 437103,
+      "file_name": "BnP child skin (TKAA) 2k-78536-2-0-1698274427.7z",
+      "mod_id": 78536,
+      "hash": "sha256-SRErfmRtO8MWHNVLUwSX5JZxESg9A6TZVFHMF/AfmDY="
+    },
+    "type": "primary"
+  },
+  "Alternative freckles for RS children": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "2.0",
+      "file_id": 437508,
+      "file_name": "Alternative freckles for RS children-78536-2-0-1698429326.7z",
+      "mod_id": 78536,
+      "hash": "sha256-6vsP3986Hu5JPgDJd08prDJjGeWqRVHSI2UEpXyDprg="
+    }
+  },
+  "Alternative freckles for TKAA children": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "2.0",
+      "file_id": 437509,
+      "file_name": "Alternative freckles for TKAA children-78536-2-0-1698429371.7z",
+      "mod_id": 78536,
+      "hash": "sha256-lVXTaViN44n5eu/poxL8PQasta0ezY0J32YnwtI6Cmk="
+    }
+  }
+}

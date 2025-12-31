@@ -2,6 +2,8 @@
 - Author: RemmyKun
 - Game: skyrimspecialedition
 - Mod Page: https://www.nexusmods.com/skyrimspecialedition/mods/65984
+
+
 **Falmer Totems:**
   
 These things are supposed to emit light from the glowing "eyes" they have. But in vanilla this is faked by adding glow to other parts of the totem... and of course that doesn't look realistic... IT LOOKS STUPID!! \*cough\*

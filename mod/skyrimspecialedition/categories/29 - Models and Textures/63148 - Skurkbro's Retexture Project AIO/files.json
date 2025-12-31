@@ -1,0 +1,133 @@
+{
+  "Parallax Material Fix": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.01",
+      "file_id": 273654,
+      "file_name": "Paralllax Material Fix-63148-1-01-1648635375.zip",
+      "mod_id": 63148,
+      "hash": "sha256-E/W4G/qL8SZsqrI70at/lx9hVz6oLouPSZHHHG1GRRM="
+    }
+  },
+  "SRP Architecture 4K": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "4.0",
+      "file_id": 341050,
+      "file_name": "SRP Architecture 4K-63148-4-0-1671203858.zip",
+      "mod_id": 63148,
+      "hash": "sha256-GAsDABMtBQxr0DFFO0ImTi+DZKYT/t5JDmZKs5gPWzA="
+    },
+    "type": "primary"
+  },
+  "SRP Architecture 2K": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "4.0",
+      "file_id": 341052,
+      "file_name": "SRP Architecture 2K-63148-4-0-1671204265.zip",
+      "mod_id": 63148
+    },
+    "type": "primary"
+  },
+  "SRP Architecture 1K": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "4.0",
+      "file_id": 341053,
+      "file_name": "SRP Architecture 1K-63148-4-0-1671204410.zip",
+      "mod_id": 63148
+    },
+    "type": "primary"
+  },
+  "SRP Dungeons 4K": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "4.0",
+      "file_id": 341059,
+      "file_name": "SRP Dungeons 4K-63148-4-0-1671205401.zip",
+      "mod_id": 63148
+    },
+    "type": "primary"
+  },
+  "SRP Dungeons 2K": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "4.0",
+      "file_id": 341065,
+      "file_name": "SRP Dungeons 2K-63148-4-0-1671205880.zip",
+      "mod_id": 63148
+    },
+    "type": "primary"
+  },
+  "SRP Dungeons 1K": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "4.0",
+      "file_id": 341068,
+      "file_name": "SRP Dungeons 1K-63148-4-0-1671206108.zip",
+      "mod_id": 63148
+    },
+    "type": "primary"
+  },
+  "SRP Landscapes 4K": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "4.0",
+      "file_id": 341071,
+      "file_name": "SRP Landscapes 4K-63148-4-0-1671206611.rar",
+      "mod_id": 63148
+    },
+    "type": "primary"
+  },
+  "SRP Landscapes 2K": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "4.0",
+      "file_id": 341072,
+      "file_name": "SRP Landscapes 2K-63148-4-0-1671207049.zip",
+      "mod_id": 63148
+    },
+    "type": "primary"
+  },
+  "SRP Landscapes 1K": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "4.0",
+      "file_id": 341075,
+      "file_name": "SRP Landscapes 1K-63148-4-0-1671207396.zip",
+      "mod_id": 63148
+    },
+    "type": "primary"
+  },
+  "SRP Misc 4K": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "4.0",
+      "file_id": 341080,
+      "file_name": "SRP Misc 4K-63148-4-0-1671208325.zip",
+      "mod_id": 63148
+    },
+    "type": "primary"
+  },
+  "SRP Misc 2K": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "4.0",
+      "file_id": 341081,
+      "file_name": "SRP Misc 2K-63148-4-0-1671208458.zip",
+      "mod_id": 63148
+    },
+    "type": "primary"
+  },
+  "SRP Misc 1K": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "4.0",
+      "file_id": 341082,
+      "file_name": "SRP Misc 1K-63148-4-0-1671208525.zip",
+      "mod_id": 63148
+    },
+    "type": "primary"
+  }
+}

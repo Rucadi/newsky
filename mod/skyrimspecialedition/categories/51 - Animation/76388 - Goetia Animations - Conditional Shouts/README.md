@@ -2,6 +2,8 @@
 - Author: Verolevi
 - Game: skyrimspecialedition
 - Mod Page: https://www.nexusmods.com/skyrimspecialedition/mods/76388
+
+
 The character (PC/NPC) will now perform different Shout animations depending on the shout's effect, the Shouts are categorized as seen in
   
 the following table:

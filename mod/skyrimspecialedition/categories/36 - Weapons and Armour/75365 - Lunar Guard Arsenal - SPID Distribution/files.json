@@ -1,0 +1,23 @@
+{
+  "Lunar Guard Armor SPID": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "Necro",
+      "file_id": 527896,
+      "file_name": "Lunar Guard Armor SPID-75365-Necro-1722705514.7z",
+      "mod_id": 75365,
+      "hash": "sha256-PW32ZuZ2ItxarhDJ5ymGc9XihBJoxWW2Hfc1EaWbTxo="
+    },
+    "type": "primary"
+  },
+  "Lunar Guard Battleaxe Select Caravan Guards": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "Necro",
+      "file_id": 527898,
+      "file_name": "Lunar Guard Battleaxe Select Caravan Guards-75365-Necro-1722705617.7z",
+      "mod_id": 75365,
+      "hash": "sha256-mcakx0zEn1QdTSIA/FLoNnLLITkAy9RTfiRDGP9X9eI="
+    }
+  }
+}

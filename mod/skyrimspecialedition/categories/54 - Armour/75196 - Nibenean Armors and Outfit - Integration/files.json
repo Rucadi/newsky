@@ -1,0 +1,23 @@
+{
+  "Nibenean Armors and Outfit - Integration": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 315616,
+      "file_name": "Nibenean Armors and Outfit - Integration-75196-1-0-1663003902.zip",
+      "mod_id": 75196,
+      "hash": "sha256-k9fUPk0t8IIWTib2n8SFe8LQ2mCnXExM7ATIgb4461E="
+    },
+    "type": "primary"
+  },
+  "Nibenean Armors and Outfit - Integration - SPID Addon": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 315636,
+      "file_name": "Nibenean Armors and Outfit - Integration - SPID Addon-75196-1-0-1663006911.zip",
+      "mod_id": 75196,
+      "hash": "sha256-TK5EwF+/gflK1EZQVx1JIm2Rknhfs2F4encGZ/MeQjc="
+    }
+  }
+}

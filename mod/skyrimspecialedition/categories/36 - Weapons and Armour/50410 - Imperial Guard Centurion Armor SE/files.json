@@ -1,0 +1,54 @@
+{
+  "Imperial Guard Centurion Armor SE - Imperial Officer Replacer": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.2.1",
+      "file_id": 206435,
+      "file_name": "Imperial Guard Centurion Armor SE - Imperial Officer Replacer-50410-1-2-1-1622404687.rar",
+      "mod_id": 50410,
+      "hash": "sha256-RqpPvLYqEjQb2kSfZrd/I0k2qDz4uDsesF5xYtVdAfA="
+    }
+  },
+  "Imperial Guard Centurion Armor SE - 2k": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.2.1",
+      "file_id": 206436,
+      "file_name": "Imperial Guard Centurion Armor SE - 2k-50410-1-2-1-1622404776.rar",
+      "mod_id": 50410,
+      "hash": "sha256-z+cTLCl64xeeJagN0rG1YVZRI1JLl3UWXXikYaMPXJc="
+    },
+    "type": "primary"
+  },
+  "Imperial Guard Centurion Armor SE - 4k": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.2.1",
+      "file_id": 206438,
+      "file_name": "Imperial Guard Centurion Armor SE - 4k-50410-1-2-1-1622405118.rar",
+      "mod_id": 50410,
+      "hash": "sha256-sh3ops9sEu8m55HtgMvQKYjxzmwXvo8xPFVyKlhrcvY="
+    },
+    "type": "primary"
+  },
+  "Imperial Guard Centurion Armor SE - ESL": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.2.2",
+      "file_id": 206850,
+      "file_name": "Imperial Guard Centurion Armor SE - ESL-50410-1-2-2-1622592436.rar",
+      "mod_id": 50410,
+      "hash": "sha256-GJOJUtIEMDsUMI04fq6rvzhGRcvHeCKwXtdQIsbVAEM="
+    }
+  },
+  "Imperial Guard Centurion Armor SE - Imperial Officer Replacer - ESL": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.2.2",
+      "file_id": 206851,
+      "file_name": "Imperial Guard Centurion Armor SE - Imperial Officer Replacer - ESL-50410-1-2-2-1622592737.rar",
+      "mod_id": 50410,
+      "hash": "sha256-D8jgdNmH3KJob0p1TdNkUmJOe0jLup/DckroUcx619Y="
+    }
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "JS Common Cages SE - 2k Textures": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.03",
+      "file_id": 288677,
+      "file_name": "JS Common Cages SE - 2k Textures-68236-1-03-1654316421.7z",
+      "mod_id": 68236,
+      "hash": "sha256-G2QJ41UfLFUlkbXYCeNGOiN+9TznwRgbOFptjSDcCvQ="
+    },
+    "type": "primary"
+  },
+  "JS Common Cages SE - 4k Textures": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.03",
+      "file_id": 288679,
+      "file_name": "JS Common Cages SE - 4k Textures-68236-1-03-1654316504.7z",
+      "mod_id": 68236,
+      "hash": "sha256-KbtIDWuG9d+iVL+c1XwuZnj93RK0CWYREG96LwSy2wQ="
+    },
+    "type": "primary"
+  }
+}

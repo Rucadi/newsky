@@ -1,0 +1,23 @@
+{
+  "Hrothmund the Red Enhanced Voice": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 331397,
+      "file_name": "Hrothmund the Red Enhanced Voice-78683-1-0-1668329098.zip",
+      "mod_id": 78683,
+      "hash": "sha256-uP+7lgAA27FVQFmkjT85D6Wp6xBbEjUB6OYaKa73Bbs="
+    },
+    "type": "primary"
+  },
+  "Hrothmund the Red Enhanced Voice - Clear": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.01",
+      "file_id": 332912,
+      "file_name": "Hrothmund the Red Enhanced Voice - Clear-78683-1-01-1668845013.zip",
+      "mod_id": 78683,
+      "hash": "sha256-GGHG5A3hYjd3xnGSFsJJuqzn4pzuCSOhyaqaqa/Rcys="
+    }
+  }
+}

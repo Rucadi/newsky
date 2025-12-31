@@ -1,0 +1,24 @@
+{
+  "Crimson Twilight Guilded Retex": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "V1.01",
+      "file_id": 329605,
+      "file_name": "Crimson Twilight Guilded Retex-77159-V1-01-1667755663.7z",
+      "mod_id": 77159,
+      "hash": "sha256-s/pdaB7fpXPStjxgsjtOCiMk50SAZQI7Jd3VueU68JU="
+    },
+    "type": "primary"
+  },
+  "Scarlet Dawn Gilded Retex": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "V1.02",
+      "file_id": 329770,
+      "file_name": "Scarlet Dawn Gilded Retex-77159-V1-02-1667776992.7z",
+      "mod_id": 77159,
+      "hash": "sha256-CqbtLsh58HYa00w5yKxMMJCqEc3BsFb7DEfxNllNosI="
+    },
+    "type": "primary"
+  }
+}

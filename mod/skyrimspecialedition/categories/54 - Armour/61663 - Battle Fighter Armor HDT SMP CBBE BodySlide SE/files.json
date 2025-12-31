@@ -1,0 +1,35 @@
+{
+  "Battle Fighter Armor HDT SMP CBBE BodySlide SE v1.1": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "v1.1",
+      "file_id": 258706,
+      "file_name": "Battle Fighter Armor HDT SMP CBBE BodySlide SE v1.1-61663-v1-1-1642881618.7z",
+      "mod_id": 61663,
+      "hash": "sha256-1dpydJy8C0pytdyqC3uzFnF3EO2s7CKRXJgpQ1UW+s4="
+    },
+    "type": "primary"
+  },
+  "Battle Fighter Armor HDT SMP CBBE BodySlide SE v1.1 (ESL)": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "v1.1",
+      "file_id": 258764,
+      "file_name": "Battle Fighter Armor HDT SMP CBBE BodySlide SE v1.1 (ESL)-61663-v1-1-1642894997.7z",
+      "mod_id": 61663,
+      "hash": "sha256-Qa1mh2v+Jeyi1F1U2rwx6jzKbIpQM+OggEqeUap1n6I="
+    },
+    "type": "primary"
+  },
+  "Battle Fighter Armor HDT SMP CBBE BodySlide SE v1.1(LP)": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "v1.1",
+      "file_id": 258771,
+      "file_name": "Battle Fighter Armor HDT SMP CBBE BodySlide SE v1.1(LP)-61663-v1-1-1642895443.7z",
+      "mod_id": 61663,
+      "hash": "sha256-PgIrPJdgeDOB11s6ZlxBJcjRZtv6YtVWLZStatDLxz8="
+    },
+    "type": "primary"
+  }
+}

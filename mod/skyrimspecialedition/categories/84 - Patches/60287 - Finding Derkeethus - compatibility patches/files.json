@@ -1,0 +1,24 @@
+{
+  "Finding Derkeethus Dawnguard patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 250030,
+      "file_name": "Finding Derkheetus Dawnguard patch-60287-1-0-1639823977.7z",
+      "mod_id": 60287,
+      "hash": "sha256-bubFw/qCJ+0dMmW41cH+E0xDBroHyPxiDk3etgQIi9w="
+    },
+    "type": "primary"
+  },
+  "Finding Derkeethus USSEP Patch 1.1": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1",
+      "file_id": 250096,
+      "file_name": "Finding Derkeethus USSEP Patch 1.1-60287-1-1-1639845403.7z",
+      "mod_id": 60287,
+      "hash": "sha256-CPleDR/+f+klaivslesT3dkXhzZz/vzt9zZr7u1Wdas="
+    },
+    "type": "primary"
+  }
+}

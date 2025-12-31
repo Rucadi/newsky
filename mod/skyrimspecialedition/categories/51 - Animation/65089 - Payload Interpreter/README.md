@@ -2,6 +2,8 @@
 - Author: dTry alexsylex
 - Game: skyrimspecialedition
 - Mod Page: https://www.nexusmods.com/skyrimspecialedition/mods/65089
+
+
 [font=Trebuchet MS]For mod users:
   
 [/font]If you're here because this mod is some other mod's requirement, just download it. This mod does nothing on its own and it doesn't bite.

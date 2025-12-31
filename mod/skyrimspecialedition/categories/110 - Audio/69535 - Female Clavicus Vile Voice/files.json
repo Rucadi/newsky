@@ -1,0 +1,23 @@
+{
+  "Female Clavicus Vile Voice": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 290521,
+      "file_name": "Female Clavicus Vile Voice-69535-1-0-1654990694.zip",
+      "mod_id": 69535,
+      "hash": "sha256-KwZKES4qotFsOZKDSteqZw/Puf47JocUUYMFd0PJXoU="
+    },
+    "type": "primary"
+  },
+  "Female Clavicus Vile Voice - AFDI Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 619182,
+      "file_name": "Female Clavicus Vile Voice - AFDI Patch-69535-1-0-1745108262.zip",
+      "mod_id": 69535,
+      "hash": "sha256-Kn6sZ3Ak0PSGI5+PHcZ/+Vv5UPLOI4jP0mDDmfs2b9A="
+    }
+  }
+}

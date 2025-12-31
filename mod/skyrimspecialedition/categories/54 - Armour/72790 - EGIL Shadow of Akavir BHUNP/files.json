@@ -1,0 +1,73 @@
+{
+  "SOA 4K Textures Compressed": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "2022.a",
+      "file_id": 305876,
+      "file_name": "SOA 4K Textures Compressed-72790-2022-a-1660013055.7z",
+      "mod_id": 72790,
+      "hash": "sha256-DKGzfzkTxgMZKB2CqhhDVS4pe6Z5M80zMWZMv4Vf2Vo="
+    }
+  },
+  "SOA 2K Textures": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "2022.a",
+      "file_id": 305884,
+      "file_name": "SOA 2K Textures-72790-2022-a-1660014275.7z",
+      "mod_id": 72790,
+      "hash": "sha256-ooL5IbMDCvfNWKlmP/5pRAIuOqcsmH3V1Gb+7qdvibM="
+    }
+  },
+  "SOA 4K Textures": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "2022.b",
+      "file_id": 305885,
+      "file_name": "SOA 4K Textures-72790-2022-b-1660014278.7z",
+      "mod_id": 72790,
+      "hash": "sha256-Bfugt6auXQzPDxOqeiYRNxe0r2DS/UwWeWOv3yDRbG0="
+    }
+  },
+  "SOA Mask NiOPA by R1Goodwin": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "2022.a",
+      "file_id": 306087,
+      "file_name": "SOA Mask NiOPA by R1Goodwin-72790-2022-a-1660064355.7z",
+      "mod_id": 72790,
+      "hash": "sha256-qMMuKTAVWgXr/LRVq6vfFG53NFAQZrNrqGTTSD8ovo8="
+    }
+  },
+  "EGIL Shadow of Akavir Charmer of The Reach Compatibility Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "2022.b",
+      "file_id": 306330,
+      "file_name": "EGIL Shadow of Akavir Charmer of The Reach Compatibility Patch-72790-2022-b-1660144385.7z",
+      "mod_id": 72790,
+      "hash": "sha256-ubFJIYR2rtgbBLHKV3zfZy2qajg+4jLyxdT9MbPWd8k="
+    }
+  },
+  "BHUNP EGIL Shadow of Akavir AIO": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "2022.b",
+      "file_id": 306331,
+      "file_name": "BHUNP EGIL Shadow of Akavir AIO-72790-2022-b-1660144400.7z",
+      "mod_id": 72790,
+      "hash": "sha256-K06YLj90vusDGp9AXKD+Jx5/CVvROE1BOQKT7zj74zA="
+    },
+    "type": "primary"
+  },
+  "BHUNP EGIL Shadow of Akavir": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "2022.b",
+      "file_id": 306332,
+      "file_name": "BHUNP EGIL Shadow of Akavir-72790-2022-b-1660144411.7z",
+      "mod_id": 72790,
+      "hash": "sha256-+LHnR34qtQhr3zUCLuuDxv75206VrIr0zOQpm8uinMQ="
+    }
+  }
+}

@@ -1,0 +1,65 @@
+{
+  "DSR MESHES WITH MIRRORED STRAP": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 203069,
+      "file_name": "DSR MESHES WITH MIRRORED STRAP-49821-1-0-1620833697.zip",
+      "mod_id": 49821,
+      "hash": "sha256-8eMhc5GhO9wQSJj0/9temUjCmzz9wrDuyxh/ewb+W1I="
+    }
+  },
+  "DSR MESHES WITHOUT STRAPS": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 203070,
+      "file_name": "DSR MESHES WITHOUT STRAPS-49821-1-0-1620833747.zip",
+      "mod_id": 49821,
+      "hash": "sha256-RmYUDyrq6xsMboJuw/LZNMYB81iGEz4HfoDFGvZj3YQ="
+    }
+  },
+  "HIGH RESOLUTION NORMAL MAP": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 203071,
+      "file_name": "HIGH RESOLUTION NORMAL MAP-49821-1-0-1620833783.zip",
+      "mod_id": 49821,
+      "hash": "sha256-Mdjoi01Sfi9uKiOoDiPjOaiR2uuVq9mG92oPh8104Kc="
+    }
+  },
+  "FOMOD ESPFE": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.34",
+      "file_id": 224725,
+      "file_name": "FOMOD ESPFE-49821-1-34-1630267822.zip",
+      "mod_id": 49821,
+      "hash": "sha256-w5Q97MXhAAimdHuuInQ6CvI1j8JuwuAmnlcXD6vaHK0="
+    },
+    "type": "primary"
+  },
+  "QUEST ESPFE": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.34",
+      "file_id": 224726,
+      "file_name": "QUEST ESPFE-49821-1-34-1630267966.zip",
+      "mod_id": 49821,
+      "hash": "sha256-oTJbniHl0pquyfz0NY/NZxYtQ4VO8MP4fLdq2GsjA+I="
+    },
+    "type": "primary"
+  },
+  "_CRAFT ESPFE": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.34",
+      "file_id": 224727,
+      "file_name": "_CRAFT ESPFE-49821-1-34-1630268090.zip",
+      "mod_id": 49821,
+      "hash": "sha256-npng5C/pPR/V//4RJEiqd+YDyBfNLgno9bqnD7t9n4Q="
+    },
+    "type": "primary"
+  }
+}

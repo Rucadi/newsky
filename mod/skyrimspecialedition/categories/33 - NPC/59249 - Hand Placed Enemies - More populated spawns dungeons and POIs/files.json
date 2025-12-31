@@ -1,0 +1,43 @@
+{
+  "Hand placed Enemies ESPFE": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.02",
+      "file_id": 391583,
+      "file_name": "Hand placed Enemies ESPFE-59249-1-02-1684953581.7z",
+      "mod_id": 59249,
+      "hash": "sha256-zLt1pzVEgP2mxbRagBrPzJI23gNifuDyk9kCHHzriiI="
+    },
+    "type": "primary"
+  },
+  "Patch for the dragon cult": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.02",
+      "file_id": 393518,
+      "file_name": "Patch for the dragon cult-59249-1-02-1685494818.7z",
+      "mod_id": 59249,
+      "hash": "sha256-D7gL3VI0FdlmcvbS+ufP+IhRqgVwWPKtzI0G4P/6dOg="
+    }
+  },
+  "Patch for the dragoncult - no ambushes": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.02",
+      "file_id": 393521,
+      "file_name": "Patch for the dragoncult - no ambushes-59249-1-02-1685495621.7z",
+      "mod_id": 59249,
+      "hash": "sha256-LgBWrKL10Q4gQ5pm4fxI8O4qIY5Xil2vinzA29n0dlo="
+    }
+  },
+  "Hand placed Enemies - no ambushes": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.021",
+      "file_id": 422865,
+      "file_name": "Hand placed Enemies - no ambushes-59249-1-021-1693693651.7z",
+      "mod_id": 59249,
+      "hash": "sha256-I14tYUchpuFm/QsUbnRpwYytFmGLUmFijnOR8pT4J5Y="
+    }
+  }
+}

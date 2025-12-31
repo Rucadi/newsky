@@ -2,6 +2,8 @@
 - Author: Aietos
 - Game: skyrimspecialedition
 - Mod Page: https://www.nexusmods.com/skyrimspecialedition/mods/69248
+
+
 **Amorous Adventures for OStim Standalone - Patch and Fixes**
   
 Read the description carefully before using this mod. I have below, in detail, the installation instructions and **everything that this mod implements and fixes**. This mod patches the original [Amorous Adventures for OStim](https://www.nexusmods.com/skyrimspecialedition/mods/48912) to work with [OStim Standalone](https://www.nexusmods.com/skyrimspecialedition/mods/98163) - along with other fixes so that the missing romance scenes play properly. No additional ESP!

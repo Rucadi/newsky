@@ -2,6 +2,8 @@
 - Author: Dylan James
 - Game: skyrimspecialedition
 - Mod Page: https://www.nexusmods.com/skyrimspecialedition/mods/77947
+
+
 [![](https://github.com/doodlum/nexusmods-widgets/blob/main/Ko-fi_40px_60fps.png?raw=true)](https://ko-fi.com/dylanjamesxyz)
   
   

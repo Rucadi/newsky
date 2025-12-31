@@ -1,0 +1,35 @@
+{
+  "Chaurus Egg and Staff SE 1k": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1",
+      "file_id": 231971,
+      "file_name": "Chaurus Egg and Staff SE 1k-56424-1-1633140016.zip",
+      "mod_id": 56424,
+      "hash": "sha256-N8GMp+dqsKGlfdJPDPSlN7h+e+T0Vyf1kga62Kj4Ckk="
+    },
+    "type": "primary"
+  },
+  "Chaurus Egg and Staff SE 2k": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1",
+      "file_id": 231972,
+      "file_name": "Chaurus Egg and Staff SE 2k-56424-1-1633140045.zip",
+      "mod_id": 56424,
+      "hash": "sha256-l+pE9mR7Jv5x9Rw5AhbJ8AJh397xkXOJgBe91UscxtM="
+    },
+    "type": "primary"
+  },
+  "Chaurus Egg and Staff SE 4k": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1",
+      "file_id": 231973,
+      "file_name": "Chaurus Egg and Staff SE 4k-56424-1-1633140251.zip",
+      "mod_id": 56424,
+      "hash": "sha256-SY5+Mebdy77IVr/dzqVBrT5kLS2bOC4uOxUkZmiZs2w="
+    },
+    "type": "primary"
+  }
+}

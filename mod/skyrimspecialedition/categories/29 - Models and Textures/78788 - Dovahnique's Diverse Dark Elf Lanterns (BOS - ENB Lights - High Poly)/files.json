@@ -1,0 +1,44 @@
+{
+  "Dovahnique's Diverse Dark Elf Lanterns - BOS": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1",
+      "file_id": 331887,
+      "file_name": "Dovahnique's Diverse Dark Elf Lanterns - BOS - ESPFE-78788-1-1668459174.zip",
+      "mod_id": 78788,
+      "hash": "sha256-8GcDgldP8XbUepmnGqxqBYGWnU8+/G5hn6EKYjDgj94="
+    },
+    "type": "primary"
+  },
+  "Dovahnique's Diverse Dark Elf Lanterns - No ENB Lights (Meshes only)": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1",
+      "file_id": 332141,
+      "file_name": "Dovahnique's Diverse Dark Elf Lanterns - No ENB Lights (Meshes only)-78788-1-1668540620.zip",
+      "mod_id": 78788,
+      "hash": "sha256-eVlrh1T4e1qKwjXV+UGp19KVaqLax1MLf/rw26YRCUE="
+    }
+  },
+  "Dovahnique's Dark Elf Lanterns - 1K Textures": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1",
+      "file_id": 348038,
+      "file_name": "Dovahnique's Dark Elf Lanterns - 1K Textures-78788-1-1673239536.zip",
+      "mod_id": 78788,
+      "hash": "sha256-tS0Y6DUyjkQK51nonA0EtWCFfcN8aDRse1xoatIuCp0="
+    }
+  },
+  "Dovahnique's Diverse Dark Elf Lanterns - BOS - Nocturnal Moths": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1",
+      "file_id": 348039,
+      "file_name": "Dovahnique's Diverse Dark Elf Lanterns - BOS - Nocturnal Moths-78788-1-1-1673239855.zip",
+      "mod_id": 78788,
+      "hash": "sha256-Sr6RlbJ2yR5AseThGTTvHWpGZP1jCc2SY7gbqst0x0c="
+    },
+    "type": "primary"
+  }
+}

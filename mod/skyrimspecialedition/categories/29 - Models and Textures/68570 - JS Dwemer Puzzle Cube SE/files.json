@@ -1,65 +1,65 @@
 {
-    "JS Dwemer Puzzle Cube SE - 4k Textures": {
-        "nexusmods": {
-            "game_name": "skyrimspecialedition",
-            "version": "1.0",
-            "file_id": 286184,
-            "file_name": "JS Dwemer Puzzle Cube SE - 4k Textures-68570-1-0-1653418283.7z",
-            "mod_id": 68570,
-            "hash": "sha256-SX9x6MSSKVr0MrUmyq/MDbtzKkeWTxCJHmOvm5VXLeQ="
-        },
-        "type": "primary"
+  "JS Dwemer Puzzle Cube SE - 4k Textures": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 286184,
+      "file_name": "JS Dwemer Puzzle Cube SE - 4k Textures-68570-1-0-1653418283.7z",
+      "mod_id": 68570,
+      "hash": "sha256-SX9x6MSSKVr0MrUmyq/MDbtzKkeWTxCJHmOvm5VXLeQ="
     },
-    "JS Dwemer Puzzle Cube SE - 2k Textures": {
-        "nexusmods": {
-            "game_name": "skyrimspecialedition",
-            "version": "1.0",
-            "file_id": 286185,
-            "file_name": "JS Dwemer Puzzle Cube SE - 2k Textures-68570-1-0-1653418311.7z",
-            "mod_id": 68570,
-            "hash": "sha256-6REIW/ipCWvTI3qZfnBtxLXEhAGYIobTdhML4mEotLA="
-        },
-        "type": "primary"
+    "type": "primary"
+  },
+  "JS Dwemer Puzzle Cube SE - 2k Textures": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 286185,
+      "file_name": "JS Dwemer Puzzle Cube SE - 2k Textures-68570-1-0-1653418311.7z",
+      "mod_id": 68570,
+      "hash": "sha256-6REIW/ipCWvTI3qZfnBtxLXEhAGYIobTdhML4mEotLA="
     },
-    "JS Dwemer Puzzle Cube SE - 1k Textures": {
-        "nexusmods": {
-            "game_name": "skyrimspecialedition",
-            "version": "1.0",
-            "file_id": 286186,
-            "file_name": "JS Dwemer Puzzle Cube SE - 1k Textures-68570-1-0-1653418333.7z",
-            "mod_id": 68570,
-            "hash": "sha256-wLqhEw5OGzHW+LE3hB3F37k2Pwfi41CFo0WkztqTT0I="
-        },
-        "type": "primary"
+    "type": "primary"
+  },
+  "JS Dwemer Puzzle Cube SE - 1k Textures": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 286186,
+      "file_name": "JS Dwemer Puzzle Cube SE - 1k Textures-68570-1-0-1653418333.7z",
+      "mod_id": 68570,
+      "hash": "sha256-wLqhEw5OGzHW+LE3hB3F37k2Pwfi41CFo0WkztqTT0I="
     },
-    "JS Dwemer Puzzle Cube SE - Animated": {
-        "nexusmods": {
-            "game_name": "skyrimspecialedition",
-            "version": "1.0",
-            "file_id": 287420,
-            "file_name": "JS Dwemer Puzzle Cube SE - Animated-68570-1-0-1653838796.7z",
-            "mod_id": 68570,
-            "hash": "sha256-V9u5HlaNkzkaCTYI/+e9XvIhnDSND6wZCD5V3dRl6LA="
-        }
-    },
-    "JS Dwemer Puzzle Cube SE - Animated GDPR Patch": {
-        "nexusmods": {
-            "game_name": "skyrimspecialedition",
-            "version": "1.0",
-            "file_id": 482924,
-            "file_name": "JS Dwemer Puzzle Cube SE - Animated GDPR Patch-68570-1-0-1711054471.7z",
-            "mod_id": 68570,
-            "hash": "sha256-wj/94eROBuSqvWBWc89E8KmEaorzY/9xppz+MOAYZuA="
-        }
-    },
-    "JS Dwemer Puzzle Cube SE - Animated Glow GDPR": {
-        "nexusmods": {
-            "game_name": "skyrimspecialedition",
-            "version": "1.0",
-            "file_id": 482935,
-            "file_name": "JS Dwemer Puzzle Cube SE - Animated Glow GDPR-68570-1-0-1711055145.7z",
-            "mod_id": 68570,
-            "hash": "sha256-j5MlAe5czudDDn7fmaAjTg6OxZbudZXPWzPceXeZ5SY="
-        }
+    "type": "primary"
+  },
+  "JS Dwemer Puzzle Cube SE - Animated": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 287420,
+      "file_name": "JS Dwemer Puzzle Cube SE - Animated-68570-1-0-1653838796.7z",
+      "mod_id": 68570,
+      "hash": "sha256-V9u5HlaNkzkaCTYI/+e9XvIhnDSND6wZCD5V3dRl6LA="
     }
+  },
+  "JS Dwemer Puzzle Cube SE - Animated GDPR Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 482924,
+      "file_name": "JS Dwemer Puzzle Cube SE - Animated GDPR Patch-68570-1-0-1711054471.7z",
+      "mod_id": 68570,
+      "hash": "sha256-wj/94eROBuSqvWBWc89E8KmEaorzY/9xppz+MOAYZuA="
+    }
+  },
+  "JS Dwemer Puzzle Cube SE - Animated Glow GDPR": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 482935,
+      "file_name": "JS Dwemer Puzzle Cube SE - Animated Glow GDPR-68570-1-0-1711055145.7z",
+      "mod_id": 68570,
+      "hash": "sha256-j5MlAe5czudDDn7fmaAjTg6OxZbudZXPWzPceXeZ5SY="
+    }
+  }
 }

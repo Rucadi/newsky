@@ -1,0 +1,23 @@
+{
+  "VEF-Sunken Face": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 524259,
+      "file_name": "VEF-Sunken Face-75528-1-0-1721771681.zip",
+      "mod_id": 75528,
+      "hash": "sha256-atX+T3Ohxn27T2bOdzyO3H7wgFU0DRXZDOm5H141sw8="
+    }
+  },
+  "Vampire Eye Fix": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "4.1",
+      "file_id": 568677,
+      "file_name": "Vampire Eye Fix-75528-1-0-1733255114.zip",
+      "mod_id": 75528,
+      "hash": "sha256-IJJEB4b4qIbAnjucuSEtSUvbGnW8tJPmRJ6PCaj7xRY="
+    },
+    "type": "primary"
+  }
+}

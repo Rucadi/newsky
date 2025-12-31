@@ -1,0 +1,23 @@
+{
+  "Heavy Stalhrim Shield": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.01",
+      "file_id": 230059,
+      "file_name": "Heavy Stalhrim Shield-55092-1-01-1632347639.7z",
+      "mod_id": 55092,
+      "hash": "sha256-xOXXRw6meeerTH1rMa0cYG9F+ZGzV4SgiMzfXfoSWDw="
+    },
+    "type": "primary"
+  },
+  "Heavy Stalhrim Shield - Patch (Thaumaturgy)": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "P-Thaum-1.2.1",
+      "file_id": 309764,
+      "file_name": "Heavy Stalhrim Shield - Patch (Thaumaturgy)-55092-1-2-1-1661263059.7z",
+      "mod_id": 55092,
+      "hash": "sha256-+/0CRBclHkThNh54JA0g2Q1knXU9+vCJpk/P4Hiat0Q="
+    }
+  }
+}

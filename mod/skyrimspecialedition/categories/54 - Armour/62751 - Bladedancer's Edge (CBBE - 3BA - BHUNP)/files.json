@@ -1,0 +1,46 @@
+{
+  "Bladedancer's Edge CBBE-3BA 2K": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.3",
+      "file_id": 268288,
+      "file_name": "Bladedancer's Edge CBBE-3BA 2K-62751-1-2-1646510549.7z",
+      "mod_id": 62751,
+      "hash": "sha256-PkHaNlQ7pBafgcZLsEOFloJTuuNMMzqjQrk1QY+C1uU="
+    },
+    "type": "primary"
+  },
+  "Bladedancer's Edge BHUNP 2K": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.3",
+      "file_id": 268297,
+      "file_name": "Bladedancer's Edge BHUNP 2K-62751-1-2-1646513867.7z",
+      "mod_id": 62751,
+      "hash": "sha256-d+YW/B+a/nXGg+28MXyhMGfiilxeL15I/uFiLC/026w="
+    },
+    "type": "primary"
+  },
+  "Bladedancer's Edge BHUNP": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.3",
+      "file_id": 268304,
+      "file_name": "Bladedancer's Edge BHUNP-62751-1-2-1646517921.7z",
+      "mod_id": 62751,
+      "hash": "sha256-jN7lNSK7oiBStCWuxL4gXTUrIB6llb/SSjzTwPOKnD4="
+    },
+    "type": "primary"
+  },
+  "Bladedancer's Edge CBBE-3BA": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.3",
+      "file_id": 268310,
+      "file_name": "Bladedancer's Edge CBBE-3BA-62751-1-2-1646520908.7z",
+      "mod_id": 62751,
+      "hash": "sha256-BH7IjwwOODPSJLBYZHj0v6GKMVBTSb1pM3fZeUIIKKA="
+    },
+    "type": "primary"
+  }
+}

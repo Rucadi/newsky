@@ -2,6 +2,8 @@
 - Author: saltmaxwellpshk
 - Game: skyrimspecialedition
 - Mod Page: https://www.nexusmods.com/skyrimspecialedition/mods/51700
+
+
 Add an animation to Mace of Molag Bal.
   
 Works with anime events.

@@ -1,0 +1,34 @@
+{
+  "USMP Patch Emporium.rar": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.3.34",
+      "file_id": 625050,
+      "file_name": "USMP Patch Emporium.rar-50813-1-3-34-1746737074.rar",
+      "mod_id": 50813,
+      "hash": "sha256-+vKX0K0dn3w3/lOslUOislJP/sXTSqPhj4VChWEZjY0="
+    },
+    "type": "primary"
+  },
+  "USMP Patch Emporium.7z": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.3.34",
+      "file_id": 625051,
+      "file_name": "USMP Patch Emporium.7z-50813-1-3-34-1746737200.7z",
+      "mod_id": 50813,
+      "hash": "sha256-PLH5SlstScppUyHpAbHt1M/8Qtx+mEXNUEmIqs7sAUo="
+    },
+    "type": "primary"
+  },
+  "USMP - Apachii Divine Elegance Dawnguard": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 649802,
+      "file_name": "USMP - Apachii Divine Elegance Dawnguard-50813-1-0-1753360744.7z",
+      "mod_id": 50813,
+      "hash": "sha256-xedfzs0ztdAyykhOSxw4g7gfqLGKnEHK6OhOBVBxuNQ="
+    }
+  }
+}

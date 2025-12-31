@@ -1,0 +1,34 @@
+{
+  "Serana default outfit and weap replacer Skypatcher": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 551374,
+      "file_name": "Serana default outfit and weap replacer Skypatcher-71182-1-0-1728733452.rar",
+      "mod_id": 71182,
+      "hash": "sha256-1+EIYTM9Y6lsTPLxi2uX59WWfl6xZVAb4w453dt80aA="
+    }
+  },
+  "Twilight Princess Armor Mashup": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "5.6",
+      "file_id": 586534,
+      "file_name": "Twilight Princess Armor Mashup-71182-5-6-1737644681.rar",
+      "mod_id": 71182,
+      "hash": "sha256-ajCsd0TqKpvy6nf5OeeLiGFwlWCOCvAJhIQJeZU0idE="
+    },
+    "type": "primary"
+  },
+  "Twilight Princess Armor Mashup 2K Downscaled": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "5.6",
+      "file_id": 586535,
+      "file_name": "Twilight Princess Armor Mashup 2K Downscaled-71182-5-6-1737644864.rar",
+      "mod_id": 71182,
+      "hash": "sha256-fI+7yhrEaNF0Gb0DsY1GUIsAQUFsxxsg6RJU1Lyv1+I="
+    },
+    "type": "primary"
+  }
+}

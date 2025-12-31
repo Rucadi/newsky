@@ -2,6 +2,8 @@
 - Author: samuelga24
 - Game: skyrimspecialedition
 - Mod Page: https://www.nexusmods.com/skyrimspecialedition/mods/70117
+
+
 This animation mod dynamically changes the animations when wiedling a pickaxe, a woodcuter axe and fishing rods to a more relaxed/non combat posture as well as the swinging animation whenever you are not in combat.
   
   

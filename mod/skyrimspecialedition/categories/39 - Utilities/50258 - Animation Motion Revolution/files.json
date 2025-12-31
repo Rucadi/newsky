@@ -1,13 +1,13 @@
 {
-    "Animation Motion Revolution": {
-        "nexusmods": {
-            "game_name": "skyrimspecialedition",
-            "version": "1.5.3",
-            "file_id": 320113,
-            "file_name": "Animation Motion Revolution-50258-1-5-3-1664395662.rar",
-            "mod_id": 50258,
-            "hash": "sha256-mGsRYwtsk8Zf+aZEGn6sRCAS93/QpzhrzzAHX6/Rmf0="
-        },
-        "type": "primary"
-    }
+  "Animation Motion Revolution": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.5.3",
+      "file_id": 320113,
+      "file_name": "Animation Motion Revolution-50258-1-5-3-1664395662.rar",
+      "mod_id": 50258,
+      "hash": "sha256-mGsRYwtsk8Zf+aZEGn6sRCAS93/QpzhrzzAHX6/Rmf0="
+    },
+    "type": "primary"
+  }
 }

@@ -1,0 +1,23 @@
+{
+  "KuroneSorceress": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 223391,
+      "file_name": "KuroneSorceress-54331-1-0-1629785602.rar",
+      "mod_id": 54331,
+      "hash": "sha256-LaZScaREHg6mK7fw//n/+TtS9y0N+DRJcFlU58/0tWM="
+    },
+    "type": "primary"
+  },
+  "KuroneSorceress 3BA BodySlide": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 223392,
+      "file_name": "KuroneSorceress 3BA BodySlide-54331-1-0-1629785701.rar",
+      "mod_id": 54331,
+      "hash": "sha256-9NdQzOWijBW98LCmFtLpCkp1UrmPH2vuM3wlsOQ9Fto="
+    }
+  }
+}

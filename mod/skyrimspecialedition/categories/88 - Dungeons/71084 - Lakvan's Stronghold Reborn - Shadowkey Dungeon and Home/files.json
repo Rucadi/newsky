@@ -1,0 +1,23 @@
+{
+  "Lakvan's Stretched Snow Begone Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "2.0",
+      "file_id": 608214,
+      "file_name": "Lakvan's Stretched Snow Begone Patch-71084-2-0-1742601999.7z",
+      "mod_id": 71084,
+      "hash": "sha256-2+Aw6bwHTtFBEAmJfrNsmn3muWtCa5SEGR665da7lhE="
+    }
+  },
+  "Lakvan's Stronghold Reborn": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "2.01",
+      "file_id": 641243,
+      "file_name": "Lakvan's Stronghold Reborn-71084-2-01-1750763280.7z",
+      "mod_id": 71084,
+      "hash": "sha256-C2wy/s8GQssDJVLZ+Lrj/Anf+Ijd+SduYGBFOHeg2AE="
+    },
+    "type": "primary"
+  }
+}

@@ -1,56 +1,56 @@
 {
-    "Staves AIO Particle Display": {
-        "nexusmods": {
-            "game_name": "skyrimspecialedition",
-            "version": "1.3",
-            "file_id": 273839,
-            "file_name": "Staves AIO Particle Display-65481-1-3-1648722637.7z",
-            "mod_id": 65481,
-            "hash": "sha256-tB85wENWx1mh6h2j+NBg1lyAM1GgV+nqf3miOpcDUo8="
-        }
-    },
-    "Staves AIO 1K": {
-        "nexusmods": {
-            "game_name": "skyrimspecialedition",
-            "version": "1.3",
-            "file_id": 273840,
-            "file_name": "Staves AIO 1K-65481-1-3-1648722689.7z",
-            "mod_id": 65481,
-            "hash": "sha256-ffj2fUH8wlCItlDjIVusdom25DSpmC9c86wlZJ9nZ4Y="
-        },
-        "type": "primary"
-    },
-    "Staves AIO 2K": {
-        "nexusmods": {
-            "game_name": "skyrimspecialedition",
-            "version": "1.3",
-            "file_id": 273841,
-            "file_name": "Staves AIO 2K-65481-1-3-1648722741.7z",
-            "mod_id": 65481,
-            "hash": "sha256-JOm+X62HR+fYC4tU1Py7OXoMGHMU7n23GDCMyeobF7s="
-        },
-        "type": "primary"
-    },
-    "Staves AIO 2k 1k": {
-        "nexusmods": {
-            "game_name": "skyrimspecialedition",
-            "version": "1.3",
-            "file_id": 273842,
-            "file_name": "Staves AIO 2k 1k-65481-1-3-1648722782.7z",
-            "mod_id": 65481,
-            "hash": "sha256-asJ03t/E8TuE26R/5+AhmiNMXbcF4XJ7M37huXR9LHE="
-        },
-        "type": "primary"
-    },
-    "Staves AIO 4K": {
-        "nexusmods": {
-            "game_name": "skyrimspecialedition",
-            "version": "1.3",
-            "file_id": 273843,
-            "file_name": "Staves AIO 4K-65481-1-3-1648722865.7z",
-            "mod_id": 65481,
-            "hash": "sha256-IzDu7iVKOP2z5eq6Fwh6UdJwOCsqANgfDCSS8wJ7YDo="
-        },
-        "type": "primary"
+  "Staves AIO Particle Display": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.3",
+      "file_id": 273839,
+      "file_name": "Staves AIO Particle Display-65481-1-3-1648722637.7z",
+      "mod_id": 65481,
+      "hash": "sha256-tB85wENWx1mh6h2j+NBg1lyAM1GgV+nqf3miOpcDUo8="
     }
+  },
+  "Staves AIO 1K": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.3",
+      "file_id": 273840,
+      "file_name": "Staves AIO 1K-65481-1-3-1648722689.7z",
+      "mod_id": 65481,
+      "hash": "sha256-ffj2fUH8wlCItlDjIVusdom25DSpmC9c86wlZJ9nZ4Y="
+    },
+    "type": "primary"
+  },
+  "Staves AIO 2K": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.3",
+      "file_id": 273841,
+      "file_name": "Staves AIO 2K-65481-1-3-1648722741.7z",
+      "mod_id": 65481,
+      "hash": "sha256-JOm+X62HR+fYC4tU1Py7OXoMGHMU7n23GDCMyeobF7s="
+    },
+    "type": "primary"
+  },
+  "Staves AIO 2k 1k": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.3",
+      "file_id": 273842,
+      "file_name": "Staves AIO 2k 1k-65481-1-3-1648722782.7z",
+      "mod_id": 65481,
+      "hash": "sha256-asJ03t/E8TuE26R/5+AhmiNMXbcF4XJ7M37huXR9LHE="
+    },
+    "type": "primary"
+  },
+  "Staves AIO 4K": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.3",
+      "file_id": 273843,
+      "file_name": "Staves AIO 4K-65481-1-3-1648722865.7z",
+      "mod_id": 65481,
+      "hash": "sha256-IzDu7iVKOP2z5eq6Fwh6UdJwOCsqANgfDCSS8wJ7YDo="
+    },
+    "type": "primary"
+  }
 }

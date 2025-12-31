@@ -1,0 +1,46 @@
+{
+  "COCO Goddess Of War V2 - CBBE 3BA": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 329856,
+      "file_name": "COCO Goddess Of War V2 - CBBE 3BA-78335-1-0-1667807546.7z",
+      "mod_id": 78335,
+      "hash": "sha256-EAMJExL9w6Ivu6EuhqtMMiuZDbkeI6UXGSQ42mgynEM="
+    },
+    "type": "primary"
+  },
+  "COCO Goddess Of War V2 - TBD SE": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 329857,
+      "file_name": "COCO Goddess Of War V2 - TBD SE-78335-1-0-1667807700.7z",
+      "mod_id": 78335,
+      "hash": "sha256-QVyD8gi6uSQxWwngSYYP4lNeogG8U5kEL9pGmpVSr0E="
+    },
+    "type": "primary"
+  },
+  "COCO Goddess Of War V2 - COCOBody UUNP SE": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 329858,
+      "file_name": "COCO Goddess Of War V2 - COCOBody UUNP SE-78335-1-0-1667807959.7z",
+      "mod_id": 78335,
+      "hash": "sha256-pc4cJBJFe2hHbgI/To7CxQHVDkSRKd+aMMkJ0dq56do="
+    },
+    "type": "primary"
+  },
+  "COCO Goddess Of War V2 - COCOBody CBBE SE": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 329859,
+      "file_name": "COCO Goddess Of War V2 - COCOBody CBBE SE-78335-1-0-1667808169.7z",
+      "mod_id": 78335,
+      "hash": "sha256-vkUaq7/I6M8i3m0CzyVTJyhbJBs1A8a69griQQEZxLA="
+    },
+    "type": "primary"
+  }
+}

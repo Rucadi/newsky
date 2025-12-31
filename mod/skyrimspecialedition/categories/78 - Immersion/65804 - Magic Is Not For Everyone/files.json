@@ -1,0 +1,33 @@
+{
+  "Draugrs": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 274219,
+      "file_name": "Draugr-65804-1-0-1648856409.zip",
+      "mod_id": 65804,
+      "hash": "sha256-Wj1/k5SzJ/f9Qs/Z68lWcO1PpainY2NEVK9N7OW+vF8="
+    }
+  },
+  "Bandits": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 274262,
+      "file_name": "Bandits-65804-1-0-1648886310.zip",
+      "mod_id": 65804,
+      "hash": "sha256-j4HweBRZafuV+dczpo3FOxax8Y1guiox5cXRn/u8W24="
+    }
+  },
+  "Magic Is Not For Everyone": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.6",
+      "file_id": 357523,
+      "file_name": "Magic Is Not For Everyone-65804-1-6-1675798001.zip",
+      "mod_id": 65804,
+      "hash": "sha256-2U0OoPKb97MDJp25cR0awrqczaxeg4OylPAGsol/gzg="
+    },
+    "type": "primary"
+  }
+}

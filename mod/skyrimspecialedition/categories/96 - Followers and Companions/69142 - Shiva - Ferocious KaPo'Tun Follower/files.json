@@ -1,0 +1,33 @@
+{
+  "Shiva - Dark Elf Blader - Hair Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "v1.0",
+      "file_id": 289762,
+      "file_name": "Shiva - Dark Elf Blader - Hair Patch-69142-v1-0-1654714019.7z",
+      "mod_id": 69142,
+      "hash": "sha256-tyuzbTk07rMRsswyoCdAxzCUhAiiOeE8C7JNdUyCUrY="
+    }
+  },
+  "Shiva - KaPo'Tun Follower (FOMOD)": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "v1.2",
+      "file_id": 354161,
+      "file_name": "Shiva - KaPo'Tun Follower (FOMOD)-69142-v1-2-1674979681.7z",
+      "mod_id": 69142,
+      "hash": "sha256-bbrckwhZqTOJZOhq31FBuy5Ex8zl3bLcbPI+XEu2JYE="
+    },
+    "type": "primary"
+  },
+  "Shiva - KaPo'Tun Follower (No FOMOD)": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "v1.2",
+      "file_id": 354162,
+      "file_name": "Shiva - KaPo'Tun Follower (No FOMOD)-69142-v1-2-1674979701.7z",
+      "mod_id": 69142,
+      "hash": "sha256-AuBTjtwMupdjAinbKFeHL4g+ixEbweYldLfq9YmFhDY="
+    }
+  }
+}

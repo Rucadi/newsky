@@ -1,0 +1,24 @@
+{
+  "Console Commands Extender - Anniversary Edition": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.11.0",
+      "file_id": 327537,
+      "file_name": "Console Commands Extender - Anniversary Edition Update-74390-1-11-0-1667108020.rar",
+      "mod_id": 74390,
+      "hash": "sha256-Rpl5t5puagWRJVwXjcwRwr6dUECSxtodEynbCVVeGVk="
+    },
+    "type": "primary"
+  },
+  "Console Commands Extender - 1.6.1130 Update": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.12.0",
+      "file_id": 457109,
+      "file_name": "Console Commands Extender - 1.6.1130 Update-74390-1-12-0-1704159838.7z",
+      "mod_id": 74390,
+      "hash": "sha256-PpNyJh1CK5yi9lmDtOKqPQwWt95iwllgwXMLIVnna0A="
+    },
+    "type": "primary"
+  }
+}

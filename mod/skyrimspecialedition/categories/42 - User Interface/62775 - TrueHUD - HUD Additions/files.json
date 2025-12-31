@@ -1,13 +1,13 @@
 {
-    "TrueHUD": {
-        "nexusmods": {
-            "game_name": "skyrimspecialedition",
-            "version": "1.1.9",
-            "file_id": 454617,
-            "file_name": "TrueHUD-62775-1-1-9-1703382929.7z",
-            "mod_id": 62775,
-            "hash": "sha256-EnFmS5WwuQhdlEMbmrsdJFAcOFAHV6WORifEDYUFiSk="
-        },
-        "type": "primary"
-    }
+  "TrueHUD": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1.9",
+      "file_id": 454617,
+      "file_name": "TrueHUD-62775-1-1-9-1703382929.7z",
+      "mod_id": 62775,
+      "hash": "sha256-EnFmS5WwuQhdlEMbmrsdJFAcOFAHV6WORifEDYUFiSk="
+    },
+    "type": "primary"
+  }
 }

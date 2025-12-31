@@ -1,0 +1,74 @@
+{
+  "2-4k. New Hagraven and Glenmoril Witch Dressed": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0.0",
+      "file_id": 305952,
+      "file_name": "2-4k. New Hagraven and Glenmoril Witch Dressed-72982-1-0-0-1660037977.zip",
+      "mod_id": 72982,
+      "hash": "sha256-yLXihmOsFtrSa4jP+saFRKGmeAK+LU/HxL74CY8lgk0="
+    },
+    "type": "primary"
+  },
+  "1-2k. New Hagraven and Glenmoril Witch Dressed": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0.0",
+      "file_id": 305953,
+      "file_name": "1-2k. New Hagraven and Glenmoril Witch Dressed-72982-1-0-0-1660038010.zip",
+      "mod_id": 72982,
+      "hash": "sha256-+O7Zkgsgyn1c3ATMRjrfAzdTVWPTuyJLHNlSD3Aqsxg="
+    }
+  },
+  "Hagraven LoadscreenArt Dressed": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0.0",
+      "file_id": 305955,
+      "file_name": "Hagraven LoadscreenArt Dressed-72982-1-0-0-1660038054.zip",
+      "mod_id": 72982,
+      "hash": "sha256-JVYyjvzmYlP+0DpyknZrog1zEeMtUYNdaLHSnAiCTh4="
+    }
+  },
+  "2-4k. New Hagraven and Glenmoril Witch Dressed Bloody": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0.0",
+      "file_id": 306510,
+      "file_name": "2-4k. New Hagraven and Glenmoril Witch Dressed Bloody-72982-1-0-0-1660198659.zip",
+      "mod_id": 72982,
+      "hash": "sha256-Swnxa2l+Zg5/PRHIsjybAiGSqdvQr5UYqY6hTmqiQxA="
+    },
+    "type": "primary"
+  },
+  "1-2k. New Hagraven and Glenmoril Witch Dressed Bloody": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0.0",
+      "file_id": 306512,
+      "file_name": "1-2k. New Hagraven and Glenmoril Witch Dressed Bloody-72982-1-0-0-1660198719.zip",
+      "mod_id": 72982,
+      "hash": "sha256-xuF6bUcikoCGY5GCOabmwS3pZgowC+47FTkvldaD1yc="
+    }
+  },
+  "New Hagraven and Glenmoril Witch Dressed Bloody No Backlight": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0.0",
+      "file_id": 307181,
+      "file_name": "New Hagraven and Glenmoril Witch Dressed Bloody No Backlight-72982-1-0-0-1660407784.zip",
+      "mod_id": 72982,
+      "hash": "sha256-cYyVUOV62a6LvwfD/Cxym/ANX1y5NpaKiN7JHHjQ3UQ="
+    }
+  },
+  "New Hagraven and Glenmoril Witch Dressed No Backlight": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0.0",
+      "file_id": 307182,
+      "file_name": "New Hagraven and Glenmoril Witch Dressed No Backlight-72982-1-0-0-1660407836.zip",
+      "mod_id": 72982,
+      "hash": "sha256-3IkIWjdrgJa39FtC15P8LWrJ9yuGHFvI7xC+ax3z6Q8="
+    }
+  }
+}

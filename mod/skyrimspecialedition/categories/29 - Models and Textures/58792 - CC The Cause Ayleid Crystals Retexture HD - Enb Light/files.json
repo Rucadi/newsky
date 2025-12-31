@@ -1,0 +1,45 @@
+{
+  "The Cause Ayleid Crystals 4k": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 243079,
+      "file_name": "The Cause Ayleid Crystals 4k-58792-1-0-1637452858.7z",
+      "mod_id": 58792,
+      "hash": "sha256-JBZwbb8cpQf/K0Mkynj8yUAhYp6WEAdoIdwlHUxbFR4="
+    },
+    "type": "primary"
+  },
+  "The Cause Ayleid Crystals 2k": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 243200,
+      "file_name": "The Cause Ayleid Crystals 2k-58792-1-0-1637492004.7z",
+      "mod_id": 58792,
+      "hash": "sha256-6MGe+6ksRVdxBoqdLTI0maA3jSiM2n4/YM9pqKSC9D8="
+    },
+    "type": "primary"
+  },
+  "The Cause Ayleid Crystals 1k": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 243201,
+      "file_name": "The Cause Ayleid Crystals 1k-58792-1-0-1637492021.7z",
+      "mod_id": 58792,
+      "hash": "sha256-vnqqJH0wglpUwAvy83dtR8S52zewitcJXhblKw1N/ww="
+    },
+    "type": "primary"
+  },
+  "Praedys Varla Stone": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1",
+      "file_id": 553180,
+      "file_name": "Praedys Varla Stone-58792-1-1-1729244737.7z",
+      "mod_id": 58792,
+      "hash": "sha256-Mhf8gM7mELGJvOy1rlEE6vJIrj6hEWNH5wtEQL0yfnc="
+    }
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "Nibenean Armors and Outfit 3BA": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "3.1",
+      "file_id": 347690,
+      "file_name": "Nibenean Armors and Outfit 3BA-51219-3-1-1673133252.7z",
+      "mod_id": 51219,
+      "hash": "sha256-pjzkvbFZcw2qQFvDQWm+C/yTdvAH01BtqtJnZP97Lm0="
+    },
+    "type": "primary"
+  },
+  "Nibenean Armors and Outfit BHUNP": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "3.1",
+      "file_id": 347691,
+      "file_name": "Nibenean Armors and Outfit BHUNP-51219-3-1-1673133567.7z",
+      "mod_id": 51219,
+      "hash": "sha256-lCZEKJifBBOljD/3hWGSXPoKw8Yd3GslbR3BVnEhudQ="
+    },
+    "type": "primary"
+  },
+  "Nibenean Armors and Outfit CBBE": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "3.1",
+      "file_id": 347692,
+      "file_name": "Nibenean Armors and Outfit CBBE-51219-3-1-1673133650.7z",
+      "mod_id": 51219,
+      "hash": "sha256-xMsyty/3e/e5jGXb1GDuy7h6gtZFdzVREHdK3/J5toQ="
+    },
+    "type": "primary"
+  }
+}

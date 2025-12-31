@@ -1,0 +1,24 @@
+{
+  "Full Woman Growth Bodyslide Preset CBBE 3BA": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1",
+      "file_id": 235627,
+      "file_name": "Full Woman Growth Bodyslide Preset CBBE 3BA-57200-1-1-1634571537.7z",
+      "mod_id": 57200,
+      "hash": "sha256-MomjKqsgvDUpqu8bvyAgSormPIEL+yewyid/RcVQ33M="
+    },
+    "type": "primary"
+  },
+  "Pushup Full Woman Growth Bodyslide Preset CBBE 3BA": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 235628,
+      "file_name": "Pushup Full Woman Growth Bodyslide Preset CBBE 3BA-57200-1-0-1634571637.7z",
+      "mod_id": 57200,
+      "hash": "sha256-bR1Pov7OPqOmTZOfZNitG7GO0/oTZJqK53wR1XgyWak="
+    },
+    "type": "primary"
+  }
+}

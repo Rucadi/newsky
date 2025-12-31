@@ -1,0 +1,93 @@
+{
+  "Enhanced Races - Animated Armory Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.09",
+      "file_id": 475051,
+      "file_name": "Enhanced Races - Animated Armory Patch-52131-1-09-1709039702.7z",
+      "mod_id": 52131,
+      "hash": "sha256-yW+HlPxLgjkjFFRj11TAccNBiR0F87QBRvylZzdP6q0="
+    }
+  },
+  "Enhanced Races - CC Survival": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.09",
+      "file_id": 475055,
+      "file_name": "Enhanced Races - CC Survival-52131-1-09-1709040419.7z",
+      "mod_id": 52131,
+      "hash": "sha256-CIhm0MpKC5+z5r+bPyzZ6yU5jP0X4RZ5S9umPttiAq4="
+    }
+  },
+  "Enhanced Races - Immersive Children Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.09",
+      "file_id": 475056,
+      "file_name": "Enhanced Races - Immersive Children Patch-52131-1-09-1709040568.7z",
+      "mod_id": 52131,
+      "hash": "sha256-dlJ4SlzzZFGXKOMlDbsV8hhIZ6ndOAA/ix/XJtMtHfE="
+    }
+  },
+  "Enhanced Races-Mysticism and Animated Armory Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.09",
+      "file_id": 475060,
+      "file_name": "Enhanced Races-Mysticism and Animated Armory Patch-52131-1-09-1709040841.7z",
+      "mod_id": 52131,
+      "hash": "sha256-uQm3hrn61SurhCMauhIYpjbrMnmYqaPoo9qdwIUL+d8="
+    }
+  },
+  "Imperial Gold Balance": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.09",
+      "file_id": 475062,
+      "file_name": "Imperial Gold Balance-52131-1-09-1709040925.7z",
+      "mod_id": 52131,
+      "hash": "sha256-2aXgh2E6rhgMnZHrsHqEHX6t56WMcsPXuWymGq4Kd3o="
+    }
+  },
+  "Enhanced Races - Elemental Destruction Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.10",
+      "file_id": 558525,
+      "file_name": "Enhanced Races - Elemental Destruction Patch-52131-1-10-1730640179.7z",
+      "mod_id": 52131,
+      "hash": "sha256-alqB+UMO5pnJkOFbc5hFJ5UpBDRi7bJp7+/ZZDdTFHU="
+    }
+  },
+  "Enhanced Races - USSEP Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.11",
+      "file_id": 617961,
+      "file_name": "Enhanced Races - USSEP Patch-52131-1-11-1744834892.7z",
+      "mod_id": 52131,
+      "hash": "sha256-EJW5aSfREO4Iw9Liay6xfQ0RRLwBUCKz8gmqckZmdec="
+    }
+  },
+  "Nord Vampires use No vfx Battle Cry": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.21",
+      "file_id": 661449,
+      "file_name": "Nord Vampires use No vfx Battle Cry-52131-1-1-1756741127.7z",
+      "mod_id": 52131,
+      "hash": "sha256-089PHX3d66J2VR7DU2aEzJGRiImpe0NICp5qtvo/aZw="
+    }
+  },
+  "Enhanced Races": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.21",
+      "file_id": 661470,
+      "file_name": "Enhanced Races-52131-1-21-1756742928.7z",
+      "mod_id": 52131,
+      "hash": "sha256-xFeUHaPG8gzjlz+VExYUEO3gzbfSp8D3K3H//uDT2oA="
+    },
+    "type": "primary"
+  }
+}

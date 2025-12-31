@@ -1,0 +1,23 @@
+{
+  "My Tasteful Body - CBBE 3BA Bodyslide Preset": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 281622,
+      "file_name": "My Tasteful Body - CBBE 3BA Bodyslide Preset-67370-1-0-1651738699.zip",
+      "mod_id": 67370,
+      "hash": "sha256-Z4fXqECGNZvRZeFKGqA4RHS3dh1KOtHUxxaXsVFaGoQ="
+    },
+    "type": "primary"
+  },
+  "My Tasteful Body - Special Snow Follower CBBE 3BA Bodyslide Preset": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 284398,
+      "file_name": "My Tasteful Body - Special Snow Follower CBBE 3BA Bodyslide Preset-67370-1-0-1652768351.zip",
+      "mod_id": 67370,
+      "hash": "sha256-k1qLsZiSopBNDs4EsdglWrEPY0QdjVJuHO5QXd87fhs="
+    }
+  }
+}

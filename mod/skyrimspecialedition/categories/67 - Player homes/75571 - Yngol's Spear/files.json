@@ -1,0 +1,23 @@
+{
+  "Yngol's Spear - Luminous Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 543370,
+      "file_name": "Yngol's Spear - Luminous Patch-75571-1-0-1726612876.zip",
+      "mod_id": 75571,
+      "hash": "sha256-6IlBCDdKyVL3KbRFAxUhIbfyB4RSIU+5EXuVCdxDubU="
+    }
+  },
+  "Yngol's Spear": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.4",
+      "file_id": 625534,
+      "file_name": "Yngol's Spear-75571-1-4-1746868032.zip",
+      "mod_id": 75571,
+      "hash": "sha256-SPtKStQYO1mPMaicARd+/nfTonHCl5FYLOj2FXtYC+s="
+    },
+    "type": "primary"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "COCO Shadow Assassin - COCOBody UUNP SE": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "2.0",
+      "file_id": 469976,
+      "file_name": "COCO Shadow Assassin - COCOBody UUNP SE-57213-2-0-1707695047.7z",
+      "mod_id": 57213,
+      "hash": "sha256-chTCnmZiE/IgerZQ0ehw50+icMiADQ+vt+30UQ9i8hE="
+    },
+    "type": "primary"
+  },
+  "COCO Shadow Assassin - COCOBody CBBE SE": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "2.0",
+      "file_id": 469979,
+      "file_name": "COCO Shadow Assassin - COCOBody CBBE SE-57213-2-0-1707695669.7z",
+      "mod_id": 57213,
+      "hash": "sha256-+iZQgV+JrapfBvXIdyiRwnqk1VWGo56DwqO93UQ5y/I="
+    },
+    "type": "primary"
+  },
+  "COCO Shadow Assassin - CBBE 3BA": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "2.0",
+      "file_id": 485953,
+      "file_name": "COCO Shadow Assassin - CBBE 3BA-57213-2-0-1711865705.7z",
+      "mod_id": 57213,
+      "hash": "sha256-PxdkbfDToqS0Gauq3epP8dH+OGzDt11BITbViDSVr3Q="
+    },
+    "type": "primary"
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "Armors of the Velothi Pt. I 2k (1.3.1)": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.3.1",
+      "file_id": 624586,
+      "file_name": "Armors of the Velothi Pt. I 2k (1.3)-62752-1-3-1-1746608181.rar",
+      "mod_id": 62752,
+      "hash": "sha256-NVpfxL5R+IiqbrzloORthSpFgP003GKcavIPiHM0sBU="
+    },
+    "type": "primary"
+  },
+  "Armors of the Velothi Pt. I 4k (1.3.1)": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.3.1",
+      "file_id": 624588,
+      "file_name": "Armors of the Velothi Pt. I 4k (1.3.1)-62752-1-3-1-1746608321.rar",
+      "mod_id": 62752,
+      "hash": "sha256-zxgV25UFYL4tXBKYaLNM0owapBUOXUu8IyUkj/erYyw="
+    },
+    "type": "primary"
+  }
+}

@@ -1,0 +1,83 @@
+{
+  "XNFRain's Civil War Map Flag Replacer": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.2",
+      "file_id": 255225,
+      "file_name": "XNFRain's Civil War Map Flag Replacer-61520-1-2-1641706845.zip",
+      "mod_id": 61520,
+      "hash": "sha256-zem/Uqojc1u5sE6jyYegUay8iQ/wqYEFztIrNfdTDns="
+    },
+    "type": "primary"
+  },
+  "XNFRain's Civil War Map Flag Replacer - 50": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.2",
+      "file_id": 255226,
+      "file_name": "XNFRain's Civil War Map Flag Replacer - 50-61520-1-2-1641706893.zip",
+      "mod_id": 61520,
+      "hash": "sha256-z3kSWwkr5fCmV219injHEekZskCIEHRL+TdVNmlFkfw="
+    }
+  },
+  "XNFRain's Civil War Map Flag Replacer - 75": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.2",
+      "file_id": 255227,
+      "file_name": "XNFRain's Civil War Map Flag Replacer - 75-61520-1-2-1641706930.zip",
+      "mod_id": 61520,
+      "hash": "sha256-HpjhYICj+6xRuGqpHIKZptlCIVRtNEpQyCYR3RhyUmI="
+    }
+  },
+  "XNFRain's Open Civil War Flag Replacer - Default": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 255477,
+      "file_name": "XNFRain's Open Civil War Flag Replacer-61520-1-0-1641760263.zip",
+      "mod_id": 61520,
+      "hash": "sha256-i1L6Si2+ldiRetK5Q33R7D3fROBw0uvp1eW7PYJL9TM="
+    }
+  },
+  "XNFRain's Open Civil War Flag Replacer - Smaller": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 255480,
+      "file_name": "XNFRain's Open Civil War Flag Replacer - Smaller-61520-1-0-1641760308.zip",
+      "mod_id": 61520,
+      "hash": "sha256-xU2iQpDnPuIwEGreeiPEdeozwbuJ8NKwTq0ulQ2GkaU="
+    }
+  },
+  "XNFRain's The Second Great War Flag Replacer - 100": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 269669,
+      "file_name": "XNFRain's The Second Great War Flag Replacer - 100-61520-1-0-1647106679.zip",
+      "mod_id": 61520,
+      "hash": "sha256-ueINLoc/u8BA6acBx4fI/+ynC9bytigOtYIjox+eD0c="
+    }
+  },
+  "XNFRain's The Second Great War Flag Replacer - 75": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 269670,
+      "file_name": "XNFRain's The Second Great War Flag Replacer - 75-61520-1-0-1647106731.zip",
+      "mod_id": 61520,
+      "hash": "sha256-LqbDOdahpNbIDQDOgPxeZM3cbsBJumuNduTtGNlyot0="
+    }
+  },
+  "XNFRain's The Second Great War Flag Replacer - 50": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 269671,
+      "file_name": "XNFRain's The Second Great War Flag Replacer - 50-61520-1-0-1647106772.zip",
+      "mod_id": 61520,
+      "hash": "sha256-SQBKTqGN2K7SEEAtXgr0rv2zeB+zsMW/CUKFlH3dCIM="
+    }
+  }
+}

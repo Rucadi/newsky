@@ -1,0 +1,64 @@
+{
+  "Shrubs Redone AIO 1K": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 339366,
+      "file_name": "Shrubs Redone AIO 1K-80209-1-0-1670692108.7z",
+      "mod_id": 80209,
+      "hash": "sha256-VgdJct0Px1QqLFCL97HRw4cJ9vt0mQFAKUcMIVFMIXo="
+    },
+    "type": "primary"
+  },
+  "Shrubs Redone AIO 2K Performance": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 339368,
+      "file_name": "Shrubs Redone AIO 2K Performance-80209-1-0-1670692202.7z",
+      "mod_id": 80209,
+      "hash": "sha256-yY0mbp+ncHEi+qh/E4+32pkrqEUFZ9kTePi8yvLINJQ="
+    },
+    "type": "primary"
+  },
+  "Shrubs Redone AIO 2K Quality": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 339369,
+      "file_name": "Shrubs Redone AIO 2K Quality-80209-1-0-1670692345.7z",
+      "mod_id": 80209,
+      "hash": "sha256-mGBqx7ceVmbDet2vdAR9AEWIuv7GJg7ADOxhdLHDxT0="
+    },
+    "type": "primary"
+  },
+  "Shrubs Redone AIO 4K": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 339372,
+      "file_name": "Shrubs Redone AIO 4K-80209-1-0-1670692634.7z",
+      "mod_id": 80209
+    },
+    "type": "primary"
+  },
+  "Shrubs Redone AIO 8K-4K": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 339377,
+      "file_name": "Shrubs Redone AIO 8K-4K-80209-1-0-1670693266.7z",
+      "mod_id": 80209
+    },
+    "type": "primary"
+  },
+  "Shrubs Redone AIO Optional Snowy": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 339378,
+      "file_name": "Shrubs Redone AIO Optional Snowy-80209-1-0-1670693548.7z",
+      "mod_id": 80209
+    }
+  }
+}

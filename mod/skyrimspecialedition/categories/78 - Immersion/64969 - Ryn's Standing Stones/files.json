@@ -1,43 +1,43 @@
 {
-    "Interesting NPCs Patch": {
-        "nexusmods": {
-            "game_name": "skyrimspecialedition",
-            "version": "1.2",
-            "file_id": 271842,
-            "file_name": "Interesting NPCs Patch-64969-1-2-1647968659.rar",
-            "mod_id": 64969,
-            "hash": "sha256-+s/H1VmfIqeIP5c2BPl+oLcsf3AsGpzadfMZuyjLwfE="
-        }
-    },
-    "Moon and Star Patch": {
-        "nexusmods": {
-            "game_name": "skyrimspecialedition",
-            "version": "1.2",
-            "file_id": 298455,
-            "file_name": "Moon and Star Patch-64969-1-2-1657656503.rar",
-            "mod_id": 64969,
-            "hash": "sha256-gIWMoSEo3mrsV5dX17e7xZonDyXbuh0rll9KZh/tCps="
-        }
-    },
-    "Ryn's Standing Stones Mistwatch Folly PATCH": {
-        "nexusmods": {
-            "game_name": "skyrimspecialedition",
-            "version": "1",
-            "file_id": 642795,
-            "file_name": "Ryn's Standing Stones Mistwatch Folly PATCH-64969-1-1751234914.rar",
-            "mod_id": 64969,
-            "hash": "sha256-2kYBRppWbz3Oh6I5MZfUwH+q91u/vI0N0fwHzVreD4E="
-        }
-    },
-    "Ryn's Standing Stones": {
-        "nexusmods": {
-            "game_name": "skyrimspecialedition",
-            "version": "1.8",
-            "file_id": 643771,
-            "file_name": "Ryn's Standing Stones-64969-1-8-1751548823.rar",
-            "mod_id": 64969,
-            "hash": "sha256-/Npt9AGfeaUDtVyAOWisK322QymDu67oIxtN5ROysSI="
-        },
-        "type": "primary"
+  "Interesting NPCs Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.2",
+      "file_id": 271842,
+      "file_name": "Interesting NPCs Patch-64969-1-2-1647968659.rar",
+      "mod_id": 64969,
+      "hash": "sha256-+s/H1VmfIqeIP5c2BPl+oLcsf3AsGpzadfMZuyjLwfE="
     }
+  },
+  "Moon and Star Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.2",
+      "file_id": 298455,
+      "file_name": "Moon and Star Patch-64969-1-2-1657656503.rar",
+      "mod_id": 64969,
+      "hash": "sha256-gIWMoSEo3mrsV5dX17e7xZonDyXbuh0rll9KZh/tCps="
+    }
+  },
+  "Ryn's Standing Stones Mistwatch Folly PATCH": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1",
+      "file_id": 642795,
+      "file_name": "Ryn's Standing Stones Mistwatch Folly PATCH-64969-1-1751234914.rar",
+      "mod_id": 64969,
+      "hash": "sha256-2kYBRppWbz3Oh6I5MZfUwH+q91u/vI0N0fwHzVreD4E="
+    }
+  },
+  "Ryn's Standing Stones": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.8",
+      "file_id": 643771,
+      "file_name": "Ryn's Standing Stones-64969-1-8-1751548823.rar",
+      "mod_id": 64969,
+      "hash": "sha256-/Npt9AGfeaUDtVyAOWisK322QymDu67oIxtN5ROysSI="
+    },
+    "type": "primary"
+  }
 }

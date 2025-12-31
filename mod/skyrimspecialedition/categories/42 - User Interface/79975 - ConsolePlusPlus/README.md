@@ -2,6 +2,8 @@
 - Author: powerofthree
 - Game: skyrimspecialedition
 - Mod Page: https://www.nexusmods.com/skyrimspecialedition/mods/79975
+
+
 **CONSOLE++**
   
   

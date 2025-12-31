@@ -2,6 +2,8 @@
 - Author: Boring3
 - Game: skyrimspecialedition
 - Mod Page: https://www.nexusmods.com/skyrimspecialedition/mods/50129
+
+
 [left][/left]**[1/19/2024] Tested on SKSE 2.2.6/Game 1.6.1170**
   
 Skyrim Priority SE Anniversary

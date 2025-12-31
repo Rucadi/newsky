@@ -2,6 +2,8 @@
 - Author: Stard
 - Game: skyrimspecialedition
 - Mod Page: https://www.nexusmods.com/skyrimspecialedition/mods/67893
+
+
 Missing In Action is that quest in Whiterun that you can be a new created character that just arrived in the city and decided to have a drink at the inn, then out of the blue this woman is arguing with two men, and since you are curious enough to ask what in Oblivion is happening, she then decides that is a good idea to ask you to break into the house of the most powerful clan in Whiterun in search of a hypothetical proof. So then you can go and break into a prison, belonging to the most powerful faction in Tamriel at the current events, to then get rewarded with a iron dagger, or something.
   
 Because obviously the reward you deserve for doing all this is getting something based on your level, right?

@@ -1,0 +1,46 @@
+{
+  "Female Mehrunes Dagon Voice A": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 278403,
+      "file_name": "Female Mehrunes Dagon Voice A-66809-1-0-1650444277.7z",
+      "mod_id": 66809,
+      "hash": "sha256-2mUz19ISK9WOmR/LGJeR2aW416X0l6rIo64W218FAW4="
+    },
+    "type": "primary"
+  },
+  "Female Mehrunes Dagon Voice B": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 278405,
+      "file_name": "Female Mehrunes Dagon Voice B-66809-1-0-1650444492.7z",
+      "mod_id": 66809,
+      "hash": "sha256-EQKleJr2fr+NoDMruvHXfPWukOuL/4reyYL61D519MY="
+    },
+    "type": "primary"
+  },
+  "Female Mehrunes Dagon Voice C": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 278406,
+      "file_name": "Female Mehrunes Dagon Voice C-66809-1-0-1650444589.7z",
+      "mod_id": 66809,
+      "hash": "sha256-l+ESYx6RviBmRn8bKZ/LQ4qwxxHiADsmxIutwHuzi7g="
+    },
+    "type": "primary"
+  },
+  "Female Mehrunes Dagon Voice D": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 278407,
+      "file_name": "Female Mehrunes Dagon Voice D-66809-1-0-1650444637.7z",
+      "mod_id": 66809,
+      "hash": "sha256-3fKo9Coy2/QLiifZ4fcH1SATHCDsCeUIiWj6fcrGE5A="
+    },
+    "type": "primary"
+  }
+}

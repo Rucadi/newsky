@@ -1,0 +1,101 @@
+{
+  "Landscape Fixes For Grass Mods Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "V1.4",
+      "file_id": 293083,
+      "file_name": "Landscape Fixes For Grass Mods Patch-68517-V1-4-1655894756.7z",
+      "mod_id": 68517,
+      "hash": "sha256-V7n14k4igYbHAr83fiQnXu5ne7qz+UvjzdKPmRVJaNE="
+    },
+    "type": "primary"
+  },
+  "REDUNDANT - Blackthorn - Clay and Stone Deposits Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "V1.1",
+      "file_id": 293084,
+      "file_name": "Blackthorn - Clay and Stone Deposits Patch-68517-V1-1-1655894786.7z",
+      "mod_id": 68517,
+      "hash": "sha256-dSo8X81zaKFGtxq4iYq9Vh9xrhSD4O30Pv1bfjOObJU="
+    },
+    "type": "primary"
+  },
+  "Cathedral Landscapes Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "V1.0",
+      "file_id": 295358,
+      "file_name": "Cathedral Landscapes Patch-68517-V1-0-1656668936.7z",
+      "mod_id": 68517,
+      "hash": "sha256-30MCU2MyuU8WVMiLjb6J9mmrpgkvA0Oec0jhJ4WqVac="
+    },
+    "type": "primary"
+  },
+  "Blackthorn Manor - Fallen Trees Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "V1.1",
+      "file_id": 306116,
+      "file_name": "Blackthorn Manor - Fallen Trees Patch-68517-V1-1-1660074970.7z",
+      "mod_id": 68517,
+      "hash": "sha256-CjCDJn4R9uyVHPHtd3QCdg87r2hWwyYnUw8Hegeq4eE="
+    },
+    "type": "primary"
+  },
+  "Carriage and Ferry Travel Overhaul Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "V1.5",
+      "file_id": 306118,
+      "file_name": "Carriage and Ferry Travel Overhaul Patch-68517-V1-5-1660075924.7z",
+      "mod_id": 68517,
+      "hash": "sha256-efOZyN91pbMgQAuysXSGF1U6kioLIdlCgph/G7B3/Tc="
+    },
+    "type": "primary"
+  },
+  "Blackthorn Manor - Lux Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "V1.0",
+      "file_id": 306422,
+      "file_name": "Blackthorn Manor - Lux Patch-68517-V1-0-1660166278.7z",
+      "mod_id": 68517,
+      "hash": "sha256-cb4IgALaTeOHxLPsq+GzY3uWttGtJncWBpIFcdmbo4Q="
+    },
+    "type": "primary"
+  },
+  "Blackthorn Manor - Brighter Town": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "V0.25",
+      "file_id": 307734,
+      "file_name": "Blackthorn Manor - Brighter Town-68517-V0-25-1660575964.7z",
+      "mod_id": 68517,
+      "hash": "sha256-3oXjxW+1AdJyms8cGMyXvgJeLrY9Ho4rOMxx/HKjEKQ="
+    },
+    "type": "primary"
+  },
+  "Blackthorn Manor - Brighter Town LoS II Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "V1.2",
+      "file_id": 307737,
+      "file_name": "Blackthorn Manor - Brighter Town LoS II Patch-68517-V1-2-1660576138.7z",
+      "mod_id": 68517,
+      "hash": "sha256-AweJSMeLc+crBED/Wb+wFHnxHJOVtUCe1QYBsHS+lSo="
+    },
+    "type": "primary"
+  },
+  "Blackthorn Dealing With Daedra Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "V0.5",
+      "file_id": 399434,
+      "file_name": "Blackthorn Dealing With Daedra Patch-68517-V0-5-1687282126.7z",
+      "mod_id": 68517,
+      "hash": "sha256-FJ5MaZtvBF5PyngLqCWsfAa74nbD2p9OeUfotbslhcw="
+    },
+    "type": "primary"
+  }
+}

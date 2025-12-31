@@ -1,0 +1,45 @@
+{
+  "Rally's Spell Tomes 1K": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1",
+      "file_id": 464622,
+      "file_name": "Rally's Spell Tomes 1K-80069-1-1-1706167605.7z",
+      "mod_id": 80069,
+      "hash": "sha256-+F2txkdhVUEbuujhzYWK9uYBBYTTIpPxvZy4wsd2isE="
+    },
+    "type": "primary"
+  },
+  "Rally's Spell Tomes 2K": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1",
+      "file_id": 464623,
+      "file_name": "Rally's Spell Tomes 2K-80069-1-1-1706167669.7z",
+      "mod_id": 80069,
+      "hash": "sha256-eoreifo9dOnwwGOMc8Ywg7tOqFLCw+O30NntdnhUElk="
+    },
+    "type": "primary"
+  },
+  "Rally's Spell Tomes 4K": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1",
+      "file_id": 464624,
+      "file_name": "Rally's Spell Tomes 4K-80069-1-1-1706167776.7z",
+      "mod_id": 80069,
+      "hash": "sha256-zBJ1OZWSyg959OIK2FuHThO1OYL8a6Ee8edfsRedBIs="
+    },
+    "type": "primary"
+  },
+  "Skeleton HD Replacer Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1",
+      "file_id": 466224,
+      "file_name": "Skeleton HD Replacer Patch-80069-1-1-1706607805.7z",
+      "mod_id": 80069,
+      "hash": "sha256-I49aZQUCRj0KwxG7jjfHX6K6sbdyLiNX5nzafz4gGRA="
+    }
+  }
+}

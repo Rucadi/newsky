@@ -16,7 +16,8 @@
       "version": "1.0",
       "file_id": 198516,
       "file_name": "CBBE 3BBB - Aradia Snake Rogue-48576-1-0-1618585671.7z",
-      "mod_id": 48576
+      "mod_id": 48576,
+      "hash": "sha256-5YfKp7mIQ8+aHVibucOmdTb7YTO/28Uxp0SP8UXyhAM="
     },
     "type": "primary"
   },
@@ -26,7 +27,8 @@
       "version": "1.0",
       "file_id": 198517,
       "file_name": "Aradia Snake Rogue - Optional HeelSound patch-48576-1-0-1618585742.7z",
-      "mod_id": 48576
+      "mod_id": 48576,
+      "hash": "sha256-H3BspHb4EL+fRY3a1PJHeUia/dJ3p8T1q3fXoMhSNvg="
     }
   }
 }

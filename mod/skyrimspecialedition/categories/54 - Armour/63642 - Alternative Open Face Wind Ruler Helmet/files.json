@@ -1,0 +1,74 @@
+{
+  "AOF Wind Ruler Helmet - circlet version": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 264216,
+      "file_name": "AOF Wind Ruler Helmet - circlet version-63642-1-0-1644878150.rar",
+      "mod_id": 63642,
+      "hash": "sha256-Kj2TJjGU5cye4IyvHemhgCUUHCgxJwDaRIobEDUY7Dg="
+    },
+    "type": "primary"
+  },
+  "AOF WRH - helm version (no hair mesh) - Male": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 264217,
+      "file_name": "AOF WRH - helm version (no hair mesh) - Male-63642-1-0-1644878334.rar",
+      "mod_id": 63642,
+      "hash": "sha256-llzLnSevRMPipa6hyJQ73ySQ93pKtMkD2uj9MnCjzSY="
+    }
+  },
+  "AOF WRH - helm version (no hair mesh) - Female": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 264218,
+      "file_name": "AOF WRH - helm version (no hair mesh) - Female-63642-1-0-1644878380.rar",
+      "mod_id": 63642,
+      "hash": "sha256-BkvciUQI+8bNCpGqb2jWmRYveLJuMcYVUVDaLB+E98Y="
+    }
+  },
+  "AOF Wind Ruler Helmet - helm version": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1",
+      "file_id": 264580,
+      "file_name": "AOF Wind Ruler Helmet - helm version-63642-1-1-1645006888.rar",
+      "mod_id": 63642,
+      "hash": "sha256-VdwN2hx4KG4Xou7n+yCDXh9JYs5vC3JD7pqB/R/HilI="
+    },
+    "type": "primary"
+  },
+  "AOF WRH - male circlet meshes": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 273898,
+      "file_name": "AOF WRH - male circlet meshes-63642-1-0-1648749137.rar",
+      "mod_id": 63642,
+      "hash": "sha256-OWUS4BAGSd7PMKh2xK/xUt7GbwoizdmZzQLSTosrudU="
+    }
+  },
+  "AOF WRH - helm version - braided Hair Physics": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1.5",
+      "file_id": 348850,
+      "file_name": "AOF WRH - helm version - braided Hair Physics-63642-1-1-1673526295.rar",
+      "mod_id": 63642,
+      "hash": "sha256-Vl0gS0adpD9fP3NJKZmMtau15LkSP6OecWcYU8dH8B8="
+    }
+  },
+  "AOF WRH - helm version - braided Hair Physics - Beastfolk": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1.5",
+      "file_id": 348851,
+      "file_name": "AOF WRH - helm version - braided Hair Physics - Beastfolk-63642-1-1-1673526382.rar",
+      "mod_id": 63642,
+      "hash": "sha256-iW1XLN/ri+iPGdnPcQwxs8idff7wtjGkjXwBK6FLvWc="
+    }
+  }
+}

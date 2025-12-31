@@ -1,0 +1,55 @@
+{
+  "1k-512 Textures for Mashed Potatoes": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "2.1",
+      "file_id": 346073,
+      "file_name": "1k-512 Textures for Mashed Potatoes-72416-2-1-1672708711.7z",
+      "mod_id": 72416,
+      "hash": "sha256-c8bk+kykUeTlRnBqCyQ7novijNQr1LjQHDHMmQfUGo4="
+    }
+  },
+  "2k-1k Textures for Baked Potatoes": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "2.1",
+      "file_id": 346076,
+      "file_name": "2k-1k Textures for Baked Potatoes-72416-2-1-1672709527.7z",
+      "mod_id": 72416,
+      "hash": "sha256-dfU8c9EzUO3W4im6bE1ORD+FKXyTG2Da37VmMhvsCO8="
+    }
+  },
+  "Fashions of the Banditry 2K": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "2.1",
+      "file_id": 346077,
+      "file_name": "Fashions of the Banditry 2K-72416-2-1-1672709530.7z",
+      "mod_id": 72416,
+      "hash": "sha256-HfWgRQdG7NQ17xFBkzlHczsqBHKB/nDOjaCbuhDxTNs="
+    },
+    "type": "primary"
+  },
+  "Fashions of the Banditry 4K-2K": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "2.1",
+      "file_id": 346078,
+      "file_name": "Fashions of the Banditry 4K-2K-72416-2-1-1672709531.7z",
+      "mod_id": 72416,
+      "hash": "sha256-fgsX09EzYEaf23KEPa+OBX5KBw2pp2HC9pylF/pJ6Lc="
+    },
+    "type": "primary"
+  },
+  "Fashions of the Banditry 4K": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "2.1",
+      "file_id": 346084,
+      "file_name": "Fashions of the Banditry 4K-72416-2-1-1672710385.7z",
+      "mod_id": 72416,
+      "hash": "sha256-QfDmv2H8J0Y7U9nnt8vYoShhE1k6GxiueWPgoF721T0="
+    },
+    "type": "primary"
+  }
+}

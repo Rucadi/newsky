@@ -1,0 +1,35 @@
+{
+  "ElSopa - HD Iron Tools Redone 4k SE": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 250887,
+      "file_name": "ElSopa - HD Iron Tools Redone 4k SE-60495-1-0-1640135570.7z",
+      "mod_id": 60495,
+      "hash": "sha256-Qj17f/KgtlpsgiTjBFDJ3BHK7yCsSPowVA4iyuSj4Qc="
+    },
+    "type": "primary"
+  },
+  "ElSopa - HD Iron Tools Redone 2k SE": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 250888,
+      "file_name": "ElSopa - HD Iron Tools Redone 2k SE-60495-1-0-1640135638.7z",
+      "mod_id": 60495,
+      "hash": "sha256-BHzwVClAtQgkdaCk2mkXeJ8f0W/NRLmOsk6nMquUYlo="
+    },
+    "type": "primary"
+  },
+  "ElSopa - HD Iron Tools Redone 1k SE": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 250889,
+      "file_name": "ElSopa - HD Iron Tools Redone 1k SE-60495-1-0-1640135765.7z",
+      "mod_id": 60495,
+      "hash": "sha256-MtlhvR9BmbEdYsKr9mLTCVZCa8xcH8AnbyHZorKz3Ts="
+    },
+    "type": "primary"
+  }
+}

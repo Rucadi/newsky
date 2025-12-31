@@ -2,6 +2,8 @@
 - Author: saltmaxwellpshk
 - Game: skyrimspecialedition
 - Mod Page: https://www.nexusmods.com/skyrimspecialedition/mods/51702
+
+
 Add an animation to Nightingale Bow.
   
 Works with anime events.

@@ -2,6 +2,8 @@
 - Author: Verolevi
 - Game: skyrimspecialedition
 - Mod Page: https://www.nexusmods.com/skyrimspecialedition/mods/51507
+
+
 **[size=3][size=5][b][b]This mod and its addons are now part of my** [/b]
 
 [**[b]All-In-One Collection**[/b]](https://next.nexusmods.com/skyrimspecialedition/collections/oxtos9?_gl=1*1tp8qz5*_ga*OTc3NDEwMjMuMTY1NzUzMTYyNA..*_ga_N0TELNQ37M*MTY5MzYzMjUwMS4xOTIyLjEuMTY5MzYzNDQ2Ny4wLjAuMA..)﻿[size=3][size=5]**[b][size=3]

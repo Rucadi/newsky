@@ -1,0 +1,33 @@
+{
+  "NecDaz Demoniac Edit": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 329064,
+      "file_name": "NecDaz Demoniac Edit-78090-1-0-1667623580.zip",
+      "mod_id": 78090,
+      "hash": "sha256-B3GI0WOWyC2gV2d/Y9NKrH6up5IGFwuwWmirK8E0//c="
+    }
+  },
+  "NecDaz Feet": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.02",
+      "file_id": 329129,
+      "file_name": "NecDaz Feet-78090-1-02-1667648881.zip",
+      "mod_id": 78090,
+      "hash": "sha256-G415M0uEwMUyU1835VmKAv0ezRDyaj10ERooURh8YRM="
+    },
+    "type": "primary"
+  },
+  "NecDaz Feet (Elin Patch)": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.02",
+      "file_id": 340359,
+      "file_name": "NecDaz Feet (Elin Patch)-78090-1-02-1670969414.7z",
+      "mod_id": 78090,
+      "hash": "sha256-W4yVfeOuIc9RPlHz9aIOMiMlnx6uPyFE8ANT3Hye8tc="
+    }
+  }
+}

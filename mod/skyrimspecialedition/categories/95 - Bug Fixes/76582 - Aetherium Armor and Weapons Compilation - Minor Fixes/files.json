@@ -1,0 +1,23 @@
+{
+  "Aetherium Armor and Weapons Comp - Fixes": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1",
+      "file_id": 539260,
+      "file_name": "Aetherium Armor and Weapons Comp - Fixes-76582-1-1-1725615025.zip",
+      "mod_id": 76582,
+      "hash": "sha256-JWiha0lpztl2T4m8sQMEGdohTlBsrHd7mwUjA8GlLUU="
+    },
+    "type": "primary"
+  },
+  "Aetherium Armor Weapons Comp Fixes (LOTD Patch)": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1",
+      "file_id": 539264,
+      "file_name": "Aetherium Armor Weapons Comp Fixes (LOTD Patch)-76582-1-1-1725615256.zip",
+      "mod_id": 76582,
+      "hash": "sha256-aQ516+QQit7ZW73OqodjUJOf2Hc5pjsT6ZOfxidQnSs="
+    }
+  }
+}

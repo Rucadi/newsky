@@ -2,6 +2,8 @@
 - Author: Teabag86 - DrMonops - Janquel - Jkrojmal - Czasior
 - Game: skyrimspecialedition
 - Mod Page: https://www.nexusmods.com/skyrimspecialedition/mods/49346
+
+
 ![](https://i.imgur.com/G0vU6Dh.jpg?1)
 
   

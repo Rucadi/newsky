@@ -1,0 +1,35 @@
+{
+  "Dragon Ragdoll Sounds": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1",
+      "file_id": 233239,
+      "file_name": "Dragon Ragdoll Sounds-56658-1-1-1633613792.zip",
+      "mod_id": 56658,
+      "hash": "sha256-sKRIQn/q9PkBdYeI6X6gSdEzOo0/o7PjA0uWlPN78SI="
+    },
+    "type": "primary"
+  },
+  "Dragon Ragdoll Sounds For VR": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1",
+      "file_id": 233240,
+      "file_name": "Dragon Ragdoll Sounds For VR-56658-1-1-1633613833.zip",
+      "mod_id": 56658,
+      "hash": "sha256-sWYOq9OYm2rReV8LVQBAKWh4qQJ7SjNvfO3T5UDrbEc="
+    },
+    "type": "primary"
+  },
+  "Dragon Ragdoll Sounds ESP flagged as ESL": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1",
+      "file_id": 233245,
+      "file_name": "Dragon Ragdoll Sounds ESP flagged as ESL-56658-1-1-1633615193.zip",
+      "mod_id": 56658,
+      "hash": "sha256-y/HHG3J0LTbFtCT7DDGldoeJfqDjz4SI9JlkSCzUJto="
+    },
+    "type": "primary"
+  }
+}

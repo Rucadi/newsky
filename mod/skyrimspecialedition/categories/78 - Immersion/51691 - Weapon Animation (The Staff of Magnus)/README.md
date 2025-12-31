@@ -2,6 +2,8 @@
 - Author: saltmaxwellpshk
 - Game: skyrimspecialedition
 - Mod Page: https://www.nexusmods.com/skyrimspecialedition/mods/51691
+
+
 Add an animation to The Staff of Magnus.
   
 Works with anime events.

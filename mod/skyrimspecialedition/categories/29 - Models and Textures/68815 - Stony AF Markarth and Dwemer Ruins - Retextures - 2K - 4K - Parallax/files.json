@@ -1,0 +1,75 @@
+{
+  "Stony AF Markarth and Dwemer Ruins 4K": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "2.2",
+      "file_id": 394981,
+      "file_name": "Stony AF Markarth and Dwemer Ruins 4K-68815-2-2-1685892893.zip",
+      "mod_id": 68815,
+      "hash": "sha256-kdWAE+xCbUY9DLDphc/BIXWG8q5KL+oradbKuEkDUeI="
+    },
+    "type": "primary"
+  },
+  "Stony AF Markarth and Dwemer Ruins 2K": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "2.2",
+      "file_id": 394982,
+      "file_name": "Stony AF Markarth and Dwemer Ruins 2K-68815-2-2-1685893053.zip",
+      "mod_id": 68815,
+      "hash": "sha256-o49p3pfKJ55ofH+KMUFcSOBZNUbuDoQmXiQt5V+n6b0="
+    },
+    "type": "primary"
+  },
+  "Stony AF Markarth and Dwemer Ruins 4K-2K": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "2.2",
+      "file_id": 394984,
+      "file_name": "Stony AF Markarth and Dwemer Ruins 4K-2K-68815-2-2-1685893449.zip",
+      "mod_id": 68815,
+      "hash": "sha256-NQnr0b7NCaHQ/KyNCJmH9kFnRJvuIzn03rIfWn2NtbE="
+    },
+    "type": "primary"
+  },
+  "Stony AF Markarth - Addons - 4K": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "2.2",
+      "file_id": 394985,
+      "file_name": "Stony AF Markarth - Addons - 4K-68815-2-2-1685893585.zip",
+      "mod_id": 68815,
+      "hash": "sha256-3oWJUkBgv/hGkPKABIr651sO7WdGK0ti1YJ7TKNR/rc="
+    }
+  },
+  "Stony AF Markarth - Addons - 2K": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "2.2",
+      "file_id": 394986,
+      "file_name": "Stony AF Markarth - Addons - 2K-68815-2-2-1685893777.zip",
+      "mod_id": 68815,
+      "hash": "sha256-G+2QsjN67S7IHFTR/M/fIKC2b6aE+Z52Gd13eRKp6sw="
+    }
+  },
+  "Stony AF Markarth - Dwemer Pipework Reworked 4K": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "2.2",
+      "file_id": 398942,
+      "file_name": "Stony AF Markarth - Dwemer Pipework Reworked 4K-68815-2-2-1687099635.zip",
+      "mod_id": 68815,
+      "hash": "sha256-hYqQ9GUudwssiQxTYT14AEmmVWkRpk/4bcMIGzimaq8="
+    }
+  },
+  "Stony AF Markarth - Dwemer Pipework Reworked 2K": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "2.2",
+      "file_id": 398943,
+      "file_name": "Stony AF Markarth - Dwemer Pipework Reworked 2K-68815-2-2-1687099740.zip",
+      "mod_id": 68815,
+      "hash": "sha256-lNKmGdJgmQjHwDaGYzNIddESI/vo5dMAmbiGzzdGMlI="
+    }
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "3BA EGIL Shadow of Akavir": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.3",
+      "file_id": 306367,
+      "file_name": "3BA EGIL Shadow of Akavir-72466-1-3-1660151673.7z",
+      "mod_id": 72466,
+      "hash": "sha256-w1/TP5NdW3QJGLZZJWr4lZuToLc4SryUzcn9rLyuqf0="
+    },
+    "type": "primary"
+  },
+  "3BA EGIL Shadow of Akavir Flat breast slider fix": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.3",
+      "file_id": 306368,
+      "file_name": "3BA EGIL Shadow of Akavir Flat breast slider fix-72466-1-3-1660151946.7z",
+      "mod_id": 72466,
+      "hash": "sha256-jN9Zg6PAAFPug3E7KOxHNo2iEyisikiKnsG3C2SfSaI="
+    }
+  },
+  "3BA EGIL Shadow of Akavir 1.3 Squeeze slider removed": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.3",
+      "file_id": 306957,
+      "file_name": "3BA EGIL Shadow of Akavir 1.3 Squeeze slider removed-72466-1-3-1660332217.7z",
+      "mod_id": 72466,
+      "hash": "sha256-0vedjSVOXindAzGbcX6Tpd9/iWdfsKGWUfNq6NeRZV0="
+    }
+  }
+}

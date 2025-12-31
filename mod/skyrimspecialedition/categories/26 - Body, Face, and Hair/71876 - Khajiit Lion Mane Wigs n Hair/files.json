@@ -1,0 +1,23 @@
+{
+  "Khajiit Lion Mane - Wigs Only": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "2.0",
+      "file_id": 301413,
+      "file_name": "Khajiit Lion Mane - Wigs Only-71876-2-0-1658567691.7z",
+      "mod_id": 71876,
+      "hash": "sha256-yQNpVVVUZEzFk/9IpFPGYFp5pBOIVismz5cJ4HMlQvQ="
+    }
+  },
+  "Khajiit Lion Mane Wigs n Hair": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "2.2",
+      "file_id": 303000,
+      "file_name": "Khajiit Lion Mane Wigs n Hair-71876-2-2-1659061274.7z",
+      "mod_id": 71876,
+      "hash": "sha256-17v1v1dNVGuAMb/lReamjc3IdqgNEav5+cb033TGOHg="
+    },
+    "type": "primary"
+  }
+}

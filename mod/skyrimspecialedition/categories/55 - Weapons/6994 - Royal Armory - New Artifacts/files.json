@@ -1,13 +1,13 @@
 {
-    "Royal Armory V2.2": {
-        "nexusmods": {
-            "game_name": "skyrimspecialedition",
-            "version": "2.2",
-            "file_id": 46583,
-            "file_name": "Royal Armory V2.2-6994-2-2.7z",
-            "mod_id": 6994,
-            "hash": "sha256-IXJr4UkMy0O0TRgAzKESliwYt9m7j+jVcRRCWoEIFTo="
-        },
-        "type": "primary"
-    }
+  "Royal Armory V2.2": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "2.2",
+      "file_id": 46583,
+      "file_name": "Royal Armory V2.2-6994-2-2.7z",
+      "mod_id": 6994,
+      "hash": "sha256-IXJr4UkMy0O0TRgAzKESliwYt9m7j+jVcRRCWoEIFTo="
+    },
+    "type": "primary"
+  }
 }

@@ -1,0 +1,46 @@
+{
+  "COCO Battle Angels - CBBE 3BA": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 269600,
+      "file_name": "COCO Battle Angels - CBBE 3BA-64787-1-0-1647087376.7z",
+      "mod_id": 64787,
+      "hash": "sha256-+MQmzJBbb979q0M9/VrK+jhb54E8+eRiWSnPliLfhkY="
+    },
+    "type": "primary"
+  },
+  "COCO Battle Angels - TBD SE": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 269601,
+      "file_name": "COCO Battle Angels - TBD SE-64787-1-0-1647087612.7z",
+      "mod_id": 64787,
+      "hash": "sha256-laPIxwe1nLEJ8D0G6ABiYduIQxK9r5wJIky5luHALvs="
+    },
+    "type": "primary"
+  },
+  "COCO Battle Angels - COCOBody UUNP": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 269604,
+      "file_name": "COCO Battle Angels - COCOBody UUNP-64787-1-0-1647088309.7z",
+      "mod_id": 64787,
+      "hash": "sha256-byAKGCDiZN5FAH8Q5u6IYV1s/DkQE1XZ5lNbMlPDCJ4="
+    },
+    "type": "primary"
+  },
+  "COCO Battle Angels - COCOBody CBBE": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 269606,
+      "file_name": "COCO Battle Angels - COCOBody CBBE-64787-1-0-1647088868.7z",
+      "mod_id": 64787,
+      "hash": "sha256-VCK+rChYtqJGVnVSh80GjHPHfU+wcRqTXDW/ocv1Q1Y="
+    },
+    "type": "primary"
+  }
+}

@@ -2,6 +2,8 @@
 - Author: Novelyst
 - Game: skyrimspecialedition
 - Mod Page: https://www.nexusmods.com/skyrimspecialedition/mods/55543
+
+
 Whilst going through the classic [Static Mesh Improvement Mod](https://www.nexusmods.com/skyrimspecialedition/mods/659) I noticed some meshes appeared to have issues with their topology. They showed telltale signs of subdivision of triangles without first converting to quadrangles. There were other small issues – a bread mesh replacement moved it away from its original spot, the apples were looking a bit jagged. This mod improves topology and covers just a few more meshes to better their appearances.
   
   

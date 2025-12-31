@@ -1,0 +1,33 @@
+{
+  "Legacy of the Dragonborn Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 314166,
+      "file_name": "Immersive Magic Brooms Legacy of the Dragonborn Patch (Optional)-74847-1-0-1662598225.rar",
+      "mod_id": 74847,
+      "hash": "sha256-WMr8DMAq64XXtBM1KP9SzGDRGSVTV+sbomD95iuuhOY="
+    }
+  },
+  "Immersive Magic Brooms": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "2.0",
+      "file_id": 376471,
+      "file_name": "Immersive Magic Brooms-74847-2-0-1680993249.rar",
+      "mod_id": 74847,
+      "hash": "sha256-lEmqX+OZyMULM5cR9MRzNQokA3oNteQwpILjVJ4rVzY="
+    },
+    "type": "primary"
+  },
+  "Sweeping Organizes Stuff Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 376472,
+      "file_name": "Sweeping Organizes Stuff Patch-74847-1-0-1680993341.rar",
+      "mod_id": 74847,
+      "hash": "sha256-6HAFlPIpOB98guw9eKBJVSD21cst7IHjzAS8yz8Ah4w="
+    }
+  }
+}

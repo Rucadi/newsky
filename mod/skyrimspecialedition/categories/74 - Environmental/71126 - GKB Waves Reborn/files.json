@@ -1,0 +1,33 @@
+{
+  "GKB Waves Reborn ESP version": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "3.0",
+      "file_id": 312824,
+      "file_name": "GKB Waves Reborn ESP version-71126-3-0-1662221770.7z",
+      "mod_id": 71126,
+      "hash": "sha256-D1swdouWwAN/chXzhUGR6IMkPSPByOiWotjA/DrxGd8="
+    }
+  },
+  "GKB Waves Reborn Artmoor Telengard patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1",
+      "file_id": 331283,
+      "file_name": "GKB Waves Reborn Artmoor Telengard patch-71126-1-1-1668294997.zip",
+      "mod_id": 71126,
+      "hash": "sha256-SJg7uvxE8lhHFWexvLHG0Js8D+dXrRmADuTj2HBXdn8="
+    }
+  },
+  "GKB Waves Reborn": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "3.1.2",
+      "file_id": 670792,
+      "file_name": "GKB Waves Reborn-71126-3-1-2-1759233930.7z",
+      "mod_id": 71126,
+      "hash": "sha256-I+QNF7PY11CQDoYx1sgGiwM0xCo/LlKuKn5pxFlB8iU="
+    },
+    "type": "primary"
+  }
+}

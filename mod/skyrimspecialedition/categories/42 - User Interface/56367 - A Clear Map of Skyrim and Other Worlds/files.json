@@ -1,0 +1,23 @@
+{
+  "A Clear Map of Skyrim and Other Worlds FOMOD": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "4.0",
+      "file_id": 334140,
+      "file_name": "A Clear Map of Skyrim and Other Worlds FOMOD-56367-4-0-1669293184.7z",
+      "mod_id": 56367,
+      "hash": "sha256-CjelrXBwt3yqzApsB3TOnfd+wONZR5qsiUfFaTSlGm0="
+    },
+    "type": "primary"
+  },
+  "ACMOS - Lazy Roads": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "4.0",
+      "file_id": 334141,
+      "file_name": "ACMOS - Lazy Roads-56367-4-0-1669293188.7z",
+      "mod_id": 56367,
+      "hash": "sha256-ry40xCvtneMJ7GHnH0iVbjJCNGVPMqLziGEN0bvQz5I="
+    }
+  }
+}

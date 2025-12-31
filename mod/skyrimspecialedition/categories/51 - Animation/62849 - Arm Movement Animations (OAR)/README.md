@@ -2,6 +2,8 @@
 - Author: CHIMgarden
 - Game: skyrimspecialedition
 - Mod Page: https://www.nexusmods.com/skyrimspecialedition/mods/62849
+
+
 [left]Arm Movement Animations (OAR mod) is an addition of more than 80 conditional dynamic replacers for offsetarmscrossed.hkx animation overlay in game. 
   
 This animation is often gets activated for NPCs in dialogue and replaces arm movement from idle animations or gestures currently playing, resulting in characters seem less lively. That is not what I want in my Skyrim, especially with interesting characters like Sheogorath.

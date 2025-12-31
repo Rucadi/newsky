@@ -1,63 +1,63 @@
 {
-    "Free Movement for SGT": {
-        "nexusmods": {
-            "game_name": "skyrimspecialedition",
-            "version": "1.60",
-            "file_id": 324732,
-            "file_name": "Free Movement for SGT-50357-1-60-1665995151.rar",
-            "mod_id": 50357,
-            "hash": "sha256-fe974KiCMeZrg1N025vC3MDjxBKLDwoNueKM1Sq/lks="
-        }
-    },
-    "Bruma Mini Patch": {
-        "nexusmods": {
-            "game_name": "skyrimspecialedition",
-            "version": "1.75",
-            "file_id": 532116,
-            "file_name": "Bruma Mini Patch-50357-1-75-1723829745.zip",
-            "mod_id": 50357,
-            "hash": "sha256-keODxBbQO/NeyT2X9PeVXKQM3QxHn2/Z1Dl1W/APqwY="
-        }
-    },
-    "Inigo Reacts To Your Music": {
-        "nexusmods": {
-            "game_name": "skyrimspecialedition",
-            "version": "1.75",
-            "file_id": 532117,
-            "file_name": "Inigo Reacts To Your Music-50357-1-75-1723829822.zip",
-            "mod_id": 50357,
-            "hash": "sha256-tLEWmW0Kasq9L1cACAJaaQKIcShIuRQhXddS6Old89U="
-        }
-    },
-    "Auri Reacts To Your Music": {
-        "nexusmods": {
-            "game_name": "skyrimspecialedition",
-            "version": "1.76",
-            "file_id": 539632,
-            "file_name": "Auri Reacts To Your Music-50357-1-76-1725712909.zip",
-            "mod_id": 50357,
-            "hash": "sha256-jVZL4WQmYq67BDubjsAhcoFaGaYhLZ5W5mBz6P+kDCw="
-        }
-    },
-    "Skyrim's Got Talent - Improve As a Bard": {
-        "nexusmods": {
-            "game_name": "skyrimspecialedition",
-            "version": "1.76",
-            "file_id": 539633,
-            "file_name": "Skyrim's Got Talent - Improve As a Bard-50357-1-76-1725712975.zip",
-            "mod_id": 50357,
-            "hash": "sha256-UIjlsqtFsnsC9s0c2E0QfFzRjyMqdWZkMce80yXrtJg="
-        },
-        "type": "primary"
-    },
-    "Xelzaz Reacts To Your Music": {
-        "nexusmods": {
-            "game_name": "skyrimspecialedition",
-            "version": "1.76",
-            "file_id": 539634,
-            "file_name": "Xelzaz Reacts To Your Music-50357-1-76-1725713171.zip",
-            "mod_id": 50357,
-            "hash": "sha256-1nCSvTvBl+Ec0MIgMx2X/iVi5uFYae6XkLChPuk2Ils="
-        }
+  "Free Movement for SGT": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.60",
+      "file_id": 324732,
+      "file_name": "Free Movement for SGT-50357-1-60-1665995151.rar",
+      "mod_id": 50357,
+      "hash": "sha256-fe974KiCMeZrg1N025vC3MDjxBKLDwoNueKM1Sq/lks="
     }
+  },
+  "Bruma Mini Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.75",
+      "file_id": 532116,
+      "file_name": "Bruma Mini Patch-50357-1-75-1723829745.zip",
+      "mod_id": 50357,
+      "hash": "sha256-keODxBbQO/NeyT2X9PeVXKQM3QxHn2/Z1Dl1W/APqwY="
+    }
+  },
+  "Inigo Reacts To Your Music": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.75",
+      "file_id": 532117,
+      "file_name": "Inigo Reacts To Your Music-50357-1-75-1723829822.zip",
+      "mod_id": 50357,
+      "hash": "sha256-tLEWmW0Kasq9L1cACAJaaQKIcShIuRQhXddS6Old89U="
+    }
+  },
+  "Auri Reacts To Your Music": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.76",
+      "file_id": 539632,
+      "file_name": "Auri Reacts To Your Music-50357-1-76-1725712909.zip",
+      "mod_id": 50357,
+      "hash": "sha256-jVZL4WQmYq67BDubjsAhcoFaGaYhLZ5W5mBz6P+kDCw="
+    }
+  },
+  "Skyrim's Got Talent - Improve As a Bard": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.76",
+      "file_id": 539633,
+      "file_name": "Skyrim's Got Talent - Improve As a Bard-50357-1-76-1725712975.zip",
+      "mod_id": 50357,
+      "hash": "sha256-UIjlsqtFsnsC9s0c2E0QfFzRjyMqdWZkMce80yXrtJg="
+    },
+    "type": "primary"
+  },
+  "Xelzaz Reacts To Your Music": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.76",
+      "file_id": 539634,
+      "file_name": "Xelzaz Reacts To Your Music-50357-1-76-1725713171.zip",
+      "mod_id": 50357,
+      "hash": "sha256-1nCSvTvBl+Ec0MIgMx2X/iVi5uFYae6XkLChPuk2Ils="
+    }
+  }
 }

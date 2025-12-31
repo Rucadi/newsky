@@ -2,6 +2,8 @@
 - Author: JaySerpa
 - Game: skyrimspecialedition
 - Mod Page: https://www.nexusmods.com/skyrimspecialedition/mods/50357
+
+
 *[![](https://staticdelivery.nexusmods.com/mods/2736/images/156/156-1759316784-1051463583.png)](https://www.nexusmods.com/users/5201727?tab=user+files&BH=2)﻿  [![](https://staticdelivery.nexusmods.com/mods/2736/images/156/156-1759316783-1792166095.png)](https://www.twitch.tv/jayserpa)﻿  [![](https://staticdelivery.nexusmods.com/mods/2736/images/156/156-1759316821-1984374176.png)](https://www.patreon.com/JaySerpa)*
   
 [font=Trebuchet MS]**SKYRIM'S GOT TALENT**

@@ -1,13 +1,13 @@
 {
-    "Security Overhaul SKSE - Lock Variations": {
-        "nexusmods": {
-            "game_name": "skyrimspecialedition",
-            "version": "4.0.0",
-            "file_id": 533430,
-            "file_name": "Security Overhaul SKSE - Lock Variations-58224-4-0-0-1724139207.7z",
-            "mod_id": 58224,
-            "hash": "sha256-sgzOdmRXZqm6Rn1rBYLN39LFMDInpVsw1cYbuvpgPtQ="
-        },
-        "type": "primary"
-    }
+  "Security Overhaul SKSE - Lock Variations": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "4.0.0",
+      "file_id": 533430,
+      "file_name": "Security Overhaul SKSE - Lock Variations-58224-4-0-0-1724139207.7z",
+      "mod_id": 58224,
+      "hash": "sha256-sgzOdmRXZqm6Rn1rBYLN39LFMDInpVsw1cYbuvpgPtQ="
+    },
+    "type": "primary"
+  }
 }

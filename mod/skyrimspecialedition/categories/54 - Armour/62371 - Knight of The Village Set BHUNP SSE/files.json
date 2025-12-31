@@ -1,0 +1,44 @@
+{
+  "Knight of The Village BHUNP SSE Extended Textures 4K": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "2022.c",
+      "file_id": 260159,
+      "file_name": "Knight of The Village BHUNP SSE Extended Textures 4K-62371-2022-c-1643392857.7z",
+      "mod_id": 62371,
+      "hash": "sha256-VNQl0gqZNsFpeOXTYiT5QOjucZQVR2KXYtz34kFv1R4="
+    },
+    "type": "primary"
+  },
+  "Knight of The Village BHUNP SSE Textures Compressed": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "2022.c",
+      "file_id": 260161,
+      "file_name": "Knight of The Village BHUNP SSE Textures Compressed-62371-2022-c-1643393237.7z",
+      "mod_id": 62371,
+      "hash": "sha256-JIU8KBrY/57BpwG+ywSz3pC55/6f7fhTKzU4v5nNvqI="
+    }
+  },
+  "Knight of The Village BHUNP SSE Extended Heels Sound Compatibility Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "2022.c1",
+      "file_id": 260336,
+      "file_name": "Knight of The Village BHUNP SSE Extended Heels Sound Compatibility Patch-62371-2022-c1-1643478691.7z",
+      "mod_id": 62371,
+      "hash": "sha256-//0W2O7ohgsE7aMrNBdsMuf7xzlr7GwJ7dtjw+xObxk="
+    }
+  },
+  "Knight of The Village BHUNP SSE Extended": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "2022.c1",
+      "file_id": 260400,
+      "file_name": "Knight of The Village BHUNP SSE Extended-62371-2022-c1-1643511697.7z",
+      "mod_id": 62371,
+      "hash": "sha256-XfJcs3TmQ8s8EF1C1e0rVtpftXk4xWb4hixT43fS70w="
+    },
+    "type": "primary"
+  }
+}

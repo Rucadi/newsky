@@ -1,0 +1,64 @@
+{
+  "2k-4k. New Vampire Lord Female Dressed SE": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0.0",
+      "file_id": 322950,
+      "file_name": "2k-4k. New Vampire Lord Female Dressed SE-76689-1-0-0-1665389831.zip",
+      "mod_id": 76689,
+      "hash": "sha256-TbM1OGhdp+WvxIdKg3cACF67eHKNyj6WpEb/mRGrEDU="
+    },
+    "type": "primary"
+  },
+  "1k-2k. New Vampire Lord Female Dressed SE": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0.0",
+      "file_id": 322951,
+      "file_name": "1k-2k. New Vampire Lord Female Dressed SE-76689-1-0-0-1665389956.zip",
+      "mod_id": 76689,
+      "hash": "sha256-BocOIzwh29UQrXX9e12mG7uA4ibjqeOROSKRKq6ncyw="
+    },
+    "type": "primary"
+  },
+  "1. Vampire Lord EYES VERSION 2 SE": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0.0",
+      "file_id": 322952,
+      "file_name": "1. Vampire Lord EYES VERSION 2 SE-76689-1-0-0-1665390006.zip",
+      "mod_id": 76689,
+      "hash": "sha256-arfRV08KbzDmXWHE5rz9N0xjixSzHxSoM4K2+Y9MchA="
+    }
+  },
+  "Base Armor Gold Dressed SE": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0.0",
+      "file_id": 322953,
+      "file_name": "Base Armor Gold Dressed SE-76689-1-0-0-1665390056.zip",
+      "mod_id": 76689,
+      "hash": "sha256-4dTRJqHE3oRAYP/XBCd4BFL6GJ98k4CfOfGy8SEGvLo="
+    }
+  },
+  "Base Armor Red Dressed SE": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0.0",
+      "file_id": 322954,
+      "file_name": "Base Armor Red Dressed SE-76689-1-0-0-1665390092.zip",
+      "mod_id": 76689,
+      "hash": "sha256-w/VztBbwwxFinn6IRENNkEf0gYLD1P7y9azth9t9hME="
+    }
+  },
+  "Loadscreenart Dressed Lord": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0.0",
+      "file_id": 331058,
+      "file_name": "Loadscreenart Dressed Lord-76689-1-0-0-1668247112.zip",
+      "mod_id": 76689,
+      "hash": "sha256-Ah6X7zWHQhhco0dCyBugdHmXOZsykUMsihqnlVYrNq0="
+    }
+  }
+}

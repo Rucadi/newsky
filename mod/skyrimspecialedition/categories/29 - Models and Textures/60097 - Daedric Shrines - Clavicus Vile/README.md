@@ -2,6 +2,8 @@
 - Author: Mandragorasprouts
 - Game: skyrimspecialedition
 - Mod Page: https://www.nexusmods.com/skyrimspecialedition/mods/60097
+
+
 ![](https://i.imgur.com/l7F5EBQ.jpg)﻿
 
   

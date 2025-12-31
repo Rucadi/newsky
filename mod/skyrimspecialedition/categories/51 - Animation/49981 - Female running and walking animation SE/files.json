@@ -1,0 +1,86 @@
+{
+  "Idle Animation": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.2.0i",
+      "file_id": 549213,
+      "file_name": "Idle Animation-49981-1-2-0i-1728123270.7z",
+      "mod_id": 49981,
+      "hash": "sha256-Mv2PQzd76OOuzSV+/HUi+9tnxqPQ7DLhhqpENsYaRPE="
+    }
+  },
+  "Sneak Idle Animation": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0.0sn",
+      "file_id": 433787,
+      "file_name": "Sneak Idle Animation-49981-1-0-0sn-1697277892.7z",
+      "mod_id": 49981,
+      "hash": "sha256-xu6Q6OjQ8azw85jXzwzR2syA/2cW3oEyZmrjV5KMddQ="
+    }
+  },
+  "Swimming Animation": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0.0sw",
+      "file_id": 496354,
+      "file_name": "Swimming Animation-49981-1-0-0sw-1714483023.7z",
+      "mod_id": 49981,
+      "hash": "sha256-SOLmV4DLhErv2xeGvBmr8VIRepIPg9OZzw9hAhdlkm0="
+    }
+  },
+  "For OAR Sample": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0.0",
+      "file_id": 580283,
+      "file_name": "For OAR Sample-49981-1-0-0-1736247972.7z",
+      "mod_id": 49981,
+      "hash": "sha256-iffxpWByflBF91dVJ74o7J9dDlmoRktR2+A1GHpnlbY="
+    },
+    "type": "primary"
+  },
+  "Walking Animation": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.4.14w",
+      "file_id": 622098,
+      "file_name": "Walking Animation-49981-1-4-14w-1745927463.7z",
+      "mod_id": 49981,
+      "hash": "sha256-XOV8WKMUm28Yk/EHXN+0P6mfiRwdgMBg7SVQ6LLY7CE="
+    },
+    "type": "primary"
+  },
+  "Running Animation": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0.20r",
+      "file_id": 625919,
+      "file_name": "Running Animation-49981-1-0-20r-1746941585.7z",
+      "mod_id": 49981,
+      "hash": "sha256-7T5/G5NtR20CDNQH4u5Dd6uRZzGA5PE7dIUCMJaknyE="
+    },
+    "type": "primary"
+  },
+  "Sprinting Animation": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.3.14s",
+      "file_id": 625922,
+      "file_name": "Sprinting Animation-49981-1-3-14s-1746942016.7z",
+      "mod_id": 49981,
+      "hash": "sha256-6vgkOJJS1s4woCeOqP3vO3gPmyTxp/OQKN5eNE5bWQY="
+    },
+    "type": "primary"
+  },
+  "OAR Sexy Moves Patch Random": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0.0",
+      "file_id": 632829,
+      "file_name": "OAR Sexy Moves Patch Random-49981-1-0-0-1748600538.7z",
+      "mod_id": 49981,
+      "hash": "sha256-2Ne2ei3b4/F2pExR+AOIUYM6ZRwb0mQy5N7EqJRMbZg="
+    }
+  }
+}

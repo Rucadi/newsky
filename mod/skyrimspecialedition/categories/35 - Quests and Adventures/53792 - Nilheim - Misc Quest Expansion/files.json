@@ -1,23 +1,23 @@
 {
-    "Nilheim - Quest Expansion": {
-        "nexusmods": {
-            "game_name": "skyrimspecialedition",
-            "version": "1.14",
-            "file_id": 655965,
-            "file_name": "Nilheim - Quest Expansion-53792-1-14-1755291881.rar",
-            "mod_id": 53792,
-            "hash": "sha256-NgWzz5d3OkaS5hTqJIg2qXVHgOWspLUNq4jEMwreNgw="
-        },
-        "type": "primary"
+  "Nilheim - Quest Expansion": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.14",
+      "file_id": 655965,
+      "file_name": "Nilheim - Quest Expansion-53792-1-14-1755291881.rar",
+      "mod_id": 53792,
+      "hash": "sha256-NgWzz5d3OkaS5hTqJIg2qXVHgOWspLUNq4jEMwreNgw="
     },
-    "Nilheim QE - USSEP patch": {
-        "nexusmods": {
-            "game_name": "skyrimspecialedition",
-            "version": "1.14",
-            "file_id": 655966,
-            "file_name": "Nilheim QE - USSEP patch-53792-1-14-1755291955.rar",
-            "mod_id": 53792,
-            "hash": "sha256-H8PcOzCQnpm7Wv2wBzrqtLCKCnpvQYmv/IvEzpTWft8="
-        }
+    "type": "primary"
+  },
+  "Nilheim QE - USSEP patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.14",
+      "file_id": 655966,
+      "file_name": "Nilheim QE - USSEP patch-53792-1-14-1755291955.rar",
+      "mod_id": 53792,
+      "hash": "sha256-H8PcOzCQnpm7Wv2wBzrqtLCKCnpvQYmv/IvEzpTWft8="
     }
+  }
 }

@@ -2,6 +2,8 @@
 - Author: Ian Patterson
 - Game: skyrimspecialedition
 - Mod Page: https://www.nexusmods.com/skyrimspecialedition/mods/71567
+
+
 Skyrim's engine has a bug that causes audio to not play most of the time when the game is installed to a drive with a sector size other than 512 (usually referred to as Advanced Format). This is an SKSE plugin that fixes the bug. Compatible with all versions of SE/AE.
   
   

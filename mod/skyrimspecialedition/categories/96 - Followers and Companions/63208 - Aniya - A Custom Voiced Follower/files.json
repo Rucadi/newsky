@@ -1,0 +1,63 @@
+{
+  "Aniya - Immersive Sweetroll Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1",
+      "file_id": 575748,
+      "file_name": "Aniya - Immersive Sweetroll Patch-63208-1-1735065912.7z",
+      "mod_id": 63208,
+      "hash": "sha256-I3OwzB9qGpBsRnv6dr1VXUZ4sX7gsx0Contm9ce+kGc="
+    }
+  },
+  "Aniya - Vanilla Body Patch - Loose": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1",
+      "file_id": 575749,
+      "file_name": "Aniya - Vanilla Body Patch - Loose-63208-1-1735065973.7z",
+      "mod_id": 63208,
+      "hash": "sha256-9yUV4sDQH5EgkeUWnmeone72FbhEQdbENK126we20Fc="
+    }
+  },
+  "Aniya - High Poly Head - Standalone - Loose": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1",
+      "file_id": 575751,
+      "file_name": "Aniya - High Poly Head - Standalone - Loose-63208-1-1735066217.7z",
+      "mod_id": 63208,
+      "hash": "sha256-CVQ/Js5ERz3aUPFMoFTQCkONrd9J5wrzl6Q4gzv3hI0="
+    }
+  },
+  "Aniya - High Poly Head - Vanilla Body Patch - Loos": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1",
+      "file_id": 575752,
+      "file_name": "Aniya - High Poly Head - Vanilla Body Patch - Loos-63208-1-1735066380.7z",
+      "mod_id": 63208,
+      "hash": "sha256-l+cH4yarLsJjhsMI87ijh22O/kaFlzpHz1C/eLjqdwc="
+    }
+  },
+  "Aniya - v0.5.6.1 - Main Mod - Loose": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "0.5.6.1",
+      "file_id": 576390,
+      "file_name": "Aniya - v0.5.6.1 - Main Mod - Loose-63208-0-5-6-1-1735268178.7z",
+      "mod_id": 63208,
+      "hash": "sha256-6rP1NIS//2b9OrbD+vgGv0GKSWSqzeXJh09uo7psN/U="
+    }
+  },
+  "Aniya - A Custom Voiced Follower - v0.5.6.1": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "0.5.6.1",
+      "file_id": 579179,
+      "file_name": "Aniya - A Custom Voiced Follower - v0.5.6.1-63208-0-5-6-1-1735967320.7z",
+      "mod_id": 63208,
+      "hash": "sha256-2Gd202TAOs4U0T/2mP6v/nQ4pLd05OXkWlscxKXfe/c="
+    },
+    "type": "primary"
+  }
+}

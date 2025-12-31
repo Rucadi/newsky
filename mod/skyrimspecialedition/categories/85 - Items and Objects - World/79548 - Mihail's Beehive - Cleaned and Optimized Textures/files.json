@@ -1,0 +1,44 @@
+{
+  "Mihail's Beehive - Cleaned Textures 4K": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 335296,
+      "file_name": "Mihail's Beehive - Cleaned Textures 4K-79548-1-0-1669566678.7z",
+      "mod_id": 79548,
+      "hash": "sha256-c8DLbgvwg7fxMq+tBrWKF2DdI4yfXDIXGi7F3WqatHs="
+    },
+    "type": "primary"
+  },
+  "Mihail's Beehive - Cleaned Textures 2K": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 335297,
+      "file_name": "Mihail's Beehive - Cleaned Textures 2K-79548-1-0-1669566858.7z",
+      "mod_id": 79548,
+      "hash": "sha256-0N8uT8olEquolspFcL+hd8X2rpGzmbVyUdhBOMVTj+8="
+    },
+    "type": "primary"
+  },
+  "2k-1k Textures for Baked Potatoes": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 335304,
+      "file_name": "2k-1k Textures for Baked Potatoes-79548-1-0-1669567075.7z",
+      "mod_id": 79548,
+      "hash": "sha256-n1fZfCUgPdlsDg1Fvpfdp/m8sxOg+bVVoSsf+9f75Do="
+    }
+  },
+  "1k-512 Textures for Mashed Potatoes": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 335306,
+      "file_name": "1k-512 Textures for Mashed Potatoes-79548-1-0-1669567123.7z",
+      "mod_id": 79548,
+      "hash": "sha256-PsA/jmkS9NB7Yo+rd1YExK6RjHmrFnF5xahDUaevzps="
+    }
+  }
+}

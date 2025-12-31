@@ -2,6 +2,8 @@
 - Author: Epic Crab
 - Game: skyrimspecialedition
 - Mod Page: https://www.nexusmods.com/skyrimspecialedition/mods/50581
+
+
 I think at some point, everyone's decided they want the Golden Claw. You already have all the other claw keys, and you want to complete the set. Maybe you play Legacy of the Dragonborn and icecreamassassin has compelled you to steal it back. Maybe you just think it looks shiny and you like shiny things.
   
   

@@ -2,6 +2,8 @@
 - Author: CHIMgarden
 - Game: skyrimspecialedition
 - Mod Page: https://www.nexusmods.com/skyrimspecialedition/mods/63471
+
+
 [left]*"Look alive, will you!" - my intent behind making this mod :)*[/left]
   
 NPC Animation Remix adds to your game more animations to help NPCs look more lively and dynamic:

@@ -1,133 +1,133 @@
 {
-    "More Thalmor Dossiers - Bruma": {
-        "nexusmods": {
-            "game_name": "skyrimspecialedition",
-            "version": "1.15",
-            "file_id": 469302,
-            "file_name": "More Thalmor Dossiers - Bruma-65059-1-15-1707501318.7z",
-            "mod_id": 65059,
-            "hash": "sha256-qKLKW9IV8399/vmI9/cgIgFM4xNNMLVVwj8WeyCSipE="
-        }
-    },
-    "More Thalmor Dossiers - BUVARP SE RE": {
-        "nexusmods": {
-            "game_name": "skyrimspecialedition",
-            "version": "1.15",
-            "file_id": 469303,
-            "file_name": "More Thalmor Dossiers - BUVARP SE RE-65059-1-15-1707501348.7z",
-            "mod_id": 65059,
-            "hash": "sha256-+LOSVKWfeWlBJ81MaC4dSgrLIMZrl/cluDJ48IFjP+Q="
-        }
-    },
-    "More Thalmor Dossiers - Helgen Reborn": {
-        "nexusmods": {
-            "game_name": "skyrimspecialedition",
-            "version": "1.15",
-            "file_id": 469304,
-            "file_name": "More Thalmor Dossiers - Helgen Reborn-65059-1-15-1707501381.7z",
-            "mod_id": 65059,
-            "hash": "sha256-RCg++UBN1YGAeH6qiLqBApbCHKr4VGQf0I4ETPDgXkc="
-        }
-    },
-    "More Thalmor Dossiers - Interesting NPCs": {
-        "nexusmods": {
-            "game_name": "skyrimspecialedition",
-            "version": "1.15",
-            "file_id": 469305,
-            "file_name": "More Thalmor Dossiers - Interesting NPCs-65059-1-15-1707501407.7z",
-            "mod_id": 65059,
-            "hash": "sha256-VZPK7Frpt6lJ4jltybkj6o9LWt9ucbLyS4+FuMp/AGw="
-        }
-    },
-    "More Thalmor Dossiers - LotD": {
-        "nexusmods": {
-            "game_name": "skyrimspecialedition",
-            "version": "1.15",
-            "file_id": 469306,
-            "file_name": "More Thalmor Dossiers - LotD-65059-1-15-1707501438.7z",
-            "mod_id": 65059,
-            "hash": "sha256-rW9fkTdgmeNBnXfSQgj1lxETBOoLguRRMdPM2Ek/N+4="
-        }
-    },
-    "More Thalmor Dossiers - Lucien": {
-        "nexusmods": {
-            "game_name": "skyrimspecialedition",
-            "version": "1.15",
-            "file_id": 469307,
-            "file_name": "More Thalmor Dossiers - Lucien-65059-1-15-1707501473.7z",
-            "mod_id": 65059,
-            "hash": "sha256-gRlaHoAf7okmXiuQINsCtr8CAMDMGAzQ8FCHE8jxNQs="
-        }
-    },
-    "More Thalmor Dossiers - Mrissi": {
-        "nexusmods": {
-            "game_name": "skyrimspecialedition",
-            "version": "v1.15.1",
-            "file_id": 469526,
-            "file_name": "More Thalmor Dossiers - Mrissi-65059-v1-15-1-1707574817.7z",
-            "mod_id": 65059,
-            "hash": "sha256-VNLsMjFxttW7sePEr++mES6LbyBlO6pqtwix8H0RCpA="
-        }
-    },
-    "More Thalmor Dossiers - Dwemertech Patch": {
-        "nexusmods": {
-            "game_name": "skyrimspecialedition",
-            "version": "1.17",
-            "file_id": 600377,
-            "file_name": "More Thalmor Dossiers - Dwemertech Patch-65059-1-17-1740825610.7z",
-            "mod_id": 65059,
-            "hash": "sha256-U8vylv+88wLttObqL+vX+AKY+r12LJvEzygZWIbS/Ok="
-        }
-    },
-    "More Thalmor Dossiers - Undeath Patch": {
-        "nexusmods": {
-            "game_name": "skyrimspecialedition",
-            "version": "1.17",
-            "file_id": 600378,
-            "file_name": "More Thalmor Dossiers - Undeath Patch-65059-1-17-1740825657.7z",
-            "mod_id": 65059,
-            "hash": "sha256-dq5bkgRpPRsSz18VFi7tw2AaYVVfLUkqNkcRkSa9GUw="
-        }
-    },
-    "More Thalmor Dossiers - Rigmor": {
-        "nexusmods": {
-            "game_name": "skyrimspecialedition",
-            "version": "1.19",
-            "file_id": 669404,
-            "file_name": "More Thalmor Dossiers - Rigmor-65059-1-19-1758837141.7z",
-            "mod_id": 65059,
-            "hash": "sha256-OmRHqPUlbRMxhfmCQ2Lkxe1yEAsqy2vV/Hb9ptrCb+s="
-        }
-    },
-    "More Thalmor Dossiers - Inigo": {
-        "nexusmods": {
-            "game_name": "skyrimspecialedition",
-            "version": "1.19.1",
-            "file_id": 669684,
-            "file_name": "More Thalmor Dossiers - Inigo-65059-1-19-1-1758919851.7z",
-            "mod_id": 65059,
-            "hash": "sha256-rK0Pwmrf/aDfyhmaf/ReD46IkruetDm5XfJaE26RTLM="
-        }
-    },
-    "More Thalmor Dossiers - Kaidan": {
-        "nexusmods": {
-            "game_name": "skyrimspecialedition",
-            "version": "1.19.1",
-            "file_id": 669685,
-            "file_name": "More Thalmor Dossiers - Kaidan-65059-1-19-1-1758919877.7z",
-            "mod_id": 65059,
-            "hash": "sha256-8zNiXAfO0PZ/M6BPgfeCBh7jmt+Vtb12F4QABvpa364="
-        }
-    },
-    "More Thalmor Dossiers": {
-        "nexusmods": {
-            "game_name": "skyrimspecialedition",
-            "version": "1.19.2",
-            "file_id": 670664,
-            "file_name": "More Thalmor Dossiers-65059-1-19-2-1759181083.7z",
-            "mod_id": 65059,
-            "hash": "sha256-Bi5LuhgtiPOd9gZYN8DXU4OxFNOaFbEMrz5Fh2Zw7Vc="
-        },
-        "type": "primary"
+  "More Thalmor Dossiers - Bruma": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.15",
+      "file_id": 469302,
+      "file_name": "More Thalmor Dossiers - Bruma-65059-1-15-1707501318.7z",
+      "mod_id": 65059,
+      "hash": "sha256-qKLKW9IV8399/vmI9/cgIgFM4xNNMLVVwj8WeyCSipE="
     }
+  },
+  "More Thalmor Dossiers - BUVARP SE RE": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.15",
+      "file_id": 469303,
+      "file_name": "More Thalmor Dossiers - BUVARP SE RE-65059-1-15-1707501348.7z",
+      "mod_id": 65059,
+      "hash": "sha256-+LOSVKWfeWlBJ81MaC4dSgrLIMZrl/cluDJ48IFjP+Q="
+    }
+  },
+  "More Thalmor Dossiers - Helgen Reborn": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.15",
+      "file_id": 469304,
+      "file_name": "More Thalmor Dossiers - Helgen Reborn-65059-1-15-1707501381.7z",
+      "mod_id": 65059,
+      "hash": "sha256-RCg++UBN1YGAeH6qiLqBApbCHKr4VGQf0I4ETPDgXkc="
+    }
+  },
+  "More Thalmor Dossiers - Interesting NPCs": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.15",
+      "file_id": 469305,
+      "file_name": "More Thalmor Dossiers - Interesting NPCs-65059-1-15-1707501407.7z",
+      "mod_id": 65059,
+      "hash": "sha256-VZPK7Frpt6lJ4jltybkj6o9LWt9ucbLyS4+FuMp/AGw="
+    }
+  },
+  "More Thalmor Dossiers - LotD": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.15",
+      "file_id": 469306,
+      "file_name": "More Thalmor Dossiers - LotD-65059-1-15-1707501438.7z",
+      "mod_id": 65059,
+      "hash": "sha256-rW9fkTdgmeNBnXfSQgj1lxETBOoLguRRMdPM2Ek/N+4="
+    }
+  },
+  "More Thalmor Dossiers - Lucien": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.15",
+      "file_id": 469307,
+      "file_name": "More Thalmor Dossiers - Lucien-65059-1-15-1707501473.7z",
+      "mod_id": 65059,
+      "hash": "sha256-gRlaHoAf7okmXiuQINsCtr8CAMDMGAzQ8FCHE8jxNQs="
+    }
+  },
+  "More Thalmor Dossiers - Mrissi": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "v1.15.1",
+      "file_id": 469526,
+      "file_name": "More Thalmor Dossiers - Mrissi-65059-v1-15-1-1707574817.7z",
+      "mod_id": 65059,
+      "hash": "sha256-VNLsMjFxttW7sePEr++mES6LbyBlO6pqtwix8H0RCpA="
+    }
+  },
+  "More Thalmor Dossiers - Dwemertech Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.17",
+      "file_id": 600377,
+      "file_name": "More Thalmor Dossiers - Dwemertech Patch-65059-1-17-1740825610.7z",
+      "mod_id": 65059,
+      "hash": "sha256-U8vylv+88wLttObqL+vX+AKY+r12LJvEzygZWIbS/Ok="
+    }
+  },
+  "More Thalmor Dossiers - Undeath Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.17",
+      "file_id": 600378,
+      "file_name": "More Thalmor Dossiers - Undeath Patch-65059-1-17-1740825657.7z",
+      "mod_id": 65059,
+      "hash": "sha256-dq5bkgRpPRsSz18VFi7tw2AaYVVfLUkqNkcRkSa9GUw="
+    }
+  },
+  "More Thalmor Dossiers - Rigmor": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.19",
+      "file_id": 669404,
+      "file_name": "More Thalmor Dossiers - Rigmor-65059-1-19-1758837141.7z",
+      "mod_id": 65059,
+      "hash": "sha256-OmRHqPUlbRMxhfmCQ2Lkxe1yEAsqy2vV/Hb9ptrCb+s="
+    }
+  },
+  "More Thalmor Dossiers - Inigo": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.19.1",
+      "file_id": 669684,
+      "file_name": "More Thalmor Dossiers - Inigo-65059-1-19-1-1758919851.7z",
+      "mod_id": 65059,
+      "hash": "sha256-rK0Pwmrf/aDfyhmaf/ReD46IkruetDm5XfJaE26RTLM="
+    }
+  },
+  "More Thalmor Dossiers - Kaidan": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.19.1",
+      "file_id": 669685,
+      "file_name": "More Thalmor Dossiers - Kaidan-65059-1-19-1-1758919877.7z",
+      "mod_id": 65059,
+      "hash": "sha256-8zNiXAfO0PZ/M6BPgfeCBh7jmt+Vtb12F4QABvpa364="
+    }
+  },
+  "More Thalmor Dossiers": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.19.2",
+      "file_id": 670664,
+      "file_name": "More Thalmor Dossiers-65059-1-19-2-1759181083.7z",
+      "mod_id": 65059,
+      "hash": "sha256-Bi5LuhgtiPOd9gZYN8DXU4OxFNOaFbEMrz5Fh2Zw7Vc="
+    },
+    "type": "primary"
+  }
 }

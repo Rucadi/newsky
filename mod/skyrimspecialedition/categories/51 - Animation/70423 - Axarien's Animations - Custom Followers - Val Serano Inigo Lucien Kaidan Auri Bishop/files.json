@@ -1,44 +1,44 @@
 {
-    "Inigo - Cat Sprint": {
-        "nexusmods": {
-            "game_name": "skyrimspecialedition",
-            "version": "4.0",
-            "file_id": 640995,
-            "file_name": "Inigo - Cat Sprint-70423-4-0-1750681449.zip",
-            "mod_id": 70423,
-            "hash": "sha256-olEg12H1RDI7N0Vy8lUXcggsefTgjnUSgyshLJxTAzk="
-        }
-    },
-    "Lucien - Instant Results": {
-        "nexusmods": {
-            "game_name": "skyrimspecialedition",
-            "version": "4.0",
-            "file_id": 641006,
-            "file_name": "Lucien - Instant Results-70423-4-0-1750682057.zip",
-            "mod_id": 70423,
-            "hash": "sha256-9+U7+nviF6fFXMMDx+K0SFy46Y9qhcoGYTdwTolHHlw="
-        }
-    },
-    "AIO - Val Auri Lucien Inigo Kaidan 2": {
-        "nexusmods": {
-            "game_name": "skyrimspecialedition",
-            "version": "5.0",
-            "file_id": 644616,
-            "file_name": "AIO - Val Auri Lucien Inigo Kaidan 2-70423-5-0-1751788519.zip",
-            "mod_id": 70423,
-            "hash": "sha256-g41r0ztwlDQBRsgbwy+HGj2hbf1amNiLqOo2RvxDSj4="
-        },
-        "type": "primary"
-    },
-    "AIO - Val Auri Lucien Inigo Kaidan Revoiced": {
-        "nexusmods": {
-            "game_name": "skyrimspecialedition",
-            "version": "5.0",
-            "file_id": 644617,
-            "file_name": "AIO - Val Auri Lucien Inigo Kaidan Revoiced-70423-5-0-1751788573.zip",
-            "mod_id": 70423,
-            "hash": "sha256-wOLu6b1pyzrxqiV4JmIL8W4QqQBOZexKuNdmQtrXZxI="
-        },
-        "type": "primary"
+  "Inigo - Cat Sprint": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "4.0",
+      "file_id": 640995,
+      "file_name": "Inigo - Cat Sprint-70423-4-0-1750681449.zip",
+      "mod_id": 70423,
+      "hash": "sha256-olEg12H1RDI7N0Vy8lUXcggsefTgjnUSgyshLJxTAzk="
     }
+  },
+  "Lucien - Instant Results": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "4.0",
+      "file_id": 641006,
+      "file_name": "Lucien - Instant Results-70423-4-0-1750682057.zip",
+      "mod_id": 70423,
+      "hash": "sha256-9+U7+nviF6fFXMMDx+K0SFy46Y9qhcoGYTdwTolHHlw="
+    }
+  },
+  "AIO - Val Auri Lucien Inigo Kaidan 2": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "5.0",
+      "file_id": 644616,
+      "file_name": "AIO - Val Auri Lucien Inigo Kaidan 2-70423-5-0-1751788519.zip",
+      "mod_id": 70423,
+      "hash": "sha256-g41r0ztwlDQBRsgbwy+HGj2hbf1amNiLqOo2RvxDSj4="
+    },
+    "type": "primary"
+  },
+  "AIO - Val Auri Lucien Inigo Kaidan Revoiced": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "5.0",
+      "file_id": 644617,
+      "file_name": "AIO - Val Auri Lucien Inigo Kaidan Revoiced-70423-5-0-1751788573.zip",
+      "mod_id": 70423,
+      "hash": "sha256-wOLu6b1pyzrxqiV4JmIL8W4QqQBOZexKuNdmQtrXZxI="
+    },
+    "type": "primary"
+  }
 }

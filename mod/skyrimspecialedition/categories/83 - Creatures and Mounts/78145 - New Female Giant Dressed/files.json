@@ -1,0 +1,54 @@
+{
+  "2-4k. New Female Giant Skin Dirty Dressed": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0.0",
+      "file_id": 330521,
+      "file_name": "2-4k. New Female Giant Skin Dirty Dressed-78145-1-0-0-1668068716.zip",
+      "mod_id": 78145,
+      "hash": "sha256-6h8ZsTMP5OEG48pxPyRmXYq3lyKOclXAko27rzECTPs="
+    },
+    "type": "primary"
+  },
+  "2-4k. New Female Giant Skin Clean Dressed": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0.0",
+      "file_id": 330522,
+      "file_name": "2-4k. New Female Giant Skin Clean Dressed-78145-1-0-0-1668068780.zip",
+      "mod_id": 78145,
+      "hash": "sha256-KJn9Jej4rXgQ850GmxqtzmxAX2m/LpHhgokcZnoCxbs="
+    },
+    "type": "primary"
+  },
+  "1-2k. New Female Giant Skin Dirty Dressed": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0.0",
+      "file_id": 330523,
+      "file_name": "1-2k. New Female Giant Skin Dirty Dressed-78145-1-0-0-1668068831.zip",
+      "mod_id": 78145,
+      "hash": "sha256-/PvylXwoY5UGOAm+Ev+NgOS+Hjre3LfGbOxYRL30ARc="
+    }
+  },
+  "1-2k. New Female Giant Skin Clean Dressed": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0.0",
+      "file_id": 330524,
+      "file_name": "1-2k. New Female Giant Skin Clean Dressed-78145-1-0-0-1668068887.zip",
+      "mod_id": 78145,
+      "hash": "sha256-oqbzsARYieRCB7+eRZX6r8l4q1PYRIYayLYfyhGNRIU="
+    }
+  },
+  "Loadscreeart Giant Dressed": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0.0",
+      "file_id": 331057,
+      "file_name": "Loadscreeart Giant Dressed-78145-1-0-0-1668246938.zip",
+      "mod_id": 78145,
+      "hash": "sha256-g6oDKeJMGm1PQUjKQKuXYpad/fffdpKCv03pqcqQNuE="
+    }
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "Big Beastly Bodies": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "v1.1",
+      "file_id": 337242,
+      "file_name": "Big Beastly Bodies-71547-v1-1-1670105707.7z",
+      "mod_id": 71547,
+      "hash": "sha256-ZxoWEdunuYYhTxY332onfqIYEyr+80oa8Tp+1U/0nHQ="
+    },
+    "type": "primary"
+  },
+  "Big Beastly Bodies - Outfit Variants": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "v1.1",
+      "file_id": 337249,
+      "file_name": "Big Beastly Bodies - Outfit Variants-71547-v1-1-1670106563.7z",
+      "mod_id": 71547,
+      "hash": "sha256-5YnzioeDucu8TtTm1PkwFBusgO0JWwStB/TODXE3H48="
+    },
+    "type": "primary"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "Shooting Stars 2K SE": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 312524,
+      "file_name": "Shooting Stars 2K SE-74524-1-0-1662128944.7z",
+      "mod_id": 74524,
+      "hash": "sha256-nYNJZiNsxmR246Ikcne86AIWP594lWOh+d/ys8uObZk="
+    },
+    "type": "primary"
+  },
+  "1k-512 Textures for Mashed Potatoes": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 312525,
+      "file_name": "1k-512 Textures for Mashed Potatoes-74524-1-0-1662129019.7z",
+      "mod_id": 74524,
+      "hash": "sha256-QFl/+B0qvHHSIytmVJzbZHCOEALvJx1dx91thsg5bsI="
+    }
+  }
+}

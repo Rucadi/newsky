@@ -1,0 +1,24 @@
+{
+  "Hide your vampirism - Dawnguard Only": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0.1",
+      "file_id": 304536,
+      "file_name": "Vampire in the Dawnguard Faction-72662-1-0-1-1659623302.zip",
+      "mod_id": 72662,
+      "hash": "sha256-VLPYf1NlousGqjPUNVdofCDMQgvIoJrl9S5rgeNhvOs="
+    },
+    "type": "primary"
+  },
+  "Hide your vampirism - Dawnguard and others": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0.2",
+      "file_id": 305769,
+      "file_name": "Hide your vampirism - Dawnguard and others-72662-1-0-1-1659983480.zip",
+      "mod_id": 72662,
+      "hash": "sha256-VAnFKHOYgsi1bwtqwXDtiEKnSBO3572QuhBKDvCBAtY="
+    },
+    "type": "primary"
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "ColdSun's Pantheon - Assets - 3BA-CBBE": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "2.0",
+      "file_id": 371920,
+      "file_name": "ColdSun's Pantheon - Assets - 3BA-CBBE-77700-2-0-1679758432.7z",
+      "mod_id": 77700,
+      "hash": "sha256-txOVaZ9xTm1BaLWAA09fDehDagqm4BuntW0oMlCBc/0="
+    },
+    "type": "primary"
+  },
+  "ColdSun's Pantheon - Assets - BHUNP": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "2.0",
+      "file_id": 371921,
+      "file_name": "ColdSun's Pantheon - Assets - BHUNP-77700-2-0-1679758528.7z",
+      "mod_id": 77700,
+      "hash": "sha256-AHmGvegW83LFDYeJIFY7F4VpEiQnsq2SlF1ipcuRi94="
+    },
+    "type": "primary"
+  },
+  "Assets - 3BA-CBBE - No Pubic Hair Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 402803,
+      "file_name": "Assets - 3BA-CBBE - No Pubic Hair Patch-77700-1-0-1688225239.7z",
+      "mod_id": 77700,
+      "hash": "sha256-KbKn10yDUxmwvun6WLMYUF/tSoq/dz3vv4Pi3bc+MLo="
+    }
+  },
+  "Assets - BHUNP - No Pubic Hair Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 402805,
+      "file_name": "Assets - BHUNP - No Pubic Hair Patch-77700-1-0-1688225278.7z",
+      "mod_id": 77700,
+      "hash": "sha256-PPSdLmw9QJGq2fNMca+52aRYUXCw7e11XOebS90GDAk="
+    }
+  }
+}

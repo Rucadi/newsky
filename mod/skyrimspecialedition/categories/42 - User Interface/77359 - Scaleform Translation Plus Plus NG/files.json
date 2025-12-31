@@ -1,13 +1,13 @@
 {
-    "ScaleformTranslationPP": {
-        "nexusmods": {
-            "game_name": "skyrimspecialedition",
-            "version": "1.8",
-            "file_id": 475314,
-            "file_name": "ScaleformTranslationPP-77359-1-8-1709114434.7z",
-            "mod_id": 77359,
-            "hash": "sha256-Y/OtLk4SVQXxaH8Yia3hrf2ahe64ypUAdxApxDEcbmc="
-        },
-        "type": "primary"
-    }
+  "ScaleformTranslationPP": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.8",
+      "file_id": 475314,
+      "file_name": "ScaleformTranslationPP-77359-1-8-1709114434.7z",
+      "mod_id": 77359,
+      "hash": "sha256-Y/OtLk4SVQXxaH8Yia3hrf2ahe64ypUAdxApxDEcbmc="
+    },
+    "type": "primary"
+  }
 }

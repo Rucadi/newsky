@@ -1,0 +1,23 @@
+{
+  "Northborn Scars - High Poly Head": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1",
+      "file_id": 260606,
+      "file_name": "Northborn Scars - High Poly Head-62799-1-1-1643592754.zip",
+      "mod_id": 62799,
+      "hash": "sha256-RvIiBXM38epXeSDxU1ASSfNUOteYiARf4O28LfBOBuk="
+    },
+    "type": "primary"
+  },
+  "Northborn Scars - High Poly Head - Backwards Compatible": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1a",
+      "file_id": 367264,
+      "file_name": "Northborn Scars - High Poly Head - Backwards Compatible-62799-1-1a-1678490405.7z",
+      "mod_id": 62799,
+      "hash": "sha256-pQfpgX9zsRtPuNYOvY4+Snq73pZ0B5p8qeaDht7Gt0s="
+    }
+  }
+}

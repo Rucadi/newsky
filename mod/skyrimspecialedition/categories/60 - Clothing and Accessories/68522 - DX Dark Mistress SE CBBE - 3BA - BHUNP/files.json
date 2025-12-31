@@ -1,0 +1,34 @@
+{
+  "DX Dark Mistress SE CBBE": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 288029,
+      "file_name": "DX Dark Mistress SE CBBE-68522-1-0-1654065734.7z",
+      "mod_id": 68522,
+      "hash": "sha256-nnh+0tEb9wKlWT3acNrXPQma079EGVaHUA3KzieJmNE="
+    },
+    "type": "primary"
+  },
+  "DX Dark Mistress BHUNP Bodyslides": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 288080,
+      "file_name": "DX Dark Mistress BHUNP Bodyslides-68522-1-0-1654091253.7z",
+      "mod_id": 68522,
+      "hash": "sha256-wkN47O9roEyn+rHC0p9QTUMgH/lBTw11dWPDbhDuE6g="
+    }
+  },
+  "DX Dark Mistress SE 3BA": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1",
+      "file_id": 290141,
+      "file_name": "DX Dark Mistress SE 3BA-68522-1-1-1654857649.7z",
+      "mod_id": 68522,
+      "hash": "sha256-aOG9GJhNxClN9YExkxfa+//KZO8G3BtH0e6u98Nvy78="
+    },
+    "type": "primary"
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "No Potion Drinking Visual FX for CACO": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.21",
+      "file_id": 341564,
+      "file_name": "No Potion Drinking Visual FX for CACO-58655-1-11-1671369184.7z",
+      "mod_id": 58655,
+      "hash": "sha256-WhxNiJBiDn8mPYHFKgZihSAJry5LiITjiVUKAtNlSxk="
+    }
+  },
+  "Apothecary Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.21",
+      "file_id": 370181,
+      "file_name": "Apothecary Patch-58655-1-2-1679276661.7z",
+      "mod_id": 58655,
+      "hash": "sha256-yPG+zUXsjvktGSzpyU3pwXvDrQ0OeJEYqxbg9WMuAjw="
+    },
+    "type": "primary"
+  },
+  "CACO Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.21",
+      "file_id": 451663,
+      "file_name": "CACO Patch-58655-1-21-1702513839.7z",
+      "mod_id": 58655,
+      "hash": "sha256-zhiXB6NkgefgLafRRA5O2wTrcn+FuAXuch9J1QjdZhU="
+    },
+    "type": "primary"
+  }
+}

@@ -2,6 +2,8 @@
 - Author: powerofthree and KernalsEgg
 - Game: skyrimspecialedition
 - Mod Page: https://www.nexusmods.com/skyrimspecialedition/mods/77173
+
+
 **BARTER LIMIT FIX**
   
   

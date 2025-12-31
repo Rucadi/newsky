@@ -1,0 +1,23 @@
+{
+  "Skullbreaker - Blunt Weapon SFX Overhaul": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1",
+      "file_id": 450505,
+      "file_name": "Skullbreaker - Blunt Weapon SFX Overhaul-79219-1-1-1702224895.zip",
+      "mod_id": 79219,
+      "hash": "sha256-7JbfrOuk9cXXJ4aIkxaoyqy/ZFvMGWInsLQKcfHaF7o="
+    },
+    "type": "primary"
+  },
+  "Seismic Tide - Skullbreaker Fists Addon": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "0.2",
+      "file_id": 456623,
+      "file_name": "Seismic-79219-0-2-1704008921.zip",
+      "mod_id": 79219,
+      "hash": "sha256-pyhrb2Ivn+EC1gkbuVNWg3bM2tts67HkuTG/ko7zZFY="
+    }
+  }
+}

@@ -1,44 +1,44 @@
 {
-    "Swiftly Order Squad - Horn": {
-        "nexusmods": {
-            "game_name": "skyrimspecialedition",
-            "version": "1.0",
-            "file_id": 264042,
-            "file_name": "Swiftly Order Squad - Horn-63259-1-0-1644835493.7z",
-            "mod_id": 63259,
-            "hash": "sha256-iQpSmHlx0vhUPTXbSRw07PWJk2kvAkxBXMyPHyPr86w="
-        }
-    },
-    "Swiftly Order Squad - Old Icons Patch": {
-        "nexusmods": {
-            "game_name": "skyrimspecialedition",
-            "version": "1.4",
-            "file_id": 267058,
-            "file_name": "Swiftly Order Squad - Old Icons Patch-63259-1-4-1645945765.zip",
-            "mod_id": 63259,
-            "hash": "sha256-ZDUkYS2Ox2CGtxw7mSo3s/m0+HtGq/NzhLFOIOjR2Qs="
-        }
-    },
-    "Swiftly Order Squad": {
-        "nexusmods": {
-            "game_name": "skyrimspecialedition",
-            "version": "1.12",
-            "file_id": 675763,
-            "file_name": "Swiftly Order Squad-63259-1-12-1760407632.7z",
-            "mod_id": 63259,
-            "hash": "sha256-7+0RV7FKB127oJyX/r0PkipPQkRneNOTTtTXcFSD5TM="
-        },
-        "type": "primary"
-    },
-    "Swiftly Order Squad - Simply Order Summons": {
-        "nexusmods": {
-            "game_name": "skyrimspecialedition",
-            "version": "1.12",
-            "file_id": 675764,
-            "file_name": "Swiftly Order Squad - Simply Order Summons-63259-1-12-1760407653.7z",
-            "mod_id": 63259,
-            "hash": "sha256-6XuVtWuQazeQwQ1/kA/PCVfqnS8Nxlot7Q6gHi9jF4w="
-        },
-        "type": "primary"
+  "Swiftly Order Squad - Horn": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 264042,
+      "file_name": "Swiftly Order Squad - Horn-63259-1-0-1644835493.7z",
+      "mod_id": 63259,
+      "hash": "sha256-iQpSmHlx0vhUPTXbSRw07PWJk2kvAkxBXMyPHyPr86w="
     }
+  },
+  "Swiftly Order Squad - Old Icons Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.4",
+      "file_id": 267058,
+      "file_name": "Swiftly Order Squad - Old Icons Patch-63259-1-4-1645945765.zip",
+      "mod_id": 63259,
+      "hash": "sha256-ZDUkYS2Ox2CGtxw7mSo3s/m0+HtGq/NzhLFOIOjR2Qs="
+    }
+  },
+  "Swiftly Order Squad": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.12",
+      "file_id": 675763,
+      "file_name": "Swiftly Order Squad-63259-1-12-1760407632.7z",
+      "mod_id": 63259,
+      "hash": "sha256-7+0RV7FKB127oJyX/r0PkipPQkRneNOTTtTXcFSD5TM="
+    },
+    "type": "primary"
+  },
+  "Swiftly Order Squad - Simply Order Summons": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.12",
+      "file_id": 675764,
+      "file_name": "Swiftly Order Squad - Simply Order Summons-63259-1-12-1760407653.7z",
+      "mod_id": 63259,
+      "hash": "sha256-6XuVtWuQazeQwQ1/kA/PCVfqnS8Nxlot7Q6gHi9jF4w="
+    },
+    "type": "primary"
+  }
 }

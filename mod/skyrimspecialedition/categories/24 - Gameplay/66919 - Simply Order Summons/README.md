@@ -2,6 +2,8 @@
 - Author: wankingSkeever
 - Game: skyrimspecialedition
 - Mod Page: https://www.nexusmods.com/skyrimspecialedition/mods/66919
+
+
 > **Dispel/dismiss all your summons before upgrading.**
 
   

@@ -1,13 +1,13 @@
 {
-    "Barter Limit Fix": {
-        "nexusmods": {
-            "game_name": "skyrimspecialedition",
-            "version": "1.0",
-            "file_id": 324312,
-            "file_name": "Barter Limit Fix-77173-1-0-1665868879.7z",
-            "mod_id": 77173,
-            "hash": "sha256-aEpLQO62qQseKPTzcwt4/uhns9/AO80KrrraQ0nY0hQ="
-        },
-        "type": "primary"
-    }
+  "Barter Limit Fix": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 324312,
+      "file_name": "Barter Limit Fix-77173-1-0-1665868879.7z",
+      "mod_id": 77173,
+      "hash": "sha256-aEpLQO62qQseKPTzcwt4/uhns9/AO80KrrraQ0nY0hQ="
+    },
+    "type": "primary"
+  }
 }

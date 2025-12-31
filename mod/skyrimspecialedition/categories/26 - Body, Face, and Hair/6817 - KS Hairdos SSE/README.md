@@ -2,6 +2,8 @@
 - Author: Kalilies and Stealthic
 - Game: skyrimspecialedition
 - Mod Page: https://www.nexusmods.com/skyrimspecialedition/mods/6817
+
+
   
 
 ![](https://i.imgur.com/Z0OFcJa.png)

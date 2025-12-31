@@ -1,0 +1,134 @@
+{
+  "Path of Sorcery - J'zargo Dialogue Fix": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "3.0",
+      "file_id": 144420,
+      "file_name": "Path of Sorcery - J'zargo Dialogue Fix-6702-2-0-1591594425.7z",
+      "mod_id": 6702,
+      "hash": "sha256-z85Jb8KA1UT7Xwjnl3PHYVI4LfA66LREzxcBAUxlCIA="
+    },
+    "type": "primary"
+  },
+  "Path of Sorcery - Adept - Magic of Ash Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "3.0",
+      "file_id": 557300,
+      "file_name": "Path of Sorcery - Adept - Magic of Ash Patch-6702-3-0-1730329270.7z",
+      "mod_id": 6702,
+      "hash": "sha256-w+HQSXI4Pa/8rMrwFmUelFRMcOeoUhXphFBuJ5oP3Ew="
+    },
+    "type": "primary"
+  },
+  "Path of Sorcery - Arcane Accessories (CC) Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "3.0",
+      "file_id": 557303,
+      "file_name": "Path of Sorcery - Arcane Accessories (CC) Patch-6702-3-0-1730329339.7z",
+      "mod_id": 6702,
+      "hash": "sha256-p+OO/25J8B2WPnSQa4oT1AAu/Y9XKemXVqgn5zLYujM="
+    },
+    "type": "primary"
+  },
+  "Path of Sorcery - Bittercup (CC) Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "3.0",
+      "file_id": 557304,
+      "file_name": "Path of Sorcery - Bittercup (CC) Patch-6702-3-0-1730329379.7z",
+      "mod_id": 6702,
+      "hash": "sha256-uvR0E61Uvtx3EyD4h/jTBOd/4u0B0MHmuCtkc1M/Pdc="
+    },
+    "type": "primary"
+  },
+  "Path of Sorcery - Immersive Sounds Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "3.0",
+      "file_id": 557306,
+      "file_name": "Path of Sorcery - Immersive Sounds Patch-6702-3-0-1730329431.7z",
+      "mod_id": 6702,
+      "hash": "sha256-D235+wW6iGh7GufaOXaTgpXnXAmouWsv/ngGGppSYmM="
+    },
+    "type": "primary"
+  },
+  "Path of Sorcery - Necromantic Grimoire (CC) Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "3.0",
+      "file_id": 557308,
+      "file_name": "Path of Sorcery - Necromantic Grimoire (CC) Patch-6702-3-0-1730329487.7z",
+      "mod_id": 6702,
+      "hash": "sha256-o1GKtqpJKDazEsjrDUcq9NnfMquWDAx7OzYfEg/4rpo="
+    },
+    "type": "primary"
+  },
+  "Path of Sorcery - Plague of the Dead (CC) Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "3.0",
+      "file_id": 557309,
+      "file_name": "Path of Sorcery - Plague of the Dead (CC) Patch-6702-3-0-1730329547.7z",
+      "mod_id": 6702,
+      "hash": "sha256-9grE/liBbtaGsceHUP2d+Jejh/18JLEzZYtajUm0Ny4="
+    },
+    "type": "primary"
+  },
+  "Path of Sorcery - Reach Magic Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "3.0",
+      "file_id": 557310,
+      "file_name": "Path of Sorcery - Reach Magic Patch-6702-3-0-1730329582.7z",
+      "mod_id": 6702,
+      "hash": "sha256-yZy+s5f0WFWzTpVl8vWhFfnVrIUoUvWQ+xOmwWKK6wE="
+    },
+    "type": "primary"
+  },
+  "Path of Sorcery - Saints and Seducers (CC) Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "3.0",
+      "file_id": 557311,
+      "file_name": "Path of Sorcery - Saints and Seducers (CC) Patch-6702-3-0-1730329669.7z",
+      "mod_id": 6702,
+      "hash": "sha256-E0eHQ4QkAAytm1ayoovn3INOsK1AZEKkRGfGps9h4Io="
+    },
+    "type": "primary"
+  },
+  "Path of Sorcery - The Cause (CC) Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "3.0",
+      "file_id": 557312,
+      "file_name": "Path of Sorcery - The Cause (CC) Patch-6702-3-0-1730329719.7z",
+      "mod_id": 6702,
+      "hash": "sha256-6N8ntZntSTqTDxndhOEg/sIo6egEtiHbNN6pzgMxXyk="
+    },
+    "type": "primary"
+  },
+  "Path of Sorcery - Rare Curios (CC) Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "3.0",
+      "file_id": 557314,
+      "file_name": "Path of Sorcery - Rare Curios (CC) Patch-6702-3-0-1730329804.7z",
+      "mod_id": 6702,
+      "hash": "sha256-4W05r0G2Hsg+T50bVbLT4LZQp+ZRjid3JfNmg7viMos="
+    },
+    "type": "primary"
+  },
+  "Path of Sorcery - Apocalypse Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "3.0.1",
+      "file_id": 633763,
+      "file_name": "Path of Sorcery - Apocalypse Patch-6702-3-0-1-1748826246.7z",
+      "mod_id": 6702,
+      "hash": "sha256-luI6fw2D95twOycf5uvz8EJ8wMQnK/P9Th4j0aedxkU="
+    },
+    "type": "primary"
+  }
+}

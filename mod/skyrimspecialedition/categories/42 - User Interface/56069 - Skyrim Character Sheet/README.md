@@ -2,6 +2,8 @@
 - Author: mlthelama
 - Game: skyrimspecialedition
 - Mod Page: https://www.nexusmods.com/skyrimspecialedition/mods/56069
+
+
 Please use [Wiki](https://github.com/mlthelama/SkyrimCharacterSheet/wiki/Configuration#input-basic-configuration)﻿ to check for the basic configuration as well for detailed and custom configuration.
   
   

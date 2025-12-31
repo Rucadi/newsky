@@ -1,0 +1,35 @@
+{
+  "Golden Dwemer Pipeworks Redone - 4K": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "2.0",
+      "file_id": 279690,
+      "file_name": "Golden Dwemer Pipeworks Redone - 4K-67114-2-0-1650949072.zip",
+      "mod_id": 67114,
+      "hash": "sha256-6UYF/cwDIZgkXQZVdTLenQI6tkB9TiXx5B4WKL1xNgo="
+    },
+    "type": "primary"
+  },
+  "Golden Dwemer Pipeworks Redone - 2K": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "2.0",
+      "file_id": 279691,
+      "file_name": "Golden Dwemer Pipeworks Redone - 2K-67114-2-0-1650949298.zip",
+      "mod_id": 67114,
+      "hash": "sha256-MTbJ4pF8aiol+YfjsYsTau/zWhJF6PlOVyDeWIhGdyg="
+    },
+    "type": "primary"
+  },
+  "Golden Dwemer Pipeworks Redone - Improved Dwemer Glass Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 279692,
+      "file_name": "Golden Dwemer Pipeworks Redone - Improved Dwemer Glass Patch-67114-1-0-1650949507.zip",
+      "mod_id": 67114,
+      "hash": "sha256-AjXl1t7d+6LKxSSq+xbzzcqhS7VMfdkBhFs2eeP/EXw="
+    },
+    "type": "primary"
+  }
+}

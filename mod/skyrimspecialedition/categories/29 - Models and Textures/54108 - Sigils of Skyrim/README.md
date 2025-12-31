@@ -2,6 +2,8 @@
 - Author: JDAnchor
 - Game: skyrimspecialedition
 - Mod Page: https://www.nexusmods.com/skyrimspecialedition/mods/54108
+
+
 [font=Trebuchet MS][size=6]![](https://i.postimg.cc/wMyLWPVw/Shields-1.jpg)﻿
   
   

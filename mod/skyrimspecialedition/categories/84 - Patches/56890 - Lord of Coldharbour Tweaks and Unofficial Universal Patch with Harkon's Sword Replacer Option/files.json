@@ -1,0 +1,23 @@
+{
+  "FOMOD": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.5",
+      "file_id": 318027,
+      "file_name": "FOMOD-56890-1-4-1663702128.7z",
+      "mod_id": 56890,
+      "hash": "sha256-CZav3BSoV27hZparJqgrCzLIHd7JuXOL/U0Td94TAl8="
+    },
+    "type": "primary"
+  },
+  "Artificer Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.5",
+      "file_id": 590258,
+      "file_name": "Artificer Patch-56890-1-5-1738507516.7z",
+      "mod_id": 56890,
+      "hash": "sha256-/WpdMiAxubLra7w3/T2w9fuDfcediVVyMP69oxJ3SSA="
+    }
+  }
+}

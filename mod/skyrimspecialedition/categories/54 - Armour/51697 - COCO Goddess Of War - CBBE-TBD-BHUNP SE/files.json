@@ -1,0 +1,45 @@
+{
+  "COCO Goddess Of War -  CBBE SE": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 211816,
+      "file_name": "COCO Goddess Of War -  CBBE SE-51697-1-0-1625007953.7z",
+      "mod_id": 51697,
+      "hash": "sha256-eMpuJnaSRFtgywtELK967CavdvFVbAw9mZAEC3FlsTc="
+    },
+    "type": "primary"
+  },
+  "COCO Goddess Of War - TBD SE": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 211817,
+      "file_name": "COCO Goddess Of War - TBD SE-51697-1-0-1625008222.7z",
+      "mod_id": 51697,
+      "hash": "sha256-0VCXYfhkvEAQ4CSn5T7y4DHJsNMhJraUmVeXwP0P3G4="
+    },
+    "type": "primary"
+  },
+  "COCO Goddess Of War - BHUNP": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 211819,
+      "file_name": "COCO Goddess Of War - BHUNP-51697-1-0-1625008435.7z",
+      "mod_id": 51697,
+      "hash": "sha256-C8j8Ea9Z00OIDunO0K8IS6iaHtbX7LJFy0QfkCEU78o="
+    },
+    "type": "primary"
+  },
+  "COCO Goddess War - Heels Sound Patch SE": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 211820,
+      "file_name": "COCO Goddess War - Heels Sound Patch SE-51697-1-0-1625008560.7z",
+      "mod_id": 51697,
+      "hash": "sha256-wS7YWK4D7wa8yMXQHnZz3AuwFB6wqyKkoTPpz1C4xgY="
+    }
+  }
+}

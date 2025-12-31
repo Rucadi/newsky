@@ -1,0 +1,100 @@
+{
+  "Mudcrab 8k - Humanoid Edition": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 292853,
+      "file_name": "Mudcrab 8k - Humanoid Edition-70040-1-0-1655814578.7z",
+      "mod_id": 70040,
+      "hash": "sha256-7wY0Sb/RiKHPIQ7uzhMAUSEa8pNHAb4z5yoZ25pPSjU="
+    },
+    "type": "primary"
+  },
+  "Mudcrdab 8k - Normal Edition": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 292854,
+      "file_name": "Mudcrdab 8k - Normal Edition-70040-1-0-1655814610.7z",
+      "mod_id": 70040,
+      "hash": "sha256-4FjaoF5+29a0Xv1CiKnHMkLF9HP9BcfBuLvtVpcyIDo="
+    },
+    "type": "primary"
+  },
+  "Mudcrab 4k - Humanoid Edition": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 292855,
+      "file_name": "Mudcrab 4k - Humanoid Edition-70040-1-0-1655814640.7z",
+      "mod_id": 70040,
+      "hash": "sha256-G3PE+KB/H546SLv0r7ovr8N7nvI4lHkIdP+0YqbnYJA="
+    },
+    "type": "primary"
+  },
+  "Mudcrab 4k - Normal Edition": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 292856,
+      "file_name": "Mudcrab 4k - Normal Edition-70040-1-0-1655814670.7z",
+      "mod_id": 70040,
+      "hash": "sha256-dOP3xY+lBd0JKOUnznn7k5W5XHPcthjQ72L30O/TJL0="
+    },
+    "type": "primary"
+  },
+  "Mudcrab 0.1k - Andymash70 Edition": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "0.1",
+      "file_id": 293051,
+      "file_name": "Mudcrab 0.1k - Andymash70 Edition-70040-0-1-1655877856.7z",
+      "mod_id": 70040,
+      "hash": "sha256-opGUG6qA8IbETLRBJsfh8YNBNSRSv9DjQEEsx2K4RU0="
+    }
+  },
+  "Mudcrab Chitin - 4k": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 293375,
+      "file_name": "Mudcrab Chitin - 4k-70040-1-0-1655969736.7z",
+      "mod_id": 70040,
+      "hash": "sha256-ulBxEpx0p8ib9AkmxYjw3I5K5Nvc9kOX9p4J+Uy/m7U="
+    },
+    "type": "primary"
+  },
+  "Mudcrab Chitin - 2k": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 293376,
+      "file_name": "Mudcrab Chitin - 2k-70040-1-0-1655969775.7z",
+      "mod_id": 70040,
+      "hash": "sha256-F6W0bbps0oaRJzsgg1Z2mQqlU/NRL+YovI0NxUgvLm8="
+    },
+    "type": "primary"
+  },
+  "Mudcrab Leg - 4k": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 293415,
+      "file_name": "Mudcrab Leg - 4k-70040-1-0-1655987411.7z",
+      "mod_id": 70040,
+      "hash": "sha256-mboBpotzGUgMjdW1QzpkpAQoMmCMeXaBwyg9dErUm1Y="
+    },
+    "type": "primary"
+  },
+  "Mudcrab Leg - 2k": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 293416,
+      "file_name": "Mudcrab Leg - 2k-70040-1-0-1655987435.7z",
+      "mod_id": 70040,
+      "hash": "sha256-ARda8DFW4kikcfsK/ej7K+lXRf+bMJnxrV0VhjmJH6o="
+    },
+    "type": "primary"
+  }
+}

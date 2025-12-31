@@ -16,7 +16,8 @@
       "version": "1.0",
       "file_id": 198378,
       "file_name": "Dawnguard Music Overhaul - Main Module (Vanilla)-48613-1-1-1618519113.7z",
-      "mod_id": 48613
+      "mod_id": 48613,
+      "hash": "sha256-aAMGkcZs8yyH42jbv2y0bQ1FfPZe6dYAh333TC5h2so="
     },
     "type": "primary"
   },
@@ -26,7 +27,8 @@
       "version": "1.0",
       "file_id": 198379,
       "file_name": "Dawnguard Music Overhaul - Combat Module-48613-1-0-1618519206.7z",
-      "mod_id": 48613
+      "mod_id": 48613,
+      "hash": "sha256-jcSGJrlMGKqskMK5MQQIU8/LnTT1LVyDisLRxaSGDxI="
     },
     "type": "primary"
   },
@@ -36,7 +38,8 @@
       "version": "1.0",
       "file_id": 198380,
       "file_name": "Dawnguard Music Overhaul - Epilogue Module-48613-1-0-1618519309.7z",
-      "mod_id": 48613
+      "mod_id": 48613,
+      "hash": "sha256-Nvs8fkXjSr97FcZRwaKptVaSKdLCt9JSf9ylGuoUH14="
     }
   },
   "Dawnguard Music Overhaul - Epilogue Module (Vanilla)": {
@@ -45,7 +48,8 @@
       "version": "1.0",
       "file_id": 198382,
       "file_name": "Dawnguard Music Overhaul - Epilogue Module (Vanilla)-48613-1-0-1618519371.7z",
-      "mod_id": 48613
+      "mod_id": 48613,
+      "hash": "sha256-sE8fbMzAZDaAoVlS7eKBzjYDtzNGbpQ+osxPcyUitp4="
     }
   },
   "Dawnguard Music Overhaul - Remove esl flags from plugins": {
@@ -54,7 +58,8 @@
       "version": "1.0",
       "file_id": 198578,
       "file_name": "Dawnguard Music Overhaul - Remove esl flags from plugins-48613-1-0-1618604782.7z",
-      "mod_id": 48613
+      "mod_id": 48613,
+      "hash": "sha256-RbAYR+3OfFqBRjllCgIrX5ncEktwvMfHWAs/yvjN+Bg="
     }
   },
   "DMO - Combat (Loop fix)": {
@@ -63,7 +68,8 @@
       "version": "1.0",
       "file_id": 316821,
       "file_name": "DMO - Combat (Loop fix)-48613-1-0-1663409342.7z",
-      "mod_id": 48613
+      "mod_id": 48613,
+      "hash": "sha256-8kc0pAXrtWrGSMZWfIL15qkfGLPJux48eFN4iHiQP8U="
     }
   }
 }

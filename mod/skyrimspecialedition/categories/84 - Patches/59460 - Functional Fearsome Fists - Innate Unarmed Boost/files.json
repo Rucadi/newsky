@@ -1,0 +1,43 @@
+{
+  "Stormcloak Officer Gauntlets Addon": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.2.0",
+      "file_id": 349569,
+      "file_name": "Stormcloak Officer Gauntlets Addon-59460-1-2-0-1673744204.zip",
+      "mod_id": 59460,
+      "hash": "sha256-gqUi/dKy+/9emfD5LLcipWaahJi9+fLyTk+50i3f7cI="
+    }
+  },
+  "Craftable Fur Brawling Gauntlets": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.2.0",
+      "file_id": 363156,
+      "file_name": "Craftable Fur Brawling Gauntlets-59460-1-2-0-1677319581.zip",
+      "mod_id": 59460,
+      "hash": "sha256-joWNCfdOKzvD0rMe2JuI0TUoSuofbdtRxbQiIFbIo78="
+    }
+  },
+  "Functional Fearsome Fists": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "2.0.0",
+      "file_id": 456526,
+      "file_name": "Functional Fearsome Fists-59460-2-0-0-1703976411.7z",
+      "mod_id": 59460,
+      "hash": "sha256-Dha2NoQCe8jHUGDNnZsjy0zB7NWUAmBTWCkYZkSvQhg="
+    },
+    "type": "primary"
+  },
+  "Enchantable Special Items Fix Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "2.0.0",
+      "file_id": 456529,
+      "file_name": "Enchantable Special Items Fix Patch-59460-2-0-0-1703976881.7z",
+      "mod_id": 59460,
+      "hash": "sha256-VfNnHKSRjveqc4oxi8JdwEuWUeJfpxN5s4Roa5s0wUM="
+    }
+  }
+}

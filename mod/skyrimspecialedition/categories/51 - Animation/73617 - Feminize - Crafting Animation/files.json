@@ -1,0 +1,24 @@
+{
+  "Feminize - Crafting Animations": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "0.9",
+      "file_id": 308641,
+      "file_name": "Feminize - Crafting Animations-73617-0-9-1660909435.7z",
+      "mod_id": 73617,
+      "hash": "sha256-pfGU9SvXZE+eOKzIFFGWkMNvkXxnO6hCjEJMOiTiXlg="
+    },
+    "type": "primary"
+  },
+  "Feminize - Crafting Animations NPCs Only": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "0.9",
+      "file_id": 308965,
+      "file_name": "Feminize - Crafting Animations NPCs Only-73617-0-9-1661011539.7z",
+      "mod_id": 73617,
+      "hash": "sha256-aG/G7t4j9z4GCSC+kIdRrYcvXDaT1tdDURzO9/dMO/0="
+    },
+    "type": "primary"
+  }
+}

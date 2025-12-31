@@ -1,0 +1,34 @@
+{
+  "Follow Me Darling (Script Edit version)": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 200692,
+      "file_name": "Follow Me Darling - All Spouses Can Be Followers-49207-1-0-1619639952.7z",
+      "mod_id": 49207,
+      "hash": "sha256-YUTZQxkQ2LX1OvqCzzza9KCdUqqpA30zkz+vXGfrWrw="
+    },
+    "type": "primary"
+  },
+  "Follow Me Darling (Dialogue version)": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 215629,
+      "file_name": "Follow Me Darling (Dialogue version)-49207-1-0-1626786136.7z",
+      "mod_id": 49207,
+      "hash": "sha256-JlOiCcJ2gK8rbcYmOP8as5/YNwPRilKf24Yk0iPZ7LI="
+    },
+    "type": "primary"
+  },
+  "Follow Me Darling (Dialogue version) (Russian)": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 478980,
+      "file_name": "Follow Me Darling (Dialogue version) (Russian)-49207-1-0-1710069990.7z",
+      "mod_id": 49207,
+      "hash": "sha256-O1HvYwh60Dre/+zPhuLqHcLdGWVqLMuEb7mdLvYhvYU="
+    }
+  }
+}

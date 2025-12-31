@@ -2,6 +2,8 @@
 - Author: authorname
 - Game: skyrimspecialedition
 - Mod Page: https://www.nexusmods.com/skyrimspecialedition/mods/79088
+
+
 This modification will add two types of silver armor available to craft to your game. Requires ebony equipment craft ability.
   
 Solitude docks store a lot of useful things.

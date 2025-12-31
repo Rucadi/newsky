@@ -1,0 +1,35 @@
+{
+  "ElSopa - Quivers Redone 4k SE": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 274521,
+      "file_name": "ElSopa - Quivers Redone 4k SE-65921-1-0-1648964862.7z",
+      "mod_id": 65921,
+      "hash": "sha256-2j+4yj9yuiNIco9qHVuRIlyYSpv3JucX15K+t4WvIEg="
+    },
+    "type": "primary"
+  },
+  "ElSopa - Quivers Redone 2k SE": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 274522,
+      "file_name": "ElSopa - Quivers Redone 2k SE-65921-1-0-1648964906.7z",
+      "mod_id": 65921,
+      "hash": "sha256-WMpOACpnCoBUOWLidUGKJ8DVcj/aLNsnygZT4v9E0IM="
+    },
+    "type": "primary"
+  },
+  "ElSopa - Quivers Redone 1k SE": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 274523,
+      "file_name": "ElSopa - Quivers Redone 1k SE-65921-1-0-1648964938.7z",
+      "mod_id": 65921,
+      "hash": "sha256-ohYkHa4aDWbvC3lun95fxsT0a9xxB91bAmAvtTk2Dkg="
+    },
+    "type": "primary"
+  }
+}

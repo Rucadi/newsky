@@ -1,0 +1,23 @@
+{
+  "Necromantic Grimoire - Thaumaturgy Robes": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1",
+      "file_id": 339701,
+      "file_name": "Necromantic Grimoire - Thaumaturgy Robes-78651-1-1-1670783235.zip",
+      "mod_id": 78651,
+      "hash": "sha256-JRpUVef+KW3HArpocAn96ZNI0emKTwpK1HV0q8K31AU="
+    }
+  },
+  "Necromantic Grimoire - Mysticism Rebalance": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.2.1",
+      "file_id": 356948,
+      "file_name": "Necromantic Grimoire - Mysticism Rebalance-78651-1-2-1-1675645773.zip",
+      "mod_id": 78651,
+      "hash": "sha256-3kPnk5BvN/qs2RDvSbzVxfHzb4ligXHBxPhkiJfN0fI="
+    },
+    "type": "primary"
+  }
+}

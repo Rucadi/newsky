@@ -1,0 +1,44 @@
+{
+  "Fairies": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.2",
+      "file_id": 282013,
+      "file_name": "Fairies-67607-1-2-1651895386.zip",
+      "mod_id": 67607,
+      "hash": "sha256-VqKFEbTzn26OrwqnQzSaKHkMErAgW9oDw52yy7fha+8="
+    },
+    "type": "primary"
+  },
+  "Fairies Lite Edition": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.2",
+      "file_id": 282014,
+      "file_name": "Fairies Lite Edition-67607-1-2-1651895488.zip",
+      "mod_id": 67607,
+      "hash": "sha256-hNt8kVvZLL9QG6y1iJwop/cx8KpgbToX8IqaPya4B0k="
+    },
+    "type": "primary"
+  },
+  "Fairies ESL": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.2",
+      "file_id": 282016,
+      "file_name": "Fairies ESL-67607-1-2-1651895698.zip",
+      "mod_id": 67607,
+      "hash": "sha256-iVp2bSS4T6t9/lT7XvWyn3FlYspBjccWEHryVuGv9kc="
+    }
+  },
+  "Fairies Lite ESL": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.2",
+      "file_id": 282018,
+      "file_name": "Fairies Lite ESL-67607-1-2-1651896242.zip",
+      "mod_id": 67607,
+      "hash": "sha256-dQ2YlFYad0HyYW3EQmlZD4891HbCZh7oMLtmh5sdPzI="
+    }
+  }
+}

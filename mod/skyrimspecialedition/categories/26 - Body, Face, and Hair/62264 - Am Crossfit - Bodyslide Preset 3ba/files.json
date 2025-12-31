@@ -1,0 +1,24 @@
+{
+  "Am Crossfit Bodyslide Preset 3BAv2": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 258074,
+      "file_name": "Am Crossfit Bodyslide Preset 3BAv2-62264-1-0-1642692823.7z",
+      "mod_id": 62264,
+      "hash": "sha256-9S60sVdr57RkuOZBzivahw68Fi3aM/Np317KfLCNF8c="
+    },
+    "type": "primary"
+  },
+  "Am Crossfit Bodyslide Preset - Boobie Edition": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.69",
+      "file_id": 311473,
+      "file_name": "Am Crossfit Bodyslide Preset - Boobie Edition-62264-1-69-1661793737.7z",
+      "mod_id": 62264,
+      "hash": "sha256-T2OzyKsnQFw3UZHo9RRndAeY8940MB5BBYCAmnPvXao="
+    },
+    "type": "primary"
+  }
+}

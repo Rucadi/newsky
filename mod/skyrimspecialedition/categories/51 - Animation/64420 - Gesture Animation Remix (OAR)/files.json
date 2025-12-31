@@ -1,23 +1,23 @@
 {
-    "Gesture Animation Remix (OAR) - main archive": {
-        "nexusmods": {
-            "game_name": "skyrimspecialedition",
-            "version": "2.1.1",
-            "file_id": 474419,
-            "file_name": "Gesture Animation Remix (OAR) - main archive-64420-2-1-1-1708878617.zip",
-            "mod_id": 64420,
-            "hash": "sha256-OmOgCWbKskD15ojpz3LnCS7OZmA4fiPieCvGX9oi4jc="
-        },
-        "type": "primary"
+  "Gesture Animation Remix (OAR) - main archive": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "2.1.1",
+      "file_id": 474419,
+      "file_name": "Gesture Animation Remix (OAR) - main archive-64420-2-1-1-1708878617.zip",
+      "mod_id": 64420,
+      "hash": "sha256-OmOgCWbKskD15ojpz3LnCS7OZmA4fiPieCvGX9oi4jc="
     },
-    "Gesture Animation Remix (OAR) - shield patch": {
-        "nexusmods": {
-            "game_name": "skyrimspecialedition",
-            "version": "1.2.0",
-            "file_id": 484863,
-            "file_name": "Gesture Animation Remix (OAR) - shield patch-64420-1-2-0-1711623692.zip",
-            "mod_id": 64420,
-            "hash": "sha256-0AXsBfgxUNa5VXaZZ53PsZChap3e9CA4cIEfmxQb/SA="
-        }
+    "type": "primary"
+  },
+  "Gesture Animation Remix (OAR) - shield patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.2.0",
+      "file_id": 484863,
+      "file_name": "Gesture Animation Remix (OAR) - shield patch-64420-1-2-0-1711623692.zip",
+      "mod_id": 64420,
+      "hash": "sha256-0AXsBfgxUNa5VXaZZ53PsZChap3e9CA4cIEfmxQb/SA="
     }
+  }
 }

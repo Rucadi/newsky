@@ -2,6 +2,8 @@
 - Author: CHIMgarden
 - Game: skyrimspecialedition
 - Mod Page: https://www.nexusmods.com/skyrimspecialedition/mods/64420
+
+
 This mod adds new dialogue animations according to NPCs armor type, personality or role in society. Quick summary:
   
   

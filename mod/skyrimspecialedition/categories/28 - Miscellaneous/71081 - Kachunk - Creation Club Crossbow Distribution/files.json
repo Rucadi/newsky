@@ -1,0 +1,23 @@
+{
+  "Kachunk - Crossbow Distribution": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0.3",
+      "file_id": 364277,
+      "file_name": "Kachunk - Crossbow Distribution-71081-1-0-3-1677618409.7z",
+      "mod_id": 71081,
+      "hash": "sha256-wuER3Bs8P1HRHTqHfVpb6uxCnL3njqeo/k6My9tIjo0="
+    },
+    "type": "primary"
+  },
+  "Kachunk - RCBE Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0.1",
+      "file_id": 364280,
+      "file_name": "Kachunk - RCBE Patch-71081-1-0-1-1677619088.7z",
+      "mod_id": 71081,
+      "hash": "sha256-LgZ3EffJOEZNjLATPYzXgA5x1t7W/pfs3BE7w3QGusc="
+    }
+  }
+}

@@ -2,6 +2,8 @@
 - Author: Hylios Sykes
 - Game: skyrimspecialedition
 - Mod Page: https://www.nexusmods.com/skyrimspecialedition/mods/70968
+
+
 > [font=Cyrodiil]*"If you're looking to settle in Riften, there's a house for sale - Honeyside. See the steward in the keep if you want it."*
 >   
 > [right]- Riften Guards[/right][/font]

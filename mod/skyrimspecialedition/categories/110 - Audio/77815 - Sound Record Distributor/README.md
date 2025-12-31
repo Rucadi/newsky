@@ -2,6 +2,8 @@
 - Author: doodlum
 - Game: skyrimspecialedition
 - Mod Page: https://www.nexusmods.com/skyrimspecialedition/mods/77815
+
+
 **OVERVIEW**
   
 **SKSE framework which allows sounds to be distributed at runtime, greatly simplifying audio mods and patches.**Audio mods typically edit many forms which are shared between different types of mods, which was a compatibility nightmare... until now!

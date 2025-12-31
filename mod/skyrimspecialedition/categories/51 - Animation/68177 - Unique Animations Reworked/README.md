@@ -2,6 +2,8 @@
 - Author: raiserfx
 - Game: skyrimspecialedition
 - Mod Page: https://www.nexusmods.com/skyrimspecialedition/mods/68177
+
+
 **Unique Animations Reworked
   
 [size=4]by raiserfx**[/size]**Description:**

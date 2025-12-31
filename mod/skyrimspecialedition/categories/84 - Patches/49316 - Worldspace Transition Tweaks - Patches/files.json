@@ -1,0 +1,155 @@
+{
+  "WTT - MiracleOfFlight Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 201847,
+      "file_name": "WTT - MiracleOfFlight Patch-49316-1-0-1620228929.7z",
+      "mod_id": 49316,
+      "hash": "sha256-XuSV5Eg5jn2Xdi0PSEP9O5C0D8zSp6143VM4mqfaF8M="
+    },
+    "type": "primary"
+  },
+  "Worldspace Management Modified xEdit Scripts": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 201892,
+      "file_name": "Worldspace Management Modified xEdit Scripts-49316-1-0-1620245766.zip",
+      "mod_id": 49316,
+      "hash": "sha256-c/cCet/PVtNKAEJFGeAy4W2+LhuYQ0qN9vVvlWq9yAo="
+    }
+  },
+  "WTT - LvxMagick_Boats Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0a",
+      "file_id": 235727,
+      "file_name": "WTT - LvxMagick_Boats Patch-49316-1-0a-1634589556.7z",
+      "mod_id": 49316,
+      "hash": "sha256-9+jSNRZS5klLarOHgnhw1TGrJn1saQhhtwO58+4P4lk="
+    },
+    "type": "primary"
+  },
+  "WTT - Obsidian Weathers Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0c",
+      "file_id": 424215,
+      "file_name": "WTT - Obsidian Weathers Patch-49316-1-0c-1694184430.7z",
+      "mod_id": 49316,
+      "hash": "sha256-LdRBevb5zr92zq1+Jb89gOQBPTOkt4lB2pvCjU6wJtk="
+    },
+    "type": "primary"
+  },
+  "WTT - Paper World Map Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0f",
+      "file_id": 591658,
+      "file_name": "WTT - Paper World Map Patch-49316-1-0f-1738832818.7z",
+      "mod_id": 49316,
+      "hash": "sha256-9yq+pdzPQh0ShB1YtTwTa3yJ//JL+FyKxaP+tnq1gbc="
+    },
+    "type": "primary"
+  },
+  "WTT - Depths of Skyrim Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0f",
+      "file_id": 591661,
+      "file_name": "WTT - Depths of Skyrim Patch-49316-1-0f-1738832971.7z",
+      "mod_id": 49316,
+      "hash": "sha256-t8xVPi5hS6verkl85R0Hb9Uwbk91RlooHtQGAdOFonw="
+    },
+    "type": "primary"
+  },
+  "WTT - FWMF Fantasy Paper Maps Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0f",
+      "file_id": 591663,
+      "file_name": "WTT - FWMF Fantasy Paper Maps Patch-49316-1-0f-1738833111.7z",
+      "mod_id": 49316,
+      "hash": "sha256-2XXMRRXcXznOf85rEMFy/pBDA90esbt1FdlY6uv0FjI="
+    },
+    "type": "primary"
+  },
+  "WTT - SoarinOverSkyrim Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0f",
+      "file_id": 591664,
+      "file_name": "WTT - SoarinOverSkyrim Patch-49316-1-0f-1738833156.7z",
+      "mod_id": 49316,
+      "hash": "sha256-A6M0EN+hdJTpYkJ399X+TpuHx79AOywnlcN3QpbWOCs="
+    },
+    "type": "primary"
+  },
+  "WTT - FWMF Geology Survey Map Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0f",
+      "file_id": 591665,
+      "file_name": "WTT - FWMF Geology Survey Map Patch-49316-1-0f-1738833187.7z",
+      "mod_id": 49316,
+      "hash": "sha256-+r+Uymy0DhY7bixSIvc517DVEPlpmcQaqwDTdfXpefI="
+    },
+    "type": "primary"
+  },
+  "WTT - FWMF Marked Clean Map Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0f",
+      "file_id": 591666,
+      "file_name": "WTT - FWMF Marked Clean Map Patch-49316-1-0f-1738833216.7z",
+      "mod_id": 49316,
+      "hash": "sha256-Q1cq+C56iS/wzhKXXnnfbnOM/voX5ujFAtG0cpkEKiU="
+    },
+    "type": "primary"
+  },
+  "WTT - FWMF Marked Old Map Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0f",
+      "file_id": 591667,
+      "file_name": "WTT - FWMF Marked Old Map Patch-49316-1-0f-1738833241.7z",
+      "mod_id": 49316,
+      "hash": "sha256-KCweoZdIw2DREDXyioT3P4N4Uc0VtAC1ALGB/A3oLV8="
+    },
+    "type": "primary"
+  },
+  "WTT - FWMF Satellite Maps Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0f",
+      "file_id": 591669,
+      "file_name": "WTT - FWMF Satellite Maps Patch-49316-1-0f-1738833269.7z",
+      "mod_id": 49316,
+      "hash": "sha256-gk8iu30HGspHs5KE7np4HioXDECxeLi+NiBRU3N1gEk="
+    },
+    "type": "primary"
+  },
+  "WTT - FWMF Unmarked Clean Map Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0f",
+      "file_id": 591670,
+      "file_name": "WTT - FWMF Unmarked Clean Map Patch-49316-1-0f-1738833307.7z",
+      "mod_id": 49316,
+      "hash": "sha256-Q3sZf85yebptD2MafiZ5a+Wan6AgB+g5jc6oqnsbTyU="
+    },
+    "type": "primary"
+  },
+  "WTT - FWMF Unmarked Old Map Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0f",
+      "file_id": 591671,
+      "file_name": "WTT - FWMF Unmarked Old Map Patch-49316-1-0f-1738833337.7z",
+      "mod_id": 49316,
+      "hash": "sha256-8JNBJeCZ9SZDJpzCfdjfA+FdJi+Hvfls26FINXLtlM8="
+    },
+    "type": "primary"
+  }
+}

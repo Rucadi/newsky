@@ -1,0 +1,33 @@
+{
+  "Immersive Equipping Animations - Additional Localization": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "2.0",
+      "file_id": 329056,
+      "file_name": "Immersive Equipping Animations - Additional Localization-77187-2-0-1667621364.zip",
+      "mod_id": 77187,
+      "hash": "sha256-lgnfTiY2hL7KuuHYYciqV6NXgXsa5EHlB/BsdufczS4="
+    }
+  },
+  "Immersive Equipping Animations - Patches FOMOD": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "2.01",
+      "file_id": 335140,
+      "file_name": "Immersive Equipping Animations - Patches FOMOD-77187-2-01-1669533853.zip",
+      "mod_id": 77187,
+      "hash": "sha256-7P6Pxa7nfjaqpoS8zdbkOTeydU/7vN2HF3eoI3mPvIg="
+    }
+  },
+  "Immersive Equipping Animations": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "2.02",
+      "file_id": 466153,
+      "file_name": "Immersive Equipping Animations-77187-2-02-1706587191.zip",
+      "mod_id": 77187,
+      "hash": "sha256-lS7PPm3rIO1OvE/jfHkwEHyKFZXwywJVL+pxLisHjxo="
+    },
+    "type": "primary"
+  }
+}

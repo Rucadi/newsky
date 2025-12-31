@@ -2,6 +2,8 @@
 - Author: RemmyKun
 - Game: skyrimspecialedition
 - Mod Page: https://www.nexusmods.com/skyrimspecialedition/mods/69119
+
+
 The dragon mounds' dirt mesh has some transparency (or holes) which I cannot remove without messing out the blending around the borders.
   
 In vanilla this problem is alleviated because many dragon mounds will have another layer of dirt underneath so you can't see the void. But as you can see in the images, this isn't always the case (**e. g. Labyrinthian**).

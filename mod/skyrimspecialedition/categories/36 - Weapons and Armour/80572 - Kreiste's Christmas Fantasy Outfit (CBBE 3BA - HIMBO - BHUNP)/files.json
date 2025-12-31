@@ -1,0 +1,32 @@
+{
+  "4K Textures Addon": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 342031,
+      "file_name": "4K Textures Addon-80572-1-0-1671498153.7z",
+      "mod_id": 80572,
+      "hash": "sha256-F9+olUFDjiiUOlaJ6y/tLJvQ89EQ++ng+y/CHAxjvag="
+    }
+  },
+  "non-physics Santa hat meshes": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.2",
+      "file_id": 342902,
+      "file_name": "non-physics Santa hat meshes-80572-1-2-1671760523.7z",
+      "mod_id": 80572,
+      "hash": "sha256-ttmLal3lqSu/n9IS1AzjDtFRH23dJXL7oLBKa8N3Qdk="
+    }
+  },
+  "Kreiste's Christmas Fantasy Outfit - Main File": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "2.0",
+      "file_id": 452015,
+      "file_name": "Kreiste's Christmas Fantasy Outfit - Main File-80572-2-0-1702627936.7z",
+      "mod_id": 80572
+    },
+    "type": "primary"
+  }
+}

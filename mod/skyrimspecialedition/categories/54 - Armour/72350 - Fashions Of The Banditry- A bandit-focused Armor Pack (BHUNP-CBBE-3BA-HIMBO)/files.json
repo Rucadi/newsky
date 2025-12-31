@@ -1,0 +1,64 @@
+{
+  "Fashions Of The Banditry HIMBO Bodyslides": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 303231,
+      "file_name": "Fashions Of The Banditry HIMBO Bodyslides-72350-1-0-1659141218.rar",
+      "mod_id": 72350,
+      "hash": "sha256-FeV+KyRXIAcN4qS/ok+Aue66/m/dNRJxe51vT2NUBxE="
+    }
+  },
+  "Fashions Of The Banditry Regular CBBE bodyslide files": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 303232,
+      "file_name": "Fashions Of The Banditry Regular CBBE bodyslide files-72350-1-0-1659141382.rar",
+      "mod_id": 72350,
+      "hash": "sha256-WDQX48Jb1efsM0hq6vzWFN36Fh3A0nfjgAUX77bJ2jI="
+    }
+  },
+  "Fashions Of The Banditry CBBE 3BA bodyslides": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 303233,
+      "file_name": "Fashions Of The Banditry CBBE 3BA bodyslides-72350-1-0-1659141650.rar",
+      "mod_id": 72350,
+      "hash": "sha256-ZsCahGsM5rvhh9KnatfOTJW9sTaZ0Ni3qeww0UWn8SE="
+    }
+  },
+  "Fashions Of The Banditry BHUNP Bodyslides": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 308039,
+      "file_name": "Fashions Of The Banditry BHUNP Bodyslides-72350-final-1660669471.rar",
+      "mod_id": 72350,
+      "hash": "sha256-W4acz6ZSLXLT/1HTBkOx6cbq3yF2oyPDrp+5Khu1q4s="
+    }
+  },
+  "Fashions Of The Banditry": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "2.0",
+      "file_id": 308055,
+      "file_name": "Fashions Of The Banditry-72350-2-0-1660672938.rar",
+      "mod_id": 72350,
+      "hash": "sha256-1enfjU1b3g3YqB/n4lbZImeoRGxqHXG/HoI03LE4El0="
+    },
+    "type": "primary"
+  },
+  "Fashions Of The Banditry - No Textures": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "2.0",
+      "file_id": 345698,
+      "file_name": "Fashions Of The Banditry - No Textures-72350-2-0-1672612074.7z",
+      "mod_id": 72350,
+      "hash": "sha256-UPpwPhB5NzTxwIy7vjUqJARqzP5SRl8yrx1Bfh80NLQ="
+    },
+    "type": "primary"
+  }
+}

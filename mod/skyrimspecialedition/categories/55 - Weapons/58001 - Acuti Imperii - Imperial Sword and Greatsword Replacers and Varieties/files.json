@@ -1,0 +1,103 @@
+{
+  "Imperial Sword Replacer - Variant 1": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 239347,
+      "file_name": "Imperial Sword Replacer - Variant 1-58001-1-0-1636185209.7z",
+      "mod_id": 58001,
+      "hash": "sha256-NZ1mV0aSszOj2z1N59UUktKDXqKfIk7u1idjQq10jZI="
+    }
+  },
+  "Imperial Sword Replacer - Variant 2": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 239348,
+      "file_name": "Imperial Sword Replacer - Variant 2-58001-1-0-1636185233.7z",
+      "mod_id": 58001,
+      "hash": "sha256-FL02Me3w+g9ps3K5CRgRZMfz74wPhmjNk0AO1j1Asq8="
+    }
+  },
+  "Imperial Sword Replacer - Variant 3": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 239349,
+      "file_name": "Imperial Sword Replacer - Variant 3-58001-1-0-1636185261.7z",
+      "mod_id": 58001,
+      "hash": "sha256-CejqY5C/W6NQ+5a3KLtilMmq9xFDhr/W271X5DgfDwU="
+    }
+  },
+  "Imperial Sword Replacer - Variant 4": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 239350,
+      "file_name": "Imperial Sword Replacer - Variant 4-58001-1-0-1636185282.7z",
+      "mod_id": 58001,
+      "hash": "sha256-BOX7FyXdmVhTARU8+SaGJLb0A9YNZrnIXoyJAZ1Qs5I="
+    }
+  },
+  "Imperial Sword Replacer - Variant 5": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 239351,
+      "file_name": "Imperial Sword Replacer - Variant 5-58001-1-0-1636185306.7z",
+      "mod_id": 58001,
+      "hash": "sha256-6fsUGa9jsi40qo7FIczdtdRDNfZu/9iABRyxB7AFS+w="
+    }
+  },
+  "Imperial Sword Replacer - Variant 6": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 239352,
+      "file_name": "Imperial Sword Replacer - Variant 6-58001-1-0-1636185327.7z",
+      "mod_id": 58001,
+      "hash": "sha256-QkFRQ1nynYZSolqD+I8znE8GW91UUueCjaT+9FqelT4="
+    }
+  },
+  "New Legion - Compatibility Patch - Main": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 239537,
+      "file_name": "New Legion - Compatibility Patch-58001-1-0-1636251729.7z",
+      "mod_id": 58001,
+      "hash": "sha256-cQ+CH+kI6oLyssmgUCzKkNFAYlZFJZhZeMskR3ClGbk="
+    }
+  },
+  "New Legion - CompatPatch - Alt1-Experimental": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 242781,
+      "file_name": "New Legion - Compatibility Patch - Alternate (Experimental)-58001-1-0-1637375411.7z",
+      "mod_id": 58001,
+      "hash": "sha256-zXkVlt6eYgSSXaLPS1qOUAMz/LDS0JJ87TUmQF9YWhU="
+    }
+  },
+  "Acuti Imperii - Standalone": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 279681,
+      "file_name": "Acuti Imperii - Standalone-58001-1-0-1650944596.7z",
+      "mod_id": 58001,
+      "hash": "sha256-+ONWA2sYUPoB7Lrq+nm0kjWKUcty4QHSebryBiU3STM="
+    },
+    "type": "primary"
+  },
+  "New Legion - CompatPatch - Alt2-Experimental": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 279703,
+      "file_name": "New Legion - Compatibility Patch - Alt - ESPFE (Experimental)-58001-1-0-1650951603.7z",
+      "mod_id": 58001,
+      "hash": "sha256-hRP42LuUF5tJC+pMAjrV+/vaV8SBLvsQmzOgPBgnqOs="
+    }
+  }
+}

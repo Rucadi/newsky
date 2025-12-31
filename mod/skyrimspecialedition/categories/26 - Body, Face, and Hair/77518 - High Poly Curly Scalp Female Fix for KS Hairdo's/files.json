@@ -1,0 +1,23 @@
+{
+  "Curly Scalp Human High Poly Mesh": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1",
+      "file_id": 325954,
+      "file_name": "Curly Scalp Human High Poly Mesh-77518-1-1666507561.7z",
+      "mod_id": 77518,
+      "hash": "sha256-+fhWc0PzH1Wrnxod1KMfvoyThGYm9fCKFlFCv00wYH4="
+    },
+    "type": "primary"
+  },
+  "HDT SMP version of KS Hairdos Curly Scalp Human": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1",
+      "file_id": 326171,
+      "file_name": "HDT SMP version of KS Hairdos Curly Scalp Human-77518-1-1666561645.7z",
+      "mod_id": 77518,
+      "hash": "sha256-pgN6GNhX5gXQ4ME745UHMcTtJ2wU7pJqqkqklDDWg70="
+    }
+  }
+}

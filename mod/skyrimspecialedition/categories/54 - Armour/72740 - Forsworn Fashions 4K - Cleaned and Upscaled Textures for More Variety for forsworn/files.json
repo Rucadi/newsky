@@ -1,0 +1,45 @@
+{
+  "Forsworn Fashions 4K": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 304793,
+      "file_name": "Forsworn Fashions 4K-72740-1-0-1659710712.7z",
+      "mod_id": 72740,
+      "hash": "sha256-xSm3tuXZ8/42aPBLw1SImZoIlecGopL+Iz7j3aPR0+Y="
+    },
+    "type": "primary"
+  },
+  "Forsworn Fashions 2K": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 304794,
+      "file_name": "Forsworn Fashions 2K-72740-1-0-1659711288.7z",
+      "mod_id": 72740,
+      "hash": "sha256-88ondhxv1L2pxoz2GjLcNvuCEo49qP+6FZpOqZisS6s="
+    },
+    "type": "primary"
+  },
+  "1k-512 Textures for Mashed Potatoes": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 304795,
+      "file_name": "1k-512 Textures for Mashed Potatoes-72740-1-0-1659711372.7z",
+      "mod_id": 72740,
+      "hash": "sha256-fql+gFSK8df//I4cusstD5yo4EVEOiqNEBug/4xHOIQ="
+    }
+  },
+  "Forsworn Fashions 4K-2K": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 304802,
+      "file_name": "Forsworn Fashions 4K-2K-72740-1-0-1659711992.7z",
+      "mod_id": 72740,
+      "hash": "sha256-3HZJGMN/WjUZQ1/AmIvyhmNgV0KMuZxIqBysrYy2fJ8="
+    },
+    "type": "primary"
+  }
+}

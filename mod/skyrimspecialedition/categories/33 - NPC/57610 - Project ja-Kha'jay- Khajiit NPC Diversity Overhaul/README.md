@@ -2,6 +2,8 @@
 - Author: SassiestAssassin - formerly allosnywisegirl
 - Game: skyrimspecialedition
 - Mod Page: https://www.nexusmods.com/skyrimspecialedition/mods/57610
+
+
 ![](https://64.media.tumblr.com/457d2a2cd1f0d5e4452b54b45337dc03/f3a276b0d820798d-ae/s2048x3072/796513e5ad11a54943fe6edfb1a0c08176449748.png)
   
 ![](https://64.media.tumblr.com/c664353a18d17bf76092b81168576abf/74aa2322e0ee61c0-29/s2048x3072/7167364d23134698468eb43c86afd4b17d922be3.png)

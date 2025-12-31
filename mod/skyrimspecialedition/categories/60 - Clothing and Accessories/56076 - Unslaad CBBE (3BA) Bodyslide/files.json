@@ -1,0 +1,24 @@
+{
+  "Unslaad 3BA Bodyslide": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "3.0",
+      "file_id": 419715,
+      "file_name": "Unslaad 3BA Bodyslide-56076-3-0-1692776891.7z",
+      "mod_id": 56076,
+      "hash": "sha256-YfXRsZcPKZ2HmoZ0gq9pHmLGvWbtxaqzFD8ns7c2e9Q="
+    },
+    "type": "primary"
+  },
+  "Unslaad 3BA Bodyslide ESP Version": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "3.0",
+      "file_id": 456204,
+      "file_name": "Unslaad 3BA Bodyslide ESP Version-56076-3-0-1703892555.7z",
+      "mod_id": 56076,
+      "hash": "sha256-XRc0PQ1y0txIuX9aVmQfkR70uqUVGIRMC5kte38366I="
+    },
+    "type": "primary"
+  }
+}

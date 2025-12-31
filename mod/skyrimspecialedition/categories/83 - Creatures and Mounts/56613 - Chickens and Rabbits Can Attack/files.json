@@ -1,0 +1,23 @@
+{
+  "Chickens and Rabbits can attack": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.5",
+      "file_id": 654740,
+      "file_name": "Chickens and Rabbits can attack-56613-1-5-1754924918.7z",
+      "mod_id": 56613,
+      "hash": "sha256-+qAzYdnfW0TotBOf6CCNu9cgSvkj3OmHNXqbMeJoEPE="
+    },
+    "type": "primary"
+  },
+  "CARCA - Killer Bunny": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.5",
+      "file_id": 654741,
+      "file_name": "CARCA - Killer Bunny-56613-1-5-1754924964.7z",
+      "mod_id": 56613,
+      "hash": "sha256-WcDZSq2b4RKsZ6emmAa4W5BIT5RkFLdol7R3Spuj1Pw="
+    }
+  }
+}

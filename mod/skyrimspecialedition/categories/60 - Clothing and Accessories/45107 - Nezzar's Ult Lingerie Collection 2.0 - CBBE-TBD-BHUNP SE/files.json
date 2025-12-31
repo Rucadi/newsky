@@ -5,7 +5,8 @@
       "version": "1.1",
       "file_id": 183366,
       "file_name": "Nezzar Ult Lingerie Collection 2.0 - BHUNP SE-45107-1-0-1612197296.7z",
-      "mod_id": 45107
+      "mod_id": 45107,
+      "hash": "sha256-3gew0pSTiANEQRf4oHvpOrLk7D1RF99Cwf7sMPHXytI="
     },
     "type": "primary"
   },
@@ -15,7 +16,8 @@
       "version": "1.1",
       "file_id": 183953,
       "file_name": "Nezzar Ult Lingerie Collection 2.0 - TBD SE-45107-1-0-1612443805.7z",
-      "mod_id": 45107
+      "mod_id": 45107,
+      "hash": "sha256-2UVWBcxn7Nowl/mMOsrhDzmdB/DRJG50PyLOPyFnkUk="
     },
     "type": "primary"
   },
@@ -25,7 +27,8 @@
       "version": "1.1",
       "file_id": 183955,
       "file_name": "Nezzar Ult Lingerie Collection 2.0 - CBBE SE-45107-1-1-1612444163.7z",
-      "mod_id": 45107
+      "mod_id": 45107,
+      "hash": "sha256-YtWsH8RMa136OyNg8Af0Ri29/1NaEoSs+orgFYr98/g="
     },
     "type": "primary"
   },
@@ -35,7 +38,8 @@
       "version": "1.1",
       "file_id": 184497,
       "file_name": "Nezzar Ult Lingerie Collection 2.0 - Craft Only Version-45107-1-1-1612678322.7z",
-      "mod_id": 45107
+      "mod_id": 45107,
+      "hash": "sha256-ecZtEvMF4bG0CdpaktrHIfDxbcg+leA4wJtDIY/jXj4="
     }
   }
 }

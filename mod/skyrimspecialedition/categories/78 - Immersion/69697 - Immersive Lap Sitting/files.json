@@ -1,0 +1,24 @@
+{
+  "Immersive Lap Sitting": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.2",
+      "file_id": 291356,
+      "file_name": "Immersive Lap Sitting-69697-1-2-1655287397.7z",
+      "mod_id": 69697,
+      "hash": "sha256-AwdGOqoGmTxvuzUN6+xMfHN1bSqUhUpJ+3b110nGW9k="
+    },
+    "type": "primary"
+  },
+  "Immersive Lap Sitting (less dialogue)": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.3",
+      "file_id": 291365,
+      "file_name": "Immersive Lap Sitting (less dialogue)-69697-1-3-1655292891.7z",
+      "mod_id": 69697,
+      "hash": "sha256-N+ka+Gn9Nx1kOwoPZnLf5w1TKvtqTbewDB1P1ory4DY="
+    },
+    "type": "primary"
+  }
+}

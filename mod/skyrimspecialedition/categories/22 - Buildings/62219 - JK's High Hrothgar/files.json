@@ -1,13 +1,13 @@
 {
-    "JK's High Hrothgar": {
-        "nexusmods": {
-            "game_name": "skyrimspecialedition",
-            "version": "1.0.2",
-            "file_id": 532826,
-            "file_name": "JK's High Hrothgar-62219-1-0-2-1724011515.7z",
-            "mod_id": 62219,
-            "hash": "sha256-Rk9fwSNGsjuQ+Ewn//8AdN3gsXjgkTm7piTYKIb6Qws="
-        },
-        "type": "primary"
-    }
+  "JK's High Hrothgar": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0.2",
+      "file_id": 532826,
+      "file_name": "JK's High Hrothgar-62219-1-0-2-1724011515.7z",
+      "mod_id": 62219,
+      "hash": "sha256-Rk9fwSNGsjuQ+Ewn//8AdN3gsXjgkTm7piTYKIb6Qws="
+    },
+    "type": "primary"
+  }
 }

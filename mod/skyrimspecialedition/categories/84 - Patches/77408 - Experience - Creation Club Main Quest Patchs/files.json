@@ -1,0 +1,106 @@
+{
+  "CC Quest - Experience Patch AIO - ENG": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 325410,
+      "file_name": "CCQuest - Experience Patch-77408-1-0-1666295784.rar",
+      "mod_id": 77408,
+      "hash": "sha256-v8MGre0Ht2QW3lmUufDEvoF+UWCxH1SfNNnqiGNO6D4="
+    },
+    "type": "primary"
+  },
+  "CC Quest - Experience Patch AIO - CHS": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 325413,
+      "file_name": "CCQuest - Experience Patch - CHS-77408-1-0-1666295869.rar",
+      "mod_id": 77408,
+      "hash": "sha256-mYNWJCoH3JeUao7ak+/ZKNTc+09CJhnHuKBHSX4L0GU="
+    },
+    "type": "primary"
+  },
+  "CC Quest - Experience Patch - ENG": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 325416,
+      "file_name": "CCQuest - Experience Patch - ENG-77408-1-0-1666297179.rar",
+      "mod_id": 77408,
+      "hash": "sha256-wNpKlvUzIzIJ9a3EPRtMgu9C3LR+ZVRaL6SGTJUlLgM="
+    },
+    "type": "primary"
+  },
+  "CC Quest - Experience Patch - CHS": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 325417,
+      "file_name": "CCQuest - Experience Patch - CHS-77408-1-0-1666297417.rar",
+      "mod_id": 77408,
+      "hash": "sha256-tObkFtnlbste6KGlZ8KLv6o3wgKcswfnOHcb9ierrqI="
+    },
+    "type": "primary"
+  },
+  "USCCCP - Patch - ENG": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 325467,
+      "file_name": "Unofficial Skyrim Creation Club Content Patch - Patch-77408-1-0-1666326465.rar",
+      "mod_id": 77408,
+      "hash": "sha256-2yuWIndreA+GatPECgW4CXj0pXPYR+lVYJPyeVO7TC4="
+    }
+  },
+  "MorrowLoot Ultimate AE - Patch - ENG": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 325468,
+      "file_name": "MorrowLoot Ultimate AE Patch-77408-1-0-1666326545.rar",
+      "mod_id": 77408,
+      "hash": "sha256-kSf0nLPaIFuCWW8/tXb1ybRdnotLHipZoQO3ubRZHPs="
+    }
+  },
+  "USCCCP - Patch - CHS": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 325490,
+      "file_name": "USCCCP - Patch - CHS-77408-1-0-1666340804.rar",
+      "mod_id": 77408,
+      "hash": "sha256-5s/s6AGdL5vpsLwq4jdZRJdnPM4R10UCRsAVE5SB7zg="
+    }
+  },
+  "MorrowLoot Ultimate AE - Patch - CHS": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 325491,
+      "file_name": "MorrowLoot Ultimate AE - Patch -CHS-77408-1-0-1666340854.rar",
+      "mod_id": 77408,
+      "hash": "sha256-CoSgJcxr5et3j1WiLde2OVBuciZI5CQJ7f8B8zn0LxE="
+    }
+  },
+  "Quest Requirements - Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "2.4",
+      "file_id": 358592,
+      "file_name": "Quest Requirements - Patch-77408-2-4-1676091452.rar",
+      "mod_id": 77408,
+      "hash": "sha256-VZWyrEfKBYgTgMf4K261IqcvJayccN0q3AdBzvhFTnk="
+    }
+  },
+  "ECSS Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0.0.6",
+      "file_id": 423177,
+      "file_name": "ECSS Patch-77408-1-0-0-6-1693798619.rar",
+      "mod_id": 77408,
+      "hash": "sha256-/D8NF/os7yC4EJumjbl3++8zKb+oahZ2DEAWA+Uv7YE="
+    }
+  }
+}

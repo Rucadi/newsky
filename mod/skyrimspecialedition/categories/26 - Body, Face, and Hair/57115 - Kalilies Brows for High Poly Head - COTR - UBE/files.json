@@ -1,0 +1,45 @@
+{
+  "Kalilies Brows for UBE": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "2.1.0",
+      "file_id": 545177,
+      "file_name": "Kalilies Brows for UBE-57115-2-1-0-1727055719.7z",
+      "mod_id": 57115,
+      "hash": "sha256-6F75ib7NJkZb0VTwOjfiUi74KbR8t6wP4LFYpHzdsuM="
+    },
+    "type": "primary"
+  },
+  "Kalilies Brows - Non-playable": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "2.1.0",
+      "file_id": 545178,
+      "file_name": "Kalilies Brows - Non-playable-57115-2-1-0-1727055829.7z",
+      "mod_id": 57115,
+      "hash": "sha256-lzVN+GqUZGmWvi2xYxrjb0k5pRO0qsPM3YbUh1cv074="
+    }
+  },
+  "Kalilies Brows for High Poly Head": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "2.2.0",
+      "file_id": 586052,
+      "file_name": "Kalilies Brows for High Poly Head-57115-2-2-0-1737502277.7z",
+      "mod_id": 57115,
+      "hash": "sha256-euF6pbtkiVMDIhwT2OC6q+11IULeUgFk5IhZNKf9GDE="
+    },
+    "type": "primary"
+  },
+  "Kalilies Brows for COTR": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "2.2.0",
+      "file_id": 586053,
+      "file_name": "Kalilies Brows for COTR-57115-2-2-0-1737502308.7z",
+      "mod_id": 57115,
+      "hash": "sha256-sxl3gdpQaLBRcoN4sD0qn6hMwaNUxbAKOCw10me6EG4="
+    },
+    "type": "primary"
+  }
+}

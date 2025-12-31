@@ -1,0 +1,34 @@
+{
+  "Witcher Horse Expansion 2x1k": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "2.4b",
+      "file_id": 485797,
+      "file_name": "Witcher Horse Expansion 2x1k-72490-2-4b-1711829676.zip",
+      "mod_id": 72490,
+      "hash": "sha256-XBBUcp8gMp0pZcZ6q8H9esivJs9Wl2KLlVLc6n9Wgvg="
+    },
+    "type": "primary"
+  },
+  "Witcher Horse Expansion 4x2k": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "2.4b",
+      "file_id": 485799,
+      "file_name": "Witcher Horse Expansion 4x2k-72490-2-4b-1711830772.zip",
+      "mod_id": 72490,
+      "hash": "sha256-5j/PpU4g//Q0cFY/1hME22GvbjDrlJ8aTyme368qi+E="
+    },
+    "type": "primary"
+  },
+  "Witcher Horse Expansion 8x4k": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "2.4b",
+      "file_id": 485818,
+      "file_name": "Witcher Horse Expansion 8x4k-72490-2-4b-1711835038.zip",
+      "mod_id": 72490
+    },
+    "type": "primary"
+  }
+}

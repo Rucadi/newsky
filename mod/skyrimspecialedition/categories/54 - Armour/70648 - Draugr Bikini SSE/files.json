@@ -1,0 +1,23 @@
+{
+  "Draugr Bikini Bodyslide files": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "NA",
+      "file_id": 296173,
+      "file_name": "Draugr Bikini Bodyslide files-70648-NA-1656962865.7z",
+      "mod_id": 70648,
+      "hash": "sha256-/KcASFjhrprhqcwZtNeJlwebv019R6C2nUHXUdZCkfA="
+    }
+  },
+  "Draugr Bikini CBBE SSE": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1",
+      "file_id": 296772,
+      "file_name": "Draugr Bikini CBBE SSE-70648-1-1-1657157861.7z",
+      "mod_id": 70648,
+      "hash": "sha256-gDFR5xMXaE/SoIEOA87RrCwKGBpp5g1ohd7tByFrg3k="
+    },
+    "type": "primary"
+  }
+}

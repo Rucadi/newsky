@@ -1,0 +1,23 @@
+{
+  "Supreme Fog for Morthal Region": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.5",
+      "file_id": 416831,
+      "file_name": "Supreme Fog for Morthal Region-63502-1-5-1691967814.7z",
+      "mod_id": 63502,
+      "hash": "sha256-OTnJCcWzoKc5CgFoXBgwC+WtENX1Q+moJfRdlNT5b1k="
+    },
+    "type": "primary"
+  },
+  "Mists of Tamriel Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.5",
+      "file_id": 416835,
+      "file_name": "Mists of Tamriel Patch-63502-1-5-1691968464.7z",
+      "mod_id": 63502,
+      "hash": "sha256-XGrdJhmfAjzWV98OY3NrzEbi2/bWNCYBYnM6+pOvOPA="
+    }
+  }
+}

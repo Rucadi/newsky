@@ -2,6 +2,8 @@
 - Author: Elianora
 - Game: skyrimspecialedition
 - Mod Page: https://www.nexusmods.com/skyrimspecialedition/mods/58317
+
+
 I dunno lol. It's a patch that fixes the entrance of Bloodchill Cavern (Bloodchill Manor player home) when used in conjuction with Inigo.
   
   

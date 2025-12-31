@@ -1,0 +1,46 @@
+{
+  "An Evening With Angi Flower Girls Version": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 314651,
+      "file_name": "An Evening With Angi Flower Girls Version-74499-1-0-1662741341.rar",
+      "mod_id": 74499,
+      "hash": "sha256-TpNqWCwFoy/kFbDeachxbcQdYjlSA6JaPWZwxSSWcMc="
+    },
+    "type": "primary"
+  },
+  "An Evening With Angi Flower Girls ESL Version": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1",
+      "file_id": 315732,
+      "file_name": "An Evening With Angi Flower Girls ESL Version-74499-1-1-1663049440.7z",
+      "mod_id": 74499,
+      "hash": "sha256-swYia4LoOKVB7REfjOVoaS1em/0aUa1VYRkwNMNEU6w="
+    },
+    "type": "primary"
+  },
+  "An Evening With Angi": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1",
+      "file_id": 417541,
+      "file_name": "An Evening With Angi-74499-1-1-1692162989.7z",
+      "mod_id": 74499,
+      "hash": "sha256-6mhoI9WHQKiyU5uNBW8dvF6emE7yqSb4mQ3Tu88QpnU="
+    },
+    "type": "primary"
+  },
+  "An Evening With Angi ESL Version": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1",
+      "file_id": 417542,
+      "file_name": "An Evening With Angi ESL Version-74499-1-1-1692163019.7z",
+      "mod_id": 74499,
+      "hash": "sha256-naiyDGwhL97Fm7Qxm+CBvbeDnDOcejrstb+kgQg/Ilg="
+    },
+    "type": "primary"
+  }
+}

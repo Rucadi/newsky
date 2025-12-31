@@ -1,0 +1,33 @@
+{
+  "New Mara Bowl Replacer": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0.0",
+      "file_id": 263899,
+      "file_name": "New Mara Bowl Replacer-63559-1-0-0-1644777176.zip",
+      "mod_id": 63559,
+      "hash": "sha256-ZQAeuIdwX8GtMSSHsoO6FAVM8p6qjds9qzwttn4OlRc="
+    }
+  },
+  "2K-4K. Statue of Mara Dressed SE": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0.1",
+      "file_id": 465173,
+      "file_name": "2K-4K. Statue of Mara Dressed SE-63559-1-0-1-1706307958.zip",
+      "mod_id": 63559,
+      "hash": "sha256-m5c39U5vgIz7C+GOEKO0y2baIJeWY/qZt3fSd255jIc="
+    },
+    "type": "primary"
+  },
+  "1K-2K. Statue of Mara Dressed SE": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0.1",
+      "file_id": 465175,
+      "file_name": "1K-2K. Statue of Mara Dressed SE-63559-1-0-1-1706308001.zip",
+      "mod_id": 63559,
+      "hash": "sha256-Oo+am7N0dDJNwADZtw4RHuANjP04F2pZJoJzoI2hiJg="
+    }
+  }
+}

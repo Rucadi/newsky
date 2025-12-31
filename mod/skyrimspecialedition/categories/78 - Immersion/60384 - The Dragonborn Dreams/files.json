@@ -1,0 +1,53 @@
+{
+  "The Dragonborn Dreams - Adamant Hand to Hand Addon Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.2.0",
+      "file_id": 252729,
+      "file_name": "The Dragonborn Dreams - Adamant Hand to Hand Addon Patch-60384-1-2-0-1640891857.zip",
+      "mod_id": 60384,
+      "hash": "sha256-70r20oaOaaHnriDYLfJZdWgPbd3piG1j6AAWVE/MNDY="
+    }
+  },
+  "The Dragonborn Dreams - Requiem Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.3.1",
+      "file_id": 254585,
+      "file_name": "The Dragonborn Dreams - Requiem Patch-60384-1-3-1-1641526571.zip",
+      "mod_id": 60384,
+      "hash": "sha256-mrhybsJGkc3UNO/tPADSiSv0KqldmS2aQ0yEPMV5mdQ="
+    }
+  },
+  "The Dragonborn Dreams - Adamant Hand to Hand Addon Patch - First Person Version": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.3.1.1",
+      "file_id": 254755,
+      "file_name": "The Dragonborn Dreams - Adamant Hand to Hand Addon Patch - First Person Version-60384-1-3-1-1-1641576508.zip",
+      "mod_id": 60384,
+      "hash": "sha256-RooF5+4DDLoWpaeTbdSuS0LSRo7WVMa07Fa/LKZ7leY="
+    }
+  },
+  "The Dragonborn Dreams - First Person Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.3.1.1",
+      "file_id": 254756,
+      "file_name": "The Dragonborn Dreams - First Person Patch-60384-1-3-1-1-1641576543.zip",
+      "mod_id": 60384,
+      "hash": "sha256-yY2lN82gBlifHtlsGQrXdZNZKaAlZldbLcewqXbn0Wg="
+    }
+  },
+  "The Dragonborn Dreams": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.3.2",
+      "file_id": 256268,
+      "file_name": "The Dragonborn Dreams-60384-1-3-2-1642036710.zip",
+      "mod_id": 60384,
+      "hash": "sha256-ijNrUBfA8AgmzmkAuIgvel9FyhS35EQfLlWWX+BP4oM="
+    },
+    "type": "primary"
+  }
+}

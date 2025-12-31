@@ -1,0 +1,76 @@
+{
+  "Mrf'solitude tag chinese": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 229817,
+      "file_name": "Mrf'solitude tag chinese-55903-1-0-1632225447.zip",
+      "mod_id": 55903,
+      "hash": "sha256-tbahuCNh5o/VTdkxXAMCZBEp0p3yg/Mq/+43rIM+WI0="
+    }
+  },
+  "Mrf's Solitude tag Blank": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 229848,
+      "file_name": "Mrf's Solitude tag Blank-55903-1-0-1632245186.zip",
+      "mod_id": 55903,
+      "hash": "sha256-53Yk7VaH0TlE0MGZ5YylYMS7oQF28sRCReASdUcP1vo="
+    }
+  },
+  "Mrf solitude Church windows": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.4",
+      "file_id": 233414,
+      "file_name": "Mrf solitude Church windows-55903-1-4-1633685114.7z",
+      "mod_id": 55903,
+      "hash": "sha256-mZq0jbn0aKq+DOKeJt439H2H1cv7MnD66oIGAdxIEdg="
+    }
+  },
+  "Mrf's Solitude Unique Interior 1K": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "3.0.4",
+      "file_id": 611077,
+      "file_name": "Mrf's Solitude Unique Interior 1K-55903-3-0-4-1743200657.7z",
+      "mod_id": 55903,
+      "hash": "sha256-rihQYQF/dnJQVfwtNscZnz60ErAcRPznSQ4mZ6Gmgm8="
+    },
+    "type": "primary"
+  },
+  "Mrf's Solitude Unique Interior 2K": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "3.0.4",
+      "file_id": 611080,
+      "file_name": "Mrf's Solitude Unique Interior 2K-55903-3-0-4-1743200783.7z",
+      "mod_id": 55903,
+      "hash": "sha256-HeX//wwCa7NaBzlJX4tyGF613H5huX0ElQ/m8bPfWIE="
+    },
+    "type": "primary"
+  },
+  "Mrf's Solitude Unique Interior 4K": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "3.0.4",
+      "file_id": 611087,
+      "file_name": "Mrf's Solitude Unique Interior 4K-55903-3-0-4-1743201193.7z",
+      "mod_id": 55903,
+      "hash": "sha256-bJ2L/h5PMxNFT2OKzX0wsxa081P2O/KCXDAhZbnomAk="
+    },
+    "type": "primary"
+  },
+  "Mrf's Solitude Exteriors": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "3.0.5",
+      "file_id": 661904,
+      "file_name": "Mrf's Solitude Exteriors-55903-3-0-5-1756853838.7z",
+      "mod_id": 55903,
+      "hash": "sha256-uKP4EyjSbokrofgS0tXcZ0xonGSC0rbGAQBFwWnLNaY="
+    },
+    "type": "primary"
+  }
+}

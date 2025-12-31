@@ -1,33 +1,33 @@
 {
-    "Dark Elf Voices For Bandits": {
-        "nexusmods": {
-            "game_name": "skyrimspecialedition",
-            "version": "1.04",
-            "file_id": 291842,
-            "file_name": "Dark Elf Voices For Bandits-63733-1-04-1655488875.zip",
-            "mod_id": 63733,
-            "hash": "sha256-w2B1DQ1NF3f7sJcNgDmioMSoeBi93nVYHLeFHwjhmVY="
-        }
-    },
-    "Bandit Lines Expansion": {
-        "nexusmods": {
-            "game_name": "skyrimspecialedition",
-            "version": "1.09",
-            "file_id": 459566,
-            "file_name": "Bandit Lines Expansion-63733-1-09-1704806726.rar",
-            "mod_id": 63733,
-            "hash": "sha256-h/SoU8a5qUQGYv8557sACh5pqVXCOamXkddGwG56G+o="
-        },
-        "type": "primary"
-    },
-    "Werebeasts Dont Talk": {
-        "nexusmods": {
-            "game_name": "skyrimspecialedition",
-            "version": "1.09",
-            "file_id": 459567,
-            "file_name": "Werebeasts Dont Talk-63733-1-09-1704806991.rar",
-            "mod_id": 63733,
-            "hash": "sha256-krWaXti/RiVwD7fO+gnFPVhhWAGXs6CmwWA0KW9H8hk="
-        }
+  "Dark Elf Voices For Bandits": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.04",
+      "file_id": 291842,
+      "file_name": "Dark Elf Voices For Bandits-63733-1-04-1655488875.zip",
+      "mod_id": 63733,
+      "hash": "sha256-w2B1DQ1NF3f7sJcNgDmioMSoeBi93nVYHLeFHwjhmVY="
     }
+  },
+  "Bandit Lines Expansion": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.09",
+      "file_id": 459566,
+      "file_name": "Bandit Lines Expansion-63733-1-09-1704806726.rar",
+      "mod_id": 63733,
+      "hash": "sha256-h/SoU8a5qUQGYv8557sACh5pqVXCOamXkddGwG56G+o="
+    },
+    "type": "primary"
+  },
+  "Werebeasts Dont Talk": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.09",
+      "file_id": 459567,
+      "file_name": "Werebeasts Dont Talk-63733-1-09-1704806991.rar",
+      "mod_id": 63733,
+      "hash": "sha256-krWaXti/RiVwD7fO+gnFPVhhWAGXs6CmwWA0KW9H8hk="
+    }
+  }
 }

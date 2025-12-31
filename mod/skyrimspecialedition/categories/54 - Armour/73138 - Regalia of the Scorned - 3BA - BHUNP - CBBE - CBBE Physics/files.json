@@ -1,0 +1,90 @@
+{
+  "Regalia of the Scorned 2K 3BA": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1",
+      "file_id": 310907,
+      "file_name": "Regalia of the Scorned 2K 3BA-73138-1-1-1661635906.7z",
+      "mod_id": 73138,
+      "hash": "sha256-2hY3+F8NjgmA6KT5BBB2H7AJiCCzic5/ENkPHz39vVY="
+    },
+    "type": "primary"
+  },
+  "Regalia of the Scorned 4K 3BA": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1",
+      "file_id": 310909,
+      "file_name": "Regalia of the Scorned 4K 3BA-73138-1-1-1661637937.7z",
+      "mod_id": 73138,
+      "hash": "sha256-yYO0VdFwwMLr0UQTb35WKVw8ZdDIFRfmse1PPABEvnk="
+    },
+    "type": "primary"
+  },
+  "Regalia of the Scorned 2K BHUNP": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1",
+      "file_id": 310912,
+      "file_name": "Regalia of the Scorned 2K BHUNP-73138-1-1-1661639822.7z",
+      "mod_id": 73138,
+      "hash": "sha256-OP8frlWHuj1ZrdpfcAnjdFWQrgEd+zKtT1I39vMYkAg="
+    },
+    "type": "primary"
+  },
+  "Regalia of the Scorned 4K BHUNP": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1",
+      "file_id": 310919,
+      "file_name": "Regalia of the Scorned 4K BHUNP-73138-1-1-1661642882.7z",
+      "mod_id": 73138,
+      "hash": "sha256-TnLZvGlbEb31TYqOnh6nspzNy5VWU4AST4FHjvNNuI8="
+    },
+    "type": "primary"
+  },
+  "Regalia of the Scorned 2K CBBE": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1",
+      "file_id": 310931,
+      "file_name": "Regalia of the Scorned 2K CBBE-73138-1-1-1661644972.7z",
+      "mod_id": 73138,
+      "hash": "sha256-g7nb5QJl7zUJq/185/zf6yIZMPW3VPVEu9H5eUKj4cI="
+    },
+    "type": "primary"
+  },
+  "Regalia of the Scorned 4K CBBE": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1",
+      "file_id": 310933,
+      "file_name": "Regalia of the Scorned 4K CBBE-73138-1-1-1661646858.7z",
+      "mod_id": 73138,
+      "hash": "sha256-cyjm1o5OpFKdRXpRjL42hZEyH1wVcVeC8BF44DaVwe8="
+    },
+    "type": "primary"
+  },
+  "Regalia of the Scorned 2K CBBEP": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1",
+      "file_id": 310937,
+      "file_name": "Regalia of the Scorned 2K CBBEP-73138-1-1-1661647943.7z",
+      "mod_id": 73138,
+      "hash": "sha256-mKxrETfxd4ArIQQeS80coRklqMlF9ZnYaRVt7t/bORA="
+    },
+    "type": "primary"
+  },
+  "Regalia of the Scorned 4K CBBEP": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1",
+      "file_id": 310948,
+      "file_name": "Regalia of the Scorned 4K CBBEP-73138-1-1-1661650069.7z",
+      "mod_id": 73138,
+      "hash": "sha256-v3eYSib8v7jzLhWo6EiCHpTKrX5D/20SeLhMq7enHow="
+    },
+    "type": "primary"
+  }
+}

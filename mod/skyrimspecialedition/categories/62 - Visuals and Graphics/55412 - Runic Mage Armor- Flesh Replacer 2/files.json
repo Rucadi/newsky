@@ -1,0 +1,34 @@
+{
+  "1) RMA2- Standard": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "0.1",
+      "file_id": 227571,
+      "file_name": "RMA2- Standard-55412-0-1-1631350124.rar",
+      "mod_id": 55412,
+      "hash": "sha256-58g1GV0jabtWqWjHEg1F5LGfI38zZPI/xmp6XeyaJT8="
+    },
+    "type": "primary"
+  },
+  "1b) RMA2- Overlay": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "0.1",
+      "file_id": 227573,
+      "file_name": "1b) RMA2- Overlay-55412-0-1-1631350286.rar",
+      "mod_id": 55412,
+      "hash": "sha256-dF4xcykzw36LCh31cJLOaIWw+NwOwslhss43KeN+Aqc="
+    },
+    "type": "primary"
+  },
+  "RMA2- Immersive Sounds Compendium Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "0.1",
+      "file_id": 227591,
+      "file_name": "RMA2- Immersive Sounds Compendium Patch-55412-0-1-1631356230.rar",
+      "mod_id": 55412,
+      "hash": "sha256-vcPrRGvTaLtsrIhEesNSQr0vq9gDNW61BGtzglMQxSg="
+    }
+  }
+}

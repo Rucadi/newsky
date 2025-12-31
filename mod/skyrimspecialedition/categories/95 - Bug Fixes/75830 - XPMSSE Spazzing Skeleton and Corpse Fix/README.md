@@ -2,6 +2,8 @@
 - Author: Zipzopdippidybop
 - Game: skyrimspecialedition
 - Mod Page: https://www.nexusmods.com/skyrimspecialedition/mods/75830
+
+
 As noted above, this mod fixes the "spazzing" or flying skeleton/corpse bug encountered when you have XPMSSE installed (such as the skeletons/corpses at Folgunthur and Forelhost). In addition, it corrects some bugs from the original game after installing XPMSSE (notably the skeleton in Fort Helgen Torture Room).
   
   

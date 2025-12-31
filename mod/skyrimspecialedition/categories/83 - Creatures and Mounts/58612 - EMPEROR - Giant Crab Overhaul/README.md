@@ -2,6 +2,8 @@
 - Author: opusGlass
 - Game: skyrimspecialedition
 - Mod Page: https://www.nexusmods.com/skyrimspecialedition/mods/58612
+
+
 The Fishing creation adds an awesome giant crab boss battle.
   
 It's the first time the Emperor Crab from lore has been seen in any TES game.

@@ -1,0 +1,33 @@
+{
+  "DAR stagger only for npcs": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.2",
+      "file_id": 287809,
+      "file_name": "DAR stagger only for npcs-68696-1-2-1653964810.7z",
+      "mod_id": 68696,
+      "hash": "sha256-XH/9sMm5JzpNT7XaEuTvj+nvQU8DdX8QzZsBvKJTUf8="
+    }
+  },
+  "Stagger": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.2",
+      "file_id": 287811,
+      "file_name": "Stagger-68696-1-2-1653964937.7z",
+      "mod_id": 68696,
+      "hash": "sha256-pGlW2sCersFoCiJLGEuGnqHIUHOfZydZWIadI2FVU6o="
+    },
+    "type": "primary"
+  },
+  "For Poise Mod": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 346629,
+      "file_name": "For Poise Mod-68696-1-0-1672837970.7z",
+      "mod_id": 68696,
+      "hash": "sha256-i03dzYm5Yr0aHq5Xkbvkfp21Jzbw3OxFpLegKj0wfBQ="
+    }
+  }
+}

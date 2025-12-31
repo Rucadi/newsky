@@ -1,0 +1,21 @@
+{
+  "4K Textures Addon": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 342052,
+      "file_name": "4K Textures Addon-81017-1-0-1671504116.7z",
+      "mod_id": 81017
+    }
+  },
+  "Main File": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "2.0",
+      "file_id": 452021,
+      "file_name": "Main File-81017-2-0-1702629277.7z",
+      "mod_id": 81017
+    },
+    "type": "primary"
+  }
+}

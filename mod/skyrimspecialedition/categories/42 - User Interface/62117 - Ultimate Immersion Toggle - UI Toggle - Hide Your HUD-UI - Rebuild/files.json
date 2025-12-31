@@ -1,0 +1,23 @@
+{
+  "iHUD Compatibility Config": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 257500,
+      "file_name": "iHUD Compatibility Config-62117-1-0-1642443411.7z",
+      "mod_id": 62117,
+      "hash": "sha256-gZXTOXddOmh27mVYqrLvmQ/94hCsDcO+nEO6T+yw534="
+    }
+  },
+  "Ultimate Immersion Toggle - UI Toggle": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.5",
+      "file_id": 686848,
+      "file_name": "Ultimate Immersion Toggle - UI Toggle-62117-1-5-1762989213.zip",
+      "mod_id": 62117,
+      "hash": "sha256-C/ZyZ+OHxrmk/rjaPRJe2JuP6IjP/gfBllEER6wNrm0="
+    },
+    "type": "primary"
+  }
+}

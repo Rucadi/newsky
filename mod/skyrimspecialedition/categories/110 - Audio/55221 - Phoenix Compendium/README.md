@@ -2,6 +2,8 @@
 - Author: Satafinix
 - Game: skyrimspecialedition
 - Mod Page: https://www.nexusmods.com/skyrimspecialedition/mods/55221
+
+
 [left][/left]
 
 [left]﻿[/left]??????? ℭ?????????

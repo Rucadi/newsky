@@ -1,0 +1,66 @@
+{
+  "Skyrim 3D Trees and Plants - Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.5",
+      "file_id": 339694,
+      "file_name": "Skyrim 3D Trees and Plants - Patch-80418-1-5-1670781315.7z",
+      "mod_id": 80418,
+      "hash": "sha256-SvNpQFmysmfSSxUPAbs70qtUkN7SDxnNubKgnIvPCD8="
+    }
+  },
+  "Skyrim 3D Driftwood 4K SSE Version": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.6",
+      "file_id": 340238,
+      "file_name": "Skyrim 3D Driftwood 4K SSE Version-80418-1-6-1670933024.zip",
+      "mod_id": 80418,
+      "hash": "sha256-lPhX4bk6dpS7bR8u6uBTtjPC1dvqRBdV2E5UgSB/hPQ="
+    },
+    "type": "primary"
+  },
+  "Skyrim 3D Driftwood 2K Optimised SSE Version": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.6",
+      "file_id": 340239,
+      "file_name": "Skyrim 3D Driftwood 2K Optimised SSE Version-80418-1-6-1670933232.zip",
+      "mod_id": 80418,
+      "hash": "sha256-NSz+22YqeP+1Lc+r/i2VbmWZbLKhOP74WRZsxJsDckY="
+    },
+    "type": "primary"
+  },
+  "Skyrim 3D Driftwood 2K SSE Version": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.6",
+      "file_id": 340240,
+      "file_name": "Skyrim 3D Driftwood 2K SSE Version-80418-1-6-1670933271.zip",
+      "mod_id": 80418,
+      "hash": "sha256-8cuBhVWEhgDiSYkbaeHqGpsk5l6Ll9MyFsXUHxc+B3A="
+    },
+    "type": "primary"
+  },
+  "Skyrim 3D Driftwood 4K Optimised SSE Version": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.6",
+      "file_id": 340241,
+      "file_name": "Skyrim 3D Driftwood 4K Optimised SSE Version-80418-1-6-1670933294.zip",
+      "mod_id": 80418,
+      "hash": "sha256-AhpegrGvtKFadpemeVQCvejiY1c3SkBkjtYY5up9Rl4="
+    },
+    "type": "primary"
+  },
+  "Skyrim 3D Driftwood Optimised Meshes": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.7",
+      "file_id": 341371,
+      "file_name": "Skyrim 3D Driftwood Optimised Meshes-80418-1-7-1671301683.rar",
+      "mod_id": 80418,
+      "hash": "sha256-pa8EdGL3p+d4O4CMjRmQ8S3/T7xnBPioCMDpHZjKTD0="
+    }
+  }
+}
