@@ -57,13 +57,13 @@ let
 
 
         if [ "${mod_root_folder}" != "." ]; then
-          mv ${mod_root_folder}/* .
-          rm -rf ${mod_root_folder}
+          mv "${mod_root_folder}"/* .
+          rm -rf "${mod_root_folder}"
         fi
 
         rename_if_exists Data
 
-        if [ ${mod_root_files} == 'true' ]; then
+        if [ "${mod_root_files}" == 'true' ]; then
           return 0
         fi
 
