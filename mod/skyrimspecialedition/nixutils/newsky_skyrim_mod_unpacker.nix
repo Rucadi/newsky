@@ -31,21 +31,22 @@ let
       patchPhase = ''
         rm -f env-vars
 
-        get_real_name() {
-            folder_name=$1
-            real_name=$(find . -maxdepth 1 -type d -iname "$folder_name" -printf "%f\n")
-            echo "$real_name"
-        } 
 
-        rename_if_exists()
-        {
-          folder="$1"
-          real_name=$(get_real_name "$folder")
-          if [ "$real_name" == "$folder" ]; then
-              return 0
-          fi
-          if [ "$real_name" != "" ]; then
-              mv "$real_name" "$folder"
+        rename_if_exists() {
+          target="$1"
+
+          parent="$(dirname "$target")"
+          base="$(basename "$target")"
+
+          [ "$parent" = "." ] && parent=""
+
+          search_dir="."
+          [ -n "$parent" ] && search_dir="$parent"
+
+          real_name=$(find "$search_dir" -maxdepth 1 -type d -iname "$base" -printf "%f\n" | head -n1)
+
+          if [ -n "$real_name" ] && [ "$real_name" != "$base" ]; then
+            mv "$search_dir/$real_name" "$search_dir/$base"
           fi
         }
 
