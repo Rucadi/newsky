@@ -1,0 +1,65 @@
+{
+  "Girl's Heavy Armors (UUNP)": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.6.1",
+      "file_id": 70788,
+      "file_name": "Girl's Heavy Armors (UUNP)-17843-1-6-1-1540898670.7z",
+      "mod_id": 17843,
+      "hash": "sha256-YdPJwL4lBDyv8KpIgwk9pyoV56GB8F3HcZc6cclk/2A="
+    },
+    "type": "primary"
+  },
+  "Girl's Heavy Armors (CBBE)": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.6.1",
+      "file_id": 70789,
+      "file_name": "Girl's Heavy Armors (CBBE)-17843-1-6-1-1540898731.7z",
+      "mod_id": 17843,
+      "hash": "sha256-vLmS4CNRskn7044wrn0kgbtEaqSq6ln17BpMfXo6VrU="
+    },
+    "type": "primary"
+  },
+  "Stand-Alone Version": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.6.1",
+      "file_id": 70790,
+      "file_name": "Stand-Alone Version-17843-1-6-1-1540898762.zip",
+      "mod_id": 17843,
+      "hash": "sha256-iylEg1pQ0my8jIRWYG1aUa484BnFwGvhPA6VxD8EbV0="
+    },
+    "type": "primary"
+  },
+  "Girl's Heavy Armors (CBBE V1.5)": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.6.3",
+      "file_id": 70996,
+      "file_name": "Girl's Heavy Armors (CBBE V1.5)-17843-1-6-3-1541069883.7z",
+      "mod_id": 17843,
+      "hash": "sha256-x6+RcARd4sURhLuNPTxnO74/p4ZRsaPSf22kAiu7u5A="
+    }
+  },
+  "BodySlide UUNP": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.6.3",
+      "file_id": 90558,
+      "file_name": "BodySlide UUNP-17843-1-6-1-1556812496.7z",
+      "mod_id": 17843,
+      "hash": "sha256-RwUUZDiZ4SN2c+/zSLqlUzZDCfaTrpo4eeaej/xtnKY="
+    }
+  },
+  "BodySlide CBBE (V1.5)": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.6.3",
+      "file_id": 90559,
+      "file_name": "BodySlide CBBE (V1.5)-17843-1-6-3-1556812550.7z",
+      "mod_id": 17843,
+      "hash": "sha256-38h/MNOiBuoTiv1zzWmIPkrBfbZNQrQ6sgzFCzkYFwo="
+    }
+  }
+}

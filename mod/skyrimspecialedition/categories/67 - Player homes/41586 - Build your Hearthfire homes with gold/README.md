@@ -2,6 +2,8 @@
 - Author: Santala
 - Game: skyrimspecialedition
 - Mod Page: https://www.nexusmods.com/skyrimspecialedition/mods/41586
+
+
 No more running around Skyrim hunting for materials or waiting your steward to slowly furnish your house. With this mod every piece of the house and all furnishing options only require gold. The total price for completely building the house and furnishing every room is around 25k, which is enough to give you a sense of pride and accomplishment. The price varies based on what you choose to build, with the cellar being by far the most expensive to furnish.
   
   

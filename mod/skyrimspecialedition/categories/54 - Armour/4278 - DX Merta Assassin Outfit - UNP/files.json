@@ -1,0 +1,23 @@
+{
+  "Merta Assassin": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "2.0",
+      "file_id": 89738,
+      "file_name": "Merta Assassin-4278-2-0-1556258051.7z",
+      "mod_id": 4278,
+      "hash": "sha256-GkvwSDGdA7p9ywW8feEObzxg3fOKXYpnnNGXBibwj+0="
+    },
+    "type": "primary"
+  },
+  "Merta Assassin Tattoos SSE": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "2.0",
+      "file_id": 89810,
+      "file_name": "Merta Assassin Tattoos SSE-4278-2-0-1556295050.7z",
+      "mod_id": 4278,
+      "hash": "sha256-d9V5z5ksGPuHIJqEO/X1FoyLh9Vjrv3LvnWq2o3JEBY="
+    }
+  }
+}

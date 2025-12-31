@@ -1,13 +1,13 @@
 {
-  "Elden Counter BFCO Combo Patch": {
-    "nexusmods": {
-      "game_name": "skyrimspecialedition",
-      "version": "1.0",
-      "file_id": 667304,
-      "file_name": "Elden Counter BFCO Combo Patch-159578-1-0-1758284220.rar",
-      "mod_id": 159578,
-      "hash": "sha256-2jU4ImWzcsyHHDtLp4Rvh95MWI5tSrYsxPZbekGXdtU="
-    },
-    "type": "primary"
-  }
+    "Elden Counter BFCO Combo Patch": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "1.0",
+            "file_id": 667304,
+            "file_name": "Elden Counter BFCO Combo Patch-159578-1-0-1758284220.rar",
+            "mod_id": 159578,
+            "hash": "sha256-2jU4ImWzcsyHHDtLp4Rvh95MWI5tSrYsxPZbekGXdtU="
+        },
+        "type": "primary"
+    }
 }

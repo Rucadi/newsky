@@ -1,0 +1,45 @@
+{
+  "DX Necromancer Robes UNP 22K": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 151262,
+      "file_name": "DX Necromancer Robes UNP 22K-38201-1-0-1595237974.7z",
+      "mod_id": 38201,
+      "hash": "sha256-FlYNACvFMJ6UI3laxT4+HR6tCahEuFbziKkGN6EZCbw="
+    },
+    "type": "primary"
+  },
+  "DX Necromancer Robes UNP 11K": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 151263,
+      "file_name": "DX Necromancer Robes UNP 11K-38201-1-0-1595238035.7z",
+      "mod_id": 38201,
+      "hash": "sha256-ZjUtKIc4aBX93fw713sbRbAfQtwnSh6Z+xG6Jo8xpBI="
+    },
+    "type": "primary"
+  },
+  "DX Necromancer Robes UNP 5.5K": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 151265,
+      "file_name": "DX Necromancer Robes UNP 5.5K-38201-1-0-1595238212.7z",
+      "mod_id": 38201,
+      "hash": "sha256-5vrqJfdyUw3XaERJoXZYouh0BFLWcrirvOlRIWA0ASE="
+    },
+    "type": "primary"
+  },
+  "DX Necromancer Robes UNP - No enchantment": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 151268,
+      "file_name": "DX Necromancer Robes UNP - No enchantment-38201-1-0-1595239534.7z",
+      "mod_id": 38201,
+      "hash": "sha256-dUmJxNoHe7Wn6DlXaZAVTVoZZKnfu4D+YIiyEKux7kY="
+    }
+  }
+}

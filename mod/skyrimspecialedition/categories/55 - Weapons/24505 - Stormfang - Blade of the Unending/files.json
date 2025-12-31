@@ -1,0 +1,45 @@
+{
+  "Stormfang - Main Replacer": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1",
+      "file_id": 157280,
+      "file_name": "Stormfang - Main Replacer-24505-1-1-1598191477.7z",
+      "mod_id": 24505,
+      "hash": "sha256-sMCSdOHc3j2CCf3oJJ5AeiOs+T0DVfOm2SQRpOTPcyo="
+    },
+    "type": "primary"
+  },
+  "Stormfang - USSEP version": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1",
+      "file_id": 157281,
+      "file_name": "Stormfang - USLEEP version-24505-1-1-1598191588.7z",
+      "mod_id": 24505,
+      "hash": "sha256-Gg6o+Bb6+S7BV2e83pyFPbBazcf453boaqDaIcutMBo="
+    },
+    "type": "primary"
+  },
+  "Strunviir": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1",
+      "file_id": 157282,
+      "file_name": "Strunviir-24505-1-1-1598191650.7z",
+      "mod_id": 24505,
+      "hash": "sha256-ubLJ21QSxj34V38lkLWlefIoxz0AYjqrplgut3wGmuE="
+    },
+    "type": "primary"
+  },
+  "Legacy of the Dragonborn Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 225396,
+      "file_name": "LotD Patch-24505-1-0-1630509759.7z",
+      "mod_id": 24505,
+      "hash": "sha256-K+KPRNhauFnab0HnXn70kyyaKNaWp9c7y2juETZI8P0="
+    }
+  }
+}

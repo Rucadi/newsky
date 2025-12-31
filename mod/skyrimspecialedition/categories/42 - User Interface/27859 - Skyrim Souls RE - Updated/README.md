@@ -2,6 +2,8 @@
 - Author: Vermunds and Fudgyduff
 - Game: skyrimspecialedition
 - Mod Page: https://www.nexusmods.com/skyrimspecialedition/mods/27859
+
+
 **This mod unpauses Skyrim's game menus. Based on Fudgyduff's [Skyrim Souls RE](https://www.nexusmods.com/skyrimspecialedition/mods/21374). Updated and fixed version, working with the latest version of SKSE, and with the CTD issues fixed.**
   
   

@@ -1,0 +1,35 @@
+{
+  "Kanjs - Sigil Stone Animated SE 4k": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1",
+      "file_id": 690552,
+      "file_name": "Kanjs - Sigil Stone Animated SE 4k-165298-1-1763939664.zip",
+      "mod_id": 165298,
+      "hash": "sha256-8vbLTFNOH2+CxYVhLM8gvFI/si6S24ahT1nCyoHZrY4="
+    },
+    "type": "primary"
+  },
+  "Kanjs - Sigil Stone Animated SE 2k": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1",
+      "file_id": 690553,
+      "file_name": "Kanjs - Sigil Stone Animated SE 2k-165298-1-1763939677.zip",
+      "mod_id": 165298,
+      "hash": "sha256-CdWCAgHAH270T3O/9YIEjQepU4JIIqrpd6BdCsvFPHw="
+    },
+    "type": "primary"
+  },
+  "Kanjs - Sigil Stone Animated SE 1k": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1",
+      "file_id": 690554,
+      "file_name": "Kanjs - Sigil Stone Animated SE 1k-165298-1-1763939689.zip",
+      "mod_id": 165298,
+      "hash": "sha256-oT0gH4thMHdkEo+nGsGLlir1uQJDHWGkWN7zDfbBKZk="
+    },
+    "type": "primary"
+  }
+}

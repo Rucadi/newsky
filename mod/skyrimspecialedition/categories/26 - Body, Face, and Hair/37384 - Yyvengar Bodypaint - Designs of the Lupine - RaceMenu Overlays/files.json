@@ -1,0 +1,46 @@
+{
+  "Yyvengar Bodypaints - Female (CBBE)": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 146106,
+      "file_name": "Yyvengar Bodypaints - Female (CBBE)-37384-1-0-1592374869.7z",
+      "mod_id": 37384,
+      "hash": "sha256-87Zj0zXctCKcSAJykNb9sADeDvHswqdWqElNGZ9NlZ0="
+    },
+    "type": "primary"
+  },
+  "Yyvengar Bodypaints - Female (UNP)": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 146107,
+      "file_name": "Yyvengar Bodypaints - Female (UNP)-37384-1-0-1592375022.7z",
+      "mod_id": 37384,
+      "hash": "sha256-Ykcjh76kjpteV8Vqnab5DAveK9DkCAIevKmFvMzpZtA="
+    },
+    "type": "primary"
+  },
+  "Yyvengar Bodypaints - Female and Male (CBBE)": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 146108,
+      "file_name": "Yyvengar Bodypaints - Female and Male (CBBE)-37384-1-0-1592375189.7z",
+      "mod_id": 37384,
+      "hash": "sha256-a3iSxLyn8LUOIEGD+3kPpmhyhT8xGwU30fpDvjHFGeI="
+    },
+    "type": "primary"
+  },
+  "Yyvengar Bodypaints - Female and Male (UNP)": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 146109,
+      "file_name": "Yyvengar Bodypaints - Female and Male (UNP)-37384-1-0-1592375293.7z",
+      "mod_id": 37384,
+      "hash": "sha256-3yFvwKuhLa4rhZVuBU835S+BgWR2DKxwQym3D3crZxI="
+    },
+    "type": "primary"
+  }
+}

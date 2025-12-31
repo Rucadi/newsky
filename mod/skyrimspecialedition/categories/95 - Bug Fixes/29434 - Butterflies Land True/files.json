@@ -1,0 +1,43 @@
+{
+  "Butterflies Land True": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 109209,
+      "file_name": "Butterflies Land True-29434-1-0-1570116131.7z",
+      "mod_id": 29434,
+      "hash": "sha256-VJCzsY31JOZYKe81NcrwYy6A9roayJ/fVvoTJbNGOA0="
+    },
+    "type": "primary"
+  },
+  "Butterflies Land True - ESPFE Alternate Version": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 109288,
+      "file_name": "Butterflies Land True - ESPFE Alternate Version-29434-1-0-1570188310.7z",
+      "mod_id": 29434,
+      "hash": "sha256-4apYAPDz7UaVcESNP5i2VMD0xIhQKR7JGj8cq8MZMBc="
+    }
+  },
+  "Butterflies Land True - No Formlist Changes Alternate Version": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 110324,
+      "file_name": "Butterflies Land True - No Formlist Changes Alternate Version-29434-1-0-1571058713.7z",
+      "mod_id": 29434,
+      "hash": "sha256-9afhaigO1IjM+yUiUzJFMHDPA3i6BcCXapwLLwSytiE="
+    }
+  },
+  "Butterflies Land True - ESPFE No Formlist Changes Alternate Version": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 110325,
+      "file_name": "Butterflies Land True - ESPFE No Formlist Changes Alternate Version-29434-1-0-1571058918.7z",
+      "mod_id": 29434,
+      "hash": "sha256-L627Tm+IoODZqpbaRPbsz+xc0cIDDuK/xpmofPh0tog="
+    }
+  }
+}

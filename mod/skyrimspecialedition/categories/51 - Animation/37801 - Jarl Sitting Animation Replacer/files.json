@@ -1,0 +1,103 @@
+{
+  "Jarl Sitting Animation Replacer - 01 Gender Specific (Female)": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1.0",
+      "file_id": 147995,
+      "file_name": "Jarl Sitting Animation Replacer - Gender Specific (Female)-37801-1-0-0-1593451595.rar",
+      "mod_id": 37801,
+      "hash": "sha256-1KlpjG0DUSNN0or9ugVbq6zg2+UTHSyCyIlQMi+zLJ8="
+    }
+  },
+  "Jarl Sitting Animation Replacer - 01 Gender Specific (Male)": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1.0",
+      "file_id": 147996,
+      "file_name": "Jarl Sitting Animation Replacer - Gender Specific (Male)-37801-1-0-0-1593451644.rar",
+      "mod_id": 37801,
+      "hash": "sha256-i0H6m1h3xREBzk4gWOm1j0P+kCcu+TfcyzROqQVf47c="
+    }
+  },
+  "Jarl Sitting Animation Replacer - 01 Vanilla": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1.0",
+      "file_id": 148056,
+      "file_name": "Jarl Sitting Animation Replacer - 01 Vanilla-37801-1-1-0-1593492559.rar",
+      "mod_id": 37801,
+      "hash": "sha256-SdNanHjOqVolVEG/tbhHkzpgdg91SRb19F2mL4hDdOc="
+    }
+  },
+  "Jarl Sitting Animation Replacer - 02 Vanilla": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1.0",
+      "file_id": 148057,
+      "file_name": "Jarl Sitting Animation Replacer - 02 Vanilla-37801-1-1-0-1593492716.rar",
+      "mod_id": 37801,
+      "hash": "sha256-T6VlbAni2RJX34XhSLUjoSSPMw5iddSDy69/QQuVGGc="
+    }
+  },
+  "Jarl Sitting Animation Replacer - 03 Vanilla": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1.0",
+      "file_id": 148058,
+      "file_name": "Jarl Sitting Animation Replacer - 03 Vanilla-37801-1-1-0-1593492781.rar",
+      "mod_id": 37801,
+      "hash": "sha256-4KS1o5mv0Bb8LJCP5GDxU/P5/bRxcqTUnQQXguR4tLo="
+    }
+  },
+  "Jarl Sitting Animation Replacer - 02 Gender Specific (Female)": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1.0",
+      "file_id": 148059,
+      "file_name": "Jarl Sitting Animation Replacer - 02 Gender Specific (Female)-37801-1-1-0-1593492989.rar",
+      "mod_id": 37801,
+      "hash": "sha256-t2twH00SfyZp6HbWIJqhcCSQin6pOVX8oloAjErkUqU="
+    }
+  },
+  "Jarl Sitting Animation Replacer - 02 Gender Specific (Male)": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1.0",
+      "file_id": 148060,
+      "file_name": "Jarl Sitting Animation Replacer - 02 Gender Specific (Male)-37801-1-1-0-1593493037.rar",
+      "mod_id": 37801,
+      "hash": "sha256-y/VfKv3Spx9UzXMQNnLrGWK/om07c+lB7ZJQnq1jZWs="
+    }
+  },
+  "Jarl Sitting Animation Replacer - 03 Gender Specific (Female)": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1.0",
+      "file_id": 148062,
+      "file_name": "Jarl Sitting Animation Replacer - 03 Gender Specific (Female)-37801-1-1-0-1593493140.rar",
+      "mod_id": 37801,
+      "hash": "sha256-uNW3B3SuSlgFn/hNP0dWM7x464XfgOPLaxtW9J6rJqk="
+    }
+  },
+  "Jarl Sitting Animation Replacer - 03 Gender Specific (Male)": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1.0",
+      "file_id": 148064,
+      "file_name": "Jarl Sitting Animation Replacer - 03 Gender Specific (Male)-37801-1-1-0-1593493169.rar",
+      "mod_id": 37801,
+      "hash": "sha256-2fTUC3N7yLs4z/T8MlqTS0rAsyKHQIorVe1RD+J56NU="
+    }
+  },
+  "Jarl Sitting Animation Replacer - OAR": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "2.0",
+      "file_id": 409575,
+      "file_name": "Jarl Sitting Animation Replacer - OAR-37801-2-0-1690055550.7z",
+      "mod_id": 37801,
+      "hash": "sha256-5QJjc7mNjgz9/LWQI5GXEV2F5zOV3N1jjr2RvHFI9cc="
+    },
+    "type": "primary"
+  }
+}

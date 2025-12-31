@@ -1,0 +1,33 @@
+{
+  "Dremorn Witch Staffs": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1",
+      "file_id": 685713,
+      "file_name": "Dremorn Witch Staffs-164056-1-1762696744.rar",
+      "mod_id": 164056,
+      "hash": "sha256-uSvKepWJuux+JrVM2oZF6lXDiBsaZUoSemt8s6N5KOQ="
+    }
+  },
+  "Dremorn Witch - UBE": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1",
+      "file_id": 685715,
+      "file_name": "Dremorn Witch - UBE-164056-1-1762696803.rar",
+      "mod_id": 164056,
+      "hash": "sha256-BXwkb+WQUGZmajVn1UxEjhMo6uNYSMB2RPozouC9AMw="
+    }
+  },
+  "Dremorn Witch - 3BA": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1",
+      "file_id": 685719,
+      "file_name": "Dremorn Witch - 3BA-164056-1-1762696890.rar",
+      "mod_id": 164056,
+      "hash": "sha256-XDX/vEUUujTN7/fLK9Hy+/OxPLQJKvxEUwImMMFfBmU="
+    },
+    "type": "primary"
+  }
+}

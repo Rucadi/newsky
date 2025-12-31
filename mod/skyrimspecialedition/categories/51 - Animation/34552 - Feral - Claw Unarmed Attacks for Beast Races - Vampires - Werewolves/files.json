@@ -1,0 +1,23 @@
+{
+  "Feral SSE FOMOD Installer v3.0": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "3.0",
+      "file_id": 552129,
+      "file_name": "Feral SSE FOMOD Installer v3.0-34552-3-0-1728928646.7z",
+      "mod_id": 34552,
+      "hash": "sha256-IeEGt6lmNqhyypDC3LTSBC0IwYs9kpl2H0XEAXbvf1Y="
+    },
+    "type": "primary"
+  },
+  "Feral SSE - Claws Are Daggers": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "3.0",
+      "file_id": 637686,
+      "file_name": "Feral SSE - Claws Are Daggers-34552-3-0-1749901135.7z",
+      "mod_id": 34552,
+      "hash": "sha256-8BRZ/5FeEtWUpSPZDlH7GrbpO4WX/2iSGnRJkhqpEeQ="
+    }
+  }
+}

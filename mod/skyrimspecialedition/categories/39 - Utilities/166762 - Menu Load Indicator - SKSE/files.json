@@ -1,0 +1,23 @@
+{
+  "Source Code": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1",
+      "file_id": 696915,
+      "file_name": "Source Code-166762-1-1-1765484484.zip",
+      "mod_id": 166762,
+      "hash": "sha256-awefMGVY2PVLIEexgQFoKHwLm31ax6ceNdCqzpcdBQE="
+    }
+  },
+  "Menu Load Indicator - SKSE": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1a",
+      "file_id": 696921,
+      "file_name": "Menu Load Indicator - SKSE-166762-1-1a-1765484803.rar",
+      "mod_id": 166762,
+      "hash": "sha256-BrouTWxs8ecybXQVHEZXvm1l0PeYzaSAXLIv8Rw8R18="
+    },
+    "type": "primary"
+  }
+}

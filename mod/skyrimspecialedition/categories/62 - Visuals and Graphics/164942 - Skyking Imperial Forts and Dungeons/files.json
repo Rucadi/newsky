@@ -1,0 +1,35 @@
+{
+  "Skyking Imperial Forts and Dungeons 1k": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1",
+      "file_id": 690767,
+      "file_name": "Skyking Imperial Forts and Dungeons-164942-1-1-1763994342.7z",
+      "mod_id": 164942,
+      "hash": "sha256-KKT1d2Sw7C36bTYJOu0j++8wgUIfsayfQ81RUeA+FpE="
+    },
+    "type": "primary"
+  },
+  "Skyking Imperial Forts and Dungeons 2k": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1",
+      "file_id": 690769,
+      "file_name": "Skyking Imperial Forts and Dungeons 2k-164942-1-1-1763994528.7z",
+      "mod_id": 164942,
+      "hash": "sha256-NMfYXXiwOm6mdL5E7wk1ksJjLFW89EIdmqJMQZiPSnE="
+    },
+    "type": "primary"
+  },
+  "Skyking Imperial Forts and Dungeons 4k": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1",
+      "file_id": 690770,
+      "file_name": "Skyking Imperial Forts and Dungeons 4k-164942-1-1-1763994845.7z",
+      "mod_id": 164942,
+      "hash": "sha256-sW2O/A3kHWRdP0zErkTmWAqeqm24trF4ucV0aIpMktA="
+    },
+    "type": "primary"
+  }
+}

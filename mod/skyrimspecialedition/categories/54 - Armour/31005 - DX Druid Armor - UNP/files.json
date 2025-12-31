@@ -1,0 +1,33 @@
+{
+  "Druid Armor UNP SE": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1",
+      "file_id": 119575,
+      "file_name": "Druid Armor UNP SE-31005-1-1-1578863921.7z",
+      "mod_id": 31005,
+      "hash": "sha256-kw/j/c/YGoV3rqR+8iLtebcLmp3dYrvvFEqkphsq5TY="
+    },
+    "type": "primary"
+  },
+  "Druid Armor Tropical Theme": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.2",
+      "file_id": 119832,
+      "file_name": "Druid Armor Tropical Theme-31005-1-0-1579059215.7z",
+      "mod_id": 31005,
+      "hash": "sha256-2l2tzV+9iAY+psoRenW/Uuan6Jb1dEiLdzvg+soqynY="
+    }
+  },
+  "Druid Armor Arctic Theme": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.2",
+      "file_id": 119834,
+      "file_name": "Druid Armor Arctic Theme-31005-1-1-1579059475.7z",
+      "mod_id": 31005,
+      "hash": "sha256-1U8M7xPEJJGCklPB3G2LHabSgtGYC51Eb9vqAInYsDI="
+    }
+  }
+}

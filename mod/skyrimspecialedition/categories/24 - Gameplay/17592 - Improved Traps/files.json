@@ -1,0 +1,45 @@
+{
+  "Mining Makes Noise": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "2.5.1",
+      "file_id": 55741,
+      "file_name": "Mining Makes Noise-17592-2-3.7z",
+      "mod_id": 17592,
+      "hash": "sha256-cRA+LE5D06tLgehUQ/r+rI+nrL0YH9hsdI57JymXQuA="
+    }
+  },
+  "Improved Traps": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "2.5.1",
+      "file_id": 569046,
+      "file_name": "Improved Traps-17592-2-5-1-1733355923.7z",
+      "mod_id": 17592,
+      "hash": "sha256-sdL6ZL2ScIY603pQmId2Lh5dNF+A4wlitDutFQjMKM4="
+    },
+    "type": "primary"
+  },
+  "Improved Traps (Dangerous Edition)": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "2.5.1",
+      "file_id": 569047,
+      "file_name": "Improved Traps (Dangerous Edition)-17592-2-5-1-1733355963.7z",
+      "mod_id": 17592,
+      "hash": "sha256-+IZREK/Xz7g5+AfdG0zIApAx90llYbRPzqlAgajGRd4="
+    },
+    "type": "primary"
+  },
+  "Improved Traps (Slightly Dangerous Edition)": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "2.5.1",
+      "file_id": 569048,
+      "file_name": "Improved Traps (Slightly Dangerous Edition)-17592-2-5-1-1733355996.7z",
+      "mod_id": 17592,
+      "hash": "sha256-LkCbEHQlaLGbk17I9DpjU+RnEC5MyzE8IGfeNnGOmBI="
+    },
+    "type": "primary"
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "Savage Bear SE": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1c",
+      "file_id": 71859,
+      "file_name": "Savage Bear SE-16343-1-1c-1541857760.7z",
+      "mod_id": 16343,
+      "hash": "sha256-uths5/asIIyYtaS9xA7NqH6kp5TfUJ1LLRXHIQDdpvc="
+    },
+    "type": "primary"
+  },
+  "Savage Bear SE (Shell Effect)": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "2.1",
+      "file_id": 71861,
+      "file_name": "Savage Bear SE (Shell Effect)-16343-2-1-1541857845.7z",
+      "mod_id": 16343,
+      "hash": "sha256-UXX/El26uD/tV9qUz7M4AwzTsBih0dXEIDc2eGF5T/g="
+    },
+    "type": "primary"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "Sound For TK Dodge SE": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "0.3",
+      "file_id": 401216,
+      "file_name": "Sound For TK Dodge SE-39689-0-3-1687777158.zip",
+      "mod_id": 39689,
+      "hash": "sha256-EZfjdts0VYJubRqjZffrkurA2ffhCCnuYts3GICBOEo="
+    },
+    "type": "primary"
+  },
+  "TK dodge firstperson 8 ways dodge (sound added)": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "0",
+      "file_id": 401219,
+      "file_name": "TK dodge firstperson 8 ways dodge (sound added)-39689-0-1687777596.zip",
+      "mod_id": 39689,
+      "hash": "sha256-sOddobvAmUk0HdGZZGEEB2/yWIKIhTm7JfCVJtHlFuk="
+    }
+  },
+  "TK dodge RE - stagger dodging when target lock fix": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "0.2",
+      "file_id": 401495,
+      "file_name": "TK dodge RE - stagger dodging when target lock fix-39689-0-2-1687866606.zip",
+      "mod_id": 39689,
+      "hash": "sha256-2rncdadOd9LEnbNAWYhZoGfyGea229K0GKl7tvJpzV8="
+    }
+  }
+}

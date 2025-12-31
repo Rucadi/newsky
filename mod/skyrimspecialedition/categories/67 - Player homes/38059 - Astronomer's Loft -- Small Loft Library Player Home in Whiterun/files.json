@@ -1,0 +1,34 @@
+{
+  "Astronomer's Loft Main File Version 1.1 (OPEN CITIES)": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1",
+      "file_id": 149639,
+      "file_name": "Astronomer's Loft Main File Version 1.1 (OPEN CITIES)-38059-1-1-1594337556.7z",
+      "mod_id": 38059,
+      "hash": "sha256-JTTNH5w7V8IsXkazrpOHoqexmJNYkUruiqi68zStr40="
+    },
+    "type": "primary"
+  },
+  "Optional": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 239299,
+      "file_name": "Optional-38059-1-0-1636167036.7z",
+      "mod_id": 38059,
+      "hash": "sha256-qAhSwhjtW383TAvERfVbC4XBDA2rU4W5Z4tcO4SK8EM="
+    }
+  },
+  "Astronomer's Loft 1.3 Main File": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.3",
+      "file_id": 588650,
+      "file_name": "Astronomer's Loft 1.3 Main File-38059-1-3-1738131175.7z",
+      "mod_id": 38059,
+      "hash": "sha256-mFsXoqqSGLZFaTQm6bqSzh1yht7q+N6xKSagNPQwlHc="
+    },
+    "type": "primary"
+  }
+}

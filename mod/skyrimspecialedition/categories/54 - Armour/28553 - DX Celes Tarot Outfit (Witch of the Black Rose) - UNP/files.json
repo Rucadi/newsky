@@ -1,0 +1,84 @@
+{
+  "Celes Tarot Outfit Original Theme": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 105181,
+      "file_name": "Celes Tarot Outfit Original Theme-28553-1-0-1567365451.7z",
+      "mod_id": 28553,
+      "hash": "sha256-MYzg5RCXswKhP1b63U1vk3wf3hjtqYzIzQeqhca5gfk="
+    }
+  },
+  "Celes Tarot Outfit Gothic Theme": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 105182,
+      "file_name": "Celes Tarot Outfit Gothic Theme-28553-1-0-1567365521.7z",
+      "mod_id": 28553,
+      "hash": "sha256-xdKT2GfCEpr2fVI6+GlYOkBrKpWDvPpQTX9LiNp+rjo="
+    }
+  },
+  "Celes Tarot Outfit Inferno Theme": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 105183,
+      "file_name": "Celes Tarot Outfit Inferno Theme-28553-1-0-1567365580.7z",
+      "mod_id": 28553,
+      "hash": "sha256-XOuyC+d10oecBOcM7s1bA+nY24td9X85Oiw+GqRg7MQ="
+    }
+  },
+  "Celes Tarot Outfit Arcane Theme": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 105184,
+      "file_name": "Celes Tarot Outfit Arcane Theme-28553-1-0-1567365706.7z",
+      "mod_id": 28553,
+      "hash": "sha256-NwObRURaMl2gUeEKhSsVuZpYT1AEuwL2shavGaqz/uw="
+    }
+  },
+  "Celes Tarot Outfit Blizzard Theme": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 105185,
+      "file_name": "Celes Tarot Outfit Blizzard Theme-28553-1-0-1567365842.7z",
+      "mod_id": 28553,
+      "hash": "sha256-pDR8SB3O4+DeX1nsHpc6laH3eT6mTkNbwM0Ly2ydJH8="
+    }
+  },
+  "Celes Tarot Outfit Cloth UNP": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.01",
+      "file_id": 105433,
+      "file_name": "Celes Tarot Outfit Cloth UNP-28553-1-01-1567494978.7z",
+      "mod_id": 28553,
+      "hash": "sha256-GDXf2T9K3mAz2b2IW7ka6L5R9BgxRjo7eag88hdURhM="
+    },
+    "type": "primary"
+  },
+  "Celes Tarot Outifit Light UNP": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.01",
+      "file_id": 105434,
+      "file_name": "Celes Tarot Outifit Light UNP-28553-1-01-1567495327.7z",
+      "mod_id": 28553,
+      "hash": "sha256-pDblkjhUpjSGhXbG+Wru59ubICzQFWTk2CK/cMljB1s="
+    },
+    "type": "primary"
+  },
+  "Celes Tarot Outfit Passion Theme": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1",
+      "file_id": 119858,
+      "file_name": "Celes Tarot Outfit Passion Theme-28553-1-0-1579075592.7z",
+      "mod_id": 28553,
+      "hash": "sha256-EXTAHkeFnRcXIjxN09ST/UJbJu7Ffc55lupGQXk+zeg="
+    }
+  }
+}

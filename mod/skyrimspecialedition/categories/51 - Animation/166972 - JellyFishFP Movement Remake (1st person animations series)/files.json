@@ -1,0 +1,23 @@
+{
+  "Shield patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0b",
+      "file_id": 699008,
+      "file_name": "Shield patch-166972-1-0b-1765995262.7z",
+      "mod_id": 166972,
+      "hash": "sha256-oFbbv6kr01H6cURe65UddBfuYzEBwIe9h5XNBbxiD3c="
+    }
+  },
+  "JellyFishFP Movement Remake": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1b",
+      "file_id": 699011,
+      "file_name": "JellyFishFP Movement Remake-166972-1-1b-1765995397.7z",
+      "mod_id": 166972,
+      "hash": "sha256-xva81rWTDn4oAAyGtf5sNyhv2XXBYZ2m0PGq0ZDRig4="
+    },
+    "type": "primary"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "Girl's Heavy Armors standalone": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 129604,
+      "file_name": "Girl's Heavy Armors standalone-33811-1-0-1584743380.zip",
+      "mod_id": 33811,
+      "hash": "sha256-3WSEg40LUF36vQiOGPHN836ohkeMJUYNLn/IlQkIvdk="
+    },
+    "type": "primary"
+  },
+  "Girl's Heavy Armors recipes": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 129606,
+      "file_name": "Girl's Heavy Armors recipes-33811-1-0-1584743445.zip",
+      "mod_id": 33811,
+      "hash": "sha256-9kF/M4vGAUVo15JPoY4iiEpN18G+UTTzPS55Z4sdlPY="
+    }
+  },
+  "Girl's Heavy Armors leveled lists": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "2.0",
+      "file_id": 129769,
+      "file_name": "Girl's Heavy Armors leveled lists-33811-2-0-1584828980.zip",
+      "mod_id": 33811,
+      "hash": "sha256-C0MaFXh0RkTgDfKZzrWZrgn+xhCR2QiX032jHbRIpb4="
+    }
+  }
+}

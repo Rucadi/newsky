@@ -1,0 +1,74 @@
+{
+  "Fulcimentum - Dual Sheath Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "3.x",
+      "file_id": 89772,
+      "file_name": "Fulcimentum - Dual Sheath Patch-23825-3-x-1556283838.7z",
+      "mod_id": 23825,
+      "hash": "sha256-r5vKpG/I928pNpq3GfPl3EjiIc1w98ULT2ddyLYeeOI="
+    }
+  },
+  "Fulcimentum - Palaces and Castles Enhanced Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "3.x",
+      "file_id": 89773,
+      "file_name": "Fulcimentum - Palaces and Castles Enhanced Patch-23825-3-x-1556283989.7z",
+      "mod_id": 23825,
+      "hash": "sha256-pI6Eiz+4st8KTCJwSIzzG5FGAacFLf1SG/uyAXSsP7E="
+    }
+  },
+  "Fulcimentum - More staves and wands of Skyrim": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "3.5",
+      "file_id": 107868,
+      "file_name": "Fulcimentum - More staves and wands of Skyrim-23825-3-5-1569204255.7z",
+      "mod_id": 23825,
+      "hash": "sha256-6KElOOzbpA+wtY7EuZz1Crboc/TIE4+S0K8fSBzopV8="
+    },
+    "type": "primary"
+  },
+  "Fulcimentum - More staves and wands of Skyrim JP": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "3.5",
+      "file_id": 107869,
+      "file_name": "Fulcimentum - More staves and wands of Skyrim JP-23825-3-5-1569204311.7z",
+      "mod_id": 23825,
+      "hash": "sha256-3J6WasJojEWvmoHocu/HfUds8NILsbAfJZLDCEtW6BU="
+    },
+    "type": "primary"
+  },
+  "Fulcimentum - Apocalypse Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "3.5",
+      "file_id": 107871,
+      "file_name": "Fulcimentum - Apocalypse Patch-23825-3-5-1569204429.7z",
+      "mod_id": 23825,
+      "hash": "sha256-6m2AVybrQVL3NZnINWVithT6AqOP3ci3ZrE5WrgLhus="
+    }
+  },
+  "Fulcimentum - Apocalypse Patch JP": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "3.5",
+      "file_id": 107872,
+      "file_name": "Fulcimentum - Apocalypse Patch JP-23825-3-5-1569204474.7z",
+      "mod_id": 23825,
+      "hash": "sha256-PMd/uSCEwOlhY9ZI8/dpErN+fOuXy93VKMmvfqx5WKA="
+    }
+  },
+  "Fulcimentum - Arcanum 2.0a Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "3.5",
+      "file_id": 107873,
+      "file_name": "Fulcimentum - Arcanum 2.0a Patch-23825-3-5-1569204544.7z",
+      "mod_id": 23825,
+      "hash": "sha256-Oye4NTPh+Ib8Q3WaZWp32GC8cjq6Zpz0tWNyRZ+blC4="
+    }
+  }
+}

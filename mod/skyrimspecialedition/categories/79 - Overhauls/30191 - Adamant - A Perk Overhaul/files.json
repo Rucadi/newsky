@@ -1,0 +1,43 @@
+{
+  "Adamant - Smithing Addon": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "5.4.6",
+      "file_id": 289816,
+      "file_name": "Adamant - Smithing Addon-30191-5-4-6-1654728794.7z",
+      "mod_id": 30191,
+      "hash": "sha256-t6HcT5U/35q0fA+fgcqZ5Qaa1Y1ZDpKgFekjDFD7uHc="
+    }
+  },
+  "Simonrim Attack Speed Fix": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0.0",
+      "file_id": 350926,
+      "file_name": "Simonrim Attack Speed Fix-30191-1-0-0-1674102606.7z",
+      "mod_id": 30191,
+      "hash": "sha256-+whYoY3h3P29y6uYjQJGgqSdFKsi39r909XZZAzRx/g="
+    }
+  },
+  "Adamant - Bard Perks Addon": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1.1",
+      "file_id": 450975,
+      "file_name": "Adamant - Bard Perks Addon-30191-1-1-1-1702323805.7z",
+      "mod_id": 30191,
+      "hash": "sha256-+74cyIGnZc9rOLWuMB/EISfI5v6RZT/sZ24X/UjCyoU="
+    }
+  },
+  "Adamant - A Perk Overhaul": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "5.9.2",
+      "file_id": 498819,
+      "file_name": "Adamant - A Perk Overhaul-30191-5-9-2-1715101901.7z",
+      "mod_id": 30191,
+      "hash": "sha256-lHx7pooAeY6SsNfUz9jLTXQP1oHmpBE7tqVplM3YhMQ="
+    },
+    "type": "primary"
+  }
+}

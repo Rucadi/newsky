@@ -2,6 +2,8 @@
 - Author: powerofthree
 - Game: skyrimspecialedition
 - Mod Page: https://www.nexusmods.com/skyrimspecialedition/mods/42750
+
+
 **FAVORITE MISC ITEMS**
   
   

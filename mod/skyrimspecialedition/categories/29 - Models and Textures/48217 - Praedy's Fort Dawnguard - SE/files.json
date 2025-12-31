@@ -1,0 +1,23 @@
+{
+  "Praedy's Fort Dawnguard - SE V3 2K": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "3.3",
+      "file_id": 622403,
+      "file_name": "Praedy's Fort Dawnguard - SE V3 2K-48217-3-3-1746022449.7z",
+      "mod_id": 48217,
+      "hash": "sha256-jSh6Zys4md1/Lz4LDsPGFPhpLLaR34aowkkw+I2Etpw="
+    },
+    "type": "primary"
+  },
+  "Praedy's Fort Dawnguard - SE V3 4K": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "3.3",
+      "file_id": 622404,
+      "file_name": "Praedy's Fort Dawnguard - SE V3 4K-48217-3-3-1746022480.7z",
+      "mod_id": 48217
+    },
+    "type": "primary"
+  }
+}

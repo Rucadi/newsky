@@ -1,0 +1,44 @@
+{
+  "Daedric Blue Frost Replacer": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.6",
+      "file_id": 352170,
+      "file_name": "Daedric Blue Frost Replacer-47361-1-6-1674440845.zip",
+      "mod_id": 47361,
+      "hash": "sha256-p7pYO3eSy5IT1vAaeLOg+PufQyQRJZRE6ILPWMrSg60="
+    },
+    "type": "primary"
+  },
+  "Daedric Blue Frost Standalone": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.6",
+      "file_id": 352171,
+      "file_name": "Daedric Blue Frost Standalone-47361-1-6-1674440888.zip",
+      "mod_id": 47361,
+      "hash": "sha256-HT3AM/BS5SqiWwgfJACHTXKwvnlN6x4bKNLS2wa6VaM="
+    },
+    "type": "primary"
+  },
+  "Daedric Blue Frost Standalone no Heels": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 639347,
+      "file_name": "Daedric Blue Frost Standalone no Heels-47361-1-0-1750293603.zip",
+      "mod_id": 47361,
+      "hash": "sha256-fj7Hwgboj1MlZMwmxLqrszAL0Z+YyU0P94wV0N+jpz8="
+    }
+  },
+  "Daedric Blue Frost Replacer no Heels": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 639348,
+      "file_name": "Daedric Blue Frost Replacer no Heels-47361-1-0-1750293645.zip",
+      "mod_id": 47361,
+      "hash": "sha256-NGsyGGBiKdtQvglozkKemqaM8bJfQkGcXhkhgPWnkf0="
+    }
+  }
+}

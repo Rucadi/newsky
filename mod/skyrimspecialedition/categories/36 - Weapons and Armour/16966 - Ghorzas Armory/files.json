@@ -1,0 +1,54 @@
+{
+  "Ghorzas Armor SSE - CBBE": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 53353,
+      "file_name": "Ghorzas Armor SSE - CBBE-16966-1-0.7z",
+      "mod_id": 16966,
+      "hash": "sha256-3TIpcvP62D1IbXrMGHw/7RLaohub0Z2hUMA0QESnZK0="
+    },
+    "type": "primary"
+  },
+  "Ghorzas Armor SSE - UNP": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 53365,
+      "file_name": "Ghorzas Armor SSE - UNP-16966-1-0.7z",
+      "mod_id": 16966,
+      "hash": "sha256-Z45wbUhte+XRR/XWCDzCaQz88k2ZWuMhillUG/aG50o="
+    },
+    "type": "primary"
+  },
+  "Ghorzas Armor - Retextures by Undeadgoblin": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 54066,
+      "file_name": "Ghorzas Armor - Retextures by Undeadgoblin-16966-1-0.7z",
+      "mod_id": 16966,
+      "hash": "sha256-Rp7kWGXCZSQOoM76Ozznwg//iGO9P9YnIGYxmE4Qs94="
+    }
+  },
+  "Gorzas Armor - Auto Unequip Shields to Back Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 54076,
+      "file_name": "Gorzas Armor - Auto Unequip Shields to Back Patch-16966-1-0.7z",
+      "mod_id": 16966,
+      "hash": "sha256-ZPXlEUEVA56R/yQ1zvbON/Myxc+cblGO7ObC1B8U2uk="
+    }
+  },
+  "Ghorza's Weapons 1.1": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1",
+      "file_id": 61829,
+      "file_name": "Ghorza's Weapons 1.1-16966-1-1.7z",
+      "mod_id": 16966,
+      "hash": "sha256-MsWMNJjCkufoQ2I9wgNcJo4cQwhqQpsERuiB7pquOXU="
+    }
+  }
+}

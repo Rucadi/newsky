@@ -1,33 +1,33 @@
 {
-    "Immersion Patch": {
-        "nexusmods": {
-            "game_name": "skyrimspecialedition",
-            "version": "2.0",
-            "file_id": 8356,
-            "file_name": "Immersion Patch-4301-2-0.zip",
-            "mod_id": 4301,
-            "hash": "sha256-dc4g52vTzTp1VVhdWwg9Oo7el3fvJBZHLJF2qPd2W2w="
-        }
-    },
-    "RS Children Patch": {
-        "nexusmods": {
-            "game_name": "skyrimspecialedition",
-            "version": "2.0",
-            "file_id": 8371,
-            "file_name": "RS Children Patch-4301-2-0.zip",
-            "mod_id": 4301,
-            "hash": "sha256-jpP6uVTjpkWG17QI7T1t88PD57Y5uzozTVIeN43lHqg="
-        }
-    },
-    "Moon and Star": {
-        "nexusmods": {
-            "game_name": "skyrimspecialedition",
-            "version": "3.2",
-            "file_id": 9510,
-            "file_name": "Moon and Star-4301-3-2.zip",
-            "mod_id": 4301,
-            "hash": "sha256-RHStKwG2GTmmJ8K2rsYdVmr6CAtIIJG9UBL4c6DF694="
-        },
-        "type": "primary"
+  "Immersion Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "2.0",
+      "file_id": 8356,
+      "file_name": "Immersion Patch-4301-2-0.zip",
+      "mod_id": 4301,
+      "hash": "sha256-dc4g52vTzTp1VVhdWwg9Oo7el3fvJBZHLJF2qPd2W2w="
     }
+  },
+  "RS Children Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "2.0",
+      "file_id": 8371,
+      "file_name": "RS Children Patch-4301-2-0.zip",
+      "mod_id": 4301,
+      "hash": "sha256-jpP6uVTjpkWG17QI7T1t88PD57Y5uzozTVIeN43lHqg="
+    }
+  },
+  "Moon and Star": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "3.2",
+      "file_id": 9510,
+      "file_name": "Moon and Star-4301-3-2.zip",
+      "mod_id": 4301,
+      "hash": "sha256-RHStKwG2GTmmJ8K2rsYdVmr6CAtIIJG9UBL4c6DF694="
+    },
+    "type": "primary"
+  }
 }

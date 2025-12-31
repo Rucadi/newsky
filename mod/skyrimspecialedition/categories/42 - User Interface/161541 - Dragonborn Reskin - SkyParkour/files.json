@@ -1,0 +1,46 @@
+{
+  "Dragonborn Reskin - SkyParkour - Black and White": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.02",
+      "file_id": 677655,
+      "file_name": "Dragonborn Reskin - SkyParkour - Black and White-161541-1-02-1760836315.zip",
+      "mod_id": 161541,
+      "hash": "sha256-WPijtFL7hvlLCzi7vAeF43t9uvHW5/KXhU+DNvA7P+g="
+    },
+    "type": "primary"
+  },
+  "Dragonborn Reskin - SkyParkour - Colorful": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.02",
+      "file_id": 677656,
+      "file_name": "Dragonborn Reskin - SkyParkour - Colorful-161541-1-02-1760836345.zip",
+      "mod_id": 161541,
+      "hash": "sha256-A5wbocbqJ78GSDV4kzyj3YL+ITYczgrRouxYzXWKX/c="
+    },
+    "type": "primary"
+  },
+  "Dragonborn Reskin - SkyParkour - Default White": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.02",
+      "file_id": 677657,
+      "file_name": "Dragonborn Reskin - SkyParkour - Default White-161541-1-02-1760836374.zip",
+      "mod_id": 161541,
+      "hash": "sha256-1XfPrP7UvjKTpfAg6LLqBlPWo5FfUZEWdJrWNY8okLo="
+    },
+    "type": "primary"
+  },
+  "Dragonborn Reskin - SkyParkour - Golden": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.02",
+      "file_id": 677658,
+      "file_name": "Dragonborn Reskin - SkyParkour - Golden-161541-1-02-1760836398.zip",
+      "mod_id": 161541,
+      "hash": "sha256-xVwovtYylujwUptdDUljBwH7rCkgbZS1fpY7Wm53GZU="
+    },
+    "type": "primary"
+  }
+}

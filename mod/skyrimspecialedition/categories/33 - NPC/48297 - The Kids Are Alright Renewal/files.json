@@ -1,53 +1,53 @@
 {
-    "The Kids Are Alright Default Kid Loose Files": {
-        "nexusmods": {
-            "game_name": "skyrimspecialedition",
-            "version": "Ultimate",
-            "file_id": 203526,
-            "file_name": "The Kids Are Alright Default Kid Loose Files-48297-Ultimate-1621042279.7z",
-            "mod_id": 48297,
-            "hash": "sha256-smMjXXXLJlpHZTeW/EJ6gorxL4TurZX06zlAadqfgIk="
-        }
-    },
-    "The Kids Are Alright Renewal": {
-        "nexusmods": {
-            "game_name": "skyrimspecialedition",
-            "version": "UltimateRenewal",
-            "file_id": 205168,
-            "file_name": "The Kids Are Alright Renewal-48297-UltimateRenewal-1621790048.7z",
-            "mod_id": 48297,
-            "hash": "sha256-rwjr0Vten7zWeS3wzLq8gB8HEHYdtY5lJtOkItk7ajA="
-        },
-        "type": "primary"
-    },
-    "TKAA Renewal Patch Pack 1": {
-        "nexusmods": {
-            "game_name": "skyrimspecialedition",
-            "version": "UltimateRenewal",
-            "file_id": 251340,
-            "file_name": "TKAA Renewal Patch Pack 1-48297-UltimateRenewal-1640313988.7z",
-            "mod_id": 48297,
-            "hash": "sha256-tPP0ZPGIqWWexJt+9XOgjigdlbaW4eACP6B9gJCWVMg="
-        }
-    },
-    "Rigmor of Cyrodiil TKAA Patch SE": {
-        "nexusmods": {
-            "game_name": "skyrimspecialedition",
-            "version": "beta2",
-            "file_id": 305836,
-            "file_name": "Rigmor of Cyrodiil TKAA Patch SE-48297-beta2-1659999079.7z",
-            "mod_id": 48297,
-            "hash": "sha256-7uFZl1CxM2CYt/BrtHQe2UrZorNtiwsvqxSjnE9T4Zg="
-        }
-    },
-    "ETAC v.07 TKAA Patch": {
-        "nexusmods": {
-            "game_name": "skyrimspecialedition",
-            "version": ".7",
-            "file_id": 391393,
-            "file_name": "ETAC v.07 TKAA Patch-48297--7-1684888303.7z",
-            "mod_id": 48297,
-            "hash": "sha256-5miOhrTdNAjEAsYlQ3bC4rm/QuQst8MuycEJNcfQs3E="
-        }
+  "The Kids Are Alright Default Kid Loose Files": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "Ultimate",
+      "file_id": 203526,
+      "file_name": "The Kids Are Alright Default Kid Loose Files-48297-Ultimate-1621042279.7z",
+      "mod_id": 48297,
+      "hash": "sha256-smMjXXXLJlpHZTeW/EJ6gorxL4TurZX06zlAadqfgIk="
     }
+  },
+  "The Kids Are Alright Renewal": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "UltimateRenewal",
+      "file_id": 205168,
+      "file_name": "The Kids Are Alright Renewal-48297-UltimateRenewal-1621790048.7z",
+      "mod_id": 48297,
+      "hash": "sha256-rwjr0Vten7zWeS3wzLq8gB8HEHYdtY5lJtOkItk7ajA="
+    },
+    "type": "primary"
+  },
+  "TKAA Renewal Patch Pack 1": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "UltimateRenewal",
+      "file_id": 251340,
+      "file_name": "TKAA Renewal Patch Pack 1-48297-UltimateRenewal-1640313988.7z",
+      "mod_id": 48297,
+      "hash": "sha256-tPP0ZPGIqWWexJt+9XOgjigdlbaW4eACP6B9gJCWVMg="
+    }
+  },
+  "Rigmor of Cyrodiil TKAA Patch SE": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "beta2",
+      "file_id": 305836,
+      "file_name": "Rigmor of Cyrodiil TKAA Patch SE-48297-beta2-1659999079.7z",
+      "mod_id": 48297,
+      "hash": "sha256-7uFZl1CxM2CYt/BrtHQe2UrZorNtiwsvqxSjnE9T4Zg="
+    }
+  },
+  "ETAC v.07 TKAA Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": ".7",
+      "file_id": 391393,
+      "file_name": "ETAC v.07 TKAA Patch-48297--7-1684888303.7z",
+      "mod_id": 48297,
+      "hash": "sha256-5miOhrTdNAjEAsYlQ3bC4rm/QuQst8MuycEJNcfQs3E="
+    }
+  }
 }

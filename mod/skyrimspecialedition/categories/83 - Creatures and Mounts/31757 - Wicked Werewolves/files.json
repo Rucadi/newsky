@@ -1,0 +1,24 @@
+{
+  "Wicked Werewolves SE": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.3",
+      "file_id": 145388,
+      "file_name": "Wicked Werewolves-31757-1-3-1592005200.7z",
+      "mod_id": 31757,
+      "hash": "sha256-F5jICuNQ8QpYUGOaHLK84QZWR7Pk9mbRNIFTgrS+Y2c="
+    },
+    "type": "primary"
+  },
+  "Wicked Werewolves SE XP32": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.3",
+      "file_id": 145389,
+      "file_name": "Wicked Werewolves-31757-1-3-1592005280.7z",
+      "mod_id": 31757,
+      "hash": "sha256-mu4TY6XXV+Nqx2g6pSevbicCd78kmKgNuu3gCcaagVs="
+    },
+    "type": "primary"
+  }
+}

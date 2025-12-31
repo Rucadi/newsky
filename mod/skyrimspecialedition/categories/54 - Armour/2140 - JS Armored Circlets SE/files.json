@@ -1,0 +1,85 @@
+{
+  "JS Armored Circlets SE - No NPC Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1",
+      "file_id": 352180,
+      "file_name": "JS Armored Circlets SE - No NPC Patch-2140-1-1-1674442542.rar",
+      "mod_id": 2140,
+      "hash": "sha256-PytwGRsqFZKrAul/qRJszt3RDQ4BRyKIm8j9SxPUVrc="
+    }
+  },
+  "JS Armored Circlets SE - No NPC Patch ESL": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1",
+      "file_id": 352182,
+      "file_name": "JS Armored Circlets SE - No NPC Patch ESL-2140-1-1-1674442929.rar",
+      "mod_id": 2140,
+      "hash": "sha256-TG39m1RFoVII/2cpN4K/lZwVEA12bE8bCCMT7XDZLJY="
+    }
+  },
+  "JS Armored Circlets SE - 1k": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1",
+      "file_id": 352183,
+      "file_name": "JS Armored Circlets SE - 1k-2140-1-1-1674443271.rar",
+      "mod_id": 2140,
+      "hash": "sha256-OQBz51dM6iFM1peK+hMUOZMIfCVyr28jVgEiiu2gJYU="
+    },
+    "type": "primary"
+  },
+  "JS Armored Circlets SE - 2k": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1",
+      "file_id": 352184,
+      "file_name": "JS Armored Circlets SE - 2k-2140-1-1-1674443302.rar",
+      "mod_id": 2140,
+      "hash": "sha256-psOdLK3Jsc3QZMZPH0H4k7dLd8aMTe1BfJHqzxOwyLE="
+    },
+    "type": "primary"
+  },
+  "JS Armored Circlets SE - 4k": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1",
+      "file_id": 352185,
+      "file_name": "JS Armored Circlets SE - 4k-2140-1-1-1674443422.rar",
+      "mod_id": 2140,
+      "hash": "sha256-+Wz38LvFsSi5bQwgvOWYFhZAoJ+xIITbTp8CXb3zII4="
+    },
+    "type": "primary"
+  },
+  "JS Armored Circlets SE - ESL": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1",
+      "file_id": 352186,
+      "file_name": "JS Armored Circlets SE - ESL-2140-1-1-1674444196.rar",
+      "mod_id": 2140,
+      "hash": "sha256-NhgAc03SKp4z8bgx/fjc9yoOzdazaDQ40AfgxtCEwQ4="
+    }
+  },
+  "JS Armored Circlets SE - No Levelled Lists Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1",
+      "file_id": 352405,
+      "file_name": "JS Armored Circlets SE - No Levelled Lists Patch-2140-1-1-1674509589.rar",
+      "mod_id": 2140,
+      "hash": "sha256-ZEKmiR9dOij51zioGRvUP/vyLf8Wps3XEy4loUb3ALw="
+    }
+  },
+  "JS Armored Circlets SE - No Levelled Lists Patch ESL": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1",
+      "file_id": 352407,
+      "file_name": "JS Armored Circlets SE - No Levelled Lists Patch ESL-2140-1-1-1674509634.rar",
+      "mod_id": 2140,
+      "hash": "sha256-DB1AJ8hC+gk2WA+RQu77Jbs9koslIGCBwgbREyw1TP0="
+    }
+  }
+}

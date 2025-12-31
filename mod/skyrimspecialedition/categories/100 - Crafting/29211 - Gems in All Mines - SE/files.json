@@ -1,0 +1,23 @@
+{
+  "Gems In Skyrim - SE": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 107992,
+      "file_name": "Gems In Skyrim - SE-29211-1-0-1569276557.7z",
+      "mod_id": 29211,
+      "hash": "sha256-ZD0zy4BaYD3ZLmP1zgP4S8NmQR9wyjM3vbfPWPc0q8A="
+    }
+  },
+  "Gems In Skyrim - SE - ESL": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 108045,
+      "file_name": "Gems In Skyrim - SE - ESL-29211-1-0-1569325215.7z",
+      "mod_id": 29211,
+      "hash": "sha256-/duOpwOG5b0iiaED7PB7q83Vvp1hJrTb4i+AVia37uA="
+    },
+    "type": "primary"
+  }
+}

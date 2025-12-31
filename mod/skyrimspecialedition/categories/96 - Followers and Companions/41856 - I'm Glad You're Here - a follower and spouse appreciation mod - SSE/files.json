@@ -1,0 +1,43 @@
+{
+  "Patch for JaySerpa's Pet the Dog animations": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "PetTheDogPatch2.0",
+      "file_id": 202464,
+      "file_name": "Patch for JaySerpa's Pet the Dog animations-41856-PetTheDogPatch2-0-1620543456.zip",
+      "mod_id": 41856,
+      "hash": "sha256-TRqB6MvpS9tPPrwPCuOVXH2RLLnHf1aqyVG7HEJZW2w="
+    }
+  },
+  "Patch for Miraak - Dragonborn Follower SE": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "MiraakPatch2.0.1",
+      "file_id": 237130,
+      "file_name": "Patch for Miraak - Dragonborn Follower SE-41856-MiraakPatch2-0-1-1635238193.zip",
+      "mod_id": 41856,
+      "hash": "sha256-v2fYp85as9bBG5ARBsaJvk+z5aw0PmGthV0mHZKJwxA="
+    }
+  },
+  "Alternate Mrissi voices by Adlora": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "MrissiAlternateVoice1.0",
+      "file_id": 241962,
+      "file_name": "Alternate Mrissi voices by Adlora-41856-MrissiAlternateVoice1-0-1637079155.zip",
+      "mod_id": 41856,
+      "hash": "sha256-ZphI7jzzkNLHiRMjKlTIn1NCqPJM89smOnAJAtoJb2s="
+    }
+  },
+  "Glad You're Here - Main File": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "3.4.0",
+      "file_id": 635533,
+      "file_name": "Glad You're Here - Main File-41856-3-4-0-1749291952.zip",
+      "mod_id": 41856,
+      "hash": "sha256-dfAVMfFz56gc7Tk/t27ZnI9n9/Vzy/t95FDTUw2/rgc="
+    },
+    "type": "primary"
+  }
+}

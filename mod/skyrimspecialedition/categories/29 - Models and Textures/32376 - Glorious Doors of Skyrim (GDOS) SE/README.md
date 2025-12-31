@@ -2,6 +2,8 @@
 - Author: hype1
 - Game: skyrimspecialedition
 - Mod Page: https://www.nexusmods.com/skyrimspecialedition/mods/32376
+
+
 **[font=Tahoma]
 
 Glorious Doors of Skyrim (GDOS)

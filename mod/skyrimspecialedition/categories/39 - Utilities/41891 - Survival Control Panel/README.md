@@ -2,6 +2,8 @@
 - Author: Parapets and colinswrath
 - Game: skyrimspecialedition
 - Mod Page: https://www.nexusmods.com/skyrimspecialedition/mods/41891
+
+
 What is this?
   
 Survival Control Panel allows you to customize engine-level features that were added to the game for the Survival Mode update. These features are used by the official Survival Mode add-on, as well as mods like [The Frozen North](https://www.nexusmods.com/skyrimspecialedition/mods/33068) and [SunHelm](https://www.nexusmods.com/skyrimspecialedition/mods/39414). You can enable or disable features such as Sleep to Level Up, Arrow Weight, or Lockpick Weight, regardless of whether you use a survival mod. It can also be used to assign Warmth values to your armors and cloaks for Survival Mode or mods that use the Warmth system, making it an excellent companion for them.

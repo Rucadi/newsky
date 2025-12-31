@@ -1,0 +1,23 @@
+{
+  "Character Suggestor Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 694033,
+      "file_name": "Character Suggestor Patch-166101-1-0-1764770542.zip",
+      "mod_id": 166101,
+      "hash": "sha256-t7+oMiEWy2wBxkxIoODYGpx1b+6rsdkLmYvQ/reVmkI="
+    }
+  },
+  "Dragonborn Reskin - Racemenu DIP Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.01",
+      "file_id": 694826,
+      "file_name": "Dragonborn Reskin - Racemenu DIP Patch-166101-1-01-1764983605.zip",
+      "mod_id": 166101,
+      "hash": "sha256-3+OLP0zH/FisA8G5wEj0MBjRg7uxzNkUUyhZ1RY3NR8="
+    },
+    "type": "primary"
+  }
+}

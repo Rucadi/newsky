@@ -1,0 +1,23 @@
+{
+  "MW Jenassa - High Poly Racemenu Preset": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 689155,
+      "file_name": "MW Jenassa - High Poly Racemenu Preset-164819-1-0-1763579561.zip",
+      "mod_id": 164819,
+      "hash": "sha256-egAMeMEeB+JuWBoYk5cpVmV4mW0y/IkYfAOeUfzyAro="
+    }
+  },
+  "MW Jenassa Replacer FOMOD - ESL": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1",
+      "file_id": 690127,
+      "file_name": "MW Jenassa Replacer FOMOD - ESL-164819-1-1-1763845381.zip",
+      "mod_id": 164819,
+      "hash": "sha256-JeXeG/hCVY+EYhNj2dGxc4AxKGt6LeuJq44OwkJyY6I="
+    },
+    "type": "primary"
+  }
+}

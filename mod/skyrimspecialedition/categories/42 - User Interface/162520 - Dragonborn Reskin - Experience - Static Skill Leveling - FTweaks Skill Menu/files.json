@@ -1,0 +1,57 @@
+{
+  "Dragonborn Reskin - FTweaks Skill Increase Menu": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 680076,
+      "file_name": "Dragonborn Reskin - FTweaks Skill Increase Menu-162520-1-0-1761352984.zip",
+      "mod_id": 162520,
+      "hash": "sha256-tdX8pu+opt+tWyBJKxKIbTR1xLw+W6Dsd6O8VE0MCm4="
+    },
+    "type": "primary"
+  },
+  "Dragonborn Reskin - Static Skill Leveling Re.": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 690351,
+      "file_name": "Dragonborn Reskin - Static Skill Leveling Re.-162520-1-0-1763902579.zip",
+      "mod_id": 162520,
+      "hash": "sha256-M2LPZxkadA2infIoHpWtA/VeakG0pYFbEnLm10E/9HE="
+    },
+    "type": "primary"
+  },
+  "Dragonborn Reskin - Experience (16x9)": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 690356,
+      "file_name": "Dragonborn Reskin - Experience (16x9)-162520-1-0-1763903686.zip",
+      "mod_id": 162520,
+      "hash": "sha256-NqCEubdoodYyBDsxVclHayXICulANqAKiDvNA36XvVM="
+    },
+    "type": "primary"
+  },
+  "Dragonborn Reskin - Experience (21x9)": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.01",
+      "file_id": 692131,
+      "file_name": "Dragonborn Reskin - Experience (21x9)-162520-1-01-1764331490.zip",
+      "mod_id": 162520,
+      "hash": "sha256-27h94R2RhOJ9Lb3G+ckXj5jpUD9dnADxga3ElgImVNg="
+    },
+    "type": "primary"
+  },
+  "Dragonborn Reskin - Experience (32x9)": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.01",
+      "file_id": 692134,
+      "file_name": "Dragonborn Reskin - Experience (32x9)-162520-1-01-1764331993.zip",
+      "mod_id": 162520,
+      "hash": "sha256-E7E7N2JCwvkSq2EfBU2nXFvWgzZRwv8oKMLNiBplAVY="
+    },
+    "type": "primary"
+  }
+}

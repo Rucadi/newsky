@@ -1,0 +1,90 @@
+{
+  "WoD - COTN Dawnstar patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 686801,
+      "file_name": "WoD - COTN Dawnstar patch-164320-1-0-1762975535.7z",
+      "mod_id": 164320,
+      "hash": "sha256-UIaWudvfQoxRfMd7xEwmInPaF0kXT3Ow/kHusO33lmY="
+    },
+    "type": "primary"
+  },
+  "WoD - JK's Blue Palace patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 686802,
+      "file_name": "WoD - JK's Blue Palace patch-164320-1-0-1762975559.7z",
+      "mod_id": 164320,
+      "hash": "sha256-s1Khb43WHRdjGiLO8wtW31xb1rW8/v4BBzvUNY0o3Kc="
+    },
+    "type": "primary"
+  },
+  "WoD - JK's Jorrvaskr patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 686803,
+      "file_name": "WoD - JK's Jorrvaskr patch-164320-1-0-1762975581.7z",
+      "mod_id": 164320,
+      "hash": "sha256-2LtAHpn4Yyswig6XwKYy5ZPfSOk1IoWAuj5U8Jpa3rs="
+    },
+    "type": "primary"
+  },
+  "WoD - JK's Windhelm Outskirts patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 686804,
+      "file_name": "WoD - JK's Windhelm Outskirts patch-164320-1-0-1762975604.7z",
+      "mod_id": 164320,
+      "hash": "sha256-B0diTFPVNjCuivySJ0l3mCoTUCacxjGnPSI3QLLCuP8="
+    },
+    "type": "primary"
+  },
+  "WoD - Snazzy Interiors House Battle-Born patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 686805,
+      "file_name": "WoD - Snazzy Interiors House Battle-Born patch-164320-1-0-1762975628.7z",
+      "mod_id": 164320,
+      "hash": "sha256-jGRPLzmEBoXYquZe2B82PdFUd3IQFDcWs9f5tYxJHcs="
+    },
+    "type": "primary"
+  },
+  "WoD - Snazzy Interiors House Gray-Mane patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 686806,
+      "file_name": "WoD - Snazzy Interiors House Gray-Mane patch-164320-1-0-1762975657.7z",
+      "mod_id": 164320,
+      "hash": "sha256-jszgQ+5Y2ZClbTHDfw31IaXiC5O6J0lbQReddAzYYkc="
+    },
+    "type": "primary"
+  },
+  "WoD - TGC Winterhold v4 patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 686807,
+      "file_name": "WoD - TGC Winterhold v4 patch-164320-1-0-1762975676.7z",
+      "mod_id": 164320,
+      "hash": "sha256-QZR9cb7O8hbkSO8AlIedYduaM3WYXAOmSzXAgPKCbo0="
+    },
+    "type": "primary"
+  },
+  "WoD - Thuldor's Ivarstead patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 686808,
+      "file_name": "WoD - Thuldor's Ivarstead patch-164320-1-0-1762975695.7z",
+      "mod_id": 164320,
+      "hash": "sha256-nbDi38XATZa2Osut6RM7EQocu67nw5fg7lcw5oXqIhU="
+    },
+    "type": "primary"
+  }
+}

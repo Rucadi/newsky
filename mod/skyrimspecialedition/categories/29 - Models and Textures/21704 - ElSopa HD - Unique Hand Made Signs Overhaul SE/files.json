@@ -1,0 +1,34 @@
+{
+  "HD Hand Made Signs Project Overhaul 2K": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 74447,
+      "file_name": "HD Hand Made Signs Project Overhaul 2K-21704-1-0-1544251686.7z",
+      "mod_id": 21704,
+      "hash": "sha256-JQJxNqAeZzyeI7+zYS7F7Ysazl5sbVASYEg+SROFrcc="
+    },
+    "type": "primary"
+  },
+  "HD Hand Made Signs Project Overhaul 1K": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 74448,
+      "file_name": "HD Hand Made Signs Project Overhaul 1K-21704-1-0-1544251842.7z",
+      "mod_id": 21704,
+      "hash": "sha256-ApTKLXBvDueTzs7pcyKz3hkUn1chbxJcqcG/TimGcKE="
+    },
+    "type": "primary"
+  },
+  "Desaturated HD Unique Hand Made Signs Overhaul By ShibePatrol": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 75395,
+      "file_name": "Desaturated HD Unique Hand Made Signs Overhaul By ShibePatrol-21704-1-0-1545001473.7z",
+      "mod_id": 21704,
+      "hash": "sha256-4TvAMOkB/iioiVQHlbbZQUREwMOvGUu2LLfG20GDe3o="
+    }
+  }
+}

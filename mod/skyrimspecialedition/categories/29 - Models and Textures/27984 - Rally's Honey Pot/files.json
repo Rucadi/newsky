@@ -1,0 +1,34 @@
+{
+  "Rallys Honey Pot HQ": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 101796,
+      "file_name": "Rallys Honey Pot HQ-27984-1-0-1564900524.7z",
+      "mod_id": 27984,
+      "hash": "sha256-sfFA1dzHBIsG1CU4kgME1PuSElh5XKHuXTh/Ia0fXrk="
+    },
+    "type": "primary"
+  },
+  "Rallys Honey Pot HQ - Vanilla Colors": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 101820,
+      "file_name": "Rallys Honey Pot HQ - Vanilla Colors-27984-1-0-1564912162.7z",
+      "mod_id": 27984,
+      "hash": "sha256-8v6SMMOb8N1wUP1QUFHnFAgj4sXWN+9Ta3ly/2t05Lo="
+    },
+    "type": "primary"
+  },
+  "Rallys 2K Replacer for HPSE - Vanilla Colors": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 101905,
+      "file_name": "Rallys 2K Replacer for the mod  Honey Pot Special Edition-27984-1-0-1564954400.7z",
+      "mod_id": 27984,
+      "hash": "sha256-sk/99H+2sVmNxOn4LtKYJ092FociqZuKhPA2PSWewq8="
+    }
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "Falmer Hut 4K Red Cloth": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 63567,
+      "file_name": "Falmer Hut 4K Red Cloth-19290-1-0.7z",
+      "mod_id": 19290,
+      "hash": "sha256-X5FbYKHQF6zvD1N5XuTjk3R30c/WDAlHW4XTM+TtLiI="
+    }
+  },
+  "Falmer Hut 2K Red Cloth": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 63569,
+      "file_name": "Falmer Hut 2K Red Cloth-19290-1-0.7z",
+      "mod_id": 19290,
+      "hash": "sha256-BHhP3E6fyhx+chlFzfAsFv7M5TpK90n7g4ghct/9tUs="
+    }
+  },
+  "4K Falmer Overhaul": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.2",
+      "file_id": 65992,
+      "file_name": "4K Falmer Overhaul-19290-1-2.7z",
+      "mod_id": 19290,
+      "hash": "sha256-t9D2LjVhyBrmH5cJBRjHvs3OQ/YZITFhH4+lIZaWMA4="
+    },
+    "type": "primary"
+  },
+  "2K Falmer Overhaul": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.2",
+      "file_id": 65994,
+      "file_name": "2K Falmer Overhaul-19290-1-2.7z",
+      "mod_id": 19290,
+      "hash": "sha256-roCNE9IDdxODzEGC+VAO1b5Y3oV5CkowAGQO9dzHr8E="
+    },
+    "type": "primary"
+  }
+}

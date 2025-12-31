@@ -1,35 +1,35 @@
 {
-    "Bug Fixes SSE - Special Edition (1.5.97.0 and earlier)": {
-        "nexusmods": {
-            "game_name": "skyrimspecialedition",
-            "version": "6",
-            "file_id": 269168,
-            "file_name": "Bug Fixes SSE (Special Edition)-33261-6-1646905367.7z",
-            "mod_id": 33261,
-            "hash": "sha256-HJCJW2f9ia48zL3eBv1xtVn5Nq3PpFjWoSLYKvwXvEk="
-        },
-        "type": "primary"
+  "Bug Fixes SSE - Special Edition (1.5.97.0 and earlier)": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "6",
+      "file_id": 269168,
+      "file_name": "Bug Fixes SSE (Special Edition)-33261-6-1646905367.7z",
+      "mod_id": 33261,
+      "hash": "sha256-HJCJW2f9ia48zL3eBv1xtVn5Nq3PpFjWoSLYKvwXvEk="
     },
-    "Bug Fixes SSE - Anniversary Edition (1.6.318.0 to 1.6.353.0)": {
-        "nexusmods": {
-            "game_name": "skyrimspecialedition",
-            "version": "7",
-            "file_id": 273044,
-            "file_name": "Bug Fixes SSE (Anniversary Edition)-33261-7-1648396889.7z",
-            "mod_id": 33261,
-            "hash": "sha256-KTzvK2VthsJpK9yJrq9FzIldFkJq2cqNxsJl2FrIwmc="
-        },
-        "type": "primary"
+    "type": "primary"
+  },
+  "Bug Fixes SSE - Anniversary Edition (1.6.318.0 to 1.6.353.0)": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "7",
+      "file_id": 273044,
+      "file_name": "Bug Fixes SSE (Anniversary Edition)-33261-7-1648396889.7z",
+      "mod_id": 33261,
+      "hash": "sha256-KTzvK2VthsJpK9yJrq9FzIldFkJq2cqNxsJl2FrIwmc="
     },
-    "Bug Fixes SSE - Anniversary Edition (1.6.629.0 and later)": {
-        "nexusmods": {
-            "game_name": "skyrimspecialedition",
-            "version": "10",
-            "file_id": 368384,
-            "file_name": "Bug Fixes SSE - Anniversary Edition (1.6.629.0 and later)-33261-10-1678780224.7z",
-            "mod_id": 33261,
-            "hash": "sha256-1dz+w9ExiyWOHA6mrbR7XcdGzqmLnaTkThxJ3W0LLow="
-        },
-        "type": "primary"
-    }
+    "type": "primary"
+  },
+  "Bug Fixes SSE - Anniversary Edition (1.6.629.0 and later)": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "10",
+      "file_id": 368384,
+      "file_name": "Bug Fixes SSE - Anniversary Edition (1.6.629.0 and later)-33261-10-1678780224.7z",
+      "mod_id": 33261,
+      "hash": "sha256-1dz+w9ExiyWOHA6mrbR7XcdGzqmLnaTkThxJ3W0LLow="
+    },
+    "type": "primary"
+  }
 }

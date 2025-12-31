@@ -1,0 +1,24 @@
+{
+  "mgbeach's Green Screen Chroma Key Room esp": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 72462,
+      "file_name": "mgbeach's Green Screen Chroma Key Room-21262-1-0-1542310564.rar",
+      "mod_id": 21262,
+      "hash": "sha256-eW/ubEanTCndnq1j7rPBAqWJTLn4iP2wOms2Atfjvj8="
+    },
+    "type": "primary"
+  },
+  "mgbeach's Green Screen Room Special Edition esl": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 72568,
+      "file_name": "mgbeach's Green Screen Room Special Edition esl-21262-1-0-1542408566.rar",
+      "mod_id": 21262,
+      "hash": "sha256-zn1q3gB2wzJ7NYgLEPXwS9aSz1qVtWmz7rDNA+9OJKg="
+    },
+    "type": "primary"
+  }
+}

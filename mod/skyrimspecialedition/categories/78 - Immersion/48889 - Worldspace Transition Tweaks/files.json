@@ -1,0 +1,30 @@
+{
+  "WTT - No Plume": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "0.2c",
+      "file_id": 344940,
+      "file_name": "WTT - No Plume-48889-0-2c-1672416348.7z",
+      "mod_id": 48889
+    }
+  },
+  "WTT - Skyrim To Solstheim": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "0.2.4",
+      "file_id": 627779,
+      "file_name": "WTT - Skyrim To Solstheim-48889-0-2-4-1747427608.7z",
+      "mod_id": 48889
+    },
+    "type": "primary"
+  },
+  "WTT - SSELodgen Output For Empty Load Order": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "0.2.5",
+      "file_id": 700518,
+      "file_name": "WTT - SSELodgen Output For Empty Load Order-48889-0-2-5-1766339404.7z",
+      "mod_id": 48889
+    }
+  }
+}

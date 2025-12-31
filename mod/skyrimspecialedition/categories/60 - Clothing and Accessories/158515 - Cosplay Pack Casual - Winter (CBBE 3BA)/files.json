@@ -1,12 +1,13 @@
 {
-    "Cosplay Pack Casual - Winter (CBBE 3BA)": {
-        "nexusmods": {
-            "game_name": "skyrimspecialedition",
-            "version": "1.0",
-            "file_id": 662782,
-            "file_name": "Cosplay Pack Casual - Winter (CBBE 3BA)-158515-1-0-1757139375.zip",
-            "mod_id": 158515
-        },
-        "type": "primary"
-    }
+  "Cosplay Pack Casual - Winter (CBBE 3BA)": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 662782,
+      "file_name": "Cosplay Pack Casual - Winter (CBBE 3BA)-158515-1-0-1757139375.zip",
+      "mod_id": 158515,
+      "hash": "sha256-6DcDAHH4Jaq3D0G4nXPFbZLrSZYN7Z3sF5qQezn5YAs="
+    },
+    "type": "primary"
+  }
 }

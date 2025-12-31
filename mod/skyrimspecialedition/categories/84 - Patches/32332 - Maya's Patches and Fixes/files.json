@@ -1,0 +1,343 @@
+{
+  "LRS Hunter Extension for Alternate Start - Live Another Life -FIXED-": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "0.1",
+      "file_id": 133818,
+      "file_name": "LRS Hunter Extension for Alternate Start - Live Another Life Fixes-32332-0-1-1586702360.7z",
+      "mod_id": 32332,
+      "hash": "sha256-QiX6QAkOoHSiw0t0jN+VhCX6iy3B6y9hNPTdrTFR+6s="
+    },
+    "type": "primary"
+  },
+  "LRS Hunter Extension for Alternate Start - Live Another Life - Unofficial Skyrim Special Edition Patch -PATCH-": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "0.1",
+      "file_id": 133819,
+      "file_name": "PATCH LRS Hunter Extension for Alternate Start - Live Another Life and For Unofficial Skyrim Special Edition Patch-32332-0-1-1586702663.7z",
+      "mod_id": 32332,
+      "hash": "sha256-9WGufydzCMozP0yryyzpC9h1cgKksaNgy8nl1kVF8ZQ="
+    },
+    "type": "primary"
+  },
+  "Alternate Start Position Tweak -ESL-": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "0.1",
+      "file_id": 133883,
+      "file_name": "ESL Alternate Start Position Tweak-32332-0-1-1586724127.7z",
+      "mod_id": 32332,
+      "hash": "sha256-/+1UJnB1WHPAe4t01vt+Rfm3KM/0nW0oVI5xGz2ZSjw="
+    },
+    "type": "primary"
+  },
+  "Dawnguard Vampire Attacks Fix -ESL-": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "0.1",
+      "file_id": 134022,
+      "file_name": "ESL Dawnguard Vampire Attacks Fix-32332-0-1-1586789360.7z",
+      "mod_id": 32332,
+      "hash": "sha256-OgDe9ts++UFPYu8/QZDefxgsYOzdpI0i3a3o9LGj4vw="
+    },
+    "type": "primary"
+  },
+  "MEZF - Missing Encounter Zones FIXED - Unofficial Skyrim Special Edition Patch -PATCH-": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "0.1",
+      "file_id": 134032,
+      "file_name": "PATCH MEZF - Missing Encounter Zones Fixed - Unofficial Skyrim Special Edition Patch-32332-0-1-1586790809.7z",
+      "mod_id": 32332,
+      "hash": "sha256-Y81gyFXS1XsYRztEZshhJMagytftPV2tpVPpx0hsXcg="
+    },
+    "type": "primary"
+  },
+  "Rude Imperial Soldiers Escort Prisoner fix -FORM44-ESL-": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "0.1",
+      "file_id": 134099,
+      "file_name": "FORM44 ESL Rude Imperial Soldiers Escort Prisoner fix-32332-0-1-1586807084.7z",
+      "mod_id": 32332,
+      "hash": "sha256-IMDBbI/T302ZSKKCSUdntfnKQdLTdh5f1oaHQRgmrdk="
+    },
+    "type": "primary"
+  },
+  "Skyrim Particle Patch for ENB SSE - Improved Redbelly Mine Mist Fix -PATCH-": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "0.1",
+      "file_id": 134294,
+      "file_name": "PATCH Skyrim Particle Patch for ENB SSE - Improved Redbelly Mine Mist Fix-32332-0-1-1586882565.7z",
+      "mod_id": 32332,
+      "hash": "sha256-AH2dTy6uZHHvJxAI9ujWSo3GuFfDmAVR+t+U3obz5Oo="
+    },
+    "type": "primary"
+  },
+  "The Real Shady -COMPACTED-": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "0.2",
+      "file_id": 137806,
+      "file_name": "COMPACTED The Real Shady-32332-0-2-1588520252.7z",
+      "mod_id": 32332,
+      "hash": "sha256-qJhNAAr+EysYbjqCBGtgRTqUrGTpWgDrrlMUNstwbdc="
+    },
+    "type": "primary"
+  },
+  "Aequinoctium Add-on Patch for Obsidian Weathers -COMPACTED-": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "0.1",
+      "file_id": 138273,
+      "file_name": "COMPACTED Aequinoctium Add-on Patch for Obsidian Weathers-32332-0-1-1588703483.7z",
+      "mod_id": 32332,
+      "hash": "sha256-ZMEc3gZslkyPxAuHjF9mD/WVSY30eJyRgv6qFhNWG7c="
+    },
+    "type": "primary"
+  },
+  "Just 3D Clouds -CLEANED-": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "0.1",
+      "file_id": 138476,
+      "file_name": "Just 3D Clouds -CLEANED--32332-0-1-1588799367.7z",
+      "mod_id": 32332,
+      "hash": "sha256-BExj+IDtEVHpNDxYqrIy3X8D6IJwqoHHXEsIiXSFQus="
+    },
+    "type": "primary"
+  },
+  "MEZF - Missing Encounter Zones FIXED - Cresty's Distant Mists -PATCH-": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "0.2",
+      "file_id": 138624,
+      "file_name": "MEZF - Missing Encounter Zones FIXED - Cresty's Distant Mists -PATCH--32332-0-2-1588886117.7z",
+      "mod_id": 32332,
+      "hash": "sha256-Fp8dH+gmwX+gj5FQffGBTPVGDhqn9VKnQ/5q3RV0eUk="
+    },
+    "type": "primary"
+  },
+  "Draco's Beautiful Auroras - Cresty's Distant Mists - Obsidian Weathers and Seasons -PATCH-": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "0.1",
+      "file_id": 139024,
+      "file_name": "Draco's Beautiful Auroras - Cresty's Distant Mists - Obsidian Weathers and Seasons -PATCH--32332-0-1-1589061954.7z",
+      "mod_id": 32332,
+      "hash": "sha256-KYpqxv5avez4zr8M9WA6DAfhM/14XaWNHc/2FkN9Rr8="
+    },
+    "type": "primary"
+  },
+  "Draco's Beautiful Auroras - Cresty's Distant Mists COMPACTED - Obsidian Weathers and Seasons -PATCH-": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "0.2",
+      "file_id": 139028,
+      "file_name": "Draco's Beautiful Auroras - Cresty's Distant Mists COMPACTED - Obsidian Weathers and Seasons -PATCH--32332-0-2-1589062322.7z",
+      "mod_id": 32332,
+      "hash": "sha256-gVGy2XL4r+BHZ3k2PlOliihFZ5l2Zw+fL2Cs05iLO8s="
+    },
+    "type": "primary"
+  },
+  "Obsidian Mountain Fogs -COMPACTED-": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "0.1",
+      "file_id": 139029,
+      "file_name": "Obsidian Mountain Fogs -COMPACTED--32332-0-1-1589062919.7z",
+      "mod_id": 32332,
+      "hash": "sha256-1xie2Ma3d2InZ8yUj0sRwjSsJ9k5ZFPAOay5LvfWkcI="
+    },
+    "type": "primary"
+  },
+  "Akaviri Ruins of Savirien-Chorak -FIXES-": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "0.1",
+      "file_id": 141083,
+      "file_name": "Akaviri Ruins of Savirien-Chorak -FIXES--32332-0-1-1590003011.7z",
+      "mod_id": 32332,
+      "hash": "sha256-EqYtIXVv6b7mT3P4xReJARvWRT9LvQ+4JWSb3pPjA/Q="
+    },
+    "type": "primary"
+  },
+  "Inigo - Unofficial Skyrim Special Edition Patch -PATCH-": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "0.1",
+      "file_id": 141297,
+      "file_name": "Inigo - Unofficial Skyrim Special Edition Patch -PATCH--32332-0-1-1590097289.7z",
+      "mod_id": 32332,
+      "hash": "sha256-V5cUkRLppYGohYeqf/XSPthqg6IK4+NjcRoaiXu4PtQ="
+    },
+    "type": "primary"
+  },
+  "Beginner's Shack in Riverwood -CLEANED-": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "0.1",
+      "file_id": 141485,
+      "file_name": "Beginner's Shack in Riverwood -CLEANED--32332-0-1-1590190092.7z",
+      "mod_id": 32332,
+      "hash": "sha256-ccgYmHiE3jFpgw+ZD/21eTtYGSZe4O8juKbeDxZbV6E="
+    },
+    "type": "primary"
+  },
+  "Inigo -CLEANED-": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "0.1",
+      "file_id": 141537,
+      "file_name": "Inigo -CLEANED--32332-0-1-1590199996.7z",
+      "mod_id": 32332,
+      "hash": "sha256-nKFqAKVrFibSy+MiL65gpE8BX7775WDr+5H7IuNdw3c="
+    },
+    "type": "primary"
+  },
+  "Master The Summit -CLEANED-FIXED-": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "0.1",
+      "file_id": 141545,
+      "file_name": "Master The Summit -CLEANED-FIXED--32332-0-1-1590203346.7z",
+      "mod_id": 32332,
+      "hash": "sha256-+kLdlxLvo6VcedzMxprx1jS68PXv5U6AY4G+dlM4f18="
+    },
+    "type": "primary"
+  },
+  "Master The Summit Navmesh Fix -CLEANED-FIXED-": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "0.1",
+      "file_id": 141546,
+      "file_name": "Master The Summit Navmesh Fix -CLEANED-FIXED--32332-0-1-1590203658.7z",
+      "mod_id": 32332,
+      "hash": "sha256-DM3id8Fc67vDkSsMdiu9MIT8woeVt43Wi598i1usWPY="
+    },
+    "type": "primary"
+  },
+  "Blackthorn - A Buildable Town in The Rift - Unofficial Skyrim Special Edition Patch -PATCH-": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "0.2",
+      "file_id": 141614,
+      "file_name": "Blackthorn - A Buildable Town in The Rift - Unofficial Skyrim Special Edition Patch -PATCH--32332-0-2-1590248222.7z",
+      "mod_id": 32332,
+      "hash": "sha256-mnPDqeFlssVP8+iim6dlDFvPnyW0cn/a2E8T1BJHjl0="
+    },
+    "type": "primary"
+  },
+  "Veydosebrom - Grass and Groundcover -COMPACTED-": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "0.1",
+      "file_id": 141918,
+      "file_name": "Veydosebrom - Grass and Groundcover -COMPACTED--32332-0-1-1590376181.7z",
+      "mod_id": 32332,
+      "hash": "sha256-6rymQf4xMKn9CSMCTFLM9RTYZZ3ehwEmXOsGVrk1Lzk="
+    },
+    "type": "primary"
+  },
+  "Poisonblooms - Beware of the Swamp - Obsidian Weathers and Seasons -PATCH-": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "0.1",
+      "file_id": 142087,
+      "file_name": "Poisonblooms - Beware of the Swamp - Obsidian Weathers and Seasons -PATCH--32332-0-1-1590451240.7z",
+      "mod_id": 32332,
+      "hash": "sha256-3BnnSzFQHWCttcyaUqwHXItUUnivx1r6H1zVC+G995M="
+    },
+    "type": "primary"
+  },
+  "Waterplants Full Version -COMPACTED-": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "0.1",
+      "file_id": 142193,
+      "file_name": "Waterplants Full Version -COMPACTED--32332-0-1-1590525369.7z",
+      "mod_id": 32332,
+      "hash": "sha256-sByZqjADOyTWi6mAWMjQMrM+LfiIzh9hEkkDN0gCZuM="
+    },
+    "type": "primary"
+  },
+  "Waterplants Compatibility Version -COMPACTED-": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "0.1",
+      "file_id": 142194,
+      "file_name": "Waterplants Compatibility Version -COMPACTED--32332-0-1-1590525435.7z",
+      "mod_id": 32332,
+      "hash": "sha256-gOBbHrxDXR0kwC9l/8eM6rQkogXmYMr/3F/o/N9SBHU="
+    },
+    "type": "primary"
+  },
+  "Waterplants - Northern Grass Patch -ESL-": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "0.1",
+      "file_id": 142195,
+      "file_name": "Waterplants - Northern Grass Patch -ESL--32332-0-1-1590525495.7z",
+      "mod_id": 32332,
+      "hash": "sha256-9pJpph6E1po2idyVTi/9RG1Pl8Gj28St08P0EFhmxfQ="
+    },
+    "type": "primary"
+  },
+  "Waterplants - Verdant Patch -ESL-": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "0.1",
+      "file_id": 142196,
+      "file_name": "Waterplants - Verdant Patch -ESL--32332-0-1-1590525542.7z",
+      "mod_id": 32332,
+      "hash": "sha256-5n81j5o61TqeZwTrjigL8N8tTy9DNUTRFKMA6vmqrmE="
+    },
+    "type": "primary"
+  },
+  "Waterplants - Veydosebrom Patch -ESL-": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "0.1",
+      "file_id": 142197,
+      "file_name": "Waterplants - Veydosebrom Patch -ESL--32332-0-1-1590525584.7z",
+      "mod_id": 32332,
+      "hash": "sha256-j2Y3eBGJ/yWey5+FsjuwBxpWbPeDU/lWlyEoO7EN/PU="
+    },
+    "type": "primary"
+  },
+  "Waterplants - Veydosebrom Patch -COMPACTED MASTER-ESL-": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "0.1",
+      "file_id": 142201,
+      "file_name": "Waterplants - Veydosebrom -COMPACTED-ESL--32332-0-1-1590527659.7z",
+      "mod_id": 32332,
+      "hash": "sha256-7FNzZqHjpnzTmzqXG7hE4G6imUsxsPfwlIFbBytfCHA="
+    },
+    "type": "primary"
+  },
+  "Waterplants - Skyrim 3D Landscapes Patch -COMPACTED MASTER-": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "0.1",
+      "file_id": 142220,
+      "file_name": "Waterplants - Skyrim 3D Landscapes -COMPACTED MASTER--32332-0-1-1590533182.7z",
+      "mod_id": 32332,
+      "hash": "sha256-NMAJ3Ce7jEjWpJ0sS1eYNaCJbLMokGVhXlF687oWPaI="
+    },
+    "type": "primary"
+  },
+  "Technicolor Alchemy Overhaul - Unofficial Skyrim Special Edition Patch -PATCH-": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "0.1",
+      "file_id": 142765,
+      "file_name": "Technicolor Alchemy Overhaul - Unofficial Skyrim Special Edition Patch -PATCH--32332-0-1-1590783734.7z",
+      "mod_id": 32332,
+      "hash": "sha256-qvLaMKt9nZM+1oj7XqEzEUMzz/loiGuv3M6pweAaCTk="
+    },
+    "type": "primary"
+  }
+}

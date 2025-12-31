@@ -2,6 +2,8 @@
 - Author: Shizof
 - Game: skyrimspecialedition
 - Mod Page: https://www.nexusmods.com/skyrimspecialedition/mods/21224
+
+
 **[b]CHOOSE YOUR CORRECT GAME AND GAME VERSION**
   
 IN THE FOMOD INSTALLER

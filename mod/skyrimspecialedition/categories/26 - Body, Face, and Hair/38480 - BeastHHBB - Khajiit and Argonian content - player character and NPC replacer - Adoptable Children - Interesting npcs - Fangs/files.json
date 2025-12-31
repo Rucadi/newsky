@@ -1,0 +1,96 @@
+{
+  "BeastHHBB": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "3.8",
+      "file_id": 467776,
+      "file_name": "BeastHHBB-38480-3-8-1707078488.zip",
+      "mod_id": 38480,
+      "hash": "sha256-DhQ6jsfa/iXxKKKK6nLvmgBojEh5JGHcCtQ6FCtZQkU="
+    },
+    "type": "primary"
+  },
+  "BeastHHBB - Patches and Addons": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "3.8",
+      "file_id": 467777,
+      "file_name": "BeastHHBB - Patches and Addons-38480-3-8-1707078644.zip",
+      "mod_id": 38480,
+      "hash": "sha256-LsMjo1ad62HySAuFfoz1XGxruqSomKWIiaQneChxaFU="
+    },
+    "type": "primary"
+  },
+  "BeastHHBB - Feminine Female Khajiits": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 467863,
+      "file_name": "BeastHHBB - Feminine Female Khajiit-38480-1-0-1707092386.zip",
+      "mod_id": 38480,
+      "hash": "sha256-T9PQELDqrRcRCoL6DkZmpH7CGRyoJbGlhfvTv39eSNI="
+    }
+  },
+  "iBeasts - Interesting Npcs replacer": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.2",
+      "file_id": 536994,
+      "file_name": "iBeasts - Interesting Npcs replacer-38480-1-2-1725064241.zip",
+      "mod_id": 38480,
+      "hash": "sha256-ZXdYKYGqs/7n3qAy38Vm9lbdOR0u+ZjPbaKDpNrM0Jc="
+    },
+    "type": "primary"
+  },
+  "iBeasts -  Player Character only": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.2",
+      "file_id": 536996,
+      "file_name": "IBeasts -  Player - standalone character options-38480-1-2-1725064621.zip",
+      "mod_id": 38480,
+      "hash": "sha256-r8tpPSLdW5KEnw5MlGOLGfhoLM43+F5BTtdVO2j+QnQ="
+    }
+  },
+  "Beast Vampire Fangs - Fixes and Adjustments": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "0.5",
+      "file_id": 537274,
+      "file_name": "Beast Vampire Fangs - Fixes and Adjustments-38480-0-5-1725127416.zip",
+      "mod_id": 38480,
+      "hash": "sha256-bddRQY4Q3DYzLf9n6S/BadYcvYM9mbb671AgaloA1CQ="
+    }
+  },
+  "_Adoptable Beast Children": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1",
+      "file_id": 537292,
+      "file_name": "Adoptable Beast Children-38480-1-1-1725131390.zip",
+      "mod_id": 38480,
+      "hash": "sha256-b+Zof0KcrDLt+Weyn4h/751fJry0IhgjPL+cvNTZrIo="
+    },
+    "type": "primary"
+  },
+  "BeastHHBB - Player Character only": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "3.8.1",
+      "file_id": 546514,
+      "file_name": "BeastHHBB - Player Character only-38480-3-8-1-1727385166.zip",
+      "mod_id": 38480,
+      "hash": "sha256-kUklbmY8PU7gD/ITWGmatxxjo6BA5hKb1Fkwp95jj9M="
+    }
+  },
+  "iBeasts - Feminine Female Khajiits": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1",
+      "file_id": 552949,
+      "file_name": "iBeasts - Feminine Female Khajiits-38480-1-1-1729167191.zip",
+      "mod_id": 38480,
+      "hash": "sha256-u5WqIAp19goMpBGL0YwnJNMYcW2ZcWPmH4lCVXLu1po="
+    }
+  }
+}

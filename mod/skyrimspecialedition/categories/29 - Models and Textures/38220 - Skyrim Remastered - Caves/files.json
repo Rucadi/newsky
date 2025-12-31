@@ -1,0 +1,78 @@
+{
+  "Skyrim Remastered - Caves 4K Parallax": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.00",
+      "file_id": 150062,
+      "file_name": "Skyrim Remastered - Caves 4K Parallax-38220-1-00-1594581521.7z",
+      "mod_id": 38220,
+      "hash": "sha256-YAvNkWjawq0+BgfK0sjoV89iLx24fkv+sCEXgiXLA7c="
+    },
+    "type": "primary"
+  },
+  "Skyrim Remastered - Caves 2K Parallax": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.00",
+      "file_id": 150064,
+      "file_name": "Skyrim Remastered - Caves 2K Parallax-38220-1-00-1594582244.7z",
+      "mod_id": 38220,
+      "hash": "sha256-ztiM8niot0O7h4Y1VyfSeIdwiRLPvSPMrFAewesa/mI="
+    },
+    "type": "primary"
+  },
+  "Skyrim Remastered - Caves 1K Parallax": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.00",
+      "file_id": 150065,
+      "file_name": "Skyrim Remastered - Caves 1K Parallax-38220-1-00-1594582356.7z",
+      "mod_id": 38220,
+      "hash": "sha256-DvM6wFznNdMa8Ovgzz7kySYZeXLxhIJ1MeXceKeMvoo="
+    },
+    "type": "primary"
+  },
+  "Skyrim Remastered - Caves 4K Non Parallax": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.00",
+      "file_id": 150067,
+      "file_name": "Skyrim Remastered - Caves 4K Non Parallax-38220-1-00-1594583422.7z",
+      "mod_id": 38220,
+      "hash": "sha256-EBfiH4vA+GELGOwNR1RXZBDB19SQ2oKAhonZoDpmjTM="
+    },
+    "type": "primary"
+  },
+  "Skyrim Remastered - Caves 2K Non Parallax": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.00",
+      "file_id": 150069,
+      "file_name": "Skyrim Remastered - Caves 2K Non Parallax-38220-1-00-1594583676.7z",
+      "mod_id": 38220,
+      "hash": "sha256-Fd3R6v9yALH7zh1Khs47q+A0O1OwvhueEeFP7ZpGnyE="
+    },
+    "type": "primary"
+  },
+  "Skyrim Remastered - Caves 1K Non Parallax": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.00",
+      "file_id": 150070,
+      "file_name": "Skyrim Remastered - Caves 1K Non Parallax-38220-1-00-1594583760.7z",
+      "mod_id": 38220,
+      "hash": "sha256-rGozsTPW6Gl8t1BUoKwmuj+767bFVoinZoaVYmwa05w="
+    },
+    "type": "primary"
+  },
+  "Skyrim Remastered - Caves ELFX Patch for Parallax": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.00",
+      "file_id": 150071,
+      "file_name": "Skyrim Remastered - Caves ELFX Patch for Parallax-38220-1-00-1594583948.7z",
+      "mod_id": 38220,
+      "hash": "sha256-b3KMxn5QBaR4wjh30dA0bQ7P/Q6qICDNg41pJWp2/vc="
+    }
+  }
+}

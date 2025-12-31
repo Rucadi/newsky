@@ -1,0 +1,23 @@
+{
+  "Demon Armor UNP": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 94775,
+      "file_name": "Demon Armor UNP-26269-1-0-1559664932.7z",
+      "mod_id": 26269,
+      "hash": "sha256-1UqJ/i79bd+4mNoXcJ94XZQdnYidMVGkZaCbvrpynKw="
+    },
+    "type": "primary"
+  },
+  "Demon Armor Dark Textures": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 94776,
+      "file_name": "Demon Armor Dark Textures-26269-1-0-1559665344.7z",
+      "mod_id": 26269,
+      "hash": "sha256-CwLRDNHeWdJLnvHn7UcW0X42yA9P1RIAwVD4L4tOElU="
+    }
+  }
+}

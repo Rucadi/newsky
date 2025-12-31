@@ -1,0 +1,56 @@
+{
+  "FELINE ANIMATIONS": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.4",
+      "file_id": 173007,
+      "file_name": "FELINE ANIMATIONS-43048-1-4-1607066624.rar",
+      "mod_id": 43048,
+      "hash": "sha256-Dzoe9vvlGN63Lg3NfRXEyqjqXZC7zSdAFluA3OAuW/s="
+    },
+    "type": "primary"
+  },
+  "FELINE ANIMATIONS KISS ANIMATION STYLE": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.4",
+      "file_id": 173009,
+      "file_name": "FELINE ANIMATIONS KISS ANIMATION STYLE-43048-1-4-1607066731.rar",
+      "mod_id": 43048,
+      "hash": "sha256-gop+SFPI7FAOHG226moknhr52FYZP0V/ETDJ+93qCLk="
+    },
+    "type": "primary"
+  },
+  "FELINE ANIMATIONS FOR WEREWOLF": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.5",
+      "file_id": 228392,
+      "file_name": "FELINE ANIMATIONS FOR WEREWOLF-43048-1-5-1631639634.rar",
+      "mod_id": 43048,
+      "hash": "sha256-4YT3SUUPh4J9Nc98OLYkKoMsmzx1PBT80Bd/MIlehG4="
+    },
+    "type": "primary"
+  },
+  "Dynamic Sprint PATCH": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 416916,
+      "file_name": "Dynamic Sprint PATCH-43048-1-0-1691987270.zip",
+      "mod_id": 43048,
+      "hash": "sha256-ry1en0VaSAuPic3J8y/SYgeVB1O48ACQlb42g1BaFkU="
+    }
+  },
+  "FMAK OAR Version. Created by BlessingS91": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.6",
+      "file_id": 585288,
+      "file_name": "Feline Movement Animations for Khajiits Only (FMAK-43048-1-6-1737325909.rar",
+      "mod_id": 43048,
+      "hash": "sha256-+igvo2/C8f2SJViWryWUHcJ7BO9q3Qyp7XQKf+sRt58="
+    },
+    "type": "primary"
+  }
+}

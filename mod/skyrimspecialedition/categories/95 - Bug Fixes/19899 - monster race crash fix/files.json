@@ -1,0 +1,24 @@
+{
+  "Monster race crash fix (1.5.X)": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.2",
+      "file_id": 128123,
+      "file_name": "monster race crash fix-19899-1-2-1583905408.zip",
+      "mod_id": 19899,
+      "hash": "sha256-zbHeTG/oaduRh7dAmsLLAYFGo/blc+EPWI4DNyGFWjM="
+    },
+    "type": "primary"
+  },
+  "Monster race crash fix (1.6.X)": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.3.4",
+      "file_id": 317378,
+      "file_name": "Monster race crash fix AE-19899-1-3-4-1663528382.zip",
+      "mod_id": 19899,
+      "hash": "sha256-fXjehdTOhoChcR4s6BB23VgIcJodWwISC3vdugzNvtE="
+    },
+    "type": "primary"
+  }
+}

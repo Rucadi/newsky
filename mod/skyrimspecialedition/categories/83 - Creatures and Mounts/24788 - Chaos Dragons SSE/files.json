@@ -1,0 +1,24 @@
+{
+  "Chaos Dragons SE": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.8",
+      "file_id": 87482,
+      "file_name": "Chaos Dragons SE-24788-1-8-1554498563.7z",
+      "mod_id": 24788,
+      "hash": "sha256-qrnIWn0JbguaNAcKGv1gOjmYqSoh4BG4ADcGFQxlMLc="
+    },
+    "type": "primary"
+  },
+  "Chaos Dragons SE (Form 43 Fix)": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 90719,
+      "file_name": "Chaos Dragons SE (Form 43 Fix)-24788-1-0-1556923207.zip",
+      "mod_id": 24788,
+      "hash": "sha256-PNu4Ns5v5/RqJTWmMM/0+VPRLaNpBcoeMFU98dDcoAc="
+    },
+    "type": "primary"
+  }
+}

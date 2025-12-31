@@ -1,0 +1,23 @@
+{
+  "Save the Icerunner": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1.2",
+      "file_id": 136157,
+      "file_name": "Save the Icerunner-34681-1-1-2-1587778158.zip",
+      "mod_id": 34681,
+      "hash": "sha256-IJO9o/v9tyXMiYx1FWjsSDvvmqE3DXTQJUSJ3vFHEFc="
+    },
+    "type": "primary"
+  },
+  "Save the Icerunner - How Hard Is This Persuasion Check": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1",
+      "file_id": 136158,
+      "file_name": "Save the Icerunner - How Hard Is This Persuasion Check-34681-1-1587778928.zip",
+      "mod_id": 34681,
+      "hash": "sha256-MyyCrhhFTrGjV4E6dnPbQxszniTJWd09WNFAX7VjfM0="
+    }
+  }
+}

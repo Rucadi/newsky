@@ -1,0 +1,33 @@
+{
+  "Thieves Guild Replacer addon": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 681073,
+      "file_name": "Thieves Guild Replacer addon-161963-1-0-1761590444.7z",
+      "mod_id": 161963,
+      "hash": "sha256-Zz0abSm5P6ZsXpb/VJMB/mkYQnuMQu0Za+Ui6CO7auU="
+    }
+  },
+  "4K Textures": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 681077,
+      "file_name": "4K Textures-161963-1-0-1761590710.7z",
+      "mod_id": 161963,
+      "hash": "sha256-Mv1d5H+w4FpYArYzEu9JPeEflbo4Y53qxk6Ui05GB2g="
+    }
+  },
+  "Main File": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1",
+      "file_id": 685981,
+      "file_name": "Main File-161963-1-1-1762754786.7z",
+      "mod_id": 161963,
+      "hash": "sha256-DhpfLPOyO6cFcLLCEY3E2WjRnvHaKz8Ee5HG1odBY7A="
+    },
+    "type": "primary"
+  }
+}

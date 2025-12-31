@@ -1,0 +1,23 @@
+{
+  "Deadly Shadows for JKs Skyrim - Dawn of Skyrim": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.6",
+      "file_id": 188273,
+      "file_name": "Deadly Shadows for JKs Skyrim - Dawn of Skyrim-16852-1-6-1614388264.7z",
+      "mod_id": 16852,
+      "hash": "sha256-aRqBdLUOgBzowJwqN5SdG1gu8CDMBXogV3KQHfKNEXI="
+    }
+  },
+  "JK's Skyrim - Dawn of Skyrim - Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.6",
+      "file_id": 188282,
+      "file_name": "JK's Skyrim - Dawn of Skyrim - Patch-16852-1-6-1614390157.7z",
+      "mod_id": 16852,
+      "hash": "sha256-wnzTDqhp9quIRIlITCZFMqO0aS9eJEuqk/YjPmhMyog="
+    },
+    "type": "primary"
+  }
+}

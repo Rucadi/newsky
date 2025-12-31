@@ -2,6 +2,8 @@
 - Author: meh321 and z65536
 - Game: skyrimspecialedition
 - Mod Page: https://www.nexusmods.com/skyrimspecialedition/mods/18967
+
+
 This is a port to SSE of the original Skyrim mod [Better Jumping](https://www.nexusmods.com/skyrim/mods/65044) by meh321 with permission from the original authors. 
   
   

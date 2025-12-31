@@ -1,0 +1,54 @@
+{
+  "Spellforge - Library - Cosmic Spells": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0CL",
+      "file_id": 194768,
+      "file_name": "Spellforge - Library - Cosmic Spells-46482-1-0CL-1617139877.7z",
+      "mod_id": 46482,
+      "hash": "sha256-uAGXQYsLPYaC9/39qgxh/KPUX+104TgONrOdkjXwN3c="
+    }
+  },
+  "Spellforge - Library - Dwemertech": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0CL",
+      "file_id": 194770,
+      "file_name": "Spellforge - Library - Dwemertech-46482-1-0CL-1617139909.7z",
+      "mod_id": 46482,
+      "hash": "sha256-Dc0ZRfjsIChZ5BYNsBLps3oFv3gL5ynUvDQdwDs0hm4="
+    }
+  },
+  "Spellforge - TGC Minor Cities and Towns Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "for-2.0-and-up",
+      "file_id": 295963,
+      "file_name": "Spellforge - Great Cities Patch-46482-for-2-0-and-up-1656882386.7z",
+      "mod_id": 46482,
+      "hash": "sha256-rmeHIrXJ8/fXdELOJqjoHPEsnt7x0pUYk5+vEmEm8oE="
+    }
+  },
+  "Spellforge - Library Generator": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "2.4LG",
+      "file_id": 376335,
+      "file_name": "Spellforge - Library Generator-46482-2-4LG-1680961414.7z",
+      "mod_id": 46482,
+      "hash": "sha256-ZZrUDcTKdovJ8ZpR4PGyvxsMV6gDCxwoLiTntYMSeF0="
+    },
+    "type": "primary"
+  },
+  "Spellforge": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "2.4",
+      "file_id": 465326,
+      "file_name": "Spellforge-46482-2-4-1706364042.7z",
+      "mod_id": 46482,
+      "hash": "sha256-iTZtjAs4akApUYrI7O/OEVOYvKTIeq/hqJxIyr6HrmU="
+    },
+    "type": "primary"
+  }
+}

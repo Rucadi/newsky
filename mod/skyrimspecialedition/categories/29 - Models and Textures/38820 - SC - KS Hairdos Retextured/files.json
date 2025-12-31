@@ -1,0 +1,45 @@
+{
+  "SC - KS Hairdos Retextured - Physics": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.4.2",
+      "file_id": 153215,
+      "file_name": "SC - KS Hairdos Retextured - Physics-38820-1-4-2-1596293936.7z",
+      "mod_id": 38820,
+      "hash": "sha256-ZrI7s+ZVyh/do1lxefdRZMM/iuH+Vca0Prs6u1sehVg="
+    },
+    "type": "primary"
+  },
+  "SC - KS Hairdos Retextured - Grayscale - Physics": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.4.2",
+      "file_id": 167196,
+      "file_name": "SC - KS Hairdos Retextured - Grayscale - Physics-38820-1-4-2-1603737658.7z",
+      "mod_id": 38820,
+      "hash": "sha256-a4bjmGlK+8zlDgHBmHwRwj9jsN1IHwxSdx0OZc9p14Q="
+    },
+    "type": "primary"
+  },
+  "SC - KS Hairdos Retextured": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.9",
+      "file_id": 268855,
+      "file_name": "SC - KS Hairdos Retextured-38820-1-9-1646752917.7z",
+      "mod_id": 38820,
+      "hash": "sha256-yDsnhhnPzl3ap4PBmpHIQD7BUKyaOZvJnxrNr9ss+5I="
+    },
+    "type": "primary"
+  },
+  "SC - KS Hairdos Retextured - Grayscale": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.9",
+      "file_id": 268856,
+      "file_name": "SC - KS Hairdos Retextured - Grayscale-38820-1-9-1646753176.7z",
+      "mod_id": 38820
+    },
+    "type": "primary"
+  }
+}

@@ -1,0 +1,53 @@
+{
+  "Midnight Sun": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 682533,
+      "file_name": "Midnight Sun-163295-1-0-1761989571.zip",
+      "mod_id": 163295,
+      "hash": "sha256-A+71mp1beOQilXUddfHLHC3Zvi8iF8kt6b5i6WkxL+Y="
+    },
+    "type": "primary"
+  },
+  "Midnight Sun - Literary Content": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "ANY",
+      "file_id": 683330,
+      "file_name": "Midnight Sun - Literary Content-163295-ANY-1762173320.zip",
+      "mod_id": 163295,
+      "hash": "sha256-lvl+HKOd0o796m6G0aAq7xkHumlJRb94U5ufVubEcD0="
+    }
+  },
+  "Midnight Sun - Vanilla Lighting Herald": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "ANY",
+      "file_id": 687726,
+      "file_name": "Midnight Sun - Vanilla Lighting Herald-163295-ANY-1763220610.zip",
+      "mod_id": 163295,
+      "hash": "sha256-fkhdiOgCHeaNCEcffg5/9g+69egEKIjM7+sxGcBwGNE="
+    }
+  },
+  "Midnight Sun - Script": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "ANY",
+      "file_id": 687728,
+      "file_name": "Midnight Sun - Script-163295-ANY-1763220740.zip",
+      "mod_id": 163295,
+      "hash": "sha256-hgLlPLWMnQkv1DjJqbk3koF9bxYVBZY7FuQXahkqUXM="
+    }
+  },
+  "Midnight Sun - Harder Difficulty": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "ANY",
+      "file_id": 689846,
+      "file_name": "Midnight Sun - Harder Difficulty-163295-ANY-1763776582.zip",
+      "mod_id": 163295,
+      "hash": "sha256-VpUCjNpTrqsWo6QuXhZ18lkzdFCUGdySjt1AvKCOcqU="
+    }
+  }
+}

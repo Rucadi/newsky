@@ -2,6 +2,8 @@
 - Author: Parapets
 - Game: skyrimspecialedition
 - Mod Page: https://www.nexusmods.com/skyrimspecialedition/mods/34028
+
+
 Overview
   
 If you've ever thieved much in Skyrim, chances are you're familiar with the thugs who occasionally get hired to track you down and kill you. This isn't exactly very fun, nor does it even make much sense that regular mercenaries are conducting assassinations. The way this event works, you are forced to either kill the thugs, or run away far enough that they disappear. Doing either of these things can be difficult, but you just can't continue playing your game until you do.

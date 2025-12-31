@@ -1,0 +1,54 @@
+{
+  "Mesh Patch for Belt Fastened Quivers": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1",
+      "file_id": 175782,
+      "file_name": "Mesh Patch for Belt Fastened Quivers-39903-1-1-1608715354.zip",
+      "mod_id": 39903,
+      "hash": "sha256-0w0KeP3YigtXppYFGGeA9g8HNlYcNjNfNC5mE6g07vY="
+    }
+  },
+  "Rare Curios - Bolts Expanded": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "2.0.0",
+      "file_id": 652136,
+      "file_name": "Rare Curios - Bolts Expanded-39903-2-0-0-1754148992.zip",
+      "mod_id": 39903,
+      "hash": "sha256-RoEXaqPW18oX8x4gAGrNXA/AIg2EHQIjSw3Qs+28bKE="
+    },
+    "type": "primary"
+  },
+  "RCBE - Crossbow Integration Addon": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "2.0.0",
+      "file_id": 652138,
+      "file_name": "RCBE - Crossbow Integration Addon-39903-2-0-0-1754149064.zip",
+      "mod_id": 39903,
+      "hash": "sha256-ddAuA2CC9jC3q6BwJzGHnX3RaRktW78YTLHnVn4gvw8="
+    },
+    "type": "primary"
+  },
+  "RCBE - CIA - Sorine Sells Silver": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "2.0.0",
+      "file_id": 652139,
+      "file_name": "RCBE - CIA - Sorine Sells Silver-39903-2-0-0-1754149116.zip",
+      "mod_id": 39903,
+      "hash": "sha256-UJ3Vr5eiLv5zDaHu2rJFdbS0fxL4QYUSxaWNS7jTyNU="
+    }
+  },
+  "RCBE - CIA - No Base Silver Crafting": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "2.0.0",
+      "file_id": 652140,
+      "file_name": "RCBE - CIA - No Base Silver Crafting-39903-2-0-0-1754149175.zip",
+      "mod_id": 39903,
+      "hash": "sha256-sTVwQiUkL4h+x+yIVGTwMRWykikCyXsAMtjnrj2TEg8="
+    }
+  }
+}

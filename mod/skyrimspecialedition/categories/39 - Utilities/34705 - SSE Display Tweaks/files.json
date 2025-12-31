@@ -1,23 +1,23 @@
 {
-    "High performance configuration": {
-        "nexusmods": {
-            "game_name": "skyrimspecialedition",
-            "version": "0.5.16",
-            "file_id": 255386,
-            "file_name": "High performance configuration-34705-0-5-9-1641744558.zip",
-            "mod_id": 34705,
-            "hash": "sha256-l7fMAh2iDIcF1CV4ceTL0/JU9P012gqqQj/TJG7eJj4="
-        }
-    },
-    "SSE Display Tweaks": {
-        "nexusmods": {
-            "game_name": "skyrimspecialedition",
-            "version": "0.5.16",
-            "file_id": 454679,
-            "file_name": "SSE Display Tweaks-34705-0-5-16-1703410713.zip",
-            "mod_id": 34705,
-            "hash": "sha256-CLi8b1SM8SqoKiNBZu/hCFG/uZTQI5Py5xZ1TmsxdOA="
-        },
-        "type": "primary"
+  "High performance configuration": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "0.5.16",
+      "file_id": 255386,
+      "file_name": "High performance configuration-34705-0-5-9-1641744558.zip",
+      "mod_id": 34705,
+      "hash": "sha256-l7fMAh2iDIcF1CV4ceTL0/JU9P012gqqQj/TJG7eJj4="
     }
+  },
+  "SSE Display Tweaks": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "0.5.16",
+      "file_id": 454679,
+      "file_name": "SSE Display Tweaks-34705-0-5-16-1703410713.zip",
+      "mod_id": 34705,
+      "hash": "sha256-CLi8b1SM8SqoKiNBZu/hCFG/uZTQI5Py5xZ1TmsxdOA="
+    },
+    "type": "primary"
+  }
 }

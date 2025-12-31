@@ -1,0 +1,63 @@
+{
+  "Nocturnal Revoiced - AFDI Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 694733,
+      "file_name": "Nocturnal Revoiced - AFDI Patch-166332-1-0-1764963388.zip",
+      "mod_id": 166332,
+      "hash": "sha256-jt/Jo8QF09wR6nLjnn+QgDeucsHEp3FA0TydJ/CA8ZE="
+    }
+  },
+  "Nocturnal Revoiced - Destroy TG Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 694735,
+      "file_name": "Nocturnal Revoiced - Destroy TG Patch-166332-1-0-1764963592.zip",
+      "mod_id": 166332,
+      "hash": "sha256-eJEFbSzRKL+rnbZpqt5cRBqvOoDyITbWBjLO76Qs5AM="
+    }
+  },
+  "Nocturnal Revoiced - TG Good Guys Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 694736,
+      "file_name": "Nocturnal Revoiced - TG Good Guys Patch-166332-1-0-1764963637.zip",
+      "mod_id": 166332,
+      "hash": "sha256-ZQzIossXVSyzP9z1sVItg+pTCqr+YaAU4djxMo2wfBg="
+    }
+  },
+  "Nocturnal Revoiced - Umbra Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 694737,
+      "file_name": "Nocturnal Revoiced - Umbra Patch-166332-1-0-1764963677.7z",
+      "mod_id": 166332,
+      "hash": "sha256-UqFy0AsPJQ0tsLvgUwUPM1/SIrrEVaqb7YcB32C0Ya4="
+    }
+  },
+  "Nocturnal Revoiced": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.10",
+      "file_id": 695373,
+      "file_name": "Nocturnal Revoiced-166332-1-10-1765104376.zip",
+      "mod_id": 166332,
+      "hash": "sha256-2fWllJFjx27b3RuQTsMZ4MZN78FB9HuzIG87P7EQbQ0="
+    },
+    "type": "primary"
+  },
+  "Nocturnal Revoiced - Alt Endings Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.10",
+      "file_id": 696556,
+      "file_name": "Nocturnal Revoiced - Alt Endings Patch-166332-1-10-1765400318.zip",
+      "mod_id": 166332,
+      "hash": "sha256-p+y61OOYMVVn45ilJKrkbSH/EWe24enPJCrtqLqPxGI="
+    }
+  }
+}

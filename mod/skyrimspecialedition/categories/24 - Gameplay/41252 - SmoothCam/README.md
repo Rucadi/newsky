@@ -2,6 +2,8 @@
 - Author: mwilsnd
 - Game: skyrimspecialedition
 - Mod Page: https://www.nexusmods.com/skyrimspecialedition/mods/41252
+
+
 SmoothCam adds a frame-interpolated third-person camera to Skyrim Special Edition, with well over a hundred different user configurable options and a preset system to let you easily swap between completely different camera setups.
   
   

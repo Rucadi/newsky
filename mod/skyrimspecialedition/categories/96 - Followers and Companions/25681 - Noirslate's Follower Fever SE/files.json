@@ -1,0 +1,23 @@
+{
+  "Follower Fever - Default": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.5",
+      "file_id": 279828,
+      "file_name": "Follower Fever - Default-25681-1-5-1651009720.7z",
+      "mod_id": 25681,
+      "hash": "sha256-9lGGCezw8Kr87W+Ok7BlW0hmLR8AYaz3epbfydPZ8DY="
+    },
+    "type": "primary"
+  },
+  "Follower Fever - Alternate Hairstyles": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.5",
+      "file_id": 279829,
+      "file_name": "Follower Fever - Alternate Hairstyles-25681-1-5-1651009833.7z",
+      "mod_id": 25681,
+      "hash": "sha256-NmU7a2HAUBnMSsr1HzP+HkJOUuIQkY0ig1FX8+YjI0s="
+    }
+  }
+}

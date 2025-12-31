@@ -1,0 +1,23 @@
+{
+  "The Final Cataclysm - MMXX": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "5.0",
+      "file_id": 127477,
+      "file_name": "The Final Cataclysm - MMXX-33167-5-0-1583505099.zip",
+      "mod_id": 33167,
+      "hash": "sha256-DAhSEPcaEFWPAYLQFRTt3nfHgQ68gGFHK8/8ItJXQGU="
+    },
+    "type": "primary"
+  },
+  "The Final Cataclysm - Dimmer Visual Effects": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "ANY",
+      "file_id": 596384,
+      "file_name": "The Final Cataclysm - Dimmer Visual Effects-33167-ANY-1739913946.zip",
+      "mod_id": 33167,
+      "hash": "sha256-S/+M/fsGmWyyaxMolFPvd/D2rIMK+BpdnucJZeSyMP0="
+    }
+  }
+}

@@ -1,0 +1,87 @@
+{
+  "Dragonbone Warhammer - Replacer": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 100847,
+      "file_name": "Dragonbone Warhammer - Replacer (SSE Conversion)-27722-1-0-1564211184.7z",
+      "mod_id": 27722,
+      "hash": "sha256-pKHsFY7yPJzqH8Cw40fbTNofE4OY8l/+1TBmSXPgIxA="
+    }
+  },
+  "Dragonbone Warhammer v1.1": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1",
+      "file_id": 101087,
+      "file_name": "Dragonbone Warhammer v1.1-27722-1-1-1564391860.7z",
+      "mod_id": 27722,
+      "hash": "sha256-xLepIZ8ZnWPVQPrnNSRNNC3yxSx2bxrymLhuNq4pQNo="
+    },
+    "type": "primary"
+  },
+  "Dragonbone Warhammer Var. 1": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1-A",
+      "file_id": 101090,
+      "file_name": "Dragonbone Warhammer Var. 1-27722-1-1-A-1564391966.7z",
+      "mod_id": 27722,
+      "hash": "sha256-8JlWP9qzOV72GgWbbtMjTiWr8eJgqhbGvgt3BPh3a60="
+    },
+    "type": "primary"
+  },
+  "Dragonbone Warhammer Var. 2": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1-B",
+      "file_id": 101091,
+      "file_name": "Dragonbone Warhammer Var. 2-27722-1-1-B-1564392024.7z",
+      "mod_id": 27722,
+      "hash": "sha256-gKoJVH+H5l31NylSIDYJ46uQ5XLyC/+nVN5xt1SdMjM="
+    },
+    "type": "primary"
+  },
+  "Dragonbone Warhammer Var. 3": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1-C",
+      "file_id": 101092,
+      "file_name": "Dragonbone Warhammer Var. 3-27722-1-1-C-1564392059.7z",
+      "mod_id": 27722,
+      "hash": "sha256-JE5nfveAzhB7MihtEKON2+k7U96tyIzLNzg7WYWTG14="
+    },
+    "type": "primary"
+  },
+  "Dragonbone Warhammer Var. 4": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1-D",
+      "file_id": 101093,
+      "file_name": "Dragonbone Warhammer Var. 4-27722-1-1-D-1564392097.7z",
+      "mod_id": 27722,
+      "hash": "sha256-sgfxUCjNucKUg2vzzndjadzTNCCGS17zJJkYyIK8tzo="
+    },
+    "type": "primary"
+  },
+  "Dragonbone Warhammer - Standalone (ESL)": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1",
+      "file_id": 132238,
+      "file_name": "Dragonbone Warhammer - Standalone (ESL)-27722-1-1-1585933136.7z",
+      "mod_id": 27722,
+      "hash": "sha256-YTjUu4blnO6LMaC2l4HPgSTwftf+IZpe5J8HOeoTGpQ="
+    }
+  },
+  "Dragonebone Warhammer - Standalone (ESP)": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1",
+      "file_id": 132239,
+      "file_name": "Dragonebone Warhammer - Standalone (ESP)-27722-1-1-1585933211.7z",
+      "mod_id": 27722,
+      "hash": "sha256-xPOefxjwfhtyYXXHucSxyiLGyeKMpxWUv37CoyhcbaU="
+    }
+  }
+}

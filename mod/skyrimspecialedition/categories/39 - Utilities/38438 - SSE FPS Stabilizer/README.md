@@ -2,6 +2,8 @@
 - Author: Shizof
 - Game: skyrimspecialedition
 - Mod Page: https://www.nexusmods.com/skyrimspecialedition/mods/38438
+
+
 [font=Tahoma]
 
 This is a port of my [VR FPS Stabilizer](https://www.nexusmods.com/skyrimspecialedition/mods/31392)﻿ mod to SSE. If you are looking for the VR version go **[HERE](https://www.nexusmods.com/skyrimspecialedition/mods/31392)﻿**.

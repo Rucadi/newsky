@@ -1,0 +1,24 @@
+{
+  "Quick inventory": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1",
+      "file_id": 193604,
+      "file_name": "Quick inventory-47165-1-1-1616711548.7z",
+      "mod_id": 47165,
+      "hash": "sha256-ynbiutq+JdiPm+/m8KfvxSUDyGdvslQvnhfrMMS5dXY="
+    },
+    "type": "primary"
+  },
+  "Quick inventory - ESL": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1",
+      "file_id": 193606,
+      "file_name": "Quick inventory - ESL-47165-1-1-1616711733.7z",
+      "mod_id": 47165,
+      "hash": "sha256-U8n6MItQYzRxNn9sru69lCoFxqwStcYjF6IomJVEwXQ="
+    },
+    "type": "primary"
+  }
+}

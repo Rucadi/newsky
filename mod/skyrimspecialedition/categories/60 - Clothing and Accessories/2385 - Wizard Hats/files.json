@@ -1,0 +1,46 @@
+{
+  "Wizard Hats - Full": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.4",
+      "file_id": 387480,
+      "file_name": "Wizard Hats - Full-2385-1-4-1683932666.zip",
+      "mod_id": 2385,
+      "hash": "sha256-BV3rw5y0QE9nPEyEiK6m+VKeogbYvj6a/I3wzsqhQr4="
+    },
+    "type": "primary"
+  },
+  "Wizard Hats - Lootable": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.4",
+      "file_id": 387481,
+      "file_name": "Wizard Hats - Lootable-2385-1-4-1683932788.zip",
+      "mod_id": 2385,
+      "hash": "sha256-gEMfwmfSOLdNKyebUglwiuH/7aD0a325waDixfCdGcY="
+    },
+    "type": "primary"
+  },
+  "Wizard Hats - Simple": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.4",
+      "file_id": 387482,
+      "file_name": "Wizard Hats - Simple-2385-1-4-1683932830.zip",
+      "mod_id": 2385,
+      "hash": "sha256-Ifvuhcj3SITNjIEyZ9l4fKDEM+w35fwCQYWdGoUBn5c="
+    },
+    "type": "primary"
+  },
+  "Wizard Hats - Resources": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.4",
+      "file_id": 416213,
+      "file_name": "Wizard Hats - Resources-2385-1-4-1691796501.zip",
+      "mod_id": 2385,
+      "hash": "sha256-450o6quxshioNj0qiRJ8m8iXGK6tjaYjxMAJyktDG7k="
+    },
+    "type": "primary"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "Sotteta Huntress": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 89880,
+      "file_name": "Sotteta Huntress-25370-1-0-1556351828.7z",
+      "mod_id": 25370,
+      "hash": "sha256-kwbLH1Nhbj7DbTByZZDkrlKj4E/yoKfrhoev6QoUl8s="
+    },
+    "type": "primary"
+  },
+  "Apachii's Headband Texture Replacer": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 89883,
+      "file_name": "Apachii's Headband Texture Replacer-25370-1-0-1556352720.7z",
+      "mod_id": 25370,
+      "hash": "sha256-+au+ppSUVLt9X50fvCwVd/zURFSiwdDtB+C39YTuf2I="
+    }
+  }
+}

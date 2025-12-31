@@ -1,0 +1,54 @@
+{
+  "Pretty Sweet Roll Texture - 4K": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 178175,
+      "file_name": "Pretty Sweet Roll Texture - 4K-44077-1-0-1610041316.zip",
+      "mod_id": 44077,
+      "hash": "sha256-HAYCytiEQqjshW6M62aZLefUL0ToPXLpF8XRxUiP870="
+    }
+  },
+  "Pretty Sweet Roll Texture - 2K": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 178176,
+      "file_name": "Pretty Sweet Roll Texture - 2K-44077-1-0-1610041362.zip",
+      "mod_id": 44077,
+      "hash": "sha256-5I5BzPjcb89/kV9vTiaI9/eAJ/0Ph55HAkdnLsKzlDg="
+    }
+  },
+  "High Poly Sweet Rolls - 4K": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "2.0",
+      "file_id": 187086,
+      "file_name": "High Poly Sweet Rolls - 4K-44077-2-0-1613863693.zip",
+      "mod_id": 44077,
+      "hash": "sha256-Irwkk+XE4jpfPTW51E9DSvMDq2Dzwb1x3shkmX6W9Ro="
+    },
+    "type": "primary"
+  },
+  "High Poly Sweet Rolls - 2K": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "2.0",
+      "file_id": 187087,
+      "file_name": "High Poly Sweet Rolls - 2K-44077-2-0-1613863729.zip",
+      "mod_id": 44077,
+      "hash": "sha256-I/+58XJUl3wPNss564FwyLOYkil0WoxAJnKVAsOHbC8="
+    },
+    "type": "primary"
+  },
+  "Eating Animations and Sounds SE v 1.9.2 Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.9.2",
+      "file_id": 328460,
+      "file_name": "HighPolySweetRolls - Eating Animations and Sounds SE v 1.9.2 Patch-44077-1-9-2-1667421351.zip",
+      "mod_id": 44077,
+      "hash": "sha256-W5fuyC8IoiCNuskYzFLZ8g43uLlQbK9Imn5jBsgErh8="
+    }
+  }
+}

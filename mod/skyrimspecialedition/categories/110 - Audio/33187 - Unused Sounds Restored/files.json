@@ -1,0 +1,35 @@
+{
+  "Restored Ambient Sounds": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 126549,
+      "file_name": "Restored Ambient Sounds-33187-1-0-1583025318.zip",
+      "mod_id": 33187,
+      "hash": "sha256-YF7Pac9SfhtUzf2lDx7+ywLXJ4CPf6EIXXX7+Wi+G68="
+    },
+    "type": "primary"
+  },
+  "Restored Beta Map Sound": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 126550,
+      "file_name": "Restored Beta Map Sound-33187-1-0-1583025351.zip",
+      "mod_id": 33187,
+      "hash": "sha256-nUgJ1RvnSNG6shy7yjKtRHj+6u33kc8XMXdr6UENsUw="
+    },
+    "type": "primary"
+  },
+  "Restored New Quest Sound": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 126551,
+      "file_name": "Restored New Quest Sound-33187-1-0-1583025388.zip",
+      "mod_id": 33187,
+      "hash": "sha256-+OupXI3cnOMioGT5A9mleNuqBOIZR0VpJdOsF630Dt0="
+    },
+    "type": "primary"
+  }
+}

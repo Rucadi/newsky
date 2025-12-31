@@ -1,0 +1,35 @@
+{
+  "Blackthorn - Hunterborn Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 66854,
+      "file_name": "Blackthorn - Hunterborn Patch-20072-1-0.7z",
+      "mod_id": 20072,
+      "hash": "sha256-ZUi6/cjJbJB83nhFB7O94eaUptF+cdGuTTjmWKKML7g="
+    },
+    "type": "primary"
+  },
+  "Blackthorn - Hearthfire Fix": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 66855,
+      "file_name": "Blackthorn - Hearthfire Fix-20072-1-0.7z",
+      "mod_id": 20072,
+      "hash": "sha256-n56swbAi+glYtv4fcglTD+BsXi6lfNr+gj2RTlqs4mg="
+    },
+    "type": "primary"
+  },
+  "Blackthorn - Requiem (Unofficial SE Port) Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 66856,
+      "file_name": "Blackthorn - Requiem (Unofficial SE Port) Patch-20072-1-0.7z",
+      "mod_id": 20072,
+      "hash": "sha256-Czbkjg22e8CgY/HVzD7Uz/OI9oxi3q8wizWGUVdcCgI="
+    },
+    "type": "primary"
+  }
+}

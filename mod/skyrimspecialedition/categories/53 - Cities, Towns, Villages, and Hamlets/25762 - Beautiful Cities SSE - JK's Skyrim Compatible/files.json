@@ -1,0 +1,44 @@
+{
+  "Beautiful Cities SSE - JK's Skyrim Compatible": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 92217,
+      "file_name": "Beautiful Cities SSE - JK's Skyrim Compatible - ESL-25762-1-1557865287.7z",
+      "mod_id": 25762,
+      "hash": "sha256-BDIL7I48zj2LGwGzse1/3fF/wf0TXLGyuJK+D0QfI3g="
+    },
+    "type": "primary"
+  },
+  "Beautiful Cities SSE - JK's Skyrim and Open Cities Compatible": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 93006,
+      "file_name": "Beautiful Cities SSE - JK's Skyrim and Open Cities Compatible - ESL-25762-1-1558390353.7z",
+      "mod_id": 25762,
+      "hash": "sha256-VfXeUIICHpVjdCwlNW/dgfZqf6uFd8E7aq5hNpn+V3g="
+    },
+    "type": "primary"
+  },
+  "BCSSE - LotD V5 Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1",
+      "file_id": 138120,
+      "file_name": "BCSSE - LotD V5 Patch-25762-1-1-1588632692.7z",
+      "mod_id": 25762,
+      "hash": "sha256-W99pt/j1A/5xfWpvphOBk9MAX1FZRc30MRN5D77WCnE="
+    }
+  },
+  "BCSSE - DoS Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.2",
+      "file_id": 149399,
+      "file_name": "BCSSE - DoS Patch-25762-1-2-1594207738.7z",
+      "mod_id": 25762,
+      "hash": "sha256-I6oNIWDdjcMbPEkHX0M/s/2+qm7BfuFhkMWh7KpReQw="
+    }
+  }
+}

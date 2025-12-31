@@ -1,0 +1,53 @@
+{
+  "Oiia Cat Follower": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "v1.0",
+      "file_id": 675815,
+      "file_name": "Oiia Cat Follower-161409-v1-0-1760425147.zip",
+      "mod_id": 161409,
+      "hash": "sha256-L45vywaRVZBG/iLzLDSaq9936RiIDIfRtKEJE2Fq8iQ="
+    },
+    "type": "primary"
+  },
+  "Oiia Cat Follower - Inmersive Interactions Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "v1.0",
+      "file_id": 675816,
+      "file_name": "Oiia Cat Follower - Inmersive Interactions Patch-161409-v1-0-1760425250.zip",
+      "mod_id": 161409,
+      "hash": "sha256-VvneRr92+q3oj/oRDeog7rXX64vIsiThraqXtVKTdOQ="
+    }
+  },
+  "Mute Loop Sound Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "v1.0",
+      "file_id": 685625,
+      "file_name": "Mute Loop Sound Patch-161409-v1-0-1762679191.7z",
+      "mod_id": 161409,
+      "hash": "sha256-09WWyHfL+nSDRjv7qrt45qxiaEqF+h5O36IA3J0R+lI="
+    }
+  },
+  "Loop Less Sound Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "v1.0",
+      "file_id": 685626,
+      "file_name": "Loop Less Sound Patch-161409-v1-0-1762679407.7z",
+      "mod_id": 161409,
+      "hash": "sha256-iH016IlZo+auX0j5aBOeLO816DDPTnsnhxt/10nm4CE="
+    }
+  },
+  "Less Annoying Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "v1.0",
+      "file_id": 685629,
+      "file_name": "Less Annoying Patch-161409-v1-0-1762679955.7z",
+      "mod_id": 161409,
+      "hash": "sha256-+bhSJnjcYwCo+YaxcsmGDwI1VovtcpeaG5dbOkrlZBw="
+    }
+  }
+}

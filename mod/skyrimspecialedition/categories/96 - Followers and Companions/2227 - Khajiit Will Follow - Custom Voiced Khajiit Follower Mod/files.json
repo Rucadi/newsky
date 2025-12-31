@@ -1,0 +1,75 @@
+{
+  "Patch - The Forgotten City": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "2.1",
+      "file_id": 110014,
+      "file_name": "Patch - The Forgotten City-2227-2-1-1570832393.rar",
+      "mod_id": 2227,
+      "hash": "sha256-xtZy4ppLDZK8NCAb3MpQwo3x9npreGAY+UnfHlDni3E="
+    },
+    "type": "primary"
+  },
+  "Patch - CC Spouse House Support for AE": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "4.7.3",
+      "file_id": 575332,
+      "file_name": "Patch - CC Spouse House Support for AE-2227-4-7-2-1734961540.zip",
+      "mod_id": 2227,
+      "hash": "sha256-8tHV9xX9oheHo5qv6xkcojXnXIJRM3/5nmK4RElLZno="
+    }
+  },
+  "Patch - JK's Skyrim": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0.1",
+      "file_id": 635521,
+      "file_name": "Patch - JK's Skyrim-2227-1-0-1-1749289116.zip",
+      "mod_id": 2227,
+      "hash": "sha256-ey0uNzu9AyALJwB3D49lEYfyKiNS46BRME939azHs1M="
+    }
+  },
+  "Patch - JK's Whiterun": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0.1",
+      "file_id": 635522,
+      "file_name": "Patch - JK's Whiterun-2227-1-0-1-1749289259.zip",
+      "mod_id": 2227,
+      "hash": "sha256-wxtkpmfdIZBYdDBNm8sAC15fki7GtgoW798pp5xHuWk="
+    }
+  },
+  "Patch - Vigilant": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.8",
+      "file_id": 665971,
+      "file_name": "Patch - Vigilant-2227-1-8-1757932061.zip",
+      "mod_id": 2227,
+      "hash": "sha256-RLhPrMg8qN+bs/oAy4vkQqbG9maXQCWkdRMEnv5EbuQ="
+    },
+    "type": "primary"
+  },
+  "Patch - Immersive Start": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "4.7.4",
+      "file_id": 701085,
+      "file_name": "Patch - Immersive Start-2227-4-7-4-1766452783.zip",
+      "mod_id": 2227,
+      "hash": "sha256-FfLWtYIdTUYpoIK2eGpCUzK/p6ZuW8oYwPDH2lSJD+I="
+    }
+  },
+  "Khajiit Will Follow": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "4.7.4b",
+      "file_id": 701578,
+      "file_name": "Khajiit Will Follow-2227-4-7-4b-1766570837.zip",
+      "mod_id": 2227,
+      "hash": "sha256-Krs1V+miAnmqgOnGnztjs8SGA76ImWxEtRtrPU0ytaU="
+    },
+    "type": "primary"
+  }
+}

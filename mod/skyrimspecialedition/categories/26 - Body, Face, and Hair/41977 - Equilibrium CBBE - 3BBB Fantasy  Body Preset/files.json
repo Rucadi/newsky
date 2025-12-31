@@ -1,0 +1,33 @@
+{
+  "Equilibrium CBBE 3BBB Fantasy Body Preset": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 168370,
+      "file_name": "Thottie to Mommy CBBE 3BBB Bodyslide Preset-41977-1-0-1604376249.rar",
+      "mod_id": 41977,
+      "hash": "sha256-omwmZYL7Uxav1lyMxYkkM5/mM3uKMrF3CccUUM9yLy4="
+    },
+    "type": "primary"
+  },
+  "Equilibrium CBBE 3BBB Fantasy Body Pre-built": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 168372,
+      "file_name": "Equilibrium CBBE 3BBB Fantasy Body Pre-built-41977-10-1604379267.rar",
+      "mod_id": 41977,
+      "hash": "sha256-1RVY1j1i20NB8crtjFhXvlzN64OWWxIzcynBJRHj8r4="
+    }
+  },
+  "Equilibrium CBBE 3BBB Fantasy Body Pre-built Hot Yoga Edition": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 168373,
+      "file_name": "Equilibrium CBBE 3BBB Fantasy Body Pre-built Yoga Edition-41977-1-0-1604379445.rar",
+      "mod_id": 41977,
+      "hash": "sha256-pdW6sMCTnAhIZ6B+nuNu0YwA1k3r3eV6CnVUm6WIVqo="
+    }
+  }
+}

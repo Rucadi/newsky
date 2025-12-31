@@ -2,6 +2,8 @@
 - Author: Niyu
 - Game: skyrimspecialedition
 - Mod Page: https://www.nexusmods.com/skyrimspecialedition/mods/34654
+
+
 As of Version 15 [Scrambled Bugs](https://www.nexusmods.com/skyrimspecialedition/mods/43532)  has a dll based solution to make staves give xp. I Haven't tested it myself, but it's probably less janky than this and I would recomend you use that instead of this mod.
   
   

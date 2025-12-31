@@ -1,0 +1,63 @@
+{
+  "Lastriem - SE by Xtudo - My Tweaks 4K": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1",
+      "file_id": 695052,
+      "file_name": "Lastriem - SE by Xtudo - My Tweaks 4K-166405-1-1765033396.7z",
+      "mod_id": 166405,
+      "hash": "sha256-w7xupWHjf+w1+avnjWVBew8kCEv7WAt/Ur8YQkHD5Ag="
+    },
+    "type": "primary"
+  },
+  "Lastriem - SE by Xtudo - Textures 2K": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1",
+      "file_id": 695054,
+      "file_name": "Lastriem - SE by Xtudo - Textures 2K-166405-1-1765033424.7z",
+      "mod_id": 166405,
+      "hash": "sha256-rvg0AvrYQq8b9E6W/dbtBH89cSOixht93CzMEhnu0bI="
+    }
+  },
+  "Lastriem - SE by Xtudo - Textures 1K": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1",
+      "file_id": 695055,
+      "file_name": "Lastriem - SE by Xtudo - Textures 1K-166405-1-1765033448.7z",
+      "mod_id": 166405,
+      "hash": "sha256-naRDUUeEs1RpdPoZvub/UcYmamdITFo2LAgdS22OeNg="
+    }
+  },
+  "Lastriem - SE by Xtudo - My Tweaks UBE patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1",
+      "file_id": 695056,
+      "file_name": "Lastriem - SE by Xtudo - My Tweaks UBE patch-166405-1-1765033482.7z",
+      "mod_id": 166405,
+      "hash": "sha256-ZKXUYEVvhuxA7EqLA5tqUKRmQVtJNMj6dM1/O1FK8bo="
+    }
+  },
+  "Lastriem - SE by Xtudo - Non-HDT patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1",
+      "file_id": 695057,
+      "file_name": "Lastriem - SE by Xtudo - Non-HDT patch-166405-1-1765033509.7z",
+      "mod_id": 166405,
+      "hash": "sha256-MKgLfTeIXq8/3Gx5tLwiF4pvsUOU/7XkAecZf8mhVWM="
+    }
+  },
+  "Lastriem - SE by Xtudo - CBBE-UNP": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1",
+      "file_id": 697156,
+      "file_name": "Lastriem - SE by Xtudo - CBBE-UNP-166405-1-1-1765539980.7z",
+      "mod_id": 166405,
+      "hash": "sha256-SOgFEfkxgSn+49K+Bq9SH4kqDUAP7k/bE6j8LwR/Z1M="
+    }
+  }
+}

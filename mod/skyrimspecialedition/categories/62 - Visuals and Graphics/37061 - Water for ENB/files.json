@@ -1,73 +1,83 @@
 {
-    "Water for ENB - Patch - Clear Underwater": {
-        "nexusmods": {
-            "game_name": "skyrimspecialedition",
-            "version": "1.1",
-            "file_id": 234749,
-            "file_name": "Water for ENB - Clear Underwater-37061-1-1-1634202145.zip",
-            "mod_id": 37061,
-            "hash": "sha256-B67lG9z5SEsOF1f7PMcRHRAxwzPCbpLitsZCcNNHaB4="
-        }
-    },
-    "Water for ENB - Patch - Cabbage ENB": {
-        "nexusmods": {
-            "game_name": "skyrimspecialedition",
-            "version": "1.0",
-            "file_id": 403753,
-            "file_name": "Water for ENB - Patch - Cabbage ENB-37061-1-0-1688497265.zip",
-            "mod_id": 37061,
-            "hash": "sha256-AhL3Uoy0agYFa5W26HPAkNEsx935A+FNabPeeVWNCYE="
-        }
-    },
-    "Water for ENB for Enderal": {
-        "nexusmods": {
-            "game_name": "skyrimspecialedition",
-            "version": "0.2",
-            "file_id": 582129,
-            "file_name": "Water for ENB for Enderal-37061-0-2-1736622945.zip",
-            "mod_id": 37061,
-            "hash": "sha256-FF5GSgvQ7COMSywoqZ+dPc0WBWx/avaEb0A5hLvyzUQ="
-        }
-    },
-    "Water for ENB": {
-        "nexusmods": {
-            "game_name": "skyrimspecialedition",
-            "version": "2.16",
-            "file_id": 679914,
-            "file_name": "Water for ENB-37061-2-16-1761320426.zip",
-            "mod_id": 37061,
-            "hash": "sha256-cAlQaYiK0TR0UfMC/CsVvWD+oQDJQuCArfQkPe01jPM="
-        },
-        "type": "primary"
-    },
-    "Water for ENB - Patch - JK's The Winking Skeever": {
-        "nexusmods": {
-            "game_name": "skyrimspecialedition",
-            "version": "1.0",
-            "file_id": 700821,
-            "file_name": "Water for ENB - Patch - JK's The Winking Skeever-37061-1-0-1766397892.zip",
-            "mod_id": 37061,
-            "hash": "sha256-7u/4P3NNGQCP30cFwPTQa/I3VK4u7uDz9elIjTNjH9k="
-        }
-    },
-    "Water for ENB - Patch - JK's Candlehearth Hall": {
-        "nexusmods": {
-            "game_name": "skyrimspecialedition",
-            "version": "1.0",
-            "file_id": 700822,
-            "file_name": "Water for ENB - Patch - JK's Candlehearth Hall-37061-1-0-1766397916.zip",
-            "mod_id": 37061,
-            "hash": "sha256-4Zd1xIyrNF76zwseBujqBHwNsQtJf+oOrNlAxsquCSU="
-        }
-    },
-    "Water Multiplier xEdit Script ENB Natural Shades": {
-        "nexusmods": {
-            "game_name": "skyrimspecialedition",
-            "version": "1.0",
-            "file_id": 703621,
-            "file_name": "Water Multiplier xEdit Script ENB Natural Shades-37061-1-0-1767108131.zip",
-            "mod_id": 37061,
-            "hash": "sha256-oPAgIaYTShxfX7vWx4cWx6pur2VYJHVm2vJyW68yDfY="
-        }
+  "Water for ENB - Patch - Clear Underwater": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1",
+      "file_id": 234749,
+      "file_name": "Water for ENB - Clear Underwater-37061-1-1-1634202145.zip",
+      "mod_id": 37061,
+      "hash": "sha256-B67lG9z5SEsOF1f7PMcRHRAxwzPCbpLitsZCcNNHaB4="
     }
+  },
+  "Water for ENB - Patch - Cabbage ENB": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 403753,
+      "file_name": "Water for ENB - Patch - Cabbage ENB-37061-1-0-1688497265.zip",
+      "mod_id": 37061,
+      "hash": "sha256-AhL3Uoy0agYFa5W26HPAkNEsx935A+FNabPeeVWNCYE="
+    }
+  },
+  "Water for ENB for Enderal": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "0.2",
+      "file_id": 582129,
+      "file_name": "Water for ENB for Enderal-37061-0-2-1736622945.zip",
+      "mod_id": 37061,
+      "hash": "sha256-FF5GSgvQ7COMSywoqZ+dPc0WBWx/avaEb0A5hLvyzUQ="
+    }
+  },
+  "Water for ENB": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "2.16",
+      "file_id": 679914,
+      "file_name": "Water for ENB-37061-2-16-1761320426.zip",
+      "mod_id": 37061,
+      "hash": "sha256-cAlQaYiK0TR0UfMC/CsVvWD+oQDJQuCArfQkPe01jPM="
+    },
+    "type": "primary"
+  },
+  "Water for ENB - Patch - JK's The Winking Skeever": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 700821,
+      "file_name": "Water for ENB - Patch - JK's The Winking Skeever-37061-1-0-1766397892.zip",
+      "mod_id": 37061,
+      "hash": "sha256-7u/4P3NNGQCP30cFwPTQa/I3VK4u7uDz9elIjTNjH9k="
+    }
+  },
+  "Water for ENB - Patch - JK's Candlehearth Hall": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 700822,
+      "file_name": "Water for ENB - Patch - JK's Candlehearth Hall-37061-1-0-1766397916.zip",
+      "mod_id": 37061,
+      "hash": "sha256-4Zd1xIyrNF76zwseBujqBHwNsQtJf+oOrNlAxsquCSU="
+    }
+  },
+  "Water Multiplier xEdit Script ENB Natural Shades": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 703621,
+      "file_name": "Water Multiplier xEdit Script ENB Natural Shades-37061-1-0-1767108131.zip",
+      "mod_id": 37061,
+      "hash": "sha256-oPAgIaYTShxfX7vWx4cWx6pur2VYJHVm2vJyW68yDfY="
+    }
+  },
+  "Water Multiplier xEdit Script CS": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 703695,
+      "file_name": "Water Multiplier xEdit Script CS-37061-1-0-1767120858.zip",
+      "mod_id": 37061,
+      "hash": "sha256-imAVy/aIWP1Z3HRw+CEHNuUeKmfW0VVUg6QgwoK3vdk="
+    }
+  }
 }

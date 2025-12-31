@@ -2,6 +2,8 @@
 - Author: Eckss
 - Game: skyrimspecialedition
 - Mod Page: https://www.nexusmods.com/skyrimspecialedition/mods/22075
+
+
 I believe that if you are making the only official port of someone else's popular mod, you gotta stay true to its design philosophy. If you wanna change its direction, you make that as an alternate version together with a normal one. So here's a faithful, community-driven version. It has fixes for USSEP, CRF and Survival Mode, expanded coverage, optimized conditions and item detection, and optional features that you can read about below. The "guards keep following me" bug is fixed, and the "curved swords" line is restricted so that people stop talking about them once the relevant quest is completed, by popular request, but you can keep it enabled with a command. The mod's global values have been included in the SPIKE system so other mods can reference them freely. Remember that GDO has the injected SPIKE compatibility system for a reason, it's used by WACCF and my own mod AA, so you're only supposed to load GDO before WACCF to get compatibility. It's opted-in to receive Donation Points, 100% of which went to the original author, Eckss, but due to prolonged inactivity I'm now donating them to charity. Fellow GDO fan, you are as entitled to decide what happens to this classic as the rest of us. Please enjoy!
   
   

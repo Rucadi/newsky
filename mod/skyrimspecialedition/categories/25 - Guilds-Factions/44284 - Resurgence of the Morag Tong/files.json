@@ -1,0 +1,64 @@
+{
+  "Patch for Saints and Seducers (Creation Club)": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "Patch",
+      "file_id": 261231,
+      "file_name": "Patch for Saints and Seducers (Creation Club)-44284-1-0-0-1643808272.zip",
+      "mod_id": 44284,
+      "hash": "sha256-yar89G1xHKG7g/LW2YvEiP6rdepCD7UT3Dw5sk4DG04="
+    }
+  },
+  "Chapter 1 - Resurgence of the Morag Tong": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1.4",
+      "file_id": 282491,
+      "file_name": "Resurgence of the Morag Tong - Chapter 1-44284-1-1-4-1652100548.zip",
+      "mod_id": 44284,
+      "hash": "sha256-bb8jrsBZwj8EqAL+jWaMfeNJdxHdP9CM/24wKOGUVi4="
+    },
+    "type": "primary"
+  },
+  "Chapter 1 - ESP replacer": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1.4",
+      "file_id": 282493,
+      "file_name": "Chapter 1 - ESP replacer-44284-1-1-4-1652100594.zip",
+      "mod_id": 44284,
+      "hash": "sha256-5eHc3QTJM3lUMsYh03YTXS+uxni3BM1duDuCXh8XHwE="
+    }
+  },
+  "Chapter 2 - Resurgence of the Morag Tong": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1.4d",
+      "file_id": 292819,
+      "file_name": "Chapter 2 - Resurgence of the Morag Tong-44284-1-1-4d-1655804083.zip",
+      "mod_id": 44284,
+      "hash": "sha256-+wPwIRH16toxgqPkvV0VKIj/bpRwgd7x+EmLZ/Bgb6I="
+    },
+    "type": "primary"
+  },
+  "Chapter 2 - ESP Replacer": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1.4d",
+      "file_id": 292820,
+      "file_name": "Chapter 2 - ESP Replacer-44284-1-1-4d-1655804129.zip",
+      "mod_id": 44284,
+      "hash": "sha256-2422CkNatt0MJemDlh13qMapDeqgY2s5C9cdSTKyuJ4="
+    }
+  },
+  "Patch for Legacy of the Dragonborn": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "Patch",
+      "file_id": 314726,
+      "file_name": "Patch for Legacy of the Dragonborn-44284-Patch-1662757061.zip",
+      "mod_id": 44284,
+      "hash": "sha256-3Konqb2FLWYh8OEssYJ231c6MKZuzgdtPastTiHb27w="
+    }
+  }
+}

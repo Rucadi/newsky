@@ -1,0 +1,23 @@
+{
+  "Morrowind Armor - Netch Leather - SSE CBBE BodySlide": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 108280,
+      "file_name": "Morrowind Armor - Netch Leather - SSE CBBE BodySlide-29267-1-0-1569470426.7z",
+      "mod_id": 29267,
+      "hash": "sha256-Bgm3+A8kCXm04uIWv7FNw8NaHwDQ/agg6kmLVt3Mg+A="
+    },
+    "type": "primary"
+  },
+  "Morrowind Armor - Netch Leather - ESPFE": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 152170,
+      "file_name": "Morrowind Armor - Netch Leather - ESPFE-29267-1-0-1595721119.7z",
+      "mod_id": 29267,
+      "hash": "sha256-28kO2XfG2bCnU/FpNnAUj9yGaJ78is7o2bzJW3dlk14="
+    }
+  }
+}

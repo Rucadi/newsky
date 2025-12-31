@@ -1,0 +1,65 @@
+{
+  "(CVEO) by LDD - Eyes Mod 3": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0.0",
+      "file_id": 673231,
+      "file_name": "Eyes Mod 3 by Khisartin Integration-160705-1-0-0-1759843308.7z",
+      "mod_id": 160705,
+      "hash": "sha256-1UB+JoGB1MYnDFEviUKk2eAortuIcWCKDTAKlGA26dM="
+    }
+  },
+  "(CVEO) by LDD - Eyes Mod 3 - Unlocked": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0.0",
+      "file_id": 673233,
+      "file_name": "Eyes Mod 3 by Khisartin Integration - Unlocked-160705-1-0-0-1759843352.7z",
+      "mod_id": 160705,
+      "hash": "sha256-UmD/0ulYvC/MZ0Jm4Jt49nSOBz+61eKLYV8o2NXWvmU="
+    }
+  },
+  "(CVEO) by LDD - Default FaceGens": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "3.0.0",
+      "file_id": 676400,
+      "file_name": "(CVEO) by LDD - Default FaceGens-160705-3-0-0-1760572653.7z",
+      "mod_id": 160705,
+      "hash": "sha256-28THolOWowayToDKClQfSvAiLDiS/KSrdpJV1yHnm4k="
+    },
+    "type": "primary"
+  },
+  "(CVEO) by LDD - EFM FaceGens": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "3.0.0",
+      "file_id": 676401,
+      "file_name": "(CVEO) by LDD - EFM FaceGens-160705-3-0-0-1760572687.7z",
+      "mod_id": 160705,
+      "hash": "sha256-9Aq23c771ROWq28twpQmoppsaMAJ9pQ4wZk0qZh/2iY="
+    },
+    "type": "primary"
+  },
+  "(CVEO) by LDD - Unlocked": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "3.0.0",
+      "file_id": 676403,
+      "file_name": "(CVEO) by LDD - Unlocked-160705-3-0-0-1760572745.7z",
+      "mod_id": 160705,
+      "hash": "sha256-p0sxe5AdiDPMZ3j+4h01nzz4pdabpTgo0zI7bFWF+20="
+    }
+  },
+  "(CVEO) by LDD": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "3.0.1",
+      "file_id": 702850,
+      "file_name": "(CVEO) by LDD-160705-3-0-1-1766924471.7z",
+      "mod_id": 160705,
+      "hash": "sha256-v7Bq9GuWKJ2s/MibYte/5E3ydHALmq06Xtm3P7i2Y0c="
+    },
+    "type": "primary"
+  }
+}

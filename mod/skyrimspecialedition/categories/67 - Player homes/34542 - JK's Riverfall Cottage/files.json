@@ -1,0 +1,33 @@
+{
+  "JK's Riverfall Cottage Family Edition": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1.5",
+      "file_id": 611495,
+      "file_name": "JK's Riverfall Cottage Family Edition-34542-1-1-5-1743293652.7z",
+      "mod_id": 34542,
+      "hash": "sha256-VNu8qjysQOAnREjbFU+wx57GApu3a4nA0/9e7u0gQBc="
+    },
+    "type": "primary"
+  },
+  "JK's Riverfall Cottage - CACO Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1.5",
+      "file_id": 611505,
+      "file_name": "JK's Riverfall Cottage - CACO Patch-34542-1-1-5-1743296777.7z",
+      "mod_id": 34542,
+      "hash": "sha256-lqEqOcGalCmRCz2GyYJttzYdb6WzjQrJhjrU6/IRZx4="
+    }
+  },
+  "JK's Riverfall Cottage - Skald's Mail Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1.5",
+      "file_id": 611507,
+      "file_name": "JK's Riverfall Cottage - Skald's Mail Patch-34542-1-1-5-1743296878.7z",
+      "mod_id": 34542,
+      "hash": "sha256-LmBCvTABrPpCvaZe4StCIZUAFGXawcJ6frPk9bGGtlo="
+    }
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "Dawnguard Arsenal SSE v1_0": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 89159,
+      "file_name": "Dawnguard Arsenal SSE v1_0-25094-1-0-1555858493.7z",
+      "mod_id": 25094,
+      "hash": "sha256-AVHm6OdhXMGgTk/Eil+c3vRGu6YF18is4O7A0gyhvyA="
+    },
+    "type": "primary"
+  },
+  "Dawnguard Arsenal Ars Metallica SSE Patch v1_0_1": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0.1",
+      "file_id": 91909,
+      "file_name": "Dawnguard Arsenal Ars Metallica SSE Patch v1_0_1-25094-1-0-1-1557672210.7z",
+      "mod_id": 25094,
+      "hash": "sha256-blqfDFV4b80DOO6nfODXHNxwi3uYlh/nLbwAYsdWn7o="
+    }
+  },
+  "DGA Scabbardless Greatswords Loose File Replacers": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1",
+      "file_id": 412351,
+      "file_name": "DGA Scabbardless Greatswords Loose File Replacers-25094-1-1690734889.7z",
+      "mod_id": 25094,
+      "hash": "sha256-67bNScAmZIYEGZuGuLWMmrKz0i7HQoKtz7aj5Ilt6bc="
+    }
+  }
+}

@@ -1,70 +1,77 @@
 {
-    "Arcane Mage 4k BHUNP": {
-        "nexusmods": {
-            "game_name": "skyrimspecialedition",
-            "version": "1.0",
-            "file_id": 670975,
-            "file_name": "Arcane Mage 4k BHUNP-160014-1-0-1759279603.zip",
-            "mod_id": 160014
-        },
-        "type": "primary"
+  "Arcane Mage 4k BHUNP": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 670975,
+      "file_name": "Arcane Mage 4k BHUNP-160014-1-0-1759279603.zip",
+      "mod_id": 160014,
+      "hash": "sha256-pI52Yu79it6YXlejuEtW9CXXFVRx9OSq2ZR13ZhEnO4="
     },
-    "Arcane Mage 4k CBBE": {
-        "nexusmods": {
-            "game_name": "skyrimspecialedition",
-            "version": "1.0",
-            "file_id": 670976,
-            "file_name": "Arcane Mage 4k CBBE-160014-1-0-1759279680.zip",
-            "mod_id": 160014
-        },
-        "type": "primary"
+    "type": "primary"
+  },
+  "Arcane Mage 4k CBBE": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 670976,
+      "file_name": "Arcane Mage 4k CBBE-160014-1-0-1759279680.zip",
+      "mod_id": 160014,
+      "hash": "sha256-y9expRdti36ooF43VKc3SQTve80z3JW+hTTVyZ8rLOk="
     },
-    "Arcane Mage 4k UNP": {
-        "nexusmods": {
-            "game_name": "skyrimspecialedition",
-            "version": "1.0",
-            "file_id": 670977,
-            "file_name": "Arcane Mage 4k UNP-160014-1-0-1759279741.zip",
-            "mod_id": 160014
-        },
-        "type": "primary"
+    "type": "primary"
+  },
+  "Arcane Mage 4k UNP": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 670977,
+      "file_name": "Arcane Mage 4k UNP-160014-1-0-1759279741.zip",
+      "mod_id": 160014,
+      "hash": "sha256-xjFtD4oQKyUM1BjLAFFThiwIwyMwdv7Thttr+dBJO24="
     },
-    "Arcane Mage 4k Vanilla": {
-        "nexusmods": {
-            "game_name": "skyrimspecialedition",
-            "version": "1.0",
-            "file_id": 670979,
-            "file_name": "Arcane Mage 4k Vanilla-160014-1-0-1759279830.zip",
-            "mod_id": 160014
-        },
-        "type": "primary"
+    "type": "primary"
+  },
+  "Arcane Mage 4k Vanilla": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 670979,
+      "file_name": "Arcane Mage 4k Vanilla-160014-1-0-1759279830.zip",
+      "mod_id": 160014,
+      "hash": "sha256-aqIWzxrz5HEoqEs5BvNTEdgCvCZlN3nQtpL4gjFGIcw="
     },
-    "Arcane Mage 2k Textures": {
-        "nexusmods": {
-            "game_name": "skyrimspecialedition",
-            "version": "1.0",
-            "file_id": 670981,
-            "file_name": "Arcane Mage 2k Textures-160014-1-0-1759279887.zip",
-            "mod_id": 160014
-        }
-    },
-    "Arcane Mage - Mages Replacer": {
-        "nexusmods": {
-            "game_name": "skyrimspecialedition",
-            "version": "1.0",
-            "file_id": 670983,
-            "file_name": "Arcane Mage - Mages Replacer-160014-1-0-1759279966.zip",
-            "mod_id": 160014
-        }
-    },
-    "Arcane Mage 4k 3BA": {
-        "nexusmods": {
-            "game_name": "skyrimspecialedition",
-            "version": "1.0",
-            "file_id": 671101,
-            "file_name": "Arcane Mage 4k 3BA-160014-1-0-1759322602.zip",
-            "mod_id": 160014
-        },
-        "type": "primary"
+    "type": "primary"
+  },
+  "Arcane Mage 2k Textures": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 670981,
+      "file_name": "Arcane Mage 2k Textures-160014-1-0-1759279887.zip",
+      "mod_id": 160014,
+      "hash": "sha256-aOdlhUTQ5HP6vQKZWX+ZiyQLG0QMyMtcxsra/ZjqPIE="
     }
+  },
+  "Arcane Mage - Mages Replacer": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 670983,
+      "file_name": "Arcane Mage - Mages Replacer-160014-1-0-1759279966.zip",
+      "mod_id": 160014,
+      "hash": "sha256-GCPJuki+KANQ4dCSLcxFZY+sWD5oC6v1gwTy7qer4p8="
+    }
+  },
+  "Arcane Mage 4k 3BA": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 671101,
+      "file_name": "Arcane Mage 4k 3BA-160014-1-0-1759322602.zip",
+      "mod_id": 160014,
+      "hash": "sha256-LhfTmxeQuXo5POBLH+zIyywYV5IaQClxpn22nSxyZxQ="
+    },
+    "type": "primary"
+  }
 }

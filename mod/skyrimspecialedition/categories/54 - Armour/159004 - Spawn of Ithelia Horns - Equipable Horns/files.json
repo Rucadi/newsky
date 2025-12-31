@@ -1,50 +1,55 @@
 {
-    "Spawn of Ithelia Horns 2K": {
-        "nexusmods": {
-            "game_name": "skyrimspecialedition",
-            "version": "1.0",
-            "file_id": 664932,
-            "file_name": "Spawn of Ithelia Horns-159004-1-0-1757665559.7z",
-            "mod_id": 159004
-        },
-        "type": "primary"
+  "Spawn of Ithelia Horns 2K": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 664932,
+      "file_name": "Spawn of Ithelia Horns-159004-1-0-1757665559.7z",
+      "mod_id": 159004,
+      "hash": "sha256-U0NX11pFnRV+Kxtwp+c6f6sGTGuC+OqgsfCW/xjBSQc="
     },
-    "Spawn of Ithelia Horns 4K": {
-        "nexusmods": {
-            "game_name": "skyrimspecialedition",
-            "version": "1.0",
-            "file_id": 664934,
-            "file_name": "Spawn of Ithelia Horns 4K-159004-1-0-1757665706.7z",
-            "mod_id": 159004
-        },
-        "type": "primary"
+    "type": "primary"
+  },
+  "Spawn of Ithelia Horns 4K": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 664934,
+      "file_name": "Spawn of Ithelia Horns 4K-159004-1-0-1757665706.7z",
+      "mod_id": 159004,
+      "hash": "sha256-XGsJ2LL+Sme0Y7oBxcq8bRTtT++sealWAY0CuBniJMA="
     },
-    "Spawn of Ithelia Horns 1K": {
-        "nexusmods": {
-            "game_name": "skyrimspecialedition",
-            "version": "1.0",
-            "file_id": 664936,
-            "file_name": "Soawn of Ithelia Horns 1K-159004-1-0-1757665759.7z",
-            "mod_id": 159004
-        },
-        "type": "primary"
+    "type": "primary"
+  },
+  "Spawn of Ithelia Horns 1K": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 664936,
+      "file_name": "Soawn of Ithelia Horns 1K-159004-1-0-1757665759.7z",
+      "mod_id": 159004,
+      "hash": "sha256-FvgEeXbZYf4eDBReHDKyMTz1clV8UjD4cGfSN524LwI="
     },
-    "No crafting esp": {
-        "nexusmods": {
-            "game_name": "skyrimspecialedition",
-            "version": "1.0",
-            "file_id": 664937,
-            "file_name": "No crafting esp-159004-1-0-1757665889.7z",
-            "mod_id": 159004
-        }
-    },
-    "Racemenu Integration by Piesel": {
-        "nexusmods": {
-            "game_name": "skyrimspecialedition",
-            "version": "1.0",
-            "file_id": 665078,
-            "file_name": "Racemenu Integration by Piesel-159004-1-0-1757716015.rar",
-            "mod_id": 159004
-        }
+    "type": "primary"
+  },
+  "No crafting esp": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 664937,
+      "file_name": "No crafting esp-159004-1-0-1757665889.7z",
+      "mod_id": 159004,
+      "hash": "sha256-vvyyF8JAfqsJNX2F8Eiv1wommH8vnVMdqhhkUzjeaDI="
     }
+  },
+  "Racemenu Integration by Piesel": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 665078,
+      "file_name": "Racemenu Integration by Piesel-159004-1-0-1757716015.rar",
+      "mod_id": 159004,
+      "hash": "sha256-/2o4knw34OUQfCUMth120rX+vspYM9iZ5e9gX7HbAUA="
+    }
+  }
 }

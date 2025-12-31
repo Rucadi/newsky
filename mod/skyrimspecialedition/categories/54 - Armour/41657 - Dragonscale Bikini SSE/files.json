@@ -1,0 +1,23 @@
+{
+  "Dragonscale Bikini CBBE SSE": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.4",
+      "file_id": 298266,
+      "file_name": "Dragonscale Bikini CBBE SSE-41657-1-4-1657594219.7z",
+      "mod_id": 41657,
+      "hash": "sha256-c95saWuL1Soa/Ie2+5PYrV8V6B8ljBjRdgfReXr0fOg="
+    },
+    "type": "primary"
+  },
+  "Dragonscale Bikini Bodylide SSE Files": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "NA",
+      "file_id": 298267,
+      "file_name": "Dragonscale Bikini Bodylide SSE Files-41657-NA-1657594887.zip",
+      "mod_id": 41657,
+      "hash": "sha256-T8JJJ4JEkK6r54Z91RRaws9II4kRLnCtXmnxFlYrMRI="
+    }
+  }
+}

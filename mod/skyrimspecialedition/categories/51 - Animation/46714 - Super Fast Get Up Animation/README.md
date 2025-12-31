@@ -2,6 +2,8 @@
 - Author: Everglaid
 - Game: skyrimspecialedition
 - Mod Page: https://www.nexusmods.com/skyrimspecialedition/mods/46714
+
+
 Super Fast Get Up Animation
   
 by Everglaid

@@ -2,6 +2,8 @@
 - Author: Artsick
 - Game: skyrimspecialedition
 - Mod Page: https://www.nexusmods.com/skyrimspecialedition/mods/34782
+
+
 This mod adds new meshes and textures to the game to replace Meridia's Beacon and other beacons from the same quest with a Luxon Beacon-inspired counterpart. 
   
   

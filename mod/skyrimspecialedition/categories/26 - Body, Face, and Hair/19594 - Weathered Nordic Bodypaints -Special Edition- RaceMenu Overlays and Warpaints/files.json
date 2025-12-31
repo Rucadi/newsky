@@ -1,0 +1,54 @@
+{
+  "SKSE Makeup Configs": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1",
+      "file_id": 64293,
+      "file_name": "SKSE Makeup Configs-19594-1.7z",
+      "mod_id": 19594,
+      "hash": "sha256-sBslqcQTEDxhSOAFr+67Gt2BRfVZVa2W/UNjeqldyM0="
+    }
+  },
+  "WNB -Male Leg Seems and Face Center- 2K": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "2",
+      "file_id": 66382,
+      "file_name": "WNB -Male Leg Seems and Face Center- 2K-19594-2.7z",
+      "mod_id": 19594,
+      "hash": "sha256-qTmZIEMgtQsVxjw0dDlhN4cgIhCkhAzCu8aWDX8lUu8="
+    }
+  },
+  "WNB -Male Leg Seems and Face Center- 4K": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "2",
+      "file_id": 66383,
+      "file_name": "WNB -Male Leg Seems and Face Center- 4K-19594-2.7z",
+      "mod_id": 19594,
+      "hash": "sha256-sYxE6JlSjxSiqpOgbVbkTKRuY6VOup3aCA82NHY6Jk8="
+    }
+  },
+  "WNB - Weathered Nordic Bodypaints SE - 2K": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "2.1",
+      "file_id": 70202,
+      "file_name": "WNB - Weathered Nordic Bodypaints SE - 2K-19594-2-1-1540429572.7z",
+      "mod_id": 19594,
+      "hash": "sha256-FsHwh54F3RxQLv50rf6gkXMbAVKkVdi2TQucYXiXsYI="
+    },
+    "type": "primary"
+  },
+  "WNB -Weathered Nordic Bodypaints SE- 4K": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "2.1",
+      "file_id": 70203,
+      "file_name": "WNB -Weathered Nordic Bodypaints SE- 4K-19594-2-1-1540429953.7z",
+      "mod_id": 19594,
+      "hash": "sha256-F2Ur7aQYsOAboUUqlpPrXy7CtIeC8vLx3UJSjvfnhjA="
+    },
+    "type": "primary"
+  }
+}

@@ -1,13 +1,13 @@
 {
-    "Companions Questline Tweaks": {
-        "nexusmods": {
-            "game_name": "skyrimspecialedition",
-            "version": "1.1",
-            "file_id": 77033,
-            "file_name": "Companions Questline Tweaks - Beta-22300-1-1-1546471344.zip",
-            "mod_id": 22300,
-            "hash": "sha256-h7B0cv5WduSr95/HDaJu2w1CHhYzG0NYHbj9UtlwAiE="
-        },
-        "type": "primary"
-    }
+  "Companions Questline Tweaks": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1",
+      "file_id": 77033,
+      "file_name": "Companions Questline Tweaks - Beta-22300-1-1-1546471344.zip",
+      "mod_id": 22300,
+      "hash": "sha256-h7B0cv5WduSr95/HDaJu2w1CHhYzG0NYHbj9UtlwAiE="
+    },
+    "type": "primary"
+  }
 }

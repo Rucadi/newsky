@@ -1,0 +1,24 @@
+{
+  "TitKit SSE - esl": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "v1.0",
+      "file_id": 158514,
+      "file_name": "TitKit SSE - esl-39987-v1-0-1598862471.7z",
+      "mod_id": 39987,
+      "hash": "sha256-UAfoF11jN+ybRzpWg3ASkhW1U5w9K50OLCgDpkXPqAM="
+    },
+    "type": "primary"
+  },
+  "TitKit_by_Monsto SSE": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.01",
+      "file_id": 167508,
+      "file_name": "TitKit_by_Monsto SSE-39987-1-01-1603923282.7z",
+      "mod_id": 39987,
+      "hash": "sha256-uI/snErNuF7CD2f/DnZCmXQDEdknib8wxdrkqiS8IEI="
+    },
+    "type": "primary"
+  }
+}

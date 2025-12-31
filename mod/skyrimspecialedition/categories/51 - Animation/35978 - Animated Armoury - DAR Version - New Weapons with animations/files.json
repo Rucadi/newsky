@@ -1,83 +1,83 @@
 {
-    "Animated Armour - Expanded Skyrim Weapons": {
-        "nexusmods": {
-            "game_name": "skyrimspecialedition",
-            "version": "2",
-            "file_id": 206372,
-            "file_name": "Animated Armour - Expanded Skyrim Weapons-35978-2-1622380741.7z",
-            "mod_id": 35978,
-            "hash": "sha256-Eh4AyUCeOYA1qWr9qBQC2u4jZTUt1LTlAvEfpfMkTlQ="
-        }
-    },
-    "Animated Armour - Heavy Armoury Compatibility Patch": {
-        "nexusmods": {
-            "game_name": "skyrimspecialedition",
-            "version": "2",
-            "file_id": 206373,
-            "file_name": "Animated Armour - Heavy Armoury Compatibility Patch-35978-2-1622380774.7z",
-            "mod_id": 35978,
-            "hash": "sha256-Kai3Lb//HloS228K+rB8qWZpatc4MqC6eW+ZwsIvGXY="
-        }
-    },
-    "Animated Armour - Rapier and Dagger Patch": {
-        "nexusmods": {
-            "game_name": "skyrimspecialedition",
-            "version": "2",
-            "file_id": 206374,
-            "file_name": "Animated Armour - Rapier and Dagger Patch-35978-2-1622380807.7z",
-            "mod_id": 35978,
-            "hash": "sha256-eD3l5TKFMqR6wwFkh/cYU/scKGxwjJSkQbmI5luneQ4="
-        }
-    },
-    "Animated Armoury": {
-        "nexusmods": {
-            "game_name": "skyrimspecialedition",
-            "version": "2.3",
-            "file_id": 236456,
-            "file_name": "Animated Armoury-35978-2-3-1634920456.7z",
-            "mod_id": 35978,
-            "hash": "sha256-V+8t3wjOoTumSHNu+VWwNzCs50Hsx4TxnMCtL/fnzbo="
-        },
-        "type": "primary"
-    },
-    "Animated Armour - COOR Compatibility Patch": {
-        "nexusmods": {
-            "game_name": "skyrimspecialedition",
-            "version": "2.3",
-            "file_id": 236457,
-            "file_name": "Animated Armour - COOR Compatibility Patch-35978-2-3-1634920515.7z",
-            "mod_id": 35978,
-            "hash": "sha256-uTz1AiQTUhFklBj6qBSc8qQP2xZp2jQS7Oesc657z7M="
-        }
-    },
-    "Animated Armoury Valdacil's Item Sorting Patch": {
-        "nexusmods": {
-            "game_name": "skyrimspecialedition",
-            "version": "2.3",
-            "file_id": 236458,
-            "file_name": "Animated Armoury Valdacil's Item Sorting Patch-35978-2-3-1634920593.7z",
-            "mod_id": 35978,
-            "hash": "sha256-L/8ruXt0ImeKLy0KgVqV3RASnp5X4pjZUiofpLkil8A="
-        }
-    },
-    "Animated Armoury All Geared Up Derivative": {
-        "nexusmods": {
-            "game_name": "skyrimspecialedition",
-            "version": "2.3",
-            "file_id": 236459,
-            "file_name": "Animated Armoury All Geared Up Derivative-35978-2-3-1634920666.7z",
-            "mod_id": 35978,
-            "hash": "sha256-n46G4xz2KPxIXIF9qYK7/uvrSFfDDu/wrd42rnksGN8="
-        }
-    },
-    "Animated Armoury - Immersive Weapons Patch": {
-        "nexusmods": {
-            "game_name": "skyrimspecialedition",
-            "version": "2.3",
-            "file_id": 237319,
-            "file_name": "Animated Armoury - Immersive Weapons Patch-35978-2-3-1635332577.7z",
-            "mod_id": 35978,
-            "hash": "sha256-Us4+Q2XpSDz9uyiPRnwS/LWlWjxST3+3GQQofcSw8qk="
-        }
+  "Animated Armour - Expanded Skyrim Weapons": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "2",
+      "file_id": 206372,
+      "file_name": "Animated Armour - Expanded Skyrim Weapons-35978-2-1622380741.7z",
+      "mod_id": 35978,
+      "hash": "sha256-Eh4AyUCeOYA1qWr9qBQC2u4jZTUt1LTlAvEfpfMkTlQ="
     }
+  },
+  "Animated Armour - Heavy Armoury Compatibility Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "2",
+      "file_id": 206373,
+      "file_name": "Animated Armour - Heavy Armoury Compatibility Patch-35978-2-1622380774.7z",
+      "mod_id": 35978,
+      "hash": "sha256-Kai3Lb//HloS228K+rB8qWZpatc4MqC6eW+ZwsIvGXY="
+    }
+  },
+  "Animated Armour - Rapier and Dagger Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "2",
+      "file_id": 206374,
+      "file_name": "Animated Armour - Rapier and Dagger Patch-35978-2-1622380807.7z",
+      "mod_id": 35978,
+      "hash": "sha256-eD3l5TKFMqR6wwFkh/cYU/scKGxwjJSkQbmI5luneQ4="
+    }
+  },
+  "Animated Armoury": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "2.3",
+      "file_id": 236456,
+      "file_name": "Animated Armoury-35978-2-3-1634920456.7z",
+      "mod_id": 35978,
+      "hash": "sha256-V+8t3wjOoTumSHNu+VWwNzCs50Hsx4TxnMCtL/fnzbo="
+    },
+    "type": "primary"
+  },
+  "Animated Armour - COOR Compatibility Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "2.3",
+      "file_id": 236457,
+      "file_name": "Animated Armour - COOR Compatibility Patch-35978-2-3-1634920515.7z",
+      "mod_id": 35978,
+      "hash": "sha256-uTz1AiQTUhFklBj6qBSc8qQP2xZp2jQS7Oesc657z7M="
+    }
+  },
+  "Animated Armoury Valdacil's Item Sorting Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "2.3",
+      "file_id": 236458,
+      "file_name": "Animated Armoury Valdacil's Item Sorting Patch-35978-2-3-1634920593.7z",
+      "mod_id": 35978,
+      "hash": "sha256-L/8ruXt0ImeKLy0KgVqV3RASnp5X4pjZUiofpLkil8A="
+    }
+  },
+  "Animated Armoury All Geared Up Derivative": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "2.3",
+      "file_id": 236459,
+      "file_name": "Animated Armoury All Geared Up Derivative-35978-2-3-1634920666.7z",
+      "mod_id": 35978,
+      "hash": "sha256-n46G4xz2KPxIXIF9qYK7/uvrSFfDDu/wrd42rnksGN8="
+    }
+  },
+  "Animated Armoury - Immersive Weapons Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "2.3",
+      "file_id": 237319,
+      "file_name": "Animated Armoury - Immersive Weapons Patch-35978-2-3-1635332577.7z",
+      "mod_id": 35978,
+      "hash": "sha256-Us4+Q2XpSDz9uyiPRnwS/LWlWjxST3+3GQQofcSw8qk="
+    }
+  }
 }

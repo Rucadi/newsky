@@ -2,6 +2,8 @@
 - Author: BuzzDee84  - PhenomFazMFQ
 - Game: skyrimspecialedition
 - Mod Page: https://www.nexusmods.com/skyrimspecialedition/mods/20654
+
+
 **[size=4]
 
 [size=6]ULTIMATE HD FIRE EFFECTS SSE

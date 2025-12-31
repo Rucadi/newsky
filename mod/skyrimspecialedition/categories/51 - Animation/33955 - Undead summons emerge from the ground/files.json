@@ -1,0 +1,23 @@
+{
+  "Undead summons emerge from the ground": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 130351,
+      "file_name": "Undead summons emerge from the ground-33955-1-0-1585092440.zip",
+      "mod_id": 33955,
+      "hash": "sha256-WC3hO6ZVCiUX9xUdju6E6zYPVRA7yrmd2tVUt6w2YCY="
+    },
+    "type": "primary"
+  },
+  "Summon Bubble Replacer": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 131675,
+      "file_name": "Summon Bubble Replacer-33955-1-0-1585666122.zip",
+      "mod_id": 33955,
+      "hash": "sha256-3V2yh0Ji9SJPPfD5YMd8h8ejD2LTzfozuc+9OwAkcc8="
+    }
+  }
+}

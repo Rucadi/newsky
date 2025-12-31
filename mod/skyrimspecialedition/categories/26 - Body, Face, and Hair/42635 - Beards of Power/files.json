@@ -1,0 +1,24 @@
+{
+  "Beards of Power": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "0.4.2",
+      "file_id": 577521,
+      "file_name": "Beards of Power-42635-0-4-2-1735516889.zip",
+      "mod_id": 42635,
+      "hash": "sha256-lpXQ3DbelVrHCRk5O7h0WY2bT8/hzYblxmzKm3YtExs="
+    },
+    "type": "primary"
+  },
+  "Beards of Power - High Poly Head Version": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "0.4.2",
+      "file_id": 577522,
+      "file_name": "Beards of Power - High Poly Head Version-42635-0-4-2-1735517101.zip",
+      "mod_id": 42635,
+      "hash": "sha256-4ZZ2e6PSN/7sSrQW1XjaOBNXwJ9/iSP8UKDVtjyldak="
+    },
+    "type": "primary"
+  }
+}

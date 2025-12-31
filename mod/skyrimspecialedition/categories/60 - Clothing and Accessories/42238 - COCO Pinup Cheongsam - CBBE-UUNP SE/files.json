@@ -1,0 +1,35 @@
+{
+  "COCO Pinup Cheongsam - COCOBody CBBE SE": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "2.0",
+      "file_id": 475800,
+      "file_name": "COCO Pinup Cheongsam-42238-2-0-1709261992.7z",
+      "mod_id": 42238,
+      "hash": "sha256-XsXs2Sb8CUmTMZ8cfG+cQr227rkv4bVnjT9En6XaL9U="
+    },
+    "type": "primary"
+  },
+  "COCO Pinup Cheongsam - COCOBody UUNP SE": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "2.0",
+      "file_id": 475801,
+      "file_name": "COCO Pinup Cheongsam - COCOBody UUNP SE-42238-2-0-1709262109.7z",
+      "mod_id": 42238,
+      "hash": "sha256-9JCDg+j6w0dFyDItgsTXa2+zaAn4VVZayGs1OhXPvik="
+    },
+    "type": "primary"
+  },
+  "COCO Pinup Cheongsam - CBBE 3BA": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "2.0",
+      "file_id": 475808,
+      "file_name": "COCO Pinup Cheongsam - CBBE 3BA-42238-2-0-1709265071.7z",
+      "mod_id": 42238,
+      "hash": "sha256-N6gQmYrOD9XyLaJyezNeu0x7dCGGHxqnDwjjug/c9xo="
+    },
+    "type": "primary"
+  }
+}

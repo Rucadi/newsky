@@ -2,6 +2,8 @@
 - Author: Everglaid
 - Game: skyrimspecialedition
 - Mod Page: https://www.nexusmods.com/skyrimspecialedition/mods/38534
+
+
 ﻿Everglaid's Animation Variance
   
 Animation variety for Dynamic Animation Replacer

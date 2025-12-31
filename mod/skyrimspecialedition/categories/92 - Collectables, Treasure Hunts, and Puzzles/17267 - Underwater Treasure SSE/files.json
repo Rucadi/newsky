@@ -1,0 +1,43 @@
+{
+  "Underwater Treasures SSE Sea of Ghosts 1-0": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 54589,
+      "file_name": "Underwater Treasures SSE Sea of Ghosts 1-0-17267-1-0.rar",
+      "mod_id": 17267,
+      "hash": "sha256-NoZCB1JfEvBo3h6+4VqAdzOqRANECGrkwA/tVfUkM6E="
+    }
+  },
+  "Underwater Treasures SSE SoG- Rivers and Lakes 1-0": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 54590,
+      "file_name": "Underwater Treasures SSE SoG- Rivers and Lakes 1-0-17267-1-0.rar",
+      "mod_id": 17267,
+      "hash": "sha256-L7+eWjGwsB8nUG8YNfO5hZMk2biK3/Y96iTCox6JzbI="
+    },
+    "type": "primary"
+  },
+  "Underwater Treasure-No cell": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 319681,
+      "file_name": "Underwater Treasure-No cell-17267-1-0-1664237139.zip",
+      "mod_id": 17267,
+      "hash": "sha256-1l/KgGZJ5HzGlIrPdJyZK3zC45T7l5JHaeGYCrTjlq0="
+    }
+  },
+  "Underwater Treasure-With cell": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 319682,
+      "file_name": "Underwater Treasure-With cell-17267-1-0-1664237210.zip",
+      "mod_id": 17267,
+      "hash": "sha256-PWv1aklTWpruFjRAy9oiGzEMvKjr5LnC1d33jpsVLDQ="
+    }
+  }
+}

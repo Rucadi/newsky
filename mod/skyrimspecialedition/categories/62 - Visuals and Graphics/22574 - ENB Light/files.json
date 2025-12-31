@@ -1,0 +1,73 @@
+{
+  "ENBL Torchbug": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 79064,
+      "file_name": "ENBL Torchbug-22574-1-0-1548028605.7z",
+      "mod_id": 22574,
+      "hash": "sha256-jcV0ab9A7PrWRhQc+r3z18cp9qyqKBSvpExLxV0M9NQ="
+    }
+  },
+  "ENB Light": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "0.94",
+      "file_id": 85143,
+      "file_name": "ENB Light-22574-0-94-1552759521.7z",
+      "mod_id": 22574,
+      "hash": "sha256-WNPMhjV2EcFLTEDdmm7MbKlwrLWqJxAVWfTjY/g7xzg="
+    },
+    "type": "primary"
+  },
+  "ENB Light - patch for Quick Light SE": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.2",
+      "file_id": 87009,
+      "file_name": "ENB Light - patch for Quick Light SE-22574-1-2-1554053499.7z",
+      "mod_id": 22574,
+      "hash": "sha256-nxavuv5V4C3g7LMMNEYu5CgcRgPLf/0GF/z9P0OkXlc="
+    }
+  },
+  "Redesigned Candle Flame for ENB": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1",
+      "file_id": 94727,
+      "file_name": "Redesigned Candle Flame for ENB-22574-1-1-1559605066.7z",
+      "mod_id": 22574,
+      "hash": "sha256-ntaNm/zNaazCyX45J+ZbLDkRG6EhP/9IAahX7vp9UX4="
+    }
+  },
+  "ENB Light - patch for Visual Animated Enchants": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "0.8",
+      "file_id": 111029,
+      "file_name": "ENB Light - patch for Visual Animated Enchants-22574-0-8-1571701005.7z",
+      "mod_id": 22574,
+      "hash": "sha256-4O5bgDmsVJ/Xmcp9wPT8YNCaJxjDIoz+ievoLDpt6WA="
+    }
+  },
+  "ENB Light 0.96 WIP 04 - Inferno patch and Fire fixes": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "0.9",
+      "file_id": 114206,
+      "file_name": "ENB Light 0.96 WIP 04 - Inferno patch and Fire fixes-22574-0-9-1574535067.7z",
+      "mod_id": 22574,
+      "hash": "sha256-s5J8AtHt1mwZQbvHt+f/M+0VCmJ8iyi+7BnpcMpWuhk="
+    }
+  },
+  "ENB Light SMIM Textures": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1",
+      "file_id": 116967,
+      "file_name": "ENB Light SMIM Textures-22574-1-1576968419.7z",
+      "mod_id": 22574,
+      "hash": "sha256-cza+zFzLkJp4OYfjl5Hey3O0++Y9opCZ19V0VTlH838="
+    }
+  }
+}

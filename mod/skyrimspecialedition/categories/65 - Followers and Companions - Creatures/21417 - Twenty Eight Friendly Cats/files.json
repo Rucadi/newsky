@@ -1,0 +1,33 @@
+{
+  "Twenty Eight Friendly Cats": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 73147,
+      "file_name": "Twenty Eight Friendly Cats-21417-1-0-1543018656.7z",
+      "mod_id": 21417,
+      "hash": "sha256-dpnHDNCXpWBR8/BhYBpML25Ab+iusnAO8iuAdXBncBk="
+    },
+    "type": "primary"
+  },
+  "Esp plugin replacer": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1",
+      "file_id": 395538,
+      "file_name": "Esp plugin replacer-21417-1-1-1686053807.7z",
+      "mod_id": 21417,
+      "hash": "sha256-MdbjU1WqrgBMLpzCts/CP+z58ev7SNpXln17jS8Dl3k="
+    }
+  },
+  "NFF patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1",
+      "file_id": 401904,
+      "file_name": "NFF patch-21417-1-1-1687963510.7z",
+      "mod_id": 21417,
+      "hash": "sha256-/AKLbIZOb8IUwkTPh1Ql2RngKmDONCibLdIthkT89Ts="
+    }
+  }
+}

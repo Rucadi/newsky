@@ -1,0 +1,53 @@
+{
+  "AIM FIX Combat Camera - patch for non-vanilla start": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "2.2",
+      "file_id": 103203,
+      "file_name": "AIM FIX compatibility patch for non-vanilla start-18524-2-2-1565973653.zip",
+      "mod_id": 18524,
+      "hash": "sha256-duFE/ORNCIK8frVHpeJkyGED/iMPJmRotwEo8vFOms8="
+    }
+  },
+  "AIM FIX Combat Camera - optional lower camera height setting slider limit": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "2.2",
+      "file_id": 105799,
+      "file_name": "AIM FIX - optional lower camera height setting slider limit-18524-2-2-1567766083.zip",
+      "mod_id": 18524,
+      "hash": "sha256-gIDm8SvYNrFZl4l3hpj6+PPGCa83rk7LHEdNYyM6QUE="
+    }
+  },
+  "AIM FIX patch for iHUD (or iHUD plus SkyHUD)": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "2",
+      "file_id": 117498,
+      "file_name": "AIM FIX patch for iHUD (or iHUD plus SkyHUD)-18524-2-1577369053.7z",
+      "mod_id": 18524,
+      "hash": "sha256-Woqau8B0Az8uYPQRyRFkg+qgc+y03ZqLEp9Aom/QQcI="
+    }
+  },
+  "AIM FIX Lite": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "2.22c",
+      "file_id": 124798,
+      "file_name": "AIM FIX Lite-18524-2-22c-1582153250.zip",
+      "mod_id": 18524,
+      "hash": "sha256-jei3F9SWVPVtfcMJNos5QBjLc9K43AmknA4rU4YmxhI="
+    },
+    "type": "primary"
+  },
+  "AIM FIX Combat Camera": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "2.2",
+      "file_id": 173078,
+      "file_name": "AIM FIX Combat Camera-18524-2-2-1607110245.zip",
+      "mod_id": 18524,
+      "hash": "sha256-ZuPluGK3mJTKDgOHYVPvBww0/Z6q+w67iiI7IdtjEaw="
+    }
+  }
+}

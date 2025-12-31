@@ -1,0 +1,424 @@
+{
+  "Bubblegum Iron Armor Set - ALL": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0.4",
+      "file_id": 679950,
+      "file_name": "Bubblegum Iron Armor Set - ALL-162322-1-0-4-1761329501.rar",
+      "mod_id": 162322,
+      "hash": "sha256-JEVJk2PCUUUOE5Q1h8ZtnmnS9+cFIy5/QxJm5H1RvJU="
+    }
+  },
+  "Bubblegum Iron Armor Set - Standalone": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0.4",
+      "file_id": 679951,
+      "file_name": "Bubblegum Iron Armor Set - Standalone-162322-1-0-4-1761329539.rar",
+      "mod_id": 162322,
+      "hash": "sha256-bfFk04hjlQZioos4egAXYY6EQJXCoDTFqDipA/2lcPE="
+    }
+  },
+  "Bubblegum Iron Armor Set - Vanilla Replacer": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0.4",
+      "file_id": 679952,
+      "file_name": "Bubblegum Iron Armor Set - Vanilla Replacer-162322-1-0-4-1761329566.rar",
+      "mod_id": 162322,
+      "hash": "sha256-LW7569R4HzevBkE3mvZWc+amxokAVLVBBkn8qlKmBFI="
+    }
+  },
+  "Bubblegum Steel Armor Set - ALL": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0.0",
+      "file_id": 679954,
+      "file_name": "Bubblegum Steel Armor Set - ALL-162322-1-0-0-1761329631.rar",
+      "mod_id": 162322,
+      "hash": "sha256-I9kgQXAh6X5wtaxxbKoxBowekCu5sKCHZc8BbAsLmFA="
+    }
+  },
+  "Bubblegum Steel Armor Set - Standalone": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0.0",
+      "file_id": 679955,
+      "file_name": "Bubblegum Steel Armor Set - Standalone-162322-1-0-0-1761329655.rar",
+      "mod_id": 162322,
+      "hash": "sha256-jIjq18Zq+gDIRQC4SnBfT6YKC5I1KCeY3TKB2Skzjos="
+    }
+  },
+  "Bubblegum Steel Armor Set - Vanilla Replacer": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0.0",
+      "file_id": 679956,
+      "file_name": "Bubblegum Steel Armor Set - Vanilla Replacer-162322-1-0-0-1761329688.rar",
+      "mod_id": 162322,
+      "hash": "sha256-niKIp3QJMOStP9cYTYqX/ZKaCy+Zvk22Qz2P2MyGrP8="
+    }
+  },
+  "Bubblegum Dwarven Armor Set - ALL": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0.0",
+      "file_id": 679958,
+      "file_name": "Bubblegum Dwarven Armor Set - ALL-162322-1-0-0-1761329714.rar",
+      "mod_id": 162322,
+      "hash": "sha256-4iNwR62Ezi2cIYP5LuZCQO0lDfUIVVTTO8xzHUxHQ8s="
+    }
+  },
+  "Bubblegum Dwarven Armor Set - Standalone": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0.0",
+      "file_id": 679959,
+      "file_name": "Bubblegum Dwarven Armor Set - Standalone-162322-1-0-0-1761329733.rar",
+      "mod_id": 162322,
+      "hash": "sha256-OqEiGLrkOidKh3KoxTN+IRZaYx5myF8rChqmHBoQrpo="
+    }
+  },
+  "Bubblegum Dwarven Armor Set - Vanilla Replacer": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0.0",
+      "file_id": 679960,
+      "file_name": "Bubblegum Dwarven Armor Set - Vanilla Replacer-162322-1-0-0-1761329751.rar",
+      "mod_id": 162322,
+      "hash": "sha256-HbTeybVwiF2vhtH2cYoX+/A+eho/3Cw+rIsesuizBO0="
+    }
+  },
+  "Bubblegum Orcish Armor Set - ALL": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0.0",
+      "file_id": 679961,
+      "file_name": "Bubblegum Orcish Armor Set - ALL-162322-1-0-0-1761329810.rar",
+      "mod_id": 162322,
+      "hash": "sha256-ynjjGMZEDHuMAo1NyUHSv+v5eDqIv99PVu+HUZr4UfY="
+    }
+  },
+  "Bubblegum Orcish Armor Set - Standalone": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0.0",
+      "file_id": 679962,
+      "file_name": "Bubblegum Orcish Armor Set - Standalone-162322-1-0-0-1761329834.rar",
+      "mod_id": 162322,
+      "hash": "sha256-lGJch9dOP9XWc1ElIC1d/HPKc22/bx2GKYG2XxYSnIQ="
+    }
+  },
+  "Bubblegum Orcish Armor Set - Vanilla Replacer": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0.0",
+      "file_id": 679963,
+      "file_name": "Bubblegum Orcish Armor Set - Vanilla Replacer-162322-1-0-0-1761329872.rar",
+      "mod_id": 162322,
+      "hash": "sha256-pm6GGfBLRu44JS+WUY34jGFxbMXR4xAnt8fYcOYGrcI="
+    }
+  },
+  "Bubblegum Steel Plate Armor Set - ALL": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0.0",
+      "file_id": 679964,
+      "file_name": "Bubblegum Steel Plate Armor Set - ALL-162322-1-0-0-1761329912.rar",
+      "mod_id": 162322,
+      "hash": "sha256-gqex2pnJhddlR05L//KImWtdpf+z/AvD8yYKkWhEGmI="
+    }
+  },
+  "Bubblegum Steel Plate Armor Set": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0.0",
+      "file_id": 679965,
+      "file_name": "Bubblegum Steel Plate Armor Set-162322-1-0-0-1761329935.rar",
+      "mod_id": 162322,
+      "hash": "sha256-SdPfXEqIAgTdGhAzJsfA8Yn9lhxK9YpaDGA1tGzvKrA="
+    }
+  },
+  "Bubblegum Steel Plate Armor Set - Vanilla Replacer": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0.0",
+      "file_id": 679966,
+      "file_name": "Bubblegum Steel Plate Armor Set - Vanilla Replacer-162322-1-0-0-1761329969.rar",
+      "mod_id": 162322,
+      "hash": "sha256-T4VLygQU/MUXB2L/NksxQQDjoJauo/pmNcTDqch+gto="
+    }
+  },
+  "Bubblegum Ancient Nord Armor Set - ALL": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0.0",
+      "file_id": 679967,
+      "file_name": "Bubblegum Ancient Nord Armor Set - ALL-162322-1-0-0-1761330010.rar",
+      "mod_id": 162322,
+      "hash": "sha256-oinQYN/oQQfrKp5AdAOJm43RwkMJspcvP4ZBWgfM/sw="
+    }
+  },
+  "Bubblegum Ancient Nord Armor Set - Standalone": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0.0",
+      "file_id": 679968,
+      "file_name": "Bubblegum Ancient Nord Armor Set - Standalone-162322-1-0-0-1761330035.rar",
+      "mod_id": 162322,
+      "hash": "sha256-SJ3k0zxA7h+1+i3hC7MAVMm7MWYInMgZJUGZ9GGcQ3o="
+    }
+  },
+  "Bubblegum Ancient Nord Armor Set - Vanilla Replace": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0.0",
+      "file_id": 679969,
+      "file_name": "Bubblegum Ancient Nord Armor Set - Vanilla Replace-162322-1-0-0-1761330064.rar",
+      "mod_id": 162322,
+      "hash": "sha256-oRclAlK4a6pCR1nkDaoXly6x60FGQrmB2a+lwHhigik="
+    }
+  },
+  "Bubblegum Imperial Armor Set - ALL": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0.0",
+      "file_id": 679970,
+      "file_name": "Bubblegum Imperial Armor Set - ALL-162322-1-0-0-1761330090.rar",
+      "mod_id": 162322,
+      "hash": "sha256-6zfofWMmTFlqtr7gw5bly6Kl1q7pjntlq6Z1V8TiL+o="
+    }
+  },
+  "Bubblegum Imperial Armor Set - Standalone": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0.0",
+      "file_id": 679971,
+      "file_name": "Bubblegum Imperial Armor Set - Standalone-162322-1-0-0-1761330112.rar",
+      "mod_id": 162322,
+      "hash": "sha256-/5gU1sgLz6OPZZuul1u92ldcGEXRjN1hUneaPznxz7s="
+    }
+  },
+  "Bubblegum Imperial Armor Set - Vanilla Replacer": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0.0",
+      "file_id": 679972,
+      "file_name": "Bubblegum Imperial Armor Set - Vanilla Replacer-162322-1-0-0-1761330152.rar",
+      "mod_id": 162322,
+      "hash": "sha256-aGOqtLX7L/C9GN6U/s+Twxb2P1d0DAEDLAvVXgH78bg="
+    }
+  },
+  "Bubblegum Falmer Armor Set - ALL": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0.0",
+      "file_id": 679973,
+      "file_name": "Bubblegum Falmer Armor Set - ALL-162322-1-0-0-1761330190.rar",
+      "mod_id": 162322,
+      "hash": "sha256-KX8aFeHy0gdjTnZseS+u8VBm3Sg/ENNaeGrzk+HprDI="
+    }
+  },
+  "Bubblegum Falmer Armor Set - Standalone": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0.0",
+      "file_id": 679974,
+      "file_name": "Bubblegum Falmer Armor Set - Standalone-162322-1-0-0-1761330213.rar",
+      "mod_id": 162322,
+      "hash": "sha256-dh57Wnlnhnj+NS5MXal8mpdmrC1FCsq9yHaHiS2n4N4="
+    }
+  },
+  "Bubblegum Falmer Armor Set - Vanilla Replacer": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0.0",
+      "file_id": 679975,
+      "file_name": "Bubblegum Falmer Armor Set - Vanilla Replacer-162322-1-0-0-1761330247.rar",
+      "mod_id": 162322,
+      "hash": "sha256-eoHLkzQGbSeOEsJ9AdZE8432kO0wH5R4FO0NBQ9AtnA="
+    }
+  },
+  "Bubblegum Ebony Armor Set - ALL": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0.1",
+      "file_id": 679976,
+      "file_name": "Bubblegum Ebony Armor Set - ALL-162322-1-0-1-1761330272.rar",
+      "mod_id": 162322,
+      "hash": "sha256-axPb9DpHJhZ5YW3CRsDnhI8MeXNU7jJt9gWcwdUg3I0="
+    }
+  },
+  "Bubblegum Ebony Armor Set - Standalone": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0.1",
+      "file_id": 679977,
+      "file_name": "Bubblegum Ebony Armor Set - Standalone-162322-1-0-1-1761330293.rar",
+      "mod_id": 162322,
+      "hash": "sha256-RA9yOFOL370ACPLurnZmCNzJRUGlKvX8OaFCkxQrs5Y="
+    }
+  },
+  "Bubblegum Ebony Armor Set - Vanilla Replacer": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0.1",
+      "file_id": 679979,
+      "file_name": "Bubblegum Ebony Armor Set - Vanilla Replacer-162322-1-0-1-1761330313.rar",
+      "mod_id": 162322,
+      "hash": "sha256-3UXXbsqVytKFvWwCgJBH8IU8dKoGHRlTR9o76KAoVxs="
+    }
+  },
+  "Bubblegum Wolf Armor Set - ALL": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0.0",
+      "file_id": 679980,
+      "file_name": "Bubblegum Wolf Armor Set - ALL-162322-1-0-1-1761330353.rar",
+      "mod_id": 162322,
+      "hash": "sha256-8Sx4BrzDzOqBMniVBOtHObXd58Fwr5+ihx7MN/tHV+4="
+    }
+  },
+  "Bubblegum Wolf Armor Set - Standalone": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0.0",
+      "file_id": 679981,
+      "file_name": "Bubblegum Wolf Armor Set - Standalone-162322-1-0-1-1761330372.rar",
+      "mod_id": 162322,
+      "hash": "sha256-2Yr8mtxLoQz8FeG3fsyteA3265sFUCfT5pnC4REec4U="
+    }
+  },
+  "Bubblegum Wolf Armor Set - Vanilla Replacer": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0.0",
+      "file_id": 679982,
+      "file_name": "Bubblegum Wolf Armor Set - Vanilla Replacer-162322-1-0-0-1761330390.rar",
+      "mod_id": 162322,
+      "hash": "sha256-+5OrWJYV2UC5Dr/mAVfWII2wuyR0A9KNeBqEkGPMR0k="
+    }
+  },
+  "Bubblegum Dragonplate Armor Set - ALL": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0.0",
+      "file_id": 679983,
+      "file_name": "Bubblegum Dragon Armor Set - ALL-162322-1-0-0-1761330466.rar",
+      "mod_id": 162322,
+      "hash": "sha256-w1KojWOWxX2rsLmloZ/oYR0xn2tZ/uQP1LJPP9nCcQY="
+    }
+  },
+  "Bubblegum Dragonplate Armor Set - Standalone": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0.0",
+      "file_id": 679984,
+      "file_name": "Bubblegum Dragon Armor Set - Standalone-162322-1-0-0-1761330488.rar",
+      "mod_id": 162322,
+      "hash": "sha256-d1tRi+uS/MB7eNZJQIxGKeTHFe8ne08LVjzk2F6jTfc="
+    }
+  },
+  "Bubblegum Dragonplate Armor Set - Vanilla Replacer": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0.0",
+      "file_id": 679985,
+      "file_name": "Bubblegum Dragon Armor Set - Vanilla Replacer-162322-1-0-0-1761330508.rar",
+      "mod_id": 162322,
+      "hash": "sha256-LxtGvdZysnTUD8abiW2U9pPVfYTR6NVrIwoMQCB7KVk="
+    }
+  },
+  "Bubblegum Blades Armor Set - ALL": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0.1",
+      "file_id": 679986,
+      "file_name": "Bubblegum Blades Armor Set - ALL-162322-1-0-1-1761330592.rar",
+      "mod_id": 162322,
+      "hash": "sha256-LC0k4k1qeC8SEYAjwg9MOpXn/PJtW/+54ny+xVaQ5sI="
+    }
+  },
+  "Bubblegum Blades Armor Set - Standalone": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0.1",
+      "file_id": 679987,
+      "file_name": "Bubblegum Blades Armor Set - Standalone-162322-1-0-1-1761330610.rar",
+      "mod_id": 162322,
+      "hash": "sha256-eJGKNRmX/LW85ebaYmLns6TruwFjDaqseEm45SywJg8="
+    }
+  },
+  "Bubblegum Blades Armor Set - Vanilla Replacer": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0.1",
+      "file_id": 679988,
+      "file_name": "Bubblegum Blades Armor Set - Vanilla Replacer-162322-1-0-1-1761330626.rar",
+      "mod_id": 162322,
+      "hash": "sha256-QOz4Oe75oRAus30Mz3X8FWlK0e1UZUj52crDZIHcYsY="
+    }
+  },
+  "Bubblegum Daedric Armor Set - ALL": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0.0",
+      "file_id": 680231,
+      "file_name": "Bubblegum Daedric Armor Set - ALL-162322-1-0-0-1761394516.rar",
+      "mod_id": 162322,
+      "hash": "sha256-fr4E1/9eowi1BkThnctSCzi1ugld4XHCF6YVsdU+xYA="
+    }
+  },
+  "Bubblegum Daedric Armor Set - Standalone": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0.0",
+      "file_id": 680232,
+      "file_name": "Bubblegum Daedric Armor Set - Standalone-162322-1-0-0-1761394529.rar",
+      "mod_id": 162322,
+      "hash": "sha256-mfRBZeFqkPVd9a5+D7dKP5liNfHZR+gOZNYxogOobGc="
+    }
+  },
+  "Bubblegum Daedric Armor Set - Vanilla Replacer": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0.0",
+      "file_id": 680233,
+      "file_name": "Bubblegum Daedric Armor Set - Vanilla Replacer-162322-1-0-0-1761394543.rar",
+      "mod_id": 162322,
+      "hash": "sha256-ZWtnT7P0DldkMtpqjeBTrMVTWox1+FcilVF6J5n1L/4="
+    }
+  },
+  "Bubblegum Heavy Armor Set AIO Standalone": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0.0",
+      "file_id": 680259,
+      "file_name": "Bubblegum Heavy Armor Set AIO Standalone-162322-1-0-0-1761401284.rar",
+      "mod_id": 162322,
+      "hash": "sha256-Zv0zpyON0kvdNlhf51FK+7HoG/UIFt43fT463WgCcsI="
+    },
+    "type": "primary"
+  },
+  "Bubblegum Heavy Armor Set AIO Vanilla Replacer V1": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0.0",
+      "file_id": 680265,
+      "file_name": "Bubblegum Heavy Armor Set AIO Vanilla Replacer V1-162322-1-0-0-1761402110.rar",
+      "mod_id": 162322,
+      "hash": "sha256-4zo56EUPigUgTAXt18Ms6Nz+zJsRIvg1k54wErS1YvU="
+    },
+    "type": "primary"
+  },
+  "Bubblegum Heavy Armor Set AIO Vanilla Replacer V2": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0.1",
+      "file_id": 680556,
+      "file_name": "Bubblegum Heavy Armor Set AIO Vanilla Replacer V2-162322-1-0-1-1761472984.rar",
+      "mod_id": 162322
+    },
+    "type": "primary"
+  }
+}

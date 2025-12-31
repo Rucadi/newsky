@@ -1,0 +1,24 @@
+{
+  "Misery's Infernal Inks - 3BA 4K": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 671572,
+      "file_name": "Misery's Infernal Inks 3BA 4K-160395-1-0-1759429030.zip",
+      "mod_id": 160395,
+      "hash": "sha256-iYGSmyOJw8WuoTxfP1TfSXQnxq4kYbQPsQpAdORfq/g="
+    },
+    "type": "primary"
+  },
+  "Misery's Infernal Inks - 3BA 2K": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 671574,
+      "file_name": "Misery's Infernal Inks 3BA 2K-160395-1-0-1759429121.zip",
+      "mod_id": 160395,
+      "hash": "sha256-YZMGdBvbmv6gmsXrAzY000BFKSHmNFwhw42UQyPTIqo="
+    },
+    "type": "primary"
+  }
+}

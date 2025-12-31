@@ -1,0 +1,33 @@
+{
+  "Claymores of the North KOR_A": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 677372,
+      "file_name": "Claymores of the North KOR_A-160473-1-0-1760800975.zip",
+      "mod_id": 160473,
+      "hash": "sha256-WgPlyZEo1uygh/KZDdxI3Xf/zvb0BkXfpHe4KqL7kvA="
+    }
+  },
+  "Claymores of the North KOR_2": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 677373,
+      "file_name": "Claymores of the North KOR_2-160473-1-0-1760800998.zip",
+      "mod_id": 160473,
+      "hash": "sha256-ZPJDj3tYJh1or+P5adutUw+Wm0SSLzGp+AuBxib/274="
+    }
+  },
+  "Claymores of the North": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0.0",
+      "file_id": 677375,
+      "file_name": "Claymores of the North-160473-1-0-0-1760801767.zip",
+      "mod_id": 160473,
+      "hash": "sha256-nFaZQwQiEhV5LwNAHKgIs91m0gK0ooHsYH7/H66dEvg="
+    },
+    "type": "primary"
+  }
+}

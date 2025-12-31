@@ -1,0 +1,24 @@
+{
+  "Female Makeup Suite - Face - 2K": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.2",
+      "file_id": 98416,
+      "file_name": "Female Makeup Suite - Face - 2K-24495-1-2-1562452588.7z",
+      "mod_id": 24495,
+      "hash": "sha256-MhIsKWSyCK4KHyPZR5vaM3mgs9BUAGNOYiTpeywWleM="
+    },
+    "type": "primary"
+  },
+  "Female Makeup Suite - Face - 4K": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.2",
+      "file_id": 98417,
+      "file_name": "Female Makeup Suite - Face - 4K-24495-1-2-1562452699.7z",
+      "mod_id": 24495,
+      "hash": "sha256-+kuNNEQItC2mFTrtW8iHiQBhD/yS6x3b4lawjPVmXak="
+    },
+    "type": "primary"
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "Alternative Textures": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "2.1",
+      "file_id": 154896,
+      "file_name": "Alternative Textures-21973-2-1-1597073020.7z",
+      "mod_id": 21973,
+      "hash": "sha256-99qQGsTM3UXulSVfx3yXHl/QIHGlVUCfEIutTl1PptQ="
+    }
+  },
+  "Wraith Tongues - NiOPA": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "2.2",
+      "file_id": 171472,
+      "file_name": "Wraith Tongues - NiOPA-21973-2-2-1606226008.7z",
+      "mod_id": 21973,
+      "hash": "sha256-poSBJjcj/pT8qY5fdxuK4XfCVPiReh01/rggjpcnAoY="
+    },
+    "type": "primary"
+  },
+  "Wraith Tongues - Skinned": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "2.2",
+      "file_id": 171473,
+      "file_name": "Wraith Tongues - Skinned-21973-2-2-1606226037.7z",
+      "mod_id": 21973,
+      "hash": "sha256-IIvU6/rQexPAErD4/re+yLDlQLe7PYJnOQncjBhYZw4="
+    },
+    "type": "primary"
+  }
+}

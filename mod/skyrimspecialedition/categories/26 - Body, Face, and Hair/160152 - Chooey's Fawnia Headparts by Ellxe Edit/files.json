@@ -1,13 +1,13 @@
 {
-  "Chooey's Fawnia Headparts by Ellxe Edit": {
-    "nexusmods": {
-      "game_name": "skyrimspecialedition",
-      "version": "1.0.1",
-      "file_id": 670074,
-      "file_name": "Chooey's Fawnia Headparts by Ellxe Edit-160152-1-0-1-1759025999.7z",
-      "mod_id": 160152,
-      "hash": "sha256-ChKG5MOPJ/K3Xz0f1SxYBWjNQe1vOHcXWRGp48OnYkY="
-    },
-    "type": "primary"
-  }
+    "Chooey's Fawnia Headparts by Ellxe Edit": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "1.0.1",
+            "file_id": 670074,
+            "file_name": "Chooey's Fawnia Headparts by Ellxe Edit-160152-1-0-1-1759025999.7z",
+            "mod_id": 160152,
+            "hash": "sha256-ChKG5MOPJ/K3Xz0f1SxYBWjNQe1vOHcXWRGp48OnYkY="
+        },
+        "type": "primary"
+    }
 }

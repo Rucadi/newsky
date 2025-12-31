@@ -1,0 +1,43 @@
+{
+  "CBBE 3BA Vagina Textures Set Reinstaller": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.02",
+      "file_id": 179296,
+      "file_name": "CBBE 3BBB Vagina Textures Set-30174-1-02-1610552396.7z",
+      "mod_id": 30174,
+      "hash": "sha256-ywG7BsbxmguluNtUxaKdHPLJ2ycKO+Jf4Cv6Y8ptCSo="
+    }
+  },
+  "Custom normalmaps for sliders": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.00",
+      "file_id": 192762,
+      "file_name": "Custom normalmaps for sliders-30174-1-00-1616354783.7z",
+      "mod_id": 30174,
+      "hash": "sha256-LQwXdj//ZQMPuwCPJMmrLzsuoJ3r+kLoPoUW9pNHcSI="
+    }
+  },
+  "CBBE 3BA Physics Config Reinstaller": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.33",
+      "file_id": 344057,
+      "file_name": "CBBE 3BA Physics Config Reinstaller-30174-1-33-1672171213.7z",
+      "mod_id": 30174,
+      "hash": "sha256-A3qmFUDN5YnxW7jpT8MJ42Ev4ldeZMMEei81Qg6Griw="
+    }
+  },
+  "CBBE 3BA (3BBB)": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "2.48",
+      "file_id": 600100,
+      "file_name": "CBBE 3BA (3BBB)-30174-2-48-1740765899.zip",
+      "mod_id": 30174,
+      "hash": "sha256-aISb3eabdMC1UiGT32GH+wx0luKCdUJzw2dMehh1RrU="
+    },
+    "type": "primary"
+  }
+}

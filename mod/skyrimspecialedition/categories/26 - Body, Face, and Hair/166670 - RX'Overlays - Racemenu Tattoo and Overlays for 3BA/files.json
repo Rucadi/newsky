@@ -1,0 +1,23 @@
+{
+  "RX'Overlays (ESL)": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 696320,
+      "file_name": "RX'Overlays-166670-1-0-1765338025.7z",
+      "mod_id": 166670,
+      "hash": "sha256-sp/P3h90o2QGcregtVTeVtGCky7DvZWYvqLHS6y3YWo="
+    },
+    "type": "primary"
+  },
+  "ODF": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 697974,
+      "file_name": "ODF-166670-1-0-1765727977.7z",
+      "mod_id": 166670,
+      "hash": "sha256-FxY7KI2I8nOHbmpGP745rZy4jQVkG7WRBJaz0BhTfgg="
+    }
+  }
+}

@@ -2,6 +2,8 @@
 - Author: Niroku
 - Game: skyrimspecialedition
 - Mod Page: https://www.nexusmods.com/skyrimspecialedition/mods/35785
+
+
 I use machine translation. Please do not use slang etc for messages addressed to me, please write concise sentences.
   
 The sample images were taken with Oldrim.

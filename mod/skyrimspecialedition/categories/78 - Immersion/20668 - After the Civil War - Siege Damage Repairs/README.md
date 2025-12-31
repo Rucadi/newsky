@@ -2,6 +2,8 @@
 - Author: tarlazo
 - Game: skyrimspecialedition
 - Mod Page: https://www.nexusmods.com/skyrimspecialedition/mods/20668
+
+
 **The mod can be installed anytime: before, during, or after the Civil War.**
   
   

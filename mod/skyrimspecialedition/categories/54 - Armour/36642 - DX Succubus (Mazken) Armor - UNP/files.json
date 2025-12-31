@@ -1,0 +1,34 @@
+{
+  "DX Succubus Armor UNP 27K SSE": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 143201,
+      "file_name": "DX Succubus Armor UNP 27K SSE-36642-1-0-1590984437.7z",
+      "mod_id": 36642,
+      "hash": "sha256-msZkDjUidPqHqY5TjsDmPJfzgJWlSPoK30EjNXgknkQ="
+    },
+    "type": "primary"
+  },
+  "DX Succubus Armor UNP 14K SSE": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 143202,
+      "file_name": "DX Succubus Armor UNP 14K SSE-36642-1-0-1590984705.7z",
+      "mod_id": 36642,
+      "hash": "sha256-lJKNR5V/vBs/NrbXULRiJQpnB0wVPz718KbvER9sYTc="
+    },
+    "type": "primary"
+  },
+  "DX Succubus Armor Types": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 143205,
+      "file_name": "DX Succubus Armor Types-36642-1-0-1590985696.7z",
+      "mod_id": 36642,
+      "hash": "sha256-f9LzuxcQLZczkG7pTkjDMkOxonLWiJvXljoqzXPzZB8="
+    }
+  }
+}

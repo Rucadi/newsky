@@ -1,0 +1,24 @@
+{
+  "Dragon Wall Wisdom - Readable Dragon Walls (ESP Version)": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1.1",
+      "file_id": 315567,
+      "file_name": "Dragon Wall Wisdom - Readable Dragon Walls-17591-1-1-1-1662993976.rar",
+      "mod_id": 17591,
+      "hash": "sha256-Gr14V6/6kYyZhWh+Ve0ccnMm5yufxMC77ek9dmaE9rQ="
+    },
+    "type": "primary"
+  },
+  "Dragon Wall Wisdom - Readable Dragon Walls (ESL Version)": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1.1",
+      "file_id": 315569,
+      "file_name": "Dragon Wall Wisdom - Readable Dragon Walls-17591-1-1-1-1662994021.rar",
+      "mod_id": 17591,
+      "hash": "sha256-4qohZPT8kNnNej20mj8hYkF2wOjt7A2DxJEqrT5z9Pk="
+    },
+    "type": "primary"
+  }
+}

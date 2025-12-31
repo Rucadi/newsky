@@ -1,0 +1,35 @@
+{
+  "Nyri Follower 3BA and BHUNP FOMOD": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1",
+      "file_id": 687087,
+      "file_name": "Nyri Follower 3BA and BHUNP FOMOD-161860-1-1763055008.7z",
+      "mod_id": 161860,
+      "hash": "sha256-Hjeua4KTUl9YoqRR/7JcrWWuJxG2FbvAtDjHMPlgcbI="
+    },
+    "type": "primary"
+  },
+  "Nyri Purple Voicepack": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1",
+      "file_id": 688565,
+      "file_name": "Nyri Purple Voicepack-161860-1-1-1763400391.zip",
+      "mod_id": 161860,
+      "hash": "sha256-STyg2Ekfth7S8GOvIrMAdRxmRzybDT6K6PHhO2BTnks="
+    },
+    "type": "primary"
+  },
+  "Nyri Red Voicepack": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1",
+      "file_id": 688566,
+      "file_name": "Nyri Red Voicepack-161860-1-1-1763400435.zip",
+      "mod_id": 161860,
+      "hash": "sha256-p2HN3vKPLjf6liYp2QtMXChMAKMk+kE7MISHJJEGM74="
+    },
+    "type": "primary"
+  }
+}

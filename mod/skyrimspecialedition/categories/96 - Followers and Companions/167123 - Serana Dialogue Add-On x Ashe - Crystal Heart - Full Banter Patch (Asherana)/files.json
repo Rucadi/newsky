@@ -1,0 +1,33 @@
+{
+  "Ashe and Serana Banter Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0.3",
+      "file_id": 701141,
+      "file_name": "Ashe and Serana Banter Patch-167123-1-0-3-1766471808.7z",
+      "mod_id": 167123,
+      "hash": "sha256-jhgwUDVztjBz2/ICq99E9OpiqpvVxgGCF4azNqdSE2c="
+    },
+    "type": "primary"
+  },
+  "Asherana Slower Banter Cooldown Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0SlowerCooldown",
+      "file_id": 701224,
+      "file_name": "Ashe and Serana Banter Cooldown Patch-167123-1-0SlowerCooldown-1766487608.7z",
+      "mod_id": 167123,
+      "hash": "sha256-WgnzGjcjSenWqfLNBI3yfNGfPYKDqZk1zOl7mQZD5OY="
+    }
+  },
+  "Asherana Much Slower Banter Cooldown Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0MuchSlowerCooldown",
+      "file_id": 701225,
+      "file_name": "Asherana Much Slower Banter Cooldown Patch-167123-1-0MuchSlowerCooldown-1766487653.7z",
+      "mod_id": 167123,
+      "hash": "sha256-CZjvEz6O7a+EMbiql/WjaGULmm8UjuxazsZP8hzGX8w="
+    }
+  }
+}

@@ -1,0 +1,55 @@
+{
+  "Extra Encounters Reborn SE - HSR Version": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.3",
+      "file_id": 90647,
+      "file_name": "Extra Encounters - HSR Version-25504-1-0-1556858088.rar",
+      "mod_id": 25504,
+      "hash": "sha256-TAJrm2YZ/kJGaCxo7ToyqVavGgkJgLUxv1JspBBejbI="
+    }
+  },
+  "Extra Encounters Reborn SE - CSP Version": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.3",
+      "file_id": 90648,
+      "file_name": "Extra Encounters SE - CSP Version-25504-1-0-1556858112.rar",
+      "mod_id": 25504,
+      "hash": "sha256-WPXL30yOlvC288WS36LnLvQodaLw3sEyuyWMKs8tVoc="
+    }
+  },
+  "Extra Encounters Reborn SE - Full Version": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.3",
+      "file_id": 348817,
+      "file_name": "Extra Encounters SE - Full Version-25504-1-3-1673521649.rar",
+      "mod_id": 25504,
+      "hash": "sha256-MZ0XO9/N6TeOtV4wourqD9SUX7820DzgMWG7iAiwDxQ="
+    },
+    "type": "primary"
+  },
+  "Extra Encounters Reborn SE - Regular Version": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.3",
+      "file_id": 348819,
+      "file_name": "Extra Encounters SE - Regular Version-25504-1-3-1673521710.rar",
+      "mod_id": 25504,
+      "hash": "sha256-u6Mi1VlrxPJV9cIQmt9Ut4kq71C8TGCArVkP3LlRQI0="
+    },
+    "type": "primary"
+  },
+  "Extra Encounters SE - Full Version Merged": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.3",
+      "file_id": 349062,
+      "file_name": "Extra Encounters SE - Full Version Merged-25504-1-3-1673579434.rar",
+      "mod_id": 25504,
+      "hash": "sha256-GCPupZDooqag7c4A0+iO0v/a9uNkJKxb1cvxFscNQSY="
+    },
+    "type": "primary"
+  }
+}

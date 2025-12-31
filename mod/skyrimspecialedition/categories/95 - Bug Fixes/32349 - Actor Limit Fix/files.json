@@ -1,35 +1,35 @@
 {
-    "Actor Limit Fix - Special Edition (1.5.97.0 and earlier)": {
-        "nexusmods": {
-            "game_name": "skyrimspecialedition",
-            "version": "5",
-            "file_id": 269167,
-            "file_name": "Actor Limit Fix (Special Edition)-32349-5-1646905082.7z",
-            "mod_id": 32349,
-            "hash": "sha256-93X2gm+0SvKDS+PggDaLL+DRcQwB3NUqV2hOUNxFvus="
-        },
-        "type": "primary"
+  "Actor Limit Fix - Special Edition (1.5.97.0 and earlier)": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "5",
+      "file_id": 269167,
+      "file_name": "Actor Limit Fix (Special Edition)-32349-5-1646905082.7z",
+      "mod_id": 32349,
+      "hash": "sha256-93X2gm+0SvKDS+PggDaLL+DRcQwB3NUqV2hOUNxFvus="
     },
-    "Actor Limit Fix - Anniversary Edition (1.6.318.0 to 1.6.353.0)": {
-        "nexusmods": {
-            "game_name": "skyrimspecialedition",
-            "version": "6",
-            "file_id": 273041,
-            "file_name": "Actor Limit Fix (Anniversary Edition)-32349-6-1648396498.7z",
-            "mod_id": 32349,
-            "hash": "sha256-8MoqdiFppPeRBlVKgAOeOK2W2mPKM++ebZAYiL93Q6Y="
-        },
-        "type": "primary"
+    "type": "primary"
+  },
+  "Actor Limit Fix - Anniversary Edition (1.6.318.0 to 1.6.353.0)": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "6",
+      "file_id": 273041,
+      "file_name": "Actor Limit Fix (Anniversary Edition)-32349-6-1648396498.7z",
+      "mod_id": 32349,
+      "hash": "sha256-8MoqdiFppPeRBlVKgAOeOK2W2mPKM++ebZAYiL93Q6Y="
     },
-    "Actor Limit Fix - Anniversary Edition (1.6.629.0 and later)": {
-        "nexusmods": {
-            "game_name": "skyrimspecialedition",
-            "version": "9",
-            "file_id": 368385,
-            "file_name": "Actor Limit Fix - Anniversary Edition (1.6.629.0 and later)-32349-9-1678780488.7z",
-            "mod_id": 32349,
-            "hash": "sha256-SjLRRCsMAqxUV2gWKJbM0KNTohuuu/TCLrUbcXSH288="
-        },
-        "type": "primary"
-    }
+    "type": "primary"
+  },
+  "Actor Limit Fix - Anniversary Edition (1.6.629.0 and later)": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "9",
+      "file_id": 368385,
+      "file_name": "Actor Limit Fix - Anniversary Edition (1.6.629.0 and later)-32349-9-1678780488.7z",
+      "mod_id": 32349,
+      "hash": "sha256-SjLRRCsMAqxUV2gWKJbM0KNTohuuu/TCLrUbcXSH288="
+    },
+    "type": "primary"
+  }
 }

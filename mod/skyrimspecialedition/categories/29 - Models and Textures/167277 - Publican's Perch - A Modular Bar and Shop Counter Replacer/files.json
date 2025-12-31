@@ -1,0 +1,64 @@
+{
+  "Publican's Perch - Vanilla Replacer - Dawnstar": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0.1",
+      "file_id": 699063,
+      "file_name": "Publican's Perch - Vanilla Replacer - Dawnstar-167277-1-0-1766006600.rar",
+      "mod_id": 167277,
+      "hash": "sha256-huLKRi/OF6pacCB1uex1HKWhup5rENDCgRYhvckHHEs="
+    }
+  },
+  "Publican's Perch - Vanilla Replacer - Solitude": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0.1",
+      "file_id": 699082,
+      "file_name": "Publican's Perch - Vanilla Replacer - Riften-167277-1-0-1766010142.rar",
+      "mod_id": 167277,
+      "hash": "sha256-Hk+D//iWO+CtsUOroMRR4W3OGUJR6Emrvyi5XgsPH6c="
+    }
+  },
+  "Publican's Perch - Vanilla Replacer - Whiterun": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0.1",
+      "file_id": 700511,
+      "file_name": "Publican's Perch - Vanilla Replacer - Whiterun-167277-1-0-1-1766338099.rar",
+      "mod_id": 167277,
+      "hash": "sha256-MqldADLTgoR7igEOXq6h8zYMyjQgzYBtNAPPKcFWBEY="
+    }
+  },
+  "Publican's Perch - BOS Bar and Counter Replacer": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0.2",
+      "file_id": 702983,
+      "file_name": "Publican's Perch - BOS Bar and Counter Replacer-167277-1-0-2-1766948703.rar",
+      "mod_id": 167277,
+      "hash": "sha256-3fU0Q9S8iHWGyIHSUa5ZlxxqUyAO9F7+6PQQNbgHPO4="
+    },
+    "type": "primary"
+  },
+  "Publican's Perch - BOS Bar and Counter Replacer 2k": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0.2",
+      "file_id": 703010,
+      "file_name": "Publican's Perch - BOS Bar and Counter Replacer 2k-167277-1-0-2-1766953429.rar",
+      "mod_id": 167277,
+      "hash": "sha256-W/mlPoEqqVRyGWDIGSWCsz3435W91VFmdw4NuRvwZKY="
+    },
+    "type": "primary"
+  },
+  "Publican's Perch - Vanilla Replacer - Riften": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0.2",
+      "file_id": 703011,
+      "file_name": "Publican's Perch - Vanilla Replacer - Riften-167277-1-0-2-1766953737.rar",
+      "mod_id": 167277,
+      "hash": "sha256-WN+zerIaq3NqY+35SyE8rLyCxkzdzLMit8WmbmY5VSo="
+    }
+  }
+}

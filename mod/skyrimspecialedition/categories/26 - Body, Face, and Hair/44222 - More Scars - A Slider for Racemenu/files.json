@@ -1,0 +1,55 @@
+{
+  "More Scar Sliders": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 180234,
+      "file_name": "More Scar Sliders-44222-1-0-1610976368.7z",
+      "mod_id": 44222,
+      "hash": "sha256-3/ueDnvm4tH0/KxeaIHyLvzpxg96olwvgBsQYUIjZ9k="
+    },
+    "type": "primary"
+  },
+  "More Scar Sliders for COtR": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 180237,
+      "file_name": "More Scar Sliders for COtR-44222-1-0-1610976436.7z",
+      "mod_id": 44222,
+      "hash": "sha256-h4DpaZZLEuMNuH4pV+PUHxIBYwgfQZ5Myiv63TGJoiQ="
+    },
+    "type": "primary"
+  },
+  "More Scar Sliders for High Poly Head": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1",
+      "file_id": 184453,
+      "file_name": "More Scar Sliders for High Poly Head-44222-1-1-1612641628.7z",
+      "mod_id": 44222,
+      "hash": "sha256-v7hsRbpyZuELxkznrjMFL2w1Pfib0ZJcMDsXBku3F6o="
+    },
+    "type": "primary"
+  },
+  "More Scar Sliders - Northborn Scars": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 258573,
+      "file_name": "More Scar Sliders - Northborn Scars-44222-1-0-1642826051.7z",
+      "mod_id": 44222,
+      "hash": "sha256-4WkF4vVpUQuAajbqElX8YsyG28uGtLrVHi9Lw1MKIk0="
+    }
+  },
+  "More Scar Sliders - Northborn Scars for High Poly Head": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 258574,
+      "file_name": "More Scar Sliders - Northborn Scars for High Poly Head-44222-1-0-1642826110.7z",
+      "mod_id": 44222,
+      "hash": "sha256-Mz0xqzVcQOGYy6bnD23Lf03dguuwi8O+4yNGODoKc3s="
+    }
+  }
+}

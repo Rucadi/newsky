@@ -1,0 +1,24 @@
+{
+  "ELLE - Lastriem - Recolor 2K": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0.0",
+      "file_id": 696188,
+      "file_name": "ELLE - Lastriem - Recolor 2K-166676-1-0-0-1765308829.7z",
+      "mod_id": 166676,
+      "hash": "sha256-HXOYJteQv/9a1AGywI7HAWPm+0a/7bfwn+usrYJzAXg="
+    },
+    "type": "primary"
+  },
+  "ELLE - Lastriem - Recolor 4K": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0.0",
+      "file_id": 696190,
+      "file_name": "ELLE - Lastriem - Recolor 4K-166676-1-0-0-1765308874.7z",
+      "mod_id": 166676,
+      "hash": "sha256-WgMUmyP191qptkjKPesyzrQoF4bb2j2FnOTujJ87p1A="
+    },
+    "type": "primary"
+  }
+}

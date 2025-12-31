@@ -1,0 +1,43 @@
+{
+  "Neutral Hjerim": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 109549,
+      "file_name": "Neutral Hjerim-29508-1-0-1570467078.rar",
+      "mod_id": 29508,
+      "hash": "sha256-zTmCZjoAs8Au/b3CEGT3G1EiCZs67s3MKOSVWMbB4H4="
+    },
+    "type": "primary"
+  },
+  "Neutral Hjerim - No Thane": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 109550,
+      "file_name": "Neutral Hjerim - No Thane-29508-1-0-1570467113.rar",
+      "mod_id": 29508,
+      "hash": "sha256-6T4JtL/AcvUw1znt6+7SrtJwIKXV9BBsUFPid5JNg9U="
+    }
+  },
+  "Full Version - ESLified ESP": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 109564,
+      "file_name": "Full Version - ESLified ESP-29508-1-0-1570480184.rar",
+      "mod_id": 29508,
+      "hash": "sha256-TXS72Hh65d0MLo7tWyqBdTZLq7cCjFyMWx6TURliTnc="
+    }
+  },
+  "No Thane - ESLified ESP": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 109566,
+      "file_name": "No Thane - ESLified ESP-29508-1-0-1570480374.rar",
+      "mod_id": 29508,
+      "hash": "sha256-LXAxK8qxc1MxSzOyi71pyZAvbtxWyBHcJNAqf6YTd6s="
+    }
+  }
+}

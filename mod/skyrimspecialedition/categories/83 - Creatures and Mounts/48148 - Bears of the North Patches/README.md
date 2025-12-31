@@ -2,6 +2,8 @@
 - Author: Kuplion
 - Game: skyrimspecialedition
 - Mod Page: https://www.nexusmods.com/skyrimspecialedition/mods/48148
+
+
 ﻿
 
 **Bears of the North Patches**A small set of addons for Bears of the North that brings compatibility with the other mods that have bears and bear variants.

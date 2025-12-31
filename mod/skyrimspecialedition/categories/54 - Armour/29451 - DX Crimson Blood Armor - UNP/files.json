@@ -1,0 +1,83 @@
+{
+  "Crimson Blood Armor": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 109516,
+      "file_name": "Crimson Blood Armor-29451-1-0-1570426302.7z",
+      "mod_id": 29451,
+      "hash": "sha256-EdzLD7dfCFHtUP8SyOWTNcosfLs8/FAhW91U+tCHrtU="
+    },
+    "type": "primary"
+  },
+  "Crimson Blood Armor Rose Theme": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 109518,
+      "file_name": "Crimson Blood Armor Rose Theme-29451-1-0-1570426827.7z",
+      "mod_id": 29451,
+      "hash": "sha256-hq/RwqTP1Su4Sx0jmoEb3EAgT9QjFxgqYe6FxQvBIkc="
+    }
+  },
+  "Crimson Blood Armor Poison Theme": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 109519,
+      "file_name": "Crimson Blood Armor Poison Theme-29451-1-0-1570427010.7z",
+      "mod_id": 29451,
+      "hash": "sha256-3NNaMJl2cD+KtXJW/rtdnbKclt5leNKlCyqtwtNQv10="
+    }
+  },
+  "Crimson Blood Armor Emerald Theme": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 109520,
+      "file_name": "Crimson Blood Armor Emerald Theme-29451-1-0-1570427143.7z",
+      "mod_id": 29451,
+      "hash": "sha256-9HnyPXvykQc2b3wwTFGQyxnqm8r9EMknPV9F1UXsZZo="
+    }
+  },
+  "Crimson Blood Armor Frostbite Theme": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 109522,
+      "file_name": "Crimson Blood Armor Frostbite Theme-29451-1-0-1570427587.7z",
+      "mod_id": 29451,
+      "hash": "sha256-gJ5v3qzPMNsuYt7sDGr+H0vptc+TsfP1MjhKZp4D8+4="
+    }
+  },
+  "Crimson Blood Armor Warlock Theme": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 109523,
+      "file_name": "Crimson Blood Armor Warlock Theme-29451-1-0-1570427852.7z",
+      "mod_id": 29451,
+      "hash": "sha256-hesKmswV1no55vJ8RXxaUlEaLc1hFfL6reX0+ILndvQ="
+    }
+  },
+  "Crimson Blood Armor Glow Intensity": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 109524,
+      "file_name": "Crimson Blood Armor Glow Intensity-29451-1-0-1570428212.7z",
+      "mod_id": 29451,
+      "hash": "sha256-fDiwl79N1Dcac5BC3FyEvFdgvsD6azvJXjWkeA1HLFM="
+    }
+  },
+  "Crimson Blood Armor Royal Gold Theme": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1",
+      "file_id": 119859,
+      "file_name": "Crimson Blood Armor Royal Gold Theme-29451-1-0-1579077103.7z",
+      "mod_id": 29451,
+      "hash": "sha256-98mgmPZdbCkaGggMoWJDZ0oztw/EBJ42SecTnQIKGFk="
+    }
+  }
+}

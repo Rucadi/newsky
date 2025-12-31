@@ -1,13 +1,13 @@
 {
-  "Praedy staves - Lost Grimoire": {
-    "nexusmods": {
-      "game_name": "skyrimspecialedition",
-      "version": "1.0",
-      "file_id": 662683,
-      "file_name": "Praedy staves - Lost Grimoire-158518-1-0-1757098428.rar",
-      "mod_id": 158518,
-      "hash": "sha256-DYlYJ0CKZM/CxG9hU22jyA+Yp3Nsz7WroO70OmJRB50="
-    },
-    "type": "primary"
-  }
+    "Praedy staves - Lost Grimoire": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "1.0",
+            "file_id": 662683,
+            "file_name": "Praedy staves - Lost Grimoire-158518-1-0-1757098428.rar",
+            "mod_id": 158518,
+            "hash": "sha256-DYlYJ0CKZM/CxG9hU22jyA+Yp3Nsz7WroO70OmJRB50="
+        },
+        "type": "primary"
+    }
 }

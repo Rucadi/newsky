@@ -1,0 +1,23 @@
+{
+  "Northfires Windhelm": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1",
+      "file_id": 178199,
+      "file_name": "Northfires Windhelm-44099-1-1610046665.rar",
+      "mod_id": 44099,
+      "hash": "sha256-1jfRgHTfbaKwX0sQQnmhBhWcsjl0451r18aRoAYJtz4="
+    },
+    "type": "primary"
+  },
+  "Northfire's Windhelm footsteps fix": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1",
+      "file_id": 205733,
+      "file_name": "Northfire's Windhelm footsteps fix-44099-1-1622059075.zip",
+      "mod_id": 44099,
+      "hash": "sha256-6212JLOYbnsPtimBuyp0CJGLKdsCNwpYc04QtulK7I4="
+    }
+  }
+}

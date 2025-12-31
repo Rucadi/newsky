@@ -1,0 +1,13 @@
+{
+  "Singularity": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.2",
+      "file_id": 188571,
+      "file_name": "Singularity-38611-1-2-1614522654.zip",
+      "mod_id": 38611,
+      "hash": "sha256-r2YNtR4lo0qs/KfHRt+HHBkZTuaAQP6xcnCpwDWFapQ="
+    },
+    "type": "primary"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "Example custom skill": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "3",
+      "file_id": 493368,
+      "file_name": "Example custom skill-41780-3-1713723980.zip",
+      "mod_id": 41780,
+      "hash": "sha256-rvcpO3LoeXxsPydSHO7UNQyaRAAl05n35YaAq7XykOo="
+    }
+  },
+  "Custom Skills Framework": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "3.1.0",
+      "file_id": 496520,
+      "file_name": "Custom Skills Framework-41780-3-1-0-1714511162.7z",
+      "mod_id": 41780,
+      "hash": "sha256-OpmdAafIfLP6zus2LxffEn8waaoELvi1kyJKxsIE7Yg="
+    },
+    "type": "primary"
+  },
+  "Custom Skills Framework for 1.5.97": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "3.1.0",
+      "file_id": 677572,
+      "file_name": "Custom Skills Framework for 1.5.97-41780-3-1-0-1760829988.7z",
+      "mod_id": 41780,
+      "hash": "sha256-NMGOaRu5Ij+f7pPaIbLwX+DMO/GvI3S8BwCCAOwX7qI="
+    }
+  }
+}

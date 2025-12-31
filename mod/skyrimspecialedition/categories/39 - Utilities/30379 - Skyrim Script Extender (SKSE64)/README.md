@@ -2,6 +2,8 @@
 - Author: SKSE Team
 - Game: skyrimspecialedition
 - Mod Page: https://www.nexusmods.com/skyrimspecialedition/mods/30379
+
+
 The Skyrim Script Extender (SKSE) is a tool used by many Skyrim mods that expands scripting capabilities and adds additional functionality to the game.
   
   

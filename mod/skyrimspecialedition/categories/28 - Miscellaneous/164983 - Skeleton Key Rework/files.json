@@ -1,0 +1,23 @@
+{
+  "Skeleton Key Rework 1.0 CHS": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 690033,
+      "file_name": "Skeleton Key Rework 1.0 CHS-164983-1-0-1763823623.zip",
+      "mod_id": 164983,
+      "hash": "sha256-LHIgMGMATN7x1a5G5B/11HdhbrseKbpOUj5uXnh2nZg="
+    }
+  },
+  "Skeleton Key Rework 1.01": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.01",
+      "file_id": 690279,
+      "file_name": "Skeleton Key Rework 1.01-164983-1-01-1763879681.zip",
+      "mod_id": 164983,
+      "hash": "sha256-vEOPLwULNg8EjFRPx03ZxWJh8by3B1N/NSCV46q0klw="
+    },
+    "type": "primary"
+  }
+}

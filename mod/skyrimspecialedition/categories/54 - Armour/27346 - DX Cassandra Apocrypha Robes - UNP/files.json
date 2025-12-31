@@ -1,0 +1,43 @@
+{
+  "Cassandra Apocrypha Robes UNP": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1",
+      "file_id": 99387,
+      "file_name": "Cassandra Apocrypha Robes UNP-27346-1-1-1563208037.7z",
+      "mod_id": 27346,
+      "hash": "sha256-r7Bi3SUSdYXX+WR48xSNUWPZ1QdNTQlaIzlIBkHnvP4="
+    },
+    "type": "primary"
+  },
+  "Cassandra Apocrypha Robes Glow ON": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1",
+      "file_id": 99397,
+      "file_name": "Cassandra Apocrypha Robes Glow-27346-1-1-1563211679.7z",
+      "mod_id": 27346,
+      "hash": "sha256-GRFoKykbfq89nsPFHlJXYYBa/2fnCuhQ9eC5te6xNFo="
+    }
+  },
+  "Cassandra Apocrypha Robes Glow OFF": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1",
+      "file_id": 99398,
+      "file_name": "Cassandra Apocrypha Robes No - Glow-27346-1-1-1563211747.7z",
+      "mod_id": 27346,
+      "hash": "sha256-G6e090RdwxmOiobChQx5CwfDbkRtsQ9qQ3e8AGJps4A="
+    }
+  },
+  "Cassandra Apocrypha Robes Cultist Theme": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.2",
+      "file_id": 119848,
+      "file_name": "Cassandra Apocrypha Robes Cultist Theme-27346-1-1-1579066746.7z",
+      "mod_id": 27346,
+      "hash": "sha256-gt8vInFy9iPsZi0wbNf80QNOohvED9Zwpf1O9Dd2Ixc="
+    }
+  }
+}

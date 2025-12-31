@@ -27,7 +27,8 @@
       "version": "1",
       "file_id": 669173,
       "file_name": "Ebony Valkyrie HIMBO-159141-1-1758761175.7z",
-      "mod_id": 159141
+      "mod_id": 159141,
+      "hash": "sha256-Zp9cSVhcAN9YcTIL1NNUqREQmeKDcg+E4xJ3Pr8mcTI="
     },
     "type": "primary"
   },
@@ -37,7 +38,8 @@
       "version": "1",
       "file_id": 669174,
       "file_name": "Ebony Valkyrie UBE-159141-1-1758761272.7z",
-      "mod_id": 159141
+      "mod_id": 159141,
+      "hash": "sha256-cweCGWVWRBTC0PAQUkXfpKqrlrD6Lfdn7wyfvFk0tMU="
     },
     "type": "primary"
   }

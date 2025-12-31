@@ -1,0 +1,56 @@
+{
+  "Variant 1 - Akaviri Sword Replacer": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 175091,
+      "file_name": "Variant 1 - Akaviri Sword Replacer-43469-1-0-1608377680.7z",
+      "mod_id": 43469,
+      "hash": "sha256-VIXJ4RUfGpFgMuKbHmDsVPKDTzwpB38rMgYzPJg0zDY="
+    },
+    "type": "primary"
+  },
+  "Variant 1 - Blades Sword Replacer": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 175092,
+      "file_name": "Variant 1 - Blades Sword Replacer-43469-1-0-1608377702.7z",
+      "mod_id": 43469,
+      "hash": "sha256-0yWR+j36p211zvVafbWprvf9Y0WbkJbWEC6gOuMenX0="
+    },
+    "type": "primary"
+  },
+  "Variant 2 - Akaviri Sword Replacer": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 175093,
+      "file_name": "Variant 2 - Akaviri Sword Replacer-43469-1-0-1608377745.7z",
+      "mod_id": 43469,
+      "hash": "sha256-SMHMETfxjC2WmKsJpOMvvCT0O76e6VW5Tl4+4zQ+v+M="
+    },
+    "type": "primary"
+  },
+  "Variant 2 - Blades Sword Replacer": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 175094,
+      "file_name": "Variant 2 - Blades Sword Replacer-43469-1-0-1608377770.7z",
+      "mod_id": 43469,
+      "hash": "sha256-1u26P2k4mSnoqbBeI+tMooI5fbP4HmL/cJib0jOKWDg="
+    },
+    "type": "primary"
+  },
+  "Akaviri Edge - Animated Armoury Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 586555,
+      "file_name": "Akaviri Edge - Animated Amoury Patch-43469-1-0-1737649321.7z",
+      "mod_id": 43469,
+      "hash": "sha256-7N9veMvLzR2d7GiFE91uwOT9en8tGBQAP8S3OJnq9zI="
+    }
+  }
+}

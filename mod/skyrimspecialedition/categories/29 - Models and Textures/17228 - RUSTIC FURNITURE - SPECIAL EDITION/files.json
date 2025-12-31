@@ -1,46 +1,46 @@
 {
-  "RUSTIC FURNITURE - SE - 2K": {
-    "nexusmods": {
-      "game_name": "skyrimspecialedition",
-      "version": "3.0",
-      "file_id": 157638,
-      "file_name": "RUSTIC FURNITURE - SE - 2K-17228-3-0-1598395114.7z",
-      "mod_id": 17228,
-      "hash": "sha256-fw1MPZ7aGD7CbICyOIxHBUruZNgb3cabbTKmazBwL7k="
+    "RUSTIC FURNITURE - SE - 2K": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "3.0",
+            "file_id": 157638,
+            "file_name": "RUSTIC FURNITURE - SE - 2K-17228-3-0-1598395114.7z",
+            "mod_id": 17228,
+            "hash": "sha256-fw1MPZ7aGD7CbICyOIxHBUruZNgb3cabbTKmazBwL7k="
+        },
+        "type": "primary"
     },
-    "type": "primary"
-  },
-  "RUSTIC FURNITURE - SE - 4K": {
-    "nexusmods": {
-      "game_name": "skyrimspecialedition",
-      "version": "3.0",
-      "file_id": 157639,
-      "file_name": "RUSTIC FURNITURE - SE - 4K-17228-3-0-1598395223.7z",
-      "mod_id": 17228,
-      "hash": "sha256-mBBh7Vk2yxa5ygKaJB5lLUVshHlBbJlTTxOp1ZV8OFA="
+    "RUSTIC FURNITURE - SE - 4K": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "3.0",
+            "file_id": 157639,
+            "file_name": "RUSTIC FURNITURE - SE - 4K-17228-3-0-1598395223.7z",
+            "mod_id": 17228,
+            "hash": "sha256-mBBh7Vk2yxa5ygKaJB5lLUVshHlBbJlTTxOp1ZV8OFA="
+        },
+        "type": "primary"
     },
-    "type": "primary"
-  },
-  "RUSTIC FURNITURE - SE - SMIM - 2K": {
-    "nexusmods": {
-      "game_name": "skyrimspecialedition",
-      "version": "3.0",
-      "file_id": 157641,
-      "file_name": "RUSTIC FURNITURE - SE - SMIM - 2K-17228-3-0-1598395453.7z",
-      "mod_id": 17228,
-      "hash": "sha256-83EcOqo7Tm4ghhyvcviSUjwVL+vWQY3YjnTdSNjQn+g="
+    "RUSTIC FURNITURE - SE - SMIM - 2K": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "3.0",
+            "file_id": 157641,
+            "file_name": "RUSTIC FURNITURE - SE - SMIM - 2K-17228-3-0-1598395453.7z",
+            "mod_id": 17228,
+            "hash": "sha256-83EcOqo7Tm4ghhyvcviSUjwVL+vWQY3YjnTdSNjQn+g="
+        },
+        "type": "primary"
     },
-    "type": "primary"
-  },
-  "RUSTIC FURNITURE - SE - SMIM - 4K": {
-    "nexusmods": {
-      "game_name": "skyrimspecialedition",
-      "version": "3.0",
-      "file_id": 157642,
-      "file_name": "RUSTIC FURNITURE - SE - SMIM - 4K-17228-3-0-1598395557.7z",
-      "mod_id": 17228,
-      "hash": "sha256-cnhXX9dBiLL0EMmyuYdOW6c92rUYjbhg49pwTJKJNT4="
-    },
-    "type": "primary"
-  }
+    "RUSTIC FURNITURE - SE - SMIM - 4K": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "3.0",
+            "file_id": 157642,
+            "file_name": "RUSTIC FURNITURE - SE - SMIM - 4K-17228-3-0-1598395557.7z",
+            "mod_id": 17228,
+            "hash": "sha256-cnhXX9dBiLL0EMmyuYdOW6c92rUYjbhg49pwTJKJNT4="
+        },
+        "type": "primary"
+    }
 }

@@ -1,0 +1,134 @@
+{
+  "CVEO - Kala's Eyes": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 675305,
+      "file_name": "CVEO - Kala's Eyes-161391-1-0-1760303326.7z",
+      "mod_id": 161391,
+      "hash": "sha256-Wb7ta31NbVc+LRMgKY9ESzpSP5cyHKOs5viGxv4ul/M="
+    },
+    "type": "primary"
+  },
+  "CVEO - Kala's Eyes - Improved": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 675308,
+      "file_name": "CVEO - Kala's Eyes - Improved-161391-1-0-1760303540.7z",
+      "mod_id": 161391,
+      "hash": "sha256-HQfeCTZ0oJLDEpTtSsl5U3RNoD3eBnB8E0/ykoS/9Bc="
+    },
+    "type": "primary"
+  },
+  "CVEO - Hiraya Eyes": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 675370,
+      "file_name": "CVEO - Hiraya Eyes-161391-1-0-1760321337.7z",
+      "mod_id": 161391,
+      "hash": "sha256-tBQZWP72fywVlmTag5DxsOlfsiFdj7XHBlG81Sahao0="
+    },
+    "type": "primary"
+  },
+  "CVEO - Hiraya Eyes - Beastie - No Glow": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 675387,
+      "file_name": "CVEO - Hiraya Eyes - Beastie - No Glow-161391-1-0-1760331448.7z",
+      "mod_id": 161391,
+      "hash": "sha256-X89qqYmeZBQtWtPdIEm1BTEo1gnPRN4o0Ngjs0E5cR4="
+    },
+    "type": "primary"
+  },
+  "CVEO - Hiraya Eyes - Beastie - Glow": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 675418,
+      "file_name": "CVEO - Hiraya Eyes - Beastie - Glow-161391-1-0-1760342321.7z",
+      "mod_id": 161391,
+      "hash": "sha256-ZOUaZt9JVbwSfMyIv4a4d+Xpf4TmFpj+e199gXEeko0="
+    },
+    "type": "primary"
+  },
+  "CVEO - Eyes Of Ellxe": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 675766,
+      "file_name": "CVEO - Eyes Of Ellxe-161391-1-0-1760408991.7z",
+      "mod_id": 161391,
+      "hash": "sha256-2dxUwaWrH1vcKfeYQobQC9lAM6xGY5e0U3wBhNECAt8="
+    },
+    "type": "primary"
+  },
+  "CVEO - Mistborn Eyes": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 675777,
+      "file_name": "CVEO - Mistborn Eyes-161391-1-0-1760414132.7z",
+      "mod_id": 161391,
+      "hash": "sha256-g1Y4ZT9E1NtQRjTDttDLjwYjYadzaGfimwWklWHxaok="
+    },
+    "type": "primary"
+  },
+  "CVEO - Zhizhen Eyes": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 676044,
+      "file_name": "CVEO - Zhizhen Eyes-161391-1-0-1760485543.7z",
+      "mod_id": 161391,
+      "hash": "sha256-e9OYTx5UWLQLEUlDYlP17w30DCq3DmB7CbwZOHKbyOY="
+    },
+    "type": "primary"
+  },
+  "CVEO - Miggyluv's Eyes": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 679361,
+      "file_name": "CVEO - Miggyluv's Eyes-161391-1-0-1761195355.7z",
+      "mod_id": 161391,
+      "hash": "sha256-xskiEkfBAd8lXpNbFr7cjXZ6n6Rz6JoyL8OvVQlhxZA="
+    },
+    "type": "primary"
+  },
+  "CVEO - Mikan Eyes": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 680016,
+      "file_name": "CVEO - Mikan Eyes-161391-1-0-1761337106.7z",
+      "mod_id": 161391,
+      "hash": "sha256-5QatL4R3gO8DQ+e96lq0yJZJzwgyuy4KP1znHTNkKqY="
+    },
+    "type": "primary"
+  },
+  "CVEO - The Eyes of Beauty - Ai Remastered": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 697832,
+      "file_name": "CVEO - The Eyes of Beauty - Ai Remastered-161391-1-0-1765695589.7z",
+      "mod_id": 161391,
+      "hash": "sha256-zLnVBPxhA5z2yQtXFEesYcGIQEYuLPNcUlPdSRDv50E="
+    },
+    "type": "primary"
+  },
+  "CVEO - Even More Eyes": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1",
+      "file_id": 698171,
+      "file_name": "CVEO - Even More Eyes-161391-1-1-1765770008.7z",
+      "mod_id": 161391,
+      "hash": "sha256-nWE09n9feVmcl9FDnG8nGBF52XffnPOcuPZMWL2pC0Y="
+    },
+    "type": "primary"
+  }
+}

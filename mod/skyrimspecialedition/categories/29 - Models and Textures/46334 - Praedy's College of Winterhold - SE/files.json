@@ -1,0 +1,33 @@
+{
+  "Ideal master crystal mesh": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1",
+      "file_id": 240071,
+      "file_name": "Ideal master crystal mesh-46334-1-1-1636458663.7z",
+      "mod_id": 46334,
+      "hash": "sha256-cAWH68k4SuJbkACYPm2WvauIN6/0HSIHHvBR6F/RNyI="
+    }
+  },
+  "Praedy's College of Winterhold 2K": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "3.2",
+      "file_id": 626072,
+      "file_name": "Praedy's College of Winterhold 2K-46334-3-2-1746971865.7z",
+      "mod_id": 46334,
+      "hash": "sha256-UfkcKEZjxXzbGzC/OBnucizbrQttngvVTrV6Iq8iulA="
+    },
+    "type": "primary"
+  },
+  "Praedy's College of Winterhold 4K": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "3.2",
+      "file_id": 626074,
+      "file_name": "Praedy's College of Winterhold 4K-46334-3-2-1746972029.7z",
+      "mod_id": 46334
+    },
+    "type": "primary"
+  }
+}

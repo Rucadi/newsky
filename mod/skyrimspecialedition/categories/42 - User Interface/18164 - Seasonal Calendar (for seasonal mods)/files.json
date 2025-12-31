@@ -1,0 +1,34 @@
+{
+  "Seasonal Calendar (ESL)": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.2",
+      "file_id": 72656,
+      "file_name": "Seasonal Calendar (ESL)-18164-1-2-1542493056.zip",
+      "mod_id": 18164,
+      "hash": "sha256-63BTAxaJ2B2kucBbadjwrQO8MaaIxbk6sDo7hIsUg4M="
+    },
+    "type": "primary"
+  },
+  "Seasonal Calendar": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.2",
+      "file_id": 72657,
+      "file_name": "Seasonal Calendar-18164-1-2-1542493093.zip",
+      "mod_id": 18164,
+      "hash": "sha256-phMExKVAnd4AQ4h1NEf5Hln+AZPfDjHLEJ3jdfvmzqs="
+    },
+    "type": "primary"
+  },
+  "Seasonal Calendar - French": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.2",
+      "file_id": 263485,
+      "file_name": "Seasonal Calendar - French-18164-1-2-1644630144.zip",
+      "mod_id": 18164,
+      "hash": "sha256-qqL/yJoDnBOcf4ZHyd5bn8ZFfgWvB/HaLSHxE/qjm/Q="
+    }
+  }
+}

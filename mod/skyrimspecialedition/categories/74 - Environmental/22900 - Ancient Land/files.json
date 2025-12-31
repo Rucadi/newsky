@@ -1,0 +1,23 @@
+{
+  "Ancient Land 2.2": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "2.2",
+      "file_id": 170200,
+      "file_name": "Ancient Land 2.2-22900-2-2-1605455434.7z",
+      "mod_id": 22900,
+      "hash": "sha256-EGJNUN0c3NcXFzWHpFM7L1YcWmQcdaEvXiGjQM3UTcg="
+    },
+    "type": "primary"
+  },
+  "Ancient Land 2.2 - No Whiterun Doomstones": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "2.2",
+      "file_id": 170250,
+      "file_name": "Ancient Land 2.2 - No Whiterun Doomstones-22900-2-2-1605481995.7z",
+      "mod_id": 22900,
+      "hash": "sha256-+EKaEMtxl/qMLOp9ixaOlMvI/pmu2Ie56cWEViJuIIU="
+    }
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "Spartan Bard Outfit UNP": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1",
+      "file_id": 97918,
+      "file_name": "Spartan Bard Outfit UNP-27015-1-1-1562052711.7z",
+      "mod_id": 27015,
+      "hash": "sha256-dTHevAMJ1wpUJf6h54fnIC9rjEJA7VzyOvKgFF7X7Rw="
+    },
+    "type": "primary"
+  },
+  "Spartan Bard Outfit Roman Theme": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.2",
+      "file_id": 119841,
+      "file_name": "Spartan Bard Outfit Roman Theme-27015-1-1-1579063713.7z",
+      "mod_id": 27015,
+      "hash": "sha256-XkWJr/bpPhsKZxpf2Yyd7B+Tx2whRzPPn6wmriEupSE="
+    }
+  }
+}

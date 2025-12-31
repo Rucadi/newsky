@@ -1,0 +1,35 @@
+{
+  "Retextures Northern Roads By BigHead 1K": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 674460,
+      "file_name": "Retextures Northern Roads By BigHead 1K-161236-1-0-1760156713.zip",
+      "mod_id": 161236,
+      "hash": "sha256-BRiwa29dmAG3+TjTpGC6PCSj6EXySQUZ8cwqr/ZQt5A="
+    },
+    "type": "primary"
+  },
+  "Retextures Northern Roads By BigHead 2K": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 674461,
+      "file_name": "Retextures Northern Roads By BigHead 2K-161236-1-0-1760156751.zip",
+      "mod_id": 161236,
+      "hash": "sha256-POPpPHTvfcWzFqswWGrYpiMuRBHCxCKN2rz5TiuZynE="
+    },
+    "type": "primary"
+  },
+  "Retextures Northern Roads By BigHead 4K": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 674463,
+      "file_name": "Retextures Northern Roads By BigHead 4K-161236-1-0-1760156844.zip",
+      "mod_id": 161236,
+      "hash": "sha256-xkOl6gBgzbMWcglSFZfNY7DHOdYOSbJSgO3y+vecmXM="
+    },
+    "type": "primary"
+  }
+}

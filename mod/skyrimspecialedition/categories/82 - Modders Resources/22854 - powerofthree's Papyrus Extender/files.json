@@ -1,13 +1,13 @@
 {
-    "Papyrus Extender": {
-        "nexusmods": {
-            "game_name": "skyrimspecialedition",
-            "version": "6.3.0",
-            "file_id": 701342,
-            "file_name": "Papyrus Extender-22854-6-3-0-1766509921.7z",
-            "mod_id": 22854,
-            "hash": "sha256-XPqMQJ2rsloH8cSnyQZjjkJjyvL9Y5LjrK/inPchkQA="
-        },
-        "type": "primary"
-    }
+  "Papyrus Extender": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "6.3.0",
+      "file_id": 701342,
+      "file_name": "Papyrus Extender-22854-6-3-0-1766509921.7z",
+      "mod_id": 22854,
+      "hash": "sha256-XPqMQJ2rsloH8cSnyQZjjkJjyvL9Y5LjrK/inPchkQA="
+    },
+    "type": "primary"
+  }
 }

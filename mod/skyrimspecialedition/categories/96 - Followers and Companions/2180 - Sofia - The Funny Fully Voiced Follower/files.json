@@ -1,0 +1,24 @@
+{
+  "Sofia Follower v.2.51 (BSA)": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "2.51",
+      "file_id": 29077,
+      "file_name": "Sofia Follower v.2.51 (BSA)-2180-2-51.rar",
+      "mod_id": 2180,
+      "hash": "sha256-osQmMCR/1z8b5nJyZoGcEPKQqXfnwP2YI4YXkWMx9rk="
+    },
+    "type": "primary"
+  },
+  "Sofia Follower v.2.51 (Loose)": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "2.51",
+      "file_id": 29078,
+      "file_name": "Sofia Follower v.2.51 (Loose)-2180-2-51.rar",
+      "mod_id": 2180,
+      "hash": "sha256-5l87uu2xVC+Ij32XUlThBntHq1bE0tslqZi1CUeStW8="
+    },
+    "type": "primary"
+  }
+}

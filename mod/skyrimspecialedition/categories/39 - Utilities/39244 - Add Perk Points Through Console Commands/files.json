@@ -1,0 +1,23 @@
+{
+  "Add Perk Points Through Console Commands": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0.1",
+      "file_id": 154945,
+      "file_name": "Easily Add Perk Points Through Console Commands-39244-1-0-1-1597095636.7z",
+      "mod_id": 39244,
+      "hash": "sha256-fRIRmLFGryAM9AUqs/al9VQsCXMes+oskuCZkNrC2iA="
+    },
+    "type": "primary"
+  },
+  "Add Perk Points Through Console Commands - Alternate version": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0.1",
+      "file_id": 163745,
+      "file_name": "Add Perk Points Through Console Commands - Alternate version-39244-1-0-1-1601731634.7z",
+      "mod_id": 39244,
+      "hash": "sha256-ZZ58GbuFP+DNzdGOURY63naT0zbFVj3DA59uH+/C1Qg="
+    }
+  }
+}

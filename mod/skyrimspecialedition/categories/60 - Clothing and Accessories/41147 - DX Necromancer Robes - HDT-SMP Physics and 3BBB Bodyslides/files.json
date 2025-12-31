@@ -1,0 +1,23 @@
+{
+  "DX Necromancer Robes - ESPFE No Enchant esp option": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.01",
+      "file_id": 164224,
+      "file_name": "DX Necromancer Robes - ESPFE No Enchant esp option-41147-1-01-1602017513.7z",
+      "mod_id": 41147,
+      "hash": "sha256-VpVSQMCpomwE0dtDHRVxa/cNBSB2Wy/XCsE2CJvws4U="
+    }
+  },
+  "DX Necromancer Robes - HDT-SMP Physics and 3BBB Bodyslide": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.02",
+      "file_id": 165179,
+      "file_name": "DX Necromancer Robes - HDT-SMP Physics and 3BBB Bodyslide-41147-1-02-1602503971.7z",
+      "mod_id": 41147,
+      "hash": "sha256-EZ5FbjdZ1mDekpST2KPn+o0g5tLHDLtTJFqy/NN5z+A="
+    },
+    "type": "primary"
+  }
+}

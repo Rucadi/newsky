@@ -2,6 +2,8 @@
 - Author: ousnius - Kalilies - Stealthic
 - Game: skyrimspecialedition
 - Mod Page: https://www.nexusmods.com/skyrimspecialedition/mods/31300
+
+
 This mod comes with female hairstyles from the KS Hairdos pack with added [HDT SMP](https://www.nexusmods.com/skyrimspecialedition/mods/57339) physics.
   
 It is standalone and does not require the main KS Hairdos mod.

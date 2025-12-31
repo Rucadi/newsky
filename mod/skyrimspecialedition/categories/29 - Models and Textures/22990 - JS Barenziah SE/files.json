@@ -1,0 +1,34 @@
+{
+  "JS Barenziah SE - ESP": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.3",
+      "file_id": 226859,
+      "file_name": "JS Barenziah SE - ESP-22990-1-3-1631058781.rar",
+      "mod_id": 22990,
+      "hash": "sha256-asm9g0pDSXu3MSE5pjKrvC5ckZJMvajl9ARczE1zqMQ="
+    }
+  },
+  "JS Barenziah SE - 2k Textures": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.4",
+      "file_id": 536410,
+      "file_name": "JS Barenziah SE - 2k Textures-22990-1-4-1724931762.rar",
+      "mod_id": 22990,
+      "hash": "sha256-A64r1S84Hgta2aaytTYcXBD7kfOOuKeGzIpUxM1U0GM="
+    },
+    "type": "primary"
+  },
+  "JS Barenziah SE - 4k Textures": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.4",
+      "file_id": 536411,
+      "file_name": "JS Barenziah SE - 4k Textures-22990-1-4-1724931873.rar",
+      "mod_id": 22990,
+      "hash": "sha256-CE/vfnPnCAJMOi4CPzNwpphbJ4/N0/ZXICB4LbdSZK8="
+    },
+    "type": "primary"
+  }
+}

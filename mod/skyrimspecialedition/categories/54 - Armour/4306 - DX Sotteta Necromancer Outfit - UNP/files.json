@@ -1,0 +1,23 @@
+{
+  "Sotteta Necromancer - Black Texture Pack": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "2.01",
+      "file_id": 8085,
+      "file_name": "Sotteta Necromancer SE - Black Texture Pack-4306-1-0.7z",
+      "mod_id": 4306,
+      "hash": "sha256-3wryBeCMNQCZss9jAGg2eMjZF6UCcC31yP4Hq/7LBNo="
+    }
+  },
+  "Sotteta Necromancer": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "2.01",
+      "file_id": 89731,
+      "file_name": "Sotteta Necromancer-4306-2-01-1556251194.7z",
+      "mod_id": 4306,
+      "hash": "sha256-xPmNMDyE3q8m/4Ifd/szmCshnJlNa4P+skA+vfc5R8g="
+    },
+    "type": "primary"
+  }
+}

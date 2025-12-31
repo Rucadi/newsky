@@ -1,0 +1,23 @@
+{
+  "My Home is Your Home (MHiYH 2plus) SSE - v3.1.2": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "3.1.2",
+      "file_id": 150422,
+      "file_name": "My Home is Your Home (MHiYH 2plus) SSE - v3.1.2-20227-3-1-2-1594748214.7z",
+      "mod_id": 20227,
+      "hash": "sha256-9RKg5fZBR3d+eq7FH3P26vCmdojeh+PRP1uf5MDqP2o="
+    },
+    "type": "primary"
+  },
+  "Player Bed Ownership Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 159937,
+      "file_name": "Player Bed Ownership Patch-20227-1-0-1599692701.zip",
+      "mod_id": 20227,
+      "hash": "sha256-0k6DTdUdjrN4+0OamkOA5WCrGKjayAf/NmoMYdIktTQ="
+    }
+  }
+}

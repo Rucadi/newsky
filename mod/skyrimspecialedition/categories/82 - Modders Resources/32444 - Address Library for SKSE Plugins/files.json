@@ -1,54 +1,54 @@
 {
-    "Header file for DLL plugin author (Special Edition)": {
-        "nexusmods": {
-            "game_name": "skyrimspecialedition",
-            "version": "1",
-            "file_id": 123018,
-            "file_name": "Header file for DLL plugin author-32444-1-1581069740.zip",
-            "mod_id": 32444,
-            "hash": "sha256-vmq6B1Upqdi87SDQ7i4S+d6y2jgcUbTKxrSkZbOI5+A="
-        }
-    },
-    "All in one (1.5.X)": {
-        "nexusmods": {
-            "game_name": "skyrimspecialedition",
-            "version": "2",
-            "file_id": 125647,
-            "file_name": "All in one-32444-2-1582543914.zip",
-            "mod_id": 32444,
-            "hash": "sha256-LcIOiMLsgu8f4QrDTjxBz6Dm4mhlDfd+dnet2lTgJ/8="
-        },
-        "type": "primary"
-    },
-    "Header file for DLL plugin author (Anniversary Edition)": {
-        "nexusmods": {
-            "game_name": "skyrimspecialedition",
-            "version": "1",
-            "file_id": 243203,
-            "file_name": "Header file for DLL plugin author (Anniversary Edition)-32444-1-1637492349.zip",
-            "mod_id": 32444,
-            "hash": "sha256-IaLIAiVThzMk/thFGXax9YV1bd2FrDiuy0nTsTbM+bc="
-        }
-    },
-    "ID and offset pair for 1.6.318.0": {
-        "nexusmods": {
-            "game_name": "skyrimspecialedition",
-            "version": "1",
-            "file_id": 243204,
-            "file_name": "ID and offset pair for 1.6.318.0-32444-1-1637492415.zip",
-            "mod_id": 32444,
-            "hash": "sha256-h3QONB3UpMUnu2rVdQcCF7PhH1JocK6cnWi51iZ8qws="
-        }
-    },
-    "All in one (1.6.X)": {
-        "nexusmods": {
-            "game_name": "skyrimspecialedition",
-            "version": "11",
-            "file_id": 470707,
-            "file_name": "All in one Address Library (Anniversary Edition)-32444-11-1707902394.zip",
-            "mod_id": 32444,
-            "hash": "sha256-5wCascraFpNOpjohKFQy28TIkZSNuL3E9XN5tJMjGgI="
-        },
-        "type": "primary"
+  "Header file for DLL plugin author (Special Edition)": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1",
+      "file_id": 123018,
+      "file_name": "Header file for DLL plugin author-32444-1-1581069740.zip",
+      "mod_id": 32444,
+      "hash": "sha256-vmq6B1Upqdi87SDQ7i4S+d6y2jgcUbTKxrSkZbOI5+A="
     }
+  },
+  "All in one (1.5.X)": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "2",
+      "file_id": 125647,
+      "file_name": "All in one-32444-2-1582543914.zip",
+      "mod_id": 32444,
+      "hash": "sha256-LcIOiMLsgu8f4QrDTjxBz6Dm4mhlDfd+dnet2lTgJ/8="
+    },
+    "type": "primary"
+  },
+  "Header file for DLL plugin author (Anniversary Edition)": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1",
+      "file_id": 243203,
+      "file_name": "Header file for DLL plugin author (Anniversary Edition)-32444-1-1637492349.zip",
+      "mod_id": 32444,
+      "hash": "sha256-IaLIAiVThzMk/thFGXax9YV1bd2FrDiuy0nTsTbM+bc="
+    }
+  },
+  "ID and offset pair for 1.6.318.0": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1",
+      "file_id": 243204,
+      "file_name": "ID and offset pair for 1.6.318.0-32444-1-1637492415.zip",
+      "mod_id": 32444,
+      "hash": "sha256-h3QONB3UpMUnu2rVdQcCF7PhH1JocK6cnWi51iZ8qws="
+    }
+  },
+  "All in one (1.6.X)": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "11",
+      "file_id": 470707,
+      "file_name": "All in one Address Library (Anniversary Edition)-32444-11-1707902394.zip",
+      "mod_id": 32444,
+      "hash": "sha256-5wCascraFpNOpjohKFQy28TIkZSNuL3E9XN5tJMjGgI="
+    },
+    "type": "primary"
+  }
 }

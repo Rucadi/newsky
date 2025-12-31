@@ -1,0 +1,67 @@
+{
+  "DCR_Daring King Crusader Armor BHUNP": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "2.3",
+      "file_id": 220569,
+      "file_name": "DCR_Daring King Crusader Armor BHUNP-39699-2-3-1628755035.7z",
+      "mod_id": 39699,
+      "hash": "sha256-UQryoPJaG9ABb5YNtrq/BFUfDObXS6Tzfy1BFGjSDsM="
+    },
+    "type": "primary"
+  },
+  "DCR_Daring King Crusader Armor CBBE": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "2.3",
+      "file_id": 220570,
+      "file_name": "DCR_Daring King Crusader Armor CBBE-39699-2-3-1628755098.7z",
+      "mod_id": 39699,
+      "hash": "sha256-+USd7vj/s8j/SQLmwyi1dEP64A9Pc8JaaVdkF3wu9rE="
+    },
+    "type": "primary"
+  },
+  "DCR_Daring King Crusader Armor CBBE SMP": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "2.3",
+      "file_id": 220571,
+      "file_name": "DCR_Daring King Crusader Armor CBBE SMP-39699-2-3-1628755153.7z",
+      "mod_id": 39699,
+      "hash": "sha256-gfS3hgahoPRvwMuUk0e1whLftEOoGzPsMDyFA3os4h8="
+    },
+    "type": "primary"
+  },
+  "DCR_Daring King Crusader Armor UNP": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "2.3",
+      "file_id": 220572,
+      "file_name": "DCR_Daring King Crusader Armor UNP-39699-2-3-1628755204.7z",
+      "mod_id": 39699,
+      "hash": "sha256-fewH7O0FvUetU+2G1Zvo3glwMoOHq2+2AlZNAz3Ly8E="
+    },
+    "type": "primary"
+  },
+  "DCR Daring King Crusader ESPFE Heels Sound": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "2.3",
+      "file_id": 220573,
+      "file_name": "DCR Daring King Crusader ESPFE Heels Sound-39699-2-3-1628755327.7z",
+      "mod_id": 39699,
+      "hash": "sha256-S/AQQnHn9nbWZKwZflCQY4csD1UKjifKC1ttIBDo7JM="
+    }
+  },
+  "DCR_Daring King Crusader Armor 3BAv2": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "2.3.1",
+      "file_id": 352290,
+      "file_name": "DCR_Daring King Crusader Armor 3BAv2-39699-2-3-1-1674487097.7z",
+      "mod_id": 39699,
+      "hash": "sha256-IIjTsls5wwY35NiRkNbRYQsN2a4ble5jtJpXjY4r1Ao="
+    },
+    "type": "primary"
+  }
+}

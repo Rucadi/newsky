@@ -1,0 +1,35 @@
+{
+  "Hvergelmir Brows - For High Poly Head": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 151336,
+      "file_name": "Hvergelmir Brows - For High Poly Head-38493-1-0-1595280707.zip",
+      "mod_id": 38493,
+      "hash": "sha256-TiFcy99FDm3pSC0tExWpmJjxdYJ781RO0cdoAFCgGQA="
+    },
+    "type": "primary"
+  },
+  "SG Eyebrows - For High Poly Head": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 151337,
+      "file_name": "SG Eyebrows - For High Poly Head-38493-1-0-1595280733.zip",
+      "mod_id": 38493,
+      "hash": "sha256-/yfwKsOUJP22OJGPtVxsrfoOzFvUGeyiUZ2Y5SBDbGw="
+    },
+    "type": "primary"
+  },
+  "Maevan2 Eye Brows - For High Poly Head": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 151425,
+      "file_name": "Maevan2 Eye Brows - For High Poly Head-38493-1-0-1595319774.zip",
+      "mod_id": 38493,
+      "hash": "sha256-apn1SmyKyZyEUAdWuprsJJShR9Fkx7rgRsfzpKC4Us8="
+    },
+    "type": "primary"
+  }
+}

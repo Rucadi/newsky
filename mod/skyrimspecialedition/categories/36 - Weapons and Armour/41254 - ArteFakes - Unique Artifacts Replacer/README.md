@@ -2,6 +2,8 @@
 - Author: registrant
 - Game: skyrimspecialedition
 - Mod Page: https://www.nexusmods.com/skyrimspecialedition/mods/41254
+
+
 This mod is made by a great Russian mod author registrant, who created a lot of amazing weapon mods.
   
   

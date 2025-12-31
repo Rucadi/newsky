@@ -1,0 +1,33 @@
+{
+  "Unofficial Material Fix Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 180581,
+      "file_name": "Unofficial Material Fix Patch-44553-1-0-1611088335.7z",
+      "mod_id": 44553,
+      "hash": "sha256-Zx/NVJJrujbCfVNOs3SJh9nGwo7eHvi4/NL2olwa0X8="
+    }
+  },
+  "Improved Dwemer Glass": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1",
+      "file_id": 187420,
+      "file_name": "Improved Dwemer Glass-44553-1-1-1614011690.7z",
+      "mod_id": 44553,
+      "hash": "sha256-Pf+2C1jNQqg9TnwduOIasv7dfVmmBORzO27xWaBxG1U="
+    },
+    "type": "primary"
+  },
+  "ENB Lights For Aetherium Shards Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1",
+      "file_id": 225518,
+      "file_name": "ENB Lights For Aetherium Shards Patch-44553-1-1-1630558790.7z",
+      "mod_id": 44553,
+      "hash": "sha256-saIkCKwFIwuoCO5AjB38fpjWxdiFfFUonAYrNCaHUnE="
+    }
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "Enchantments and Potions Work for NPCs - EPW4NPCs": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0.2",
+      "file_id": 335385,
+      "file_name": "Enchantments and Potions Work for NPCs - EPW4NPCs-37607-1-0-2-1669579454.7z",
+      "mod_id": 37607,
+      "hash": "sha256-Rz9VDilRLFxgYfpxxmSn9BLYnVNhE3Lq3Gtd3nEkVM0="
+    },
+    "type": "primary"
+  },
+  "EPW4NPCs - LE Backport by BarryMeyers": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0.2",
+      "file_id": 466666,
+      "file_name": "EPW4NPCs - LE Backport by BarryMeyers-37607-1-0-2-1706759636.zip",
+      "mod_id": 37607,
+      "hash": "sha256-cnLqSaSRa8HAMCEPse2GQ7eTqItBcaNSHta2EEMwOGQ="
+    }
+  }
+}

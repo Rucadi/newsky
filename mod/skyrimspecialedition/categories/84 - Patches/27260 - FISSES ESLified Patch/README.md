@@ -2,6 +2,8 @@
 - Author: TerenceYao jyurii
 - Game: skyrimspecialedition
 - Mod Page: https://www.nexusmods.com/skyrimspecialedition/mods/27260
+
+
 ESPLites don't count to the plugin limit, that's why I made this personally for myself but I thought it would be good to share so everyone else could use it.
   
   

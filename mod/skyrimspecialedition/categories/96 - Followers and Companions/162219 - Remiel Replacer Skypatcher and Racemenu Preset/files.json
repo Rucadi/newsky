@@ -1,0 +1,54 @@
+{
+  "Remiel Replacer Skypatcher ESL": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1",
+      "file_id": 678334,
+      "file_name": "Remiel Replacer Skypatcher-162219-1-1760935481.zip",
+      "mod_id": 162219,
+      "hash": "sha256-45zGeMU+pR+yzXQt+Yitvn92avwyw5FgSkeZ03Bwttk="
+    },
+    "type": "primary"
+  },
+  "Remiel Replacer ESL": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1",
+      "file_id": 678335,
+      "file_name": "Remiel Replacer Esl-162219-1-1760935501.rar",
+      "mod_id": 162219,
+      "hash": "sha256-bmXMuJ0isHI3K97VRm1dotcV934IP6zr0nc9EeSXwSI="
+    },
+    "type": "primary"
+  },
+  "Remiel Preset": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1",
+      "file_id": 685155,
+      "file_name": "Remiel Preset-162219-1-1762588257.zip",
+      "mod_id": 162219,
+      "hash": "sha256-L3sy/IsXa3usnzCgg5bBdqA7BeEzvyh6/4oioeUtwNI="
+    }
+  },
+  "RSV Asia Skin Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1",
+      "file_id": 691859,
+      "file_name": "RSV Asia Skin Patch-162219-1-1764268387.rar",
+      "mod_id": 162219,
+      "hash": "sha256-waMhMHuXqt4+iOprQzd7NdabHzymZLZQRmikBY3WyX0="
+    }
+  },
+  "(NSFW)Remiel High poly Head SMP Mouth": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1",
+      "file_id": 700260,
+      "file_name": "(NSFW)Remiel High poly Head SMP Mouth-162219-1-1766290933.zip",
+      "mod_id": 162219,
+      "hash": "sha256-sApKMW9hiwJSHFSTIJecmm7Qo72+JSxm1K0wSgBNiaE="
+    }
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "Nightshade Armor - SSE CBBE BodySlide": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 96673,
+      "file_name": "Nightshade Armor - SSE CBBE BodySlide-26785-1-0-1561057890.7z",
+      "mod_id": 26785,
+      "hash": "sha256-+FFFxGXtekHjc+KL64SqaxzQQBlIZtoOgvNql9JbR5c="
+    },
+    "type": "primary"
+  },
+  "Nightshade Armor - ESPFE": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 152176,
+      "file_name": "Nightshade Armor - ESPFE-26785-1-0-1595721925.7z",
+      "mod_id": 26785,
+      "hash": "sha256-5+Cqc4H7cBQkr02XyAvTPkplZKCFD6L4Yj5zx6CKawo="
+    }
+  }
+}

@@ -25,7 +25,8 @@
       "version": "1",
       "file_id": 664454,
       "file_name": "Wine Duchess - SE by Xtudo - Textures 1K-158904-1-1757533747.7z",
-      "mod_id": 158904
+      "mod_id": 158904,
+      "hash": "sha256-3ZmyiGQZ2V0t+UzDco5BSz/uW62uZVctl7AtOWxW2Ko="
     }
   },
   "Wine Duchess - SE by Xtudo - CBBE-UNP-Vanilla ver": {
@@ -34,7 +35,8 @@
       "version": "1.4",
       "file_id": 665286,
       "file_name": "Wine Duchess - SE by Xtudo - CBBE-UNP-Vanilla ver-158904-1-4-1757772058.7z",
-      "mod_id": 158904
+      "mod_id": 158904,
+      "hash": "sha256-uaMymXurIBqeR2DHPk0pcc7Ixz/ggGmAqz/d/sFyw1Q="
     }
   },
   "Wine Duchess - SE by Xtudo - My Version": {
@@ -43,7 +45,8 @@
       "version": "1.6",
       "file_id": 667618,
       "file_name": "Wine Duchess - SE by Xtudo - My Version-158904-1-6-1758370450.7z",
-      "mod_id": 158904
+      "mod_id": 158904,
+      "hash": "sha256-jZOp1DLG+/tR7yZqwoZhLWD7yA9DKFY+48g0GFZYy5E="
     },
     "type": "primary"
   },
@@ -53,7 +56,8 @@
       "version": "1.6",
       "file_id": 667619,
       "file_name": "Wine Duchess - SE by Xtudo - My Version HS-158904-1-6-1758370475.7z",
-      "mod_id": 158904
+      "mod_id": 158904,
+      "hash": "sha256-LbuB5OJ9aOe5Ld2PJYrO/t5Hg2zGS6klH2IQPTXifn0="
     },
     "type": "primary"
   },
@@ -63,7 +67,8 @@
       "version": "1.6",
       "file_id": 667620,
       "file_name": "Wine Duchess - SE by Xtudo - My Version Non-HDT-158904-1-6-1758370504.7z",
-      "mod_id": 158904
+      "mod_id": 158904,
+      "hash": "sha256-4bUvzQi2L/yo4izvKw84R+pcXtsJnalhGgXbSjqiIdU="
     },
     "type": "primary"
   },
@@ -73,7 +78,8 @@
       "version": "1.6",
       "file_id": 667621,
       "file_name": "Wine Duchess - SE by Xtudo - My Version Non-HDT HS-158904-1-6-1758370569.7z",
-      "mod_id": 158904
+      "mod_id": 158904,
+      "hash": "sha256-OdxktoTaYuw60femWvLNqgO0mGvGu6padjz8BI6ufhs="
     },
     "type": "primary"
   },
@@ -83,7 +89,8 @@
       "version": "1.7",
       "file_id": 668366,
       "file_name": "Wine Duchess - SE by Xtudo - Vampire Royal Armor-158904-1-7-1758550343.7z",
-      "mod_id": 158904
+      "mod_id": 158904,
+      "hash": "sha256-29IVq9KYLib3ufyfuu58W/wAtU/w7OrvGxkpr3/+Bz8="
     }
   }
 }

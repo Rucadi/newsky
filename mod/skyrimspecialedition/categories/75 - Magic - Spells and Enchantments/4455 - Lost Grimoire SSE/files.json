@@ -1,0 +1,123 @@
+{
+  "Addon - Survival Mode Spells": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 634916,
+      "file_name": "Addon - Survival Mode Spells-4455-1-0-1749144430.zip",
+      "mod_id": 4455,
+      "hash": "sha256-aSY34zpnor+u9VOhcv9JgvNWcnuC2jSCrJeL3wQQO5Q="
+    }
+  },
+  "Patch - CC Staves": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1",
+      "file_id": 637111,
+      "file_name": "Patch - CC Staves-4455-1-1-1749745133.zip",
+      "mod_id": 4455,
+      "hash": "sha256-V6FMlFCEXWe8/DaV7Qt/5qWwet4oTB7aUrv9lxhs+4M="
+    }
+  },
+  "Patch - Vokrii": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 637185,
+      "file_name": "Patch - Vokrii-4455-1-0-1749761149.zip",
+      "mod_id": 4455,
+      "hash": "sha256-mCJRL9uXeoEDlkV9QUW4tw5eOkS3SMGJtQA7zd8kr/s="
+    }
+  },
+  "Patch - Dino's Spell Discovery": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 638029,
+      "file_name": "Patch - Dino's Spell Discovery-4455-1-0-1749972323.zip",
+      "mod_id": 4455,
+      "hash": "sha256-0KYRwlWlLWOTeMDELNKJaU1SspqeXObNkIIKcb3PCRc="
+    }
+  },
+  "Patch - Wrath of Nature (SSE Port)": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1",
+      "file_id": 642478,
+      "file_name": "Patch - Wrath of Nature (SSE Port)-4455-1-1-1751137815.zip",
+      "mod_id": 4455,
+      "hash": "sha256-ZZ6q5N80FLG0K8zA4Q9fbVJkW3CasQVt6oKpe6MyceE="
+    }
+  },
+  "Patch - WoN Champion of Kynareth (SSE Port)": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 642479,
+      "file_name": "Patch - WoN Champion of Kynareth (SSE Port)-4455-1-0-1751137927.zip",
+      "mod_id": 4455,
+      "hash": "sha256-Flf5p+hq8//RICRA6AXXMTUtffSxx8Di3Mc7SA8xm6g="
+    }
+  },
+  "Patch - Ordinator": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1",
+      "file_id": 644481,
+      "file_name": "Patch - Ordinator-4455-1-1-1751751370.zip",
+      "mod_id": 4455,
+      "hash": "sha256-PhQcCP0L1CHL9iDyXBdw5GQD5GlRrzGPllFtIrRaOH8="
+    }
+  },
+  "Patch - Mysticism": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.2",
+      "file_id": 644483,
+      "file_name": "Patch - Mysticism-4455-1-2-1751751440.zip",
+      "mod_id": 4455,
+      "hash": "sha256-1aQMo0u2va/zag6Y4S8SQl8Wp3F2LuNkSM2ghvwk4VA="
+    }
+  },
+  "Addon - SPID NPC spell distribution": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1",
+      "file_id": 646001,
+      "file_name": "Addon - SPID NPC spell distribution-4455-1-1-1752185713.zip",
+      "mod_id": 4455,
+      "hash": "sha256-KsEdGQnIsgUuQWv2NCZ2yv2RF88xLUtX3FM/KGwiZAw="
+    }
+  },
+  "Patch - Adamant": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.3",
+      "file_id": 659980,
+      "file_name": "Patch - Adamant-4455-1-3-1756364005.zip",
+      "mod_id": 4455,
+      "hash": "sha256-GirBwp2HWwNzHd+f3mD5W86bIh6yZx0J8Yr9sFpBzLM="
+    }
+  },
+  "Patch - Path of Sorcery": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.2",
+      "file_id": 659990,
+      "file_name": "Patch - Path of Sorcery-4455-1-2-1756369099.zip",
+      "mod_id": 4455,
+      "hash": "sha256-Es8XDyLTvwpgtaP1WdCAH53SPSinds+iViJA69UDcjU="
+    }
+  },
+  "Lost Grimoire": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.3",
+      "file_id": 694441,
+      "file_name": "Lost Grimoire-4455-1-3-1764878419.zip",
+      "mod_id": 4455,
+      "hash": "sha256-TrLmVcqlWdszPDvyjTDeZ2vTDF0wUmqqpNfQgm87GZs="
+    },
+    "type": "primary"
+  }
+}

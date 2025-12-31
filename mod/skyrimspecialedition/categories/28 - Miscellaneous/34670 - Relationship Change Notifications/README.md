@@ -2,6 +2,8 @@
 - Author: comfortzone
 - Game: skyrimspecialedition
 - Mod Page: https://www.nexusmods.com/skyrimspecialedition/mods/34670
+
+
 It's a small utility I have made for myself and I'm sharing it in case anyone would find it useful. Basically every time the Dragonborn's relationship with any NPC changes, you receive a notification. That's it, no effects on gameplay. Might be useful if you're roleplaying a Dovahkiin with high emotional intelligence lol. It's an ESL-flagged ESP so it won't count towards plugins limit.
   
   

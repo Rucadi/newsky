@@ -1,0 +1,34 @@
+{
+  "Skyland - High Hrothgar": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "2.0",
+      "file_id": 273282,
+      "file_name": "Skyland - High Hrothgar-43041-2-0-1648480071.7z",
+      "mod_id": 43041,
+      "hash": "sha256-9imicMuI0GBka422YFkEY8uINx3xSF9LVhs1trZhte0="
+    },
+    "type": "primary"
+  },
+  "Skyland - High Hrothgar 1K": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "2.0",
+      "file_id": 273283,
+      "file_name": "Skyland - High Hrothgar 1K-43041-2-0-1648480116.7z",
+      "mod_id": 43041,
+      "hash": "sha256-6LHkW2WjSSnt0CWZId0sLcV9Z2Rr8874Nr0S9+Ln60Y="
+    },
+    "type": "primary"
+  },
+  "Skyland High Hrothgar - Complex Parallax Textures": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "2.0",
+      "file_id": 655373,
+      "file_name": "Skyland High Hrothgar - Complex Parallax Textures-43041-2-0-1755136110.7z",
+      "mod_id": 43041,
+      "hash": "sha256-4KU60DKQSfymxIRZlDj+oD+2FNmLWQdfe7nr/lcFC/U="
+    }
+  }
+}

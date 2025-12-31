@@ -1,0 +1,73 @@
+{
+  "Dremorn Witch - SE by Xtudo - Textures 4K": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1",
+      "file_id": 688106,
+      "file_name": "Dremorn Witch - SE by Xtudo - Textures 4K-164670-1-1763298528.7z",
+      "mod_id": 164670,
+      "hash": "sha256-K+Qn1oZGtzks4+z/lIBMtsPiIxm+1mTY4C+9FL7Aoqg="
+    }
+  },
+  "Dremorn Witch - SE by Xtudo - Textures 2K": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1",
+      "file_id": 688107,
+      "file_name": "Dremorn Witch - SE by Xtudo - Textures 2K-164670-1-1763298548.7z",
+      "mod_id": 164670,
+      "hash": "sha256-DdA+l5VHU3Wi6N9z0O1sLDlnABX7eUyYCSLwLYZBJM0="
+    }
+  },
+  "Dremorn Witch - SE by Xtudo - Textures 1K": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1",
+      "file_id": 688108,
+      "file_name": "Dremorn Witch - SE by Xtudo - Textures 1K-164670-1-1763298569.7z",
+      "mod_id": 164670,
+      "hash": "sha256-DhXOj0Infpxd/V/qtsHpnwk5oY7/MruZdHAmP60UKtw="
+    }
+  },
+  "Dremorn Witch - SE by Xtudo - Heels Sound patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1",
+      "file_id": 688109,
+      "file_name": "Dremorn Witch - SE by Xtudo - Heels Sound patch-164670-1-1763298591.7z",
+      "mod_id": 164670,
+      "hash": "sha256-GDqtM6wVQRRXr8+urpgXBX11DLDZP51Vq1uSYU28Qsk="
+    }
+  },
+  "Dremorn Witch - SE by Xtudo - My Tweaks": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1",
+      "file_id": 688113,
+      "file_name": "Dremorn Witch - SE by Xtudo - My Tweaks-164670-1-1763298959.7z",
+      "mod_id": 164670,
+      "hash": "sha256-8/AuvvY6jhWfih4HPBW7ZWfG1fF8SuiEbyxzCOQ8jI8="
+    },
+    "type": "primary"
+  },
+  "Dremorn Witch - SE by Xtudo - Edited Hat Position": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1",
+      "file_id": 688255,
+      "file_name": "Dremorn Witch - SE by Xtudo - Edited Hat Position-164670-1-1-1763320562.7z",
+      "mod_id": 164670,
+      "hash": "sha256-TIk5SujmXr7cNgiZ8CoZV0URKmnWtFv4Frxa0krsi+Y="
+    }
+  },
+  "Dremorn Witch - SE by Xtudo - Illia SPID patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1",
+      "file_id": 688256,
+      "file_name": "Dremorn Witch - SE by Xtudo - Illia SPID patch-164670-1-1-1763320591.7z",
+      "mod_id": 164670,
+      "hash": "sha256-y7csKOE/aFJN6Xq83/j8XtrurWgd0yHnqD31MQRDAKM="
+    }
+  }
+}

@@ -1,13 +1,13 @@
 {
-    "BA_BardSongs_FOMOD": {
-        "nexusmods": {
-            "game_name": "skyrimspecialedition",
-            "version": "1.3",
-            "file_id": 213912,
-            "file_name": "BA_BardSongs_FOMOD-47202-1-3-1625966592.7z",
-            "mod_id": 47202,
-            "hash": "sha256-ZOLfiO8+rIUkgzxlrdlS2/lfYyIwcTXKNfADi9MVYe4="
-        },
-        "type": "primary"
-    }
+  "BA_BardSongs_FOMOD": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.3",
+      "file_id": 213912,
+      "file_name": "BA_BardSongs_FOMOD-47202-1-3-1625966592.7z",
+      "mod_id": 47202,
+      "hash": "sha256-ZOLfiO8+rIUkgzxlrdlS2/lfYyIwcTXKNfADi9MVYe4="
+    },
+    "type": "primary"
+  }
 }

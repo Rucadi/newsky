@@ -1,0 +1,35 @@
+{
+  "The Last Vigil -Ebony Warrior Voice Rework-": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 165956,
+      "file_name": "The Last Vigil -Ebony Warrior Voice Rework--41494-1-0-1603014514.7z",
+      "mod_id": 41494,
+      "hash": "sha256-uGy5FBPLyxX6cR3CHYkZztoFOP5mhSHify0YOGOAjg8="
+    },
+    "type": "primary"
+  },
+  "The Last Vigil -Ebony Warrior Voice Rework- (Human Option)": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0ALT",
+      "file_id": 165984,
+      "file_name": "The Last Vigil -Ebony Warrior Voice Rework- (Human Option)-41494-1-0ALT-1603022322.7z",
+      "mod_id": 41494,
+      "hash": "sha256-FH/HTCSHE9ewiqGXI8RH0s6rOSPBXMLqqv3StSRu2PU="
+    },
+    "type": "primary"
+  },
+  "The Last Vigil -Ebony Warrior Voice Rework- (Helmet Option)": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0ALT",
+      "file_id": 166154,
+      "file_name": "The Last Vigil -Ebony Warrior Voice Rework- (Helmet Option)-41494-1-0ALT-1603108210.7z",
+      "mod_id": 41494,
+      "hash": "sha256-NZbMeIO304G7RcnUXZp40KhXMj4p5Y0nabPHS+DnLHY="
+    },
+    "type": "primary"
+  }
+}

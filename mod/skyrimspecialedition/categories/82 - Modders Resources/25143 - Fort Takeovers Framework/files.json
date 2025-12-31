@@ -1,0 +1,24 @@
+{
+  "FTF_Core": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "3.1",
+      "file_id": 140406,
+      "file_name": "FTF_Core-25143-3-1-1589675265.zip",
+      "mod_id": 25143,
+      "hash": "sha256-Wzk94KRMXa2iRKtuO0FOaUphbvqQ48KEV9zNiPzEK28="
+    },
+    "type": "primary"
+  },
+  "FTF_Addon": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "3.1",
+      "file_id": 140407,
+      "file_name": "FTF_Addon-25143-3-1-1589675326.zip",
+      "mod_id": 25143,
+      "hash": "sha256-lmfFr04zn4KuLPJsCnd6Sg0zPZBUuTee/yoMbwsTriE="
+    },
+    "type": "primary"
+  }
+}

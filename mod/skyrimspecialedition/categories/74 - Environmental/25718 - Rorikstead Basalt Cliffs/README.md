@@ -2,6 +2,8 @@
 - Author: JPSteel2
 - Game: skyrimspecialedition
 - Mod Page: https://www.nexusmods.com/skyrimspecialedition/mods/25718
+
+
 DESCRIPTION
   
   

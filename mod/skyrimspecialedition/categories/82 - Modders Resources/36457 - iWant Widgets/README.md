@@ -2,6 +2,8 @@
 - Author: DaemonPrime
 - Game: skyrimspecialedition
 - Mod Page: https://www.nexusmods.com/skyrimspecialedition/mods/36457
+
+
 What?
   
 A standardized, widget-centric library to ease the programmatic use of Skyrim's user interface(UI) using Papyrus. Allows easy access to arbitrary text and graphics display within the UI. Provides functions to control both library and Skyrim native UI elements. Removes Adobe Flash as a requirement for effective UI modification.

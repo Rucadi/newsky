@@ -1,0 +1,42 @@
+{
+  "Glenmoril HIResPack Architecture and Landscape": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "0.96.0",
+      "file_id": 625231,
+      "file_name": "Glenmoril HIResPack Architecture and Landscape-32998-0-96-0-1746790101.rar",
+      "mod_id": 32998,
+      "hash": "sha256-ozZ/ESDWOg05jP0qKqnrVriI9KQl1WYZzFKED86D5uU="
+    }
+  },
+  "Glenmoril HIResPack Armors and Weapons": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "0.96.0",
+      "file_id": 625232,
+      "file_name": "Glenmoril HIResPack Armors and Weapons-32998-0-96-0-1746790201.rar",
+      "mod_id": 32998,
+      "hash": "sha256-4pkdHxuWLEJFN0K13T9dBRKRTOAfP5sFFoDGSZ0WR1A="
+    }
+  },
+  "Glenmoril HIResPack Creatures": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "0.96.0",
+      "file_id": 625233,
+      "file_name": "Glenmoril HIResPack Creatures-32998-0-96-0-1746790314.rar",
+      "mod_id": 32998,
+      "hash": "sha256-2Qtl8sI4rk+UMzYaQxuDzf6NbyBacTtjXdI/G6yewi4="
+    }
+  },
+  "GLENMORIL SE v0.96 Alpha": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "0.96.0",
+      "file_id": 627317,
+      "file_name": "GLENMORIL SE v0.96 Alpha-32998-0-96-0-1747301950.rar",
+      "mod_id": 32998
+    },
+    "type": "primary"
+  }
+}

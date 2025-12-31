@@ -1,0 +1,23 @@
+{
+  "Celes Rogue Armor UNP": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 102070,
+      "file_name": "Celes Rogue UNP-27929-1-0-1565062243.7z",
+      "mod_id": 27929,
+      "hash": "sha256-uzadm6PxHPtQoE2x2G8WOB3UoRAzv0HYvDxLPo1oXgg="
+    },
+    "type": "primary"
+  },
+  "Celes Rogue Leopard Theme": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1",
+      "file_id": 119855,
+      "file_name": "Celes Rogue Leopard Theme-27929-1-0-1579072225.7z",
+      "mod_id": 27929,
+      "hash": "sha256-4Utbvoa09a/sQWQzm1hf2ds1+FeM0fEVsl9XGQZnvro="
+    }
+  }
+}

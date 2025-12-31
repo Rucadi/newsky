@@ -1,0 +1,23 @@
+{
+  "ZMD's Gothic Makup Suite SE v1A": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1A",
+      "file_id": 132806,
+      "file_name": "ZMD's Gothic Makup Suite SE v1A-34319-1A-1586205067.7z",
+      "mod_id": 34319,
+      "hash": "sha256-dL6tirygd6+/VOC+ikSDzxtxoKDpT9RkLOgIvW6m8DQ="
+    },
+    "type": "primary"
+  },
+  "Quality Eye Makup replacer for 1 file": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "U1",
+      "file_id": 167030,
+      "file_name": "Quality Eye Makup replacer for 1 file-34319-U1-1603642756.7z",
+      "mod_id": 34319,
+      "hash": "sha256-wU/55iJbqsU+PrcTVr3K2oRWGf7mADm4DmJpeFQD8Yo="
+    }
+  }
+}

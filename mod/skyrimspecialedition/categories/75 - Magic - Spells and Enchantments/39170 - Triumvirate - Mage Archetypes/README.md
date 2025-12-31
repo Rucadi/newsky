@@ -2,6 +2,8 @@
 - Author: Enai Siaion
 - Game: skyrimspecialedition
 - Mod Page: https://www.nexusmods.com/skyrimspecialedition/mods/39170
+
+
 [font=bebas\_neuebook]External links[/font]
   
   

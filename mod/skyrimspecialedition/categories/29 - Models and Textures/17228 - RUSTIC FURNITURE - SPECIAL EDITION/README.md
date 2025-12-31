@@ -2,6 +2,8 @@
 - Author: Gamwich
 - Game: skyrimspecialedition
 - Mod Page: https://www.nexusmods.com/skyrimspecialedition/mods/17228
+
+
 **RUSTIC FURNITURE - SPECIAL EDITION** is another entry in my "rustic" series of retextures for Skyrim. The noble furniture textures consist of 3 main sets of textures ( color + normal map) as well as one minor set for the noble water basin. There are well over 50 meshes in the "noble" folder, so these three main textures are responsible for many furniture objects in the game. Everything from the four poster beds, to banquet tables, bookcases, dressers, chairs, chests, shelves, and room dividers. New addition is the "high chest" which was never included in the hi-res pack textures. Version 3.0 adds the textures for the display case.
   
   

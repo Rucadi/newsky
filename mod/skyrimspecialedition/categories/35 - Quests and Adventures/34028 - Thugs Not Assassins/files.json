@@ -1,43 +1,43 @@
 {
-    "Thugs Not Assassins - Book Covers Skyrim Patch": {
-        "nexusmods": {
-            "game_name": "skyrimspecialedition",
-            "version": "1.0",
-            "file_id": 131016,
-            "file_name": "Thugs Not Assassins - Book Covers Skyrim Patch-34028-1-0-1585407658.zip",
-            "mod_id": 34028,
-            "hash": "sha256-XyQuHNl/u0rwzmcVRhJXxBP+ES9TKhfjcwAXCbGIoic="
-        }
-    },
-    "Thugs Not Assassins - Timing Is Everything": {
-        "nexusmods": {
-            "game_name": "skyrimspecialedition",
-            "version": "1.1.0",
-            "file_id": 131423,
-            "file_name": "Thugs Not Assassins - Timing Is Everything-34028-1-1-0-1585564458.zip",
-            "mod_id": 34028,
-            "hash": "sha256-Cbw3hIZGruTnUCKeGO6St5kJyQV5SsvWA2gSiWmPxhA="
-        }
-    },
-    "Thugs Not Assassins": {
-        "nexusmods": {
-            "game_name": "skyrimspecialedition",
-            "version": "1.1.1",
-            "file_id": 131424,
-            "file_name": "Thugs Not Assassins-34028-1-1-1-1585564478.zip",
-            "mod_id": 34028,
-            "hash": "sha256-ykTZXX6MQSWooCf1RQokMhRBTPJnqoNjqzLuheSlVGg="
-        },
-        "type": "primary"
-    },
-    "Thugs Not Assassins - How Hard Is This Persuasion Check": {
-        "nexusmods": {
-            "game_name": "skyrimspecialedition",
-            "version": "1",
-            "file_id": 136165,
-            "file_name": "Thugs Not Assassins - How Hard Is This Persuasion Check-34028-1-1587780305.zip",
-            "mod_id": 34028,
-            "hash": "sha256-DPD4gRoCk9IcIghdLzIlBNWnsXWOjkP/MnMFWoz+c6U="
-        }
+  "Thugs Not Assassins - Book Covers Skyrim Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 131016,
+      "file_name": "Thugs Not Assassins - Book Covers Skyrim Patch-34028-1-0-1585407658.zip",
+      "mod_id": 34028,
+      "hash": "sha256-XyQuHNl/u0rwzmcVRhJXxBP+ES9TKhfjcwAXCbGIoic="
     }
+  },
+  "Thugs Not Assassins - Timing Is Everything": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1.0",
+      "file_id": 131423,
+      "file_name": "Thugs Not Assassins - Timing Is Everything-34028-1-1-0-1585564458.zip",
+      "mod_id": 34028,
+      "hash": "sha256-Cbw3hIZGruTnUCKeGO6St5kJyQV5SsvWA2gSiWmPxhA="
+    }
+  },
+  "Thugs Not Assassins": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1.1",
+      "file_id": 131424,
+      "file_name": "Thugs Not Assassins-34028-1-1-1-1585564478.zip",
+      "mod_id": 34028,
+      "hash": "sha256-ykTZXX6MQSWooCf1RQokMhRBTPJnqoNjqzLuheSlVGg="
+    },
+    "type": "primary"
+  },
+  "Thugs Not Assassins - How Hard Is This Persuasion Check": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1",
+      "file_id": 136165,
+      "file_name": "Thugs Not Assassins - How Hard Is This Persuasion Check-34028-1-1587780305.zip",
+      "mod_id": 34028,
+      "hash": "sha256-DPD4gRoCk9IcIghdLzIlBNWnsXWOjkP/MnMFWoz+c6U="
+    }
+  }
 }

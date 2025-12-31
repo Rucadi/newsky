@@ -1,0 +1,44 @@
+{
+  "Hovels of Hagravens - 2k 4k mix": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0.2",
+      "file_id": 695828,
+      "file_name": "Hovels of Hagravens - 2k 4k mix-166188-1-0-2-1765212842.rar",
+      "mod_id": 166188,
+      "hash": "sha256-OuVkY1+E1RZvwkZmRQTcTcVRJQJUGgkqlnj8pguTXUI="
+    },
+    "type": "primary"
+  },
+  "Hovels of Hagravens - 2k max": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0.2",
+      "file_id": 695829,
+      "file_name": "Hovels of Hagravens - 2k max-166188-1-0-2-1765212891.rar",
+      "mod_id": 166188,
+      "hash": "sha256-xIpz/syLv3mGVrWVLUY2jXMULTeAfLj/rQNieX17sxI="
+    },
+    "type": "primary"
+  },
+  "Hovels of Hagravens - Animated patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0.2",
+      "file_id": 695831,
+      "file_name": "Hovels of Hagravens - Animated patch-166188-1-0-2-1765212917.rar",
+      "mod_id": 166188,
+      "hash": "sha256-68QW2HYZddjzBai3iDmHPuyJBStp2BGXIS5KAJsHbv8="
+    }
+  },
+  "Hovels of Hagravens - DTA patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0.2",
+      "file_id": 695832,
+      "file_name": "Hovels of Hagravens - DTA patch-166188-1-0-2-1765212941.rar",
+      "mod_id": 166188,
+      "hash": "sha256-zQlRSSk2X4ROjvgHHr350zlO+eOTZ39h1Vi3XczYhwU="
+    }
+  }
+}

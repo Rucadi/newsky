@@ -1,0 +1,24 @@
+{
+  "Horse Stamina HUD SE": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0.4",
+      "file_id": 321162,
+      "file_name": "Horse Stamina HUD SE-47076-1-0-4-1664741334.7z",
+      "mod_id": 47076,
+      "hash": "sha256-lX87DQBGpwa/+UckJze6t4rNpGLKyol2nwjZy1H4uT8="
+    },
+    "type": "primary"
+  },
+  "Horse Stamina HUD VR": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0.5",
+      "file_id": 322521,
+      "file_name": "Horse Stamina HUD VR-47076-1-0-5-1665254481.7z",
+      "mod_id": 47076,
+      "hash": "sha256-zW8bUK0WADHWiVBgaL494W5O0/RBN/MrQwyXK/k4MyQ="
+    },
+    "type": "primary"
+  }
+}

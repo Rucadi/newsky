@@ -1,0 +1,24 @@
+{
+  "BHUNP 3BBB - Skimpy Assassin Outfit": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 180224,
+      "file_name": "BHUNP 3BBB - Skimpy Assassin Outfit-44503-1-0-1610970546.7z",
+      "mod_id": 44503,
+      "hash": "sha256-3V5XZN/uaisr9iVjzGP8WmWT8PSKiHp5BaW3D6xksoc="
+    },
+    "type": "primary"
+  },
+  "CBBE 3BBB - Skimpy Assassin Outfit": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 180225,
+      "file_name": "CBBE 3BBB - Skimpy Assassin Outfit-44503-1-0-1610970601.7z",
+      "mod_id": 44503,
+      "hash": "sha256-32/aQp963/PyzE77787YSnMhP8Z+0H4lrGiRH0sMkc0="
+    },
+    "type": "primary"
+  }
+}

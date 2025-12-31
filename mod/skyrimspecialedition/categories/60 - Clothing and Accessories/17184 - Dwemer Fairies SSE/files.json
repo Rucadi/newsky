@@ -1,0 +1,23 @@
+{
+  "Dwemer Fairies SSE 1-1": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1",
+      "file_id": 55911,
+      "file_name": "Dwemer Fairies SSE 1-1-17184-1-1.zip",
+      "mod_id": 17184,
+      "hash": "sha256-lDYj7uoAXdYWqeB71XUWbBxw+6CkN8Cwd+DsJsEzzLo="
+    },
+    "type": "primary"
+  },
+  "Dwemer Fairies- LL Dragons 1-1": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1",
+      "file_id": 56085,
+      "file_name": "Dwemer Fairies- LL Dragons 1-1-17184-1-1.rar",
+      "mod_id": 17184,
+      "hash": "sha256-iS48i7gs69r8xHgJTib2DMGoHHRobua7DNo4nx+D/pg="
+    }
+  }
+}

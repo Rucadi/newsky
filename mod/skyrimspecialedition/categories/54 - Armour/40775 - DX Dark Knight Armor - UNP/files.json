@@ -1,0 +1,35 @@
+{
+  "Dark Knight Armor 16K": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1",
+      "file_id": 164651,
+      "file_name": "Dark Knight Armor 16K-40775-1-1-1602262123.7z",
+      "mod_id": 40775,
+      "hash": "sha256-3tpocOA1zu+I4pyPYlu6W9n4jOnx4ZQuoMd+kG6jCCQ="
+    },
+    "type": "primary"
+  },
+  "Dark Knight Armor 4K": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1",
+      "file_id": 164652,
+      "file_name": "Dark Knight Armor 4K-40775-1-1-1602262257.7z",
+      "mod_id": 40775,
+      "hash": "sha256-fww4+KoMEnEsqLbP1cbpRoyQs5x1wUKwl/dd5pb0myM="
+    },
+    "type": "primary"
+  },
+  "Dark Knight Armor 8K": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1",
+      "file_id": 164653,
+      "file_name": "Dark Knight Armor 8K-40775-1-1-1602262491.7z",
+      "mod_id": 40775,
+      "hash": "sha256-Har5Fbl6Yz/Z9Y0PE+gkkCz+G4NZaDgTOKxF5wytSw8="
+    },
+    "type": "primary"
+  }
+}

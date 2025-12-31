@@ -1,0 +1,53 @@
+{
+  "High stance only": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 687740,
+      "file_name": "High stance only-164549-1-0-1763222190.7z",
+      "mod_id": 164549,
+      "hash": "sha256-H6ho3lWKlFk7hjLSFGnav672lQJn07ypgotcjgovhd4="
+    }
+  },
+  "Low stance only": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 687742,
+      "file_name": "Low stance only-164549-1-0-1763222206.7z",
+      "mod_id": 164549,
+      "hash": "sha256-FqIpnkSMPld4JVVZJd2h0prdLFKb2myQoGiWUN9/wEk="
+    }
+  },
+  "Mid stance only": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 687743,
+      "file_name": "Mid stance only-164549-1-0-1763222222.7z",
+      "mod_id": 164549,
+      "hash": "sha256-jC/Gaj/YDKQ8791TFJQnfCta8zi74/MclJC/gF67Pps="
+    }
+  },
+  "All in one": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0.1",
+      "file_id": 688763,
+      "file_name": "All in one-164549-1-0-1-1763469328.7z",
+      "mod_id": 164549,
+      "hash": "sha256-0djBz0bbB1vEDcvC2GFdK/r8cZMQDIK1lMlZeWQd4cY="
+    },
+    "type": "primary"
+  },
+  "Neutral stance only": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0.1",
+      "file_id": 688764,
+      "file_name": "Neutral stance only-164549-1-0-1-1763469357.7z",
+      "mod_id": 164549,
+      "hash": "sha256-rMtpcff1uyGIj2aB4QMWoAQOcBYNWUtXzQnw5tpWoVQ="
+    }
+  }
+}

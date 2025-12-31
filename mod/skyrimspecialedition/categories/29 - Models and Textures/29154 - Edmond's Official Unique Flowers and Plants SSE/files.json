@@ -1,0 +1,33 @@
+{
+  "Unique Flowers and Plants for Skryim SE DLC Compatible": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.4",
+      "file_id": 107721,
+      "file_name": "Unique Flowers and Plants for Skryim SE DLC Compatible-29154-1-0-1569105461.rar",
+      "mod_id": 29154,
+      "hash": "sha256-Q1vnbXTGtou4Tzx1TVY19iDWUjZk17oszV+VL7nT4pE="
+    },
+    "type": "primary"
+  },
+  "Unique Flowers and Plants for Skryim SE DLC Compatible ESM Version": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.4",
+      "file_id": 108015,
+      "file_name": "Unique Flowers and Plants for Skryim SE DLC Compatible ESM Version-29154-1-4-1569290337.rar",
+      "mod_id": 29154,
+      "hash": "sha256-HTtF37DYRNYzt9UZ4GJB5lD8fCcbM/67AOb3Iy4juzk="
+    }
+  },
+  "Unique Flowers and Plans for Skryim SE  - ESL Version": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.4",
+      "file_id": 145685,
+      "file_name": "Unique Flowers and Plans for Skryim SE  - ESL Version-29154-1-4-1592156459.7z",
+      "mod_id": 29154,
+      "hash": "sha256-CDslDeaX8BLx+FSz2Q8OReakBO/wDzwJ36/29GUuPnM="
+    }
+  }
+}

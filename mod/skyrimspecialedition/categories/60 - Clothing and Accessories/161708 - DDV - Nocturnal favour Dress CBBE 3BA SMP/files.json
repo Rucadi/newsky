@@ -1,0 +1,34 @@
+{
+  "DDV - Nocturnal favour Dress by Vergi Replacer": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.6b",
+      "file_id": 677841,
+      "file_name": "DDV - Nocturnal favour Dress by Vergi Replacer-161708-1-6b-1760864989.rar",
+      "mod_id": 161708,
+      "hash": "sha256-bLf70QVdhz0Fppqp2Qp7P5zGZGKvVcszJJIf9Twc7kQ="
+    }
+  },
+  "DDV - Nocturnal favour Dress XML": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "101.1",
+      "file_id": 679878,
+      "file_name": "DDV - Nocturnal favour Dress XML-161708-101-1-1761311805.rar",
+      "mod_id": 161708,
+      "hash": "sha256-aByKi/zcSb/jJSCrAhIbDdyz++uIP2YhP60kwZOse58="
+    },
+    "type": "primary"
+  },
+  "DDV - Nocturnal favour Dress by Vergi": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.9d",
+      "file_id": 682942,
+      "file_name": "DDV - Nocturnal favour Dress by Vergi-161708-1-9d-1762082768.rar",
+      "mod_id": 161708,
+      "hash": "sha256-SIw1TXp19qzwOUt+UmjbT1XBJfvoWrAL1wyIAiruZGE="
+    },
+    "type": "primary"
+  }
+}

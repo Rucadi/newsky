@@ -1,0 +1,53 @@
+{
+  "(CVEO) by LDD - Aretuza Eyes Remastered": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0.0",
+      "file_id": 673941,
+      "file_name": "(CVEO) by LDD - Aretuza Eyes Remastered-161102-1-0-0-1760017712.7z",
+      "mod_id": 161102,
+      "hash": "sha256-ZqyDt2U/HJxkiQcBwMJy+Kl9qzdsEHYu5WZ62spAigA="
+    },
+    "type": "primary"
+  },
+  "(CVEO) by LDD - Aretuza Eyes Remastered - Unlocked": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0.0",
+      "file_id": 673945,
+      "file_name": "(CVEO) by LDD - Aretuza Eyes Remastered - Unlocked-161102-1-0-0-1760017788.7z",
+      "mod_id": 161102,
+      "hash": "sha256-m11iMUla/UPZargqwKHYLq9O9dTquQhvOdlBWUZktkQ="
+    }
+  },
+  "(CVEO) by LDD - Aretuza Eyes Remastered - UBE": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0.0",
+      "file_id": 673946,
+      "file_name": "(CVEO) by LDD - Aretuza Eyes Remastered - UBE-161102-1-0-0-1760017866.7z",
+      "mod_id": 161102,
+      "hash": "sha256-MfuAwlNyLxtEhTcWsHqlnRcc8Ap1ZKhenVoT1TgFC8E="
+    }
+  },
+  "(CVEO) by LDD - Aretuza Eyes Remastered - COtR": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0.0",
+      "file_id": 673949,
+      "file_name": "(CVEO) by LDD - Aretuza Eyes Remastered - COtR-161102-1-0-0-1760017924.7z",
+      "mod_id": 161102,
+      "hash": "sha256-p8wmeVccHvxVDU65EhykjYyB9Utmeypv6Tf1/ygKCBI="
+    }
+  },
+  "(CVEO) by LDD - Aretuza Eyes Remastered - Dummy": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0.0",
+      "file_id": 673954,
+      "file_name": "(CVEO) by LDD - Aretuza Eyes Remastered - Dummy-161102-1-0-0-1760018018.7z",
+      "mod_id": 161102,
+      "hash": "sha256-y/QsDsPOuvwus6OM1wFK4RXEK7gmz4lNYm8MyFon+ek="
+    }
+  }
+}

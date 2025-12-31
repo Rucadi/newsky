@@ -1,12 +1,13 @@
 {
-    "Nirn Necessities Tweaks - Skypatcher": {
-        "nexusmods": {
-            "game_name": "skyrimspecialedition",
-            "version": "1",
-            "file_id": 670356,
-            "file_name": "Nirn Necessities Tweaks - Skypatcher-160254-1-1759115105.zip",
-            "mod_id": 160254
-        },
-        "type": "primary"
-    }
+  "Nirn Necessities Tweaks - Skypatcher": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1",
+      "file_id": 670356,
+      "file_name": "Nirn Necessities Tweaks - Skypatcher-160254-1-1759115105.zip",
+      "mod_id": 160254,
+      "hash": "sha256-7aod6WWvx4X8qYbyfPc1JOQxnszxpXYIswgReSdOl4I="
+    },
+    "type": "primary"
+  }
 }

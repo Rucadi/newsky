@@ -1,0 +1,117 @@
+{
+  "Dwemer Pipework Reworked 5": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "5",
+      "file_id": 398923,
+      "file_name": "Dwemer Pipework Reworked 5-46507-5-1687095920.rar",
+      "mod_id": 46507,
+      "hash": "sha256-FLwGcSEiNlN+Xz8TcV8CixN6TbrqaT3rb+eix/cNUk4="
+    },
+    "type": "primary"
+  },
+  "dlc2 boiler - darker glow for v5": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "5",
+      "file_id": 398926,
+      "file_name": "dlc2 boiler - darker glow for v5-46507-5-1687097074.rar",
+      "mod_id": 46507,
+      "hash": "sha256-F8JtUL7Wx/RG5Z3TQuSMhZHg9wDJWOWUw7GgTMZr/04="
+    }
+  },
+  "Performance friendly textures for v5": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "5",
+      "file_id": 398997,
+      "file_name": "Performance friendly textures for v5-46507-5-1687110958.rar",
+      "mod_id": 46507,
+      "hash": "sha256-QfRiA9ePzcRuZSGho7++l25nktbSoaCovbaEkZocAfw="
+    }
+  },
+  "Textures without decorations for v5": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "5",
+      "file_id": 399003,
+      "file_name": "Textures without decorations for v5-46507-5-1687111809.rar",
+      "mod_id": 46507,
+      "hash": "sha256-oLwqhjeengp2mr9hx1i0tekR8oFhQ3PEzVwMdeAqYok="
+    }
+  },
+  "Textures without decorations for v5 - performance": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "5",
+      "file_id": 399005,
+      "file_name": "Textures without decorations for v5 - performance-46507-5-1687112302.rar",
+      "mod_id": 46507,
+      "hash": "sha256-d+gBOofYKrU2iOStUtZVwGTuuCby333AVPiKFFek7k0="
+    }
+  },
+  "Dwemer Pipework Reworked 5 - hotfix": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "5.1",
+      "file_id": 408675,
+      "file_name": "Dwemer Pipework Reworked 5 - hotfix-46507-v5-1689803519.rar",
+      "mod_id": 46507,
+      "hash": "sha256-9NS7FqQJEQBg9ciHMqyfQjFXdoL93/mS1T2K5Ls3sks="
+    },
+    "type": "primary"
+  },
+  "Performance version of dwepipeboiler02": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "5",
+      "file_id": 410539,
+      "file_name": "Performance version of dwepipeboiler02-46507-5-1690293660.rar",
+      "mod_id": 46507,
+      "hash": "sha256-OA7MlTF/6MS3tMyhYUiS5TPBM03Wg/42SDosQrBkckY="
+    }
+  },
+  "Dwemer Pipework Reworked 5 - hotfix 2": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "5.2",
+      "file_id": 449248,
+      "file_name": "Dwemer Pipework Reworked 5 - hotfix 2-46507-5-2-1701869256.rar",
+      "mod_id": 46507,
+      "hash": "sha256-gYUtY7AamhJOuvpBEtn2uxGpo22GQOpn+NIaBeIbZ70="
+    },
+    "type": "primary"
+  },
+  "Dwemer Pipework Reworked 5 - hotfix 3": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "5.3",
+      "file_id": 500618,
+      "file_name": "hotfix 3-46507-5-3-1715594485.rar",
+      "mod_id": 46507,
+      "hash": "sha256-jdY5JFnt63wrZ9g0CAsk0jlM5M9HEmUDhnuQlT33fpo="
+    },
+    "type": "primary"
+  },
+  "dwepipeend01 alternative version": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "D1",
+      "file_id": 642942,
+      "file_name": "dwepipeend01 alternative version-46507-D1-1751286077.rar",
+      "mod_id": 46507,
+      "hash": "sha256-8hVJqQMQ276urUpS4OncSzPNnagUewtDDkqfZNcmrHc="
+    }
+  },
+  "Dwemer Pipework Reworked 5 - hotfix 4": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "5.4",
+      "file_id": 651884,
+      "file_name": "Dwemer Pipework Reworked 5 - hotfix 4-46507-5-1-1754057040.rar",
+      "mod_id": 46507,
+      "hash": "sha256-zcr6VikueSs6uLjenfDUz/cJLQBVvZq8O6odkFNgC9M="
+    },
+    "type": "primary"
+  }
+}

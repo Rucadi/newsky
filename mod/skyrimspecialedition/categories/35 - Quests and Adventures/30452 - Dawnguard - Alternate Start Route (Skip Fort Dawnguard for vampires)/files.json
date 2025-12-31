@@ -1,0 +1,23 @@
+{
+  "DG Alternate Route - TCIY Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "0.1-BETA",
+      "file_id": 113794,
+      "file_name": "DG Alternate Route - TCIY Patch-30452-0-1-BETA-1574133408.rar",
+      "mod_id": 30452,
+      "hash": "sha256-PGQB/+Pl617JjmmzX63WVKBZLCXuouZe9SpAZwS2558="
+    }
+  },
+  "DG Alternate Route": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 132124,
+      "file_name": "DG Alternate Route-30452-1-0-1585863084.rar",
+      "mod_id": 30452,
+      "hash": "sha256-EDqVuNV7Ew9YafyBwJ1mYAqCgJ3KjnMzOrf8ugTAjIA="
+    },
+    "type": "primary"
+  }
+}

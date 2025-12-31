@@ -1,13 +1,13 @@
 {
-    "Glorious Doors of Skyrim (GDOS) SE": {
-        "nexusmods": {
-            "game_name": "skyrimspecialedition",
-            "version": "1.1",
-            "file_id": 320976,
-            "file_name": "Glorious Doors of Skyrim (GDOS) SE-32376-1-1-1664694894.7z",
-            "mod_id": 32376,
-            "hash": "sha256-Nn4NkW888IuZJu6kOGoXOr/dMfqAdQ7AJyalt4+WWLU="
-        },
-        "type": "primary"
-    }
+  "Glorious Doors of Skyrim (GDOS) SE": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1",
+      "file_id": 320976,
+      "file_name": "Glorious Doors of Skyrim (GDOS) SE-32376-1-1-1664694894.7z",
+      "mod_id": 32376,
+      "hash": "sha256-Nn4NkW888IuZJu6kOGoXOr/dMfqAdQ7AJyalt4+WWLU="
+    },
+    "type": "primary"
+  }
 }

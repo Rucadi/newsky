@@ -1,0 +1,34 @@
+{
+  "Unique Items Tweaks": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.6",
+      "file_id": 194108,
+      "file_name": "Unique Items Tweaks-33723-1-6-1616924550.7z",
+      "mod_id": 33723,
+      "hash": "sha256-aIIDHDYJlZD2TSem8fBypsGcBsRUdeJOsiQZ09VIHJY="
+    },
+    "type": "primary"
+  },
+  "Unique Items Tweaks - RoM Tweaks": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.6",
+      "file_id": 194110,
+      "file_name": "Unique Items Tweaks - RoM Tweaks-33723-1-6-1616925044.7z",
+      "mod_id": 33723,
+      "hash": "sha256-S7Mg3JWn7sNVtc41u4y1dwqptxDY6RyXM7dzIva/hJc="
+    }
+  },
+  "Unique Items Tweaks WAAT version": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.8",
+      "file_id": 248453,
+      "file_name": "Unique Items Tweaks WAAT version-33723-1-8-1639297226.7z",
+      "mod_id": 33723,
+      "hash": "sha256-Y9xmb7BclUm6OBIfKtTvJmkPR0BKdTAP7+ajFvQ9wWc="
+    },
+    "type": "primary"
+  }
+}

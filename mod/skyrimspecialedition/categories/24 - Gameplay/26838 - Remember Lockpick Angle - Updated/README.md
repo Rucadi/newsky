@@ -2,6 +2,8 @@
 - Author: OnlyIWeDo
 - Game: skyrimspecialedition
 - Mod Page: https://www.nexusmods.com/skyrimspecialedition/mods/26838
+
+
 **Author's note: this is an update to OnlyIWeDo's [Remember Lockpick Angle](https://www.nexusmods.com/skyrimspecialedition/mods/24543) with support for newer Skyrim SE versions. That file's permissions read, "Anyone is free to redistribute this mod and/or host it on other sites." If the original author would like to assume control of the latest version, they should message me, and I will take this mod down.
   
 Source code available on my [Github](https://github.com/Umgak/RememberLockpickAngle).****The Problem**

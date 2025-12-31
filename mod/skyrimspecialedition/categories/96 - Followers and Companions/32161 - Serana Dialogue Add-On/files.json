@@ -1,13 +1,13 @@
 {
-    "Serana Dialogue Add-On SE": {
-        "nexusmods": {
-            "game_name": "skyrimspecialedition",
-            "version": "4.3.0",
-            "file_id": 698563,
-            "file_name": "Serana Dialogue Add-On SE-32161-4-3-0-1765883670.7z",
-            "mod_id": 32161,
-            "hash": "sha256-CqnDd40wh9NhD2HpjFjZL/HS7VZPzzP9DbnhF8aKCRg="
-        },
-        "type": "primary"
-    }
+  "Serana Dialogue Add-On SE": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "4.3.0",
+      "file_id": 698563,
+      "file_name": "Serana Dialogue Add-On SE-32161-4-3-0-1765883670.7z",
+      "mod_id": 32161,
+      "hash": "sha256-CqnDd40wh9NhD2HpjFjZL/HS7VZPzzP9DbnhF8aKCRg="
+    },
+    "type": "primary"
+  }
 }

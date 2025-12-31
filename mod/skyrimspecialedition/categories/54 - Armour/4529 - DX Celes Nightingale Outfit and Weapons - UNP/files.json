@@ -1,0 +1,24 @@
+{
+  "Celes Nightingale Normal Boots": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "2.01",
+      "file_id": 89754,
+      "file_name": "Celes Nightingale Normal Boots-4529-2-0-1556278337.7z",
+      "mod_id": 4529,
+      "hash": "sha256-m32MMEOE6Izdtz5e+xWd3AObo+9UfrLaVmXhxInlCPU="
+    },
+    "type": "primary"
+  },
+  "Celes Nightingale High Heels": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "2.01",
+      "file_id": 89785,
+      "file_name": "Celes Nightingale High Heels-4529-2-01-1556287026.7z",
+      "mod_id": 4529,
+      "hash": "sha256-hdaBPpfXVoRhm+d7sLpcbsgqFCZAt6MBWB8iWKPchvk="
+    },
+    "type": "primary"
+  }
+}

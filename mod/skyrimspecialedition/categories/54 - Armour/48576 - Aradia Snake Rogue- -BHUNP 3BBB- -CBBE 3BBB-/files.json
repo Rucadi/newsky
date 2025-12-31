@@ -1,0 +1,32 @@
+{
+  "BHUNP 3BBB - Aradia Snake Rogue": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 198515,
+      "file_name": "BHUNP 3BBB - Aradia Snake Rogue-48576-1-0-1618585592.7z",
+      "mod_id": 48576,
+      "hash": "sha256-oRnbaAkfLNeaa+ou1ceByaT/nE+FeHEI6NUbLI/z89Q="
+    },
+    "type": "primary"
+  },
+  "CBBE 3BBB - Aradia Snake Rogue": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 198516,
+      "file_name": "CBBE 3BBB - Aradia Snake Rogue-48576-1-0-1618585671.7z",
+      "mod_id": 48576
+    },
+    "type": "primary"
+  },
+  "Aradia Snake Rogue - Optional HeelSound patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 198517,
+      "file_name": "Aradia Snake Rogue - Optional HeelSound patch-48576-1-0-1618585742.7z",
+      "mod_id": 48576
+    }
+  }
+}

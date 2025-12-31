@@ -1,0 +1,63 @@
+{
+  "Still - Replacer version": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 63337,
+      "file_name": "Still - Replacer version-19401-1-0.rar",
+      "mod_id": 19401,
+      "hash": "sha256-2Pbn4m8r3N8A4GHcLS09NrDmARSPdhfpTnimtwhKmrc="
+    }
+  },
+  "Still - ESP Version": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.01",
+      "file_id": 79225,
+      "file_name": "Still - ESP Version-19401-1-01-1548115357.rar",
+      "mod_id": 19401,
+      "hash": "sha256-s1m7gfbf+D+IbA54J9y0m5Bl/Z2xD2W2cbE+o4vcnUQ="
+    },
+    "type": "primary"
+  },
+  "Still - ESL Version": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.01",
+      "file_id": 79226,
+      "file_name": "Still - ESL Version-19401-1-01-1548115402.rar",
+      "mod_id": 19401,
+      "hash": "sha256-Gjl48TAWE3EGxnq1LKjVC1QMNRvugDMlzFD4zuMDfUg="
+    }
+  },
+  "Still - ESP flagged as ESL": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.01",
+      "file_id": 79227,
+      "file_name": "Still - ESP flagged as ESL-19401-1-01-1548115456.rar",
+      "mod_id": 19401,
+      "hash": "sha256-mZpwJwxSr7fgGcmTEGkBgRtSUJ2KZMIbN9Yti7FyoyQ="
+    }
+  },
+  "Still - Personalized Music": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.01",
+      "file_id": 99403,
+      "file_name": "Still - Personalized Music-19401-1-01-1563218674.rar",
+      "mod_id": 19401,
+      "hash": "sha256-oOyD2PubUzQTpjF7ZRLHjs0rfqP4zUFWTXeS3kA+xoM="
+    }
+  },
+  "Still - Chapter II 3.5 Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.01",
+      "file_id": 524192,
+      "file_name": "Still - Chapter II 3.5 Patch-19401-1-01-1721756269.7z",
+      "mod_id": 19401,
+      "hash": "sha256-/k0EK1ZtAXJZ/zwFVdKHljN+5KwU6nkhruZAA5i0ogQ="
+    }
+  }
+}

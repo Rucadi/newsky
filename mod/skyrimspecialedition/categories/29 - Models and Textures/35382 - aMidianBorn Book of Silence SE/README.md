@@ -2,6 +2,8 @@
 - Author: CaBaL - the AMB team
 - Game: skyrimspecialedition
 - Mod Page: https://www.nexusmods.com/skyrimspecialedition/mods/35382
+
+
 ![](https://staticdelivery.nexusmods.com/mods/110/images/102566/102566-1588186933-947735585.png)
   
   

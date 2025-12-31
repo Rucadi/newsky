@@ -1,0 +1,23 @@
+{
+  "AW 3BA presets pack": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 680730,
+      "file_name": "AW 3BA presets pack-162809-1-0-1761508235.zip",
+      "mod_id": 162809,
+      "hash": "sha256-ekDwGseSGdl9l/Z4c3NB4Z0UDvqoeRl90hyNrgFLpQY="
+    },
+    "type": "primary"
+  },
+  "AW Bodyslide presets config for Obody": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 680732,
+      "file_name": "AW Bodyslide presets config for Obody-162809-1-0-1761508366.zip",
+      "mod_id": 162809,
+      "hash": "sha256-fNVEH9XsPnsVH16R0SbFx/plJM5ym/XMtgl0xdSno5I="
+    }
+  }
+}

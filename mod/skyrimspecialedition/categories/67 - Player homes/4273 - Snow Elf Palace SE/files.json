@@ -1,0 +1,23 @@
+{
+  "Snow Elf Palace ini file": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1",
+      "file_id": 42064,
+      "file_name": "Snow Elf Palace ini file-4273-1-2.rar",
+      "mod_id": 4273,
+      "hash": "sha256-Or6c36AiHgpHJBGlvD91icK7UkvahL5plWiW6V1Am+I="
+    }
+  },
+  "Snow Elf Palace": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.2.2",
+      "file_id": 181635,
+      "file_name": "Snow Elf Palace-4273-1-2-2-1611536799.7z",
+      "mod_id": 4273,
+      "hash": "sha256-ejJniwoSkhHEhESYPYw4lvBVLtHa4EpJ+/7DF/wL200="
+    },
+    "type": "primary"
+  }
+}

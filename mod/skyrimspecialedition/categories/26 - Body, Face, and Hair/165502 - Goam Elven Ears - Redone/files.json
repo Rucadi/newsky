@@ -1,0 +1,154 @@
+{
+  "GoamEER - Hiraya Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 694812,
+      "file_name": "GoamEER - Hiraya Patch-165502-0-2-1764978823.7z",
+      "mod_id": 165502,
+      "hash": "sha256-NkSVos9adA2wwIVTciVlK++nofZgDTF605IPTqQaKII="
+    }
+  },
+  "GoamEER - Bijin Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 695923,
+      "file_name": "GoamEER - Bijin Patch-165502-0-2-1765245061.7z",
+      "mod_id": 165502,
+      "hash": "sha256-JpnlWQ03+PcIdl08yeyqE7v1oErJjjc9AZCaeaYWICI="
+    }
+  },
+  "GoamEER - Binibini Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 695925,
+      "file_name": "GoamEER - Binibini Patch-165502-0-2-1765245438.7z",
+      "mod_id": 165502,
+      "hash": "sha256-CyFhtcZDBoGb4GPU/thyxRwWRlnJt6lz30+RnCbzFgA="
+    }
+  },
+  "GoamEER - CBBE Skin Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 695926,
+      "file_name": "GoamEER - CBBE Skin Patch-165502-0-2-1765245904.7z",
+      "mod_id": 165502,
+      "hash": "sha256-r6COFuZyPaz7UB4TCilvpM0flWdhfGcmI7Fnp1huocg="
+    }
+  },
+  "GoamEER - Diamond Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 695928,
+      "file_name": "GoamEER - Diamond Patch-165502-0-2-1765246308.7z",
+      "mod_id": 165502,
+      "hash": "sha256-iz0UMHTZjMKtFj0QR7Ux7OT5xgbf17W5pwAFBym8TPw="
+    }
+  },
+  "GoamEER - Fair Skin Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 695931,
+      "file_name": "GoamEER - Fair Skin Patch-165502-0-2-1765246693.7z",
+      "mod_id": 165502,
+      "hash": "sha256-y0zEDbhNZB9e7/Po/K1QOBP4N9RtaxtnLOX2Lqy6g7Y="
+    }
+  },
+  "GoamEER - Reverie Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 695932,
+      "file_name": "GoamEER - Reverie Patch-165502-0-2-1765247494.7z",
+      "mod_id": 165502,
+      "hash": "sha256-3EAO7NwfI0MY1z7RSMvFmfHAlGHt2l57nVyH7VuxmBo="
+    }
+  },
+  "GoamEER - PB Silky Skin Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 695933,
+      "file_name": "GoamEER - PB Silky Skin Patch-165502-0-2-1765247732.7z",
+      "mod_id": 165502,
+      "hash": "sha256-dzU/JyYiBc59LyV2ZcPdJtra3lCB1aHsKkVTuEqz5FU="
+    }
+  },
+  "GoamEER - Zhizhen Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 695935,
+      "file_name": "GoamEER - Zhizhen Patch-165502-0-2-1765247914.7z",
+      "mod_id": 165502,
+      "hash": "sha256-c+68zHbJhbRsBrUsgp3HbhUhsa5w2L5oedDYYVEFhT4="
+    }
+  },
+  "GoamEER - Lovergirl Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 695938,
+      "file_name": "GoamEER - Lovergirl Patch-165502-0-2-1765248435.7z",
+      "mod_id": 165502,
+      "hash": "sha256-GTk1dJNYWcRGGfg5lkQTYCSWFnmpH8xgK2IGHdcR30Y="
+    }
+  },
+  "GoamEER - BnP Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 696428,
+      "file_name": "GoamEER - BnP Patch-165502-0-2-1765366922.7z",
+      "mod_id": 165502,
+      "hash": "sha256-VPpWIBJSdPxvyEWxa/JBfJkxak/TAEMEUptOkd1Kvdo="
+    }
+  },
+  "GoamEER - Core": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 696860,
+      "file_name": "GoamEER - Core-165502-1-0-1765473374.7z",
+      "mod_id": 165502,
+      "hash": "sha256-w9QQKaWZfy5mGl8BzClqCISZeOPzpbCZ2ZAzf7gyTIU="
+    },
+    "type": "primary"
+  },
+  "GoamEER - Bnp Sk fix - Extra Matte S - addon": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 697193,
+      "file_name": "GoamEER - Bnp Sk fix - Extra Matte S - addon-165502-1-0-1765547642.7z",
+      "mod_id": 165502,
+      "hash": "sha256-nf23cUe+/5D3X2D95ZWbrr7cIxr6lXT1GmxC9X2CbZM="
+    }
+  },
+  "GoamEER - No Enb user SK fix": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 698561,
+      "file_name": "GoamEER - No Enb user SK fix-165502-1-0-1765883261.7z",
+      "mod_id": 165502,
+      "hash": "sha256-02yIX1c4v/FqjPF1wnHCewf+bN+ollR6fU8bppQQWBw="
+    },
+    "type": "primary"
+  },
+  "GoamEER - Demoniac Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 698714,
+      "file_name": "GoamEER - Demoniac Patch-165502-1-0-1765913757.7z",
+      "mod_id": 165502,
+      "hash": "sha256-3YHA+MsKm2KDoP6QZb+YPg1P8+U4QlKKMYx0wwQ5A/4="
+    }
+  }
+}

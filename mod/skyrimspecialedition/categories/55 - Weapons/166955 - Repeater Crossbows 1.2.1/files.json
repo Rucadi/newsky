@@ -1,0 +1,24 @@
+{
+  "Repeater Crossbows 1.2": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.2",
+      "file_id": 698035,
+      "file_name": "Repeater Crossbows 1.2-166955-1-2-1765739511.rar",
+      "mod_id": 166955,
+      "hash": "sha256-NFWPjaiLxDoC9v72h04ladRkObLbJ43TfV3KLIJUUQk="
+    },
+    "type": "primary"
+  },
+  "OneHandCrossbows1.2.1(Nerfed Damage)": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.2.1",
+      "file_id": 698774,
+      "file_name": "OneHandCrossbows1.2.1(Nerfed Damage)-166955-1-2-1-1765929869.rar",
+      "mod_id": 166955,
+      "hash": "sha256-5Je1Djls3Hn88qpVzIrcWUiWxU+M6qhd1hki5hbhD3w="
+    },
+    "type": "primary"
+  }
+}

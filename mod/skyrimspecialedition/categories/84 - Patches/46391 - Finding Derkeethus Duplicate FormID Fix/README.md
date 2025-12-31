@@ -2,6 +2,8 @@
 - Author: Tohuw - original by SomethingObscure
 - Game: skyrimspecialedition
 - Mod Page: https://www.nexusmods.com/skyrimspecialedition/mods/46391
+
+
 [Finding Derkeethus](https://www.nexusmods.com/skyrimspecialedition/mods/19550) has a duplicate FormID. This can cause problems. DynDoLOD will warn you about this duplicate FormID and urge you to fix it. While the duplicated FormID might not actually break anything in particular for you, it shouldn't be there and the right thing to do is fix it.
   
   

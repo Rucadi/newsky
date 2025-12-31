@@ -2,6 +2,8 @@
 - Author: GOsteW and lilebonymace
 - Game: skyrimspecialedition
 - Mod Page: https://www.nexusmods.com/skyrimspecialedition/mods/28904
+
+
 **Version for original Skyrim [here](https://www.nexusmods.com/skyrim/mods/98250)**
 
 **Version for XBOX [size=1]([b][size=1]not by us**)[/size] [here](https://mods.bethesda.net/en/skyrim/mod-detail/4305444) or [here bundled with More Dialogue Options](https://mods.bethesda.net/en/skyrim/mod-detail/4305586)﻿[/b][/size]

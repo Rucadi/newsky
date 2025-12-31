@@ -1,0 +1,44 @@
+{
+  "Ordinator - Combat Styles - No weaponspeedmult fix": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.05",
+      "file_id": 214370,
+      "file_name": "Ordinator - Combat Styles-34800-1-05-1626180121.7z",
+      "mod_id": 34800,
+      "hash": "sha256-AmimfYYAyJMzSDWELFK88j6SuSQqdr3xMoxXGRQzOMY="
+    }
+  },
+  "Ordinator - Combat Styles": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.08",
+      "file_id": 284806,
+      "file_name": "Ordinator - Combat Styles-34800-1-08-1652917515.7z",
+      "mod_id": 34800,
+      "hash": "sha256-X0N/8Y+OKGtOYO0S2Icme+SiUu2Sfud9eqfd8W2AVqo="
+    },
+    "type": "primary"
+  },
+  "Ordinator - Combat Styles - ESL": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.08",
+      "file_id": 284807,
+      "file_name": "Ordinator - Combat Styles - ESL-34800-1-08-1652917540.7z",
+      "mod_id": 34800,
+      "hash": "sha256-kKA7f/fpTK83mpZOwLyQ+Ap1hz1elvoXgVT6VN2zBCU="
+    },
+    "type": "primary"
+  },
+  "Ordinator - Combat Styles - Masteries Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.08",
+      "file_id": 284808,
+      "file_name": "Ordinator - Combat Styles - Masteries Patch-34800-1-08-1652917651.7z",
+      "mod_id": 34800,
+      "hash": "sha256-zdyHPedOtxi3MLvASrL5/W8NEmcNvp7hy2y0yz6E0Gk="
+    }
+  }
+}

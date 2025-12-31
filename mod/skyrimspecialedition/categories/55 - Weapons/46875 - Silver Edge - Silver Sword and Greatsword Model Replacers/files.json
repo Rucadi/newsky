@@ -1,0 +1,67 @@
+{
+  "Silver Edge - Variant 1": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 191027,
+      "file_name": "Silver Edge - Variant 1-46875-1-0-1615569204.7z",
+      "mod_id": 46875,
+      "hash": "sha256-XtTgA9jSNz4JEuQmeU70uQW/lAq1hJgVddl+QeaCwxA="
+    },
+    "type": "primary"
+  },
+  "Silver Edge - Variant 2": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 191028,
+      "file_name": "Silver Edge - Variant 2-46875-1-0-1615569235.7z",
+      "mod_id": 46875,
+      "hash": "sha256-yZK9psS46FcX/HuDZkUWnC/5+L8wP+dx7M/ek/BnkBo="
+    },
+    "type": "primary"
+  },
+  "Silver Edge - Variant 3": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 191029,
+      "file_name": "Silver Edge - Variant 3-46875-1-0-1615569275.7z",
+      "mod_id": 46875,
+      "hash": "sha256-tYCTDIe2YfiTTLpGjgYhedIf4dBTGMjXKVRkSExD5Tw="
+    },
+    "type": "primary"
+  },
+  "Silver Edge - Variant 4": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 191030,
+      "file_name": "Silver Edge - Variant 4-46875-1-0-1615569338.7z",
+      "mod_id": 46875,
+      "hash": "sha256-FzySNg1qNj1j3eb1BulKaxVzey7iNbD41iiHKCZfVvI="
+    },
+    "type": "primary"
+  },
+  "Silver Edge - Standalone": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 191053,
+      "file_name": "Silver Edge - Standalone-46875-1-0-1615573440.7z",
+      "mod_id": 46875,
+      "hash": "sha256-i+J1IEtmyFJWl1hQdIlgtjwcGYM4aKpMpj/rKFz33S8="
+    }
+  },
+  "Silver Edge - FOMOD": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1",
+      "file_id": 274044,
+      "file_name": "Silver Edge - FOMOD-46875-1-1-1648806041.7z",
+      "mod_id": 46875,
+      "hash": "sha256-+VzVAv1F1U6MGk2eJ5KSNjS2ioabrLuWQacdHR8GeD4="
+    },
+    "type": "primary"
+  }
+}

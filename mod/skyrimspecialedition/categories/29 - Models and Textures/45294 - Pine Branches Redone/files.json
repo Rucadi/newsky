@@ -1,0 +1,45 @@
+{
+  "(1) Pine Branches Redone 2K": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "4.0",
+      "file_id": 334558,
+      "file_name": "Pine Branches Redone 2K-45294-4-0-1669395213.7z",
+      "mod_id": 45294,
+      "hash": "sha256-gasld5LYDYilT/AtzbBJ8vk60jn1nNdkRaU/8SAqr8Y="
+    },
+    "type": "primary"
+  },
+  "(2) Pine Branches Redone 4K": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "4.0",
+      "file_id": 334559,
+      "file_name": "Pine Branches Redone 4K-45294-4-0-1669395406.7z",
+      "mod_id": 45294,
+      "hash": "sha256-lseOWBsBw15Rv3thTdIKVvEbe2N+BwuEnmqOS9x79Ms="
+    },
+    "type": "primary"
+  },
+  "(3) Pine Branches Redone 8K": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "4.0",
+      "file_id": 334562,
+      "file_name": "Pine Branches Redone 8K-45294-4-0-1669395873.7z",
+      "mod_id": 45294,
+      "hash": "sha256-caOaLxUY2Pj8lLFeSivFcv6LR5XBPEK9G5tcYouV2aw="
+    },
+    "type": "primary"
+  },
+  "(4) Pine Branches Redone 16K": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "4.0",
+      "file_id": 334566,
+      "file_name": "Pine Branches Redone 16K-45294-4-0-1669396836.7z",
+      "mod_id": 45294
+    },
+    "type": "primary"
+  }
+}

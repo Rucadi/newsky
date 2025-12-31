@@ -16,7 +16,8 @@
       "version": "1",
       "file_id": 669509,
       "file_name": "Fawnia - UBE-160044-1-1758872501.rar",
-      "mod_id": 160044
+      "mod_id": 160044,
+      "hash": "sha256-phZi/V5SF4ql/sruldxJt0Ao8fSH+AynfW84J550l2M="
     }
   },
   "Fawnia - Custom Staff": {
@@ -25,7 +26,8 @@
       "version": "1",
       "file_id": 669510,
       "file_name": "Fawnia - Custom Staff-160044-1-1758872706.rar",
-      "mod_id": 160044
+      "mod_id": 160044,
+      "hash": "sha256-IiZp8ol6yzY1qaO+Pct5i79iuRAcLv1ARrCygblu5hU="
     }
   }
 }

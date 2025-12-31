@@ -2,6 +2,8 @@
 - Author: ThirteenOranges
 - Game: skyrimspecialedition
 - Mod Page: https://www.nexusmods.com/skyrimspecialedition/mods/22513
+
+
 ===Note by PrivateEye===
   
   

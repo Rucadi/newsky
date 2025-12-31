@@ -1,0 +1,24 @@
+{
+  "Speech hint": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1",
+      "file_id": 112444,
+      "file_name": "Speech hint-30182-1-1572891822.zip",
+      "mod_id": 30182,
+      "hash": "sha256-6oQm9lf13KuiIL7RkERPee331VohEMsjphmQiDRegck="
+    },
+    "type": "primary"
+  },
+  "Speech hint (USSEP)": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1",
+      "file_id": 112507,
+      "file_name": "Speech hint (USSEP)-30182-1-1572949396.zip",
+      "mod_id": 30182,
+      "hash": "sha256-gErMKAUffcGFQSPIYCXSbzQs9AHGiFIfRc38wnDiDck="
+    },
+    "type": "primary"
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "ElSopa HD - Ants 2K": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 96423,
+      "file_name": "ElSopa HD - Ants 2K-26715-1-0-1560816108.zip",
+      "mod_id": 26715,
+      "hash": "sha256-oHCPsucZg3aKXgjlKuJV0yXzQD4oQOdAcgu/2476A6Y="
+    },
+    "type": "primary"
+  },
+  "ElSopa HD - Ants 1K": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 96424,
+      "file_name": "ElSopa HD - Ants 1K-26715-1-0-1560816165.zip",
+      "mod_id": 26715,
+      "hash": "sha256-A/IIyd2eeJVsK1sZ6Ncrc7VhrWi/ki/sJFBDixJ4DFY="
+    },
+    "type": "primary"
+  }
+}

@@ -1,0 +1,93 @@
+{
+  "Sword of Dragonsreach - Custom Textures": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.2",
+      "file_id": 156293,
+      "file_name": "Sword of Dragonsreach - Custom Textures-28006-1-1-1597737738.7z",
+      "mod_id": 28006,
+      "hash": "sha256-CFuf3Mtiie50md9Qc/8XTyTfC5YUM2SO9AYlLXp6HQM="
+    }
+  },
+  "Royal Armory - Reforged - Main Replacer 1.2": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.2",
+      "file_id": 229328,
+      "file_name": "Royal Armory - Reforged - Main Replacer 1.2-28006-1-2-1632040322.7z",
+      "mod_id": 28006,
+      "hash": "sha256-1xeY5khWyz1pzDRiMIP9zH8pI2GdKaqQdEtxG+3aXhQ="
+    },
+    "type": "primary"
+  },
+  "Daggers - Larger Models": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.2",
+      "file_id": 229329,
+      "file_name": "Daggers - Larger Models-28006-1-2-1632040356.7z",
+      "mod_id": 28006,
+      "hash": "sha256-SBB7A1nkaUbd8ekg0sTjPLuwL5fT0m0eBfZDGpxjTlk="
+    }
+  },
+  "Daggers - Smaller Models": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.2",
+      "file_id": 229330,
+      "file_name": "Daggers - Smaller Models-28006-1-2-1632040382.7z",
+      "mod_id": 28006,
+      "hash": "sha256-Y5xyNfBE+OZSsgiJj3fYfHPHB86TYeHYJzccWFD/L4s="
+    }
+  },
+  "Dragonfang - Penitus Logo": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.2",
+      "file_id": 229331,
+      "file_name": "Dragonfang - Penitus Logo-28006-1-2-1632040410.7z",
+      "mod_id": 28006,
+      "hash": "sha256-eIgL/CetDwhje3ESc/FOKGvUwvEixKojE7z8x7ZarwU="
+    }
+  },
+  "Hafyllbrand - Custom Textures": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.2",
+      "file_id": 229332,
+      "file_name": "Hafyllbrand - Custom Textures-28006-1-2-1632040453.7z",
+      "mod_id": 28006,
+      "hash": "sha256-RWIqo513yJiRbJzg7zk6u70De2Gk23J/991QJmlP4Tk="
+    }
+  },
+  "Judgement - Vanilla Textures": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.2",
+      "file_id": 229333,
+      "file_name": "Judgement - Vanilla Textures-28006-1-2-1632040479.7z",
+      "mod_id": 28006,
+      "hash": "sha256-o5+16c/QDnla+CmlL5ZC6FDEHaYOf4EBx5MRtmCf82k="
+    }
+  },
+  "Loadscreen Models Update": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.2",
+      "file_id": 229335,
+      "file_name": "Loadscreen Models Update-28006-1-2-1632040514.7z",
+      "mod_id": 28006,
+      "hash": "sha256-/rsnFWQiJHt7MdyMMF+TqAvvc2Wsu6l6U6PLwfb2gI8="
+    }
+  },
+  "Shard - Custom Textures": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.2",
+      "file_id": 229336,
+      "file_name": "Shard - Custom Textures-28006-1-2-1632040548.7z",
+      "mod_id": 28006,
+      "hash": "sha256-ArtadqiSsdwf6+H4WOwJzDZ4HMT5ZeaUQdjtsdxZTok="
+    }
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "Dragonborn UI - SkyUI Reskin": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "0.53",
+      "file_id": 696960,
+      "file_name": "Dragonborn UI - SkyUI Reskin-163074-0-53-1765488768.zip",
+      "mod_id": 163074,
+      "hash": "sha256-GvG5/RVAjzb+lSfKC7EAyLMgqQJ2excC0Do3E3x1GLI="
+    },
+    "type": "primary"
+  },
+  "Dragonborn UI - SkyUI Reskin - Widescreen 21x9": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "0.21",
+      "file_id": 697431,
+      "file_name": "Dragonborn UI - SkyUI Reskin - Widescreen 21x9-163074-0-21-1765597103.zip",
+      "mod_id": 163074,
+      "hash": "sha256-ndsFrAIgzGwUHcq79W/SkbQgcCfiKxD8oBeBHZa73/o="
+    },
+    "type": "primary"
+  },
+  "Dragonborn UI - SkyUI Reskin - Widescreen 32x9": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "0.21",
+      "file_id": 697432,
+      "file_name": "Dragonborn UI - SkyUI Reskin - Widescreen 32x9-163074-0-21-1765597162.zip",
+      "mod_id": 163074,
+      "hash": "sha256-7VdtPDWGAOJdqB0XiAXKa/fmMjgMnQuDA4Lz7RrV1dw="
+    },
+    "type": "primary"
+  }
+}

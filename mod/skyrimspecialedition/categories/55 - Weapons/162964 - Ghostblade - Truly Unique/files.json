@@ -1,0 +1,56 @@
+{
+  "Ghostblade - Truly Unique ESL 2048x8192": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "v1.0",
+      "file_id": 681407,
+      "file_name": "Ghostblade - Truly Unique ESL 2048x8192-162964-v1-0-1761687507.7z",
+      "mod_id": 162964,
+      "hash": "sha256-JpNx1JkF+BhZCjprCsS51smRIH2IjYPHJFsKa/R4OeQ="
+    },
+    "type": "primary"
+  },
+  "Ghostblade - Truly Unique ESL 1024x4096": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "v1.0",
+      "file_id": 681408,
+      "file_name": "Ghostblade - Truly Unique ESL 1024x4096-162964-v1-0-1761687554.7z",
+      "mod_id": 162964,
+      "hash": "sha256-imTfUWpJaqBv0t0t+COk5tddKEFw/QXH5mAdkKO52BU="
+    },
+    "type": "primary"
+  },
+  "Ghostblade T.U. ESL 2048x8192 MODEL REPLACER ONLY": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "v1.0",
+      "file_id": 683798,
+      "file_name": "Ghostblade T.U. ESL 2048x8192 MODEL REPLACER ONLY-162964-v1-0-1762283242.7z",
+      "mod_id": 162964,
+      "hash": "sha256-1XX7BhiI9ASznRlvGlksssUPwoKYrzKkf6xq8bQcljc="
+    },
+    "type": "primary"
+  },
+  "Ghostblade T.U. ESL 1024x4096 MODEL REPLACER ONLY": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "v1.0",
+      "file_id": 683799,
+      "file_name": "Ghostblade T.U. ESL 1024x4096 MODEL REPLACER ONLY-162964-v1-0-1762283348.7z",
+      "mod_id": 162964,
+      "hash": "sha256-BYrl2vN6V2PtSix7/o83XLjN5ZA0SRYg6WAhlpFQxtg="
+    },
+    "type": "primary"
+  },
+  "Ghostblade - Truly Unique ESL Debuff Hotfix": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "v1.0",
+      "file_id": 683802,
+      "file_name": "Ghostblade - Truly Unique ESL Debuff Hotfix-162964-v1-0-1762283859.7z",
+      "mod_id": 162964,
+      "hash": "sha256-6yNm5CmsnU6KwqI2wUGlsyNdjkCLcst1vV6CnF0WIS4="
+    }
+  }
+}

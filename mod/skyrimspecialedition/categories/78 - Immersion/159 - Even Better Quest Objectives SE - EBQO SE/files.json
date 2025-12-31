@@ -1,23 +1,23 @@
 {
-  "Even Better Quest Objectives SE v1.10.0": {
-    "nexusmods": {
-      "game_name": "skyrimspecialedition",
-      "version": "1.10.0",
-      "file_id": 501875,
-      "file_name": "Even Better Quest Objectives SE v1.10.0-159-1-10-0-1715908067.7z",
-      "mod_id": 159,
-      "hash": "sha256-OhsMCjkxphfThBGUy/o/sYhDnOxYHpkWzXabMxWTYg0="
+    "Even Better Quest Objectives SE v1.10.0": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "1.10.0",
+            "file_id": 501875,
+            "file_name": "Even Better Quest Objectives SE v1.10.0-159-1-10-0-1715908067.7z",
+            "mod_id": 159,
+            "hash": "sha256-OhsMCjkxphfThBGUy/o/sYhDnOxYHpkWzXabMxWTYg0="
+        },
+        "type": "primary"
     },
-    "type": "primary"
-  },
-  "Even Better Quest Objectives SE v1.11.0 RC1": {
-    "nexusmods": {
-      "game_name": "skyrimspecialedition",
-      "version": "1.11.0",
-      "file_id": 544010,
-      "file_name": "Even Better Quest Objectives SE v1.11.0 RC1-159-v1-11-0-1726792437.7z",
-      "mod_id": 159,
-      "hash": "sha256-55MjruSxM+HRj3MS8P5emrfdIhOPDku8VPEFC4HtT0M="
+    "Even Better Quest Objectives SE v1.11.0 RC1": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "1.11.0",
+            "file_id": 544010,
+            "file_name": "Even Better Quest Objectives SE v1.11.0 RC1-159-v1-11-0-1726792437.7z",
+            "mod_id": 159,
+            "hash": "sha256-55MjruSxM+HRj3MS8P5emrfdIhOPDku8VPEFC4HtT0M="
+        }
     }
-  }
 }

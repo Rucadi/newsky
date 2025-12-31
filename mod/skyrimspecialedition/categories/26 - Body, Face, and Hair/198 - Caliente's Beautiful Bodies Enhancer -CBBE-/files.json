@@ -1,0 +1,44 @@
+{
+  "Normal Map Options - v1.4": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.4",
+      "file_id": 63781,
+      "file_name": "Normal Map Options - v1.4-198-1-4.7z",
+      "mod_id": 198,
+      "hash": "sha256-gWURaa8u0sljIHKZj2SGb/FJvKW1TsBRAetmOtYiLAw="
+    }
+  },
+  "Caliente's Beautiful Bodies Enhancer CBBE - v2.0.3": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "2.0.3",
+      "file_id": 489053,
+      "file_name": "Caliente's Beautiful Bodies Enhancer CBBE - v2.0.3-198-2-0-3-1712683181.7z",
+      "mod_id": 198,
+      "hash": "sha256-l+wCcV/2BGXm6IjMRJ34Vq1xJQjtta8xytLbCYmHohY="
+    },
+    "type": "primary"
+  },
+  "CBBE AE-CC Outfits": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "2.0.3",
+      "file_id": 489055,
+      "file_name": "CBBE AE-CC Outfits-198-2-0-3-1712683252.7z",
+      "mod_id": 198,
+      "hash": "sha256-mwjrUpmstkZJJB+l1uO3M8sOzKDittgeVyPojlVlmnc="
+    },
+    "type": "primary"
+  },
+  "CBBE Outfits - No Rim Lighting": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "2.0.3",
+      "file_id": 489057,
+      "file_name": "CBBE Outfits - No Rim Lighting-198-2-0-3-1712683291.7z",
+      "mod_id": 198,
+      "hash": "sha256-fkEM35pKfYst2cv0u31vvTETlIvSXiB+hj8J7BFUkpE="
+    }
+  }
+}

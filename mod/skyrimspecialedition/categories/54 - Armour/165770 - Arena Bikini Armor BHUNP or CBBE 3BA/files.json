@@ -1,0 +1,24 @@
+{
+  "Arena Bikini Armor BHUNP AE": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 692550,
+      "file_name": "Arena Bikini Armor BHUNP AE-165770-1-0-1764435732.7z",
+      "mod_id": 165770,
+      "hash": "sha256-8UNujQc1uBUWnAJj4m4Ofn958DH38zbfRmmzhwmuPqQ="
+    },
+    "type": "primary"
+  },
+  "Arena Bikini Armor CBBE 3BA AE": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.01",
+      "file_id": 695660,
+      "file_name": "Arena Bikini Armor CBBE 3BA AE-165770-1-01-1765165056.7z",
+      "mod_id": 165770,
+      "hash": "sha256-Yy9bHMQevgepX28NI1yML0EMtBkcR877V2IbeBonGLI="
+    },
+    "type": "primary"
+  }
+}

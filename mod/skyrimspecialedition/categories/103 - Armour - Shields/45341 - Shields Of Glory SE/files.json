@@ -1,0 +1,110 @@
+{
+  "Shields Of Glory 4k ESP VERSION": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 184238,
+      "file_name": "Shields Of Glory 4k-45341-1-0-1612569586.7z",
+      "mod_id": 45341,
+      "hash": "sha256-n0pKVHb096dJV0ROrYyBywRp4UPAs1NOaANgxwANWKE="
+    },
+    "type": "primary"
+  },
+  "Shields Of Glory 2k ESP VERSION": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 184239,
+      "file_name": "Shields Of Glory 2k-45341-1-0-1612569609.7z",
+      "mod_id": 45341,
+      "hash": "sha256-YuC3JU6Eri4/rfmRrFPOYLxBh/6PM6fCeQNk8OyXUaE="
+    },
+    "type": "primary"
+  },
+  "Shields Of Glory 1k ESP VERSION": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 184240,
+      "file_name": "Shields Of Glory 1k-45341-1-0-1612569635.7z",
+      "mod_id": 45341,
+      "hash": "sha256-UaZJrSko0a2OwxLKbXjapUOU811p77VFh0RPZZ0kP5w="
+    },
+    "type": "primary"
+  },
+  "Shields Of Glory 512 ESP VERSION": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 184241,
+      "file_name": "Shields Of Glory 512-45341-1-0-1612569663.7z",
+      "mod_id": 45341,
+      "hash": "sha256-KBe2Ws6Ylvur4CaBmKeJ0eqSkTivcCZIdLGh1aRbkKU="
+    },
+    "type": "primary"
+  },
+  "Shields Of Glory ESL FLAGGED 4k": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1",
+      "file_id": 184256,
+      "file_name": "Shields Of Glory ESL FLAGGED 4k-45341-1-1-1612574178.7z",
+      "mod_id": 45341,
+      "hash": "sha256-7qkhuG72qzWAoe2CugI5+BHZDa8YcVPNgpVZ4QpxaYQ="
+    },
+    "type": "primary"
+  },
+  "Shields Of Glory ESL FLAGGED 2k": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1",
+      "file_id": 184257,
+      "file_name": "Shields Of Glory ESL FLAGGED 2k-45341-1-1-1612574303.7z",
+      "mod_id": 45341,
+      "hash": "sha256-+K0sswwQziPymaN+gQB68Z01nJgFy1nrgQ/s7jjCnL8="
+    },
+    "type": "primary"
+  },
+  "Shields Of Glory ESL FLAGGED 1k": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1",
+      "file_id": 184258,
+      "file_name": "Shields Of Glory ESL FLAGGED 1k-45341-1-1-1612574377.7z",
+      "mod_id": 45341,
+      "hash": "sha256-gqZdqbVAwJffxXA4TyYnldUqHZl5zVeboMW1igVfQNs="
+    },
+    "type": "primary"
+  },
+  "Shields Of Glory ESL FLAGGED 512": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1",
+      "file_id": 184259,
+      "file_name": "Shields Of Glory ESL FLAGGED 512-45341-1-1-1612574435.7z",
+      "mod_id": 45341,
+      "hash": "sha256-iup1X36D1eG7Sh4onOcvUcRBBUK0BlAFLzsB+Sk0m5s="
+    },
+    "type": "primary"
+  },
+  "Shields Of Glory 4k - Meringue Shield Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 184374,
+      "file_name": "Shields Of Glory 4k - Meringue Shield Patch-45341-1-0-1612621590.7z",
+      "mod_id": 45341,
+      "hash": "sha256-TJ8Kx1ysXd1b7s8EentXWLxziwmr2QFSHkNQA9cqFrs="
+    }
+  },
+  "Shields Of Glory Alternative With Light versions": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.2",
+      "file_id": 191892,
+      "file_name": "Shields Of Glory Alternative With Light versions-45341-1-2-1615938478.zip",
+      "mod_id": 45341,
+      "hash": "sha256-i2X2HpYO6Ny+Xa6OPmGC6ShlCkYOeqLGWdFtEDx8QIA="
+    }
+  }
+}

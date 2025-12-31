@@ -1,0 +1,23 @@
+{
+  "Mysticism - Jump Spell Addon": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0.3",
+      "file_id": 364286,
+      "file_name": "Mysticism - Jump Spell Addon-27839-1-0-3-1677619634.7z",
+      "mod_id": 27839,
+      "hash": "sha256-+v3Et3LICXWvwaYerJbrqGENDehAzaFkxeWIdneCgJI="
+    }
+  },
+  "Mysticism - A Magic Overhaul": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "2.4.2",
+      "file_id": 489424,
+      "file_name": "Mysticism - A Magic Overhaul-27839-2-4-2-1712790317.7z",
+      "mod_id": 27839,
+      "hash": "sha256-9nvTnMuTyDVVbKC9J2kiu9dQhmkGCwXDiwwvztCtr74="
+    },
+    "type": "primary"
+  }
+}

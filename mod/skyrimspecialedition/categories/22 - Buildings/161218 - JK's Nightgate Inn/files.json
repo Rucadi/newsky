@@ -1,13 +1,13 @@
 {
-  "JK's Nightgate Inn": {
-    "nexusmods": {
-      "game_name": "skyrimspecialedition",
-      "version": "1.0.0",
-      "file_id": 684456,
-      "file_name": "JK's Nightgate Inn-161218-1-0-0-1762461071.rar",
-      "mod_id": 161218,
-      "hash": "sha256-908zASF9/W3Ai+L6143MDxyU5pYl6NkRMmZ+HmpIJ7w="
-    },
-    "type": "primary"
-  }
+    "JK's Nightgate Inn": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "1.0.0",
+            "file_id": 684456,
+            "file_name": "JK's Nightgate Inn-161218-1-0-0-1762461071.rar",
+            "mod_id": 161218,
+            "hash": "sha256-908zASF9/W3Ai+L6143MDxyU5pYl6NkRMmZ+HmpIJ7w="
+        },
+        "type": "primary"
+    }
 }

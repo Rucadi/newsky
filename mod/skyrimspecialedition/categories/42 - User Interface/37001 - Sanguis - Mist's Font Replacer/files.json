@@ -1,0 +1,33 @@
+{
+  "Sanguis - An Oblivion Font": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 144386,
+      "file_name": "Sanguis - An Oblivion Font V1.0-37001-1-0-1591577211.7z",
+      "mod_id": 37001,
+      "hash": "sha256-cV3C5wZrp4bq7jcxsev+xXDKHd3OTt0MPY0LmqlFe4s="
+    },
+    "type": "primary"
+  },
+  "Sanguis and Font Overhaul Patch by PukinDumpling": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 158441,
+      "file_name": "Sanguis and Font Overhaul Patch by PukinDumpling-37001-1-0-1598808446.7z",
+      "mod_id": 37001,
+      "hash": "sha256-XthLCNBA70bLRdkkPu5qgD+LZLA6zcfk5IR0H91I5bk="
+    }
+  },
+  "Sanguis Desktop Edition": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1",
+      "file_id": 680079,
+      "file_name": "Sanguis Desktop Edition-37001-1-1761353738.zip",
+      "mod_id": 37001,
+      "hash": "sha256-nwUYPl1XD3PubphmFf89dQe/j/Hmjnv8kdJIvz2+2uA="
+    }
+  }
+}

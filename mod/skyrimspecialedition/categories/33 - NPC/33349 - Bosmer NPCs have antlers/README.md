@@ -2,6 +2,8 @@
 - Author: wankingSkeever
 - Game: skyrimspecialedition
 - Mod Page: https://www.nexusmods.com/skyrimspecialedition/mods/33349
+
+
 [![](https://i.imgur.com/iBvSVjB.png)](https://www.patreon.com/wSkeever)﻿﻿﻿
 
 **Description**

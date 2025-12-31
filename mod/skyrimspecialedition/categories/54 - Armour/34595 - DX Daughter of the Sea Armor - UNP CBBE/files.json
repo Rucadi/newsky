@@ -1,0 +1,24 @@
+{
+  "Daughter of the Sea - UNP": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 134719,
+      "file_name": "Daughter of the Sea - UNP-34595-1-0-1587110815.7z",
+      "mod_id": 34595,
+      "hash": "sha256-PzheTC/Pt5tEhs4d2sBAfDCzo4IEKwUMUA3ZToTQNUs="
+    },
+    "type": "primary"
+  },
+  "Daughter of the Sea - CBBE": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 134720,
+      "file_name": "Daughter of the Sea - CBBE-34595-1-0-1587111209.7z",
+      "mod_id": 34595,
+      "hash": "sha256-lyaTsWe5avnvC5C8VYVErLLjCT0Sz9KezHC3T8l5DMY="
+    },
+    "type": "primary"
+  }
+}

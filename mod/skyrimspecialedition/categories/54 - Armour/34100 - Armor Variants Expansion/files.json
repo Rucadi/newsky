@@ -1,0 +1,53 @@
+{
+  "Armor Variants Expansion": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "2.0",
+      "file_id": 140458,
+      "file_name": "Armor Variants Expansion-34100-2-0-1589724219.zip",
+      "mod_id": 34100,
+      "hash": "sha256-ocbh664GLjUABITVc5PN0S9Rt8JS7Ca4IKriC/NrD3o="
+    },
+    "type": "primary"
+  },
+  "Armor Variants Expansion CCOR Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "2.0",
+      "file_id": 140459,
+      "file_name": "Armor Variants Expansion CCOR Patch-34100-2-0-1589724303.zip",
+      "mod_id": 34100,
+      "hash": "sha256-EEo7DdAU+7TZLWtwvLnSk/Tm96Ol3TYln4z4+v0M4w0="
+    }
+  },
+  "Armor Variants Expansion Improved closefaced helmets Add-on": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "2.0",
+      "file_id": 140461,
+      "file_name": "Armor Variants Expansion Improved closefaced helmets Add-on-34100-2-0-1589724581.zip",
+      "mod_id": 34100,
+      "hash": "sha256-6I2A5wdEm2mfw17qQ7qvqNMb///OL9FeWnJgv4W0U5I="
+    }
+  },
+  "AVExpansion Cathedral - Armory texture path fixes": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "2.0",
+      "file_id": 163022,
+      "file_name": "AVExpansion Cathedral - Armory texture path fixes-34100-2-0-1601312278.zip",
+      "mod_id": 34100,
+      "hash": "sha256-VuQIKE5Kyv+LtiCvbt5MiRar8DePutzyapGDjkzhs5s="
+    }
+  },
+  "Armor Variants Expansion-CBBE BodySlide_2.1": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "2.1",
+      "file_id": 185027,
+      "file_name": "Armor Variants Expansion-CBBE BodySlide_2.1-34100-2-1-1612912810.zip",
+      "mod_id": 34100,
+      "hash": "sha256-I6C+2pGoa0zcmWxRjV4wy1DCrBLT3jXgZtBWWeKfm2o="
+    }
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "Khajiit Paw Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "v1.0",
+      "file_id": 223809,
+      "file_name": "Khajiit Paw Patch-28702-v1-0-1629942783.7z",
+      "mod_id": 28702,
+      "hash": "sha256-oXPrW1f1/Fzraq0OzFs9KCt6vMwy77dOts9ct31tCSI="
+    }
+  },
+  "Half-Khajiit-Race (Ohmes-Raht)": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "v6.0.5",
+      "file_id": 288306,
+      "file_name": "Half-Khajiit-Race (Ohmes-Raht)-28702-v6-0-5-1654178320.7z",
+      "mod_id": 28702,
+      "hash": "sha256-38U+BkGwX9PvqvBrBvDpuU3LoNefJ5VMkzfKCzA/DRU="
+    },
+    "type": "primary"
+  }
+}

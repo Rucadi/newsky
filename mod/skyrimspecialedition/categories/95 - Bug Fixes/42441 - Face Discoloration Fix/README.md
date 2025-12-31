@@ -2,6 +2,8 @@
 - Author: Parapets
 - Game: skyrimspecialedition
 - Mod Page: https://www.nexusmods.com/skyrimspecialedition/mods/42441
+
+
 Overview
   
 If you've ever installed many mods for customizing NPC appearances, there's a good chance you've also run into the "dark face" bug, or other face discoloration issues. The reason this happens is because the game relies on preprocessed FaceGen data for NPC head meshes and textures, which are exported by the Creation Kit. When that mesh data doesn't match up with the expected "head parts" information in the plugin data, the game regenerates the faces but doesn't load face tint data, making the faces appear black.

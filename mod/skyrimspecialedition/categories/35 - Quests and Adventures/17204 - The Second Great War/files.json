@@ -1,0 +1,63 @@
+{
+  "The Second Great War - USSEP": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.09",
+      "file_id": 175604,
+      "file_name": "The Second Great War - USSEP-17204-1-09-1608590718.7z",
+      "mod_id": 17204,
+      "hash": "sha256-XkrVBacnn4c7y1025ZjqNDht6nGhskoRTz3l9jnkrJ8="
+    }
+  },
+  "The Second Great War - ELFX": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.09",
+      "file_id": 175772,
+      "file_name": "The Second Great War - ELFX-17204-1-09-1608701019.7z",
+      "mod_id": 17204,
+      "hash": "sha256-d3LkqJGJeShShXsDb/0HPoBhASW+i7Kx327J9TZK/pk="
+    }
+  },
+  "The Second Great War - Sounds of Skyrim Complete": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.09",
+      "file_id": 175773,
+      "file_name": "The Second Great War - Sounds of Skyrim-17204-1-09-1608701155.7z",
+      "mod_id": 17204,
+      "hash": "sha256-gvJRAEs1ZI6lrmhiLMixA447jS6XKodcry+oWlUZGt8="
+    }
+  },
+  "The Second Great War - Skyrim Worldspace Fixes": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.09",
+      "file_id": 175949,
+      "file_name": "The Second Great War - Skyrim Worldspace Fixes-17204-1-09-1608786675.7z",
+      "mod_id": 17204,
+      "hash": "sha256-N7ulU9EdgEq6jflzlJD99DhOWRMUyUylIZcBW6COZgk="
+    }
+  },
+  "The Second Great War": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.10",
+      "file_id": 351558,
+      "file_name": "The Second Great War-17204-1-10-1674274937.7z",
+      "mod_id": 17204,
+      "hash": "sha256-bLoOqzSR66V27mpqE5eHdAr10GTV6N62h/Tb5rkhQXc="
+    },
+    "type": "primary"
+  },
+  "Dominion Guard Patch 1.10.1": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.10.1",
+      "file_id": 674895,
+      "file_name": "Dominion Guard Patch 1.10.1-17204-1-10-1-1760227138.zip",
+      "mod_id": 17204,
+      "hash": "sha256-/mMX4aP+ABq942tWtusaYlpYqnDLuna4rVw4I+NxVo4="
+    }
+  }
+}

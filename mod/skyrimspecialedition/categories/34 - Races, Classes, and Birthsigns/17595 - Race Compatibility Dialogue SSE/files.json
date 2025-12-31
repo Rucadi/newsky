@@ -1,0 +1,23 @@
+{
+  "Race Compatibility Dialogue SSE - Inconsequential NPCs": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 55743,
+      "file_name": "Race Compatibility Dialogue SSE - Inconsequential NPCs-17595-1-0.zip",
+      "mod_id": 17595,
+      "hash": "sha256-FlF8470E6in+Ef0IMKzOM6fUm4WySJwhO3b/OGiCpI0="
+    }
+  },
+  "Race Compatibility Dialogue SSE": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 55750,
+      "file_name": "Race Compatibility Dialogue SSE-17595-1-0.zip",
+      "mod_id": 17595,
+      "hash": "sha256-fAS97GcAXgQb6aJB6le+XXTYSzQ2kuZcEUdg9rzdeq8="
+    },
+    "type": "primary"
+  }
+}

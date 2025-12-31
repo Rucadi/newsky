@@ -1,0 +1,24 @@
+{
+  "Configurable Commentary Rate - Standard .esp": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.2S",
+      "file_id": 177757,
+      "file_name": "Configurable Commentary Rate - Standard .esp-38670-1-2S-1609802604.rar",
+      "mod_id": 38670,
+      "hash": "sha256-5H9MfBihKZhtkddfYZIYkqNGtJfHu3uUmVS84g0eaig="
+    },
+    "type": "primary"
+  },
+  "Configurable Commentary Rate": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.2L",
+      "file_id": 177758,
+      "file_name": "Configurable Commentary Rate-38670-1-2L-1609802654.rar",
+      "mod_id": 38670,
+      "hash": "sha256-/JW+Yu5QuFW2Xe6ls+MFxmqSF63oYbWstYFR4brUbs4="
+    },
+    "type": "primary"
+  }
+}

@@ -2,6 +2,8 @@
 - Author: Ahzaab
 - Game: skyrimspecialedition
 - Mod Page: https://www.nexusmods.com/skyrimspecialedition/mods/18619
+
+
 [font=Arial]***moreHUD Inventory Edition for Skyrim Special Edition***[/font]
 
   

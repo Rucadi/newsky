@@ -1,0 +1,69 @@
+{
+  "Dawnguard Music Overhaul - Main Module": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 198377,
+      "file_name": "Dawnguard Music Overhaul - Main Module-48613-1-0-1618519033.7z",
+      "mod_id": 48613,
+      "hash": "sha256-cDTy7UrRCPbQzQi+O9e1hJFWYxfzg2mVn7sp+SJFVUY="
+    },
+    "type": "primary"
+  },
+  "Dawnguard Music Overhaul - Main Module (Vanilla)": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 198378,
+      "file_name": "Dawnguard Music Overhaul - Main Module (Vanilla)-48613-1-1-1618519113.7z",
+      "mod_id": 48613
+    },
+    "type": "primary"
+  },
+  "Dawnguard Music Overhaul - Combat Module": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 198379,
+      "file_name": "Dawnguard Music Overhaul - Combat Module-48613-1-0-1618519206.7z",
+      "mod_id": 48613
+    },
+    "type": "primary"
+  },
+  "Dawnguard Music Overhaul - Epilogue Module": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 198380,
+      "file_name": "Dawnguard Music Overhaul - Epilogue Module-48613-1-0-1618519309.7z",
+      "mod_id": 48613
+    }
+  },
+  "Dawnguard Music Overhaul - Epilogue Module (Vanilla)": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 198382,
+      "file_name": "Dawnguard Music Overhaul - Epilogue Module (Vanilla)-48613-1-0-1618519371.7z",
+      "mod_id": 48613
+    }
+  },
+  "Dawnguard Music Overhaul - Remove esl flags from plugins": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 198578,
+      "file_name": "Dawnguard Music Overhaul - Remove esl flags from plugins-48613-1-0-1618604782.7z",
+      "mod_id": 48613
+    }
+  },
+  "DMO - Combat (Loop fix)": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 316821,
+      "file_name": "DMO - Combat (Loop fix)-48613-1-0-1663409342.7z",
+      "mod_id": 48613
+    }
+  }
+}

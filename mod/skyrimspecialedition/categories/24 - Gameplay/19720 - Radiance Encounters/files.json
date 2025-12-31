@@ -1,0 +1,24 @@
+{
+  "Radiance": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.03d",
+      "file_id": 168982,
+      "file_name": "Radiance-19720-1-03d-1604720774.7z",
+      "mod_id": 19720,
+      "hash": "sha256-5+VvkjAXny8Y2shyFoSp4bKm2G89D0Th5jIGy6W1Sbw="
+    },
+    "type": "primary"
+  },
+  "Radiance ESPFE ESL": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.04",
+      "file_id": 655092,
+      "file_name": "Radiance ESPFE ESL-19720-1-04-1755032400.7z",
+      "mod_id": 19720,
+      "hash": "sha256-PP9/U1UlBTcH3U8tKTiUgvx8MJ94pQp/pOy4EsnJmjI="
+    },
+    "type": "primary"
+  }
+}

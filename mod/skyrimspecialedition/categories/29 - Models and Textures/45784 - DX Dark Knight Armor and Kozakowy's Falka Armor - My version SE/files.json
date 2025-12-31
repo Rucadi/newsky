@@ -1,0 +1,35 @@
+{
+  "DX Dark Knight Armor - My version by Xtudo SE": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "2",
+      "file_id": 186235,
+      "file_name": "DX Dark Knight Armor - My version by Xtudo SE-45784-2-1613471747.rar",
+      "mod_id": 45784,
+      "hash": "sha256-d+IoCFhlH463TLKtxv7JAYqE4BI5+aotuvl7DPkQq8E="
+    },
+    "type": "primary"
+  },
+  "DX Dark Knight Shield - My version by Xtudo SE": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "2",
+      "file_id": 186245,
+      "file_name": "DX Dark Knight Shield - My version by Xtudo SE-45784-2-1613479020.rar",
+      "mod_id": 45784,
+      "hash": "sha256-IRd7cHpOsORK3aJ2juMHtAZQGG+lLobM6p1F+65bEnQ="
+    },
+    "type": "primary"
+  },
+  "Kozakowy's Falka Armor - My version by Xtudo SE": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "3",
+      "file_id": 187808,
+      "file_name": "Kozakowy's Falka Armor - My version by Xtudo SE-45784-3-1614191623.7z",
+      "mod_id": 45784,
+      "hash": "sha256-0aq8WJ0bibi0clwvyA7oxRH2gTMESXuxWnh+HJReWUg="
+    },
+    "type": "primary"
+  }
+}

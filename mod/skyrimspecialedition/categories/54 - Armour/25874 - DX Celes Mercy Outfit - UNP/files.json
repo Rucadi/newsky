@@ -1,0 +1,23 @@
+{
+  "Celes Mercy Outfit UNP": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1",
+      "file_id": 94755,
+      "file_name": "Celes Mercy Outfit 4K UNP-25874-1-1-1559641391.7z",
+      "mod_id": 25874,
+      "hash": "sha256-P3NErohCVKmULxkG3BRURtXAhpOEw+dGg9U7Mer309s="
+    },
+    "type": "primary"
+  },
+  "Celes Mercy Low Glow Halo": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1",
+      "file_id": 95015,
+      "file_name": "Celes Mercy Low Glow Halo-25874-1-1-1559852478.rar",
+      "mod_id": 25874,
+      "hash": "sha256-YTSs+PsfF3Pqx76kZgu+IyIbdB4rYil4a3gCT/h54T0="
+    }
+  }
+}

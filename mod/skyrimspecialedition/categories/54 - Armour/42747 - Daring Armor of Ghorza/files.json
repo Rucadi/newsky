@@ -1,0 +1,46 @@
+{
+  "Daring Armor of Ghorza 3BBB": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0.5",
+      "file_id": 172186,
+      "file_name": "Daring Armor of Ghorza 3BBB-42747-1-0-5-1606659642.7z",
+      "mod_id": 42747,
+      "hash": "sha256-OwuegSdmWUzCLgCBDfN5CxHESZ3FGMMmy6BrKO68Bqg="
+    },
+    "type": "primary"
+  },
+  "Daring Armor of Ghorza CBBE": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0.5",
+      "file_id": 172204,
+      "file_name": "Daring Armor of Ghorza CBBE-42747-1-0-5-1606663419.7z",
+      "mod_id": 42747,
+      "hash": "sha256-LOGJyn08CLIx8BVXWLjoYqwie3/cdDz1165XbMsbk3g="
+    },
+    "type": "primary"
+  },
+  "Daring Armor of Ghorza UNP": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0.5",
+      "file_id": 172224,
+      "file_name": "Daring Armor of Ghorza UNP-42747-1-0-5-1606669277.7z",
+      "mod_id": 42747,
+      "hash": "sha256-vErMNLhDlkEcnmakvw2raBjRtNpYOu1D86LnJQfT3tM="
+    },
+    "type": "primary"
+  },
+  "Daring Armor of Ghorza BHUNP": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0.5",
+      "file_id": 172234,
+      "file_name": "Daring Armor of Ghorza BHUNP-42747-1-0-5-1606671983.7z",
+      "mod_id": 42747,
+      "hash": "sha256-eaBoqs7LunMlXs+eKu36XUEnLjQXcTFn3flcIyJKGqk="
+    },
+    "type": "primary"
+  }
+}

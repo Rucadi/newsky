@@ -1,0 +1,73 @@
+{
+  "Better Vampires 9.1 SE-AE": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "9.1",
+      "file_id": 611830,
+      "file_name": "Better Vampires 9.1 SE-AE-1925-9-1-1743360948.zip",
+      "mod_id": 1925,
+      "hash": "sha256-d84Tj57XPaqkr5HGhqLNdFJBCxgNNx8+CEczf0py3C0="
+    },
+    "type": "primary"
+  },
+  "Add Sacrosanct Spells to BV 9.1 SE-AE": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "9.1",
+      "file_id": 611831,
+      "file_name": "Add Sacrosanct Spells to BV 9.1 SE-AE-1925-9-1-1743360985.zip",
+      "mod_id": 1925,
+      "hash": "sha256-zYTS2Lhc2SHLFHnMU4a0IXWRSiLPDP6IjvemxHBTr+g="
+    }
+  },
+  "Better Vampires - Royal Bloodline Patch 9.1 SE-AE": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "9.1",
+      "file_id": 611832,
+      "file_name": "Better Vampires - Royal Bloodline Patch 9.1 SE-AE-1925-9-1-1743361017.zip",
+      "mod_id": 1925,
+      "hash": "sha256-cU3xxu2+AyUMxP2QmpXDXJhGLkoh5BPWTxxG51nvdVk="
+    }
+  },
+  "Better Vampires - Tale of Blood Patch 9.1 SE-AE": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "9.1",
+      "file_id": 611833,
+      "file_name": "Better Vampires - Tale of Blood Patch 9.1 SE-AE-1925-9-1-1743361078.zip",
+      "mod_id": 1925,
+      "hash": "sha256-gIj77QYTbT/C/HFuKMDBwcVnRy8cbDK1DIUo7wYu+GI="
+    }
+  },
+  "Better Vampires Survival Patch 9.1 SE-AE": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "9.1",
+      "file_id": 611834,
+      "file_name": "Better Vampires Survival Patch 9.1 SE-AE-1925-9-1-1743361134.zip",
+      "mod_id": 1925,
+      "hash": "sha256-6f1bfEVzXI1v+eQw5pr94AlYI0uHhZcuaBlEW6YTfUQ="
+    }
+  },
+  "Remove Better Vampires (Batch File) 9.1 SE-AE": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "9.1",
+      "file_id": 611835,
+      "file_name": "Remove Better Vampires (Batch File) 9.1 SE-AE-1925-9-1-1743361171.zip",
+      "mod_id": 1925,
+      "hash": "sha256-Vkja9JIuToSBH8tbVAmBWZswcoJLTLBgCYvgkClMLFU="
+    }
+  },
+  "Slightly Shorter Vampire Lord Skeleton 9.1 SE-AE": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "9.1",
+      "file_id": 611836,
+      "file_name": "Slightly Shorter Vampire Lord Skeleton 9.1 SE-AE-1925-9-1-1743361218.zip",
+      "mod_id": 1925,
+      "hash": "sha256-5DTJdTJpCc1K7yeXSM36pUAVCuTuJEuRxCoE8r94SkA="
+    }
+  }
+}

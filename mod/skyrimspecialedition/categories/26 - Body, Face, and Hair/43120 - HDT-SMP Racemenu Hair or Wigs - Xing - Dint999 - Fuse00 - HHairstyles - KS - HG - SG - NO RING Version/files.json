@@ -1,0 +1,43 @@
+{
+  "Xing Dint999 SMP NO Ring Wigs ONLY": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.2",
+      "file_id": 232526,
+      "file_name": "Xing Dint999 SMP no ring Wigs ONLY-43120-1-2-1633335560.7z",
+      "mod_id": 43120,
+      "hash": "sha256-8KLhWGgxaSzk0SS6uFy/5eFYUHyR0yPNzPbWaUiTO54="
+    }
+  },
+  "Xing Fuse SMP NO Ring Wigs ONLY": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.2",
+      "file_id": 232528,
+      "file_name": "Xing Fuse SMP no ring Wigs ONLY-43120-1-2-1633335683.7z",
+      "mod_id": 43120,
+      "hash": "sha256-/A9GE3rMflN1qidnuvvxnoq5h5B2D++YcY78Nm16b9c="
+    }
+  },
+  "Xing HHairstyles SMP NO Ring Wigs ONLY": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.2",
+      "file_id": 232529,
+      "file_name": "Xing HHairstyles SMP no ring Wigs ONLY-43120-1-2-1633335754.7z",
+      "mod_id": 43120,
+      "hash": "sha256-JNSQ+cNwVOEQoESmVjc0/b397mcMBPe7RF0wHPbz6tg="
+    }
+  },
+  "HDT-SMP Hairs and Wigs - FOMOD": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.21",
+      "file_id": 232731,
+      "file_name": "HDT-SMP Hairs and Wigs - FOMOD-43120-1-21-1633422774.7z",
+      "mod_id": 43120,
+      "hash": "sha256-xQJ/pZFEzDD9t+vJi80i5vESePMq38nLMF9t0tCmZGI="
+    },
+    "type": "primary"
+  }
+}

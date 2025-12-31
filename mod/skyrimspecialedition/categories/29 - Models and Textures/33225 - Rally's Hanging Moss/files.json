@@ -1,0 +1,24 @@
+{
+  "Rallys Hanging Moss": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1",
+      "file_id": 132162,
+      "file_name": "Rallys Hanging Moss-33225-1-1-1585903450.7z",
+      "mod_id": 33225,
+      "hash": "sha256-qpv/dUQxMp8IseZJf7Y54YggxHDOzejSKQW4fkh1cac="
+    },
+    "type": "primary"
+  },
+  "Rallys Hanging Moss - Desaturated": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1",
+      "file_id": 132205,
+      "file_name": "Rallys Hanging Moss - Desaturated-33225-1-1-1585923886.7z",
+      "mod_id": 33225,
+      "hash": "sha256-zS9DWvg8lBqh7qRrUGPF1bdeNxdI/8r3HMh0wfN19po="
+    },
+    "type": "primary"
+  }
+}

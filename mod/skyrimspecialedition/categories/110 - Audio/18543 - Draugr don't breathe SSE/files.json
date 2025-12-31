@@ -1,0 +1,35 @@
+{
+  "Draugr Don't Breathe SSE esp version loose files version": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1",
+      "file_id": 60693,
+      "file_name": "Draugr Don't Breathe SSE esp version loose files version-18543-1.zip",
+      "mod_id": 18543,
+      "hash": "sha256-qELlHvCUvqvKSt4XwscO88Pfu1aOod6OW43elUkvf0w="
+    },
+    "type": "primary"
+  },
+  "Dragonpriests don't breathe loose files version": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1",
+      "file_id": 60694,
+      "file_name": "Dragonpriests don't breathe loose files version-18543-1.zip",
+      "mod_id": 18543,
+      "hash": "sha256-hkGFjLT4862zQ4fG1HbcwVNP8KIuEjVEI0HJ34kHVBg="
+    },
+    "type": "primary"
+  },
+  "draugr don't breathe ESP-FE": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1",
+      "file_id": 346183,
+      "file_name": "draugr don't breathe ESP-FE-18543-1-1-1672731560.zip",
+      "mod_id": 18543,
+      "hash": "sha256-e2DaW9+Vw/MMc/cqX9EhAt1cyhP61vA7gu2E0SAtgnM="
+    },
+    "type": "primary"
+  }
+}

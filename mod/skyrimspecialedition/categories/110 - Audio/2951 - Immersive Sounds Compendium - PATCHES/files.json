@@ -1,0 +1,101 @@
+{
+  "ISC Enhanced Blood Textures Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "3.72",
+      "file_id": 4512,
+      "file_name": "ISC Enhanced Blood Textures Patch-2951-3-72.zip",
+      "mod_id": 2951,
+      "hash": "sha256-5SGlvQor+LbvC/2nn/a3qDtdK2Sr0y/w5Aupqn+Tins="
+    },
+    "type": "primary"
+  },
+  "ISC Morrowloot Special Edition Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "4.0",
+      "file_id": 4515,
+      "file_name": "ISC Morrowloot Special Edition Patch-2951-4-0.zip",
+      "mod_id": 2951,
+      "hash": "sha256-73Sa4rx1RE5uFXRGYRKxRuqS56XsREfnDazTZonFAzE="
+    },
+    "type": "primary"
+  },
+  "ISC Morrowloot Ultimate Simplified Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "2.20",
+      "file_id": 4528,
+      "file_name": "ISC Morrowloot Ultimate Simplified Patch-2951-2-20.zip",
+      "mod_id": 2951,
+      "hash": "sha256-jr9tU+9yHHKKEewdx8D04uYgcv6XzdBVVxEfvAFSZFQ="
+    },
+    "type": "primary"
+  },
+  "ISC Mysticism - A Magic Overhaul Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1.6",
+      "file_id": 207412,
+      "file_name": "ISC Mysticism - A Magic Overhaul Patch-2951-1-1-6-1622887588.zip",
+      "mod_id": 2951,
+      "hash": "sha256-egoCQPfKnTRqgDJbP6FzFoz7BCMbWIeg50asV+56/SM="
+    },
+    "type": "primary"
+  },
+  "ISC Weapons Armor Clothing and Clutter Fixes (WACCF) Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "3.0",
+      "file_id": 221875,
+      "file_name": "ISC Weapons Armor Clothing and Clutter Fixes (WACCF) Patch-2951-3-0-1629220761.zip",
+      "mod_id": 2951,
+      "hash": "sha256-IP4fmi3oXOZwoeORl4nZiKzZJNiwYRAD8Yau5VnsV5Q="
+    },
+    "type": "primary"
+  },
+  "ISC Immersive Armors Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "3.0",
+      "file_id": 221876,
+      "file_name": "ISC Immersive Armors Patch-2951-3-0-1629220797.zip",
+      "mod_id": 2951,
+      "hash": "sha256-wE3mlN1IhLyf9Z5vKUXKokuH83tXN/XStse2UptqzpE="
+    },
+    "type": "primary"
+  },
+  "ISC NordWarUA Minor Factions Armor Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "3.0",
+      "file_id": 221877,
+      "file_name": "ISC NordWarUA Minor Factions Armor Patch-2951-3-0-1629220824.zip",
+      "mod_id": 2951,
+      "hash": "sha256-UB8vSZ4NsdT1sDno59YQ+o09fcPIjtuv7j9ARaeTboM="
+    },
+    "type": "primary"
+  },
+  "ISC NordWarUA Vanilla Armor Replacers Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "3.0",
+      "file_id": 221878,
+      "file_name": "ISC NordWarUA Vanilla Armor Replacers Patch-2951-3-0-1629220854.zip",
+      "mod_id": 2951,
+      "hash": "sha256-gUG/D8NfkUFpLs2tNoIliu5xJwY+jxy1kiSGSOx+bR0="
+    },
+    "type": "primary"
+  },
+  "ISC Unplayable Faction Armors Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "3.0",
+      "file_id": 221879,
+      "file_name": "ISC Unplayable Faction Armors Patch-2951-3-0-1629220871.zip",
+      "mod_id": 2951,
+      "hash": "sha256-3Dlesn7CiIzllX9+o/wOVCrTpp1259vBk3BOowdx0y4="
+    },
+    "type": "primary"
+  }
+}

@@ -2,6 +2,8 @@
 - Author: DomainWolf
 - Game: skyrimspecialedition
 - Mod Page: https://www.nexusmods.com/skyrimspecialedition/mods/26224
+
+
 ---If you like the mod and think it deserves it, feel free to leave an endorsement, this mod has been in the works for many months! Be sure to also check out all the authors who helped screenshot and show them the love they deserve! Also, if you have any pictures you'd like to share using the mod, feel free to post them in the images section!---
   
 ![](https://staticdelivery.nexusmods.com/mods/110/images/97966/97966-1710073886-1746699144.png)

@@ -1,0 +1,34 @@
+{
+  "Farmhouses of the Nords - 4K": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.2",
+      "file_id": 153860,
+      "file_name": "True Nordic Farmhouses - Ultra-38150-0-2-1596608913.zip",
+      "mod_id": 38150,
+      "hash": "sha256-ym14nuR+2t9hwfTFQc3GEaPbFMjWU+cjUebd+BxdEPE="
+    },
+    "type": "primary"
+  },
+  "Farmhouses of the Nords - 2K": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.2",
+      "file_id": 153900,
+      "file_name": "True Nordic Farmhouses - Standard-38150-0-2-1596636087.zip",
+      "mod_id": 38150,
+      "hash": "sha256-9NJayvL5ZiThG9aXksbGuuoipRLsC66i9YnZB3fxYnA="
+    },
+    "type": "primary"
+  },
+  "SD's Farmhouse Fences Texture Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "0.1",
+      "file_id": 153943,
+      "file_name": "SD's Farmhouse Fences Texture Patch-38150-0-1-1596660827.zip",
+      "mod_id": 38150,
+      "hash": "sha256-aFdkjY02sOG8Np7miUGLygmhzxJYXwT0EKke0QCB5rk="
+    }
+  }
+}

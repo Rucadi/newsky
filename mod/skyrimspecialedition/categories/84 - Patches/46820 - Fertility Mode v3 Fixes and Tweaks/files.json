@@ -1,0 +1,63 @@
+{
+  "FM Fixes -  Revert Child Makeovers Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 214514,
+      "file_name": "FM Fixes -  Revert Child Makeovers Patch-46820-1-0-1626236991.zip",
+      "mod_id": 46820,
+      "hash": "sha256-YPuMKmTc8PaSLDSHZq/EtWO8VpOjUF5hIFWLsfA40ZY="
+    }
+  },
+  "FM Fixes Generic Hostiles Blacklist": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 215372,
+      "file_name": "FM Fixes Generic Hostiles Blacklist-46820-1-0-1626640651.zip",
+      "mod_id": 46820,
+      "hash": "sha256-Y4tFk3gPpDj8KQ4pGvg4ht3hqGRPLeriIdJ2t2VdNCE="
+    }
+  },
+  "FM Fixes Falk gets Bryling pregnant": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 218128,
+      "file_name": "FM Fixes Falk gets Bryling pregnant-46820-1-0-1627834196.zip",
+      "mod_id": 46820,
+      "hash": "sha256-pn8roKRSfaMnMpPauxDaiz/JFAIjT18n4h6ISgg83TE="
+    }
+  },
+  "Dinya Balu and Maramal have a child": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1",
+      "file_id": 291851,
+      "file_name": "Dinya Balu and Maramal have a child-46820-1-1-1655490143.zip",
+      "mod_id": 46820,
+      "hash": "sha256-0laj46Kc5ZnRkgmezYPTytjC1VEtIuGddtD+9ByZDN4="
+    }
+  },
+  "Optional Child Add-Ons Compatibility Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.00",
+      "file_id": 292439,
+      "file_name": "Optional Child Add-Ons Compatibility Patch-46820-1-00-1655682624.zip",
+      "mod_id": 46820,
+      "hash": "sha256-V3JnMC4QSfzzleNgGcWclB3DqSW3CIyodROU+kCDQP4="
+    }
+  },
+  "Fertility Mod Fixes and Updates": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "2.61",
+      "file_id": 363971,
+      "file_name": "Fertility Mod Fixes and Updates-46820-2-61-1677529313.zip",
+      "mod_id": 46820,
+      "hash": "sha256-TEFjZvOVs5HARu51chDScdhFpKnemNo2jpN46d9R44g="
+    },
+    "type": "primary"
+  }
+}

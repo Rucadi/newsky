@@ -16,7 +16,8 @@
       "version": "1.22",
       "file_id": 695422,
       "file_name": "Wine Duchess 4k-158632-1-22-1765115377.7z",
-      "mod_id": 158632
+      "mod_id": 158632,
+      "hash": "sha256-DJKEAaLqN9VEoHmd7U8iaCgcz+3TO4/hbhXZ1/trXT8="
     },
     "type": "primary"
   },
@@ -26,7 +27,8 @@
       "version": "1.22",
       "file_id": 695423,
       "file_name": "Wine Duchess Heels Sound patch-158632-1-22-1765115407.7z",
-      "mod_id": 158632
+      "mod_id": 158632,
+      "hash": "sha256-Do+3FYTpUDNw+Tr1aCt8TZ1F31/A63ZlPt3HCWquY8Y="
     }
   },
   "Wine Duchess Serana SPID": {
@@ -35,7 +37,8 @@
       "version": "1.22",
       "file_id": 695424,
       "file_name": "Wine Duchess Serana SPID-158632-1-22-1765115430.7z",
-      "mod_id": 158632
+      "mod_id": 158632,
+      "hash": "sha256-WrgfTTZwGDrQkELwZgoBTI2u/xuZrgc0nE3D7pkkQDo="
     }
   },
   "Wine Duchess Valerica SPID": {
@@ -44,7 +47,8 @@
       "version": "1.22",
       "file_id": 695425,
       "file_name": "Wine Duchess Valerica SPID-158632-1-22-1765115458.7z",
-      "mod_id": 158632
+      "mod_id": 158632,
+      "hash": "sha256-axtyQUOf/9s6f2LVE6TviCvbHULZUpABCPs7TPZ2itY="
     }
   }
 }

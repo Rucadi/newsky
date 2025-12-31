@@ -2,6 +2,8 @@
 - Author: Delta
 - Game: skyrimspecialedition
 - Mod Page: https://www.nexusmods.com/skyrimspecialedition/mods/44969
+
+
 [![](https://i.imgur.com/N4Blpyc.png)](https://ko-fi.com/delta011) [![](https://i.imgur.com/IpprKgI.png)](https://www.patreon.com/Delta011)
 
   

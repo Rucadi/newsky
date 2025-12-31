@@ -1,0 +1,33 @@
+{
+  "Argonian Weight Slider Affected Tails": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "SSE",
+      "file_id": 81377,
+      "file_name": "Argonian Weight Slider Affected Tails-23366-SSE-1549850863.rar",
+      "mod_id": 23366,
+      "hash": "sha256-hXHsXuXpyYu465Qa5AgRv78p4rk6mSxBWtcMXqlwK+g="
+    },
+    "type": "primary"
+  },
+  "Argonian Tails Higher": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1",
+      "file_id": 137386,
+      "file_name": "Argonian Tails Higher-23366-1-1588361278.rar",
+      "mod_id": 23366,
+      "hash": "sha256-SK+BORI+K911bn6hE0+K1KuQIG93j3Nak+whzq/cX3Y="
+    }
+  },
+  "Argonian Tails Slightly Higher": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1",
+      "file_id": 137388,
+      "file_name": "Argonian Tails Slightly Higher-23366-1-1588361330.rar",
+      "mod_id": 23366,
+      "hash": "sha256-IorAlH9v5cXIkuCucWxDB45fGE6TD+5ayLYn2zgQLkM="
+    }
+  }
+}

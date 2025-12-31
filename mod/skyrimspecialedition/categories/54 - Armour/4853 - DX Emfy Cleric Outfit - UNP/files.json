@@ -1,0 +1,33 @@
+{
+  "Emfy Cleric - Cloth": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "2.01",
+      "file_id": 10108,
+      "file_name": "Emfy Cleric - Cloth-4853-1-0.7z",
+      "mod_id": 4853,
+      "hash": "sha256-XOa8d6dqiE/tQIxDxhOY41RsqMWG6GO9w4Mq7xHMF0o="
+    }
+  },
+  "Emfy Cleric - Light Armor": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "2.01",
+      "file_id": 10109,
+      "file_name": "Emfy Cleric - Light Armor-4853-1-0.7z",
+      "mod_id": 4853,
+      "hash": "sha256-ZlQZfkraflTsTqmwYh6Ikkr4BnXnapsb2+ETA5sf+qs="
+    }
+  },
+  "Emfy Cleric - Heavy Armor": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "2.01",
+      "file_id": 89720,
+      "file_name": "Emfy Cleric-4853-2-01-1556249833.7z",
+      "mod_id": 4853,
+      "hash": "sha256-a9nGU6lBn6kRD91E7j1gJZk8qOz6nCaenxlBQu5GxaQ="
+    },
+    "type": "primary"
+  }
+}

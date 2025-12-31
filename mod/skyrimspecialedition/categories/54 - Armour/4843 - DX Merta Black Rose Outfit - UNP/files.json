@@ -1,0 +1,32 @@
+{
+  "Merta Black Rose - Light Armor": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "2.01",
+      "file_id": 10056,
+      "file_name": "Merta Black Rose - SE - Light Armor-4843-1-0.7z",
+      "mod_id": 4843,
+      "hash": "sha256-9nFau/G9sDtiRHfXbI8ElGdqZ5/Wi0pW/ChNtUcKIsU="
+    }
+  },
+  "Merta Black Rose - Cloth": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "2.01",
+      "file_id": 10057,
+      "file_name": "Merta Black Rose - SE - Cloth-4843-1-0.7z",
+      "mod_id": 4843,
+      "hash": "sha256-ax4F+scGV1iC9y/29u94QcvES3rmtzFZq30NpBOZ3B4="
+    }
+  },
+  "Merta Black Rose": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "2.01",
+      "file_id": 89722,
+      "file_name": "Merta Black Rose-4843-2-01-1556250084.7z",
+      "mod_id": 4843
+    },
+    "type": "primary"
+  }
+}

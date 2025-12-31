@@ -2,6 +2,8 @@
 - Author: kryptopyr
 - Game: skyrimspecialedition
 - Mod Page: https://www.nexusmods.com/skyrimspecialedition/mods/25464
+
+
 ﻿![](https://staticdelivery.nexusmods.com/mods/1704/images/25464/25464-1556659505-737753056.png)
 
   

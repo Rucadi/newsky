@@ -1,0 +1,46 @@
+{
+  "Daring ESO Altmer Armor 3BBB": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0.7",
+      "file_id": 237167,
+      "file_name": "Daring ESO Altmer Armor 3BBB-42412-1-0-7-1635259835.7z",
+      "mod_id": 42412,
+      "hash": "sha256-mkS08zpJayHR+0lV7pgdJheJsef8ejg2V7N9JfTzpM0="
+    },
+    "type": "primary"
+  },
+  "Daring ESO Altmer Armor BHUNP": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0.7",
+      "file_id": 237169,
+      "file_name": "Daring ESO Altmer Armor BHUNP-42412-1-0-7-1635259913.7z",
+      "mod_id": 42412,
+      "hash": "sha256-3I99X8sRX31opxekY911tnhsi88pT8iXfiDAJcJ5dAQ="
+    },
+    "type": "primary"
+  },
+  "Daring ESO Altmer Armor CBBE": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0.7",
+      "file_id": 237170,
+      "file_name": "Daring ESO Altmer Armor CBBE-42412-1-0-7-1635259978.7z",
+      "mod_id": 42412,
+      "hash": "sha256-akI3Em5uM3O02TBedeKFXKUVlRCkw9t9FsG6X86pkYk="
+    },
+    "type": "primary"
+  },
+  "Daring ESO Altmer Armor UNP": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0.7",
+      "file_id": 237172,
+      "file_name": "Daring ESO Altmer Armor UNP-42412-1-0-7-1635260064.7z",
+      "mod_id": 42412,
+      "hash": "sha256-gSxzLhvJ/GiCnfEKJVM/hDQOopBBRiKjKAHy4V7mbf0="
+    },
+    "type": "primary"
+  }
+}

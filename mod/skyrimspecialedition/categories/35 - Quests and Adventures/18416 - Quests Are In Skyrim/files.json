@@ -1,0 +1,24 @@
+{
+  "QuestsAreInSkyrim_USSEP_1_3": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.3",
+      "file_id": 269931,
+      "file_name": "QuestsAreInSkyrim_USSEP_1_3-18416-1-3-1647194854.zip",
+      "mod_id": 18416,
+      "hash": "sha256-h6ivOjQL34rc7kTzEIe6hqV7fTGPGSwXJ25LoSG0tvI="
+    },
+    "type": "primary"
+  },
+  "QuestsAreInSkyrim_1_3": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.3",
+      "file_id": 269936,
+      "file_name": "QuestsAreInSkyrim_1_3-18416-1-3-1647194907.zip",
+      "mod_id": 18416,
+      "hash": "sha256-g5DFHzPoRm3/utd8Gx3uWL4QN+Vpy2vmsCJLKvV9Wco="
+    },
+    "type": "primary"
+  }
+}

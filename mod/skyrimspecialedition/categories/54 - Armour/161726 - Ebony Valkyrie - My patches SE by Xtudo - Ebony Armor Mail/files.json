@@ -1,0 +1,95 @@
+{
+  "Ebony Valkyrie - SE by Xtudo - Ebony Replacer Boot": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1",
+      "file_id": 676620,
+      "file_name": "Ebony Valkyrie - SE by Xtudo - Ebony Replacer Boot-161726-1-1760620373.7z",
+      "mod_id": 161726,
+      "hash": "sha256-mL+VC5qOyQZCql+BgZ4zgDhQEtzQTcuhkWDlxwqsmOI="
+    }
+  },
+  "Ebony Valkyrie - SE by Xtudo - Ebony Replacer Heel": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1",
+      "file_id": 676621,
+      "file_name": "Ebony Valkyrie - SE by Xtudo - Ebony Replacer Heel-161726-1-1760620419.7z",
+      "mod_id": 161726,
+      "hash": "sha256-N6zl9teHIcs/fEJW7PkgKdNyg9I9gaZ/Tu2+aYgXF1Y="
+    }
+  },
+  "Ebony Valkyrie - SE by Xtudo - Ebony Replacer Hee2": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1",
+      "file_id": 676622,
+      "file_name": "Ebony Valkyrie - SE by Xtudo - Ebony Replacer Hee2-161726-1-1760620443.7z",
+      "mod_id": 161726,
+      "hash": "sha256-yDglT/oZBDzccSW8sowj0djsopOgjG0o8KNff/RTxgQ="
+    }
+  },
+  "Ebony Valkyrie - SE by Xtudo - My Tweaks 2K": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1",
+      "file_id": 676740,
+      "file_name": "Ebony Valkyrie - SE by Xtudo - My Tweaks 2K-161726-1-1-1760647845.7z",
+      "mod_id": 161726,
+      "hash": "sha256-CN+ALZTPj7aI8VIi6dLNEXzxsiJ/7KQCdoHOijtinSo="
+    },
+    "type": "primary"
+  },
+  "Ebony Valkyrie - SE by Xtudo - My Tweaks 4K": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1",
+      "file_id": 676741,
+      "file_name": "Ebony Valkyrie - SE by Xtudo - My Tweaks 4K-161726-1-1-1760647865.7z",
+      "mod_id": 161726,
+      "hash": "sha256-fjqFpD8hYfbBSF4pqDHpKiIKADh528GvmNy4LLmPvbc="
+    },
+    "type": "primary"
+  },
+  "Ebony Valkyrie - SE by Xtudo - Ebony Mail Replacer": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1",
+      "file_id": 676747,
+      "file_name": "Ebony Valkyrie - SE by Xtudo - Ebony Mail Replacer-161726-1-1-1760648167.7z",
+      "mod_id": 161726,
+      "hash": "sha256-DcltSSAcSoCPYkKBSyECmVi2iGu7lVCHULEiRsTSbrA="
+    }
+  },
+  "Ebony Valkyrie - SE by Xtudo - BHUNP Gloves fix": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1",
+      "file_id": 676754,
+      "file_name": "Ebony Valkyrie - SE by Xtudo - BHUNP Gloves fix-161726-1-1-1760649988.7z",
+      "mod_id": 161726,
+      "hash": "sha256-iyhB1IWHi7hnzoXo+qU5c9pB4XDNNWC2lZeGBnnZ0U0="
+    }
+  },
+  "Ebony Valkyrie - SE by Xtudo - Hair Non-HDT patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.2",
+      "file_id": 677125,
+      "file_name": "Ebony Valkyrie - SE by Xtudo - Hair Non-HDT patch-161726-1-2-1760733096.7z",
+      "mod_id": 161726,
+      "hash": "sha256-4lKhkjA87C/tAhwzv6cnmZnLNP9JaUFBK+Nq8A3SKUo="
+    }
+  },
+  "Ebony Valkyrie - SE by Xtudo - My Tweaks Light": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.3",
+      "file_id": 683866,
+      "file_name": "Ebony Valkyrie - SE by Xtudo - My Tweaks Light-161726-1-3-1762294237.7z",
+      "mod_id": 161726,
+      "hash": "sha256-2uGLBQJHXmrxpDKN3F+RZnFJkHHeIxA6CBOSLxiH1xU="
+    },
+    "type": "primary"
+  }
+}

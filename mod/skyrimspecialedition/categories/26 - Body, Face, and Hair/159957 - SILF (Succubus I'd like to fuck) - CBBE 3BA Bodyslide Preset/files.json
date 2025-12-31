@@ -1,13 +1,13 @@
 {
-  "SILF - CBBE 3BA Bodyslide preset": {
-    "nexusmods": {
-      "game_name": "skyrimspecialedition",
-      "version": "1.0",
-      "file_id": 669354,
-      "file_name": "SILF - CBBE 3BA Bodyslide preset-159957-1-0-1758822420.7z",
-      "mod_id": 159957,
-      "hash": "sha256-oF+qKOIv4YnPD4q5xT1bIJijNhqKEUtifIbRkTwrv/M="
-    },
-    "type": "primary"
-  }
+    "SILF - CBBE 3BA Bodyslide preset": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "1.0",
+            "file_id": 669354,
+            "file_name": "SILF - CBBE 3BA Bodyslide preset-159957-1-0-1758822420.7z",
+            "mod_id": 159957,
+            "hash": "sha256-oF+qKOIv4YnPD4q5xT1bIJijNhqKEUtifIbRkTwrv/M="
+        },
+        "type": "primary"
+    }
 }

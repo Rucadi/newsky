@@ -1,0 +1,35 @@
+{
+  "(1)Barbarian Bodypaints - UUNP": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 119966,
+      "file_name": "(1)Barbarian Bodypaints - UUNP-31826-1-0-1579138437.7z",
+      "mod_id": 31826,
+      "hash": "sha256-UnN/kIYcdDToTROLUQdfwhaxmmUQpMskP1wfre6/koo="
+    },
+    "type": "primary"
+  },
+  "(2)Barbarian Bodypaints - CBBE": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 119967,
+      "file_name": "(2)Barbarian Bodypaints - CBBE-31826-1-0-1579138592.7z",
+      "mod_id": 31826,
+      "hash": "sha256-LE2SdCruc2ER1+r9BBZKmcJB5yWK74QE4ArXDCAVbfI="
+    },
+    "type": "primary"
+  },
+  "(3)Barbarian Bodypaints - Male": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 119968,
+      "file_name": "(3)Barbarian Bodypaints - Male-31826-1-0-1579138821.7z",
+      "mod_id": 31826,
+      "hash": "sha256-Upz4oy9YjauA94J2D9SnP8Y494V+I0QMOKzemmiud6c="
+    },
+    "type": "primary"
+  }
+}

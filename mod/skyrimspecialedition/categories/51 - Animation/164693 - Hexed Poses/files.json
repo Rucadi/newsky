@@ -1,0 +1,23 @@
+{
+  "Hexed Poses": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 688235,
+      "file_name": "Hexed Poses-164693-1-0-1763317808.7z",
+      "mod_id": 164693,
+      "hash": "sha256-Ru+9izDMcndaPyZyudT+vph/r+R6hu3Ns9gF1GE3Q0U="
+    },
+    "type": "primary"
+  },
+  "Hexed Poses - Poser Hotkeys Plus Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 689094,
+      "file_name": "Hexed Poses - Poser Hotkeys Plus Patch-164693-1-0-1763564584.7z",
+      "mod_id": 164693,
+      "hash": "sha256-qLY/3L6pNgEVAEp0pelYg6WRhJdKeW7ACYVZAERaoSQ="
+    }
+  }
+}

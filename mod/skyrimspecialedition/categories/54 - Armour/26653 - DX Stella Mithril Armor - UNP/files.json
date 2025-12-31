@@ -1,0 +1,23 @@
+{
+  "Stella Mithril Armor UNP": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1",
+      "file_id": 96511,
+      "file_name": "Stella Mithril Armor UNP-26653-1-1-1560889952.7z",
+      "mod_id": 26653,
+      "hash": "sha256-cAILU4SkHdcgCyq2Q6/RC7moijahl4dh6AlT6hYstoo="
+    },
+    "type": "primary"
+  },
+  "Stella Mithril Armor Bikini Theme": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.2",
+      "file_id": 119839,
+      "file_name": "Stella Mithril Armor Bikini Theme-26653-1-1-1579062197.7z",
+      "mod_id": 26653,
+      "hash": "sha256-BExhGCVyY3lhW4K837SvGBsk4T/4dah8OL2Iz/DuGgY="
+    }
+  }
+}

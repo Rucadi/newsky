@@ -1,0 +1,24 @@
+{
+  "Kalilies Brows": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1",
+      "file_id": 161884,
+      "file_name": "Kalilies Brows-40595-1-1-1600706357.7z",
+      "mod_id": 40595,
+      "hash": "sha256-W403cPonv5tfLzI2j+0jkz5i9HT1Kz0AwYqjbJM54iM="
+    },
+    "type": "primary"
+  },
+  "Kalilies Brows - COR": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1",
+      "file_id": 162215,
+      "file_name": "Kalilies Brows - COR-40595-1-1-1600874094.7z",
+      "mod_id": 40595,
+      "hash": "sha256-5S1psKyN1h+Agoia3kVJP/oWFivyQMGbDphR1tcNOZQ="
+    },
+    "type": "primary"
+  }
+}

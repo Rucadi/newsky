@@ -2,6 +2,8 @@
 - Author: Ld50365
 - Game: skyrimspecialedition
 - Mod Page: https://www.nexusmods.com/skyrimspecialedition/mods/2242
+
+
 **As of Fall 2016, I've no longer had the time to create new mods or offer my support for existing ones, I want to think everyone for your support and encouragement over the years! The modding community has my full permission for any updates on my existing mods as long as credit is given for the original work. I may return to modding sometime in the future but as of now it simply isn't possible.Thank you again for your support!** 
   
   

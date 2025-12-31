@@ -1,0 +1,23 @@
+{
+  "Perks for Questing SE v1.2": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.2",
+      "file_id": 139352,
+      "file_name": "Perks for Questing SE v1.2-29402-1-2-1589225687.7z",
+      "mod_id": 29402,
+      "hash": "sha256-DR2Iz13LXwumHtW9jRMgeWO2Y8RPn/1JE2+M3LWKmDc="
+    },
+    "type": "primary"
+  },
+  "Batch files SE": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.2",
+      "file_id": 139358,
+      "file_name": "Batch files SE-29402-1-2-1589225989.7z",
+      "mod_id": 29402,
+      "hash": "sha256-Eda5nSAKNfjMsGUvzcLfoL0IDXPI2rTjQiJsegvyBls="
+    }
+  }
+}

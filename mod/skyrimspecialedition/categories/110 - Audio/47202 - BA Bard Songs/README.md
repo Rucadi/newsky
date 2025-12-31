@@ -2,6 +2,8 @@
 - Author: Shiiholude
 - Game: skyrimspecialedition
 - Mod Page: https://www.nexusmods.com/skyrimspecialedition/mods/47202
+
+
 [line][font=Comic Sans MS]
 
 **DESCRIPTION / INTRO**

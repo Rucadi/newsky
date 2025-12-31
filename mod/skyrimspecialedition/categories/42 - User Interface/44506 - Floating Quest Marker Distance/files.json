@@ -1,0 +1,55 @@
+{
+  "FloatQuestMarkerDist 2x": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 180800,
+      "file_name": "FloatQuestMarkerDist 2x-44506-1-0-1611195873.zip",
+      "mod_id": 44506,
+      "hash": "sha256-REsjFvg+dmTG1vjnsjRzcZ7KtnvJAbWSv1eFi3gZoQw="
+    },
+    "type": "primary"
+  },
+  "FloatQuestMarkerDist 3x": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 180801,
+      "file_name": "FloatQuestMarkerDist 3x-44506-1-0-1611196136.zip",
+      "mod_id": 44506,
+      "hash": "sha256-tZH0iT5E43ot1uI5zjJTVK6E/p3fr3x535R0WdT7Cjo="
+    },
+    "type": "primary"
+  },
+  "FloatQuestMarkerDist 4x": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 180802,
+      "file_name": "FloatQuestMarkerDist 4x-44506-1-0-1611196254.zip",
+      "mod_id": 44506,
+      "hash": "sha256-KlTR6rr1ni7LU+U6B1he0sjgRMXx03xBhdlpe1+P9ug="
+    },
+    "type": "primary"
+  },
+  "FloatQuestMarkerDist 6x": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 180803,
+      "file_name": "FloatQuestMarkerDist 6x-44506-1-0-1611196291.zip",
+      "mod_id": 44506,
+      "hash": "sha256-KF0jfqyAOb056o1iH/IzaiHDis9tWrY1SQLHJf9UpkI="
+    }
+  },
+  "FloatQuestMarkerDist 8x": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 180804,
+      "file_name": "FloatQuestMarkerDist 8x-44506-1-0-1611196325.zip",
+      "mod_id": 44506,
+      "hash": "sha256-aczc1D3qeK55pivkN28ohw16LCyHBSKmcf3ScjTvKCw="
+    }
+  }
+}

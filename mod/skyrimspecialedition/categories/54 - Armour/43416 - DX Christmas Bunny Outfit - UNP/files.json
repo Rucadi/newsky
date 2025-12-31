@@ -1,0 +1,24 @@
+{
+  "Christmas Bunny Outfit 4K": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 174854,
+      "file_name": "Christmas Bunny Outfit 4K-43416-1-0-1608214878.7z",
+      "mod_id": 43416,
+      "hash": "sha256-Khbpp6zEEE4/zVzQZntY4LglmGF6cGhLHJdmro/rwQM="
+    },
+    "type": "primary"
+  },
+  "Christmas Bunny Outfit 2K": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 174855,
+      "file_name": "Christmas Bunny Outfit 2K-43416-1-0-1608215197.7z",
+      "mod_id": 43416,
+      "hash": "sha256-P3YZspgJN7rVrTB0XcYFhYN35+sf7pZ1ot04fWNy/4k="
+    },
+    "type": "primary"
+  }
+}

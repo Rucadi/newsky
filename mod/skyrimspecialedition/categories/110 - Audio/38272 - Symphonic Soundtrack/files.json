@@ -1,0 +1,46 @@
+{
+  "Symphonic Soundtrack - Replacement HIGH QUALITY": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "2.0",
+      "file_id": 188667,
+      "file_name": "Symphonic Soundtrack - Replacement HIGH QUALITY-38272-2-0-1614551136.7z",
+      "mod_id": 38272,
+      "hash": "sha256-ajb3FdChb36gSGr7wIVwEeRdD7a/ylSRvzzGIR60axA="
+    },
+    "type": "primary"
+  },
+  "Symphonic Soundtrack - Extension HIGH QUALITY": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "2.0",
+      "file_id": 188668,
+      "file_name": "Symphonic Soundtrack - Extension HIGH QUALITY-38272-2-0-1614552341.7z",
+      "mod_id": 38272,
+      "hash": "sha256-Dnl2ltrMeOAOcuZDaLfVKo+3C7S/pKdAFehSGb+66m4="
+    },
+    "type": "primary"
+  },
+  "Symphonic Soundtrack - Extension": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "2.0",
+      "file_id": 188673,
+      "file_name": "Symphonic Soundtrack - Extension-38272-2-0-1614554201.7z",
+      "mod_id": 38272,
+      "hash": "sha256-lfWNeJAWMFStKkJYKwQPkPtxNq/ocLXdKWXsZwMuRIY="
+    },
+    "type": "primary"
+  },
+  "Symphonic Soundtrack - Replacement": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "2.0",
+      "file_id": 188674,
+      "file_name": "Symphonic Soundtrack - Replacement-38272-2-0-1614554327.7z",
+      "mod_id": 38272,
+      "hash": "sha256-aju2tF/RKyVG6mMEtXmmccC0x18AehAF34+FAmT61PE="
+    },
+    "type": "primary"
+  }
+}

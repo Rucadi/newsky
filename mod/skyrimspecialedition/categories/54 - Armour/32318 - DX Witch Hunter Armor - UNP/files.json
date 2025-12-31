@@ -1,0 +1,23 @@
+{
+  "I took an arrow in the knee": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.2",
+      "file_id": 122484,
+      "file_name": "I took an arrow in the knee-32318-1-0-1580706299.7z",
+      "mod_id": 32318,
+      "hash": "sha256-utdwvf+X6809+yTomEs+Z9fP6gUoCDYT4HHYPtbZQJM="
+    }
+  },
+  "Witch Hunter Armor UNP SE": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.2",
+      "file_id": 124085,
+      "file_name": "Witch Hunter Armor UNP SE-32318-1-2-1581731897.7z",
+      "mod_id": 32318,
+      "hash": "sha256-2tgjFMJF5QyiARzQzE0h5seE0BXGGYxwZKvb9uPRU1s="
+    },
+    "type": "primary"
+  }
+}

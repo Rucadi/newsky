@@ -15,7 +15,8 @@
       "version": "CID",
       "file_id": 669902,
       "file_name": "Tawoba Imperial Bikini Crafting books CID-160121-CID-1758991298.rar",
-      "mod_id": 160121
+      "mod_id": 160121,
+      "hash": "sha256-fu3kwkCp3se65ufyRSIG1sEC6eIa2qu0DusoqhZQFvA="
     }
   },
   "Tawoba Imperial Bikini Modesty KID": {
@@ -24,7 +25,8 @@
       "version": "2.0",
       "file_id": 683295,
       "file_name": "Tawoba Imperial Bikini Modesty KID-160121-2-0-1762169644.rar",
-      "mod_id": 160121
+      "mod_id": 160121,
+      "hash": "sha256-hal8UQoqE/tkA4MQ37vWn7pWpsvbx4M4PtdidBQM4KM="
     }
   },
   "Imperial Bikini armor 3BA HDT-SMP -prebuilt meshes": {
@@ -33,7 +35,8 @@
       "version": "2.10",
       "file_id": 697921,
       "file_name": "Imperial Bikini armor 3BA HDT-SMP -prebuilt meshes-160121-2-10-1765719640.7z",
-      "mod_id": 160121
+      "mod_id": 160121,
+      "hash": "sha256-KPOZhaAWO3iIeE46H/NdPcU977jRXzVljVrDyCagxGA="
     }
   },
   "Imperial Bikini armor 3BA HDT-SMP - Tawoba addon": {
@@ -42,7 +45,8 @@
       "version": "2.10",
       "file_id": 697922,
       "file_name": "Imperial Bikini armor 3BA HDT-SMP - Tawoba addon-160121-2-10-1765719657.7z",
-      "mod_id": 160121
+      "mod_id": 160121,
+      "hash": "sha256-QDqT3KsYYfWl5X9M7jl/EJzTfNGeUt3M3dKWIUIrugQ="
     },
     "type": "primary"
   },
@@ -52,7 +56,8 @@
       "version": "2.10",
       "file_id": 697936,
       "file_name": "Tawoba Imperial Bikini Baka KID ini-160121-2-10-1765721530.rar",
-      "mod_id": 160121
+      "mod_id": 160121,
+      "hash": "sha256-djtZaGgkzf/9H/A/ek4HABRHtFcNLsOdUgxbUBhfUi0="
     }
   },
   "Tawoba Imperial Bikini Helmet toggle 2 Support": {
@@ -61,7 +66,8 @@
       "version": "2.10",
       "file_id": 697938,
       "file_name": "Tawoba Imperial Bikini Helmet toggle 2 Support-160121-2-10-1765721717.rar",
-      "mod_id": 160121
+      "mod_id": 160121,
+      "hash": "sha256-O+o0i3gQugy8vD22lb2XEkyzd5miTs6YIpsACB0+b/E="
     }
   },
   "Tawoba Imperial Bikini ORF KID ini": {
@@ -70,7 +76,8 @@
       "version": "2.10",
       "file_id": 697939,
       "file_name": "Tawoba Imperial Bikini ORF KID ini-160121-2-10-1765721841.rar",
-      "mod_id": 160121
+      "mod_id": 160121,
+      "hash": "sha256-bP4PrBItRiBLpAddV+Gf5Pkd0mq7ugaR5ag3j0BPEjk="
     }
   },
   "TAWOBA_Impe_SoS_KID ini": {
@@ -79,7 +86,8 @@
       "version": "2.10",
       "file_id": 697941,
       "file_name": "TAWOBA_Impe_SoS_KID ini-160121-2-10-1765721917.rar",
-      "mod_id": 160121
+      "mod_id": 160121,
+      "hash": "sha256-MAwrZQIvrFj2D2kzJGeTPSBzqohn5DYFSBc4ys2CiyY="
     }
   },
   "Tawoba Imperial Bikini TNG ini": {
@@ -88,7 +96,8 @@
       "version": "2.10",
       "file_id": 697942,
       "file_name": "Tawoba Imperial Bikini TNG ini-160121-2-10-1765722023.rar",
-      "mod_id": 160121
+      "mod_id": 160121,
+      "hash": "sha256-ThuGWhvYbDyk1NU6Hme9yrnvlit725mAzvt8dCDBrpI="
     }
   }
 }

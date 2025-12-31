@@ -1,0 +1,24 @@
+{
+  "Shield debuff Half effect": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "2",
+      "file_id": 229100,
+      "file_name": "Shield debuff Half effect-47285-2-1631938751.zip",
+      "mod_id": 47285,
+      "hash": "sha256-FtBG8GkI3Djle0HsiIK1l3eGiBVBDFAEjpbRDyPZyM4="
+    },
+    "type": "primary"
+  },
+  "Shield debuff": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "2",
+      "file_id": 229101,
+      "file_name": "Shield debuff-47285-2-1631938800.zip",
+      "mod_id": 47285,
+      "hash": "sha256-iKGq6KLHYMAw4ew3Luz3LWcan51yYXsTGyfwpLOU/Qk="
+    },
+    "type": "primary"
+  }
+}

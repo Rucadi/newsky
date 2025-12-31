@@ -1,0 +1,33 @@
+{
+  "Fem-Tsun Armor Alt CBBE Conventional Files": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1",
+      "file_id": 217915,
+      "file_name": "Fem-Tsun Armor Alt CBBE Conventional Files-38525-1-1627748876.7z",
+      "mod_id": 38525,
+      "hash": "sha256-ry1S6URFeiivLMtnYDvoViLjRAotdnNMU2H7ULMDLgA="
+    }
+  },
+  "Fem-Tsun Armor 3BA": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.2.1",
+      "file_id": 219141,
+      "file_name": "Fem-Tsun Armor 3BA-38525-1-2-1-1628227531.7z",
+      "mod_id": 38525,
+      "hash": "sha256-IOaEO7KHFmV6PgQPX9H2czcfV9Ut43ny8T6+grgLCnw="
+    },
+    "type": "primary"
+  },
+  "Fem-Tsun BodySlide presets": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1",
+      "file_id": 251678,
+      "file_name": "Fem-Tsun BodySlide presets-38525-1-1640447164.7z",
+      "mod_id": 38525,
+      "hash": "sha256-v+9plmQhqFQQwm6cBUDo8KmDTQZAZ+reMmPycOglkS0="
+    }
+  }
+}

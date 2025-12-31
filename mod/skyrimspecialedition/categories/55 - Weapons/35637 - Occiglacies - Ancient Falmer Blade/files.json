@@ -1,0 +1,33 @@
+{
+  "Occiglacies 2k": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "V1.3",
+      "file_id": 138603,
+      "file_name": "Occiglacies 2k-35637-V1-2-1588881932.rar",
+      "mod_id": 35637,
+      "hash": "sha256-J6HviQ2jwSvFbJyZoOfxh4YpQ3jPfnfDo+k8jpPX3BQ="
+    }
+  },
+  "Occiglacies": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "V1.3",
+      "file_id": 155108,
+      "file_name": "Occiglacies-35637-V1-3-1597190623.rar",
+      "mod_id": 35637,
+      "hash": "sha256-zLry5onlMkNhHXybOKfFr2ui6PfGHKuw3KcnR4UE7Rk="
+    },
+    "type": "primary"
+  },
+  "Occiglacies 1k": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "V1.3",
+      "file_id": 155109,
+      "file_name": "Occiglacies-35637-V1-3-1597190662.rar",
+      "mod_id": 35637,
+      "hash": "sha256-EGmDabQYst12JPs51QDmDKpYHh2vpOhaMAz/HYGZDx0="
+    }
+  }
+}

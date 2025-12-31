@@ -1,0 +1,83 @@
+{
+  "Vokriinator Black - Trade and Barter patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "6",
+      "file_id": 158471,
+      "file_name": "Vokriinator Black - Trade and Barter patch-26702-6-1598820364.7z",
+      "mod_id": 26702,
+      "hash": "sha256-SfqXIoVmEieYh+IMtmziI4Dx3J3u2QutEwDWW3XS4ac="
+    }
+  },
+  "Vokriinator Black - CACO patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "6.7.0",
+      "file_id": 249643,
+      "file_name": "Vokriinator Black - CACO patch-26702-6-7-0-1639681862.7z",
+      "mod_id": 26702,
+      "hash": "sha256-2eYsq9XaCdT12bBu9EBDj9oq5a8eZ/uL4w01aVF+gvE="
+    }
+  },
+  "Vokriinator Black - Apocalypse patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "6.8.0",
+      "file_id": 253014,
+      "file_name": "Vokriinator Black - Apocalypse patch-26702-6-8-0-1641007084.7z",
+      "mod_id": 26702,
+      "hash": "sha256-+xvCOD9c439IrSL0Xh/wdtKcsHKJ/5X2bMvEK+4S5v4="
+    }
+  },
+  "Vokriinator Black - DAC Improved": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "6.12.1",
+      "file_id": 349454,
+      "file_name": "Vokriinator Black - DAC Improved-26702-6-12-1-1673714613.7z",
+      "mod_id": 26702,
+      "hash": "sha256-VtTq0l2K3e83iGcjoQN5Zd7/4J/RFtBx9u+Bh6wARGA="
+    }
+  },
+  "Vokriinator Black - Odin - Pilgrim patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "6.15.0",
+      "file_id": 569012,
+      "file_name": "Vokriinator Black - Odin - Pilgrim patch-26702-6-15-0-1733346506.7z",
+      "mod_id": 26702,
+      "hash": "sha256-gJ8Bf+bxkintA+zSEFrdTP2ejNGMrLEj+zzTAXky7yQ="
+    }
+  },
+  "Vokriinator Black - Pilgrim patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "6.15.0",
+      "file_id": 569014,
+      "file_name": "Vokriinator Black - Pilgrim patch-26702-6-15-0-1733346592.7z",
+      "mod_id": 26702,
+      "hash": "sha256-sjzenU8ryOBn6OxcBpfE42Hfp7J1v9rPHaVqfzk1ozk="
+    }
+  },
+  "Vokriinator Black - Odin patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "6.15.1",
+      "file_id": 578122,
+      "file_name": "Vokriinator Black - Odin patch-26702-6-15-1-1735672747.7z",
+      "mod_id": 26702,
+      "hash": "sha256-RbA7YIIwQjj+xXbVujGC3sc9yM44QYeNJ+dxTGhMmdQ="
+    }
+  },
+  "Vokriinator Black": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "6.15.3",
+      "file_id": 623237,
+      "file_name": "Vokriinator Black-26702-6-15-3-1746281209.7z",
+      "mod_id": 26702,
+      "hash": "sha256-uzuEQuVIyuvqcKdL3n6X7giR/pdD4ecazhlBmUO3Hh4="
+    },
+    "type": "primary"
+  }
+}

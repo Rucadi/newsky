@@ -1,0 +1,33 @@
+{
+  "Dragon Claws Auto-Unlock (Simultaneous)": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1",
+      "file_id": 192835,
+      "file_name": "Dragon Claws Auto-Unlock (Simultaneous)-47329-1-1-1616381758.7z",
+      "mod_id": 47329,
+      "hash": "sha256-5lI0lVlc5DViy0ien+hDcUy6RpL7SKDrTIUx62OdhAY="
+    },
+    "type": "primary"
+  },
+  "Dragon Claws Auto-Unlock (Sequential)": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1",
+      "file_id": 192836,
+      "file_name": "Dragon Claws Auto-Unlock (Sequential)-47329-1-1-1616381906.7z",
+      "mod_id": 47329,
+      "hash": "sha256-1Mgg6oqexdZ75/p5GSBFR5ILalqekp69cC3C+A43yTE="
+    }
+  },
+  "Dragon Claws Auto-Unlock (Instant)": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1",
+      "file_id": 192837,
+      "file_name": "Dragon Claws Auto-Unlock (Instant)-47329-1-1-1616381971.7z",
+      "mod_id": 47329,
+      "hash": "sha256-GSfj2OXJYalZUNqQeSBi//u9utxrbgioGWvErTDvWYY="
+    }
+  }
+}

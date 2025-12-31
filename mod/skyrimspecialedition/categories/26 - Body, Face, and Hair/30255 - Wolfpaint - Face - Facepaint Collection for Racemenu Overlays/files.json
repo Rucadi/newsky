@@ -1,0 +1,24 @@
+{
+  "Wolfpaint - Face - Racemenu Overlays - Female Only": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 112816,
+      "file_name": "Wolfpaint - Face - Racemenu Overlays-30255-1-0-1573205535.7z",
+      "mod_id": 30255,
+      "hash": "sha256-JUxlmUhOGTwTy+QNDtBZprbU6f9MWT+O+EMBzS3uKKY="
+    },
+    "type": "primary"
+  },
+  "Wolfpaint - Face - Racemenu Overlays - Male and Female": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0-MF",
+      "file_id": 113503,
+      "file_name": "Wolfpaint - Face - Racemenu Overlays - Male and Female-30255-1-0-MF-1573895529.7z",
+      "mod_id": 30255,
+      "hash": "sha256-6/vf0ovAX/DLIf6jHF/yNE1tJvHZmpyO1WOJgQUMY5Q="
+    },
+    "type": "primary"
+  }
+}

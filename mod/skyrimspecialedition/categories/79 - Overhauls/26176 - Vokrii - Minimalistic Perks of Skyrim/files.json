@@ -1,0 +1,33 @@
+{
+  "Thaumaturgy - Vokrii Compatibility Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "3.8.0",
+      "file_id": 257333,
+      "file_name": "Thaumaturgy - Vokrii Compatibility Patch-26176-3-8-0-1642370089.zip",
+      "mod_id": 26176,
+      "hash": "sha256-2wP7FYaRBPTrqCyEx5Z8nftPvtHiL6CEEzp/IzvVjp8="
+    }
+  },
+  "Vokrii 3.8.2": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "3.8.2",
+      "file_id": 258362,
+      "file_name": "Vokrii 3.8.2-26176-3-8-2-1642771755.zip",
+      "mod_id": 26176,
+      "hash": "sha256-1lHf9nVIxQC4h9E6b09cIgPg2rKibb12cgbfq/YwlWU="
+    },
+    "type": "primary"
+  },
+  "Mysticism 2 - Vokrii Compatibility Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "3.8.0",
+      "file_id": 273042,
+      "file_name": "Mysticism 2 - Vokrii Compatibility Patch-26176-3-8-0-1648396708.zip",
+      "mod_id": 26176,
+      "hash": "sha256-xCYjEOjIXKsbEWFE1RjT3MPRWyoe/YzHXEiytsj+yAE="
+    }
+  }
+}

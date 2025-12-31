@@ -1,0 +1,46 @@
+{
+  "COCO RONIN - TBD SE": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 197804,
+      "file_name": "COCO RONIN - TBD SE-47462-1-0-1618275336.7z",
+      "mod_id": 47462,
+      "hash": "sha256-TaRNSneQrh7oEANFJJJEpzRuME66R+pGGqwOz48uD/0="
+    },
+    "type": "primary"
+  },
+  "COCO RONIN - COCOBody UUNP SE": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "2.0",
+      "file_id": 319352,
+      "file_name": "COCO RONIN - COCOBody UUNP SE-47462-2-0-1664126398.7z",
+      "mod_id": 47462,
+      "hash": "sha256-lMpQ4LpnNGle6ZApSCkB7c0K4G3iFL891HQHESwCrSQ="
+    },
+    "type": "primary"
+  },
+  "COCO RONIN - COCOBody CBBE SE": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "2.1",
+      "file_id": 322073,
+      "file_name": "COCO RONIN - COCOBody CBBE SE-47462-2-1-1665078266.7z",
+      "mod_id": 47462,
+      "hash": "sha256-KqrxC5fM+n+J9W6UiYj99ZErNVS6zZFYVJOg5RiZRRk="
+    },
+    "type": "primary"
+  },
+  "COCO RONIN - CBBE 3BA": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "2.2",
+      "file_id": 421406,
+      "file_name": "COCO RONIN - CBBE 3BA-47462-2-2-1693203507.7z",
+      "mod_id": 47462,
+      "hash": "sha256-5HlhrzdzH5vZMxjLLzyoiOwXWCMhX5dp0jh5VKNI7Vk="
+    },
+    "type": "primary"
+  }
+}

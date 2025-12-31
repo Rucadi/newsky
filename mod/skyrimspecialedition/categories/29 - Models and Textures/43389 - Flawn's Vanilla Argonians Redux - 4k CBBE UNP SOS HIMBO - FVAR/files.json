@@ -1,0 +1,104 @@
+{
+  "FVAR - Main CBBE": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "2.0",
+      "file_id": 638157,
+      "file_name": "FVAR - Main CBBE-43389-2-0-1749995439.7z",
+      "mod_id": 43389,
+      "hash": "sha256-7H09UOJhHdlp9OQreEjJRAOTlVgwahugYwHlWgfZNbM="
+    },
+    "type": "primary"
+  },
+  "FVAR - Main UNP": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "2.0",
+      "file_id": 638160,
+      "file_name": "FVAR - Main UNP-43389-2-0-1749995720.7z",
+      "mod_id": 43389,
+      "hash": "sha256-lD9JxVBGLmeJUbvqPvTUU6TurBPDaYfhZAiEIEVDFBU="
+    },
+    "type": "primary"
+  },
+  "FVAR - Muscle CBBE": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "2.0",
+      "file_id": 638171,
+      "file_name": "FVAR - Muscle CBBE-43389-2-0-1749996987.7z",
+      "mod_id": 43389,
+      "hash": "sha256-1aDFVm7bRnWIEFAxu5UXc1RenDmW/4pxcU8/UKcF5m8="
+    }
+  },
+  "FVAR - Muscle UNP": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "2.0",
+      "file_id": 638174,
+      "file_name": "FVAR - Muscle UNP-43389-2-0-1749997079.7z",
+      "mod_id": 43389,
+      "hash": "sha256-g0XwEklYEphT5LRahfk1p01asYBb3HHVyV6XKFg/ynw="
+    }
+  },
+  "FVAR - Muscle HIMBO": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "2.0",
+      "file_id": 638176,
+      "file_name": "FVAR - Muscle HIMBO-43389-2-0-1749997196.7z",
+      "mod_id": 43389,
+      "hash": "sha256-xTNZtoU90R3oK3HiY9J90QnbZTvvjPDvA4Xq+o0vFps="
+    }
+  },
+  "FVAR - Flat Chested CBBE": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "2.0",
+      "file_id": 638177,
+      "file_name": "FVAR - Flat Chested CBBE-43389-2-0-1749997292.7z",
+      "mod_id": 43389,
+      "hash": "sha256-lA6BUn2seEcbN3VooZVXTupGa0tfTvI7A+x90OkASkA="
+    }
+  },
+  "FVAR - Flat Chested UNP": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "2.0",
+      "file_id": 638178,
+      "file_name": "FVAR - Flat Chested UNP-43389-2-0-1749997430.7z",
+      "mod_id": 43389,
+      "hash": "sha256-a79bI9eyizjw8xA3UF6sQ/N52XHLjqwXXT6FYVFtPTU="
+    }
+  },
+  "FVAR - Overly Glossy Feathers Fix": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "2.0",
+      "file_id": 638247,
+      "file_name": "FVAR - Glossy Feathers Fix-43389-2-0-1750012722.7z",
+      "mod_id": 43389,
+      "hash": "sha256-qpQzJy2NDx6MKrGNkMr8uWDdGydILimQv+TyZZpUVWs="
+    }
+  },
+  "FVAR - Main VANILLA": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "2.0-fix",
+      "file_id": 643435,
+      "file_name": "FVAR - Main VANILLA-43389-2-0-fix-1751442196.7z",
+      "mod_id": 43389,
+      "hash": "sha256-W64p6+dcfr26lJp+i91WdnnKF4FwEubLJEgTOnA3A50="
+    }
+  },
+  "Sassy's Adjustments - Spikeless Heads": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "2.0",
+      "file_id": 644339,
+      "file_name": "Sassy's Adjustments - Spikeless Heads-43389-2-0-1751720446.7z",
+      "mod_id": 43389,
+      "hash": "sha256-LbKnhGVmDLh7n/x6WlVC6W3OWR+qaibQz32WUyC05gU="
+    }
+  }
+}

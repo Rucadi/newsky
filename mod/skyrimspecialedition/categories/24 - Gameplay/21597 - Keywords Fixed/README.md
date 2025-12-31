@@ -2,6 +2,8 @@
 - Author: Anduniel
 - Game: skyrimspecialedition
 - Mod Page: https://www.nexusmods.com/skyrimspecialedition/mods/21597
+
+
 I have no idea if anyone would even be interested in using this, but it really bothers me, as a Companion modder, that Keywords are not always correctly matched to Locations in the game. Just one example, my pirate comments on "Ships" yet the only "Ship" in the game properly labeled as such is the Katariah. Modders can condition more specifically of course, like naming a Cell, but Keywords come in handy for Companions commenting on new places added by other mods, such as Player Homes, Inns, Dungeons, Towns, etc., provided the modder actually *adds* the Keywords.
   
   

@@ -1,0 +1,66 @@
+{
+  "Go To Bed - DAR patch SE -  PLAYER ONLY": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.2",
+      "file_id": 176437,
+      "file_name": "Go To Bed - DAR patch SE-43714-1-2-1609113745.rar",
+      "mod_id": 43714,
+      "hash": "sha256-k4g+z1ZcH8tgtAeSF+C/1SQsDI6Y6vLBjvUy+YHK7TI="
+    },
+    "type": "primary"
+  },
+  "Go To Bed - DAR patch SE - PLAYER and NPCs": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.2",
+      "file_id": 177268,
+      "file_name": "Go To Bed - DAR patch SE PLAYER and NPCs-43714-1-2-1609533726.rar",
+      "mod_id": 43714,
+      "hash": "sha256-F22KZT5HNiXVWV27cnzLiOmqx25c7MBLFKcHFZ71ywU="
+    },
+    "type": "primary"
+  },
+  "Go To Bed - DAR patch AE -  PLAYER and NPCs": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.3",
+      "file_id": 257979,
+      "file_name": "Go To Bed - DAR patch SE PLAYER and NPCs - AE-43714-1-3-1642641139.7z",
+      "mod_id": 43714,
+      "hash": "sha256-e6RaQx07fQmahaLL3M+4h8XUQzBrh7JZ7KJl+v1TNMM="
+    },
+    "type": "primary"
+  },
+  "Go To Bed - DAR patch AE - PLAYER ONLY": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.3",
+      "file_id": 257981,
+      "file_name": "Go To Bed - DAR patch AE - PLAYER ONLY-43714-1-3-1642641277.7z",
+      "mod_id": 43714,
+      "hash": "sha256-FIy5MiOGpuC8Do4EWslDj8bY0Sg7NAzFSGcFLNIQqdU="
+    },
+    "type": "primary"
+  },
+  "Go To Bed - DAR Sleeping Expanded - PLAYER NPCs": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.4",
+      "file_id": 397219,
+      "file_name": "Go To Bed - DAR Sleeping Expanded - PLAYER NPCs-43714-1-4-1686577652.7z",
+      "mod_id": 43714,
+      "hash": "sha256-WNd8ttwhsRegIEphRBKUTcr5oP9EUmmMWZXdBNgl7Is="
+    }
+  },
+  "Go To Bed - DAR Sleeping Expanded - PLAYER ONLY": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.4",
+      "file_id": 397220,
+      "file_name": "Go To Bed - DAR Sleeping Expanded - PLAYER ONLY-43714-1-4-1686577704.7z",
+      "mod_id": 43714,
+      "hash": "sha256-1gZpmXLiiFxFC7CSdaIyui27FV5JZQQwJwGhtdVue54="
+    }
+  }
+}

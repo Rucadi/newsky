@@ -2,6 +2,8 @@
 - Author: Linthar
 - Game: skyrimspecialedition
 - Mod Page: https://www.nexusmods.com/skyrimspecialedition/mods/19250
+
+
 More Informative Console is a mod designed to serve as a replacement for the Popular MFG console mod for Oldrim, that was sadly never ported over to SSE. It can be used to identify what mod is responsible for adding new objects to the world, or has moved existing objects to new locations. It can also provide detailed information about NPCs, items, spells, and containers. 
   
   

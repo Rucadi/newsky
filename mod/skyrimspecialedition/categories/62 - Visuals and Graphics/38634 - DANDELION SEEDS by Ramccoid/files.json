@@ -1,0 +1,90 @@
+{
+  "DANDELION SEEDS v5 x256 bunched": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "5",
+      "file_id": 151995,
+      "file_name": "DANDELION SEEDS v5 x256 bunched-38634-5-1595643944.7z",
+      "mod_id": 38634,
+      "hash": "sha256-8QnsBdb2QoXJ3KnlOzMufNFrV6BwTluk3Iq1CtM1bzI="
+    },
+    "type": "primary"
+  },
+  "DANDELION SEEDS v5 x256": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "5",
+      "file_id": 151996,
+      "file_name": "DANDELION SEEDS v5 x256-38634-5-1595644166.7z",
+      "mod_id": 38634,
+      "hash": "sha256-7Z6u9Slqx5Jd8fCjU/qqnOT2Hmo5iOmN71Taj4vazRQ="
+    },
+    "type": "primary"
+  },
+  "DANDELION SEEDS v5 x512 bunched": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "5",
+      "file_id": 151997,
+      "file_name": "DANDELION SEEDS v5 x512 bunched-38634-5-1595644234.7z",
+      "mod_id": 38634,
+      "hash": "sha256-gqeVXIHBjT31AuhTBFLJo9sBU9hio9KDx4OuVeyyH2I="
+    },
+    "type": "primary"
+  },
+  "DANDELION SEEDS v5 x512": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "5",
+      "file_id": 151998,
+      "file_name": "DANDELION SEEDS v5 x512-38634-5-1595644271.7z",
+      "mod_id": 38634,
+      "hash": "sha256-IxggrnnFa/J6agqnO1ggj+e3X3+Ahr+U+x9NyG3u3pc="
+    },
+    "type": "primary"
+  },
+  "DANDELION SEEDS v5 x1024 bunched": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "5",
+      "file_id": 151999,
+      "file_name": "DANDELION SEEDS v5 x1024 bunched-38634-5-1595644310.7z",
+      "mod_id": 38634,
+      "hash": "sha256-MrvlWiCI0UOX/gtvCBN1V+uR5rRAitu9srf93Eplikw="
+    },
+    "type": "primary"
+  },
+  "DANDELION SEEDS v5 x1024": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "5",
+      "file_id": 152000,
+      "file_name": "DANDELION SEEDS v5 x1024-38634-5-1595644369.7z",
+      "mod_id": 38634,
+      "hash": "sha256-xAUFbwhJ1xuTChejOWHP2sqP288ywuHRI80qS8CMDZg="
+    },
+    "type": "primary"
+  },
+  "DANDELION SEEDS v5 x2048 bunched": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "5",
+      "file_id": 152001,
+      "file_name": "DANDELION SEEDS v5 x2048 bunched-38634-5-1595644402.7z",
+      "mod_id": 38634,
+      "hash": "sha256-IzmzH1r54wgRIOeOqtGb9/ynhPLt1Xdow+AVKlfjFSA="
+    },
+    "type": "primary"
+  },
+  "DANDELION SEEDS v5 x2048": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "5",
+      "file_id": 152002,
+      "file_name": "DANDELION SEEDS v5 x2048-38634-5-1595644438.7z",
+      "mod_id": 38634,
+      "hash": "sha256-fW9CjDeGz0xnB/edMromg+1VXCP6i+Gi1bncSjcpmGI="
+    },
+    "type": "primary"
+  }
+}

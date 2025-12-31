@@ -1,0 +1,56 @@
+{
+  "Solitude Temple Frescoes - Complete SSE": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.3",
+      "file_id": 110317,
+      "file_name": "Solitude Temple Frescoes - Complete SSE-29695-1-3-1571054707.rar",
+      "mod_id": 29695,
+      "hash": "sha256-JpPgWufm3/Irm/UcbmRFmpWxYhW9bRG3CMC3mNV1Rew="
+    },
+    "type": "primary"
+  },
+  "Solitude Temple Frescoes - Solitude Only SSE": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.3",
+      "file_id": 110326,
+      "file_name": "Solitude Temple Frescoes - Solitude Only SSE-29695-1-3-1571059165.rar",
+      "mod_id": 29695,
+      "hash": "sha256-czyF+lzpUs5IlDHU1tQETk0cD+9jJaVak2SnXQOczVQ="
+    },
+    "type": "primary"
+  },
+  "Solitude Temple Frescoes - Mosaics Instead SSE": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.3",
+      "file_id": 110327,
+      "file_name": "Solitude Temple Frescoes - Mosaics Instead SSE-29695-1-3-1571059372.rar",
+      "mod_id": 29695,
+      "hash": "sha256-tcCCxYo1VVM4yPD9Cv1KB+XE3oOa6BHohlGqSWs8cuI="
+    }
+  },
+  "Solitude Temple Frescoes - Complete (No Lanterns)": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.3",
+      "file_id": 110908,
+      "file_name": "Solitude Temple Frescoes - Complete (No Lanterns)-29695-1-3-1571603195.rar",
+      "mod_id": 29695,
+      "hash": "sha256-+JTTeY+kL0JiloaRmQ+LVbSgmjQG4errL8zIJpQAIsc="
+    },
+    "type": "primary"
+  },
+  "Solitude Temple Frescoes - Solitude Only (No Lanterns)": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.3",
+      "file_id": 110909,
+      "file_name": "Solitude Temple Frescoes - Solitude Only (No Lanterns)-29695-1-3-1571603267.rar",
+      "mod_id": 29695,
+      "hash": "sha256-bI4/6iKQKfi+dkkwnU/Z15g+lDcdvdf0/RTkdwDyml8="
+    },
+    "type": "primary"
+  }
+}

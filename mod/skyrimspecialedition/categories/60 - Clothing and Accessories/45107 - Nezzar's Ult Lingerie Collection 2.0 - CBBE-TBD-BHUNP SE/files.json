@@ -1,0 +1,41 @@
+{
+  "Nezzar Ult Lingerie Collection 2.0 - BHUNP v3 SE": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1",
+      "file_id": 183366,
+      "file_name": "Nezzar Ult Lingerie Collection 2.0 - BHUNP SE-45107-1-0-1612197296.7z",
+      "mod_id": 45107
+    },
+    "type": "primary"
+  },
+  "Nezzar Ult Lingerie Collection 2.0 - TBD SE": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1",
+      "file_id": 183953,
+      "file_name": "Nezzar Ult Lingerie Collection 2.0 - TBD SE-45107-1-0-1612443805.7z",
+      "mod_id": 45107
+    },
+    "type": "primary"
+  },
+  "Nezzar Ult Lingerie Collection 2.0 - CBBE SE": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1",
+      "file_id": 183955,
+      "file_name": "Nezzar Ult Lingerie Collection 2.0 - CBBE SE-45107-1-1-1612444163.7z",
+      "mod_id": 45107
+    },
+    "type": "primary"
+  },
+  "Nezzar Ult Lingerie Collection 2.0 - Craft Only Version": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1",
+      "file_id": 184497,
+      "file_name": "Nezzar Ult Lingerie Collection 2.0 - Craft Only Version-45107-1-1-1612678322.7z",
+      "mod_id": 45107
+    }
+  }
+}

@@ -2,6 +2,8 @@
 - Author: Magicockerel
 - Game: skyrimspecialedition
 - Mod Page: https://www.nexusmods.com/skyrimspecialedition/mods/43532
+
+
 [font=Bebas\_Neuebook]Fixes[/font]
   
 

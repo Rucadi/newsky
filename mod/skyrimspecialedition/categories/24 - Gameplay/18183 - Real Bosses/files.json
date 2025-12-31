@@ -1,0 +1,73 @@
+{
+  "RB - Hardcore - Optional": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "2.5",
+      "file_id": 162862,
+      "file_name": "RB - Hardcore - Optional-18183-2-5-1601235311.7z",
+      "mod_id": 18183,
+      "hash": "sha256-XjKK9P4P0AxuP0Pn3IrtXfur4OT37m8fNJVbMMDOz0M="
+    }
+  },
+  "RB - Heavy - Optional": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "2.5",
+      "file_id": 162863,
+      "file_name": "RB - Heavy - Optional-18183-2-5-1601235339.7z",
+      "mod_id": 18183,
+      "hash": "sha256-ZLuFu8sXy6hVd0JQRVI9x3EORMRspnG3ffaiHrtQoeU="
+    }
+  },
+  "RB - Medium - Optional": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "2.5",
+      "file_id": 162864,
+      "file_name": "RB - Medium - Optional-18183-2-5-1601235375.7z",
+      "mod_id": 18183,
+      "hash": "sha256-rGjiBUIZC55I1gyK2JsMqZ9TK7VSe/tRHdZkFaYrZlk="
+    }
+  },
+  "RB - SRCEO - Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "2.5",
+      "file_id": 162865,
+      "file_name": "RB - SRCEO - Patch-18183-2-5-1601235406.7z",
+      "mod_id": 18183,
+      "hash": "sha256-isWn+F3REf5V+DTyLIAYoABu2/1c9wUH9FPgcpxnVy4="
+    }
+  },
+  "RB - SRCEO - WICO - Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "2.5",
+      "file_id": 162866,
+      "file_name": "RB - SRCEO - WICO - Patch-18183-2-5-1601235429.7z",
+      "mod_id": 18183,
+      "hash": "sha256-nenvjxLFpOSEXUcM4c7RI/2rwhRj3ngtyiiLoXRt2G8="
+    }
+  },
+  "RB - WICO - Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "2.5",
+      "file_id": 162867,
+      "file_name": "RB - WICO - Patch-18183-2-5-1601235446.7z",
+      "mod_id": 18183,
+      "hash": "sha256-/W4jSNgkhLuwhAXgWVbC5gLg/HfRB1ZUkb2LVCW3Usc="
+    }
+  },
+  "RB - Light - Main File": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "2.5",
+      "file_id": 162868,
+      "file_name": "RB - Light - Main File-18183-2-5-1601235509.7z",
+      "mod_id": 18183,
+      "hash": "sha256-GAavoAMTnZVXtorYbCJfmI+FWtnO4q0Wx0HENF08heE="
+    },
+    "type": "primary"
+  }
+}

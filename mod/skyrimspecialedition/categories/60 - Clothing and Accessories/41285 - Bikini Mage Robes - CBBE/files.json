@@ -1,0 +1,34 @@
+{
+  "Bikini Robes-Outfit Replacer Compatibility Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0.0",
+      "file_id": 165903,
+      "file_name": "Bikini Robes-Outfit Replacer Compatibility Patch-41285-1-0-0-1602970469.zip",
+      "mod_id": 41285,
+      "hash": "sha256-tJ08x+zjfB34q//jFFumZOu0P49MMD3+5Gf20EzanVA="
+    }
+  },
+  "Bikini Robe Replacer and Standalone (3BA)": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "2.0.0",
+      "file_id": 230362,
+      "file_name": "Bikini Robe Replacer and Standalone (3BA)-41285-2-0-0-1632506599.7z",
+      "mod_id": 41285,
+      "hash": "sha256-uDjkKFkRms4rFPlnLR4F8TrlqzGg+qpOPQWrE0CmkVw="
+    },
+    "type": "primary"
+  },
+  "Bikini Robe Replacer and Standalone (CBBE)": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "2.0.0",
+      "file_id": 230364,
+      "file_name": "Bikini Robe Replacer and Standalone (CBBE)-41285-2-0-0-1632507277.7z",
+      "mod_id": 41285,
+      "hash": "sha256-XN0xzsf58hIR0/EuHdW7E2Hc1AnpakWBvJKncQTWFzU="
+    },
+    "type": "primary"
+  }
+}

@@ -1,34 +1,34 @@
 {
-  "Guard Dialogue Overhaul - ESP": {
-    "nexusmods": {
-      "game_name": "skyrimspecialedition",
-      "version": "2.19",
-      "file_id": 476223,
-      "file_name": "Guard Dialogue Overhaul SE - ESP-22075-2-19-1709382331.7z",
-      "mod_id": 22075,
-      "hash": "sha256-XF/Pufw/BIN82vL8WW8x9lBPvjVY76WEiuf0SLKHNtw="
+    "Guard Dialogue Overhaul - ESP": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "2.19",
+            "file_id": 476223,
+            "file_name": "Guard Dialogue Overhaul SE - ESP-22075-2-19-1709382331.7z",
+            "mod_id": 22075,
+            "hash": "sha256-XF/Pufw/BIN82vL8WW8x9lBPvjVY76WEiuf0SLKHNtw="
+        },
+        "type": "primary"
     },
-    "type": "primary"
-  },
-  "Guard Dialogue Overhaul - ESL": {
-    "nexusmods": {
-      "game_name": "skyrimspecialedition",
-      "version": "3.0",
-      "file_id": 476224,
-      "file_name": "Guard Dialogue Overhaul - ESL-22075-3-0-1709382418.7z",
-      "mod_id": 22075,
-      "hash": "sha256-WeIMt8Dn7t89gh8ZqcRxvLH2rKIaVQO2LUpoFfRxFFU="
+    "Guard Dialogue Overhaul - ESL": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "3.0",
+            "file_id": 476224,
+            "file_name": "Guard Dialogue Overhaul - ESL-22075-3-0-1709382418.7z",
+            "mod_id": 22075,
+            "hash": "sha256-WeIMt8Dn7t89gh8ZqcRxvLH2rKIaVQO2LUpoFfRxFFU="
+        },
+        "type": "primary"
     },
-    "type": "primary"
-  },
-  "GDO - The Second Great War Patch": {
-    "nexusmods": {
-      "game_name": "skyrimspecialedition",
-      "version": "6",
-      "file_id": 677893,
-      "file_name": "GDO - The Second Great War Patch-22075-6-1760871837.7z",
-      "mod_id": 22075,
-      "hash": "sha256-nYxeFExNC+LsK/QqQJStTK9G7oaxqwCoDmbmya7Wf5Q="
+    "GDO - The Second Great War Patch": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "6",
+            "file_id": 677893,
+            "file_name": "GDO - The Second Great War Patch-22075-6-1760871837.7z",
+            "mod_id": 22075,
+            "hash": "sha256-nYxeFExNC+LsK/QqQJStTK9G7oaxqwCoDmbmya7Wf5Q="
+        }
     }
-  }
 }

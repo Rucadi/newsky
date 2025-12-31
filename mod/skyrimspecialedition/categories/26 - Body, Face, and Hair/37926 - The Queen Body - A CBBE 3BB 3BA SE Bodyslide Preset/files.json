@@ -1,0 +1,23 @@
+{
+  "The Queen Body SE": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "universetitties1",
+      "file_id": 148715,
+      "file_name": "The Queen Body SE-37926-universetitties1-1593857977.rar",
+      "mod_id": 37926,
+      "hash": "sha256-4IZCb+tQB9xW5xZWaYgbfW48d8xM+uoXOtu+eqAb1nM="
+    },
+    "type": "primary"
+  },
+  "The Queen Body BONUS PRESETS": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "bonuses1",
+      "file_id": 148716,
+      "file_name": "The Queen Body BONUS PRESETS-37926-bonuses1-1593858086.rar",
+      "mod_id": 37926,
+      "hash": "sha256-F5/lwHzRuegBSSEPFaca2RXD8N4MaJIC/TmI/8QprhM="
+    }
+  }
+}

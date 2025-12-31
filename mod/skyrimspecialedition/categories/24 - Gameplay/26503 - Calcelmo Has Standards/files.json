@@ -1,0 +1,23 @@
+{
+  "Calcelmo Has Standards": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1",
+      "file_id": 329191,
+      "file_name": "Calcelmo Has Standards-26503-1-1-1667663174.7z",
+      "mod_id": 26503,
+      "hash": "sha256-9VY/SnDzunX8EwozECLVU/qNbpW/vvDuoXcYA7LP3H4="
+    },
+    "type": "primary"
+  },
+  "CHS - Say No To Calcelmo": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.2",
+      "file_id": 453411,
+      "file_name": "CHS - Say No To Calcelmo-26503-1-2-1703018127.7z",
+      "mod_id": 26503,
+      "hash": "sha256-yNjUxbRa296vajgP/FmREFnY64hM+KcwZeuf38IsAgc="
+    }
+  }
+}

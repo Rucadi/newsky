@@ -2,6 +2,8 @@
 - Author: nerjaveika
 - Game: skyrimspecialedition
 - Mod Page: https://www.nexusmods.com/skyrimspecialedition/mods/32940
+
+
 **[font=Verdana]FEATURES[/font]**
   
   

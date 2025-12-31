@@ -1,0 +1,63 @@
+{
+  "HPFSV All in One": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 60124,
+      "file_name": "HPFSV All in One-18637-1-0.7z",
+      "mod_id": 18637,
+      "hash": "sha256-aofaPzfWDFzCh5Ykbt0sM+KVe3v3QgE62q8JR6C7Dz0="
+    },
+    "type": "primary"
+  },
+  "HPFSV Orc": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 60125,
+      "file_name": "HPFSV Orc-18637-1-0.7z",
+      "mod_id": 18637,
+      "hash": "sha256-L0ETGSwOA4f1KGC8jGuYuvY+ao4JL1hvgj42ddPFy0I="
+    }
+  },
+  "HPFSV Khajiit": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 60126,
+      "file_name": "HPFSV Khajiit-18637-1-0.7z",
+      "mod_id": 18637,
+      "hash": "sha256-MDfJP114Sb/hZUaT/RHUyUF273sMnu8KLQcgTXqm7G0="
+    }
+  },
+  "HPFSV EvenToned": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 60127,
+      "file_name": "HPFSV EvenToned-18637-1-0.7z",
+      "mod_id": 18637,
+      "hash": "sha256-wEA6YkK8b9s3zqGvU/Ttm5cLrpkffSleG0MGBJTFYxc="
+    }
+  },
+  "HPFSV ElfHaughty": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 60128,
+      "file_name": "HPFSV ElfHaughty-18637-1-0.7z",
+      "mod_id": 18637,
+      "hash": "sha256-tV5OcF9WCZHyNay7Q8TqD2fFnq6CPMCDDiKqLIMZScE="
+    }
+  },
+  "HPFSV Argonian": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 60129,
+      "file_name": "HPFSV Argonian-18637-1-0.7z",
+      "mod_id": 18637,
+      "hash": "sha256-tJ0imhszfwvhz7yPiABlUrAFKlY1uaDAFu9jg80bKSo="
+    }
+  }
+}

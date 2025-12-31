@@ -1,0 +1,33 @@
+{
+  "Lock Bashing - Requiem": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0.1",
+      "file_id": 692101,
+      "file_name": "Lock Bashing - Requiem-165491-1-0-1-1764322042.zip",
+      "mod_id": 165491,
+      "hash": "sha256-VvRhKoF4giwq4ITgEpzPL9d5UudJy6agJfXPFfISLbk="
+    }
+  },
+  "Lock Bashing": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0.4",
+      "file_id": 695438,
+      "file_name": "Lock Bashing-165491-1-0-4-1765118507.zip",
+      "mod_id": 165491,
+      "hash": "sha256-hpFUD7mxyssgyuiw7LAud0OzDgACbE8F/Fj9lEavtp8="
+    },
+    "type": "primary"
+  },
+  "Lockbash Everything": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0.0",
+      "file_id": 698534,
+      "file_name": "Lockbash Everything-165491-1-0-0-1765876840.zip",
+      "mod_id": 165491,
+      "hash": "sha256-Smwk+7ZCXd43TbHPN5FKmNmDBtKzeuni8EhMZhmUUEw="
+    }
+  }
+}

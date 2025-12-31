@@ -1,0 +1,24 @@
+{
+  "Less Distracting Blowing Snow Effects 1.0": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 140954,
+      "file_name": "Less Distracting Blowing Snow Effects 1.0-36198-1-0-1589943324.7z",
+      "mod_id": 36198,
+      "hash": "sha256-ds+iR0hHjhBFFEAHjBBtHQRja4DhYO1saTHLA28F+Cw="
+    },
+    "type": "primary"
+  },
+  "Less Distracting Blowing Snow Effects 1.0 - 50 Percent": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 140987,
+      "file_name": "Less Distracting Blowing Snow Effects 1.0 - 50 Percent-36198-1-0-1589964020.7z",
+      "mod_id": 36198,
+      "hash": "sha256-6oeo6UhcOdyT377WCwzIonDGyQ2VuSHP0SZ675URWYw="
+    },
+    "type": "primary"
+  }
+}

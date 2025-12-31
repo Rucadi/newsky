@@ -1,0 +1,24 @@
+{
+  "Swiftly Order Squad - Simple Replacer": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 674122,
+      "file_name": "Swiftly Order Squad - Simple Replacer-161152-1-0-1760068020.7z",
+      "mod_id": 161152,
+      "hash": "sha256-15FVKRDol4f98+/F6K0giYjQaS94wNkUKmQHVW2pJFk="
+    },
+    "type": "primary"
+  },
+  "Follower Stats - Simple Replacer": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1",
+      "file_id": 683217,
+      "file_name": "Follower Stats - Simple Replacer-161152-1-1-1762140891.7z",
+      "mod_id": 161152,
+      "hash": "sha256-b4x62DlTA2bWpi4nGrXIF0gimLg9uU8ndfwnJeCsRGc="
+    },
+    "type": "primary"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "Dovahkiin's Vault SSE": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0.0",
+      "file_id": 169793,
+      "file_name": "Dovahkiin's Vault SSE-42237-1-0-0-1605211688.7z",
+      "mod_id": 42237,
+      "hash": "sha256-xXTdIS+vToaBWtlD88U4XURgMoPSgceawYhW1Qn8EYI="
+    },
+    "type": "primary"
+  },
+  "Dovahkiins Vault COMPATIBILITY VERSION": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0.0",
+      "file_id": 194058,
+      "file_name": "Dovahkiins Vault COMPATIBILITY VERSION-42237-1-0-0-1616906238.7z",
+      "mod_id": 42237,
+      "hash": "sha256-KE6LkNOBcOohtasyiqnUY79kdY/iThRBz88AOG85/e0="
+    }
+  }
+}

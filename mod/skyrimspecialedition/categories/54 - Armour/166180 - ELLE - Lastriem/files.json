@@ -1,0 +1,23 @@
+{
+  "Lastriem - 3BA": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1",
+      "file_id": 694607,
+      "file_name": "Lastriem - 3BA-166180-1-1764929018.rar",
+      "mod_id": 166180,
+      "hash": "sha256-RuQt7Z6CTp2VUpNymhMy+D3/a7qkY9OIvpBrRB/7Ezg="
+    },
+    "type": "primary"
+  },
+  "Lastriem - UBE": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1",
+      "file_id": 694608,
+      "file_name": "Lastriem - UBE-166180-1-1764929036.rar",
+      "mod_id": 166180,
+      "hash": "sha256-QFNBeJyvWSsefcxJ/CL40SpWVC0SbwxdQIniKJ0f5Ks="
+    }
+  }
+}

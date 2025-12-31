@@ -2,6 +2,8 @@
 - Author: Karandra
 - Game: skyrimspecialedition
 - Mod Page: https://www.nexusmods.com/skyrimspecialedition/mods/18860
+
+
 [Skyrim LE](https://www.nexusmods.com/skyrim/mods/92725)﻿ | [Skyrim SE](https://www.nexusmods.com/skyrimspecialedition/mods/18860/)﻿ | [Fallout 4](https://www.nexusmods.com/fallout4/mods/33947) | [GitHub](https://github.com/Karandra/PrivateProfileRedirector)﻿﻿
 
   

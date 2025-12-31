@@ -1,0 +1,45 @@
+{
+  "Stormhold Warrior Armor - 3BBB": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.2",
+      "file_id": 172539,
+      "file_name": "Stormhold Warrior Armor - 3BBB-38866-1-2-1606841967.7z",
+      "mod_id": 38866,
+      "hash": "sha256-qO2elMz2iAKJRJ13a1T1P/hXL7zX96hDpOQfV97UwlU="
+    },
+    "type": "primary"
+  },
+  "Stormhold Warrior Armor - BHUNP": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.2",
+      "file_id": 172541,
+      "file_name": "Stormhold Warrior Armor - BHUNP-38866-1-2-1606842031.7z",
+      "mod_id": 38866,
+      "hash": "sha256-/j/OPwGnMUSg2NnLf9I9znBZekcx6Zqc7ka7RRAKkG4="
+    },
+    "type": "primary"
+  },
+  "Stormhold Warrior Armor - CBBE": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.2",
+      "file_id": 172542,
+      "file_name": "Stormhold Warrior Armor - CBBE-38866-1-2-1606842087.7z",
+      "mod_id": 38866,
+      "hash": "sha256-kVnX2UwTIFgGHi/zslrCUtEeHfcvzSYm6vcb2EVbfTo="
+    },
+    "type": "primary"
+  },
+  "Daring Stormhold Warrior ESPFE": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 172697,
+      "file_name": "Daring Stormhold Warrior ESPFE-38866-1-0-1606896548.7z",
+      "mod_id": 38866,
+      "hash": "sha256-TufQV06pCFOBlgj8p5RqJBeg4CchPzV6t36+5Yp0nME="
+    }
+  }
+}

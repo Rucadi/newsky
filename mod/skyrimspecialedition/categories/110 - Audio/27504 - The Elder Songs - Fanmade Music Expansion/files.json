@@ -1,0 +1,33 @@
+{
+  "The Elder Songs - Complete": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "3.1.2",
+      "file_id": 154208,
+      "file_name": "The Elder Songs - Complete-27504-3-1-2-1596799977.7z",
+      "mod_id": 27504,
+      "hash": "sha256-DceHrqRcUomi/pCEz8HIY8UUG4Zg+X1wFxPFBSAX9mk="
+    },
+    "type": "primary"
+  },
+  "TES - Symphonic Soundtrack Merged Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1",
+      "file_id": 158033,
+      "file_name": "TES - Symphonic Soundtrack Merged Patch-27504-1-1598625260.7z",
+      "mod_id": 27504,
+      "hash": "sha256-fd81ELNwG9XpnFHbJ3a1GK23u/Mi89f0+cR8CuZAlsQ="
+    }
+  },
+  "TES_CII-ML-TND-ATF-HL-MOC-S": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1",
+      "file_id": 196631,
+      "file_name": "TES_CII-ML-TND-ATF-HL-MOC-S-27504-1-1617794933.7z",
+      "mod_id": 27504,
+      "hash": "sha256-0hiszWwAxTseq4bCTqB22AFqEvSfIKokMJXnG0a4YQ0="
+    }
+  }
+}

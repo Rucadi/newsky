@@ -1,0 +1,23 @@
+{
+  "Chooey's Beards of Power SMP Edit": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1.0",
+      "file_id": 692635,
+      "file_name": "Chooey's Beards of Power SMP Edit-162171-1-1-0-1764457491.7z",
+      "mod_id": 162171,
+      "hash": "sha256-8L06Eir3oHdQV7JV5t9bI0Ab6hEBrK6jLdK4VuvdgZU="
+    },
+    "type": "primary"
+  },
+  "Chooey's Beards of Power SMP Edit - Homebrew": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0.0",
+      "file_id": 692636,
+      "file_name": "Chooey's Beards of Power SMP Edit - Homebrew-162171-1-0-0-1764457557.7z",
+      "mod_id": 162171,
+      "hash": "sha256-uRJgqKNH25lf0kLgUBugQ6dUXWdGA4ZqIr590/ziSw4="
+    }
+  }
+}

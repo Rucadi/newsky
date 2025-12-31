@@ -1,0 +1,23 @@
+{
+  "PaladinArtifactsAndArmor_V3.1": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "3.1",
+      "file_id": 58272,
+      "file_name": "PaladinArtifactsAndArmor_V3.1-16199-3-1.7z",
+      "mod_id": 16199,
+      "hash": "sha256-Yh67gduOMkbyQqDjmvJ+4WXRp2eQt224wYq+FcgBmQQ="
+    },
+    "type": "primary"
+  },
+  "Paladin Armor  - BHUNP Conversion": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "3.1",
+      "file_id": 181177,
+      "file_name": "Paladin Armor  - BHUNP Conversion-16199-3-1-1611368470.zip",
+      "mod_id": 16199,
+      "hash": "sha256-Nig57y59nEwyiFRQKy+pYeLHLXVudVkh863xUG7J47Y="
+    }
+  }
+}

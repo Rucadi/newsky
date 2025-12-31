@@ -1,0 +1,23 @@
+{
+  "CS Soul Fragments to Soul Gems - Esp-Lite Version": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "2.0",
+      "file_id": 133704,
+      "file_name": "CS Soul Fragments to Soul Gems - Esp-Lite Version-2222-2-0-1586636901.zip",
+      "mod_id": 2222,
+      "hash": "sha256-b4aDJiotyM8p4LzgjSiSTVY9po/XjZ+idjrAtUHvx3k="
+    },
+    "type": "primary"
+  },
+  "CC Arcane Archer Pack Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 577364,
+      "file_name": "CC Arcane Archer Pack Patch-2222-1-0-1735483682.rar",
+      "mod_id": 2222,
+      "hash": "sha256-pyUXGUGq3g4vcZSjshnqJriul5YQcDeCZ7+61eVi/4Q="
+    }
+  }
+}

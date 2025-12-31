@@ -1,0 +1,33 @@
+{
+  "Daedric Reaper - Themes Pack": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "2.01",
+      "file_id": 8368,
+      "file_name": "Daedric Reaper - Themes Pack-4372-1-0.7z",
+      "mod_id": 4372,
+      "hash": "sha256-ZHiVI3soyIow2idbPehlz+1xl4mpx09InRylGPXLXgY="
+    }
+  },
+  "Daedric Reaper - Simple Crafting": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "2.01",
+      "file_id": 8369,
+      "file_name": "Daedric Reaper - Simple Crafting-4372-1-0.7z",
+      "mod_id": 4372,
+      "hash": "sha256-Ik5uKznRXdHHqpr/MZpOgER2oektISOh+29gjqb0Y9w="
+    }
+  },
+  "Daedric Reaper": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "2.01",
+      "file_id": 89724,
+      "file_name": "Daedric Reaper-4372-2-01-1556250578.7z",
+      "mod_id": 4372,
+      "hash": "sha256-YvQVYCeFhKfBix/uoh/y551QPg+Pk5KkTQG8zJjYsVE="
+    },
+    "type": "primary"
+  }
+}

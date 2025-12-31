@@ -1,0 +1,44 @@
+{
+  "Alternative sleeping idle animations": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 257698,
+      "file_name": "Gotobed-ae-animations-4224-1-0-1642521296.7z",
+      "mod_id": 4224,
+      "hash": "sha256-vuSOIMUFYXvrzR6wU87qn18c60XZDCy8JjQvC5B5xbs="
+    }
+  },
+  "Patches": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 279199,
+      "file_name": "Gotobed-se-patches-4224-1-0-1650734965.7z",
+      "mod_id": 4224,
+      "hash": "sha256-zHgZZR9vL3JsOhOiS4DbZxaAC0W2n6HB9lpQSwH3E04="
+    }
+  },
+  "Gotobed": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "2.0.7",
+      "file_id": 348265,
+      "file_name": "Gotobed-se-4224-2-0-7-1673335793.7z",
+      "mod_id": 4224,
+      "hash": "sha256-9HUERgesFneH30gSdJfIef6nfDRpTWN7frHmKc3OlOM="
+    },
+    "type": "primary"
+  },
+  "Gotobed Lite": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "2.0.7",
+      "file_id": 348284,
+      "file_name": "Gotobed-se-lite-4224-2-0-7-1673344337.7z",
+      "mod_id": 4224,
+      "hash": "sha256-1daxymFPkxhpZ3lar/o0FGpmzlaiF+soSSRMu7imFMQ="
+    },
+    "type": "primary"
+  }
+}

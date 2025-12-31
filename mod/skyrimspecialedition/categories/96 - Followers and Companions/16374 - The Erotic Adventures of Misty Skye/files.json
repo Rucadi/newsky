@@ -1,0 +1,33 @@
+{
+  "Misty's Hair Salon - stand-alone equippable hairdos": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "H1",
+      "file_id": 56982,
+      "file_name": "Misty's Hair Salon - stand-alone equippable hairdos-16374-H1.7z",
+      "mod_id": 16374,
+      "hash": "sha256-Rt4CIZc1S1b0hY+SBuNpHUUekoI8yunxRBbzsdue22E="
+    }
+  },
+  "Misty Skye 5.3b SMP Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "5.3b",
+      "file_id": 78386,
+      "file_name": "Misty Skye 5.3b SMP Patch-16374-5-3b-1547529879.7z",
+      "mod_id": 16374,
+      "hash": "sha256-asbYe2BqaDspfjsSyAmKFYz5hwXWAcXy3vDhUKl7Ydo="
+    }
+  },
+  "The Erotic Adventures of Misty Skye 7.2 SSE": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "7.2",
+      "file_id": 489959,
+      "file_name": "The Erotic Adventures of Misty Skye 7.2 SSE-16374-7-2-1712938628.7z",
+      "mod_id": 16374,
+      "hash": "sha256-s9JnywLEtHrpkUdc8ZXhlsyVmtFJJLm1TZIeq2zoiuc="
+    },
+    "type": "primary"
+  }
+}

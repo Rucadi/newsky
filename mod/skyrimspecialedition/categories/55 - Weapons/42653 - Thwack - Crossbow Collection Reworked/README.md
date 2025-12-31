@@ -2,6 +2,8 @@
 - Author: Tate Taylor and VictorF
 - Game: skyrimspecialedition
 - Mod Page: https://www.nexusmods.com/skyrimspecialedition/mods/42653
+
+
 ﻿﻿﻿﻿[size=3]![](https://raw.githubusercontent.com/PierreDespereaux/PierreDespereaux/master/assets/images/banners/Thwack!.png)[/size]﻿
   
 Also available on [Bethesda.net](https://creations.bethesda.net/en/skyrim/details/26372/Thwack____Crossbow_Collection_Reworked)﻿﻿﻿.

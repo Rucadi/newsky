@@ -1,0 +1,23 @@
+{
+  "Use Special Markers": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 124694,
+      "file_name": "Use Special Markers-32748-1-0-1582083931.zip",
+      "mod_id": 32748,
+      "hash": "sha256-H15qHsQgeQD+pNc39Tz4qV7gu13TgSFL0MfP00oq7xU="
+    },
+    "type": "primary"
+  },
+  "Green squares fix": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1",
+      "file_id": 378081,
+      "file_name": "Loose-32748-2-1681445245.zip",
+      "mod_id": 32748,
+      "hash": "sha256-/DRVjJzg9SeWqW6mj3kEiEWID60pd9UkfJfhmj/6q6U="
+    }
+  }
+}

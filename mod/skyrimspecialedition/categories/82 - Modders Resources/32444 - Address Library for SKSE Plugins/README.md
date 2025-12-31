@@ -2,6 +2,8 @@
 - Author: meh321
 - Game: skyrimspecialedition
 - Mod Page: https://www.nexusmods.com/skyrimspecialedition/mods/32444
+
+
 **IMPORTANT!** This is now split into 2 versions: Special Edition (1.5.x) and Anniversary Edition (1.6.x). The IDs that point to addresses will not match between those 2 versions (the game executable is too different to match, and even if they matched the code within those functions is different anyway).
   
   

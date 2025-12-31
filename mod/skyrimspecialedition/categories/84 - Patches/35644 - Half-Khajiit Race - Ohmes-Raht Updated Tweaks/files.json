@@ -1,0 +1,23 @@
+{
+  "HKR - Ohmes-Raht Tweaks": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "2.10",
+      "file_id": 392283,
+      "file_name": "Half-Khajiit Race - Ohmes-Raht Tweaks-35644-2-10-1685173169.7z",
+      "mod_id": 35644,
+      "hash": "sha256-T7FAMhfV48ZgQi383SnUOsnN2MwNhfBoMrJxm8PaE7c="
+    },
+    "type": "primary"
+  },
+  "HKR Tweaks - High Poly Vamp Fix": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "2.11",
+      "file_id": 392458,
+      "file_name": "HKR Updated Tweaks - High Poly Vamp Fix-35644-2-11-1685211304.7z",
+      "mod_id": 35644,
+      "hash": "sha256-LnZ5ZmTYqsRRCB362igGYIhrwLtvpSlwL/7zSTmq1a4="
+    }
+  }
+}

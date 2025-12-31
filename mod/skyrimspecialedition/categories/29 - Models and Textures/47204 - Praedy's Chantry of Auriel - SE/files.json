@@ -1,0 +1,22 @@
+{
+  "Praedy's Chantry of Auriel AIO 4K": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "3.0",
+      "file_id": 546030,
+      "file_name": "Praedy's Chantry of Auriel AIO 4K-47204-3-0-1727282405.7z",
+      "mod_id": 47204
+    },
+    "type": "primary"
+  },
+  "Praedy's Chantry of Auriel AIO 2K": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "3.0",
+      "file_id": 546031,
+      "file_name": "Praedy's Chantry of Auriel AIO 2K-47204-3-0-1727282542.7z",
+      "mod_id": 47204
+    },
+    "type": "primary"
+  }
+}

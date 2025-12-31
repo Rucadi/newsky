@@ -1,0 +1,23 @@
+{
+  "Ricochet Framework - MCM menu": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "MCM-01",
+      "file_id": 673094,
+      "file_name": "Ricochet Framework - MCM menu-160603-MCM-01-1759803305.zip",
+      "mod_id": 160603,
+      "hash": "sha256-Kl5aivAAfFkziqch9b0la6FVqoNlLlpFmBklUCpJFcg="
+    }
+  },
+  "Ricochet Framework - Latest Version": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0.2",
+      "file_id": 674817,
+      "file_name": "Ricochet Framework - Latest Version-160603-1-0-2-1760215403.zip",
+      "mod_id": 160603,
+      "hash": "sha256-MIxUJdXm+HvOPK5gOxa+lBLP/8w2t5pnbsZcjH31o4k="
+    },
+    "type": "primary"
+  }
+}

@@ -1,12 +1,13 @@
 {
-    "Northern Knight - Armor Mashup": {
-        "nexusmods": {
-            "game_name": "skyrimspecialedition",
-            "version": "1.4",
-            "file_id": 670913,
-            "file_name": "Northern Knight - Armor Mashup-159809-1-4-1759264756.7z",
-            "mod_id": 159809
-        },
-        "type": "primary"
-    }
+  "Northern Knight - Armor Mashup": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.4",
+      "file_id": 670913,
+      "file_name": "Northern Knight - Armor Mashup-159809-1-4-1759264756.7z",
+      "mod_id": 159809,
+      "hash": "sha256-h8KZMEkQq0kVKZKxnXNYx+yDDyHEXMUh/rMVe4J4c3E="
+    },
+    "type": "primary"
+  }
 }

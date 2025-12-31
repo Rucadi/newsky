@@ -1,46 +1,46 @@
 {
-  "PrivateProfileRedirector AE 0.6.2 (RT 1.6.1170)": {
-    "nexusmods": {
-      "game_name": "skyrimspecialedition",
-      "version": "0.6.2",
-      "file_id": 548084,
-      "file_name": "PrivateProfileRedirector AE 0.6.2 (RT 1.6.1170)-18860-0-6-2-1727798544.zip",
-      "mod_id": 18860,
-      "hash": "sha256-uM1lv0OeJ95DsQQ7SFoZyeGXix4Fh91qLCjL75LZJQ4="
+    "PrivateProfileRedirector AE 0.6.2 (RT 1.6.1170)": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "0.6.2",
+            "file_id": 548084,
+            "file_name": "PrivateProfileRedirector AE 0.6.2 (RT 1.6.1170)-18860-0-6-2-1727798544.zip",
+            "mod_id": 18860,
+            "hash": "sha256-uM1lv0OeJ95DsQQ7SFoZyeGXix4Fh91qLCjL75LZJQ4="
+        },
+        "type": "primary"
     },
-    "type": "primary"
-  },
-  "PrivateProfileRedirector AE 0.6.2 (RT 1.6.1179)": {
-    "nexusmods": {
-      "game_name": "skyrimspecialedition",
-      "version": "0.6.2",
-      "file_id": 548085,
-      "file_name": "PrivateProfileRedirector AE 0.6.2 (RT 1.6.1179)-18860-0-6-2-1727798666.zip",
-      "mod_id": 18860,
-      "hash": "sha256-6LhbCa+tuHgeiCNolSN6XoWp0ZyOQqAwnkznRYuEeoY="
+    "PrivateProfileRedirector AE 0.6.2 (RT 1.6.1179)": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "0.6.2",
+            "file_id": 548085,
+            "file_name": "PrivateProfileRedirector AE 0.6.2 (RT 1.6.1179)-18860-0-6-2-1727798666.zip",
+            "mod_id": 18860,
+            "hash": "sha256-6LhbCa+tuHgeiCNolSN6XoWp0ZyOQqAwnkznRYuEeoY="
+        },
+        "type": "primary"
     },
-    "type": "primary"
-  },
-  "PrivateProfileRedirector SE 0.6.2 (Runtime 1.5.97)": {
-    "nexusmods": {
-      "game_name": "skyrimspecialedition",
-      "version": "0.6.2",
-      "file_id": 548086,
-      "file_name": "PrivateProfileRedirector SE 0.6.2 (Runtime 1.5.97)-18860-0-6-2-1727798707.zip",
-      "mod_id": 18860,
-      "hash": "sha256-vM7/r9DMaPjkveN2eMli2butSvY9fHGYyHUeLldVr5k="
+    "PrivateProfileRedirector SE 0.6.2 (Runtime 1.5.97)": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "0.6.2",
+            "file_id": 548086,
+            "file_name": "PrivateProfileRedirector SE 0.6.2 (Runtime 1.5.97)-18860-0-6-2-1727798707.zip",
+            "mod_id": 18860,
+            "hash": "sha256-vM7/r9DMaPjkveN2eMli2butSvY9fHGYyHUeLldVr5k="
+        },
+        "type": "primary"
     },
-    "type": "primary"
-  },
-  "PrivateProfileRedirector VR 0.6.2 (Runtime 1.4.15)": {
-    "nexusmods": {
-      "game_name": "skyrimspecialedition",
-      "version": "0.6.2",
-      "file_id": 548087,
-      "file_name": "PrivateProfileRedirector VR 0.6.2 (Runtime 1.4.15)-18860-0-6-2-1727798816.zip",
-      "mod_id": 18860,
-      "hash": "sha256-Sxvpy1C1/JcQ1yUd/r0sBMgEN4IDFQ81/K2P4gxvEs8="
-    },
-    "type": "primary"
-  }
+    "PrivateProfileRedirector VR 0.6.2 (Runtime 1.4.15)": {
+        "nexusmods": {
+            "game_name": "skyrimspecialedition",
+            "version": "0.6.2",
+            "file_id": 548087,
+            "file_name": "PrivateProfileRedirector VR 0.6.2 (Runtime 1.4.15)-18860-0-6-2-1727798816.zip",
+            "mod_id": 18860,
+            "hash": "sha256-Sxvpy1C1/JcQ1yUd/r0sBMgEN4IDFQ81/K2P4gxvEs8="
+        },
+        "type": "primary"
+    }
 }

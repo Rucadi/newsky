@@ -1,0 +1,23 @@
+{
+  "Atlas Map Markers v2 - Updated CoMAP Config": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "2.7.1",
+      "file_id": 582739,
+      "file_name": "Atlas Map Markers v2 - Updated CoMAP Config-24104-2-7-1-1736732406.7z",
+      "mod_id": 24104,
+      "hash": "sha256-XW+jzyCTrtTacADAl7Atusrayc/LTy8I4peTnH3S9Rg="
+    }
+  },
+  "Atlas Map Markers": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "3.0.4",
+      "file_id": 609074,
+      "file_name": "Atlas Map Markers-24104-3-0-4-1742779005.7z",
+      "mod_id": 24104,
+      "hash": "sha256-bpR01q6qWmFfY42xKYPLm+jP1wxaYQIjPjBwuk73grA="
+    },
+    "type": "primary"
+  }
+}

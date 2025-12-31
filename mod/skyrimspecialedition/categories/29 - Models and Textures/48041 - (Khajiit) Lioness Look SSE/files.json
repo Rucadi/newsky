@@ -1,0 +1,200 @@
+{
+  "(Khajiit) Lioness Look SSE UNP": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 195765,
+      "file_name": "(Khajiit) Lioness Look SSE UNP-48041-1-0-1617480138.7z",
+      "mod_id": 48041,
+      "hash": "sha256-r13s9G5Uky0mq1Wye0SswOmZKCmd9J6sBNfFV2g/gbg="
+    },
+    "type": "primary"
+  },
+  "Khajiit Overhaul Digitigrade and Plantigrade Feet Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 197037,
+      "file_name": "Khajiit Overhaul Digitigrade Feet Patch-48041-1-0-1617954999.7z",
+      "mod_id": 48041,
+      "hash": "sha256-bLFo+k8hr/CuZJWYCIvIT7jmX2zgVZTIMAMa4QoPFB8="
+    }
+  },
+  "Pink Nose Vanilla": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 197189,
+      "file_name": "Khajiit Pink Nose-48041-1-0-1618019383.7z",
+      "mod_id": 48041,
+      "hash": "sha256-1pV+VuM+k58+uoNyY/6BGvKfMnzdW1ZeqRG2TeE7FKg="
+    }
+  },
+  "UNP 2K Version": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 200870,
+      "file_name": "UNP 2K Version-48041-1-0-1619747461.7z",
+      "mod_id": 48041,
+      "hash": "sha256-1SSK/dXikrFS9KscF0GcqN+7hW4JFH3M4swnt/NopoE="
+    }
+  },
+  "CBBE 2K version": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1",
+      "file_id": 201928,
+      "file_name": "CBBE 2K version-48041-1-1-1620267229.7z",
+      "mod_id": 48041,
+      "hash": "sha256-bFM1dt366v1B9fY8UUJYV+PNtVQTTeOMCXza9qanIDw="
+    }
+  },
+  "(Khajiit) Lioness Look SSE CBBE": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.1",
+      "file_id": 201933,
+      "file_name": "(Khajiit) Lioness Look SSE CBBE-48041-1-1-1620268829.7z",
+      "mod_id": 48041
+    },
+    "type": "primary"
+  },
+  "(Khajiit) Lioness Look SSE CBBE Textures Only": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 203925,
+      "file_name": "(Khajiit) Lioness Look SSE CBBE My Edit-48041-1-0-1621209330.7z",
+      "mod_id": 48041
+    },
+    "type": "primary"
+  },
+  "(Khajiit) Lioness Look SSE UNP Textures Only": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 203926,
+      "file_name": "(Khajiit) Lioness Look SSE UNP My Edit-48041-1-0-1621209465.7z",
+      "mod_id": 48041
+    },
+    "type": "primary"
+  },
+  "CBBE 2K version Textures Only": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 203927,
+      "file_name": "CBBE 2K version My Edit-48041-1-0-1621209551.7z",
+      "mod_id": 48041
+    }
+  },
+  "UNP 2K Version Textures Only": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 203928,
+      "file_name": "UNP 2K Version My Edit-48041-1-0-1621209640.7z",
+      "mod_id": 48041
+    }
+  },
+  "SOS Addon - Futanari CBBE Patch for Lioness": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 211831,
+      "file_name": "SOS Addon - Futanari CBBE Patch for Lioness-48041-1-0-1625014571.rar",
+      "mod_id": 48041
+    }
+  },
+  "Khajiit Paws Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 370603,
+      "file_name": "Khajiit Paws Patch-48041-1-0-1679381203.7z",
+      "mod_id": 48041
+    }
+  },
+  "Khajiit Paws Patch Grey Pads": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 370604,
+      "file_name": "Khajiit Paws Patch Grey Pads-48041-1-0-1679381281.7z",
+      "mod_id": 48041
+    }
+  },
+  "Pink Nose Khajiit Overhaul": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 432173,
+      "file_name": "Pink Nose Khajiit Overhaul-48041-1-0-1696742287.7z",
+      "mod_id": 48041
+    }
+  },
+  "Alternate Normal maps CBBE": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 515292,
+      "file_name": "Alternate Normal maps CBBE-48041-1-0-1719468402.7z",
+      "mod_id": 48041
+    }
+  },
+  "Alternate Normal maps UNP": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 515293,
+      "file_name": "Alternate Normal maps UNP-48041-1-0-1719468612.7z",
+      "mod_id": 48041
+    }
+  },
+  "Khajiit Paw Black Nails version Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 570640,
+      "file_name": "Khajiit Paw Black Nails version Patch-48041-1-0-1733735622.7z",
+      "mod_id": 48041
+    }
+  },
+  "Khajiit Paw Black Nails and Pads Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 570641,
+      "file_name": "Khajiit Paw Black Nails and Pads Patch-48041-1-0-1733735699.7z",
+      "mod_id": 48041
+    }
+  },
+  "Khajiit-yllux Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 654024,
+      "file_name": "Khajiit-yllux Patch-48041-1-0-1754721443.7z",
+      "mod_id": 48041
+    }
+  },
+  "Less Shiny Textures": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "2",
+      "file_id": 676879,
+      "file_name": "Less Shiny Textures-48041-2-1760679154.7z",
+      "mod_id": 48041
+    }
+  },
+  "Fluffy HDT tail patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 702510,
+      "file_name": "Fluffy HDT tail patch-48041-1-0-1766832707.7z",
+      "mod_id": 48041
+    }
+  }
+}

@@ -1,0 +1,63 @@
+{
+  "More Hearthfire Building Materials From Ingots - x2 - Version 1.0": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 77308,
+      "file_name": "More Hearthfire Building Materials From Ingots - x2 - Version 1.0-22375-1-0-1546703780.zip",
+      "mod_id": 22375,
+      "hash": "sha256-NPYtui9ckuF07cepf75HSpqnmwhjF65jaBgIyBysOWQ="
+    },
+    "type": "primary"
+  },
+  "More Hearthfire Building Materials From Ingots - x3 - Version 1.0": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 77309,
+      "file_name": "More Hearthfire Building Materials From Ingots - x3 - Version 1.0-22375-1-0-1546703816.zip",
+      "mod_id": 22375,
+      "hash": "sha256-TX2m9pCXEuceAnRxvJ60BKgvqn71GuqWAyv37AMeOQ8="
+    }
+  },
+  "More Hearthfire Building Materials From Ingots - x4 - Version 1.0": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 77310,
+      "file_name": "More Hearthfire Building Materials From Ingots - x4 - Version 1.0-22375-1-0-1546703856.zip",
+      "mod_id": 22375,
+      "hash": "sha256-9GB+Mf7Rm4tcDpK44AYukrxD41oCPOoS5ESUlEqQW2g="
+    }
+  },
+  "More Hearthfire Building Materials From Ingots - x2 - ESPFE - Version 1.0": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 78805,
+      "file_name": "More Hearthfire Building Materials From Ingots - x2 - ESPFE - Version 1.0-22375-1-0-1547850853.zip",
+      "mod_id": 22375,
+      "hash": "sha256-jNzIq4p8bkzkmz3dx1GTMNH2J8ZcovHqILa+EpckfDQ="
+    }
+  },
+  "More Hearthfire Building Materials From Ingots - x3 - ESPFE - Version 1.0": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 78806,
+      "file_name": "More Hearthfire Building Materials From Ingots - x3 - ESPFE - Version 1.0-22375-1-0-1547850904.zip",
+      "mod_id": 22375,
+      "hash": "sha256-VkGhtWHJKK0uE51WdmWUg4JBckWQXGhwCRXFxoeDyvc="
+    }
+  },
+  "More Hearthfire Building Materials From Ingots - x4 - ESPFE - Version 1.0": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 78807,
+      "file_name": "More Hearthfire Building Materials From Ingots - x4 - ESPFE - Version 1.0-22375-1-0-1547850945.zip",
+      "mod_id": 22375,
+      "hash": "sha256-0oBUK8fS9AT11O53Sk3heN90HgSBOvXG/nJEkEH4Wo8="
+    }
+  }
+}

@@ -2,6 +2,8 @@
 - Author: SomethingObscure
 - Game: skyrimspecialedition
 - Mod Page: https://www.nexusmods.com/skyrimspecialedition/mods/19550
+
+
 ![](https://staticdelivery.nexusmods.com/mods/1704/images/23217/23217-1549521914-1148526703.png)
   
 ﻿Some things always bugged me about the quest to find our lone Argonian follower.  For one thing, when you find him, the key to his cell is ... inside his cell.  For another, you're given almost no information to work with other than something about a waterfall, and this information isn't kept in your journal.  [Even Better Quest Objectives](https://www.nexusmods.com/skyrimspecialedition/mods/159)﻿ tries to fix this, but as the quest is filed under Misc in your journal, all of the additional information can never be seen.  Finally, the dialog accompanying it is fairly sparse. Derkeethus doesn't seem particularly enthused about being rescued and segues into being your follower with nary a chat.
