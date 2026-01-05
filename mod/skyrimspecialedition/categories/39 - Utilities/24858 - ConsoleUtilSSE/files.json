@@ -1,0 +1,23 @@
+{
+  "ConsoleUtilSSE": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.4.0",
+      "file_id": 324120,
+      "file_name": "ConsoleUtilSSE-24858-1-4-0-1665802090.zip",
+      "mod_id": 24858,
+      "hash": "sha256-8f3tj6jT2/JsAlwVtM51CwZrG0YsEJD/ak+DvOR8jq0="
+    },
+    "type": "primary"
+  },
+  "Papyrus API": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.4.0",
+      "file_id": 324123,
+      "file_name": "Papyrus API-24858-1-4-0-1665802366.zip",
+      "mod_id": 24858,
+      "hash": "sha256-8MD36ZzDuW0fZ4Wy1uok6Sga8juBZ5sAjHxEN6obaqs="
+    }
+  }
+}
