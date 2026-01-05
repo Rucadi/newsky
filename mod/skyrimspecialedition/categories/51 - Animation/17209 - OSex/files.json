@@ -1,0 +1,24 @@
+{
+  "OSex-Plus Preview1": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "0000",
+      "file_id": 260389,
+      "file_name": "OSex-Plus Preview1-17209-0000-1643505183.zip",
+      "mod_id": 17209,
+      "hash": "sha256-H5Tt/ayEgV6CYwcL8vXk3/bTzlFgG/NdbvDZzAfGsrI="
+    },
+    "type": "primary"
+  },
+  "OSex Vanilla AE SE": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "0003",
+      "file_id": 261631,
+      "file_name": "OSex Vanilla AE SE-17209-0003-1643951075.zip",
+      "mod_id": 17209,
+      "hash": "sha256-1vVWBHNH8Rb+6W75kqEHU1GItwbpZz2N+cbBYPbulms="
+    },
+    "type": "primary"
+  }
+}

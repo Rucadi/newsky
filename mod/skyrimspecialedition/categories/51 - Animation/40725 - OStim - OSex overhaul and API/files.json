@@ -1,0 +1,34 @@
+{
+  "OStim 5.4": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "5.4",
+      "file_id": 242576,
+      "file_name": "OStim-40725-5-4-1637290701.zip",
+      "mod_id": 40725,
+      "hash": "sha256-dg+XBhScsb75V0txBX99tN96mupXFNgnBYvR6ewuhs8="
+    },
+    "type": "primary"
+  },
+  "OStim 5.7": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "5.7",
+      "file_id": 318004,
+      "file_name": "OStim-40725-5-7-1663696032.zip",
+      "mod_id": 40725,
+      "hash": "sha256-roZ3cGSaydOfeZW4voBKDT7oZO8IlE8mw/BZyFocnlE="
+    },
+    "type": "primary"
+  },
+  "Improved Camera OStim configuration": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "5",
+      "file_id": 322322,
+      "file_name": "Improved Camera OStim configuration-40725-5-1665177372.7z",
+      "mod_id": 40725,
+      "hash": "sha256-xy6y35HlbrhJCkgAC23zGWQzNYM5DZ5XjKNUz9BwZdI="
+    }
+  }
+}

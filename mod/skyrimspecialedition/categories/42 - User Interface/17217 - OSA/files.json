@@ -1,0 +1,34 @@
+{
+  "SkyLife": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 54569,
+      "file_name": "SkyLife-17217-1-0.zip",
+      "mod_id": 17217,
+      "hash": "sha256-HAhglurZGQEjX7BS7SDiKqkhUeZSMqyR6Nl4FzNjiNM="
+    }
+  },
+  "OSA-Plus Preview 1": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "0002",
+      "file_id": 260394,
+      "file_name": "OSA-Plus Preview 1-17217-0002-1643507466.zip",
+      "mod_id": 17217,
+      "hash": "sha256-gMlEDbevTAnrppymN8wSf7sjX9h7a1QQcwL2pEmgNiw="
+    },
+    "type": "primary"
+  },
+  "OSA by Ceo SE AE": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "0011",
+      "file_id": 261791,
+      "file_name": "OSA by Ceo SE AE-17217-0011-1644012449.zip",
+      "mod_id": 17217,
+      "hash": "sha256-QzaXS63XcUYQvOoURo3bG2hPQnGos/AkdkPZXcbSqA0="
+    },
+    "type": "primary"
+  }
+}
