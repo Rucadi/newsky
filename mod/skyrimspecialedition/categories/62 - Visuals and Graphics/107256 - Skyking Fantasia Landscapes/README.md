@@ -1,4 +1,4 @@
-# Fantasia Landscapes
+# Skyking Fantasia Landscapes
 - Author: Skyking2020
 - Game: skyrimspecialedition
 - Mod Page: https://www.nexusmods.com/skyrimspecialedition/mods/107256

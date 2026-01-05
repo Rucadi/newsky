@@ -1,0 +1,68 @@
+{
+  "Fantasia BDS3 Patch": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.0",
+      "file_id": 487582,
+      "file_name": "Fantasia BDS3 Patch-107256-1-0-1712277302.7z",
+      "mod_id": 107256
+    }
+  },
+  "Skyking Fantasia Landscapes 1k": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.5",
+      "file_id": 639302,
+      "file_name": "Fantasia Landscapes 1k-107256-1-5-1750280873.7z",
+      "mod_id": 107256
+    },
+    "type": "primary"
+  },
+  "Skyking Fantasia Landscapes 2k": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.5",
+      "file_id": 639305,
+      "file_name": "Fantasia Landscapes 2k-107256-1-5-1750281394.7z",
+      "mod_id": 107256
+    },
+    "type": "primary"
+  },
+  "Skyking Fantasia Landscapes 4k": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.5",
+      "file_id": 639317,
+      "file_name": "Fantasia Landscapes 4k-107256-1-5-1750284024.7z",
+      "mod_id": 107256
+    },
+    "type": "primary"
+  },
+  "Fantasia Landscapes 1k Complex Parallax": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.51",
+      "file_id": 642880,
+      "file_name": "Fantasia Landscapes 1k Complex Parallax-107256-1-51-1751266433.7z",
+      "mod_id": 107256
+    }
+  },
+  "Fantasia Landscapes 2k Complex Parallax": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.51",
+      "file_id": 642881,
+      "file_name": "Fantasia Landscapes 2k Complex Parallax-107256-1-51-1751266607.7z",
+      "mod_id": 107256
+    }
+  },
+  "Fantasia Landscapes 4k Complex Parallax": {
+    "nexusmods": {
+      "game_name": "skyrimspecialedition",
+      "version": "1.51",
+      "file_id": 642884,
+      "file_name": "Fantasia Landscapes 4k Complex Parallax-107256-1-51-1751267261.7z",
+      "mod_id": 107256
+    }
+  }
+}
